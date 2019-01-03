@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 185
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 185
+
+> To repeal the Patient Protection and Affordable Care Act and the Health Care and Education Reconciliation Act of 2010.
+
+## § 1. Short title
+
+This Act may be cited as the “ObamaCare Repeal Act”.
+
+## § 2. Repeal of the Patient Protection and Affordable Care Act and the Health Care and Education Reconciliation Act of 2010
+
+- **(a)** *Patient Protection and Affordable Care Act* Effective as of the enactment of the Patient Protection and Affordable Care Act (Public Law 111–148), such Act is repealed, and the provisions of law amended or repealed by such Act are restored or revived as if such Act had not been enacted.
+- **(b)** *Health Care and Education Reconciliation Act of 2010* Effective as of the enactment of the Health Care and Education Reconciliation Act of 2010 (Public Law 111–152), such Act is repealed, and the provisions of law amended or repealed by such Act are restored or revived as if such Act had not been enacted.
