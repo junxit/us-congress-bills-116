@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 167
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 167
+
+> To prohibit the transfer of a firearm at a gun show by a person who is not a licensed dealer.
+
+## § 1. Prohibition on transfer of a firearm at a gun show by a person who is not a licensed dealer
+
+- **(a)** *In general* Section 922 of title 18, United States Code, is amended by adding at the end the following:
+  > - **(aa)**
+  >   - **(1)**
+  >     - **(A)** It shall be unlawful for a person to transfer a firearm at a gun show, unless the person is a licensed dealer.
+  >     - **(B)** Subparagraph (A) shall not apply to a transfer to a person licensed under this chapter.
+  >   - **(2)** In paragraph (1), the term gun show—
+  >     - **(A)** means an event or function—
+  >       - **(i)** held for the purpose of facilitating the commercial sale, transfer, or exchange of firearms; and
+  >       - **(ii)** at which a firearm is displayed, exhibited, offered for sale, transfer, or exchange, or sold, transferred, or exchanged; and
+  >     - **(B)** includes the entire premises, including parking areas, used to facilitate the sale, transfer, or exchange of firearms at the event or function.
+
+- **(b)** *Penalties* Section 924(a) of such title is amended by adding at the end the following:
+  > - **(8)** Whoever knowingly violates section 922(aa) shall be fined an amount equal to $10,000 multiplied by the number of firearms involved in the violation, imprisoned not less than 1 year and not more than 2 years, or both.
