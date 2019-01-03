@@ -1,0 +1,30 @@
+---
+legis-num: H.R. 111
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 111
+
+> To amend section 416 of title 39, United States Code, to remove the authority of the United States Postal Service to issue semipostals except as provided for by an Act of Congress, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Semipostal Stamp Clarification Act of 2019”.
+
+## § 2. Limitation on United States Postal Service semipostal stamp authority
+
+Section 416 of title 39, United States Code, is amended—
+
+- **(1)** by striking subsection (b) and inserting the following:
+  > - **(b)** *Limited authority* The Postal Service may issue and sell semipostals under this section only for such purposes or causes as provided for by an Act of Congress.
+
+- **(2)** in subsection (d)—
+  - **(A)** in paragraph (1)—
+    - **(i)** by striking “appropriate agency or agencies” and inserting “appropriate agency or entity, as provided for by an Act of Congress pursuant to subsection (b),”; and
+    - **(ii)** by striking “such agency” and inserting “such agency or entity”;
+  - **(B)** by striking paragraph (2); and
+  - **(C)** by redesignating paragraph (3) as paragraph (2);
+- **(3)** by striking subsection (e); and
+- **(4)** by redesignating subsections (f) and (g) as subsections (e) and (f), respectively.
