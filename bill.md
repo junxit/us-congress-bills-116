@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 182
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 182
+
+> To extend the authorization for the Cape Cod National Seashore Advisory Commission.
+
+## § 1. Cape Cod National Seashore Advisory Commission
+
+Effective September 26, 2018, section 8(a) of Public Law 87–126 (16 U.S.C. 459b–7(a)) is amended in the second sentence by striking “2018” and inserting “2028”.
