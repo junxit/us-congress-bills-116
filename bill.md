@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 115
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 115
+
+> To require the Department of State to establish a policy regarding the use of location-tracking consumer devices by employees at diplomatic and consular facilities, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Protecting Diplomats from Surveillance Through Consumer Devices Act”.
+
+## § 2. Securing United States diplomatic and consular facilities against cy­ber­sur­veil­lance
+
+- **(a)** *Policy on location-Tracking consumer devices* Not later than 60 days after the date of the enactment of this Act, the Secretary of State shall establish a policy on the use of location-tracking consumer devices, including GPS-enabled devices, at United States diplomatic and consular facilities by United States Government employees, contractors, locally employed staff, and members of other agencies deployed to or stationed at such facilities.
+- **(b)** *Security briefing* Existing and new employees at United States diplomatic and consular facilities, including contractors, locally employed staff, and members of other agencies deployed to or stationed at such facilities, shall, as a part of the security briefings provided to such employees, be informed of the policy described in subsection (a) and given instructions on the use of location-tracking consumer devices both on and off the premises of such facilities.
+- **(c)** *Coordination* The Secretary of State shall coordinate with the heads of any other agencies whose employees are deployed to or stationed at United States diplomatic and consular facilities in the formulation of the policy described in subsection (a) and the dissemination of such policy pursuant to subsection (b).
+- **(d)** *Report* Not later than 30 days after the formulation of the policy described in subsection (a), the Secretary of State shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on the details of such policy.
