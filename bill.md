@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 37
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 37
+
+> To amend the Wild and Scenic Rivers Act to designate segments of the Kissimmee River and its tributaries in the State of Florida for study for potential addition to the National Wild and Scenic Rivers System, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Kissimmee River Wild and Scenic River Study Act”.
+
+## § 2. Designation for study
+
+Section 5(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1276(a)) is amended by adding at the end the following:
+
+> - **(__)** *Kissimmee River, Florida*
+>   - **(A)** The segment from the southern shore of Lake Kissimmee to its confluence with Lake Okeechobee.
+
+## § 3. Study and report
+
+Section 5(b) of the Wild and Scenic Rivers Act (16 U.S.C. 1276(b)) is amended by adding at the end the following:
+
+> - **(__)** *Study and report* Not later than 3 years after the date of completion of the Kissimmee River restoration project by the Army Corps of Engineers and the South Florida Water Management District, the Secretary of the Interior shall complete the study of the Kissimmee River, as described in subsection (a)(_), and submit a report describing the results of that study to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
