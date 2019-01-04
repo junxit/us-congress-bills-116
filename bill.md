@@ -1,0 +1,16 @@
+---
+legis-num: H. RES. 22
+congress: 116th CONGRESS
+session: 1st Session
+chamber: In the House of Representatives, U. S.,
+---
+
+# H. RES. 22
+
+> Authorizing the Speaker to administer the oath of office.
+
+## Preamble
+
+- Whereas, Walter B. Jones, a Representative-elect from the Third District of the State of North Carolina, has been unable from illness to appear in person to be sworn as a Member of the House, and there being no contest or question as to his election: Now, therefore, be it
+
+That the Speaker, or deputy named by her, is hereby authorized to administer the oath of office to the Honorable Walter B. Jones at Farmville, North Carolina, and that such oath be accepted and received by the House as the oath of office of the Honorable Walter B. Jones.
