@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 1
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 1
@@ -24,3 +24,4 @@ Regarding consent to assemble outside the seat of government.
 - 2019-01-03 — Motion to reconsider laid on the table Agreed to without objection.
 - 2019-01-03 — On agreeing to the resolution Agreed to by voice vote. (text: CR H197)
 - 2019-01-03 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H197)
+- 2019-01-04 — Received in the Senate.
