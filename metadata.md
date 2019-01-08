@@ -1,7 +1,7 @@
 ---
 measure: H.R. 21
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 21
@@ -48,3 +48,5 @@ Consolidated Appropriations Act, 2019
 - 2019-01-03 — Referred to the Committee on Appropriations, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-01-03 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-01-03 — The previous question was ordered pursuant to the rule.
+- 2019-01-04 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2019-01-08 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 5.
