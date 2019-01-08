@@ -62,12 +62,3 @@ Section 1940 of the Social Security Act (42 U.S.C. 1396w) is amended by adding a
 ## § 5. Medicaid Improvement Fund
 
 Section 1941(b)(1) of the Social Security Act (42 U.S.C. 1396w–1(b)(1)) is amended by striking “$31,000,000” and inserting “$6,000,000”.
-
-## § 6. Budgetary Effects
-
-- **(a)** *Statutory PAYGO scorecards* The budgetary effects of this Act shall not be entered on either PAYGO scorecard maintained pursuant to section 4(d) of the Statutory Pay-As-You-Go Act of 2010 (2 U.S.C. 933(d)).
-- **(b)** *Senate PAYGO scorecards* The budgetary effects of this Act shall not be entered on any PAYGO scorecard maintained for purposes of section 4106 of H. Con. Res. 71 (115th Congress).
-- **(c)** *Classification of budgetary effects* Notwithstanding Rule 3 of the Budget Scorekeeping Guidelines set forth in the joint explanatory statement of the committee of conference accompanying Conference Report 105–217 and section 250(c)(8) of the Balanced Budget and Emergency Deficit Control Act of 1985, the budgetary effects of this Act shall not be estimated—
-  - **(1)** for purposes of section 251 of the Balanced Budget and Emergency Deficit Control Act of 1985; and
-  - **(2)** for purposes of paragraph (4)(C) of section 3 of the Statutory Pay-As-You-Go Act of 2010 as being included in an appropriation Act.
-- **(d)** *PAYGO annual report* For the purposes of the annual report issued pursuant to section 5 of the Statutory Pay-As-You-Go Act of 2010 (2 U.S.C. 934) after adjournment of the second session of the 115th Congress, and for determining whether a sequestration order is necessary under such section, the debit for the budget year on the 5-year scorecard, if any, and the 10-year scorecard, if any, shall be deducted from such scorecard in 2019 and added to such scorecard in 2020.

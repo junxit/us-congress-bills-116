@@ -1,7 +1,7 @@
 ---
 measure: H.R. 259
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 259
@@ -31,3 +31,9 @@ Medicaid Extenders Act of 2019
 - 2019-01-04 — Introduced in House
 - 2019-01-04 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-01-04 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-01-08 — Considered under suspension of the rules. (consideration: CR H234-237)
+- 2019-01-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 259.
+- 2019-01-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-01-08 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
+- 2019-01-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H235)
+- 2019-01-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H235)
