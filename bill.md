@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 314
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 314
+
+> To include Livingston County, the city of Jonesboro in Union County, and the city of Freeport in Stephenson County, Illinois, in the Lincoln National Heritage Area, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Abraham Lincoln National Heritage Area Amendment Act”.
+
+## § 2. Adjustment of boundaries of Lincoln National Heritage Area
+
+- **(a)** *Boundary adjustment* Section 443(b)(1) of the Consolidated Natural Resources Act of 2008 (Public Law 110–229; 16 U.S.C. 461 note) is amended—
+  - **(1)** by inserting “, Livingston,” after “LaSalle”; and
+  - **(2)** by inserting “, the city of Jonesboro in Union County, and the city of Freeport in Stephenson County” after “Woodford counties”.
+- **(b)** *Map* The Secretary of the Interior shall update the map referred to in section 443(b)(2) of the Consolidated Natural Resources Act of 2008 to reflect the boundary adjustment made by the amendments in subsection (a) of this section.
