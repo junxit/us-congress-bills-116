@@ -1,7 +1,7 @@
 ---
 measure: H.R. 259
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 259
@@ -37,3 +37,4 @@ Medicaid Extenders Act of 2019
 - 2019-01-08 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
 - 2019-01-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H235)
 - 2019-01-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H235)
+- 2019-01-09 — Received in the Senate, read twice.
