@@ -1,7 +1,7 @@
 ---
 measure: H.R. 128
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 128
@@ -36,3 +36,4 @@ Small Business Advocacy Improvements Act of 2019
 - 2019-01-08 — Ms. Velazquez moved to suspend the rules and pass the bill.
 - 2019-01-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H273-274)
 - 2019-01-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H273-274)
+- 2019-01-09 — Received in the Senate.
