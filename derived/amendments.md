@@ -1,7 +1,7 @@
 ---
 measure: H.R. 259
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 
