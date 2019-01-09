@@ -1,0 +1,29 @@
+---
+legis-num: S. 60
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 60
+
+> To withdraw certain National Forest System land in the Emigrant Crevice area located in the Custer Gallatin National Forest, Park County, Montana, from the mining and mineral leasing laws of the United States, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Yellowstone Gateway Protection Act”.
+
+## § 2. Withdrawal
+
+- **(a)** *Definition of map* In this section, the term map means the map entitled “Emigrant Crevice Proposed Withdrawal Area” and dated November 10, 2016.
+- **(b)** *Withdrawal* Subject to valid existing rights in existence on the date of enactment of this Act, the National Forest System land and interests in the National Forest System land, as depicted on the map, is withdrawn from—
+  - **(1)** location, entry, and patent under the mining laws; and
+  - **(2)** disposition under all laws pertaining to mineral and geothermal leasing.
+- **(c)** *Acquired land* Any land or interest in land within the area depicted on the map that is acquired by the United States after the date of enactment of this Act shall, on acquisition, be immediately withdrawn in accordance with this section.
+- **(d)** *Map*
+  - **(1)** *Submission of map* As soon as practicable after the date of enactment of this Act, the Secretary of Agriculture shall file the map with—
+    - **(A)** the Committee on Energy and Natural Resources of the Senate; and
+    - **(B)** the Committee on Natural Resources of the House of Representatives.
+  - **(2)** *Force of law* The map filed under paragraph (1) shall have the same force and effect as if included in this Act, except that the Secretary of Agriculture may correct clerical and typographical errors in the map.
+  - **(3)** *Public availability* The map filed under paragraph (1) shall be on file and available for public inspection in the appropriate offices of the Forest Service and the Bureau of Land Management.
+- **(e)** *Effect* Nothing in this section affects any recreational use, including hunting or fishing, that is authorized on land within the area depicted on the map under applicable law as of the date of enactment of this Act.
