@@ -1,7 +1,7 @@
 ---
 measure: H.R. 227
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 227
@@ -21,9 +21,10 @@ Incentivizing Fairness in Subcontracting Act
 - Rep. Kelly, Trent [R-MS-1] (K000388)
 - Rep. Harder, Josh [D-CA-10] (H001090)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Incentivizing Fairness in Subcontracting Act
 - 2019-01-08 — Ms. Velazquez moved to suspend the rules and pass the bill.
 - 2019-01-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H271-272)
 - 2019-01-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H271-272)
+- 2019-01-09 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
