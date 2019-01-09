@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 401
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 401
+
+> To direct the Secretary of Agriculture to release reversionary and reserved interests in certain lands within the Coconino National Forest, Arizona.
+
+## § 1. Short title
+
+This Act may be cited as the “Lowell Observatory Conveyance Act”.
+
+## § 2. Definitions
+
+In this Act:
+
+- **(1)** *Observatory* The term “Observatory” means Lowell Observatory of Flagstaff, Arizona.
+- **(2)** *Secretary* The term “Secretary” means the Secretary of Agriculture, acting through the Chief of the Forest Service.
+
+## § 3. Release of reversionary and reserved interests
+
+- **(a)** *In general* Subject to valid existing rights, if the Observatory makes a written request to the Secretary not later than 180 days after the date of enactment of this Act requesting conveyance of the National Forest System land described in subsection (b), the Secretary shall convey, without consideration and by quitclaim deed, to the Observatory all right, title, and interest of the United States in and to the parcel of land described in subsection (b).
+- **(b)** *Land specified* The parcel of National Forest System land to be conveyed under subsection (a) is the land—
+  - **(1)** conveyed by the United States to Percival Lowell and his heirs by the Act of May 30, 1910 (36 Stat. 452); and
+  - **(2)** described as section 17, Township 21 north of range 7 east of the Gila and Salt River base and meridian in Coconino County, Arizona.
