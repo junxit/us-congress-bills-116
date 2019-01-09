@@ -2,7 +2,7 @@
 legis-num: H. RES. 28
 congress: 116th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 28
@@ -22,4 +22,4 @@ The bills referred to in the first section of this resolution are as follows:
 
 ## § 3.
 
-The requirement of clause 6(a) of rule XIII for a two-thirds vote to consider a report from the Committee on Rules on the same day it is presented to the House is waived with respect to any resolution reported through the legislative day of January 15, 2019, relating to a measure making or continuing appropriations for the fiscal year ending September 30, 2019
+The requirement of clause 6(a) of rule XIII for a two-thirds vote to consider a report from the Committee on Rules on the same day it is presented to the House is waived with respect to any resolution reported through the legislative day of January 15, 2019, relating to a measure making or continuing appropriations for the fiscal year ending September 30, 2019.
