@@ -1,7 +1,7 @@
 ---
 measure: S. 24
 congress: 116
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 derived: true
 ---
 
