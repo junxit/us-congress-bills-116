@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 441
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 441
+
+> To require FERC to examine certain hydropower licences.
+
+## § 1. Short title
+
+This Act may be cited as the “Commonsense Flood Prevention Act”.
+
+## § 2. Examination of licenses for certain projects located in disaster areas
+
+Not later than one year after the date of enactment of this Act, the Federal Energy Regulatory Commission shall examine each license issued by the Commission under part I of the Federal Power Act for the following projects:
+
+- **(1)** Federal Energy Regulatory Commission project numbered 2305.
+- **(2)** Federal Energy Regulatory Commission project numbered 12362.
