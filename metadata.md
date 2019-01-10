@@ -1,7 +1,7 @@
 ---
 measure: H.R. 226
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 226
@@ -22,9 +22,10 @@ Clarity on Small Business Participation in Category Management Act of 2019
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. Harder, Josh [D-CA-10] (H001090)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Clarity on Small Business Participation in Category Management Act of 2019
 - 2019-01-09 — Motion to reconsider laid on the table Agreed to without objection.
 - 2019-01-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 11 (Roll no. 18). (text: CR 1/8/2019 H270)
 - 2019-01-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 11 (Roll no. 18).(text: CR 1/8/2019 H270)
+- 2019-01-10 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
