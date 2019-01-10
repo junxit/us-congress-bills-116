@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 481
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 481
+
+> To amend the Immigration and Nationality Act to alter the deadlines by which an application for asylum must be made, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Asylum Protection Act of 2019”.
+
+## § 2. Dates of applications for asylum
+
+Section 208(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1158(a)(2)) is amended—
+
+- **(1)** by striking “1 year” and inserting “30 days”; and
+- **(2)** by adding before the period at the end the following: “, except that, in the case of an alien who arrives at a designated port of arrival, that alien shall be required to commence an application at the time of arrival”.
