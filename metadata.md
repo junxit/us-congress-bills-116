@@ -1,7 +1,7 @@
 ---
 measure: S. 24
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 24
@@ -63,6 +63,10 @@ Government Employee Fair Treatment Act of 2019
 - Sen. Murphy, Christopher [D-CT] (M001169)
 - Sen. Rosen, Jacky [D-NV] (R000608)
 
+## Recorded votes (1)
+
+- 2019-01-11 — [House 116-1-28](votes/house-116-1-0028.md) — On Motion to Suspend the Rules and Pass — **Passed** (411–7)
+
 ## Actions
 
 - 2019-01-03 — Introduced in Senate
@@ -73,3 +77,17 @@ Government Employee Fair Treatment Act of 2019
 - 2019-01-10 — Passed Senate without amendment by Voice Vote. (consideration: CR S133-134; text: CR S133-134)
 - 2019-01-10 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S133-134; text: CR S133-134)
 - 2019-01-10 — Received in the House.
+- 2019-01-11 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2019-01-11 — Considered as unfinished business. (consideration: CR H503-504)
+- 2019-01-11 — Considered under suspension of the rules. (consideration: CR H498-502)
+- 2019-01-11 — DEBATE - The House proceeded with forty minutes of debate on S. 24.
+- 2019-01-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-01-11 — Mr. Cummings moved to suspend the rules and pass the bill.
+- 2019-01-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 7 (Roll no. 28). (text: CR H498)
+- 2019-01-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 7 (Roll no. 28).(text: CR H498)
+- 2019-01-14 — Presented to President.
+- 2019-01-14 — Presented to President.
+- 2019-01-16 — Became Public Law No: 116-1.
+- 2019-01-16 — Became Public Law No: 116-1.
+- 2019-01-16 — Signed by President.
+- 2019-01-16 — Signed by President.
