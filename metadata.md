@@ -1,7 +1,7 @@
 ---
 measure: H.R. 269
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 269
@@ -53,3 +53,5 @@ Pandemic and All-Hazards Preparedness and Advancing Innovation Act of 2019
 - 2019-01-08 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Homeland Security, Veterans' Affairs, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-01-08 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Homeland Security, Veterans' Affairs, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-01-08 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Homeland Security, Veterans' Affairs, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-01-09 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2019-01-10 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 10.
