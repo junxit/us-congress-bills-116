@@ -1,7 +1,7 @@
 ---
 measure: H.R. 115
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 115
@@ -23,9 +23,10 @@ Protecting Diplomats from Surveillance Through Consumer Devices Act
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Protecting Diplomats from Surveillance Through Consumer Devices Act
 - 2019-01-10 — Mr. Engel moved to suspend the rules and pass the bill.
 - 2019-01-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H429)
 - 2019-01-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H429)
+- 2019-01-11 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
