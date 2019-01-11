@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 510
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 510
+
+> To amend the Internal Revenue Code of 1986 to permanently extend the railroad track maintenance credit, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Building Rail Access for Customers and the Economy Act of 2019” or the “BRACE Act of 2019”.
+
+## § 2. Railroad track maintenance credit made permanent
+
+- **(a)** *In general* Section 45G of the Internal Revenue Code of 1986 is amended by striking subsection (f).
+- **(b)** *Effective date*
+  - **(1)** *In general* The amendment made by subsection (a) shall apply to expenditures paid or incurred during taxable years beginning after December 31, 2017.
+  - **(2)** *Safe harbor assignments* Assignments, including related expenditures paid or incurred, referred to in section 45G(b)(2) of the Internal Revenue Code of 1986 for taxable years ending after December 31, 2017, shall not fail to be treated as timely made if made pursuant to a written agreement entered into not later than 90 days after the date of the enactment of this Act.
