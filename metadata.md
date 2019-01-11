@@ -1,7 +1,7 @@
 ---
 measure: H.R. 192
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 192
@@ -24,9 +24,10 @@ Trans-Sahara Counterterrorism Partnership Program Act of 2020
 - Rep. Schiff, Adam B. [D-CA-28] (S001150)
 - Rep. Hudson, Richard [R-NC-8] (H001067)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Trans-Sahara Counterterrorism Partnership Program Act of 2020
 - 2019-01-10 — Mr. Engel moved to suspend the rules and pass the bill.
 - 2019-01-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H432-433)
 - 2019-01-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H432-433)
+- 2019-01-11 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
