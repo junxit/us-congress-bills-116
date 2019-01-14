@@ -1,7 +1,7 @@
 ---
 measure: H.R. 430
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 430
@@ -29,3 +29,9 @@ TANF Extension Act of 2019
 - 2019-01-10 — Introduced in House
 - 2019-01-10 — Introduced in House
 - 2019-01-10 — Referred to the House Committee on Ways and Means.
+- 2019-01-14 — Considered under suspension of the rules. (consideration: CR H531-534)
+- 2019-01-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 430.
+- 2019-01-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-01-14 — Ms. Chu, Judy moved to suspend the rules and pass the bill.
+- 2019-01-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H531)
+- 2019-01-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H531)
