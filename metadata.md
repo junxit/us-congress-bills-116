@@ -1,7 +1,7 @@
 ---
 measure: H.R. 221
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 221
@@ -106,9 +106,10 @@ Special Envoy to Monitor and Combat Anti-Semitism Act
 - Rep. Correa, J. Luis [D-CA-46] (C001110)
 - Rep. Buchanan, Vern [R-FL-16] (B001260)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -127,3 +128,4 @@ Special Envoy to Monitor and Combat Anti-Semitism Act
 - 2019-01-11 — Motion to reconsider laid on the table Agreed to without objection.
 - 2019-01-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 1 (Roll no. 29). (text: CR 1/10/2019 H434)
 - 2019-01-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 1 (Roll no. 29).(text: CR 1/10/2019 H434)
+- 2019-01-14 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
