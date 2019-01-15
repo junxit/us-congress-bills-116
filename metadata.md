@@ -1,7 +1,7 @@
 ---
 measure: H.R. 116
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 116
@@ -22,9 +22,10 @@ Investing in Main Street Act of 2019
 - Rep. Hill, Katie [D-CA-25] (H001087)
 - Rep. Harder, Josh [D-CA-10] (H001090)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Investing in Main Street Act of 2019
 - 2019-01-14 — Ms. Velazquez moved to suspend the rules and pass the bill.
 - 2019-01-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 2 (Roll no. 30). (text: CR H522)
 - 2019-01-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 2 (Roll no. 30).(text: CR H522)
+- 2019-01-15 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
