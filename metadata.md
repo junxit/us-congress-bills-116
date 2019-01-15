@@ -1,7 +1,7 @@
 ---
 measure: H.R. 113
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 113
@@ -16,7 +16,7 @@ All-American Flag Act
 
 - Rep. Bustos, Cheri [D-IL-17] (B001286)
 
-## Cosponsors (18)
+## Cosponsors (21)
 
 - Rep. Kinzinger, Adam [R-IL-16] (K000378)
 - Rep. Courtney, Joe [D-CT-2] (C001069)
@@ -36,6 +36,9 @@ All-American Flag Act
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 - Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
 - Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Hice, Jody B. [R-GA-10] (H001071)
+- Rep. Van Drew, Jefferson [D-NJ-2] (V000133)
 
 ## Committees (1)
 
@@ -46,3 +49,9 @@ All-American Flag Act
 - 2019-01-03 — Introduced in House
 - 2019-01-03 — Introduced in House
 - 2019-01-03 — Referred to the House Committee on Oversight and Reform.
+- 2019-01-15 — Considered under suspension of the rules. (consideration: CR H566-567)
+- 2019-01-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 113.
+- 2019-01-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-01-15 — Mr. Cummings moved to suspend the rules and pass the bill.
+- 2019-01-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H566)
+- 2019-01-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H566)
