@@ -1,7 +1,7 @@
 ---
 measure: H.R. 266
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 266
@@ -39,3 +39,5 @@ Paycheck Protection Program and Health Care Enhancement Act
 - 2019-01-11 — Rule provides for consideration of H.R. 264, H.R. 265, H.R. 266 and H.R. 267. Measure will be considered read. Bill is closed to amendments. The rule provides one hour of debate, orders the previous question, and allows one motion to commit on each bill. The rule waives the requirement of clause 6(a) of rule XIII for a two-thirds vote to consider a report from the Committee on Rules on the same day it is presented to the House with respect to any resolution reported through the legislative day of January 15, 2019, relating to a measure making or continuing appropriations for the fiscal year ending September 30, 2019.
 - 2019-01-11 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-01-11 — The previous question was ordered pursuant to the rule.
+- 2019-01-14 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2019-01-15 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 12.
