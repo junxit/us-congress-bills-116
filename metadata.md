@@ -1,7 +1,7 @@
 ---
 measure: H.R. 430
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 430
@@ -36,3 +36,12 @@ TANF Extension Act of 2019
 - 2019-01-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H531)
 - 2019-01-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H531)
 - 2019-01-15 — Received in the Senate, read twice.
+- 2019-01-22 — Message on Senate action sent to the House.
+- 2019-01-22 — Passed Senate without amendment by Voice Vote. (consideration: CR S319)
+- 2019-01-22 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S319)
+- 2019-01-23 — Presented to President.
+- 2019-01-23 — Presented to President.
+- 2019-01-24 — Became Public Law No: 116-4.
+- 2019-01-24 — Became Public Law No: 116-4.
+- 2019-01-24 — Signed by President.
+- 2019-01-24 — Signed by President.
