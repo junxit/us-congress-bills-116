@@ -1,7 +1,7 @@
 ---
 measure: H.R. 206
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 206
@@ -20,10 +20,11 @@ Encouraging Small Business Innovation Act
 
 - Rep. Espaillat, Adriano [D-NY-13] (E000297)
 
-## Committees (2)
+## Committees (3)
 
 - House — Science, Space, and Technology Committee
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Encouraging Small Business Innovation Act
 - 2019-01-14 — Ms. Velazquez moved to suspend the rules and pass the bill.
 - 2019-01-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H526)
 - 2019-01-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H526)
+- 2019-01-15 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
