@@ -1,7 +1,7 @@
 ---
 measure: H.R. 430
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 430
@@ -35,3 +35,4 @@ TANF Extension Act of 2019
 - 2019-01-14 — Ms. Chu, Judy moved to suspend the rules and pass the bill.
 - 2019-01-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H531)
 - 2019-01-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H531)
+- 2019-01-15 — Received in the Senate, read twice.
