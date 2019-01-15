@@ -1,7 +1,7 @@
 ---
 measure: H.R. 246
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 246
@@ -21,10 +21,11 @@ Stimulating Innovation through Procurement Act of 2019
 - Rep. Curtis, John R. [R-UT-3] (C001114)
 - Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
 
-## Committees (2)
+## Committees (3)
 
 - House — Science, Space, and Technology Committee
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Stimulating Innovation through Procurement Act of 2019
 - 2019-01-14 — Ms. Velazquez moved to suspend the rules and pass the bill.
 - 2019-01-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H524)
 - 2019-01-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H524)
+- 2019-01-15 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
