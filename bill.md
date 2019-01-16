@@ -1,0 +1,19 @@
+---
+legis-num: S. 172
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 172
+
+> To delay the reimposition of the annual fee on health insurance providers until after 2021.
+
+## § 1. Short title
+
+This Act may be cited as the “Health Insurance Tax Relief Act of 2019”.
+
+## § 2. Delay of reimposition of annual fee on health insurance providers until after 2020
+
+- **(a)** *In general* Section 9010(j)(3) of the Patient Protection and Affordable Care Act is amended by striking “December 31, 2019” and inserting “December 31, 2021”.
+- **(b)** *Effective date* The amendment made by this section shall apply to calendar years beginning after December 31, 2019.
