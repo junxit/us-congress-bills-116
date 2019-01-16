@@ -1,7 +1,7 @@
 ---
 measure: H.R. 247
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 247
@@ -22,9 +22,10 @@ Federal CIO Authorization Act of 2019
 - Rep. Meadows, Mark [R-NC-11] (M001187)
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Federal CIO Authorization Act of 2019
 - 2019-01-15 — Mr. Cummings moved to suspend the rules and pass the bill.
 - 2019-01-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H567-568)
 - 2019-01-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H567-568)
+- 2019-01-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
