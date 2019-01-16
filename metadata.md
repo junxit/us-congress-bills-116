@@ -1,7 +1,7 @@
 ---
 measure: H.R. 135
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 135
@@ -23,9 +23,10 @@ Elijah E. Cummings Federal Employee Antidiscrimination Act of 2019
 - Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Elijah E. Cummings Federal Employee Antidiscrimination Act of 2019
 - 2019-01-15 — Mr. Cummings moved to suspend the rules and pass the bill.
 - 2019-01-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 33). (text: CR H558-560)
 - 2019-01-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 33).(text: CR H558-560)
+- 2019-01-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
