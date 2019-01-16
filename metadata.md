@@ -1,7 +1,7 @@
 ---
 measure: H.R. 251
 congress: 116
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 251
@@ -16,7 +16,7 @@ Chemical Facility Anti-Terrorism Standards Program Extension Act
 
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Cosponsors (7)
+## Cosponsors (9)
 
 - Rep. Rogers, Mike D. [R-AL-3] (R000575)
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
@@ -25,6 +25,8 @@ Chemical Facility Anti-Terrorism Standards Program Extension Act
 - Rep. Ratcliffe, John [R-TX-4] (R000601)
 - Rep. Tonko, Paul [D-NY-20] (T000469)
 - Rep. Shimkus, John [R-IL-15] (S000364)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Peters, Gary C. [D-MI] (P000595)
 
 ## Committees (2)
 
@@ -47,3 +49,17 @@ Chemical Facility Anti-Terrorism Standards Program Extension Act
 - 2019-01-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 3 (Roll no. 14).(text: CR H266)
 - 2019-01-09 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2019-01-10 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 8.
+- 2019-01-16 — Amendment SA 3 agreed to in Senate by Unanimous Consent.
+- 2019-01-16 — Amendment SA 3 proposed by Senator McConnell for Senator Johnson. (consideration: CR S279; text: CR S279) To extend by 15 months the Chemical Facility Anti-Terrorism Standards Program of the Department of Homeland Security.
+- 2019-01-16 — Amendment SA 4 agreed to in Senate by Unanimous Consent.
+- 2019-01-16 — Amendment SA 4 proposed by Senator McConnell for Senator Johnson. (consideration: CR S279; text: CR S279) To amend the title.
+- 2019-01-16 — Measure laid before Senate by unanimous consent. (consideration: CR S279)
+- 2019-01-16 — Message on Senate action sent to the House.
+- 2019-01-16 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2019-01-16 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2019-01-16 — Senate amendment agreed to: Amendment SA 3 agreed to in Senate by Unanimous Consent.
+- 2019-01-16 — Senate amendment agreed to: Amendment SA 4 agreed to in Senate by Unanimous Consent.
+- 2019-01-16 — Senate amendment proposed (on the floor): Amendment SA 3 proposed by Senator McConnell for Senator Johnson.
+- 2019-01-16 — Senate amendment proposed (on the floor): Amendment SA 4 proposed by Senator McConnell for Senator Johnson.
+- 2019-01-16 — Senate amendment submitted
+- 2019-01-16 — Senate amendment submitted
