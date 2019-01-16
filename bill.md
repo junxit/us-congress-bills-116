@@ -1,12 +1,18 @@
 ---
 legis-num: H.R. 251
-congress: 116th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Sixteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 251
 
-That the bill from the House of Representatives (H.R. 251) entitled “An Act to extend by two years the Chemical Facility Anti-Terrorism Standards Program of the Department of Homeland Security, and for other purposes.”, do pass with the following
+> To extend by 15 months the Chemical Facility Anti-Terrorism Standards Program of the Department of Homeland Security, and for other purposes.
 
-*On page 2, line 10, striking “6 years” and insert “5 years and 3 months”.*
+## § 1. Short title
+
+This Act may be cited as the “Chemical Facility Anti-Terrorism Standards Program Extension Act”.
+
+## § 2. Extension of Chemical Facility Anti-Terrorism Standards Program of the Department of Homeland Security
+
+Section 5 of the Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014 (Public Law 113–254; 6 U.S.C. 621 note) is amended by striking “4 years” and inserting “5 years and 3 months”.
