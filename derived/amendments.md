@@ -1,7 +1,7 @@
 ---
 measure: H.R. 202
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
