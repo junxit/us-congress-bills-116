@@ -1,7 +1,7 @@
 ---
 measure: H.R. 113
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 113
@@ -40,9 +40,10 @@ All-American Flag Act
 - Rep. Hice, Jody B. [R-GA-10] (H001071)
 - Rep. Van Drew, Jefferson [D-NJ-2] (V000133)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ All-American Flag Act
 - 2019-01-15 — Mr. Cummings moved to suspend the rules and pass the bill.
 - 2019-01-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H566)
 - 2019-01-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H566)
+- 2019-01-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
