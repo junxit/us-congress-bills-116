@@ -1,7 +1,7 @@
 ---
 measure: H.R. 251
 congress: 116
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 251
@@ -67,3 +67,14 @@ Chemical Facility Anti-Terrorism Standards Program Extension Act
 - 2019-01-16 — Senate amendment proposed (on the floor): Amendment SA 4 proposed by Senator McConnell for Senator Johnson.
 - 2019-01-16 — Senate amendment submitted
 - 2019-01-16 — Senate amendment submitted
+- 2019-01-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-01-17 — Mr. Thompson (MS) moved that the House suspend the rules and agree to the Senate amendments. (consideration: CR H696-698)
+- 2019-01-17 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote. (text: CR H696)
+- 2019-01-17 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote.(text: CR H696)
+- 2019-01-17 — The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendments to H.R. 251.
+- 2019-01-18 — Became Public Law No: 116-2.
+- 2019-01-18 — Became Public Law No: 116-2.
+- 2019-01-18 — Presented to President.
+- 2019-01-18 — Presented to President.
+- 2019-01-18 — Signed by President.
+- 2019-01-18 — Signed by President.
