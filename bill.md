@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 584
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 584
+
+> To amend title XIX of the Social Security Act to provide the same level of Federal matching assistance for every State that chooses to expand Medicaid coverage to newly eligible individuals, regardless of when such expansion takes place.
+
+## § 1. Short title
+
+This Act may be cited as the “Incentivizing Medicaid Expansion Act of 2019”.
+
+## § 2. Increased FMAP for medical assistance to newly eligible individuals
+
+- **(a)** *In general* Section 1905(y)(1) of the Social Security Act (42 U.S.C. 1396d(y)(1)) is amended—
+  - **(1)** in subparagraph (A), by striking “2014, 2015, and 2016” and inserting “each of the first 3 consecutive 12-month periods in which the State provides medical assistance to newly eligible individuals”;
+  - **(2)** in subparagraph (B), by striking “2017” and inserting “the fourth consecutive 12-month period in which the State provides medical assistance to newly eligible individuals”;
+  - **(3)** in subparagraph (C), by striking “2018 ” and inserting “the fifth consecutive 12-month period in which the State provides medical assistance to newly eligible individuals”;
+  - **(4)** in subparagraph (D), by striking “2019” and inserting “the sixth consecutive 12-month period in which the State provides medical assistance to newly eligible individuals”; and
+  - **(5)** in subparagraph (E), by striking “2020 and each year thereafter” and inserting “the seventh consecutive 12-month period in which the State provides medical assistance to newly eligible individuals and each such period thereafter”.
+- **(b)** *Effective date* The amendments made by subsection (a) shall take effect as if included in the enactment of the Patient Protection and Affordable Care Act.
