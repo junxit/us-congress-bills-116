@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 684
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 684
+
+> To retitle Indiana Dunes National Lakeshore as Indiana Dunes National Park, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Indiana Dunes National Park Act”.
+
+## § 2. Indiana Dunes National Lakeshore retitled as Indiana Dunes National Park
+
+- **(a)** *In general* Public Law 89–761 (16 U.S.C. 460u et seq.) is amended—
+  - **(1)** by striking “National Lakeshore” and “national lakeshore” each place it appears and inserting “National Park”; and
+  - **(2)** by striking “lakeshore” each place it appears and inserting “Park”.
+- **(b)** *Nonapplication* The amendment made by subsection (a)(1) shall not apply to the title of the map referred to in the first section of Public Law 89–761 (16 U.S.C. 460u), or to the title of the maps referred to in section 4 of Public Law 89–761 (16 U.S.C. 460u–3).
+
+## § 3. Paul H. Douglas Trail
+
+The 1.6 mile trail within the Indiana Dunes National Park designated the “Miller-Woods Trail” is hereby redesignated as the “Paul H. Douglas Trail”.
