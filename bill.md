@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 652
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 652
+
+> To direct the Secretary of Health and Human Services to issue a final regulation based on the proposed regulation relating to the Programs of All-Inclusive Care for the Elderly (PACE) under the Medicare and Medicaid programs.
+
+## § 1. Short title
+
+This Act may be cited as the “Comprehensive Care for Seniors Act of 2019”.
+
+## § 2. Directing the Secretary of Health and Human Services to issue a final regulation based on the proposed regulation relating to the Programs of All-Inclusive Care for the Elderly (PACE) under the Medicare and Medicaid programs
+
+Not later than April 1, 2019, the Secretary of Health and Human Services shall issue a final regulation based on the provisions of the proposed regulation titled “Medicare and Medicaid Programs; Programs of All-Inclusive Care for the Elderly (PACE)” (81 Fed. Reg. 54666).
