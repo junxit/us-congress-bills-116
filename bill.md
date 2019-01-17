@@ -1,0 +1,22 @@
+---
+legis-num: S. 190
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 190
+
+> To amend the Foreign Assistance Act of 1961 to prohibit assistance to nonprofits, foreign nongovernmental organizations, and quasi-autonomous nongovernmental organizations that promote or perform abortions.
+
+## § 1. Short title
+
+This Act may be cited as the “Protecting Life in Global Health Assistance Act of 2019”.
+
+## § 2. Prohibition on assistance to foreign nonprofits, foreign nongovernmental organizations, and quasi-autonomous nongovernmental organizations that promote or perform abortions
+
+Chapter 1 of part III of the Foreign Assistance Act of 1961 (22 U.S.C. 2351 et seq.) is amended by adding at the end the following new section:
+
+> ## § 620N. Prohibition on assistance to foreign nonprofits, foreign nongovernmental organizations, and quasi-autonomous nongovernmental organizations that promote or perform abortions
+>
+> No assistance may be furnished under this Act to any foreign nonprofit, foreign nongovernmental organization, or quasi-autonomous nongovernmental organization that promotes or performs abortion, except in cases of rape or incest or when the life of the mother would be endangered if the fetus were carried to term.
