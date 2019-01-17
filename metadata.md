@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 30
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.J.Res. 30
