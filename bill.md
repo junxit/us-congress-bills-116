@@ -1,0 +1,26 @@
+---
+legis-num: S. 187
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 187
+
+> To require Senate confirmation of the Inspector General of the Bureau of Consumer Financial Protection, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Bureau of Consumer Financial Protection-Inspector General Reform Act ” or the “CFPB-IG Act”.
+
+## § 2. Appointment of Inspector General
+
+The Inspector General Act of 1978 (5 U.S.C. App.) is amended—
+
+- **(1)** in section 8G—
+  - **(A)** in subsection (a)(2), by striking “and the Bureau of Consumer Financial Protection”;
+  - **(B)** in subsection (c), by striking “For purposes of implementing this section” and all that follows through the end of the subsection; and
+  - **(C)** in subsection (g)(3), by striking “and the Bureau of Consumer Financial Protection”; and
+- **(2)** in section 12—
+  - **(A)** in paragraph (1), by inserting “the Director of the Bureau of Consumer Financial Protection;” after “the President of the Export-Import Bank;”; and
+  - **(B)** in paragraph (2), by inserting “the Bureau of Consumer Financial Protection,” after “the Export-Import Bank,”.
