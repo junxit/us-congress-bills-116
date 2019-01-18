@@ -1,7 +1,7 @@
 ---
 measure: H.R. 150
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 150
@@ -34,9 +34,10 @@ Grant Reporting Efficiency and Agreements Transparency Act of 2019
 - Rep. Stauber, Pete [R-MN-8] (S001212)
 - Rep. Emmer, Tom [R-MN-6] (E000294)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Grant Reporting Efficiency and Agreements Transparency Act of 2019
 - 2019-01-17 — Motion to reconsider laid on the table Agreed to without objection.
 - 2019-01-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 41).
 - 2019-01-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 41).
+- 2019-01-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
