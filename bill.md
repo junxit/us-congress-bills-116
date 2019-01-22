@@ -1,0 +1,27 @@
+---
+legis-num: H. RES. 62
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 62
+
+> Honoring the 100th anniversary of Ireland’s First Dáil.
+
+## Preamble
+
+- Whereas the democratic expression of the people of Ireland’s will in 1918 led directly to the establishment of an independent state and enabled the people of Ireland to enjoy the freedom they have today;
+- Whereas the First Dáil gave a voice to the people of Ireland’s expression of self-determination in the 1918 general election;
+- Whereas, on January 21, 1919, the first meeting of the First Dáil Éireann met in Dublin’s Mansion House to declare Ireland to be an independent nation and to establish its alternative parliament;
+- Whereas the First Dáil produced a Declaration of Independence and a Message to the Free Nations of the World;
+- Whereas the United States recognized and established diplomatic relations with the Irish Free State in 1923;
+- Whereas the United States and Ireland continue to share deep and abiding ties across a host of areas, including economic, scientific, and educational cooperative efforts, and international development cooperation;
+- Whereas the more than 35 million Americans of Irish descent strengthen the friendly relations between the United States and Ireland; and
+- Whereas throughout our United States history, Americans of Irish descent have made significant contributions to the United States and have helped to shape its history: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** honors the sitting of the First Dáil in Ireland on its 100th anniversary;
+- **(2)** honors the resolve and sacrifice of the people of Ireland, who did not lose their determination to advance Irish independence; and
+- **(3)** reaffirms the close bonds between the United States and the Republic of Ireland and the shared values of the two countries.
