@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 695
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 695
+
+> To redesignate the Hudson River Valley National Heritage Area as the Maurice D. Hinchey Hudson River Valley National Heritage Area, and for other purposes.
+
+## § 1. Redesignation of heritage area
+
+- **(a)** *Redesignation* The Omnibus Parks and Public Lands Management Act of 1996 (16 U.S.C. 461 note; Public Law 104–333) is amended by striking “Hudson River Valley National Heritage Area” each place it appears and inserting “Maurice D. Hinchey Hudson River Valley National Heritage Area”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the heritage area referred to in subsection (a) shall be deemed to be a reference to the Maurice D. Hinchey Hudson River Valley National Heritage Area.
