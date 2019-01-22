@@ -1,7 +1,7 @@
 ---
 measure: H.R. 268
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 268
@@ -153,3 +153,15 @@ Supplemental Appropriations Act, 2019
 - 2019-01-16 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-01-16 — The previous question was ordered pursuant to the rule.
 - 2019-01-16 — VACATED PROCEEDINGS - Mr. Stewart asked unanimous consent to vacate the proceedings on Stewart amendment No. 6 in Part B of House Report 116-2, which was postponed, to the end that the Chair put the question de novo. Agreed to without objection.
+- 2019-01-17 — Received in the Senate.
+- 2019-01-19 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2019-01-22 — Amendment SA 5 proposed by Senator McConnell for Senator Shelby. (consideration: CR S325) Of a perfecting nature.
+- 2019-01-22 — Amendment SA 6 proposed by Senator Schumer. (consideration: CR S325) Of a perfecting nature.
+- 2019-01-22 — Measure laid before Senate by motion. (consideration: CR S325)
+- 2019-01-22 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote.
+- 2019-01-22 — Motion to proceed to consideration of measure made in Senate. (CR S325)
+- 2019-01-22 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 15.
+- 2019-01-22 — Senate amendment proposed (on the floor): Amendment SA 5 proposed by Senator McConnell for Senator Shelby.
+- 2019-01-22 — Senate amendment proposed (on the floor): Amendment SA 6 proposed by Senator Schumer.
+- 2019-01-22 — Senate amendment submitted
+- 2019-01-22 — Senate amendment submitted
