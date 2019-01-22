@@ -1,0 +1,56 @@
+---
+legis-num: H.R. 703
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 703
+
+> To amend the Internal Revenue Code of 1986 to make public the names and addresses of foreign persons contributing $50,000 or more to certain tax-exempt organizations and to require disclosure of foreign campaign contributions.
+
+## § 1. Short title
+
+This Act may be cited as the “Uncovering Foreign Influence in the United States Act of 2019”.
+
+## § 2. Public availability of 501(c)(3) annual return information relating to foreign person contributions
+
+- **(a)** *Secretary* Section 6104(b) of the Internal Revenue Code of 1986 is amended—
+  - **(1)** by striking “509(a) or” and inserting “509(a),”;
+  - **(2)** by inserting “, or as provided in the last sentence of this subsection” after “under section 527”; and
+  - **(3)** by adding at the end the following: “Organizations described in section 501(c)(3) shall make available to the public in the same manner as information under the first sentence of this subsection the name and address of each foreign person (as defined in subsection (d)(3)(C)) who contributed $50,000 or more to the organization for the taxable year.”.
+- **(b)** *Organization* Section 6104(d)(3) of such Code is amended by adding at the end the following new subparagraph:
+  > - **(C)** *Disclosure of certain contributions from foreign persons*
+  >   - **(i)** *In general* Subparagraph (A) shall not apply in the case of the name and address of a foreign person required under the last sentence of subsection (b) to be made available to the public.
+  >   - **(ii)** *Foreign person* For purposes of this subsection, the term “foreign person” means—
+  >     - **(I)** any person who is not a United States person (as defined in section 7701(a)(30),
+  >     - **(II)** any foreign government or foreign governmental entity (or any entity owned by, controlled by, or consisting of one or more thereof), or
+  >     - **(III)** any corporation which is foreign owned (within the meaning of section 269B(e)(2)).
+  >   - **(iii)** *Coordination with reporting relating to contributions made through intermediaries* For purposes of this subparagraph and the last sentence of subsection (b), any foreign person with respect to whom a written statement is furnished to the organization under section 6050X(c) shall be treated as having made to the organization the contribution to which such statement relates.
+
+- **(c)** *Effective date* The amendments made by this section shall apply to returns for taxable years beginning after December 31, 2018.
+
+## § 3. Reporting requirements for foreign contributions to 501(c)(3) organizations through intermediaries
+
+- **(a)** *In general* Subpart B of part III of subchapter A of chapter 61 of the Internal Revenue Code of 1986 is amended by adding at the end the following new section:
+  > ## § 6050X. Returns relating to foreign contributions to 501(c)(3) organizations through intermediaries
+  >
+  > - **(a)** *In general* A return shall be made by any person who as an intermediary makes a contribution on behalf of a foreign person to an applicable exempt organization with the reasonable expectation that in connection with such contribution such organization will perform policy analysis for the benefit of such foreign person.
+  > - **(b)** *Form and manner of return* Such return shall—
+  >   - **(1)** be made at such time and in such form and manner as the Secretary shall prescribe, and
+  >   - **(2)** contain the name and address of the foreign person and the amount of the contribution to which such return relates.
+  > - **(c)** *Statement shall be furnished to organization* Every person required to make a return under subsection (a) with respect to a contribution shall furnish to the organization to which such contribution was made a written statement showing—
+  >   - **(1)** the information required to be shown on the return under subsection (a), and
+  >   - **(2)** the name and address of the person required to make such return.
+  > - **(d)** *Definitions* For purposes of this section—
+  >   - **(1)** *Foreign person* The term “foreign person” has the meaning given such term by section 6104(d)(3)(C)(ii).
+  >   - **(2)** *Applicable exempt organization* The term “applicable exempt organization” means an organization described in section 501(c)(3) and exempt from tax under section 501(a).
+
+- **(b)** *Clerical amendment* The table of sections for subpart B of part III of subchapter A of chapter 61 of such Code is amended by adding at the end the following new item:
+- **(c)** *Effective date* The amendments made by this section shall apply to contributions made after December 31, 2018.
+
+## § 4. Imposition of tax on undisclosed foreign contributions
+
+- **(a)** *In general* Subtitle D of the Internal Revenue Code of 1986 is amended by adding at the end the following new chapter:
+- **(b)** *Clerical amendment* The table of chapters for subtitle D of such Code is amended by adding at the end the following new item:
+- **(c)** *Effective date* The amendments made by this section shall apply to contributions made after December 31, 2018.
