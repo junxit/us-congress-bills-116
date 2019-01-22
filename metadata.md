@@ -1,7 +1,7 @@
 ---
 measure: H.R. 31
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 31
@@ -16,7 +16,7 @@ Caesar Syria Civilian Protection Act of 2019
 
 - Rep. Engel, Eliot L. [D-NY-16] (E000179)
 
-## Cosponsors (36)
+## Cosponsors (57)
 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Deutch, Theodore E. [D-FL-22] (D000610)
@@ -54,6 +54,27 @@ Caesar Syria Civilian Protection Act of 2019
 - Rep. Sires, Albio [D-NJ-8] (S001165)
 - Rep. Kelly, Robin L. [D-IL-2] (K000385)
 - Rep. Eshoo, Anna G. [D-CA-18] (E000215)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Foster, Bill [D-IL-11] (F000454)
+- Rep. Malinowski, Tom [D-NJ-7] (M001203)
+- Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. Barr, Andy [R-KY-6] (B001282)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Cartwright, Matt [D-PA-8] (C001090)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. Beyer, Donald S., Jr. [D-VA-8] (B001292)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Walorski, Jackie [R-IN-2] (W000813)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Zeldin, Lee M. [R-NY-1] (Z000017)
+- Rep. Wasserman Schultz, Debbie [D-FL-23] (W000797)
+- Rep. Stewart, Chris [R-UT-2] (S001192)
+- Rep. Visclosky, Peter J. [D-IN-1] (V000108)
+- Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Lowey, Nita M. [D-NY-17] (L000480)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
 
 ## Committees (3)
 
@@ -68,3 +89,9 @@ Caesar Syria Civilian Protection Act of 2019
 - 2019-01-03 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on Financial Services, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-01-03 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on Financial Services, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-01-03 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on Financial Services, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-01-22 — Considered under suspension of the rules. (consideration: CR H970-974)
+- 2019-01-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 31.
+- 2019-01-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-01-22 — Mr. Engel moved to suspend the rules and pass the bill, as amended.
+- 2019-01-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H970-971)
+- 2019-01-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H970-971)
