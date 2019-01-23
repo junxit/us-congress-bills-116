@@ -1,7 +1,7 @@
 ---
 measure: H.R. 31
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 31
@@ -76,11 +76,12 @@ Caesar Syria Civilian Protection Act of 2019
 - Rep. Lowey, Nita M. [D-NY-17] (L000480)
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 
-## Committees (3)
+## Committees (4)
 
 - House — Judiciary Committee
 - House — Financial Services Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -95,3 +96,4 @@ Caesar Syria Civilian Protection Act of 2019
 - 2019-01-22 — Mr. Engel moved to suspend the rules and pass the bill, as amended.
 - 2019-01-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H970-971)
 - 2019-01-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H970-971)
+- 2019-01-23 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
