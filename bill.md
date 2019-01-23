@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 714
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 714
+
+> To reserve any amounts forfeited to the United States Government as a result of the criminal prosecution of Joaquin Archivaldo Guzman Loera (commonly known as “El Chapo”), or of other felony convictions involving the transportation of controlled substances into the United States, for security measures along the Southern border, including the completion of a border wall.
+
+## § 1. Short title
+
+This Act may be cited as the “Ensuring Lawful Collection of Hidden Assets to Provide Order Act” or the “EL CHAPO Act”.
+
+## § 2. Use of certain forfeited criminal proceeds for border security measures
+
+Notwithstanding any other provision of law, any illegally obtained profits resulting from any criminal drug trafficking enterprise led by Joaquin Archivaldo Guzman Loera (commonly known as “El Chapo”), which are criminally forfeited to the United States Government as a result of the conviction of Mr. Guzman Loera in Federal district court, shall be reserved for security measures along the border between the United States and Mexico, including the completion of a wall along such border, for the purpose of stemming the flow of illegal narcotics into the United States and furthering the Nation’s security.
+
+## § 3. Use of forfeited criminal proceeds of other convicted cartel members
+
+Notwithstanding any other provision of law, any funds that are criminally forfeited to the United States Government as the result of a felony conviction in a Federal district court of a member of a drug cartel—an individual engaging in a continuing criminal enterprise involving knowingly and intentionally distributing a controlled substance, intending and knowing that such substance would be unlawfully imported into the United States from a place outside of the United States—shall be reserved for security measures along the border between the United States and Mexico, including the completion of a wall along such border, for the purpose of stemming the flow of illegal narcotics into the United States and furthering the Nation’s security.
