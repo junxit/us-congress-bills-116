@@ -1,7 +1,7 @@
 ---
 measure: H.R. 676
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 676
@@ -55,3 +55,4 @@ NATO Support Act
 - 2019-01-22 — Mr. Engel moved to suspend the rules and pass the bill.
 - 2019-01-22 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 357 - 22 (Roll no. 44). (text: CR H976)
 - 2019-01-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 357 - 22 (Roll no. 44).(text: CR H976)
+- 2019-01-23 — Received in the Senate.
