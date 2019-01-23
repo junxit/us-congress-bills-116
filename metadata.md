@@ -1,7 +1,7 @@
 ---
 measure: H.R. 439
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 439
@@ -24,9 +24,10 @@ National FFA Organization's Federal Charter Amendments Act
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ National FFA Organization's Federal Charter Amendments Act
 - 2019-01-22 — Mr. Johnson (GA) moved to suspend the rules and pass the bill.
 - 2019-01-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H964-966)
 - 2019-01-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H964-966)
+- 2019-01-23 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
