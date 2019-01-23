@@ -1,7 +1,7 @@
 ---
 measure: H.R. 353
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 353
@@ -25,9 +25,10 @@ To direct the Secretary of State to develop a strategy to regain observer status
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -40,3 +41,5 @@ To direct the Secretary of State to develop a strategy to regain observer status
 - 2019-01-22 — Mr. Engel moved to suspend the rules and pass the bill.
 - 2019-01-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H974)
 - 2019-01-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H974)
+- 2019-01-23 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2019-01-23 — Sponsor introductory remarks on measure. (CR E80-81)
