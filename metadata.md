@@ -1,7 +1,7 @@
 ---
 measure: H.R. 439
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 439
@@ -41,3 +41,14 @@ National FFA Organization's Federal Charter Amendments Act
 - 2019-01-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H964-966)
 - 2019-01-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H964-966)
 - 2019-01-23 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2019-02-05 — Passed Senate without amendment by Voice Vote.
+- 2019-02-05 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2019-02-05 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S873)
+- 2019-02-05 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S873)
+- 2019-02-06 — Message on Senate action sent to the House.
+- 2019-02-12 — Presented to President.
+- 2019-02-12 — Presented to President.
+- 2019-02-21 — Became Public Law No: 116-7.
+- 2019-02-21 — Became Public Law No: 116-7.
+- 2019-02-21 — Signed by President.
+- 2019-02-21 — Signed by President.
