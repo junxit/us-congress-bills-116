@@ -1,7 +1,7 @@
 ---
 measure: H.R. 328
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 328
@@ -21,9 +21,10 @@ Hack Your State Department Act
 - Rep. Yoho, Ted S. [R-FL-3] (Y000065)
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -43,3 +44,4 @@ Hack Your State Department Act
 - 2019-01-22 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 377 - 3 (Roll no. 45). (text: CR H979-980)
 - 2019-01-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 377 - 3 (Roll no. 45).(text: CR H979-980)
 - 2019-01-22 — Sponsor introductory remarks on measure. (CR H981)
+- 2019-01-23 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
