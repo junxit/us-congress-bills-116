@@ -1,0 +1,31 @@
+---
+legis-num: H. RES. 76
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 76
+
+> Expressing support for the designation of a “Women’s Health Research Day”.
+
+## Preamble
+
+- Whereas women constitute 50.8 percent of Americans;
+- Whereas women across races, ethnicities, socioeconomic statuses, and age groups experience many diseases and disorders differently than men;
+- Whereas the incidence, prevalence, symptomology, and severity of disease may differ between men and women across races, ethnicities, socioeconomic statuses, and age groups;
+- Whereas women and men have fundamental biological differences;
+- Whereas women across races, ethnicities, socioeconomic statuses, and age groups vary in the risks and benefits of medical therapies;
+- Whereas for many years, women across races, ethnicities, socioeconomic statuses, and age groups were underrepresented in biomedical and clinical research;
+- Whereas the improvement of women’s health relies on sex- and gender-based biomedical and clinical research;
+- Whereas the promise of individualized medicine cannot be realized without sex- and gender-based parity in research;
+- Whereas, on January 25, 2016, the National Institutes of Health (NIH) implemented a policy requiring federally funded investigators to consider sex as a biological variable in preclinical research; and
+- Whereas this policy ushered in a new era of inclusivity and parity in women’s health research: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** expresses support for the designation of a “Women’s Health Research Day”; and
+- **(2)** supports efforts to—
+  - **(A)** recognize the importance of biomedical and clinical research to women’s health and well-being to advancing human health;
+  - **(B)** increase awareness of the value of sex- and gender-based biomedical research; and
+  - **(C)** encourage individuals, including researchers and patients, to advocate on behalf of sex- and gender-inclusive research across races, ethnicities, socioeconomic statuses, and age groups.
