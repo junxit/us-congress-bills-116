@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 28
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 28
@@ -50,3 +50,4 @@ Further Additional Continuing Appropriations Act, 2019
 - 2019-01-23 — Motion to reconsider laid on the table Agreed to without objection.
 - 2019-01-23 — On passage Passed by the Yeas and Nays: 229 - 184 (Roll no. 46).
 - 2019-01-23 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 229 - 184 (Roll no. 46).
+- 2019-01-24 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.

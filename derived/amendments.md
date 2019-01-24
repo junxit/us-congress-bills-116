@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 28
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
