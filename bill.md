@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 798
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 798
+
+> To amend the Immigration and Nationality Act to make the exception for returning workers permanent, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Returning Worker Accountability Act of 2019”.
+
+## § 2. Returning worker exception made permanent
+
+Section 214(g)(9)(A) of the Immigration and Nationality Act (8 U.S.C. 1184(g)(9)(A)) is amended by striking “who has already been counted toward the numerical limitation of paragraph (1)(B) during fiscal year 2013, 2014, or 2015 shall not again be counted toward such limitation during fiscal year 2016” and inserting “shall not be counted toward the numerical limitation of paragraph (1)(B) for a fiscal year if that alien has already been counted toward such limitation during any of the 3 fiscal years immediately preceding that fiscal year”.
