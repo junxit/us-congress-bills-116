@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 31
 congress: 116
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 31
@@ -55,3 +55,29 @@ Consolidated Appropriations Act, 2019
 - 2019-01-25 — Senate insists on its amendment, asks for a conference, appoints conferees Shelby; Capito; Hoeven; Blunt; Leahy; Durbin; Tester.
 - 2019-01-25 — The Speaker appointed conferees: Lowey, Roybal-Allard, Price of North Carolina, Lee of California, Cuellar, Aguilar, Granger, Fleischmann, Graves of Georgia, and Palazzo. (consideration: CR S684)
 - 2019-01-25 — The joint resolution was considered read the second time.
+- 2019-01-30 — Conference committee actions: Conference held.
+- 2019-01-30 — Conference held.
+- 2019-02-13 — Conferees agreed to file conference report.
+- 2019-02-13 — Conference committee actions: Conferees agreed to file conference report.
+- 2019-02-13 — Conference report H. Rept. 116-9 filed. (text of conference report: CR H1589-1995)
+- 2019-02-13 — Conference report filed: Conference report H. Rept. 116-9 filed.
+- 2019-02-14 — Cloture motion on the conference report presented in Senate. (CR S1362)
+- 2019-02-14 — Cloture on the conference report invoked in Senate by Yea-Nay Vote. 84 - 15. Record Vote Number: 25. (CR S1364)
+- 2019-02-14 — Conference papers: Senate report and manager's statement and official papers held at the desk in Senate.
+- 2019-02-14 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 300 - 128 (Roll No. 87).(text: CR 2/13/2019 H1590-1713)
+- 2019-02-14 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 83 - 16. Record Vote Number: 26.
+- 2019-02-14 — Conference report considered in Senate. (consideration: CR S1362-1364)
+- 2019-02-14 — DEBATE - The House proceeded with one hour of debate on the conference report to accompany H.J.Res. 31.
+- 2019-02-14 — Message on Senate action sent to the House.
+- 2019-02-14 — Motions to reconsider laid on the table Agreed to without objection.
+- 2019-02-14 — Mrs. Lowey brought up conference report H. Rept. 116-9 for consideration under the provisions of H. Res. 131. (consideration: CR H2016-2024)
+- 2019-02-14 — On agreeing to the conference report Agreed to by the Yeas and Nays: 300 - 128 (Roll No. 87). (text: CR 2/13/2019 H1590-1713)
+- 2019-02-14 — Pursuant to the provisions of S. Con. Res. 4, enrollment corrections on H.J. Res. 31 have been made.
+- 2019-02-14 — Senate agreed to conference report by Yea-Nay Vote. 83 - 16. Record Vote Number: 26.
+- 2019-02-14 — The previous question was ordered pursuant to the rule.
+- 2019-02-15 — Became Public Law No: 116-6.
+- 2019-02-15 — Became Public Law No: 116-6.
+- 2019-02-15 — Presented to President.
+- 2019-02-15 — Presented to President.
+- 2019-02-15 — Signed by President.
+- 2019-02-15 — Signed by President.
