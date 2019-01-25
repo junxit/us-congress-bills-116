@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 28
 congress: 116
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 28

@@ -1,15 +1,13 @@
 ---
 legis-num: H.J. RES. 28
-congress: 116th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Sixteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.J. RES. 28
 
-That the resolution from the House of Representatives (H.J. Res. 28) entitled “Joint resolution making further continuing appropriations for fiscal year 2019, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> Making further continuing appropriations for fiscal year 2019, and for other purposes.
 
 ## § 1.
 
