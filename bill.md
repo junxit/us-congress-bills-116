@@ -1,25 +1,43 @@
 ---
 legis-num: H.J. RES. 31
-congress: 116th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Sixteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.J. RES. 31
 
-That the resolution from the House of Representatives (H.J. Res. 31) entitled “Joint resolution making further continuing appropriations for the Department of Homeland Security for fiscal year 2019, and for other purposes.”, do pass with the following
+> Making consolidated appropriations for the fiscal year ending September 30, 2019, and for other purposes.
 
-*Strike all after the enacting clause and insert the following:*
+## § 1. Short title
 
-The Continuing Appropriations Act, 2019 (division C of Public Law 115–245) is further amended—
+This Act may be cited as the “Consolidated Appropriations Act, 2019”.
 
-- **(1)** in section 105—
-  - **(A)** in paragraph (2), by striking “or” at the end;
-  - **(B)** in paragraph (3)—
-    - **(i)** by inserting “except as provided in paragraph (4),” before “December”; and
-    - **(ii)** by striking the period at the end and inserting “; or”; and
-  - **(C)** by adding at the end the following:
-    > - **(4)** with respect to appropriations and funds made available, and other authorities granted, pursuant to section 101(5) of this joint resolution for the Department of Homeland Security, February 15, 2019.
+## § 2. Table of contents
 
-- **(2)** in section 110, by adding at the end the following:
-  > - **(c)** With respect to mandatory payments whose budget authority was provided in the Department of Homeland Security Appropriations Act, 2018 (division F of Public Law 115–141), subsections (a) and (b) shall be applied by substituting “section 105(4)” for “section 105(3)” each place it appears.
+## § 3. References to Act
+
+Except as expressly provided otherwise, any reference to “this Act” contained in any division of this Act shall be treated as referring only to the provisions of that division.
+
+## § 4. Statement of appropriations
+
+The following sums in this Act are appropriated, out of any money in the Treasury not otherwise appropriated, for the fiscal year ending September 30, 2019.
+
+## § 5. Availability of funds
+
+Each amount designated in this Act by the Congress for Overseas Contingency Operations/Global War on Terrorism pursuant to section 251(b)(2)(A)(ii) of the Balanced Budget and Emergency Deficit Control Act of 1985 shall be available (or rescinded, if applicable) only if the President subsequently so designates all such amounts and transmits such designations to the Congress.
+
+## § 6. Adjustments to Compensation
+
+For a payment to Joe Anne Jones, widow of Walter B. Jones Jr., late a Representative from North Carolina, $174,000.
+
+## § 7. Technical Correction
+
+Division O of the Consolidated Appropriations Act, 2018 (Public Law 115–141) is amended—
+
+- **(1)** in the heading, by inserting “Stephen Sepp” before “Wildfire”; and
+- **(2)** by amending section 101 to read as follows:
+  > ## § 101. Short title
+  >
+  > - **(a)** *Short title* This division may be cited as the “Stephen Sepp Wildfire Suppression Funding and Forest Management Activities Act”.
+  > - **(b)** *References* A reference to the Wildfire Suppression Funding and Forest Management Activities Act, including a reference in a regulation, order, or other law, is deemed to refer to the Stephen Sepp Wildfire Suppression Funding and Forest Management Activities Act.
