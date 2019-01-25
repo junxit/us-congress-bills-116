@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 28
 congress: 116
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.J.Res. 28
@@ -46,3 +46,23 @@ Further Additional Continuing Appropriations Act, 2019
 - 2019-01-23 — On passage Passed by the Yeas and Nays: 229 - 184 (Roll no. 46).
 - 2019-01-23 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 229 - 184 (Roll no. 46).
 - 2019-01-24 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2019-01-25 — Amendment SA 54 agreed to in Senate by Unanimous Consent.
+- 2019-01-25 — Amendment SA 54 proposed by Senator McConnell for Senator Shelby. (consideration: CR S683-684; text: CR S683-684) In the nature of a substitute.
+- 2019-01-25 — Became Public Law No: 116-5.
+- 2019-01-25 — Became Public Law No: 116-5.
+- 2019-01-25 — Measure laid before Senate by unanimous consent. (consideration: CR S683-684)
+- 2019-01-25 — Message on Senate action sent to the House.
+- 2019-01-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-01-25 — Mrs. Lowey asked unanimous consent to take from the Speaker's table, with the Senate amendment thereto, and agree to the Senate amendment. (consideration: CR H1215-1216)
+- 2019-01-25 — On motion that the House agree to the Senate amendment Agreed to without objection. (text: CR H1215-1216)
+- 2019-01-25 — Passed Senate with an amendment by Voice Vote.
+- 2019-01-25 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2019-01-25 — Presented to President.
+- 2019-01-25 — Presented to President.
+- 2019-01-25 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text: CR H1215-1216)
+- 2019-01-25 — Senate amendment agreed to: Amendment SA 54 agreed to in Senate by Unanimous Consent.
+- 2019-01-25 — Senate amendment proposed (on the floor): Amendment SA 54 proposed by Senator McConnell for Senator Shelby.
+- 2019-01-25 — Senate amendment submitted
+- 2019-01-25 — Signed by President.
+- 2019-01-25 — Signed by President.
+- 2019-01-25 — The joint resolution was considered read the second time.
