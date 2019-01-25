@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 31
 congress: 116
-version: Received in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
