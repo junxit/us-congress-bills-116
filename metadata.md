@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 31
 congress: 116
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.J.Res. 31
@@ -41,3 +41,17 @@ Consolidated Appropriations Act, 2019
 - 2019-01-24 — Rule provides for consideration of H.R. 648 and H.J. Res. 31. Rule provides for consideration of H.R. 648 and H.J. Res. 31 under closed rules with one hour of debate for each measure. Rule provides for consideration of motions to suspend the rules through the legislative day of February 1, 2019
 - 2019-01-24 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-01-24 — The previous question was ordered pursuant to the rule.
+- 2019-01-25 — Amendment SA 55 agreed to in Senate by Unanimous Consent.
+- 2019-01-25 — Amendment SA 55 proposed by Senator McConnell for Senator Shelby. (consideration: CR S684; text: CR S684) In the nature of a substitute.
+- 2019-01-25 — Measure laid before Senate by unanimous consent. (consideration: CR S684)
+- 2019-01-25 — Message on Senate action sent to the House.
+- 2019-01-25 — Mrs. Lowey asked unanimous consent to take from the Speaker's table, with the Senate amendment thereto, disagree to the Senate amendment, and agree to the conference requested by the Senate. (consideration: CR H1216)
+- 2019-01-25 — On motion that the House disagree to the Senate amendment, and agree to a conference Agreed to without objection.
+- 2019-01-25 — Passed Senate with an amendment by Voice Vote.
+- 2019-01-25 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2019-01-25 — Senate amendment agreed to: Amendment SA 55 agreed to in Senate by Unanimous Consent.
+- 2019-01-25 — Senate amendment proposed (on the floor): Amendment SA 55 proposed by Senator McConnell for Senator Shelby.
+- 2019-01-25 — Senate amendment submitted
+- 2019-01-25 — Senate insists on its amendment, asks for a conference, appoints conferees Shelby; Capito; Hoeven; Blunt; Leahy; Durbin; Tester.
+- 2019-01-25 — The Speaker appointed conferees: Lowey, Roybal-Allard, Price of North Carolina, Lee of California, Cuellar, Aguilar, Granger, Fleischmann, Graves of Georgia, and Palazzo. (consideration: CR S684)
+- 2019-01-25 — The joint resolution was considered read the second time.
