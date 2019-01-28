@@ -35,7 +35,7 @@ It is the sense of Congress that the Federal Government should prioritize the in
 ## § 4. Rewards for information related to terrorist use of digital currencies
 
 - **(a)** *In general* The Secretary of the Treasury, in consultation with the Attorney General, shall establish a fund to pay a reward, not to exceed $450,000, to any person who provides information leading to the conviction of an individual involved with terrorist use of digital currencies.
-- **(b)** *Use of fines and forfeitures* With respect to fines and forfeitures related to the conviction of an individual involved with terrorist use of digital currencies, the Secretary of the Treasury shall, without further appropriation or fiscal year limitation—
+- **(b)** *Use of fines and forfeitures* With respect to fines and forfeitures related to the conviction of an individual involved with terrorist use of digital currencies, the Secretary of the Treasury shall, subject to the availability of appropriations made in advance—
   - **(1)** use such amounts to pay rewards under this section related to such conviction; and
   - **(2)** with respect to any such amounts remaining after payments are made under paragraphs (1) and (2), deposit such amounts in the Fintech Leadership in Innovation and Financial Intelligence Program.
 
@@ -65,12 +65,16 @@ It is the sense of Congress that the Federal Government should prioritize the in
   - **(2)** *Form; public availability*
     - **(A)** *Form* The report and strategy required under paragraph (1) shall be submitted in unclassified form, but may contain a classified annex.
     - **(B)** *Public availability* The unclassified portion of such report and strategy shall be made available to the public and posted on the internet website of the Department of Treasury—
-      - **(i)** in pre-compressed, easily down­load­a­ble versions that are made available in all appropriate formats; and
+      - **(i)** in pre-compressed, easily downloadable versions that are made available in all appropriate formats; and
       - **(ii)** in machine-readable format, if applicable.
   - **(3)** *Sources of information* In preparing the report and strategy required under paragraph (1), the President may utilize any credible publication, database, web-based resource, and any credible information compiled by any government agency, nongovernmental organization, or other entity that is made available to the President.
 - **(b)** *Briefing* Not later than 2 years after the date of the enactment of this Act, the Secretary of the Treasury shall brief the appropriate congressional committees on the implementation of the strategy required under subsection (a).
 
-## § 7. Definitions
+## § 7. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
+
+## § 8. Definitions
 
 For purposes of this Act:
 
