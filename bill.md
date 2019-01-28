@@ -1,0 +1,28 @@
+---
+legis-num: S. 242
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 242
+
+> To require the Secretary of Agriculture to release reversionary and reserved interests in certain land in the Coconino National Forest in the State of Arizona.
+
+## § 1. Short title
+
+This Act may be cited as the “Lowell Observatory Conveyance Act”.
+
+## § 2. Definitions
+
+In this Act:
+
+- **(1)** *Observatory* The term “Observatory” means the Lowell Observatory in Flagstaff, Arizona.
+- **(2)** *Secretary* The term “Secretary” means the Secretary of Agriculture, acting through the Chief of the Forest Service.
+
+## § 3. Release of reversionary and reserved interests
+
+- **(a)** *In general* Subject to valid existing rights, if the Observatory makes a written request to the Secretary for conveyance of the parcel of land described in subsection (b) not later than 180 days after the date of enactment of this Act, the Secretary shall convey to the Observatory, without consideration and by quitclaim deed, all right, title, and interest of the United States in and to that parcel of land.
+- **(b)** *Land described* The parcel of land to be conveyed under subsection (a) is the National Forest System land—
+  - **(1)** conveyed by the United States to Percival Lowell and his heirs by the Act entitled “An Act granting certain lands in the Coconino National Forest, in Arizona, for observatory purposes”, approved May 30, 1910 (36 Stat. 452; chapter 261); and
+  - **(2)** described as sec. 17, T. 21 N., R. 7 E., of the Gila and Salt River base and meridian in Coconino County, Arizona.
