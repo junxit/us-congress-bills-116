@@ -1,7 +1,7 @@
 ---
 measure: H.R. 648
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 648
@@ -40,3 +40,5 @@ Consolidated Appropriations Act, 2019
 - 2019-01-23 — Rule provides for consideration of H.R. 648 and H.J. Res. 31. Rule provides for consideration of H.R. 648 and H.J. Res. 31 under closed rules with one hour of debate for each measure. Rule provides for consideration of motions to suspend the rules through the legislative day of February 1, 2019
 - 2019-01-23 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-01-23 — The previous question was ordered pursuant to the rule.
+- 2019-01-24 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2019-01-28 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 16.
