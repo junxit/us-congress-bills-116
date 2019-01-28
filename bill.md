@@ -16,7 +16,7 @@ This Act may be cited as the “Promoting Transparent Standards for Corporate In
 ## § 2. SEC study
 
 - **(a)** *Study*
-  - **(1)** *In general* The Securities and Exchange Commission shall carry out a study of whether Rule 10b5–1 (17 C.F.R. 240.10b5–1) should be amended to—
+  - **(1)** *In general* The Securities and Exchange Commission shall carry out a study of whether Rule 10b5–1 (17 CFR 240.10b5–1) should be amended to—
     - **(A)** limit the ability of issuers and issuer insiders to adopt a plan described under paragraph (c)(1)(i)(A)(3) of Rule 10b5–1 (“trading plan”) to a time when the issuer or issuer insider is permitted to buy or sell securities during issuer-adopted trading windows;
     - **(B)** limit the ability of issuers and issuer insiders to adopt multiple trading plans;
     - **(C)** establish a mandatory delay between the adoption of a trading plan and the execution of the first trade pursuant to such a plan and, if so and depending on the Commission’s findings with respect to subparagraph (A)—
