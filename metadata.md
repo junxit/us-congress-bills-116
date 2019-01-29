@@ -1,7 +1,7 @@
 ---
 measure: H.R. 502
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 502
@@ -22,10 +22,11 @@ FIND Trafficking Act
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 - Rep. Axne, Cynthia [D-IA-3] (A000378)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ FIND Trafficking Act
 - 2019-01-28 — Ms. Waters moved to suspend the rules and pass the bill.
 - 2019-01-28 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 3 (Roll no. 53). (text: CR H1223-1224)
 - 2019-01-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 3 (Roll no. 53).(text: CR H1223-1224)
+- 2019-01-29 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
