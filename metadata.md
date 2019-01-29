@@ -1,7 +1,7 @@
 ---
 measure: H.R. 56
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 56
@@ -23,9 +23,10 @@ Financial Technology Protection Act
 - Rep. Soto, Darren [D-FL-9] (S001200)
 - Rep. Davidson, Warren [R-OH-8] (D000626)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Financial Technology Protection Act
 - 2019-01-28 — Ms. Waters moved to suspend the rules and pass the bill, as amended.
 - 2019-01-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1227-1228)
 - 2019-01-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1227-1228)
+- 2019-01-29 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
