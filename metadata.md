@@ -1,7 +1,7 @@
 ---
 measure: H.R. 624
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 624
@@ -21,9 +21,10 @@ Promoting Transparent Standards for Corporate Insiders Act
 - Rep. McHenry, Patrick T. [R-NC-10] (M001156)
 - Rep. Green, Al [D-TX-9] (G000553)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Promoting Transparent Standards for Corporate Insiders Act
 - 2019-01-28 — Mr. Himes moved to suspend the rules and pass the bill.
 - 2019-01-28 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 3 (Roll no. 52). (text: CR H1221)
 - 2019-01-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 3 (Roll no. 52).(text: CR H1221)
+- 2019-01-29 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
