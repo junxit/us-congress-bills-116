@@ -1,0 +1,15 @@
+---
+legis-num: H. CON. RES. 10
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. CON. RES. 10
+
+> Authorizing the use of the rotunda of the Capitol to honor the last surviving Medal of Honor recipient of the Second World War upon death.
+
+## § 1. Honoring last surviving Medal of Honor recipient of Second World War
+
+- **(a)** *Use of rotunda* At the election of the individual (or next of kin of the individual), the last individual to die who was awarded the Medal of Honor for acts performed during World War II shall be permitted to lie in honor in the rotunda of the Capitol upon death.
+- **(b)** *Implementation* The Architect of the Capitol, under the direction and supervision of the President pro tempore of the Senate and the Speaker of the House of Representatives, shall take the necessary steps to implement subsection (a) upon the death of the individual described in such subsection.
