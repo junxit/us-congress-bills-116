@@ -1,0 +1,30 @@
+---
+legis-num: H.R. 938
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 938
+
+> To amend the Federal Food, Drug, and Cosmetic Act, with respect to eligibility for approval of a subsequent generic drug, to remove the barrier to that approval posed by the 180-day exclusivity period afforded to a first generic applicant that has not yet received final approval, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Bringing Low-cost Options and Competition while Keeping Incentives for New Generics Act of 2019” or the “BLOCKING Act of 2019”.
+
+## § 2. Change conditions of first generic exclusivity to spur access and competition
+
+Section 505(j)(5)(B)(iv) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j)(5)(B)(iv)) is amended—
+
+- **(1)** in subclause (I), by striking “180 days after” and all that follows through the period at the end and inserting the following:
+  > 180 days after the earlier of—
+  > - **(aa)** the date of the first commercial marketing of the drug (including the commercial marketing of the listed drug) by any first applicant; or
+  > - **(bb)** the applicable date specified in subclause (III).
+
+- **(2)** by adding at the end the following new subclause:
+  > - **(III)** *Applicable date* The applicable date specified in this subclause, with respect to an application for a drug described in subclause (I), is the date on which each of the following conditions is first met:
+  >   - **(aa)** The approval of such an application could be made effective, but for the eligibility of a first applicant for 180-day exclusivity under this clause.
+  >   - **(bb)** At least 30 months have passed since the date of submission of an application for the drug by at least one first applicant.
+  >   - **(cc)** Approval of an application for the drug submitted by at least one first applicant is not precluded under clause (iii).
+  >   - **(dd)** No application for the drug submitted by any first applicant is approved at the time the conditions under items (aa), (bb), and (cc) are all met, regardless of whether such an application is subsequently approved.
