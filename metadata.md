@@ -1,7 +1,7 @@
 ---
 measure: H.R. 790
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 790
@@ -99,3 +99,4 @@ Federal Civilian Workforce Pay Raise Fairness Act of 2019
 - 2019-01-30 — The Speaker designated the Honorable Gregorio Kilili Camacho Sablan to act as Chairman of the Committee.
 - 2019-01-30 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-01-30 — The previous question was ordered pursuant to the rule.
+- 2019-01-31 — Received in the Senate.
