@@ -1,0 +1,18 @@
+---
+legis-num: S. 302
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 302
+
+> To permanently reauthorize the Land and Water Conservation Fund.
+
+## § 1. Permanent reauthorization of Land and Water Conservation Fund
+
+- **(a)** *In general* Section 200302 of title 54, United States Code, is amended—
+  - **(1)** in subsection (b), in the matter preceding paragraph (1), by striking “During the period ending September 30, 2018, there” and inserting “There”; and
+  - **(2)** in subsection (c)(1), by striking “through September 30, 2018”.
+- **(b)** *Public access* Section 200306 of title 54, United States Code, is amended by adding at the end the following:
+  > - **(c)** *Public access* Not less than 1.5 percent of amounts made available for expenditure in any fiscal year under section 200303, or $10,000,000, whichever is greater, shall be used for projects that secure recreational public access to existing Federal public land for hunting, fishing, and other recreational purposes.
