@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 9
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 9
@@ -25,3 +25,5 @@ Providing for a joint session of Congress to receive a message from the Presiden
 - 2019-01-29 — On agreeing to the resolution Agreed to without objection.
 - 2019-01-29 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.
 - 2019-01-29 — Received in the Senate.
+- 2019-02-04 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S839)
+- 2019-02-04 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S839)
