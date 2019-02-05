@@ -1,7 +1,7 @@
 ---
 measure: S. 310
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 310
@@ -37,3 +37,7 @@ Migratory Birds of the Americas Conservation Act
 
 - 2019-01-31 — Introduced in Senate
 - 2019-01-31 — Read twice and referred to the Committee on Environment and Public Works.
+- 2019-02-05 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2019-02-05 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.
+- 2019-02-05 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.
+- 2019-02-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 21.
