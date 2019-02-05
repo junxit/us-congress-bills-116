@@ -1,0 +1,42 @@
+---
+legis-num: H.R. 971
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 971
+
+> To amend title 18, United States Code, to prohibit the possession of a firearm by, or the disposition of a firearm to, a person who has been convicted of a misdemeanor crime of animal cruelty.
+
+## § 1. Short title
+
+This Act may be cited as the “Animal Violence Exposes Real Threat of Future Gun Violence Act of 2019” or the “AVERT Future Gun Violence Act of 2019”.
+
+## § 2. Prohibition on the possession of a firearm by, or the disposition of a firearm to, a person who has been convicted of a misdemeanor crime of animal cruelty
+
+- **(a)** *Definition* Section 921(a) of title 18, United States Code, is amended by adding at the end the following:
+  > - **(35)**
+  >   - **(A)** The term misdemeanor crime of animal cruelty means an offense that—
+  >     - **(i)** is a misdemeanor under Federal, State, or tribal law; and
+  >     - **(ii)** has, as an element, knowingly causing unnecessary or unjustifiable physical pain or suffering to an animal by an act, omission, or neglect.
+  >   - **(B)**
+  >     - **(i)** A person shall not be considered to have been convicted of such an offense for purposes of this chapter, unless—
+  >       - **(I)** the person was represented by counsel in the case, or knowingly and intelligently waived the right to counsel in the case; and
+  >       - **(II)** in the case of a prosecution for an offense described in this paragraph for which a person was entitled to a jury trial in the jurisdiction in which the case was tried, either—
+  >         - **(aa)** the case was tried by a jury; or
+  >         - **(bb)** the person knowingly and intelligently waived the right to have the case tried by a jury, by guilty plea or otherwise.
+  >     - **(ii)** A person shall not be considered to have been convicted of such an offense for purposes of this chapter if the conviction has been expunged or set aside, or is an offense for which the person has been pardoned or has had civil rights restored (if the law of the applicable jurisdiction provides for the loss of civil right under such an offense), unless the pardon, expungement, or restoration of civil rights expressly provides that the person may not ship, transport, possess, or receive firearms.
+
+- **(b)** *Prohibitions* Section 922 of such title is amended—
+  - **(1)** in the 1st sentence of subsection (d)—
+    - **(A)** in paragraph (8)(B)(ii), by striking “or” at the end;
+    - **(B)** in paragraph (9), by striking the period and inserting “; or”; and
+    - **(C)** by adding at the end the following:
+      > - **(10)** has been convicted in any court of a misdemeanor crime of animal cruelty.
+
+  - **(2)** in subsection (g)—
+    - **(A)** in paragraph (8)(C)(ii), by striking “or” at the end;
+    - **(B)** in paragraph (9), by striking the comma and inserting “; or”; and
+    - **(C)** by adding at the end the following:
+      > - **(10)** who has been convicted in any court of a misdemeanor crime of animal cruelty,
