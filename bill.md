@@ -77,7 +77,7 @@ This Act may be cited as the “Wildlife Innovation and Longevity Driver Act” 
       >     - **(B)** in consultation with federally recognized Indian tribes; and
       >     - **(C)** in accordance with the priorities established by 1 or more Governors of the eligible States in which an ecosystem affected by an invasive species is located.
       >   - **(3)** *Factors for consideration* In developing a strategic plan under this subsection, the Secretary concerned shall take into consideration the economic and ecological costs of action or inaction, as applicable.
-      > - **(d)** *Cost-Effective methods* In selecting a method to be used to control or manage an invasive species as part of a specific control or management project conducted as part of a strategic plan developed under subsection (c), the Secretary concerned shall prioritize the use of methods that—
+      > - **(d)** *Cost-effective methods* In selecting a method to be used to control or manage an invasive species as part of a specific control or management project conducted as part of a strategic plan developed under subsection (c), the Secretary concerned shall prioritize the use of methods that—
       >   - **(1)** effectively control and manage invasive species, as determined by the Secretary concerned, based on sound scientific data;
       >   - **(2)** minimize environmental impacts; and
       >   - **(3)** control and manage invasive species in the most cost-effective manner.
