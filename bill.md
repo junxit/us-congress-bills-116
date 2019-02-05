@@ -1,0 +1,23 @@
+---
+legis-num: S. 329
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 329
+
+> To amend the Internal Revenue Code of 1986 to include fuel cells using electromechanical processes for purposes of the energy tax credit.
+
+## § 1. Short title
+
+This Act may be cited as the “Linear Generator Parity Act”.
+
+## § 2. Including fuel cells using electromechanical processes for purposes of the energy tax credit
+
+- **(a)** *In general* Paragraph (1) of section 48(c) of the Internal Revenue Code of 1986 is amended—
+  - **(1)** in subparagraph (A)(i), by inserting “or electromechanical” after “electrochemical”, and
+  - **(2)** in subparagraph (C)—
+    - **(A)** by inserting “, or linear generator assembly,” after “a fuel cell stack assembly”, and
+    - **(B)** by striking “electrochemical means” and inserting “electrochemical or electromechanical means without the use of rotating parts”.
+- **(b)** *Effective date* The amendments made by this section shall apply to property placed in service after the date of the enactment of this Act.
