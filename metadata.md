@@ -1,7 +1,7 @@
 ---
 measure: H.R. 831
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 831
@@ -16,9 +16,11 @@ Reviving America's Scenic Byways Act of 2019
 
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Rep. Graves, Garret [R-LA-6] (G000577)
+- Rep. Pappas, Chris [D-NH-1] (P000614)
+- Rep. Rouda, Harley [D-CA-48] (R000616)
 
 ## Committees (1)
 
@@ -29,3 +31,11 @@ Reviving America's Scenic Byways Act of 2019
 - 2019-01-29 — Introduced in House
 - 2019-01-29 — Introduced in House
 - 2019-01-29 — Referred to the House Committee on Transportation and Infrastructure.
+- 2019-02-06 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2019-02-06 — Considered as unfinished business. (consideration: CR H1377)
+- 2019-02-06 — Considered under suspension of the rules. (consideration: CR H1372-1374)
+- 2019-02-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 831.
+- 2019-02-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-02-06 — Ms. Norton moved to suspend the rules and pass the bill.
+- 2019-02-06 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 19 (Roll no. 66). (text: CR H1373)
+- 2019-02-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 19 (Roll no. 66).(text: CR H1373)
