@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 1005
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1005
+
+> To direct the Secretary of Veterans Affairs to amend the schedule for rating disabilities to add a diagnostic code and evaluation criteria for obliterative bronchiolitis, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Burn Pit Veterans Revision Act”.
+
+## § 2. Revision of Department of Veterans Affairs disability rating schedule with respect to obliterative bronchiolitis
+
+Not later than 180 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall—
+
+- **(1)** amend the schedule for rating disabilities pursuant to section 1155 of title 38, United States Code, to add a diagnostic code and evaluation criteria for obliterative bronchiolitis; and
+- **(2)** provide a process by which a veteran who, as of the date of the enactment of this Act, is receiving compensation under chapter 11 of such title for a service-connected disability—
+  - **(A)** may have such service-connected disability reevaluated based on the diagnostic code and evaluation criteria described in paragraph (1); and
+  - **(B)** may be assigned a new disability rating as a result of such reevaluation, if such assignment does not reduce the disability rating of such veteran in effect immediately prior to the date of such assignment.
