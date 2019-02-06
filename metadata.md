@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 33
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 33
@@ -30,3 +30,7 @@ A resolution supporting the contributions of Catholic schools.
 
 - 2019-01-28 — Introduced in Senate
 - 2019-01-28 — Referred to the Committee on Health, Education, Labor, and Pensions.
+- 2019-02-06 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 2019/01/28 CR S701-702)
+- 2019-02-06 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 2019/01/28 CR S701-702)
+- 2019-02-06 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S1023)
+- 2019-02-06 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S1023)
