@@ -83,7 +83,3 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(1)** *Administrator* The term “Administrator” means the Administrator of the Federal Emergency Management Agency.
   - **(2)** *Covered event* The term “covered event” means an earthquake, tsunami, or combined earthquake and tsunami event.
   - **(3)** *Task force* The term “Task Force” means the Federal interagency task force to be established under subsection (a).
-
-## § 4. National preparation and response efforts relating to earthquakes and tsunamis
-
-The Administrator of the Federal Emergency Management Agency shall be responsible for the Nation’s efforts to reduce the loss of life and property, and to protect the Nation, from an earthquake, tsunami, or combined earthquake and tsunami event by developing the ability to prepare and plan for, mitigate against, respond to, recover from, and more successfully adapt to such an event.
