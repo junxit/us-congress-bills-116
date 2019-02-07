@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 105
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 105
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 840) to amend title 38, United Sta
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2019-02-07 — [House 116-1-68](votes/house-116-1-0068.md) — On Ordering the Previous Question — **Passed** (227–189)
+- 2019-02-07 — [House 116-1-69](votes/house-116-1-0069.md) — On Agreeing to the Resolution — **Passed** (225–193)
+
 ## Actions
 
 - 2019-02-06 — Introduced in House
@@ -27,3 +32,11 @@ Providing for consideration of the bill (H.R. 840) to amend title 38, United Sta
 - 2019-02-06 — Rule provides for consideration of H.R. 840 under a structured rule. Rule provides that H. Res. 86 is adopted. Rule also provides for consideration of motions to suspend the rules through the legislative day of February 15, 2019.
 - 2019-02-06 — The House Committee on Rules reported an original measure, H. Rept. 116-6, by Mr. Morelle.
 - 2019-02-06 — The House Committee on Rules reported an original measure, H. Rept. 116-6, by Mr. Morelle.
+- 2019-02-07 — Considered as privileged matter. (consideration: CR H1399-1403)
+- 2019-02-07 — Considered as unfinished business. (consideration: CR H1415-1416)
+- 2019-02-07 — DEBATE - The House proceeded with one hour of debate on H. Res. 105.
+- 2019-02-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-02-07 — On agreeing to the resolution Agreed to by the Yeas and Nays: 225 - 193 (Roll no. 69). (text: CR H1399)
+- 2019-02-07 — On ordering the previous question Agreed to by the Yeas and Nays: 227 - 189 (Roll no. 68). (consideration: CR H1415-1416)
+- 2019-02-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 105, the Chair put the question on ordering the previous question, and by voice vote, announced that the ayes had prevailed. Mr. Woodall demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2019-02-07 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 225 - 193 (Roll no. 69).(text: CR H1399)
