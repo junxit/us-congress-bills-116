@@ -1,7 +1,7 @@
 ---
 measure: H.R. 831
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 831
@@ -41,3 +41,14 @@ Reviving America's Scenic Byways Act of 2019
 - 2019-02-06 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 19 (Roll no. 66). (text: CR H1373)
 - 2019-02-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 19 (Roll no. 66).(text: CR H1373)
 - 2019-02-07 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2019-09-09 — Passed Senate without amendment by Voice Vote.
+- 2019-09-09 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2019-09-09 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S5367)
+- 2019-09-09 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S5367)
+- 2019-09-10 — Message on Senate action sent to the House.
+- 2019-09-11 — Presented to President.
+- 2019-09-11 — Presented to President.
+- 2019-09-22 — Became Public Law No: 116-57.
+- 2019-09-22 — Became Public Law No: 116-57.
+- 2019-09-22 — Signed by President.
+- 2019-09-22 — Signed by President.
