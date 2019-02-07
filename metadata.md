@@ -1,7 +1,7 @@
 ---
 measure: H.R. 543
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 543
@@ -21,9 +21,10 @@ To require the Federal Railroad Administration to provide appropriate congressio
 - Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
 - Rep. Rouda, Harley [D-CA-48] (R000616)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ To require the Federal Railroad Administration to provide appropriate congressio
 - 2019-02-06 — Ms. Norton moved to suspend the rules and pass the bill.
 - 2019-02-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1372)
 - 2019-02-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1372)
+- 2019-02-07 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
