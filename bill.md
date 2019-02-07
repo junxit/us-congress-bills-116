@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 1071
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1071
+
+> To amend the Internal Revenue Code of 1986 to permanently extend the deduction for qualified tuition and related expenses.
+
+## § 1. Short title
+
+This Act may be cited as the “Student and Families Tax Reduction Act”.
+
+## § 2. Permanent extension of deduction for qualified tuition and related expenses
+
+- **(a)** *In general* Section 222 of the Internal Revenue Code of 1986 is amended by striking subsection (e).
+- **(b)** *Effective date* The amendment made by this section shall apply to taxable years beginning after December 31, 2017.
