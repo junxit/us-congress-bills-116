@@ -1,7 +1,7 @@
 ---
 measure: H.R. 866
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 866
@@ -41,3 +41,14 @@ Fairness For Breastfeeding Mothers Act of 2019
 - 2019-02-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1371)
 - 2019-02-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1371)
 - 2019-02-07 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2019-06-26 — Passed Senate without amendment by Voice Vote.
+- 2019-06-26 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2019-06-26 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S4585)
+- 2019-06-26 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S4585)
+- 2019-06-27 — Message on Senate action sent to the House.
+- 2019-07-15 — Presented to President.
+- 2019-07-15 — Presented to President.
+- 2019-07-25 — Became Public Law No: 116-30.
+- 2019-07-25 — Became Public Law No: 116-30.
+- 2019-07-25 — Signed by President.
+- 2019-07-25 — Signed by President.
