@@ -1,7 +1,7 @@
 ---
 measure: H.R. 66
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 66
@@ -32,9 +32,10 @@ Route 66 Centennial Commission Act
 - Rep. Rouda, Harley [D-CA-48] (R000616)
 - Rep. Kinzinger, Adam [R-IL-16] (K000378)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -53,3 +54,4 @@ Route 66 Centennial Commission Act
 - 2019-02-06 — Ms. Norton moved to suspend the rules and pass the bill.
 - 2019-02-06 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 399 - 22 (Roll no. 67). (text: CR H1374-1375)
 - 2019-02-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 399 - 22 (Roll no. 67).(text: CR H1374-1375)
+- 2019-02-07 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
