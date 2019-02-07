@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 1057
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1057
+
+> To amend title 28, United States Code, to provide for a code of conduct for justices and judges of the courts of the United States.
+
+## § 1. Short title
+
+This Act may be cited as the “Supreme Court Ethics Act”.
+
+## § 2. Code of conduct
+
+- **(a)** *In general* Chapter 57 of title 28, United States Code, is amended by adding at the end the following:
+  > ## § 964. Code of conduct
+  >
+  > Not later than 1 year after the date of the enactment of this section, the Judicial Conference of the United States shall issue a code of conduct, which applies to each justice and judge of the courts of the United States, except that the code of conduct may include provisions that are applicable only to certain categories of judges or justices.
+
+- **(b)** *Technical and conforming amendment* The table of sections for chapter 57 of title 28, United States Code, is amended by adding after the item related to section 963 the following:
