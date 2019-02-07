@@ -1,7 +1,7 @@
 ---
 measure: H.R. 876
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 876
@@ -21,9 +21,10 @@ Pacific Northwest Earthquake Preparedness Act of 2019
 - Rep. Bonamici, Suzanne [D-OR-1] (B001278)
 - Rep. Rouda, Harley [D-CA-48] (R000616)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Pacific Northwest Earthquake Preparedness Act of 2019
 - 2019-02-06 — Mr. DeFazio moved to suspend the rules and pass the bill, as amended.
 - 2019-02-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1368-1369)
 - 2019-02-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1368-1369)
+- 2019-02-07 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
