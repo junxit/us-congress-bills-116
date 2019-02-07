@@ -1,7 +1,7 @@
 ---
 measure: H.R. 494
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 4 executed, 7 stated and not applied.
+12 amendatory instructions. 4 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,11 +35,11 @@ to guess them.
 
 ### 42 U.S.C. § 3796ee
 
-> in paragraph (11), as so redesignated, by striking “research-based bullying, cy­ber­bul­ly­ing, and gang prevention programs” and inserting “interventions such as researched-based anti-bullying, anti-cyberbullying, and gang prevention programs, as well as mental health services and trauma-informed practices”;
+> in paragraph (11), as so redesignated, by striking “research-based bullying, cyberbullying, and gang prevention programs” and inserting “interventions such as researched-based anti-bullying, anti-cyberbullying, and gang prevention programs, as well as mental health services and trauma-informed practices”;
 
 | | |
 |---|---|
-| Removed | `research-based bullying, cy­ber­bul­ly­ing, and gang prevention programs` |
+| Removed | `research-based bullying, cyberbullying, and gang prevention programs` |
 | Inserted | `interventions such as researched-based anti-bullying, anti-cyberbullying, and gang prevention programs, as well as mental health services and trauma-informed practices` |
 
 ### 42 U.S.C. § 3796ee
@@ -53,12 +53,12 @@ to guess them.
 
 ### 42 U.S.C. § 3796ee
 
-> in section 1810(a), by striking “$350,000,000 for each of fiscal years 2006 through 2009” and inserting “$30,000,000 for each of fiscal years 2019 through 2023”; and
+> in section 1810(a), by striking “$350,000,000 for each of fiscal years 2006 through 2009” and inserting “$30,000,000 for each of fiscal years 2020 through 2024”; and
 
 | | |
 |---|---|
 | Removed | `$350,000,000 for each of fiscal years 2006 through 2009` |
-| Inserted | `$30,000,000 for each of fiscal years 2019 through 2023` |
+| Inserted | `$30,000,000 for each of fiscal years 2020 through 2024` |
 
 ## Stated, not applied
 
@@ -76,3 +76,4 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 3796ee` | insert | by inserting after “a fine,” the following: “a restorative justice program,”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3796ee` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3796ee` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 10261` | amend | Section 1001(a)(16) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10261(a)(16)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
