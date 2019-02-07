@@ -24,3 +24,7 @@ This Act may be cited as the “Preventing Crimes Against Veterans Act of 2019�
   >   - **(2)** the term “veterans’ benefits” means any benefit provided by Federal law for a veteran or a dependent or survivor of a veteran.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of chapter 63 of title 18, United States Code, is amended by adding at the end the following new item:
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
