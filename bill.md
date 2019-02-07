@@ -1,0 +1,24 @@
+---
+legis-num: S. 424
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 424
+
+> To clarify the congressional intent behind the requirements relating to immediate suspension orders and corrective action plans under the Controlled Substances Act that were added by the Ensuring Patient Access and Effective Drug Enforcement Act of 2016.
+
+## § 1. Short title
+
+This Act may be cited as the “DEA Enforcement and Authority Act of 2019”.
+
+## § 2. Denial, revocation, or suspension of controlled substances registration
+
+- **(a)** *Standard of review for immediate suspension orders* Section 304(d)(2) of the Controlled Substances Act (21 U.S.C. 824(d)(2)) is amended by striking “a substantial likelihood of an immediate threat” and inserting “probable cause”.
+- **(b)** *Opportunity To submit corrective action plan prior to revocation or suspension*
+  - **(1)** *In general* Section 304(c) of the Controlled Substances Act (21 U.S.C. 824(c)) is amended—
+    - **(A)** by striking paragraphs (2) through (5);
+    - **(B)** by striking “(c)(1) Before” and inserting “(c) Before”; and
+    - **(C)** by adding at the end the following: “The order to show cause shall contain a statement of the basis thereof and shall call upon the applicant or registrant to appear before the Attorney General at a time and place stated in the order, but in no event less than 30 days after the date of receipt of the order. Proceedings to deny, revoke, or suspend shall be conducted pursuant to this section in accordance with subchapter II of chapter 5 of title 5, United States Code. Such proceedings shall be independent of, and not in lieu of, criminal prosecutions or other proceedings under this title or any other law of the United States.”.
+  - **(2)** *Applicability to pending corrective action plans* The Attorney General shall not be required to review any corrective action plan submitted by an applicant or registrant under section 304(c)(2) of the Controlled Substances Act (21 U.S.C. 824(c)(2)), as in effect on the day before the date of enactment of this Act.
