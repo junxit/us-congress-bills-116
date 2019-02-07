@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 86
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 86
@@ -25,3 +25,6 @@ Providing amounts for the expenses of the Select Committee on the Climate Crisis
 - 2019-01-29 — Introduced in House
 - 2019-01-29 — Introduced in House
 - 2019-01-29 — Referred to the House Committee on House Administration.
+- 2019-02-07 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 105, H. Res. 86 is considered passed House.
+- 2019-02-07 — Pursuant to the provisions of H. Res. 105, H. Res. 86 is considered passed House.
+- 2019-02-07 — Rule H. Res. 105 passed House.
