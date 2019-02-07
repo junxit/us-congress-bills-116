@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Tiffany Joslyn Juvenile Accountability Block Grant Program Reauthorization Act of 2019”.
+This Act may be cited as the “Tiffany Joslyn Juvenile Accountability Block Grant Reauthorization and Bullying Prevention and Intervention Act of 2019”.
 
 ## § 2. Reauthorization of Juvenile Accountability Block Grant Program
 
@@ -21,7 +21,7 @@ Part R of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 
   - **(A)** in paragraph (1), by striking “graduated sanctions” and inserting “graduated sanctions and incentives”;
   - **(B)** in paragraph (3), by striking “hiring juvenile court judges, probation officers, and court-appointed defenders and special advocates, and”;
   - **(C)** by striking paragraphs (4) and (7), and redesignating paragraphs (5) through (17) as paragraphs (4) through (15), respectively; and
-  - **(D)** in paragraph (11), as so redesignated, by striking “research-based bullying, cy­ber­bul­ly­ing, and gang prevention programs” and inserting “interventions such as researched-based anti-bullying, anti-cyberbullying, and gang prevention programs, as well as mental health services and trauma-informed practices”;
+  - **(D)** in paragraph (11), as so redesignated, by striking “research-based bullying, cyberbullying, and gang prevention programs” and inserting “interventions such as researched-based anti-bullying, anti-cyberbullying, and gang prevention programs, as well as mental health services and trauma-informed practices”;
 - **(2)** in section 1802—
   - **(A)** in subsection (d)(3), by inserting after “individualized sanctions” the following: “, incentives,”;
   - **(B)** in subsection (e)(1)(B), by striking “graduated sanctions” and inserting “graduated sanctions and incentives”; and
@@ -32,7 +32,7 @@ Part R of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 
     - **(ii)** by inserting after paragraph (2) the following:
       > - **(3)** *Incentives* The term incentives means individualized, goal-oriented, and graduated responses to a juvenile offender’s compliance with court orders and case disposition terms designed to reinforce or modify the skills and behaviors of the juvenile offender. An incentive may include a certificate of achievement, a letter of recommendation, a family or program activity, a meeting or special outing with a community leader, a reduction in community service hours, a reduced curfew or home restriction, a decrease in required court appearances, or a decrease in the term of court-ordered supervision.
 
-- **(3)** in section 1810(a), by striking “$350,000,000 for each of fiscal years 2006 through 2009” and inserting “$30,000,000 for each of fiscal years 2019 through 2023”; and
+- **(3)** in section 1810(a), by striking “$350,000,000 for each of fiscal years 2006 through 2009” and inserting “$30,000,000 for each of fiscal years 2020 through 2024”; and
 - **(4)** by adding at the end the following:
   > ## § 1811. Grant accountability
   >
@@ -64,6 +64,8 @@ Part R of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 
 
 It is the sense of the Congress that the use of best practices is encouraged for all activities for which grants under part R of title I of the Omnibus Crime Control and Safe Streets Act of 1968 may be used.
 
-## § 4. Use of amounts made available for Department of Justice, General Administration to carry out Juvenile Accountability Block Grant Program
+## § 4. Authorization of appropriations for Juvenile Accountability Block Grant Program
 
-In each of fiscal years 2019 through 2023, the Attorney General shall use up to $30,000,000 of the amounts made available for Department of Justice, General Administration, to carry out part R of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796ee et seq.).
+Section 1001(a)(16) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10261(a)(16)) is amended to read as follows:
+
+> - **(16)** There are authorized to be appropriated to carry out projects under part R $30,000,000 for each of fiscal years 2020 through 2024.
