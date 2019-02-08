@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 37
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.J.Res. 37
@@ -16,7 +16,7 @@ Directing the removal of United States Armed Forces from hostilities in the Repu
 
 - Rep. Khanna, Ro [D-CA-17] (K000389)
 
-## Cosponsors (70)
+## Cosponsors (96)
 
 - Rep. Pocan, Mark [D-WI-2] (P000607)
 - Rep. McGovern, James P. [D-MA-2] (M000312)
@@ -88,6 +88,32 @@ Directing the removal of United States Armed Forces from hostilities in the Repu
 - Rep. Bonamici, Suzanne [D-OR-1] (B001278)
 - Rep. Moulton, Seth [D-MA-6] (M001196)
 - Rep. Neguse, Joe [D-CO-2] (N000191)
+- Rep. Espaillat, Adriano [D-NY-13] (E000297)
+- Rep. Doggett, Lloyd [D-TX-35] (D000399)
+- Rep. Brown, Anthony G. [D-MD-4] (B001304)
+- Rep. Pressley, Ayanna [D-MA-7] (P000617)
+- Rep. Bass, Karen [D-CA-37] (B001270)
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Rep. Costa, Jim [D-CA-16] (C001059)
+- Rep. Gomez, Jimmy [D-CA-34] (G000585)
+- Rep. Levin, Mike [D-CA-49] (L000593)
+- Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Wilson, Frederica S. [D-FL-24] (W000808)
+- Rep. Raskin, Jamie [D-MD-8] (R000606)
+- Rep. Eshoo, Anna G. [D-CA-18] (E000215)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. Quigley, Mike [D-IL-5] (Q000023)
+- Rep. Rice, Kathleen M. [D-NY-4] (R000602)
+- Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Wild, Susan [D-PA-7] (W000826)
+- Rep. Golden, Jared F. [D-ME-2] (G000592)
+- Rep. Trone, David J. [D-MD-6] (T000483)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Porter, Katie [D-CA-45] (P000618)
+- Rep. Kildee, Daniel T. [D-MI-5] (K000380)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
 
 ## Committees (1)
 
@@ -98,3 +124,8 @@ Directing the removal of United States Armed Forces from hostilities in the Repu
 - 2019-01-30 — Introduced in House
 - 2019-01-30 — Introduced in House
 - 2019-01-30 — Referred to the House Committee on Foreign Affairs.
+- 2019-02-06 — Committee Consideration and Mark-up Session Held.
+- 2019-02-06 — Ordered to be Reported by the Yeas and Nays: 25 - 17.
+- 2019-02-08 — Placed on the Union Calendar, Calendar No. 2.
+- 2019-02-08 — Reported by the Committee on Foreign Affairs. H. Rept. 116-7.
+- 2019-02-08 — Reported by the Committee on Foreign Affairs. H. Rept. 116-7.
