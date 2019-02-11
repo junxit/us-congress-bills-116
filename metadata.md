@@ -1,7 +1,7 @@
 ---
 measure: H.R. 840
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 840
@@ -41,9 +41,10 @@ Veterans' Access to Child Care Act
 - Rep. Cárdenas, Tony [D-CA-29] (C001097)
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (4)
 
@@ -232,3 +233,4 @@ Veterans' Access to Child Care Act
 - 2019-02-08 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 840.
 - 2019-02-08 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-02-08 — The previous question was ordered pursuant to the rule.
+- 2019-02-11 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
