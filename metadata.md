@@ -1,7 +1,7 @@
 ---
 measure: H.R. 450
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 450
@@ -42,9 +42,10 @@ Preventing Crimes Against Veterans Act of 2019
 - Rep. Kinzinger, Adam [R-IL-16] (K000378)
 - Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -59,3 +60,4 @@ Preventing Crimes Against Veterans Act of 2019
 - 2019-02-07 — Ms. Bass moved to suspend the rules and pass the bill, as amended.
 - 2019-02-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 70). (text: CR H1406)
 - 2019-02-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 70).(text: CR H1406)
+- 2019-02-11 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
