@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 1144
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1144
+
+> To prohibit the use of funds during a lapse in appropriations to support congressional delegations, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “No CODELs During Shutdowns Act”.
+
+## § 2. Prohibition
+
+- **(a)** *Prohibition* An executive agency may not expend any funds for the purpose of supporting official travel undertaken by more than one Member of Congress during any period in which there is a lapse in appropriations for any instrumentality of the Federal Government.
+- **(b)** *Exception* An executive agency may expend funds for the purpose described under subsection (a) if the President, in consultation with the Speaker of the House of Representatives and the Majority leader of the Senate, waives the prohibition under such subsection for such purpose.
+- **(c)** *Executive agency defined* The term “executive agency” has the meaning given that term in section 133 of title 41, United States Code.
