@@ -1,7 +1,7 @@
 ---
 measure: H.R. 494
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 494
@@ -21,9 +21,10 @@ Tiffany Joslyn Juvenile Accountability Block Grant Reauthorization and Bullying 
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 - Rep. Garcia, Sylvia R. [D-TX-29] (G000587)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Tiffany Joslyn Juvenile Accountability Block Grant Reauthorization and Bullying 
 - 2019-02-07 — Ms. Jackson Lee moved to suspend the rules and pass the bill, as amended.
 - 2019-02-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1403)
 - 2019-02-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1403)
+- 2019-02-11 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
