@@ -1,7 +1,7 @@
 ---
 measure: H.R. 507
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 507
@@ -26,10 +26,11 @@ Put Trafficking Victims First Act of 2019
 - Rep. Hudson, Richard [R-NC-8] (H001067)
 - Rep. Garcia, Sylvia R. [D-TX-29] (G000587)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Education and the Workforce Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ Put Trafficking Victims First Act of 2019
 - 2019-02-07 — Ms. Bass moved to suspend the rules and pass the bill.
 - 2019-02-07 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 1 (Roll no. 71). (text: CR H1409)
 - 2019-02-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 1 (Roll no. 71).(text: CR H1409)
+- 2019-02-11 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
