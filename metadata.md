@@ -1,7 +1,7 @@
 ---
 measure: H.R. 752
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 752
@@ -24,9 +24,10 @@ Open Book on Equal Access to Justice Act
 - Rep. Gianforte, Greg [R-MT-At Large] (G000584)
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Open Book on Equal Access to Justice Act
 - 2019-02-07 — Mr. Cohen moved to suspend the rules and pass the bill.
 - 2019-02-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1413)
 - 2019-02-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1413)
+- 2019-02-11 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
