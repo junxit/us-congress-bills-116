@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1064
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1064
@@ -21,9 +21,10 @@ To amend title 5, United States Code, to allow whistleblowers to disclose inform
 - Rep. Meadows, Mark [R-NC-11] (M001187)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ To amend title 5, United States Code, to allow whistleblowers to disclose inform
 - 2019-02-11 — Ms. Hill (CA) moved to suspend the rules and pass the bill, as amended.
 - 2019-02-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1499)
 - 2019-02-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1499)
+- 2019-02-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
