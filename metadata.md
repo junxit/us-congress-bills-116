@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 36
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 36
@@ -16,7 +16,7 @@ A resolution supporting the observation of National Trafficking and Modern Slave
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 
-## Cosponsors (11)
+## Cosponsors (12)
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
@@ -29,6 +29,7 @@ A resolution supporting the observation of National Trafficking and Modern Slave
 - Sen. Brown, Sherrod [D-OH] (B000944)
 - Sen. Toomey, Patrick [R-PA] (T000461)
 - Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Wyden, Ron [D-OR] (W000779)
 
 ## Committees (1)
 
@@ -38,3 +39,7 @@ A resolution supporting the observation of National Trafficking and Modern Slave
 
 - 2019-01-31 — Introduced in Senate
 - 2019-01-31 — Referred to the Committee on the Judiciary.
+- 2019-02-12 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR 1/31/2019 S810-811)
+- 2019-02-12 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 1/31/2019 S810-811)
+- 2019-02-12 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S1282)
+- 2019-02-12 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S1282)
