@@ -1,6 +1,6 @@
 ---
 legis-num: S. 47
-congress: 116th CONGRESS
+congress: One Hundred Sixteenth Congress of the United States of America
 session: 1st Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Natural Resources Management Act”.
+- **(a)** *Short title* This Act may be cited as the “John D. Dingell, Jr. Conservation, Management, and Recreation Act”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Definition of Secretary

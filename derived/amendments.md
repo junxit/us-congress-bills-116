@@ -1,7 +1,7 @@
 ---
 measure: S. 47
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -107,12 +107,12 @@ to guess them.
 
 ### 42 U.S.C. § 4321
 
-> in paragraph (10), by striking “the examination” and all that follows through the period at the end and inserting “the conveyance under paragraph (2) should be completed by not later than 18 months after the date of enactment of the Natural Resources Management Act.”;
+> in paragraph (10), by striking “the examination” and all that follows through the period at the end and inserting “the conveyance under paragraph (2) should be completed by not later than 18 months after the date of enactment of the John D. Dingell, Jr. Conservation, Management, and Recreation Act.”;
 
 | | |
 |---|---|
 | Removed | `the examination` |
-| Inserted | `the conveyance under paragraph (2) should be completed by not later than 18 months after the date of enactment of the Natural Resources Management Act.` |
+| Inserted | `the conveyance under paragraph (2) should be completed by not later than 18 months after the date of enactment of the John D. Dingell, Jr. Conservation, Management, and Recreation Act.` |
 
 ### 16 U.S.C. § 1274
 
@@ -368,12 +368,12 @@ to guess them.
 
 ### 43 U.S.C. § 31c
 
-> Section 4(b)(1) of the National Geologic Mapping Act of 1992 (43 U.S.C. 31c(b)(1)) is amended by striking “Omnibus Public Land Management Act of 2009” each place it appears in subparagraphs (A) and (B) and inserting “Natural Resources Management Act”.
+> Section 4(b)(1) of the National Geologic Mapping Act of 1992 (43 U.S.C. 31c(b)(1)) is amended by striking “Omnibus Public Land Management Act of 2009” each place it appears in subparagraphs (A) and (B) and inserting “John D. Dingell, Jr. Conservation, Management, and Recreation Act”.
 
 | | |
 |---|---|
 | Removed | `Omnibus Public Land Management Act of 2009` |
-| Inserted | `Natural Resources Management Act` |
+| Inserted | `John D. Dingell, Jr. Conservation, Management, and Recreation Act` |
 
 ### 43 U.S.C. § 31d
 
@@ -638,8 +638,8 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 4321` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1132` | replace | Section 323 of the Pam White Wilderness Act of 2006 (16 U.S.C. 1132 note; 120 Stat. 3031) is amended by striking subsection (e) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1132` | add-at-end | The Nevada Wilderness Protection Act of 1989 (Public Law 101–195; 16 U.S.C. 1132 note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Section 401(b)(4) of division I of the Omnibus Parks and Public Lands Management Act of 1996 (Public Law 104–333; 110 Stat. 4147; 123 Stat. 1108) is amended by striking “Omnibus Public Land Management Act of 2009” and inserting “Natural … | the bill names no machine-readable US Code section |
-| — | replace | Section 401(e) of division I of the Omnibus Parks and Public Lands Management Act of 1996 (Public Law 104–333; 110 Stat. 4148; 123 Stat. 1108) is amended by striking “Omnibus Public Land Management Act of 2009” and inserting “Natural Res… | the bill names no machine-readable US Code section |
+| — | replace | Section 401(b)(4) of division I of the Omnibus Parks and Public Lands Management Act of 1996 (Public Law 104–333; 110 Stat. 4147; 123 Stat. 1108) is amended by striking “Omnibus Public Land Management Act of 2009” and inserting “John D. … | the bill names no machine-readable US Code section |
+| — | replace | Section 401(e) of division I of the Omnibus Parks and Public Lands Management Act of 1996 (Public Law 104–333; 110 Stat. 4148; 123 Stat. 1108) is amended by striking “Omnibus Public Land Management Act of 2009” and inserting “John D. Din… | the bill names no machine-readable US Code section |
 | `16 U.S.C. § 1274` | replace | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by striking paragraph (5) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1274` | redesignate | by redesignating subparagraphs (A), (B), and (C) as clauses (i), (ii), and (iii), respectively, and indenting appropriately; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1274` | redesignate | in the matter preceding clause (i) (as so redesignated), by striking “The 44.5-mile” and inserting the following: | the bill quotes the text struck but describes what replaces it |
