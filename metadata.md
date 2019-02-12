@@ -1,7 +1,7 @@
 ---
 measure: S. 47
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 47
@@ -250,3 +250,21 @@ John D. Dingell, Jr. Conservation, Management, and Recreation Act
 - 2019-02-12 — Senate amendment agreed to: Amendment SA 182 agreed to in Senate by Voice Vote.
 - 2019-02-12 — Senate amendment submitted
 - 2019-02-12 — Senate amendment submitted
+- 2019-02-13 — Held at the desk.
+- 2019-02-13 — Message on Senate action sent to the House.
+- 2019-02-13 — Received in the House.
+- 2019-02-26 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2019-02-26 — Considered as unfinished business. (consideration: CR H2218-2219)
+- 2019-02-26 — Considered under suspension of the rules. (consideration: CR H2141-2217)
+- 2019-02-26 — DEBATE - Pursuant to the order of the House of today, the House proceeded with fifty minutes of debate on S. 47.
+- 2019-02-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-02-26 — Mr. Grijalva moved to suspend the rules and pass the bill.
+- 2019-02-26 — ORDER OF BUSINESS - Mr. Grijalva asked unanimous consent that debate under 1(c) of Rule XV on a motion to suspend the rules relating to S. 47 be extended to 50 minutes. Agreed to without objection.
+- 2019-02-26 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 363 - 62 (Roll no. 95). (text: CR H2142-2211)
+- 2019-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 363 - 62 (Roll no. 95).(text: CR H2142-2211)
+- 2019-03-06 — Presented to President.
+- 2019-03-06 — Presented to President.
+- 2019-03-12 — Became Public Law No: 116-9.
+- 2019-03-12 — Became Public Law No: 116-9.
+- 2019-03-12 — Signed by President.
+- 2019-03-12 — Signed by President.
