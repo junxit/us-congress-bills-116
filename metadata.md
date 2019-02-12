@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1065
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1065
@@ -21,9 +21,10 @@ Social Media Use in Clearance Investigations Act of 2019
 - Rep. Hice, Jody B. [R-GA-10] (H001071)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -42,3 +43,4 @@ Social Media Use in Clearance Investigations Act of 2019
 - 2019-02-11 — Ms. Hill (CA) moved to suspend the rules and pass the bill.
 - 2019-02-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 377 - 3 (Roll no. 76). (text: CR H1496)
 - 2019-02-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 377 - 3 (Roll no. 76).(text: CR H1496)
+- 2019-02-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
