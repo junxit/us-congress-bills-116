@@ -1,7 +1,7 @@
 ---
 measure: S. 47
 congress: 116
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-319 amendatory instructions. 62 executed, 257 stated and not applied.
+350 amendatory instructions. 65 executed, 285 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -357,15 +357,6 @@ to guess them.
 | Removed | `During the period ending September 30, 2018, there` |
 | Inserted | `There` |
 
-### 16 U.S.C. § 669g
-
-> in paragraph (1) (as so designated), by striking “construction, operation,” and inserting “operation”;
-
-| | |
-|---|---|
-| Removed | `construction, operation,` |
-| Inserted | `operation` |
-
 ### 43 U.S.C. § 31h
 
 > Section 9(a) of the National Geologic Mapping Act of 1992 (43 U.S.C. 31h(a)) is amended by striking “2018” and inserting “2023”.
@@ -422,39 +413,39 @@ to guess them.
 
 ### 16 U.S.C. § 3774
 
-> Section 5 of the Partners for Fish and Wildlife Act (16 U.S.C. 3774) is amended by striking “2006 through 2011” and inserting “2018 through 2022”.
+> Section 5 of the Partners for Fish and Wildlife Act (16 U.S.C. 3774) is amended by striking “2006 through 2011” and inserting “2019 through 2023”.
 
 | | |
 |---|---|
 | Removed | `2006 through 2011` |
-| Inserted | `2018 through 2022` |
+| Inserted | `2019 through 2023` |
 
 ### 16 U.S.C. § 4245
 
-> Section 2306(a) of the African Elephant Conservation Act (16 U.S.C. 4245(a)) is amended by striking “2007 through 2012” and inserting “2018 through 2022”.
+> Section 2306(a) of the African Elephant Conservation Act (16 U.S.C. 4245(a)) is amended by striking “2007 through 2012” and inserting “2019 through 2023”.
 
 | | |
 |---|---|
 | Removed | `2007 through 2012` |
-| Inserted | `2018 through 2022` |
+| Inserted | `2019 through 2023` |
 
 ### 16 U.S.C. § 4266
 
-> Section 8(a) of the Asian Elephant Conservation Act of 1997 (16 U.S.C. 4266(a)) is amended by striking “2007 through 2012” and inserting “2018 through 2022”.
+> Section 8(a) of the Asian Elephant Conservation Act of 1997 (16 U.S.C. 4266(a)) is amended by striking “2007 through 2012” and inserting “2019 through 2023”.
 
 | | |
 |---|---|
 | Removed | `2007 through 2012` |
-| Inserted | `2018 through 2022` |
+| Inserted | `2019 through 2023` |
 
 ### 16 U.S.C. § 5306
 
-> Section 10(a) of the Rhinoceros and Tiger Conservation Act of 1994 (16 U.S.C. 5306(a)) is amended by striking “2007 through 2012” and inserting “2018 through 2022”.
+> Section 10(a) of the Rhinoceros and Tiger Conservation Act of 1994 (16 U.S.C. 5306(a)) is amended by striking “2007 through 2012” and inserting “2019 through 2023”.
 
 | | |
 |---|---|
 | Removed | `2007 through 2012` |
-| Inserted | `2018 through 2022` |
+| Inserted | `2019 through 2023` |
 
 ### 16 U.S.C. § 6304
 
@@ -467,39 +458,75 @@ to guess them.
 
 ### 16 U.S.C. § 6305
 
-> Section 6 of the Great Ape Conservation Act of 2000 (16 U.S.C. 6305) is amended by striking “2006 through 2010” and inserting “2018 through 2022”.
+> Section 6 of the Great Ape Conservation Act of 2000 (16 U.S.C. 6305) is amended by striking “2006 through 2010” and inserting “2019 through 2023”.
 
 | | |
 |---|---|
 | Removed | `2006 through 2010` |
-| Inserted | `2018 through 2022` |
+| Inserted | `2019 through 2023` |
+
+### 16 U.S.C. § 6602
+
+> in the matter preceding subparagraph (A), by striking “nesting habitats of marine turtles in foreign countries and of marine turtles in those habitats” and inserting “marine turtles, freshwater turtles, and tortoises, and the habitats of marine turtles, freshwater turtles, and tortoises, in foreign countries and territories of the United States under the jurisdiction of United States Fish and Wildlife Service programs”;
+
+| | |
+|---|---|
+| Removed | `nesting habitats of marine turtles in foreign countries and of marine turtles in those habitats` |
+| Inserted | `marine turtles, freshwater turtles, and tortoises, and the habitats of marine turtles, freshwater turtles, and tortoises, in foreign countries and territories of the United States under the jurisdiction of United States Fish and Wildlife Service programs` |
+
+### 16 U.S.C. § 6602
+
+> in the matter preceding clause (i), by striking “countries to—” and inserting “countries—”;
+
+| | |
+|---|---|
+| Removed | `countries to—` |
+| Inserted | `countries—` |
+
+### 16 U.S.C. § 6602
+
+> in subparagraph (E)(i), by striking “turtles on nesting habitat” and inserting “turtles, freshwater turtles, and tortoises”;
+
+| | |
+|---|---|
+| Removed | `turtles on nesting habitat` |
+| Inserted | `turtles, freshwater turtles, and tortoises` |
+
+### 16 U.S.C. § 6602
+
+> in subparagraph (F), by striking “turtles over habitat used by marine turtles for nesting” and inserting “turtles, freshwater turtles, and tortoises over habitats used by marine turtles, freshwater turtles, and tortoises”; and
+
+| | |
+|---|---|
+| Removed | `turtles over habitat used by marine turtles for nesting` |
+| Inserted | `turtles, freshwater turtles, and tortoises over habitats used by marine turtles, freshwater turtles, and tortoises` |
 
 ### 16 U.S.C. § 6603
 
-> in subsection (d), by striking “foreign countries” and inserting “a foreign country or a territory of the United States”.
+> in subsection (e), by striking “marine turtles and their nesting habitats” and inserting “marine turtles, freshwater turtles, or tortoises and the habitats of marine turtles, freshwater turtles, or tortoises”.
 
 | | |
 |---|---|
-| Removed | `foreign countries` |
-| Inserted | `a foreign country or a territory of the United States` |
+| Removed | `marine turtles and their nesting habitats` |
+| Inserted | `marine turtles, freshwater turtles, or tortoises and the habitats of marine turtles, freshwater turtles, or tortoises` |
 
 ### 16 U.S.C. § 6604
 
-> Section 5(b)(2) of the Marine Turtle Conservation Act of 2004 (16 U.S.C. 6604(b)(2)) is amended by striking “$80,000” and inserting “$150,000”.
+> in subsection (a)(2), by striking “section 6” and inserting “section 7(a)”; and
 
 | | |
 |---|---|
-| Removed | `$80,000` |
-| Inserted | `$150,000` |
+| Removed | `section 6` |
+| Inserted | `section 7(a)` |
 
-### 16 U.S.C. § 6606
+### 16 U.S.C. § 6604
 
-> Section 7 of the Marine Turtle Conservation Act of 2004 (16 U.S.C. 6606) is amended by striking “each of fiscal years 2005 through 2009” and inserting “each of fiscal years 2018 through 2022”.
+> in subsection (b)(2), by striking “3 percent, or up to $80,000” and inserting “5 percent, or up to $150,000”.
 
 | | |
 |---|---|
-| Removed | `each of fiscal years 2005 through 2009` |
-| Inserted | `each of fiscal years 2018 through 2022` |
+| Removed | `3 percent, or up to $80,000` |
+| Inserted | `5 percent, or up to $150,000` |
 
 ### 16 U.S.C. § 1722
 
@@ -611,6 +638,8 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 4321` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1132` | replace | Section 323 of the Pam White Wilderness Act of 2006 (16 U.S.C. 1132 note; 120 Stat. 3031) is amended by striking subsection (e) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1132` | add-at-end | The Nevada Wilderness Protection Act of 1989 (Public Law 101–195; 16 U.S.C. 1132 note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 401(b)(4) of division I of the Omnibus Parks and Public Lands Management Act of 1996 (Public Law 104–333; 110 Stat. 4147; 123 Stat. 1108) is amended by striking “Omnibus Public Land Management Act of 2009” and inserting “Natural … | the bill names no machine-readable US Code section |
+| — | replace | Section 401(e) of division I of the Omnibus Parks and Public Lands Management Act of 1996 (Public Law 104–333; 110 Stat. 4148; 123 Stat. 1108) is amended by striking “Omnibus Public Land Management Act of 2009” and inserting “Natural Res… | the bill names no machine-readable US Code section |
 | `16 U.S.C. § 1274` | replace | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by striking paragraph (5) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1274` | redesignate | by redesignating subparagraphs (A), (B), and (C) as clauses (i), (ii), and (iii), respectively, and indenting appropriately; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1274` | redesignate | in the matter preceding clause (i) (as so redesignated), by striking “The 44.5-mile” and inserting the following: | the bill quotes the text struck but describes what replaces it |
@@ -694,7 +723,8 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 3161` | strike | by striking subparagraph (B); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 3161` | redesignate | by redesignating subparagraph (C) as subparagraph (B). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 3161` | add-at-end | Section 3 of the Denali National Park Improvement Act (Public Law 113–33; 127 Stat. 515) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `54 U.S.C. § 302101` | replace | Section 507(d)(2) of the Omnibus Parks and Public Lands Management Act of 1996 (54 U.S.C. 302101 note) is amended by striking the period at the end and inserting “and each of fiscal years 2018 through 2024.”. | the bill quotes the text inserted but describes where it goes |
+| `54 U.S.C. § 302101` | replace | Section 507(d)(2) of the Omnibus Parks and Public Lands Management Act of 1996 (54 U.S.C. 302101 note) is amended by striking the period at the end and inserting “and each of fiscal years 2019 through 2025.”. | the bill quotes the text inserted but describes where it goes |
+| — | add-at-end | Section 2(b) of the Strengthening Coastal Communities Act of 2018 (Public Law 115–358) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `16 U.S.C. § 460cc-2` | add-at-end | Section 3 of Public Law 92–592 (16 U.S.C. 460cc–2) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Public Law 107–62 (115 Stat. 411) is amended by striking “Adams Memorial Foundation” each place it occurs and inserting “Adams Memorial Commission”. | the bill names no machine-readable US Code section |
 | — | replace | Section 1(c) of Public Law 107–62 (115 Stat. 411; 124 Stat. 1192; 127 Stat. 3880) is amended by striking “2020” and inserting “2025”. | the bill names no machine-readable US Code section |
@@ -705,6 +735,7 @@ complete account of the bill's effect, which it is not.
 | `54 U.S.C. § 104907` | insert | The table of sections for chapter 1049 of title 54, United States Code, is amended by inserting after the item relating to section 104907 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Chapter 1049 of title 54, United States Code (as amended by section 2409(a)), is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections for chapter 1049 of title 54 (as amended by section 2409(b)), United States Code, is amended by inserting after the item relating to section 104908 the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2 of Public Law 101–191 (103 Stat. 1697) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `16 U.S.C. § 1244` | add-at-end | Section 5(c) of the National Trails System Act (16 U.S.C. 1244(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1331` | strike | in subsection (c)(1), by striking “through September 30, 2018”. | the bill quotes the text struck but describes what replaces it |
 | `43 U.S.C. § 1331` | strike | by striking the second sentence; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -721,29 +752,46 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “of section 2412 of title 28, United States Code,” and inserting “of this section”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “of such title” and inserting “of this title”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1304 of title 31, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| `16 U.S.C. § 669a` | redesignate | by redesignating paragraphs (2) through (8) as paragraphs (3) through (9), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 669a` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 669g` | replace | by striking “(b) Each State” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 669g` | replace | in the second sentence, by striking “The non-Federal share” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 669g` | replace | in the third sentence, by striking “The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 669g` | insert | by inserting after paragraph (1) (as designated by subparagraph (A)) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 669h-1` | add-at-end | in subsection (a), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 669h-1` | replace | by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 669h-1` | replace | by striking “Amounts made” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 669h-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 704` | add-at-end | Section 3 of the Migratory Bird Treaty Act (16 U.S.C. 704) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | insert | by inserting “, Livingston,” after “LaSalle”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “, the city of Jonesboro in Union County, and the city of Freeport in Stephenson County” after “Woodford counties”. | the bill names no machine-readable US Code section |
+| — | replace | Section 409(a) of the Omnibus Parks and Public Lands Management Act of 1996 (Public Law 104–333; 110 Stat. 4256; 129 Stat. 2551) is amended in the second sentence, by striking “$17,000,000” and inserting “$20,000,000”. | the bill names no machine-readable US Code section |
+| — | replace | Section 508(a) of the Omnibus Parks and Public Lands Management Act of 1996 (Public Law 104–333; 110 Stat. 4260; 129 Stat. 2551) is amended in the second sentence, by striking “$17,000,000” and inserting “$20,000,000”. | the bill names no machine-readable US Code section |
+| — | replace | Section 810(a) of the Omnibus Parks and Public Lands Management Act of 1996 (Public Law 104–333; 110 Stat. 4275; 122 Stat. 826) is amended by striking the second sentence and inserting the following: “Not more than a total of $20,000,000… | the bill names no machine-readable US Code section |
+| — | replace | in subsection (i)(1), by striking “$12,000,000” and inserting “$14,000,000”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking subsection (j) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 110(a) of the Automobile National Heritage Area Act (Public Law 105–355; 112 Stat. 3252) is amended, in the second sentence, by striking “$10,000,000” and inserting “$12,000,000”. | the bill names no machine-readable US Code section |
+| — | replace | Subsection (h)(1) of the Wheeling National Heritage Area Act of 2000 (Public Law 106–291; 114 Stat. 967; 128 Stat. 2421; 129 Stat. 2550) is amended by striking “$13,000,000” and inserting “$15,000,000”. | the bill names no machine-readable US Code section |
+| — | replace | Section 208 of the Omnibus Parks and Public Lands Management Act of 1996 (Public Law 104–333; 110 Stat. 4248; 127 Stat. 420; 128 Stat. 314; 129 Stat. 2551; 132 Stat. 661) is amended by striking “after” and all that follows through the pe… | the bill names no machine-readable US Code section |
+| — | replace | Section 310 of the Omnibus Parks and Public Lands Management Act of 1996 (Public Law 104–333; 110 Stat. 4252; 127 Stat. 420; 128 Stat. 314; 129 Stat. 2551; 132 Stat. 661) is amended by striking “2019” and inserting “2021”. | the bill names no machine-readable US Code section |
+| — | replace | Section 607 of the Omnibus Parks and Public Lands Management Act of 1996 (Public Law 104–333; 110 Stat. 4264; 127 Stat. 420; 128 Stat. 314; 129 Stat. 2551; 132 Stat. 661) is amended by striking “2019” and inserting “2021”. | the bill names no machine-readable US Code section |
+| — | replace | The Oil Region National Heritage Area Act (Public Law 108–447; 118 Stat. 3368) is amended by striking “Oil Heritage Region, Inc.” each place it appears and inserting “Oil Region Alliance of Business, Industry and Tourism”. | the bill names no machine-readable US Code section |
+| — | replace | The Hudson River Valley National Heritage Area Act of 1996 (Public Law 104–333; 110 Stat. 4275) is amended by striking “Hudson River Valley National Heritage Area” each place it appears and inserting “Maurice D. Hinchey Hudson River Vall… | the bill names no machine-readable US Code section |
 | `16 U.S.C. § 661` | replace | The first section of the Fish and Wildlife Coordination Act (16 U.S.C. 661) is amended by striking “For the purpose” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 661` | add-at-end | The Fish and Wildlife Coordination Act (16 U.S.C. 661 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6303` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6303` | redesignate | by redesignating paragraph (2) as paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6303` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6303` | add-at-end | Section 4 of the Great Ape Conservation Act of 2000 (16 U.S.C. 6303) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 6601` | insert | Section 2(b) of the Marine Turtle Conservation Act of 2004 (16 U.S.C. 6601(b)) is amended by inserting “and territories of the United States” after “foreign countries”. | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 6602` | insert | in paragraph (2), in the matter preceding subparagraph (A), by inserting “and territories of the United States” after “foreign countries”; and | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 6602` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 6603` | insert | in subsection (b)(1)(A), by inserting “or a territory of the United States” after “foreign country”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 6601` | replace | Section 2 of the Marine Turtle Conservation Act of 2004 (16 U.S.C. 6601) is amended by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6602` | strike | in subparagraphs (A), (B), and (C), by striking “nesting” each place it appears; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 6602` | insert | by inserting “to” before “protect”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 6602` | strike | by striking “nesting” each place it appears; and | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 6602` | insert | in clause (ii), by inserting “to” before “prevent”; | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 6602` | strike | in subparagraph (H), by striking “nesting” each place it appears; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 6602` | redesignate | by redesignating paragraphs (3), (4), (5), and (6) as paragraphs (4), (6), (7), and (8), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6602` | redesignate | by inserting before paragraph (4) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6602` | redesignate | by inserting after paragraph (4) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6602` | redesignate | by inserting after paragraph (8) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6603` | strike | in the section heading, by striking “Marine turtle”; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 6603` | insert | in subsection (a), by inserting “, freshwater turtles, or tortoises” after “marine turtles”; | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 6603` | insert | in the matter preceding subparagraph (A), by inserting “, freshwater turtles, or tortoises” after “marine turtles”; | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 6603` | replace | by striking subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6603` | insert | in subparagraph (B), by inserting “, freshwater turtles, or tortoises” after “marine turtles”; | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 6603` | insert | in subsection (c)(2), in each of subparagraphs (A) and (C), by inserting “and territory of the United States” after “each country”; | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 6603` | replace | by striking subsection (d) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6605` | insert | Section 6(a) of the Marine Turtle Conservation Act of 2004 (16 U.S.C. 6605(a)) is amended by inserting “, freshwater turtles, or tortoises” after “marine turtles”. | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 6606` | amend | Section 7 of the Marine Turtle Conservation Act of 2004 (16 U.S.C. 6606) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6109` | amend | Section 10 of the Neotropical Migratory Bird Conservation Act (16 U.S.C. 6109) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 3503` | insert | in the matter preceding paragraph (1), by inserting “replaced,” after “may be”; and | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 3503` | insert | in paragraph (3), by inserting “replaces such a map or” after “that specifically”. | the bill quotes the text inserted but describes where it goes |
@@ -824,6 +872,13 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “and other water supply entities” after “owners”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking the second sentence. | the bill names no machine-readable US Code section |
 | — | insert | Section 1208(d) of Public Law 103–434 (108 Stat. 4562; 114 Stat. 1425) is amended by inserting “negatively” before “affected”. | the bill names no machine-readable US Code section |
+| — | replace | Section 10(h) of Public Law 86–787 (74 Stat. 1026; 120 Stat. 1474) is amended by striking “10 years” and inserting “20 years”. | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 10364` | replace | by striking “within the States” and inserting the following: “within— | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 10364` | strike | in clause (i) (as so designated), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 10364` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 10364` | redesignate | by redesignating clauses (i) and (ii) as subclauses (I) and (II), respectively, and indenting appropriately; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 10364` | redesignate | in the matter preceding subclause (I) (as so redesignated), by striking “In carrying” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 10364` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1722` | redesignate | by redesignating paragraphs (8) through (13) as paragraphs (9) through (14), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1002` | insert | by inserting after paragraph (7) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1722` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

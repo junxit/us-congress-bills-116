@@ -1,7 +1,7 @@
 ---
 measure: S. 47
 congress: 116
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S. 47
@@ -16,16 +16,246 @@ John D. Dingell, Jr. Conservation, Management, and Recreation Act
 
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 
-## Cosponsors (5)
+## Cosponsors (100)
 
 - Sen. Cantwell, Maria [D-WA] (C000127)
 - Sen. Daines, Steve [R-MT] (D000618)
 - Sen. Heinrich, Martin [D-NM] (H001046)
 - Sen. Manchin, Joe, III [D-WV] (M001183)
 - Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+
+## Recorded votes (6)
+
+- 2019-02-05 — [Senate 116-1-17](votes/senate-116-1-0017.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (99–1)
+- 2019-02-07 — [Senate 116-1-18](votes/senate-116-1-0018.md) — On the Motion to Table — **Motion to Table Agreed to** (66–33)
+- 2019-02-07 — [Senate 116-1-19](votes/senate-116-1-0019.md) — On the Motion to Table — **Motion to Table Agreed to** (68–30)
+- 2019-02-11 — [Senate 116-1-20](votes/senate-116-1-0020.md) — On the Motion to Table — **Motion to Table Agreed to** (60–33)
+- 2019-02-11 — [Senate 116-1-21](votes/senate-116-1-0021.md) — On the Cloture Motion — **Cloture Motion Agreed to** (87–7)
+- 2019-02-12 — [Senate 116-1-22](votes/senate-116-1-0022.md) — On Passage of the Bill — **Bill Passed** (92–8)
 
 ## Actions
 
 - 2019-01-08 — Introduced in Senate
 - 2019-01-08 — Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2019-01-09 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 7.
+- 2019-01-31 — Cloture motion on the motion to proceed to the consideration of measure presented in Senate. (CR S777)
+- 2019-01-31 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S777)
+- 2019-02-05 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 99 - 1. Record Vote Number: 17. (CR S858)
+- 2019-02-05 — Motion to proceed to measure considered in Senate. (CR S858)
+- 2019-02-05 — Senate amendment submitted
+- 2019-02-05 — Senate amendment submitted
+- 2019-02-05 — Senate amendment submitted
+- 2019-02-06 — Motion to proceed to measure considered in Senate. (CR S876)
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-06 — Senate amendment submitted
+- 2019-02-07 — Amendment SA 111 proposed by Senator Murkowski. (consideration: CR S1031-1101; text as modified: CR S1031-1101) In the nature of a substitute.
+- 2019-02-07 — Amendment SA 112 proposed by Senator Murkowski to Amendment SA 111. (consideration: CR S1109) To modify the authorization period for the Historically Black Colleges and Universities Historic Preservation program.
+- 2019-02-07 — Amendment SA 158 proposed by Senator Grassley for Senator Lankford to Amendment SA 111. (consideration: CR S1101, S1106-1109; text: CR S1101) To modify the provision relating to the Land and Water Conservation Fund to impose certain requirements on the Federal acquisition of land and to require an allocation of funds for the deferred maintenance backlog.
+- 2019-02-07 — Amendment SA 162 proposed by Senator Lee to Amendment SA 111. (consideration: CR S1109; text: CR S1109) To modify the authorization period of the Land and Water Conservation Fund.
+- 2019-02-07 — Cloture motion on the measure presented in Senate. (CR S1117)
+- 2019-02-07 — Measure laid before Senate by motion. (consideration: CR S1031-1109)
+- 2019-02-07 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote.
+- 2019-02-07 — Motion to proceed to measure considered in Senate. (CR S1031)
+- 2019-02-07 — Motion to table amendment SA 158 agreed to in Senate by Yea-Nay Vote. 66 - 33. Record Vote Number: 18.
+- 2019-02-07 — Motion to table amendment SA 162 agreed to in Senate by Yea-Nay Vote. 68 - 30. Record Vote Number: 19.
+- 2019-02-07 — Roll call votes on amendments in Senate: Motion to table amendment SA 158 agreed to in Senate by Yea-Nay Vote. 66 - 33. Record Vote Number: 18.
+- 2019-02-07 — Roll call votes on amendments in Senate: Motion to table amendment SA 162 agreed to in Senate by Yea-Nay Vote. 68 - 30. Record Vote Number: 19.
+- 2019-02-07 — Senate amendment proposed (on the floor): Amendment SA 111 proposed by Senator Murkowski.
+- 2019-02-07 — Senate amendment proposed (on the floor): Amendment SA 112 proposed by Senator Murkowski to Amendment SA 111.
+- 2019-02-07 — Senate amendment proposed (on the floor): Amendment SA 158 proposed by Senator Grassley for Senator Lankford to Amendment SA 111.
+- 2019-02-07 — Senate amendment proposed (on the floor): Amendment SA 162 proposed by Senator Lee to Amendment SA 111.
+- 2019-02-07 — Senate amendment submitted
+- 2019-02-07 — Senate amendment submitted
+- 2019-02-07 — Senate amendment submitted
+- 2019-02-07 — Senate amendment submitted
+- 2019-02-07 — Senate amendment submitted
+- 2019-02-07 — Senate amendment submitted
+- 2019-02-07 — Senate amendment submitted
+- 2019-02-07 — Senate amendment submitted
+- 2019-02-07 — Senate amendment submitted
+- 2019-02-07 — Senate amendment submitted
+- 2019-02-07 — Senate amendment submitted
+- 2019-02-07 — Senate amendment submitted
+- 2019-02-07 — Senate amendment submitted
+- 2019-02-11 — Amendment SA 182 proposed by Senator Rubio to Amendment SA 112. (consideration: CR S1161; text: CR S1161) To give effect to more accurate maps of units of the John H. Chafee Coastal Barrier Resources System that were produced by digital mapping.
+- 2019-02-11 — Amendment SA 187 proposed by Senator Lee to Amendment SA 112. (consideration: CR S1160; text: CR S1160) To limit the extension or establishment of national monuments in the State of Utah.
+- 2019-02-11 — Cloture on the measure invoked in Senate by Yea-Nay Vote. 87 - 7. Record Vote Number: 21. (CR S1161)
+- 2019-02-11 — Considered by Senate. (consideration: CR S1152)
+- 2019-02-11 — Considered by Senate. (consideration: CR S1152)
+- 2019-02-11 — Considered by Senate. (consideration: CR S1152-1162)
+- 2019-02-11 — Motion to table amendment SA 187 agreed to in Senate by Yea-Nay Vote. 60 - 33. Record Vote Number: 20.
+- 2019-02-11 — Roll call votes on amendments in Senate: Motion to table amendment SA 187 agreed to in Senate by Yea-Nay Vote. 60 - 33. Record Vote Number: 20.
+- 2019-02-11 — Senate amendment proposed (on the floor): Amendment SA 182 proposed by Senator Rubio to Amendment SA 112.
+- 2019-02-11 — Senate amendment proposed (on the floor): Amendment SA 187 proposed by Senator Lee to Amendment SA 112.
+- 2019-02-11 — Senate amendment submitted
+- 2019-02-11 — Senate amendment submitted
+- 2019-02-11 — Senate amendment submitted
+- 2019-02-11 — Senate amendment submitted
+- 2019-02-11 — Senate amendment submitted
+- 2019-02-11 — Senate amendment submitted
+- 2019-02-11 — Senate amendment submitted
+- 2019-02-11 — Senate amendment submitted
+- 2019-02-11 — Senate amendment submitted
+- 2019-02-11 — Senate amendment submitted
+- 2019-02-11 — Senate amendment submitted
+- 2019-02-11 — Senate amendment submitted
+- 2019-02-11 — Senate amendment submitted
+- 2019-02-11 — Senate amendment submitted
+- 2019-02-11 — Senate amendment submitted
+- 2019-02-11 — Senate amendment submitted
+- 2019-02-11 — Senate amendment submitted
+- 2019-02-12 — Amendment SA 111 agreed to in Senate by Unanimous Consent.
+- 2019-02-12 — Amendment SA 112 agreed to in Senate by Voice Vote.
+- 2019-02-12 — Amendment SA 182 agreed to in Senate by Voice Vote.
+- 2019-02-12 — Considered by Senate. (consideration: CR S1178, S1196)
+- 2019-02-12 — Considered by Senate. (consideration: CR S1178, S1196)
+- 2019-02-12 — Considered by Senate. (consideration: CR S1178, S1196)
+- 2019-02-12 — Considered by Senate. (consideration: CR S1178-1186, S1193-1265)
+- 2019-02-12 — Passed Senate with an amendment by Yea-Nay Vote. 92 - 8. Record Vote Number: 22. (text: CR S1196-1265)
+- 2019-02-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 92 - 8. Record Vote Number: 22.(text: CR S1196-1265)
+- 2019-02-12 — Senate amendment agreed to: Amendment SA 111 agreed to in Senate by Unanimous Consent.
+- 2019-02-12 — Senate amendment agreed to: Amendment SA 112 agreed to in Senate by Voice Vote.
+- 2019-02-12 — Senate amendment agreed to: Amendment SA 182 agreed to in Senate by Voice Vote.
+- 2019-02-12 — Senate amendment submitted
+- 2019-02-12 — Senate amendment submitted
