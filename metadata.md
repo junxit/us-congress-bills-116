@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1079
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1079
@@ -22,9 +22,10 @@ Creating Advanced Streamlined Electronic Services for Constituents Act of 2019
 - Rep. Taylor, Van [R-TX-3] (T000479)
 - Rep. Babin, Brian [R-TX-36] (B001291)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -43,3 +44,4 @@ Creating Advanced Streamlined Electronic Services for Constituents Act of 2019
 - 2019-02-11 — Ms. Hill (CA) moved to suspend the rules and pass the bill, as amended.
 - 2019-02-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 0 (Roll no. 77). (text: CR H1502)
 - 2019-02-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 0 (Roll no. 77).(text: CR H1502)
+- 2019-02-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
