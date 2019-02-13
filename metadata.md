@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 122
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 122
@@ -16,6 +16,15 @@ Providing for consideration of the joint resolution (H.J. Res. 37) directing the
 
 - Rep. McGovern, James P. [D-MA-2] (M000312)
 
+## Committees (1)
+
+- House — Rules Committee
+
+## Recorded votes (2)
+
+- 2019-02-13 — [House 116-1-78](votes/house-116-1-0078.md) — On Ordering the Previous Question — **Passed** (227–195)
+- 2019-02-13 — [House 116-1-79](votes/house-116-1-0079.md) — On Agreeing to the Resolution — **Passed** (228–193)
+
 ## Actions
 
 - 2019-02-11 — Introduced in House
@@ -23,3 +32,9 @@ Providing for consideration of the joint resolution (H.J. Res. 37) directing the
 - 2019-02-11 — The House Committee on Rules reported an original measure, H. Rept. 116-8, by Mr. McGovern.
 - 2019-02-11 — The House Committee on Rules reported an original measure, H. Rept. 116-8, by Mr. McGovern.
 - 2019-02-11 — The resolution provides through February 17, 2019, for the Speaker to entertain motions that the House suspend the rules.
+- 2019-02-13 — Considered as privileged matter. (consideration: CR H1533-1542)
+- 2019-02-13 — DEBATE - The House proceeded with one hour of debate on H. Res. 122.
+- 2019-02-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-02-13 — On agreeing to the resolution Agreed to by the Yeas and Nays: 228 - 193 (Roll no. 79). (text: CR H1553)
+- 2019-02-13 — On ordering the previous question Agreed to by the Yeas and Nays: 227 - 195 (Roll no. 78). (consideration: CR H1541)
+- 2019-02-13 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 228 - 193 (Roll no. 79).(text: CR H1553)
