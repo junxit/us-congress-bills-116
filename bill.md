@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 1173
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1173
+
+> To require that $1 coins issued during 2019 honor President George H.W. Bush and to direct the Secretary of the Treasury to issue bullion coins during 2019 in honor of Barbara Bush.
+
+## § 1. Short title
+
+This Act may be cited as the “President George H.W. Bush and Barbara Bush Dollar Coin Act”.
+
+## § 2. Coins honoring President George H.W. Bush and Barbara Bush
+
+- **(a)** *Circulating $1 coins honoring president George H.W. Bush* Notwithstanding subsections (d), (n)(2)(E), (n)(3), (n)(4), and (n)(8) of section 5112 of title 31, United States Code, in addition to the coins to be issued under subsection (r) of such section 5112, and in accordance with the other provisions of subsection (n) of such section 5112, $1 coins issued during the 1-year period beginning on January 1, 2019, shall bear the image of President George H.W. Bush.
+- **(b)** *Bullion coins honoring Barbara Bush* Notwithstanding paragraphs (1) and (5)(C) of section 5112(o) of title 31, United States Code, and in accordance with the other provisions of such section 5112(o), the Secretary of the Treasury shall, during the 1-year period beginning on January 1, 2019, issue bullion coins that bear the image of Barbara Bush.
