@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 37
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 37
@@ -119,6 +119,12 @@ Directing the removal of United States Armed Forces from hostilities in the Repu
 
 - House — Foreign Affairs Committee
 
+## Recorded votes (3)
+
+- 2019-02-13 — [House 116-1-81](votes/house-116-1-0081.md) — On Agreeing to the Amendment — **Agreed to** (252–177)
+- 2019-02-13 — [House 116-1-82](votes/house-116-1-0082.md) — On Motion to Recommit with Instructions — **Passed** (424–0)
+- 2019-02-13 — [House 116-1-83](votes/house-116-1-0083.md) — On Passage — **Passed** (248–177)
+
 ## Actions
 
 - 2019-01-30 — Introduced in House
@@ -129,3 +135,35 @@ Directing the removal of United States Armed Forces from hostilities in the Repu
 - 2019-02-08 — Placed on the Union Calendar, Calendar No. 2.
 - 2019-02-08 — Reported by the Committee on Foreign Affairs. H. Rept. 116-7.
 - 2019-02-08 — Reported by the Committee on Foreign Affairs. H. Rept. 116-7.
+- 2019-02-11 — Rules Committee Resolution H. Res. 122 Reported to House. Rule provides for consideration of H.J. Res. 37 with 1 hour of general debate. Motion to recommit with or without instructions allowed. A specified amendment is in order. The resolution provides through February 17, 2019, for the Speaker to entertain motions that the House suspend the rules.
+- 2019-02-13 — Amendment (A001) offered by Mr. Buck.
+- 2019-02-13 — Amendment (A002) offered by Mr. Engel. (consideration: CR H1552-1554; text: CR H1552)
+- 2019-02-13 — Amendment agreed to Committee of the Whole
+- 2019-02-13 — Amendment agreed to Committee of the Whole
+- 2019-02-13 — Considered under the provisions of rule H. Res. 122. (consideration: CR H1543-1556; text: CR H1552)
+- 2019-02-13 — DEBATE - Pursuant to the provisions of H. Res. 122, the Committee of the Whole proceeded with 10 minutes of debate on the Buck amendment No. 2
+- 2019-02-13 — DEBATE - The House proceeded with 10 minutes of debate on the Kustoff (TN) motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to state that it is in the national security interest of the United States to combat anti-Semitism around the world.
+- 2019-02-13 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.J. Res. 37.
+- 2019-02-13 — House amendment agreed to: On agreeing to the Buck amendment (A001) Agreed to by recorded vote: 252 - 177 (Roll no. 81).
+- 2019-02-13 — House amendment agreed to: On agreeing to the Engel amendment (A002) Agreed to by voice vote.
+- 2019-02-13 — House amendment offered
+- 2019-02-13 — House amendment offered
+- 2019-02-13 — House amendment offered/reported by: Amendment (A001) offered by Mr. Buck.
+- 2019-02-13 — House amendment offered/reported by: Amendment (A002) offered by Mr. Engel.(consideration: CR H1552-1554; text: CR H1552)
+- 2019-02-13 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 122 and Rule XVIII.
+- 2019-02-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-02-13 — Mr. Kustoff (TN) moved to recommit with instructions to the Committee on Foreign Affairs. (text: CR H1554)
+- 2019-02-13 — On agreeing to the Buck amendment (A001) Agreed to by recorded vote: 252 - 177 (Roll no. 81).
+- 2019-02-13 — On agreeing to the Engel amendment (A002) Agreed to by voice vote.
+- 2019-02-13 — On motion to recommit with instructions Agreed to by recorded vote: 424 - 0, 2 Present (Roll no. 82).
+- 2019-02-13 — On passage Passed by the Yeas and Nays: 248 - 177, 1 Present (Roll no. 83).
+- 2019-02-13 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 248 - 177, 1 Present (Roll no. 83).
+- 2019-02-13 — Roll call votes on amendments in House
+- 2019-02-13 — Rule H. Res. 122 passed House.
+- 2019-02-13 — Rule provides for consideration of H.J. Res. 37 with 1 hour of general debate. Motion to recommit with or without instructions allowed. A specified amendment is in order. The resolution provides through February 17, 2019, for the Speaker to entertain motions that the House suspend the rules.
+- 2019-02-13 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.J. Res. 37.
+- 2019-02-13 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2019-02-13 — The House rose from the Committee of the Whole House on the state of the Union to report H.J. Res. 37.
+- 2019-02-13 — The Speaker designated the Honorable Stacey E. Plaskett to act as Chairwoman of the Committee.
+- 2019-02-13 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2019-02-13 — The previous question was ordered pursuant to the rule.

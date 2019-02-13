@@ -23,19 +23,34 @@ Congress finds the following:
 - **(8)** Section 8(c) of the War Powers Resolution (50 U.S.C. 1547(c)) defines the introduction of United States Armed Forces to include “the assignment of members of such armed forces to command, coordinate, participate in the movement of, or accompany the regular or irregular military forces of any foreign country or government when such military forces are engaged, or there exists an imminent threat that such forces will become engaged, in hostilities”, and activities that the United States is conducting in support of the Saudi-led coalition, including aerial refueling and targeting assistance, fall within this definition.
 - **(9)** Section 1013 of the Department of State Authorization Act, Fiscal Years 1984 and 1985 (50 U.S.C. 1546a) provides that any joint resolution or bill to require the removal of United States Armed Forces engaged in hostilities without a declaration of war or specific statutory authorization shall be considered in accordance with the expedited procedures of section 601(b) of the International Security and Arms Export Control Act of 1976 (Public Law 94–329; 90 Stat. 765).
 - **(10)** No specific statutory authorization for the use of United States Armed Forces with respect to the conflict between the Saudi-led coalition and the Houthis in Yemen has been enacted, and no provision of law explicitly authorizes the provision of targeting assistance or of midair refueling services to warplanes of Saudi Arabia or the United Arab Emirates that are engaged in such conflict.
+- **(11)** It is in the national security interest of the United States to combat anti-Semitism around the world because—
+  - **(A)** anti-Semitism is a challenge to the basic principles of tolerance, pluralism, and democracy, and the shared values that bind Americans together;
+  - **(B)** there has been a significant amount of anti-Semitic and anti-Israel hatred that must be most strongly condemned; and
+  - **(C)** there is an urgent need to ensure the safety and security of Jewish communities, including synagogues, schools, cemeteries, and other institutions.
+- **(12)** It is in the foreign policy interest of the United States to continue to emphasize the importance of combating anti-Semitism in our bilateral and multilateral relations, including with the United Nations, European Union institutions, Arab League, and the Organization for Security and Cooperation in Europe.
+- **(13)** Because it is important to the national security interest of the United States to maintain strong bipartisan support for Israel, the only democracy in the Middle East, all attempts to delegitimize and deny Israel’s right to exist must be denounced and rejected.
+- **(14)** It is in the national security interest of the United States to oppose restrictive trade practices or boycotts fostered or imposed by any foreign country against other countries friendly to the United States or against any United States person.
 
 ## § 2. Removal of United States Armed Forces from hostilities in the Republic of Yemen that have not been authorized by Congress
 
-Pursuant to section 1013 of the Department of State Authorization Act, Fiscal Years 1984 and 1985 (50 U.S.C. 1546a) and in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976 (Public Law 94–329; 90 Stat. 765), Congress hereby directs the President to remove United States Armed Forces from hostilities in or affecting the Republic of Yemen, except United States Armed Forces engaged in operations directed at al-Qaeda or associated forces, by not later than the date that is 30 days after the date of the enactment of this joint resolution (unless the President requests and Congress authorizes a later date), and unless and until a declaration of war or specific authorization for such use of United States Armed Forces has been enacted. For purposes of this resolution, in this section, the term hostilities includes in-flight refueling, non-United States aircraft conducting missions as part of the ongoing civil war in Yemen.
+Pursuant to section 1013 of the Department of State Authorization Act, Fiscal Years 1984 and 1985 (50 U.S.C. 1546a) and in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976 (Public Law 94–329; 90 Stat. 765), Congress hereby directs the President to remove United States Armed Forces from hostilities in or affecting the Republic of Yemen, except United States Armed Forces engaged in operations directed at al-Qaeda or associated forces, by not later than the date that is 30 days after the date of the enactment of this joint resolution (unless the President requests and Congress authorizes a later date), and unless and until a declaration of war or specific authorization for such use of United States Armed Forces has been enacted. For purposes of this resolution, in this section, the term hostilities includes in-flight refueling of, non-United States aircraft conducting missions as part of the ongoing civil war in Yemen.
 
 ## § 3. Rule of construction regarding continued military operations and cooperation with Israel
 
 Nothing in this joint resolution may be construed to influence or disrupt any military operations and cooperation with Israel.
 
-## § 4. Report on risks posed by ceasing Saudi Arabia support operations
+## § 4. Rule of construction regarding intelligence sharing
+
+Nothing in this joint resolution may be construed to influence or disrupt any intelligence, counterintelligence, or investigative activities conducted by, or in conjunction with, the United States Government involving—
+
+- **(1)** the collection of intelligence;
+- **(2)** the analysis of intelligence; or
+- **(3)** the sharing of intelligence between the United States and any foreign country if the President determines such sharing is appropriate and in the national security interests of the United States.
+
+## § 5. Report on risks posed by ceasing Saudi Arabia support operations
 
 Not later than 90 days after the date of the enactment of this joint resolution, the President shall submit to Congress a report assessing the risks posed to United States citizens and the civilian population of Saudi Arabia and the risk of regional humanitarian crises if the United States were to cease support operations with respect to the conflict between the Saudi-led coalition and the Houthis in Yemen.
 
-## § 5. Report on increased risk of terrorist attacks to United States Armed Forces abroad, allies, and the continental United States if Saudi Arabia ceases Yemen-related intelligence sharing with the United States
+## § 6. Report on increased risk of terrorist attacks to United States Armed Forces abroad, allies, and the continental United States if Saudi Arabia ceases Yemen-related intelligence sharing with the United States
 
 Not later than 90 days after the date of the enactment of this joint resolution, the President shall submit to Congress a report assessing the increased risk of terrorist attacks on United States Armed Forces abroad, allies, and to the continental United States if the Government of Saudi Arabia were to cease Yemen-related intelligence sharing with the United States.
