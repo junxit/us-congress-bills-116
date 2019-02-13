@@ -1,7 +1,7 @@
 ---
 measure: S. 461
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 461
@@ -39,3 +39,7 @@ HBCU PARTNERS Act
 - 2019-02-12 — Introduced in Senate
 - 2019-02-12 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote. (consideration: CR S1281-1282; text: CR S1281-1282)
 - 2019-02-12 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.(consideration: CR S1281-1282; text: CR S1281-1282)
+- 2019-02-13 — Message on Senate action sent to the House.
+- 2019-02-13 — Received in the House.
+- 2019-02-13 — Referred to the Committee on Oversight and Reform, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-02-13 — Referred to the Committee on Oversight and Reform, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
