@@ -1,0 +1,18 @@
+---
+legis-num: S. 466
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 466
+
+> To provide that certain guidance related to waivers for State innovation under the Patient Protection and Affordable Care Act shall have no force or effect.
+
+## § 1. Short title
+
+This Act may be cited as the “Protecting Americans with Pre-existing Conditions Act of 2019”.
+
+## § 2. Providing that certain guidance related to waivers for State innovation under the Patient Protection and Affordable Care Act shall have no force or effect
+
+Beginning April 1, 2019, the Secretary of Health and Human Services and the Secretary of the Treasury may not take any action to implement, enforce, or otherwise give effect to the guidance entitled “State Relief and Empowerment Waivers” (83 Fed. Reg. 53575 (October 24, 2018)), and the Secretaries may not promulgate any substantially similar guidance or rule.
