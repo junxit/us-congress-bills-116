@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 50
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 50
@@ -28,3 +28,7 @@ A resolution improving procedures for the consideration of nominations in the Se
 
 - 2019-02-06 — Introduced in Senate
 - 2019-02-06 — Referred to the Committee on Rules and Administration. (text: CR S924)
+- 2019-02-13 — Committee on Rules and Administration. Ordered to be reported without amendment favorably.
+- 2019-02-13 — Committee on Rules and Administration. Reported by Senator Blunt without amendment. Without written report.
+- 2019-02-13 — Committee on Rules and Administration. Reported by Senator Blunt without amendment. Without written report.
+- 2019-02-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 24.
