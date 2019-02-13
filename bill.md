@@ -81,3 +81,7 @@ This Act shall be effective 180 days after the date of the enactment of this Act
 
 - **(1)** with respect to any settlement agreement (as such term is defined in section 307 of title 5, United States Code, as added by section 2), entered into on or after the date of the enactment of this Act; and
 - **(2)** to the extent practicable, any such settlement agreement (as such term is defined in section 307 of title 5, United States Code, as added by section 2) that remains in effect on or after the date of the enactment of this Act.
+
+## § 6. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
