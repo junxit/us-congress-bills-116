@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 37
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.J.Res. 37
@@ -115,9 +115,10 @@ Directing the removal of United States Armed Forces from hostilities in the Repu
 - Rep. Kildee, Daniel T. [D-MI-5] (K000380)
 - Rep. DeGette, Diana [D-CO-1] (D000197)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -161,3 +162,4 @@ Directing the removal of United States Armed Forces from hostilities in the Repu
 - 2019-02-13 — The Speaker designated the Honorable Stacey E. Plaskett to act as Chairwoman of the Committee.
 - 2019-02-13 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-02-13 — The previous question was ordered pursuant to the rule.
+- 2019-02-14 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
