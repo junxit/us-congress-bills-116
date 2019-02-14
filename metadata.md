@@ -1,7 +1,7 @@
 ---
 measure: S. 483
 congress: 116
-version: Engrossed in Senate
+version: Placed on Calendar Senate
 ---
 
 # S. 483
