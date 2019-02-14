@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 1266
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1266
+
+> To amend title 18, United States Code, to require firearm assembly kits to be considered to be firearms.
+
+## § 1. Short title
+
+This Act may be cited as the “Ghost Guns Are Guns Act”.
+
+## § 2. Firearm assembly kits considered to be firearms
+
+Section 921(a) of title 18, United States Code, is amended—
+
+- **(1)** in paragraph (3), by striking “or (D) any destructive device” and inserting “; (D) any destructive device; or (E) any combination of parts designed or intended for use in converting any device into a firearm and from which a firearm may be readily assembled”; and
+- **(2)** in paragraph (4)—
+  - **(A)** by adding “and” at the end of subparagraph (A);
+  - **(B)** by striking “and” at the end of subparagraph (B) and inserting a period; and
+  - **(C)** by striking subparagraph (C).
