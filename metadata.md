@@ -1,7 +1,7 @@
 ---
 measure: H.R. 995
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 995
@@ -20,9 +20,10 @@ Settlement Agreement Information Database Act of 2019
 
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Settlement Agreement Information Database Act of 2019
 - 2019-02-13 — Motion to reconsider laid on the table Agreed to without objection.
 - 2019-02-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 418 - 0 (Roll no. 84). (text: 02/11/2019 CR H1500-1501)
 - 2019-02-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 418 - 0 (Roll no. 84).
+- 2019-02-14 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
