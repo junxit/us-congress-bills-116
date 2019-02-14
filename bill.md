@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 1223
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1223
+
+> To amend the Internal Revenue Code of 1986 to repeal the increase in unrelated business taxable income by amount of certain fringe benefit expenses.
+
+## § 1. Short title
+
+This Act may be cited as the “Stop the Tax Hike on Charities and Places of Worship Act”.
+
+## § 2. Repeal of increase of unrelated business taxable income by amount of certain fringe benefits
+
+- **(a)** *In general* Section 512(a) of the Internal Revenue Code of 1986 is amended by striking paragraph (7).
+- **(b)** *Effective date* The amendment made by this section shall take effect as if included in section 13703 of Public Law 115–97.
+
+## § 3. Increase in tax imposed on corporations
+
+- **(a)** *In general* Section 11(b) of the Internal Revenue Code of 1986 is amended by striking “21 percent” and inserting “21.03 percent”.
+- **(b)** *Effective date* The amendment made by this section shall apply with respect to taxable years beginning after the date of the enactment of this Act.
