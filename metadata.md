@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 4
 congress: 116
-version: Agreed to Senate
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 4
