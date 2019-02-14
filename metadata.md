@@ -1,7 +1,7 @@
 ---
 measure: S. 488
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 488
