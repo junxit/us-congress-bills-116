@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 1232
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1232
+
+> To amend the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 to repeal certain waiver authority relating to the construction of new border barriers, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Rescinding DHS’ Waiver Authority for Border Wall Act”.
+
+## § 2. Repeal of waiver authority for the construction of new border barriers
+
+Section 102 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (division C of Public Law 104–208; 8 U.S.C. 1103 note) is amended by striking subsection (c).
