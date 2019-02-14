@@ -1,0 +1,23 @@
+---
+legis-num: H. RES. 131
+congress: 116th CONGRESS
+session: 1st Session
+chamber: In the House of Representatives, U. S.,
+---
+
+# H. RES. 131
+
+> Providing for consideration of the conference report to accompany the joint resolution (H.J. Res. 31) making further continuing appropriations for the Department of Homeland Security for fiscal year 2019, and for other purposes, and providing for proceedings during the period from February 15, 2019, through February 22, 2019.
+
+That upon adoption of this resolution it shall be in order to consider the conference report to accompany the joint resolution (H.J. Res. 31) making further continuing appropriations for the Department of Homeland Security for fiscal year 2019, and for other purposes. All points of order against the conference report and against its consideration are waived. The conference report shall be considered as read. The previous question shall be considered as ordered on the conference report to its adoption without intervening motion except: (1) one hour of debate; and (2) one motion to recommit if applicable.
+
+## § 2.
+
+On any legislative day during the period from February 15, 2019, through February 22, 2019—
+
+- **(a)** the Journal of the proceedings of the previous day shall be considered as approved; and
+- **(b)** the Chair may at any time declare the House adjourned to meet at a date and time, within the limits of clause 4, section 5, article I of the Constitution, to be announced by the Chair in declaring the adjournment.
+
+## § 3.
+
+The Speaker may appoint Members to perform the duties of the Chair for the duration of the period addressed by section 2 of this resolution as though under clause 8(a) of rule I.
