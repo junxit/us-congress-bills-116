@@ -1,6 +1,6 @@
 ---
 legis-num: S. CON. RES. 4
-congress: One Hundred Sixteenth Congress of the United States of America
+congress: 116th CONGRESS
 session: 1st Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
