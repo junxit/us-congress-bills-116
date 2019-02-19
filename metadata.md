@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 1
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 1
@@ -27,9 +27,10 @@ A concurrent resolution calling for credible, transparent, and safe elections in
 - Sen. Risch, James E. [R-ID] (R000584)
 - Sen. Risch, James E. [R-ID] (R000584)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -50,3 +51,6 @@ A concurrent resolution calling for credible, transparent, and safe elections in
 - 2019-02-14 — Senate amendment proposed (on the floor): Amendment SA 191 proposed by Senator McConnell for Senator Menendez.
 - 2019-02-14 — Senate amendment submitted
 - 2019-02-14 — Senate amendment submitted
+- 2019-02-15 — Message on Senate action sent to the House.
+- 2019-02-19 — Received in the House.
+- 2019-02-19 — Referred to the House Committee on Foreign Affairs.
