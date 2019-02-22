@@ -62,4 +62,4 @@ Nothing in this Act, or any amendment made by this Act, shall be construed to—
 
 ## § 6. Effective date
 
-The amendments made by this Act shall take effect 180 days after the date of the enactment of this Act.
+The amendments made by this Act shall take effect 210 days after the date of the enactment of this Act.
