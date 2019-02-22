@@ -30,3 +30,7 @@ Section 922(t)(1)(B)(ii) of title 18, United States Code is amended—
   >   - **(B)** make the form available electronically, and provide a copy of the form to all licensees referred to in paragraph (1);
   >   - **(C)** provide the petitioner and the licensee involved written notice of receipt of the petition, either electronically or by first-class mail; and
   >   - **(D)** respond on an expedited basis to any such petition received by the Attorney General.
+
+## § 3. New terminology for those with mental illness
+
+Section 922 of title 18, United States Code, is amended in each of subsections (d)(4) and (g)(4) by striking “adjudicated as a mental defective” and inserting “adjudicated with mental illness, severe developmental disability, or severe emotional instability”.
