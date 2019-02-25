@@ -1,7 +1,7 @@
 ---
 measure: S. 483
 congress: 116
-version: Placed on Calendar Senate
+version: Engrossed Amendment House
 ---
 
 # S. 483
@@ -28,3 +28,17 @@ Pesticide Registration Improvement Extension Act of 2018
 - 2019-02-14 — Passed Senate without amendment by Voice Vote. (consideration: CR S1394; text: CR S1394)
 - 2019-02-14 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S1394; text: CR S1394)
 - 2019-02-14 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 26.
+- 2019-02-15 — Held at the desk.
+- 2019-02-15 — Message on Senate action sent to the House.
+- 2019-02-15 — Received in the House.
+- 2019-02-25 — Amendment (A001) offered by Mr. Peterson. (consideration: CR H2068-2087; text: CR H2068-2087)
+- 2019-02-25 — Amendment agreed to by House: On agreeing to the Peterson amendment (A001) Agreed to without objection.
+- 2019-02-25 — Considered by unanimous consent. (consideration: CR H2068-2087)
+- 2019-02-25 — House amendment agreed to: On agreeing to the Peterson amendment (A001) Agreed to without objection.
+- 2019-02-25 — House amendment offered
+- 2019-02-25 — House amendment offered/reported by: Amendment (A001) offered by Mr. Peterson.
+- 2019-02-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-02-25 — Mr. Peterson asked unanimous consent to take from the Speaker's table and consider.
+- 2019-02-25 — On agreeing to the Peterson amendment (A001) Agreed to without objection.
+- 2019-02-25 — On passage Passed without objection. (text: CR H2068-2087)
+- 2019-02-25 — Passed/agreed to in House: On passage Passed without objection.(text: CR H2068-2087)
