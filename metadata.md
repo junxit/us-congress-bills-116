@@ -1,7 +1,7 @@
 ---
 measure: H.R. 525
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 525
@@ -33,3 +33,11 @@ Strengthening the Health Care Fraud Prevention Task Force Act of 2019
 - 2019-01-11 — Introduced in House
 - 2019-01-11 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-01-11 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-01-25 — Referred to the Subcommittee on Health.
+- 2019-01-25 — Referred to the Subcommittee on Health.
+- 2019-02-25 — Considered under suspension of the rules. (consideration: CR H2053-2055)
+- 2019-02-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 525.
+- 2019-02-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-02-25 — Mr. Engel moved to suspend the rules and pass the bill.
+- 2019-02-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2053-2054)
+- 2019-02-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2053-2054)

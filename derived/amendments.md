@@ -1,7 +1,7 @@
 ---
 measure: H.R. 525
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
