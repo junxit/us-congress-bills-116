@@ -1,15 +1,13 @@
 ---
 legis-num: S. 483
-congress: 116th CONGRESS
+congress: One Hundred Sixteenth Congress of the United States of America
 session: 1st Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 483
 
-That the bill from the Senate (S. 483) entitled “An Act to enact into law a bill by reference.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To enact into law a bill by reference.
 
 ## § 1. Short title; table of contents
 

@@ -1,7 +1,7 @@
 ---
 measure: S. 483
 congress: 116
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 483
@@ -42,3 +42,14 @@ Pesticide Registration Improvement Extension Act of 2018
 - 2019-02-25 — On agreeing to the Peterson amendment (A001) Agreed to without objection.
 - 2019-02-25 — On passage Passed without objection. (text: CR H2068-2087)
 - 2019-02-25 — Passed/agreed to in House: On passage Passed without objection.(text: CR H2068-2087)
+- 2019-02-26 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2019-02-28 — Measure laid before Senate by unanimous consent. (consideration: CR S1606)
+- 2019-02-28 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S.483 by Voice Vote.
+- 2019-02-28 — Senate agreed to the House amendment to S.483 by Voice Vote.
+- 2019-03-04 — Message on Senate action sent to the House.
+- 2019-03-06 — Presented to President.
+- 2019-03-06 — Presented to President.
+- 2019-03-08 — Became Public Law No: 116-8.
+- 2019-03-08 — Became Public Law No: 116-8.
+- 2019-03-08 — Signed by President.
+- 2019-03-08 — Signed by President.
