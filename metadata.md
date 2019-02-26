@@ -1,7 +1,7 @@
 ---
 measure: H.R. 276
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 276
@@ -95,3 +95,14 @@ Recognizing Achievement in Classified School Employees Act
 - 2019-02-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 19 (Roll no. 89). (text: CR H2060-2061)
 - 2019-02-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 19 (Roll no. 89).(text: CR H2060-2061)
 - 2019-02-26 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2019-03-28 — Passed Senate without amendment by Unanimous Consent.
+- 2019-03-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2019-03-28 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S2098)
+- 2019-03-28 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S2098)
+- 2019-04-01 — Message on Senate action sent to the House.
+- 2019-04-04 — Presented to President.
+- 2019-04-04 — Presented to President.
+- 2019-04-12 — Became Public Law No: 116-13.
+- 2019-04-12 — Became Public Law No: 116-13.
+- 2019-04-12 — Signed by President.
+- 2019-04-12 — Signed by President.
