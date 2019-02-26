@@ -1,7 +1,7 @@
 ---
 measure: H.R. 525
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 525
@@ -22,10 +22,11 @@ Strengthening the Health Care Fraud Prevention Task Force Act of 2019
 - Rep. Brady, Kevin [R-TX-8] (B000755)
 - Rep. Neal, Richard E. [D-MA-1] (N000015)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Strengthening the Health Care Fraud Prevention Task Force Act of 2019
 - 2019-02-25 — Mr. Engel moved to suspend the rules and pass the bill.
 - 2019-02-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2053-2054)
 - 2019-02-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2053-2054)
+- 2019-02-26 — Received in the Senate and Read twice and referred to the Committee on Finance.
