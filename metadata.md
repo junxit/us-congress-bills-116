@@ -1,7 +1,7 @@
 ---
 measure: H.R. 276
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 276
@@ -76,9 +76,10 @@ Recognizing Achievement in Classified School Employees Act
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -93,3 +94,4 @@ Recognizing Achievement in Classified School Employees Act
 - 2019-02-25 — Mrs. Lee (NV) moved to suspend the rules and pass the bill.
 - 2019-02-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 19 (Roll no. 89). (text: CR H2060-2061)
 - 2019-02-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 19 (Roll no. 89).(text: CR H2060-2061)
+- 2019-02-26 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
