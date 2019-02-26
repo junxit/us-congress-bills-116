@@ -1,7 +1,7 @@
 ---
 measure: H.R. 539
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 539
@@ -23,10 +23,11 @@ Innovators to Entrepreneurs Act of 2019
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
 - Rep. Gonzalez, Anthony [R-OH-16] (G000588)
 
-## Committees (2)
+## Committees (3)
 
 - House — Small Business Committee
 - House — Science, Space, and Technology Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ Innovators to Entrepreneurs Act of 2019
 - 2019-02-25 — Mr. Lipinski moved to suspend the rules and pass the bill.
 - 2019-02-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 385 - 18 (Roll no. 88). (text: CR H2055-2056)
 - 2019-02-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 385 - 18 (Roll no. 88).(text: CR H2055-2056)
+- 2019-02-26 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
