@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 1378
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1378
+
+> To provide that the authority to grant clemency for offenses against the District of Columbia shall be exercised in accordance with law enacted by the District of Columbia.
+
+## § 1. Short title
+
+This Act may be cited as the “District of Columbia Clemency Home Rule Act”.
+
+## § 2. Authority to grant clemency in accordance with District of Columbia law for offenses against District of Columbia
+
+- **(a)** *Authority described* The authority to grant clemency for offenses against the District of Columbia shall be exercised by such person or persons, and under such terms and conditions, as may be provided under law enacted by the District of Columbia.
+- **(b)** *Rule of Construction* Nothing in this Act may be construed to affect any authority exercised by the President or the Mayor of the District of Columbia prior to the effective date of any law enacted by the District of Columbia pursuant to this Act with respect to the authority to grant clemency for offenses against the District of Columbia.
+- **(c)** *Clemency Defined* In this Act, the term clemency means a pardon, reprieve, or commutation of sentence, or a remission of a fine or other financial penalty.
