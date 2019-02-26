@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1235
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1235
@@ -23,9 +23,10 @@ MSPB Temporary Term Extension Act
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 - Rep. Luria, Elaine G. [D-VA-2] (L000591)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ MSPB Temporary Term Extension Act
 - 2019-02-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2062)
 - 2019-02-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2062)
 - 2019-02-25 — The title of the measure was amended. Agreed to without objection.
+- 2019-02-26 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
