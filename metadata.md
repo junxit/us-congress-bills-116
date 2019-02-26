@@ -1,7 +1,7 @@
 ---
 measure: H.R. 425
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 425
@@ -25,9 +25,10 @@ Supporting Veterans in STEM Careers Act
 - Rep. Waltz, Michael [R-FL-6] (W000823)
 - Rep. Banks, Jim [R-IN-3] (B001299)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Supporting Veterans in STEM Careers Act
 - 2019-02-25 — Mr. Lipinski moved to suspend the rules and pass the bill.
 - 2019-02-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2058-2059)
 - 2019-02-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2058-2059)
+- 2019-02-26 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
