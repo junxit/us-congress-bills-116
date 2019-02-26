@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 46
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 46
@@ -16,7 +16,7 @@ Relating to a national emergency declared by the President on February 15, 2019.
 
 - Rep. Castro, Joaquin [D-TX-20] (C001091)
 
-## Cosponsors (225)
+## Cosponsors (233)
 
 - Rep. Pelosi, Nancy [D-CA-12] (P000197)
 - Rep. Hoyer, Steny H. [D-MD-5] (H000874)
@@ -243,6 +243,14 @@ Relating to a national emergency declared by the President on February 15, 2019.
 - Rep. Wexton, Jennifer [D-VA-10] (W000825)
 - Rep. Wild, Susan [D-PA-7] (W000826)
 - Rep. Wilson, Frederica S. [D-FL-24] (W000808)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Kirkpatrick, Ann [D-AZ-2] (K000368)
+- Rep. Pappas, Chris [D-NH-1] (P000614)
+- Rep. Lawson, Al, Jr. [D-FL-5] (L000586)
+- Rep. Van Drew, Jefferson [D-NJ-2] (V000133)
+- Rep. Kim, Andy [D-NJ-3] (K000394)
 
 ## Committees (1)
 
@@ -254,3 +262,15 @@ Relating to a national emergency declared by the President on February 15, 2019.
 - 2019-02-22 — Introduced in House
 - 2019-02-22 — Referred to the House Committee on Transportation and Infrastructure.
 - 2019-02-22 — Sponsor introductory remarks on measure. (CR E193)
+- 2019-02-25 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- 2019-02-25 — Rules Committee Resolution H. Res. 144 Reported to House. Rule provides for consideration of H.J. Res. 46 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
+- 2019-02-26 — Considered as unfinished business. (consideration: CR H2217-2218)
+- 2019-02-26 — Considered under the provisions of rule H. Res. 144. (consideration: CR H2130-2141)
+- 2019-02-26 — DEBATE - The House proceeded with one hour of debate on H.J. Res. 46.
+- 2019-02-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-02-26 — On passage Passed by the Yeas and Nays: 245 - 182 (Roll no. 94). (text: CR H2130)
+- 2019-02-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.J. Res. 46, the Chair put the question on passage of the joint resolution, and announced by voice vote, that the ayes had prevailed. Mr. Graves (MO) demanded the yeas and nays, and the Chair postponed further proceedings until later in the legislative day.
+- 2019-02-26 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 245 - 182 (Roll no. 94).(text: CR H2130)
+- 2019-02-26 — Rule H. Res. 144 passed House.
+- 2019-02-26 — Rule provides for consideration of H.J. Res. 46 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
+- 2019-02-26 — The previous question was ordered pursuant to the rule.
