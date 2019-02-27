@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 8
@@ -265,3 +265,57 @@ Bipartisan Background Checks Act of 2019
 - 2019-02-22 — Placed on the Union Calendar, Calendar No. 3.
 - 2019-02-22 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-11.
 - 2019-02-22 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-11.
+- 2019-02-25 — Rules Committee Resolution H. Res. 145 Reported to House. Provides for one hour of debate on each measure. Only those amendments printed in the report shall be in order and the previous question shall be considered ordered without intervening motions except one motion to recommit with or without instructions.
+- 2019-02-27 — Amendment (A001) offered by Mrs. Lesko. (consideration: CR H2254-2256, H2259; text: CR H2254)
+- 2019-02-27 — Amendment (A002) offered by Ms. Dean. (consideration: CR H2256-2257; text: CR H2256)
+- 2019-02-27 — Amendment (A003) offered by Ms. Horn, Kendra S.. (consideration: CR H2257-2258, H2260; text: CR H2257)
+- 2019-02-27 — Amendment (A004) offered by Mr. Van Drew. (consideration: CR H2258-2259; text: CR H2258)
+- 2019-02-27 — Amendment (A005) offered by Mr. Nadler. (consideration: CR H2262; text: CR H2262)
+- 2019-02-27 — Amendment agreed to Committee of the Whole
+- 2019-02-27 — Amendment agreed to Committee of the Whole
+- 2019-02-27 — Amendment agreed to Committee of the Whole
+- 2019-02-27 — Amendment agreed to by House: On agreeing to the Nadler amendment (A005) Agreed to by voice vote.
+- 2019-02-27 — Amendment failed in Committee of the Whole
+- 2019-02-27 — Considered under the provisions of rule H. Res. 145. (consideration: CR H2242-2263)
+- 2019-02-27 — DEBATE - Pursuant to the provisions of H. Res. 145, the Committee of the Whole proceeded with 10 minutes of debate on the Dean amendment No. 2.
+- 2019-02-27 — DEBATE - Pursuant to the provisions of H. Res. 145, the Committee of the Whole proceeded with 10 minutes of debate on the Horn (OK) amendment No. 3.
+- 2019-02-27 — DEBATE - Pursuant to the provisions of H. Res. 145, the Committee of the Whole proceeded with 10 minutes of debate on the Lesko amendment No. 1.
+- 2019-02-27 — DEBATE - Pursuant to the provisions of H. Res. 145, the Committee of the Whole proceeded with 10 minutes of debate on the Van Drew amendment No. 4.
+- 2019-02-27 — DEBATE - The House proceeded with 10 minutes of debate on the Collins (GA) motion to recommit with instructions pending a reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to insert new text on regulations in the case of a background check conducted by the national instant criminal background check system, in response to a contact from a licensed importer, manufacturer, or dealer, that the system notify U.S. Immigration and Customs Enforcement if the individual is in violation of subsection (g)(5). Subsequently, the reservation was withdrawn.
+- 2019-02-27 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 8.
+- 2019-02-27 — House amendment agreed to: On agreeing to the Dean amendment (A002) Agreed to by voice vote.
+- 2019-02-27 — House amendment agreed to: On agreeing to the Horn, Kendra S. amendment (A003) Agreed to by recorded vote: 310 - 119 (Roll no. 97).
+- 2019-02-27 — House amendment agreed to: On agreeing to the Nadler amendment (A005) Agreed to by voice vote.
+- 2019-02-27 — House amendment agreed to: On agreeing to the Van Drew amendment (A004) Agreed to by voice vote.
+- 2019-02-27 — House amendment not agreed to: On agreeing to the Lesko amendment (A001) Failed by recorded vote: 182 - 250 (Roll no. 96).
+- 2019-02-27 — House amendment offered
+- 2019-02-27 — House amendment offered
+- 2019-02-27 — House amendment offered
+- 2019-02-27 — House amendment offered
+- 2019-02-27 — House amendment offered
+- 2019-02-27 — House amendment offered/reported by: Amendment (A001) offered by Mrs. Lesko.
+- 2019-02-27 — House amendment offered/reported by: Amendment (A002) offered by Ms. Dean.
+- 2019-02-27 — House amendment offered/reported by: Amendment (A003) offered by Ms. Horn, Kendra S..
+- 2019-02-27 — House amendment offered/reported by: Amendment (A004) offered by Mr. Van Drew.
+- 2019-02-27 — House amendment offered/reported by: Amendment (A005) offered by Mr. Nadler.
+- 2019-02-27 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 145 and Rule XVIII.
+- 2019-02-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-02-27 — Mr. Collins (GA) moved to recommit with instructions to the Committee on the Judiciary. (text: CR H2260)
+- 2019-02-27 — On agreeing to the Dean amendment (A002) Agreed to by voice vote.
+- 2019-02-27 — On agreeing to the Horn, Kendra S. amendment (A003) Agreed to by recorded vote: 310 - 119 (Roll no. 97).
+- 2019-02-27 — On agreeing to the Lesko amendment (A001) Failed by recorded vote: 182 - 250 (Roll no. 96).
+- 2019-02-27 — On agreeing to the Nadler amendment (A005) Agreed to by voice vote.
+- 2019-02-27 — On agreeing to the Van Drew amendment (A004) Agreed to by voice vote.
+- 2019-02-27 — On motion to recommit with instructions Agreed to by the Yeas and Nays: 220 - 209 (Roll no. 98).
+- 2019-02-27 — On passage Passed by the Yeas and Nays: 240 - 190 (Roll no. 99).
+- 2019-02-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Horn amendment No. 3, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Nadler demanded a recorded vote and the Chair postponed further proceedings until later in the legislative day.
+- 2019-02-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lesko amendment No. 1, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Lesko demanded a recorded vote and the Chair postponed further proceedings until later in the legislative day.
+- 2019-02-27 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 240 - 190 (Roll no. 99).
+- 2019-02-27 — Provides for one hour of debate on each measure. Only those amendments printed in the report shall be in order and the previous question shall be considered ordered without intervening motions except one motion to recommit with or without instructions.
+- 2019-02-27 — Roll call votes on amendments in House
+- 2019-02-27 — Roll call votes on amendments in House
+- 2019-02-27 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text: CR H2254)
+- 2019-02-27 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 8.
+- 2019-02-27 — The Speaker designated the Honorable Earl Blumenauer to act as Chairman of the Committee.
+- 2019-02-27 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2019-02-27 — The previous question was ordered pursuant to the rule.
