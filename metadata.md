@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 70
 congress: 116
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 70
@@ -26,3 +26,5 @@ An original resolution authorizing expenditures by committees of the Senate for 
 - 2019-02-13 — Committee on Rules and Administration. Original measure reported to Senate by Senator Blunt. Without written report.(text: CR S1329-1335)
 - 2019-02-13 — Introduced in Senate
 - 2019-02-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 25.
+- 2019-02-27 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S1519 text: CR 2/13/2019 S1329-1335)
+- 2019-02-27 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S1519 text: CR 2/13/2019 S1329-1335)
