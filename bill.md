@@ -1,8 +1,8 @@
 ---
 legis-num: H. CON. RES. 21
-congress: 116th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+congress: One Hundred Sixteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H. CON. RES. 21

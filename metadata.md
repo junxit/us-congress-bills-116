@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 21
 congress: 116
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 21
@@ -25,3 +25,5 @@ Directing the Secretary of the Senate to make a correction in the enrollment of 
 - 2019-02-26 — Mr. Grijalva asked unanimous consent to consider as introduced.
 - 2019-02-26 — On agreeing to the resolution Agreed to without objection. (text: CR H2219)
 - 2019-02-26 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H2219)
+- 2019-02-27 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S1519)
+- 2019-02-27 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S1519)
