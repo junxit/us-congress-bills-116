@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 46
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 46
@@ -16,7 +16,7 @@ Relating to a national emergency declared by the President on February 15, 2019.
 
 - Rep. Castro, Joaquin [D-TX-20] (C001091)
 
-## Cosponsors (233)
+## Cosponsors (234)
 
 - Rep. Pelosi, Nancy [D-CA-12] (P000197)
 - Rep. Hoyer, Steny H. [D-MD-5] (H000874)
@@ -251,15 +251,18 @@ Relating to a national emergency declared by the President on February 15, 2019.
 - Rep. Lawson, Al, Jr. [D-FL-5] (L000586)
 - Rep. Van Drew, Jefferson [D-NJ-2] (V000133)
 - Rep. Kim, Andy [D-NJ-3] (K000394)
+- Sen. Alexander, Lamar [R-TN] (A000360)
 
 ## Committees (2)
 
 - House — Transportation and Infrastructure Committee
 - Senate — Armed Services Committee
 
-## Recorded votes (1)
+## Recorded votes (3)
 
 - 2019-02-26 — [House 116-1-94](votes/house-116-1-0094.md) — On Passage — **Passed** (245–182)
+- 2019-03-14 — [Senate 116-1-49](votes/senate-116-1-0049.md) — On the Joint Resolution — **Joint Resolution Passed** (59–41)
+- 2019-03-26 — [House 116-1-127](votes/house-116-1-0127.md) — On Passage, Objections of the President to the Contrary Notwithstanding — **Failed** (248–181)
 
 ## Actions
 
@@ -280,3 +283,24 @@ Relating to a national emergency declared by the President on February 15, 2019.
 - 2019-02-26 — Rule provides for consideration of H.J. Res. 46 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
 - 2019-02-26 — The previous question was ordered pursuant to the rule.
 - 2019-02-27 — Received in the Senate and Read twice and referred to the Committee on Armed Services.
+- 2019-03-14 — Measure laid before Senate by unanimous consent. (consideration: CR S1857-1882)
+- 2019-03-14 — Message on Senate action sent to the House.
+- 2019-03-14 — Passed Senate without amendment by Yea-Nay Vote. 59 - 41. Record Vote Number: 49.
+- 2019-03-14 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 59 - 41. Record Vote Number: 49.
+- 2019-03-14 — Presented to President.
+- 2019-03-14 — Presented to President.
+- 2019-03-14 — Senate Committee on Armed Services discharged by Unanimous Consent.
+- 2019-03-14 — Senate Committee on Armed Services discharged by Unanimous Consent.
+- 2019-03-14 — Senate amendment submitted
+- 2019-03-15 — Vetoed by President.
+- 2019-03-15 — Vetoed by President.
+- 2019-03-18 — The Chair announced that the objections of the President to H.J. Res. 46 would be spread at large upon the Journal and the veto message would be printed as a House document (116-22).
+- 2019-03-18 — The Chair announced that without objection, further consideration of the veto message and the joint resolution, H.J. Res. 46, would be postponed until the legislative day of March 26, 2019.
+- 2019-03-18 — The Chair laid before the House the veto message from the President. (text: CR H2750)
+- 2019-03-26 — Considered as unfinished business. (consideration: CR H2814-2815)
+- 2019-03-26 — DEBATE - The House proceeded with one hour of debate on the question of passage of H.J.Res. 46, the objections of the President to the contrary, notwithstanding.
+- 2019-03-26 — Failed of passage in House over veto: On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 248 - 181 (Roll no. 127).
+- 2019-03-26 — On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 248 - 181 (Roll no. 127).
+- 2019-03-26 — POSTPONED PROCEEDINGS - Pursuant to rule 8, rule 20, the Chair postponed further proceedings on the question of passage of H.J.Res. 46, the objections of the President to the contrary notwithstanding, until later in the legislative day.
+- 2019-03-26 — Pursuant to the order of the House of March 18, 2019, the Chair announced that the unfinished business was the further consideration of the veto message of the President on H.J.Res. 46. (consideration: CR H2806-2812)
+- 2019-03-26 — The Chair announced that the bill and accompanying veto message were referred to the Committee on Transportation and Infrastructure. The Chair directed the Clerk to notify the Senate of the action of the House.
