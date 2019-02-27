@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 46
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.J.Res. 46
@@ -252,9 +252,10 @@ Relating to a national emergency declared by the President on February 15, 2019.
 - Rep. Van Drew, Jefferson [D-NJ-2] (V000133)
 - Rep. Kim, Andy [D-NJ-3] (K000394)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Armed Services Committee
 
 ## Recorded votes (1)
 
@@ -278,3 +279,4 @@ Relating to a national emergency declared by the President on February 15, 2019.
 - 2019-02-26 — Rule H. Res. 144 passed House.
 - 2019-02-26 — Rule provides for consideration of H.J. Res. 46 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
 - 2019-02-26 — The previous question was ordered pursuant to the rule.
+- 2019-02-27 — Received in the Senate and Read twice and referred to the Committee on Armed Services.
