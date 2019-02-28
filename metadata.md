@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 6
 congress: 116
-version: Agreed to Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 6
