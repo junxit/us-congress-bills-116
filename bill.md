@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 1472
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1472
+
+> To rename the Homestead National Monument of America near Beatrice, Nebraska, as the Homestead National Historical Park.
+
+## § 1. Homestead National Historical Park
+
+- **(a)** *In General* The first section of the Act of March 19, 1936 (16 U.S.C. 450u), is amended by striking “designated” and all that follows through the end and inserting “designated the “Homestead National Historical Park”.”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the unit of the National Park System known as “The Homestead National Monument of America” shall be considered to be a reference to the “Homestead National Historical Park”.
