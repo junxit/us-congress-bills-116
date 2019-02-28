@@ -1,0 +1,35 @@
+---
+legis-num: S. 598
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 598
+
+> To amend title 38, United States Code, to increase certain funeral benefits for veterans, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Burial Rights for America’s Veterans’ Efforts Act of 2019” or the “BRAVE Act of 2019”.
+
+## § 2. Increase to certain funeral benefits under laws administered by the Secretary of Veterans Affairs
+
+- **(a)** *Funeral expenses* Section 2302(a) of title 38, United States Code, is amended—
+  - **(1)** in the matter after paragraph (2)(B), by striking “$300” and inserting “$780 (as increased from time to time under subsection (c))”; and
+  - **(2)** by adding at the end the following new subsection:
+    > - **(c)** With respect to any fiscal year, the Secretary shall provide a percentage increase (rounded to the nearest dollar) in the maximum amount of burial and funeral expenses payable under subsection (a) equal to the percentage by which—
+    >   - **(1)** the Consumer Price Index (all items, United States city average) for the 12-month period ending on the June 30 preceding the beginning of the fiscal year for which the increase is made, exceeds
+    >   - **(2)** the Consumer Price Index for the 12-month period preceding the 12-month period described in paragraph (1).
+
+- **(b)** *Death from service-Connected disability* Section 2307 of such title is amended—
+  - **(1)** by striking “In any case” and inserting the following:
+    > - **(a)** *In general* In any case
+
+  - **(2)** in subsection (a), as designated by paragraph (1), by striking “$2,000” and inserting “$2,000 (as increased from time to time under subsection (b))”; and
+  - **(3)** by adding at the end the following new subsection:
+    > - **(b)** With respect to any fiscal year, the Secretary shall provide a percentage increase (rounded to the nearest dollar) in the maximum amount of burial and funeral expenses payable under subsection (a) equal to the percentage by which—
+    >   - **(1)** the Consumer Price Index (all items, United States city average) for the 12-month period ending on the June 30 preceding the beginning of the fiscal year for which the increase is made, exceeds
+    >   - **(2)** the Consumer Price Index for the 12-month period preceding the 12-month period described in paragraph (1).
+
+- **(c)** *Effective date* The amendments made by this Act shall apply to deaths that occur after the date that is one year after the date of the enactment of this Act.
