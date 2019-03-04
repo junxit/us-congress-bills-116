@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 6
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 6
@@ -20,8 +20,15 @@ A concurrent resolution authorizing the printing of a commemorative document in 
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 
+## Committees (1)
+
+- House — Committee on House Administration
+
 ## Actions
 
 - 2019-02-28 — Introduced in Senate
 - 2019-02-28 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S1606; text: CR S1605)
 - 2019-02-28 — Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S1606; text: CR S1605)
+- 2019-03-04 — Message on Senate action sent to the House.
+- 2019-03-04 — Received in the House.
+- 2019-03-04 — Referred to the House Committee on House Administration.
