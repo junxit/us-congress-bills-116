@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 6
 congress: 116
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 6
@@ -32,3 +32,10 @@ A concurrent resolution authorizing the printing of a commemorative document in 
 - 2019-03-04 — Message on Senate action sent to the House.
 - 2019-03-04 — Received in the House.
 - 2019-03-04 — Referred to the House Committee on House Administration.
+- 2019-05-22 — Committee on House Administration discharged.
+- 2019-05-22 — Committee on House Administration discharged.
+- 2019-05-22 — Considered by unanimous consent. (consideration: CR H4110-4111)
+- 2019-05-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-05-22 — Ms. Fudge asked unanimous consent to discharge from committee and consider.
+- 2019-05-22 — On agreeing to the resolution Agreed to without objection. (text: CR H4110-4111)
+- 2019-05-22 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H4110-4111)
