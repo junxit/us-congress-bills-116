@@ -1,0 +1,22 @@
+---
+legis-num: S. 641
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 641
+
+> To update the map of, and modify the maximum acreage available for inclusion in, the Yucca House National Monument.
+
+## § 1. Short title
+
+This Act may be cited as the “Yucca House National Monument Boundary Revision Act”.
+
+## § 2. Yucca House National Monument boundary revision
+
+- **(a)** *Boundary revision* The boundaries of the Yucca House National Monument are revised to include the approximately 160 acres of land generally depicted as “Proposed Expansion Tract” on the map entitled “Yucca House National Monument Proposed Boundary Revision”, numbered 318/105,085, and dated August 2010.
+- **(b)** *Map* The map described in subsection (a) shall be on file and available for public inspection in appropriate offices of the National Park Service.
+- **(c)** *Acquisition of land*
+  - **(1)** *Method of acquisition* Within the land described in subsection (a), the Secretary of the Interior may acquire land and interests in land by donation.
+  - **(2)** *Administrative costs* The Secretary of the Interior may pay any administrative costs of acquiring land and interests in land by donation under paragraph (1) with appropriated funds.
