@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1138
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1138
@@ -29,3 +29,10 @@ To reauthorize the West Valley demonstration project, and for other purposes.
 - 2019-02-11 — Introduced in House
 - 2019-02-11 — Introduced in House
 - 2019-02-11 — Referred to the House Committee on Energy and Commerce.
+- 2019-02-12 — Referred to the Subcommittee on Energy.
+- 2019-03-05 — Considered under suspension of the rules. (consideration: CR H2330-2332)
+- 2019-03-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1138.
+- 2019-03-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-03-05 — Mr. Tonko moved to suspend the rules and pass the bill.
+- 2019-03-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2330-2331)
+- 2019-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2330-2331)
