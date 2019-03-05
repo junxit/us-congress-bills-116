@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 1526
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1526
+
+> To designate the facility of the United States Postal Service located at 200 Israel Road Southeast in Tumwater, Washington, as the “Eva G. Hewitt Post Office”.
+
+## § 1. Eva G. Hewitt Post Office
+
+- **(a)** *Designation* The facility of the United States Postal Service located at 200 Israel Road Southeast in Tumwater, Washington, shall be known and designated as the “Eva G. Hewitt Post Office”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Eva G. Hewitt Post Office”.
