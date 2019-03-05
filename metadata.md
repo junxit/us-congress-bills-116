@@ -1,7 +1,7 @@
 ---
 measure: H.R. 347
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 347
@@ -29,3 +29,10 @@ Responsible Disposal Reauthorization Act of 2019
 - 2019-01-08 — Introduced in House
 - 2019-01-08 — Introduced in House
 - 2019-01-08 — Referred to the House Committee on Energy and Commerce.
+- 2019-01-25 — Referred to the Subcommittee on Environment and Climate Change.
+- 2019-03-05 — Considered under suspension of the rules. (consideration: CR H2329-2330)
+- 2019-03-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 347.
+- 2019-03-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-03-05 — Mr. Tonko moved to suspend the rules and pass the bill.
+- 2019-03-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2329)
+- 2019-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2329)
