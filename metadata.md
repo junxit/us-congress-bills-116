@@ -1,7 +1,7 @@
 ---
 measure: S. 252
 congress: 116
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 252
@@ -36,3 +36,17 @@ A bill to authorize the honorary appointment of Robert J. Dole to the grade of c
 - 2019-03-05 — Message on Senate action sent to the House.
 - 2019-03-05 — Received in the House.
 - 2019-03-05 — Referred to the House Committee on Armed Services.
+- 2019-03-06 — Referred to the Subcommittee on Military Personnel.
+- 2019-03-26 — Committee on Armed Services discharged.
+- 2019-03-26 — Committee on Armed Services discharged.
+- 2019-03-26 — Considered by unanimous consent. (consideration: H2817-2818)
+- 2019-03-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-03-26 — Mr. Cisneros asked unanimous consent to discharge from committee and consider.
+- 2019-03-26 — On passage Passed without objection. (text: CR H2817-2818)
+- 2019-03-26 — Passed/agreed to in House: On passage Passed without objection.(text: CR H2817-2818)
+- 2019-03-27 — Presented to President.
+- 2019-03-27 — Presented to President.
+- 2019-04-06 — Became Public Law No: 116-11.
+- 2019-04-06 — Became Public Law No: 116-11.
+- 2019-04-06 — Signed by President.
+- 2019-04-06 — Signed by President.
