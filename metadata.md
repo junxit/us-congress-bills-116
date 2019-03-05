@@ -1,7 +1,7 @@
 ---
 measure: S. 252
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 252
@@ -20,9 +20,10 @@ A bill to authorize the honorary appointment of Robert J. Dole to the grade of c
 
 - Sen. Moran, Jerry [R-KS] (M000934)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Armed Services Committee
+- House — Armed Services Committee
 
 ## Actions
 
@@ -32,3 +33,6 @@ A bill to authorize the honorary appointment of Robert J. Dole to the grade of c
 - 2019-03-04 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S1633-1634)
 - 2019-03-04 — Senate Committee on Armed Services discharged by Unanimous Consent. (consideration: CR S1633-1634)
 - 2019-03-04 — Senate Committee on Armed Services discharged by Unanimous Consent.(consideration: CR S1633-1634)
+- 2019-03-05 — Message on Senate action sent to the House.
+- 2019-03-05 — Received in the House.
+- 2019-03-05 — Referred to the House Committee on Armed Services.
