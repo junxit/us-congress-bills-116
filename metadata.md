@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1138
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1138
@@ -20,9 +20,10 @@ To reauthorize the West Valley demonstration project, and for other purposes.
 
 - Rep. Higgins, Brian [D-NY-26] (H001038)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ To reauthorize the West Valley demonstration project, and for other purposes.
 - 2019-03-05 — Mr. Tonko moved to suspend the rules and pass the bill.
 - 2019-03-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2330-2331)
 - 2019-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2330-2331)
+- 2019-03-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
