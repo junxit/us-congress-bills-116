@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 1554
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1554
+
+> To amend the Higher Education Act of 1965 to provide for interest-free deferment on student loans for borrowers serving in a medical or dental internship or residency program.
+
+## § 1. Short title
+
+This Act may be cited as the “Resident Education Deferred Interest Act” or the “REDI Act”.
+
+## § 2. Deferment during a medical or dental internship or residency program
+
+Section 455(f) of the Higher Education Act of 1965 (20 U.S.C. 1087e(f)) is amended—
+
+- **(1)** in paragraph (1), in the matter preceding subparagraph (A), by striking “A borrower” and inserting “Except as provided in paragraph (5), a borrower”;
+- **(2)** in paragraph (2)(A)—
+  - **(A)** by striking the matter following clause (ii);
+  - **(B)** in clause (ii), by striking the comma at the end and inserting “; or”; and
+  - **(C)** by adding at the end the following:
+    > - **(iii)** is serving in a medical or dental internship or residency program;
+
+- **(3)** by adding at the end the following:
+  > - **(5)** *Special rule for certain in school deferment* Notwithstanding any other provision of this Act, a borrower described in paragraph (2)(A)(iii) shall be eligible for a deferent, during which periodic installments of principal need not be paid and interest shall not accrue on any loan made to the borrower under this part.
