@@ -1,7 +1,7 @@
 ---
 measure: H.R. 762
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 762
@@ -45,9 +45,10 @@ Streamlining Energy Efficiency for Schools Act
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 - Rep. Rice, Kathleen M. [D-NY-4] (R000602)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -61,3 +62,4 @@ Streamlining Energy Efficiency for Schools Act
 - 2019-03-05 — Mr. Tonko moved to suspend the rules and pass the bill.
 - 2019-03-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2328)
 - 2019-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2328)
+- 2019-03-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
