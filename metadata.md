@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 172
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 172
@@ -16,6 +16,15 @@ Providing for consideration of the bill (H.R. 1) to expand Americans' access to 
 
 - Rep. Scanlon, Mary Gay [D-PA-5] (S001205)
 
+## Committees (1)
+
+- House — Rules Committee
+
+## Recorded votes (2)
+
+- 2019-03-06 — [House 116-1-106](votes/house-116-1-0106.md) — On Ordering the Previous Question — **Passed** (232–191)
+- 2019-03-06 — [House 116-1-107](votes/house-116-1-0107.md) — On Agreeing to the Resolution — **Passed** (232–192)
+
 ## Actions
 
 - 2019-03-05 — Introduced in House
@@ -23,3 +32,9 @@ Providing for consideration of the bill (H.R. 1) to expand Americans' access to 
 - 2019-03-05 — The House Committee on Rules reported an original measure, H. Rept. 116-16, by Ms. Scanlon.
 - 2019-03-05 — The House Committee on Rules reported an original measure, H. Rept. 116-16, by Ms. Scanlon.
 - 2019-03-05 — The resolution provides that an amendment in the nature of a substitute consisting of the text of Rules Committee Print 116-7, modified by the amendment printed in Part A of the resolution is considered as adopted. The resolution provides that it shall be in order at any time through the legislative day of March 8, 2019, for the Speaker to entertain motions that the House suspend the rules.
+- 2019-03-06 — Considered as privileged matter. (consideration: CR H2379-2388)
+- 2019-03-06 — DEBATE - The House proceeded with one hour of debate on H. Res. 172.
+- 2019-03-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-03-06 — On agreeing to the resolution Agreed to by the Yeas and Nays: 232 - 192 (Roll no. 107). (text: CR H2379-2380)
+- 2019-03-06 — On ordering the previous question Agreed to by the Yeas and Nays: 232 - 191 (Roll no. 106). (consideration: CR H2387-2388)
+- 2019-03-06 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 232 - 192 (Roll no. 107).(text: CR H2379-2380)
