@@ -1,0 +1,71 @@
+---
+legis-num: H.R. 1588
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1588
+
+> To limit the application of Federal laws to the distribution and consumption of marihuana, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Ending Federal Marijuana Prohibition Act of 2019”.
+
+## § 2. Application of the Controlled Substances Act to marihuana
+
+- **(a)** *In general* Part A of the Controlled Substances Act (21 U.S.C. 801 et seq.) is amended by adding at the end the following:
+  > ## § 103. Application of this Act to marihuana
+  >
+  > - **(a)** *Prohibition on certain shipping or transportation* This Act shall not apply to marihuana, except that it shall be unlawful only to ship or transport, in any manner or by any means whatsoever, marihuana, from one State, territory, or district of the United States, or place noncontiguous to but subject to the jurisdiction thereof, into any other State, territory, or district of the United States, or place noncontiguous to but subject to the jurisdiction thereof, or from any foreign country into any State, territory, or district of the United States, or place noncontiguous to but subject to the jurisdiction thereof, when such marihuana is intended, by any person interested therein, to be received, possessed, sold, or in any manner used, either in the original package or otherwise, in violation of any law of such State, territory, or district of the United States, or place noncontiguous to but subject to the jurisdiction thereof.
+  > - **(b)** *Penalty* Whoever knowingly violates subsection (a) shall be fined under title 18, United States Code, imprisoned not more than 1 year, or both.
+
+- **(b)** *Table of contents* The table of contents for the Comprehensive Drug Abuse Prevention and Control Act of 1970 (Public Law 91–513; 84 Stat. 1236) is amended by striking the item relating to section 103 and inserting the following:
+
+## § 3. Deregulation of marihuana
+
+- **(a)** *Removed from schedule of controlled substances* Subsection (c) of Schedule I of section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) is amended—
+  - **(1)** by striking “marihuana”; and
+  - **(2)** by striking “tetrahydrocannabinols”.
+- **(b)** *Removal of prohibition on import and export* Section 1010(b) of the Controlled Substances Import and Export Act (21 U.S.C. 960) is amended—
+  - **(1)** in paragraph (1)—
+    - **(A)** in subparagraph (F), by inserting “or” after the semicolon;
+    - **(B)** by striking subparagraph (G); and
+    - **(C)** by redesignating subparagraph (H) as subparagraph (G);
+  - **(2)** in paragraph (2)—
+    - **(A)** in subparagraph (F), by inserting “or” after the semicolon;
+    - **(B)** by striking subparagraph (G); and
+    - **(C)** by redesignating subparagraph (H) as subparagraph (G);
+  - **(3)** in paragraph (3), by striking “paragraphs (1), (2), and (4)” and inserting “paragraphs (1) and (2)”;
+  - **(4)** by striking paragraph (4); and
+  - **(5)** by redesignating paragraphs (5), (6), and (7) as paragraphs (4), (5), and (6), respectively.
+
+## § 4. Conforming amendments to Controlled Substances Act
+
+The Controlled Substances Act (21 U.S.C. 801 et seq.) is amended—
+
+- **(1)** in section 102(44) (21 U.S.C. 802(44)), by striking “marihuana,”;
+- **(2)** in section 401(b) (21 U.S.C. 841(b))—
+  - **(A)** in paragraph (1)—
+    - **(i)** in subparagraph (A)—
+      - **(I)** in clause (vi), by inserting “or” after the semicolon;
+      - **(II)** by striking (vii); and
+      - **(III)** by redesignating clause (viii) as clause (vii);
+    - **(ii)** in subparagraph (B)—
+      - **(I)** by striking clause (vii); and
+      - **(II)** by redesignating clause (viii) as clause (vii);
+    - **(iii)** in subparagraph (C), by striking “subparagraphs (A), (B), and (D)” and inserting “subparagraphs (A) and (B)”;
+    - **(iv)** by striking subparagraph (D);
+    - **(v)** by redesignating subparagraph (E) as subparagraph (D); and
+    - **(vi)** in subparagraph (D)(i), as redesignated, by striking “subparagraphs (C) and (D)” and inserting “subparagraph (C)”;
+  - **(B)** by striking paragraph (4); and
+  - **(C)** by redesignating paragraphs (5), (6), and (7) as paragraphs (4), (5), and (6), respectively;
+- **(3)** in section 402(c)(2)(B) (21 U.S.C. 842(c)(2)(B)), by striking “, marihuana,”;
+- **(4)** in section 403(d)(1) (21 U.S.C. 843(d)(1)), by striking “, marihuana,”;
+- **(5)** in section 418(a) (21 U.S.C. 859(a)), by striking the last sentence;
+- **(6)** in section 419(a) (21 U.S.C. 860(a)), by striking the last sentence;
+- **(7)** in section 422(d) (21 U.S.C. 863(d))—
+  - **(A)** in the matter preceding paragraph (1), by striking “marijuana,”; and
+  - **(B)** in paragraph (5), by striking “, such as a marihuana cigarette,”; and
+- **(8)** in section 516(d) (21 U.S.C. 886(d)), by striking “section 401(b)(6)” each place the term appears and inserting “section 401(b)(5)”.
