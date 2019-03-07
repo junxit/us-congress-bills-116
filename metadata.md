@@ -1,7 +1,7 @@
 ---
 measure: S. 216
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 216
@@ -28,3 +28,7 @@ Spokane Tribe of Indians of the Spokane Reservation Equitable Compensation Act
 
 - 2019-01-24 — Introduced in Senate
 - 2019-01-24 — Read twice and referred to the Committee on Indian Affairs.
+- 2019-01-29 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2019-03-07 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-4.
+- 2019-03-07 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-4.
+- 2019-03-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 34.
