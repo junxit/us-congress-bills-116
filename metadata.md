@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 183
 congress: 116
-version: Engrossed in House
+version: Introduced in House
 ---
 
 # H.Res. 183

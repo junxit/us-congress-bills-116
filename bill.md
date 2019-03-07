@@ -2,7 +2,7 @@
 legis-num: H. RES. 183
 congress: 116th CONGRESS
 session: 1st Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H. RES. 183
@@ -14,13 +14,13 @@ chamber: In the House of Representatives, U. S.,
 - Whereas the first amendment to the Constitution established the United States as a country committed to the principles of tolerance and religious freedom, and the 14th amendment to the Constitution established equal protection of the laws as the heart of justice in the United States;
 - Whereas adherence to these principles is vital to the progress of the American people and the diverse communities and religious groups of the United States;
 - Whereas whether from the political right, center, or left, bigotry, discrimination, oppression, racism, and imputations of dual loyalty threaten American democracy and have no place in American political discourse;
-- Whereas white supremacists in the United States have exploited and continue to exploit bigotry and weaponize hate for political gain, targeting traditionally persecuted peoples, including African Americans, Latinos, Native Americans, Asian Americans and Pacific Islanders and other people of color, Jews, Muslims, Hindus, Sikhs, the LGBTQ community, immigrants, and others with verbal attacks, incitement, and violence;
+- Whereas White supremacists in the United States have exploited and continue to exploit bigotry and weaponize hate for political gain, targeting traditionally persecuted peoples, including African Americans, Native Americans, and other people of color, Jews, Muslims, Hindus, Sikhs, immigrants, and others with verbal attacks, incitement, and violence;
 - Whereas the Reverend Martin Luther King, Jr., taught that persecution of any American is an assault on the rights and freedoms of all Americans;
-- Whereas on August 11 and 12, 2017, self-identified neo-Confederates, white nationalists, neo-Nazis, and Ku Klux Klansmen held white supremacist events in Charlottesville, Virginia, where they marched on a synagogue under the Nazi swastika, engaged in racist and anti-Semitic demonstrations and committed brutal and deadly violence against peaceful Americans;
-- Whereas a white nationalist murdered nine African American worshipers at the Emanuel African Methodist Episcopal Church in Charleston, South Carolina, on the evening of June 17, 2015, in the hopes of igniting a nationwide race war;
-- Whereas on October 27, 2018, the perpetrator of the deadliest attack on Jewish people in the history of the United States killed 11 worshippers at the Tree of Life Synagogue building in Pittsburgh and reportedly stated that he “wanted all Jews to die”;
+- Whereas on August 11 and 12, 2017, self-identified neo-Confederates, White nationalists, neo-Nazis, and Ku Klux Klansmen held White supremacist events in Charlottesville, Virginia, where they marched on a synagogue under the Nazi swastika, engaged in racist and anti-Semitic demonstrations and committed brutal and deadly violence against peaceful Americans;
+- Whereas a White nationalist murdered nine African-American worshipers at the Emanuel African Methodist Episcopal Church in Charleston, South Carolina, on the evening of June 17, 2015, in the hopes of igniting a nationwide race war;
+- Whereas, on October 27, 2018, the perpetrator of the deadliest attack on Jewish people in the history of the United States killed 11 worshippers at the Tree of Life Synagogue building in Pittsburgh and reportedly stated that he “wanted all Jews to die”;
 - Whereas anti-Semitism is the centuries-old bigotry and form of racism faced by Jewish people simply because they are Jews;
-- Whereas in 2017 the Federal Bureau of Investigation reported a 37 percent increase in hate crimes against Jews or Jewish institutions and found that attacks against Jews or Jewish institutions made up 58.1 percent of all religious-based hate crimes;
+- Whereas in 2017 the Federal Bureau of Investigation reported a 37-percent increase in hate crimes against Jews or Jewish institutions and found that attacks against Jews or Jewish institutions made up 58.1 percent of all religious-based hate crimes;
 - Whereas there is an urgent need to ensure the safety and security of Jewish communities, including synagogues, schools, cemeteries, and other institutions;
 - Whereas Jews are the targets of anti-Semitic violence at even higher rates in many other countries than they are in the United States;
 - Whereas it is a foreign policy priority of the United States to monitor and combat anti-Semitism abroad;
@@ -33,7 +33,7 @@ chamber: In the House of Representatives, U. S.,
 - Whereas Muslims and people perceived to be Muslim are subjected to false and dangerous stereotypes and myths including unfair allegations that they sympathize with individuals who engage in violence or terror or support the oppression of women, Jews, and other vulnerable communities;
 - Whereas in 2017, mosques were bombed in Bloomington, Minnesota, and burned in Austin, Texas, Victoria, Texas, Bellevue, Washington, and Thonotosassa, Florida, and mass attacks on Muslim communities were planned against communities in Islamberg, New York, in 2019, Jacksonville, Florida, in 2017, and Garden City, Kansas, in 2016;
 - Whereas the Federal Bureau of Investigation reported that hate crimes against Muslims or Muslim institutions in the United States increased by over 99 percent between 2014 and 2016;
-- Whereas attacks motivated by bigotry against those who are Muslim or perceived to be Muslim have substantially increased since the September 11, 2001, terrorist attacks;
+- Whereas attacks motivated by bigotry against those who are Muslim or perceived to be Muslim have substantially increased since the September 11, 2001 terrorist attacks;
 - Whereas the violation of an individual’s civil rights based on his or her actual or perceived membership in a particular religious group clearly violates the Constitution and laws of the United States; and
 - Whereas all Americans, including Jews, Muslims, and Christians and people of all faiths and no faith, have a stake in fighting anti-Semitism, as all Americans have a stake in fighting every form of bigotry and hatred against people based on religion, race, or place of birth and origin: Now, therefore, be it
 
