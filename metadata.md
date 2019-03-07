@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1381
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1381
@@ -45,3 +45,5 @@ Burn Pit Registry Enhancement Act
 - 2019-03-05 — Mr. Takano moved to suspend the rules and pass the bill.
 - 2019-03-05 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 104). (text: CR H2332)
 - 2019-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 104).(text: CR H2332)
+- 2019-03-06 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2019-03-07 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 32.
