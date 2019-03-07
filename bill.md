@@ -1,0 +1,33 @@
+---
+legis-num: H.R. 1614
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1614
+
+> To amend the Controlled Substances Act to establish additional registration requirements for prescribers of opioids, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “John S. McCain Opioid Addiction Prevention Act”.
+
+## § 2. Registration requirements for prescribers
+
+Section 303 of the Controlled Substances Act (21 U.S.C. 823) is amended by adding at the end the following:
+
+> - **(l)**
+>   - **(1)** Creating obligations for practitioners, only as described herein, the Attorney General shall not register, or renew the registration of, a practitioner under subsection (f) who is licensed under State law to prescribe controlled substances in schedule II, III, or IV, unless the practitioner submits to the Attorney General, for each such registration or renewal request, a certification that the practitioner, during the applicable registration period, will not prescribe any schedule II, III, or IV opioid, other than an opioid prescription described in paragraph (3), for the initial treatment of acute pain in an amount in excess of the lesser of—
+>     - **(A)** a 7-day supply (for which no refill is available); or
+>     - **(B)** an opioid prescription limit established under State law.
+>   - **(2)** In this subsection, the term acute pain—
+>     - **(A)** means pain with abrupt onset and caused by an injury or other process that is not ongoing; and
+>     - **(B)** does not include—
+>       - **(i)** chronic pain;
+>       - **(ii)** pain being treated as part of cancer care;
+>       - **(iii)** hospice or other end-of-life care; or
+>       - **(iv)** pain being treated as part of palliative care.
+>   - **(3)** An opioid prescription described in this paragraph is a prescription—
+>     - **(A)** for a schedule II, III, or IV opioid drug approved by the Food and Drug Administration for an indication for the treatment of addiction; and
+>     - **(B)** that is for the treatment of addiction.
