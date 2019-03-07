@@ -1,0 +1,16 @@
+---
+legis-num: S. 728
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 728
+
+> To direct the Joint Committee on the Library to obtain a statue of Shirley Chisholm for placement in the United States Capitol.
+
+## § 1. Placement of statue of Shirley Chisholm in United States Capitol
+
+- **(a)** *Obtaining Statue* Not later than 5 years after the date of enactment of this Act, the Joint Committee on the Library shall enter into an agreement to obtain a statue of Shirley Chisholm, under such terms and conditions as the Joint Committee considers appropriate consistent with applicable law. The Joint Committee may authorize the Architect of the Capitol to enter into the agreement and related contracts required under this subsection on its behalf, under such terms and conditions as the Joint Committee may require.
+- **(b)** *Placement* The Joint Committee on the Library shall place the statue obtained under subsection (a) in a suitable permanent location in the United States Capitol.
+- **(c)** *Authorization of appropriations* There are authorized to be appropriated such sums as may be necessary to carry out this Act, and any amounts so appropriated shall remain available until expended.
