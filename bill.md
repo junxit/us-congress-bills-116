@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1
 
-> To expand Americans’ access to the ballot box, reduce the influence of big money in politics, and strengthen ethics rules for public servants, and for other purposes.
+> To expand Americans' access to the ballot box, reduce the influence of big money in politics, and strengthen ethics rules for public servants, and for other purposes.
 
 ## § 1. Short title
 
