@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1
@@ -306,3 +306,431 @@ For the People Act of 2019
 - 2019-03-04 — Placed on the Union Calendar, Calendar No. 5.
 - 2019-03-04 — Reported (Amended) by the Committee on House Administration. H. Rept. 116-15, Part I.
 - 2019-03-04 — Reported (Amended) by the Committee on House Administration. H. Rept. 116-15, Part I.
+- 2019-03-05 — Rules Committee Resolution H. Res. 172 Reported to House. Rule provides for consideration of H.R. 1 with 2 hours of general debate. The resolution provides that an amendment in the nature of a substitute consisting of the text of Rules Committee Print 116-7, modified by the amendment printed in Part A of the resolution is considered as adopted. The resolution provides that it shall be in order at any time through the legislative day of March 8, 2019, for the Speaker to entertain motions that the House suspend the rules.
+- 2019-03-06 — Amendment (A001) offered by Mr. Suozzi. (consideration: CR H2479-2480; text: CR H2479)
+- 2019-03-06 — Amendment (A002) offered by Mr. Butterfield. (consideration: CR H2480-2481; text: CR H2480)
+- 2019-03-06 — Amendment (A003) offered by Mr. Raskin. (consideration: CR H2481-2483; text: CR H2481-2482)
+- 2019-03-06 — Amendment (A004) offered by Mr. Hastings. (consideration: CR H2483-2484; text: CR H2483)
+- 2019-03-06 — Amendment (A005) offered by Mr. Cole. (consideration: CR H2484-2485; text: CR H2484)
+- 2019-03-06 — Amendment (A006) offered by Ms. Scanlon. (consideration: CR H2485-2487; text: CR H2485-2486)
+- 2019-03-06 — Amendment (A007) offered by Ms. Scanlon. (consideration: CR H2487-2488; text: CR H2487)
+- 2019-03-06 — Amendment (A008) offered by Mr. Morelle. (consideration: CR H2488; text: CR H2488)
+- 2019-03-06 — Amendment (A009) offered by Ms. Shalala. (consideration: CR H2488-2489; text: CR H2488)
+- 2019-03-06 — Amendment (A010) offered by Mr. Biggs. (consideration: CR H2489; text: CR H2489)
+- 2019-03-06 — Amendment (A011) offered by Mr. Lieu, Ted. (consideration: CR H2489-2490; text: CR H2489-2490)
+- 2019-03-06 — Amendment (A012) offered by Ms. Jayapal. (consideration: CR H2490-2491; text: CR H2490)
+- 2019-03-06 — Amendment (A013) offered by Ms. Jayapal. (consideration: CR H2491-2492; text: CR H2491)
+- 2019-03-06 — Amendment (A014) offered by Ms. Jayapal. (consideration: CR H2492-2494; text: CR H2492-2493)
+- 2019-03-06 — Amendment (A015) offered by Mr. Connolly. (consideration: CR H2494; text: CR H2494)
+- 2019-03-06 — Amendment (A016) offered by Ms. Foxx (NC). (consideration: CR H2494-2495; text: CR H2494-2495)
+- 2019-03-06 — Amendment (A017) offered by Mrs. Lawrence. (consideration: CR H2495-2496; text: CR H2495)
+- 2019-03-06 — Amendment (A018) offered by Mr. Rouda. (consideration: CR H2496; text: CR H2496)
+- 2019-03-06 — Amendment (A019) offered by Mr. Rouda. (consideration: CR H2496-2497; text: CR H2497)
+- 2019-03-06 — Amendment (A020) offered by Mr. Rouda. (consideration: CR H2497-2498; text: CR H2497)
+- 2019-03-06 — Amendment agreed to Committee of the Whole
+- 2019-03-06 — Amendment agreed to Committee of the Whole
+- 2019-03-06 — Amendment agreed to Committee of the Whole
+- 2019-03-06 — Amendment agreed to Committee of the Whole
+- 2019-03-06 — Amendment agreed to Committee of the Whole
+- 2019-03-06 — Amendment agreed to Committee of the Whole
+- 2019-03-06 — Amendment agreed to Committee of the Whole
+- 2019-03-06 — Amendment agreed to Committee of the Whole
+- 2019-03-06 — Amendment agreed to Committee of the Whole
+- 2019-03-06 — Amendment agreed to Committee of the Whole
+- 2019-03-06 — Amendment agreed to Committee of the Whole
+- 2019-03-06 — Amendment agreed to Committee of the Whole
+- 2019-03-06 — Amendment agreed to Committee of the Whole
+- 2019-03-06 — Amendment agreed to Committee of the Whole
+- 2019-03-06 — Amendment agreed to Committee of the Whole
+- 2019-03-06 — Amendment agreed to Committee of the Whole
+- 2019-03-06 — Amendment agreed to Committee of the Whole
+- 2019-03-06 — Amendment agreed to Committee of the Whole
+- 2019-03-06 — Committee of the Whole House on the state of the Union rises leaving H.R. 1 as unfinished business.
+- 2019-03-06 — Considered under the provisions of rule H. Res. 172. (consideration: CR H2390-2498)
+- 2019-03-06 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Biggs amendment No. 11.
+- 2019-03-06 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Butterfield amendment No. 2.
+- 2019-03-06 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Cole amendment No. 5.
+- 2019-03-06 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Connolly amendment No. 16.
+- 2019-03-06 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Foxx amendment No. 17.
+- 2019-03-06 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Hastings amendment No. 4.
+- 2019-03-06 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Jayapal amendment No. 13.
+- 2019-03-06 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Jayapal amendment No. 14.
+- 2019-03-06 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Jayapal amendment No. 15.
+- 2019-03-06 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Lawrence amendment No. 18.
+- 2019-03-06 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Morelle amendment No. 8.
+- 2019-03-06 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Raskin amendment No. 3.
+- 2019-03-06 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Rouda amendment No. 20.
+- 2019-03-06 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Rouda amendment No. 21.
+- 2019-03-06 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Rouda amendment No. 22.
+- 2019-03-06 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Scanlon amendment No. 6.
+- 2019-03-06 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Scanlon amendment No. 7.
+- 2019-03-06 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Shalala amendment No. 9.
+- 2019-03-06 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Ted Lieu (CA) amendment No. 12.
+- 2019-03-06 — DEBATE - Pursuant to the provisions of H.Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Suozzi amendment No. 1.
+- 2019-03-06 — GENERAL DEBATE - The Committee of the Whole proceeded with two hours of general debate on H.R. 1.
+- 2019-03-06 — House amendment agreed to: On agreeing to the Biggs amendment (A010) Agreed to by voice vote.
+- 2019-03-06 — House amendment agreed to: On agreeing to the Butterfield amendment (A002) Agreed to by voice vote.
+- 2019-03-06 — House amendment agreed to: On agreeing to the Connolly amendment (A015) Agreed to by voice vote.
+- 2019-03-06 — House amendment agreed to: On agreeing to the Foxx (NC) amendment (A016) Agreed to by voice vote.
+- 2019-03-06 — House amendment agreed to: On agreeing to the Hastings amendment (A004) Agreed to by voice vote.
+- 2019-03-06 — House amendment agreed to: On agreeing to the Jayapal amendment (A012) Agreed to by voice vote.
+- 2019-03-06 — House amendment agreed to: On agreeing to the Jayapal amendment (A013) Agreed to by voice vote.
+- 2019-03-06 — House amendment agreed to: On agreeing to the Jayapal amendment (A014) Agreed to by voice vote.
+- 2019-03-06 — House amendment agreed to: On agreeing to the Lawrence amendment (A017) Agreed to by voice vote.
+- 2019-03-06 — House amendment agreed to: On agreeing to the Lieu, Ted amendment (A011) Agreed to by voice vote.
+- 2019-03-06 — House amendment agreed to: On agreeing to the Morelle amendment (A008) Agreed to by voice vote.
+- 2019-03-06 — House amendment agreed to: On agreeing to the Rouda amendment (A018) Agreed to by voice vote.
+- 2019-03-06 — House amendment agreed to: On agreeing to the Rouda amendment (A019) Agreed to by voice vote.
+- 2019-03-06 — House amendment agreed to: On agreeing to the Rouda amendment (A020) Agreed to by voice vote.
+- 2019-03-06 — House amendment agreed to: On agreeing to the Scanlon amendment (A006) Agreed to by voice vote.
+- 2019-03-06 — House amendment agreed to: On agreeing to the Scanlon amendment (A007) Agreed to by voice vote.
+- 2019-03-06 — House amendment agreed to: On agreeing to the Shalala amendment (A009) Agreed to by voice vote.
+- 2019-03-06 — House amendment agreed to: On agreeing to the Suozzi amendment (A001) Agreed to by voice vote.
+- 2019-03-06 — House amendment offered
+- 2019-03-06 — House amendment offered
+- 2019-03-06 — House amendment offered
+- 2019-03-06 — House amendment offered
+- 2019-03-06 — House amendment offered
+- 2019-03-06 — House amendment offered
+- 2019-03-06 — House amendment offered
+- 2019-03-06 — House amendment offered
+- 2019-03-06 — House amendment offered
+- 2019-03-06 — House amendment offered
+- 2019-03-06 — House amendment offered
+- 2019-03-06 — House amendment offered
+- 2019-03-06 — House amendment offered
+- 2019-03-06 — House amendment offered
+- 2019-03-06 — House amendment offered
+- 2019-03-06 — House amendment offered
+- 2019-03-06 — House amendment offered
+- 2019-03-06 — House amendment offered
+- 2019-03-06 — House amendment offered
+- 2019-03-06 — House amendment offered
+- 2019-03-06 — House amendment offered/reported by: Amendment (A001) offered by Mr. Suozzi.
+- 2019-03-06 — House amendment offered/reported by: Amendment (A002) offered by Mr. Butterfield.
+- 2019-03-06 — House amendment offered/reported by: Amendment (A003) offered by Mr. Raskin.(consideration: CR H2481-2483; text: CR H2481-2482)
+- 2019-03-06 — House amendment offered/reported by: Amendment (A004) offered by Mr. Hastings.
+- 2019-03-06 — House amendment offered/reported by: Amendment (A005) offered by Mr. Cole.(consideration: CR H2484-2485; text: CR H2484)
+- 2019-03-06 — House amendment offered/reported by: Amendment (A006) offered by Ms. Scanlon.
+- 2019-03-06 — House amendment offered/reported by: Amendment (A007) offered by Ms. Scanlon.
+- 2019-03-06 — House amendment offered/reported by: Amendment (A008) offered by Mr. Morelle.
+- 2019-03-06 — House amendment offered/reported by: Amendment (A009) offered by Ms. Shalala.
+- 2019-03-06 — House amendment offered/reported by: Amendment (A010) offered by Mr. Biggs.
+- 2019-03-06 — House amendment offered/reported by: Amendment (A011) offered by Mr. Lieu, Ted.(consideration: CR H2489-2490; text: CR H2489-2490)
+- 2019-03-06 — House amendment offered/reported by: Amendment (A012) offered by Ms. Jayapal.
+- 2019-03-06 — House amendment offered/reported by: Amendment (A013) offered by Ms. Jayapal.
+- 2019-03-06 — House amendment offered/reported by: Amendment (A014) offered by Ms. Jayapal.
+- 2019-03-06 — House amendment offered/reported by: Amendment (A015) offered by Mr. Connolly.
+- 2019-03-06 — House amendment offered/reported by: Amendment (A016) offered by Ms. Foxx (NC).
+- 2019-03-06 — House amendment offered/reported by: Amendment (A017) offered by Mrs. Lawrence.
+- 2019-03-06 — House amendment offered/reported by: Amendment (A018) offered by Mr. Rouda.
+- 2019-03-06 — House amendment offered/reported by: Amendment (A019) offered by Mr. Rouda.
+- 2019-03-06 — House amendment offered/reported by: Amendment (A020) offered by Mr. Rouda.
+- 2019-03-06 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 172 and Rule XVIII.
+- 2019-03-06 — Ms. Lofgren moved that the committee rise.
+- 2019-03-06 — On agreeing to the Biggs amendment (A010) Agreed to by voice vote.
+- 2019-03-06 — On agreeing to the Butterfield amendment (A002) Agreed to by voice vote.
+- 2019-03-06 — On agreeing to the Connolly amendment (A015) Agreed to by voice vote.
+- 2019-03-06 — On agreeing to the Foxx (NC) amendment (A016) Agreed to by voice vote.
+- 2019-03-06 — On agreeing to the Hastings amendment (A004) Agreed to by voice vote.
+- 2019-03-06 — On agreeing to the Jayapal amendment (A012) Agreed to by voice vote.
+- 2019-03-06 — On agreeing to the Jayapal amendment (A013) Agreed to by voice vote.
+- 2019-03-06 — On agreeing to the Jayapal amendment (A014) Agreed to by voice vote.
+- 2019-03-06 — On agreeing to the Lawrence amendment (A017) Agreed to by voice vote.
+- 2019-03-06 — On agreeing to the Lieu, Ted amendment (A011) Agreed to by voice vote.
+- 2019-03-06 — On agreeing to the Morelle amendment (A008) Agreed to by voice vote.
+- 2019-03-06 — On agreeing to the Rouda amendment (A018) Agreed to by voice vote.
+- 2019-03-06 — On agreeing to the Rouda amendment (A019) Agreed to by voice vote.
+- 2019-03-06 — On agreeing to the Rouda amendment (A020) Agreed to by voice vote.
+- 2019-03-06 — On agreeing to the Scanlon amendment (A006) Agreed to by voice vote.
+- 2019-03-06 — On agreeing to the Scanlon amendment (A007) Agreed to by voice vote.
+- 2019-03-06 — On agreeing to the Shalala amendment (A009) Agreed to by voice vote.
+- 2019-03-06 — On agreeing to the Suozzi amendment (A001) Agreed to by voice vote.
+- 2019-03-06 — On motion that the committee rise Agreed to by voice vote.
+- 2019-03-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cole amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Cole demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-03-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Raskin amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Rodney Davis (IL) demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-03-06 — Rule H. Res. 172 passed House.
+- 2019-03-06 — Rule provides for consideration of H.R. 1 with 2 hours of general debate. The resolution provides that an amendment in the nature of a substitute consisting of the text of Rules Committee Print 116-7, modified by the amendment printed in Part A of the resolution is considered as adopted. The resolution provides that it shall be in order at any time through the legislative day of March 8, 2019, for the Speaker to entertain motions that the House suspend the rules.
+- 2019-03-06 — The Speaker designated the Honorable Henry Cuellar to act as Chairman of the Committee.
+- 2019-03-07 — Amendment (A022) offered by Mr. Hice (GA). (consideration: CR H2519-2520; text: CR H2519)
+- 2019-03-07 — Amendment (A023) offered by Ms. Pressley. (consideration: CR H2520-2521, H2556-2557; text: CR H2520)
+- 2019-03-07 — Amendment (A024) offered by Mr. Green (TN). (consideration: CR H2521-2525, H2557; text: CR H2521-2522)
+- 2019-03-07 — Amendment (A025) offered by Mr. Green (TX). (consideration: CR H2525-2526; text: CR H2525-2526)
+- 2019-03-07 — Amendment (A026) offered by Mr. Grijalva. (consideration: CR H2526-2528; text: CR H2526-2527)
+- 2019-03-07 — Amendment (A027) offered by Mr. Davis, Rodney. (consideration: CR H2528; text: CR H2528)
+- 2019-03-07 — Amendment (A028) offered by Ms. Moore. (consideration: CR H2528-2530; text: CR H2529)
+- 2019-03-07 — Amendment (A029) offered by Ms. Moore. (consideration: CR H2530-2531; text: CR H2530)
+- 2019-03-07 — Amendment (A030) offered by Mr. Davidson (OH). (consideration: CR H2531-2532; text: CR H2531)
+- 2019-03-07 — Amendment (A031) offered by Mr. Davidson (OH). (consideration: CR H2532-2534, H2557-2558; text: CR H2533)
+- 2019-03-07 — Amendment (A032) offered by Mr. Davidson (OH). (consideration: CR H2534-2535, H2558-2559; text: CR H2534)
+- 2019-03-07 — Amendment (A033) offered by Mr. Lujan. (consideration: CR H2535-2536; text: CR H2535-3536)
+- 2019-03-07 — Amendment (A034) offered by Mr. Pocan. (consideration: CR H2537-2538; text: CR H2527)
+- 2019-03-07 — Amendment (A035) offered by Mr. Pocan. (consideration: CR H2538-2539; text: CR H2538)
+- 2019-03-07 — Amendment (A036) offered by Ms. Frankel. (consideration: CR H2539-2540; text: CR H2539)
+- 2019-03-07 — Amendment (A037) offered by Mr. Beyer. (consideration: CR H2540-2542; text: CR H2540-2541)
+- 2019-03-07 — Amendment (A038) offered by Mr. Brown (MD). (consideration: CR H2542-2544; text: CR H2542)
+- 2019-03-07 — Amendment (A039) offered by Mr. Brown (MD). (consideration: CR H2544-2545; text: CR H2544)
+- 2019-03-07 — Amendment (A040) offered by Mr. Brown (MD). (consideration: CR H2545-2546; text: CR H2545)
+- 2019-03-07 — Amendment (A041) offered by Mr. Brown (MD). (consideration: CR H2546-2547; text: CR H2546)
+- 2019-03-07 — Amendment (A042) offered by Mr. Brindisi. (consideration: CR H2559-2560; text: CR H2559)
+- 2019-03-07 — Amendment (A043) offered by Mr. Case. (consideration: CR H2560-2561; text: CR H2560)
+- 2019-03-07 — Amendment (A044) offered by Ms. Houlahan. (consideration: CR H2561-2562; text: CR H2561)
+- 2019-03-07 — Amendment (A045) offered by Mr. Phillips. (consideration: CR H2562-2564; text: CR H2562-2563)
+- 2019-03-07 — Amendment (A046) offered by Mr. Levin (MI). (consideration: CR H2564; text: CR H2564)
+- 2019-03-07 — Amendment (A047) offered by Mrs. Trahan. (consideration: CR H2564-2565; text: CR H2564)
+- 2019-03-07 — Amendment (A048) offered by Mrs. Trahan. (consideration: CR H2565-2566; text: CR H2565)
+- 2019-03-07 — Amendment (A049) offered by Mr. Kim. (consideration: CR H2566-2567; text: CR H2566)
+- 2019-03-07 — Amendment (A050) offered by Ms. Spanberger. (consideration: CR H2567-2568; text: CR H2567)
+- 2019-03-07 — Amendment (A051) offered by Ms. Slotkin. (consideration: CR H2568-2571; text: CR H2568-2569)
+- 2019-03-07 — Amendment agreed to Committee of the Whole
+- 2019-03-07 — Amendment agreed to Committee of the Whole
+- 2019-03-07 — Amendment agreed to Committee of the Whole
+- 2019-03-07 — Amendment agreed to Committee of the Whole
+- 2019-03-07 — Amendment agreed to Committee of the Whole
+- 2019-03-07 — Amendment agreed to Committee of the Whole
+- 2019-03-07 — Amendment agreed to Committee of the Whole
+- 2019-03-07 — Amendment agreed to Committee of the Whole
+- 2019-03-07 — Amendment agreed to Committee of the Whole
+- 2019-03-07 — Amendment agreed to Committee of the Whole
+- 2019-03-07 — Amendment agreed to Committee of the Whole
+- 2019-03-07 — Amendment agreed to Committee of the Whole
+- 2019-03-07 — Amendment agreed to Committee of the Whole
+- 2019-03-07 — Amendment agreed to Committee of the Whole
+- 2019-03-07 — Amendment agreed to Committee of the Whole
+- 2019-03-07 — Amendment agreed to Committee of the Whole
+- 2019-03-07 — Amendment agreed to Committee of the Whole
+- 2019-03-07 — Amendment agreed to Committee of the Whole
+- 2019-03-07 — Amendment agreed to Committee of the Whole
+- 2019-03-07 — Amendment agreed to Committee of the Whole
+- 2019-03-07 — Amendment agreed to Committee of the Whole
+- 2019-03-07 — Amendment agreed to Committee of the Whole
+- 2019-03-07 — Amendment agreed to Committee of the Whole
+- 2019-03-07 — Amendment agreed to Committee of the Whole
+- 2019-03-07 — Amendment failed in Committee of the Whole
+- 2019-03-07 — Amendment failed in Committee of the Whole
+- 2019-03-07 — Amendment failed in Committee of the Whole
+- 2019-03-07 — Amendment failed in Committee of the Whole
+- 2019-03-07 — Amendment failed in Committee of the Whole
+- 2019-03-07 — Amendment failed in Committee of the Whole
+- 2019-03-07 — Amendment failed in Committee of the Whole
+- 2019-03-07 — Amendment failed in Committee of the Whole
+- 2019-03-07 — Amendments en bloc (A021) offered by Ms. Lofgren. (consideration: CR H2515-2519; text: CR H2515-2517)
+- 2019-03-07 — Brown (MD) amendment (A039) modified by unanimous consent. (text as modified: CR H2544)
+- 2019-03-07 — Committee of the Whole House on the state of the Union rises leaving H.R. 1 as unfinished business.
+- 2019-03-07 — Committee of the Whole House on the state of the Union rises leaving H.R. 1 as unfinished business.
+- 2019-03-07 — Considered as unfinished business. (consideration: CR H2515-2547)
+- 2019-03-07 — Considered as unfinished business. (consideration: CR H2555-2571)
+- 2019-03-07 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Beyer amendment No. 43.
+- 2019-03-07 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Brindisi amendment No. 54.
+- 2019-03-07 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Brown (MD) amendment No. 45.
+- 2019-03-07 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Brown (MD) amendment No. 47.
+- 2019-03-07 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Brown (MD) amendment No. 48.
+- 2019-03-07 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Brown (MD) amendment No. 49.
+- 2019-03-07 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Case amendment No. 56.
+- 2019-03-07 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Davidson (OH) amendment No. 31.
+- 2019-03-07 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Davidson (OH) amendment No. 32.
+- 2019-03-07 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Davidson (OH) amendment No. 33.
+- 2019-03-07 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Frankel amendment No. 39.
+- 2019-03-07 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Green (TN) amendment No. 25.
+- 2019-03-07 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Green (TX) amendment No. 26.
+- 2019-03-07 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Grijalva amendment No. 27.
+- 2019-03-07 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Hice (GA) amendment No. 23.
+- 2019-03-07 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Houlahan amendment No. 57.
+- 2019-03-07 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Kim amendment No. 64.
+- 2019-03-07 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Levin (MI) amendment No. 61.
+- 2019-03-07 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Lujan amendment No. 34
+- 2019-03-07 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Moore amendment No. 29.
+- 2019-03-07 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Moore amendment No. 30.
+- 2019-03-07 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Phillips amendment No. 58.
+- 2019-03-07 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Pocan amendment No. 37.
+- 2019-03-07 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Pocan amendment No. 38
+- 2019-03-07 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Pressley amendment No. 24.
+- 2019-03-07 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Rodney Davis amendment No. 28.
+- 2019-03-07 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Slotkin amendment No. 69.
+- 2019-03-07 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Spanberger amendment No. 68.
+- 2019-03-07 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Trahan amendment No. 62.
+- 2019-03-07 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Trahan amendment No. 63.
+- 2019-03-07 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 20 minutes of debate on the Lofgren en bloc amendments No. 1.
+- 2019-03-07 — House amendment agreed to: On agreeing to the Beyer amendment (A037) Agreed to by voice vote.
+- 2019-03-07 — House amendment agreed to: On agreeing to the Brown (MD) amendment (A038) Agreed to by voice vote.
+- 2019-03-07 — House amendment agreed to: On agreeing to the Brown (MD) amendment (A039) as modified Agreed to by voice vote.
+- 2019-03-07 — House amendment agreed to: On agreeing to the Brown (MD) amendment (A040) Agreed to by voice vote.
+- 2019-03-07 — House amendment agreed to: On agreeing to the Brown (MD) amendment (A041) Agreed to by voice vote.
+- 2019-03-07 — House amendment agreed to: On agreeing to the Case amendment (A043) Agreed to by voice vote.
+- 2019-03-07 — House amendment agreed to: On agreeing to the Frankel amendment (A036) Agreed to by voice vote.
+- 2019-03-07 — House amendment agreed to: On agreeing to the Green (TX) amendment (A025) Agreed to by voice vote.
+- 2019-03-07 — House amendment agreed to: On agreeing to the Grijalva amendment (A026) Agreed to by voice vote.
+- 2019-03-07 — House amendment agreed to: On agreeing to the Houlahan amendment (A044) Agreed to by voice vote.
+- 2019-03-07 — House amendment agreed to: On agreeing to the Kim amendment (A049) Agreed to by voice vote.
+- 2019-03-07 — House amendment agreed to: On agreeing to the Levin (MI) amendment (A046) Agreed to by voice vote.
+- 2019-03-07 — House amendment agreed to: On agreeing to the Lofgren amendments (A021) Agreed to by voice vote.
+- 2019-03-07 — House amendment agreed to: On agreeing to the Lujan amendment (A033) Agreed to by voice vote.
+- 2019-03-07 — House amendment agreed to: On agreeing to the Moore amendment (A028) Agreed to by voice vote.
+- 2019-03-07 — House amendment agreed to: On agreeing to the Moore amendment (A029) Agreed to by voice vote.
+- 2019-03-07 — House amendment agreed to: On agreeing to the Phillips amendment (A045) Agreed to by voice vote.
+- 2019-03-07 — House amendment agreed to: On agreeing to the Pocan amendment (A034) Agreed to by voice vote.
+- 2019-03-07 — House amendment agreed to: On agreeing to the Pocan amendment (A035) Agreed to by voice vote.
+- 2019-03-07 — House amendment agreed to: On agreeing to the Raskin amendment (A003) Agreed to by recorded vote: 219 - 215 (Roll no. 109).
+- 2019-03-07 — House amendment agreed to: On agreeing to the Slotkin amendment (A051) Agreed to by voice vote.
+- 2019-03-07 — House amendment agreed to: On agreeing to the Spanberger amendment (A050) Agreed to by voice vote.
+- 2019-03-07 — House amendment agreed to: On agreeing to the Trahan amendment (A047) Agreed to by voice vote.
+- 2019-03-07 — House amendment agreed to: On agreeing to the Trahan amendment (A048) Agreed to by voice vote.
+- 2019-03-07 — House amendment not agreed to: On agreeing to the Cole amendment (A005) Failed by recorded vote: 199 - 235 (Roll no. 110).
+- 2019-03-07 — House amendment not agreed to: On agreeing to the Davidson (OH) amendment (A030) Failed by voice vote.
+- 2019-03-07 — House amendment not agreed to: On agreeing to the Davidson (OH) amendment (A031) Failed by recorded vote: 194 - 238 (Roll no. 113).
+- 2019-03-07 — House amendment not agreed to: On agreeing to the Davidson (OH) amendment (A032) Failed by recorded vote: 195 - 237 (Roll no. 114).
+- 2019-03-07 — House amendment not agreed to: On agreeing to the Davis, Rodney amendment (A027) Failed by voice vote.
+- 2019-03-07 — House amendment not agreed to: On agreeing to the Green (TN) amendment (A024) Failed by recorded vote: 200 - 233 (Roll no. 112).
+- 2019-03-07 — House amendment not agreed to: On agreeing to the Hice (GA) amendment (A022) Failed by voice vote.
+- 2019-03-07 — House amendment not agreed to: On agreeing to the Pressley amendment (A023) Failed by recorded vote: 126 - 305, 2 Present (Roll no. 111).
+- 2019-03-07 — House amendment offered
+- 2019-03-07 — House amendment offered
+- 2019-03-07 — House amendment offered
+- 2019-03-07 — House amendment offered
+- 2019-03-07 — House amendment offered
+- 2019-03-07 — House amendment offered
+- 2019-03-07 — House amendment offered
+- 2019-03-07 — House amendment offered
+- 2019-03-07 — House amendment offered
+- 2019-03-07 — House amendment offered
+- 2019-03-07 — House amendment offered
+- 2019-03-07 — House amendment offered
+- 2019-03-07 — House amendment offered
+- 2019-03-07 — House amendment offered
+- 2019-03-07 — House amendment offered
+- 2019-03-07 — House amendment offered
+- 2019-03-07 — House amendment offered
+- 2019-03-07 — House amendment offered
+- 2019-03-07 — House amendment offered
+- 2019-03-07 — House amendment offered
+- 2019-03-07 — House amendment offered
+- 2019-03-07 — House amendment offered
+- 2019-03-07 — House amendment offered
+- 2019-03-07 — House amendment offered
+- 2019-03-07 — House amendment offered
+- 2019-03-07 — House amendment offered
+- 2019-03-07 — House amendment offered
+- 2019-03-07 — House amendment offered
+- 2019-03-07 — House amendment offered
+- 2019-03-07 — House amendment offered
+- 2019-03-07 — House amendment offered
+- 2019-03-07 — House amendment offered/reported by: Amendment (A022) offered by Mr. Hice (GA).
+- 2019-03-07 — House amendment offered/reported by: Amendment (A023) offered by Ms. Pressley.
+- 2019-03-07 — House amendment offered/reported by: Amendment (A024) offered by Mr. Green (TN).
+- 2019-03-07 — House amendment offered/reported by: Amendment (A025) offered by Mr. Green (TX).
+- 2019-03-07 — House amendment offered/reported by: Amendment (A026) offered by Mr. Grijalva.
+- 2019-03-07 — House amendment offered/reported by: Amendment (A027) offered by Mr. Davis, Rodney.
+- 2019-03-07 — House amendment offered/reported by: Amendment (A028) offered by Ms. Moore.
+- 2019-03-07 — House amendment offered/reported by: Amendment (A029) offered by Ms. Moore.
+- 2019-03-07 — House amendment offered/reported by: Amendment (A030) offered by Mr. Davidson (OH).
+- 2019-03-07 — House amendment offered/reported by: Amendment (A031) offered by Mr. Davidson (OH).
+- 2019-03-07 — House amendment offered/reported by: Amendment (A032) offered by Mr. Davidson (OH).
+- 2019-03-07 — House amendment offered/reported by: Amendment (A033) offered by Mr. Lujan.
+- 2019-03-07 — House amendment offered/reported by: Amendment (A034) offered by Mr. Pocan.
+- 2019-03-07 — House amendment offered/reported by: Amendment (A035) offered by Mr. Pocan.
+- 2019-03-07 — House amendment offered/reported by: Amendment (A036) offered by Ms. Frankel.
+- 2019-03-07 — House amendment offered/reported by: Amendment (A037) offered by Mr. Beyer.
+- 2019-03-07 — House amendment offered/reported by: Amendment (A038) offered by Mr. Brown (MD).
+- 2019-03-07 — House amendment offered/reported by: Amendment (A039) offered by Mr. Brown (MD).
+- 2019-03-07 — House amendment offered/reported by: Amendment (A040) offered by Mr. Brown (MD).
+- 2019-03-07 — House amendment offered/reported by: Amendment (A041) offered by Mr. Brown (MD).
+- 2019-03-07 — House amendment offered/reported by: Amendment (A042) offered by Mr. Brindisi.(consideration: CR H2559-2560; text: CR H2559)
+- 2019-03-07 — House amendment offered/reported by: Amendment (A043) offered by Mr. Case.
+- 2019-03-07 — House amendment offered/reported by: Amendment (A044) offered by Ms. Houlahan.
+- 2019-03-07 — House amendment offered/reported by: Amendment (A045) offered by Mr. Phillips.
+- 2019-03-07 — House amendment offered/reported by: Amendment (A046) offered by Mr. Levin (MI).
+- 2019-03-07 — House amendment offered/reported by: Amendment (A047) offered by Mrs. Trahan.
+- 2019-03-07 — House amendment offered/reported by: Amendment (A048) offered by Mrs. Trahan.
+- 2019-03-07 — House amendment offered/reported by: Amendment (A049) offered by Mr. Kim.
+- 2019-03-07 — House amendment offered/reported by: Amendment (A050) offered by Ms. Spanberger.
+- 2019-03-07 — House amendment offered/reported by: Amendment (A051) offered by Ms. Slotkin.(consideration: CR H2568-2571; text: CR H2568-2569)
+- 2019-03-07 — House amendment offered/reported by: Amendments en bloc (A021) offered by Ms. Lofgren.
+- 2019-03-07 — Ms. Lofgren moved that the committee rise.
+- 2019-03-07 — Ms. Lofgren moved that the committee rise.
+- 2019-03-07 — On agreeing to the Beyer amendment (A037) Agreed to by voice vote.
+- 2019-03-07 — On agreeing to the Brown (MD) amendment (A038) Agreed to by voice vote.
+- 2019-03-07 — On agreeing to the Brown (MD) amendment (A039) as modified Agreed to by voice vote.
+- 2019-03-07 — On agreeing to the Brown (MD) amendment (A040) Agreed to by voice vote.
+- 2019-03-07 — On agreeing to the Brown (MD) amendment (A041) Agreed to by voice vote.
+- 2019-03-07 — On agreeing to the Case amendment (A043) Agreed to by voice vote.
+- 2019-03-07 — On agreeing to the Cole amendment (A005) Failed by recorded vote: 199 - 235 (Roll no. 110).
+- 2019-03-07 — On agreeing to the Davidson (OH) amendment (A030) Failed by voice vote.
+- 2019-03-07 — On agreeing to the Davidson (OH) amendment (A031) Failed by recorded vote: 194 - 238 (Roll no. 113).
+- 2019-03-07 — On agreeing to the Davidson (OH) amendment (A032) Failed by recorded vote: 195 - 237 (Roll no. 114).
+- 2019-03-07 — On agreeing to the Davis, Rodney amendment (A027) Failed by voice vote.
+- 2019-03-07 — On agreeing to the Frankel amendment (A036) Agreed to by voice vote.
+- 2019-03-07 — On agreeing to the Green (TN) amendment (A024) Failed by recorded vote: 200 - 233 (Roll no. 112).
+- 2019-03-07 — On agreeing to the Green (TX) amendment (A025) Agreed to by voice vote.
+- 2019-03-07 — On agreeing to the Grijalva amendment (A026) Agreed to by voice vote.
+- 2019-03-07 — On agreeing to the Hice (GA) amendment (A022) Failed by voice vote.
+- 2019-03-07 — On agreeing to the Houlahan amendment (A044) Agreed to by voice vote.
+- 2019-03-07 — On agreeing to the Kim amendment (A049) Agreed to by voice vote.
+- 2019-03-07 — On agreeing to the Levin (MI) amendment (A046) Agreed to by voice vote.
+- 2019-03-07 — On agreeing to the Lofgren amendments (A021) Agreed to by voice vote.
+- 2019-03-07 — On agreeing to the Lujan amendment (A033) Agreed to by voice vote.
+- 2019-03-07 — On agreeing to the Moore amendment (A028) Agreed to by voice vote.
+- 2019-03-07 — On agreeing to the Moore amendment (A029) Agreed to by voice vote.
+- 2019-03-07 — On agreeing to the Phillips amendment (A045) Agreed to by voice vote.
+- 2019-03-07 — On agreeing to the Pocan amendment (A034) Agreed to by voice vote.
+- 2019-03-07 — On agreeing to the Pocan amendment (A035) Agreed to by voice vote.
+- 2019-03-07 — On agreeing to the Pressley amendment (A023) Failed by recorded vote: 126 - 305, 2 Present (Roll no. 111).
+- 2019-03-07 — On agreeing to the Raskin amendment (A003) Agreed to by recorded vote: 219 - 215 (Roll no. 109).
+- 2019-03-07 — On agreeing to the Slotkin amendment (A051) Agreed to by voice vote.
+- 2019-03-07 — On agreeing to the Spanberger amendment (A050) Agreed to by voice vote.
+- 2019-03-07 — On agreeing to the Trahan amendment (A047) Agreed to by voice vote.
+- 2019-03-07 — On agreeing to the Trahan amendment (A048) Agreed to by voice vote.
+- 2019-03-07 — On motion that the committee rise Agreed to by voice vote.
+- 2019-03-07 — On motion that the committee rise Agreed to by voice vote.
+- 2019-03-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Brindisi amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Brindisi demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-03-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Davidson (OH) amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Davidson (OH) demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-03-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Davidson (OH) amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Davidson (OH) demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-03-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Green (TN) amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Green (TN) demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-03-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pressley amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Ms. Pressley demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-03-07 — Roll call votes on amendments in House
+- 2019-03-07 — Roll call votes on amendments in House
+- 2019-03-07 — Roll call votes on amendments in House
+- 2019-03-07 — Roll call votes on amendments in House
+- 2019-03-07 — Roll call votes on amendments in House
+- 2019-03-07 — Roll call votes on amendments in House
+- 2019-03-07 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2019-03-07 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2019-03-08 — Amendment (A052) offered by Mr. Neguse. (consideration: CR H2591-2593, H2598; text: CR H2591)
+- 2019-03-08 — Amendment (A053) offered by Mrs. Kirkpatrick. (consideration: CR H2593-2594; text: CR H2593)
+- 2019-03-08 — Amendment (A054) offered by Mr. Golden. (consideration: CR H2594-2597; text: CR H2594)
+- 2019-03-08 — Amendment agreed to Committee of the Whole
+- 2019-03-08 — Amendment agreed to Committee of the Whole
+- 2019-03-08 — Amendment agreed to Committee of the Whole
+- 2019-03-08 — Amendment agreed to Committee of the Whole
+- 2019-03-08 — Considered as unfinished business. (consideration: CR H2591-2602)
+- 2019-03-08 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Golden amendment No. 72.
+- 2019-03-08 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Kirkpatrick amendment No. 71.
+- 2019-03-08 — DEBATE - Pursuant to the provisions of H. Res. 172, the Committee of the Whole proceeded with 10 minutes of debate on the Neguse amendment No. 70.
+- 2019-03-08 — Floor summary: DEBATE - The House proceeded 10 minutes of debate on the Crenshaw motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add language on Upholding Suffrage in America Title XI- Upholding Suffrage in America, Divison D.
+- 2019-03-08 — GENERAL DEBATE - The Committee of the Whole proceeded with 10 minutes of further general debate on H.R. 1.
+- 2019-03-08 — House amendment agreed to: On agreeing to the Brindisi amendment (A042) Agreed to by recorded vote: 237 - 188 (Roll no. 115).
+- 2019-03-08 — House amendment agreed to: On agreeing to the Golden amendment (A054) Agreed to by voice vote.
+- 2019-03-08 — House amendment agreed to: On agreeing to the Kirkpatrick amendment (A053) Agreed to by voice vote.
+- 2019-03-08 — House amendment agreed to: On agreeing to the Neguse amendment (A052) Agreed to by recorded vote: 239 - 186 (Roll no. 116).
+- 2019-03-08 — House amendment offered
+- 2019-03-08 — House amendment offered
+- 2019-03-08 — House amendment offered
+- 2019-03-08 — House amendment offered/reported by: Amendment (A052) offered by Mr. Neguse.
+- 2019-03-08 — House amendment offered/reported by: Amendment (A053) offered by Mrs. Kirkpatrick.
+- 2019-03-08 — House amendment offered/reported by: Amendment (A054) offered by Mr. Golden.
+- 2019-03-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-03-08 — Mr. Crenshaw moved to recommit with instructions to the Committee on the Judiciary. (text: CR H2600)
+- 2019-03-08 — On agreeing to the Brindisi amendment (A042) Agreed to by recorded vote: 237 - 188 (Roll no. 115).
+- 2019-03-08 — On agreeing to the Golden amendment (A054) Agreed to by voice vote.
+- 2019-03-08 — On agreeing to the Kirkpatrick amendment (A053) Agreed to by voice vote.
+- 2019-03-08 — On agreeing to the Neguse amendment (A052) Agreed to by recorded vote: 239 - 186 (Roll no. 116).
+- 2019-03-08 — On motion to recommit with instructions Failed by the Yeas and Nays: 197 - 228 (Roll no. 117).
+- 2019-03-08 — On passage Passed by the Yeas and Nays: 234 - 193 (Roll no. 118).
+- 2019-03-08 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Neguse amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Neguse demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-03-08 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 234 - 193 (Roll no. 118).
+- 2019-03-08 — Roll call votes on amendments in House
+- 2019-03-08 — Roll call votes on amendments in House
+- 2019-03-08 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2019-03-08 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2019-03-08 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1.
+- 2019-03-08 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2019-03-08 — The previous question was ordered pursuant to the rule.
