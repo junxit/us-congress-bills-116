@@ -21,3 +21,7 @@ Paragraph (12) of section 10 of the Federal Reserve Act (12 U.S.C. 247b) is amen
 - **(2)** in such paragraph—
   - **(A)** by striking “shall appear” and inserting “shall provide written testimony and appear”; and
   - **(B)** by adding at the end the following: “If, at the time of any appearance described in this paragraph, the position of Vice Chairman for Supervision is vacant, the Chairman or their designee shall appear instead and provide the required written testimony.”.
+
+## § 3. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
