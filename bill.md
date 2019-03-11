@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Housing Choice Voucher Mobility Demonstration Act of 2019”.
 
-## § 2. Housing choice voucher mobility dem­on­stra­tion
+## § 2. Housing choice voucher mobility demonstration
 
 - **(a)** *Authority* The Secretary of Housing and Urban Development (in this section referred to as the “Secretary”) may carry out a mobility demonstration program to enable public housing agencies to administer housing choice voucher assistance under section 8(o) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)) in a manner designed to encourage families receiving such voucher assistance to move to lower-poverty areas and expand access to opportunity areas.
 - **(b)** *Selection of PHAs*
