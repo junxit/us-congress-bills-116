@@ -1,7 +1,7 @@
 ---
 measure: S. 725
 congress: 116
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 725
@@ -32,3 +32,17 @@ A bill to change the address of the postal facility designated in honor of Capta
 - 2019-03-11 — Message on Senate action sent to the House.
 - 2019-03-11 — Received in the House.
 - 2019-03-11 — Referred to the House Committee on Oversight and Reform.
+- 2019-03-26 — Committee Consideration and Mark-up Session Held.
+- 2019-03-26 — Ordered to be Reported by Unanimous Consent.
+- 2019-04-02 — Considered under suspension of the rules. (consideration: CR H2971-2972)
+- 2019-04-02 — DEBATE - The House proceeded with forty minutes of debate on S. 725.
+- 2019-04-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-04-02 — Mr. Connolly moved to suspend the rules and pass the bill.
+- 2019-04-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2971)
+- 2019-04-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2971)
+- 2019-04-08 — Presented to President.
+- 2019-04-08 — Presented to President.
+- 2019-04-16 — Became Public Law No: 116-15.
+- 2019-04-16 — Became Public Law No: 116-15.
+- 2019-04-16 — Signed by President.
+- 2019-04-16 — Signed by President.
