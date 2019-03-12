@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1608
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1608
@@ -29,3 +29,9 @@ Federal Advisory Committee Act Amendments of 2019
 - 2019-03-07 — Referred to the Committee on Oversight and Reform, and in addition to the Committees on Ways and Means, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-03-07 — Referred to the Committee on Oversight and Reform, and in addition to the Committees on Ways and Means, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-03-07 — Referred to the Committee on Oversight and Reform, and in addition to the Committees on Ways and Means, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-03-12 — Considered under suspension of the rules. (consideration: CR H2667-2671)
+- 2019-03-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1608.
+- 2019-03-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-03-12 — Ms. Norton moved to suspend the rules and pass the bill.
+- 2019-03-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2667-2670)
+- 2019-03-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2667-2670)
