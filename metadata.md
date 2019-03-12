@@ -1,7 +1,7 @@
 ---
 measure: H.R. 758
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 758
@@ -21,9 +21,10 @@ Cooperate with Law Enforcement Agencies and Watch Act of 2019
 - Rep. Foster, Bill [D-IL-11] (F000454)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Cooperate with Law Enforcement Agencies and Watch Act of 2019
 - 2019-03-11 — Ms. Waters moved to suspend the rules and pass the bill, as amended.
 - 2019-03-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 7 (Roll no. 120). (text: CR H2623)
 - 2019-03-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 7 (Roll no. 120).(text: CR H2623)
+- 2019-03-12 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
