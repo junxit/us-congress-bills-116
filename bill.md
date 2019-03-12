@@ -7,14 +7,14 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 596
 
-> To prohibit United States Government recognition of Russia’s annexation of Crimea.
+> To prohibit United States Government recognition of the Russian Federation’s claim of sovereignty over Crimea, and for other purposes.
 
 ## § 1. Short title
 
 This Act may be cited as the “Crimea Annexation Non-recognition Act”.
 
-## § 2. Prohibition against United States recognition of Russia’s annexation of Crimea
+## § 2. Prohibition against United States recognition of the Russian Federation’s claim of sovereignty over Crimea
 
-- **(a)** *Statement of policy* It is the policy of the United States not to recognize the de jure or de facto sovereignty of the Russian Federation over Crimea, its airspace, or its territorial waters.
-- **(b)** *Prohibition* In accordance with subsection (a), no Federal department or agency may take any action or extend any assistance that recognizes or implies recognition of the de jure or de facto sovereignty of the Russian Federation over Crimea, its airspace, or its territorial waters.
-- **(c)** *Waiver* The President may waive subsection (a) or (b) if the President determines that it is vital to the national security interests of the United States to do so.
+- **(a)** *Statement of policy* It is the policy of the United States not to recognize the Russian Federation’s claim of sovereignty over Crimea, its airspace, or its territorial waters.
+- **(b)** *Prohibition* In accordance with subsection (a), no Federal department or agency may take any action or extend any assistance that implies recognition of the Russian Federation’s claim of sovereignty over Crimea, its airspace, or its territorial waters.
+- **(c)** *Waiver* The President may waive the prohibition in subsection (b) on a case-by-case basis if the President determines that it is vital to the national security interests of the United States to do so.
