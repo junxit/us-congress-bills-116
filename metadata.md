@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1414
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1414
@@ -21,9 +21,10 @@ FinCEN Improvement Act of 2019
 - Rep. Riggleman, Denver [R-VA-5] (R000611)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ FinCEN Improvement Act of 2019
 - 2019-03-11 — Ms. Waters moved to suspend the rules and pass the bill.
 - 2019-03-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2621-2622)
 - 2019-03-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2621-2622)
+- 2019-03-12 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
