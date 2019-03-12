@@ -1,7 +1,7 @@
 ---
 measure: S. 333
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 333
@@ -16,10 +16,11 @@ National Cybersecurity Preparedness Consortium Act of 2019
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 - Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Boozman, John [R-AR] (B001236)
 
 ## Committees (1)
 
@@ -29,3 +30,7 @@ National Cybersecurity Preparedness Consortium Act of 2019
 
 - 2019-02-05 — Introduced in Senate
 - 2019-02-05 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2019-02-13 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2019-03-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-5.
+- 2019-03-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-5.
+- 2019-03-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 36.
