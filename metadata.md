@@ -1,7 +1,7 @@
 ---
 measure: H.R. 974
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 974
@@ -21,9 +21,10 @@ Federal Reserve Supervision Testimony Clarification Act
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Federal Reserve Supervision Testimony Clarification Act
 - 2019-03-11 — Ms. Waters moved to suspend the rules and pass the bill, as amended.
 - 2019-03-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2620)
 - 2019-03-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2620)
+- 2019-03-12 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
