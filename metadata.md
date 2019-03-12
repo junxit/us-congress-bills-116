@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1122
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1122
@@ -20,9 +20,10 @@ Housing Choice Voucher Mobility Demonstration Act of 2019
 
 - Rep. Duffy, Sean P. [R-WI-7] (D000614)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Housing Choice Voucher Mobility Demonstration Act of 2019
 - 2019-03-11 — Ms. Waters moved to suspend the rules and pass the bill.
 - 2019-03-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 22 (Roll no. 119). (text: CR H2618-2619)
 - 2019-03-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 22 (Roll no. 119).(text: CR H2618-2619)
+- 2019-03-12 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
