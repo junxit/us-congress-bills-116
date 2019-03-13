@@ -1,0 +1,16 @@
+---
+legis-num: H.R. 1746
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1746
+
+> To direct the President to establish a unified United States Space Command.
+
+## § 1. Unified United States Space Command
+
+- **(a)** *Establishment* Pursuant to section 161 of title 10, United States Code, the President shall establish a unified combatant command to be known as the United States Space Command.
+- **(b)** *Conforming repeal* Section 169 of title 10, United States Code, is repealed.
+- **(c)** *Conforming amendment* Section 2273a(d)(3) of title 10, United States Code, is amended by striking “The Commander of the United States Strategic Command, acting through the United States Space Command,” and inserting “The Commander of the United States Space Command”.
