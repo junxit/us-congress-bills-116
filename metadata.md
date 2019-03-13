@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1654
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1654
@@ -16,10 +16,11 @@ Federal Register Modernization Act
 
 - Rep. Meadows, Mark [R-NC-11] (M001187)
 
-## Committees (2)
+## Committees (3)
 
 - House — Budget Committee
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -39,3 +40,4 @@ Federal Register Modernization Act
 - 2019-03-12 — Ms. Norton moved to suspend the rules and pass the bill, as amended.
 - 2019-03-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 426 - 1 (Roll no. 123). (text: CR H2671-2672)
 - 2019-03-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 426 - 1 (Roll no. 123).(text: CR H2671-2672)
+- 2019-03-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
