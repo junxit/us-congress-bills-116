@@ -1,7 +1,7 @@
 ---
 measure: H.R. 596
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 596
@@ -44,9 +44,10 @@ Crimea Annexation Non-recognition Act
 - Rep. Taylor, Van [R-TX-3] (T000479)
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -65,3 +66,4 @@ Crimea Annexation Non-recognition Act
 - 2019-03-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 427 - 1 (Roll no. 122). (text: CR H2660)
 - 2019-03-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 427 - 1 (Roll no. 122).(text: CR H2660)
 - 2019-03-12 — The title of the measure was amended. Agreed to without objection.
+- 2019-03-13 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
