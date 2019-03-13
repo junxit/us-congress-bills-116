@@ -32,10 +32,22 @@ Pursuant to section 1013 of the Department of State Authorization Act, Fiscal Ye
 
 Nothing in this joint resolution shall be construed to influence or disrupt any military operations and cooperation with Israel.
 
-## § 4. Report on risks posed by ceasing Saudi Arabia support operations
+## § 4. Rule of construction regarding intelligence sharing
+
+Nothing in this joint resolution may be construed to influence or disrupt any intelligence, counterintelligence, or investigative activities relating to threats in or emanating from Yemen conducted by, or in conjunction with, the United States Government involving—
+
+- **(1)** the collection of intelligence;
+- **(2)** the analysis of intelligence; or
+- **(3)** the sharing of intelligence between the United States and any coalition partner if the President determines such sharing is appropriate and in the national security interests of the United States.
+
+## § 5. Report on risks posed by ceasing Saudi Arabia support operations
 
 Not later than 90 days after the date of the enactment of this joint resolution, the President shall submit to Congress a report assessing the risks posed to United States citizens and the civilian population of Saudi Arabia and the risk of regional humanitarian crises if the United States were to cease support operations with respect to the conflict between the Saudi-led coalition and the Houthis in Yemen.
 
-## § 5. Report on increased risk of terrorist attacks to United States Armed Forces abroad, allies, and the continental United States if Saudi Arabia ceases Yemen-related intelligence sharing with the United States
+## § 6. Report on increased risk of terrorist attacks to United States Armed Forces abroad, allies, and the continental United States if Saudi Arabia ceases Yemen-related intelligence sharing with the United States
 
 Not later than 90 days after the date of the enactment of this joint resolution, the President shall submit to Congress a report assessing the increased risk of terrorist attacks on United States Armed Forces abroad, allies, and to the continental United States if the Government of Saudi Arabia were to cease Yemen-related intelligence sharing with the United States.
+
+## § 7. Rule of construction regarding no authorization for use of military force
+
+Consistent with section 8(a)(1) of the War Powers Resolution (50 U.S.C. 1547(a)(1)), nothing in this joint resolution may be construed as authorizing the use of military force.
