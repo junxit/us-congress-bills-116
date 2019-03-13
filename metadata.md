@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 206
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 206
@@ -25,3 +25,9 @@ Acknowledging that the lack of sunlight and transparency in financial transactio
 - 2019-03-08 — Introduced in House
 - 2019-03-08 — Introduced in House
 - 2019-03-08 — Referred to the House Committee on Financial Services.
+- 2019-03-13 — Considered under suspension of the rules. (consideration: CR H2697-2701)
+- 2019-03-13 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 206.
+- 2019-03-13 — Ms. Waters moved to suspend the rules and agree to the resolution, as amended.
+- 2019-03-13 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H2697)
+- 2019-03-13 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H2697)
+- 2019-03-13 — The title of the measure was amended. Agreed to without objection.
