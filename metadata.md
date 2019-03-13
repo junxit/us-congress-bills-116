@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1608
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1608
@@ -16,11 +16,12 @@ Federal Advisory Committee Act Amendments of 2019
 
 - Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
 
-## Committees (3)
+## Committees (4)
 
 - House — Budget Committee
 - House — Ways and Means Committee
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -35,3 +36,4 @@ Federal Advisory Committee Act Amendments of 2019
 - 2019-03-12 — Ms. Norton moved to suspend the rules and pass the bill.
 - 2019-03-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2667-2670)
 - 2019-03-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2667-2670)
+- 2019-03-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
