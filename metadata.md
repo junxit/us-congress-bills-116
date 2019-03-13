@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1582
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1582
@@ -20,10 +20,11 @@ Electronic Message Preservation Act
 
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (2)
+## Committees (3)
 
 - House — Budget Committee
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Electronic Message Preservation Act
 - 2019-03-12 — Ms. Norton moved to suspend the rules and pass the bill.
 - 2019-03-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2666)
 - 2019-03-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2666)
+- 2019-03-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
