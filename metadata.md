@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1617
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1617
@@ -39,3 +39,5 @@ KREMLIN Act
 - 2019-03-12 — Mr. Krishnamoorthi moved to suspend the rules and pass the bill.
 - 2019-03-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2664-2665)
 - 2019-03-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2664-2665)
+- 2019-03-13 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2019-03-14 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 40.
