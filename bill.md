@@ -1,0 +1,24 @@
+---
+legis-num: S. 824
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 824
+
+> To increase the number of States that may conduct Medicaid demonstration programs to improve access to community mental health services.
+
+## § 1. Short title
+
+This Act may be cited as the “Excellence in Mental Health and Addiction Treatment Expansion Act”.
+
+## § 2. Community mental health services demonstration program
+
+Section 223(d) of the Protecting Access to Medicare Act of 2014 (42 U.S.C. 1396a note) is amended—
+
+- **(1)** in paragraph (3)—
+  - **(A)** by striking “Not more than” and inserting “Subject to paragraph (8), not more than”; and
+  - **(B)** by striking “2-year” and inserting “4-year”; and
+- **(2)** by adding at the end the following new paragraph:
+  > - **(8)** *Additional programs* In addition to the 8 States selected under paragraph (1), the Secretary shall, not later than 1 year after the date of enactment of the Excellence in Mental Health and Addiction Treatment Expansion Act, select 11 States (which shall not include any States selected under paragraph (1)) to participate in 2-year demonstration programs that meet the requirements of this subsection and represent a diverse selection of geographic areas, including rural and underserved areas.
