@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1
@@ -747,3 +747,6 @@ For the People Act of 2019
 - 2019-03-08 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1.
 - 2019-03-08 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-03-08 — The previous question was ordered pursuant to the rule.
+- 2019-03-12 — Received in the Senate.
+- 2019-03-13 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2019-03-14 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 39.
