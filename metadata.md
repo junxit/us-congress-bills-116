@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7
@@ -267,3 +267,8 @@ Paycheck Fairness Act
 - 2019-01-30 — Introduced in House
 - 2019-01-30 — Introduced in House
 - 2019-01-30 — Referred to the House Committee on Education and Labor.
+- 2019-02-26 — Committee Consideration and Mark-up Session Held.
+- 2019-02-26 — Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 27 - 20.
+- 2019-03-18 — Placed on the Union Calendar, Calendar No. 6.
+- 2019-03-18 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 116-18.
+- 2019-03-18 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 116-18.
