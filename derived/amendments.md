@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -44,11 +44,11 @@ to guess them.
 
 ### 29 U.S.C. § 216
 
-> in the sentence beginning “An action to”, by striking “either of the preceding sentences” and inserting “any of the preceding sentences of this subsection”;
+> in the sentence beginning “An action to”, by striking “the preceding sentences” and inserting “any of the preceding sentences of this subsection”;
 
 | | |
 |---|---|
-| Removed | `either of the preceding sentences` |
+| Removed | `the preceding sentences` |
 | Inserted | `any of the preceding sentences of this subsection` |
 
 ### 29 U.S.C. § 216
