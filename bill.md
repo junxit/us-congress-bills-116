@@ -68,7 +68,7 @@ This Act may be cited as the “Presidential Transition Enhancement Act of 2019�
       >     - **(ii)** a description of how the transition team will—
       >       - **(I)** address the role on the transition team of—
       >         - **(aa)** lobbyists registered under the Lobbying Disclosure Act of 1995 (2 U.S.C. 1601 et seq.) and individuals who were former lobbyists registered under that Act; and
-      >         - **(bb)** persons registered under the Foreign Agents Registration Act (22 U.S.C. 611 et seq.), foreign nationals, and other foreign agents;
+      >         - **(bb)** persons registered under the Foreign Agents Registration Act of 1938 (22 U.S.C. 611 et seq.), foreign nationals, and other foreign agents;
       >       - **(II)** prohibit a transition team member with conflicts of interest similar to those applicable to Federal employees under section 2635.402(a) and section 2635.502(a) of title 5, Code of Federal Regulations, related to current or former employment, affiliations, clients, or investments, from working on particular matters involving specific parties that affect the interests of such member; and
       >       - **(III)** address how the covered eligible candidate will address his or her own conflicts of interest during a Presidential term if the covered eligible candidate becomes the President-elect;
       >     - **(iii)** a Code of Ethical Conduct, which each member of the transition team will sign and be subject to, that reflects the content of the ethics plans under this paragraph and at a minimum requires transition team members to—
@@ -76,6 +76,6 @@ This Act may be cited as the “Presidential Transition Enhancement Act of 2019�
       >       - **(II)** keep confidential any nonpublic information provided in the course of the duties of the member with the transition and exclusively use such information for the purposes of the transition; and
       >       - **(III)** not use any nonpublic information provided in the course of transition duties, in any manner, for personal or private gain for the member or any other party at any time during or after the transition; and
       >     - **(iv)** a description of how the transition team will enforce the Code of Ethical Conduct, including the names of the members of the transition team responsible for enforcement, oversight, and compliance.
-      >   - **(C)** *Publicly available* The transition team shall make the ethics plan described in this paragraph publicly available on the Internet website of the General Services Administration the earlier of—
+      >   - **(C)** *Publicly available* The transition team shall make the ethics plan described in this paragraph publicly available on the Internetinternet website of the General Services Administration the earlier of—
       >     - **(i)** the day on which the memorandum of understanding is completed; or
       >     - **(ii)** October 1.
