@@ -1,0 +1,143 @@
+---
+measure: H.R. 1865
+congress: 116
+version: Introduced in House
+---
+
+# H.R. 1865
+
+Further Consolidated Appropriations Act, 2020
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Pascrell, Bill, Jr. [D-NJ-9] (P000096)
+
+## Cosponsors (113)
+
+- Rep. Rutherford, John H. [R-FL-4] (R000609)
+- Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
+- Rep. Ryan, Tim [D-OH-13] (R000577)
+- Rep. O'Halleran, Tom [D-AZ-1] (O000171)
+- Rep. Boyle, Brendan F. [D-PA-2] (B001296)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Kilmer, Derek [D-WA-6] (K000381)
+- Rep. Sewell, Terri A. [D-AL-7] (S001185)
+- Rep. Swalwell, Eric [D-CA-15] (S001193)
+- Rep. King, Peter T. [R-NY-2] (K000210)
+- Rep. Norman, Ralph [R-SC-5] (N000190)
+- Rep. Carson, Andre [D-IN-7] (C001072)
+- Rep. Cook, Paul [R-CA-8] (C001094)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Bacon, Don [R-NE-2] (B001298)
+- Rep. Sires, Albio [D-NJ-8] (S001165)
+- Rep. Lynch, Stephen F. [D-MA-8] (L000562)
+- Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
+- Rep. Olson, Pete [R-TX-22] (O000168)
+- Rep. Higgins, Brian [D-NY-26] (H001038)
+- Rep. Norcross, Donald [D-NJ-1] (N000188)
+- Rep. Lipinski, Daniel [D-IL-3] (L000563)
+- Rep. Kinzinger, Adam [R-IL-16] (K000378)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+- Rep. Demings, Val Butler [D-FL-10] (D000627)
+- Rep. Takano, Mark [D-CA-41] (T000472)
+- Rep. Costa, Jim [D-CA-16] (C001059)
+- Rep. Garamendi, John [D-CA-3] (G000559)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. Emmer, Tom [R-MN-6] (E000294)
+- Rep. Gaetz, Matt [R-FL-1] (G000578)
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
+- Rep. Collins, Chris [R-NY-27] (C001092)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Katko, John [R-NY-24] (K000386)
+- Rep. Davis, Rodney [R-IL-13] (D000619)
+- Rep. Hice, Jody B. [R-GA-10] (H001071)
+- Rep. McNerney, Jerry [D-CA-9] (M001166)
+- Rep. Mitchell, Paul [R-MI-10] (M001201)
+- Rep. Lowey, Nita M. [D-NY-17] (L000480)
+- Rep. Kuster, Ann M. [D-NH-2] (K000382)
+- Rep. Murphy, Stephanie N. [D-FL-7] (M001202)
+- Rep. Hunter, Duncan D. [R-CA-50] (H001048)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Engel, Eliot L. [D-NY-16] (E000179)
+- Rep. Bustos, Cheri [D-IL-17] (B001286)
+- Rep. Carbajal, Salud O. [D-CA-24] (C001112)
+- Rep. Newhouse, Dan [R-WA-4] (N000189)
+- Rep. Bost, Mike [R-IL-12] (B001295)
+- Rep. Peters, Scott H. [D-CA-52] (P000608)
+- Rep. Vela, Filemon [D-TX-34] (V000132)
+- Rep. Gianforte, Greg [R-MT-At Large] (G000584)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Kildee, Daniel T. [D-MI-5] (K000380)
+- Rep. Gibbs, Bob [R-OH-7] (G000563)
+- Rep. Joyce, David P. [R-OH-14] (J000295)
+- Rep. Moolenaar, John R. [R-MI-4] (M001194)
+- Rep. Calvert, Ken [R-CA-42] (C000059)
+- Rep. Thompson, Mike [D-CA-5] (T000460)
+- Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
+- Rep. Perlmutter, Ed [D-CO-7] (P000593)
+- Rep. Gonzalez, Vicente [D-TX-15] (G000581)
+- Rep. Kelly, Mike [R-PA-16] (K000376)
+- Rep. McGovern, James P. [D-MA-2] (M000312)
+- Rep. Foster, Bill [D-IL-11] (F000454)
+- Rep. Himes, James A. [D-CT-4] (H001047)
+- Rep. Yoho, Ted S. [R-FL-3] (Y000065)
+- Rep. Ruiz, Raul [D-CA-36] (R000599)
+- Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Welch, Peter [D-VT-At Large] (W000800)
+- Rep. Bera, Ami [D-CA-7] (B001287)
+- Rep. Mooney, Alexander X. [R-WV-2] (M001195)
+- Rep. Comer, James [R-KY-1] (C001108)
+- Rep. Espaillat, Adriano [D-NY-13] (E000297)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Posey, Bill [R-FL-8] (P000599)
+- Rep. Latta, Robert E. [R-OH-5] (L000566)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Zeldin, Lee M. [R-NY-1] (Z000017)
+- Rep. Quigley, Mike [D-IL-5] (Q000023)
+- Rep. Soto, Darren [D-FL-9] (S001200)
+- Rep. Stewart, Chris [R-UT-2] (S001192)
+- Rep. Mast, Brian J. [R-FL-18] (M001199)
+- Rep. McEachin, A. Donald [D-VA-4] (M001200)
+- Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
+- Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
+- Rep. Rice, Kathleen M. [D-NY-4] (R000602)
+- Rep. Matsui, Doris O. [D-CA-6] (M001163)
+- Rep. Lawson, Al, Jr. [D-FL-5] (L000586)
+- Rep. Smith, Jason [R-MO-8] (S001195)
+- Rep. Nunes, Devin [R-CA-22] (N000181)
+- Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Eshoo, Anna G. [D-CA-18] (E000215)
+- Rep. Van Drew, Jefferson [D-NJ-2] (V000133)
+- Del. San Nicolas, Michael F. Q. [D-GU-At Large] (S001204)
+- Rep. Kirkpatrick, Ann [D-AZ-2] (K000368)
+- Rep. Hill, Katie [D-CA-25] (H001087)
+- Rep. Axne, Cynthia [D-IA-3] (A000378)
+- Rep. Spano, Ross [R-FL-15] (S001210)
+- Rep. Guest, Michael [R-MS-3] (G000591)
+- Rep. Cisneros, Gilbert Ray, Jr. [D-CA-39] (C001123)
+- Rep. Brindisi, Anthony [D-NY-22] (B001308)
+- Rep. Torres Small, Xochitl [D-NM-2] (T000484)
+- Rep. Miller, Carol D. [R-WV-3] (M001205)
+- Rep. Harder, Josh [D-CA-10] (H001090)
+
+## Committees (1)
+
+- House — Financial Services Committee
+
+## Actions
+
+- 2019-03-25 — Introduced in House
+- 2019-03-25 — Introduced in House
+- 2019-03-25 — Referred to the House Committee on Financial Services.
