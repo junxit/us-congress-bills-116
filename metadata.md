@@ -1,7 +1,7 @@
 ---
 measure: S. 256
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 256
@@ -34,3 +34,7 @@ Esther Martinez Native American Languages Programs Reauthorization Act
 
 - 2019-01-29 — Introduced in Senate
 - 2019-01-29 — Read twice and referred to the Committee on Indian Affairs.
+- 2019-02-06 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2019-03-25 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-11.
+- 2019-03-25 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-11.
+- 2019-03-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 42.
