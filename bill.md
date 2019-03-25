@@ -15,7 +15,10 @@ This Act may be cited as the “Venezuela Arms Restriction Act”.
 
 ## § 2. Restriction on export of covered articles and services to certain security forces of Venezuela
 
-Notwithstanding any other provision of law, covered articles or services may not be exported from the United States to any element of the security forces of Venezuela that is under the authority of a government of Venezuela that is not recognized as the legitimate government of Venezuela by the Government of the United States.
+- **(a)** *In general* Notwithstanding any other provision of law, covered articles or services may not be exported from the United States to any element of the security forces of Venezuela that is under the authority of a government of Venezuela that is not recognized as the legitimate government of Venezuela by the Government of the United States.
+- **(b)** *Report* Not later than 180 days after the date of enactment of this Act, the Secretary of State, in consultation with the Secretary of Commerce and the heads of other departments and agencies as appropriate, shall—
+  - **(1)** determine, using such information that is available to the Secretary of State, whether any covered article or service has been transferred since July 2017 to the security forces of Venezuela without a license or other authorization as required by law; and
+  - **(2)** submit such determination in writing to the appropriate congressional committees.
 
 ## § 3. Report
 
@@ -23,7 +26,7 @@ Notwithstanding any other provision of law, covered articles or services may not
 - **(b)** *Matters To be included* The report required by subsection (a) shall include the following:
   - **(1)** A list of all significant transfers by foreign persons of covered articles or services to such elements of the security forces of Venezuela since July 2017.
   - **(2)** A list of all foreign persons who maintain an existing defense relationship with such elements of the security forces of Venezuela.
-  - **(3)** Any known use of covered articles or services by such elements of the security forces of Venezuela or associated forces, including paramilitary groups, that have coordinated with such security forces to assault, intimidate, or murder political activists, protesters, dissidents, and other civil society leaders.
+  - **(3)** Any known use of covered articles or services by such elements of the security forces of Venezuela or associated forces, including paramilitary groups, that have coordinated with such security forces to assault, intimidate, or murder political activists, protesters, dissidents, and other civil society leaders, including Juan Guaido.
 
 ## § 4. Termination
 
