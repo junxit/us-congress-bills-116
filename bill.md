@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1616
 
-> To prioritize the efforts of and enhance coordination among United States agencies to encourage countries in Central and Eastern Europe to diversify their energy sources and supply routes, increase Europe’s energy security, and help the United States reach its global energy security goals, and for other purposes.
+> To prioritize the efforts of and enhance coordination among United States agencies to encourage countries in Europe and Eurasia to diversify their energy sources and supply routes, increase energy security in the region, and help the United States reach its global energy security goals, and for other purposes.
 
 ## § 1. Short title
 
@@ -17,94 +17,73 @@ This Act may be cited as the “European Energy Security and Diversification Act
 
 In this Act:
 
-- **(1)** *Central or Eastern European country* The term Central or Eastern European country includes—
-  - **(A)** Albania;
-  - **(B)** Bosnia and Herzegovina;
-  - **(C)** Bulgaria;
-  - **(D)** Croatia;
-  - **(E)** Cyprus;
-  - **(F)** the Czech Republic;
-  - **(G)** Estonia;
-  - **(H)** Greece;
-  - **(I)** Hungary;
-  - **(J)** Kosovo;
-  - **(K)** Latvia;
-  - **(L)** Lithuania;
-  - **(M)** Macedonia;
-  - **(N)** Moldova;
-  - **(O)** Montenegro;
-  - **(P)** Poland;
-  - **(Q)** Romania;
-  - **(R)** Serbia;
-  - **(S)** Slovakia;
-  - **(T)** Slovenia; and
-  - **(U)** Ukraine.
-- **(2)** *Early-stage project support* The term early-stage project support includes—
-  - **(A)** feasibility studies;
-  - **(B)** resource evaluations;
-  - **(C)** project appraisal and costing;
-  - **(D)** pilot projects;
-  - **(E)** commercial support, such as trade missions, reverse trade missions, technical workshops, international buyer programs, and international partner searchers to link suppliers to projects;
-  - **(F)** technical assistance and other guidance to improve the local regulatory environment and market frameworks to encourage transparent competition and enhance energy security; and
-  - **(G)** long-term energy sector planning.
-- **(3)** *Late-stage project support* The term late-stage project support includes debt financing, insurance, and transaction advisory services.
+- **(1)** *Early-stage project support* The term “early-stage project support” includes the following:
+  - **(A)** Feasibility studies.
+  - **(B)** Resource evaluations.
+  - **(C)** Project appraisal and costing.
+  - **(D)** Pilot projects.
+  - **(E)** Commercial support, such as trade missions, reverse trade missions, technical workshops, international buyer programs, and international partner searchers to link suppliers to projects.
+  - **(F)** Technical assistance and other guidance to improve the local regulatory environment and market frameworks to encourage transparent competition and enhance energy security.
+  - **(G)** Long-term energy sector planning.
+- **(2)** *Late-stage project support* The term “late-stage project support” includes support described in section 1421 of the Better Utilization of Investments Leading to Development Act of 2018 (also referred to as the “BUILD Act of 2018”; enacted as division F of the FAA Reauthorization Act of 2018 (Public Law 115–254)).
+- **(3)** *International financial institution* The term “international financial institution” has the meaning given such term in section 1701(c) of the International Financial Institutions Act (22 U.S.C. 262r(c)).
 
-## § 3. Statement of policy
+## § 3. Sense of Congress; statement of policy
 
-- **(a)** *Sense of Congress* It is the sense of Congress that the United States has economic and national security interests in assisting Central and Eastern European countries achieve energy security through diversification of their energy sources and supply routes.
-- **(b)** *Statement of policy* It is the policy of the United States—
-  - **(1)** to advance United States foreign policy and development goals by assisting Central and Eastern European countries to reduce their dependence on energy resources from countries that use energy dependence for undue political influence, such as the Russian Federation, which has used natural gas to coerce, intimidate, and influence other countries;
-  - **(2)** to promote the energy security of allies and partners of the United States by encouraging the development of accessible, transparent, and competitive energy markets that provide diversified sources, types, and routes of energy;
-  - **(3)** to encourage United States public and private sector investment in European energy infrastructure projects to bridge the gap between energy security requirements and commercial demand in a way that is consistent with the region’s absorptive capacity; and
-  - **(4)** to help facilitate the export of United States energy resources, technology, and expertise to global markets in a way that benefits the energy security of allies and partners of the United States, including in Central and Eastern Europe.
+- **(a)** *Sense of Congress* It is the sense of Congress that the United States has economic and national security interests in assisting European and Eurasian countries achieve energy security through diversification of their energy sources and supply routes.
+- **(b)** *Statement of policy* It is the policy of the United States to—
+  - **(1)** advance United States foreign policy and development goals by assisting European and Eurasian countries to reduce their dependence on energy resources from countries that use energy dependence for undue political influence, such as the Russian Federation, which has used natural gas to coerce, intimidate, and influence other countries;
+  - **(2)** promote the energy security of European and Eurasian allies and partners of the United States by encouraging the development of accessible, transparent, and competitive energy markets that provide diversified sources, types, and routes of energy;
+  - **(3)** encourage United States public and private sector investment in European and Eurasian energy infrastructure projects to bridge the gap between energy security requirements and commercial demand in a way that is consistent with the region’s absorptive capacity;
+  - **(4)** help facilitate a well-functioning market for energy resources in a way that benefits the energy security of the United States and European and Eurasian allies and partners of the United States; and
+  - **(5)** help facilitate the export of United States energy technology and expertise to global markets.
 
-## § 4. Prioritization of efforts and assistance for energy infrastructure projects in Central and Eastern Europe
+## § 4. Prioritization of efforts and assistance for energy infrastructure projects in Europe and Eurasia
 
-- **(a)** *In general* In pursuing the policy described in section 3, the Secretary of State, in coordination with the heads of United States agencies that operate under the policy guidance of the Secretary, shall, as appropriate, prioritize and expedite the efforts of the Department of State and those agencies in supporting the efforts of the European Commission and the governments of Central and Eastern European countries to increase their energy security, including through—
-  - **(1)** providing diplomatic and political support to the European Commission and those governments, as necessary—
-    - **(A)** to facilitate international negotiations concerning cross-border infrastructure;
-    - **(B)** to enhance Europe’s regulatory environment with respect to energy; and
-    - **(C)** to develop accessible, transparent, and competitive energy markets supplied by diverse sources, types, and routes of energy; and
-  - **(2)** providing support to improve European energy markets, including early-stage project support and late-stage project support for the construction or improvement of energy infrastructure, as necessary—
-    - **(A)** to diversify the energy sources and supply routes of Central and Eastern European countries;
-    - **(B)** to enhance energy market integration across the region; and
-    - **(C)** to increase competition within energy markets.
+- **(a)** *In general* In pursuing the policy described in section 3(b), the Secretary of State, in coordination with the heads of United States agencies that operate under the foreign policy guidance of the Secretary, shall, as appropriate, prioritize and expedite the efforts of the Department of State and such agencies in supporting the efforts of the European Commission and European and Eurasian countries to increase the energy security of such countries, including through—
+  - **(1)** providing diplomatic and political support to the European Commission and such countries, as necessary to—
+    - **(A)** facilitate international negotiations concerning cross-border infrastructure;
+    - **(B)** enhance Europe’s and Eurasia’s regulatory environment with respect to energy; and
+    - **(C)** develop accessible, transparent, and competitive energy markets supplied by diverse sources, types, and routes of energy; and
+  - **(2)** providing support to improve European and Eurasian energy markets, including early-stage project support and late-stage project support for the construction or improvement of energy infrastructure, as necessary, to—
+    - **(A)** diversify the energy sources and supply routes of such countries;
+    - **(B)** enhance energy market integration across the region; and
+    - **(C)** increase competition within energy markets.
 - **(b)** *Project selection*
-  - **(1)** *In general* The agencies described in subsection (a) shall identify energy infrastructure projects that would be appropriate for United States assistance under this section.
-  - **(2)** *Project eligibility* A project is eligible for United States assistance under this section if the project is—
+  - **(1)** *In general* The Secretary of State, in consultation with the heads of agencies described in subsection (a), shall identify and, in accordance with paragraph (3), select energy infrastructure projects that would be appropriate for United States assistance under this section.
+  - **(2)** *Project eligibility* A project is eligible for United States assistance under this section if such project is—
     - **(A)** related to—
       - **(i)** natural gas infrastructure, such as interconnectors, storage facilities, liquefied natural gas import facilities, or reverse flow capacity;
       - **(ii)** electricity transmission infrastructure, electricity storage projects, or smart grid projects;
       - **(iii)** renewable energy projects in wind, solar, tidal, or other forms; or
-      - **(iv)** the improvement, rehabilitation, or construction of natural gas, coal, or other electricity generation facilities to increase the efficiency and reliability of electricity production; and
-    - **(B)** located in a Central or Eastern European country.
-  - **(3)** *Preference* In selecting among projects that are eligible under paragraph (2), the agencies described in subsection (a) shall give preference to projects that—
-    - **(A)** link the energy systems of two or more Central and Eastern European countries;
-    - **(B)** have already been identified by the European Commission as being integral for the energy security of Central and Eastern European countries;
-    - **(C)** are expected to enhance energy market integration;
+      - **(iv)** the improvement, rehabilitation, or construction of electricity generation facilities to increase the efficiency and reliability of electricity production; and
+    - **(B)** located in a European or Eurasian country.
+  - **(3)** *Preference* In selecting among projects that are eligible under paragraph (2), the Secretary of State and the heads of agencies described in subsection (a) shall give preference to projects that—
+    - **(A)** improve the capacity of energy systems to efficiently transfer gas and electricity within and between European or Eurasian countries;
+    - **(B)** have already been identified by the European Commission as being integral for the energy security of European or Eurasian countries;
+    - **(C)** are expected to enhance energy market integration and transparency;
     - **(D)** can attract funding from the private sector, an international financial institution, the government of the country in which the project will be carried out, or the European Commission; or
-    - **(E)** have the potential to use United States goods and services during project implementation.
+    - **(E)** have the potential to use United States goods and services.
 - **(c)** *Types of assistance*
-  - **(1)** *Diplomatic and political support* The Secretary of State shall provide diplomatic and political support to the European Commission and the governments of Central and Eastern European countries, as necessary, including by using the diplomatic and political influence and expertise of the Department of State to build the capacity of those countries to resolve any impediments to the development of projects selected under subsection (b).
-  - **(2)** *Early-stage project support* The Director of the Trade and Development Agency shall provide early-stage project support with respect to projects selected under subsection (b), as necessary.
-  - **(3)** *Late-stage project support* Agencies described in subsection (a) that provide late-stage project support shall do so with respect to projects selected under subsection (b), as necessary.
+  - **(1)** *Diplomatic and political support* The Secretary of State, in coordination with the heads of agencies described in subsection (a), as appropriate, shall provide diplomatic and political support to the European Commission and European or Eurasian countries, as necessary, including by using the diplomatic and political influence and expertise of the Department of State to build the capacity of such countries to resolve any impediments to the development of projects selected under subsection (b).
+  - **(2)** *Early-stage project support* The Secretary of State, in coordination, as appropriate, with the heads of agencies described in subsection (a), including the Director of the Trade and Development Agency, shall provide early-stage project support to projects selected under subsection (b), as necessary and in accordance with section 661 of the Foreign Assistance Act of 1961 (22 U.S.C. 2421).
+  - **(3)** *Late-stage project support* The Secretary of State, in coordination, as appropriate, with the heads of agencies described in subsection (a), shall provide late-stage project support to projects selected under subsection (b), as necessary and in accordance with section 1412 of the Better Utilization of Investments Leading to Development Act (relating to the establishment of the United States International Development Finance Corporation).
 - **(d)** *Funding*
-  - **(1)** *Private sector investment* The agencies described in subsection (a)—
-    - **(A)** are authorized to provide financing of not more than $1,000,000,000 to support private sector investment in projects that diversify the energy sources and energy transport capabilities of Central and Eastern European countries and to improve energy market integration in those countries; and
-    - **(B)** shall ensure that amounts from such investments are available for fiscal years 2020 through 2024 for debt financing and insurance for projects under this section.
-  - **(2)** *Authorization of appropriations for Trade and Development Agency* There are authorized to be appropriated to the Director of the Trade and Development Agency for each of fiscal years 2020 through 2024—
-    - **(A)** $5,000,000 to provide assistance under this section; and
-    - **(B)** such sums as may be necessary for the Agency to employ additional personnel to provide such assistance.
-  - **(3)** *Countering Russian Influence Fund* Section 254(b) of the Countering Russian Influence in Europe and Eurasia Act of 2017 (22 U.S.C. 9543(b)) is amended by adding at the end the following:
-    > - **(7)** To assist United States agencies in providing assistance under section 4 of the European Energy Security and Diversification Act of 2019.
+  - **(1)** *Trade and development agency* Subparagraph (A) of section 661(f)(1) of the Foreign Assistance Act of 1961 (22 U.S.C. 2421(f)(1)) is amended by striking “$48,000,000 for fiscal year 2000” and inserting “$79,500,000 for fiscal year 2020”.
+  - **(2)** *Countering Russian influence fund* Section 254 of the Countering Russian Influence in Europe and Eurasia Act of 2017 (enacted as title II of the Countering America’s Adversaries Through Sanctions Act; Public Law 115–44; 22 U.S.C. 9543) is amended—
+    - **(A)** in subsection (a), by striking “fiscal years 2018 and 2019” and adding “fiscal years 2020 and 2021”; and
+    - **(B)** in subsection (b), by adding at the end the following new paragraph:
+      > - **(7)** To assist United States agencies that operate under the foreign policy guidance of the Secretary of State in providing assistance under section 4 of the European Energy Security and Diversification Act of 2019.
+
+- **(e)** *Exception* No United States assistance under this section may be provided to a European or Eurasian country that engages in a significant transaction described in subsection (a) of section 231 of the Countering America’s Adversaries Through Sanctions Act (22 U.S.C. 9525).
 
 ## § 5. Progress reports
 
-Not later than one year after the date of the enactment of this Act, and annually thereafter, the President shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on progress made in providing assistance for projects under section 4 that includes—
+Not later than one year after the date of the enactment of this Act and annually thereafter for seven years, the President shall transmit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on progress made in providing assistance for projects under section 4 that includes the following:
 
-- **(1)** a description of the energy infrastructure projects the United States has identified for such assistance; and
-- **(2)** for each such project—
-  - **(A)** a description of the role of the United States in the project, including in early-stage project support and late-stage project support;
-  - **(B)** the amount and form of any debt financing and insurance provided by the United States Government for the project;
-  - **(C)** the amount and form of any early-stage project support; and
-  - **(D)** an update on the progress made on the project as of the date of the report.
+- **(1)** A description of the energy infrastructure projects the United States has identified for such assistance.
+- **(2)** For each such project, the following:
+  - **(A)** A description of the role of the United States in the project, including in early-stage project support and late-stage project support.
+  - **(B)** The amount and form of any debt financing and insurance provided by the United States Government for the project.
+  - **(C)** The amount and form of any early-stage project support.
+  - **(D)** An update on the progress made on the project as of the date of the report.
