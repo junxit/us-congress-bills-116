@@ -1,7 +1,7 @@
 ---
 measure: H.R. 504
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 504
@@ -51,3 +51,7 @@ DHS Field Engagement Accountability Act
 - 2019-01-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1261-1262)
 - 2019-01-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1261-1262)
 - 2019-01-29 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2019-02-13 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2019-03-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-16.
+- 2019-03-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-16.
+- 2019-03-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 47.
