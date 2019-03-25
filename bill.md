@@ -208,7 +208,7 @@ Section 6071(h)(1)(F) of the Deficit Reduction Act of 2005 (42 U.S.C. 1396a note
       - **(ii)** by inserting “unless the Secretary determines that a narrow exception applies (as described in section 447.502 of title 42, Code of Federal Regulations (or any successor regulation))” after “under the new drug application”; and
       - **(iii)** by adding at the end the following new sentence: “Such term also includes a covered outpatient drug that is a biological product licensed, produced, or distributed under a biologics license application approved by the Food and Drug Administration.”.
 - **(d)** *Exclusion of manufacturers for knowing misclassification of covered outpatient drugs* Section 1128(b) of the Social Security Act (42 U.S.C. 1320a–7(b)) is amended by adding at the end the following new paragraph:
-  > - **(17)** *Knowingly misclassifying covered outpatient drugs* Any manufacturer or officer, director, agent, or managing employee of such manufacturer that knowingly misclassifies a covered outpatient drug under an agreement under section 1927, knowingly fails to correct such mis­clas­si­fi­ca­tion, or knowingly provides false information related to drug pricing, drug product information, or data related to drug pricing or drug product information.
+  > - **(17)** *Knowingly misclassifying covered outpatient drugs* Any manufacturer or officer, director, agent, or managing employee of such manufacturer that knowingly misclassifies a covered outpatient drug under an agreement under section 1927, knowingly fails to correct such misclassification, or knowingly provides false information related to drug pricing, drug product information, or data related to drug pricing or drug product information.
 
 - **(e)** *Effective date* The amendments made by this section shall take effect on the date of the enactment of this Act, and shall apply to covered outpatient drugs supplied by manufacturers under agreements under section 1927 of the Social Security Act (42 U.S.C. 1396r–8) on or after such date.
 
@@ -225,3 +225,7 @@ Section 6071(h)(1)(F) of the Deficit Reduction Act of 2005 (42 U.S.C. 1396a note
   >   - **(B)** the insertion, repair, or removal and replacement of a penile prosthetic implant (unless such insertion, repair, or removal and replacement is medically necessary); or
 
 - **(b)** *Effective date* The amendment made by subsection (a) shall apply with respect to items and services furnished on or after January 1, 2020.
+
+## § 9. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
