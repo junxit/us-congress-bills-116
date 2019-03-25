@@ -1,7 +1,7 @@
 ---
 measure: S. 394
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 394
@@ -29,3 +29,7 @@ Presidential Transition Enhancement Act of 2019
 
 - 2019-02-07 — Introduced in Senate
 - 2019-02-07 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2019-02-13 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2019-03-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 116-13.
+- 2019-03-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 116-13.
+- 2019-03-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 44.
