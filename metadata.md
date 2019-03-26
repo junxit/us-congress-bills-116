@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 245
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 245
@@ -25,3 +25,8 @@ Providing for the expenses of certain committees of the House of Representatives
 - 2019-03-21 — Introduced in House
 - 2019-03-21 — Introduced in House
 - 2019-03-21 — Referred to the House Committee on House Administration.
+- 2019-03-25 — Committee Consideration and Mark-up Session Held.
+- 2019-03-25 — Ordered to be Reported by Voice Vote.
+- 2019-03-26 — Placed on the House Calendar, Calendar No. 14.
+- 2019-03-26 — Reported by the Committee on House Administration. H. Rept. 116-20.
+- 2019-03-26 — Reported by the Committee on House Administration. H. Rept. 116-20.
