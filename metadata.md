@@ -1,7 +1,7 @@
 ---
 measure: S. 863
 congress: 116
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 863
@@ -32,3 +32,16 @@ A bill to amend title 38, United States Code, to clarify the grade and pay of po
 - 2019-03-26 — Message on Senate action sent to the House.
 - 2019-03-26 — Received in the House.
 - 2019-03-26 — Referred to the House Committee on Veterans' Affairs.
+- 2019-03-28 — Committee on Veterans' Affairs discharged.
+- 2019-03-28 — Committee on Veterans' Affairs discharged.
+- 2019-03-28 — Considered by unanimous consent. (consideration: CR H2900)
+- 2019-03-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-03-28 — Mr. Takano asked unanimous consent to discharge from committee and consider.
+- 2019-03-28 — On passage Passed without objection. (text: CR H2900)
+- 2019-03-28 — Passed/agreed to in House: On passage Passed without objection.(text: CR H2900)
+- 2019-04-01 — Presented to President.
+- 2019-04-01 — Presented to President.
+- 2019-04-08 — Became Public Law No: 116-12.
+- 2019-04-08 — Became Public Law No: 116-12.
+- 2019-04-08 — Signed by President.
+- 2019-04-08 — Signed by President.
