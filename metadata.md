@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1839
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1839
@@ -45,3 +45,4 @@ Medicaid Services Investment and Accountability Act of 2019
 - 2019-03-25 — Mr. Ruiz moved to suspend the rules and pass the bill, as amended.
 - 2019-03-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2773-2776)
 - 2019-03-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2773-2776)
+- 2019-03-26 — Received in the Senate, read twice.
