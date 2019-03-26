@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1616
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1616
@@ -28,9 +28,10 @@ European Energy Security and Diversification Act of 2019
 - Rep. Kaptur, Marcy [D-OH-9] (K000009)
 - Rep. Hudson, Richard [R-NC-8] (H001067)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -53,3 +54,4 @@ European Energy Security and Diversification Act of 2019
 - 2019-03-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 391 - 24 (Roll no. 126). (text: CR H2771-2772)
 - 2019-03-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 391 - 24 (Roll no. 126).(text: CR H2771-2772)
 - 2019-03-25 — The title of the measure was amended. Agreed to without objection.
+- 2019-03-26 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
