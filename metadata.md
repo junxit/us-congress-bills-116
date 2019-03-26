@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 117
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 117
@@ -28,3 +28,7 @@ A resolution designating March 22, 2019, as "National Rehabilitation Counselors 
 
 - 2019-03-14 — Introduced in Senate
 - 2019-03-14 — Referred to the Committee on the Judiciary.
+- 2019-03-26 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.(text: CR 3/14/2019 S1908-1909)
+- 2019-03-26 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (text: CR 3/14/2019 S1908-1909)
+- 2019-03-26 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2000)
+- 2019-03-26 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S2000)
