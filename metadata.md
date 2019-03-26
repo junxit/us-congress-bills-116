@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1477
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1477
@@ -27,10 +27,11 @@ Russian-Venezuelan Threat Mitigation Act
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Russian-Venezuelan Threat Mitigation Act
 - 2019-03-25 — Mr. Malinowski moved to suspend the rules and pass the bill, as amended.
 - 2019-03-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2781-2782)
 - 2019-03-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2781-2782)
+- 2019-03-26 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
