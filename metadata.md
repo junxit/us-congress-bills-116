@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1839
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1839
@@ -46,3 +46,13 @@ Medicaid Services Investment and Accountability Act of 2019
 - 2019-03-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2773-2776)
 - 2019-03-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2773-2776)
 - 2019-03-26 — Received in the Senate, read twice.
+- 2019-04-02 — Passed Senate without amendment by Voice Vote. (consideration: CR S2203)
+- 2019-04-02 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S2203)
+- 2019-04-03 — Message on Senate action sent to the House.
+- 2019-04-10 — Presented to President.
+- 2019-04-10 — Presented to President.
+- 2019-04-10 — Sponsor introductory remarks on measure. (CR H3224)
+- 2019-04-18 — Became Public Law No: 116-16.
+- 2019-04-18 — Became Public Law No: 116-16.
+- 2019-04-18 — Signed by President.
+- 2019-04-18 — Signed by President.
