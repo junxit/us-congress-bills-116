@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7
@@ -262,6 +262,12 @@ Paycheck Fairness Act
 
 - House — Education and the Workforce Committee
 
+## Recorded votes (3)
+
+- 2019-03-27 — [House 116-1-132](votes/house-116-1-0132.md) — On Agreeing to the Amendment — **Agreed to** (406–24)
+- 2019-03-27 — [House 116-1-133](votes/house-116-1-0133.md) — On Motion to Recommit with Instructions — **Failed** (191–236)
+- 2019-03-27 — [House 116-1-134](votes/house-116-1-0134.md) — On Passage — **Passed** (242–187)
+
 ## Actions
 
 - 2019-01-30 — Introduced in House
@@ -272,3 +278,78 @@ Paycheck Fairness Act
 - 2019-03-18 — Placed on the Union Calendar, Calendar No. 6.
 - 2019-03-18 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 116-18.
 - 2019-03-18 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 116-18.
+- 2019-03-25 — Rules Committee Resolution H. Res. 252 Reported to House. The resolution provides for one hour debate on H.R. 7 and H.Res. 124.
+- 2019-03-27 — Amendment (A001) offered by Ms. Foxx (NC). (consideration: CR H2872-2875; text: CR H2873)
+- 2019-03-27 — Amendment (A002) offered by Mrs. Torres (CA). (consideration: CR H2864-2865; text: CR H2864)
+- 2019-03-27 — Amendment (A003) offered by Mrs. Torres (CA). (consideration: CR H2965; text: CR H2965)
+- 2019-03-27 — Amendment (A004) offered by Mr. Byrne. (consideration: CR H2865-2867; text: CR H2865)
+- 2019-03-27 — Amendment (A005) offered by Ms. Jayapal. (consideration: CR H2867-2868; text: CR H2867)
+- 2019-03-27 — Amendment (A006) offered by Mr. Beyer. (consideration: CR H2868-2870; text: CR H2868)
+- 2019-03-27 — Amendment (A007) offered by Mrs. Lawrence. (consideration: CR H2870-2871; text: CR H2870)
+- 2019-03-27 — Amendment (A008) offered by Mr. Brown (MD). (consideration: CR H2870-2871; text: CR H2780)
+- 2019-03-27 — Amendment agreed to Committee of the Whole
+- 2019-03-27 — Amendment agreed to Committee of the Whole
+- 2019-03-27 — Amendment agreed to Committee of the Whole
+- 2019-03-27 — Amendment agreed to Committee of the Whole
+- 2019-03-27 — Amendment agreed to Committee of the Whole
+- 2019-03-27 — Amendment agreed to Committee of the Whole
+- 2019-03-27 — Amendment failed in Committee of the Whole
+- 2019-03-27 — Amendment failed in Committee of the Whole
+- 2019-03-27 — Considered under the provisions of rule H. Res. 252. (consideration: CR H2848-2875)
+- 2019-03-27 — DEBATE - Pursuant to the provisions of H. Res. 252, the Committee of the Whole proceeded with 10 minutes of debate on the Beyer amendment No. 7.
+- 2019-03-27 — DEBATE - Pursuant to the provisions of H. Res. 252, the Committee of the Whole proceeded with 10 minutes of debate on the Brown (MD) amendment No. 9.
+- 2019-03-27 — DEBATE - Pursuant to the provisions of H. Res. 252, the Committee of the Whole proceeded with 10 minutes of debate on the Byrne amendment No. 4.
+- 2019-03-27 — DEBATE - Pursuant to the provisions of H. Res. 252, the Committee of the Whole proceeded with 10 minutes of debate on the Foxx amendment No. 1.
+- 2019-03-27 — DEBATE - Pursuant to the provisions of H. Res. 252, the Committee of the Whole proceeded with 10 minutes of debate on the Jayapal amendment No. 5.
+- 2019-03-27 — DEBATE - Pursuant to the provisions of H. Res. 252, the Committee of the Whole proceeded with 10 minutes of debate on the Lawrence amendment No. 8.
+- 2019-03-27 — DEBATE - Pursuant to the provisions of H. Res. 252, the Committee of the Whole proceeded with 10 minutes of debate on the Torres amendment No. 2.
+- 2019-03-27 — DEBATE - Pursuant to the provisions of H. Res. 252, the Committee of the Whole proceeded with 10 minutes of debate on the Torres amendment No. 3.
+- 2019-03-27 — DEBATE - The House proceeded with 10 minutes of debate on the Foxx motion to recommit with instructions. Pending the reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to limit any contingent attorney's fees to 49% of any judgement awarded to the plaintiff or plaintiffs. Subsequently, the point of order was withdrawn.
+- 2019-03-27 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 7.
+- 2019-03-27 — House amendment agreed to: On agreeing to the Beyer amendment (A006) Agreed to by recorded vote: 406 - 24 (Roll no. 132).
+- 2019-03-27 — House amendment agreed to: On agreeing to the Brown (MD) amendment (A008) Agreed to by voice vote.
+- 2019-03-27 — House amendment agreed to: On agreeing to the Jayapal amendment (A005) Agreed to by voice vote.
+- 2019-03-27 — House amendment agreed to: On agreeing to the Lawrence amendment (A007) Agreed to by voice vote.
+- 2019-03-27 — House amendment agreed to: On agreeing to the Torres (CA) amendment (A002) Agreed to by voice vote.
+- 2019-03-27 — House amendment agreed to: On agreeing to the Torres (CA) amendment (A003) Agreed to by voice vote.
+- 2019-03-27 — House amendment not agreed to: On agreeing to the Byrne amendment (A004) Failed by voice vote.
+- 2019-03-27 — House amendment not agreed to: On agreeing to the Foxx (NC) amendment (A001) Failed by voice vote.
+- 2019-03-27 — House amendment offered
+- 2019-03-27 — House amendment offered
+- 2019-03-27 — House amendment offered
+- 2019-03-27 — House amendment offered
+- 2019-03-27 — House amendment offered
+- 2019-03-27 — House amendment offered
+- 2019-03-27 — House amendment offered
+- 2019-03-27 — House amendment offered
+- 2019-03-27 — House amendment offered/reported by: Amendment (A001) offered by Ms. Foxx (NC).
+- 2019-03-27 — House amendment offered/reported by: Amendment (A002) offered by Mrs. Torres (CA).
+- 2019-03-27 — House amendment offered/reported by: Amendment (A003) offered by Mrs. Torres (CA).(consideration: CR H2965; text: CR H2965)
+- 2019-03-27 — House amendment offered/reported by: Amendment (A004) offered by Mr. Byrne.
+- 2019-03-27 — House amendment offered/reported by: Amendment (A005) offered by Ms. Jayapal.
+- 2019-03-27 — House amendment offered/reported by: Amendment (A006) offered by Mr. Beyer.
+- 2019-03-27 — House amendment offered/reported by: Amendment (A007) offered by Mrs. Lawrence.
+- 2019-03-27 — House amendment offered/reported by: Amendment (A008) offered by Mr. Brown (MD).
+- 2019-03-27 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 252 and Rule XVIII.
+- 2019-03-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-03-27 — Ms. Foxx (NC) moved to recommit with instructions to the Committee on Education and Labor. (text: CR H2872-2874)
+- 2019-03-27 — On agreeing to the Beyer amendment (A006) Agreed to by recorded vote: 406 - 24 (Roll no. 132).
+- 2019-03-27 — On agreeing to the Brown (MD) amendment (A008) Agreed to by voice vote.
+- 2019-03-27 — On agreeing to the Byrne amendment (A004) Failed by voice vote.
+- 2019-03-27 — On agreeing to the Foxx (NC) amendment (A001) Failed by voice vote.
+- 2019-03-27 — On agreeing to the Jayapal amendment (A005) Agreed to by voice vote.
+- 2019-03-27 — On agreeing to the Lawrence amendment (A007) Agreed to by voice vote.
+- 2019-03-27 — On agreeing to the Torres (CA) amendment (A002) Agreed to by voice vote.
+- 2019-03-27 — On agreeing to the Torres (CA) amendment (A003) Agreed to by voice vote.
+- 2019-03-27 — On motion to recommit with instructions Failed by recorded vote: 191 - 236 (Roll no. 133).
+- 2019-03-27 — On passage Passed by the Yeas and Nays: 242 - 187 (Roll no. 134). (text: CR H2860-2863)
+- 2019-03-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Beyer amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Beyer demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-03-27 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 242 - 187 (Roll no. 134).(text: CR H2860-2863)
+- 2019-03-27 — Roll call votes on amendments in House
+- 2019-03-27 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2019-03-27 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 7.
+- 2019-03-27 — The Speaker designated the Honorable Eleanor Holmes Norton to act as Chairwoman of the Committee.
+- 2019-03-27 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2019-03-27 — The previous question was ordered pursuant to the rule.
+- 2019-03-27 — The resolution provides for one hour debate on H.R. 7 and H.Res. 124.
+- 2019-03-27 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendment number 7, which was debated earlier and on which further proceedings had been postponed.
