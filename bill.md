@@ -18,7 +18,7 @@ This Act may be cited as the “Paycheck Fairness Act”.
 Congress finds the following:
 
 - **(1)** Women have entered the workforce in record numbers over the past 50 years.
-- **(2)** Despite the enactment of the Equal Pay Act of 1963, many women continue to earn significantly lower pay than men for equal work. These pay disparities exist in both the private and governmental sectors.
+- **(2)** Despite the enactment of the Equal Pay Act of 1963, many women continue to earn significantly lower pay than men for equal work. These pay disparities exist in both the private and governmental sectors. Pay disparities are especially severe for women and girls of color.
 - **(3)** In many instances, the pay disparities can only be due to continued intentional discrimination or the lingering effects of past discrimination. After controlling for educational attainment, occupation, industry, union status, race, ethnicity, and labor force experience roughly 40 percent of the pay gap remains unexplained.
 - **(4)** The existence of such pay disparities—
   - **(A)** depresses the wages of working families who rely on the wages of all members of the family to make ends meet;
@@ -64,7 +64,7 @@ Congress finds the following:
     - **(A)** in paragraph (3), by striking “employee has filed” and all that follows and inserting
       > employee—
       > - **(A)** has made a charge or filed any complaint or instituted or caused to be instituted any investigation, proceeding, hearing, or action under or related to this Act, including an investigation conducted by the employer, or has testified or is planning to testify or has assisted or participated in any manner in any such investigation, proceeding, hearing or action, or has served or is planning to serve on an industry committee; or
-      > - **(B)** has inquired about, discussed, or disclosed the wages of the employee or another employee;
+      > - **(B)** has inquired about, discussed, or disclosed the wages of the employee or another employee (such as by inquiring or discussing with the employer why the wages of the employee are set at a certain rate or salary);
 
     - **(B)** in paragraph (5), by striking the period at the end and inserting “; or”; and
     - **(C)** by adding at the end the following:
@@ -115,13 +115,30 @@ The Equal Employment Opportunity Commission and the Office of Federal Contract C
 
 ## § 6. Research, education, and outreach
 
-Not later than 18 months after the date of enactment of this Act, and periodically thereafter, the Secretary of Labor shall conduct studies and provide information to employers, labor organizations, and the general public concerning the means available to eliminate pay disparities between men and women, including—
-
-- **(1)** conducting and promoting research to develop the means to correct expeditiously the conditions leading to the pay disparities;
-- **(2)** publishing and otherwise making available to employers, labor organizations, professional associations, educational institutions, the media, and the general public the findings resulting from studies and other materials, relating to eliminating the pay disparities;
-- **(3)** sponsoring and assisting State, local, and community informational and educational programs;
-- **(4)** providing information to employers, labor organizations, professional associations, and other interested persons on the means of eliminating the pay disparities; and
-- **(5)** recognizing and promoting the achievements of employers, labor organizations, and professional associations that have worked to eliminate the pay disparities.
+- **(a)** *In general* Not later than 18 months after the date of enactment of this Act, and periodically thereafter, the Secretary of Labor shall conduct studies and provide information to employers, labor organizations, and the general public concerning the means available to eliminate pay disparities between men and women (including women who are Asian American, Black or African-American, Hispanic American or Latino, Native American or Alaska Native, Native Hawaiian or Pacific Islander, and White American), including—
+  - **(1)** conducting and promoting research to develop the means to correct expeditiously the conditions leading to the pay disparities, with specific attention paid to women and girls from historically underrepresented and minority groups;
+  - **(2)** publishing and otherwise making available to employers, labor organizations, professional associations, educational institutions, the media, and the general public the findings resulting from studies and other materials, relating to eliminating the pay disparities;
+  - **(3)** sponsoring and assisting State, local, and community informational and educational programs;
+  - **(4)** providing information to employers, labor organizations, professional associations, and other interested persons on the means of eliminating the pay disparities; and
+  - **(5)** recognizing and promoting the achievements of employers, labor organizations, and professional associations that have worked to eliminate the pay disparities.
+- **(b)** *Report on gender pay gap in teenage labor force*
+  - **(1)** *Report required* Not later than one year after the date of the enactment of this Act, the Secretary of Labor, acting through the Director of the Women’s Bureau and in coordination with the Commissioner of Labor Statistics, shall—
+    - **(A)** submit to Congress a report on the gender pay gap in the teenage labor force; and
+    - **(B)** make the report available on a publicly accessible website of the Department of Labor.
+  - **(2)** *Elements* The report under subsection (a) shall include the following:
+    - **(A)** An examination of trends and potential solutions relating to the teenage gender pay gap.
+    - **(B)** An examination of how the teenage gender pay gap potentially translates into greater wage gaps in the overall labor force.
+    - **(C)** An examination of overall lifetime earnings and losses for informal and formal jobs for women, including women of color.
+    - **(D)** An examination of the teenage gender pay gap, including a comparison of the average amount earned by males and females, respectively, in informal jobs, such as babysitting and other freelance jobs, as well as formal jobs, such as retail, restaurant, and customer service.
+    - **(E)** A comparison of —
+      - **(i)** the types of tasks typically performed by women from the teenage years through adulthood within certain informal jobs, such as babysitting and other freelance jobs, and formal jobs, such as retail, restaurant, and customer service; and
+      - **(ii)** the types of tasks performed by younger males in such positions.
+    - **(F)** Interviews and surveys with workers and employers relating to early gender-based pay discrepancies.
+    - **(G)** Recommendations for—
+      - **(i)** addressing pay inequality for women from the teenage years through adulthood, including such women of color;
+      - **(ii)** addressing any disadvantages experienced by young women with respect to work experience and professional development;
+      - **(iii)** the development of standards and best practices for workers and employees to ensure better pay for young women and the prevention of early inequalities in the workplace; and
+      - **(iv)** expanding awareness for teenage girls on pay rates and employment rights in order to reduce greater inequalities in the overall labor force.
 
 ## § 7. Establishment of the National Award for Pay Equity in the Workplace
 
@@ -142,8 +159,45 @@ Not later than 18 months after the date of enactment of this Act, and periodical
 Section 709 of the Civil Rights Act of 1964 (42 U.S.C. 2000e–8) is amended by adding at the end the following:
 
 > - **(f)**
->   - **(1)** Not later than 18 months after the date of enactment of this subsection, the Commission shall issue regulations to provide for the collection from employers of compensation data and other employment-related data (including hiring, termination, and promotion data) disaggregated by the sex, race, and national origin of employees.
+>   - **(1)** Not later than 18 months after the date of enactment of this subsection, the Commission shall provide for the collection from employers of compensation data and other employment-related data (including hiring, termination, and promotion data) disaggregated by the sex, race, and ethnic identity of employees.
 >   - **(2)** In carrying out paragraph (1), the Commission shall have as its primary consideration the most effective and efficient means for enhancing the enforcement of Federal laws prohibiting pay discrimination. For this purpose, the Commission shall consider factors including the imposition of burdens on employers, the frequency of required reports (including the size of employers required to prepare reports), appropriate protections for maintaining data confidentiality, and the most effective format to report such data.
+> - **(3)**
+>   - **(A)** For each 12-month reporting period for an employer, the compensation data collected under paragraph (1) shall include, for each range of taxable compensation described in subparagraph (B), disaggregated by the categories described in subparagraph (E)—
+>     - **(i)** the number of employees of the employer who earn taxable compensation in an amount that falls within such taxable compensation range; and
+>     - **(ii)** the total number of hours worked by such employees.
+>   - **(B)** Subject to adjustment under subparagraph (C), the taxable compensation ranges described in this subparagraph are as follows:
+>     - **(i)** Not more than $19,239.
+>     - **(ii)** Not less than $19,240 and not more than $24,439.
+>     - **(iii)** Not less than $24,440 and not more than $30,679.
+>     - **(iv)** Not less than $30,680 and not more than $38,999.
+>     - **(v)** Not less than $39,000 and not more than $49,919.
+>     - **(vi)** Not less than $49,920 and not more than $62,919.
+>     - **(vii)** Not less than $62,920 and not more than $80,079.
+>     - **(viii)** Not less than $80,080 and not more than $101,919.
+>     - **(ix)** Not less than $101,920 and not more than $128,959.
+>     - **(x)** Not less than $128,960 and not more than $163,799.
+>     - **(xi)** Not less than $163,800 and not more than $207,999.
+>     - **(xii)** Not less than $208,000.
+>   - **(C)** The Commission may adjust the taxable compensation ranges under subparagraph (B)—
+>     - **(i)** if the Commission determines that such adjustment is necessary to enhance enforcement of Federal laws prohibiting pay discrimination; or
+>     - **(ii)** for inflation, in consultation with the Bureau of Labor Statistics.
+>   - **(D)** In collecting data described in subparagraph (A)(ii), the Commission shall provide that, with respect to an employee who the employer is not required to compensate for overtime employment under section 7 of the Fair Labor Standards Act of 1938 (29 U.S.C. 207), an employer may report—
+>     - **(i)** in the case of a full-time employee, that such employee works 40 hours per week, and in the case of a part-time employee, that such employee works 20 hours per week; or
+>     - **(ii)** the actual number of hours worked by such employee.
+>   - **(E)** The categories described in this subparagraph shall be determined by the Commission and shall include—
+>     - **(i)** race;
+>     - **(ii)** ethnic identity;
+>     - **(iii)** sex; and
+>     - **(iv)** job categories, including the job categories described in the instructions for the Equal Employment Opportunity Employer Information Report EEO–1, as in effect on the date of the enactment of this subsection.
+>   - **(F)** The Commission shall use the compensation data collected under paragraph (1)—
+>     - **(i)** to enhance—
+>       - **(I)** the investigation of charges filed under section 706 or section 6(d) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(d)); and
+>       - **(II)** the allocation of resources to investigate such charges; and
+>     - **(ii)** for any other purpose that the Commission determines appropriate.
+>   - **(G)** The Commission shall annually make publicly available aggregate compensation data collected under paragraph (1) for the categories described in subparagraph (E), disaggregated by industry, occupation, and core based statistical area (as defined by the Office of Management and Budget).
+>   - **(4)** The compensation data under paragraph (1) shall be collected from each employer that—
+>     - **(A)** is a private employer that has 100 or more employees, including such an employer that is a contractor with the Federal Government, or a subcontractor at any tier thereof; or
+>     - **(B)** the Commission determines appropriate.
 
 ## § 9. Reinstatement of pay equity programs and pay equity data collection
 
