@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 245
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 245
@@ -30,3 +30,8 @@ Providing for the expenses of certain committees of the House of Representatives
 - 2019-03-26 — Placed on the House Calendar, Calendar No. 14.
 - 2019-03-26 — Reported by the Committee on House Administration. H. Rept. 116-20.
 - 2019-03-26 — Reported by the Committee on House Administration. H. Rept. 116-20.
+- 2019-03-27 — Considered by unanimous consent. (consideration: CR H2875-2876)
+- 2019-03-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-03-27 — Ms. Lofgren asked unanimous consent to take from the Speaker's table and consider.
+- 2019-03-27 — On agreeing to the resolution Agreed to without objection. (text: CR H2875-2876)
+- 2019-03-27 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H2875-2876)
