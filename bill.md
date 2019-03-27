@@ -20,7 +20,7 @@ Section 40002 of the Violence Against Women Act of 1994 (34 U.S.C. 12291) is ame
 
 - **(1)** in subsection (a)—
   - **(A)** by striking “In this title” and inserting “In this title, including for the purpose of grants authorized under this Act,”;
-  - **(B)** by redesignating paragraphs (34) through paragraph (45) as paragraphs (41) through (52);
+  - **(B)** by redesignating paragraph (34) through paragraph (45) as paragraphs (41) through (52);
   - **(C)** by inserting after paragraph (33) the following:
     > - **(39)** *Internet enabled device* The term internet enabled device means devices that have a connection the Internet, send and receive information and data, and maybe accessed via mobile device technology, video technology, or computer technology, away from the location where the device is installed, and may include home automation systems, door locks, and thermostats.
     > - **(40)** *Technological abuse* The term technological abuse means behavior intended to harm, threaten, intimidate, control, stalk, harass, impersonate, or monitor, except as otherwise permitted by law, another person, that occurs using the Internet, internet enabled devices, social networking sites, computers, mobile devices, cellular telephones, apps, location tracking devices, instant messages, text messages, or other forms of technology. Technological abuse may include—
@@ -31,7 +31,7 @@ Section 40002 of the Violence Against Women Act of 1994 (34 U.S.C. 12291) is ame
     >   - **(E)** impersonating a person (including through the use of spoofing technology in photo or video or the creation of accounts under a false name) with the intent to deceive or cause harm; or
     >   - **(F)** sharing or urging or compelling the sharing of another person’s private information, photographs, or videos without their consent.
 
-  - **(D)** in paragraph (19)(B), by striking “and probation” and inserting “probation, and vacatur or expungement”;
+  - **(D)** in paragraph (19)(B), by striking “and probation” and inserting “probation , and vacatur or expungement”;
   - **(E)** by redesignating paragraphs (13) through (33) as paragraphs (18) through (38);
   - **(F)** by striking paragraph (11) and inserting the following:
     > - **(13)** *Digital services* The term digital services means services, resources, information, support or referrals provided through electronic communications platforms and media, whether via mobile device technology, video technology, or computer technology, including utilizing the internet, as well as any other emerging communications technologies that are appropriate for the purposes of providing services, resources, information, support, or referrals for the benefit of victims of domestic violence, dating violence, sexual assault, or stalking.
@@ -39,7 +39,7 @@ Section 40002 of the Violence Against Women Act of 1994 (34 U.S.C. 12291) is ame
     >   - **(A)** restrict a person’s access to money, assets, credit, or financial information;
     >   - **(B)** unfairly use a person’s personal economic resources, including money, assets, and credit, for one’s own advantage; or
     >   - **(C)** exert undue influence over a person’s financial and economic behavior or decisions, including forcing default on joint or other financial obligations, exploiting powers of attorney, guardianship, or conservatorship, or failing or neglecting to act in the best interests of a person to whom one has a fiduciary duty.
-    > - **(15)** *Elder abuse* The term elder abuse has the meaning given that term in section 2 of the Elder Abuse Prevention and Prosecution Act. The terms abuse, elder, and exploitation have the meanings given those terms in section 2011 of the Social Security Act (42 U.S.C. 1397j).
+    > - **(15)** *Elder abuse* The term elder abuse has the meaning given that term in section 2 of the Elder Abuse Prevention and Prosecution Act. The terms ‘abuse,’ ‘elder,’ and ‘exploitation’ have the meanings given those terms in section 2011 of the Social Security Act (42 U.S.C. 1397j).
     > - **(16)** *Forced marriage* The term forced marriage means a marriage to which one or both parties do not or cannot consent, and in which one or more elements of force, fraud, or coercion is present. Forced marriage can be both a cause and a consequence of domestic violence, dating violence, sexual assault or stalking.
     > - **(17)** *Homeless* The term homeless has the meaning given such term in section 41403(6).
 

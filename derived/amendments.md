@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1585
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-287 amendatory instructions. 94 executed, 193 stated and not applied.
+288 amendatory instructions. 95 executed, 193 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,12 +35,12 @@ to guess them.
 
 ### 42 U.S.C. § 1397j
 
-> in paragraph (19)(B), by striking “and probation” and inserting “probation, and vacatur or expungement”;
+> in paragraph (19)(B), by striking “and probation” and inserting “probation , and vacatur or expungement”;
 
 | | |
 |---|---|
 | Removed | `and probation` |
-| Inserted | `probation, and vacatur or expungement` |
+| Inserted | `probation , and vacatur or expungement` |
 
 ### 34 U.S.C. § 10228
 
@@ -86,6 +86,15 @@ to guess them.
 |---|---|
 | Removed | `2014 through 2018` |
 | Inserted | `2020 through 2024` |
+
+### 34 U.S.C. § 10461
+
+> Part U of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10461 et seq.) is amended in the heading, by striking “Grants to encourage arrest policies” and inserting “Grants to improve the criminal justice response”.
+
+| | |
+|---|---|
+| Removed | `Grants to encourage arrest policies` |
+| Inserted | `Grants to improve the criminal justice response` |
 
 ### 42 U.S.C. § 3002
 
@@ -584,7 +593,7 @@ to guess them.
 
 ### 12 U.S.C. § 4501
 
-> in paragraph (1)(A), by striking “brother, sister,” and inserting “sibling,”;
+> in paragraph (1)(A), by striking “brother, sister,” and inserting “sibling,”; and
 
 | | |
 |---|---|
@@ -611,7 +620,7 @@ to guess them.
 
 ### 42 U.S.C. § 1437a
 
-> in the heading, by striking “In general” and inserting “Eviction”; and
+> in the heading, by striking “In general” and inserting “Eviction” ; and
 
 | | |
 |---|---|
@@ -791,12 +800,12 @@ to guess them.
 
 ### 34 U.S.C. § 10442
 
-> in subsection (c)(2), by striking “Violence Against Women Act of 1994 (title VI of Public 103–322) and the Violence Against Women Act of 2000 (Division B of Public Law 106–386)” and inserting “Violence Against Women Act of 1994 (title VI1 of Public 103–322), the Violence Against Women Act of 2000 (Division B of Public Law 106–386), the Violence Against Women and Department of Justice Reauthorization Act of 2005 (title IX of Public Law 109–162; 119 Stat. 3080), the Violence Against Women Reauthorization Act of 2013 (Public Law 113–4; 127 Stat. 54), and the Violence Against Women Reauthorization Act of 2019”.
+> in subsection (c)(2), by striking “Violence Against Women Act of 1994 (title VI of Public 103–322) and the Violence Against Women Act of 2000 (Division B of Public Law 106–386)” and inserting “Violence Against Women Act of 1994 (title VI1 of Public 103–322), the Violence Against Women Act of 2000 (Division B of Public Law 106–386), the Violence Against Women and Department of Justice Reauthorization Act of 2005 (title IX of Public Law 109–162; 119 Stat. 3080), the Violence Against Women Reauthorization Act of 2013 (Public Law 113–4; 127 Stat. 54); and the Violence Against Women Reauthorization Act of 2019”.
 
 | | |
 |---|---|
 | Removed | `Violence Against Women Act of 1994 (title VI of Public 103–322) and the Violence Against Women Act of 2000 (Division B of Public Law 106–386)` |
-| Inserted | `Violence Against Women Act of 1994 (title VI1 of Public 103–322), the Violence Against Women Act of 2000 (Division B of Public Law 106–386), the Violence Against Women and Department of Justice Reauthorization Act of 2005 (title IX of Public Law 109–162; 119 Stat. 3080), the Violence Against Women Reauthorization Act of 2013 (Public Law 113–4; 127 Stat. 54), and the Violence Against Women Reauthorization Act of 2019` |
+| Inserted | `Violence Against Women Act of 1994 (title VI1 of Public 103–322), the Violence Against Women Act of 2000 (Division B of Public Law 106–386), the Violence Against Women and Department of Justice Reauthorization Act of 2005 (title IX of Public Law 109–162; 119 Stat. 3080), the Violence Against Women Reauthorization Act of 2013 (Public Law 113–4; 127 Stat. 54); and the Violence Against Women Reauthorization Act of 2019` |
 
 ### 34 U.S.C. § 10445
 
@@ -879,7 +888,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 1397j` | redesignate | by redesignating paragraphs (34) through paragraph (45) as paragraphs (41) through (52); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1397j` | redesignate | by redesignating paragraph (34) through paragraph (45) as paragraphs (41) through (52); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1397j` | insert | by inserting after paragraph (33) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1397j` | redesignate | by redesignating paragraphs (13) through (33) as paragraphs (18) through (38); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1397j` | replace | by striking paragraph (11) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -900,7 +909,7 @@ complete account of the bill's effect, which it is not.
 | `34 U.S.C. § 10228` | add-at-end | in paragraph (11), by adding at the end the following: “The Office on Violence Against Women shall make all technical assistance available as broadly as possible to any appropriate grantees, subgrantees, potential grantees, or other enti… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 10228` | insert | in subparagraph (A), by inserting after “the Violence Against Women Reauthorization Act of 2013” the following: “(Public Law 113–4; 127 Stat. 54)”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 10228` | insert | in paragraph (14), by inserting after “are also victims of” the following: “forced marriage, or”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `34 U.S.C. § 10441` | insert | in paragraph (3), by inserting before the semicolon at the end the following: “including implementation of the nondiscrimination requirements in section 40002(b)(13) of the Violence Against Women Act of 1994”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 10441` | insert | in paragraph (3), by inserting before the semicolon at the end the following: “including implementation of the non-discrimination requirements in section 40002(b)(13) of the Violence Against Women Act of 1994”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 10441` | strike | in paragraph (19), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `34 U.S.C. § 10441` | replace | in paragraph (20), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 10441` | insert | by inserting after paragraph (20), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -919,7 +928,7 @@ complete account of the bill's effect, which it is not.
 | `34 U.S.C. § 20121` | insert | in paragraph (2), by inserting after “stalking, and sexual assault” the following: “, or for dependents when necessary for the safety of a victim,” and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 20121` | insert | in paragraph (3), by inserting after “sexual assault, or stalking” the following: “, or for dependents when necessary for the safety of a victim,”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 12464` | strike | in paragraph (7), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `34 U.S.C. § 12464` | replace | by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 12464` | replace | by striking the period at the end and inserting “; and” ; and | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 12464` | insert | by inserting after paragraph (8) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | strike | by striking “restraining order or injunction,”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: “The prohibition under this paragraph applies to all protection orders for the protection of a person residing within a State, territorial, or tribal jurisdiction, whether or not the protection order w… | the bill names no machine-readable US Code section |
@@ -1013,7 +1022,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 11302` | strike | Section 103(b) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11302(b)) is amended by striking “in the individual's or family's current housing situation”. | the bill quotes the text struck but describes what replaces it |
 | `34 U.S.C. § 12475` | insert | in subsection (c)(2)(D), by inserting after “linguistically and culturally specific service providers,” the following: “population-specific organizations,”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 12475` | replace | in subsection (g), by striking “2014 through 2018” and inserting the following: “2020 through 2024”. | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1437c-1` | insert | in paragraph (16), by inserting “the Violence Against Women Act of 1994,” before “the Fair Housing Act”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1437c-1` | insert | in pararaph (16), by inserting “the Violence Against Women Act of 1994,” before “the Fair Housing Act”. | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 12501` | insert | by inserting “and sexual harassment” after “domestic and sexual violence”; and | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 12501` | insert | in subsection (c)(1), by inserting before the period at the end “or sexual harassment”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 12501` | insert | in subsection (c)(2)(A), by inserting “or sexual harassment;” after “sexual violence”; and | the bill quotes the text inserted but describes where it goes |
@@ -1028,7 +1037,7 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating paragraphs (34) and (35) as paragraphs (35) and (36) respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (33) the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (8), by striking “that restrains such person” and all that follows, and inserting “described in subsection (g)(8);”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (9), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (9), by striking the period at the end and inserting “; or”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (9) the following: | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (8) to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (9), by striking the comma at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
@@ -1041,7 +1050,7 @@ complete account of the bill's effect, which it is not.
 | `25 U.S.C. § 1304` | redesignate | by redesignating paragraphs (1) through (3) as paragraphs (2) through (4); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 1304` | redesignate | by inserting before paragraph (2) (as redesignated), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 1304` | redesignate | by inserting after paragraph (4) (as redesignated), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 1304` | insert | in subsection (b)(1), by inserting after “the powers of self-government of a participating tribe” the following: “, including any participating tribes in the State of Maine,”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 1304` | insert | in subsection (b)(1), by inserting after “the powers of self-government of a participating tribe” the following: “, including any participating tribes in the State of Maine,” | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 1304` | insert | in subparagraph (A)(i), by inserting after “over an alleged offense” the following: “, other than obstruction of justice or an act of assault of a law enforcement or corrections officer,”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 1304` | strike | in clause (ii), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `25 U.S.C. § 1304` | replace | in clause (iii)(II), by striking the period at the end and inserting the following: “; or”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1050,7 +1059,7 @@ complete account of the bill's effect, which it is not.
 | `25 U.S.C. § 1304` | insert | in paragraph (4), by inserting “sexual violence, stalking, sex trafficking, assault of a law enforcement or correctional officer,” after “dating violence,”; and | the bill quotes the text inserted but describes where it goes |
 | `25 U.S.C. § 1304` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 1304` | redesignate | by redesignating subsections (g) and (h) as subsections (h) and (i), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 33` | insert | by inserting after subsection (f) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 33` | insert | by inserting after subsection (f) the following:; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 10442` | insert | in subsection (b), by inserting after “within the Department of Justice” the following: “, not subsumed by any other office”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 10443` | amend | Section 2003 of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10443) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 10444` | amend | Section 2004 of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10444) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
