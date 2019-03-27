@@ -1,7 +1,7 @@
 ---
 measure: S. 590
 congress: 116
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 590
@@ -16,7 +16,7 @@ Hidden Figures Congressional Gold Medal Act
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 
-## Cosponsors (62)
+## Cosponsors (71)
 
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 - Sen. Harris, Kamala D. [D-CA] (H001075)
@@ -80,6 +80,15 @@ Hidden Figures Congressional Gold Medal Act
 - Sen. Smith, Tina [D-MN] (S001203)
 - Sen. Udall, Tom [D-NM] (U000039)
 - Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Inhofe, James M. [R-OK] (I000024)
 
 ## Committees (1)
 
@@ -89,3 +98,7 @@ Hidden Figures Congressional Gold Medal Act
 
 - 2019-02-27 — Introduced in Senate
 - 2019-02-27 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2019-03-27 — Passed Senate without amendment by Unanimous Consent. (text: CR S2061-2062)
+- 2019-03-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S2061-2062)
+- 2019-03-27 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S2061-2062)
+- 2019-03-27 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S2061-2062)
