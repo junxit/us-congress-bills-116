@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1388
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1388
@@ -16,9 +16,10 @@ Lytton Rancheria Homelands Act of 2019
 
 - Rep. Huffman, Jared [D-CA-2] (H001068)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -34,3 +35,4 @@ Lytton Rancheria Homelands Act of 2019
 - 2019-03-26 — Mr. Grijalva moved to suspend the rules and pass the bill.
 - 2019-03-26 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 21 (Roll no. 128). (text: CR H2812-2813)
 - 2019-03-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 21 (Roll no. 128).(text: CR H2812-2813)
+- 2019-03-27 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
