@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 1913
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1913
+
+> To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to pay educational assistance or subsistence allowances to certain individuals during school term, quarter, or semester breaks.
+
+## § 1. Short title
+
+This Act may be cited as the “Break Relief for Every Academic Kind of Period in an Academic Year for Veterans Act” or the “BREAK PAY for Veterans Act” .
+
+## § 2. Payment of educational assistance or subsistence allowances to certain individuals during semester breaks
+
+Section 3680(a)(2) of title 38, United States Code, is amended—
+
+- **(1)** in subparagraph (A), by striking “; or” and inserting a semicolon;
+- **(2)** in subparagraph (B)(ii), by striking “disapproval.” and inserting “disapproval; or”; and
+- **(3)** by adding at the end the following new subparagraph:
+  > - **(C)** during periods between school terms, quarters, or semesters where the educational institution certifies the enrollment of the eligible veteran or eligible person on an individual term basis if—
+  >   - **(i)** the period between those terms, quarters, or semesters does not exceed eight weeks; and
+  >   - **(ii)** both terms, quarters, or semesters immediately preceding and immediately following the period are not shorter in length than the period.
