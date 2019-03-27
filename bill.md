@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 1902
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1902
+
+> To amend the Internal Revenue Code of 1986 to allow officers and employees of the Department of the Treasury to provide to taxpayers information regarding low-income taxpayer clinics.
+
+## § 1. Provision of information regarding low-income taxpayer clinics
+
+Section 7526(c) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:
+
+> - **(6)** *Provision of information regarding qualified low-income taxpayer clinics* Notwithstanding any other provision of law, officers and employees of the Department of the Treasury may—
+>   - **(A)** advise taxpayers of the availability of, and eligibility requirements for receiving, advice and assistance from qualified low-income taxpayer clinics receiving funding under this section, and
+>   - **(B)** provide information regarding the location of, and contact information for, such clinics.
