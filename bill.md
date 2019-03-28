@@ -1,0 +1,15 @@
+---
+legis-num: S. 953
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 953
+
+> To designate the facility of the United States Postal Service located at 1100 West Kent Avenue in Missoula, Montana, as the “Jeannette Rankin Post Office Building”.
+
+## § 1. Jeannette Rankin Post Office Building
+
+- **(a)** *Designation* The facility of the United States Postal Service located at 1100 West Kent Avenue in Missoula, Montana, shall be known and designated as the “Jeannette Rankin Post Office Building”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Jeannette Rankin Post Office Building”.
