@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1639
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1639
@@ -31,3 +31,8 @@ CBP Workload Staffing Model Act
 - 2019-03-08 — Introduced in House
 - 2019-03-08 — Introduced in House
 - 2019-03-08 — Referred to the House Committee on Homeland Security.
+- 2019-03-13 — Committee Consideration and Mark-up Session Held.
+- 2019-03-13 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2019-03-28 — Placed on the Union Calendar, Calendar No. 9.
+- 2019-03-28 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-23.
+- 2019-03-28 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-23.
