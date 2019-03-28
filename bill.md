@@ -1,0 +1,24 @@
+---
+legis-num: H. RES. 269
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 269
+
+> Expressing support for the designation of March 2, 2020, as “Gold Star Families Remembrance Day”.
+
+## Preamble
+
+- Whereas March 2, 2020, marks the 91st anniversary of President Calvin Coolidge signing an Act of Congress that approved and funded the first Gold Star pilgrimage to enable Gold Star families to travel to the gravesites of their loved ones who died during World War I;
+- Whereas the members and veterans of the Armed Forces of the United States bear the burden of protecting the freedom of the people of the United States; and
+- Whereas the sacrifices of the families of the fallen members and veterans of the Armed Forces of the United States should never be forgotten: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** supports the designation of “Gold Star Families Remembrance Day”;
+- **(2)** honors and recognizes the sacrifices made by the families of members and veterans of the Armed Forces of the United States who gave their lives to defend freedom and protect America; and
+- **(3)** encourages the people of the United States to observe “Gold Star Families Remembrance Day” by—
+  - **(A)** performing acts of service and good will in their communities; and
+  - **(B)** celebrating the lives of those who have made the ultimate sacrifice so that others could continue to enjoy life, liberty, and the pursuit of happiness.
