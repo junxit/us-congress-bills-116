@@ -2,7 +2,7 @@
 legis-num: H. RES. 124
 congress: 116th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 124
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## Preamble
 
-- Whereas, on July 26, 2017, President Trump announced via Twitter that the United States Government would reverse the existing policy of allowing transgender ser­vice­mem­bers to serve openly in order to implement a ban on transgender people from serving in the Armed Forces;
+- Whereas, on July 26, 2017, President Trump announced via Twitter that the United States Government would reverse the existing policy of allowing transgender service­members to serve openly in order to implement a ban on transgender people from serving in the Armed Forces;
 - Whereas transgender servicemembers have served openly since 2016, bravely defending our Nation with distinction while preserving unit cohesion and contributing to military readiness;
 - Whereas a 2016 study by the RAND Corporation found that allowing transgender Americans to serve openly in the Armed Forces would “have minimal impact on readiness and health care costs” and “little or no impact on unit cohesion, operational effectiveness or readiness”;
 - Whereas thousands of transgender Americans currently serve actively in the Armed Forces and in the Reserves throughout all branches and military occupational specialties;
@@ -31,4 +31,4 @@ That the House of Representatives—
 
 - **(1)** strongly opposes President Trump’s discriminatory ban on transgender members of the Armed Forces;
 - **(2)** rejects the flawed scientific and medical claims upon which it is based; and
-- **(3)** strongly urges the Department of Defense to not reinstate President Trump’s ban on trans­gen­der members of the Armed Forces and to maintain an inclusive policy allowing qualified transgender Americans to enlist and serve in the Armed Forces.
+- **(3)** strongly urges the Department of Defense to not reinstate President Trump’s ban on transgender members of the Armed Forces and to maintain an inclusive policy allowing qualified transgender Americans to enlist and serve in the Armed Forces.
