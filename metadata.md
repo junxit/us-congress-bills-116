@@ -1,7 +1,7 @@
 ---
 measure: H.R. 297
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 297
@@ -34,3 +34,5 @@ Little Shell Tribe of Chippewa Indians Restoration Act of 2019
 - 2019-03-26 — Mr. Grijalva moved to suspend the rules and pass the bill.
 - 2019-03-26 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 21 (Roll no. 129). (text: CR H2813-2814)
 - 2019-03-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 21 (Roll no. 129).(text: CR H2813-2814)
+- 2019-03-27 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2019-03-28 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 48.
