@@ -26,10 +26,11 @@ Section 704 of the Homeland Security Act of 2002 (6 U.S.C. 344) is amended—
   - **(C)** in paragraph (3), by inserting “that, to the extent practicable, are informed by employee feedback” after “policies”;
   - **(D)** in paragraph (4), by inserting “including leader development and employee engagement programs,” before “in coordination”;
   - **(E)** in paragraph (5), by inserting before the semicolon at the end the following: “that is informed by an assessment, carried out by the Chief Human Capital Officer, of the learning and developmental needs of employees in supervisory and non-supervisory roles across the Department and appropriate workforce planning initiatives”;
-  - **(F)** by redesignating paragraphs (9) and (10) as paragraphs (11) and (12), respectively; and
+  - **(F)** by redesignating paragraphs (9) and (10) as paragraphs (12) and (13), respectively; and
   - **(G)** by inserting after paragraph (8) the following new paragraphs:
     > - **(9)** maintain a catalogue of available employee development opportunities, including the Homeland Security Rotation Program pursuant to section 844, departmental leadership development programs, interagency development programs, and other rotational programs;
     > - **(10)** ensure that employee discipline and adverse action programs comply with the requirements of all pertinent laws, rules, regulations, and Federal guidance, and ensure due process for employees;
+    > - **(11)** analyze each Department or Government-wide Federal workforce satisfaction or morale survey not later than 90 days after the date of the publication of each such survey and submit to the Secretary such analysis, including, as appropriate, recommendations to improve workforce satisfaction or morale within the Department;
 
 - **(2)** by redesignating subsections (d) and (e) as subsections (e) and (f), respectively;
 - **(3)** by inserting after subsection (c) the following new subsection:
@@ -64,7 +65,7 @@ Section 704 of the Homeland Security Act of 2002 (6 U.S.C. 344) is amended—
 - **(b)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 710 the following new item:
 - **(c)** *Submissions to Congress*
   - **(1)** *Department-wide employee engagement action plan* The Secretary of Homeland Security, acting through the Chief Human Capital Officer of the Department of Homeland Security, shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate the Department-wide employee engagement action plan required under subsection (b)(1) of section 711 of the Homeland Security Act of 2002 (as added by subsection (a) of this section) not later than 30 days after the issuance of such plan under such subsection (b)(1).
-  - **(2)** *Component-specific employee engagement plans* Each head of a component of the Department of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate the component-specific employee engagement plan of each such component required under subsection (b)(2) of section 711 of the Homeland Security Act of 2002 (as added by subsection (a) of this section) not later than 30 days after the issuance of each such plan under such subsection (b)(2).
+  - **(2)** *Component-specific employee engagement plans* Each head of a component of the Department of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate the component-specific employee engagement plan of each such component required under subsection (b)(2) of section 711 of the Homeland Security Act of 2002 not later than 30 days after the issuance of each such plan under such subsection (b)(2).
 
 ## § 4. Annual employee award program
 
@@ -87,3 +88,11 @@ Section 704 of the Homeland Security Act of 2002 (6 U.S.C. 344) is amended—
 - **(a)** *In general* Not later than 120 days after the date of the enactment of this Act, the Comptroller General of the United States shall investigate whether the application in the Department of Homeland Security of discipline and adverse actions are administered in an equitable and consistent manner that results in the same or substantially similar disciplinary outcomes across the Department for misconduct by a non-supervisory or supervisor employee who engaged in the same or substantially similar misconduct.
 - **(b)** *Consultation* In carrying out the investigation described in subsection (a), the Comptroller General of the United States shall consult with the Under Secretary for Management of the Department of Homeland Security and the employee engagement steering committee established pursuant to subsection (b)(1) of section 711 of the Homeland Security Act of 2002 (as added by section 3(a) of this Act).
 - **(c)** *Action by Under Secretary for Management* Upon completion of the investigation described in subsection (a), the Under Secretary for Management of the Department of Homeland Security shall review the findings and recommendations of such investigation and implement a plan, in consultation with the employee engagement steering committee established pursuant to subsection (b)(1) of section 711 of the Homeland Security Act of 2002, to correct any relevant deficiencies identified by the Comptroller General of the United States in such investigation. The Under Secretary for Management shall direct the employee engagement steering committee to review such plan to inform committee activities and action plans authorized under such section 711.
+
+## § 6. Impacts of shutdown
+
+Not later than 90 days after the date of the enactment of this Act, the Secretary of Homeland Security shall report to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate regarding the direct and indirect impacts of the lapse in appropriations between December 22, 2018, and January 25, 2019, on—
+
+- **(1)** Department of Homeland Security human resources operations;
+- **(2)** the Department’s ability to meet hiring benchmarks; and
+- **(3)** retention, attrition, and morale of Department personnel.
