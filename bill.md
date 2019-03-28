@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 1974
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1974
+
+> To amend the Internal Revenue Code of 1986 to permanently extend the mine rescue team training credit.
+
+## § 1. Short title
+
+This Act may be cited as the “Mine Rescue Team Training Credit”.
+
+## § 2. Permanent extension of mine rescue team training credit
+
+- **(a)** *In general* Section 45N of the Internal Revenue Code of 1986 is amended by striking subsection (e).
+- **(b)** *Effective date* The amendment made by this section shall apply to taxable years beginning after December 31, 2017.
