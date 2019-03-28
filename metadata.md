@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 100
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 100
@@ -16,7 +16,7 @@ A resolution recognizing the heritage, culture, and contributions of American In
 
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 
-## Cosponsors (28)
+## Cosponsors (31)
 
 - Sen. Udall, Tom [D-NM] (U000039)
 - Sen. Baldwin, Tammy [D-WI] (B001230)
@@ -46,6 +46,9 @@ A resolution recognizing the heritage, culture, and contributions of American In
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Warren, Elizabeth [D-MA] (W000817)
 - Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
 
 ## Committees (1)
 
@@ -55,3 +58,7 @@ A resolution recognizing the heritage, culture, and contributions of American In
 
 - 2019-03-07 — Introduced in Senate
 - 2019-03-07 — Referred to the Committee on Indian Affairs.
+- 2019-03-28 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.(text: CR 3/7/2019 S1743-1744)
+- 2019-03-28 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (text: CR 3/7/2019 S1743-1744)
+- 2019-03-28 — Senate Committee on Indian Affairs discharged by Unanimous Consent. (consideration: CR S2099-2100)
+- 2019-03-28 — Senate Committee on Indian Affairs discharged by Unanimous Consent.(consideration: CR S2099-2100)
