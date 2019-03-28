@@ -1,0 +1,35 @@
+---
+legis-num: H.R. 1983
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1983
+
+> To reauthorize and extend funding for community health centers and the National Health Service Corps.
+
+## § 1. Short title
+
+This Act may be cited as the “Community Health Investment, Modernization, and Excellence Act of 2019”.
+
+## § 2. Extension of funding for community health centers and National Health Service Corps
+
+Section 221 of the Medicare Access and CHIP Reauthorization Act of 2015 is amended—
+
+- **(1)** in subsection (a), by adding at the end the following:
+  > - **(3)** *Additional funding* In addition to amounts appropriated under section 10503(b) of the Patient Protection and Affordable Care Act, there are appropriated to the CHC Fund the following:
+  >   - **(A)** For purposes of paragraph (1) of such section—
+  >     - **(i)** for fiscal year 2020, $4,200,000,000;
+  >     - **(ii)** for fiscal year 2021, $4,400,000,000;
+  >     - **(iii)** for fiscal year 2022, $4,600,000,000;
+  >     - **(iv)** for fiscal year 2023, $4,800,000,000; and
+  >     - **(v)** for fiscal year 2024, $5,000,000,000.
+  >   - **(B)** For purposes of paragraph (2) of such section—
+  >     - **(i)** $325,000,000 for fiscal year 2020;
+  >     - **(ii)** $340,000,000 for fiscal year 2021;
+  >     - **(iii)** $355,000,000 for fiscal year 2022;
+  >     - **(iv)** $370,000,000 for fiscal year 2023; and
+  >     - **(v)** $385,000,000 for fiscal year 2024.
+
+- **(2)** in subsection (c), by striking “fiscal year 2016 and fiscal year 2017” and inserting “fiscal year 2020, fiscal year 2021, fiscal year 2022, fiscal year 2023, and fiscal year 2024”.
