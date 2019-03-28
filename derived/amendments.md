@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1589
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -42,5 +42,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `6 U.S.C. § 121` | add-at-end | Subtitle A of title II of the Homeland Security Act of 2002 (6 U.S.C. 121 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 121` | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 201F the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 121` | insert | Subtitle A of title II of the Homeland Security Act of 2002 (6 U.S.C. 121 et seq.) is amended by inserting after section 210E the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 121` | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 210E the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
