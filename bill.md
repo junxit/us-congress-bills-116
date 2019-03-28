@@ -28,7 +28,7 @@ This Act may be cited as the “Coordinating and Leveraging Activities for Schoo
   >   - **(6)** The Assistant Secretary for Public Affairs.
   >   - **(7)** Any other official of the Department the Secretary determines appropriate.
   > - **(c)** *Leadership* The Secretary shall designate a member of the council to serve as chair of the council.
-  > - **(d)** *Reports* Not later than January 30, 2021, and annually thereafter, the Secretary shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report regarding the council’s activities during the preceding year, including information on any metrics regarding the efficacy of such activities.
+  > - **(d)** *Reports* Not later than January 30, 2021, and annually thereafter, the Secretary shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report regarding the council’s activities during the preceding year, including information on any metrics regarding the efficacy of such activities and any engagement with stakeholders outside of the Federal Government.
   > - **(e)** *Definitions* In this section, the terms “early childhood education program”, “elementary school”, “high school”, and “secondary school” have the meanings given such terms in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
 
-- **(b)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 709 the following new item:
+- **(b)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 710 the following new item:
