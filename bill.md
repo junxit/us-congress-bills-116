@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 1990
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1990
+
+> To amend the National Aviation Heritage Act to reauthorize the National Aviation Heritage Area, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “National Aviation Heritage Area Reauthorization Act”.
+
+## § 2. Reauthorization of the National Aviation Heritage Area
+
+Section 512 of the National Aviation Heritage Act (54 U.S.C. 320101 note; Public Law 108–447; 118 Stat. 3367) is amended by striking “on the date” and all that follows through the period at the end and inserting “on September 30, 2026.”.
