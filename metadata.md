@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 118
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 118
@@ -16,7 +16,7 @@ A resolution recognizing the importance of paying tribute to those individuals w
 
 - Sen. Warren, Elizabeth [D-MA] (W000817)
 
-## Cosponsors (22)
+## Cosponsors (25)
 
 - Sen. Cruz, Ted [R-TX] (C001098)
 - Sen. Jones, Doug [D-AL] (J000300)
@@ -40,6 +40,9 @@ A resolution recognizing the importance of paying tribute to those individuals w
 - Sen. Markey, Edward J. [D-MA] (M000133)
 - Sen. Rounds, Mike [R-SD] (R000605)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
 
 ## Committees (1)
 
@@ -49,3 +52,7 @@ A resolution recognizing the importance of paying tribute to those individuals w
 
 - 2019-03-14 — Introduced in Senate
 - 2019-03-14 — Referred to the Committee on the Judiciary.
+- 2019-03-28 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR 3/14/2019 S1909)
+- 2019-03-28 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 3/14/2019 S1909)
+- 2019-03-28 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2100)
+- 2019-03-28 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S2100)
