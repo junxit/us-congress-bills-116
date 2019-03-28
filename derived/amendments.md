@@ -1,7 +1,7 @@
 ---
 measure: S. 257
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
