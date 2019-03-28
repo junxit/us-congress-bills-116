@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1433
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -56,7 +56,7 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 344` | insert | in paragraph (3), by inserting “that, to the extent practicable, are informed by employee feedback” after “policies”; | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 344` | insert | in paragraph (4), by inserting “including leader development and employee engagement programs,” before “in coordination”; | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 344` | insert | in paragraph (5), by inserting before the semicolon at the end the following: “that is informed by an assessment, carried out by the Chief Human Capital Officer, of the learning and developmental needs of employees in supervisory and non… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 344` | redesignate | by redesignating paragraphs (9) and (10) as paragraphs (11) and (12), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 344` | redesignate | by redesignating paragraphs (9) and (10) as paragraphs (12) and (13), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 344` | insert | by inserting after paragraph (8) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 344` | redesignate | by redesignating subsections (d) and (e) as subsections (e) and (f), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 344` | insert | by inserting after subsection (c) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
