@@ -1,7 +1,7 @@
 ---
 measure: S. 590
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 590
@@ -90,9 +90,11 @@ Hidden Figures Congressional Gold Medal Act
 - Sen. Daines, Steve [R-MT] (D000618)
 - Sen. Inhofe, James M. [R-OK] (I000024)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Banking, Housing, and Urban Affairs Committee
+- House — Committee on House Administration
+- House — Financial Services Committee
 
 ## Actions
 
@@ -102,3 +104,7 @@ Hidden Figures Congressional Gold Medal Act
 - 2019-03-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S2061-2062)
 - 2019-03-27 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S2061-2062)
 - 2019-03-27 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S2061-2062)
+- 2019-03-28 — Message on Senate action sent to the House.
+- 2019-03-29 — Received in the House.
+- 2019-03-29 — Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-03-29 — Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
