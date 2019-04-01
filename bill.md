@@ -30,7 +30,7 @@ This Act may be cited as the “CBRN Intelligence and Information Sharing Act of
   >   - **(1)** *Intelligence community* The term “intelligence community” has the meaning given such term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4)).
   >   - **(2)** *National biosecurity and biodefense stakeholders* The term “national biosecurity and biodefense stakeholders” means officials from Federal, State, local, Tribal, and territorial authorities and individuals from the private sector who are involved in efforts to prevent, protect against, respond to, and recover from a biological attack or other phenomena that may have serious health consequences for the United States, including infectious disease outbreaks.
 
-- **(b)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 210E the following new item:
+- **(b)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 201E the following new item:
 - **(c)** *Report*
   - **(1)** *In general* Not later than one year after the date of the enactment of this Act and annually thereafter for each of the following four years, the Secretary of Homeland Security shall report to the appropriate congressional committees on the following:
     - **(A)** The intelligence and information sharing activities under section 210F of the Homeland Security Act of 2002 (as added by subsection (a) of this section) and of all relevant entities within the Department of Homeland Security to counter the threat from attacks using chemical, biological, radiological, or nuclear materials.
