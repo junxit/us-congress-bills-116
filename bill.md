@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 2003
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2003
+
+> To amend title 5, United States Code, to clarify that during a lapse in appropriations certain services relating to the Federal Employees Health Benefits Program are excepted services under the Anti-Deficiency Act, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Ensuring FEHBP Coverage During Shutdowns Act”.
+
+## § 2. Designating certain FEHBP-related services as excepted services under the Anti-Deficiency Act
+
+- **(a)** *In general* Section 8905 of title 5, United States Code, is amended by adding at the end the following:
+  > - **(i)** Any services by an officer or employee under this chapter relating to enrolling individuals in a health benefits plan under this chapter, or changing the enrollment of an individual already so enrolled due to a qualifying life event, shall be deemed, for purposes of section 1342 of title 31, services for emergencies involving the safety of human life or the protection of property.
+
+- **(b)** *Application* The amendment made by subsection (a) shall apply to any lapse in appropriations beginning on or after the date of enactment of this Act.
