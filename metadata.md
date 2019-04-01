@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1593
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1593
@@ -25,6 +25,10 @@ Coordinating and Leveraging Activities for School Security Act
 
 - House — Homeland Security Committee
 
+## Recorded votes (1)
+
+- 2019-04-01 — [House 116-1-137](votes/house-116-1-0137.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (384–18)
+
 ## Actions
 
 - 2019-03-07 — Introduced in House
@@ -35,3 +39,11 @@ Coordinating and Leveraging Activities for School Security Act
 - 2019-03-28 — Placed on the Union Calendar, Calendar No. 11.
 - 2019-03-28 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-25.
 - 2019-03-28 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-25.
+- 2019-04-01 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2019-04-01 — Considered as unfinished business. (consideration: CR H2933)
+- 2019-04-01 — Considered under suspension of the rules. (consideration: CR H2929-2930)
+- 2019-04-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1593.
+- 2019-04-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-04-01 — Mr. Thompson (MS) moved to suspend the rules and pass the bill, as amended.
+- 2019-04-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 18 (Roll no. 137). (text: CR H2929)
+- 2019-04-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 18 (Roll no. 137).(text: CR H2929)

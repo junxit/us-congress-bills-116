@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1593
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
