@@ -1,7 +1,7 @@
 ---
 measure: S. 771
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 771
@@ -16,9 +16,12 @@ Small Business Cyber Training Act of 2019
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Hawley, Josh [R-MO] (H001089)
 
 ## Committees (1)
 
@@ -29,3 +32,7 @@ Small Business Cyber Training Act of 2019
 - 2019-03-13 — Committee on Small Business and Entrepreneurship. Hearings held.
 - 2019-03-13 — Introduced in Senate
 - 2019-03-13 — Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2019-03-27 — Committee on Small Business and Entrepreneurship. Ordered to be reported without amendment favorably.
+- 2019-04-01 — Committee on Small Business and Entrepreneurship. Reported by Senator Rubio without amendment. Without written report.
+- 2019-04-01 — Committee on Small Business and Entrepreneurship. Reported by Senator Rubio without amendment. Without written report.
+- 2019-04-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 51.
