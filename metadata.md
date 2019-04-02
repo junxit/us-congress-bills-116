@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1590
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1590
@@ -25,9 +25,10 @@ Terrorist and Foreign Fighter Travel Exercise Act of 2019
 - Rep. Walker, Mark [R-NC-6] (W000819)
 - Rep. Ratcliffe, John [R-TX-4] (R000601)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Terrorist and Foreign Fighter Travel Exercise Act of 2019
 - 2019-04-01 — Mr. Thompson (MS) moved to suspend the rules and pass the bill, as amended.
 - 2019-04-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 7 (Roll no. 138). (text: CR H2930)
 - 2019-04-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 7 (Roll no. 138).(text: CR H2930)
+- 2019-04-02 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
