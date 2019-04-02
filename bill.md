@@ -25,7 +25,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas, in 1964, at 39 years of age, Ted Lindsay rejoined the Detroit Red Wings at the behest of his former teammate, Detroit Red Wings Coach Sid Abel;
 - Whereas, in 1966, Ted Lindsay was inducted into the Hockey Hall of Fame, but refused to attend the men-only ceremony without his wife and children, leading to a rules change the following year;
 - Whereas, in 1977, the Detroit Red Wings named Ted Lindsay as general manager, and Ted Lindsay led the team to the playoffs for the first time in 9 years and to a playoff series win for the first time in 12 years;
-- Whereas Ted Lindsay appeared in 11 NHL All-Star games during 17 seasons in the NHL and recorded 379 goals and 472 assists for 851 points, making him the highest-scoring left wing at the time.
+- Whereas Ted Lindsay appeared in 11 NHL All-Star games during 17 seasons in the NHL and recorded 379 goals and 472 assists for 851 points, making him the highest-scoring left wing at the time;
 - Whereas Ted Lindsay generously devoted his time to charity, driving across Michigan and Ontario to offer advice and encouragement to young hockey players;
 - Whereas Ted Lindsay started the Ted Lindsay Foundation, which has raised millions of dollars toward finding a cure for autism;
 - Whereas, in December 2018, the Ted Lindsay Foundation pledged $1,000,000 to support the autism outreach efforts of Oakland University;
