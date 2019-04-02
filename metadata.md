@@ -1,7 +1,7 @@
 ---
 measure: H.R. 639
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 639
@@ -16,6 +16,11 @@ To amend section 327 of the Robert T. Stafford Disaster Relief and Emergency Ass
 
 - Rep. Hartzler, Vicky [R-MO-4] (H001053)
 
+## Cosponsors (2)
+
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
+
 ## Committees (1)
 
 - House — Transportation and Infrastructure Committee
@@ -25,3 +30,10 @@ To amend section 327 of the Robert T. Stafford Disaster Relief and Emergency Ass
 - 2019-01-17 — Introduced in House
 - 2019-01-17 — Introduced in House
 - 2019-01-17 — Referred to the House Committee on Transportation and Infrastructure.
+- 2019-02-07 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- 2019-02-27 — Committee Consideration and Mark-up Session Held.
+- 2019-02-27 — Ordered to be Reported by Voice Vote.
+- 2019-02-27 — Subcommittee on Economic Development, Public Buildings, and Emergency Management Discharged.
+- 2019-04-02 — Placed on the Union Calendar, Calendar No. 14.
+- 2019-04-02 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-29.
+- 2019-04-02 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-29.
