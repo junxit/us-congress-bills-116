@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1433
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1433
@@ -24,9 +24,10 @@ DHS MORALE Act
 - Rep. Torres Small, Xochitl [D-NM-2] (T000484)
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ DHS MORALE Act
 - 2019-04-01 — Mr. Thompson (MS) moved to suspend the rules and pass the bill, as amended.
 - 2019-04-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2927-2928)
 - 2019-04-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2927-2928)
+- 2019-04-02 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
