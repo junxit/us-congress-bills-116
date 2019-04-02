@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1593
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1593
@@ -21,9 +21,10 @@ Coordinating and Leveraging Activities for School Security Act
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. Green, Al [D-TX-9] (G000553)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Coordinating and Leveraging Activities for School Security Act
 - 2019-04-01 — Mr. Thompson (MS) moved to suspend the rules and pass the bill, as amended.
 - 2019-04-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 18 (Roll no. 137). (text: CR H2929)
 - 2019-04-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 18 (Roll no. 137).(text: CR H2929)
+- 2019-04-02 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
