@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 274
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 274
@@ -27,3 +27,9 @@ Providing for consideration of the joint resolution (S.J. Res. 7) to direct the 
 - 2019-04-01 — Rule provides for the previous question to be considered as ordered without intervening motions for both measures except for one hour of debate; one motion to recommit S.J. Res. 7 is allowed. It shall be in order at any time on the legislative day of April 4, 2019 for the Speaker to entertain motions that the House suspend the rules.
 - 2019-04-01 — The House Committee on Rules reported an original measure, H. Rept. 116-28, by Mr. McGovern.
 - 2019-04-01 — The House Committee on Rules reported an original measure, H. Rept. 116-28, by Mr. McGovern.
+- 2019-04-02 — Considered as privileged matter. (consideration: CR H2948-2956)
+- 2019-04-02 — DEBATE - The House proceeded with one hour of debate on H. Res. 274.
+- 2019-04-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-04-02 — On agreeing to the resolution Agreed to by the Yeas and Nays: 230 - 188 (Roll no. 141). (text: CR H2948)
+- 2019-04-02 — On ordering the previous question Agreed to by the Yeas and Nays: 231 - 191 (Roll no. 140). (consideration: CR H2955-2956)
+- 2019-04-02 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 230 - 188 (Roll no. 141).(text: CR H2948)
