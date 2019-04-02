@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 19
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Con.Res. 19
@@ -36,3 +36,10 @@ Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box D
 - 2019-02-14 — Introduced in House
 - 2019-02-14 — Introduced in House
 - 2019-02-14 — Referred to the House Committee on Transportation and Infrastructure.
+- 2019-02-15 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- 2019-02-27 — Committee Consideration and Mark-up Session Held.
+- 2019-02-27 — Ordered to be Reported by Voice Vote.
+- 2019-02-27 — Subcommittee on Economic Development, Public Buildings, and Emergency Management Discharged.
+- 2019-04-02 — Placed on the House Calendar, Calendar No. 17.
+- 2019-04-02 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-31.
+- 2019-04-02 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-31.
