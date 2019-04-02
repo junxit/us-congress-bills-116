@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1589
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1589
@@ -20,9 +20,10 @@ CBRN Intelligence and Information Sharing Act of 2019
 
 - Rep. King, Peter T. [R-NY-2] (K000210)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ CBRN Intelligence and Information Sharing Act of 2019
 - 2019-04-01 — Mr. Thompson (MS) moved to suspend the rules and pass the bill, as amended.
 - 2019-04-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2931-2932)
 - 2019-04-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2931-2932)
+- 2019-04-02 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.

@@ -2,7 +2,7 @@
 legis-num: H.R. 1589
 congress: 116th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1589
@@ -42,4 +42,4 @@ This Act may be cited as the “CBRN Intelligence and Information Sharing Act of
 
 ## § 3. Dissemination of information analyzed by the department to state, local, tribal, territorial, and private entities with responsibilities relating to homeland security
 
-Paragraph (6) of section 201(d) of the Homeland Security Act of 2002 (6 U.S.C. 121(d)) is amended by striking “and to agencies of State” and all that follows through the period at the end and inserting “to State, local, tribal, territorial, and private entities with such responsibilities, and, as appropriate, to the public, in order to assist in preventing, deterring, or responding to acts of terrorism against the United States.”.
+Paragraph (6) of section 201(d) of the Homeland Security Act of 2002 (6 U.S.C. 121(d)) is amended by striking “and to agencies of State” and all that follows through the period at the end and inserting “to State, local, Tribal, territorial, and private entities with such responsibilities, and, as appropriate, to the public, in order to assist in preventing, deterring, or responding to acts of terrorism against the United States.”.
