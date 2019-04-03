@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 7
@@ -353,3 +353,6 @@ Paycheck Fairness Act
 - 2019-03-27 — The previous question was ordered pursuant to the rule.
 - 2019-03-27 — The resolution provides for one hour debate on H.R. 7 and H.Res. 124.
 - 2019-03-27 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendment number 7, which was debated earlier and on which further proceedings had been postponed.
+- 2019-03-28 — Received in the Senate.
+- 2019-04-02 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2019-04-03 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 53.
