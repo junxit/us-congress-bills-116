@@ -1,7 +1,7 @@
 ---
 measure: S. 862
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 862
@@ -16,10 +16,11 @@ Rebuilding Small Businesses After Disasters Act
 
 - Sen. Kennedy, John [R-LA] (K000393)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Booker, Cory A. [D-NJ] (B001288)
 - Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Hawley, Josh [R-MO] (H001089)
 
 ## Committees (1)
 
@@ -29,3 +30,7 @@ Rebuilding Small Businesses After Disasters Act
 
 - 2019-03-25 — Introduced in Senate
 - 2019-03-25 — Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2019-03-27 — Committee on Small Business and Entrepreneurship. Ordered to be reported without amendment favorably.
+- 2019-04-03 — Committee on Small Business and Entrepreneurship. Reported by Senator Rubio without amendment. Without written report.
+- 2019-04-03 — Committee on Small Business and Entrepreneurship. Reported by Senator Rubio without amendment. Without written report.
+- 2019-04-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 54.
