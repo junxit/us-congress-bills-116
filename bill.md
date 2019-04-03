@@ -1,0 +1,36 @@
+---
+legis-num: H.R. 2058
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2058
+
+> To amend the Workforce Innovation and Opportunity Act to remove certain restrictions on advertising and public relations, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Job Opportunity and Business Services Act” or the “JOBS Act”.
+
+## § 2. Advertising and public relations
+
+- **(a)** *Reports* Section 185(d)(1) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3245(d)(1)) is amended—
+  - **(1)** in subparagraph (D), by striking “and” at the end;
+  - **(2)** in subparagraph (E), by striking the period at the end and inserting “; and”; and
+  - **(3)** by adding at the end the following:
+    > - **(F)** the advertising budget and a description of the advertising for which funds received under this title were used.
+
+- **(b)** *Clarification on advertising and public relations costs* Section 195 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3255) is amended—
+  - **(1)** in subsection (a)(2)—
+    - **(A)** in subparagraph (B), by striking “or” at the end;
+    - **(B)** in subparagraph (C), by striking the period at the end and inserting “; or”; and
+    - **(C)** by adding at the end the following:
+      > - **(D)** public relations and advertising costs for program outreach or activities otherwise related to carrying out the purposes of this Act under section 2.
+
+  - **(2)** by adding at the end the following:
+    > - **(c)** *Removal of certain regulatory restrictions* None of the restrictions on advertising or public relations described in section 200.421 of title 2, Code of Federal Regulations (or successor regulations), shall apply to this title.
+
+## § 3. Regulations
+
+Not later than 90 days after the date of enactment of this Act, the Secretary of Labor shall issue regulations to place safeguards on funds received under title I of the Workforce Innovation and Opportunity Act (29 U.S.C. 3111 et seq.) that may be used to advertise to the public to ensure that such funds are not used in a fraudulent manner or in any way misappropriated.
