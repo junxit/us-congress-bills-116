@@ -1,0 +1,64 @@
+---
+legis-num: S. 1003
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1003
+
+> To amend title 38, United States Code, to establish the Veterans Economic Opportunity and Transition Administration and the Under Secretary for Veterans Economic Opportunity and Transition of the Department of Veterans Affairs, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Veterans’ Education, Transition, and Opportunity Prioritization Plan Act of 2019” or the “VET OPP Act of 2019”.
+
+## § 2. Establishment of Veterans Economic Opportunity and Transition Administration
+
+- **(a)** *Veterans Economic Opportunity and Transition Administration*
+  - **(1)** *In general* Part V of title 38, United States Code, is amended by adding at the end the following new chapter:
+  - **(2)** *Clerical amendments* The tables of chapters at the beginning of title 38, United States Code, and of part V of title 38, United States Code, are each amended by inserting after the item relating to chapter 79 the following new item:
+- **(b)** *Effective date* Chapter 80 of title 38, United States Code, as added by subsection (a), shall take effect on October 1, 2020.
+- **(c)** *Full-Time employees* For fiscal years 2019 and 2020, the total number of full-time equivalent employees authorized for the Veterans Benefits Administration and the Veterans Economic Opportunity and Transition Administration, as established under chapter 80 of title 38, United States Code, as added by subsection (a), may not exceed 23,899.
+
+## § 3. Under Secretary for Veterans Economic Opportunity and Transition
+
+- **(a)** *Under Secretary*
+  - **(1)** *In general* Chapter 3 of title 38, United States Code, is amended by inserting after section 306 the following new section:
+    > ## § 306A. Under Secretary for Veterans Economic Opportunity and Transition
+    >
+    > - **(a)** *Under Secretary*
+    >   - **(1)** There is in the Department an Under Secretary for Veterans Economic Opportunity and Transition, who is appointed by the President, by and with the advice and consent of the Senate.
+    >   - **(2)** The Under Secretary for Veterans Economic Opportunity and Transition shall be appointed without regard to political affiliation or activity and solely on the basis of demonstrated ability in—
+    >     - **(A)** information technology; and
+    >     - **(B)** the administration of programs within the Veterans Economic Opportunity and Transition Administration or programs of similar content and scope.
+    > - **(b)** *Responsibilities* The Under Secretary for Veterans Economic Opportunity and Transition is the head of, and is directly responsible to the Secretary for the operations of, the Veterans Economic Opportunity and Transition Administration.
+    > - **(c)** *Vacancies*
+    >   - **(1)** Whenever a vacancy in the position of Under Secretary for Veterans Economic Opportunity and Transition occurs or is anticipated, the Secretary shall establish a commission to recommend individuals to the President for appointment to the position.
+    >   - **(2)** A commission established under this subsection shall be composed of the following members appointed by the Secretary:
+    >     - **(A)** Three persons representing education and training, vocational rehabilitation, employment, real estate, mortgage finance and related industries, and survivor benefits activities affected by the Veterans Economic Opportunity and Transition Administration.
+    >     - **(B)** Two persons representing veterans served by the Veterans Economic Opportunity and Transition Administration.
+    >     - **(C)** Two persons who have experience in the management of private sector benefits programs of similar content and scope to the economic opportunity and transition programs of the Department.
+    >     - **(D)** The Deputy Secretary of Veterans Affairs.
+    >     - **(E)** The chairman of the Veterans’ Advisory Committee on Education formed under section 3692 of this title.
+    >     - **(F)** One person who has held the position of Under Secretary for Veterans Economic Opportunity and Transition, if the Secretary determines that it is desirable for such person to be a member of the commission.
+    >   - **(3)**
+    >     - **(A)** A commission established under this subsection shall recommend at least three individuals for appointment to the position of Under Secretary for Veterans Economic Opportunity and Transition.
+    >     - **(B)** The commission shall submit all recommendations under subparagraph (A) to the Secretary.
+    >     - **(C)** The Secretary shall forward the recommendations received under subparagraph (B) to the President and the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives with any comments the Secretary considers appropriate.
+    >     - **(D)** After receiving a recommendation under subparagraph (C), the President may request the commission to recommend additional individuals for appointment.
+    >   - **(4)** The Assistant Secretary or Deputy Assistant Secretary of Veterans Affairs who performs personnel management and labor relations functions shall serve as the executive secretary of a commission established under this subsection.
+
+  - **(2)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 306 the following new item:
+- **(b)** *Conforming amendments* Title 38, United States Code, is further amended—
+  - **(1)** in section 306(c)(2), by striking subparagraphs (A) and (E) and redesignating subparagraphs (B), (C), (D), and (F), as subparagraphs (A) through (D), respectively;
+  - **(2)** in section 317(d)(2), by inserting after “Under Secretary for Benefits,” the following: “the Under Secretary for Veterans Economic Opportunity and Transition,”;
+  - **(3)** in section 318(d)(2), by inserting after “Under Secretary for Benefits,” the following: “the Under Secretary for Veterans Economic Opportunity and Transition,”;
+  - **(4)** in section 516(e)(2)(C), by striking “Health and the Under Secretary for Benefits” and inserting “Health, the Under Secretary for Benefits, and the Under Secretary for Veterans Economic Opportunity and Transition”;
+  - **(5)** in section 541(a)(2)(B), by striking “Health and the Under Secretary for Benefits” and inserting “Health, the Under Secretary for Benefits, and the Under Secretary for Veterans Economic Opportunity and Transition”;
+  - **(6)** in section 542(a)(2)(B)(iii), by striking “Health and the Under Secretary for Benefits” and inserting “Health, the Under Secretary for Benefits, and the Under Secretary for Veterans Economic Opportunity and Transition”;
+  - **(7)** in section 544(a)(2)(B)(vi), by striking “Health and the Under Secretary for Benefits” and inserting “Health, the Under Secretary for Benefits, and the Under Secretary for Veterans Economic Opportunity and Transition”;
+  - **(8)** in section 709(c)(2)(A), by inserting after “Under Secretary for Benefits,” the following: “the Under Secretary for Veterans Economic Opportunity and Transition,”;
+  - **(9)** in section 7701(a), by inserting after “assistance” the following: “, other than assistance related to Economic Opportunity and Transition,”; and
+  - **(10)** in section 7703, by striking paragraphs (2) and (3) and redesignating paragraphs (4) and (5) as paragraphs (2) and (3), respectively.
+- **(c)** *Effective date* Section 306A of title 38, United States Code, as added by subsection (a), and the amendments made by this section, shall take effect on October 1, 2020.
