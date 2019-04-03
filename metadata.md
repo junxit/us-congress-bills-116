@@ -1,7 +1,7 @@
 ---
 measure: H.R. 540
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 540
@@ -97,9 +97,10 @@ To designate the facility of the United States Postal Service located at 770 Ayr
 - Rep. DelBene, Suzan K. [D-WA-1] (D000617)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -120,3 +121,4 @@ To designate the facility of the United States Postal Service located at 770 Ayr
 - 2019-04-02 — Mr. Connolly moved to suspend the rules and pass the bill.
 - 2019-04-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 7 (Roll no. 142). (text: CR H2969)
 - 2019-04-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 7 (Roll no. 142).(text: CR H2969)
+- 2019-04-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
