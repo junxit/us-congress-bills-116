@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1585
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1585
@@ -196,6 +196,16 @@ Violence Against Women Reauthorization Act of 2019
 - House — Energy and Commerce Committee
 - House — Judiciary Committee
 
+## Recorded votes (7)
+
+- 2019-04-03 — [House 116-1-147](votes/house-116-1-0147.md) — On Agreeing to the Amendment — **Agreed to** (363–67)
+- 2019-04-03 — [House 116-1-148](votes/house-116-1-0148.md) — On Agreeing to the Amendment — **Agreed to** (394–36)
+- 2019-04-03 — [House 116-1-149](votes/house-116-1-0149.md) — On Agreeing to the Amendment — **Agreed to** (258–173)
+- 2019-04-03 — [House 116-1-150](votes/house-116-1-0150.md) — On Agreeing to the Amendment — **Agreed to** (429–0)
+- 2019-04-04 — [House 116-1-154](votes/house-116-1-0154.md) — On Agreeing to the Amendment — **Agreed to** (425–0)
+- 2019-04-04 — [House 116-1-155](votes/house-116-1-0155.md) — On Motion to Recommit with Instructions — **Failed** (185–237)
+- 2019-04-04 — [House 116-1-156](votes/house-116-1-0156.md) — On Passage — **Passed** (263–158)
+
 ## Actions
 
 - 2019-03-07 — Introduced in House
@@ -227,3 +237,321 @@ Violence Against Women Reauthorization Act of 2019
 - 2019-03-27 — Placed on the Union Calendar, Calendar No. 7.
 - 2019-03-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-21, Part I.
 - 2019-03-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-21, Part I.
+- 2019-04-02 — Rules Committee Resolution H. Res. 281 Reported to House. Rule provides for consideration of H.R. 1585 with 1 hour of general debate. Motion to recommit with or without instructions allowed. Specified amendments are in order.
+- 2019-04-03 — Amendment (A001) offered by Mr. Jeffries. (consideration: CR H3029, H3043-3044; text: CR H3029)
+- 2019-04-03 — Amendment (A002) offered by Ms. Scanlon. (consideration: CR H3029-3030, H3044; text: CR H3029)
+- 2019-04-03 — Amendment (A003) offered by Ms. Escobar. (consideration: CR H3030-3031; text: CR H3030)
+- 2019-04-03 — Amendment (A004) offered by Ms. Dean. (consideration: CR H3031-3032; text: CR H3031)
+- 2019-04-03 — Amendment (A005) offered by Mrs. Torres (CA). (consideration: CR H3032; text: CR H3032)
+- 2019-04-03 — Amendment (A006) offered by Mr. Burgess. (consideration: CR H3032-3033; text: CR H3032)
+- 2019-04-03 — Amendment (A007) offered by Ms. Waters. (consideration: CR H3033-3034, H3044-3045; text: CR H3033)
+- 2019-04-03 — Amendment (A008) offered by Mr. Young. (consideration: CR H3034; text: CR H3034)
+- 2019-04-03 — Amendment (A009) offered by Ms. Johnson (TX). (consideration: CR H3035; text: CR H3035)
+- 2019-04-03 — Amendment (A010) offered by Mrs. Wagner. (consideration: CR H3035-3037, H3045-3046; text: CR H3035)
+- 2019-04-03 — Amendment (A011) offered by Mrs. Wagner. (consideration: CR H3037; text: CR H3037)
+- 2019-04-03 — Amendment (A012) offered by Mr. Grijalva. (consideration: CR H3037-3038; text: CR H3037)
+- 2019-04-03 — Amendment (A013) offered by Mr. Grijalva. (consideration: CR H3038-3039; text: CR H3038)
+- 2019-04-03 — Amendment (A014) offered by Mr. Emmer. (consideration: CR H3039-3041; text: CR H3039-3040)
+- 2019-04-03 — Amendment (A015) offered by Mr. Quigley. (consideration: CR H3041-3042; text: CR H3041)
+- 2019-04-03 — Amendment (A016) offered by Ms. Meng. (consideration: CR H3042-3043; text: CR H3042-3043)
+- 2019-04-03 — Amendment (A017) offered by Ms. Meng. (consideration: CR H3046; text: CR H3046)
+- 2019-04-03 — Amendment (A018) offered by Ms. Meng. (consideration: CR H3046-3047; text: CR H3047)
+- 2019-04-03 — Amendment (A019) offered by Ms. Meng. (consideration: CR H3047-3048; text: CR H3047)
+- 2019-04-03 — Amendment (A020) offered by Ms. Plaskett. (consideration: CR H3048-3049; text: CR H3048)
+- 2019-04-03 — Amendment (A021) offered by Mr. Bera. (consideration: CR H3049; text: CR H3049)
+- 2019-04-03 — Amendment (A022) offered by Mr. Gallego. (consideration: CR H3049-3050; text: CR H3049-3050)
+- 2019-04-03 — Amendment (A023) offered by Ms. Clark (MA). (consideration: CR H3050-3052; text: CR H3050-3052)
+- 2019-04-03 — Amendment (A024) offered by Mr. Krishnamoorthi. (consideration: CR H3052-3053; text: CR H3053)
+- 2019-04-03 — Amendment (A025) offered by Mr. Krishnamoorthi. (consideration: CR H3053; text: CR H3053)
+- 2019-04-03 — Amendment (A026) offered by Mr. Brown (MD). (consideration: CR H3053-3054; text: CR H3053-3054)
+- 2019-04-03 — Amendment (A027) offered by Ms. Haaland. (consideration: CR H3054; text: CR H3054)
+- 2019-04-03 — Amendment (A028) offered by Ms. Haaland. (consideration: CR H3054-3055; text: CR H3055)
+- 2019-04-03 — Amendment (A029) offered by Mr. Rouda. (consideration: CR H3055-3056; text: CR H3055)
+- 2019-04-03 — Amendment (A030) offered by Mr. Rouda. (consideration: CR H3056; text: CR H3056)
+- 2019-04-03 — Amendment (A031) offered by Mr. Rouda. (consideration: CR H3056-3057; text: CR H3056)
+- 2019-04-03 — Amendment (A032) offered by Mr. Rouda. (consideration: CR H3057-3058; text: CR H3057)
+- 2019-04-03 — Amendment (A033) offered by Mrs. Craig. (consideration: CR H3058; text: CR H3058)
+- 2019-04-03 — Amendment (A034) offered by Ms. Schrier. (consideration: CR H3058-3059; text: CR H3058)
+- 2019-04-03 — Amendment (A035) offered by Ms. Underwood. (consideration: CR H3059; text: CR H3059)
+- 2019-04-03 — Amendment (A036) offered by Mr. Casten (IL). (consideration: CR H3059-3060; text: CR H3059)
+- 2019-04-03 — Amendment (A037) offered by Ms. Porter. (consideration: CR H3060-3061; text: CR H3060)
+- 2019-04-03 — Amendment (A038) offered by Mr. Rose (NY). (consideration: CR H3061; text: CR H3061)
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Amendment agreed to Committee of the Whole
+- 2019-04-03 — Committee of the Whole House on the state of the Union rises leaving H.R. 1585 as unfinished business.
+- 2019-04-03 — Considered under the provisions of rule H. Res. 281. (consideration: CR H3003-3061)
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Bera amendment No. 21.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Brown (MD) amendment No. 26.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Burgess amendment No. 6.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Casten (IL) amendment No. 36.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Clark (MA) amendment No. 23.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Craig amendment No. 33.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Dean amendment No. 4.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Emmer amendment No. 14.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Escobar amendment No. 3.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Gallego amendment No. 22.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Grijalva amendment No. 12.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Grijalva amendment No. 13, as modified.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Haaland amendment No. 27.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Haaland amendment No. 28.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Jeffries amendment No. 1.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Johnson (TX) amendment No. 9.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Krishnamoorthi amendment No. 24.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Krishnamoorthi amendment No. 25.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Meng amendment No. 16.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Meng amendment No. 17.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Meng amendment No. 18.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Meng amendment No. 19.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Plaskett amendment No. 20.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Porter amendment No. 37.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Quigley amendment No. 15.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Rose (NY) amendment No. 38.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Rouda amendment No. 29.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Rouda amendment No. 30.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Rouda amendment No. 31.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Rouda amendment No. 32.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Scanlon amendment No. 2.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Schrier amendment No. 34.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Torres (CA) amendment No. 5.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Underwood amendment No. 35.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Wagner amendment No. 10.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Wagner amendment No. 11.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Waters amendment No. 7.
+- 2019-04-03 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Young amendment No. 8.
+- 2019-04-03 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1585.
+- 2019-04-03 — Grijalva amendment (A013) modified by unanimous consent. (text as modified: CR H3038-3039)
+- 2019-04-03 — House amendment agreed to: On agreeing to the Bera amendment (A021) Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Brown (MD) amendment (A026) Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Burgess amendment (A006) Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Casten (IL) amendment (A036) Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Clark (MA) amendment (A023) Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Craig amendment (A033) Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Dean amendment (A004) Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Emmer amendment (A014) Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Escobar amendment (A003) Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Gallego amendment (A022) Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Grijalva amendment (A012) Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Grijalva amendment (A013) as modified Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Haaland amendment (A027) Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Haaland amendment (A028) Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Jeffries amendment (A001) Agreed to by recorded vote: 363 - 67 (Roll no. 147).
+- 2019-04-03 — House amendment agreed to: On agreeing to the Johnson (TX) amendment (A009) Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Krishnamoorthi amendment (A024) Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Krishnamoorthi amendment (A025) Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Meng amendment (A016) Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Meng amendment (A017) Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Meng amendment (A018) Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Meng amendment (A019) Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Plaskett amendment (A020) Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Porter amendment (A037) Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Quigley amendment (A015) Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Rose (NY) amendment (A038) Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Rouda amendment (A029) Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Rouda amendment (A030) Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Rouda amendment (A031) Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Rouda amendment (A032) Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Scanlon amendment (A002) Agreed to by recorded vote: 394 - 36 (Roll no. 148).
+- 2019-04-03 — House amendment agreed to: On agreeing to the Schrier amendment (A034) Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Torres (CA) amendment (A005) Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Underwood amendment (A035) Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Wagner amendment (A010) Agreed to by recorded vote: 429 - 0 (Roll no. 150).
+- 2019-04-03 — House amendment agreed to: On agreeing to the Wagner amendment (A011) Agreed to by voice vote.
+- 2019-04-03 — House amendment agreed to: On agreeing to the Waters amendment (A007) Agreed to by recorded vote: 258 - 173 (Roll no. 149).
+- 2019-04-03 — House amendment agreed to: On agreeing to the Young amendment (A008) Agreed to by voice vote.
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered
+- 2019-04-03 — House amendment offered/reported by: Amendment (A001) offered by Mr. Jeffries.
+- 2019-04-03 — House amendment offered/reported by: Amendment (A002) offered by Ms. Scanlon.
+- 2019-04-03 — House amendment offered/reported by: Amendment (A003) offered by Ms. Escobar.
+- 2019-04-03 — House amendment offered/reported by: Amendment (A004) offered by Ms. Dean.
+- 2019-04-03 — House amendment offered/reported by: Amendment (A005) offered by Mrs. Torres (CA).
+- 2019-04-03 — House amendment offered/reported by: Amendment (A006) offered by Mr. Burgess.
+- 2019-04-03 — House amendment offered/reported by: Amendment (A007) offered by Ms. Waters.
+- 2019-04-03 — House amendment offered/reported by: Amendment (A008) offered by Mr. Young.
+- 2019-04-03 — House amendment offered/reported by: Amendment (A009) offered by Ms. Johnson (TX).
+- 2019-04-03 — House amendment offered/reported by: Amendment (A010) offered by Mrs. Wagner.
+- 2019-04-03 — House amendment offered/reported by: Amendment (A011) offered by Mrs. Wagner.
+- 2019-04-03 — House amendment offered/reported by: Amendment (A012) offered by Mr. Grijalva.
+- 2019-04-03 — House amendment offered/reported by: Amendment (A013) offered by Mr. Grijalva.
+- 2019-04-03 — House amendment offered/reported by: Amendment (A014) offered by Mr. Emmer.
+- 2019-04-03 — House amendment offered/reported by: Amendment (A015) offered by Mr. Quigley.
+- 2019-04-03 — House amendment offered/reported by: Amendment (A016) offered by Ms. Meng.
+- 2019-04-03 — House amendment offered/reported by: Amendment (A017) offered by Ms. Meng.
+- 2019-04-03 — House amendment offered/reported by: Amendment (A018) offered by Ms. Meng.
+- 2019-04-03 — House amendment offered/reported by: Amendment (A019) offered by Ms. Meng.
+- 2019-04-03 — House amendment offered/reported by: Amendment (A020) offered by Ms. Plaskett.
+- 2019-04-03 — House amendment offered/reported by: Amendment (A021) offered by Mr. Bera.
+- 2019-04-03 — House amendment offered/reported by: Amendment (A022) offered by Mr. Gallego.
+- 2019-04-03 — House amendment offered/reported by: Amendment (A023) offered by Ms. Clark (MA).
+- 2019-04-03 — House amendment offered/reported by: Amendment (A024) offered by Mr. Krishnamoorthi.
+- 2019-04-03 — House amendment offered/reported by: Amendment (A025) offered by Mr. Krishnamoorthi.(consideration: CR H3053; text: CR H3053)
+- 2019-04-03 — House amendment offered/reported by: Amendment (A026) offered by Mr. Brown (MD).
+- 2019-04-03 — House amendment offered/reported by: Amendment (A027) offered by Ms. Haaland.
+- 2019-04-03 — House amendment offered/reported by: Amendment (A028) offered by Ms. Haaland.
+- 2019-04-03 — House amendment offered/reported by: Amendment (A029) offered by Mr. Rouda.
+- 2019-04-03 — House amendment offered/reported by: Amendment (A030) offered by Mr. Rouda.
+- 2019-04-03 — House amendment offered/reported by: Amendment (A031) offered by Mr. Rouda.
+- 2019-04-03 — House amendment offered/reported by: Amendment (A032) offered by Mr. Rouda.
+- 2019-04-03 — House amendment offered/reported by: Amendment (A033) offered by Mrs. Craig.
+- 2019-04-03 — House amendment offered/reported by: Amendment (A034) offered by Ms. Schrier.
+- 2019-04-03 — House amendment offered/reported by: Amendment (A035) offered by Ms. Underwood.
+- 2019-04-03 — House amendment offered/reported by: Amendment (A036) offered by Mr. Casten (IL).
+- 2019-04-03 — House amendment offered/reported by: Amendment (A037) offered by Ms. Porter.
+- 2019-04-03 — House amendment offered/reported by: Amendment (A038) offered by Mr. Rose (NY).
+- 2019-04-03 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 281 and Rule XVIII.
+- 2019-04-03 — Mr. Nadler moved that the committee rise.
+- 2019-04-03 — On agreeing to the Bera amendment (A021) Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Brown (MD) amendment (A026) Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Burgess amendment (A006) Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Casten (IL) amendment (A036) Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Clark (MA) amendment (A023) Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Craig amendment (A033) Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Dean amendment (A004) Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Emmer amendment (A014) Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Escobar amendment (A003) Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Gallego amendment (A022) Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Grijalva amendment (A012) Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Grijalva amendment (A013) as modified Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Haaland amendment (A027) Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Haaland amendment (A028) Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Jeffries amendment (A001) Agreed to by recorded vote: 363 - 67 (Roll no. 147).
+- 2019-04-03 — On agreeing to the Johnson (TX) amendment (A009) Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Krishnamoorthi amendment (A024) Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Krishnamoorthi amendment (A025) Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Meng amendment (A016) Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Meng amendment (A017) Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Meng amendment (A018) Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Meng amendment (A019) Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Plaskett amendment (A020) Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Porter amendment (A037) Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Quigley amendment (A015) Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Rose (NY) amendment (A038) Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Rouda amendment (A029) Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Rouda amendment (A030) Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Rouda amendment (A031) Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Rouda amendment (A032) Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Scanlon amendment (A002) Agreed to by recorded vote: 394 - 36 (Roll no. 148).
+- 2019-04-03 — On agreeing to the Schrier amendment (A034) Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Torres (CA) amendment (A005) Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Underwood amendment (A035) Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Wagner amendment (A010) Agreed to by recorded vote: 429 - 0 (Roll no. 150).
+- 2019-04-03 — On agreeing to the Wagner amendment (A011) Agreed to by voice vote.
+- 2019-04-03 — On agreeing to the Waters amendment (A007) Agreed to by recorded vote: 258 - 173 (Roll no. 149).
+- 2019-04-03 — On agreeing to the Young amendment (A008) Agreed to by voice vote.
+- 2019-04-03 — On motion that the committee rise Agreed to by voice vote.
+- 2019-04-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jeffries amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Nadler demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-04-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Scanlon amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Nadler demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-04-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Wagner amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Nadler demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-04-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Waters amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Nadler demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-04-03 — Roll call votes on amendments in House
+- 2019-04-03 — Roll call votes on amendments in House
+- 2019-04-03 — Roll call votes on amendments in House
+- 2019-04-03 — Roll call votes on amendments in House
+- 2019-04-03 — Rule H. Res. 281 passed House.
+- 2019-04-03 — Rule provides for consideration of H.R. 1585 with 1 hour of general debate. Motion to recommit with or without instructions allowed. Specified amendments are in order.
+- 2019-04-03 — The Speaker designated the Honorable Pete Aguilar to act as Chairman of the Committee.
+- 2019-04-04 — Amendment (A039) offered by Mrs. Axne. (consideration: CR H3073-3074; text: CR H3073)
+- 2019-04-04 — Amendment (A040) offered by Ms. Torres Small (NM). (consideration: CR H3074-3075, H3083-3084; text: CR H3074)
+- 2019-04-04 — Amendment agreed to Committee of the Whole
+- 2019-04-04 — Amendment agreed to Committee of the Whole
+- 2019-04-04 — Committee of the Whole House on the state of the Union rises leaving H.R. 1585 as unfinished business.
+- 2019-04-04 — Considered as unfinished business. (consideration: CR H3073-3075)
+- 2019-04-04 — Considered as unfinished business. (consideration: CR H3083-3087)
+- 2019-04-04 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Axne amendment No. 39.
+- 2019-04-04 — DEBATE - Pursuant to the provisions of H. Res. 281, the Committee of the Whole proceeded with 10 minutes of debate on the Torres Small amendment No. 40.
+- 2019-04-04 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Stefanik motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to extend the Violence Against Women Act through 2020.
+- 2019-04-04 — House amendment agreed to: On agreeing to the Axne amendment (A039) Agreed to by voice vote.
+- 2019-04-04 — House amendment agreed to: On agreeing to the Torres Small (NM) amendment (A040) Agreed to by recorded vote: 425 - 0 (Roll no. 154).
+- 2019-04-04 — House amendment offered
+- 2019-04-04 — House amendment offered
+- 2019-04-04 — House amendment offered/reported by: Amendment (A039) offered by Mrs. Axne.(consideration: CR H3073-3074; text: CR H3073)
+- 2019-04-04 — House amendment offered/reported by: Amendment (A040) offered by Ms. Torres Small (NM).(consideration: CR H3074-3075, H3083-3084; text: CR H3074)
+- 2019-04-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-04-04 — Mr. Nadler moved that the Committee rise.
+- 2019-04-04 — Ms. Stefanik moved to recommit with instructions to the Committee on the Judiciary. (text: CR H3084-3085)
+- 2019-04-04 — On agreeing to the Axne amendment (A039) Agreed to by voice vote.
+- 2019-04-04 — On agreeing to the Torres Small (NM) amendment (A040) Agreed to by recorded vote: 425 - 0 (Roll no. 154).
+- 2019-04-04 — On motion that the Committee rise Agreed to by voice vote.
+- 2019-04-04 — On motion to recommit with instructions Failed by recorded vote: 185 - 237 (Roll no. 155).
+- 2019-04-04 — On passage Passed by recorded vote: 263 - 158, 1 Present (Roll no. 156). (text: CR 4/3/2019 H3012-3028)
+- 2019-04-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Torres Small amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Nadler demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-04-04 — Passed/agreed to in House: On passage Passed by recorded vote: 263 - 158, 1 Present (Roll no. 156).(text: CR 4/3/2019 H3012-3028)
+- 2019-04-04 — Roll call votes on amendments in House
+- 2019-04-04 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 1585.
+- 2019-04-04 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2019-04-04 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2019-04-04 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1585.
+- 2019-04-04 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2019-04-04 — The previous question was ordered pursuant to the rule.
