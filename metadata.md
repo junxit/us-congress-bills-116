@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 23
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 23
@@ -16,7 +16,7 @@ A resolution supporting the goals and ideals of Countering International Parenta
 
 - Sen. Tillis, Thomas [R-NC] (T000476)
 
-## Cosponsors (11)
+## Cosponsors (12)
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. McConnell, Mitch [R-KY] (M000355)
@@ -29,6 +29,7 @@ A resolution supporting the goals and ideals of Countering International Parenta
 - Sen. Harris, Kamala D. [D-CA] (H001075)
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Markey, Edward J. [D-MA] (M000133)
 
 ## Committees (1)
 
@@ -38,3 +39,7 @@ A resolution supporting the goals and ideals of Countering International Parenta
 
 - 2019-01-17 — Introduced in Senate
 - 2019-01-17 — Referred to the Committee on Foreign Relations.
+- 2019-04-03 — Committee on Foreign Relations. Ordered to be reported with an amendment favorably.
+- 2019-04-04 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with an amended preamble. Without written report.
+- 2019-04-04 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with an amended preamble. Without written report.
+- 2019-04-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 56.
