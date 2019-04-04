@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 27
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 27
@@ -16,7 +16,7 @@ A resolution calling for a prompt multinational freedom of navigation operation 
 
 - Sen. Johnson, Ron [R-WI] (J000293)
 
-## Cosponsors (65)
+## Cosponsors (66)
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Risch, James E. [R-ID] (R000584)
@@ -83,6 +83,7 @@ A resolution calling for a prompt multinational freedom of navigation operation 
 - Sen. Perdue, David [R-GA] (P000612)
 - Sen. Isakson, Johnny [R-GA] (I000055)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Cassidy, Bill [R-LA] (C001075)
 
 ## Committees (1)
 
@@ -92,3 +93,7 @@ A resolution calling for a prompt multinational freedom of navigation operation 
 
 - 2019-01-24 — Introduced in Senate
 - 2019-01-24 — Referred to the Committee on Foreign Relations. (text: CR S590-591)
+- 2019-04-03 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2019-04-04 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with a preamble. Without written report.
+- 2019-04-04 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with a preamble. Without written report.
+- 2019-04-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 57.
