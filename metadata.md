@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 96
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 96
@@ -16,13 +16,17 @@ A resolution commending the Government of Canada for upholding the rule of law a
 
 - Sen. Risch, James E. [R-ID] (R000584)
 
-## Cosponsors (5)
+## Cosponsors (9)
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Gardner, Cory [R-CO] (G000562)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Romney, Mitt [R-UT] (R000615)
 - Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Rubio, Marco [R-FL] (R000595)
 
 ## Committees (1)
 
@@ -32,3 +36,7 @@ A resolution commending the Government of Canada for upholding the rule of law a
 
 - 2019-03-06 — Introduced in Senate
 - 2019-03-06 — Referred to the Committee on Foreign Relations.
+- 2019-04-03 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2019-04-04 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with a preamble. Without written report.
+- 2019-04-04 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with a preamble. Without written report.
+- 2019-04-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 61.
