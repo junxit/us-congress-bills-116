@@ -1,7 +1,7 @@
 ---
 measure: H.R. 829
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 829
@@ -54,3 +54,13 @@ To designate the facility of the United States Postal Service located at 1450 Mo
 - 2019-01-28 — Introduced in House
 - 2019-01-28 — Introduced in House
 - 2019-01-28 — Referred to the House Committee on Oversight and Reform.
+- 2019-03-26 — Committee Consideration and Mark-up Session Held.
+- 2019-03-26 — Ordered to be Reported by Unanimous Consent.
+- 2019-04-02 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Connolly objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2019-04-02 — Considered under suspension of the rules. (consideration: CR H2970-2971)
+- 2019-04-02 — DEBATE - The House proceeded with forty minutes of debate on H.R. 829.
+- 2019-04-02 — Mr. Connolly moved to suspend the rules and pass the bill.
+- 2019-04-04 — Considered as unfinished business. (consideration: CR H3080-3081)
+- 2019-04-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-04-04 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 151). (text: CR 4/2/2019 H2970)
+- 2019-04-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 151).(text: CR 4/2/2019 H2970)
