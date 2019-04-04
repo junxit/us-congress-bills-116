@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 95
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 95
@@ -16,7 +16,7 @@ A resolution recognizing the 198th anniversary of the independence of Greece and
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (26)
+## Cosponsors (27)
 
 - Sen. Barrasso, John [R-WY] (B001261)
 - Sen. Schumer, Charles E. [D-NY] (S000148)
@@ -44,6 +44,7 @@ A resolution recognizing the 198th anniversary of the independence of Greece and
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 - Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
 
 ## Committees (1)
 
@@ -53,3 +54,7 @@ A resolution recognizing the 198th anniversary of the independence of Greece and
 
 - 2019-03-05 — Introduced in Senate
 - 2019-03-05 — Referred to the Committee on Foreign Relations.
+- 2019-04-03 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2019-04-04 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with a preamble. Without written report.
+- 2019-04-04 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with a preamble. Without written report.
+- 2019-04-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 60.
