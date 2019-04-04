@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 35
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 35
@@ -29,3 +29,7 @@ A resolution supporting democratic principles and standards in Bolivia and throu
 
 - 2019-01-31 — Introduced in Senate
 - 2019-01-31 — Referred to the Committee on Foreign Relations. (text: CR S809-810)
+- 2019-04-03 — Committee on Foreign Relations. Ordered to be reported with an amendment favorably.
+- 2019-04-04 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with an amended preamble. Without written report.
+- 2019-04-04 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with an amended preamble. Without written report.
+- 2019-04-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 58.
