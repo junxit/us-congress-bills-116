@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 67
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 67
@@ -29,3 +29,7 @@ A resolution expressing the sense of the Senate on the importance and vitality o
 
 - 2019-02-12 — Introduced in Senate
 - 2019-02-12 — Referred to the Committee on Foreign Relations. (text: CR S1279-1280)
+- 2019-04-03 — Committee on Foreign Relations. Ordered to be reported with an amendment favorably.
+- 2019-04-04 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with an amended preamble. Without written report.
+- 2019-04-04 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with an amended preamble. Without written report.
+- 2019-04-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 59.
