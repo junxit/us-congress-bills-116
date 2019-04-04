@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 123
 congress: 116
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 123
@@ -16,7 +16,7 @@ A resolution supporting the North Atlantic Treaty Organization and recognizing i
 
 - Sen. Risch, James E. [R-ID] (R000584)
 
-## Cosponsors (18)
+## Cosponsors (21)
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Tillis, Thomas [R-NC] (T000476)
@@ -36,6 +36,9 @@ A resolution supporting the North Atlantic Treaty Organization and recognizing i
 - Sen. Cruz, Ted [R-TX] (C001098)
 - Sen. Young, Todd [R-IN] (Y000064)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
 ## Committees (1)
 
@@ -49,3 +52,5 @@ A resolution supporting the North Atlantic Treaty Organization and recognizing i
 - 2019-04-03 — Committee on Foreign Relations. Reported by Senator Risch without amendment. Without written report.
 - 2019-04-03 — Committee on Foreign Relations. Reported by Senator Risch without amendment. Without written report.
 - 2019-04-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 55.
+- 2019-04-04 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Voice Vote.(consideration: CR S2282)
+- 2019-04-04 — Resolution agreed to in Senate without amendment by Voice Vote. (consideration: CR S2282)
