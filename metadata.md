@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 243
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 243
@@ -25,3 +25,8 @@ Of inquiry requesting the President and directing the Attorney General to transm
 - 2019-03-18 — Introduced in House
 - 2019-03-18 — Introduced in House
 - 2019-03-18 — Referred to the House Committee on the Judiciary.
+- 2019-03-26 — Committee Consideration and Mark-up Session Held.
+- 2019-03-26 — Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 0.
+- 2019-04-04 — Placed on the House Calendar, Calendar No. 19.
+- 2019-04-04 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-33.
+- 2019-04-04 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-33.
