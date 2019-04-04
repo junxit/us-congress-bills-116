@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 2104
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2104
+
+> To clarify that no express or implied warranty is provided by reason of a disclosure relating to voluntary participation in the Energy Star program, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Energy Star Program Integrity Act”.
+
+## § 2. No warranty
+
+Section 324A of the Energy Policy and Conservation Act (42 U.S.C. 6294a) is amended by adding at the end the following new subsection:
+
+> - **(e)** *No warranty*
+>   - **(1)** *In General* Any disclosure relating to participation of a product in the Energy Star program shall not create an express or implied warranty or give rise to any private claims or rights of action under State or Federal law relating to the disqualification of that product from Energy Star if—
+>     - **(A)** the product has been certified by a certification body recognized by the Energy Star program;
+>     - **(B)** the Administrator has approved corrective measures, including a determination of whether or not consumer compensation is appropriate; and
+>     - **(C)** the responsible party has fully complied with all approved corrective measures.
+>   - **(2)** *Construal* Nothing in this subsection shall be construed to require the Administrator to modify any procedure or take any other action.
