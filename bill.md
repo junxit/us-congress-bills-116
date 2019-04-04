@@ -19,8 +19,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 Section 40002 of the Violence Against Women Act of 1994 (34 U.S.C. 12291) is amended—
 
 - **(1)** in subsection (a)—
-  - **(A)** by striking “In this title” and inserting “In this title, including for the purpose of grants authorized under this Act,”;
-  - **(B)** by redesignating paragraph (34) through paragraph (45) as paragraphs (41) through (52);
+  - **(A)** by striking “In this title” and inserting “In this title, including for the purpose of grants authorized under this Act”;
+  - **(B)** by redesignating paragraphs (34) through (45) as paragraphs (42) through (53);
   - **(C)** by inserting after paragraph (33) the following:
     > - **(39)** *Internet enabled device* The term internet enabled device means devices that have a connection the Internet, send and receive information and data, and maybe accessed via mobile device technology, video technology, or computer technology, away from the location where the device is installed, and may include home automation systems, door locks, and thermostats.
     > - **(40)** *Technological abuse* The term technological abuse means behavior intended to harm, threaten, intimidate, control, stalk, harass, impersonate, or monitor, except as otherwise permitted by law, another person, that occurs using the Internet, internet enabled devices, social networking sites, computers, mobile devices, cellular telephones, apps, location tracking devices, instant messages, text messages, or other forms of technology. Technological abuse may include—
@@ -30,10 +30,11 @@ Section 40002 of the Violence Against Women Act of 1994 (34 U.S.C. 12291) is ame
     >   - **(D)** using tracking devices or location tracking software for the purpose of monitoring or stalking another person’s location;
     >   - **(E)** impersonating a person (including through the use of spoofing technology in photo or video or the creation of accounts under a false name) with the intent to deceive or cause harm; or
     >   - **(F)** sharing or urging or compelling the sharing of another person’s private information, photographs, or videos without their consent.
+    > - **(41)** *Female genital mutilation* The terms female genital mutilation, female genital cutting, FGM/C, or female circumcision mean the intentional removal or infibulation (or both) of either the whole or part of the external female genitalia for non-medical reasons. External female genitalia includes the pubis, labia minora, labia majora, clitoris, and urethral and vaginal openings.
 
-  - **(D)** in paragraph (19)(B), by striking “and probation” and inserting “probation , and vacatur or expungement”;
+  - **(D)** in paragraph (19)(B), by striking “and probation” and inserting “probation, and vacatur or expungement”;
   - **(E)** by redesignating paragraphs (13) through (33) as paragraphs (18) through (38);
-  - **(F)** by striking paragraph (11) and inserting the following:
+  - **(F)** by striking paragraphs (11) and (12) and inserting the following:
     > - **(13)** *Digital services* The term digital services means services, resources, information, support or referrals provided through electronic communications platforms and media, whether via mobile device technology, video technology, or computer technology, including utilizing the internet, as well as any other emerging communications technologies that are appropriate for the purposes of providing services, resources, information, support, or referrals for the benefit of victims of domestic violence, dating violence, sexual assault, or stalking.
     > - **(14)** *Economic abuse* The term economic abuse, in the context of domestic violence, dating violence, and abuse in later life, means behavior that is coercive, deceptive, or unreasonably controls or restrains a person’s ability to acquire, use, or maintain economic resources to which they are entitled, including using coercion, fraud, or manipulation to—
     >   - **(A)** restrict a person’s access to money, assets, credit, or financial information;
@@ -54,7 +55,7 @@ Section 40002 of the Violence Against Women Act of 1994 (34 U.S.C. 12291) is ame
 
   - **(I)** by redesignating paragraphs (6) and (7) as paragraphs (8) and (9), respectively;
   - **(J)** by amending paragraph (5) to read as follows:
-    > - **(7)** *Court-based and court-related personnel* The term court-based personnel and court-related personnel means persons working in the court, whether paid or volunteer, including—
+    > - **(7)** *Court-based and court-related personnel* The terms court-based personnel and court-related personnel mean persons working in the court, whether paid or volunteer, including—
     >   - **(A)** clerks, special masters, domestic relations officers, administrators, mediators, custody evaluators, guardians ad litem, lawyers, negotiators, probation, parole, interpreters, victim assistants, victim advocates, and judicial, administrative, or any other professionals or personnel similarly involved in the legal process;
     >   - **(B)** court security personnel;
     >   - **(C)** personnel working in related, supplementary offices or programs (such as child support enforcement); and
@@ -69,14 +70,14 @@ Section 40002 of the Violence Against Women Act of 1994 (34 U.S.C. 12291) is ame
     >   - **(D)** provides that information disclosed during such process may not be used for any other law enforcement purpose, including impeachment or prosecution, without the express permission of all participants.
 
   - **(M)** by redesignating paragraph (1) as paragraph (2); and
-  - **(N)** by inserting before paragraph (2) (as redesignated in subparagraph (O) of this paragraph) the following:
+  - **(N)** by inserting before paragraph (2) (as redesignated in subparagraph (M) of this paragraph) the following:
     > - **(1)** *Abuse in later life* The term abuse in later life means neglect, abandonment, domestic violence, dating violence, sexual assault, or stalking of an adult over the age of 50 by any person, or economic abuse of that adult by a person in an ongoing, relationship of trust with the victim. Self-neglect is not included in this definition.
 
 - **(2)** in subsection (b)—
   - **(A)** in paragraph (2)—
     - **(i)** by redesignating subparagraphs (F) and (G) as subparagraphs (H) and (I);
     - **(ii)** by inserting after subparagraph (E) the following:
-      > - **(G)** *Death of the party whose privacy had been protected* In the event of the death of any victim whose confidentiality and privacy is required to be protected under this subsection, such requirement shall continue to apply, and the right to authorize release of any confidential or protected information is be vested in the next of kin, except that consent for release of the deceased victim’s information may not be given by a person who had perpetrated abuse against the deceased victim.
+      > - **(G)** *Death of the party whose privacy had been protected* In the event of the death of any victim whose confidentiality and privacy is required to be protected under this subsection, such requirement shall continue to apply, and the right to authorize release of any confidential or protected information be vested in the next of kin, except that consent for release of the deceased victim’s information may not be given by a person who had perpetrated abuse against the deceased victim.
 
     - **(iii)** by redesignating subparagraphs (D) through (E) as subparagraphs (E) through (F); and
     - **(iv)** by inserting after subparagraph (C) the following:
@@ -91,4 +92,19 @@ Section 40002 of the Violence Against Women Act of 1994 (34 U.S.C. 12291) is ame
     - **(i)** in subparagraph (A), by inserting after “the Violence Against Women Reauthorization Act of 2013” the following: “(Public Law 113–4; 127 Stat. 54)”; and
     - **(ii)** in subparagraph (C), by striking “section 3789d of title 42, United States Code” and inserting “section 809 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10228)”;
   - **(F)** in paragraph (14), by inserting after “are also victims of” the following: “forced marriage, or”; and
-  - **(G)** in paragraph (16)(C)(i), by striking “$20,000 in Department funds, unless the Deputy Attorney General” and inserting “$100,000 in Department funds, unless the Director or Principal Deputy Director of the Office on Violence Against Women, the Deputy Attorney General,”.
+  - **(G)** in paragraph (16)—
+    - **(i)** in subparagraph (C)(i), by striking “$20,000 in Department funds, unless the Deputy Attorney General” and inserting “$100,000 in Department funds, unless the Director or Principal Deputy Director of the Office on Violence Against Women, the Deputy Attorney General,”; and
+    - **(ii)** by adding at the end the following:
+      > - **(E)** *Ineligibility* If the Attorney General finds that a recipient of grant funds under this Act has fraudulently misused such grant funds, after reasonable notice and opportunity for a hearing, such recipient shall not be eligible to receive grant funds under this Act for up to 5 years. A misuse of grant funds or an error that does not rise to the level of fraud is not grounds for ineligibility.
+
+- **(3)** by adding at the end the following:
+  > - **(c)** *Rule of construction* For purposes of this Act, nothing may be construed to preclude the term “domestic violence” from including economic abuse each place the term “domestic violence” occurs unless doing so would trigger an extension of effective date under section 703(f)(1)(B) of the Violence Against Women Reauthorization Act of 2019.
+
+## § 3. Reporting on female genital mutilation, female genital cutting, or female circumcision
+
+- **(a)** *In general* The Director of the Federal Bureau of Investigation shall, pursuant to section 534 of title 28, United States Code, classify the offense of female genital mutilation, female genital cutting, or female circumcision as a part II crime in the Uniform Crime Reports.
+- **(b)** *Definition* In this section, the terms female genital mutilation, female genital cutting, FGM/C, or female circumcision mean the intentional removal or infibulation (or both) of either the whole or part of the external female genitalia for non-medical reasons. External female genitalia includes the pubis, labia minora, labia majora, clitoris, and urethral and vaginal openings.
+
+## § 4. Agency and Department Coordination
+
+The heads of Executive Departments responsible for carrying out this Act are authorized to coordinate and collaborate on the prevention of domestic violence, dating violence, sexual assault, and stalking, including sharing best practices and efficient use of resources and technology for victims and those seeking assistance from the Government.
