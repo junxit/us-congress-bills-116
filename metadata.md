@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2021
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2021
@@ -31,3 +31,10 @@ Investing for the People Act of 2019
 - 2019-04-02 — Introduced in House
 - 2019-04-02 — Referred to the Committee on the Budget, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-04-02 — Referred to the Committee on the Budget, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-04-03 — Committee Consideration and Mark-up Session Held.
+- 2019-04-03 — Ordered to be Reported by the Yeas and Nays: 19 - 17.
+- 2019-04-05 — Committee on Rules discharged.
+- 2019-04-05 — Committee on Rules discharged.
+- 2019-04-05 — Placed on the Union Calendar, Calendar No. 16.
+- 2019-04-05 — Reported by the Committee on Budget. H. Rept. 116-35, Part I.
+- 2019-04-05 — Reported by the Committee on Budget. H. Rept. 116-35, Part I.
