@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1644
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1644
@@ -16,7 +16,7 @@ Save the Internet Act of 2019
 
 - Rep. Doyle, Michael F. [D-PA-18] (D000482)
 
-## Cosponsors (132)
+## Cosponsors (197)
 
 - Rep. Pelosi, Nancy [D-CA-12] (P000197)
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
@@ -150,6 +150,71 @@ Save the Internet Act of 2019
 - Rep. Lewis, John [D-GA-5] (L000287)
 - Rep. Takano, Mark [D-CA-41] (T000472)
 - Rep. Hoyer, Steny H. [D-MD-5] (H000874)
+- Rep. Lynch, Stephen F. [D-MA-8] (L000562)
+- Rep. Visclosky, Peter J. [D-IN-1] (V000108)
+- Rep. Castro, Joaquin [D-TX-20] (C001091)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Sánchez, Linda T. [D-CA-38] (S001156)
+- Rep. Rice, Kathleen M. [D-NY-4] (R000602)
+- Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
+- Rep. Garcia, Jesus G. "Chuy" [D-IL-4] (G000586)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. Ocasio-Cortez, Alexandria [D-NY-14] (O000172)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Napolitano, Grace F. [D-CA-32] (N000179)
+- Rep. Mucarsel-Powell, Debbie [D-FL-26] (M001207)
+- Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Sewell, Terri A. [D-AL-7] (S001185)
+- Rep. Meeks, Gregory W. [D-NY-5] (M001137)
+- Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Crow, Jason [D-CO-6] (C001121)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Pressley, Ayanna [D-MA-7] (P000617)
+- Rep. Moulton, Seth [D-MA-6] (M001196)
+- Rep. Panetta, Jimmy [D-CA-20] (P000613)
+- Rep. Escobar, Veronica [D-TX-16] (E000299)
+- Rep. Himes, James A. [D-CT-4] (H001047)
+- Rep. Carson, Andre [D-IN-7] (C001072)
+- Rep. Gallego, Ruben [D-AZ-7] (G000574)
+- Rep. Lawson, Al, Jr. [D-FL-5] (L000586)
+- Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
+- Rep. Cunningham, Joe [D-SC-1] (C001122)
+- Rep. Stanton, Greg [D-AZ-9] (S001211)
+- Rep. Wexton, Jennifer [D-VA-10] (W000825)
+- Rep. DeSaulnier, Mark [D-CA-11] (D000623)
+- Rep. Hayes, Jahana [D-CT-5] (H001081)
+- Rep. Cárdenas, Tony [D-CA-29] (C001097)
+- Rep. Carbajal, Salud O. [D-CA-24] (C001112)
+- Rep. Luria, Elaine G. [D-VA-2] (L000591)
+- Rep. Cartwright, Matt [D-PA-8] (C001090)
+- Rep. Wasserman Schultz, Debbie [D-FL-23] (W000797)
+- Rep. Perlmutter, Ed [D-CO-7] (P000593)
+- Rep. Lieu, Ted [D-CA-33] (L000582)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Frankel, Lois [D-FL-21] (F000462)
+- Rep. Schrier, Kim [D-WA-8] (S001216)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Lipinski, Daniel [D-IL-3] (L000563)
+- Rep. McBath, Lucy [D-GA-6] (M001208)
+- Rep. Slotkin, Elissa [D-MI-8] (S001208)
+- Rep. Tlaib, Rashida [D-MI-13] (T000481)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. Bera, Ami [D-CA-7] (B001287)
+- Rep. Aguilar, Pete [D-CA-31] (A000371)
+- Rep. Gomez, Jimmy [D-CA-34] (G000585)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. Bass, Karen [D-CA-37] (B001270)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Richmond, Cedric L. [D-LA-2] (R000588)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Fudge, Marcia L. [D-OH-11] (F000455)
+- Rep. Garcia, Sylvia R. [D-TX-29] (G000587)
+- Rep. Allred, Colin Z. [D-TX-32] (A000376)
+- Rep. Heck, Denny [D-WA-10] (H001064)
+- Rep. Kilmer, Derek [D-WA-6] (K000381)
+- Rep. Quigley, Mike [D-IL-5] (Q000023)
 
 ## Committees (1)
 
@@ -160,3 +225,12 @@ Save the Internet Act of 2019
 - 2019-03-08 — Introduced in House
 - 2019-03-08 — Introduced in House
 - 2019-03-08 — Referred to the House Committee on Energy and Commerce.
+- 2019-03-09 — Referred to the Subcommittee on Communications and Technology.
+- 2019-03-12 — Subcommittee Hearings Held.
+- 2019-03-26 — Forwarded by Subcommittee to Full Committee by the Yeas and Nays: 18 - 11 .
+- 2019-03-26 — Subcommittee Consideration and Mark-up Session Held.
+- 2019-04-03 — Committee Consideration and Mark-up Session Held.
+- 2019-04-03 — Ordered to be Reported (Amended) by the Yeas and Nays: 30 - 22.
+- 2019-04-05 — Placed on the Union Calendar, Calendar No. 15.
+- 2019-04-05 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-34.
+- 2019-04-05 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-34.
