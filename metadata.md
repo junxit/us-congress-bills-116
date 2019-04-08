@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 19
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 19
@@ -31,6 +31,10 @@ Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box D
 
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2019-04-08 — [House 116-1-157](votes/house-116-1-0157.md) — On Motion to Suspend the Rules and Agree — **Passed** (386–0)
+
 ## Actions
 
 - 2019-02-14 — Introduced in House
@@ -43,3 +47,11 @@ Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box D
 - 2019-04-02 — Placed on the House Calendar, Calendar No. 17.
 - 2019-04-02 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-31.
 - 2019-04-02 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-31.
+- 2019-04-08 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2019-04-08 — Considered as unfinished business. (consideration: CR H3115-3116)
+- 2019-04-08 — Considered under suspension of the rules. (consideration: CR H3107-3109)
+- 2019-04-08 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 19.
+- 2019-04-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-04-08 — Mrs. Craig moved to suspend the rules and agree to the resolution.
+- 2019-04-08 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 386 - 0 (Roll no. 157). (text: CR H3107-3108)
+- 2019-04-08 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 386 - 0 (Roll no. 157).(text: CR H3107-3108)
