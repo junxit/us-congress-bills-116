@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 2128
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2128
+
+> To amend part A of title IV of the Social Security Act to clarify the authority of tribal governments in regard to the Temporary Assistance for Needy Families program.
+
+## § 1. Short title
+
+This Act may be cited as the “Tribal TANF Fairness Act of 2019”.
+
+## § 2. Self-determination authority
+
+Section 412 of the Social Security Act (42 U.S.C. 612) is amended by adding at the end the following:
+
+> - **(j)** *Rule of interpretation* Notwithstanding subsection (e)(1), a tribal government (including a tribal government participating in an intertribal consortium) may lease land held in trust or in fee, at a fair market rate (as verified by an independent appraisal prepared in accordance with the Uniform Standards of Professional Appraisal Practice), for the administration of a tribal family assistance grant by the tribal government or the intertribal consortium.
