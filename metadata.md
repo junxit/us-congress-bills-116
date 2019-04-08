@@ -1,7 +1,7 @@
 ---
 measure: H.R. 639
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 639
@@ -37,3 +37,9 @@ To amend section 327 of the Robert T. Stafford Disaster Relief and Emergency Ass
 - 2019-04-02 — Placed on the Union Calendar, Calendar No. 14.
 - 2019-04-02 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-29.
 - 2019-04-02 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-29.
+- 2019-04-08 — Considered under suspension of the rules. (consideration: CR H3111-3112)
+- 2019-04-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 639.
+- 2019-04-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-04-08 — Mrs. Craig moved to suspend the rules and pass the bill.
+- 2019-04-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3111)
+- 2019-04-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3111)
