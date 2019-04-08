@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2030
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2030
@@ -16,7 +16,7 @@ Colorado River Drought Contingency Plan Authorization Act
 
 - Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
 
-## Cosponsors (27)
+## Cosponsors (36)
 
 - Rep. Huffman, Jared [D-CA-2] (H001068)
 - Rep. Napolitano, Grace F. [D-CA-32] (N000179)
@@ -45,6 +45,15 @@ Colorado River Drought Contingency Plan Authorization Act
 - Rep. Stanton, Greg [D-AZ-9] (S001211)
 - Rep. Stewart, Chris [R-UT-2] (S001192)
 - Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Amodei, Mark E. [R-NV-2] (A000369)
+- Rep. Tipton, Scott  R. [R-CO-3] (T000470)
+- Rep. Buck, Ken [R-CO-4] (B001297)
+- Rep. Torres Small, Xochitl [D-NM-2] (T000484)
+- Rep. Lee, Susie [D-NV-3] (L000590)
+- Rep. Crow, Jason [D-CO-6] (C001121)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Neguse, Joe [D-CO-2] (N000191)
+- Rep. Cisneros, Gilbert Ray, Jr. [D-CA-39] (C001123)
 
 ## Committees (1)
 
@@ -55,3 +64,9 @@ Colorado River Drought Contingency Plan Authorization Act
 - 2019-04-02 — Introduced in House
 - 2019-04-02 — Introduced in House
 - 2019-04-02 — Referred to the House Committee on Natural Resources.
+- 2019-04-08 — Considered under suspension of the rules. (consideration: CR H3112-3115)
+- 2019-04-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2030.
+- 2019-04-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-04-08 — Mr. Grijalva moved to suspend the rules and pass the bill.
+- 2019-04-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3112)
+- 2019-04-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3112)
