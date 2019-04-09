@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2030
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2030
@@ -70,3 +70,6 @@ Colorado River Drought Contingency Plan Authorization Act
 - 2019-04-08 — Mr. Grijalva moved to suspend the rules and pass the bill.
 - 2019-04-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3112)
 - 2019-04-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3112)
+- 2019-04-09 — Message on Senate action sent to the House.
+- 2019-04-09 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S2298)
+- 2019-04-09 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S2298)
