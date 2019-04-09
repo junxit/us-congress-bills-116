@@ -1,7 +1,7 @@
 ---
 measure: H.R. 639
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 639
@@ -21,9 +21,10 @@ To amend section 327 of the Robert T. Stafford Disaster Relief and Emergency Ass
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 - Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To amend section 327 of the Robert T. Stafford Disaster Relief and Emergency Ass
 - 2019-04-08 — Mrs. Craig moved to suspend the rules and pass the bill.
 - 2019-04-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3111)
 - 2019-04-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3111)
+- 2019-04-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
