@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2030
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2030
@@ -73,3 +73,9 @@ Colorado River Drought Contingency Plan Authorization Act
 - 2019-04-09 — Message on Senate action sent to the House.
 - 2019-04-09 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S2298)
 - 2019-04-09 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S2298)
+- 2019-04-10 — Presented to President.
+- 2019-04-10 — Presented to President.
+- 2019-04-16 — Became Public Law No: 116-14.
+- 2019-04-16 — Became Public Law No: 116-14.
+- 2019-04-16 — Signed by President.
+- 2019-04-16 — Signed by President.
