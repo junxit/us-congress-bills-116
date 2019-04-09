@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1957
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -152,7 +152,7 @@ to guess them.
 
 ### 26 U.S.C. § 6651
 
-> by striking “2014” and inserting “2020”,
+> by striking “2014” and inserting “2020”;
 
 | | |
 |---|---|
@@ -161,7 +161,7 @@ to guess them.
 
 ### 26 U.S.C. § 6651
 
-> by striking “$205” and inserting “$330”, and
+> by striking “$205” and inserting “$330”; and
 
 | | |
 |---|---|
@@ -187,7 +187,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `26 U.S.C. § 7803` | add-at-end | Section 7803 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6330` | insert | The heading of section 6330(d)(3) is amended by inserting “Independent” after “IRS”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 6330` | insert | The heading of section 6330(d)(3) is amended by inserting “independent” after “irs”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 7122` | add-at-end | Section 7122(c) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | by striking “Any property” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -197,8 +197,8 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 6015` | amend | by amending subsection (f) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 7609` | add-at-end | Section 7609(f) is amended by adding at the end the following flush sentence: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6306` | replace | Section 6306(d)(3) is amended by striking “or” at the end of subparagraph (C) and by inserting after subparagraph (D) the following new subparagraphs: | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 6307` | replace | in paragraph (2), by striking all that follows “under such program” and inserting a period, and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6307` | replace | in paragraph (3), by striking all that follows “out of such account” and inserting “for other than program costs”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 6307` | replace | in paragraph (2), by striking all that follows “under such program” and inserting a period; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6307` | replace | in paragraph (3), by striking all that follows “out of such account” and inserting “for other than program costs.”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 7602` | amend | Section 7602(c)(1) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6503` | amend | Clause (i) of section 6503(j)(2)(A) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6503` | add-at-end | Subsection (j) of section 6503 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -219,8 +219,8 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 7623` | add-at-end | Section 7623 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6402` | add-at-end | Section 6402 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 6103(k), as amended by this Act, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | replace | Section 6103(a)(3), as amended by this Act, is amended by striking “or (13)” and inserting “(13), or (14)”. | the bill names no machine-readable US Code section |
-| — | replace | Section 7213(a)(2), as amended by this Act, is amended by striking “or (13)” and inserting “(13), or (14)”. | the bill names no machine-readable US Code section |
+| — | replace | Section 6103(a)(3), as amended by this Act, is amended by striking “or (13)” and inserting “, (13), or (14)”. | the bill names no machine-readable US Code section |
+| — | replace | Section 7213(a)(2), as amended by this Act, is amended by striking “or (13)” and inserting “, (13), or (14)”. | the bill names no machine-readable US Code section |
 | `26 U.S.C. § 6103` | add-at-end | Section 6103(p) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6103` | insert | Section 6103(p)(8)(B) is amended by inserting “or paragraph (9)” after “subparagraph (A)”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 7529` | add-at-end | Chapter 77 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
