@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 7
 congress: 116
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 7
@@ -32,3 +32,10 @@ A concurrent resolution authorizing the printing of the 26th edition of the pock
 - 2019-03-04 — Message on Senate action sent to the House.
 - 2019-03-04 — Received in the House.
 - 2019-03-04 — Referred to the House Committee on House Administration.
+- 2019-04-09 — Committee on House Administration discharged.
+- 2019-04-09 — Committee on House Administration discharged.
+- 2019-04-09 — Considered by unanimous consent. (consideration: CR H3168-3169)
+- 2019-04-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-04-09 — Ms. Lofgren asked unanimous consent to discharge from committee and consider.
+- 2019-04-09 — On agreeing to the resolution Agreed to without objection. (text: CR H3169)
+- 2019-04-09 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H3169)
