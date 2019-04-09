@@ -1,7 +1,7 @@
 ---
 measure: S. 846
 congress: 116
-version: Introduced in Senate
+version: Reference Change Senate
 derived: true
 ---
 
