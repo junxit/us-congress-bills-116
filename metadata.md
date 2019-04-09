@@ -1,7 +1,7 @@
 ---
 measure: H.R. 639
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 639
@@ -45,3 +45,14 @@ To amend section 327 of the Robert T. Stafford Disaster Relief and Emergency Ass
 - 2019-04-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3111)
 - 2019-04-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3111)
 - 2019-04-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2019-07-31 — Message on Senate action sent to the House.
+- 2019-07-31 — Passed Senate without amendment by Unanimous Consent.
+- 2019-07-31 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2019-07-31 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S5216)
+- 2019-07-31 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S5216)
+- 2019-08-13 — Presented to President.
+- 2019-08-13 — Presented to President.
+- 2019-08-22 — Became Public Law No: 116-48.
+- 2019-08-22 — Became Public Law No: 116-48.
+- 2019-08-22 — Signed by President.
+- 2019-08-22 — Signed by President.
