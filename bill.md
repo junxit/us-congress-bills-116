@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1759
 
-> To amend title III of the Social Security Act to extend reemployment services and eligibility assessments to all claimants for unemployment compensation, and for other purposes.
+> To amend title III of the Social Security Act to extend reemployment services and eligibility assessments to all claimants for unemployment benefits, and for other purposes.
 
 ## § 1. Short title
 
@@ -18,7 +18,7 @@ This Act may be cited as the “Building on Reemployment Improvements to Deliver
 Congress finds the following:
 
 - **(1)** The Bipartisan Budget Act of 2018 (Public Law 115–123) improved program accountability for effectively serving unemployed workers and made a significant new investment in reemployment services.
-- **(2)** Research shows the longer workers are out-of-work, the harder it can be to maintain their skills, professional network, and stable home life.
+- **(2)** Research shows the longer workers are out of work, the harder it can be to maintain their skills, professional network, and stable home life.
 - **(3)** Reemployment services give workers who might otherwise struggle to find new jobs the tools that they need to get back to work—such as individualized career counseling and job search help as well as local labor market information—and they can serve as an entry point to the workforce development system.
 - **(4)** Reemployment services have been demonstrated to reduce the number of weeks that program participants receive unemployment benefits by improving their employment outcomes, including earnings.
 - **(5)** Unemployment benefits replace less than half of working income, on average, so workers who find new jobs quickly suffer less financial hardship.
