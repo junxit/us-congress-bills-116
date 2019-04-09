@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 2142
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2142
+
+> To amend the Small Business Act to require the Small Business and Agriculture Regulatory Enforcement Ombudsman to create a centralized website for compliance guides, and for other purposes.
+
+## § 1. Centralized website for compliance guides
+
+Section 30 of the Small Business Act (15 U.S.C. 657) is amended by adding at the end the following new subsections:
+
+> - **(e)** *Centralized website* Not later than 6 months after the date of the enactment of this subsection, the Ombudsman shall maintain a publicly available website that includes—
+>   - **(1)** hyperlinks to small entity compliance guides described under section 212(a)(1) of the Small Business Regulatory Enforcement Fairness Act of 1996; and
+>   - **(2)** with respect to each such small entity compliance guide, the contact information for an individual who can offer assistance to small entities with respect to the rules that are the subject of such guide.
+> - **(f)** *Report on agency compliance* The Ombudsman shall include in the annual report required under subsection (b)(2)(C) an assessment of agency compliance with the requirements of section 212 of the Small Business Regulatory Enforcement Fairness Act of 1996 for the year covered by such annual report.
