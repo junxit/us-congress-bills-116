@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1331
 congress: 116
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1331
@@ -21,9 +21,10 @@ Local Water Protection Act
 - Rep. Mast, Brian J. [R-FL-18] (M001199)
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Local Water Protection Act
 - 2019-04-08 — Placed on the Union Calendar, Calendar No. 17.
 - 2019-04-08 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-36.
 - 2019-04-08 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-36.
+- 2019-04-09 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
