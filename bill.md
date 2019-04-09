@@ -1,0 +1,14 @@
+---
+legis-num: S. 1090
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1090
+
+> To require the Internal Revenue Service to provide Congress with sufficient notice prior to the closing of any Taxpayer Assistance Center.
+
+## § 1. Notice from IRS regarding closure of Taxpayer Assistance Centers
+
+Not later than 90 days before the date that a proposed closure of a Taxpayer Assistance Center would take effect, the Secretary of the Treasury or the Secretary's delegate shall submit a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate which provides the reasons for the proposed closure and a description of the taxpayer assistance services which will be provided by the Internal Revenue Service after the proposed closure takes effect to taxpayers in any rural city, town, or unincorporated area which has a population of not more than 50,000 inhabitants and would be affected by the proposed closure.
