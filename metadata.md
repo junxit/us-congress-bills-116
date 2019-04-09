@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 16
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 16
@@ -42,3 +42,4 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers Memor
 - 2019-04-08 — Mrs. Craig moved to suspend the rules and agree to the resolution.
 - 2019-04-08 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H3107)
 - 2019-04-08 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H3107)
+- 2019-04-09 — Received in the Senate.
