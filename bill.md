@@ -2,12 +2,12 @@
 legis-num: H.R. 1759
 congress: 116th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1759
 
-> To amend title III of the Social Security Act to extend reemployment services and eligibility assessments to all claimants for unemployment compensation, and for other purposes.
+> To amend title III of the Social Security Act to extend reemployment services and eligibility assessments to all claimants for unemployment benefits, and for other purposes.
 
 ## § 1. Short title
 
