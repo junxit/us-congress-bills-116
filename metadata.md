@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1644
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1644
@@ -220,6 +220,14 @@ Save the Internet Act of 2019
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (5)
+
+- 2019-04-10 — [House 116-1-163](votes/house-116-1-0163.md) — On Agreeing to the Amendment — **Agreed to** (363–60)
+- 2019-04-10 — [House 116-1-164](votes/house-116-1-0164.md) — On Agreeing to the Amendment — **Agreed to** (376–46)
+- 2019-04-10 — [House 116-1-165](votes/house-116-1-0165.md) — On Agreeing to the Amendment — **Agreed to** (423–0)
+- 2019-04-10 — [House 116-1-166](votes/house-116-1-0166.md) — On Motion to Recommit with Instructions — **Failed** (204–216)
+- 2019-04-10 — [House 116-1-167](votes/house-116-1-0167.md) — On Passage — **Passed** (232–190)
+
 ## Actions
 
 - 2019-03-08 — Introduced in House
@@ -234,3 +242,114 @@ Save the Internet Act of 2019
 - 2019-04-05 — Placed on the Union Calendar, Calendar No. 15.
 - 2019-04-05 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-34.
 - 2019-04-05 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-34.
+- 2019-04-09 — Amendment (A001) offered by Mr. Burgess. (consideration: CR H3179-3180; text: CR H3179)
+- 2019-04-09 — Amendment (A002) offered by Mr. Latta. (consideration: CR H3180-3181; text: CR H3180)
+- 2019-04-09 — Amendment (A003) offered by Ms. Waters. (consideration: CR H3181-3182; text: CR H3181)
+- 2019-04-09 — Amendment (A004) offered by Mr. Delgado. (consideration: CR H3182-3183; text: CR H3182)
+- 2019-04-09 — Amendment (A005) offered by Ms. Porter. (consideration: CR H3183-3184; text: CR H3183)
+- 2019-04-09 — Amendment (A006) offered by Ms. Wexton. (consideration: CR H3184-3185; text: CR H3184)
+- 2019-04-09 — Amendment agreed to Committee of the Whole
+- 2019-04-09 — Amendment agreed to Committee of the Whole
+- 2019-04-09 — Amendment agreed to Committee of the Whole
+- 2019-04-09 — Amendment agreed to Committee of the Whole
+- 2019-04-09 — Committee of the Whole House on the state of the Union rises leaving H.R. 1644 as unfinished business.
+- 2019-04-09 — Considered under the provisions of rule H. Res. 294. (consideration: CR H3169-3185; text: CR H3178-3179)
+- 2019-04-09 — DEBATE - Pursuant to the provisions of H. Res. 294, the Committee of the Whole proceeded with 10 minutes of debate on the Burgess amendment No. 1.
+- 2019-04-09 — DEBATE - Pursuant to the provisions of H. Res. 294, the Committee of the Whole proceeded with 10 minutes of debate on the Delgado amendment No. 4.
+- 2019-04-09 — DEBATE - Pursuant to the provisions of H. Res. 294, the Committee of the Whole proceeded with 10 minutes of debate on the Latta amendment No. 2.
+- 2019-04-09 — DEBATE - Pursuant to the provisions of H. Res. 294, the Committee of the Whole proceeded with 10 minutes of debate on the Porter amendment No. 5.
+- 2019-04-09 — DEBATE - Pursuant to the provisions of H. Res. 294, the Committee of the Whole proceeded with 10 minutes of debate on the Waters amendment No. 3.
+- 2019-04-09 — DEBATE - Pursuant to the provisions of H. Res. 294, the Committee of the Whole proceeded with 10 minutes of debate on the Wexton amendment No. 6.
+- 2019-04-09 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1644.
+- 2019-04-09 — House amendment agreed to: On agreeing to the Burgess amendment (A001) Agreed to by voice vote.
+- 2019-04-09 — House amendment agreed to: On agreeing to the Latta amendment (A002) Agreed to by voice vote.
+- 2019-04-09 — House amendment agreed to: On agreeing to the Porter amendment (A005) Agreed to by voice vote.
+- 2019-04-09 — House amendment agreed to: On agreeing to the Waters amendment (A003) Agreed to by voice vote.
+- 2019-04-09 — House amendment offered
+- 2019-04-09 — House amendment offered
+- 2019-04-09 — House amendment offered
+- 2019-04-09 — House amendment offered
+- 2019-04-09 — House amendment offered
+- 2019-04-09 — House amendment offered
+- 2019-04-09 — House amendment offered/reported by: Amendment (A001) offered by Mr. Burgess.
+- 2019-04-09 — House amendment offered/reported by: Amendment (A002) offered by Mr. Latta.
+- 2019-04-09 — House amendment offered/reported by: Amendment (A003) offered by Ms. Waters.
+- 2019-04-09 — House amendment offered/reported by: Amendment (A004) offered by Mr. Delgado.(consideration: CR H3182-3183; text: CR H3182)
+- 2019-04-09 — House amendment offered/reported by: Amendment (A005) offered by Ms. Porter.
+- 2019-04-09 — House amendment offered/reported by: Amendment (A006) offered by Ms. Wexton.(consideration: CR H3184-3185; text: CR H3184)
+- 2019-04-09 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 294 and Rule XVIII.
+- 2019-04-09 — Mr. Doyle, Michael F. moved that the committee rise.
+- 2019-04-09 — On agreeing to the Burgess amendment (A001) Agreed to by voice vote.
+- 2019-04-09 — On agreeing to the Latta amendment (A002) Agreed to by voice vote.
+- 2019-04-09 — On agreeing to the Porter amendment (A005) Agreed to by voice vote.
+- 2019-04-09 — On agreeing to the Waters amendment (A003) Agreed to by voice vote.
+- 2019-04-09 — On motion that the committee rise Agreed to by voice vote.
+- 2019-04-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Delgado amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Doyle demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-04-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Wexton amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Doyle demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-04-09 — Rule provides for consideration of H.R. 1644 and H.R. 2021. Measure will be considered read. Rule provides for the previous question to be considered as ordered without intervening motions for both measures except for one hour of debate; one motion to recommit is allowed for both measures. The rule provides for adoption of H.Res. 293. The rule provides for proceedings during the period of April 11, 2019, through April 26, 2019.
+- 2019-04-09 — Subsequently, the Committee resumed its sitting.
+- 2019-04-09 — The Committee of the Whole rose informally to receive a message.
+- 2019-04-09 — The Speaker designated the Honorable Andre Carson to act as Chairman of the Committee.
+- 2019-04-10 — Amendment (A007) offered by Ms. Davids (KS). (consideration: CR H3224-3226; text: CR H3224-3225)
+- 2019-04-10 — Amendment (A008) offered by Mr. Stanton. (consideration: CR H3226-3229; text: CR H3226-3227)
+- 2019-04-10 — Amendment (A009) offered by Mr. Trone. (consideration: CR H3229-3230; text: CR H3229)
+- 2019-04-10 — Amendment (A010) offered by Mr. Brindisi. (consideration: CR H3230-3232; text: CR H3230-3231)
+- 2019-04-10 — Amendment (A011) offered by Ms. Spanberger. (consideration: CR H3232-3233; text: CR H3232)
+- 2019-04-10 — Amendment (A012) offered by Mr. McAdams. (consideration: CR H3233-3235; text: CR H3233)
+- 2019-04-10 — Amendment agreed to Committee of the Whole
+- 2019-04-10 — Amendment agreed to Committee of the Whole
+- 2019-04-10 — Amendment agreed to Committee of the Whole
+- 2019-04-10 — Amendment agreed to Committee of the Whole
+- 2019-04-10 — Amendment agreed to Committee of the Whole
+- 2019-04-10 — Amendment agreed to Committee of the Whole
+- 2019-04-10 — Amendment agreed to Committee of the Whole
+- 2019-04-10 — Amendment agreed to Committee of the Whole
+- 2019-04-10 — Considered as unfinished business. (consideration: CR H3224-3239)
+- 2019-04-10 — DEBATE - Pursuant to the provisions of H. Res. 294, the Committee of the Whole proceeded with 10 minutes of debate on the Brindisi amendment No. 10.
+- 2019-04-10 — DEBATE - Pursuant to the provisions of H. Res. 294, the Committee of the Whole proceeded with 10 minutes of debate on the Davids (KS) amendment No. 7.
+- 2019-04-10 — DEBATE - Pursuant to the provisions of H. Res. 294, the Committee of the Whole proceeded with 10 minutes of debate on the McAdams amendment No. 12.
+- 2019-04-10 — DEBATE - Pursuant to the provisions of H. Res. 294, the Committee of the Whole proceeded with 10 minutes of debate on the Spanberger amendment No. 11.
+- 2019-04-10 — DEBATE - Pursuant to the provisions of H. Res. 294, the Committee of the Whole proceeded with 10 minutes of debate on the Stanton amendment No. 8.
+- 2019-04-10 — DEBATE - Pursuant to the provisions of H. Res. 294, the Committee of the Whole proceeded with 10 minutes of debate on the Trone amendment No. 9.
+- 2019-04-10 — DEBATE - The House proceeded with 10 minutes of debate on the Walden motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add at the end of the bill the following new section entitled "Rule of Construction Regarding Internet Tax Freedom Act".
+- 2019-04-10 — House amendment agreed to: On agreeing to the Brindisi amendment (A010) Agreed to by voice vote.
+- 2019-04-10 — House amendment agreed to: On agreeing to the Davids (KS) amendment (A007) Agreed to by voice vote.
+- 2019-04-10 — House amendment agreed to: On agreeing to the Delgado amendment (A004) Agreed to by recorded vote: 363 - 60 (Roll no. 163).
+- 2019-04-10 — House amendment agreed to: On agreeing to the McAdams amendment (A012) Agreed to by recorded vote: 423 - 0 (Roll no. 165).
+- 2019-04-10 — House amendment agreed to: On agreeing to the Spanberger amendment (A011) Agreed to by voice vote.
+- 2019-04-10 — House amendment agreed to: On agreeing to the Stanton amendment (A008) Agreed to by voice vote.
+- 2019-04-10 — House amendment agreed to: On agreeing to the Trone amendment (A009) Agreed to by voice vote.
+- 2019-04-10 — House amendment agreed to: On agreeing to the Wexton amendment (A006) Agreed to by recorded vote: 376 - 46 (Roll no. 164).
+- 2019-04-10 — House amendment offered
+- 2019-04-10 — House amendment offered
+- 2019-04-10 — House amendment offered
+- 2019-04-10 — House amendment offered
+- 2019-04-10 — House amendment offered
+- 2019-04-10 — House amendment offered
+- 2019-04-10 — House amendment offered/reported by: Amendment (A007) offered by Ms. Davids (KS).
+- 2019-04-10 — House amendment offered/reported by: Amendment (A008) offered by Mr. Stanton.
+- 2019-04-10 — House amendment offered/reported by: Amendment (A009) offered by Mr. Trone.
+- 2019-04-10 — House amendment offered/reported by: Amendment (A010) offered by Mr. Brindisi.
+- 2019-04-10 — House amendment offered/reported by: Amendment (A011) offered by Ms. Spanberger.
+- 2019-04-10 — House amendment offered/reported by: Amendment (A012) offered by Mr. McAdams.
+- 2019-04-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-04-10 — Mr. Walden moved to recommit with instructions to the Committee on Energy and Commerce. (text: CR H3237)
+- 2019-04-10 — On agreeing to the Brindisi amendment (A010) Agreed to by voice vote.
+- 2019-04-10 — On agreeing to the Davids (KS) amendment (A007) Agreed to by voice vote.
+- 2019-04-10 — On agreeing to the Delgado amendment (A004) Agreed to by recorded vote: 363 - 60 (Roll no. 163).
+- 2019-04-10 — On agreeing to the McAdams amendment (A012) Agreed to by recorded vote: 423 - 0 (Roll no. 165).
+- 2019-04-10 — On agreeing to the Spanberger amendment (A011) Agreed to by voice vote.
+- 2019-04-10 — On agreeing to the Stanton amendment (A008) Agreed to by voice vote.
+- 2019-04-10 — On agreeing to the Trone amendment (A009) Agreed to by voice vote.
+- 2019-04-10 — On agreeing to the Wexton amendment (A006) Agreed to by recorded vote: 376 - 46 (Roll no. 164).
+- 2019-04-10 — On motion to recommit with instructions Failed by recorded vote: 204 - 216 (Roll no. 166).
+- 2019-04-10 — On passage Passed by the Yeas and Nays: 232 - 190 (Roll no. 167).
+- 2019-04-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McAdams amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Doyle (PA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-04-10 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 232 - 190 (Roll no. 167).
+- 2019-04-10 — Roll call votes on amendments in House
+- 2019-04-10 — Roll call votes on amendments in House
+- 2019-04-10 — Roll call votes on amendments in House
+- 2019-04-10 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2019-04-10 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1644.
+- 2019-04-10 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2019-04-10 — The previous question was ordered pursuant to the rule.
