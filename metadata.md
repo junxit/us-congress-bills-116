@@ -1,0 +1,31 @@
+---
+measure: H.R. 2233
+congress: 116
+version: Introduced in House
+---
+
+# H.R. 2233
+
+Bail Fairness Act of 2019
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+
+## Cosponsors (1)
+
+- Rep. Evans, Dwight [D-PA-3] (E000296)
+
+## Committees (1)
+
+- House — Judiciary Committee
+
+## Actions
+
+- 2019-04-10 — Introduced in House
+- 2019-04-10 — Introduced in House
+- 2019-04-10 — Referred to the House Committee on the Judiciary.
