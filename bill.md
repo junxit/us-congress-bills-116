@@ -1,0 +1,23 @@
+---
+legis-num: S. 1124
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1124
+
+> To require the establishment of a working group to evaluate the food safety threat posed by beef and poultry imported from Brazil, and for other purposes.
+
+## § 1. Working group on beef and poultry imported from Brazil
+
+- **(a)** *Establishment of working group*
+  - **(1)** *In general* Not later than 120 days after the date of the enactment of this Act, the Secretary of Agriculture shall establish a working group—
+    - **(A)** to evaluate the food safety threat posed by beef, beef products, poultry, and poultry products imported from Brazil; and
+    - **(B)** to make recommendations to the Secretary with respect to whether the importation of beef, beef products, poultry, and poultry products from Brazil into the United States should be permitted.
+  - **(2)** *Membership* The Secretary shall ensure that the working group established under paragraph (1) includes—
+    - **(A)** experts on food safety; and
+    - **(B)** representatives of U.S. Customs and Border Protection and other Federal agencies with responsibilities relating to international trade.
+- **(b)** *Temporary suspension of imports* Beef, beef products, poultry, and poultry products imported from Brazil may not enter the United States during the period—
+  - **(1)** beginning on the date of the enactment of this Act; and
+  - **(2)** ending on the date on which the working group established under subsection (a)(1) submits to the Secretary the recommendations required by subparagraph (B) of that subsection.
