@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1759
 congress: 116
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 1759
@@ -52,3 +52,4 @@ BRIDGE for Workers Act
 - 2019-04-09 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 116-38.
 - 2019-04-09 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 116-38.
 - 2019-04-09 — The title of the measure was amended. Agreed to without objection.
+- 2019-04-10 — Received in the Senate.
