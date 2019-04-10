@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1585
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1585
@@ -545,3 +545,6 @@ Violence Against Women Reauthorization Act of 2019
 - 2019-04-04 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1585.
 - 2019-04-04 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-04-04 — The previous question was ordered pursuant to the rule.
+- 2019-04-08 — Received in the Senate.
+- 2019-04-09 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2019-04-10 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 66.
