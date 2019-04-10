@@ -77,7 +77,7 @@ In this Act:
 - **(d)** *Point of contact* The head of each Federal agency shall designate a point of contact for congressionally mandated reports.
 - **(e)** *List of reports* The Librarian of Congress, in consultation with the Clerk of the House of Representatives, shall submit to the Director a list of congressionally mandated reports that are required to be submitted during a year as soon as is practicable, including, whenever feasible, on rolling basis throughout the year, but in any event not later than April 1 of the following year, which shall—
   - **(1)** be provided in an open format;
-  - **(2)** include the information required under clauses (i), (ii), (iv), (v) of section 3(b)(1)(C) for each report;
+  - **(2)** include the information required under clauses (i), (ii), (iv), and (v) of section 3(b)(1)(C) for each report;
   - **(3)** include the frequency of the report;
   - **(4)** include a unique alphanumeric identifier for the report that is consistent across report editions;
   - **(5)** include the date on which each report is required to be submitted; and
