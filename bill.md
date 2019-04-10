@@ -28,11 +28,12 @@ In this Act—
     - **(ii)** an agency, as defined in section 552(f)(1) of title 5, United States Code; and
   - **(B)** does not include the Government Accountability Office;
 - **(3)** the term congressionally mandated report means a report that is required to be submitted to either House of Congress or any committee of Congress, or subcommittee thereof, by a statute, resolution, or conference report that accompanies legislation enacted into law;
-- **(4)** the term congressional office means—
+- **(4) (3)** the term congressional office means—
   - **(A)** an office of any committee or subcommittee of the Senate or the House of Representatives, including any select or special committee;
   - **(B)** an office of any individual Senator or Member of the House of Representatives;
   - **(C)** a leadership office of the Senate or the House of Representatives; and
   - **(D)** Congress or any House of Congress;
+- **(4)** the term congressionally mandated report means a report that is required to be submitted to either House of Congress or any committee of Congress, or subcommittee thereof, by a statute, resolution, or conference report that accompanies legislation enacted into law;
 - **(5)** the term open format means a file format for storing digital data based on an underlying open standard that—
   - **(A)** is not encumbered by any restrictions that would impede reuse; and
   - **(B)** is based on an underlying open data standard that is maintained by a standards organization;
