@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 35
 congress: 116
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 35
@@ -16,10 +16,11 @@ A resolution supporting democratic principles and standards in Bolivia and throu
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -33,3 +34,5 @@ A resolution supporting democratic principles and standards in Bolivia and throu
 - 2019-04-04 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with an amended preamble. Without written report.
 - 2019-04-04 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with an amended preamble. Without written report.
 - 2019-04-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 58.
+- 2019-04-10 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Voice Vote.(consideration: CR S2393-2395; text: CR S2394-2395)
+- 2019-04-10 — Resolution agreed to in Senate without amendment and an amended preamble by Voice Vote. (consideration: CR S2393-2395; text: CR S2394-2395)
