@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 67
 congress: 116
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 67
@@ -16,10 +16,11 @@ A resolution expressing the sense of the Senate on the importance and vitality o
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Gardner, Cory [R-CO] (G000562)
 - Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -33,3 +34,5 @@ A resolution expressing the sense of the Senate on the importance and vitality o
 - 2019-04-04 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with an amended preamble. Without written report.
 - 2019-04-04 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with an amended preamble. Without written report.
 - 2019-04-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 59.
+- 2019-04-10 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Voice Vote.(consideration: CR S2395-2397; text: CR S2396-2397)
+- 2019-04-10 — Resolution agreed to in Senate without amendment and an amended preamble by Voice Vote. (consideration: CR S2395-2397; text: CR S2396-2397)
