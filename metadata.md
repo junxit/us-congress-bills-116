@@ -1,7 +1,7 @@
 ---
 measure: S. 94
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 94
@@ -16,7 +16,7 @@ Target Practice and Marksmanship Training Support Act
 
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
 
-## Cosponsors (12)
+## Cosponsors (14)
 
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 - Sen. Boozman, John [R-AR] (B001236)
@@ -30,6 +30,8 @@ Target Practice and Marksmanship Training Support Act
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Heinrich, Martin [D-NM] (H001046)
 - Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Blunt, Roy [R-MO] (B000575)
 
 ## Committees (1)
 
@@ -43,3 +45,7 @@ Target Practice and Marksmanship Training Support Act
 - 2019-02-05 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.
 - 2019-02-05 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.
 - 2019-02-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 18.
+- 2019-03-14 — By Senator Barrasso from Committee on Environment and Public Works filed written report. Report No. 116-8.
+- 2019-03-14 — By Senator Barrasso from Committee on Environment and Public Works filed written report. Report No. 116-8.
+- 2019-04-10 — Passed Senate without amendment by Voice Vote. (consideration: CR S2393; text: CR S2393)
+- 2019-04-10 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S2393; text: CR S2393)
