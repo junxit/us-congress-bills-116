@@ -1,7 +1,7 @@
 ---
 measure: S. 747
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 747
@@ -36,3 +36,8 @@ Diesel Emissions Reduction Act of 2019
 
 - 2019-03-12 — Introduced in Senate
 - 2019-03-12 — Read twice and referred to the Committee on Environment and Public Works. (Sponsor introductory remarks on measure: CR S1794-1795)
+- 2019-03-13 — Committee on Environment and Public Works. Hearings held. Hearings printed: S.Hrg. 116-10.
+- 2019-04-10 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2019-04-10 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.
+- 2019-04-10 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.
+- 2019-04-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 71.
