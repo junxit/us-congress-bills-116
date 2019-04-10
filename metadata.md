@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 19
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 19
@@ -52,3 +52,5 @@ Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box D
 - 2019-04-08 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 386 - 0 (Roll no. 157). (text: CR H3107-3108)
 - 2019-04-08 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 386 - 0 (Roll no. 157).(text: CR H3107-3108)
 - 2019-04-09 — Received in the Senate.
+- 2019-04-10 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S2392-2393)
+- 2019-04-10 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S2392-2393)
