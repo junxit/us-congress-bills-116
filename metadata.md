@@ -1,7 +1,7 @@
 ---
 measure: S. 1061
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1061
@@ -31,3 +31,6 @@ John F. Kennedy Center Reauthorization Act of 2019
 
 - 2019-04-08 — Introduced in Senate
 - 2019-04-08 — Read twice and referred to the Committee on Environment and Public Works.
+- 2019-04-10 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.
+- 2019-04-10 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.
+- 2019-04-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 72.
