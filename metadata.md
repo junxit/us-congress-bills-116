@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 95
 congress: 116
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 95
@@ -58,3 +58,5 @@ A resolution recognizing the 198th anniversary of the independence of Greece and
 - 2019-04-04 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with a preamble. Without written report.
 - 2019-04-04 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with a preamble. Without written report.
 - 2019-04-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 60.
+- 2019-04-10 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S2397; text: 3/5/2019 CR S1662)
+- 2019-04-10 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S2397; text: 3/5/2019 CR S1662)
