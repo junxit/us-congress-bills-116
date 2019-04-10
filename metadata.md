@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 16
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 16
@@ -43,3 +43,5 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers Memor
 - 2019-04-08 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H3107)
 - 2019-04-08 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H3107)
 - 2019-04-09 — Received in the Senate.
+- 2019-04-10 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S2392)
+- 2019-04-10 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S2392)
