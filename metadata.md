@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 136
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 136
@@ -30,3 +30,7 @@ A resolution supporting the goals and ideals of National Safe Digging Month.
 
 - 2019-04-02 — Introduced in Senate
 - 2019-04-02 — Referred to the Committee on Commerce, Science, and Transportation.
+- 2019-04-11 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR 4/2/2019 S2193-2194)
+- 2019-04-11 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 4/2/2019 S2193-2194)
+- 2019-04-11 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S2455-2456)
+- 2019-04-11 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S2455-2456)
