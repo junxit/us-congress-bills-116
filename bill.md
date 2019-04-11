@@ -1,0 +1,26 @@
+---
+legis-num: S. 1171
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1171
+
+> To suspend the current compensation packages for all officers of Fannie Mae and Freddie Mac.
+
+## § 1. Short title
+
+This Act may be cited as the “Respect the Caps Act”.
+
+## § 2. Prohibition on transfer of functions
+
+- **(a)** *Federal Home Loan Mortgage Corporation* Section 303(h) of the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1452(h)) is amended by adding at the end the following:
+  > - **(5)** The Corporation may not transfer or delegate any duty or responsibility of the chief executive officer, as of November 25, 2015, to any other position.
+
+- **(b)** *Federal National Mortgage Association* Section 309(d) of the Federal National Mortgage Association Charter Act (12 U.S.C. 1723a(d)) is amended by adding at the end the following:
+  > - **(5)** The corporation may not transfer or delegate any duty or responsibility of the chief executive officer, as of November 25, 2015, to any other position.
+
+## § 3. Removal of Director of FHFA for cause
+
+Section 1312(b)(2) of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4512(b)(2)) is amended by inserting “, including for approving the compensation and benefits of any chief executive officer of an enterprise at a level greater than the level described in section 3 of the Equity in Government Compensation Act of 2015 (12 U.S.C. 4518 note)” before the period at the end.
