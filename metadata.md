@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 23
 congress: 116
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 23
@@ -43,3 +43,5 @@ A resolution supporting the goals and ideals of Countering International Parenta
 - 2019-04-04 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with an amended preamble. Without written report.
 - 2019-04-04 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with an amended preamble. Without written report.
 - 2019-04-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 56.
+- 2019-04-11 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Voice Vote.(consideration: CR S2456-2458; text: CR S2457-2458)
+- 2019-04-11 — Resolution agreed to in Senate without amendment and an amended preamble by Voice Vote. (consideration: CR S2456-2458; text: CR S2457-2458)
