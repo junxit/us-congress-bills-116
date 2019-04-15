@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 14
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 14
@@ -20,8 +20,15 @@ A concurrent resolution authorizing the use of Emancipation Hall in the Capitol 
 
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
 
+## Committees (1)
+
+- House — Committee on House Administration
+
 ## Actions
 
 - 2019-04-11 — Introduced in Senate
 - 2019-04-11 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S2456; text: CR S2446)
 - 2019-04-11 — Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S2456; text: CR S2446)
+- 2019-04-12 — Message on Senate action sent to the House.
+- 2019-04-15 — Received in the House.
+- 2019-04-15 — Referred to the House Committee on House Administration.
