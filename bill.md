@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 2341
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2341
+
+> To direct the Postmaster General to modify any hard copy change of address form used by the United States Postal Service so that such form contains a reminder that any individual using such form should update the individual’s voter registration as a result of any change in address.
+
+## § 1. Use of Postal Service hard copy change of address form to remind individuals to update voter registration
+
+- **(a)** *In general* Not later than 1 year after the date of the enactment of this Act, the Postmaster General shall modify any hard copy change of address form used by the United States Postal Service so that such form contains a reminder that any individual using such form should update the individual’s voter registration as a result of any change in address.
+- **(b)** *Application* The requirement in subsection (a) shall not apply to any electronic version of a change of address form used by the United States Postal Service.
