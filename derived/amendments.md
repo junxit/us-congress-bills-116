@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1957
 congress: 116
-version: Reported in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -152,7 +152,7 @@ to guess them.
 
 ### 26 U.S.C. § 6651
 
-> by striking “2014” and inserting “2020”,
+> by striking “2014” and inserting “2020”;
 
 | | |
 |---|---|
@@ -161,7 +161,7 @@ to guess them.
 
 ### 26 U.S.C. § 6651
 
-> by striking “$205” and inserting “$330”, and
+> by striking “$205” and inserting “$330”; and
 
 | | |
 |---|---|
@@ -197,7 +197,7 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 6015` | amend | by amending subsection (f) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 7609` | add-at-end | Section 7609(f) is amended by adding at the end the following flush sentence: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6306` | replace | Section 6306(d)(3) is amended by striking “or” at the end of subparagraph (C) and by inserting after subparagraph (D) the following new subparagraphs: | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 6307` | replace | in paragraph (2), by striking all that follows “under such program” and inserting a period, and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6307` | replace | in paragraph (2), by striking all that follows “under such program” and inserting a period; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6307` | replace | in paragraph (3), by striking all that follows “out of such account” and inserting “for other than program costs.”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 7602` | amend | Section 7602(c)(1) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6503` | amend | Clause (i) of section 6503(j)(2)(A) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
