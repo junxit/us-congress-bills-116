@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1957
 congress: 116
-version: Reported in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1957
@@ -69,3 +69,6 @@ Great American Outdoors Act
 - 2019-04-09 — Placed on the Union Calendar, Calendar No. 19.
 - 2019-04-09 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 116-39, Part I.
 - 2019-04-09 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 116-39, Part I.
+- 2019-04-10 — Received in the Senate.
+- 2019-04-11 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2019-04-29 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 75.
