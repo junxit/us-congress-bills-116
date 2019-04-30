@@ -1,7 +1,7 @@
 ---
 measure: H.R. 317
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 317
@@ -20,9 +20,10 @@ Santa Ynez Band of Chumash Indians Land Affirmation Act of 2019
 
 - Rep. Carbajal, Salud O. [D-CA-24] (C001112)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Santa Ynez Band of Chumash Indians Land Affirmation Act of 2019
 - 2019-04-29 — Mr. Van Drew moved to suspend the rules and pass the bill, as amended.
 - 2019-04-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3292)
 - 2019-04-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3292)
+- 2019-04-30 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
