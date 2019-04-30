@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1222
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1222
@@ -53,3 +53,6 @@ Target Practice and Marksmanship Training Support Act
 - 2019-04-29 — Mr. Van Drew moved to suspend the rules and pass the bill.
 - 2019-04-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3288-3289)
 - 2019-04-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3288-3289)
+- 2019-04-30 — Message on Senate action sent to the House.
+- 2019-04-30 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S2502)
+- 2019-04-30 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S2502)
