@@ -1,0 +1,14 @@
+---
+legis-num: S. 1231
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1231
+
+> To reauthorize the Bulletproof Vest Partnership Grant Program.
+
+## § 1. Bulletproof Vest Partnership Grant Program reauthorization
+
+Section 1001(a)(23) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10261(a)(23)) is amended by striking “part Y” and all that follows and inserting “part Y, $30,000,000 for fiscal year 2020, and each fiscal year thereafter.”.
