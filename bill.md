@@ -2,7 +2,7 @@
 legis-num: H. RES. 327
 congress: 116th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 327
@@ -21,7 +21,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the 2015 National Financial Capability Study, developed in consultation with the Department of the Treasury and President’s Advisory Council on Financial Capability, updates key measures from the 2009 National Financial Capability Study of American adults and deepens the exploration of topics that are highly relevant today, including student loans and medical debt;
 - Whereas the Federal Reserve System offers publications in English and Spanish that provide consumers tips on a broad range of topics, from avoiding mortgage foreclosure scams to managing a checking account;
 - Whereas a study conducted by Daniel Fernandes, John G. Lynch, Jr., and Richard Netemeyer entitled “Financial Literacy, Financial Education and Downstream Financial Behaviors” found that it “is best to provide assistance just before a decision is made in what is known as “just-in-time education””; and
-- Whereas, on September 6, 2018, the U.S. House of Representatives passed, by a vote of 406 to 4, H.R. 1635, the Empowering Students Through Enhance Financial Counseling Act, which helps improve financial aid counseling for students receiving a Pell Grant or a Federal loan: Now, therefore, be it
+- Whereas on September 6, 2018, the U.S. House of Representatives passed, by a vote of 406 to 4, H.R. 1635, the Empowering Students Through Enhanced Financial Counseling Act, which helps improve financial aid counseling for students receiving a Pell Grant or a Federal loan: Now, therefore, be it
 
 That the House of Representatives—
 
