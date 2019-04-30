@@ -1,7 +1,7 @@
 ---
 measure: H.R. 91
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 91
@@ -20,9 +20,10 @@ Columbia River In-Lieu and Treaty Fishing Access Sites Improvement Act
 
 - Rep. Bonamici, Suzanne [D-OR-1] (B001278)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Recorded votes (1)
 
@@ -42,3 +43,4 @@ Columbia River In-Lieu and Treaty Fishing Access Sites Improvement Act
 - 2019-04-29 — Mr. Van Drew moved to suspend the rules and pass the bill.
 - 2019-04-29 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 18 (Roll no. 168). (text: CR H3290)
 - 2019-04-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 18 (Roll no. 168).(text: CR H3290)
+- 2019-04-30 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
