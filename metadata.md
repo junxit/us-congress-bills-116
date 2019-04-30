@@ -1,7 +1,7 @@
 ---
 measure: H.R. 828
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 828
@@ -54,3 +54,12 @@ To designate the facility of the United States Postal Service located at 25 Rout
 - 2019-01-28 — Introduced in House
 - 2019-01-28 — Introduced in House
 - 2019-01-28 — Referred to the House Committee on Oversight and Reform.
+- 2019-03-26 — Committee Consideration and Mark-up Session Held.
+- 2019-03-26 — Ordered to be Reported by Unanimous Consent.
+- 2019-04-30 — Considered as unfinished business.
+- 2019-04-30 — Considered under suspension of the rules. (consideration: CR H3320-3321)
+- 2019-04-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 828.
+- 2019-04-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-04-30 — Ms. Kelly (IL) moved to suspend the rules and pass the bill.
+- 2019-04-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3320)
+- 2019-04-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3320)
