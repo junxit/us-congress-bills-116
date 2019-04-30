@@ -18,7 +18,7 @@ This Act may be cited as the “Federal Rotational Cyber Workforce Program Act o
 In this Act:
 
 - **(1)** *Agency* The term agency has the meaning given the term Executive agency in section 105 of title 5, United States Code, except that the term does not include the Government Accountability Office.
-- **(2)** *Council* The term Council means the Chief Human Capital Officers Council established under section 1303 of the Homeland SecurityChief Human Capital Officers Act of 2002 (5 U.S.C. 1401 note).
+- **(2)** *Council* The term Council means the Chief Human Capital Officers Council established under section 1303 of the Chief Human Capital Officers Act of 2002 (5 U.S.C. 1401 note).
 - **(3)** *Cyber workforce position* The term cyber workforce position means a position identified as having information technology, cybersecurity, or other cyber-related functions under section 303 of the Federal Cybersecurity Workforce Assessment Act of 2015 (5 U.S.C. 301 note).
 - **(4)** *Director* The term Director means the Director of the Office of Personnel Management.
 - **(5)** *Employee* The term employee has the meaning given the term in section 2105 of title 5, United States Code.

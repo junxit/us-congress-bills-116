@@ -1,7 +1,7 @@
 ---
 measure: S. 406
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 406
@@ -34,3 +34,5 @@ Federal Rotational Cyber Workforce Program Act of 2019
 - 2019-03-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment. With written report No. 116-15.
 - 2019-03-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment. With written report No. 116-15.
 - 2019-03-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 46.
+- 2019-04-30 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S2525-2528; text: CR S2527-2528)
+- 2019-04-30 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S2525-2528; text: CR S2527-2528)
