@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 2419
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2419
+
+> To provide for nuclear weapons abolition and economic conversion in accordance with District of Columbia Initiative Measure Number 37 of 1992, while ensuring environmental restoration and clean-energy conversion.
+
+## § 1. Short title
+
+This Act may be cited as the “Nuclear Weapons Abolition and Economic and Energy Conversion Act of 2019”.
+
+## § 2. Requirement for nuclear weapons abolition and economic and energy conversion
+
+- **(a)** *In general* The United States Government shall—
+  - **(1)** provide leadership by signing and ratifying the United Nations Treaty on the Prohibition of Nuclear Weapons or any other international agreement that provides for—
+    - **(A)** the dismantlement and elimination of all nuclear weapons in every country; and
+    - **(B)** strict and effective international control of such dismantlement and elimination;
+  - **(2)** redirect resources that are being used for nuclear weapons programs to use—
+    - **(A)** in converting all nuclear weapons industry processes, plants, and programs, and in retraining employees, to shift to a constructive, ecologically beneficial peace economy, which includes strict control of all fissile material and radioactive waste; and
+    - **(B)** in addressing human and infrastructure needs, including development and deployment of sustainable carbon-free and nuclear-free energy sources, health care, housing, education, agriculture, and environmental restoration, including long-term radioactive waste monitoring; and
+  - **(3)** actively promote policies to induce all other countries to join in the commitments described in this subsection to create a more peaceful and secure world.
+- **(b)** *Effective date* Paragraph (2) of subsection (a) shall take effect on the date on which the President certifies to Congress that all countries possessing nuclear weapons have begun the elimination of such weapons under established legal requirements comparable to those described in paragraph (1) of such subsection.
