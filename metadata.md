@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1222
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1222
@@ -56,3 +56,9 @@ Target Practice and Marksmanship Training Support Act
 - 2019-04-30 — Message on Senate action sent to the House.
 - 2019-04-30 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S2502)
 - 2019-04-30 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S2502)
+- 2019-05-02 — Presented to President.
+- 2019-05-02 — Presented to President.
+- 2019-05-10 — Became Public Law No: 116-17.
+- 2019-05-10 — Became Public Law No: 116-17.
+- 2019-05-10 — Signed by President.
+- 2019-05-10 — Signed by President.
