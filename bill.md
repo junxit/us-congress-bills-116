@@ -1,0 +1,28 @@
+---
+legis-num: H. RES. 339
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 339
+
+> Expressing support for the designation of May 15, 2019, as “National Senior Fraud Awareness Day” to raise awareness about the barrage of fraud attempts that seniors face, to encourage the implementation of policies to prevent these scams from happening, and to improve protections from these scams for seniors.
+
+## Preamble
+
+- Whereas Americans who are 65 years of age and older represent more than 14 percent of our country’s population;
+- Whereas senior fraud is a growing concern as millions have fallen victim to scams, including Medicare scams, sweepstakes and lottery scams, work-at-home scams, bereavement scams, identity theft, charity scams, scams targeting older women, home repair scams, fraudulent investment schemes, and reverse mortgage scams;
+- Whereas other types of fraud perpetrated against senior citizens include health care fraud, health insurance fraud, counterfeit prescription drug fraud, funeral and cemetery fraud, “anti-aging” product fraud, telemarketing fraud, and internet fraud;
+- Whereas the life savings of senior citizens who have saved for retirement are tempting targets for these methods of fraud and deception;
+- Whereas the ease of access for criminals to contact seniors through the internet and telephone increases as more creative schemes emerge;
+- Whereas according to the Consumer Sentinel Network Data Book 2018 released by the Federal Trade Commission, people aged 60 years and older were defrauded of $391 million during 2018, with the median loss to defrauded victims aged 80 and older averaging $1,700 per person, more than three times the average amount lost by those aged between 50 and 59 years old;
+- Whereas senior fraud is underreported by victims due to embarrassment and lack of information about where to report fraud; and
+- Whereas May 15, 2019, is an appropriate day to establish as “National Senior Fraud Awareness Day”: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** supports the designation of “National Senior Fraud Awareness Day”;
+- **(2)** recognizes “National Senior Fraud Awareness Day” as an opportunity to raise awareness about the barrage of scams that seniors face in person, by mail, on the phone, and online;
+- **(3)** encourages implementation of policies to prevent these scams and to improve protections for seniors from these scams; and
+- **(4)** honors the commitment and dedication of the individuals who work tirelessly to fight against these scams.
