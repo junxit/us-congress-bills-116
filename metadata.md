@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1876
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1876
@@ -25,9 +25,10 @@ Senior Security Act of 2019
 - Rep. Gonzalez, Vicente [D-TX-15] (G000581)
 - Rep. Casten, Sean [D-IL-6] (C001117)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ Senior Security Act of 2019
 - 2019-04-30 — Mr. Foster moved to suspend the rules and pass the bill.
 - 2019-04-30 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 392 - 20 (Roll no. 170). (text: CR H3314-3315)
 - 2019-04-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 392 - 20 (Roll no. 170).(text: CR H3314-3315)
+- 2019-05-01 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
