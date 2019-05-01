@@ -1,7 +1,7 @@
 ---
 measure: H.R. 828
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 828
@@ -45,9 +45,10 @@ To designate the facility of the United States Postal Service located at 25 Rout
 - Rep. Higgins, Brian [D-NY-26] (H001038)
 - Rep. Collins, Chris [R-NY-27] (C001092)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -63,3 +64,4 @@ To designate the facility of the United States Postal Service located at 25 Rout
 - 2019-04-30 — Ms. Kelly (IL) moved to suspend the rules and pass the bill.
 - 2019-04-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3320)
 - 2019-04-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3320)
+- 2019-05-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
