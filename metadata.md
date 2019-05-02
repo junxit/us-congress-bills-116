@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 160
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 160
@@ -16,7 +16,7 @@ A resolution recognizing the contributions of defense laboratories to the techno
 
 - Sen. Jones, Doug [D-AL] (J000300)
 
-## Cosponsors (9)
+## Cosponsors (10)
 
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 - Sen. Schumer, Charles E. [D-NY] (S000148)
@@ -27,6 +27,7 @@ A resolution recognizing the contributions of defense laboratories to the techno
 - Sen. Peters, Gary C. [D-MI] (P000595)
 - Sen. Tillis, Thomas [R-NC] (T000476)
 - Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Sullivan, Dan [R-AK] (S001198)
 
 ## Committees (1)
 
@@ -36,3 +37,7 @@ A resolution recognizing the contributions of defense laboratories to the techno
 
 - 2019-04-11 — Introduced in Senate
 - 2019-04-11 — Referred to the Committee on Armed Services.
+- 2019-05-02 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR 4/11/2019 S2439-2440)
+- 2019-05-02 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 4/11/2019 S2439-2440)
+- 2019-05-02 — Senate Committee on Armed Services discharged by Unanimous Consent. (consideration: CR S2623)
+- 2019-05-02 — Senate Committee on Armed Services discharged by Unanimous Consent.(consideration: CR S2623)
