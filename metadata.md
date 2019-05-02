@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 9
@@ -264,3 +264,246 @@ Climate Action Now Act
 - 2019-04-18 — Reported by the Committee on Energy and Commerce. H. Rept. 116-41, Part II.
 - 2019-04-18 — Reported by the Committee on Foreign Affairs. H. Rept. 116-41, Part I.
 - 2019-04-18 — Reported by the Committee on Foreign Affairs. H. Rept. 116-41, Part I.
+- 2019-04-29 — Rules Committee Resolution H. Res. 329 Reported to House. Rule provides for consideration of H.R. 9 with 1 hour and 30 minutes of general debate. Motion to recommit with or without instructions allowed. Measure will be considered read. Specified amendments are in order.
+- 2019-05-01 — Amendment (A001) offered by Mr. Espaillat. (consideration: CR H3382; text: CR H3382)
+- 2019-05-01 — Amendment (A002) offered by Ms. Omar. (consideration: CR H3382-3383; text: CR H3382)
+- 2019-05-01 — Amendment (A003) offered by Ms. Houlahan. (consideration: CR H3383-3384; text: CR H3383)
+- 2019-05-01 — Amendment (A004) offered by Ms. Kuster (NH). (consideration: CR H3384-3385; text: CR H3384)
+- 2019-05-01 — Amendment (A005) offered by Mrs. Torres (CA). (consideration: CR H3385; text: CR H3385)
+- 2019-05-01 — Amendment (A006) offered by Ms. Shalala. (consideration: CR H3385-3386; text: CR H3385)
+- 2019-05-01 — Amendment (A007) offered by Mr. DeSaulnier. (consideration: CR H3386-3387; text: CR H3386)
+- 2019-05-01 — Amendment (A008) offered by Mr. Pallone. (consideration: CR H3387-3388; text: CR H3387)
+- 2019-05-01 — Amendment (A009) offered by Mr. Gosar. (consideration: CR H3388-3389; text: CR H3388)
+- 2019-05-01 — Amendment (A010) offered by Mr. Gosar. (consideration: CR H3389-3390; text: CR H3389)
+- 2019-05-01 — Amendment (A011) offered by Mr. Case. (consideration: CR H3390-3391; text: CR H3390)
+- 2019-05-01 — Amendment (A012) offered by Mr. Bost. (consideration: CR H3391-3392; text: CR H3391)
+- 2019-05-01 — Amendment (A013) offered by Ms. Meng. (consideration: CR H3392; text: CR H3392)
+- 2019-05-01 — Amendment (A014) offered by Miss Gonzalez-Colon (PR). (consideration: CR H3392-3393; text: CR H3392)
+- 2019-05-01 — Amendment (A015) offered by Mr. Boyle, Brendan F.. (consideration: CR H3393-3394; text: CR H3393)
+- 2019-05-01 — Amendment (A016) offered by Mr. Panetta. (consideration: CR H3394; text: CR H3394)
+- 2019-05-01 — Amendment (A017) offered by Mr. Rouda. (consideration: CR H3394-3395; text: CR H3394)
+- 2019-05-01 — Amendment (A018) offered by Ms. Porter. (consideration: CR H3395-3396; text: CR H3395)
+- 2019-05-01 — Amendment (A019) offered by Mrs. Lee (NV). (consideration: CR H3396-3397; text: CR H3396)
+- 2019-05-01 — Amendment agreed to Committee of the Whole
+- 2019-05-01 — Amendment agreed to Committee of the Whole
+- 2019-05-01 — Amendment agreed to Committee of the Whole
+- 2019-05-01 — Amendment agreed to Committee of the Whole
+- 2019-05-01 — Amendment agreed to Committee of the Whole
+- 2019-05-01 — Amendment agreed to Committee of the Whole
+- 2019-05-01 — Amendment agreed to Committee of the Whole
+- 2019-05-01 — Amendment agreed to Committee of the Whole
+- 2019-05-01 — Amendment agreed to Committee of the Whole
+- 2019-05-01 — Amendment agreed to Committee of the Whole
+- 2019-05-01 — Amendment agreed to Committee of the Whole
+- 2019-05-01 — Amendment agreed to Committee of the Whole
+- 2019-05-01 — Amendment agreed to Committee of the Whole
+- 2019-05-01 — Amendment agreed to Committee of the Whole
+- 2019-05-01 — Amendment agreed to Committee of the Whole
+- 2019-05-01 — Committee of the Whole House on the state of the Union rises leaving H.R. 9 as unfinished business.
+- 2019-05-01 — Considered under the provisions of rule H. Res. 329. (consideration: CR H3363-3397; text: CR H3381)
+- 2019-05-01 — DEBATE - Pursuant to the provisions of H. Res. 329, the Committee of the Whole proceeded with 10 minutes of debate on the Bost amendment No. 13.
+- 2019-05-01 — DEBATE - Pursuant to the provisions of H. Res. 329, the Committee of the Whole proceeded with 10 minutes of debate on the Brendan F. Boyle (PA) amendment No. 16.
+- 2019-05-01 — DEBATE - Pursuant to the provisions of H. Res. 329, the Committee of the Whole proceeded with 10 minutes of debate on the Case amendment No. 12.
+- 2019-05-01 — DEBATE - Pursuant to the provisions of H. Res. 329, the Committee of the Whole proceeded with 10 minutes of debate on the DeSaulnier amendment No. 8.
+- 2019-05-01 — DEBATE - Pursuant to the provisions of H. Res. 329, the Committee of the Whole proceeded with 10 minutes of debate on the Gonzalez-Colon (PR) amendment No. 15.
+- 2019-05-01 — DEBATE - Pursuant to the provisions of H. Res. 329, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment No. 10.
+- 2019-05-01 — DEBATE - Pursuant to the provisions of H. Res. 329, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment No. 11.
+- 2019-05-01 — DEBATE - Pursuant to the provisions of H. Res. 329, the Committee of the Whole proceeded with 10 minutes of debate on the Houlahan amendment No. 4.
+- 2019-05-01 — DEBATE - Pursuant to the provisions of H. Res. 329, the Committee of the Whole proceeded with 10 minutes of debate on the Kuster (NH) amendment No. 5.
+- 2019-05-01 — DEBATE - Pursuant to the provisions of H. Res. 329, the Committee of the Whole proceeded with 10 minutes of debate on the Lee (NV) amendment No. 20.
+- 2019-05-01 — DEBATE - Pursuant to the provisions of H. Res. 329, the Committee of the Whole proceeded with 10 minutes of debate on the Meng amendment No. 14.
+- 2019-05-01 — DEBATE - Pursuant to the provisions of H. Res. 329, the Committee of the Whole proceeded with 10 minutes of debate on the Omar amendment No. 3.
+- 2019-05-01 — DEBATE - Pursuant to the provisions of H. Res. 329, the Committee of the Whole proceeded with 10 minutes of debate on the Pallone amendment No. 9.
+- 2019-05-01 — DEBATE - Pursuant to the provisions of H. Res. 329, the Committee of the Whole proceeded with 10 minutes of debate on the Panetta amendment No. 17.
+- 2019-05-01 — DEBATE - Pursuant to the provisions of H. Res. 329, the Committee of the Whole proceeded with 10 minutes of debate on the Porter amendment No. 19.
+- 2019-05-01 — DEBATE - Pursuant to the provisions of H. Res. 329, the Committee of the Whole proceeded with 10 minutes of debate on the Rouda amendment No. 18.
+- 2019-05-01 — DEBATE - Pursuant to the provisions of H. Res. 329, the Committee of the Whole proceeded with 10 minutes of debate on the Shalala amendment No. 7.
+- 2019-05-01 — DEBATE - Pursuant to the provisions of H. Res. 329, the Committee of the Whole proceeded with 10 minutes of debate on the Torres (CA) amendment No. 6.
+- 2019-05-01 — DEBATE - Pursuant to the provisions of H.Res. 329, the Committee of the Whole proceeded with 10 minutes of debate on the Espaillat amendment No. 2.
+- 2019-05-01 — GENERAL DEBATE - The Committee of the Whole proceeded with ninety minutes of general debate on H.R. 9.
+- 2019-05-01 — House amendment agreed to: On agreeing to the Bost amendment (A012) Agreed to by voice vote.
+- 2019-05-01 — House amendment agreed to: On agreeing to the Boyle, Brendan F. amendment (A015) Agreed to by voice vote.
+- 2019-05-01 — House amendment agreed to: On agreeing to the Case amendment (A011) Agreed to by voice vote.
+- 2019-05-01 — House amendment agreed to: On agreeing to the DeSaulnier amendment (A007) Agreed to by voice vote.
+- 2019-05-01 — House amendment agreed to: On agreeing to the Gonzalez-Colon (PR) amendment (A014) Agreed to by voice vote.
+- 2019-05-01 — House amendment agreed to: On agreeing to the Houlahan amendment (A003) Agreed to by voice vote.
+- 2019-05-01 — House amendment agreed to: On agreeing to the Kuster (NH) amendment (A004) Agreed to by voice vote.
+- 2019-05-01 — House amendment agreed to: On agreeing to the Lee (NV) amendment (A019) Agreed to by voice vote.
+- 2019-05-01 — House amendment agreed to: On agreeing to the Meng amendment (A013) Agreed to by voice vote.
+- 2019-05-01 — House amendment agreed to: On agreeing to the Omar amendment (A002) Agreed to by voice vote.
+- 2019-05-01 — House amendment agreed to: On agreeing to the Pallone amendment (A008) Agreed to by voice vote.
+- 2019-05-01 — House amendment agreed to: On agreeing to the Panetta amendment (A016) Agreed to by voice vote.
+- 2019-05-01 — House amendment agreed to: On agreeing to the Rouda amendment (A017) Agreed to by voice vote.
+- 2019-05-01 — House amendment agreed to: On agreeing to the Shalala amendment (A006) Agreed to by voice vote.
+- 2019-05-01 — House amendment agreed to: On agreeing to the Torres (CA) amendment (A005) Agreed to by voice vote.
+- 2019-05-01 — House amendment offered
+- 2019-05-01 — House amendment offered
+- 2019-05-01 — House amendment offered
+- 2019-05-01 — House amendment offered
+- 2019-05-01 — House amendment offered
+- 2019-05-01 — House amendment offered
+- 2019-05-01 — House amendment offered
+- 2019-05-01 — House amendment offered
+- 2019-05-01 — House amendment offered
+- 2019-05-01 — House amendment offered
+- 2019-05-01 — House amendment offered
+- 2019-05-01 — House amendment offered
+- 2019-05-01 — House amendment offered
+- 2019-05-01 — House amendment offered
+- 2019-05-01 — House amendment offered
+- 2019-05-01 — House amendment offered
+- 2019-05-01 — House amendment offered
+- 2019-05-01 — House amendment offered
+- 2019-05-01 — House amendment offered
+- 2019-05-01 — House amendment offered/reported by: Amendment (A001) offered by Mr. Espaillat.(consideration: CR H3382; text: CR H3382)
+- 2019-05-01 — House amendment offered/reported by: Amendment (A002) offered by Ms. Omar.
+- 2019-05-01 — House amendment offered/reported by: Amendment (A003) offered by Ms. Houlahan.
+- 2019-05-01 — House amendment offered/reported by: Amendment (A004) offered by Ms. Kuster (NH).
+- 2019-05-01 — House amendment offered/reported by: Amendment (A005) offered by Mrs. Torres (CA).
+- 2019-05-01 — House amendment offered/reported by: Amendment (A006) offered by Ms. Shalala.
+- 2019-05-01 — House amendment offered/reported by: Amendment (A007) offered by Mr. DeSaulnier.
+- 2019-05-01 — House amendment offered/reported by: Amendment (A008) offered by Mr. Pallone.
+- 2019-05-01 — House amendment offered/reported by: Amendment (A009) offered by Mr. Gosar.(consideration: CR H3388-3389; text: CR H3388)
+- 2019-05-01 — House amendment offered/reported by: Amendment (A010) offered by Mr. Gosar.(consideration: CR H3389-3390; text: CR H3389)
+- 2019-05-01 — House amendment offered/reported by: Amendment (A011) offered by Mr. Case.
+- 2019-05-01 — House amendment offered/reported by: Amendment (A012) offered by Mr. Bost.
+- 2019-05-01 — House amendment offered/reported by: Amendment (A013) offered by Ms. Meng.(consideration: CR H3392; text: CR H3392)
+- 2019-05-01 — House amendment offered/reported by: Amendment (A014) offered by Miss Gonzalez-Colon (PR).
+- 2019-05-01 — House amendment offered/reported by: Amendment (A015) offered by Mr. Boyle, Brendan F..
+- 2019-05-01 — House amendment offered/reported by: Amendment (A016) offered by Mr. Panetta.
+- 2019-05-01 — House amendment offered/reported by: Amendment (A017) offered by Mr. Rouda.
+- 2019-05-01 — House amendment offered/reported by: Amendment (A018) offered by Ms. Porter.(consideration: CR H3395-3396; text: CR H3395)
+- 2019-05-01 — House amendment offered/reported by: Amendment (A019) offered by Mrs. Lee (NV).
+- 2019-05-01 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 329 and Rule XVIII.
+- 2019-05-01 — Mr. Pallone moved that the Committee rise.
+- 2019-05-01 — On agreeing to the Bost amendment (A012) Agreed to by voice vote.
+- 2019-05-01 — On agreeing to the Boyle, Brendan F. amendment (A015) Agreed to by voice vote.
+- 2019-05-01 — On agreeing to the Case amendment (A011) Agreed to by voice vote.
+- 2019-05-01 — On agreeing to the DeSaulnier amendment (A007) Agreed to by voice vote.
+- 2019-05-01 — On agreeing to the Gonzalez-Colon (PR) amendment (A014) Agreed to by voice vote.
+- 2019-05-01 — On agreeing to the Houlahan amendment (A003) Agreed to by voice vote.
+- 2019-05-01 — On agreeing to the Kuster (NH) amendment (A004) Agreed to by voice vote.
+- 2019-05-01 — On agreeing to the Lee (NV) amendment (A019) Agreed to by voice vote.
+- 2019-05-01 — On agreeing to the Meng amendment (A013) Agreed to by voice vote.
+- 2019-05-01 — On agreeing to the Omar amendment (A002) Agreed to by voice vote.
+- 2019-05-01 — On agreeing to the Pallone amendment (A008) Agreed to by voice vote.
+- 2019-05-01 — On agreeing to the Panetta amendment (A016) Agreed to by voice vote.
+- 2019-05-01 — On agreeing to the Rouda amendment (A017) Agreed to by voice vote.
+- 2019-05-01 — On agreeing to the Shalala amendment (A006) Agreed to by voice vote.
+- 2019-05-01 — On agreeing to the Torres (CA) amendment (A005) Agreed to by voice vote.
+- 2019-05-01 — On motion that the Committee rise Agreed to by voice vote.
+- 2019-05-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Espaillat amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Pallone demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-05-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Gosar demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-05-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Gosar demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-05-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Porter amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Pallone demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-05-01 — Rule H. Res. 329 passed House.
+- 2019-05-01 — Rule provides for consideration of H.R. 9 with 1 hour and 30 minutes of general debate. Motion to recommit with or without instructions allowed. Measure will be considered read. Specified amendments are in order.
+- 2019-05-01 — The Speaker designated the Honorable Earl Blumenauer to act as Chairman of the Committee.
+- 2019-05-02 — Amendment (A020) offered by Mr. Kim. (consideration: CR H3411-3413; text: CR H3411)
+- 2019-05-02 — Amendment (A021) offered by Mrs. Fletcher. (consideration: CR H3413-3414; text: CR H3413)
+- 2019-05-02 — Amendment (A022) offered by Ms. Pressley. (consideration: CR H3414; text: CR H3414)
+- 2019-05-02 — Amendment (A023) offered by Ms. Schrier. (consideration: CR H3414-3415, H3424-3425; text: CR H3414)
+- 2019-05-02 — Amendment (A024) offered by Mr. Neguse. (consideration: CR H3415-3416; text: CR H3415)
+- 2019-05-02 — Amendment (A025) offered by Mr. Van Drew. (consideration: CR H3416-3417, H3425-3426; text: CR H3416)
+- 2019-05-02 — Amendment (A026) offered by Mr. Levin (CA). (consideration: CR H3417-3418; text: CR H3417)
+- 2019-05-02 — Amendment (A027) offered by Mr. Crow. (consideration: CR H3418-3419; text: CR H3418)
+- 2019-05-02 — Amendment (A028) offered by Mr. Engel. (consideration: CR H3419-3420, H3426; text: CR H3419)
+- 2019-05-02 — Amendment (A029) offered by Mr. Krishnamoorthi. (consideration: CR H3420-3421; text: CR H3420)
+- 2019-05-02 — Amendment agreed to Committee of the Whole
+- 2019-05-02 — Amendment agreed to Committee of the Whole
+- 2019-05-02 — Amendment agreed to Committee of the Whole
+- 2019-05-02 — Amendment agreed to Committee of the Whole
+- 2019-05-02 — Amendment agreed to Committee of the Whole
+- 2019-05-02 — Amendment agreed to Committee of the Whole
+- 2019-05-02 — Amendment agreed to Committee of the Whole
+- 2019-05-02 — Amendment agreed to Committee of the Whole
+- 2019-05-02 — Amendment agreed to Committee of the Whole
+- 2019-05-02 — Amendment agreed to Committee of the Whole
+- 2019-05-02 — Amendment agreed to Committee of the Whole
+- 2019-05-02 — Amendment agreed to Committee of the Whole
+- 2019-05-02 — Amendment failed in Committee of the Whole
+- 2019-05-02 — Amendment failed in Committee of the Whole
+- 2019-05-02 — Considered as unfinished business. (consideration: CR H3411-3420, H3420-3429)
+- 2019-05-02 — DEBATE - Pursuant to the provisions of H. Res. 329, the Committee of the Whole proceeded with 10 minutes of debate on the Crow amendment No. 28.
+- 2019-05-02 — DEBATE - Pursuant to the provisions of H. Res. 329, the Committee of the Whole proceeded with 10 minutes of debate on the Engel amendment No. 29.
+- 2019-05-02 — DEBATE - Pursuant to the provisions of H. Res. 329, the Committee of the Whole proceeded with 10 minutes of debate on the Fletcher amendment No. 22.
+- 2019-05-02 — DEBATE - Pursuant to the provisions of H. Res. 329, the Committee of the Whole proceeded with 10 minutes of debate on the Kim amendment No. 21.
+- 2019-05-02 — DEBATE - Pursuant to the provisions of H. Res. 329, the Committee of the Whole proceeded with 10 minutes of debate on the Krishnamoorthi amendment No. 30.
+- 2019-05-02 — DEBATE - Pursuant to the provisions of H. Res. 329, the Committee of the Whole proceeded with 10 minutes of debate on the Levin (CA) amendment No. 27.
+- 2019-05-02 — DEBATE - Pursuant to the provisions of H. Res. 329, the Committee of the Whole proceeded with 10 minutes of debate on the Neguse amendment No. 25.
+- 2019-05-02 — DEBATE - Pursuant to the provisions of H. Res. 329, the Committee of the Whole proceeded with 10 minutes of debate on the Pressley amendment No. 23.
+- 2019-05-02 — DEBATE - Pursuant to the provisions of H. Res. 329, the Committee of the Whole proceeded with 10 minutes of debate on the Schrier amendment No. 24.
+- 2019-05-02 — DEBATE - Pursuant to the provisions of H. Res. 329, the Committee of the Whole proceeded with 10 minutes of debate on the Van Drew amendment No. 26.
+- 2019-05-02 — DEBATE - The House proceeded with 10 minutes of debate on the Barr motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with new text at the end of the bill stating that this Act shall take effect on the date that the President certifies that meeting the nationally determined contribution of the United States under the Paris Agreement will not result in a net transfer of jobs from the United States to China.
+- 2019-05-02 — House amendment agreed to: On agreeing to the Crow amendment (A027) Agreed to by voice vote.
+- 2019-05-02 — House amendment agreed to: On agreeing to the Engel amendment (A028) Agreed to by recorded vote: 259 - 166 (Roll no. 182).
+- 2019-05-02 — House amendment agreed to: On agreeing to the Espaillat amendment (A001) Agreed to by recorded vote: 237 - 185 (Roll no. 175).
+- 2019-05-02 — House amendment agreed to: On agreeing to the Fletcher amendment (A021) Agreed to by recorded vote: 305 - 121 (Roll no. 179).
+- 2019-05-02 — House amendment agreed to: On agreeing to the Kim amendment (A020) Agreed to by voice vote.
+- 2019-05-02 — House amendment agreed to: On agreeing to the Krishnamoorthi amendment (A029) Agreed to by voice vote.
+- 2019-05-02 — House amendment agreed to: On agreeing to the Levin (CA) amendment (A026) Agreed to by voice vote.
+- 2019-05-02 — House amendment agreed to: On agreeing to the Neguse amendment (A024) Agreed to by voice vote.
+- 2019-05-02 — House amendment agreed to: On agreeing to the Porter amendment (A018) Agreed to by recorded vote: 262 - 163 (Roll no. 178).
+- 2019-05-02 — House amendment agreed to: On agreeing to the Pressley amendment (A022) Agreed to by voice vote.
+- 2019-05-02 — House amendment agreed to: On agreeing to the Schrier amendment (A023) Agreed to by recorded vote: 295 - 132 (Roll no. 180).
+- 2019-05-02 — House amendment agreed to: On agreeing to the Van Drew amendment (A025) Agreed to by recorded vote: 257 - 167 (Roll no. 181).
+- 2019-05-02 — House amendment not agreed to: On agreeing to the Gosar amendment (A009) Failed by recorded vote: 189 - 234 (Roll no. 176).
+- 2019-05-02 — House amendment not agreed to: On agreeing to the Gosar amendment (A010) Failed by recorded vote: 189 - 234 (Roll no. 177).
+- 2019-05-02 — House amendment offered
+- 2019-05-02 — House amendment offered
+- 2019-05-02 — House amendment offered
+- 2019-05-02 — House amendment offered
+- 2019-05-02 — House amendment offered
+- 2019-05-02 — House amendment offered
+- 2019-05-02 — House amendment offered
+- 2019-05-02 — House amendment offered
+- 2019-05-02 — House amendment offered
+- 2019-05-02 — House amendment offered
+- 2019-05-02 — House amendment offered/reported by: Amendment (A020) offered by Mr. Kim.
+- 2019-05-02 — House amendment offered/reported by: Amendment (A021) offered by Mrs. Fletcher.
+- 2019-05-02 — House amendment offered/reported by: Amendment (A022) offered by Ms. Pressley.
+- 2019-05-02 — House amendment offered/reported by: Amendment (A023) offered by Ms. Schrier.
+- 2019-05-02 — House amendment offered/reported by: Amendment (A024) offered by Mr. Neguse.(consideration: CR H3415-3416; text: CR H3415)
+- 2019-05-02 — House amendment offered/reported by: Amendment (A025) offered by Mr. Van Drew.(consideration: CR H3416-3417, H3425-3426; text: CR H3416)
+- 2019-05-02 — House amendment offered/reported by: Amendment (A026) offered by Mr. Levin (CA).(consideration: CR H3417-3418; text: CR H3417)
+- 2019-05-02 — House amendment offered/reported by: Amendment (A027) offered by Mr. Crow.
+- 2019-05-02 — House amendment offered/reported by: Amendment (A028) offered by Mr. Engel.
+- 2019-05-02 — House amendment offered/reported by: Amendment (A029) offered by Mr. Krishnamoorthi.
+- 2019-05-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-05-02 — Mr. Barr moved to recommit with instructions to the Committee on Foreign Affairs. (text: CR H3426)
+- 2019-05-02 — On agreeing to the Crow amendment (A027) Agreed to by voice vote.
+- 2019-05-02 — On agreeing to the Engel amendment (A028) Agreed to by recorded vote: 259 - 166 (Roll no. 182).
+- 2019-05-02 — On agreeing to the Espaillat amendment (A001) Agreed to by recorded vote: 237 - 185 (Roll no. 175).
+- 2019-05-02 — On agreeing to the Fletcher amendment (A021) Agreed to by recorded vote: 305 - 121 (Roll no. 179).
+- 2019-05-02 — On agreeing to the Gosar amendment (A009) Failed by recorded vote: 189 - 234 (Roll no. 176).
+- 2019-05-02 — On agreeing to the Gosar amendment (A010) Failed by recorded vote: 189 - 234 (Roll no. 177).
+- 2019-05-02 — On agreeing to the Kim amendment (A020) Agreed to by voice vote.
+- 2019-05-02 — On agreeing to the Krishnamoorthi amendment (A029) Agreed to by voice vote.
+- 2019-05-02 — On agreeing to the Levin (CA) amendment (A026) Agreed to by voice vote.
+- 2019-05-02 — On agreeing to the Neguse amendment (A024) Agreed to by voice vote.
+- 2019-05-02 — On agreeing to the Porter amendment (A018) Agreed to by recorded vote: 262 - 163 (Roll no. 178).
+- 2019-05-02 — On agreeing to the Pressley amendment (A022) Agreed to by voice vote.
+- 2019-05-02 — On agreeing to the Schrier amendment (A023) Agreed to by recorded vote: 295 - 132 (Roll no. 180).
+- 2019-05-02 — On agreeing to the Van Drew amendment (A025) Agreed to by recorded vote: 257 - 167 (Roll no. 181).
+- 2019-05-02 — On motion to recommit with instructions Failed by recorded vote: 206 - 214 (Roll no. 183).
+- 2019-05-02 — On passage Passed by recorded vote: 231 - 190 (Roll no. 184).
+- 2019-05-02 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Engel amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Engel demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-05-02 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Fletcher amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mrs. Fletcher demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-05-02 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Schrier amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Ms. Schrier demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-05-02 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Van Drew amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Van Drew demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-05-02 — Passed/agreed to in House: On passage Passed by recorded vote: 231 - 190 (Roll no. 184).
+- 2019-05-02 — Roll call votes on amendments in House
+- 2019-05-02 — Roll call votes on amendments in House
+- 2019-05-02 — Roll call votes on amendments in House
+- 2019-05-02 — Roll call votes on amendments in House
+- 2019-05-02 — Roll call votes on amendments in House
+- 2019-05-02 — Roll call votes on amendments in House
+- 2019-05-02 — Roll call votes on amendments in House
+- 2019-05-02 — Roll call votes on amendments in House
+- 2019-05-02 — The Committee resumed its sitting.
+- 2019-05-02 — The Committee rose informally to receive a message.
+- 2019-05-02 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2019-05-02 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 9.
+- 2019-05-02 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2019-05-02 — The previous question was ordered pursuant to the rule.
+- 2019-05-02 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier and on which further proceedings had been postponed.
