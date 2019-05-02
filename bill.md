@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 2496
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2496
+
+> To provide the right of American Indians born in Canada or the United States to pass the borders of the United States to any individual who is a member, or is eligible to be a member, of a Federally recognized Indian tribe in the United States or Canada, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Tribal Border Crossing Parity Act”.
+
+## § 2. American Indians born in Canada or the United States
+
+Section 289 of the Immigration and Nationality Act (8 U.S.C. 1359) is amended—
+
+- **(1)** by inserting after “born in Canada” the following: “or the United States”; and
+- **(2)** by inserting after “but such right shall extend only to persons” the following: “who are members, or are eligible to be members, of a Federally recognized Indian tribe in the United States or Canada, or ”.
