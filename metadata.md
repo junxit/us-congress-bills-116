@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 13
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 13
@@ -26,9 +26,13 @@ A concurrent resolution reaffirming the United States commitment to Taiwan and t
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Isakson, Johnny [R-GA] (I000055)
 
-## Committees (1)
+## Committees (5)
 
 - Senate — Foreign Relations Committee
+- House — Judiciary Committee
+- House — Homeland Security Committee
+- House — Ways and Means Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -38,3 +42,9 @@ A concurrent resolution reaffirming the United States commitment to Taiwan and t
 - 2019-04-30 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 4/4/2019 S2280-2281)
 - 2019-04-30 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S2525)
 - 2019-04-30 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S2525)
+- 2019-05-02 — Message on Senate action sent to the House.
+- 2019-05-02 — Received in the House.
+- 2019-05-02 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, Homeland Security, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-05-02 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, Homeland Security, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-05-02 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, Homeland Security, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-05-02 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, Homeland Security, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
