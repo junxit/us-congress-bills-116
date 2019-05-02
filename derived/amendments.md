@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1503
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `21 U.S.C. § 355` | amend | Clause (iii) of section 505(j)(7)(A) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j)(7)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 355` | amend | Paragraph (1) of section 505(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(b)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 355` | insert | by inserting after “the patent number and the expiration date of any patent which” the following: “fulfills the criteria in subsection (b) and”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 355` | insert | by inserting after the first sentence the following: “Patent information that is not the type of patent information required by subsection (b) shall not be submitted.”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 355` | insert | by inserting after “could not file patent information under subsection (b) because no patent ” the following: “of the type required to be submitted in subsection (b)”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 355` | add-at-end | Subparagraph (A) of section 505(j)(7) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j)(7)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 355` | add-at-end | Section 505(j)(7) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j)(7)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
