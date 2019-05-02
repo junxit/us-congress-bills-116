@@ -1,7 +1,7 @@
 ---
 measure: S. 406
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 406
@@ -22,9 +22,10 @@ Federal Rotational Cyber Workforce Program Act of 2019
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
 - Sen. Johnson, Ron [R-WI] (J000293)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -36,3 +37,6 @@ Federal Rotational Cyber Workforce Program Act of 2019
 - 2019-03-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 46.
 - 2019-04-30 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S2525-2528; text: CR S2527-2528)
 - 2019-04-30 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S2525-2528; text: CR S2527-2528)
+- 2019-05-02 — Message on Senate action sent to the House.
+- 2019-05-02 — Received in the House.
+- 2019-05-02 — Referred to the House Committee on Oversight and Reform.
