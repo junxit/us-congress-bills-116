@@ -18,7 +18,7 @@ This Act may be cited as the “Expand Navigators’ Resources for Outreach, Lea
 - **(a)** *In general* Section 1311(i) of the Patient Protection and Affordable Care Act (42 U.S.C. 18031(i)) is amended—
   - **(1)** in paragraph (2), by adding at the end the following new subparagraph:
     > - **(C)** *Selection of recipients* In the case of an Exchange established and operated by the Secretary within a State pursuant to section 1321(c), in awarding grants under paragraph (1), the Exchange shall—
-    >   - **(i)** select entities to receive such grants based solely on an entity’s demonstrated capacity to carry out each of the duties specified in paragraph (3);
+    >   - **(i)** select entities to receive such grants based on an entity’s demonstrated capacity to carry out each of the duties specified in paragraph (3);
     >   - **(ii)** not take into account whether or not the entity has demonstrated how the entity will provide information to individuals relating to group health plans offered by a group or association of employers described in section 2510.3–5(b) of title 29, Code of Federal Regulations (or any successor regulation), or short-term limited duration insurance (as defined by the Secretary for purposes of section 2791(b)(5) of the Public Health Service Act); and
     >   - **(iii)** ensure that, each year, the Exchange awards such a grant to—
     >     - **(I)** at least one entity described in this paragraph that is a community and consumer-focused nonprofit group; and
