@@ -23,12 +23,15 @@ This Act may be cited as the “State Allowance for a Variety of Exchanges Act�
       >   - **(A)** *In general* There shall be appropriated to the Secretary, out of any moneys in the Treasury not otherwise appropriated, $200,000,000 to award grants to eligible States for the uses described in paragraph (3).
       >   - **(B)** *Duration and renewability* A grant awarded under subparagraph (A) shall be for a period of two years and may not be renewed.
       >   - **(C)** *Limitation* A grant may not be awarded under subparagraph (A) after December 31, 2022.
-      >   - **(D)** *Eligible State defined* For purposes of this paragraph, the term eligible State means a State that, as of the date of the enactment of this paragraph, is not operating an Exchange.
+      >   - **(D)** *Eligible State defined* For purposes of this paragraph, the term eligible State means a State that, as of the date of the enactment of this paragraph, is not operating an Exchange (other than an Exchange described in section 155.200(f) of title 45, Code of Federal Regulations).
 
   - **(2)** in subsection (d)(5)(A)—
-    - **(A)** by striking “In establishing an Exchange under this section” and inserting “(i) In general.—In establishing an Exchange under this section (other than in establishing an Exchange pursuant to subsection (a)(6))”; and
+    - **(A)** by striking “operations.—In establishing an Exchange under this section” and inserting
+      > operations.—
+      > - **(i)** *In general* In establishing an Exchange under this section (other than in establishing an Exchange pursuant to a grant awarded under subsection (a)(6))
+
     - **(B)** by adding at the end the following:
-      > - **(ii)** *Additional planning and establishment grants* In establishing an Exchange pursuant to subsection (a)(6), the State shall ensure that such Exchange is self-sustaining beginning on January 1, 2024, including allowing the Exchange to charge assessments or user fees to participating health insurance issuers, or to otherwise generate funding, to support its operations.
+      > - **(ii)** *Additional planning and establishment grants* In establishing an Exchange pursuant to a grant awarded under subsection (a)(6), the State shall ensure that such Exchange is self-sustaining beginning on January 1, 2024, including allowing the Exchange to charge assessments or user fees to participating health insurance issuers, or to otherwise generate funding, to support its operations.
 
 - **(b)** *Clarification regarding failure To establish Exchange or implement requirements* Section 1321(c) of the Patient Protection and Affordable Care Act (42 U.S.C. 18041(c)) is amended—
   - **(1)** in paragraph (1), by striking “If” and inserting “Subject to paragraph (3), if”; and

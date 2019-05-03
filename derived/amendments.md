@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1385
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 3 executed, 3 stated and not applied.
+6 amendatory instructions. 2 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,15 +32,6 @@ to guess them.
 |---|---|
 | Removed | `under this subsection` |
 | Inserted | `under this paragraph or paragraph (1)` |
-
-### 42 U.S.C. § 18031
-
-> by striking “In establishing an Exchange under this section” and inserting “(i) In general.—In establishing an Exchange under this section (other than in establishing an Exchange pursuant to subsection (a)(6))”; and
-
-| | |
-|---|---|
-| Removed | `In establishing an Exchange under this section` |
-| Inserted | `(i) In general.—In establishing an Exchange under this section (other than in establishing an Exchange pursuant to subsection (a)(6))` |
 
 ### 42 U.S.C. § 18041
 
@@ -61,5 +52,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 18031` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 18031` | replace | by striking “operations.—In establishing an Exchange under this section” and inserting | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 18031` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 18041` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
