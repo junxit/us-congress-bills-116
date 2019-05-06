@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 162
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 162
@@ -28,3 +28,7 @@ A resolution supporting the designation of April 2019 as "National Donate Life M
 
 - 2019-04-11 — Introduced in Senate
 - 2019-04-11 — Referred to the Committee on Health, Education, Labor, and Pensions.
+- 2019-05-06 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR 4/11/2019 S2441)
+- 2019-05-06 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 4/11/2019 S2441)
+- 2019-05-06 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S2655)
+- 2019-05-06 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S2655)
