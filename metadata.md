@@ -1,7 +1,7 @@
 ---
 measure: S. 693
 congress: 116
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 693
@@ -42,3 +42,16 @@ National POW/MIA Flag Act
 - 2019-05-06 — Message on Senate action sent to the House.
 - 2019-05-07 — Received in the House.
 - 2019-05-07 — Referred to the House Committee on the Judiciary.
+- 2019-05-20 — Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.
+- 2019-10-22 — Considered under suspension of the rules. (consideration: CR H8354-8355)
+- 2019-10-22 — DEBATE - The House proceeded with forty minutes of debate on S. 693.
+- 2019-10-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-10-22 — Mr. Cohen moved to suspend the rules and pass the bill.
+- 2019-10-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8354)
+- 2019-10-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8354)
+- 2019-10-29 — Presented to President.
+- 2019-10-29 — Presented to President.
+- 2019-11-07 — Became Public Law No: 116-67.
+- 2019-11-07 — Became Public Law No: 116-67.
+- 2019-11-07 — Signed by President.
+- 2019-11-07 — Signed by President.
