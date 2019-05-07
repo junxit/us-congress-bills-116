@@ -1,0 +1,27 @@
+---
+legis-num: S. 1348
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1348
+
+> To require the Secretary of Defense to conduct a study on cyberexploitation of members of the Armed Forces and their families, and for other purposes.
+
+## § 1. Study on cyberexploitation of members of the Armed Forces and their families
+
+- **(a)** *Study required* Not later than 150 days after the date of the enactment of this Act, the Secretary of Defense shall complete a study on the cyberexploitation of the personal information and accounts of members of the Armed Forces and their families.
+- **(b)** *Elements* The study required by subsection (a) shall include the following:
+  - **(1)** An assessment of the vulnerability of members of the Armed Forces and their families to inappropriate access to their personal information and accounts of such members and their families, including identification of particularly vulnerable subpopulations.
+  - **(2)** Creation of a catalogue of past and current efforts by foreign governments and non-state actors at the cyberexploitation of the personal information and accounts of members of the Armed Forces and their families, including an assessment of the purposes of such efforts and their degrees of success.
+  - **(3)** An assessment of the actions taken by the Department of Defense to educate members of the Armed Forces and their families, including particularly vulnerable subpopulations, about any actions that can be taken to otherwise reduce these threats.
+  - **(4)** Assessment of the potential for the cyberexploitation of misappropriated images and videos as well as deep fakes.
+  - **(5)** Development of recommendations for policy changes to reduce the vulnerability of members of the Armed Forces and their families to cyberexploitation, including recommendations for legislative or administrative action.
+- **(c)** *Report*
+  - **(1)** *In general* The Secretary shall submit to the congressional defense committees a report on the findings of the Secretary with respect to the study required by subsection (a).
+  - **(2)** *Form* The report required by paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
+- **(d)** *Definitions* In this section:
+  - **(1)** The term congressional defense committees has the meaning given such term in section 101 of title 10, United States Code.
+  - **(2)** The term cyberexploitation means the use of digital means to knowingly access, or conspire to access, without authorization, an individual’s personal information to be employed (or to be used for) with malicious intent.
+  - **(3)** The term deep fake means the digital insertion of a person’s likeness into or digital alteration of a person’s likeness in visual media, such as photographs and videos, without the person’s permission and with malicious intent.
