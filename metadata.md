@@ -1,7 +1,7 @@
 ---
 measure: S. 693
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 693
@@ -26,9 +26,10 @@ National POW/MIA Flag Act
 - Sen. Reed, Jack [D-RI] (R000122)
 - Sen. Toomey, Patrick [R-PA] (T000461)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -38,3 +39,6 @@ National POW/MIA Flag Act
 - 2019-05-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S2624)
 - 2019-05-02 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2624)
 - 2019-05-02 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S2624)
+- 2019-05-06 — Message on Senate action sent to the House.
+- 2019-05-07 — Received in the House.
+- 2019-05-07 — Referred to the House Committee on the Judiciary.
