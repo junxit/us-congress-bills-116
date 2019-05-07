@@ -18,8 +18,8 @@ This Act may be cited as the “Championing American Business Through Diplomacy 
 Congress finds the following:
 
 - **(1)** According to the 2017 National Security Strategy of the United States of America, “Retaining our position as the world’s preeminent economic actor strengthens our ability to use the tools of economic diplomacy for the good of Americans and others.”.
-- **(2)** A November 7, 2018, cable from Secretary of State Michael R. Pompeo to all diplomatic and consular posts—“Boosting Commercial Diplomacy Around the World”—stated that “helping American companies is a foreign policy priority … Promoting broad-based, responsible, and sustainable economic growth helps to stabilize regions and creates new and growing markets for U.S. companies. A transparent and level playing field for U.S. investment in these countries counters real and growing challenges such as China’s Belt and Road initiative.”.
-- **(3)** In the January–February 2019 issue of The Foreign Service Journal, Ambassador Barbara Stephenson, the President of the American Foreign Service Association, wrote “Foreign Service support for American business … is a major reason why the U.S. Foreign Service was created.”.
+- **(2)** A November 7, 2018, cable from Secretary of State Michael R. Pompeo to all diplomatic and consular posts—“Boosting Commercial Diplomacy Around the World”—stated that “helping American companies is a foreign policy priority * * *. Promoting broad-based, responsible, and sustainable economic growth helps to stabilize regions and creates new and growing markets for U.S. companies. A transparent and level playing field for U.S. investment in these countries counters real and growing challenges such as China’s Belt and Road initiative.”.
+- **(3)** In the January–February 2019 issue of The Foreign Service Journal, Ambassador Barbara Stephenson, the President of the American Foreign Service Association, wrote “Foreign Service support for American business * * * is a major reason why the U.S. Foreign Service was created.”.
 
 ## § 3. Economic diplomacy within the Department of State
 
@@ -53,7 +53,7 @@ Section 708 of the Foreign Service Act of 1980 (22 U.S.C. 4028) is amended by ad
 
 ## § 6. Report from each mission on matters of commercial relations
 
-- **(a)** *In general* Not later than one year after the date of the enactment of this Act and annually thereafter, the chief of mission at each bilateral diplomatic mission of the United States and the Director of the American Institute in Taiwan shall submit to the Secretary of State the following:
+- **(a)** *In general* Not later than 1 year after the date of the enactment of this Act and annually thereafter, the chief of mission at each bilateral diplomatic mission of the United States and the Director of the American Institute in Taiwan shall submit to the Secretary of State the following:
   - **(1)** Data and other information regarding actions taken by each such mission or Institute during the previous year to foster commercial relations and safeguard United States economic and business interests in the country or region in which each such chief of mission and the Director serves.
   - **(2)** Each such mission’s and Institute’s anticipated economic and commercial priorities for the coming year.
 - **(b)** *Report to Congress* The Secretary of State, after receiving the information required under subsection (a), shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report, disaggregated by country or region, on activities and initiatives, including with appropriate examples, to create an enabling environment and otherwise promote United States economic and business interests in each such country or region, as well as information about significant foreign competition to United States businesses in the relevant country or region, including state-directed investments by foreign governments and United States strategic competitors in such country or region.
@@ -100,11 +100,11 @@ The Secretary of State and the Secretary of Commerce shall take actions to impro
   - **(4)** Environmental, social and governance safeguards.
   - **(5)** Local labor.
   - **(6)** Transparency.
-- **(b)** *Report on progress of negotiations* Not later than one year after the date of enactment of this Act, the President shall provide a briefing to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate on the progress of any negotiations described in subsection (a).
+- **(b)** *Report on progress of negotiations* Not later than 1 year after the date of enactment of this Act, the President shall provide a briefing to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate on the progress of any negotiations described in subsection (a).
 
 ## § 10. Report by Comptroller General of the United States
 
-- **(a)** *In general* Not later than two years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on United States economic and commercial diplomacy.
+- **(a)** *In general* Not later than 2 years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on United States economic and commercial diplomacy.
 - **(b)** *Matters To be included* The report required under subsection (a) shall include an assessment of the following:
   - **(1)** What is known about the effectiveness of United States economic and commercial diplomacy in influencing foreign governments and supporting United States businesses abroad.
   - **(2)** Coordination between the Department of State and the Department of Commerce with respect to United States economic and commercial diplomacy.
