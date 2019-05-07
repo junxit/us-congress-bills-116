@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 9
@@ -520,3 +520,5 @@ Climate Action Now Act
 - 2019-05-02 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-05-02 — The previous question was ordered pursuant to the rule.
 - 2019-05-02 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier and on which further proceedings had been postponed.
+- 2019-05-06 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2019-05-07 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 79.
