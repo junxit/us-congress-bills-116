@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2002
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2002
@@ -43,9 +43,10 @@ Taiwan Assurance Act of 2019
 - Rep. Bacon, Don [R-NE-2] (B001298)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -61,3 +62,4 @@ Taiwan Assurance Act of 2019
 - 2019-05-07 — Mr. Sires moved to suspend the rules and pass the bill.
 - 2019-05-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3455-3456)
 - 2019-05-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3455-3456)
+- 2019-05-08 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
