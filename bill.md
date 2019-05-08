@@ -56,13 +56,13 @@ This Act may be cited as the “Orange Book Transparency Act of 2019”.
     >     - **(II)** not before the expiration of any 180-day exclusivity period under paragraph (5)(B)(iv) that relies on a certification described in paragraph (2)(A)(vii)(IV) that such patent was invalid.
 
   - **(2)** *Applicability* Subparagraph (D) of section 505(j)(7) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j)(7)), as added by paragraph (1), applies only with respect to a decision described in such subparagraph that is issued on or after the date of enactment of this Act.
-- **(e)** *Review and report* Not later than one year after the date of enactment of this Act, the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, shall—
+- **(e)** *Review and report* Not later than 1 year after the date of enactment of this Act, the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, shall—
   - **(1)** solicit public comment regarding the types of patent information that should be included on the list under section 507(j)(7) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j)(7)); and
   - **(2)** transmit to the Congress an evaluation of such comments, including any recommendations about the types of patent information that should be included on or removed from such list.
 
 ## § 3. GAO report to Congress
 
-- **(a)** *In general* Not later than one year after the date of enactment of this Act, the Comptroller General of the United States (referred to in this section as the “Comptroller General”) shall submit to the Committee on Energy and Commerce of the House of Representatives a report on the patents included in the list published under section 505(j)(7) of the Federal Food, Drug and Cosmetic Act (21 U.S.C. 355(j)(7)), including an analysis and evaluation of the types of patents included in such list and the claims such patents make about the products they claim.
+- **(a)** *In general* Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States (referred to in this section as the “Comptroller General”) shall submit to the Committee on Energy and Commerce of the House of Representatives a report on the patents included in the list published under section 505(j)(7) of the Federal Food, Drug and Cosmetic Act (21 U.S.C. 355(j)(7)), including an analysis and evaluation of the types of patents included in such list and the claims such patents make about the products they claim.
 - **(b)** *Contents* The Comptroller General shall include in the report under subsection (a)—
   - **(1)** data on the number of—
     - **(A)** patents included in the list published under paragraph (7) of section 505(j) of the Federal Food, Drug and Cosmetic Act (21 U.S.C. 355(j)), that claim the active ingredient or formulation of a drug in combination with a device that is used for delivery of the drug, together comprising the finished dosage form of the drug; and
