@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 2603
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2603
+
+> To amend the Small Business Act to ensure that the Commonwealth of the Northern Mariana Islands is eligible for certain Small Business Administration programs, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Northern Mariana Islands Small Business Act”.
+
+## § 2. Eligibility of the Commonwealth of the Northern Mariana Islands for certain Small Business Administration programs
+
+The Small Business Act is amended—
+
+- **(1)** in section 7(m)(7)(B) (15 U.S.C. 636(m)(7)(B))—
+  - **(A)** by striking “and American Samoa” each place such term appears and inserting “American Samoa, and the Commonwealth of the Northern Mariana Islands”; and
+  - **(B)** in clause (i)(I)(bb), by striking “1/55” and inserting “1/56”;
+- **(2)** in section 21(a) (15 U.S.C. 648(a))—
+  - **(A)** in paragraph (1), by inserting before “The Administration shall require” the following new sentence: “The previous sentence shall not apply to an applicant that has its principal office located in the Commonwealth of the Northern Mariana Islands.”; and
+  - **(B)** in paragraph (4)(C)(ix), by striking “and American Samoa” and inserting “American Samoa, and the Commonwealth of the Northern Mariana Islands”; and
+- **(3)** in section 34(a)(9) (15 U.S.C. 657d(a)(9)), by striking “and American Samoa” and inserting “American Samoa, and the Commonwealth of the Northern Mariana Islands”.
