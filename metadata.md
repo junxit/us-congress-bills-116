@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1520
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1520
@@ -48,3 +48,11 @@ Further Extension of Continuing Appropriations Act, 2021
 - 2019-05-03 — Placed on the Union Calendar, Calendar No. 26.
 - 2019-05-03 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-48.
 - 2019-05-03 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-48.
+- 2019-05-08 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Eshoo objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2019-05-08 — Considered as unfinished business. (consideration: CR H3491-3492)
+- 2019-05-08 — Considered under suspension of the rules. (consideration: CR H3485-3486)
+- 2019-05-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1520.
+- 2019-05-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-05-08 — Ms. Eshoo moved to suspend the rules and pass the bill, as amended.
+- 2019-05-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 421 - 0 (Roll no. 188). (text: CR H3485-3486)
+- 2019-05-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 421 - 0 (Roll no. 188).(text: CR H3485-3486)
