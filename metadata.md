@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1704
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1704
@@ -26,9 +26,10 @@ Championing American Business Through Diplomacy Act of 2019
 - Rep. Meadows, Mark [R-NC-11] (M001187)
 - Rep. Schweikert, David [R-AZ-6] (S001183)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Championing American Business Through Diplomacy Act of 2019
 - 2019-05-07 — Mr. Sires moved to suspend the rules and pass the bill.
 - 2019-05-07 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 400 - 16 (Roll no. 186). (text: CR H3459-3460)
 - 2019-05-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 400 - 16 (Roll no. 186).(text: CR H3459-3460)
+- 2019-05-08 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
