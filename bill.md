@@ -64,3 +64,7 @@ In this Act:
 ## § 7. Rule of construction
 
 Nothing in this Act is intended to alter or amend any provision of section 254 of the Communications Act of 1934 (47 U.S.C. 254).
+
+## § 8. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
