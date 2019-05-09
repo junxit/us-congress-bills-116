@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 2638
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2638
+
+> To direct the Administrator of the Environmental Protection Agency to issue guidance on minimizing the use of firefighting foam containing PFAS, and for other purposes.
+
+## § 1. Guidance
+
+- **(a)** *In general* Not later than one year after the date of enactment of this Act, the Administrator of the Environmental Protection Agency shall issue guidance on minimizing the use of firefighting foam and other equipment containing any PFAS by firefighters, police officers, paramedics, emergency medical technicians, and other first responders, in order to minimize the risk to such firefighters, police officers, paramedics, emergency medical technicians, and other first responders, and the environment, without jeopardizing firefighting efforts.
+- **(b)** *Definition* In this Act, the term PFAS means a perfluoroalkyl or polyfluoroalkyl substance with at least one fully fluorinated carbon atom.
