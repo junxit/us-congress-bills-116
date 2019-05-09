@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 2633
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2633
+
+> To require the Administrator of the Small Business Administration to submit a report on the Office of Rural Affairs.
+
+## § 1. Short title
+
+This Act may be cited as the “Study of Office of Rural Affairs, within the Small Business Administration”.
+
+## § 2. Report on the Office of Rural Affairs
+
+Not later than 6 months after the date of the enactment of this Act, the Administrator of the Small Business Administration shall submit to Congress a report analyzing the cost and potential benefits of creating a successor office to the Office of Rural Affairs, in accordance with the requirements under section 26 of the Small Business Act (15 U.S.C. 653). Such report shall include—
+
+- **(1)** the dates on which the prior Office of Rural Affairs was created and dismantled;
+- **(2)** the rationale justifying the decision to dismantle the Office;
+- **(3)** a list of the year’s funds that were appropriated to the Office; and
+- **(4)** the cost and potential benefits to establishing an Associate Administrator for a successor office to the Office of Rural Affairs.
