@@ -1,7 +1,7 @@
 ---
 measure: S. 820
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 

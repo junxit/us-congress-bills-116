@@ -35,7 +35,13 @@ Section 2 of the DNA Analysis Backlog Elimination Act of 2000 (34 U.S.C. 40701) 
     > - **(1)** *In general* Not later
 
   - **(C)** by adding at the end the following:
-    > - **(2)** *Report on effectiveness of grant program* Not later than 180 days after the date on which the Comptroller General of the United States issues the 2018 report on the DNA Capacity Enhancement and Backlog Reduction Grant Program, or 180 days after the date of enactment of the Debbie Smith Act of 2019, whichever date is later, the Attorney General shall submit a report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives that—
+    > - **(2)** *Implementation of program improvements* Not later than 1 year after the date of enactment of the Debbie Smith Act of 2019—
+    >   - **(A)** the Director of the National Institute of Justice shall—
+    >     - **(i)** define DNA Capacity Enhancement and Backlog Reduction program-wide goals in clear, specific, and measurable terms;
+    >     - **(ii)** consistently document the goals defined under clause (i); and
+    >     - **(iii)** use performance measures for each goal defined under clause (i) that fully reflect the appropriate attributes of successful performance measures according to recommendations made by the Government Accountability Office in the report entitled, “DNA Evidence: DOJ Should Improve Performance Measurement and Properly Design controls for Nationwide Grant Program” (GAO-19-216); and
+    >   - **(B)** the Assistant Attorney General for the Office of Justice Programs shall fully establish all appropriate controls relating to conflicts of interest and to lobbying as reported by the Government Accountability Office in the report entitled, “DNA Evidence: DOJ Should Improve Performance Measurement and Properly Design controls for Nationwide Grant Program” (GAO-19-216).
+    > - **(2)(3)** *Report on effectiveness of grant program* Not later than 180 days after the date on which the Comptroller General of the United States issues the 2018 report on the DNA Capacity Enhancement and Backlog Reduction Grant Program, or 180 days after the date of enactment of the Debbie Smith Act of 2019, whichever date is later, the Attorney General shall submit a report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives that—
     >   - **(A)** describes any action taken by the Department of Justice since the release of the 2018 report on the DNA Capacity Enhancement and Backlog Reduction Grant Program to improve the DNA Capacity Enhancement and Backlog Reduction Grant Program based on the recommendations of the Comptroller General; and
     >   - **(B)** includes recommendations for reforms that could enhance the effectiveness of the program in reducing the backlog of unanalyzed DNA evidence in sexual assault cases.
     > - **(3)** *GAO report* Not later than 180 days after the end of the third fiscal year beginning after the date of enactment of this Act, and once every 3 fiscal years thereafter, the Comptroller General of the United States shall issue a report on the DNA Capacity Enhancement and Backlog Reduction Grant Program describing, by year—
@@ -48,6 +54,20 @@ Section 2 of the DNA Analysis Backlog Elimination Act of 2000 (34 U.S.C. 40701) 
     >   - **(G)** the number of sexual assault cases submitted to the laboratory during the year and the number of untested sexual assault cases older than 30 days at the end of the year;
     >   - **(H)** whether the National Institute of Justice has defined DNA Capacity Enhancement and Backlog Reduction program-wide goals in clear, specific, and measurable terms; and
     >   - **(I)** whether the Office of Justice Programs has fully established all appropriate controls related to lobbying.
+
+    > - **(4)** *GAO Report* Not later than 180 days after the end of the third fiscal year beginning after the date of enactment of the Debbie Smith Act of 2019, and once every 3 fiscal years thereafter through fiscal year 2025, the Comptroller General of the United States shall issue a report on the DNA analysis workloads at laboratories that participate in the Combined DNA Index System using data available from the DNA Capacity Enhancement and Backlog Reduction Grant Program or other sources that—
+    >   - **(A)** describes, by year—
+    >     - **(i)** the total number of new crime scene DNA analysis requests submitted to laboratories;
+    >     - **(ii)** the total number of crime scene DNA analysis requests analyzed including, to the extent practicable and reported separately—
+    >       - **(I)** the number analyzed at laboratories participating in Combined DNA Index System; and
+    >       - **(II)** the number of requests outsourced and analyzed at private laboratories;
+    >     - **(iii)** the total number of DNA profiles from crime scene evidence uploaded to the Combined DNA Index System;
+    >     - **(iv)** the total number of Combined DNA Index System hits and investigations aided resulting from DNA profiles recovered from crime scene evidence;
+    >     - **(v)** the number of outstanding crime scene DNA analysis requests at the end of each year and the number of such outstanding requests that are older than 30 days at the end of the year; and
+    >     - **(vi)** to the extent practicable, the number of requests associated with sexual assault cases submitted to laboratories during the year and the number of such requests that are older than 30 days at the end of the year; and
+    >   - **(B)** includes a determination as to—
+    >     - **(i)** whether the National Institute of Justice has defined DNA Capacity Enhancement and Backlog Reduction program-wide goals as required under paragraph (2)(A); and
+    >     - **(ii)** whether the Office of Justice Programs has fully established all appropriate controls relating to conflicts of interest and to lobbying as required under paragraph (2)(B).
 
 - **(5)** in subsection (j), by striking “2015 through 2019” and inserting “2019 through 2024”.
 
