@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 2643
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2643
+
+> To direct the Federal Communications Commission to establish a challenge process to verify fixed and mobile broadband service coverage data.
+
+## § 1. Short title
+
+This Act may be cited as the “Broadband Mapping After Public Scrutiny Act of 2019” or the “Broadband MAPS Act of 2019”.
+
+## § 2. Verification of broadband service coverage data
+
+- **(a)** *Rulemaking* Not later than 6 months after the date of the enactment of this Act, the Commission shall initiate a rulemaking to establish a challenge process to collect and use fixed and mobile broadband service coverage data submitted to the Commission by private entities and State, local, and Tribal government entities to verify fixed and mobile broadband service coverage data reported to the Commission by fixed and mobile broadband service providers.
+- **(b)** *Data submission standards* The process established under subsection (a) shall include uniform standards for data submitted through such process to ensure consistent and accurate reporting methods.
+- **(c)** *Data validation* The process established under subsection (a) shall include an evidence-based method to validate the accuracy of data submitted through such process.
+- **(d)** *Definitions* In this section:
+  - **(1)** *Commission* The term “Commission” means the Federal Communications Commission.
+  - **(2)** *State* The term “State” has the meaning given such term in section 3 of the Communications Act of 1934 (47 U.S.C. 153).
