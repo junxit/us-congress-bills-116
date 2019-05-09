@@ -1,7 +1,7 @@
 ---
 measure: S. 998
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -35,11 +35,11 @@ to guess them.
 
 ### 34 U.S.C. § 10493
 
-> in paragraph (6), by striking “human immunodeficiency virus” and inserting “infectious disease”;
+> in paragraph (6), by striking “the human immunodeficiency virus” and inserting “infectious disease”;
 
 | | |
 |---|---|
-| Removed | `human immunodeficiency virus` |
+| Removed | `the human immunodeficiency virus` |
 | Inserted | `infectious disease` |
 
 ## Stated, not applied

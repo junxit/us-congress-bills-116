@@ -30,7 +30,7 @@ Part W of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 
 
   - **(B)** in subsection (c)—
     - **(i)** in paragraph (5), by inserting “, mental health crisis, and suicide prevention” after “family crisis”;
-    - **(ii)** in paragraph (6), by striking “human immunodeficiency virus” and inserting “infectious disease”;
+    - **(ii)** in paragraph (6), by striking “the human immunodeficiency virus” and inserting “infectious disease”;
     - **(iii)** in paragraph (8), by inserting “, injured, or permanently disabled” after “killed”; and
     - **(iv)** by striking paragraph (10) and inserting the following:
       > - **(10)** Specialized training for identifying, reporting, and responding to officer mental health crises and suicide.
