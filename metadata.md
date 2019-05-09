@@ -1,7 +1,7 @@
 ---
 measure: S. 820
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 820
@@ -16,7 +16,7 @@ Debbie Smith Act of 2019
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Cosponsors (12)
+## Cosponsors (16)
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Tillis, Thomas [R-NC] (T000476)
@@ -30,6 +30,10 @@ Debbie Smith Act of 2019
 - Sen. Hawley, Josh [R-MO] (H001089)
 - Sen. Crapo, Mike [R-ID] (C000880)
 - Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Grassley, Chuck [R-IA] (G000386)
 
 ## Committees (1)
 
@@ -39,3 +43,7 @@ Debbie Smith Act of 2019
 
 - 2019-03-14 — Introduced in Senate
 - 2019-03-14 — Read twice and referred to the Committee on the Judiciary.
+- 2019-05-02 — Committee on the Judiciary. Ordered to be reported with an amendment favorably.
+- 2019-05-09 — Committee on the Judiciary. Reported by Senator Graham with amendments. Without written report.
+- 2019-05-09 — Committee on the Judiciary. Reported by Senator Graham with amendments. Without written report.
+- 2019-05-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 80.
