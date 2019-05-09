@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1328
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1328
@@ -44,9 +44,10 @@ ACCESS BROADBAND Act
 - Rep. Delgado, Antonio [D-NY-19] (D000630)
 - Rep. Slotkin, Elissa [D-MI-8] (S001208)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -60,3 +61,4 @@ ACCESS BROADBAND Act
 - 2019-05-08 — Mr. Tonko moved to suspend the rules and pass the bill, as amended.
 - 2019-05-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3488-3489)
 - 2019-05-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3488-3489)
+- 2019-05-09 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
