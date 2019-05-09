@@ -1,7 +1,7 @@
 ---
 measure: S. 1231
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 1 executed, 0 stated and not applied.
+2 amendatory instructions. 1 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,9 +26,20 @@ to guess them.
 
 ### 34 U.S.C. § 10261
 
-> Section 1001(a)(23) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10261(a)(23)) is amended by striking “part Y” and all that follows and inserting “part Y, $30,000,000 for fiscal year 2020, and each fiscal year thereafter.”.
+> (a) In general.—Section 1001(a)(23) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10261(a)(23)) is amended by striking “part Y” and all that follows and inserting “part Y, $30,000,000 for fiscal year 2020, and each fiscal year thereafter.”.
 
 | | |
 |---|---|
 | Removed | `part Y` |
 | Inserted | `part Y, $30,000,000 for fiscal year 2020, and each fiscal year thereafter.` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `34 U.S.C. § 10531` | insert | Part Y of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10531 et seq.) is amended by inserting before section 2501 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
