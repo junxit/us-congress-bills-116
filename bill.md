@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 2651
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2651
+
+> To amend the Child Nutrition Act of 1966 to clarify the availability and appropriateness of training for local food service personnel, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Improving Training for School Food Service Workers Act”.
+
+## § 2. Professional development and training
+
+Section 7(g)(2)(B) of the Child Nutrition Act of 1966 (42 U.S.C. 1776(g)(2)(B)) is amended by adding at the end the following:
+
+> - **(iv)** *Availability and appropriateness of training* A training program carried out under this subparagraph shall be—
+>   - **(I)** a program scheduled primarily during regular, paid working hours, and in the event such program is scheduled outside of such working hours—
+>     - **(aa)** efforts shall be made to inform food service personnel of the necessity of such program to be so scheduled;
+>     - **(bb)** compensation shall be provided to such personnel for attending such program; and
+>     - **(cc)** such personnel shall not be penalized for not being able to attend such program; and
+>   - **(II)** offered in-person whenever appropriate, and incorporate hands-on training techniques.
