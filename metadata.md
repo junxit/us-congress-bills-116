@@ -1,7 +1,7 @@
 ---
 measure: S. 1231
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1231
@@ -16,7 +16,7 @@ A bill to reauthorize the Bulletproof Vest Partnership Grant Program.
 
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 
-## Cosponsors (15)
+## Cosponsors (18)
 
 - Sen. Graham, Lindsey [R-SC] (G000359)
 - Sen. Feinstein, Dianne [D-CA] (F000062)
@@ -33,6 +33,9 @@ A bill to reauthorize the Bulletproof Vest Partnership Grant Program.
 - Sen. Gardner, Cory [R-CO] (G000562)
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
 - Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
 
 ## Committees (1)
 
@@ -42,3 +45,7 @@ A bill to reauthorize the Bulletproof Vest Partnership Grant Program.
 
 - 2019-04-30 — Introduced in Senate
 - 2019-04-30 — Read twice and referred to the Committee on the Judiciary.
+- 2019-05-09 — Committee on the Judiciary. Ordered to be reported with amendments favorably.
+- 2019-05-09 — Committee on the Judiciary. Reported by Senator Graham with amendments. Without written report.
+- 2019-05-09 — Committee on the Judiciary. Reported by Senator Graham with amendments. Without written report.
+- 2019-05-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 82.
