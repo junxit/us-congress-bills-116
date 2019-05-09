@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1520
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1520
@@ -31,9 +31,10 @@ Further Extension of Continuing Appropriations Act, 2021
 - Rep. Walden, Greg [R-OR-2] (W000791)
 - Rep. Mucarsel-Powell, Debbie [D-FL-26] (M001207)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -60,3 +61,4 @@ Further Extension of Continuing Appropriations Act, 2021
 - 2019-05-08 — Ms. Eshoo moved to suspend the rules and pass the bill, as amended.
 - 2019-05-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 421 - 0 (Roll no. 188). (text: CR H3485-3486)
 - 2019-05-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 421 - 0 (Roll no. 188).(text: CR H3485-3486)
+- 2019-05-09 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
