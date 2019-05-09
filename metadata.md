@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 357
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 357
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 986) to provide that certain guida
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2019-05-09 — [House 116-1-189](votes/house-116-1-0189.md) — On Ordering the Previous Question — **Passed** (227–190)
+- 2019-05-09 — [House 116-1-190](votes/house-116-1-0190.md) — On Agreeing to the Resolution — **Passed** (227–191)
+
 ## Actions
 
 - 2019-05-07 — Introduced in House
@@ -27,3 +32,9 @@ Providing for consideration of the bill (H.R. 986) to provide that certain guida
 - 2019-05-07 — Provides for consideration of H.R. 986 and H.R. 2157 both under structured rules. One hour of general debate provided for each measure.
 - 2019-05-07 — The House Committee on Rules reported an original measure, H. Rept. 116-51, by Ms. Shalala.
 - 2019-05-07 — The House Committee on Rules reported an original measure, H. Rept. 116-51, by Ms. Shalala.
+- 2019-05-09 — Considered as privileged matter. (consideration: CR H3510-3519)
+- 2019-05-09 — DEBATE - The House proceeded with one hour of debate on H. Res. 357.
+- 2019-05-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-05-09 — On agreeing to the resolution Agreed to by the Yeas and Nays: 227 - 191 (Roll no. 190). (text: CR H3510)
+- 2019-05-09 — On ordering the previous question Agreed to by the Yeas and Nays: 227 - 190, 1 Present (Roll no. 189). (consideration: CR H3518)
+- 2019-05-09 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 227 - 191 (Roll no. 190).(text: CR H3510)
