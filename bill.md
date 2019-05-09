@@ -1,0 +1,17 @@
+---
+legis-num: S. 1405
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1405
+
+> To amend the Internal Revenue Code of 1986 to extend the credit for production of refined coal.
+
+## § 1. Extension of refined coal production tax credit
+
+- **(a)** *In general* Section 45(e)(8) of the Internal Revenue Code of 1986 is amended—
+  - **(1)** in subparagraph (A), by striking “10-year period” each place it appears and inserting “12-year period”, and
+  - **(2)** in subparagraph (D)(ii)(II), by striking “10-year period” and inserting “12-year period”.
+- **(b)** *Effective date* The amendments made by this section shall apply to coal produced and sold after December 31, 2018.
