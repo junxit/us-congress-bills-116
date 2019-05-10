@@ -63,8 +63,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 4. Conforming amendments
 
-- **(a)** *In general* The Acts described under subsection (b) are amended by striking “Bureau of Consumer Financial Protection” each place such term appears and inserting “Consumer Financial Protection Bureau”.
-- **(b)** *Acts To conform* The Acts described in this subsection are as follows:
+- **(a)** *In general* The Acts and provisions described under subsection (b) are amended by striking “Bureau of Consumer Financial Protection” each place such term appears (including in headings and items in table of contents) and inserting “Consumer Financial Protection Bureau”.
+- **(b)** *Acts To conform* The Acts and provisions described in this subsection are as follows:
   - **(1)** The Alternative Mortgage Transaction Parity Act of 1982 (12 U.S.C. 3801 et seq.).
   - **(2)** The Consumer Credit Protection Act (15 U.S.C. 1601 et seq.).
   - **(3)** The Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5301 et seq.).
@@ -73,20 +73,20 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(6)** The Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3201 et seq.).
   - **(7)** The Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1811 note et seq.).
   - **(8)** The Financial Literacy and Education Improvement Act (20 U.S.C. 9701 et seq.).
-  - **(9)** The Gramm-Leach-Bliley Act (12 U.S.C. 1811 note et seq.).
-  - **(10)** The Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2801 et seq.).
-  - **(11)** The Homeowners Protection Act of 1998 (12 U.S.C. 4901 et seq.).
-  - **(12)** The Inspector General Act of 1978 (5 U.S.C. App 2).
-  - **(13)** The Interstate Land Sales Full Disclosure Act (15 U.S.C. 1701 et seq.).
-  - **(14)** The Omnibus Appropriations Act, 2009 (Public Law 111–8).
+  - **(9)** Section 626 of the Financial Services and General Government Appropriations Act, 2009 (Division D of Public Law 111–8; 12 U.S.C. 5538).
+  - **(10)** The Gramm-Leach-Bliley Act (12 U.S.C. 1811 note et seq.).
+  - **(11)** The Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2801 et seq.).
+  - **(12)** Section 10(a)(4) of the Homeowners Protection Act of 1998 (12 U.S.C. 4901 et seq.).
+  - **(13)** The Inspector General Act of 1978 (5 U.S.C. App 2).
+  - **(14)** The Interstate Land Sales Full Disclosure Act (15 U.S.C. 1701 et seq.).
   - **(15)** The Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2601 et seq.).
   - **(16)** Title LXII of the Revised Statutes of the United States (12 U.S.C. 21 et seq.).
   - **(17)** The Right to Financial Privacy Act of 1978 (12 U.S.C. 3401 et seq.).
   - **(18)** The S.A.F.E. Mortgage Licensing Act of 2008 (12 U.S.C. 5101 et seq.).
   - **(19)** The Telemarketing and Consumer Fraud and Abuse Prevention Act (15 U.S.C. 6101 et seq.).
-  - **(20)** Title 5, United States Code.
-  - **(21)** Title 10, United States Code.
-  - **(22)** Title 44, United States Code.
+  - **(20)** Sections 552a(w) and 3132(a)(1)(D) of title 5, United States Code.
+  - **(21)** Section 987(g)(3)(E) of title 10, United States Code.
+  - **(22)** Sections 3502(5) and 3513(c) of title 44, United States Code.
 
 ## § 5. Executive and administration powers
 
@@ -101,7 +101,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   > - **(D)** *Duty to provide adequate staffing* The Director shall ensure that the specific functional units and offices described under subsections (b), (c), (d), (e), (g), and (h) of section 1013, as well as other units and offices with supervisory and enforcement duties, are provided with sufficient staff to carry out the functions, duties, and coordination of those units and offices.
 
 - **(c)** *Limitation on political appointees* Section 1013(a)(1) of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5493(a)(1)) is amended by adding at the end the following:
-  > - **(D)** *Limitation on political appointees*
+  > - **(E)** *Limitation on political appointees*
   >   - **(i)** *In general* In appointing employees of the Bureau who are political appointees, the Director shall ensure that the number and duties of such political appointees are as similar as possible to those of the other Federal primary financial regulatory agencies.
   >   - **(ii)** *Political appointees defined* For purposes of this subparagraph, the term political appointee means an employee who holds—
   >     - **(I)** a position which has been excepted from the competitive service by reason of its confidential, policy-determining, policy-making, or policy-advocating character;
@@ -143,6 +143,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(C)** by adding at the end the following:
       > - **(10)** a list of each memorandum of understanding in effect with the Bureau, any changes made to a memorandum of understanding since the last report was made under subsection (b), and a justification for each such change;
 
+- **(f)** *Additional report information on consumer savings* Section 1013 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5493) is amended by adding at the end the following:
+  > - **(i)** *Additional report information on consumer savings* In issuing each report required under section 502(d) of the Credit CARD Act of 2009, the Bureau shall include a numerical estimate of the amount that such Act has saved consumers in fees impacted by such Act, relative to the level of such fees prior to the enactment of such Act.
+
 ## § 6. Offices of the Consumer Financial Protection Bureau
 
 - **(a)** *Clarification of the duties of the Office of Fair Lending and Equal Opportunity* Section 1013(c)(2) of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5493(c)(2)) is amended—
@@ -154,14 +157,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     > - **(F)** such additional powers and duties as the Director may determine appropriate.
 
 - **(b)** *Office of Students and Young Consumers*
-  - **(1)** *In general* Section 1013 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5493) is amended—
-    - **(A)** by redesignating subsection (h) as subsection (i); and
-    - **(B)** by inserting after subsection (g) the following:
-      > - **(h)** *Office of Students and Young Consumers*
-      >   - **(1)** *In general* The Director shall, not later than the end of the 60-day period beginning on the date of enactment of this section, establish an Office of Students and Young Consumers, which shall work to empower students, young people, and their families to make more informed financial decisions about saving and paying for college, accessing safer and more affordable financial products and services, all matters related to private education loans (as defined under section 1035(e)), and repaying student loan debt, including private education loans.
-      >   - **(2)** *Head of the Office* The head of the Office of Students and Young Consumers shall be the Assistant Director and Student Loan Ombudsman, and the Assistant Director and Student Loan Ombudsman shall carry out all functions established under section 1035 through the Office of Students and Young Consumers.
-      >   - **(3)** *Supervisory, enforcement, and regulatory matters* The Office of Students and Young Consumers shall assist in all supervisory, enforcement, and regulatory matters of the Bureau related to the functions of the Office.
-      >   - **(4)** *Coordination* The Director shall enter into memoranda of understanding and similar agreements with the Department of Education and other Federal and State agencies, as appropriate, in order to carry out the business of the Office of Students and Young Consumers.
+  - **(1)** *In general* Section 1013 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5493), as amended by section 5(f), is further amended by adding at the end the following:
+    > - **(j)** *Office of Students and Young Consumers*
+    >   - **(1)** *In general* The Director shall, not later than the end of the 60-day period beginning on the date of enactment of this section, establish an Office of Students and Young Consumers, which shall work to empower students, young people, and their families to make more informed financial decisions about saving and paying for college, accessing safer and more affordable financial products and services, all matters related to private education loans (as defined under section 1035(e)), and repaying student loan debt, including private education loans.
+    >   - **(2)** *Head of the Office* The head of the Office of Students and Young Consumers shall be the Assistant Director and Student Loan Ombudsman, and the Assistant Director and Student Loan Ombudsman shall carry out all functions established under section 1035 through the Office of Students and Young Consumers.
+    >   - **(3)** *Supervisory, enforcement, and regulatory matters* The Office of Students and Young Consumers shall assist in all supervisory, enforcement, and regulatory matters of the Bureau related to the functions of the Office.
+    >   - **(4)** *Coordination* The Director shall enter into memoranda of understanding and similar agreements with the Department of Education and other Federal and State agencies, as appropriate, in order to carry out the business of the Office of Students and Young Consumers.
 
   - **(2)** *Renaming and appointment clarification of the Private Education Loan Ombudsman*
     - **(A)** *In general* Section 1035 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5535) is amended—
@@ -169,9 +170,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
       - **(ii)** in subsection (a), by striking “The Secretary, in consultation with the Director, shall designate a Private Education Loan Ombudsman” and inserting “The Director shall designate an individual as the Assistant Director and Student Loan Ombudsman”;
       - **(iii)** in subsection (b), by striking “The Secretary and the Director” and inserting “The Director”; and
       - **(iv)** in subsection (d)(2), by inserting “the Director,” before “the Secretary,”.
-    - **(B)** *Clerical amendment* The table of contents under section 1(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act is amended, in the item relating to section 1035, by striking “PRIVATE EDUCATION” and inserting “ASSISTANT DIRECTOR AND STUDENT”.
+    - **(B)** *Clerical amendment* The table of contents under section 1(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act is amended, in the item relating to section 1035, by striking “Private education” and inserting “Assistant director and student”.
     - **(C)** *Deeming of name* Any reference in any law, regulation, document, record, or other paper of the United States to the “Private Education Loan Ombudsman” shall be deemed a reference to the “Assistant Director and Student Loan Ombudsman”.
-- **(c)** *Semi-Annual report to Congress on certain offices of the Bureau* Section 1016(c) of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5496(c)), as amended by section 5(e)(3), is further amended by adding at the end the following:
+- **(c)** *Semi-Annual report to Congress on certain offices of the Bureau* Section 1016(c) of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5496(c)), as amended by section 5(e)(2), is further amended by adding at the end the following:
   > - **(11)** with respect to each of the specific functional units and offices established under section 1013—
   >   - **(A)** a detailed description of the activities of the unit or office since the last report was made under subsection (b); and
   >   - **(B)** an analysis of the efforts of the Bureau to achieve the duties of the unit or office; and
@@ -201,8 +202,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(c)** *Treatment of members of the Consumer Advisory Board* Notwithstanding any other law—
   - **(1)** any member of the Consumer Advisory Board of the Consumer Financial Protection Bureau on November 1, 2017, may continue to serve as a member of such advisory board until March 27, 2020, and may not be removed from such position without cause by the Director of the Bureau until such date; and
   - **(2)** any member of the Consumer Advisory Board of the Consumer Financial Protection Bureau on the date of enactment of this Act, may continue to serve as a member of such advisory board until March 27, 2020, and may not be removed from such position without cause by the Director of the Bureau until such date.
-- **(d)** *Additional requirements for advisory committees* Section 1013 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5493) is amended by adding at the end the following:
-  > - **(j)** *Advisory committee requirements*
+- **(d)** *Additional requirements for advisory committees* Section 1013 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5493), as amended by section 6(b)(1), is further amended by adding at the end the following:
+  > - **(k)** *Advisory committee requirements*
   >   - **(1)** *Qualifications* In appointing members of any advisory committee, other than the Consumer Advisory Board, the Director shall ensure that at least 1/3 of the members represent the interests of consumers, including experts in consumer protection, fair lending, civil rights, and representatives of communities that have been significantly impacted by higher-priced mortgage loans and other products that resulted in consumer harm.
   >   - **(2)** *Selection of members representing minority-owned and women-owned businesses* In appointing members of any advisory committee, the Director shall seek to promote diversity and inclusion in making appointments, including by appointing individuals who represent minority-owned and women-owned businesses.
 

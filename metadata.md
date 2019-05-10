@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1500
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1500
@@ -59,3 +59,10 @@ Consumers First Act
 - 2019-03-05 — Introduced in House
 - 2019-03-05 — Referred to the Committee on Financial Services, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-03-05 — Referred to the Committee on Financial Services, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-03-28 — Committee Consideration and Mark-up Session Held.
+- 2019-03-28 — Ordered to be Reported (Amended) by the Yeas and Nays: 34 - 26.
+- 2019-05-10 — Committee on Education and Labor discharged.
+- 2019-05-10 — Committee on Education and Labor discharged.
+- 2019-05-10 — Placed on the Union Calendar, Calendar No. 35.
+- 2019-05-10 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-57, Part I.
+- 2019-05-10 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-57, Part I.
