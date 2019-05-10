@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 2660
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2660
+
+> To protect elections for public office by providing financial support and enhanced security for the infrastructure used to carry out such elections, and for other purposes.
+
+## § 1. Short title; table of contents
+
+- **(a)** *Short title* This Act may be cited as the “Election Security Act of 2019”.
+- **(b)** *Table of contents* The table of contents of this Act is as follows:
