@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1500
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -35,7 +35,7 @@ to guess them.
 
 ### 12 U.S.C. § 3801
 
-> The Acts described under subsection (b) are amended by striking “Bureau of Consumer Financial Protection” each place such term appears and inserting “Consumer Financial Protection Bureau”.
+> The Acts and provisions described under subsection (b) are amended by striking “Bureau of Consumer Financial Protection” each place such term appears (including in headings and items in table of contents) and inserting “Consumer Financial Protection Bureau”.
 
 | | |
 |---|---|
@@ -80,12 +80,12 @@ to guess them.
 
 ### 12 U.S.C. § 5535
 
-> The table of contents under section 1(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act is amended, in the item relating to section 1035, by striking “PRIVATE EDUCATION” and inserting “ASSISTANT DIRECTOR AND STUDENT”.
+> The table of contents under section 1(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act is amended, in the item relating to section 1035, by striking “Private education” and inserting “Assistant director and student”.
 
 | | |
 |---|---|
-| Removed | `PRIVATE EDUCATION` |
-| Inserted | `ASSISTANT DIRECTOR AND STUDENT` |
+| Removed | `Private education` |
+| Inserted | `Assistant director and student` |
 
 ### 12 U.S.C. § 5494
 
@@ -117,14 +117,14 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 5496` | strike | in paragraph (8), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 5496` | replace | in paragraph (9), by striking the period and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5496` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5493` | add-at-end | Section 1013 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5493) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5493` | strike | in subparagraph (C), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 5493` | replace | in subparagraph (D), by striking the period and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5493` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 5493` | redesignate | by redesignating subsection (h) as subsection (i); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 5493` | insert | by inserting after subsection (g) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5493` | add-at-end | Section 1013 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5493), as amended by section 5(f), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5535` | insert | in subsection (d)(2), by inserting “the Director,” before “the Secretary,”. | the bill quotes the text inserted but describes where it goes |
-| `12 U.S.C. § 5496` | add-at-end | Section 1016(c) of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5496(c)), as amended by section 5(e)(3), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5496` | add-at-end | Section 1016(c) of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5496(c)), as amended by section 5(e)(2), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5494` | amend | by amending subsection (b) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5494` | add-at-end | by adding at the end the following: “The Bureau shall provide adequate notice to the members of the Consumer Advisory Board of the time and date of each meeting, and of any meeting cancellations.” | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5494` | add-at-end | Section 1014 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5494) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 5493` | add-at-end | Section 1013 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5493) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5493` | add-at-end | Section 1013 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5493), as amended by section 6(b)(1), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
