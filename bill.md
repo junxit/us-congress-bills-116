@@ -13,24 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Creating and Restoring Equal Access to Equivalent Samples Act of 2019” or the “CREATES Act of 2019”.
 
-## § 2. Findings
-
-Congress finds the following:
-
-- **(1)** It is the policy of the United States to promote competition in the market for drugs and biological products by facilitating the timely entry of low-cost generic and biosimilar versions of those drugs and biological products.
-- **(2)** Since their enactment in 1984 and 2010, respectively, the Drug Price Competition and Patent Term Restoration Act of 1984 (Public Law 98–417; 98 Stat. 1585) and the Biologics Price Competition and Innovation Act of 2009 (subtitle A of title VII of Public Law 111–148; 124 Stat. 804), have provided pathways for making lower-cost versions of previously approved drugs and previously licensed biological products available to the people of the United States in a timely manner, thereby lowering overall prescription drug costs for patients and taxpayers by billions of dollars each year.
-- **(3)** In order for these pathways to function as intended, developers of generic drugs and biosimilar biological products (referred to in this section as “generic product developers”) must be able to obtain quantities of the reference listed drug or biological product with which the generic drug or biosimilar biological product is intended to compete (referred to in this section as a “covered product”) for purposes of supporting an application for approval by the Food and Drug Administration, including for testing to show that—
-  - **(A)** a prospective generic drug is bioequivalent to the covered product in accordance with subsection (j) of section 505 of the Federal, Food, Drug, and Cosmetic Act (21 U.S.C. 355), or meets the requirements for approval of an application submitted under subsection (b)(2) of that section; or
-  - **(B)** a prospective biosimilar biological product is biosimilar to or interchangeable with its reference biological product under section 351(k) of the Public Health Service Act (42 U.S.C. 262(k)), as applicable.
-- **(4)** For drugs and biological products that are subject to a risk evaluation and mitigation strategy, another essential component in the creation of low-cost generic and biosimilar versions of covered products is the ability of generic product developers to join the manufacturer of the covered product (referred to in this section as the “license holder”) in a single, shared system of elements to assure safe use and supporting agreements as required by section 505–1 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355–1), or secure a variance therefrom.
-- **(5)** Contrary to the policy of the United States to promote competition in the market for drugs and biological products by facilitating the timely entry of lower-cost generic and biosimilar versions of those drugs and biological products, certain license holders are preventing generic product developers from obtaining quantities of the covered product necessary for the generic product developer to support an application for approval by the Food and Drug Administration, including testing to show bioequivalence, biosimilarity, or interchangeability to the covered product, in some instances based on the justification that the covered product is subject to a risk evaluation and mitigation strategy with elements to assure safe use under section 505–1 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355–1).
-- **(6)** The Director of the Center for Drug Evaluation and Research of the Food and Drug Administration has testified that some manufacturers of covered products have used risk evaluation and mitigation strategies and distribution restrictions adopted by the manufacturer on their own behalf as reasons to not sell quantities of a covered product to generic product developers, causing barriers and delays in getting generic products on the market. The Food and Drug Administration has reported receiving significant numbers of inquiries from generic product developers who were unable to obtain samples of covered products to conduct necessary testing and otherwise meet requirements for approval of generic drugs.
-- **(7)** In 2018, the Acting Chairman of the Federal Trade Commission testified that the Federal Trade Commission continues to be very concerned about potential abuses by manufacturers of brand drugs of risk evaluation and mitigation strategies or other closed distribution systems to impede generic competition.
-- **(8)** Also contrary to the policy of the United States to promote competition in the market for drugs and biological products by facilitating the timely entry of lower-cost generic and biosimilar versions of those drugs and biological products, certain license holders are impeding the prompt negotiation and development on commercially reasonable terms of a single, shared system of elements to assure safe use, which may be necessary for the generic product developer to gain approval for its drug or licensing for its biological product.
-- **(9)** While the antitrust laws may address the refusal by some license holders to provide quantities of a covered product to a generic product developer, a more tailored legal pathway would help ensure that generic product developers can obtain necessary quantities of a covered product in a timely way for purposes of developing a generic drug or biosimilar biological product, facilitating competition in the marketplace for drugs and biological products.
-- **(10)** The antitrust laws may address actions by license holders who impede the prompt negotiation and development of a single, shared system of elements to assure safe use, and the Food and Drug Administration has some authority to waive the requirement of a single, shared system. Clearer regulatory authority to approve different systems that meet the statutory requirements to ensure patient safety, however, would limit the effectiveness of bad faith negotiations over single, shared systems to delay generic approval. At the same time, clearer regulatory authority would ensure all systems protect patient safety.
-
-## § 3. Actions for delays of generic drugs and biosimilar biological products
+## § 2. Actions for delays of generic drugs and biosimilar biological products
 
 - **(a)** *Definitions* In this section—
   - **(1)** the term commercially reasonable, market-based terms means—
@@ -42,9 +25,9 @@ Congress finds the following:
       - **(i)** any drug approved under subsection (c) or (j) of section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355) or biological product licensed under subsection (a) or (k) of section 351 of the Public Health Service Act (42 U.S.C. 262);
       - **(ii)** any combination of a drug or biological product described in clause (i); or
       - **(iii)** when reasonably necessary to support approval of an application under section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355), or section 351 of the Public Health Service Act (42 U.S.C. 262), as applicable, or otherwise meet the requirements for approval under either such section, any product, including any device, that is marketed or intended for use with such a drug or biological product; and
-    - **(B)** does not include any drug or biological product that appears on the drug shortage list in effect under section 506E of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 356e), unless the shortage will not be promptly resolved—
-      - **(i)** as demonstrated by the fact that the drug or biological product has been in shortage for more than 6 months; or
-      - **(ii)** as otherwise determined by the Secretary;
+    - **(B)** does not include any drug or biological product that appears on the drug shortage list in effect under section 506E of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 356e), unless—
+      - **(i)** the drug or biological product has been on the drug shortage list in effect under such section 506E continuously for more than 6 months; or
+      - **(ii)** the Secretary determines that inclusion of the drug or biological product as a covered product is likely to contribute to alleviating or preventing a shortage.
   - **(3)** the term device has the meaning given the term in section 201 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321);
   - **(4)** the term eligible product developer means a person that seeks to develop a product for approval pursuant to an application for approval under subsection (b)(2) or (j) of section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355) or for licensing pursuant to an application under section 351(k) of the Public Health Service Act (42 U.S.C. 262(k));
   - **(5)** the term license holder means the holder of an application approved under subsection (c) or (j) of section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355) or the holder of a license under subsection (a) or (k) of section 351 of the Public Health Service Act (42 U.S.C. 262) for a covered product;
@@ -52,7 +35,7 @@ Congress finds the following:
   - **(7)** the term REMS with ETASU means a REMS that contains elements to assure safe use under section 505–1(f) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355–1(f));
   - **(8)** the term Secretary means the Secretary of Health and Human Services;
   - **(9)** the term single, shared system of elements to assure safe use means a single, shared system of elements to assure safe use under section 505–1(f) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355–1(f)); and
-  - **(10)** the term sufficient quantities means an amount of a covered product that allows the eligible product developer to—
+  - **(10)** the term sufficient quantities means an amount of a covered product that the eligible product developer determines allows it to—
     - **(A)** conduct testing to support an application under—
       - **(i)** subsection (b)(2) or (j) of section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355); or
       - **(ii)** section 351(k) of the Public Health Service Act (42 U.S.C. 262(k)); and
@@ -86,16 +69,23 @@ Congress finds the following:
   - **(3)** *Affirmative defense* In a civil action brought under paragraph (1), it shall be an affirmative defense, on which the defendant has the burden of persuasion by a preponderance of the evidence—
     - **(A)** that, on the date on which the eligible product developer requested to purchase sufficient quantities of the covered product from the license holder—
       - **(i)** neither the license holder nor any of its agents, wholesalers, or distributors was engaged in the manufacturing or commercial marketing of the covered product; and
-      - **(ii)** neither the license holder nor any of its agents, wholesalers, or distributors otherwise had access to inventory of the covered product to supply to the eligible product developer on commercially reasonable, market-based terms; or
+      - **(ii)** neither the license holder nor any of its agents, wholesalers, or distributors otherwise had access to inventory of the covered product to supply to the eligible product developer on commercially reasonable, market-based terms;
     - **(B)** that—
       - **(i)** the license holder sells the covered product through agents, distributors, or wholesalers;
       - **(ii)** the license holder has placed no restrictions, explicit or implicit, on its agents, distributors, or wholesalers to sell covered products to eligible product developers; and
-      - **(iii)** the covered product can be purchased by the eligible product developer in sufficient quantities on commercially reasonable, market-based terms from the agents, distributors, or wholesalers of the license holder.
-  - **(4)** *Remedies*
+      - **(iii)** the covered product can be purchased by the eligible product developer in sufficient quantities on commercially reasonable, market-based terms from the agents, distributors, or wholesalers of the license holder; or
+    - **(C)** that the license holder made an offer to sell sufficient quantities of the covered product to the eligible product developer at commercially reasonable market-based terms—
+      - **(i)** for a covered product that is not subject to a REMS with ETASU, by the date that is 14 days after the date on which the license holder received the request for the covered product, and the eligible product developer did not accept such offer by the date that is 7 days after the date on which the eligible product developer received such offer from the license holder; or
+      - **(ii)** for a covered product that is subject to a REMS with ETASU, by the date that is 20 days after the date on which the license holder received the request for the covered product, and the eligible product developer did not accept such offer by the date that is 10 days after the date on which the eligible product developer received such offer from the license holder.
+  - **(4)** *Methods for transmission of requests for covered products* A written request for a covered product, offer to sell a covered product, or acceptance of such an offer between the eligible product developer and the license holder shall be made by—
+    - **(A)** certified or registered mail with return receipt requested;
+    - **(B)** personal delivery; or
+    - **(C)** electronic means.
+  - **(5)** *Remedies*
     - **(A)** *In general* If an eligible product developer prevails in a civil action brought under paragraph (1), the court shall—
       - **(i)** order the license holder to provide to the eligible product developer without delay sufficient quantities of the covered product on commercially reasonable, market-based terms;
       - **(ii)** award to the eligible product developer reasonable attorney's fees and costs of the civil action; and
-      - **(iii)** award to the eligible product developer a monetary amount sufficient to deter the license holder from failing to provide other eligible product developers with sufficient quantities of a covered product on commercially reasonable, market-based terms, if the court finds, by a preponderance of the evidence—
+      - **(iii)** award to the eligible product developer a monetary amount sufficient to deter the license holder from failing to provide eligible product developers with sufficient quantities of a covered product on commercially reasonable, market-based terms, if the court finds, by a preponderance of the evidence—
         - **(I)** that the license holder delayed providing sufficient quantities of the covered product to the eligible product developer without a legitimate business justification; or
         - **(II)** that the license holder failed to comply with an order issued under clause (i).
     - **(B)** *Maximum monetary amount* A monetary amount awarded under subparagraph (A)(iii) shall not be greater than the revenue that the license holder earned on the covered product during the period—
@@ -107,22 +97,24 @@ Congress finds the following:
       - **(ii)** ending on the date on which the eligible product developer received sufficient quantities of the covered product.
     - **(C)** *Avoidance of delay* The court may issue an order under subparagraph (A)(i) before conducting further proceedings that may be necessary to determine whether the eligible product developer is entitled to an award under clause (ii) or (iii) of subparagraph (A), or the amount of any such award.
 - **(c)** *Limitation of liability* A license holder for a covered product shall not be liable for any claim under Federal, State, or local law arising out of the failure of an eligible product developer to follow adequate safeguards to assure safe use of the covered product during development or testing activities described in this section, including transportation, handling, use, or disposal of the covered product by the eligible product developer.
-- **(d)** *No violation of REMS* The provision of samples of a drug pursuant to an authorization under subsection (b)(2)(B) shall not be considered a violation of the requirements of any risk evaluation and mitigation strategy that may be in place under section 505–1 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355–1) for such drug.
+- **(d)** *No violation of REMS* Section 505–1 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355–1) is amended by adding at the end the following new subsection:
+  > - **(l)** *Provision of samples not a violation of strategy* The provision of samples of a covered product to an eligible product developer (as those terms are defined in section 2(a) of the Creating and Restoring Equal Access to Equivalent Samples Act of 2019) shall not be considered a violation of the requirements of any risk evaluation and mitigation strategy that may be in place under this section for such drug.
+
 - **(e)** *Rule of construction*
   - **(1)** *Definition* In this subsection, the term antitrust laws—
     - **(A)** has the meaning given the term in subsection (a) of the first section of the Clayton Act (15 U.S.C. 12); and
     - **(B)** includes section 5 of the Federal Trade Commission Act (15 U.S.C. 45) to the extent that such section applies to unfair methods of competition.
   - **(2)** *Antitrust laws* Nothing in this section shall be construed to limit the operation of any provision of the antitrust laws.
 
-## § 4. REMS approval process for subsequent filers
+## § 3. REMS approval process for subsequent filers
 
-Section 505–1 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355–1) is amended—
+Section 505–1 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355–1), as amended by section 2, is further amended—
 
 - **(1)** in subsection (g)(4)(B)—
   - **(A)** in clause (i) by striking “or” after the semicolon;
   - **(B)** in clause (ii) by striking the period at the end and inserting “; or”; and
   - **(C)** by adding at the end the following:
-    > - **(iii)** accommodate different, comparable approved risk evaluation and mitigation strategies for a drug that is the subject of an application under section 505(j), and the applicable listed drug.
+    > - **(iii)** accommodate different, comparable aspects of the elements to assure safe use for a drug that is the subject of an application under section 505(j), and the applicable listed drug.
 
 - **(2)** in subsection (i)(1), by striking subparagraph (C) and inserting the following:
   > - **(C)**
@@ -131,5 +123,15 @@ Section 505–1 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355–1) 
   >     - **(II)** a different, comparable aspect of the elements to assure safe use under subsection (f).
   >   - **(ii)** The Secretary may require a drug that is the subject of an application under section 505(j) and the listed drug to use a single, shared system under subsection (f), if the Secretary determines that no different, comparable aspect of the elements to assure safe use could satisfy the requirements of subsection (f).
 
-- **(3)** by adding at the end the following:
-  > - **(l)** *Separate REMS* When used in this section, the terms “different, comparable aspect of the elements to assure safe use” or “different, comparable approved risk evaluation and mitigation strategies” means a risk evaluation and mitigation strategy for a drug that is the subject of an application under section 505(j) that uses different methods or operational means than the strategy required under subsection (a) for the applicable listed drug, or other application under section 505(j) with the same such listed drug, but achieves the same level of safety as such strategy.
+- **(3)** in subsection (i), by adding at the end the following:
+  > - **(3)** *Shared REMS* If the Secretary approves, in accordance with paragraph (1)(C)(i)(II), a different, comparable aspect of the elements to assure safe use under subsection (f) for a drug that is the subject of an abbreviated new drug application under section 505(j), the Secretary may require that such different comparable aspect of the elements to assure safe use can be used with respect to any other drug that is the subject of an application under section 505(j) or 505(b) that references the same listed drug.
+
+- **(4)** by adding at the end the following:
+  > - **(m)** *Separate REMS* When used in this section, the terms “different, comparable aspect of the elements to assure safe use” or “different, comparable approved risk evaluation and mitigation strategies” means a risk evaluation and mitigation strategy for a drug that is the subject of an application under section 505(j) that uses different methods or operational means than the strategy required under subsection (a) for the applicable listed drug, or other application under section 505(j) with the same such listed drug, but achieves the same level of safety as such strategy.
+
+## § 4. Rule of construction
+
+- **(a)** *In general* Nothing in this Act, the amendments made by this Act, or in section 505–1 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355–1), shall be construed as—
+  - **(1)** prohibiting a license holder from providing an eligible product developer access to a covered product in the absence of an authorization under this Act; or
+  - **(2)** in any way negating the applicability of a REMS with ETASU, as otherwise required under such section 505–1, with respect to such covered product.
+- **(b)** *Definitions* In this section, the terms “covered product”, “eligible product developer”, “license holder”, and “REMS with ETASU” have the meanings given such terms in section 3(a).
