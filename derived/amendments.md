@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2157
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-16 amendatory instructions. 3 executed, 13 stated and not applied.
+18 amendatory instructions. 5 executed, 13 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -50,6 +50,24 @@ to guess them.
 |---|---|
 | Removed | `State or unit of general local government` |
 | Inserted | `State, unit of general local government, or Indian tribe (as such term is defined in section 102 of the Housing and Community Development Act of 1974 (42 U.S.C. 5302))` |
+
+### 42 U.S.C. § 4016
+
+> Section 1309(a) of the National Flood Insurance Act of 1968 (42 U.S.C. 4016(a)) is amended by striking “May 31, 2019” and inserting “September 30, 2019”.
+
+| | |
+|---|---|
+| Removed | `May 31, 2019` |
+| Inserted | `September 30, 2019` |
+
+### 42 U.S.C. § 4026
+
+> Section 1319 of the National Flood Insurance Act of 1968 (42 U.S.C. 4026) is amended by striking “May 31, 2019” and inserting “September 30, 2019”.
+
+| | |
+|---|---|
+| Removed | `May 31, 2019` |
+| Inserted | `September 30, 2019` |
 
 ## Stated, not applied
 
