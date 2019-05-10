@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5
@@ -16,7 +16,7 @@ Equality Act
 
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 
-## Cosponsors (239)
+## Cosponsors (240)
 
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 - Rep. Craig, Angie [D-MN-2] (C001119)
@@ -257,6 +257,7 @@ Equality Act
 - Rep. Wild, Susan [D-PA-7] (W000826)
 - Rep. Wilson, Frederica S. [D-FL-24] (W000808)
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
 
 ## Committees (5)
 
@@ -275,3 +276,17 @@ Equality Act
 - 2019-03-13 — Referred to the Committee on the Judiciary, and in addition to the Committees on Education and Labor, Financial Services, Oversight and Reform, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-03-13 — Referred to the Committee on the Judiciary, and in addition to the Committees on Education and Labor, Financial Services, Oversight and Reform, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-03-13 — Referred to the Committee on the Judiciary, and in addition to the Committees on Education and Labor, Financial Services, Oversight and Reform, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-04-02 — Committee Hearings Held.
+- 2019-05-01 — Committee Consideration and Mark-up Session Held.
+- 2019-05-01 — Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 10.
+- 2019-05-10 — Committee on Education and Labor discharged.
+- 2019-05-10 — Committee on Education and Labor discharged.
+- 2019-05-10 — Committee on Financial Services discharged.
+- 2019-05-10 — Committee on Financial Services discharged.
+- 2019-05-10 — Committee on House Administration discharged.
+- 2019-05-10 — Committee on House Administration discharged.
+- 2019-05-10 — Committee on Oversight and Reform discharged.
+- 2019-05-10 — Committee on Oversight and Reform discharged.
+- 2019-05-10 — Placed on the Union Calendar, Calendar No. 34.
+- 2019-05-10 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-56, Part I.
+- 2019-05-10 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-56, Part I.
