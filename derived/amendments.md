@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 42 U.S.C. § 2000a
 
-> in paragraph (3), by striking “stadium” and all that follows and inserting “stadium or other place of or establishment that provides exhibition, entertainment, recreation, exercise, amusement, gathering, or display;”;
+> in paragraph (3), by striking “stadium” and all that follows and inserting “stadium or other place of or establishment that provides exhibition, entertainment, recreation, exercise, amusement, public gathering, or public display;”;
 
 | | |
 |---|---|
 | Removed | `stadium` |
-| Inserted | `stadium or other place of or establishment that provides exhibition, entertainment, recreation, exercise, amusement, gathering, or display;` |
+| Inserted | `stadium or other place of or establishment that provides exhibition, entertainment, recreation, exercise, amusement, public gathering, or public display;` |
 
 ### 42 U.S.C. § 2000e-2
 
