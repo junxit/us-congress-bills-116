@@ -1,7 +1,7 @@
 ---
 measure: H.R. 299
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-21 amendatory instructions. 3 executed, 18 stated and not applied.
+24 amendatory instructions. 4 executed, 20 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,21 +26,30 @@ to guess them.
 
 ### 12 U.S.C. § 1454
 
-> in subparagraph (C), by striking “Freddie Mac” and all that follows through the period at the end and inserting “amount of the loan.”.
+> in clause (ii), by striking “subparagraph (B) of this paragraph” and inserting “subparagraph (B) or (C)”;
 
 | | |
 |---|---|
-| Removed | `Freddie Mac` |
-| Inserted | `amount of the loan.` |
+| Removed | `subparagraph (B) of this paragraph` |
+| Inserted | `subparagraph (B) or (C)` |
 
 ### 12 U.S.C. § 1454
 
-> by striking “A fee” and inserting “Subject to paragraph (3), a fee”;
+> by striking “The maximum” and inserting “With respect to loans described in subclauses (I), (II), or (III) of subparagraph (A)(i), the maximum”; and
 
 | | |
 |---|---|
-| Removed | `A fee` |
-| Inserted | `Subject to paragraph (3), a fee` |
+| Removed | `The maximum` |
+| Inserted | `With respect to loans described in subclauses (I), (II), or (III) of subparagraph (A)(i), the maximum` |
+
+### 12 U.S.C. § 1454
+
+> Section 3710(d)(4) of such title is amended by striking “section 3703(a)(1)(B) of this title” and inserting “subparagraph (B) or (C) of section 3703(a)(1) of this title”.
+
+| | |
+|---|---|
+| Removed | `section 3703(a)(1)(B) of this title` |
+| Inserted | `subparagraph (B) or (C) of section 3703(a)(1) of this title` |
 
 ### 12 U.S.C. § 1454
 
@@ -72,9 +81,11 @@ complete account of the bill's effect, which it is not.
 | — | insert | The heading for subchapter III of chapter 18 of such title is amended by inserting “and Thailand” after “Korea”. | the bill names no machine-readable US Code section |
 | — | replace | by striking the item relating to subchapter III and inserting the following new item: | the bill names no machine-readable US Code section |
 | — | insert | by inserting after the item relating to section 1821 the following new item: | the bill names no machine-readable US Code section |
-| `12 U.S.C. § 1454` | strike | by striking “the lesser of”; and | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 1454` | strike | by striking “or 25 percent of the loan”; and | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 1454` | replace | Section 3729(b)(2) of such title is amended by striking the loan fee table and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1454` | insert | by inserting before the period at the end the following: “, or from a member of the Armed Forces serving on active duty who was awarded the Purple Heart”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1454` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1454` | strike | in clause (i)(IV), by striking “the lesser of the maximum guaranty amount (as defined in subparagraph (C)) or”; | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1454` | strike | by striking “or in the case” and all that follows through “subparagraph (C)),”; and | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1454` | replace | by striking subparagraph (C) and inserting the following new subparagraph (C): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1454` | strike | by striking paragraph (1); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1454` | redesignate | by redesignating paragraphs (2) and (3) as paragraphs (1) and (2), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1454` | replace | Section 3729(b)(2) of title 38, United States Code, is amended by striking the loan fee table and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1454` | insert | by inserting before the period at the end the following: “, or from a member of the Armed Forces who is serving on active duty and who provides, on or before the date of loan closing, evidence of having been awarded the Purple Heart”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 3731(b) of title 38, United States Code, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |

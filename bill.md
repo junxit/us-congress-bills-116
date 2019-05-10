@@ -28,21 +28,27 @@ This Act may be cited as the “Blue Water Navy Vietnam Veterans Act of 2019”.
   >       - **(i)** The veteran or survivor submitted a claim for disability compensation on or after September 25, 1985, and before January 1, 2020, for a disease covered by this section, and the claim was denied by reason of the claim not establishing that the disease was incurred or aggravated by the service of the veteran.
   >       - **(ii)** The veteran or survivor submits a claim for disability compensation on or after January 1, 2020, for the same condition covered by the prior claim under clause (i), and the claim is approved pursuant to this section.
   > - **(d)** *Determination of offshore* Notwithstanding any other provision of law, for purposes of this section, the Secretary shall treat a location as being offshore of Vietnam if the location is not more than 12 nautical miles seaward of a line commencing on the southwestern demarcation line of the waters of Vietnam and Cambodia and intersecting the following points:
-  > - **(e)** *Herbicide agent* In this section, the term herbicide agent has the meaning given that term in section 1116 (a)(3) of this title.
+  > - **(e)** *Herbicide agent* In this section, the term herbicide agent has the meaning given that term in section 1116(a)(3) of this title.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 1116 the following new item:
 - **(c)** *Implementation*
-  - **(1)** *Guidance* Notwithstanding section 501 of such title, the Secretary of Veterans Affairs may issue guidance to implement section 1116A of title 38, United States Code, as added by subsection (a).
-  - **(2)** *Updates* On a quarterly basis during the period beginning on the date of the enactment of this Act and ending on the date on which regulations are prescribed to carry out such section 1116A, the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate updates on the status of such regulations.
+  - **(1)** *Guidance* Notwithstanding section 501 of such title, the Secretary of Veterans Affairs may issue guidance to implement section 1116A of title 38, United States Code, as added by subsection (a), before prescribing new regulations under such section.
+  - **(2)** *Updates*
+    - **(A)** Not later than 120 days after the date of the enactment of this Act, the Secretary shall submit a report to the Committees on Veterans’ Affairs of the House of Representatives and the Senate regarding the plans of the Secretary—
+      - **(i)** to conduct outreach under subsection (d); and
+      - **(ii)** to respond to inquiries from veterans regarding claims for disability compensation under section 1116A of title 38, United States Code, as added by subsection (a) of this section.
+    - **(B)** On a quarterly basis during the period beginning on the date of the enactment of this Act and ending on the date on which regulations are prescribed to carry out such section 1116A, the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate updates on the status of such regulations.
   - **(3)** *Pending cases*
     - **(A)** *Authority to stay* The Secretary may stay a claim described in subparagraph (B) until the date on which the Secretary commences the implementation of such section 1116A.
     - **(B)** *Claims described* A claim described in this subparagraph is a claim for disability compensation—
       - **(i)** relating to the service and diseases covered by such section 1116A; and
       - **(ii)** that is pending at the Veterans Benefits Administration or the Board of Veterans’ Appeals on or after the date of the enactment of this Act and before the date on which the Secretary commences the implementation of such section 1116A.
 - **(d)** *Outreach*
-  - **(1)** *Requirement* The Secretary of Veterans Affairs shall conduct outreach to inform veterans described in paragraph (2) of the ability to submit a claim for disability compensation under section 1116A of title 38, United States Code, as added by subsection (a).
+  - **(1)** *Requirement* The Secretary of Veterans Affairs shall conduct outreach to inform veterans described in paragraph (2) of the ability to submit a claim for disability compensation under section 1116A of title 38, United States Code, as added by subsection (a). Such outreach shall include the following:
+    - **(A)** The Secretary shall publish on the website of the Department a notice that a veterans described in paragraph (2) may submit or resubmit a claim for disability compensation under such section 1116A.
+    - **(B)** The Secretary shall notify in writing the veteran service organization community of the ability of veterans described in paragraph (2) to submit or resubmit claims for disability compensation under such section 1116A.
   - **(2)** *Veteran described* A veteran described in this paragraph is a veteran who, during active military, naval, or air service, served offshore of the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975.
-- **(e)** *Reports* Not later than January 1, 2020, and not later than January 1, 2022, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report on claims for disability compensation under section 1116A of title 38, United States Code, as added by subsection (a). Each report shall include the following with respect to the period covered by the report, disaggregated by the regional offices of the Department of Veterans Affairs:
+- **(e)** *Reports* Not later than January 1, 2021, and annually thereafter for two years, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report regarding claims for disability compensation under section 1116A of title 38, United States Code, as added by subsection (a). Each report shall include, with respect to the calendar year preceding the report, disaggregated by the regional offices of the Department of Veterans Affairs, the following:
   - **(1)** The number of claims filed under such section.
   - **(2)** The number of such claims granted.
   - **(3)** The number of such claims denied.
@@ -65,11 +71,16 @@ This Act may be cited as the “Blue Water Navy Vietnam Veterans Act of 2019”.
   > - **(c)** *Herbicide agent* For purposes of this section, the term herbicide agent has the meaning given such term in section 1821(d) of this title.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 1116A, as added by section 2, the following new item:
-- **(c)** *Pending cases*
-  - **(1)** *Authority to stay* The Secretary may stay a claim described in subparagraph (B) until the date on which the Secretary commences the implementation of section 1116B of title 38, United States Code, as added by subsection (a).
-  - **(2)** *Claims described* A claim described in this subparagraph is a claim for disability compensation—
-    - **(A)** relating to the service and diseases covered by such section 1116B; and
-    - **(B)** that is pending at the Veterans Benefits Administration or the Board of Veterans’ Appeals on or after the date of the enactment of this Act and before the date on which the Secretary commences the implementation of such section 1116B.
+- **(c)** *Implementation*
+  - **(1)** *Guidance* Notwithstanding section 501 of such title, the Secretary of Veterans Affairs may issue guidance to implement section 1116B of title 38, United States Code, as added by subsection (a), before prescribing new regulations under such section.
+  - **(2)** *Updates*
+    - **(A)** Not later than 120 days after the date of the enactment of this Act, the Secretary shall submit a report to the Committees on Veterans’ Affairs of the House of Representatives and the Senate regarding the plans of the Secretary to respond to inquiries from veterans regarding claims for disability compensation under section 1116B of title 38, United States Code, as added by subsection (a) of this section.
+    - **(B)** On a quarterly basis during the period beginning on the date of the enactment of this Act and ending on the date on which regulations are prescribed to carry out such section 1116B, the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate updates on the status of such regulations.
+  - **(3)** *Pending cases*
+    - **(A)** *Authority to stay* The Secretary may stay a claim described in subparagraph (B) until the date on which the Secretary commences the implementation of section 1116B of title 38, United States Code, as added by subsection (a).
+    - **(B)** *Claims described* A claim described in this subparagraph is a claim for disability compensation—
+      - **(i)** relating to the service and diseases covered by such section 1116B; and
+      - **(ii)** that is pending at the Veterans Benefits Administration or the Board of Veterans’ Appeals on or after the date of the enactment of this Act and before the date on which the Secretary commences the implementation of such section 1116B.
 - **(d)** *Effective date* The amendments made by this section shall take effect on January 1, 2020.
 
 ## § 4. Benefits for children of certain Thailand service veterans born with spina bifida
@@ -98,11 +109,16 @@ This Act may be cited as the “Blue Water Navy Vietnam Veterans Act of 2019”.
   - **(2)** *Table of sections* The table of sections at the beginning of chapter 18 of such title is amended—
     - **(A)** by striking the item relating to subchapter III and inserting the following new item:
     - **(B)** by inserting after the item relating to section 1821 the following new item:
-- **(d)** *Pending cases*
-  - **(1)** *Authority to stay* The Secretary may stay a claim described in subparagraph (B) until the date on which the Secretary commences the implementation of section 1822 of title 38, United States Code, as added by subsection (a).
-  - **(2)** *Claims described* A claim described in this subparagraph is a claim for benefits—
-    - **(A)** relating to the spina bifida and service covered by such section 1822; and
-    - **(B)** that is pending at the Veterans Benefits Administration or the Board of Veterans’ Appeals on or after the date of the enactment of this Act and before the date on which the Secretary commences the implementation of such section 1822.
+- **(d)** *Implementation*
+  - **(1)** *Guidance* Notwithstanding section 501 of such title, the Secretary of Veterans Affairs may issue guidance to implement section 1822 of title 38, United States Code, as added by subsection (a), before prescribing new regulations under such section.
+  - **(2)** *Updates*
+    - **(A)** Not later than 120 days after the date of the enactment of this Act, the Secretary shall submit a report to the Committees on Veterans’ Affairs of the House of Representatives and the Senate regarding the plans of the Secretary to respond to inquiries from veterans regarding claims for disability compensation under section 1822 of title 38, United States Code, as added by subsection (a) of this section.
+    - **(B)** On a quarterly basis during the period beginning on the date of the enactment of this Act and ending on the date on which regulations are prescribed to carry out such section 1822, the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate updates on the status of such regulations.
+  - **(3)** *Pending cases*
+    - **(A)** *Authority to stay* The Secretary may stay a claim described in subparagraph (B) until the date on which the Secretary commences the implementation of section 1822 of title 38, United States Code, as added by subsection (a).
+    - **(B)** *Claims described* A claim described in this subparagraph is a claim for benefits—
+      - **(i)** relating to the spina bifida and service covered by such section 1822; and
+      - **(ii)** that is pending at the Veterans Benefits Administration or the Board of Veterans’ Appeals on or after the date of the enactment of this Act and before the date on which the Secretary commences the implementation of such section 1822.
 - **(e)** *Report* Not later than 180 days after the date of the enactment of this Act, the Secretary of Veterans Affairs, in consultation with the Secretary of Defense, shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report identifying—
   - **(1)** the military installations of the United States located in Thailand during the period beginning on January 9, 1962, and ending on May 7, 1975, at which an herbicide agent (as defined in section 1822 of title 38, United States Code, as added by subsection (a)) was actively used; and
   - **(2)** the period of such use.
@@ -114,22 +130,32 @@ Not later than 180 days after the date of the enactment of this Act, the Secreta
 
 ## § 6. Loans guaranteed under home loan program of Department of Veterans Affairs
 
-- **(a)** *Adjustment of loan limit* Section 3703(a)(1) of title 38, United States Code, is amended—
-  - **(1)** in subparagraph (A)(i)(IV)—
-    - **(A)** by striking “the lesser of”; and
-    - **(B)** by striking “or 25 percent of the loan”; and
-  - **(2)** in subparagraph (C), by striking “Freddie Mac” and all that follows through the period at the end and inserting “amount of the loan.”.
-- **(b)** *Loan fees* Section 3729(b)(2) of such title is amended by striking the loan fee table and inserting the following:
-- **(c)** *Waiver of fees for Purple Heart recipients; collection of certain loan fees* Section 3729(c) of such title is amended—
-  - **(1)** in paragraph (1)—
-    - **(A)** by striking “A fee” and inserting “Subject to paragraph (3), a fee”;
-    - **(B)** by striking “or from a surviving spouse” and inserting “, from a surviving spouse”; and
-    - **(C)** by inserting before the period at the end the following: “, or from a member of the Armed Forces serving on active duty who was awarded the Purple Heart”.
-  - **(2)** by adding at the end the following new paragraph:
-    > - **(3)** A fee shall be collected under this section from any veteran with a service-connected disability rated as less than total, any surviving spouse of such a veteran, and any member of the Armed Forces who, on or after January 1, 2020, receives a loan in an amount that exceeds the Freddie Mac conforming loan limit limitation determined under section 305(a)(2) of the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1454(a)(2)) for a single-family residence, as adjusted for the year involved.
+- **(a)** *Adjustment of loan limit*
+  - **(1)** *In general* Section 3703(a)(1) of title 38, United States Code, is amended—
+    - **(A)** in subparagraph (A)—
+      - **(i)** in clause (i)(IV), by striking “the lesser of the maximum guaranty amount (as defined in subparagraph (C)) or”;
+      - **(ii)** in clause (ii), by striking “subparagraph (B) of this paragraph” and inserting “subparagraph (B) or (C)”;
+    - **(B)** in subparagraph (B)—
+      - **(i)** by striking “The maximum” and inserting “With respect to loans described in subclauses (I), (II), or (III) of subparagraph (A)(i), the maximum”; and
+      - **(ii)** by striking “or in the case” and all that follows through “subparagraph (C)),”; and
+    - **(C)** by striking subparagraph (C) and inserting the following new subparagraph (C):
+      > - **(C)**
+      >   - **(i)** With respect to loans described in subclause (IV) of subparagraph (A)(i) made to a veteran not covered by clause (ii), the maximum amount of guaranty entitlement available to the veteran shall be 25 percent of the loan.
+      >   - **(ii)** With respect to loans described in subclause (IV) of subparagraph (A)(i) made to a covered veteran, the maximum amount of guaranty entitlement available to the veteran shall be 25 percent of the Freddie Mac conforming loan limit, reduced by the amount of entitlement previously used by the veteran under this chapter and not restored as a result of the exclusion in section 3702(b) of this title.
+      >   - **(iii)** In this subparagraph:
+      >     - **(I)** The term covered veteran means a veteran who has previously used entitlement under this chapter and for whom the full amount of entitlement so used has not been restored as a result of the exclusion in section 3702(b) of this title.
+      >     - **(II)** The term Freddie Mac conforming loan limit means the limit determined under section 305(a)(2) of the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1454(a)(2)) for a single-family residence, as adjusted for the year involved.
 
+  - **(2)** *Loans to Native American veterans* Section 3762(c) of such title is amended—
+    - **(A)** by striking paragraph (1); and
+    - **(B)** by redesignating paragraphs (2) and (3) as paragraphs (1) and (2), respectively.
+  - **(3)** *Conforming amendment* Section 3710(d)(4) of such title is amended by striking “section 3703(a)(1)(B) of this title” and inserting “subparagraph (B) or (C) of section 3703(a)(1) of this title”.
+- **(b)** *Adjustment of loan fees* Section 3729(b)(2) of title 38, United States Code, is amended by striking the loan fee table and inserting the following:
+- **(c)** *Waiver of fees for Purple Heart recipients* Section 3729(c)(1) of such title is amended—
+  - **(1)** by striking “or from a surviving spouse” and inserting “, from a surviving spouse”; and
+  - **(2)** by inserting before the period at the end the following: “, or from a member of the Armed Forces who is serving on active duty and who provides, on or before the date of loan closing, evidence of having been awarded the Purple Heart”.
 - **(d)** *Effective date* The amendments made by this section shall apply with respect to a loan guaranteed under section 3710 of title 38, United States Code, on or after January 1, 2020.
-- **(e)** *Guidance* Notwithstanding section 501 of such title, the Secretary of Veterans Affairs may issue guidance to implement this section before prescribing new regulations under sections 3703 and 3729 of such title, as amended by subsections (a), (b), and (c).
+- **(e)** *Guidance* Notwithstanding section 501 of title 38, United States Code, the Secretary of Veterans Affairs may issue guidance to implement this section before prescribing new regulations under sections 3703, 3729, and 3762 of such title, as amended by this section.
 
 ## § 7. Information gathering for Department of Veterans Affairs home loan appraisals
 
