@@ -1,7 +1,7 @@
 ---
 measure: S. 1436
 congress: 116
-version: Considered and Passed Senate
+version: Engrossed in Senate
 derived: true
 ---
 
