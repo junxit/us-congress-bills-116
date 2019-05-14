@@ -20,9 +20,9 @@ This Act may be cited as the “Banking Transparency for Sanctioned Persons Act 
   - **(2)** a list of any foreign financial institutions that, in the preceding 180 days, knowingly conducted a significant transaction or transactions, directly or indirectly, for a sanctioned person included on the Department of the Treasury’s Specially Designated Nationals And Blocked Persons List who—
     - **(A)** is owned or controlled by, or acts on behalf of, the government of a state sponsor of terrorism; or
     - **(B)** is designated pursuant to any of the following:
-      - **(i)** Section 404 of the Russia and Moldova Jackson-Vanik Repeal and Sergei Magnitsky Rule of Law Accountability Act of 2012 (Public Law 112–208).
+      - **(i)** Section 404 of the Russia and Moldova Jackson-Vanik Repeal and Sergei Magnitsky Rule of Law Accountability Act of 2012 (Public Law 112208).
       - **(ii)** Subtitle F of title XII of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328, the Global Magnitsky Human Rights Accountability Act).
-      - **(iii)** Executive Order 13818.
+      - **(iii)** Executive Order No. 13818.
 - **(b)** *Form of report* The report required under subsection (a) shall be submitted in unclassified form but may contain a classified annex.
 
 ## § 3. Waiver
