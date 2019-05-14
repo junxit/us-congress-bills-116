@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2578
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2578
@@ -29,3 +29,9 @@ National Flood Insurance Program Extension Act of 2019
 - 2019-05-08 — Introduced in House
 - 2019-05-08 — Introduced in House
 - 2019-05-08 — Referred to the House Committee on Financial Services.
+- 2019-05-14 — Considered under suspension of the rules. (consideration: CR H3763-3764)
+- 2019-05-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2578.
+- 2019-05-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-05-14 — Ms. Waters moved to suspend the rules and pass the bill.
+- 2019-05-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3763)
+- 2019-05-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3763)
