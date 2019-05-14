@@ -1,7 +1,7 @@
 ---
 measure: H.R. 299
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -81,7 +81,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | The heading for subchapter III of chapter 18 of such title is amended by inserting “and Thailand” after “Korea”. | the bill names no machine-readable US Code section |
 | — | replace | by striking the item relating to subchapter III and inserting the following new item: | the bill names no machine-readable US Code section |
 | — | insert | by inserting after the item relating to section 1821 the following new item: | the bill names no machine-readable US Code section |
-| `12 U.S.C. § 1454` | strike | in clause (i)(IV), by striking “the lesser of the maximum guaranty amount (as defined in subparagraph (C)) or”; | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1454` | strike | in clause (i)(IV), by striking “the lesser of the maximum guaranty amount (as defined in subparagraph (C)) or”; and | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 1454` | strike | by striking “or in the case” and all that follows through “subparagraph (C)),”; and | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 1454` | replace | by striking subparagraph (C) and inserting the following new subparagraph (C): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1454` | strike | by striking paragraph (1); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
