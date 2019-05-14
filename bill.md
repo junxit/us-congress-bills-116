@@ -1,0 +1,14 @@
+---
+legis-num: S. 1463
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1463
+
+> To establish a scorekeeping rule to ensure that increases in guarantee fees of Fannie Mae and Freddie Mac shall not be used to offset provisions that increase the deficit.
+
+## § 1. Prohibiting the use of guarantee fees as an offset
+
+In the Senate, for purposes of determining budgetary impacts to evaluate points of order under the Congressional Budget Act of 1974, any previous budget resolution, and any subsequent budget resolution, provisions contained in any bill, resolution, amendment, motion, or conference report that increases, or extends the increase of, any guarantee fees of the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation shall not be scored with respect to the level of budget authority, outlays, or revenues contained in such legislation.
