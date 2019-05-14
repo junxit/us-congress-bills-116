@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1060
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1060
@@ -16,9 +16,10 @@ BUILD Act
 
 - Rep. Loudermilk, Barry [R-GA-11] (L000583)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
 
 ## Committees (1)
 
@@ -29,3 +30,9 @@ BUILD Act
 - 2019-02-07 — Introduced in House
 - 2019-02-07 — Introduced in House
 - 2019-02-07 — Referred to the House Committee on Financial Services.
+- 2019-05-14 — Considered under suspension of the rules. (consideration: CR H3767-3769)
+- 2019-05-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1060.
+- 2019-05-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-05-14 — Ms. Waters moved to suspend the rules and pass the bill, as amended.
+- 2019-05-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3767)
+- 2019-05-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3767)

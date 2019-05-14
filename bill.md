@@ -23,3 +23,7 @@ This Act may be cited as the “Building Up Independent Lives and Dreams Act” 
 
 - **(c)** *Regulations* Not later than 180 days after the date of the enactment of this Act, the Director of the Bureau of Consumer Financial Protection shall issue such regulations as may be necessary to implement the amendments made by subsections (a) and (b).
 - **(d)** *Effective date* The amendments made by subsections (a) and (b) shall take effect on the date of the enactment of this Act.
+
+## § 3. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
