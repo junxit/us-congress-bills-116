@@ -1,0 +1,34 @@
+---
+legis-num: S. RES. 207
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 207
+
+> Congratulating the Senate GLASS Caucus staff association for lesbian, gay, bisexual, and transgender Senate staff on the 15-year anniversary of the association.
+
+## Preamble
+
+- Whereas, on April 23, 2004, several Senate staffers joined to form a first-of-its-kind staff association for lesbian, gay, bisexual, and transgender (referred to in this preamble as “LGBT”) Senate staff and the allies of LGBT Senate staff;
+- Whereas that staff association, known as the Gay, Lesbian, Allies Senate Staff Caucus, and commonly referred to as the “Senate GLASS Caucus”, continues to serve the Senate community by raising awareness of issues affecting the LGBT community;
+- Whereas the Senate GLASS Caucus continues to promote the welfare and dignity of LGBT Senate employees;
+- Whereas, for the first time in the 15-year history of the Senate Glass Caucus, the Senate GLASS Caucus celebrates the fact that 2 openly LGBT Members are serving simultaneously in the Senate; and
+- Whereas the Senate GLASS Caucus strives to provide a safe environment for social interaction and professional development: Now, therefore, be it
+
+That the Senate—
+
+- **(1)** congratulates the Senate GLASS Caucus staff association on the occasion of the 15th anniversary of the association;
+- **(2)** commends the late Senator Frank Raleigh Lautenberg of New Jersey for—
+  - **(A)** the critical role that Senator Lautenberg played in the formation of the Senate GLASS Caucus; and
+  - **(B)** the steadfast support of Senator Lautenberg for equality; and
+- **(3)** recognizes the members of the inaugural Senate GLASS Caucus Steering Committee for the vision and hard work of those members in establishing the Senate GLASS Caucus, including—
+  - **(A)** Lynden Armstrong;
+  - **(B)** Brett Bearce;
+  - **(C)** Josh Brekenfeld;
+  - **(D)** John Fossum;
+  - **(E)** Jason Knapp;
+  - **(F)** Jeffrey Levensaler;
+  - **(G)** Kelsey Phipps; and
+  - **(H)** Mat Young.
