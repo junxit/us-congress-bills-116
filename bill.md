@@ -38,6 +38,6 @@ This Act may be cited as the “DHS Acquisition Documentation Integrity Act of 2
   >   - **(2)** The projected cost of such program.
   >   - **(3)** The proportion of a component’s or office’s annual acquisition budget attributed to such program, as available.
   >   - **(4)** Information on the significance of such program with respect to the component’s or office’s operations and execution of its mission.
-  > - **(d)** *Major acquisition program defined* In this section, the term “major acquisition program” means a Department acquisition program that is estimated by the Secretary to require an eventual total expenditure of at least $300,000,000 (based on fiscal year 2019 constant dollars) over its lifecycle cost.
+  > - **(d)** *Major acquisition program defined* In this section, the term “major acquisition program” means a Department acquisition program that is estimated by the Secretary to require an eventual total expenditure of at least $300 million (based on fiscal year 2019 constant dollars) over its lifecycle cost.
 
 - **(b)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended by adding after the item related to section 707 the following new item:
