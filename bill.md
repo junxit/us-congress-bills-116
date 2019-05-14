@@ -37,4 +37,8 @@ Section 1406 of the Implementing Recommendations of the 9/11 Commission Act of 2
   - **(4)** An assessment of the management and administration of public transportation security assistance grant program funds by grantees.
   - **(5)** Recommendations to improve the manner in which public transportation security assistance grant program funds address vulnerabilities in public transportation infrastructure.
   - **(6)** Recommendations to improve the management and administration of the public transportation security assistance grant program.
-- **(c)** *Report* Not later than one year after the date of the enactment of this Act and again not later than five years after such date of enactment, the Comptroller General shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the review required under this section.
+- **(c)** *Report* Not later than 1 year after the date of the enactment of this Act and again not later than five years after such date of enactment, the Comptroller General shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the review required under this section.
+
+## § 5. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Committee on the Budget of the House of Representatives, provided that such statement has been submitted prior to the vote on passage.

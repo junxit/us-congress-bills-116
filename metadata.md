@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1313
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1313
@@ -16,6 +16,10 @@ Transit Security Grant Program Flexibility Act
 
 - Rep. King, Peter T. [R-NY-2] (K000210)
 
+## Cosponsors (1)
+
+- Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
+
 ## Committees (1)
 
 - House — Homeland Security Committee
@@ -25,3 +29,10 @@ Transit Security Grant Program Flexibility Act
 - 2019-02-19 — Introduced in House
 - 2019-02-19 — Introduced in House
 - 2019-02-19 — Referred to the House Committee on Homeland Security.
+- 2019-03-08 — Referred to the Subcommittee on Emergency Preparedness, Response, and Recovery.
+- 2019-05-14 — Considered under suspension of the rules. (consideration: CR H3756-3758)
+- 2019-05-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1313.
+- 2019-05-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-05-14 — Ms. Torres Small (NM) moved to suspend the rules and pass the bill, as amended.
+- 2019-05-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3756-3757)
+- 2019-05-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3756-3757)
