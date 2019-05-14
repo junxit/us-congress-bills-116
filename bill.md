@@ -48,7 +48,7 @@ This Act may be cited as the “Blue Water Navy Vietnam Veterans Act of 2019”.
     - **(A)** The Secretary shall publish on the website of the Department a notice that a veterans described in paragraph (2) may submit or resubmit a claim for disability compensation under such section 1116A.
     - **(B)** The Secretary shall notify in writing the veteran service organization community of the ability of veterans described in paragraph (2) to submit or resubmit claims for disability compensation under such section 1116A.
   - **(2)** *Veteran described* A veteran described in this paragraph is a veteran who, during active military, naval, or air service, served offshore of the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975.
-- **(e)** *Reports* Not later than January 1, 2021, and annually thereafter for two years, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report regarding claims for disability compensation under section 1116A of title 38, United States Code, as added by subsection (a). Each report shall include, with respect to the calendar year preceding the report, disaggregated by the regional offices of the Department of Veterans Affairs, the following:
+- **(e)** *Reports* Not later than January 1, 2021, and annually thereafter for 2 years, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report regarding claims for disability compensation under section 1116A of title 38, United States Code, as added by subsection (a). Each report shall include, with respect to the calendar year preceding the report, disaggregated by the regional offices of the Department of Veterans Affairs, the following:
   - **(1)** The number of claims filed under such section.
   - **(2)** The number of such claims granted.
   - **(3)** The number of such claims denied.
@@ -133,7 +133,7 @@ Not later than 180 days after the date of the enactment of this Act, the Secreta
 - **(a)** *Adjustment of loan limit*
   - **(1)** *In general* Section 3703(a)(1) of title 38, United States Code, is amended—
     - **(A)** in subparagraph (A)—
-      - **(i)** in clause (i)(IV), by striking “the lesser of the maximum guaranty amount (as defined in subparagraph (C)) or”;
+      - **(i)** in clause (i)(IV), by striking “the lesser of the maximum guaranty amount (as defined in subparagraph (C)) or”; and
       - **(ii)** in clause (ii), by striking “subparagraph (B) of this paragraph” and inserting “subparagraph (B) or (C)”;
     - **(B)** in subparagraph (B)—
       - **(i)** by striking “The maximum” and inserting “With respect to loans described in subclauses (I), (II), or (III) of subparagraph (A)(i), the maximum”; and
@@ -164,3 +164,7 @@ Not later than 180 days after the date of the enactment of this Act, the Secreta
 
 - **(b)** *Effective date* The amendments made by this section shall apply with respect to an appraisal under section 3731 of such title, on or after January 1, 2020.
 - **(c)** *Guidance* Notwithstanding section 501 of such title, the Secretary of Veterans Affairs may issue guidance to implement this section before prescribing new regulations under sections 3731 of such title, as amended by subsection (a).
+
+## § 8. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
