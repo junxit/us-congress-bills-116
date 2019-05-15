@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1313
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1313
@@ -20,9 +20,10 @@ Transit Security Grant Program Flexibility Act
 
 - Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Transit Security Grant Program Flexibility Act
 - 2019-05-14 — Ms. Torres Small (NM) moved to suspend the rules and pass the bill, as amended.
 - 2019-05-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3756-3757)
 - 2019-05-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3756-3757)
+- 2019-05-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
