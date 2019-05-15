@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2379
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2379
@@ -63,3 +63,12 @@ To reauthorize the Bulletproof Vest Partnership Grant Program.
 - 2019-05-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 9 (Roll no. 204). (text: CR H3751)
 - 2019-05-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 9 (Roll no. 204).(text: CR H3751)
 - 2019-05-15 — Received in the Senate, read twice.
+- 2019-05-16 — Message on Senate action sent to the House.
+- 2019-05-16 — Passed Senate without amendment by Voice Vote. (consideration: CR S2901)
+- 2019-05-16 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S2901)
+- 2019-05-20 — Presented to President.
+- 2019-05-20 — Presented to President.
+- 2019-05-23 — Became Public Law No: 116-18.
+- 2019-05-23 — Became Public Law No: 116-18.
+- 2019-05-23 — Signed by President.
+- 2019-05-23 — Signed by President.
