@@ -1,7 +1,7 @@
 ---
 measure: H.R. 299
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 299
@@ -381,3 +381,12 @@ Blue Water Navy Vietnam Veterans Act of 2019
 - 2019-05-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 203). (text: CR H3743-3746)
 - 2019-05-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 203).(text: CR H3743-3746)
 - 2019-05-15 — Received in the Senate, read twice.
+- 2019-06-12 — Passed Senate without amendment by Voice Vote. (consideration: CR S3450)
+- 2019-06-12 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S3450)
+- 2019-06-13 — Message on Senate action sent to the House.
+- 2019-06-19 — Presented to President.
+- 2019-06-19 — Presented to President.
+- 2019-06-25 — Became Public Law No: 116-23.
+- 2019-06-25 — Became Public Law No: 116-23.
+- 2019-06-25 — Signed by President.
+- 2019-06-25 — Signed by President.
