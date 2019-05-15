@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1912
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1912
@@ -20,9 +20,10 @@ DHS Acquisition Documentation Integrity Act of 2019
 
 - Rep. Crenshaw, Dan [R-TX-2] (C001120)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ DHS Acquisition Documentation Integrity Act of 2019
 - 2019-05-14 — Ms. Torres Small (NM) moved to suspend the rules and pass the bill.
 - 2019-05-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3759-3760)
 - 2019-05-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3759-3760)
+- 2019-05-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
