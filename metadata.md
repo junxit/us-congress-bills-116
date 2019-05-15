@@ -1,7 +1,7 @@
 ---
 measure: H.R. 299
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 299
@@ -380,3 +380,4 @@ Blue Water Navy Vietnam Veterans Act of 2019
 - 2019-05-14 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
 - 2019-05-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 203). (text: CR H3743-3746)
 - 2019-05-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 203).(text: CR H3743-3746)
+- 2019-05-15 — Received in the Senate, read twice.
