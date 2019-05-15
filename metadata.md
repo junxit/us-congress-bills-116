@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1594
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1594
@@ -22,9 +22,10 @@ First Responder Access to Innovative Technologies Act
 - Rep. Green, Al [D-TX-9] (G000553)
 - Rep. Bost, Mike [R-IL-12] (B001295)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ First Responder Access to Innovative Technologies Act
 - 2019-05-14 — Ms. Torres Small (NM) moved to suspend the rules and pass the bill.
 - 2019-05-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3755)
 - 2019-05-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3755)
+- 2019-05-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
