@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2157
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2157
@@ -130,3 +130,5 @@ Additional Supplemental Appropriations for Disaster Relief Act, 2019
 - 2019-05-10 — The Speaker designated the Honorable Abby Finkenauer to act as Chairwoman of the Committee.
 - 2019-05-10 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-05-10 — The previous question was ordered pursuant to the rule.
+- 2019-05-14 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2019-05-15 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 91.
