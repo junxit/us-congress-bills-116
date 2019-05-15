@@ -1,7 +1,7 @@
 ---
 measure: H.R. 540
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 540
@@ -118,3 +118,7 @@ To designate the facility of the United States Postal Service located at 770 Ayr
 - 2019-04-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 7 (Roll no. 142). (text: CR H2969)
 - 2019-04-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 7 (Roll no. 142).(text: CR H2969)
 - 2019-04-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2019-05-15 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2019-05-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2019-05-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2019-05-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 87.
