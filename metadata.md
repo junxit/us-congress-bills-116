@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1037
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1037
@@ -20,9 +20,10 @@ Banking Transparency for Sanctioned Persons Act of 2019
 
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -35,3 +36,4 @@ Banking Transparency for Sanctioned Persons Act of 2019
 - 2019-05-14 — Ms. Waters moved to suspend the rules and pass the bill.
 - 2019-05-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3769)
 - 2019-05-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3769)
+- 2019-05-15 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
