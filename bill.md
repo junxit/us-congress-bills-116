@@ -2,7 +2,7 @@
 legis-num: H.R. 389
 congress: 116th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 389
@@ -52,13 +52,17 @@ The Act may be cited as the “Kleptocracy Asset Recovery Rewards Act”.
   >     - **(C)** the payment of rewards and approval of such payments.
   >   - **(2)** *Prior approval of the Attorney General required* Before making a reward under this section in a matter over which there is Federal criminal jurisdiction, the Secretary of the Treasury shall obtain the written concurrence of the Attorney General.
   > - **(d)** *Payment of rewards*
-  >   - **(1)** *Authorization of appropriations* For the purpose of paying rewards pursuant to this section, there is authorized to be appropriated $450,000 for fiscal year 2020.
-  >   - **(2)** *Limitation on annual payments* Except as provided under paragraph (3), the total amount of rewards paid pursuant to this section may not exceed $25,000,000 in any calendar year.
+  >   - **(1)** *Authorization of appropriations* For the purpose of paying rewards pursuant to this section, there is authorized to be appropriated—
+  >     - **(A)** $450,000 for fiscal year 2020; and
+  >     - **(B)** for each fiscal year, any amount recovered in stolen assets described under subsection (b) that the Secretary determines is necessary to carry out this program consistent with this section.
+  >   - **(2)** *Limitation on annual payments* Except as provided under paragraph (3), the total amount of rewards paid pursuant to this section may not exceed $25 million in any calendar year.
   >   - **(3)** *Presidential authority* The President may waive the limitation under paragraph (2) with respect to a calendar year if the President provides written notice of such waiver to the appropriate committees of the Congress at least 30 days before any payment in excess of such limitation is made pursuant to this section.
-  >   - **(4)** *Payment from stolen asset amounts* In paying any reward under this section with respect to information furnished by an individual, the Secretary shall, to the extent possible, make such payments using the stolen assets recovered based on such information before using appropriated funds authorized under paragraph (1).
+  >   - **(4)** *Payments to be made first from stolen asset amounts* In paying any reward under this section, the Secretary shall, to the extent possible, make such reward payment—
+  >     - **(A)** first, from appropriated funds authorized under paragraph (1)(B); and
+  >     - **(B)** second, from appropriated funds authorized under paragraph (1)(A).
   > - **(e)** *Limitations*
   >   - **(1)** *Submission of information* No award may be made under this section based on information submitted to the Secretary unless such information is submitted under penalty of perjury.
-  >   - **(2)** *Maximum amount* No reward paid under this section may exceed $5,000,000, unless the Secretary—
+  >   - **(2)** *Maximum amount* No reward paid under this section may exceed $5 million, unless the Secretary—
   >     - **(A)** personally authorizes such greater amount in writing;
   >     - **(B)** determines that offer or payment of a reward of a greater amount is necessary due to the exceptional nature of the case; and
   >     - **(C)** notifies the appropriate committees of the Congress of such determination.

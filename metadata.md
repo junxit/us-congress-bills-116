@@ -1,7 +1,7 @@
 ---
 measure: H.R. 389
 congress: 116
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 389
@@ -23,9 +23,10 @@ Kleptocracy Asset Recovery Rewards Act
 - Rep. Rice, Kathleen M. [D-NY-4] (R000602)
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Kleptocracy Asset Recovery Rewards Act
 - 2019-05-14 — Placed on the Union Calendar, Calendar No. 38.
 - 2019-05-14 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-60.
 - 2019-05-14 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-60.
+- 2019-05-15 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
