@@ -1,7 +1,7 @@
 ---
 measure: H.R. 312
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 312
@@ -58,6 +58,10 @@ Mashpee Wampanoag Tribe Reservation Reaffirmation Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2019-05-15 — [House 116-1-207](votes/house-116-1-0207.md) — On Passage — **Passed** (275–146)
+
 ## Actions
 
 - 2019-01-08 — Introduced in House
@@ -71,3 +75,15 @@ Mashpee Wampanoag Tribe Reservation Reaffirmation Act
 - 2019-05-10 — Placed on the Union Calendar, Calendar No. 32.
 - 2019-05-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-54.
 - 2019-05-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-54.
+- 2019-05-14 — Rules Committee Resolution H. Res. 377 Reported to House. Rule provides for consideration of H.R. 5, H.R. 312 and H.R. 987. The resolution provides for 90 minutes of debate on H.R. 5, under a closed rule. Section 2 of the resolution provides for 60 minutes of debate on H.R. 312, under a closed rule and section 3 provides 90 minutes of debate on H.R. 987, under a structured rule.
+- 2019-05-15 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2019-05-15 — Considered under the provisions of rule H. Res. 377. (consideration: CR H3816-3824)
+- 2019-05-15 — DEBATE - The House proceeded with one hour of debate on H.R. 312.
+- 2019-05-15 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2019-05-15 — House amendment offered
+- 2019-05-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-05-15 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2019-05-15 — On passage Passed by the Yeas and Nays: 275 - 146 (Roll no. 207). (text: CR H3817)
+- 2019-05-15 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 275 - 146 (Roll no. 207).(text: CR H3817)
+- 2019-05-15 — Rule provides for consideration of H.R. 5, H.R. 312 and H.R. 987. The resolution provides for 90 minutes of debate on H.R. 5, under a closed rule. Section 2 of the resolution provides for 60 minutes of debate on H.R. 312, under a closed rule and section 3 provides 90 minutes of debate on H.R. 987, under a structured rule.
+- 2019-05-15 — The previous question was ordered pursuant to the rule.
