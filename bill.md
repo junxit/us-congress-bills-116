@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Mashpee Wampanoag Tribe Reservation Reaffirmation Act”.
 
-## § 2. Reaffirmation of indian trust land
+## § 2. Reaffirmation of Indian trust land
 
 - **(a)** *In general* The taking of land into trust by the United States for the benefit of the Mashpee Wampanoag Tribe of Massachusetts as described in the final Notice of Reservation Proclamation (81 Fed. Reg. 948; January 8, 2016) is reaffirmed as trust land and the actions of the Secretary of the Interior in taking that land into trust are ratified and confirmed.
 - **(b)** *Application* Notwithstanding any other provision of law, an action (including an action pending in a Federal court as of the date of enactment of this Act) relating to the land described in subsection (a) shall not be filed or maintained in a Federal court and shall be promptly dismissed.
