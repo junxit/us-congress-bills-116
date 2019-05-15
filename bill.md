@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 2773
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2773
+
+> To amend title 13, United States Code, to direct the Secretary of Commerce to conduct a mid-decade census of population for the Northern Mariana Islands, Guam, American Samoa, and the U.S. Virgin Islands, and for other purposes.
+
+## § 1. Census for the Northern Mariana Islands, Guam, American Samoa, and the U.S. Virgin Islands
+
+- **(a)** *In general* Section 141 of title 13, United States Code, is amended—
+  - **(1)** by redesignating subsection (g) as subsection (h); and
+  - **(2)** by adding after subsection (f) the following:
+    > - **(g)** The Secretary shall, in 2025 and every 10 years thereafter, take a mid-decade census of population as of the first day of April of the applicable year for each of the Northern Mariana Islands, Guam, American Samoa, and the U.S. Virgin Islands.
+
+- **(b)** *Authorization of appropriations* For the purpose of carrying out the amendments made by subsection (a), there are authorized to be appropriated $12,000,000 for the period of fiscal years 2020 to 2024 and $6,000,000 for each succeeding fiscal year after 2024.
