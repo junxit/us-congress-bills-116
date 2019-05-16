@@ -1,7 +1,7 @@
 ---
 measure: S. 998
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
