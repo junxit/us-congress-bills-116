@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 30
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 30
@@ -29,3 +29,10 @@ Requiring each Member, officer, and employee of the House of Representatives to 
 - 2019-01-08 — Introduced in House
 - 2019-01-08 — Introduced in House
 - 2019-01-08 — Referred to the House Committee on House Administration.
+- 2019-05-16 — Committee on House Administration discharged.
+- 2019-05-16 — Committee on House Administration discharged.
+- 2019-05-16 — Considered by unanimous consent. (consideration: CR H3911)
+- 2019-05-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-05-16 — Ms. Lofgren asked unanimous consent to discharge from committee and consider.
+- 2019-05-16 — On agreeing to the resolution Agreed to without objection. (text: CR H3911)
+- 2019-05-16 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H3911)
