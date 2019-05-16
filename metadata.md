@@ -1,7 +1,7 @@
 ---
 measure: H.R. 375
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 375
@@ -47,9 +47,10 @@ To amend the Act of June 18, 1934, to reaffirm the authority of the Secretary of
 - Rep. Mullin, Markwayne [R-OK-2] (M001190)
 - Rep. Davids, Sharice [D-KS-3] (D000629)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -69,3 +70,4 @@ To amend the Act of June 18, 1934, to reaffirm the authority of the Secretary of
 - 2019-05-15 — Mr. Grijalva moved to suspend the rules and pass the bill.
 - 2019-05-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 323 - 96 (Roll no. 208). (text: CR H3813)
 - 2019-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 323 - 96 (Roll no. 208).(text: CR H3813)
+- 2019-05-16 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
