@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2045
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2045
@@ -31,3 +31,11 @@ To amend title 38, United States Code, to establish in the Department the Vetera
 - 2019-04-03 — Introduced in House
 - 2019-04-03 — Introduced in House
 - 2019-04-03 — Referred to the House Committee on Veterans' Affairs.
+- 2019-04-29 — Referred to the Subcommittee on Economic Opportunity.
+- 2019-05-01 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2019-05-01 — Subcommittee Consideration and Mark-up Session Held.
+- 2019-05-08 — Committee Consideration and Mark-up Session Held.
+- 2019-05-08 — Ordered to be Reported (Amended) by Voice Vote.
+- 2019-05-16 — Placed on the Union Calendar, Calendar No. 45.
+- 2019-05-16 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 116-69.
+- 2019-05-16 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 116-69.
