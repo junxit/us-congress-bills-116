@@ -1,7 +1,7 @@
 ---
 measure: S. 998
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 998
@@ -16,7 +16,7 @@ Supporting and Treating Officers In Crisis Act of 2019
 
 - Sen. Hawley, Josh [R-MO] (H001089)
 
-## Cosponsors (19)
+## Cosponsors (21)
 
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Tillis, Thomas [R-NC] (T000476)
@@ -37,6 +37,8 @@ Supporting and Treating Officers In Crisis Act of 2019
 - Sen. Gardner, Cory [R-CO] (G000562)
 - Sen. McSally, Martha [R-AZ] (M001197)
 - Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
 
 ## Committees (1)
 
@@ -50,3 +52,5 @@ Supporting and Treating Officers In Crisis Act of 2019
 - 2019-05-09 — Committee on the Judiciary. Reported by Senator Graham with an amendment. Without written report.
 - 2019-05-09 — Committee on the Judiciary. Reported by Senator Graham with an amendment. Without written report.
 - 2019-05-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 81.
+- 2019-05-16 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S2948; text: CR S2948)
+- 2019-05-16 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S2948; text: CR S2948)
