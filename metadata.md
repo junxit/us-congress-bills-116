@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1892
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1892
@@ -20,9 +20,10 @@ Quadrennial Homeland Security Review Technical Corrections Act of 2019
 
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Quadrennial Homeland Security Review Technical Corrections Act of 2019
 - 2019-05-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2019-05-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 209). (text: CR 5/14/2019 H3761)
 - 2019-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 209).(text: CR 5/14/2019 H3761)
+- 2019-05-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
