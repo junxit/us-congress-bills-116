@@ -1,7 +1,7 @@
 ---
 measure: S. 744
 congress: 116
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 744
@@ -30,3 +30,7 @@ Effective Prosecution of Possession of Biological Toxins and Agents Act of 2019
 
 - 2019-03-12 — Introduced in Senate
 - 2019-03-12 — Read twice and referred to the Committee on the Judiciary.
+- 2019-05-16 — Passed Senate without amendment by Unanimous Consent. (text: CR S2929)
+- 2019-05-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S2929)
+- 2019-05-16 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2929)
+- 2019-05-16 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S2929)
