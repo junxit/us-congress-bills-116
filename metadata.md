@@ -1,7 +1,7 @@
 ---
 measure: H.R. 987
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 987
@@ -65,3 +65,214 @@ Strengthening Health Care and Lowering Prescription Drug Costs Act
 - 2019-05-10 — Placed on the Union Calendar, Calendar No. 31.
 - 2019-05-10 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-53, Part I.
 - 2019-05-10 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-53, Part I.
+- 2019-05-14 — Rules Committee Resolution H. Res. 377 Reported to House. Rule provides for consideration of H.R. 5, H.R. 312 and H.R. 987. The resolution provides for 90 minutes of debate on H.R. 5, under a closed rule. Section 2 of the resolution provides for 60 minutes of debate on H.R. 312, under a closed rule and section 3 provides 90 minutes of debate on H.R. 987, under a structured rule.
+- 2019-05-15 — Rule H. Res. 377 passed House.
+- 2019-05-16 — Amendment (A001) offered by Mr. Pallone. (consideration: CR H3873-3874; text: CR H3873)
+- 2019-05-16 — Amendment (A002) offered by Mr. McKinley. (consideration: CR H3874-3876, H3902-3903; text: CR H3874)
+- 2019-05-16 — Amendment (A003) offered by Mr. Welch. (consideration: CR H3876-3877; text: CR H3876)
+- 2019-05-16 — Amendment (A004) offered by Ms. Blunt Rochester. (consideration: CR H3877-3878; text: CR H3877)
+- 2019-05-16 — Amendment (A005) offered by Mr. DeSaulnier. (consideration: CR H3878-3879; text: CR H3878)
+- 2019-05-16 — Amendment (A006) offered by Mr. Harder (CA). (consideration: CR H3879, H3903; text: CR H3879)
+- 2019-05-16 — Amendment (A007) offered by Ms. Shalala. (consideration: CR H3879-3880; text: CR H3879)
+- 2019-05-16 — Amendment (A008) offered by Mrs. Hayes. (consideration: CR H3880-3881; text: CR H3880)
+- 2019-05-16 — Amendment (A009) offered by Mrs. McBath. (consideration: CR H3881-3883; text: CR H3882)
+- 2019-05-16 — Amendment (A010) offered by Ms. Scanlon. (consideration: CR H3883-3884; text: CR H3883)
+- 2019-05-16 — Amendment (A011) offered by Mr. Morelle. (consideration: CR H3884-3885; text: CR H3884)
+- 2019-05-16 — Amendment (A012) offered by Ms. Waters. (consideration: CR H3885-3886; text: CR H3885)
+- 2019-05-16 — Amendment (A013) offered by Ms. Johnson (TX). (consideration: CR H3886-3887; text: CR H3886)
+- 2019-05-16 — Amendment (A014) offered by Mr. Lynch. (consideration: CR H3887-3888; text: CR H3887)
+- 2019-05-16 — Amendment (A015) offered by Mr. Lynch. (consideration: CR H3888; text: CR H3888)
+- 2019-05-16 — Amendment (A016) offered by Mr. Lipinski. (consideration: CR H3888-3889; text: CR H3888-3889)
+- 2019-05-16 — Amendment (A017) offered by Mr. Deutch. (consideration: CR H3889-3891; text: H3889)
+- 2019-05-16 — Amendment (A018) offered by Mr. Brown (MD). (consideration: CR H3891-3892; text: CR H3891)
+- 2019-05-16 — Amendment (A019) offered by Mr. Gomez. (consideration: CR H3892-3893; text: CR H3892)
+- 2019-05-16 — Amendment (A020) offered by Ms. Escobar. (consideration: CR H3893-3894; text: CR H3893)
+- 2019-05-16 — Amendment (A021) offered by Ms. Wexton. (consideration: CR H3894-3896, H3904; text: CR H3894-3895)
+- 2019-05-16 — Amendment (A022) offered by Mr. Pappas. (consideration: CR H3896-3897; text: CR H3896)
+- 2019-05-16 — Amendment (A023) offered by Mr. Cox (CA). (consideration: CR H3897-3898; text: CR H3897)
+- 2019-05-16 — Amendment (A024) offered by Mr. Cox (CA). (consideration: CR H3898-3900; text: CR H3898)
+- 2019-05-16 — Amendment (A025) offered by Ms. Horn, Kendra S.. (consideration: CR H3900-3901; text: CR H3900)
+- 2019-05-16 — Amendment (A026) offered by Mr. Cunningham. (consideration: CR H3901-3902; text: CR H3901)
+- 2019-05-16 — Amendment agreed to Committee of the Whole
+- 2019-05-16 — Amendment agreed to Committee of the Whole
+- 2019-05-16 — Amendment agreed to Committee of the Whole
+- 2019-05-16 — Amendment agreed to Committee of the Whole
+- 2019-05-16 — Amendment agreed to Committee of the Whole
+- 2019-05-16 — Amendment agreed to Committee of the Whole
+- 2019-05-16 — Amendment agreed to Committee of the Whole
+- 2019-05-16 — Amendment agreed to Committee of the Whole
+- 2019-05-16 — Amendment agreed to Committee of the Whole
+- 2019-05-16 — Amendment agreed to Committee of the Whole
+- 2019-05-16 — Amendment agreed to Committee of the Whole
+- 2019-05-16 — Amendment agreed to Committee of the Whole
+- 2019-05-16 — Amendment agreed to Committee of the Whole
+- 2019-05-16 — Amendment agreed to Committee of the Whole
+- 2019-05-16 — Amendment agreed to Committee of the Whole
+- 2019-05-16 — Amendment agreed to Committee of the Whole
+- 2019-05-16 — Amendment agreed to Committee of the Whole
+- 2019-05-16 — Amendment agreed to Committee of the Whole
+- 2019-05-16 — Amendment agreed to Committee of the Whole
+- 2019-05-16 — Amendment agreed to Committee of the Whole
+- 2019-05-16 — Amendment agreed to Committee of the Whole
+- 2019-05-16 — Amendment agreed to Committee of the Whole
+- 2019-05-16 — Amendment agreed to Committee of the Whole
+- 2019-05-16 — Amendment agreed to Committee of the Whole
+- 2019-05-16 — Amendment agreed to Committee of the Whole
+- 2019-05-16 — Amendment failed in Committee of the Whole
+- 2019-05-16 — Considered under the provisions of rule H. Res. 377. (consideration: CR H3853-3904, H3910-3911; text: CR H3868-3873)
+- 2019-05-16 — DEBATE - Pursuant to the provisions of H. Res. 377, the Committee of the Whole proceeded with 10 minutes of debate on the Brown (MD) amendment No. 18.
+- 2019-05-16 — DEBATE - Pursuant to the provisions of H. Res. 377, the Committee of the Whole proceeded with 10 minutes of debate on the Cox (CA) amendment No. 23.
+- 2019-05-16 — DEBATE - Pursuant to the provisions of H. Res. 377, the Committee of the Whole proceeded with 10 minutes of debate on the Cox (CA) amendment No. 24.
+- 2019-05-16 — DEBATE - Pursuant to the provisions of H. Res. 377, the Committee of the Whole proceeded with 10 minutes of debate on the Cunningham amendment No. 27.
+- 2019-05-16 — DEBATE - Pursuant to the provisions of H. Res. 377, the Committee of the Whole proceeded with 10 minutes of debate on the Deutch amendment No. 17, as modified.
+- 2019-05-16 — DEBATE - Pursuant to the provisions of H. Res. 377, the Committee of the Whole proceeded with 10 minutes of debate on the Escobar amendment No. 20, as modified.
+- 2019-05-16 — DEBATE - Pursuant to the provisions of H. Res. 377, the Committee of the Whole proceeded with 10 minutes of debate on the Gomez amendment No. 19.
+- 2019-05-16 — DEBATE - Pursuant to the provisions of H. Res. 377, the Committee of the Whole proceeded with 10 minutes of debate on the Horn amendment No. 26.
+- 2019-05-16 — DEBATE - Pursuant to the provisions of H. Res. 377, the Committee of the Whole proceeded with 10 minutes of debate on the Johnson (TX) amendment No. 13.
+- 2019-05-16 — DEBATE - Pursuant to the provisions of H. Res. 377, the Committee of the Whole proceeded with 10 minutes of debate on the Lipinski amendment No. 16.
+- 2019-05-16 — DEBATE - Pursuant to the provisions of H. Res. 377, the Committee of the Whole proceeded with 10 minutes of debate on the Lynch amendment No. 14.
+- 2019-05-16 — DEBATE - Pursuant to the provisions of H. Res. 377, the Committee of the Whole proceeded with 10 minutes of debate on the Lynch amendment No. 15.
+- 2019-05-16 — DEBATE - Pursuant to the provisions of H. Res. 377, the Committee of the Whole proceeded with 10 minutes of debate on the Morelle amendment No. 11.
+- 2019-05-16 — DEBATE - Pursuant to the provisions of H. Res. 377, the Committee of the Whole proceeded with 10 minutes of debate on the Pappas amendment No. 22.
+- 2019-05-16 — DEBATE - Pursuant to the provisions of H. Res. 377, the Committee of the Whole proceeded with 10 minutes of debate on the Waters amendment No. 12.
+- 2019-05-16 — DEBATE - Pursuant to the provisions of H. Res. 377, the Committee of the Whole proceeded with 10 minutes of debate on the Wexton amendment No. 21.
+- 2019-05-16 — DEBATE - Pursuant to the provisions of H.Res. 377, the Committee of the Whole proceeded with 10 minutes of debate on the Blunt Rochester amendment No. 4.
+- 2019-05-16 — DEBATE - Pursuant to the provisions of H.Res. 377, the Committee of the Whole proceeded with 10 minutes of debate on the DeSaulnier amendment No. 5.
+- 2019-05-16 — DEBATE - Pursuant to the provisions of H.Res. 377, the Committee of the Whole proceeded with 10 minutes of debate on the Harder amendment No. 6.
+- 2019-05-16 — DEBATE - Pursuant to the provisions of H.Res. 377, the Committee of the Whole proceeded with 10 minutes of debate on the Hayes amendment No. 8.
+- 2019-05-16 — DEBATE - Pursuant to the provisions of H.Res. 377, the Committee of the Whole proceeded with 10 minutes of debate on the McBath amendment No. 9.
+- 2019-05-16 — DEBATE - Pursuant to the provisions of H.Res. 377, the Committee of the Whole proceeded with 10 minutes of debate on the McKinley amendment No. 2.
+- 2019-05-16 — DEBATE - Pursuant to the provisions of H.Res. 377, the Committee of the Whole proceeded with 10 minutes of debate on the Pallone amendment No. 1.
+- 2019-05-16 — DEBATE - Pursuant to the provisions of H.Res. 377, the Committee of the Whole proceeded with 10 minutes of debate on the Scanlon amendment No. 10.
+- 2019-05-16 — DEBATE - Pursuant to the provisions of H.Res. 377, the Committee of the Whole proceeded with 10 minutes of debate on the Shalala amendment No. 7.
+- 2019-05-16 — DEBATE - Pursuant to the provisions of H.Res. 377, the Committee of the Whole proceeded with 10 minutes of debate on the Welch amendment No. 3.
+- 2019-05-16 — DEBATE - The House proceeded with 10 minutes of debate on the Walden motion to recommit with instructions. The instructions contained in the motion seek to strike title I and insert new text.
+- 2019-05-16 — Deutch amendment (A017) modified by unanimous consent. (text as modified: CR H3889)
+- 2019-05-16 — Escobar amendment (A020) modified by unanimous consent. (text as modified: CR H3893)
+- 2019-05-16 — GENERAL DEBATE - The Committee of the Whole proceeded with ninety minutes of general debate on H.R. 987.
+- 2019-05-16 — House amendment agreed to: On agreeing to the Blunt Rochester amendment (A004) Agreed to by voice vote.
+- 2019-05-16 — House amendment agreed to: On agreeing to the Brown (MD) amendment (A018) Agreed to by voice vote.
+- 2019-05-16 — House amendment agreed to: On agreeing to the Cox (CA) amendment (A023) Agreed to by voice vote.
+- 2019-05-16 — House amendment agreed to: On agreeing to the Cox (CA) amendment (A024) Agreed to by voice vote.
+- 2019-05-16 — House amendment agreed to: On agreeing to the Cunningham amendment (A026) Agreed to by voice vote.
+- 2019-05-16 — House amendment agreed to: On agreeing to the DeSaulnier amendment (A005) Agreed to by voice vote.
+- 2019-05-16 — House amendment agreed to: On agreeing to the Deutch amendment (A017) as modified Agreed to by voice vote.
+- 2019-05-16 — House amendment agreed to: On agreeing to the Escobar amendment (A020) as modified Agreed to by voice vote.
+- 2019-05-16 — House amendment agreed to: On agreeing to the Gomez amendment (A019) Agreed to by voice vote.
+- 2019-05-16 — House amendment agreed to: On agreeing to the Harder (CA) amendment (A006) Agreed to by recorded vote: 243 - 174 (Roll no. 211).
+- 2019-05-16 — House amendment agreed to: On agreeing to the Hayes amendment (A008) Agreed to by voice vote.
+- 2019-05-16 — House amendment agreed to: On agreeing to the Horn, Kendra S. amendment (A025) Agreed to by voice vote.
+- 2019-05-16 — House amendment agreed to: On agreeing to the Johnson (TX) amendment (A013) Agreed to by voice vote.
+- 2019-05-16 — House amendment agreed to: On agreeing to the Lipinski amendment (A016) Agreed to by voice vote.
+- 2019-05-16 — House amendment agreed to: On agreeing to the Lynch amendment (A014) Agreed to by voice vote.
+- 2019-05-16 — House amendment agreed to: On agreeing to the Lynch amendment (A015) Agreed to by voice vote.
+- 2019-05-16 — House amendment agreed to: On agreeing to the McBath amendment (A009) Agreed to by voice vote.
+- 2019-05-16 — House amendment agreed to: On agreeing to the Morelle amendment (A011) Agreed to by voice vote.
+- 2019-05-16 — House amendment agreed to: On agreeing to the Pallone amendment (A001) Agreed to by voice vote.
+- 2019-05-16 — House amendment agreed to: On agreeing to the Pappas amendment (A022) Agreed to by voice vote.
+- 2019-05-16 — House amendment agreed to: On agreeing to the Scanlon amendment (A010) Agreed to by voice vote.
+- 2019-05-16 — House amendment agreed to: On agreeing to the Shalala amendment (A007) Agreed to by voice vote.
+- 2019-05-16 — House amendment agreed to: On agreeing to the Waters amendment (A012) Agreed to by voice vote.
+- 2019-05-16 — House amendment agreed to: On agreeing to the Welch amendment (A003) Agreed to by voice vote.
+- 2019-05-16 — House amendment agreed to: On agreeing to the Wexton amendment (A021) Agreed to by recorded vote: 232 - 185 (Roll no. 212).
+- 2019-05-16 — House amendment not agreed to: On agreeing to the McKinley amendment (A002) Failed by recorded vote: 189 - 230 (Roll no. 210).
+- 2019-05-16 — House amendment offered
+- 2019-05-16 — House amendment offered
+- 2019-05-16 — House amendment offered
+- 2019-05-16 — House amendment offered
+- 2019-05-16 — House amendment offered
+- 2019-05-16 — House amendment offered
+- 2019-05-16 — House amendment offered
+- 2019-05-16 — House amendment offered
+- 2019-05-16 — House amendment offered
+- 2019-05-16 — House amendment offered
+- 2019-05-16 — House amendment offered
+- 2019-05-16 — House amendment offered
+- 2019-05-16 — House amendment offered
+- 2019-05-16 — House amendment offered
+- 2019-05-16 — House amendment offered
+- 2019-05-16 — House amendment offered
+- 2019-05-16 — House amendment offered
+- 2019-05-16 — House amendment offered
+- 2019-05-16 — House amendment offered
+- 2019-05-16 — House amendment offered
+- 2019-05-16 — House amendment offered
+- 2019-05-16 — House amendment offered
+- 2019-05-16 — House amendment offered
+- 2019-05-16 — House amendment offered
+- 2019-05-16 — House amendment offered
+- 2019-05-16 — House amendment offered
+- 2019-05-16 — House amendment offered/reported by: Amendment (A001) offered by Mr. Pallone.
+- 2019-05-16 — House amendment offered/reported by: Amendment (A002) offered by Mr. McKinley.
+- 2019-05-16 — House amendment offered/reported by: Amendment (A003) offered by Mr. Welch.
+- 2019-05-16 — House amendment offered/reported by: Amendment (A004) offered by Ms. Blunt Rochester.
+- 2019-05-16 — House amendment offered/reported by: Amendment (A005) offered by Mr. DeSaulnier.
+- 2019-05-16 — House amendment offered/reported by: Amendment (A006) offered by Mr. Harder (CA).
+- 2019-05-16 — House amendment offered/reported by: Amendment (A007) offered by Ms. Shalala.
+- 2019-05-16 — House amendment offered/reported by: Amendment (A008) offered by Mrs. Hayes.
+- 2019-05-16 — House amendment offered/reported by: Amendment (A009) offered by Mrs. McBath.
+- 2019-05-16 — House amendment offered/reported by: Amendment (A010) offered by Ms. Scanlon.
+- 2019-05-16 — House amendment offered/reported by: Amendment (A011) offered by Mr. Morelle.
+- 2019-05-16 — House amendment offered/reported by: Amendment (A012) offered by Ms. Waters.
+- 2019-05-16 — House amendment offered/reported by: Amendment (A013) offered by Ms. Johnson (TX).
+- 2019-05-16 — House amendment offered/reported by: Amendment (A014) offered by Mr. Lynch.
+- 2019-05-16 — House amendment offered/reported by: Amendment (A015) offered by Mr. Lynch.
+- 2019-05-16 — House amendment offered/reported by: Amendment (A016) offered by Mr. Lipinski.(consideration: CR H3888-3889; text: CR H3888-3889)
+- 2019-05-16 — House amendment offered/reported by: Amendment (A017) offered by Mr. Deutch.
+- 2019-05-16 — House amendment offered/reported by: Amendment (A018) offered by Mr. Brown (MD).
+- 2019-05-16 — House amendment offered/reported by: Amendment (A019) offered by Mr. Gomez.
+- 2019-05-16 — House amendment offered/reported by: Amendment (A020) offered by Ms. Escobar.
+- 2019-05-16 — House amendment offered/reported by: Amendment (A021) offered by Ms. Wexton.
+- 2019-05-16 — House amendment offered/reported by: Amendment (A022) offered by Mr. Pappas.(consideration: CR H3896-3897; text: CR H3896)
+- 2019-05-16 — House amendment offered/reported by: Amendment (A023) offered by Mr. Cox (CA).
+- 2019-05-16 — House amendment offered/reported by: Amendment (A024) offered by Mr. Cox (CA).
+- 2019-05-16 — House amendment offered/reported by: Amendment (A025) offered by Ms. Horn, Kendra S..
+- 2019-05-16 — House amendment offered/reported by: Amendment (A026) offered by Mr. Cunningham.
+- 2019-05-16 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 377 and Rule XVIII.
+- 2019-05-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-05-16 — Mr. Walden moved to recommit with instructions to the Committee on Energy and Commerce. (text: CR H3904-3908)
+- 2019-05-16 — On agreeing to the Blunt Rochester amendment (A004) Agreed to by voice vote.
+- 2019-05-16 — On agreeing to the Brown (MD) amendment (A018) Agreed to by voice vote.
+- 2019-05-16 — On agreeing to the Cox (CA) amendment (A023) Agreed to by voice vote.
+- 2019-05-16 — On agreeing to the Cox (CA) amendment (A024) Agreed to by voice vote.
+- 2019-05-16 — On agreeing to the Cunningham amendment (A026) Agreed to by voice vote.
+- 2019-05-16 — On agreeing to the DeSaulnier amendment (A005) Agreed to by voice vote.
+- 2019-05-16 — On agreeing to the Deutch amendment (A017) as modified Agreed to by voice vote.
+- 2019-05-16 — On agreeing to the Escobar amendment (A020) as modified Agreed to by voice vote.
+- 2019-05-16 — On agreeing to the Gomez amendment (A019) Agreed to by voice vote.
+- 2019-05-16 — On agreeing to the Harder (CA) amendment (A006) Agreed to by recorded vote: 243 - 174 (Roll no. 211).
+- 2019-05-16 — On agreeing to the Hayes amendment (A008) Agreed to by voice vote.
+- 2019-05-16 — On agreeing to the Horn, Kendra S. amendment (A025) Agreed to by voice vote.
+- 2019-05-16 — On agreeing to the Johnson (TX) amendment (A013) Agreed to by voice vote.
+- 2019-05-16 — On agreeing to the Lipinski amendment (A016) Agreed to by voice vote.
+- 2019-05-16 — On agreeing to the Lynch amendment (A014) Agreed to by voice vote.
+- 2019-05-16 — On agreeing to the Lynch amendment (A015) Agreed to by voice vote.
+- 2019-05-16 — On agreeing to the McBath amendment (A009) Agreed to by voice vote.
+- 2019-05-16 — On agreeing to the McKinley amendment (A002) Failed by recorded vote: 189 - 230 (Roll no. 210).
+- 2019-05-16 — On agreeing to the Morelle amendment (A011) Agreed to by voice vote.
+- 2019-05-16 — On agreeing to the Pallone amendment (A001) Agreed to by voice vote.
+- 2019-05-16 — On agreeing to the Pappas amendment (A022) Agreed to by voice vote.
+- 2019-05-16 — On agreeing to the Scanlon amendment (A010) Agreed to by voice vote.
+- 2019-05-16 — On agreeing to the Shalala amendment (A007) Agreed to by voice vote.
+- 2019-05-16 — On agreeing to the Waters amendment (A012) Agreed to by voice vote.
+- 2019-05-16 — On agreeing to the Welch amendment (A003) Agreed to by voice vote.
+- 2019-05-16 — On agreeing to the Wexton amendment (A021) Agreed to by recorded vote: 232 - 185 (Roll no. 212).
+- 2019-05-16 — On motion to recommit with instructions Failed by recorded vote: 188 - 228 (Roll no. 213).
+- 2019-05-16 — On passage Passed by recorded vote: 234 - 183 (Roll no. 214).
+- 2019-05-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Harder amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Harder demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-05-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McKinley amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. McKinley demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-05-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Wexton amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Ms. Wexton demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-05-16 — Passed/agreed to in House: On passage Passed by recorded vote: 234 - 183 (Roll no. 214).
+- 2019-05-16 — Roll call votes on amendments in House
+- 2019-05-16 — Roll call votes on amendments in House
+- 2019-05-16 — Roll call votes on amendments in House
+- 2019-05-16 — Rule provides for consideration of H.R. 5, H.R. 312 and H.R. 987. The resolution provides for 90 minutes of debate on H.R. 5, under a closed rule. Section 2 of the resolution provides for 60 minutes of debate on H.R. 312, under a closed rule and section 3 provides 90 minutes of debate on H.R. 987, under a structured rule.
+- 2019-05-16 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 987.
+- 2019-05-16 — The Committee of the Whole continued with further debate on the Welch amendment No. 3.
+- 2019-05-16 — The Committee resumed its sitting.
+- 2019-05-16 — The Committee rose informally to receive a message.
+- 2019-05-16 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2019-05-16 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 987.
+- 2019-05-16 — The Speaker designated the Honorable James R. Langevin to act as Chairman of the Committee.
+- 2019-05-16 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2019-05-16 — The previous question was ordered pursuant to the rule.
