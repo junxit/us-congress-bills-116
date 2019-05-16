@@ -1,7 +1,7 @@
 ---
 measure: S. 1379
 congress: 116
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1379
@@ -30,3 +30,7 @@ Pandemic and All-Hazards Preparedness and Advancing Innovation Act of 2019
 
 - 2019-05-08 — Introduced in Senate
 - 2019-05-08 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2019-05-16 — Passed Senate without amendment by Voice Vote. (text: CR S2930-2946)
+- 2019-05-16 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(text: CR S2930-2946)
+- 2019-05-16 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S2929-2946)
+- 2019-05-16 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S2929-2946)
