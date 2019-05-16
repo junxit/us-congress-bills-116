@@ -1,0 +1,41 @@
+---
+legis-num: H.R. 2790
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2790
+
+> To make additional financial assets of the Government of Iran available to pay compensatory damages to the victims of terrorism sponsored by that Government, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Our Obligation to Recognize American Heroes (OORAH) Act of 2019 ”.
+
+## § 2. Expansion of availability of financial assets of Iran to victims of terrorism
+
+- **(a)** *Findings* Congress makes the following findings:
+  - **(1)** On October 23, 1983, terrorists sponsored by the Government of Iran bombed the United States Marine barracks in Beirut, Lebanon. The terrorists killed 241 servicemen and injured scores more.
+  - **(2)** Those servicemen were killed or injured while on a peacekeeping mission.
+  - **(3)** Terrorism sponsored by the Government of Iran threatens the national security of the United States.
+  - **(4)** The United States has a vital interest in ensuring that members of the Armed Forces killed or injured by such terrorism, and the family members of such members, are able to seek justice.
+- **(b)** *Amendments* Section 502 of the Iran Threat Reduction and Syria Human Rights Act of 2012 (22 U.S.C. 8772) is amended—
+  - **(1)** in subsection (a)(1)—
+    - **(A)** in subparagraph (A), by striking “in the United States” and inserting “by or”;
+    - **(B)** in subparagraph (B), by inserting “, or an asset that would be blocked if the asset were located in the United States,” after “unblocked)”; and
+    - **(C)** in the flush text at the end—
+      - **(i)** by inserting after “in aid of execution” the following: “, or to an order directing that the asset be brought to the State in which the court is located and subsequently to execution or attachment in aid of execution,”; and
+      - **(ii)** by inserting “, without regard to concerns relating to international comity” after “resources for such an act”;
+  - **(2)** in subsection (b)—
+    - **(A)** by striking “that are identified” and inserting the following: “that are—
+      > - **(1)** identified
+
+    - **(B)** by striking the period at the end and inserting “; and”; and
+    - **(C)** by adding at the end the following:
+      > - **(2)** identified in and the subject of proceedings in the United States District Court for the Southern District of New York in Peterson et al. v. Islamic Republic of Iran et al., Case No. 13 Civ. 9195 (LAP).
+
+  - **(3)** by striking subsection (e);
+  - **(4)** by redesignating subsections (c) and (d) as subsections (d) and (e), respectively; and
+  - **(5)** by inserting after subsection (b) the following:
+    > - **(c)** *Personal jurisdiction* For purposes of this section, the United States District Court for the Southern District of New York shall have personal jurisdiction over any foreign securities intermediary that credited financial assets described in subsection (b) to an account the intermediary holds outside the United States.
