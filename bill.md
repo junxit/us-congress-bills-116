@@ -40,8 +40,9 @@ Section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 196
   >     - **(iii)** blind;
 
 - **(2)** in paragraph (3), in the matter preceding subparagraph (A), by striking “at the time of the public safety officer's fatal or catastrophic injury” and inserting “as of the date of the public safety officer’s death from a fatal injury or the date of determination of the public safety officer's disability from a catastrophic injury”;
-- **(3)** by redesignating paragraphs (5) through (9) as paragraphs (6) through (10), respectively; and
-- **(4)** by inserting after paragraph (4) the following:
+- **(3)** in paragraph (4), by inserting “, including an individual who, in the capacity of the individual as such a member, engages in scene security or traffic management as the primary or only duty of the individual during emergency response” before the semicolon;
+- **(4)** by redesignating paragraphs (5) through (9) as paragraphs (6) through (10), respectively; and
+- **(5)** by inserting after paragraph (4) the following:
   > - **(5)** “gainful work”—
   >   - **(A)** means any activity usually performed for pay or profit, regardless of whether a profit is realized; and
   >   - **(B)** does not include work performed in a situation in which, after an individual sustains an injury—
@@ -99,7 +100,7 @@ Section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 196
       - **(ii)** the amount of the total benefit payment the covered individual received under the Public Safety Officers' Death Benefit Program before the date of enactment of this Act;
     - **(B)** in the case of a covered beneficiary, the amount of the total benefit payment the covered beneficiary would have received under subpart 2 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10301 et seq.) if the amendments made by section 3 of this Act had been in effect on the date on which the determination described in subsection (a)(3)(B)(i) of this section was made; and
     - **(C)** in the case of a covered claimant, the amount of the total benefit payment the covered individual on whose estate the covered claimant is a claimant would have received under the Public Safety Officers' Death Benefit Program as of the date of the lump sum payment, if the amendments made by sections 2 and 3 had been in effect on the date on which the determination described in subsection (a)(3)(B)(i) of this section was made.
-  - **(2)** *Application* A covered individual desiring a lump sum payment under paragraph (1) shall apply to the Bureau of Justice Assistance for such lump sum payment not later than 3 years after the date of enactment of this Act.
+  - **(2)** *Application* A covered individual, covered beneficiary, or covered claimant desiring a lump sum payment under paragraph (1) shall apply to the Bureau of Justice Assistance for such lump sum payment not later than 3 years after the date of enactment of this Act.
 
 ## § 5. Due diligence in paying benefit claims under the Public Safety Officers' Death Benefits Program
 
@@ -113,3 +114,21 @@ Section 1206(b) of title I of the Omnibus Crime Control and Safe Streets Act of 
 ## § 6. Educational assistance to dependents of public safety officers killed or disabled in the line of duty
 
 Section 1216(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10306(b)) is amended, in the first sentence, by striking “may” and inserting “shall”.
+
+## § 7. Collection of data on killed or disabled law enforcement officers
+
+Section 534(a) of title 28, United States Code, is amended—
+
+- **(1)** in paragraph (3), by striking “and” at the end;
+- **(2)** in paragraph (4), by striking the period at the end and inserting “; and”; and
+- **(3)** by adding at the end the following:
+  > - **(5)** operate a central clearinghouse for statistics on law enforcement officers under the Uniform Crime Reporting Program, including data on law enforcement officers who, while performing their duties, were—
+  >   - **(A)** feloniously killed;
+  >   - **(B)** accidentally killed;
+  >   - **(C)** feloniously assaulted; or
+  >   - **(D)** severely and permanently disabled.
+
+## § 8. GAO report on medical costs
+
+- **(a)** *Definition* In this section, the term disabled officer means a public safety officer to whom a benefit is payable under subpart 1 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10281 et seq.) based on the permanent and total disability of the officer, as described in section 1201(b) of that subpart (34 U.S.C. 10281(b)).
+- **(b)** *Report* Not later than 180 days after the date of enactment of this Act, the Comptroller General of the United States shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that estimates the average medical costs incurred by a disabled officer over the lifetime of the officer after sustaining the injury that caused the disability.
