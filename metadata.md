@@ -1,7 +1,7 @@
 ---
 measure: S. 1208
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1208
@@ -16,7 +16,7 @@ Protecting America's First Responders Act
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 
-## Cosponsors (14)
+## Cosponsors (15)
 
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 - Sen. Blumenthal, Richard [D-CT] (B001277)
@@ -32,6 +32,7 @@ Protecting America's First Responders Act
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Blackburn, Marsha [R-TN] (B001243)
 - Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Crapo, Mike [R-ID] (C000880)
 
 ## Committees (1)
 
@@ -45,3 +46,8 @@ Protecting America's First Responders Act
 - 2019-05-13 — Committee on the Judiciary. Reported by Senator Graham with an amendment in the nature of a substitute. Without written report.
 - 2019-05-13 — Committee on the Judiciary. Reported by Senator Graham with an amendment in the nature of a substitute. Without written report.
 - 2019-05-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 83.
+- 2019-05-16 — Message on Senate action sent to the House.
+- 2019-05-16 — Passed Senate with an amendment by Voice Vote. (consideration: CR S2893-2895; text: CR 5/20/2019 S2981-2982)
+- 2019-05-16 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S2893-2895; text: CR 5/20/2019 S2981-2982)
+- 2019-05-16 — Received in the House.
+- 2019-05-16 — Referred to the House Committee on the Judiciary.
