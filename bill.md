@@ -1,0 +1,35 @@
+---
+legis-num: H.R. 2798
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2798
+
+> To amend title 38, United States Code, to make permanent the pilot program on counseling in retreat settings for women veterans newly separated from service in the Armed Forces.
+
+## § 1. Short title
+
+This Act may be cited as the “Building Supportive Networks for Women Veterans Act”.
+
+## § 2. Counseling in retreat settings for women veterans newly separated from service in the Armed Forces
+
+- **(a)** *Permanent program*
+  - **(1)** *In general* Chapter 17 of title 38, United States Code, is amended by inserting after section 1712C the following new section:
+    > ## § 1712D. Counseling in retreat settings for women veterans newly separated
+    >
+    > - **(a)** *Program*
+    >   - **(1)** Commencing on January 1, 2021, the Secretary shall carry out, through the Readjustment Counseling Service of the Veterans Health Administration, a program to provide reintegration and readjustment services described in subsection (b) in group retreat settings to women veterans who are recently separated from service in the Armed Forces after a prolonged deployment.
+    >   - **(2)** The participation of a veteran in the program under paragraph (1) shall be at the election of the veteran.
+    > - **(b)** *Covered services* The services provided to a woman veteran under the program under subsection (a)(1) shall include the following:
+    >   - **(1)** Information on reintegration into the family, employment, and community of the veteran.
+    >   - **(2)** Financial counseling.
+    >   - **(3)** Occupational counseling.
+    >   - **(4)** Information and counseling on stress reduction.
+    >   - **(5)** Information and counseling on conflict resolution.
+    >   - **(6)** Such other information and counseling as the Secretary considers appropriate to assist the veteran in reintegration into the family, employment, and community of the veteran.
+    > - **(c)** *Biennial reports* Not later than December 31, 2022, and each even-numbered year thereafter, the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report on the program under subsection (a)(1).
+
+  - **(2)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 1712C the following new item:
+- **(b)** *Conforming repeal* Effective December 31, 2020, section 203 of the Caregivers and Veterans Omnibus Health Services Act of 2010 (38 U.S.C. 1712A note) is repealed.
