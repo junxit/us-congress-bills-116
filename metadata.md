@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2372
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2372
@@ -16,6 +16,10 @@ Veterans' Care Quality Transparency Act
 
 - Rep. Underwood, Lauren [D-IL-14] (U000040)
 
+## Cosponsors (1)
+
+- Rep. Porter, Katie [D-CA-45] (P000618)
+
 ## Committees (1)
 
 - House — Veterans' Affairs Committee
@@ -25,3 +29,9 @@ Veterans' Care Quality Transparency Act
 - 2019-04-25 — Introduced in House
 - 2019-04-25 — Introduced in House
 - 2019-04-25 — Referred to the House Committee on Veterans' Affairs.
+- 2019-05-02 — Referred to the Subcommittee on Health.
+- 2019-05-08 — Committee Consideration and Mark-up Session Held.
+- 2019-05-08 — Ordered to be Reported (Amended) by Voice Vote.
+- 2019-05-17 — Placed on the Union Calendar, Calendar No. 48.
+- 2019-05-17 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 116-72.
+- 2019-05-17 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 116-72.
