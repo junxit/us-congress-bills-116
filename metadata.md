@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5
@@ -267,6 +267,11 @@ Equality Act
 - House — Education and the Workforce Committee
 - House — Judiciary Committee
 
+## Recorded votes (2)
+
+- 2019-05-17 — [House 116-1-216](votes/house-116-1-0216.md) — On Motion to Recommit with Instructions — **Failed** (181–228)
+- 2019-05-17 — [House 116-1-217](votes/house-116-1-0217.md) — On Passage — **Passed** (236–173)
+
 ## Actions
 
 - 2019-03-13 — Introduced in House
@@ -290,3 +295,21 @@ Equality Act
 - 2019-05-10 — Placed on the Union Calendar, Calendar No. 34.
 - 2019-05-10 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-56, Part I.
 - 2019-05-10 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-56, Part I.
+- 2019-05-14 — Rules Committee Resolution H. Res. 377 Reported to House. Rule provides for consideration of H.R. 5, H.R. 312 and H.R. 987. The resolution provides for 90 minutes of debate on H.R. 5, under a closed rule. Section 2 of the resolution provides for 60 minutes of debate on H.R. 312, under a closed rule and section 3 provides 90 minutes of debate on H.R. 987, under a structured rule.
+- 2019-05-17 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2019-05-17 — Considered as unfinished business. (consideration: CR H3950-3953)
+- 2019-05-17 — Considered under the provisions of rule H. Res. 377. (consideration: CR H3931-3950)
+- 2019-05-17 — DEBATE - The House proceeded with 10 minutes of debate on the Steube motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add at the end of the bill a new section that nothing in this Act or any amendment made by this Act may be construed to diminish any protections under title IX of the Education Amendments of 1972.
+- 2019-05-17 — DEBATE - The House proceeded with 90 minutes of debate on H.R. 5.
+- 2019-05-17 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2019-05-17 — House amendment offered
+- 2019-05-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-05-17 — Mr. Steube moved to recommit with instructions to the Committee on the Judiciary. (text: CR H3950)
+- 2019-05-17 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2019-05-17 — On motion to recommit with instructions Failed by recorded vote: 181 - 228 (Roll no. 216).
+- 2019-05-17 — On passage Passed by recorded vote: 236 - 173 (Roll no. 217). (text: CR H3931-3934)
+- 2019-05-17 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of Rule 19, the Chair postponed further proceedings on H.R. 5.
+- 2019-05-17 — Passed/agreed to in House: On passage Passed by recorded vote: 236 - 173 (Roll no. 217).(text: CR H3931-3934)
+- 2019-05-17 — Rule provides for consideration of H.R. 5, H.R. 312 and H.R. 987. The resolution provides for 90 minutes of debate on H.R. 5, under a closed rule. Section 2 of the resolution provides for 60 minutes of debate on H.R. 312, under a closed rule and section 3 provides 90 minutes of debate on H.R. 987, under a structured rule.
+- 2019-05-17 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2019-05-17 — The previous question was ordered pursuant to the rule.
