@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 2827
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2827
+
+> To amend the Federal Food, Drug, and Cosmetic Act to deem any perfluoroalkyl or polyfluoroalkyl substance used as a food contact substance to be unsafe and therefore treated as adulterated under such Act, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Keep Food Containers Safe from PFAS Act of 2019”.
+
+## § 2. Prohibition against food contact substances containing perfluoroalkyl and polyfluoroalkyl substances
+
+Paragraph (6) of section 409(h) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 348(h)(6)) is amended—
+
+- **(1)** by striking “(6)” and inserting “(6)(A) Definition.—”; and
+- **(2)** by adding at the end the following:
+  > - **(B)** *Perfluorinated compounds*
+  >   - **(i)** *Deemed unsafe* Beginning on January 1, 2022, any PFAS used as a food contact substance is deemed to be unsafe for the purposes of this section and the application of clause (2)(C) of section 402(a).
+  >   - **(ii)** *Definitions* In this subparagraph:
+  >     - **(I)** The term PFAS means a perfluoroalkyl substance or a polyfluoroalkyl substance that is man-made with at least 1 fully fluorinated carbon atom.
+  >     - **(II)** The term perfluoroalkyl substance means a man-made chemical of which all of the carbon atoms are fully fluorinated carbon atoms.
+  >     - **(III)** The term polyfluoroalkyl substance means a man-made chemical containing a mix of fully fluorinated carbon atoms, partially fluorinated carbon atoms, and nonfluorinated carbon atoms.
