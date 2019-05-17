@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 2822
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2822
+
+> To amend title V of the Social Security Act to provide for an extension of funding for family-to-family health information centers, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Family-to-Family Reauthorization Act of 2019”.
+
+## § 2. Five-year extension of funding for family-To-family health information centers
+
+Section 501(c)(1)(A)(vii) of the Social Security Act (42 U.S.C. 701(c)(1)(A)(vii)) is amended by striking “and 2019” and inserting “through 2024”.
