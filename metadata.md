@@ -1,7 +1,7 @@
 ---
 measure: S. 820
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 820
@@ -40,9 +40,10 @@ Debbie Smith Act of 2019
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Fischer, Deb [R-NE] (F000463)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -54,3 +55,6 @@ Debbie Smith Act of 2019
 - 2019-05-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 80.
 - 2019-05-16 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S2946-2948; text: CR S2947-2948)
 - 2019-05-16 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S2946-2948; text: CR S2947-2948)
+- 2019-05-20 — Message on Senate action sent to the House.
+- 2019-05-20 — Received in the House.
+- 2019-05-20 — Referred to the House Committee on the Judiciary.
