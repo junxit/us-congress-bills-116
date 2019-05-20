@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2480
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-119 amendatory instructions. 47 executed, 72 stated and not applied.
+131 amendatory instructions. 51 executed, 80 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -62,6 +62,15 @@ to guess them.
 
 ### 42 U.S.C. § 5106a
 
+> in clause (iii)(I), by striking “foster care and adoption programs” and inserting “foster care, prevention, and permanency programs”; and
+
+| | |
+|---|---|
+| Removed | `foster care and adoption programs` |
+| Inserted | `foster care, prevention, and permanency programs` |
+
+### 42 U.S.C. § 5106a
+
 > in paragraph (15), by striking “subsection (b)(2)(B)(ii)” and inserting “subsection (b)(2)(D)(i)”;
 
 | | |
@@ -80,12 +89,12 @@ to guess them.
 
 ### 42 U.S.C. § 5106a
 
-> in paragraph (17), by striking “subsection (b)(2)(B)(xxiv)” and inserting “subsection (b)(2)(D)(xv)”;
+> in paragraph (17), by striking “subsection (b)(2)(B)(xxiv)” and inserting “subsection (b)(2)(A)(xv)”; and
 
 | | |
 |---|---|
 | Removed | `subsection (b)(2)(B)(xxiv)` |
-| Inserted | `subsection (b)(2)(D)(xv)` |
+| Inserted | `subsection (b)(2)(A)(xv)` |
 
 ### 42 U.S.C. § 5106a
 
@@ -134,7 +143,7 @@ to guess them.
 
 ### 42 U.S.C. § 5101
 
-> by striking “Committee on Education and the Workforce” each place it appears and inserting “Committee on Education and Labor”; and
+> by striking “Committee on Education and the Workforce” each place it appears and inserting “Committee on Education and Labor”;
 
 | | |
 |---|---|
@@ -143,12 +152,21 @@ to guess them.
 
 ### 42 U.S.C. § 5101
 
-> in section 103(c)(1)(F), by striking “abused and neglected children” and inserting “victims of child abuse or neglect”.
+> in section 103(c)(1)(F), by striking “abused and neglected children” and inserting “victims of child abuse or neglect”; and
 
 | | |
 |---|---|
 | Removed | `abused and neglected children` |
 | Inserted | `victims of child abuse or neglect` |
+
+### 42 U.S.C. § 10603a
+
+> in section 107(f), by striking “(42 U.S.C. 10603a)” and inserting “(34 U.S.C. 20104)”.
+
+| | |
+|---|---|
+| Removed | `(42 U.S.C. 10603a)` |
+| Inserted | `(34 U.S.C. 20104)` |
 
 ### 42 U.S.C. § 5104
 
@@ -159,7 +177,7 @@ to guess them.
 | Removed | `section 106(b)(2)(B)(iii)` |
 | Inserted | `section 106(b)(2)(D)(ii)` |
 
-### 25 U.S.C. § 5106
+### 42 U.S.C. § 5106
 
 > in subparagraph (A), by striking “section 106(b)(2)(B)(iii)” and inserting “section 106(b)(2)(D)(ii)”;
 
@@ -168,7 +186,7 @@ to guess them.
 | Removed | `section 106(b)(2)(B)(iii)` |
 | Inserted | `section 106(b)(2)(D)(ii)` |
 
-### 25 U.S.C. § 5106
+### 42 U.S.C. § 5106
 
 > in clause (i)(II), by striking “section 106(b)(2)(B)(iii)” and inserting “section 106(b)(2)(D)(ii)”;
 
@@ -177,7 +195,7 @@ to guess them.
 | Removed | `section 106(b)(2)(B)(iii)` |
 | Inserted | `section 106(b)(2)(D)(ii)` |
 
-### 25 U.S.C. § 5106
+### 42 U.S.C. § 5106
 
 > in clause (i)(IV), by striking “section 106(b)(2)(B)(iii)(II)” and inserting “section 106(b)(2)(D)(ii)(II)”; and
 
@@ -186,7 +204,7 @@ to guess them.
 | Removed | `section 106(b)(2)(B)(iii)(II)` |
 | Inserted | `section 106(b)(2)(D)(ii)(II)` |
 
-### 25 U.S.C. § 5106
+### 42 U.S.C. § 5106
 
 > in clause (ii), by striking “clauses (ii) and (iii) of section 106(b)(2)(B)” and inserting “clauses (i) and (ii) of section 106(b)(2)(D)”;
 
@@ -195,7 +213,7 @@ to guess them.
 | Removed | `clauses (ii) and (iii) of section 106(b)(2)(B)` |
 | Inserted | `clauses (i) and (ii) of section 106(b)(2)(D)` |
 
-### 25 U.S.C. § 5106
+### 42 U.S.C. § 5106
 
 > in clause (i)(I), by striking “section 106(b)(2)(B)(iii)(I)” and inserting “section 106(b)(2)(D)(ii)(I)”;
 
@@ -204,7 +222,7 @@ to guess them.
 | Removed | `section 106(b)(2)(B)(iii)(I)` |
 | Inserted | `section 106(b)(2)(D)(ii)(I)` |
 
-### 25 U.S.C. § 5106
+### 42 U.S.C. § 5106
 
 > in clause (ii)(I), by striking “section 106(b)(2)(B)(ii)” and inserting “section 106(b)(2)(D)(i)”;
 
@@ -213,16 +231,16 @@ to guess them.
 | Removed | `section 106(b)(2)(B)(ii)` |
 | Inserted | `section 106(b)(2)(D)(i)` |
 
-### 25 U.S.C. § 5106
+### 42 U.S.C. § 5106
 
-> in clause (ii)(II), by striking “section 106(b)(2)(B)(iii)(I)” and inserting “section 106(b)(2)(D)(ii)(I)”;
+> in clause (ii)(II), by striking “section 106(b)(2)(B)(iii)” and inserting “section 106(b)(2)(D)(ii)(I)”;
 
 | | |
 |---|---|
-| Removed | `section 106(b)(2)(B)(iii)(I)` |
+| Removed | `section 106(b)(2)(B)(iii)` |
 | Inserted | `section 106(b)(2)(D)(ii)(I)` |
 
-### 25 U.S.C. § 5106
+### 42 U.S.C. § 5106
 
 > in clause (iii)(I), by striking “section 106(b)(2)(B)(i)” and inserting “section 106(b)(2)(A)(i)”;
 
@@ -231,7 +249,7 @@ to guess them.
 | Removed | `section 106(b)(2)(B)(i)` |
 | Inserted | `section 106(b)(2)(A)(i)` |
 
-### 25 U.S.C. § 5106
+### 42 U.S.C. § 5106
 
 > in clause (iii)(IV), by striking “section 106(b)(2)(B)(iii)” and inserting “section 106(b)(2)(D)(ii)”; and
 
@@ -240,7 +258,7 @@ to guess them.
 | Removed | `section 106(b)(2)(B)(iii)` |
 | Inserted | `section 106(b)(2)(D)(ii)` |
 
-### 25 U.S.C. § 5106
+### 42 U.S.C. § 5106
 
 > in clause (v), by striking “section 106(b)(2)(B)(iii)” and inserting “section 106(b)(2)(D)(ii)”;
 
@@ -249,7 +267,7 @@ to guess them.
 | Removed | `section 106(b)(2)(B)(iii)` |
 | Inserted | `section 106(b)(2)(D)(ii)` |
 
-### 25 U.S.C. § 5106
+### 42 U.S.C. § 5106
 
 > in subparagraph (E), by striking “section 106(b)(2)(B)(ii)” and inserting “section 106(b)(2)(D)(i)”; and
 
@@ -258,7 +276,7 @@ to guess them.
 | Removed | `section 106(b)(2)(B)(ii)` |
 | Inserted | `section 106(b)(2)(D)(i)` |
 
-### 25 U.S.C. § 5106
+### 42 U.S.C. § 5106
 
 > in subparagraph (G)(ii), by striking “clauses (ii) and (iii) of section 106(b)(2)(B)” and inserting “clauses (i) and (ii) of section 106(b)(2)(D)”.
 
@@ -296,11 +314,20 @@ to guess them.
 
 ### 42 U.S.C. § 5116d
 
-> in paragraphs (1), (2), (3), and (4), by striking “community-based and prevention-focused programs and activities designed to strengthen and support families” and inserting “community-based family strengthening services designed”;
+> in paragraphs (1), (2), and (4), by striking “community-based and prevention-focused programs and activities designed to strengthen and support families” and inserting “community-based family strengthening services designed”;
 
 | | |
 |---|---|
 | Removed | `community-based and prevention-focused programs and activities designed to strengthen and support families` |
+| Inserted | `community-based family strengthening services designed` |
+
+### 42 U.S.C. § 5116d
+
+> in paragraph (3) by striking “community-based and prevention-focused programs and activities” and inserting “community-based family strengthening services designed”;
+
+| | |
+|---|---|
+| Removed | `community-based and prevention-focused programs and activities` |
 | Inserted | `community-based family strengthening services designed` |
 
 ### 42 U.S.C. § 5116d
@@ -341,15 +368,6 @@ to guess them.
 
 ### 42 U.S.C. § 5116f
 
-> in paragraph (3), by striking “section 205(3)” and inserting “section 204”;
-
-| | |
-|---|---|
-| Removed | `section 205(3)` |
-| Inserted | `section 204` |
-
-### 42 U.S.C. § 5116f
-
 > by striking “leadership of” and insert “partnership with”; and
 
 | | |
@@ -357,7 +375,7 @@ to guess them.
 | Removed | `leadership of` |
 | Inserted | `partnership with` |
 
-### 42 U.S.C. § 5116fg
+### 42 U.S.C. § 5116g
 
 > in the matter preceding paragraph (1), by striking “such sums as may be necessary” and inserting “not more than 5 percent”; and
 
@@ -366,7 +384,7 @@ to guess them.
 | Removed | `such sums as may be necessary` |
 | Inserted | `not more than 5 percent` |
 
-### 42 U.S.C. § 5116fg
+### 42 U.S.C. § 5116g
 
 > in paragraph (3), by striking “community-based and prevention-focused programs and activities designed to strengthen and support families” and inserting “community-based family strengthening services designed”.
 
@@ -395,7 +413,7 @@ to guess them.
 
 ### 42 U.S.C. § 5111
 
-> in the heading, by striking “Congressional findings and declaration of purpose” and inserting “Purpose”;
+> in the section heading, by striking “Congressional findings and declaration of purpose” and inserting “Purpose”;
 
 | | |
 |---|---|
@@ -447,6 +465,24 @@ to guess them.
 | Removed | `fiscal years 2011 through 2015` |
 | Inserted | `fiscal years 2021 through 2025` |
 
+### 42 U.S.C. § 9858c
+
+> Section 658E(c)(2)(L) of the Head Start Act (42 U.S.C. 9858c(c)(2)(L)) is amended by striking “will comply with the child abuse reporting requirements of section 106(b)(2)(B)(i) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a(b)(2)(B)(i))” and inserting “will comply with the child abuse reporting requirements of section 106(b)(2)(A)(i) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a(b)(2)(A)(i))”.
+
+| | |
+|---|---|
+| Removed | `will comply with the child abuse reporting requirements of section 106(b)(2)(B)(i) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a(b)(2)(B)(i))` |
+| Inserted | `will comply with the child abuse reporting requirements of section 106(b)(2)(A)(i) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a(b)(2)(A)(i))` |
+
+### 34 U.S.C. § 20104
+
+> Section 1404A of the Victims of Crime Act of 1984 (34 U.S.C. 20104) is amended by striking “section 109” and inserting “section 107”.
+
+| | |
+|---|---|
+| Removed | `section 109` |
+| Inserted | `section 107` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -469,8 +505,9 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5105` | amend | in subsection (b), by amending paragraph (2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5105` | strike | in subsection (c), by striking paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5105` | strike | by striking subsection (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5106` | redesignate | by redesignating paragraph (7) as paragraph (10); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5106` | redesignate | by redesignating paragraph (7) as paragraph (11); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5106` | replace | by striking paragraphs (1) through (6) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5106` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5106` | replace | by striking subsections (b) and (c) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5106a` | amend | Subsection (a) of section 106 of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5106a` | amend | Paragraph (1) of section 106(b) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a(b)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -481,16 +518,22 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5106a` | replace | by striking “this subsection” and all that follows through “means an act” and inserting the following: “this subsection, the term near fatality means an act”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5106a` | replace | by striking “; and” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5106a` | strike | by striking subparagraph (B). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5106a` | strike | in paragraph (4)(A), by striking “and where appropriate, specific cases,”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 5106a` | strike | in the matter preceding clause (i), by striking “and where appropriate, specific cases,”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5106a` | amend | by amending the first sentence of paragraph (6) to read as follows: “Each panel established under paragraph (1) shall prepare and make available to the State and the public, on an annual basis, a report containing a summary of the activi… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5106a` | amend | by amending paragraph (13) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5106a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5106a` | add-at-end | Section 106(f) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a(f)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5106d` | insert | in subsection (b), by inserting “Indian tribes, and tribal organizations,” after “States,”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5106d` | redesignate | by redesignating subsections (c) through (e) as subsections (d) through (f), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5106d` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5106f` | amend | Section 110 of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106f) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5106h` | replace | by striking paragraph (2)(A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5104` | strike | The table of contents in section 1(b) of the Child Abuse Prevention and Treatment Act is amended by striking the items relating to sections 2 and 102. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5108` | strike | in each of subparagraphs (A) and (B), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 5108` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5101` | add-at-end | Title I of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5101 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5104` | strike | by striking the items relating to sections 2 and 102; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5104` | insert | by inserting after the item relating to section 114 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5104` | replace | by striking the item relating to section 110, and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5116` | amend | Subsections (a) and (b) of section 201 of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5116) are amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5116a` | replace | by striking subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5116a` | replace | by striking subparagraph (D) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -508,11 +551,12 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5116d` | redesignate | by striking paragraph (12), as so redesignated, and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5116e` | amend | Section 205 of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5116e) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5116f` | strike | in paragraph (2), by striking “including core and optional services as described in section 202”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 5116f` | replace | by striking paragraph (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5116f` | replace | by striking paragraph (4) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5116f` | replace | by striking paragraph (7) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5116f` | replace | by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5116f` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5116h` | redesignate | by redesignating paragraphs (1) and (2) as paragraphs (2) and (1), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5116h` | redesignate | by redesignating paragraphs (1) and (2) as paragraphs (2) and (1), respectively, and transferring paragraph (1) as redesignated to appear before paragraph (2) as redesignated; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5116h` | redesignate | by striking paragraph (1) (as so redesignated) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5116` | redesignate | by redesignating section 209 as section 210; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5116` | insert | by inserting after section 208 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
