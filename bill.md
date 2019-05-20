@@ -18,21 +18,25 @@ This Act may be cited as the “Fostering Intergovernmental Health Transparency 
 Section 1720F of title 38, United States Code, is amended by adding at the end the following new subsection:
 
 > - **(l)** *Congressional notice requirements*
->   - **(1)** In the case of the suicide or attempted suicide of any veteran that occurs in, or on the grounds of, a Department facility, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives and the Senator and member of Congress representing the district in which the facility is located the following notices:
+>   - **(1)** In the case of the suicide or attempted suicide of any veteran that occurs in, or on the grounds of, a Department facility, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives and the Senators and member of Congress representing the district in which the facility is located and the Senators and member of Congress representing the district in which the veteran resides the following notices:
 >     - **(A)** Not later than seven days after the date on which the suicide or attempted suicide occurs, notice of—
 >       - **(i)** the suicide or attempted suicide; and
 >       - **(ii)** the name of the facility and location where the suicide or attempted suicide occurred.
->     - **(B)** Not later than 60 days after such date, notice of the following information regarding the veteran who committed or attempted to commit suicide:
+>     - **(B)** Subject to subparagraph (C), not later than 60 days after such date, notice of the following information (if available) regarding the veteran who committed or attempted to commit suicide:
 >       - **(i)** The enrollment status of the veteran with respect to the patient enrollment system of the Department under section 1705 of this title.
 >       - **(ii)** The most recent encounter between the veteran and any employee or facility of the Veterans Health Administration before the suicide or attempted suicide occurred.
->       - **(iii)** Whether the veteran had private medical insurance.
+>       - **(iii)** Whether the veteran had other medical insurance or coverage (including TRICARE, Medicare, and Medicaid).
 >       - **(iv)** The Armed Force in which the veteran served.
 >       - **(v)** The time period when the veteran served in the Armed Forces.
 >       - **(vi)** The age of the veteran.
 >       - **(vii)** The marital status of the veteran.
 >       - **(viii)** The employment status of the veteran.
 >       - **(ix)** The housing status of the veteran.
->       - **(x)** Confirmation that the Secretary has provided notice to the immediate family members of the veteran regarding any Department support or assistance for which such family members may be eligible.
+>       - **(x)** The gender identity of the veteran.
+>       - **(xi)** The sexual orientation of the veteran.
+>       - **(xii)** The race of the veteran.
+>       - **(xiii)** Confirmation that the Secretary has provided notice to the immediate family members of the veteran regarding any Department support or assistance for which such family members may be eligible.
+>     - **(C)** In collecting and reporting information under subparagraph (B), the Secretary shall take all steps the Secretary determines necessary to respect the privacy and dignity of the veteran and the family of the veteran.
 >   - **(2)** Each notice submitted under subparagraph (A) or (B) of paragraph (1) shall include a copy of guidance developed by the Secretary for purposes of dissemination that is designed to—
 >     - **(A)** deter the sensationalism of suicide;
 >     - **(B)** provide information regarding warning signs that are often exhibited by veterans at risk of suicide; and
