@@ -30,3 +30,7 @@ Section 1712A of title 38, United States Code, is amended—
 - **(4)** in subsection (h), by adding at the end the following new paragraphs:
   > - **(4)** The term “active service” has the meaning given that term in section 101 of title 10.
   > - **(5)** The term “civil disorder” has the meaning given that term in section 232 of title 18.
+
+## § 3. Plan to provide Vet Center services to veterans living in areas where no Vet Center is located
+
+The Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a plan to provide Vet Center services to veterans living in geographic areas where no Vet Center is located, including in the United States insular areas.
