@@ -1,7 +1,7 @@
 ---
 measure: H.R. 615
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 615
@@ -16,7 +16,7 @@ Refugee Sanitation Facility Safety Act of 2019
 
 - Rep. Meng, Grace [D-NY-6] (M001188)
 
-## Cosponsors (23)
+## Cosponsors (42)
 
 - Rep. Engel, Eliot L. [D-NY-16] (E000179)
 - Rep. Moore, Gwen [D-WI-4] (M001160)
@@ -41,6 +41,25 @@ Refugee Sanitation Facility Safety Act of 2019
 - Rep. Hill, Katie [D-CA-25] (H001087)
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 - Rep. Deutch, Theodore E. [D-FL-22] (D000610)
+- Rep. Wilson, Frederica S. [D-FL-24] (W000808)
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Rep. Napolitano, Grace F. [D-CA-32] (N000179)
+- Rep. Cicilline, David N. [D-RI-1] (C001084)
+- Rep. Sires, Albio [D-NJ-8] (S001165)
+- Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Wasserman Schultz, Debbie [D-FL-23] (W000797)
+- Rep. Soto, Darren [D-FL-9] (S001200)
+- Rep. McGovern, James P. [D-MA-2] (M000312)
+- Rep. Carbajal, Salud O. [D-CA-24] (C001112)
+- Rep. Ocasio-Cortez, Alexandria [D-NY-14] (O000172)
+- Rep. Pocan, Mark [D-WI-2] (P000607)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Tlaib, Rashida [D-MI-13] (T000481)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Zeldin, Lee M. [R-NY-1] (Z000017)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Stewart, Chris [R-UT-2] (S001192)
 
 ## Committees (1)
 
@@ -51,3 +70,12 @@ Refugee Sanitation Facility Safety Act of 2019
 - 2019-01-16 — Introduced in House
 - 2019-01-16 — Introduced in House
 - 2019-01-16 — Referred to the House Committee on Foreign Affairs.
+- 2019-04-09 — Committee Agreed to Seek Consideration Under Suspension of the Rules.
+- 2019-04-09 — Committee Consideration and Mark-up Session Held.
+- 2019-04-09 — Ordered to be Reported (Amended) by Voice Vote.
+- 2019-05-20 — Considered under suspension of the rules. (consideration: CR H3970)
+- 2019-05-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 615.
+- 2019-05-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-05-20 — Mr. Engel moved to suspend the rules and pass the bill.
+- 2019-05-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3970)
+- 2019-05-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3970)
