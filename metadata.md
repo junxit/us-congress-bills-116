@@ -1,7 +1,7 @@
 ---
 measure: S. 744
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 744
@@ -22,9 +22,10 @@ Effective Prosecution of Possession of Biological Toxins and Agents Act of 2019
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ Effective Prosecution of Possession of Biological Toxins and Agents Act of 2019
 - 2019-05-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S2929)
 - 2019-05-16 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2929)
 - 2019-05-16 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S2929)
+- 2019-05-20 — Message on Senate action sent to the House.
+- 2019-05-20 — Received in the House.
+- 2019-05-20 — Referred to the House Committee on the Judiciary.
