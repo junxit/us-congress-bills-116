@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2480
 congress: 116
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-131 amendatory instructions. 51 executed, 80 stated and not applied.
+127 amendatory instructions. 49 executed, 78 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -465,24 +465,6 @@ to guess them.
 | Removed | `fiscal years 2011 through 2015` |
 | Inserted | `fiscal years 2021 through 2025` |
 
-### 42 U.S.C. § 9858c
-
-> Section 658E(c)(2)(L) of the Head Start Act (42 U.S.C. 9858c(c)(2)(L)) is amended by striking “will comply with the child abuse reporting requirements of section 106(b)(2)(B)(i) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a(b)(2)(B)(i))” and inserting “will comply with the child abuse reporting requirements of section 106(b)(2)(A)(i) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a(b)(2)(A)(i))”.
-
-| | |
-|---|---|
-| Removed | `will comply with the child abuse reporting requirements of section 106(b)(2)(B)(i) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a(b)(2)(B)(i))` |
-| Inserted | `will comply with the child abuse reporting requirements of section 106(b)(2)(A)(i) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a(b)(2)(A)(i))` |
-
-### 34 U.S.C. § 20104
-
-> Section 1404A of the Victims of Crime Act of 1984 (34 U.S.C. 20104) is amended by striking “section 109” and inserting “section 107”.
-
-| | |
-|---|---|
-| Removed | `section 109` |
-| Inserted | `section 107` |
-
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -528,8 +510,6 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5106d` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5106f` | amend | Section 110 of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106f) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5106h` | replace | by striking paragraph (2)(A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5108` | strike | in each of subparagraphs (A) and (B), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 5108` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5101` | add-at-end | Title I of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5101 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5104` | strike | by striking the items relating to sections 2 and 102; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5104` | insert | by inserting after the item relating to section 114 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
