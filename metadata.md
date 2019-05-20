@@ -1,7 +1,7 @@
 ---
 measure: H.R. 987
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 987
@@ -44,10 +44,11 @@ Strengthening Health Care and Lowering Prescription Drug Costs Act
 - Rep. Moore, Gwen [D-WI-4] (M001160)
 - Rep. Khanna, Ro [D-CA-17] (K000389)
 
-## Committees (2)
+## Committees (3)
 
 - House — Budget Committee
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -276,3 +277,4 @@ Strengthening Health Care and Lowering Prescription Drug Costs Act
 - 2019-05-16 — The Speaker designated the Honorable James R. Langevin to act as Chairman of the Committee.
 - 2019-05-16 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-05-16 — The previous question was ordered pursuant to the rule.
+- 2019-05-20 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
