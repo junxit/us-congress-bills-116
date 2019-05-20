@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2578
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2578
@@ -35,3 +35,6 @@ National Flood Insurance Program Extension Act of 2019
 - 2019-05-14 — Ms. Waters moved to suspend the rules and pass the bill.
 - 2019-05-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3763)
 - 2019-05-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3763)
+- 2019-05-15 — Received in the Senate.
+- 2019-05-16 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2019-05-20 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 93.
