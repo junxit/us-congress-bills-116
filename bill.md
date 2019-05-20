@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Navy SEAL Chief Petty Officer William “Bill” Mulder (Ret.) Transition Improvement Act of 2019”.
+This Act may be cited as the “Navy SEAL Chief Petty Officer William "Bill" Mulder (Ret.) Transition Improvement Act of 2019”.
 
 ## § 2. TAP defined
 
@@ -26,7 +26,7 @@ Section 453A(h) of the Social Security Act (42 U.S.C. 653a(h)) is amended by add
 ## § 4. Pilot program for off-base transition training for veterans and spouses
 
 - **(a)** *Extension of pilot program* Subsection (a) of section 301 of the Dignified Burial and Other Veterans’ Benefits Improvement Act of 2012 (Public Law 112–260; 10 U.S.C. 1144 note) is amended—
-  - **(1)** by striking “During the two-year period beginning on the date of the enactment of this Act” and inserting “During the five-year period beginning on the date of the enactment of the Navy SEAL Chief Petty Officer William “Bill” Mulder (Ret.) Transition Improvement Act of 2019”; and
+  - **(1)** by striking “During the two-year period beginning on the date of the enactment of this Act” and inserting “During the five-year period beginning on the date of the enactment of the Navy SEAL Chief Petty Officer William "Bill" Mulder (Ret.) Transition Improvement Act of 2019”; and
   - **(2)** by striking “to assess the feasibility and advisability of providing such program to eligible individuals at locations other than military installations”.
 - **(b)** *Locations* Subsection (c) of such section is amended—
   - **(1)** in paragraph (1), by striking “not less than three and not more than five States” and inserting “not fewer than 50 locations in States (as defined in section 101 of title 38, United States Code)”; and
