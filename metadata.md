@@ -1,7 +1,7 @@
 ---
 measure: S. 163
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 163
@@ -32,3 +32,7 @@ Alaska Remote Generator Reliability and Protection Act
 - 2019-02-05 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.
 - 2019-02-05 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.
 - 2019-02-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 19.
+- 2019-02-25 — By Senator Barrasso from Committee on Environment and Public Works filed written report. Report No. 116-2.
+- 2019-02-25 — By Senator Barrasso from Committee on Environment and Public Works filed written report. Report No. 116-2.
+- 2019-05-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2982; text: CR S2982)
+- 2019-05-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2982; text: CR S2982)
