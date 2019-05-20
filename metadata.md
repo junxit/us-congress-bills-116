@@ -1,7 +1,7 @@
 ---
 measure: H.R. 312
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 312
@@ -87,3 +87,5 @@ Mashpee Wampanoag Tribe Reservation Reaffirmation Act
 - 2019-05-15 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 275 - 146 (Roll no. 207).(text: CR H3817)
 - 2019-05-15 — Rule provides for consideration of H.R. 5, H.R. 312 and H.R. 987. The resolution provides for 90 minutes of debate on H.R. 5, under a closed rule. Section 2 of the resolution provides for 60 minutes of debate on H.R. 312, under a closed rule and section 3 provides 90 minutes of debate on H.R. 987, under a structured rule.
 - 2019-05-15 — The previous question was ordered pursuant to the rule.
+- 2019-05-16 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2019-05-20 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 92.
