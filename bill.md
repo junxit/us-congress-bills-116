@@ -51,7 +51,7 @@ It is the sense of Congress that—
 
 ## § 4. Congressional oversight
 
-Not later than one year after the date of the enactment of this Act and in each of the following two years thereafter, the Secretary of State shall provide to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a briefing on the status of any activities carried out pursuant to this Act during the preceding year, which shall include, among other information, the following:
+Not later than 1 year after the date of the enactment of this Act and in each of the following 2 years thereafter, the Secretary of State shall provide to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a briefing on the status of any activities carried out pursuant to this Act during the preceding year, which shall include, among other information, the following:
 
 - **(1)** A summary of all exchanges conducted under the Global Electoral Exchange Program, including information regarding grantees, participants, and the locations where program activities were held.
 - **(2)** A description of the criteria used to select grantees under the Global Electoral Exchange Program.
