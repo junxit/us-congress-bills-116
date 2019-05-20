@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1947
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1947
@@ -29,3 +29,9 @@ To amend title 38, United States Code, to exempt transfers of funds from Federal
 - 2019-03-28 — Introduced in House
 - 2019-03-28 — Introduced in House
 - 2019-03-28 — Referred to the House Committee on Veterans' Affairs.
+- 2019-04-29 — Referred to the Subcommittee on Health.
+- 2019-05-08 — Committee Consideration and Mark-up Session Held.
+- 2019-05-08 — Ordered to be Reported (Amended) by Voice Vote.
+- 2019-05-20 — Placed on the Union Calendar, Calendar No. 52.
+- 2019-05-20 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 116-76.
+- 2019-05-20 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 116-76.
