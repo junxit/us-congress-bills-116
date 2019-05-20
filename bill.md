@@ -24,10 +24,11 @@ This Act may be cited as the “Intercountry Adoption Information Act of 2019”
   >   - **(A)** what policies, procedures, resources, and safeguards the country lacks, or other shortcomings or circumstances, that caused the action to be carried out;
   >   - **(B)** what progress the country has made to alleviate those shortcomings; and
   >   - **(C)** what steps the Department of State has taken in order to assist the country to reopen intercountry adoptions.
+  > - **(14)** An assessment of the impact of the fee schedule of the Intercountry Adoption Accreditation and Maintenance Entity on families seeking to adopt internationally, especially low-income families, families seeking to adopt sibling groups, or families seeking to adopt children with disabilities.
 
 - **(b)** *Public availability of report* Section 104 of the Intercountry Adoption Act of 2000 (42 U.S.C. 14914) is amended by adding at the end the following new subsection:
   > - **(c)** *Public availability of report* The Secretary shall make the information contained in the report required under subsection (a) available to the public on the website of the Department of State.
 
 - **(c)** *Privacy concerns* In complying with the amendments made by subsections (a) and (b), the Secretary shall avoid, to the maximum extent practicable, disclosing any personally identifiable information relating to United States citizens or the adoptees of such citizens.
 - **(d)** *Conforming amendment* Section 104(a) of the Intercountry Adoption Act of 2000 (42 U.S.C. 14914(a)) is amended by striking “International Relations” and inserting “Foreign Affairs”.
-- **(e)** *Application date* The amendments made by this section shall apply with respect to reports required to be submitted under section 104 of the Intercountry Adoption Act of 2000 (42 U.S.C. 14914) beginning on the date that is 1 year after the date of enactment of this Act.
+- **(e)** *Application date* The amendments made by this section shall apply with respect to reports required to be submitted under section 104 of the Intercountry Adoption Act of 2000 (42 U.S.C. 14914) beginning on the date that is 180 days after the date of enactment of this Act.
