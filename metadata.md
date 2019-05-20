@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5
@@ -259,13 +259,14 @@ Equality Act
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
 - Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
 
-## Committees (5)
+## Committees (6)
 
 - House — Committee on House Administration
 - House — Oversight and Accountability Committee
 - House — Financial Services Committee
 - House — Education and the Workforce Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -308,3 +309,4 @@ Equality Act
 - 2019-05-17 — Rule provides for consideration of H.R. 5, H.R. 312 and H.R. 987. The resolution provides for 90 minutes of debate on H.R. 5, under a closed rule. Section 2 of the resolution provides for 60 minutes of debate on H.R. 312, under a closed rule and section 3 provides 90 minutes of debate on H.R. 987, under a structured rule.
 - 2019-05-17 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-05-17 — The previous question was ordered pursuant to the rule.
+- 2019-05-20 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
