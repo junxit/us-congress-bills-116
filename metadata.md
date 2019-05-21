@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2480
 congress: 116
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2480
@@ -68,9 +68,10 @@ Stronger Child Abuse Prevention and Treatment Act
 - Rep. Finkenauer, Abby [D-IA-1] (F000467)
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -86,3 +87,4 @@ Stronger Child Abuse Prevention and Treatment Act
 - 2019-05-20 — Placed on the Union Calendar, Calendar No. 50.
 - 2019-05-20 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 116-74.
 - 2019-05-20 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 116-74.
+- 2019-05-21 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
