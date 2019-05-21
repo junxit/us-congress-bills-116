@@ -19,7 +19,7 @@ Section 1720F of title 38, United States Code, is amended by adding at the end t
 
 > - **(l)** *Congressional notice requirements*
 >   - **(1)** In the case of the suicide or attempted suicide of any veteran that occurs in, or on the grounds of, a Department facility, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives and the Senators and member of Congress representing the district in which the facility is located and the Senators and member of Congress representing the district in which the veteran resides the following notices:
->     - **(A)** Not later than seven days after the date on which the suicide or attempted suicide occurs, notice of—
+>     - **(A)** Not later than 7 days after the date on which the suicide or attempted suicide occurs, notice of—
 >       - **(i)** the suicide or attempted suicide; and
 >       - **(ii)** the name of the facility and location where the suicide or attempted suicide occurred.
 >     - **(B)** Subject to subparagraph (C), not later than 60 days after such date, notice of the following information (if available) regarding the veteran who committed or attempted to commit suicide:
