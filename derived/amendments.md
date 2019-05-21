@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2326
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 10 U.S.C. § 1144
 
-> by striking “During the two-year period beginning on the date of the enactment of this Act” and inserting “During the five-year period beginning on the date of the enactment of the Navy SEAL Chief Petty Officer William "Bill" Mulder (Ret.) Transition Improvement Act of 2019”; and
+> by striking “During the two-year period beginning on the date of the enactment of this Act” and inserting “During the 5-year period beginning on the date of the enactment of the Navy SEAL Chief Petty Officer William ‘Bill’ Mulder (Ret.) Transition Improvement Act of 2019”; and
 
 | | |
 |---|---|
 | Removed | `During the two-year period beginning on the date of the enactment of this Act` |
-| Inserted | `During the five-year period beginning on the date of the enactment of the Navy SEAL Chief Petty Officer William "Bill" Mulder (Ret.) Transition Improvement Act of 2019` |
+| Inserted | `During the 5-year period beginning on the date of the enactment of the Navy SEAL Chief Petty Officer William ‘Bill’ Mulder (Ret.) Transition Improvement Act of 2019` |
 
 ### 10 U.S.C. § 1144
 

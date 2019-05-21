@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Navy SEAL Chief Petty Officer William "Bill" Mulder (Ret.) Transition Improvement Act of 2019”.
+This Act may be cited as the “Navy SEAL Chief Petty Officer William ‘Bill’ Mulder (Ret.) Transition Improvement Act of 2019”.
 
 ## § 2. TAP defined
 
@@ -26,7 +26,7 @@ Section 453A(h) of the Social Security Act (42 U.S.C. 653a(h)) is amended by add
 ## § 4. Pilot program for off-base transition training for veterans and spouses
 
 - **(a)** *Extension of pilot program* Subsection (a) of section 301 of the Dignified Burial and Other Veterans’ Benefits Improvement Act of 2012 (Public Law 112–260; 10 U.S.C. 1144 note) is amended—
-  - **(1)** by striking “During the two-year period beginning on the date of the enactment of this Act” and inserting “During the five-year period beginning on the date of the enactment of the Navy SEAL Chief Petty Officer William "Bill" Mulder (Ret.) Transition Improvement Act of 2019”; and
+  - **(1)** by striking “During the two-year period beginning on the date of the enactment of this Act” and inserting “During the 5-year period beginning on the date of the enactment of the Navy SEAL Chief Petty Officer William ‘Bill’ Mulder (Ret.) Transition Improvement Act of 2019”; and
   - **(2)** by striking “to assess the feasibility and advisability of providing such program to eligible individuals at locations other than military installations”.
 - **(b)** *Locations* Subsection (c) of such section is amended—
   - **(1)** in paragraph (1), by striking “not less than three and not more than five States” and inserting “not fewer than 50 locations in States (as defined in section 101 of title 38, United States Code)”; and
@@ -40,19 +40,19 @@ Section 453A(h) of the Social Security Act (42 U.S.C. 653a(h)) is amended by add
 - **(c)** *Eligible organizations* To be eligible for a grant under this section, an organization shall submit to the Secretary an application containing such information and assurances as the Secretary, in consultation with the Secretary of Labor, may require.
 - **(d)** *Priority for hubs of services* In making grants under this section, the Secretary shall give priority to an organization that provides multiple forms of services described in subsection (b).
 - **(e)** *Amount of grant* A grant under this section shall be in an amount that does not exceed 50 percent of the amount required by the organization to provide the services described in subsection (b).
-- **(f)** *Deadline* The Secretary shall carry out this section not later than six months after the effective date of this Act.
-- **(g)** *Termination* The authority to provide a grant under this section shall terminate on the date that is five years after the date on which the Secretary implements the grant program under this section.
+- **(f)** *Deadline* The Secretary shall carry out this section not later than 6 months after the effective date of this Act.
+- **(g)** *Termination* The authority to provide a grant under this section shall terminate on the date that is 5 years after the date on which the Secretary implements the grant program under this section.
 - **(h)** *Authorization of appropriations* There is authorized to be appropriated $10,000,000 to carry out this section.
 
 ## § 6. One-year independent assessment of the effectiveness of TAP
 
-- **(a)** *Independent assessment* Not later than 90 days after the date of the enactment of this Act, the Secretary of Veterans Affairs, in consultation with the covered officials, shall enter into an agreement with an appropriate entity with experience in adult education to carry out a one-year independent assessment of TAP, including—
+- **(a)** *Independent assessment* Not later than 90 days after the date of the enactment of this Act, the Secretary of Veterans Affairs, in consultation with the covered officials, shall enter into an agreement with an appropriate entity with experience in adult education to carry out a 1-year independent assessment of TAP, including—
   - **(1)** the effectiveness of TAP for members of each military department during the entire military life cycle;
   - **(2)** the appropriateness of the TAP career readiness standards;
   - **(3)** a review of information that is provided to the Department of Veterans Affairs under TAP, including mental health data;
   - **(4)** whether TAP effectively addresses the challenges veterans face entering the civilian workforce and in translating experience and skills from military service to the job market;
   - **(5)** whether TAP effectively addresses the challenges faced by the families of veterans making the transition to civilian life;
-  - **(6)** appropriate metrics regarding TAP outcomes for members of the Armed Forces one year after separation, retirement, or discharge from the Armed Forces;
+  - **(6)** appropriate metrics regarding TAP outcomes for members of the Armed Forces 1 year after separation, retirement, or discharge from the Armed Forces;
   - **(7)** what the Secretary, in consultation with the covered officials and veterans service organizations determine to be successful outcomes for TAP;
   - **(8)** whether members of the Armed Forces achieve successful outcomes for TAP, as determined under paragraph (7);
   - **(9)** how the Secretary and the covered officials provide feedback to each other regarding such outcomes;
@@ -71,11 +71,11 @@ Section 453A(h) of the Social Security Act (42 U.S.C. 653a(h)) is amended by add
 
 ## § 7. Longitudinal study on changes to TAP
 
-- **(a)** *Study* Not later than 90 days after the date of the enactment of this Act, the Secretary of Veterans Affairs, in consultation with the Secretaries of Defense and Labor and the Administrator of the Small Business Administration, shall conduct a five-year longitudinal study regarding TAP on three separate cohorts of members of the Armed Forces who have separated from the Armed Forces, including—
+- **(a)** *Study* Not later than 90 days after the date of the enactment of this Act, the Secretary of Veterans Affairs, in consultation with the Secretaries of Defense and Labor and the Administrator of the Small Business Administration, shall conduct a 5-year longitudinal study regarding TAP on three separate cohorts of members of the Armed Forces who have separated from the Armed Forces, including—
   - **(1)** a cohort that has attended TAP counseling as implemented on the date of the enactment of this Act;
   - **(2)** a cohort that attends TAP counseling after the Secretaries of Defense and Labor implement changes recommended in the report under section 6(b) of this Act; and
   - **(3)** a cohort that has not attended TAP counseling.
-- **(b)** *Progress reports* Not later than 90 days after the day that is one year after the date of the initiation of the study under subsection (a) and annually thereafter for the three subsequent years, the Secretaries of Veterans Affairs, Defense, and Labor, and the Administrator of the Small Business Administration, shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives and the Committees on Armed Services of the Senate and House of Representatives a progress report of activities under the study during the immediately preceding year.
+- **(b)** *Progress reports* Not later than 90 days after the day that is 1 year after the date of the initiation of the study under subsection (a) and annually thereafter for the 3 subsequent years, the Secretaries of Veterans Affairs, Defense, and Labor, and the Administrator of the Small Business Administration, shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives and the Committees on Armed Services of the Senate and House of Representatives a progress report of activities under the study during the immediately preceding year.
 - **(c)** *Final report* Not later than 180 days after the completion of the study under subsection (a), the Secretaries of Veterans Affairs, Defense, and Labor, and the Administrator of the Small Business Administration, shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives and the Committees on Armed Services of the Senate and House of Representatives a report of final findings and recommendations based on the study.
 - **(d)** *Elements* The final report under subsection (c) shall include information regarding the following:
   - **(1)** The percentage of each cohort that received unemployment benefits during the study.
