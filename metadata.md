@@ -1,7 +1,7 @@
 ---
 measure: S. 1370
 congress: 116
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1370
@@ -16,7 +16,7 @@ Gold Star Family Tax Relief Act
 
 - Sen. Cassidy, Bill [R-LA] (C001075)
 
-## Cosponsors (29)
+## Cosponsors (46)
 
 - Sen. Jones, Doug [D-AL] (J000300)
 - Sen. Toomey, Patrick [R-PA] (T000461)
@@ -47,6 +47,23 @@ Gold Star Family Tax Relief Act
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Peters, Gary C. [D-MI] (P000595)
 - Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. McSally, Martha [R-AZ] (M001197)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Thune, John [R-SD] (T000250)
 
 ## Committees (1)
 
@@ -56,3 +73,8 @@ Gold Star Family Tax Relief Act
 
 - 2019-05-08 — Introduced in Senate
 - 2019-05-08 — Read twice and referred to the Committee on Finance.
+- 2019-05-21 — Ordered held at desk by unanimous consent.
+- 2019-05-21 — Passed Senate without amendment by Unanimous Consent. (text: CR S2985)
+- 2019-05-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S2985)
+- 2019-05-21 — Senate Committee on Finance discharged by Unanimous Consent. (consideration: CR S2985)
+- 2019-05-21 — Senate Committee on Finance discharged by Unanimous Consent.(consideration: CR S2985)
