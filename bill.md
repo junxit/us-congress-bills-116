@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1947
 
-> To amend title 38, United States Code, to exempt transfers of funds from Federal agencies to the Department of Veterans Affairs for nonprofit corporations established under subchapter IV of chapter 73 of such title from certain provisions of the Economy Act.
+> To amend title 38, United States Code, to exempt transfers of funds from Federal agencies to the Department of Veterans Affairs for nonprofit corporations established under subchapter IV of chapter 73 of such title from certain provisions of the Economy Act, and for other purposes.
 
 ## § 1. Exemption of certain transfers
 
@@ -23,7 +23,7 @@ Section 7364(b)(1) of title 38, United States Code, is amended by adding at the 
   > - **(l)** *Accelerated payments for certain flight training*
   >   - **(1)** *Payments* An individual enrolled in a program of education pursued at a vocational school or institution of higher learning in which flight training is required to earn the degree being pursued (including with respect to a dual major, concentration, or other element of such a degree) may elect to receive accelerated payments of amounts for tuition and fees determined under subsection (c). The amount of each accelerated payment shall be an amount equal to twice the amount for tuition and fee so determined under such subsection, but the total amount of such payments may not exceed the total amount of tuition and fees for the program of education. The amount of monthly stipends shall be determined in accordance with such subsection (c) and may not be accelerated under this paragraph.
   >   - **(2)** *Educational counseling* An individual may make an election under paragraph (1) only if the individual receives educational counseling under section 3697A(a) of this title.
-  >   - **(3)** *Charge against entitlement* The number of months of entitlement charged an individual for accelerated payments made pursuant to paragraph (1) shall be determined at the rate of two months for each month in which such an accelerated payment is made.
+  >   - **(3)** *Charge against entitlement* The number of months of entitlement charged an individual for accelerated payments made pursuant to paragraph (1) shall be determined at the rate of 2 months for each month in which such an accelerated payment is made.
 
 - **(c)** *Flight training at public institutions* Subsection (c)(1)(A) of such section 3313 is amended—
   - **(1)** in clause (i)—
@@ -47,7 +47,7 @@ Section 7364(b)(1) of title 38, United States Code, is amended by adding at the 
 
 - **(e)** *Application*
   - **(1)** *In general* Except as provided by paragraph (2), the amendments made by this section shall apply with respect to a quarter, semester, or term, as applicable, commencing on or after the date of the enactment of this Act.
-  - **(2)** *Special rule for current students* In the case of an individual who, as of the date of the enactment of this Act, is using educational assistance under chapter 33 of title 38, United States Code, to pursue a course of education that includes a program of education described in item (bb) or (cc) of section 3313(c)(1)(A)(ii)(II) of title 38, United States Code, as added by subsections (c) and (d), respectively, the amendment made by such subsection shall apply with respect to a quarter, semester, or term, as applicable, commencing on or after the date that is two years after the date of the enactment of this Act.
+  - **(2)** *Special rule for current students* In the case of an individual who, as of the date of the enactment of this Act, is using educational assistance under chapter 33 of title 38, United States Code, to pursue a course of education that includes a program of education described in item (bb) or (cc) of section 3313(c)(1)(A)(ii)(II) of title 38, United States Code, as added by subsections (c) and (d), respectively, the amendment made by such subsection shall apply with respect to a quarter, semester, or term, as applicable, commencing on or after the date that is 2 years after the date of the enactment of this Act.
 
 ## § 3. Provision of inscriptions for spouses and children on certain headstones and markers furnished by the Secretary of Veterans Affairs
 
@@ -57,3 +57,7 @@ Section 7364(b)(1) of title 38, United States Code, is amended by adding at the 
   >   - **(2)** If the spouse or eligible dependent child of an individual referred to in paragraph (1) predeceases the individual, the Secretary may, if feasible and upon request, include an inscription for the spouse or dependent child on the headstone or marker furnished for the individual under subsection (a) or (d).
 
 - **(b)** *Application* Subsection (j) of section 2306 of title 38, United States Code, as added by subsection (a), shall apply with respect to an individual who dies on or after October 1, 2019.
+
+## § 4. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
