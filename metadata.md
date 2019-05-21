@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1952
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1952
@@ -25,9 +25,10 @@ Intercountry Adoption Information Act of 2019
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 - Rep. Lamborn, Doug [R-CO-5] (L000564)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ Intercountry Adoption Information Act of 2019
 - 2019-05-20 — Mr. Castro (TX) moved to suspend the rules and pass the bill, as amended.
 - 2019-05-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 0 (Roll no. 218). (text: CR H3973)
 - 2019-05-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 0 (Roll no. 218).(text: CR H3973)
+- 2019-05-21 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
