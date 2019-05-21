@@ -15,7 +15,7 @@ This Act may be cited as the “Whole Veteran Act”.
 
 ## § 2. Report on Department of Veterans Affairs advancing of whole health transformation
 
-- **(a)** *Report* Not later than 180 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to Congress a report on the implementation of the Department of Veterans Affairs memorandum dated February 1, 2019, on the subject of Advancing Whole Health Transformation Across Veterans Health Administration.
+- **(a)** *Report* Not later than 180 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to Congress a report on the implementation of the Department of Veterans Affairs memorandum dated February 12, 2019, on the subject of Advancing Whole Health Transformation Across Veterans Health Administration.
 - **(b)** *Matters included* The report under subsection (a) shall include the following:
   - **(1)** An analysis of the accessibility and availability of each of the following services at medical facilities of the Department of Veterans Affairs (including community based outpatient clinics, vet centers, and community living centers):
     - **(A)** Massage.
