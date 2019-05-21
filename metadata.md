@@ -1,7 +1,7 @@
 ---
 measure: S. 163
 congress: 116
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 163
@@ -40,3 +40,17 @@ Alaska Remote Generator Reliability and Protection Act
 - 2019-05-21 — Message on Senate action sent to the House.
 - 2019-05-21 — Received in the House.
 - 2019-05-21 — Referred to the House Committee on Energy and Commerce.
+- 2019-05-22 — Referred to the Subcommittee on Environment and Climate Change.
+- 2019-09-17 — Committee on Energy and Commerce discharged.
+- 2019-09-17 — Committee on Energy and Commerce discharged.
+- 2019-09-17 — Considered by unanimous consent. (consideration: CR H7744-7745)
+- 2019-09-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-09-17 — Mr. Pallone asked unanimous consent to discharge from committee and consider.
+- 2019-09-17 — On passage Passed without objection. (text: CR H7744-7745)
+- 2019-09-17 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7744-7745)
+- 2019-09-23 — Presented to President.
+- 2019-09-23 — Presented to President.
+- 2019-10-04 — Became Public Law No: 116-62.
+- 2019-10-04 — Became Public Law No: 116-62.
+- 2019-10-04 — Signed by President.
+- 2019-10-04 — Signed by President.
