@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 354
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 354
@@ -16,7 +16,7 @@ Celebrating the 100th anniversary of the passage and ratification of the 19th Am
 
 - Rep. Lawrence, Brenda L. [D-MI-14] (L000581)
 
-## Cosponsors (104)
+## Cosponsors (169)
 
 - Rep. Lesko, Debbie [R-AZ-8] (L000589)
 - Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
@@ -122,6 +122,71 @@ Celebrating the 100th anniversary of the passage and ratification of the 19th Am
 - Rep. McGovern, James P. [D-MA-2] (M000312)
 - Rep. Omar, Ilhan [D-MN-5] (O000173)
 - Rep. Kennedy, Joseph P., III [D-MA-4] (K000379)
+- Rep. Tlaib, Rashida [D-MI-13] (T000481)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Schiff, Adam B. [D-CA-28] (S001150)
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
+- Rep. Case, Ed [D-HI-1] (C001055)
+- Rep. Wexton, Jennifer [D-VA-10] (W000825)
+- Rep. Kuster, Ann M. [D-NH-2] (K000382)
+- Rep. Hayes, Jahana [D-CT-5] (H001081)
+- Rep. Brooks, Mo [R-AL-5] (B001274)
+- Rep. Schweikert, David [R-AZ-6] (S001183)
+- Rep. Wagner, Ann [R-MO-2] (W000812)
+- Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
+- Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. Slotkin, Elissa [D-MI-8] (S001208)
+- Rep. McBath, Lucy [D-GA-6] (M001208)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Barragan, Nanette Diaz [D-CA-44] (B001300)
+- Rep. Jayapal, Pramila [D-WA-7] (J000298)
+- Rep. DelBene, Suzan K. [D-WA-1] (D000617)
+- Rep. Underwood, Lauren [D-IL-14] (U000040)
+- Rep. Houlahan, Chrissy [D-PA-6] (H001085)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. Ocasio-Cortez, Alexandria [D-NY-14] (O000172)
+- Rep. Rice, Kathleen M. [D-NY-4] (R000602)
+- Rep. Sánchez, Linda T. [D-CA-38] (S001156)
+- Rep. Scanlon, Mary Gay [D-PA-5] (S001205)
+- Rep. Axne, Cynthia [D-IA-3] (A000378)
+- Rep. Schrier, Kim [D-WA-8] (S001216)
+- Rep. Fletcher, Lizzie [D-TX-7] (F000468)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
+- Rep. Napolitano, Grace F. [D-CA-32] (N000179)
+- Rep. Walorski, Jackie [R-IN-2] (W000813)
+- Rep. Granger, Kay [R-TX-12] (G000377)
+- Rep. Miller, Carol D. [R-WV-3] (M001205)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. Foxx, Virginia [R-NC-5] (F000450)
+- Rep. Brooks, Susan W. [R-IN-5] (B001284)
+- Rep. Roby, Martha [R-AL-2] (R000591)
+- Rep. McCarthy, Kevin [R-CA-23] (M001165)
+- Rep. Eshoo, Anna G. [D-CA-18] (E000215)
+- Del. Plaskett, Stacey E. [D-VI-At Large] (P000610)
+- Rep. Hill, Katie [D-CA-25] (H001087)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Lowey, Nita M. [D-NY-17] (L000480)
+- Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Rep. Davids, Sharice [D-KS-3] (D000629)
+- Rep. Matsui, Doris O. [D-CA-6] (M001163)
+- Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Sherrill, Mikie [D-NJ-11] (S001207)
+- Rep. Bonamici, Suzanne [D-OR-1] (B001278)
+- Rep. Escobar, Veronica [D-TX-16] (E000299)
+- Rep. Luria, Elaine G. [D-VA-2] (L000591)
+- Rep. Porter, Katie [D-CA-45] (P000618)
+- Rep. Murphy, Stephanie N. [D-FL-7] (M001202)
+- Rep. Castor, Kathy [D-FL-14] (C001066)
+- Rep. Finkenauer, Abby [D-IA-1] (F000467)
+- Rep. Torres Small, Xochitl [D-NM-2] (T000484)
+- Rep. Heck, Denny [D-WA-10] (H001064)
+- Rep. Mucarsel-Powell, Debbie [D-FL-26] (M001207)
+- Rep. Cooper, Jim [D-TN-5] (C000754)
+- Rep. Reed, Tom [R-NY-23] (R000585)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
 
 ## Committees (1)
 
@@ -132,3 +197,11 @@ Celebrating the 100th anniversary of the passage and ratification of the 19th Am
 - 2019-05-03 — Introduced in House
 - 2019-05-03 — Introduced in House
 - 2019-05-03 — Referred to the House Committee on the Judiciary.
+- 2019-05-20 — Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.
+- 2019-05-21 — Committee on the Judiciary discharged.
+- 2019-05-21 — Committee on the Judiciary discharged.
+- 2019-05-21 — Considered by unanimous consent. (consideration: CR H4024)
+- 2019-05-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-05-21 — Ms. Dean asked unanimous consent to discharge from committee and consider.
+- 2019-05-21 — On agreeing to the resolution Agreed to without objection. (text: CR H4024)
+- 2019-05-21 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H4024)
