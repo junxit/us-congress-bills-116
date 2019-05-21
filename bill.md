@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2045
 
-> To amend title 38, United States Code, to establish the Veterans Economic Opportunity and Transition Administration and the Under Secretary for Veterans Economic Opportunity and Transition of the Department of Veterans Affairs, and for other purposes.
+> To amend title 38, United States Code, to establish in the Department the Veterans Economic Opportunity and Transition Administration, and for other purposes.
 
 ## § 1. Establishment of Veterans Economic Opportunity and Transition Administration
 
