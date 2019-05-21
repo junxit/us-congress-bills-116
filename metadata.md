@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2333
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2333
@@ -44,3 +44,9 @@ Support for Suicide Prevention Coordinators Act
 - 2019-05-17 — Placed on the Union Calendar, Calendar No. 46.
 - 2019-05-17 — Reported by the Committee on Veterans' Affairs. H. Rept. 116-70.
 - 2019-05-17 — Reported by the Committee on Veterans' Affairs. H. Rept. 116-70.
+- 2019-05-21 — Considered under suspension of the rules. (consideration: CR H4039-4041)
+- 2019-05-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2333.
+- 2019-05-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-05-21 — Mr. Takano moved to suspend the rules and pass the bill.
+- 2019-05-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4039)
+- 2019-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4039)
