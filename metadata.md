@@ -1,7 +1,7 @@
 ---
 measure: S. 163
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 163
@@ -20,9 +20,10 @@ Alaska Remote Generator Reliability and Protection Act
 
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Environment and Public Works Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -36,3 +37,6 @@ Alaska Remote Generator Reliability and Protection Act
 - 2019-02-25 — By Senator Barrasso from Committee on Environment and Public Works filed written report. Report No. 116-2.
 - 2019-05-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2982; text: CR S2982)
 - 2019-05-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2982; text: CR S2982)
+- 2019-05-21 — Message on Senate action sent to the House.
+- 2019-05-21 — Received in the House.
+- 2019-05-21 — Referred to the House Committee on Energy and Commerce.
