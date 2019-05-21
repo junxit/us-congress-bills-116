@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1359
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1359
@@ -25,9 +25,10 @@ Digital Global Access Policy Act of 2019
 - Rep. Phillips, Dean [D-MN-3] (P000616)
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Digital Global Access Policy Act of 2019
 - 2019-05-20 — Mr. Engel moved to suspend the rules and pass the bill.
 - 2019-05-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3970-3972)
 - 2019-05-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3970-3972)
+- 2019-05-21 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
