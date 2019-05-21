@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1952
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1952
@@ -51,3 +51,14 @@ Intercountry Adoption Information Act of 2019
 - 2019-05-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 0 (Roll no. 218). (text: CR H3973)
 - 2019-05-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 0 (Roll no. 218).(text: CR H3973)
 - 2019-05-21 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2020-09-30 — Message on Senate action sent to the House.
+- 2020-09-30 — Passed Senate without amendment by Unanimous Consent.
+- 2020-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-09-30 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2020-09-30 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S5918)
+- 2020-10-20 — Presented to President.
+- 2020-10-20 — Presented to President.
+- 2020-10-30 — Became Public Law No: 116-184.
+- 2020-10-30 — Became Public Law No: 116-184.
+- 2020-10-30 — Signed by President.
+- 2020-10-30 — Signed by President.
