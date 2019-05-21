@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 389
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 389
@@ -16,6 +16,10 @@ Providing for consideration of the bill (H.R. 1500) to require the Consumer Fina
 
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
 
+## Committees (1)
+
+- House — Rules Committee
+
 ## Actions
 
 - 2019-05-20 — Introduced in House
@@ -23,3 +27,11 @@ Providing for consideration of the bill (H.R. 1500) to require the Consumer Fina
 - 2019-05-20 — The House Committee on Rules reported an original measure, H. Rept. 116-79, by Mr. Perlmutter.
 - 2019-05-20 — The House Committee on Rules reported an original measure, H. Rept. 116-79, by Mr. Perlmutter.
 - 2019-05-20 — The resolution provides for one hour of debate on H.R. 1500, under a structured rule, and provides for one hour of debate on H.R. 1994, under a closed rule. The resolution provides for proceedings during the period from May 24, 2019, through May 31, 2019, and provides for motions to suspend the rules on the legislative day of May 23, 2019.
+- 2019-05-21 — Considered as privileged matter. (consideration: CR H4024-4030)
+- 2019-05-21 — Considered as unfinished business. (consideration: CR H4030-4031)
+- 2019-05-21 — DEBATE - The House proceeded with one hour of debate on H. Res. 389.
+- 2019-05-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-05-21 — On agreeing to the resolution Agreed to by the Yeas and Nays: 230 - 190 (Roll no. 221). (text: CR H4024-4025)
+- 2019-05-21 — On ordering the previous question Agreed to by the Yeas and Nays: 227 - 191 (Roll no. 220). (consideration: CR H4030)
+- 2019-05-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 389, the Chair put the question on ordering the previous question, and by voice vote, announced that the ayes had prevailed. Mr. Woodall demanded the yeas and nays and the Chair postponed further proceedings on the question of ordering the previous question until later in the legislative day.
+- 2019-05-21 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 230 - 190 (Roll no. 221).(text: CR H4024-4025)
