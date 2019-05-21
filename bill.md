@@ -17,7 +17,7 @@ This Act may be cited as the “Veterans’ Care Quality Transparency Act”.
 
 - **(a)** *Assessment* Not later than 270 days after the date of the enactment of this Act, the Comptroller General of the United States shall conduct an assessment of the effectiveness of all memoranda of understanding and memoranda of agreement entered into by the Under Secretary of Veterans Affairs for Health and a non-Department of Veterans Affairs entity relating to—
   - **(1)** suicide prevention activities and outreach; and
-  - **(2)** the provision or coordination of mental health services during the five-year period preceding the date of the enactment of this Act.
+  - **(2)** the provision or coordination of mental health services during the 5-year period preceding the date of the enactment of this Act.
 - **(b)** *Contents of assessment* The assessment required by subsection (a) shall include an assessment of—
   - **(1)** the size of the catchment area of each such entity;
   - **(2)** the staffing structures of such entities;
