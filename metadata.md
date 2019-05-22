@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2333
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2333
@@ -51,3 +51,12 @@ Support for Suicide Prevention Coordinators Act
 - 2019-05-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4039)
 - 2019-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4039)
 - 2019-05-22 — Received in the Senate, read twice.
+- 2019-12-11 — Passed Senate without amendment by Yea-Nay Vote. 95 - 0. Record Vote Number: 390. (consideration: CR S6967)
+- 2019-12-11 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 95 - 0. Record Vote Number: 390.(consideration: CR S6967)
+- 2019-12-12 — Message on Senate action sent to the House.
+- 2019-12-19 — Presented to President.
+- 2019-12-19 — Presented to President.
+- 2019-12-20 — Became Public Law No: 116-96.
+- 2019-12-20 — Became Public Law No: 116-96.
+- 2019-12-20 — Signed by President.
+- 2019-12-20 — Signed by President.
