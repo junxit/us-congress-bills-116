@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2045
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
