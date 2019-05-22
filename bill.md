@@ -24,10 +24,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(A)** Section 1021(a) of Dodd-Frank states that the Consumer Bureau, “shall seek to implement and, where applicable, enforce Federal consumer financial law consistently for the purpose of ensuring that all consumers have access to markets for consumer financial products and services and that markets for consumer financial products and services are fair, transparent, and competitive”.
     - **(B)** Section 1021(b) of Dodd-Frank authorizes the Consumer Bureau, “to exercise its authorities under Federal consumer financial law for the purposes of ensuring that, with respect to consumer financial products and services—(1) consumers are provided with timely and understandable information to make responsible decisions about financial transactions; (2) consumers are protected from unfair, deceptive, or abusive acts and practices and from discrimination; (3) outdated, unnecessary, or unduly burdensome regulations are regularly identified and addressed in order to reduce unwarranted regulatory burdens; (4) Federal consumer financial law is enforced consistently, without regard to the status of a person as a depository institution, in order to promote fair competition; and (5) markets for consumer financial products and services operate transparently and efficiently to facilitate access and innovation.”.
     - **(C)** Section 1021(c) of Dodd-Frank establishes the primary functions of the Consumer Bureau to be, “(1) conducting financial education programs; (2) collecting, investigating, and responding to consumer complaints; (3) collecting, researching, monitoring, and publishing information relevant to the functioning of markets for consumer financial products and services to identify risks to consumers and the proper functioning of such markets; (4) subject to sections 1024 through 1026, supervising covered persons for compliance with Federal consumer financial law, and taking appropriate enforcement action to address violations of Federal consumer financial law; (5) issuing rules, orders, and guidance implementing Federal consumer financial law; and (6) performing such support activities as may be necessary or useful to facilitate the other functions of the Bureau.”.
-  - **(5)** In doing so, Congress explicitly laid out these consumer-focused purpose, objectives, and primary functions for the Consumer Bureau to ensure that all consumers and all communities are protected. This is of extreme importance to communities of color who have been disproportionately impacted by the inequities of the financial system, resulting in an extreme racial wealth divide. Decades of segregation and discrimination have prevented consumers of colors from amassing wealth equal to their white counterparts, while predatory financial practices of have stripped consumers of color of their nominal existing wealth. For example, over the past 30 years, the average wealth of White families has grown by 84 percent—1.2 times the rate of growth for the Latino population and three times the rate of growth for the Black population. In light of historical practices and current-day disparities in banking and lending practices, the Consumer Bureau plays a key role in protecting communities of color from wealth-stripping financial products and ensuring their right to wealth building opportunities. The agency’s enforcement actions in auto lending, mortgages, and credit cards, and its rulemaking efforts have sought to address the predatory financial products such as payday loans and prepaid cards that are prolific in communities of color. The Consumer Bureau is essential in protecting vulnerable communities from discriminatory financial practices that has both perpetuated and exacerbated the racial wealth gap.
+  - **(5)** In doing so, Congress explicitly laid out these consumer-focused purpose, objectives, and primary functions for the Consumer Bureau to ensure that all consumers and all communities are protected. This is of extreme importance to communities of color who have been disproportionately impacted by the inequities of the financial system, resulting in an extreme racial wealth divide. Decades of segregation and discrimination have prevented consumers of colors from amassing wealth equal to their white counterparts, while predatory financial practices of have stripped consumers of color of their nominal existing wealth. For example, over the past 30 years, the average wealth of White families has grown by 84 percent—1.2 times the rate of growth for the Latino population and 3 times the rate of growth for the Black population. In light of historical practices and current-day disparities in banking and lending practices, the Consumer Bureau plays a key role in protecting communities of color from wealth-stripping financial products and ensuring their right to wealth building opportunities. The agency’s enforcement actions in auto lending, mortgages, and credit cards, and its rulemaking efforts have sought to address the predatory financial products such as payday loans and prepaid cards that are prolific in communities of color. The Consumer Bureau is essential in protecting vulnerable communities from discriminatory financial practices that has both perpetuated and exacerbated the racial wealth gap.
   - **(6)** Under Dodd-Frank, the Deputy Director of the Consumer Bureau shall serve as the Acting Director in the absence or unavailability of the Director, until the President appoints and the Senate confirms a new Director. Despite the plain letter of the law establishing a succession order to fill a vacancy in the Director’s position and the clear legislative history underscoring the importance of having an independent Federal consumer-focused agency, when the Consumer Bureau Director Richard Cordray resigned in November 2017, President Trump refused to recognize the Deputy Director as the rightful head of the agency and instead installed Mr. Mick Mulvaney, the Director of the White House Office of Management and Budget, to serve as the Consumer Bureau’s Acting Director. This appointment of a White House cabinet official to run the Consumer Bureau raises profound conflict of interest questions and undermines the vital independent nature of the agency.
   - **(7)** Additionally, the position of Acting Director is, by its nature, intended to be a temporary assignment to maintain the status quo at an agency and to ensure the agency is fulfilling its statutory purpose and mandates, until the President appoints, and the Senate confirms a permanent Director. Nevertheless, during his tenure, Mr. Mulvaney instituted drastic and severe changes to the Consumer Bureau’s daily operations and priorities contrary to the agency’s statutory purpose and mandates.
-  - **(8)** The daily operations of a Federal agency are guided by its official mission contained in its long-term strategic plan. The Consumer Bureau’s mission should embrace both the spirit and plain letter of the law by fully recognizing the agency’s statutory purpose, objectives, and functions. It is troubling that the Consumer Bureau, under Mr. Mulvaney, issued a Strategic Plan for Fiscal Year (“FY”) 2018–FY 2022 that appears to deemphasize the Consumer Bureau’s core mandate under section 1021(a) of Dodd-Frank to, “enforce Federal consumer financial law consistently for the purpose of ensuring that all consumers have access to markets for consumer financial products and services”, by not referencing the importance of enforcement in its mission. Instead, it emphasizes financial education by stating that the agency’s new mission is, “[t]o regulate the offering and provision of consumer financial products or services under the Federal consumer financial laws and to educate and empower consumers to make better informed financial decisions”. This is in stark contrast from the Consumer Bureau’s Strategic Plan for FY 2013–FY 2017, which stated that the agency’s mission is helping, “consumer finance markets work by making rules more effective, by consistently and fairly enforcing those rules, and by empowering consumers to take more control over their economic lives” (emphasis added).
+  - **(8)** The daily operations of a Federal agency are guided by its official mission contained in its long-term strategic plan. The Consumer Bureau’s mission should embrace both the spirit and plain letter of the law by fully recognizing the agency’s statutory purpose, objectives, and functions. It is troubling that the Consumer Bureau, under Mr. Mulvaney, issued a Strategic Plan for Fiscal Year (“FY”) 2018–FY 2022 that appears to deemphasize the Consumer Bureau’s core mandate under section 1021(a) of Dodd-Frank to, “enforce Federal consumer financial law consistently for the purpose of ensuring that all consumers have access to markets for consumer financial products and services”, by not referencing the importance of enforcement in its mission. Instead, it emphasizes financial education by stating that the agency’s new mission is, “[t]o regulate the offering and provision of consumer financial products or services under the Federal consumer financial laws and to educate and empower consumers to make better informed financial decisions”. This is in stark contrast from the Consumer Bureau’s Strategic Plan for FY 2013–FY 2017, which stated that the agency’s mission is helping, “consumer finance markets work by making rules more effective, by consistently and fairly enforcing those rules, and by empowering consumers to take more control over their economic lives”.
   - **(9)** Mr. Mulvaney has been praised by the White House for his efforts to undermine the Consumer Bureau, with one anonymous advisor acknowledging in a July 24, 2018, Politico article that, “His mission was to blow that up, which he has. He is very well-suited to the chaos.”. Mr. Mulvaney’s misguided actions have included, among other things—
     - **(A)** stopping payments from the Civil Penalty Fund to harmed consumers;
     - **(B)** trying to reduce the Consumer Bureau’s funding and staffing by initially requesting $0 be transferred from the Federal Reserve Board of Governors to carry out the agency’s work, imposing a freeze on hiring professional career staff, and by arbitrarily directing staff to cut the agency’s budget by 1/5;
@@ -51,7 +51,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(2)** Dodd-Frank underscores that the agency is designed to serve as an independent Federal agency that is primarily focused on the protection of all consumers, without any undue influence of partisan whims and special industry interests, in carrying out its responsibilities and duties.
   - **(3)** The official name of the agency should be consistent with this mandate, and the agency should, figuratively and literally, put “Consumers” first by using its better-known name as the “Consumer Financial Protection Bureau”. Thus, any remaining utilization by the agency of the name, “Bureau of Consumer Financial Protection”, or the acronym “BCFP”, should cease in all forms.
   - **(4)** The statute establishing the Consumer Bureau has been grossly misinterpreted under Mr. Mulvaney’s leadership, in a manner that is inconsistent with the agency’s statutory purpose, objectives, and functions. One example of this was Mr. Mulvaney’s inane suggestion that the statutory requirement for the Director to appear before relevant Congressional Committees to discuss its semi-annual reports could be interpreted as requiring the Director merely to attend a hearing and not answer questions, despite the well-established interpretation of a similar statutory requirement for the Chair of the Federal Reserve Board of Governors to appear before the House Financial Services Committee and the Senate Banking, Housing, and Urban Affairs Committee on a semi-annual basis about the monetary policy report, as required by the Humphrey-Hawkins Full Employment Act. In the face of such blatant and disrespectful attempts to warp the authorizing and oversight role of the first branch of the Federal Government—the United States Congress—by the Trump Administration, Congress must, in this instance, now refine the Consumer Bureau’s authority to ensure that the vital role that the Consumer Bureau should be playing within the country’s financial regulatory regime is not effectively destroyed by the agency’s current leadership.
-  - **(5)** The Consumer Bureau, now under a new Director, should promptly reverse all anti-consumer actions taken during Mr. Mulvaney’s tenure, including the actions identified by this legislation, to ensure that the agency is fully complying with its statutory purpose, objectives, and functions to protect all consumers, including communities of color and vulnerable populations. One important action is for the Consumer Bureau to resume robust fair lending enforcement to ensure that every consumer has fair and equal access to affordable financial products and services. Another demonstration of this would be for the Consumer Bureau to immediately resume supervision of its regulated entities for compliance with the Military Lending Act to ensure for the most robust and efficient protection of active-duty servicemembers and their families. Other examples include the Consumer Bureau significantly revising its strategic plan to align it with its statutory purpose, objectives and functions, and for the agency to immediately resume coordinating closely with other Federal agencies, such as the Department of Education and the Department of Defense, and State regulators, as is required by section 1015 of Dodd-Frank to, “promote consistent regulatory treatment of consumer financial and investment products and services.”
+  - **(5)** The Consumer Bureau, now under a new Director, should promptly reverse all anti-consumer actions taken during Mr. Mulvaney’s tenure, including the actions identified by this legislation, to ensure that the agency is fully complying with its statutory purpose, objectives, and functions to protect all consumers, including communities of color and vulnerable populations. One important action is for the Consumer Bureau to resume robust fair lending enforcement to ensure that every consumer has fair and equal access to affordable financial products and services. Another demonstration of this would be for the Consumer Bureau to immediately resume supervision of its regulated entities for compliance with the Military Lending Act to ensure for the most robust and efficient protection of active-duty servicemembers and their families. Other examples include the Consumer Bureau significantly revising its strategic plan to align it with its statutory purpose, objectives and functions, and for the agency to immediately resume coordinating closely with other Federal agencies, such as the Department of Education and the Department of Defense, and State regulators, as is required by section 1015 of Dodd-Frank to, “promote consistent regulatory treatment of consumer financial and investment products and services.”.
   - **(6)** While the legislation is a direct response to address many of the misguided decisions that have been orchestrated under Mr. Mulvaney’s leadership at the Consumer Bureau that have been exposed to the public, as of the date of the bill’s introduction, and sharply criticized by numerous Federal and State officials, including law enforcement, as well as organizations representing servicemembers, senior citizens, and other vulnerable consumer populations, this legislation should not be viewed as an exhaustive list to fix all the damaging actions that may have occurred at this agency since the departure of former Director Cordray in November 2017, particularly since detailed information revealing the full scope, nature, and extent of the current flawed operation of the agency, and the adverse impact resulting from these actions, may not yet be publicly available. Rather, this legislation should be interpreted as an attempt to highlight and resolve a small sample of the publicly known egregious statements, decisions, and actions that have occurred since November 2017.
 
 ## § 3. Consumer Financial Protection Bureau
@@ -73,7 +73,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(6)** The Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3201 et seq.).
   - **(7)** The Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1811 note et seq.).
   - **(8)** The Financial Literacy and Education Improvement Act (20 U.S.C. 9701 et seq.).
-  - **(9)** Section 626 of the Financial Services and General Government Appropriations Act, 2009 (Division D of Public Law 111–8; 12 U.S.C. 5538).
+  - **(9)** Section 626 of the Financial Services and General Government Appropriations Act, 2009 (division D of Public Law 111–8; 12 U.S.C. 5538).
   - **(10)** The Gramm-Leach-Bliley Act (12 U.S.C. 1811 note et seq.).
   - **(11)** The Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2801 et seq.).
   - **(12)** Section 10(a)(4) of the Homeowners Protection Act of 1998 (12 U.S.C. 4901 et seq.).
@@ -98,7 +98,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     >   - **(2)** may not reorganize or rename such units, offices, and boards in a manner not provided for under the applicable provision of section 1013 or 1014.
 
 - **(b)** *Duty To provide adequate staffing* Section 1013(a)(1) of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5493(a)(1)) is amended by adding at the end the following:
-  > - **(D)** *Duty to provide adequate staffing* The Director shall ensure that the specific functional units and offices described under subsections (b), (c), (d), (e), (g), and (h) of section 1013, as well as other units and offices with supervisory and enforcement duties, are provided with sufficient staff to carry out the functions, duties, and coordination of those units and offices.
+  > - **(D)** *Duty to provide adequate staffing* The Director shall ensure that the specific functional units and offices established under section 1013, as well as other units and offices with supervisory and enforcement duties, are provided with sufficient staff to carry out the functions, duties, and coordination of those units and offices.
 
 - **(c)** *Limitation on political appointees* Section 1013(a)(1) of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5493(a)(1)) is amended by adding at the end the following:
   > - **(E)** *Limitation on political appointees*
@@ -113,7 +113,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(A)** in subparagraph (A)—
       - **(i)** by inserting “publicly available” before “website”;
       - **(ii)** by inserting “publicly available” before “database”, each place such term appears; and
-      - **(iii)** by adding at the end the following: “The Director shall ensure that the landing page of the main website of the Bureau contains a clear and conspicuous hyperlink to the consumer complaint database described in this subparagraph and shall ensure that such database is user-friendly and in plain writing (as such term is defined in the Plain Writing Act of 2010). The Director shall ensure that all information on the website or the database that explains how to file a complaint with the Bureau, as well as all reports of the Bureau with respect to information contained in the database, shall be provided in each of the 5 most commonly spoken languages, other than English, in the United States, as determined by the Bureau of the Census on an ongoing basis, and in formats accessible to individuals with hearing or vision impairments.”; and
+      - **(iii)** by adding at the end the following: “The Director shall ensure that the landing page of the main website of the Bureau contains a clear and conspicuous hyperlink to the consumer complaint database described in this subparagraph and shall ensure that such database is user-friendly and in plain writing (as such term is defined in the Plain Writing Act of 2010). The Director shall ensure that all information on the website or the database that explains how to file a complaint with the Bureau, as well as all reports of the Bureau with respect to information contained in the database, shall be provided in each of the five most commonly spoken languages, other than English, in the United States, as determined by the Bureau of the Census on an ongoing basis, and in formats accessible to individuals with hearing or vision impairments.”; and
     - **(B)** by adding at the end the following:
       > - **(E)** *Public availability of information*
       >   - **(i)** *In general* The Director shall—
@@ -143,8 +143,15 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(C)** by adding at the end the following:
       > - **(10)** a list of each memorandum of understanding in effect with the Bureau, any changes made to a memorandum of understanding since the last report was made under subsection (b), and a justification for each such change;
 
+  - **(3)** *Reestablishment of memoranda of understanding* The memoranda of understanding between the Consumer Financial Protection Bureau and the Department of Education titled “Memorandum of Understanding Between the Bureau of Consumer Financial Protection and the U.S. Department of Education Concerning the Sharing of Information” (October 19, 2011) and “Memorandum of Understanding Concerning Supervisory and Oversight Cooperation and Related Information Sharing Between the U.S. Department of Education and the Consumer Financial Protection Bureau” (January 9, 2014)—
+    - **(A)** shall remain in effect and may not be terminated by any party to such memoranda; and
+    - **(B)** may only be amended or revised if the parties to the memoranda determine that such amendment or revision would promote better interagency coordination to the benefit of consumers.
 - **(f)** *Additional report information on consumer savings* Section 1013 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5493) is amended by adding at the end the following:
   > - **(i)** *Additional report information on consumer savings* In issuing each report required under section 502(d) of the Credit CARD Act of 2009, the Bureau shall include a numerical estimate of the amount that such Act has saved consumers in fees impacted by such Act, relative to the level of such fees prior to the enactment of such Act.
+
+- **(g)** *Restoration of rule prohibiting forced arbitration in consumer contracts*
+  - **(1)** *Repeal of joint resolution* Public Law 115–74 is hereby repealed.
+  - **(2)** *Restoration of rule* Not later than the end of the 3-day period beginning on the date of enactment of this Act, the Consumer Financial Protection Bureau shall reissue the final rule of the Bureau specified in Public Law 115–74 (relating to “Arbitration Agreements”) in the same form as such rule existed on the day before the date of enactment of Public Law 115–74, except the Bureau shall specify that the rule takes effect after the end of the 60-day period beginning on the date such rule is reissued.
 
 ## § 6. Offices of the Consumer Financial Protection Bureau
 
@@ -163,6 +170,16 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     >   - **(2)** *Head of the Office* The head of the Office of Students and Young Consumers shall be the Assistant Director and Student Loan Ombudsman, and the Assistant Director and Student Loan Ombudsman shall carry out all functions established under section 1035 through the Office of Students and Young Consumers.
     >   - **(3)** *Supervisory, enforcement, and regulatory matters* The Office of Students and Young Consumers shall assist in all supervisory, enforcement, and regulatory matters of the Bureau related to the functions of the Office.
     >   - **(4)** *Coordination* The Director shall enter into memoranda of understanding and similar agreements with the Department of Education and other Federal and State agencies, as appropriate, in order to carry out the business of the Office of Students and Young Consumers.
+    >   - **(5)** *Report on risks to young consumers and student borrowers* Not less than once annually, the Assistant Director and Student Loan Ombudsman shall issue a report to Congress containing an analysis of complaints submitted to the Bureau by young consumers and student borrowers during the previous year and offering an independent evaluation of risks to young consumers and student borrowers posed by policies and practices in the marketplace for consumer financial products and services.
+    >   - **(6)** *Collection of student loan servicer data*
+    >     - **(A)** *In general* The Assistant Director and Student Loan Ombudsman shall require each servicer of student loans to submit an annual report to the Assistant Director with information regarding the servicer’s loan portfolio, including data regarding the following:
+    >       - **(i)** The size of the servicer’s portfolio.
+    >       - **(ii)** The repayment status of unique accounts.
+    >       - **(iii)** Borrower-initiated and servicer-initiated contacts, and the outcome of each such contact.
+    >       - **(iv)** Income-driver repayment applications and recertifications.
+    >       - **(v)** Any other data the Assistant Director and Student Loan Ombudsman determines necessary to carry out the functions of the Office of Students and Young Consumers.
+    >     - **(B)** *Report* The Assistant Director and Student Loan Ombudsman shall include, in each report required under section 1035(d)(1), a description of the information collected under this paragraph, along with any findings or determinations the Assistant Director made with respect to such information.
+    >     - **(C)** *Guidance* Not later than 90 days after the enactment of this subsection, the Bureau shall issue guidance to student loan servicers to facilitate the data collection required under this paragraph.
 
   - **(2)** *Renaming and appointment clarification of the Private Education Loan Ombudsman*
     - **(A)** *In general* Section 1035 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5535) is amended—
@@ -186,14 +203,16 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(1)** by amending subsection (b) to read as follows:
     > - **(b)** *Membership*
     >   - **(1)** *Qualifications* In appointing the members of the Consumer Advisory Board, the Director shall—
-    >     - **(A)** seek to assemble a diverse and inclusive group of experts in consumer protection, financial services, community development, fair lending and civil rights, and consumer financial products or services and representatives of depository institutions that primarily serve underserved communities, and representatives of communities that have been significantly impacted by higher-priced mortgage loans, and seek representation of the interests of covered persons and consumers, without regard to party affiliation; and
-    >     - **(B)** ensure that at least 2/3 of the members represent the interests of consumers, including experts in consumer protection, fair lending, civil rights, and representatives of communities that have been significantly impacted by higher-priced mortgage loans and other products that resulted in consumer harm.
+    >     - **(A)** seek to assemble a diverse and inclusive group of experts in consumer protection, financial services, community development, fair lending and civil rights, and consumer financial products or services and representatives of depository institutions that primarily serve underserved communities, representatives of servicemembers, veterans, and their families, and representatives of communities that have been significantly impacted by higher-priced mortgage loans, and seek representation of the interests of covered persons and consumers, without regard to party affiliation;
+    >     - **(B)** ensure that at least 2/3 of the members represent the interests of consumers, including experts in consumer protection, fair lending, civil rights, and representatives of communities that have been significantly impacted by higher-priced mortgage loans and other products that resulted in consumer harm;
+    >     - **(C)** ensure that at least one member is an expert in consumer privacy; and
+    >     - **(D)** seek to appoint individuals involved in the industries affected by the Bureau, including individuals who represent community banks, credit unions, small business owners, or experts in United States economic growth and jobs.
     >   - **(2)** *Number of members* The Director shall appoint not fewer than 25 members to the Consumer Advisory Board, and not fewer than 6 members shall be appointed upon the recommendation of the regional Federal Reserve Bank Presidents, on a rotating basis.
     >   - **(3)** *Membership rights after charter change* Any change to the charter for the Consumer Advisory Board affecting the membership shall not preclude prior or current members from applying for consideration to serve on a reconstituted Consumer Advisory Board.
 
   - **(2)** in subsection (c)—
     - **(A)** by striking “meet from” and inserting “meet in person from”; and
-    - **(B)** by adding at the end the following: “The Bureau shall provide adequate notice to the members of the Consumer Advisory Board of the time and date of each meeting, and of any meeting cancellations.”
+    - **(B)** by adding at the end the following: “The Bureau shall provide adequate notice to the members of the Consumer Advisory Board of the time and date of each meeting, and of any meeting cancellations.”.
 - **(b)** *Inclusion of the Director in meetings and access to Bureau staff* Section 1014 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5494) is amended by adding at the end the following:
   > - **(e)** *Inclusion of the Director in meetings and access to Bureau staff* With respect to each in person meeting of the Consumer Advisory Board—
   >   - **(1)** the Director shall attend such meeting in person; and
@@ -205,8 +224,108 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(d)** *Additional requirements for advisory committees* Section 1013 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5493), as amended by section 6(b)(1), is further amended by adding at the end the following:
   > - **(k)** *Advisory committee requirements*
   >   - **(1)** *Qualifications* In appointing members of any advisory committee, other than the Consumer Advisory Board, the Director shall ensure that at least 1/3 of the members represent the interests of consumers, including experts in consumer protection, fair lending, civil rights, and representatives of communities that have been significantly impacted by higher-priced mortgage loans and other products that resulted in consumer harm.
-  >   - **(2)** *Selection of members representing minority-owned and women-owned businesses* In appointing members of any advisory committee, the Director shall seek to promote diversity and inclusion in making appointments, including by appointing individuals who represent minority-owned and women-owned businesses.
+  >   - **(2)** *Selection of members representing minority-owned, women-owned businesses, and military- and veteran-serving financial institutions* In appointing members of any advisory committee, the Director shall seek to promote diversity and inclusion in making appointments, including by appointing individuals who represent minority-owned, women-owned businesses, and military- and veteran-serving financial institutions.
 
-## § 8. Effective date
+## § 8. Discretionary surplus funds
+
+Section 7(a)(3)(A) of the Federal Reserve Act (12 U.S.C. 289(a)(3)(A)) is amended by striking “$6,825,000,000” and inserting “$6,797,000,000 (reduced by $10,000,000) (reduced by $10,000,000) (reduced by $10,000,000)”.
+
+## § 9. Modification of the exemption from certain disclosure requirements
+
+- **(a)** *In general* Section 304 of the Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2803) is amended—
+  - **(1)** by striking subsection (i) and inserting the following:
+    > - **(i)** *Exemption from certain disclosure requirements* The requirements of paragraphs (4), (5), and (6) of subsection (b) shall not apply with respect to any depository institution described in section 303(3)(A) that has total assets, as of the most recent full fiscal year of the institution, of $30 million or less.
+
+  - **(2)** by striking subsection (o).
+- **(b)** *Technical and conforming amendment* Section 104 of the Economic Growth, Regulatory Relief, and Consumer Protection Act (Public Law 115–174; 132 Stat. 1301) is amended by striking subsection (b).
+
+## § 10. Limitation on providing exemptions from HMDA reporting requirements
+
+Section 1027 of the Consumer Financial Protection Act (12 U.S.C. 5517) is amended by adding at the end the following:
+
+> - **(t)** *Limitation on providing exemptions from HMDA reporting requirements* Notwithstanding any provision of this title or the Home Mortgage Disclosure Act of 1975, the Bureau may not provide any person with an exemption from complying with any reporting requirements under the Home Mortgage Disclosure Act of 1975 if such exemption did not exist on the date of enactment of this subsection.
+
+## § 11. Limitation on modifying HMDA data fields
+
+Section 1027 of the Consumer Financial Protection Act (12 U.S.C. 5517) is amended by adding at the end the following:
+
+> - **(u)** *Limitation on modifying HMDA data fields* Notwithstanding any provision of this title or the Home Mortgage Disclosure Act of 1975, the Bureau may not eliminate, with respect to the reporting requirements under the Home Mortgage Disclosure Act of 1975, any data fields that were required to be reported on the date of enactment of this subsection.
+
+## § 12. Maintaining the HMDA Explorer tool and the Public Data Platform API
+
+The Consumer Financial protection Bureau may not retire the HMDA Explorer tool or the Public Data Platform API.
+
+## § 13. Report on fair lending investigations and enforcement actions
+
+Section 1016 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5496) is amended by adding at the end the following:
+
+> - **(d)** *Report on fair lending investigations and enforcement actions* The Director shall issue a monthly report to Congress containing—
+>   - **(1)** the number of investigations opened and closed by the Bureau relating to potential fair lending violations;
+>   - **(2)** how many fair lending enforcement actions have been taken or referred;
+>   - **(3)** an analysis of consumer complaints relating to potential fair lending violations; and
+>   - **(4)** statistics on how many staff of the Office of Fair Lending and Equal Opportunity are dedicated to fair lending supervision and enforcement issues.
+
+## § 14. Debt collection
+
+- **(a)** *Report on debt collection complaints and enforcement actions* Section 1016 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5496) is amended by adding at the end the following:
+  > - **(e)** *Report on debt collection complaints and enforcement actions* The Director shall issue a quarterly report to Congress containing—
+  >   - **(1)** an analysis of the consumer complaints received by the Bureau with respect to debt collection, including a State-by-State breakdown of such complaints; and
+  >   - **(2)** a list of enforcement actions taken against debt collectors during the previous 12 months.
+
+- **(b)** *Limitation on debt collection rules* Section 1022 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5512) is amended by adding at the end the following:
+  > - **(e)** *Limitation on debt collection rules* The Director may not issue any rule with respect to debt collection that allows a debt collector to send unlimited email and text messages to a consumer.
+
+## § 15. Credit scores included in free annual disclosures
+
+Section 609 of the Fair Credit Reporting Act (15 U.S.C. 1681g) is amended—
+
+- **(1)** in subsection (a)(1)—
+  - **(A)** by striking “and” at the end and inserting a period;
+  - **(B)** by striking “except that—” and all that follows through “(A) if the” and inserting “except that if the”; and
+  - **(C)** by striking subparagraph (B);
+- **(2)** in subsection (a), by adding at the end the following:
+  > - **(7)** If the consumer reporting agency is a consumer reporting agency that compiles and maintains files on consumers on a nationwide basis as described in section 603(p), each such agency shall disclose a current credit score generated using the scoring algorithm, formula, model, program, or mechanism that is most frequently used to generate credit scores sold to creditors, subject to regulations of the Bureau, along with any information in the consumer’s file at the time of the request concerning credit scores or any other risk scores or other predictors relating to the consumer, if such request is made in connection with a free annual disclosure made pursuant to section 612(a).
+  > - **(8)** Such other consumer information as the Bureau considers appropriate with respect to consumer financial education, including the information required by subsection (f)(1), information describing the credit score of the consumer with respect to a range of possible credit scores, and the general factors contributing to the credit scores of consumers.
+
+- **(3)** in subsection (f)—
+  - **(A)** in paragraph (1)—
+    - **(i)** by striking “, a consumer reporting agency” and all that follows through “shall include—” and inserting “or a risk score, a consumer reporting agency shall supply to the consumer—”; and
+    - **(ii)** by amending subparagraph (A) to read as follows:
+      > - **(A)** any credit score or risk score in the file of the consumer at the consumer reporting agency;
+
+  - **(B)** in paragraph (2)—
+    - **(i)** by redesignating subparagraph (B) as subparagraph (C); and
+    - **(ii)** by striking subparagraph (A) and inserting the following:
+      > - **(A)** *Credit score* The term credit score means a numerical value or a categorization derived from a statistical tool or modeling system used by a person who makes or arranges a loan to predict the likelihood of certain credit behaviors, including default.
+      > - **(B)** *Risk score* The term risk score means a numerical value or a categorization derived from a statistical tool or modeling system based upon information from a consumer report for the purpose of predicting the likelihood of certain behaviors or outcomes, and includes scores used for the underwriting of insurance.
+
+  - **(C)** by striking paragraph (6) and inserting the following:
+    > - **(6)** *Maintenance of credit scores* All consumer reporting agencies shall maintain in the consumer’s file credit scores or any other risk scores or other predictors relating to the consumer for a period of not less than 1 year beginning on the date on which such information is generated.
+
+  - **(D)** by striking paragraph (7) and redesignating paragraphs (8) and (9) as paragraphs (7) and (8), respectively; and
+  - **(E)** in paragraph (7) (as so redesignated), by inserting before the period at the end the following: “, except that a consumer reporting agency described in section 603(p) shall provide a credit score without charge to the consumer if the consumer is requesting the score in connection with a free annual disclosure made pursuant to section 612(a)”.
+
+## § 16. Report on senior consumers
+
+Section 1016 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5496) is amended by adding at the end the following:
+
+> - **(f)** *Report on senior consumers*
+>   - **(1)** *In general* The Director shall issue an annual report to Congress containing—
+>     - **(A)** an analysis, in coordination with the Office of Financial Protection for Older Americans, of consumer complaints from older Americans, including a State-by-State breakdown of complaints by type of consumer financial product or service; and
+>     - **(B)** any legislative or regulatory recommendations the Director may have to improve consumer protections for older Americans.
+>   - **(2)** *Older Americans defined* In this subsection, the term “older Americans” means individuals who have attained the age of 62 years or more.
+
+## § 17. Report on payday loan and car-title loan investigations and enforcement actions
+
+Section 1016 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5496) is amended by adding at the end the following:
+
+> - **(g)** *Report on payday loan and car-Title loan investigations and enforcement actions* The Director shall issue a quarterly report to Congress containing—
+>   - **(1)** the number of investigations opened and closed by the Bureau relating to payday loans and car-title loans;
+>   - **(2)** the number of enforcement actions that have been taken or referred relating to payday loans and car-title loans;
+>   - **(3)** an estimate of the amount of fees customers have paid relating to payday loans and car-title loans;
+>   - **(4)** an estimate of the number of times in the previous 12 months a typical payday loan customer has rolled over their loan; and
+>   - **(5)** an estimate of how many car-title loan customers lost their car in the previous 12 months.
+
+## § 18. Effective date
 
 This Act and the amendments made by this Act shall take effect on the date of the enactment of this Act, except that the Director of the Consumer Financial Protection Bureau shall have 30 days to complete any operational changes to the Bureau required by this Act or an amendment made by this Act.

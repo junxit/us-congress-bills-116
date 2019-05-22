@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1500
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-31 amendatory instructions. 8 executed, 23 stated and not applied.
+53 amendatory instructions. 11 executed, 42 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -96,6 +96,33 @@ to guess them.
 | Removed | `meet from` |
 | Inserted | `meet in person from` |
 
+### 12 U.S.C. § 289
+
+> Section 7(a)(3)(A) of the Federal Reserve Act (12 U.S.C. 289(a)(3)(A)) is amended by striking “$6,825,000,000” and inserting “$6,797,000,000 (reduced by $10,000,000) (reduced by $10,000,000) (reduced by $10,000,000)”.
+
+| | |
+|---|---|
+| Removed | `$6,825,000,000` |
+| Inserted | `$6,797,000,000 (reduced by $10,000,000) (reduced by $10,000,000) (reduced by $10,000,000)` |
+
+### 15 U.S.C. § 1681g
+
+> by striking “except that—” and all that follows through “(A) if the” and inserting “except that if the”; and
+
+| | |
+|---|---|
+| Removed | `except that—” and all that follows through “(A) if the` |
+| Inserted | `except that if the` |
+
+### 15 U.S.C. § 1681g
+
+> by striking “, a consumer reporting agency” and all that follows through “shall include—” and inserting “or a risk score, a consumer reporting agency shall supply to the consumer—”; and
+
+| | |
+|---|---|
+| Removed | `, a consumer reporting agency” and all that follows through “shall include—` |
+| Inserted | `or a risk score, a consumer reporting agency shall supply to the consumer—` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -125,6 +152,25 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 5535` | insert | in subsection (d)(2), by inserting “the Director,” before “the Secretary,”. | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 5496` | add-at-end | Section 1016(c) of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5496(c)), as amended by section 5(e)(2), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5494` | amend | by amending subsection (b) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 5494` | add-at-end | by adding at the end the following: “The Bureau shall provide adequate notice to the members of the Consumer Advisory Board of the time and date of each meeting, and of any meeting cancellations.” | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5494` | add-at-end | by adding at the end the following: “The Bureau shall provide adequate notice to the members of the Consumer Advisory Board of the time and date of each meeting, and of any meeting cancellations.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5494` | add-at-end | Section 1014 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5494) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5493` | add-at-end | Section 1013 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5493), as amended by section 6(b)(1), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 2803` | replace | by striking subsection (i) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 2803` | strike | by striking subsection (o). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 2803` | strike | Section 104 of the Economic Growth, Regulatory Relief, and Consumer Protection Act (Public Law 115–174; 132 Stat. 1301) is amended by striking subsection (b). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5517` | add-at-end | Section 1027 of the Consumer Financial Protection Act (12 U.S.C. 5517) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5517` | add-at-end | Section 1027 of the Consumer Financial Protection Act (12 U.S.C. 5517) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5496` | add-at-end | Section 1016 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5496) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5496` | add-at-end | Section 1016 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5496) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5512` | add-at-end | Section 1022 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5512) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1681g` | replace | by striking “and” at the end and inserting a period; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 1681g` | strike | by striking subparagraph (B); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1681g` | add-at-end | in subsection (a), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1681g` | amend | by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1681g` | redesignate | by redesignating subparagraph (B) as subparagraph (C); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1681g` | replace | by striking subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1681g` | replace | by striking paragraph (6) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1681g` | redesignate | by striking paragraph (7) and redesignating paragraphs (8) and (9) as paragraphs (7) and (8), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1681g` | redesignate | in paragraph (7) (as so redesignated), by inserting before the period at the end the following: “, except that a consumer reporting agency described in section 603(p) shall provide a credit score without charge to the consumer if the con… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5496` | add-at-end | Section 1016 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5496) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5496` | add-at-end | Section 1016 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5496) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
