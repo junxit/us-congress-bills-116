@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1200
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1200
@@ -54,3 +54,12 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2019
 - 2019-05-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4042)
 - 2019-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4042)
 - 2019-05-22 — Received in the Senate, read twice.
+- 2019-09-12 — Message on Senate action sent to the House.
+- 2019-09-12 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5482)
+- 2019-09-12 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5482)
+- 2019-09-18 — Presented to President.
+- 2019-09-18 — Presented to President.
+- 2019-09-26 — Became Public Law No: 116-58.
+- 2019-09-26 — Became Public Law No: 116-58.
+- 2019-09-26 — Signed by President.
+- 2019-09-26 — Signed by President.
