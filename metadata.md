@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1812
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1812
@@ -43,3 +43,13 @@ Vet Center Eligibility Expansion Act
 - 2019-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4034)
 - 2019-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4034)
 - 2019-05-22 — Received in the Senate, read twice.
+- 2020-09-17 — AUTHORIZING DUPLICATE ENGROSSMENT - Mr. Cunningham asked for unanimous consent that the Clerk be authorized to produce a duplicate engrossment of H.R. 1812. Agreed to without objection.
+- 2020-09-24 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5881)
+- 2020-09-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-09-29 — Message on Senate action sent to the House.
+- 2020-10-09 — Presented to President.
+- 2020-10-09 — Presented to President.
+- 2020-10-20 — Became Public Law No: 116-176.
+- 2020-10-20 — Became Public Law No: 116-176.
+- 2020-10-20 — Signed by President.
+- 2020-10-20 — Signed by President.
