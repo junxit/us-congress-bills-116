@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2333
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2333
@@ -50,3 +50,4 @@ Support for Suicide Prevention Coordinators Act
 - 2019-05-21 — Mr. Takano moved to suspend the rules and pass the bill.
 - 2019-05-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4039)
 - 2019-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4039)
+- 2019-05-22 — Received in the Senate, read twice.
