@@ -1,0 +1,22 @@
+---
+legis-num: S. 1604
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1604
+
+> To amend the Federal Water Pollution Control Act to reauthorize certain programs relating to nonpoint source management, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Local Water Protection Act”.
+
+## § 2. Nonpoint source management programs
+
+Section 319 of the Federal Water Pollution Control Act (33 U.S.C. 1329) is amended by striking subsection (j) and inserting the following:
+
+> - **(j)** *Authorization of appropriations*
+>   - **(1)** *In general* There is authorized to be appropriated to carry out subsections (h) and (i) $200,000,000 for each of fiscal years 2020 through 2024, of which not more than $7,500,000 for each fiscal year may be used to carry out subsection (i).
+>   - **(2)** *Availability* Amounts made available under paragraph (1) shall remain available until expended.
