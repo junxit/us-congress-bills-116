@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2372
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2372
@@ -41,3 +41,4 @@ Veterans' Care Quality Transparency Act
 - 2019-05-21 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
 - 2019-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4043-4044)
 - 2019-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4043-4044)
+- 2019-05-22 — Received in the Senate, read twice.
