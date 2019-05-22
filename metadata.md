@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2359
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2359
@@ -43,3 +43,12 @@ Whole Veteran Act
 - 2019-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4032)
 - 2019-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4032)
 - 2019-05-22 — Received in the Senate, read twice.
+- 2020-10-01 — Passed Senate without amendment by Voice Vote. (consideration: CR S6031)
+- 2020-10-01 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2020-10-06 — Message on Senate action sent to the House.
+- 2020-10-20 — Presented to President.
+- 2020-10-20 — Presented to President.
+- 2020-10-30 — Became Public Law No: 116-185.
+- 2020-10-30 — Became Public Law No: 116-185.
+- 2020-10-30 — Signed by President.
+- 2020-10-30 — Signed by President.
