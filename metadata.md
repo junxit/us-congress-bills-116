@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2157
 congress: 116
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2157
@@ -16,12 +16,16 @@ Additional Supplemental Appropriations for Disaster Relief Act, 2019
 
 - Rep. Lowey, Nita M. [D-NY-17] (L000480)
 
+## Cosponsors (1)
+
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+
 ## Committees (2)
 
 - House — Budget Committee
 - House — Appropriations Committee
 
-## Recorded votes (6)
+## Recorded votes (8)
 
 - 2019-05-10 — [House 116-1-197](votes/house-116-1-0197.md) — On Agreeing to the Amendment — **Agreed to** (247–165)
 - 2019-05-10 — [House 116-1-198](votes/house-116-1-0198.md) — On Agreeing to the Amendment — **Agreed to** (268–143)
@@ -29,6 +33,8 @@ Additional Supplemental Appropriations for Disaster Relief Act, 2019
 - 2019-05-10 — [House 116-1-200](votes/house-116-1-0200.md) — On Agreeing to the Amendment — **Agreed to** (393–20)
 - 2019-05-10 — [House 116-1-201](votes/house-116-1-0201.md) — On Motion to Recommit with Instructions — **Failed** (189–215)
 - 2019-05-10 — [House 116-1-202](votes/house-116-1-0202.md) — On Passage — **Passed** (257–150)
+- 2019-05-23 — [Senate 116-1-128](votes/senate-116-1-0128.md) — On the Motion — **Motion Agreed to** (84–9)
+- 2019-05-23 — [Senate 116-1-129](votes/senate-116-1-0129.md) — On Passage of the Bill — **Bill Passed** (85–8)
 
 ## Actions
 
@@ -132,3 +138,14 @@ Additional Supplemental Appropriations for Disaster Relief Act, 2019
 - 2019-05-10 — The previous question was ordered pursuant to the rule.
 - 2019-05-14 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2019-05-15 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 91.
+- 2019-05-23 — Amendment SA 250 agreed to in Senate by Unanimous Consent.
+- 2019-05-23 — Amendment SA 250 proposed by Senator McConnell for Senator Shelby. In the nature of a substitute.
+- 2019-05-23 — Measure laid before Senate by motion. (consideration: CR S3084-3085)
+- 2019-05-23 — Message on Senate action sent to the House.
+- 2019-05-23 — Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent.
+- 2019-05-23 — Motion to waive all applicable budgetary discipline with respect to the measure agreed to in Senate by Yea-Nay Vote. 84 - 9. Record Vote Number: 128.
+- 2019-05-23 — Passed Senate with an amendment by Yea-Nay Vote. 85 - 8. Record Vote Number: 129.
+- 2019-05-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 85 - 8. Record Vote Number: 129.
+- 2019-05-23 — Senate amendment agreed to: Amendment SA 250 agreed to in Senate by Unanimous Consent.
+- 2019-05-23 — Senate amendment proposed (on the floor): Amendment SA 250 proposed by Senator McConnell for Senator Shelby.
+- 2019-05-23 — Senate amendment submitted
