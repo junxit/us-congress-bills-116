@@ -27,40 +27,49 @@ This Act may be cited as the “Telephone Robocall Abuse Criminal Enforcement an
     >     - **(ii)** under subparagraph (B) if the violation charged occurred more than 3 years prior to the date of issuance of the required notice or notice of apparent liability.
     >   - **(F)** *Rule of construction* Notwithstanding any law to the contrary, the Commission may not determine or impose a forfeiture penalty on a person under both subparagraphs (A) and (B) based on the same conduct.
 
-  - **(2)** by striking subsection (h).
+  - **(2)** by striking subsection (h) and inserting the following:
+    > - **(h)** *TCPA enforcement report* The Commission shall submit an annual report to Congress regarding the enforcement during the preceding year of laws, regulations, and policies relating to robocalls and spoofed calls, which report shall include—
+    >   - **(1)** the number of complaints received by the Commission during the year alleging that a consumer received a robocall or spoofed call;
+    >   - **(2)** the number of citations issued by the Commission pursuant to section 503 during the year to enforce any law, regulation, or policy relating to a robocall or spoofed call;
+    >   - **(3)** the number of notices of apparent liability issued by the Commission pursuant to section 503 during the year to enforce any law, regulation, or policy relating to a robocall or spoofed call; and
+    >   - **(4)** for each notice referred to in paragraph (3)—
+    >     - **(A)** the amount of the proposed forfeiture penalty involved;
+    >     - **(B)** the person to whom the notice was issued; and
+    >     - **(C)** the status of the proceeding.
+
 - **(b)** *Applicability* The amendments made by this section shall not affect any action or proceeding commenced before and pending on the date of enactment of this Act.
 - **(c)** *Deadline for regulations* The Federal Communications Commission shall prescribe regulations to implement the amendments made by this section not later than 270 days after the date of enactment of this Act.
 
 ## § 3. Call authentication
 
 - **(a)** *Definitions* In this section:
-  - **(1)** *STIR/SHAKEN authentication framework* The term STIR/SHAKEN authentication framework means the secure telephone identity revisited and signature-based handling of asserted information using tokens standards proposed by the information and communications technology industry to attach a certificate of authenticity to each phone to verify the source of each call.
+  - **(1)** *STIR/SHAKEN authentication framework* The term STIR/SHAKEN authentication framework means the secure telephone identity revisited and signature-based handling of asserted information using tokens standards proposed by the information and communications technology industry.
   - **(2)** *Voice service* The term voice service—
     - **(A)** means any service that is interconnected with the public switched telephone network and that furnishes voice communications to an end user using resources from the North American Numbering Plan or any successor to the North American Numbering Plan adopted by the Commission under section 251(e)(1) of the Communications Act of 1934 (47 U.S.C. 251(e)(1)); and
     - **(B)** includes—
       - **(i)** transmissions from a telephone facsimile machine, computer, or other device to a telephone facsimile machine; and
       - **(ii)** without limitation, any service that enables real-time, two-way voice communications, including any service that requires internet protocol-compatible customer premises equipment (commonly known as “CPE”) and permits out-bound calling, whether or not the service is one-way or two-way voice over internet protocol.
 - **(b)** *Authentication framework*
-  - **(1)** *In general* Subject to paragraphs (2) and (3), not later than 18 months after the date of enactment of this Act, the Federal Communications Commission shall require a provider of voice service to implement the STIR/SHAKEN authentication framework in the internet protocol networks of voice service providers.
+  - **(1)** *In general* Subject to paragraphs (2) and (3), not later than 18 months after the date of enactment of this Act, the Federal Communications Commission shall require a provider of voice service to implement the STIR/SHAKEN authentication framework in the internet protocol networks of the voice service provider.
   - **(2)** *Implementation* The Federal Communications Commission shall not take the action described in paragraph (1) if the Commission determines that a provider of voice service, not later than 12 months after the date of enactment of this Act—
-    - **(A)** has adopted the STIR/SHAKEN authentication framework for calls on the internet protocol networks of voice service providers;
+    - **(A)** has adopted the STIR/SHAKEN authentication framework for calls on the internet protocol networks of the voice service provider;
     - **(B)** has agreed voluntarily to participate with other providers of voice service in the STIR/SHAKEN authentication framework;
     - **(C)** has begun to implement the STIR/SHAKEN authentication framework; and
     - **(D)** will be capable of fully implementing the STIR/SHAKEN authentication framework not later than 18 months after the date of enactment of this Act.
   - **(3)** *Implementation report* Not later than 12 months after the date of enactment of this Act, the Federal Communications Commission shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the determination required under paragraph (2), which shall include—
-    - **(A)** an analysis of the extent to which providers of a voice service have implemented the STIR/SHAKEN authentication framework; and
+    - **(A)** an analysis of the extent to which providers of a voice service have implemented the STIR/SHAKEN authentication framework, including whether the availability of necessary equipment and equipment upgrades has impacted such implementation; and
     - **(B)** an assessment of the efficacy of the STIR/SHAKEN authentication framework, as being implemented under this section, in addressing all aspects of call authentication.
   - **(4)** *Review and revision or replacement* Not later than 3 years after the date of enactment of this Act, and every 3 years thereafter, the Federal Communications Commission, after public notice and an opportunity for comment, shall—
     - **(A)** assess the efficacy of the call authentication framework implemented under this section;
     - **(B)** based on the assessment under subparagraph (A), revise or replace the call authentication framework under this section if the Commission determines it is in the public interest to do so; and
     - **(C)** submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the findings of the assessment under subparagraph (A) and on any actions to revise or replace the call authentication framework under subparagraph (B).
-  - **(5)** *Extension of implementation deadline* The Federal Communications Commission may extend any deadline for the implementation of a call authentication framework required under this section by 12 months or such further amount of time as the Commission determines necessary if the Commission determines that purchasing or upgrading equipment to support call authentication would constitute a substantial hardship for a provider or category of providers.
+  - **(5)** *Extension of implementation deadline* The Federal Communications Commission may extend any deadline for the implementation of a call authentication framework required under this section by 12 months or such further amount of time as the Commission determines necessary if the Commission determines that purchasing or upgrading equipment to support call authentication, or lack of availability of such equipment, would constitute a substantial hardship in meeting such deadline for a provider or category of providers of voice service.
 - **(c)** *Safe harbor and other regulations*
   - **(1)** *In general* The Federal Communications Commission shall promulgate rules—
     - **(A)** establishing when a provider of voice service may block a voice call based, in whole or in part, on information provided by the call authentication framework under subsection (b);
     - **(B)** establishing a safe harbor for a provider of voice service from liability for unintended or inadvertent blocking of calls or for the unintended or inadvertent misidentification of the level of trust for individual calls based, in whole or in part, on information provided by the call authentication framework under subsection (b); and
     - **(C)** establishing a process to permit a calling party adversely affected by the information provided by the call authentication framework under subsection (b) to verify the authenticity of the calling party's calls.
-  - **(2)** *Considerations* In establishing the safe harbor under paragraph (1), the Federal Communications Commission shall consider limiting the liability of a provider based on the extent to which the provider—
+  - **(2)** *Considerations* In establishing the safe harbor under paragraph (1), the Federal Communications Commission shall consider limiting the liability of a provider of voice service based on the extent to which the provider of voice service—
     - **(A)** blocks or identifies calls based, in whole or in part, on the information provided by the call authentication framework under subsection (b);
     - **(B)** implemented procedures based, in whole or in part, on the information provided by the call authentication framework under subsection (b); and
     - **(C)** used reasonable care.

@@ -1,7 +1,7 @@
 ---
 measure: S. 151
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 151
@@ -116,3 +116,8 @@ Pallone-Thune Telephone Robocall Abuse Criminal Enforcement and Deterrence Act
 - 2019-05-21 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-41.
 - 2019-05-21 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-41.
 - 2019-05-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 94.
+- 2019-05-23 — Measure laid before Senate by unanimous consent. (consideration: CR S3075-3077)
+- 2019-05-23 — Message on Senate action sent to the House.
+- 2019-05-23 — Passed Senate with an amendment by Yea-Nay Vote. 97 - 1. Record Vote Number: 127.
+- 2019-05-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 97 - 1. Record Vote Number: 127.
+- 2019-05-23 — The committee substitute agreed to by Unanimous Consent. (text: CR S3075-3076)
