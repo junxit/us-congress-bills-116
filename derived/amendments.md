@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1994
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-83 amendatory instructions. 27 executed, 56 stated and not applied.
+82 amendatory instructions. 27 executed, 55 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -98,38 +98,29 @@ to guess them.
 
 ### 26 U.S.C. § 401
 
-> Section 401(a)(9)(C)(i)(I) of the Internal Revenue Code of 1986 is amended by striking “age 701/2” and inserting “age 72”.
+> Section 401(a)(9)(C)(i)(I) of the Internal Revenue Code of 1986 is amended by striking “age 70½” and inserting “age 72”.
 
 | | |
 |---|---|
-| Removed | `age 701/2` |
+| Removed | `age 70½` |
 | Inserted | `age 72` |
 
 ### 26 U.S.C. § 401
 
-> Subparagraphs (B)(iv)(I) and (C)(ii)(I) of section 401(a)(9) of such Code are each amended by striking “age 701/2” and inserting “age 72”.
+> Subparagraphs (B)(iv)(I) and (C)(ii)(I) of section 401(a)(9) of such Code are each amended by striking “age 70½” and inserting “age 72”.
 
 | | |
 |---|---|
-| Removed | `age 701/2` |
+| Removed | `age 70½` |
 | Inserted | `age 72` |
 
 ### 26 U.S.C. § 401
 
-> The last sentence of section 408(b) of such Code is amended by striking “age 701/2” and inserting “age 72”.
+> The last sentence of section 408(b) of such Code is amended by striking “age 70½” and inserting “age 72”.
 
 | | |
 |---|---|
-| Removed | `age 701/2` |
-| Inserted | `age 72` |
-
-### 26 U.S.C. § 401
-
-> Section 457(d)(1)(A)(i) of such Code is amended by striking “age 701/2” and inserting “age 72”.
-
-| | |
-|---|---|
-| Removed | `age 701/2` |
+| Removed | `age 70½` |
 | Inserted | `age 72` |
 
 ### 29 U.S.C. § 1025
@@ -197,48 +188,48 @@ to guess them.
 
 ### 26 U.S.C. § 6652
 
-> by striking “$25” and inserting “$105”; and
+> by striking “$25” and inserting “$250”; and
 
 | | |
 |---|---|
 | Removed | `$25` |
-| Inserted | `$105` |
+| Inserted | `$250` |
 
 ### 26 U.S.C. § 6652
 
-> by striking “$15,000” and inserting “$50,000”.
+> by striking “$15,000” and inserting “$150,000”.
 
 | | |
 |---|---|
 | Removed | `$15,000` |
-| Inserted | `$50,000` |
+| Inserted | `$150,000` |
 
 ### 26 U.S.C. § 6652
 
-> by striking “$1” both places it appears in paragraphs (1) and (2) and inserting “$2”;
+> by striking “$1” both places it appears in paragraphs (1) and (2) and inserting “$10”;
 
 | | |
 |---|---|
 | Removed | `$1` |
-| Inserted | `$2` |
+| Inserted | `$10` |
 
 ### 26 U.S.C. § 6652
 
-> by striking “$5,000” in paragraph (1) and inserting “$10,000”; and
+> by striking “$5,000” in paragraph (1) and inserting “$50,000”; and
 
 | | |
 |---|---|
 | Removed | `$5,000` |
-| Inserted | `$10,000` |
+| Inserted | `$50,000` |
 
 ### 26 U.S.C. § 6652
 
-> by striking “$1,000” in paragraph (2) and inserting “$5,000”.
+> by striking “$1,000” in paragraph (2) and inserting “$10,000”.
 
 | | |
 |---|---|
 | Removed | `$1,000` |
-| Inserted | `$5,000` |
+| Inserted | `$10,000` |
 
 ### 26 U.S.C. § 6652
 
@@ -267,6 +258,15 @@ to guess them.
 | Removed | `or (o)(1)(A)` |
 | Inserted | `, (o)(1)(A), or (o)(3)` |
 
+### 26 U.S.C. § 55
+
+> Section 55(d)(4)(A) of the Internal Revenue Code of 1986 is amended by striking “and” at the end of clause (i)(II), by striking the period at the end of clause (ii)(III) and inserting “, and”, and by adding at the end the following new clause:
+
+| | |
+|---|---|
+| Removed | `and` |
+| Inserted | `, and` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -289,7 +289,7 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 401` | replace | Subparagraph (A) of section 401(k)(12) of the Internal Revenue Code of 1986 is amended by striking “if such arrangement” and all that follows and inserting “if such arrangement— | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 401` | replace | Subparagraph (B) of section 401(k)(13) of such Code is amended by striking “means” and all that follows and inserting “means a cash or deferred arrangement— | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 401` | redesignate | Section 401(k)(12) of the Internal Revenue Code of 1986 is amended by redesignating subparagraph (F) as subparagraph (G), and by inserting after subparagraph (E) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 401` | add-at-end | Section 401(k)(13) of the Internal Revenue Code of 1986 is amended by adding at the end the following : | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 401` | add-at-end | Section 401(k)(13) of the Internal Revenue Code of 1986 is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 45E` | amend | Paragraph (1) of section 45E(b) of the Internal Revenue Code of 1986 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 38` | add-at-end | Subpart D of part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 38` | insert | The table of sections for subpart D of part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986 is amended by inserting after the item relating to section 45S the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -325,10 +325,9 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 1306` | add-at-end | Paragraph (8) of section 4006(a) of such Act (29 U.S.C. 1306(a)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 139B` | replace | Section 139B(d) of the Internal Revenue Code of 1986 is amended by striking “beginning after December 31, 2010.” and inserting “beginning— | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 529` | add-at-end | Section 529(c) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 529` | replace | Section 529(c)(7) of such Code is amended by striking “include a reference to” and all that follows and inserting: | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 529` | add-at-end | Section 529(c) of such Code, as amended by subsection (a), is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 529` | add-at-end | Section 221(e)(1) of such Code is amended by adding at the end the following: “The deduction otherwise allowable under subsection (a) (prior to the application of subsection (b)) to the taxpayer for any taxable year shall be reduced (but… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 529` | amend | Section 529(c)(7)(A) of such Code, as amended by subsection (b), is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 401` | add-at-end | Section 401(a)(9) of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 401` | add-at-end | Section 401(a)(9) of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 401` | amend | Section 401(a)(9)(E) of such Code is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6103` | add-at-end | Section 6103(o) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1` | strike | Section 1(j) of the Internal Revenue Code of 1986 is amended by striking paragraph (4). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
