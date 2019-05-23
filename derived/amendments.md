@@ -1,7 +1,7 @@
 ---
 measure: S. 886
 congress: 116
-version: Introduced in Senate
+version: Reference Change Senate
 derived: true
 ---
 
