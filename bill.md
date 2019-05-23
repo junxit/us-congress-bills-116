@@ -1,0 +1,30 @@
+---
+legis-num: H.R. 3019
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3019
+
+> To require that Federal agencies only procure cut flowers and cut greens produced in the United States, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “American Grown Act”.
+
+## § 2. Limitation on procurement
+
+- **(a)** *In general* Funds appropriated or otherwise available to a Federal agency may only be used for the procurement of a cut flower or cut green if the cut flower or cut green is produced in the United States.
+- **(b)** *Definitions* In this section:
+  - **(1)** *Cut flower* The term “cut flower” means a flower removed from a living plant for decorative use.
+  - **(2)** *Cut green* The term “cut green” means a green, foliage, or branch removed from a living plant for decorative use.
+  - **(3)** *Federal agency*
+    - **(A)** *In general* The term “Federal agency” means each instrumentality of the Federal Government.
+    - **(B)** *Exception* Notwithstanding subparagraph (A), the term “Federal agency” does not include an instrumentality of the Federal Government if the instrumentality is located outside of the several States or the District of Columbia.
+  - **(4)** *Produced in the United States* The term “produced in the United States” means grown in—
+    - **(A)** any of the several States;
+    - **(B)** the District of Columbia;
+    - **(C)** a territory or possession of the United States; or
+    - **(D)** an area subject to the jurisdiction of a federally recognized Indian Tribe.
+- **(c)** *Applicability* This section shall apply to a procurement made or contracted for on or after the date that is one year after the date of the enactment of this Act.
