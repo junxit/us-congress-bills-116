@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2157
 congress: 116
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2157
@@ -138,3 +138,19 @@ Additional Supplemental Appropriations for Disaster Relief Act, 2019
 - 2019-05-23 — Senate amendment agreed to: Amendment SA 250 agreed to in Senate by Unanimous Consent.
 - 2019-05-23 — Senate amendment proposed (on the floor): Amendment SA 250 proposed by Senator McConnell for Senator Shelby.
 - 2019-05-23 — Senate amendment submitted
+- 2019-05-24 — Ms. Shalala asked unanimous consent to take from the Speaker's table the bill, H.R. 2157, and agree to the Senate amendment. Mr. Roy objected to the consideration of the Senate amendment.
+- 2019-05-28 — Mr. Bishop (GA) asked unanimous consent to take from the Speaker's table the bill, H.R. 2157, and agree to the Senate amendment. Mr. Massie objected to the consideration of the Senate amendment.
+- 2019-05-30 — Mr. Evans asked unanimous consent to take from the Speaker's table the bill, H.R. 2157, and agree to the Senate amendment. Mr. John W. Rose (TN) objected to the consideration of the Senate amendment.
+- 2019-06-03 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2019-06-03 — DEBATE - The House proceeded with 40 minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 2157.
+- 2019-06-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-06-03 — Mrs. Lowey moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H4184-4195, H4204)
+- 2019-06-03 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 354 - 58 (Roll no. 232). (text: CR H4184-4192)
+- 2019-06-03 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 354 - 58 (Roll no. 232).(text: CR H4184-4192)
+- 2019-06-05 — Presented to President.
+- 2019-06-05 — Presented to President.
+- 2019-06-06 — Became Public Law No: 116-20.
+- 2019-06-06 — Became Public Law No: 116-20.
+- 2019-06-06 — Pursuant to the provisions of H. Con. Res. 45, enrollment corrections on H.R. 2157 have been made.
+- 2019-06-06 — Signed by President.
+- 2019-06-06 — Signed by President.
