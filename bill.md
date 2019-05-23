@@ -32,12 +32,13 @@ Congress finds the following:
   - **(3)** provides recommendations for improving future research with respect to ocean acidification in estuarine environments; and
   - **(4)** identifies pathways for applying science in management and mitigation decisions relating to ocean acidification in estuarine environments.
 - **(b)** *Contents of study* The study described under subsection (a) shall include—
-  - **(1)** the current state of data collection, interpretation, storage, and retrieval and observational infrastructure of abiotic and biotic parameters in estuarine ecosystems;
-  - **(2)** how environmental and anthropogenic changes or disturbances could affect abiotic and biotic processes within estuaries;
-  - **(3)** how estuarine biotic and abiotic processes will be affected under predicted environmental changes;
-  - **(4)** the behavior of the carbonate system within estuarine environments;
-  - **(5)** the interactions of the carbonate system with other biotic and abiotic characteristics of estuarine ecosystems;
+  - **(1)** the behavior of the carbonate system within estuarine environments;
+  - **(2)** the interactions of the carbonate system with other biotic and abiotic characteristics of estuarine ecosystems;
+  - **(3)** how environmental and anthropogenic changes or disturbances could affect abiotic and biotic processes within estuaries;
+  - **(4)** how estuarine biotic and abiotic processes will be affected under predicted environmental changes;
+  - **(5)** the current state of data collection, interpretation, storage, and retrieval and observational infrastructure of abiotic and biotic parameters in estuarine ecosystems;
   - **(6)** the gaps that exist in understanding the socio-economic and health impacts of ocean acidification in estuaries;
   - **(7)** future directions for scientific research; and
   - **(8)** pathways for applying science in management and mitigation decisions.
 - **(c)** *Report* In entering into an arrangement under subsection (a), the Secretary shall request that the Board transmit to Congress a report on the results of the study not later than 24 months after the date of enactment of this Act.
+- **(d)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section $1,000,000.
