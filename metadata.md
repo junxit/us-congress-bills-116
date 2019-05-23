@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 3
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Con.Res. 3
@@ -28,3 +28,7 @@ A concurrent resolution recognizing the rich history, heritage, and strategic im
 
 - 2019-02-13 — Introduced in Senate
 - 2019-02-13 — Referred to the Committee on Energy and Natural Resources. (text: CR S1335)
+- 2019-05-23 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2019-05-23 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2019-05-23 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent. (consideration: CR S3128)
+- 2019-05-23 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.(consideration: CR S3128)
