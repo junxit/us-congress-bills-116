@@ -1,0 +1,24 @@
+---
+legis-num: S. 1667
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1667
+
+> To amend the Internal Revenue Code of 1986 to treat certain scholarships as earned income for purposes of the kiddie tax.
+
+## § 1. Short title
+
+This Act may be cited as the “Tax Relief for Student Success Act”.
+
+## § 2. Certain scholarships treated as earned income for kiddie tax
+
+- **(a)** *In general* Section 1(g)(4) of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph:
+  > - **(D)** *Treatment of certain scholarships* For purposes of this subsection, any scholarship or fellowship grant which—
+  >   - **(i)** is received by a child who is a candidate for a degree at an educational organization described in section 170(b)(1)(A)(ii),
+  >   - **(ii)** supports such candidacy, and
+  >   - **(iii)** is included in the gross income of such child,
+
+- **(b)** *Effective date* The amendment made by this section shall apply to taxable years beginning after December 31, 2017.
