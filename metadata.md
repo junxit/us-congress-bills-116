@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1500
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1500
@@ -48,10 +48,11 @@ Consumers First Act
 - Rep. Garcia, Jesus G. "Chuy" [D-IL-4] (G000586)
 - Rep. Garcia, Sylvia R. [D-TX-29] (G000587)
 
-## Committees (2)
+## Committees (3)
 
 - House — Education and the Workforce Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (7)
 
@@ -221,3 +222,4 @@ Consumers First Act
 - 2019-05-22 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-05-22 — The previous question was ordered pursuant to the rule.
 - 2019-05-22 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier an on which further proceedings had been postponed.
+- 2019-05-23 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
