@@ -1,0 +1,16 @@
+---
+legis-num: S. 1635
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1635
+
+> To designate the community-based outpatient clinic of the Department of Veterans Affairs in Odessa, Texas, as the “Wilson and Young Medal of Honor VA Clinic”.
+
+## § 1. Designation of Wilson and Young Medal of Honor VA Clinic
+
+- **(a)** *Finding* Congress finds that Private First Class Alfred “Mac” Wilson of the Marine Corps and Staff Sergeant Marvin “Rex” Young of the Army were both posthumously awarded the Medal of Honor for their heroic actions in the Vietnam War.
+- **(b)** *Designation* The community-based outpatient clinic of the Department of Veterans Affairs in Odessa, Texas, shall after the date of the enactment of this Act be known and designated as the “Wilson and Young Medal of Honor VA Clinic”.
+- **(c)** *Reference* Any reference in any law, regulation, map, document, paper, or other record of the United States to the facility referred to in subsection (b) shall be considered to be a reference to the Wilson and Young Medal of Honor VA Clinic.
