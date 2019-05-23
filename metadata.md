@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1994
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1994
@@ -95,3 +95,23 @@ Setting Every Community Up for Retirement Enhancement Act of 2019
 - 2019-05-16 — Placed on the Union Calendar, Calendar No. 42.
 - 2019-05-16 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 116-65, Part I.
 - 2019-05-16 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 116-65, Part I.
+- 2019-05-20 — Rules Committee Resolution H. Res. 389 Reported to House. Rule provides for consideration of H.R. 1500 and H.R. 1994. The resolution provides for one hour of debate on H.R. 1500, under a structured rule, and provides for one hour of debate on H.R. 1994, under a closed rule. The resolution provides for proceedings during the period from May 24, 2019, through May 31, 2019, and provides for motions to suspend the rules on the legislative day of May 23, 2019.
+- 2019-05-21 — Rule H. Res. 389 passed House.
+- 2019-05-23 — Amendment reported by the House Committee on Rules.
+- 2019-05-23 — Considered as unfinished business. (consideration: CR H4146-4149)
+- 2019-05-23 — Considered under the provisions of rule H. Res. 389. (consideration: CR H4124-4146)
+- 2019-05-23 — DEBATE - The House proceeded with 10 minutes of debate on the McHenry motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add a new section at the end of title IV entitled "Reports by Taxpayers Engaged in Boycotts Etc. Affecting Israel"
+- 2019-05-23 — DEBATE - The House proceeded with one hour of debate on H.R. 1994.
+- 2019-05-23 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2019-05-23 — House amendment offered
+- 2019-05-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-05-23 — Mr. McHenry moved to recommit with instructions to the Committee on Ways and Means. (text: CR H4147)
+- 2019-05-23 — On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2019-05-23 — On motion to recommit with instructions Failed by recorded vote: 200 - 222 (Roll no. 230).
+- 2019-05-23 — On passage Passed by the Yeas and Nays: 417 - 3 (Roll no. 231). (text: CR H4124-4135)
+- 2019-05-23 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of Rule 19, the Chair postponed further proceedings on H.R. 1994.
+- 2019-05-23 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 417 - 3 (Roll no. 231).(text: CR H4124-4135)
+- 2019-05-23 — Rule provides for consideration of H.R. 1500 and H.R. 1994. The resolution provides for one hour of debate on H.R. 1500, under a structured rule, and provides for one hour of debate on H.R. 1994, under a closed rule. The resolution provides for proceedings during the period from May 24, 2019, through May 31, 2019, and provides for motions to suspend the rules on the legislative day of May 23, 2019.
+- 2019-05-23 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 1994.
+- 2019-05-23 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2019-05-23 — The previous question was ordered pursuant to the rule.
