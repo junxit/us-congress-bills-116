@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 213
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 213
@@ -28,3 +28,7 @@ A resolution designating the week of May 19 through May 25, 2019, as "National P
 
 - 2019-05-16 — Introduced in Senate
 - 2019-05-16 — Referred to the Committee on the Judiciary.
+- 2019-05-23 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 2019/05/16 CR S2928-2929)
+- 2019-05-23 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 2019/05/16 CR S2928-2929)
+- 2019-05-23 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S3127)
+- 2019-05-23 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S3127)
