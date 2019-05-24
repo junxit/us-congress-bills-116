@@ -1,7 +1,7 @@
 ---
 measure: S. 151
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 151
@@ -103,9 +103,10 @@ Pallone-Thune Telephone Robocall Abuse Criminal Enforcement and Deterrence Act
 - Sen. Shelby, Richard C. [R-AL] (S000320)
 - Sen. Isakson, Johnny [R-GA] (I000055)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -121,3 +122,5 @@ Pallone-Thune Telephone Robocall Abuse Criminal Enforcement and Deterrence Act
 - 2019-05-23 — Passed Senate with an amendment by Yea-Nay Vote. 97 - 1. Record Vote Number: 127.
 - 2019-05-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 97 - 1. Record Vote Number: 127.
 - 2019-05-23 — The committee substitute agreed to by Unanimous Consent. (text: CR S3075-3076)
+- 2019-05-24 — Received in the House.
+- 2019-05-24 — Referred to the House Committee on Energy and Commerce.
