@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2621
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2621
@@ -25,3 +25,8 @@ Homeland Security Assessment of Terrorists
 - 2019-05-09 — Introduced in House
 - 2019-05-09 — Introduced in House
 - 2019-05-09 — Referred to the House Committee on Homeland Security.
+- 2019-05-15 — Committee Consideration and Mark-up Session Held.
+- 2019-05-15 — Ordered to be Reported by Voice Vote.
+- 2019-05-28 — Placed on the Union Calendar, Calendar No. 63.
+- 2019-05-28 — Reported by the Committee on Homeland Security. H. Rept. 116-88.
+- 2019-05-28 — Reported by the Committee on Homeland Security. H. Rept. 116-88.
