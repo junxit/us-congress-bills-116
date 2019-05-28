@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1237
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-86 amendatory instructions. 34 executed, 52 stated and not applied.
+85 amendatory instructions. 35 executed, 50 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,12 +44,12 @@ to guess them.
 
 ### 33 U.S.C. § 3701
 
-> in subparagraph (B), by striking “establish” and all that follows before the semicolon and inserting “maintain and advise an interagency research, monitoring, and public outreach program on ocean acidification and coastal acidification”;
+> in subparagraph (B), by striking “establish” and all that follows through the semicolon and inserting “maintain and advise an interagency research, monitoring, and public outreach program on ocean acidification and coastal acidification;”;
 
 | | |
 |---|---|
 | Removed | `establish` |
-| Inserted | `maintain and advise an interagency research, monitoring, and public outreach program on ocean acidification and coastal acidification` |
+| Inserted | `maintain and advise an interagency research, monitoring, and public outreach program on ocean acidification and coastal acidification;` |
 
 ### 33 U.S.C. § 3701
 
@@ -170,6 +170,15 @@ to guess them.
 
 ### 33 U.S.C. § 3704
 
+> in subparagraph (F), by striking “database development” and inserting “data management”;
+
+| | |
+|---|---|
+| Removed | `database development` |
+| Inserted | `data management` |
+
+### 33 U.S.C. § 3704
+
 > in paragraph (4), by striking “set forth” and inserting “ensure an appropriate balance of contribution in establishing”;
 
 | | |
@@ -197,12 +206,12 @@ to guess them.
 
 ### 33 U.S.C. § 3704
 
-> by striking “outline budget requirements” and inserting “estimate budget requirements for each of the fiscal years of the plan for full implementation of each element of the plan”; and
+> in paragraph (7), by striking “outline budget requirements” and inserting “estimate costs associated for full implementation of each element of the plan by fiscal year”;
 
 | | |
 |---|---|
 | Removed | `outline budget requirements` |
-| Inserted | `estimate budget requirements for each of the fiscal years of the plan for full implementation of each element of the plan` |
+| Inserted | `estimate costs associated for full implementation of each element of the plan by fiscal year` |
 
 ### 33 U.S.C. § 3704
 
@@ -260,7 +269,7 @@ to guess them.
 
 ### 33 U.S.C. § 3705
 
-> in paragraphs (1), (2), and (3), by striking “acidification” each place it appears and inserting “acidification and coastal acidification”; and
+> in paragraphs (1) and (2), by striking “acidification” each place it appears and inserting “acidification and coastal acidification”; and
 
 | | |
 |---|---|
@@ -356,38 +365,36 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 3703` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3704` | insert | by inserting “, and not later than every 5 years thereafter” after “the date of enactment of this Act”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3704` | insert | by inserting “address the socioeconomic impacts of ocean acidification and coastal acidification and to” after “mitigation strategies to”; and | the bill quotes the text inserted but describes where it goes |
-| `33 U.S.C. § 3704` | insert | in the second sentence, by inserting “and recommendations made by the Advisory Board in the review of the plan required under subsection (e)” after “subsection (d)”; | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3704` | insert | in the second sentence, by inserting “and recommendations made by the Advisory Board in the review of the plan required under section 12404(c)(2)(B)(i)” after “subsection (d)”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3704` | insert | in paragraph (1), by inserting “and social sciences” after “among the ocean sciences”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3704` | replace | by striking “; and” at the end and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 3704` | amend | by amending subparagraph (C) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3704` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 3704` | insert | in subparagraph (F), by inserting “and management” after “database development”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3704` | strike | in subparagraph (H) by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 3704` | add-at-end | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3704` | insert | by inserting “and coastal acidification” after “ocean acidification”; and | the bill quotes the text inserted but describes where it goes |
-| `33 U.S.C. § 3704` | insert | by inserting “over the course of 10 years” after “under the plan”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3704` | insert | by inserting “and coastal acidification” after “ocean acidification” each place it appears; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3704` | replace | by striking “; and” at the end and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 3704` | replace | in paragraph (9), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3704` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3704` | strike | in paragraph (1)(C), by striking “surface”; | the bill quotes the text struck but describes what replaces it |
-| `33 U.S.C. § 3704` | insert | in paragraph (2), by inserting “and coastal acidification” after “ocean acidification”; | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3704` | insert | in paragraph (2), by inserting “and coastal acidification” after “ocean acidification” each place it appears; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3704` | insert | by inserting “, marine food webs,” after “marine ecosystems”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3704` | insert | by inserting “, and modeling that supports fisheries management” after “marine organisms”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3704` | insert | in paragraph (5), by inserting “and coastal acidification” after “ocean acidification”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3704` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3704` | replace | by striking subsection (e) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3705` | insert | in the matter preceding paragraph (1), by inserting “coordination,” after “research, monitoring,”; | the bill quotes the text inserted but describes where it goes |
-| `33 U.S.C. § 3705` | insert | by inserting “including the Integrated Ocean Observing System and the ocean observing assets of other Federal agencies,” after “ocean observing assets,”; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3705` | insert | by inserting “including the Integrated Ocean Observing System and the ocean observing assets of other Federal and State agencies,” after “ocean observing assets,”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3705` | insert | by inserting “and agency and department missions, prioritizing the location of monitoring instruments, assets, and projects to maximize the efficiency of resources and to optimize understanding of socioeconomic impacts and ecosystem heal… | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3705` | insert | by inserting “and supporting socioeconomically vulnerable communities and industries ” after “marine ecosystems”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3705` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3705` | add-at-end | by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 3706` | strike | by striking “continue to carry out research activities on ocean acidification which shall”; | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 3706` | strike | by striking “continue” and all that follows through “which shall” ; | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 3706` | replace | in paragraph (2), by striking “; and” at the end and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 3706` | replace | by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3706` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3706` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3707` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 3708` | replace | in subsection (a), by striking “subtitle—” and all that follows through paragraph (4) and inserting the following: “subtitle $30,500,000 for each of the fiscal years 2019 through 2023.”; and | the bill quotes the text struck but describes what replaces it |
-| `33 U.S.C. § 3708` | replace | in subsection (b), by striking “subtitle—” and all that follows through paragraph (4) and inserting the following: “subtitle $20,000,000 for each of the fiscal years 2019 through 2023.”. | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 3708` | replace | in subsection (a), by striking “subtitle—” and all that follows through paragraph (4) and inserting the following: “subtitle $30,500,000 for each of the fiscal years 2020 through 2024.”; and | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 3708` | replace | in subsection (b), by striking “subtitle—” and all that follows through paragraph (4) and inserting the following: “subtitle $20,000,000 for each of the fiscal years 2020 through 2024.”. | the bill quotes the text struck but describes what replaces it |
