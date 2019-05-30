@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2476
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2476
@@ -16,7 +16,7 @@ Securing American Nonprofit Organizations Against Terrorism Act of 2019
 
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Cosponsors (92)
+## Cosponsors (104)
 
 - Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
 - Rep. King, Peter T. [R-NY-2] (K000210)
@@ -110,6 +110,18 @@ Securing American Nonprofit Organizations Against Terrorism Act of 2019
 - Rep. Wenstrup, Brad R. [R-OH-2] (W000815)
 - Rep. Courtney, Joe [D-CT-2] (C001069)
 - Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Kennedy, Joseph P., III [D-MA-4] (K000379)
+- Rep. Deutch, Theodore E. [D-FL-22] (D000610)
+- Rep. Lewis, John [D-GA-5] (L000287)
+- Rep. Latta, Robert E. [R-OH-5] (L000566)
+- Rep. Krishnamoorthi, Raja [D-IL-8] (K000391)
+- Rep. Mast, Brian J. [R-FL-18] (M001199)
+- Rep. Boyle, Brendan F. [D-PA-2] (B001296)
+- Rep. Perlmutter, Ed [D-CO-7] (P000593)
+- Rep. Van Drew, Jefferson [D-NJ-2] (V000133)
+- Rep. Malinowski, Tom [D-NJ-7] (M001203)
+- Rep. Schweikert, David [R-AZ-6] (S001183)
+- Rep. Bustos, Cheri [D-IL-17] (B001286)
 
 ## Committees (1)
 
@@ -120,3 +132,8 @@ Securing American Nonprofit Organizations Against Terrorism Act of 2019
 - 2019-05-02 — Introduced in House
 - 2019-05-02 — Introduced in House
 - 2019-05-02 — Referred to the House Committee on Homeland Security.
+- 2019-05-15 — Committee Consideration and Mark-up Session Held.
+- 2019-05-15 — Ordered to be Reported by Unanimous Consent.
+- 2019-05-30 — Placed on the Union Calendar, Calendar No. 67.
+- 2019-05-30 — Reported by the Committee on Homeland Security. H. Rept. 116-92.
+- 2019-05-30 — Reported by the Committee on Homeland Security. H. Rept. 116-92.
