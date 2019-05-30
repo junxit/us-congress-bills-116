@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2820
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2820
@@ -25,3 +25,8 @@ Dream Act of 2019
 - 2019-05-17 — Introduced in House
 - 2019-05-17 — Introduced in House
 - 2019-05-17 — Referred to the House Committee on the Judiciary.
+- 2019-05-22 — Committee Consideration and Mark-up Session Held.
+- 2019-05-22 — Ordered to be Reported (Amended) by the Yeas and Nays: 19 - 10.
+- 2019-05-30 — Placed on the Union Calendar, Calendar No. 73.
+- 2019-05-30 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-98.
+- 2019-05-30 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-98.
