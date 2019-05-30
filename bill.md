@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 3051
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3051
+
+> To amend the Internal Revenue Code of 1986 to extend by 2 years the energy efficient commercial buildings deduction.
+
+## § 1. Short title
+
+This Act may be cited as the “Commercial, Low Emissions And Net Energy Reduction Buildings Act” or the “CLEANER Buildings Act”.
+
+## § 2. Extension of energy efficient commercial buildings deduction
+
+- **(a)** *In general* Section 179D(h) is amended by striking “December 31, 2017” and inserting “December 31, 2019”.
+- **(b)** *Effective date* The amendment made by this section shall apply to property placed in service after December 31, 2017.
