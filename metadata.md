@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2083
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2083
@@ -32,3 +32,8 @@ HOPR Act
 - 2019-04-04 — Introduced in House
 - 2019-04-04 — Introduced in House
 - 2019-04-04 — Referred to the House Committee on Homeland Security.
+- 2019-05-15 — Committee Consideration and Mark-up Session Held.
+- 2019-05-15 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2019-05-30 — Placed on the Union Calendar, Calendar No. 65.
+- 2019-05-30 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-90.
+- 2019-05-30 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-90.
