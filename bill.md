@@ -17,12 +17,16 @@ This Act may be cited as the “DHS Overseas Personnel Enhancement Act of 2019�
 
 - **(a)** *In general* Not later than 90 days after submission of the comprehensive 3-year strategy required under section 1910 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328) and every 180 days thereafter, the Secretary of Homeland Security shall brief the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate regarding Department of Homeland Security personnel with primary duties that take place outside of the United States.
 - **(b)** *Requirements* The briefings required under subsection (a) shall include the following:
-  - **(1)** A detailed summary of each type of personnel position with primary duties that take place outside of the United States and how each such position contributes to the Department of Homeland Security’s counterterrorism mission.
+  - **(1)** A detailed summary of, and deployment schedule for, each type of personnel position with primary duties that take place outside of the United States and how each such position contributes to the Department of Homeland Security’s counterterrorism mission.
   - **(2)** Information related to how the geographic and regional placement of such positions contributes to the Department’s counterterrorism mission.
-  - **(3)** Information related to the position-specific training received by such personnel before and during placement at a foreign location.
-  - **(4)** Challenges that may impede the communication of counterterrorism information between Department personnel at foreign locations and Department entities in the United States, including technical, resource, and administrative challenges.
-  - **(5)** The status of efforts to implement the strategy referred to in subsection (a).
-  - **(6)** The status of efforts (beginning with the second briefing required under this section) to implement the enhancement plan under section 3.
+  - **(3)** Information related to any risk mitigation plans for each geographic and regional placement, including to address counter-intelligence risks.
+  - **(4)** Information regarding the costs of deploying or maintaining personnel at each geographic and regional placement, including information on any cost-sharing agreement with foreign partners to cover a portion or all the costs relating to such deployment or maintenance.
+  - **(5)** Maintain and enhance practices to guard against counter-espionage and counter-intelligence threats, including cyber threats, associated with Department personnel.
+  - **(6)** Information regarding trends in foreign efforts to influence such personnel while deployed overseas to contribute to the Department’s counterterrorism mission.
+  - **(7)** Information related to the position-specific training received by such personnel before and during placement at a foreign location.
+  - **(8)** Challenges that may impede the communication of counterterrorism information between Department personnel at foreign locations and Department entities in the United States, including technical, resource, and administrative challenges.
+  - **(9)** The status of efforts to implement the strategy referred to in subsection (a).
+  - **(10)** The status of efforts (beginning with the second briefing required under this section) to implement the enhancement plan under section 3.
 
 ## § 3. Overseas personnel enhancement plan
 

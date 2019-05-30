@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2590
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2590
@@ -29,3 +29,8 @@ DHS Overseas Personnel Enhancement Act of 2019
 - 2019-05-08 — Introduced in House
 - 2019-05-08 — Introduced in House
 - 2019-05-08 — Referred to the House Committee on Homeland Security.
+- 2019-05-15 — Committee Consideration and Mark-up Session Held.
+- 2019-05-15 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2019-05-30 — Placed on the Union Calendar, Calendar No. 70.
+- 2019-05-30 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-95.
+- 2019-05-30 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-95.
