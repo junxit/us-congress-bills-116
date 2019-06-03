@@ -23,6 +23,18 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas the United States values its partnership with Sri Lanka and seeks to build on that partnership by pursuing shared goals in the Indo-Pacific region;
 - Whereas the United States is home to a large Sri Lankan diaspora, who make significant contributions to American society; and
 - Whereas American law enforcement officials and military personnel are supporting the Sri Lankan Government’s investigation of this attack: Now, therefore, be it
+- Whereas, on April 21, 2019, Sri Lanka suffered a horrific series of coordinated terrorist attacks that killed more than 250 people and injured more than 500 additional people;
+- Whereas the attacks targeted Christian churches, in which innocent men, women, and children were celebrating Easter Sunday;
+- Whereas the attacks targeted several locations frequented by foreign tourists, resulting in the deaths of over 40 people from nations other than Sri Lanka, including five American citizens, including Dieter Kowalski, Amelie Linsey, Daniel Linsey, and Kieran Shafritz de Zoysa;
+- Whereas Sri Lanka has determined that a local Islamist militant group perpetrated this horrifying attack and is responsible for the resulting loss of life, injury, and destruction;
+- Whereas the use of nine suicide bombers in multiple locations demonstrates a high degree of coordination and planning;
+- Whereas growing evidence links the Islamic State to these attacks, demonstrating this terrorist organization’s continued reach and capability to inflict terror, violence, and brutality around the world, despite its loss of physical territory;
+- Whereas religious freedom is a foundational and universal right of all people, and religious freedom and tolerance are important to the flourishing of multi-religious societies like Sri Lanka;
+- Whereas Sri Lanka has worked towards a lasting peace, ethnic and religious harmony, and prosperity for all;
+- Whereas the rights of all religious minorities must be protected, including the rights of Christians, who, among other religious communities, have faced increased violence in recent years from terrorist groups around the world;
+- Whereas the United States values its partnership with Sri Lanka and seeks to build on that partnership by pursuing shared goals in the Indo-Pacific region;
+- Whereas the United States is home to a large Sri Lankan diaspora, who make significant contributions to American society; and
+- Whereas American law enforcement officials and military personnel are supporting the Sri Lankan Government’s investigation of this attack: Now, therefore, be it
 
 That the Senate—
 
@@ -35,3 +47,7 @@ That the Senate—
 - **(7)** reaffirms its commitment to religious freedom and the importance of protecting the rights of all religious minorities, including Christians;
 - **(8)** calls attention to the continued and serious threat posed by the Islamic State and other international terrorist organizations; and
 - **(9)** calls upon the United States Government and all other governments to continue the fight against violent extremism.
+
+## § 1. Prohibition on construction of provisions of Resolution as an authorization for use of military force
+
+Nothing in this resolution may be construed as an authorization for use of military force.
