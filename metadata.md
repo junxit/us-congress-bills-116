@@ -1,7 +1,7 @@
 ---
 measure: S. 178
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 178
@@ -16,7 +16,7 @@ UIGHUR Act of 2019
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 
-## Cosponsors (17)
+## Cosponsors (34)
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Gardner, Cory [R-CO] (G000562)
@@ -35,6 +35,23 @@ UIGHUR Act of 2019
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 - Sen. Markey, Edward J. [D-MA] (M000133)
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
 
 ## Committees (1)
 
@@ -44,3 +61,7 @@ UIGHUR Act of 2019
 
 - 2019-01-17 — Introduced in Senate
 - 2019-01-17 — Read twice and referred to the Committee on Foreign Relations.
+- 2019-05-22 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2019-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2019-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2019-06-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 99.
