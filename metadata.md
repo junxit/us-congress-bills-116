@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1261
 congress: 116
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.R. 1261
