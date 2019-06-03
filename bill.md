@@ -40,6 +40,35 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas, on January 24, 2019, a Ukrainian court found Yanukovych guilty in absentia of high treason and complicity in conducting an aggressive war against Ukraine, and sentenced him to 13 years in prison;
 - Whereas, in order to help Ukraine preserve its sovereignty in the face of Russian aggression, the United States Government has provided Ukraine with over $1,000,000,000 in security assistance, including critical defensive items such as Javelin anti-tank missiles and Island-class cutters; and
 - Whereas, in the 115th Congress, both the United States Senate and the United States House of Representatives passed resolutions commemorating the 85th anniversary of the Holodomor, the Soviet Union’s manmade famine that it committed against the people of Ukraine in 1932 and 1933: Now, therefore, be it
+- Whereas, on November 21, 2013, peaceful protests began on Independence Square (Maidan) in Kyiv against the decision by the government of then-President Viktor Yanukovych to suspend signing the Ukraine-European Union (EU) Association Agreement and instead pursue closer ties with the Russian Federation;
+- Whereas the Maidan protests, initially referred to as the Euromaidan, quickly drew thousands of people and broadened to become a general demonstration in support of Ukraine’s integration with the European Union and against the corrupt Yanukovych regime;
+- Whereas, on the night of November 30, 2013, Ukrainian police forces surrounded and violently dispersed peaceful protestors on the Maidan;
+- Whereas the next day, thousands of Euromaidan demonstrators regrouped and resumed the protests for three months, despite facing continuing and increasing violence from the police;
+- Whereas, on January 16, 2014, anti-protest laws, known as the “dictatorship laws”, were adopted by the Government of Ukraine, which sought to restrict the actions of the Euromaidan protestors;
+- Whereas these laws were condemned by Euromaidan protestors as well as Western officials, including then-Secretary of State John Kerry, who called them “anti-democratic”;
+- Whereas many of these laws were repealed just 11 days after being signed into law;
+- Whereas, on the night of February 18, 2014, police assaulted and burned down the Trade Union Building in Kyiv, which had been used as a headquarters for the Euromaidan movement;
+- Whereas Yanukovych's government forces began using live ammunition against the Euromaidan movement, leading to the deaths of more than a hundred protestors who are now remembered in Ukraine as the “Heavenly Hundred”;
+- Whereas, on February 21, 2014, in the face of the ongoing Euromaidan protests demanding his resignation, then-President Viktor Yanukovych fled Kyiv, and then fled Ukraine the next day;
+- Whereas, on February 22, 2014, the Verkhovna Rada of Ukraine recognized that Yanukovych had ceased his functions as president, voted him from office, and scheduled early presidential elections for May 25, 2014;
+- Whereas, on February 25, 2014, fulfilling demands of the Maidan, Ukraine’s special police force known as the Berkut was dissolved, as it had been heavily involved in the violence against the Euromaidan protestors;
+- Whereas the Ukrainian government’s use of force against activists throughout the Euromaidan protests, including the use of live bullets, was widely condemned by Western governments, including the United States, and ultimately failed to discourage the Euromaidan movement;
+- Whereas, on September 1, 2017, the Ukraine–EU Association Agreement came into force after its signing by the Government of Ukraine and the EU;
+- Whereas, in response to Ukraine’s Revolution of Dignity, the Russian Federation launched military aggression against Ukraine, illegally occupied Ukraine’s Crimean Peninsula, and instigated a war in eastern Ukraine, which is still ongoing and has killed more than 10,000 Ukrainians;
+- Whereas the Russian Federation’s attempted invasion and annexation of Crimea has been widely seen as an effort to stifle pro-democracy developments across Ukraine in 2014 in the wake of the Revolution of Dignity;
+- Whereas 2019 marks the 25th anniversary of the signing of the Budapest Memorandum, which committed the United States, the United Kingdom, and the Russian Federation to refrain from the threat or use of force against Ukraine’s territorial integrity in exchange for Ukraine giving up its nuclear weapons;
+- Whereas the Russian Federation is a signatory to the 1994 Budapest Memorandum and thus committed to respect the independence, sovereignty, and territorial integrity of Ukraine;
+- Whereas the Government of the Russian Federation is further obligated to respect the sovereignty of Ukraine pursuant to its commitments as a signatory to the Helsinki Final Act and the Charter of the United Nations;
+- Whereas, on March 27, 2014, the United Nations General Assembly adopted Resolution 68/262 calling on states and international organizations not to recognize any change in Crimea’s status and affirmed the commitment of the United Nations to recognize Crimea as part of Ukraine;
+- Whereas the United States and European Union have imposed sanctions on individuals and entities who have enabled the attempted invasion, annexation, and occupation of Crimea;
+- Whereas, pursuant to the Revolution of Dignity’s goal of fighting corruption in Ukraine, the Verkhovna Rada of Ukraine adopted the Law On the National Anti-Corruption Bureau (NABU) of Ukraine on October 14, 2014;
+- Whereas, on June 26, 2018, the Law of Ukraine On the Establishment of the High Anti-Corruption Court was signed into law;
+- Whereas, on July 5, 2018, the Law on National Security was signed into law, which has strengthened civilian control over the Ukrainian military, increased transparency in the security sector, and more clearly delineated the powers of law enforcement agencies;
+- Whereas, on January 6, 2019, the Ecumenical Patriarch of Constantinople granted autocephaly to the Ukrainian Orthodox Church, thus establishing the first independent Ukrainian Orthodox Church in over 300 years;
+- Whereas despite requests by the Government of Ukraine, the Government of the Russian Federation has repeatedly refused to extradite former President of Ukraine Viktor Yanukovych to stand trial in Ukraine;
+- Whereas, on January 24, 2019, a Ukrainian court found Yanukovych guilty in absentia of high treason and complicity in conducting an aggressive war against Ukraine, and sentenced him to 13 years in prison;
+- Whereas, in order to help Ukraine preserve its sovereignty in the face of Russian aggression, the United States Government has provided Ukraine with over $1,000,000,000 in security assistance, including critical defensive items such as Javelin anti-tank missiles and Island-class cutters; and
+- Whereas, in the 115th Congress, both the United States Senate and the United States House of Representatives passed resolutions commemorating the 85th anniversary of the Holodomor, the Soviet Union’s manmade famine that it committed against the people of Ukraine in 1932 and 1933: Now, therefore, be it
 
 That the Senate—
 

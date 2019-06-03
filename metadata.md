@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 74
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 74
@@ -16,7 +16,7 @@ A resolution marking the fifth anniversary of Ukraine's Revolution of Dignity by
 
 - Sen. Portman, Rob [R-OH] (P000449)
 
-## Cosponsors (15)
+## Cosponsors (20)
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Isakson, Johnny [R-GA] (I000055)
@@ -33,6 +33,11 @@ A resolution marking the fifth anniversary of Ukraine's Revolution of Dignity by
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 - Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Toomey, Patrick [R-PA] (T000461)
 
 ## Committees (1)
 
@@ -42,3 +47,7 @@ A resolution marking the fifth anniversary of Ukraine's Revolution of Dignity by
 
 - 2019-02-14 — Introduced in Senate
 - 2019-02-14 — Referred to the Committee on Foreign Relations.
+- 2019-05-22 — Committee on Foreign Relations. Ordered to be reported with an amendment favorably.
+- 2019-06-03 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with an amended preamble. Without written report.
+- 2019-06-03 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with an amended preamble. Without written report.
+- 2019-06-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 103.
