@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1994
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1994
@@ -120,3 +120,4 @@ Setting Every Community Up for Retirement Enhancement Act of 2019
 - 2019-05-23 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 1994.
 - 2019-05-23 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-05-23 — The previous question was ordered pursuant to the rule.
+- 2019-06-03 — Received in the Senate.
