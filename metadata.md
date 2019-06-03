@@ -1,7 +1,7 @@
 ---
 measure: H.R. 31
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 31
@@ -97,3 +97,7 @@ Caesar Syria Civilian Protection Act of 2019
 - 2019-01-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H970-971)
 - 2019-01-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H970-971)
 - 2019-01-23 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2019-05-22 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2019-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2019-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2019-06-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 107.
