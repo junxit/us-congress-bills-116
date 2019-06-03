@@ -1,7 +1,7 @@
 ---
 measure: S. 1025
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1025
@@ -16,7 +16,7 @@ VERDAD Act of 2019
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (14)
+## Cosponsors (17)
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
@@ -32,6 +32,9 @@ VERDAD Act of 2019
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Cassidy, Bill [R-LA] (C001075)
 - Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Gardner, Cory [R-CO] (G000562)
 
 ## Committees (1)
 
@@ -41,3 +44,7 @@ VERDAD Act of 2019
 
 - 2019-04-03 — Introduced in Senate
 - 2019-04-03 — Read twice and referred to the Committee on Foreign Relations.
+- 2019-05-22 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2019-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2019-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2019-06-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 101.
