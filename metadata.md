@@ -1,7 +1,7 @@
 ---
 measure: S. 1328
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1328
@@ -23,9 +23,10 @@ DETER Act
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -37,3 +38,6 @@ DETER Act
 - 2019-05-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 96.
 - 2019-06-03 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3169; text: CR S3169)
 - 2019-06-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3169; text: CR S3169)
+- 2019-06-04 — Message on Senate action sent to the House.
+- 2019-06-04 — Received in the House.
+- 2019-06-04 — Referred to the House Committee on the Judiciary.
