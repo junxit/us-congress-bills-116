@@ -2,7 +2,7 @@
 legis-num: H.R. 1261
 congress: 116th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1261
@@ -155,7 +155,7 @@ In this Act:
     - **(B)** *Eligible entities* The Director shall determine whether an entity is eligible to receive a grant under this paragraph.
     - **(C)** *Requirements* In providing grants under this paragraph, the Director shall—
       - **(i)** ensure that the grants are provided on a competitive basis; and
-      - **(ii)** consider grant applications submitted by eligible entities that have developed the application in partnership with 1 or more State geological surveys.
+      - **(ii)** consider grant applications submitted by eligible entities that have developed the application in partnership with one or more State geological surveys.
 - **(f)** *Biennial report* The Secretary shall submit to Congress a biennial report, including a description of, with respect to the preceding 2 calendar years—
   - **(1)** the goals and accomplishments of the Secretary and the agency heads described in subparagraphs (B) through (I) of subsection (c)(2) in carrying out the national strategy developed under subsection (b)(2), expressed—
     - **(A)** by agency, program, and budgetary resource; and
@@ -172,10 +172,10 @@ In this Act:
     - **(D)** recommendations to improve risk identification, reduction, and communication to landowners and units of local government;
     - **(E)** recommendations to improve landslide hazard preparedness and emergency response activities under this section; and
     - **(F)** such other findings as the Secretary determines appropriate.
-- **(g)** *Funding* There is authorized to be appropriated to carry out this section $37,000,000 for each of fiscal years 2020 through 2023, of which—
-  - **(1)** $25,000,000 each fiscal year shall be made available to the United States Geological Survey;
-  - **(2)** $11,000,000 each fiscal year shall be made available to the National Science Foundation; and
-  - **(3)** $1,000,000 each fiscal year shall be made available to the National Oceanic and Atmospheric Administration.
+- **(g)** *Funding* There is authorized to be appropriated to carry out this section $37 million for each of fiscal years 2020 through 2023, of which—
+  - **(1)** $25 million each fiscal year shall be made available to the United States Geological Survey;
+  - **(2)** $11 million each fiscal year shall be made available to the National Science Foundation; and
+  - **(3)** $1 million each fiscal year shall be made available to the National Oceanic and Atmospheric Administration.
 
 ## § 4. Ground subsidence
 
@@ -253,4 +253,4 @@ As the Secretary determines to be appropriate and subject to appropriations, the
   - **(1)** *In general* The Secretary may make grants and enter into cooperative agreements with other Federal departments and agencies, units of State, local, or Tribal government, institutions of higher education, nonprofit research institutions, or other organizations to facilitate the improvement of nationwide coverage of 3D elevation data.
   - **(2)** *Applications* To be eligible to receive a grant or enter into a cooperative agreement under this subsection, an entity described in paragraph (1) shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
   - **(3)** *Terms and conditions* A grant or cooperative agreement under this subsection shall be subject to such terms and conditions as the Secretary determines to be appropriate, including making data publically available and interoperable with other Federal datasets.
-- **(e)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2020 through 2023.
+- **(e)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $40 million for each of fiscal years 2020 through 2023.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1261
 congress: 116
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 1261
@@ -51,3 +51,4 @@ National Landslide Preparedness Act
 - 2019-06-03 — Placed on the Union Calendar, Calendar No. 74.
 - 2019-06-03 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-99, Part I.
 - 2019-06-03 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-99, Part I.
+- 2019-06-04 — Received in the Senate.
