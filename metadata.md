@@ -1,7 +1,7 @@
 ---
 measure: H.R. 559
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 559
@@ -39,3 +39,4 @@ Northern Mariana Islands Long-Term Legal Residents Relief Act
 - 2019-06-03 — Mr. Case moved to suspend the rules and pass the bill, as amended.
 - 2019-06-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4201-4202)
 - 2019-06-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4201-4202)
+- 2019-06-04 — Received in the Senate, read twice.
