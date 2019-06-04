@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 45
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 45
@@ -25,3 +25,6 @@ Directing the Clerk of the House to make a correction in the enrollment of H.R. 
 - 2019-06-03 — Ms. Waters asked unanimous consent to consider as introduced.
 - 2019-06-03 — On agreeing to the resolution Agreed to without objection. (text: CR H4206)
 - 2019-06-03 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H4206)
+- 2019-06-04 — Message on Senate action sent to the House.
+- 2019-06-04 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S3179)
+- 2019-06-04 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S3179)
