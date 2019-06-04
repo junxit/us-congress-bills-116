@@ -1,7 +1,7 @@
 ---
 measure: H.R. 559
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 559
@@ -40,3 +40,12 @@ Northern Mariana Islands Long-Term Legal Residents Relief Act
 - 2019-06-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4201-4202)
 - 2019-06-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4201-4202)
 - 2019-06-04 — Received in the Senate, read twice.
+- 2019-06-20 — Passed Senate without amendment by Voice Vote. (consideration: CR S4195)
+- 2019-06-20 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S4195)
+- 2019-06-24 — Message on Senate action sent to the House.
+- 2019-06-25 — Became Public Law No: 116-24.
+- 2019-06-25 — Became Public Law No: 116-24.
+- 2019-06-25 — Presented to President.
+- 2019-06-25 — Presented to President.
+- 2019-06-25 — Signed by President.
+- 2019-06-25 — Signed by President.
