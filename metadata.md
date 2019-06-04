@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2940
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2940
@@ -39,3 +39,12 @@ To extend the program of block grants to States for temporary assistance for nee
 - 2019-06-03 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 357 - 55 (Roll no. 233). (text: CR H4195)
 - 2019-06-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 357 - 55 (Roll no. 233).(text: CR H4195)
 - 2019-06-04 — Received in the Senate, read twice.
+- 2019-06-27 — Passed Senate without amendment by Voice Vote. (consideration: CR S4648)
+- 2019-06-27 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S4648)
+- 2019-06-28 — Message on Senate action sent to the House.
+- 2019-06-28 — Presented to President.
+- 2019-06-28 — Presented to President.
+- 2019-07-05 — Became Public Law No: 116-27.
+- 2019-07-05 — Became Public Law No: 116-27.
+- 2019-07-05 — Signed by President.
+- 2019-07-05 — Signed by President.
