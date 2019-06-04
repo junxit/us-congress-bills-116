@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 135
 congress: 116
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 135
@@ -16,7 +16,7 @@ A resolution expressing the gratitude and appreciation of the Senate for the act
 
 - Sen. Boozman, John [R-AR] (B001236)
 
-## Cosponsors (46)
+## Cosponsors (47)
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Inhofe, James M. [R-OK] (I000024)
@@ -64,6 +64,7 @@ A resolution expressing the gratitude and appreciation of the Senate for the act
 - Sen. Enzi, Michael B. [R-WY] (E000285)
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
 
 ## Committees (1)
 
@@ -77,3 +78,5 @@ A resolution expressing the gratitude and appreciation of the Senate for the act
 - 2019-05-23 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with an amended preamble. Without written report.
 - 2019-05-23 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with an amended preamble. Without written report.
 - 2019-05-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 98.
+- 2019-06-04 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.(consideration: CR S3199-3200; text: CR S3199-3200)
+- 2019-06-04 — Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (consideration: CR S3199-3200; text: CR S3199-3200)
