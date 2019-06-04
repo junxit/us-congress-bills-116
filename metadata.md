@@ -1,7 +1,7 @@
 ---
 measure: S. 1235
 congress: 116
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1235
@@ -16,7 +16,7 @@ Women's Suffrage Centennial Commemorative Coin Act
 
 - Sen. Blackburn, Marsha [R-TN] (B001243)
 
-## Cosponsors (24)
+## Cosponsors (82)
 
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 - Sen. Baldwin, Tammy [D-WI] (B001230)
@@ -42,6 +42,64 @@ Women's Suffrage Centennial Commemorative Coin Act
 - Sen. Smith, Tina [D-MN] (S001203)
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 - Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Markey, Edward J. [D-MA] (M000133)
 
 ## Committees (1)
 
@@ -51,3 +109,12 @@ Women's Suffrage Centennial Commemorative Coin Act
 
 - 2019-04-30 — Introduced in Senate
 - 2019-04-30 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2019-06-04 — Amendment SA 251 agreed to in Senate by Unanimous Consent.
+- 2019-06-04 — Amendment SA 251 proposed by Senator Blackburn for Senator Barrasso. (consideration: CR S3197; text: CR S3197) To add Esther Hobart Morris to a list of suffrage activists.
+- 2019-06-04 — Passed Senate with an amendment by Unanimous Consent. (text: CR S3197-3198)
+- 2019-06-04 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S3197-3198)
+- 2019-06-04 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S3197-3198)
+- 2019-06-04 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S3197-3198)
+- 2019-06-04 — Senate amendment agreed to: Amendment SA 251 agreed to in Senate by Unanimous Consent.
+- 2019-06-04 — Senate amendment proposed (on the floor): Amendment SA 251 proposed by Senator Blackburn for Senator Barrasso.
+- 2019-06-04 — Senate amendment submitted
