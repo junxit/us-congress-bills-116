@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 15
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Con.Res. 15
@@ -32,3 +32,7 @@ A concurrent resolution expressing support for the designation of October 28, 20
 
 - 2019-05-01 — Introduced in Senate
 - 2019-05-01 — Referred to the Committee on Homeland Security and Governmental Affairs.
+- 2019-05-15 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2019-06-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment and with a preamble. With written report No. 116-43.
+- 2019-06-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment and with a preamble. With written report No. 116-43.
+- 2019-06-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 108.
