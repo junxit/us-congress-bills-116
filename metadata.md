@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 413
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 413
@@ -16,7 +16,7 @@ Expressing the immense gratitude of the House of Representatives for the acts of
 
 - Rep. Keating, William R. [D-MA-9] (K000375)
 
-## Cosponsors (33)
+## Cosponsors (37)
 
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 - Rep. Schiff, Adam B. [D-CA-28] (S001150)
@@ -51,6 +51,10 @@ Expressing the immense gratitude of the House of Representatives for the acts of
 - Rep. Titus, Dina [D-NV-1] (T000468)
 - Rep. Raskin, Jamie [D-MD-8] (R000606)
 - Rep. Guest, Michael [R-MS-3] (G000591)
+- Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
+- Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Meadows, Mark [R-NC-11] (M001187)
+- Rep. Axne, Cynthia [D-IA-3] (A000378)
 
 ## Committees (3)
 
@@ -65,3 +69,15 @@ Expressing the immense gratitude of the House of Representatives for the acts of
 - 2019-05-30 — Referred to the Committee on Armed Services, and in addition to the Committees on Foreign Affairs, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-05-30 — Referred to the Committee on Armed Services, and in addition to the Committees on Foreign Affairs, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-05-30 — Referred to the Committee on Armed Services, and in addition to the Committees on Foreign Affairs, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-05-31 — Referred to the Subcommittee on Military Personnel.
+- 2019-06-04 — Committee on Armed Services discharged.
+- 2019-06-04 — Committee on Armed Services discharged.
+- 2019-06-04 — Committee on Foreign Affairs discharged.
+- 2019-06-04 — Committee on Foreign Affairs discharged.
+- 2019-06-04 — Committee on Veterans' Affairs discharged.
+- 2019-06-04 — Committee on Veterans' Affairs discharged.
+- 2019-06-04 — Considered by unanimous consent. (consideration: CR H4295-4296)
+- 2019-06-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-06-04 — Mr. Keating asked unanimous consent to discharge from committee and consider.
+- 2019-06-04 — On agreeing to the resolution Agreed to without objection. (text: CR H4295-4296)
+- 2019-06-04 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H4295-4296)
