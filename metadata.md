@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 45
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 45
