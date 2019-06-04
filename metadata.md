@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6
@@ -16,7 +16,7 @@ American Dream and Promise Act of 2019
 
 - Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
 
-## Cosponsors (203)
+## Cosponsors (232)
 
 - Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
 - Rep. Clarke, Yvette D. [D-NY-9] (C001067)
@@ -221,6 +221,35 @@ American Dream and Promise Act of 2019
 - Rep. Wilson, Frederica S. [D-FL-24] (W000808)
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
 - Rep. Cuellar, Henry [D-TX-28] (C001063)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Phillips, Dean [D-MN-3] (P000616)
+- Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Ryan, Tim [D-OH-13] (R000577)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Lynch, Stephen F. [D-MA-8] (L000562)
+- Rep. Morelle, Joseph D. [D-NY-25] (M001206)
+- Rep. Rose, Max [D-NY-11] (R000613)
+- Rep. Visclosky, Peter J. [D-IN-1] (V000108)
+- Rep. Murphy, Stephanie N. [D-FL-7] (M001202)
+- Rep. Lamb, Conor [D-PA-17] (L000588)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Cartwright, Matt [D-PA-8] (C001090)
+- Rep. Van Drew, Jefferson [D-NJ-2] (V000133)
+- Rep. Stevens, Haley M. [D-MI-11] (S001215)
+- Rep. Beatty, Joyce [D-OH-3] (B001281)
+- Rep. Speier, Jackie [D-CA-14] (S001175)
+- Rep. McBath, Lucy [D-GA-6] (M001208)
+- Rep. Slotkin, Elissa [D-MI-8] (S001208)
+- Rep. Sherrill, Mikie [D-NJ-11] (S001207)
+- Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
+- Rep. Loebsack, David [D-IA-2] (L000565)
+- Rep. Foster, Bill [D-IL-11] (F000454)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Finkenauer, Abby [D-IA-1] (F000467)
+- Rep. Davids, Sharice [D-KS-3] (D000629)
+- Rep. Axne, Cynthia [D-IA-3] (A000378)
+- Rep. McAdams, Ben [D-UT-4] (M001209)
+- Rep. Case, Ed [D-HI-1] (C001055)
 
 ## Committees (2)
 
@@ -233,3 +262,23 @@ American Dream and Promise Act of 2019
 - 2019-03-12 — Introduced in House
 - 2019-03-12 — Referred to the Committee on the Judiciary, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-03-12 — Referred to the Committee on the Judiciary, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-04-08 — Referred to the Subcommittee on Immigration and Citizenship.
+- 2019-06-03 — Rules Committee Resolution H. Res. 415 Reported to House. Rule provides for consideration of H.R. 6 with 2 hours of general debate. Motion to recommit with or without instructions allowed.
+- 2019-06-04 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2019-06-04 — Considered as unfinished business. (consideration: CR H4292, H4294-4295)
+- 2019-06-04 — Considered under the provisions of rule H. Res. 415. (consideration: CR H4265-4291)
+- 2019-06-04 — DEBATE - The House proceeded with 10 minutes of debate on the Cline motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment notwithstanding sections 111(e), 129, 211(c)(3), and 229 of this Act, an alien whose application would be denied based on criminal, national security, gang, or public safety grounds shall be referred by the Secretary of Homeland Security for determination of whether the alien should be placed in removal proceedings under section 240 of the Immigration and Nationality Act.
+- 2019-06-04 — DEBATE - The House proceeded with two hours of debate on H.R. 6.
+- 2019-06-04 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2019-06-04 — House amendment offered
+- 2019-06-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-06-04 — Mr. Cline moved to recommit with instructions to the Committee on the Judiciary. (text: CR H4292)
+- 2019-06-04 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2019-06-04 — On motion to recommit with instructions Failed by recorded vote: 202 - 221 (Roll no. 239).
+- 2019-06-04 — On passage Passed by recorded vote: 237 - 187 (Roll no. 240). (text: CR H4265-4272)
+- 2019-06-04 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of Rule 19, the Chair postponed further proceedings on H.R. 6.
+- 2019-06-04 — Passed/agreed to in House: On passage Passed by recorded vote: 237 - 187 (Roll no. 240).(text: CR H4265-4272)
+- 2019-06-04 — Rule H. Res. 415 passed House.
+- 2019-06-04 — Rule provides for consideration of H.R. 6 with 2 hours of general debate. Motion to recommit with or without instructions allowed.
+- 2019-06-04 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2019-06-04 — The previous question was ordered pursuant to the rule.
