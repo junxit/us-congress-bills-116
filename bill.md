@@ -1,0 +1,14 @@
+---
+legis-num: S.J. RES. 38
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S.J. RES. 38
+
+> Providing for congressional disapproval of the proposed export to the Kingdom of Saudi Arabia and the United Kingdom of Great Britain and Northern Ireland of certain defense articles and services.
+
+That the issuance of an export license with respect to the following proposed exports to the Kingdom of Saudi Arabia and the United Kingdom of Great Britain and Northern Ireland is prohibited:
+
+- **(1)** The transfer of the following defense articles, including services and technical data, described in Executive Communication 1422 (EC–1422) submitted to Congress pursuant to section 36(c) of the Arms Export Control Act (22 U.S.C. 2776(c)) and published in the Congressional Record on June 3, 2019: The proposed transfer of defense articles, defense services, and technical data to support the manufacture of the Aurora Fuzing System for the Paveway IV Precision Guided Bomb Program.
