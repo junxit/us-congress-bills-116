@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 3133
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3133
+
+> To amend title 18, United States Code, to prohibit gay and trans panic defenses.
+
+## § 1. Short title
+
+This Act may be cited as the “Gay and Trans Panic Defense Prohibition Act of 2019”.
+
+## § 2. Prohibition on gay and trans panic defenses
+
+- **(a)** *In general* Chapter 1 of title 18, United States Code, is amended by adding at the end the following:
+  > ## § 28. Prohibition on gay and trans panic defenses
+  >
+  > - **(a)** *Prohibition* No nonviolent sexual advance or perception or belief, even if inaccurate, of the gender, gender identity or expression, or sexual orientation of an individual may be used to excuse or justify the conduct of an individual or mitigate the severity of an offense.
+  > - **(b)** *Past trauma* Notwithstanding the prohibition in subsection (a), a court may admit evidence, in accordance with the Federal Rules of Evidence, of prior trauma to the defendant for the purpose of excusing or justifying the conduct of the defendant or mitigating the severity of an offense.
+
+- **(b)** *Technical and conforming amendment* The table of sections for chapter 1 of title 18, United States Code, is amended by adding at the end the following:
+- **(c)** *Report* The Attorney General shall submit to Congress an annual report that details prosecutions in Federal court involving capital and noncapital crimes committed against lesbian, gay, bisexual, or transgender individuals that were motivated by the victim’s gender, gender identity or expression, or sexual orientation.
