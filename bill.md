@@ -1,0 +1,30 @@
+---
+legis-num: H.R. 3132
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3132
+
+> To require the Secretary of Defense to provide a briefing to the congressional defense committees relating to the “middle tier” of acquisition programs, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Rapid Fielding Defense Capabilities and Risk Assessment Act”.
+
+## § 2. Briefing relating to the “middle tier” of acquisition programs
+
+- **(a)** *In general* Not later than December 1, 2019, the Secretary of Defense shall provide a briefing to the congressional defense committees (as defined in section 101(a)(16) of title 10, United States Code) on lessons learned and best practices identified through the use of the “middle tier” of acquisition programs described under section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2302 note). The briefing shall be accompanied by a written analysis—
+  - **(1)** identifying which lessons learned can be applied to—
+    - **(A)** “middle tier” acquisition programs; and
+    - **(B)** any major defense acquisition program (as defined under section 2430 of title 10, United States Code);
+  - **(2)** describing the extent to which covered risk should be a factor in determining which acquisition authority to use, including—
+    - **(A)** an acquisition pathway as described under subsection (b) of section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2302 note);
+    - **(B)** the authority described under section 2371b of title 10, United States Code;
+    - **(C)** acquisition authority relating to urgent operational needs;
+    - **(D)** a traditional acquisition process; or
+    - **(E)** any other acquisition authority, as determined by the Secretary;
+  - **(3)** describing whether any requirements applicable to major defense acquisition programs should be applicable to “middle tier” acquisition programs under such section; and
+  - **(4)** recommending amendments or revisions (as applicable) to law or regulation, and including available data to support such recommendations.
+- **(b)** *Covered risk defined* In this section, the term “covered risk” shall have the meaning given by the Secretary of Defense, and shall include a consideration of cost, schedule, performance, risk to operational success.
