@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1921
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+1 amendatory instruction. 0 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `33 U.S.C. § 3703` | add-at-end | Section 12404 of the Federal Ocean Acidification Research and Monitoring Act of 2009 (33 U.S.C. 3703) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 3708` | replace | in subsection (a), by striking “subtitle—” and all that follows through paragraph (4) and inserting the following: “subtitle $30,500,000 for each of the fiscal years 2020 through 2024.”; and | the bill quotes the text struck but describes what replaces it |
-| `33 U.S.C. § 3708` | replace | in subsection (b), by striking “subtitle—” and all that follows through paragraph (4) and inserting the following: “subtitle $20,000,000 for each of the fiscal years 2020 through 2024.”. | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 3703` | add-at-end | Section 12404 of the Federal Ocean Acidification Research And Monitoring Act of 2009 (33 U.S.C. 3703) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
