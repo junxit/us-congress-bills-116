@@ -15,7 +15,7 @@ This Act may be cited as the “Ocean Acidification Innovation Act of 2019”.
 
 ## § 2. Prize competitions
 
-Section 12404 of the Federal Ocean Acidification Research and Monitoring Act of 2009 (33 U.S.C. 3703) is amended by adding at the end the following:
+Section 12404 of the Federal Ocean Acidification Research And Monitoring Act of 2009 (33 U.S.C. 3703) is amended by adding at the end the following:
 
 > - **(d)** *Prize competitions*
 >   - **(1)** *In General* Any Federal agency with a representative serving on the interagency working group established under this section may, either individually or in cooperation with one or more agencies, carry out a program to award prizes competitively under section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719). An agency seeking to carry out such a program shall carry out such program in coordination with the chair of such interagency working group.
@@ -25,11 +25,7 @@ Section 12404 of the Federal Ocean Acidification Research and Monitoring Act of 
 >     - **(B)** the development of adaptation options to alleviate economic harm and job loss caused by ocean acidification;
 >     - **(C)** the development of measures to help vulnerable communities or industries, with an emphasis on rural communities and businesses; and
 >     - **(D)** the development of adaptation and management options for impacted shellfish industries.
->   - **(4)** *Authorization of appropriations* In addition to amounts made available under section 12409, there is authorized to be appropriated such sums as may be necessary to carry out this subsection.
 
-## § 3. Authorization of appropriations
+## § 3. Determination of Budgetary Effects
 
-Section 12409 of the Federal Ocean Acidification Research and Monitoring Act of 2009 (33 U.S.C. 3708) is amended—
-
-- **(1)** in subsection (a), by striking “subtitle—” and all that follows through paragraph (4) and inserting the following: “subtitle $30,500,000 for each of the fiscal years 2020 through 2024.”; and
-- **(2)** in subsection (b), by striking “subtitle—” and all that follows through paragraph (4) and inserting the following: “subtitle $20,000,000 for each of the fiscal years 2020 through 2024.”.
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
