@@ -1,7 +1,7 @@
 ---
 measure: S. 1289
 congress: 116
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1289
@@ -32,3 +32,8 @@ Measuring the Economic Impact of Broadband Act of 2019
 
 - 2019-05-02 — Introduced in Senate
 - 2019-05-02 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2019-05-15 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2019-06-05 — Passed Senate without amendment by Unanimous Consent. (text: CR S3267)
+- 2019-06-05 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S3267)
+- 2019-06-05 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S3267)
+- 2019-06-05 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S3267)
