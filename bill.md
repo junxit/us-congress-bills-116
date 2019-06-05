@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 988
 
-> To provide for a study by the Ocean Studies Board of the National Academies of Science examining the impact of ocean acidification and other stressors in estuarine environments.
+> To provide for a study by the National Academies of Sciences, Engineering, and Medicine examining the impact of ocean acidification and other stressors in estuarine environments.
 
 ## § 1. Short title
 
@@ -26,7 +26,7 @@ Congress finds the following:
 
 ## § 3. Study examining the impact of ocean acidification and other environmental stressors on estuarine environments
 
-- **(a)** *In general* Not later than 60 days after the date of enactment of this Act, the Secretary of Commerce shall make appropriate arrangements with the Ocean Studies Board of the National Academies under which the Board shall conduct a study that—
+- **(a)** *In general* Not later than 60 days after the date of enactment of this Act, the Secretary of Commerce shall make appropriate arrangements with the National Academies of Sciences, Engineering, and Medicine (referred to in this Act as the “National Academies”) under which the National Academies shall conduct a study that—
   - **(1)** examines the existing science of ocean acidification in estuarine environments;
   - **(2)** examines the challenges to studying ocean acidification and ocean acidification’s interactions with other environment stressors in estuarine environments;
   - **(3)** provides recommendations for improving future research with respect to ocean acidification in estuarine environments; and
@@ -40,5 +40,5 @@ Congress finds the following:
   - **(6)** the gaps that exist in understanding the socio-economic and health impacts of ocean acidification in estuaries;
   - **(7)** future directions for scientific research; and
   - **(8)** pathways for applying science in management and mitigation decisions.
-- **(c)** *Report* In entering into an arrangement under subsection (a), the Secretary shall request that the Board transmit to Congress a report on the results of the study not later than 24 months after the date of enactment of this Act.
-- **(d)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section $1,000,000.
+- **(c)** *Report* In entering into an arrangement under subsection (a), the Secretary shall request that the National Academies transmit to Congress a report on the results of the study not later than 24 months after the date of enactment of this Act.
+- **(d)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section $1 million.
