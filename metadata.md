@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1716
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1716
@@ -54,3 +54,9 @@ Coastal Communities Ocean Acidification Act of 2019
 - 2019-05-23 — Placed on the Union Calendar, Calendar No. 56.
 - 2019-05-23 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 116-81.
 - 2019-05-23 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 116-81.
+- 2019-06-05 — Considered under suspension of the rules. (consideration: CR H4325-4327)
+- 2019-06-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1716.
+- 2019-06-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-06-05 — Ms. Johnson (TX) moved to suspend the rules and pass the bill, as amended.
+- 2019-06-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4325-4326)
+- 2019-06-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4325-4326)

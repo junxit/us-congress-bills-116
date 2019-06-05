@@ -62,6 +62,6 @@ Section 12403 of the Federal Ocean Acidification Research And Monitoring Act of 
 
   - **(2)** in subsection (e), by inserting “, tribal governments, indigenous knowledge groups,” after “industry”.
 - **(d)** *Authorization of appropriations* Section 12409(a) of the Federal Ocean Acidification Research And Monitoring Act of 2009 (33 U.S.C. 3708(a)) is amended to read as follows:
-  > - **(a)** *NOAA* There are authorized to be appropriated to the National Oceanic and Atmospheric Administration to carry out the purposes of this subtitle $2,700,000 for each of fiscal years 2020 through 2024.
+  > - **(a)** *NOAA* There are authorized to be appropriated to the National Oceanic and Atmospheric Administration to carry out the purposes of this subtitle $2.7 million for each of fiscal years 2020 through 2024.
 
 - **(e)** *Report on support for State and local vulnerability assessments and strategic research planning* Not later than 180 days after the date of the enactment of this Act, the Administrator of the National Oceanic and Atmospheric Administration shall submit to Congress a report on the efforts of the National Oceanic and Atmospheric Administration to support State, local, and tribal community vulnerability assessments, strategic research and planning, and monitoring needs, pursuant to section 12406(c) of the Federal Ocean Acidification Research And Monitoring Act of 2009 (as added by subsection (a) of this section).
