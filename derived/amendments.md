@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1237
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -390,11 +390,11 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 3705` | insert | by inserting “and supporting socioeconomically vulnerable communities and industries ” after “marine ecosystems”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3705` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3705` | add-at-end | by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 3706` | strike | by striking “continue” and all that follows through “which shall” ; | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 3706` | strike | by striking “continue” and all that follows through “which shall”; | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 3706` | replace | in paragraph (2), by striking “; and” at the end and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 3706` | replace | by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3706` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3706` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3707` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 3708` | replace | in subsection (a), by striking “subtitle—” and all that follows through paragraph (4) and inserting the following: “subtitle $30,500,000 for each of the fiscal years 2020 through 2024.”; and | the bill quotes the text struck but describes what replaces it |
-| `33 U.S.C. § 3708` | replace | in subsection (b), by striking “subtitle—” and all that follows through paragraph (4) and inserting the following: “subtitle $20,000,000 for each of the fiscal years 2020 through 2024.”. | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 3708` | replace | in subsection (a), by striking “subtitle—” and all that follows through paragraph (4) and inserting the following: “subtitle $30.5 million for each of the fiscal years 2020 through 2024.”; and | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 3708` | replace | in subsection (b), by striking “subtitle—” and all that follows through paragraph (4) and inserting the following: “subtitle $20 million for each of the fiscal years 2020 through 2024.”. | the bill quotes the text struck but describes what replaces it |

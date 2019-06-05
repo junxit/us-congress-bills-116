@@ -89,22 +89,22 @@ Section 12404 of the Federal Ocean Acidification Research and Monitoring Act of 
   >       - **(iv)** any reports and analysis prepared by the Advisory Board; and
   >     - **(G)** establish a publicly accessible web page on the website of the National Oceanic and Atmospheric Administration, that contains the information described in clauses (i) through (iv) of subparagraph (F).
   >   - **(3)** *Membership* The Advisory Board shall consist of 24 members as follows:
-  >     - **(A)** 2 representatives of the shellfish and crab industry.
-  >     - **(B)** 1 representative of the finfish industry.
-  >     - **(C)** 1 representative of seafood processors.
-  >     - **(D)** 3 representatives from academia, including both natural and social sciences.
-  >     - **(E)** 1 representative of recreational fishing.
-  >     - **(F)** 1 representative of relevant nongovernmental organizations.
-  >     - **(G)** 6 representatives from relevant State, local, and Tribal governments.
-  >     - **(H)** 1 representative from the Alaska Ocean Acidification Network.
-  >     - **(I)** 1 representative from the California Current Acidification Network.
-  >     - **(J)** 1 representative from the Northeast Coastal Acidification Network.
-  >     - **(K)** 1 representative from the Southeast Coastal Acidification Network.
-  >     - **(L)** 1 representative from the Gulf of Mexico Coastal Acidification Network.
-  >     - **(M)** 1 representative from the Mid-Atlantic Coastal Acidification Network.
-  >     - **(N)** 1 representative from the Pacific Islands Ocean Observing System or similar entity representing the island territories and possessions of the United States in the Pacific Ocean, and the State of Hawaii.
-  >     - **(O)** 1 representative from the Caribbean Regional Association for Coastal Ocean Observing or a similar entity representing Puerto Rico and the U.S. Virgin Islands.
-  >     - **(P)** 1 representative from the National Oceanic and Atmospheric Administration shall serve as an ex-officio member of the Advisory Board without a vote.
+  >     - **(A)** Two representatives of the shellfish and crab industry.
+  >     - **(B)** One representative of the finfish industry.
+  >     - **(C)** One representative of seafood processors.
+  >     - **(D)** Three representatives from academia, including both natural and social sciences.
+  >     - **(E)** One representative of recreational fishing.
+  >     - **(F)** One representative of relevant nongovernmental organizations.
+  >     - **(G)** Six representatives from relevant State, local, and Tribal governments.
+  >     - **(H)** One representative from the Alaska Ocean Acidification Network.
+  >     - **(I)** One representative from the California Current Acidification Network.
+  >     - **(J)** One representative from the Northeast Coastal Acidification Network.
+  >     - **(K)** One representative from the Southeast Coastal Acidification Network.
+  >     - **(L)** One representative from the Gulf of Mexico Coastal Acidification Network.
+  >     - **(M)** One representative from the Mid-Atlantic Coastal Acidification Network.
+  >     - **(N)** One representative from the Pacific Islands Ocean Observing System or similar entity representing the island territories and possessions of the United States in the Pacific Ocean, and the State of Hawaii.
+  >     - **(O)** One representative from the Caribbean Regional Association for Coastal Ocean Observing or a similar entity representing Puerto Rico and the United States Virgin Islands.
+  >     - **(P)** One representative from the National Oceanic and Atmospheric Administration shall serve as an ex-officio member of the Advisory Board without a vote.
   >   - **(4)** *Appointment of members* The Chair of the Subcommittee shall—
   >     - **(A)** appoint members to the Advisory Board (taking into account the geographical interests of each individual to be appointed as a member of the Advisory Board to ensure that an appropriate balance of geographical interests are represented by the members of the Advisory Board) who—
   >       - **(i)** represent the interest group for which each seat is designated;
@@ -141,7 +141,7 @@ Section 12405 of the Federal Ocean Acidification Research and Monitoring Act of 
     - **(iii)** by amending subparagraph (C) to read as follows:
       > - **(C)** provide information for the—
       >   - **(i)** development of adaptation and mitigation strategies to address the socioeconomic impacts of ocean acidification and coastal acidification;
-      >   - **(ii)** conservation of marine organisms and ecosystems; and
+      >   - **(ii)** conservation of marine organisms and ecosystems;
       >   - **(iii)** assessment of the effectiveness of such adaptation and mitigation strategies; and
 
     - **(iv)** by adding at the end the following new subparagraph:
@@ -239,7 +239,7 @@ Section 12407 of the Federal Ocean Acidification Research and Monitoring Act of 
 - **(1)** by striking “ocean acidification” each place it appears and inserting “ocean acidification and coastal acidification”;
 - **(2)** in subsection (a)—
   - **(A)** in the matter preceding paragraph (1)—
-    - **(i)** by striking “continue” and all that follows through “which shall” ;
+    - **(i)** by striking “continue” and all that follows through “which shall”;
     - **(ii)** by striking “proposals for research” and inserting “proposals for the researching”; and
     - **(iii)** by striking “its impacts” and inserting “their respective impacts”;
   - **(B)** in paragraph (1), by striking “marine ecosystems” and inserting “ecosystems”;
@@ -270,5 +270,5 @@ Section 12408 of the Federal Ocean Acidification Research and Monitoring Act of 
 
 Section 12409 of the Federal Ocean Acidification Research and Monitoring Act of 2009 (33 U.S.C. 3708) is amended—
 
-- **(1)** in subsection (a), by striking “subtitle—” and all that follows through paragraph (4) and inserting the following: “subtitle $30,500,000 for each of the fiscal years 2020 through 2024.”; and
-- **(2)** in subsection (b), by striking “subtitle—” and all that follows through paragraph (4) and inserting the following: “subtitle $20,000,000 for each of the fiscal years 2020 through 2024.”.
+- **(1)** in subsection (a), by striking “subtitle—” and all that follows through paragraph (4) and inserting the following: “subtitle $30.5 million for each of the fiscal years 2020 through 2024.”; and
+- **(2)** in subsection (b), by striking “subtitle—” and all that follows through paragraph (4) and inserting the following: “subtitle $20 million for each of the fiscal years 2020 through 2024.”.
