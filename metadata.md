@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1595
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1595
@@ -16,7 +16,7 @@ SAFE Banking Act of 2019
 
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
 
-## Cosponsors (108)
+## Cosponsors (206)
 
 - Rep. Heck, Denny [D-WA-10] (H001064)
 - Rep. Stivers, Steve [R-OH-15] (S001187)
@@ -126,6 +126,104 @@ SAFE Banking Act of 2019
 - Rep. Scott, David [D-GA-13] (S001157)
 - Rep. Waters, Maxine [D-CA-43] (W000187)
 - Rep. Schrier, Kim [D-WA-8] (S001216)
+- Rep. Amodei, Mark E. [R-NV-2] (A000369)
+- Rep. Balderson, Troy [R-OH-12] (B001306)
+- Rep. Pocan, Mark [D-WI-2] (P000607)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. Bera, Ami [D-CA-7] (B001287)
+- Rep. Pascrell, Bill, Jr. [D-NJ-9] (P000096)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Peters, Scott H. [D-CA-52] (P000608)
+- Rep. Stanton, Greg [D-AZ-9] (S001211)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Sánchez, Linda T. [D-CA-38] (S001156)
+- Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
+- Rep. Harder, Josh [D-CA-10] (H001090)
+- Del. San Nicolas, Michael F. Q. [D-GU-At Large] (S001204)
+- Rep. Higgins, Brian [D-NY-26] (H001038)
+- Rep. Golden, Jared F. [D-ME-2] (G000592)
+- Rep. Case, Ed [D-HI-1] (C001055)
+- Rep. Meng, Grace [D-NY-6] (M001188)
+- Rep. Castro, Joaquin [D-TX-20] (C001091)
+- Rep. Moulton, Seth [D-MA-6] (M001196)
+- Rep. Dean, Madeleine [D-PA-4] (D000631)
+- Rep. Haaland, Debra A. [D-NM-1] (H001080)
+- Rep. Evans, Dwight [D-PA-3] (E000296)
+- Rep. Kuster, Ann M. [D-NH-2] (K000382)
+- Rep. Kildee, Daniel T. [D-MI-5] (K000380)
+- Rep. Nadler, Jerrold [D-NY-10] (N000002)
+- Rep. Ruiz, Raul [D-CA-36] (R000599)
+- Rep. Neal, Richard E. [D-MA-1] (N000015)
+- Rep. Pressley, Ayanna [D-MA-7] (P000617)
+- Rep. Lamb, Conor [D-PA-17] (L000588)
+- Rep. Slotkin, Elissa [D-MI-8] (S001208)
+- Rep. Deutch, Theodore E. [D-FL-22] (D000610)
+- Rep. Doyle, Michael F. [D-PA-18] (D000482)
+- Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Rep. Stevens, Haley M. [D-MI-11] (S001215)
+- Rep. Wexton, Jennifer [D-VA-10] (W000825)
+- Rep. Scanlon, Mary Gay [D-PA-5] (S001205)
+- Rep. Bass, Karen [D-CA-37] (B001270)
+- Rep. Murphy, Stephanie N. [D-FL-7] (M001202)
+- Rep. Lawrence, Brenda L. [D-MI-14] (L000581)
+- Rep. Sherrill, Mikie [D-NJ-11] (S001207)
+- Rep. Bustos, Cheri [D-IL-17] (B001286)
+- Rep. McNerney, Jerry [D-CA-9] (M001166)
+- Rep. Luria, Elaine G. [D-VA-2] (L000591)
+- Rep. Brindisi, Anthony [D-NY-22] (B001308)
+- Rep. Steube, W. Gregory [R-FL-17] (S001214)
+- Rep. Trone, David J. [D-MD-6] (T000483)
+- Rep. Massie, Thomas [R-KY-4] (M001184)
+- Rep. Reschenthaler, Guy [R-PA-14] (R000610)
+- Rep. Norcross, Donald [D-NJ-1] (N000188)
+- Rep. Upton, Fred [R-MI-6] (U000031)
+- Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. Banks, Jim [R-IN-3] (B001299)
+- Rep. Finkenauer, Abby [D-IA-1] (F000467)
+- Rep. Dingell, Debbie [D-MI-12] (D000624)
+- Rep. Tlaib, Rashida [D-MI-13] (T000481)
+- Rep. Davids, Sharice [D-KS-3] (D000629)
+- Rep. Meuser, Daniel [R-PA-9] (M001204)
+- Rep. Malinowski, Tom [D-NJ-7] (M001203)
+- Rep. Armstrong, Kelly [R-ND-At Large] (A000377)
+- Rep. Vela, Filemon [D-TX-34] (V000132)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Gibbs, Bob [R-OH-7] (G000563)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Axne, Cynthia [D-IA-3] (A000378)
+- Rep. Delgado, Antonio [D-NY-19] (D000630)
+- Rep. Torres Small, Xochitl [D-NM-2] (T000484)
+- Rep. Horn, Kendra S. [D-OK-5] (H001083)
+- Rep. Van Drew, Jefferson [D-NJ-2] (V000133)
+- Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
+- Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
+- Rep. Houlahan, Chrissy [D-PA-6] (H001085)
+- Rep. Kennedy, Joseph P., III [D-MA-4] (K000379)
+- Rep. Underwood, Lauren [D-IL-14] (U000040)
+- Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
+- Rep. Comer, James [R-KY-1] (C001108)
+- Rep. Garamendi, John [D-CA-3] (G000559)
+- Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
+- Rep. Tonko, Paul [D-NY-20] (T000469)
+- Rep. Bacon, Don [R-NE-2] (B001298)
+- Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Mucarsel-Powell, Debbie [D-FL-26] (M001207)
+- Rep. Schiff, Adam B. [D-CA-28] (S001150)
+- Rep. Shalala, Donna E. [D-FL-27] (S001206)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
+- Rep. Escobar, Veronica [D-TX-16] (E000299)
+- Rep. Adams, Alma S. [D-NC-12] (A000370)
+- Rep. Frankel, Lois [D-FL-21] (F000462)
+- Rep. Casten, Sean [D-IL-6] (C001117)
+- Rep. Graves, Tom [R-GA-14] (G000560)
+- Rep. Collins, Chris [R-NY-27] (C001092)
+- Rep. Gonzalez, Anthony [R-OH-16] (G000588)
+- Rep. Morelle, Joseph D. [D-NY-25] (M001206)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Costa, Jim [D-CA-16] (C001059)
 
 ## Committees (2)
 
@@ -138,3 +236,13 @@ SAFE Banking Act of 2019
 - 2019-03-07 — Introduced in House
 - 2019-03-07 — Referred to the Committee on Financial Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-03-07 — Referred to the Committee on Financial Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-03-26 — Committee Consideration and Mark-up Session Held.
+- 2019-03-27 — Committee Consideration and Mark-up Session Held.
+- 2019-03-28 — Committee Consideration and Mark-up Session Held.
+- 2019-03-28 — Ordered to be Reported (Amended) by the Yeas and Nays: 45 - 15.
+- 2019-04-08 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2019-06-05 — Committee on the Judiciary discharged.
+- 2019-06-05 — Committee on the Judiciary discharged.
+- 2019-06-05 — Placed on the Union Calendar, Calendar No. 78.
+- 2019-06-05 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-104, Part I.
+- 2019-06-05 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-104, Part I.
