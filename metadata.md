@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 174
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 174
@@ -28,3 +28,7 @@ A resolution expressing support for the designation of the week of June 1, 2019,
 
 - 2019-04-30 — Introduced in Senate
 - 2019-04-30 — Referred to the Committee on Commerce, Science, and Transportation.
+- 2019-06-05 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR 04/30/2019 S2523)
+- 2019-06-05 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 04/30/2019 S2523)
+- 2019-06-05 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S3267-3268)
+- 2019-06-05 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S3267-3268)
