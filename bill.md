@@ -18,7 +18,7 @@ This Act may be cited as the “DHS Cyber Incident Response Teams Act of 2019”
 - **(a)** *In general* Section 2209 of the Homeland Security Act of 2002 (6 U.S.C. 148) is amended—
   - **(1)** in subsection (d)(1)(B)(iv), by inserting “, including cybersecurity specialists” after “entities”;
   - **(2)** by redesignating subsections (f) through (m) as subsections (g) through (n), respectively;
-  - **(3)** by inserting after subsection (d) the following new subsection (f):
+  - **(3)** by inserting after subsection (e) the following new subsection (f):
     > - **(f)** *Cyber incident response teams*
     >   - **(1)** *In general* The Center shall maintain cyber hunt and incident response teams for the purpose of providing, as appropriate and upon request, assistance, including the following:
     >     - **(A)** Assistance to asset owners and operators in restoring services following a cyber incident.
@@ -28,7 +28,7 @@ This Act may be cited as the “DHS Cyber Incident Response Teams Act of 2019”
     >     - **(E)** Such other capabilities as the Under Secretary appointed under section 103(a)(1)(H) determines appropriate.
     >   - **(2)** *Cybersecurity specialists* The Secretary may include cybersecurity specialists from the private sector on cyber hunt and incident response teams.
     >   - **(3)** *Associated metrics* The Center shall continually assess and evaluate the cyber incident response teams and their operations using robust metrics.
-    >   - **(4)** *Submittal of information to Congress* Upon the conclusion of each of the first four fiscal years ending after the date of the enactment of this subsection, the Center shall submit to the Committee on Homeland Security of the House of Representatives and the Homeland Security and Governmental Affairs Committee of the Senate, information on the metrics used for evaluation and assessment of the cyber incident response teams and operations pursuant to paragraph (3), including the resources and staffing of such cyber incident response teams. Such information shall include each of the following for the period covered by the report:
+    >   - **(4)** *Submittal of information to Congress* Upon the conclusion of each of the first 4 fiscal years ending after the date of the enactment of this subsection, the Center shall submit to the Committee on Homeland Security of the House of Representatives and the Homeland Security and Governmental Affairs Committee of the Senate, information on the metrics used for evaluation and assessment of the cyber incident response teams and operations pursuant to paragraph (3), including the resources and staffing of such cyber incident response teams. Such information shall include each of the following for the period covered by the report:
     >     - **(A)** The total number of incident response requests received.
     >     - **(B)** The number of incident response tickets opened.
     >     - **(C)** All interagency staffing of incident response teams.
