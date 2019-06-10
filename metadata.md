@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1716
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1716
@@ -37,9 +37,10 @@ Coastal Communities Ocean Acidification Act of 2019
 - Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -60,3 +61,4 @@ Coastal Communities Ocean Acidification Act of 2019
 - 2019-06-05 — Ms. Johnson (TX) moved to suspend the rules and pass the bill, as amended.
 - 2019-06-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4325-4326)
 - 2019-06-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4325-4326)
+- 2019-06-10 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
