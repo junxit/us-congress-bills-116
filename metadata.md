@@ -1,7 +1,7 @@
 ---
 measure: H.R. 542
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 542
@@ -36,3 +36,11 @@ Supporting Research and Development for First Responders Act
 - 2019-05-28 — Placed on the Union Calendar, Calendar No. 62.
 - 2019-05-28 — Reported by the Committee on Homeland Security. H. Rept. 116-87.
 - 2019-05-28 — Reported by the Committee on Homeland Security. H. Rept. 116-87.
+- 2019-06-10 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2019-06-10 — Considered as unfinished business. (consideration: CR H4375-4376)
+- 2019-06-10 — Considered under suspension of the rules. (consideration: CR H4364-4365)
+- 2019-06-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 542.
+- 2019-06-10 — Miss Rice (NY) moved to suspend the rules and pass the bill.
+- 2019-06-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-06-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 395 - 3 (Roll no. 242). (text: CR H4364)
+- 2019-06-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 395 - 3 (Roll no. 242).(text: CR H4364)
