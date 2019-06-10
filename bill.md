@@ -1,0 +1,30 @@
+---
+legis-num: H.R. 3183
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3183
+
+> To amend the Federal Crop Insurance Act to allow certain producers who harvest or graze covered crops planted as a result of a prevented planting to be eligible for certain crop insurance, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Feed Emergency Enhancement During Disasters Act” or the “FEEDD Act”.
+
+## § 2. Cover crops planted due to prevented planting
+
+Section 508A(c) of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1508a(c)) is amended—
+
+- **(1)** by amending subparagraph (B) of paragraph (1) to read as follows:
+  > - **(B)** *Second crop planted* The producer may plant a second crop on the same acreage for harvest in the same crop year and collect one of the following:
+  >   - **(i)** Subject to paragraphs (4) and (5), an indemnity payment established by the Corporation for the first crop, but not to exceed 35 percent of the prevented planting guarantee for the acreage for the first crop.
+  >   - **(ii)** An indemnity that is equal to 100 percent of the prevented planting guarantee for the acreage for the first crop, if each of the following conditions are met:
+  >     - **(I)** The Secretary determines that the acres planted are in an area with low hay or forage supplies due to widespread excessive moisture, flood, drought, or other factors.
+  >     - **(II)** The second crop will be planted with an intended use of animal feed that is hayed, grazed, or chopped.
+  >     - **(III)** The second crop will be donated or used by the producer.
+
+- **(2)** in paragraph (3)—
+  - **(A)** by inserting “a second crop planted as described in paragraph (1)(B)(ii) or” before “double cropping”; and
+  - **(B)** by striking “make an election under paragraph (1)(B)” and inserting “makes an election under paragraph (1)(B)(i)”.
