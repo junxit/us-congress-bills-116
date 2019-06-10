@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2695
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2695
@@ -29,3 +29,11 @@ To rename the Success Dam in Tulare County, California, as the Richard L. Schafe
 - 2019-05-14 — Introduced in House
 - 2019-05-14 — Introduced in House
 - 2019-05-14 — Referred to the House Committee on Transportation and Infrastructure.
+- 2019-05-15 — Referred to the Subcommittee on Water Resources and Environment.
+- 2019-06-10 — Committee on Transportation discharged.
+- 2019-06-10 — Committee on Transportation discharged.
+- 2019-06-10 — Considered by unanimous consent. (consideration: CR H4378)
+- 2019-06-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-06-10 — Ms. Mucarsel-Powell asked unanimous consent to discharge from committee and consider.
+- 2019-06-10 — On passage Passed without objection. (text: CR H4378)
+- 2019-06-10 — Passed/agreed to in House: On passage Passed without objection.(text: CR H4378)
