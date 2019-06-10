@@ -35,16 +35,13 @@ It is the policy of the United States—
 - **(2)** to improve third-party tourism to the United States and Mexico through joint international promotional efforts; and
 - **(3)** to seek to prioritize and expand the tourism industries in both countries by emphasizing exchanges in various international economic sectors, including relating to—
   - **(A)** hospitality and accommodation;
-  - **(B)** retail;
-  - **(C)** medical procedures;
-  - **(D)** dental care; and
-  - **(E)** cultural education.
+  - **(B)** retail; and
+  - **(C)** cultural education.
 
 ## § 4. Strategy to expand bilateral tourism through cooperation with Mexico
 
 - **(a)** *In general* The Secretary of State shall develop a strategy through the High Level Economic Dialogue (HLED) platform to carry out the bilateral tourism policy described in section 3 and to encourage the Government of Mexico to take reciprocal action relating to bilateral tourism.
 - **(b)** *Elements* The strategy required under subsection (a) shall—
-  - **(1)** encourage more joint tourism initiatives between the United States and Mexico, including collaborations between governmental and non-governmental entities;
-  - **(2)** encourage United States and Mexican nonprofit institutions and private businesses to assist prospective and developing entrepreneurs in strengthening their business skills in the United States and Mexico; and
-  - **(3)** assess the feasibility of fostering partnerships between medical and dental institutions in the United States and Mexico, including hospitals, clinics, medical schools, and dental programs, for the purpose of allowing patients greater ease and sense of security when considering cross-border medical procedure and dental care options.
+  - **(1)** encourage more joint tourism initiatives between the United States and Mexico, including collaborations between governmental and non-governmental entities; and
+  - **(2)** encourage United States and Mexican nonprofit institutions and private businesses to assist prospective and developing entrepreneurs in strengthening their business skills in the United States and Mexico.
 - **(c)** *Report* Not later than 180 days after the date of the enactment of this Act, the Secretary of State shall submit to Congress a report on the strategy required under subsection (a).
