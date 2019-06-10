@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 6
@@ -287,3 +287,5 @@ American Dream and Promise Act of 2019
 - 2019-06-04 — Rule provides for consideration of H.R. 6 with 2 hours of general debate. Motion to recommit with or without instructions allowed.
 - 2019-06-04 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-06-04 — The previous question was ordered pursuant to the rule.
+- 2019-06-05 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2019-06-10 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 112.
