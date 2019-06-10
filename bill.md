@@ -40,4 +40,4 @@ This Act may be cited as the “DHS Overseas Personnel Enhancement Act of 2019�
 
 ## § 4. Termination
 
-The briefing requirement under section 2 shall terminate on the date that is four years after the submission of the strategy referred to in such section.
+The briefing requirement under section 2 shall terminate on the date that is 4 years after the submission of the strategy referred to in such section.
