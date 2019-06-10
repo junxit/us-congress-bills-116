@@ -1,7 +1,7 @@
 ---
 measure: H.R. 988
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 988
@@ -26,10 +26,11 @@ NEAR Act of 2019
 - Rep. Cloud, Michael [R-TX-27] (C001115)
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 
-## Committees (2)
+## Committees (3)
 
 - House — Natural Resources Committee
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ NEAR Act of 2019
 - 2019-06-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4329-4330)
 - 2019-06-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4329-4330)
 - 2019-06-05 — The title of the measure was amended. Agreed to without objection.
+- 2019-06-10 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
