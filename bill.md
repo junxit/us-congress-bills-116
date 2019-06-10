@@ -2,7 +2,7 @@
 legis-num: H.R. 1237
 congress: 116th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1237
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Coastal and Ocean Acidification Stressors and Threats Research Act of 2019” or the “COAST Research Act of 2019”.
+This Act may be cited as the “Coastal and Ocean Acidification Stressors and Threats Research Act of 2019” or the “ COAST Research Act of 2019”.
 
 ## § 2. Purposes
 
