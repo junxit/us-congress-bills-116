@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3151
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3151
@@ -16,7 +16,7 @@ Taxpayer First Act
 
 - Rep. Lewis, John [D-GA-5] (L000287)
 
-## Cosponsors (27)
+## Cosponsors (28)
 
 - Rep. Kelly, Mike [R-PA-16] (K000376)
 - Rep. Neal, Richard E. [D-MA-1] (N000015)
@@ -45,6 +45,7 @@ Taxpayer First Act
 - Rep. Hill, Katie [D-CA-25] (H001087)
 - Rep. Ocasio-Cortez, Alexandria [D-NY-14] (O000172)
 - Rep. Taylor, Van [R-TX-3] (T000479)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
 
 ## Committees (3)
 
@@ -59,3 +60,9 @@ Taxpayer First Act
 - 2019-06-06 — Referred to the Committee on Ways and Means, and in addition to the Committees on the Budget, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-06-06 — Referred to the Committee on Ways and Means, and in addition to the Committees on the Budget, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-06-06 — Referred to the Committee on Ways and Means, and in addition to the Committees on the Budget, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-06-10 — Considered under suspension of the rules. (consideration: CR H4352-4364)
+- 2019-06-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3151.
+- 2019-06-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-06-10 — Mr. Lewis moved to suspend the rules and pass the bill.
+- 2019-06-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4352-4362)
+- 2019-06-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4352-4362)
