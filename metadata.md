@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2476
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2476
@@ -137,3 +137,9 @@ Securing American Nonprofit Organizations Against Terrorism Act of 2019
 - 2019-05-30 — Placed on the Union Calendar, Calendar No. 67.
 - 2019-05-30 — Reported by the Committee on Homeland Security. H. Rept. 116-92.
 - 2019-05-30 — Reported by the Committee on Homeland Security. H. Rept. 116-92.
+- 2019-06-10 — Considered under suspension of the rules. (consideration: CR H4365-4367)
+- 2019-06-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2476.
+- 2019-06-10 — Miss Rice (NY) moved to suspend the rules and pass the bill.
+- 2019-06-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-06-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4365)
+- 2019-06-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4365)

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2476
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 

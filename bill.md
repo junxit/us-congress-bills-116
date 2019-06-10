@@ -29,10 +29,10 @@ This Act may be cited as the “Securing American Nonprofit Organizations Agains
   > - **(d)** *Period of performance* The Administrator shall make funds provided under this section available for use by a recipient of a grant for a period of not less than 36 months.
   > - **(e)** *Report* The Administrator shall annually for each of fiscal years 2020 through 2024 submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report containing information on the expenditure by each grant recipient of grant funds made under this section.
   > - **(f)** *Authorization of appropriations*
-  >   - **(1)** *In general* There is authorized to be appropriated $75,000,000 for each of fiscal years 2020 through 2024 to carry out this section.
+  >   - **(1)** *In general* There is authorized to be appropriated $75 million for each of fiscal years 2020 through 2024 to carry out this section.
   >   - **(2)** *Specification* Of the amounts authorized to be appropriated pursuant to paragraph (1)—
-  >     - **(A)** $50,000,000 is authorized for eligible recipients located in jurisdictions that receive funding under section 2003; and
-  >     - **(B)** $25,000,000 is authorized for eligible recipients in jurisdictions not receiving funding under section 2003.
+  >     - **(A)** $50 million is authorized for eligible recipients located in jurisdictions that receive funding under section 2003; and
+  >     - **(B)** $25 million is authorized for eligible recipients in jurisdictions not receiving funding under section 2003.
 
 - **(b)** *Conforming amendment* Subsection (a) of section 2002 of the Homeland Security Act of 2002 (6 U.S.C. 603) is amended by striking “sections 2003 and 2004” and inserting “sections 2003, 2004, and 2009”.
 - **(c)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 2008 the following new item:
