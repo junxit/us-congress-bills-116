@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2083
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2083
@@ -37,3 +37,9 @@ HOPR Act
 - 2019-05-30 — Placed on the Union Calendar, Calendar No. 65.
 - 2019-05-30 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-90.
 - 2019-05-30 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-90.
+- 2019-06-10 — Considered under suspension of the rules. (consideration: CR H4370-4372)
+- 2019-06-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2083.
+- 2019-06-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-06-10 — Mr. Correa moved to suspend the rules and pass the bill, as amended.
+- 2019-06-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4370-4371)
+- 2019-06-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4370-4371)
