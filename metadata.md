@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 184
 congress: 116
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 184
@@ -16,7 +16,7 @@ A resolution condemning the Easter Sunday terrorist attacks in Sri Lanka, offeri
 
 - Sen. Risch, James E. [R-ID] (R000584)
 
-## Cosponsors (13)
+## Cosponsors (15)
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Romney, Mitt [R-UT] (R000615)
@@ -31,6 +31,8 @@ A resolution condemning the Easter Sunday terrorist attacks in Sri Lanka, offeri
 - Sen. Kaine, Tim [D-VA] (K000384)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Brown, Sherrod [D-OH] (B000944)
 
 ## Committees (1)
 
@@ -44,3 +46,5 @@ A resolution condemning the Easter Sunday terrorist attacks in Sri Lanka, offeri
 - 2019-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment and with an amended preamble. Without written report.
 - 2019-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment and with an amended preamble. Without written report.
 - 2019-06-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 105.
+- 2019-06-10 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(consideration: CR S3296-3297; text: CR S3296-3297)
+- 2019-06-10 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (consideration: CR S3296-3297; text: CR S3296-3297)
