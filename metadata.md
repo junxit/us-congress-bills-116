@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 81
 congress: 116
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 81
@@ -37,3 +37,5 @@ A resolution calling for accountability and justice for the assassination of Bor
 - 2019-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2019-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2019-06-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 104.
+- 2019-06-10 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(consideration: CR S3294-3296; text: CR S3295-3296)
+- 2019-06-10 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (consideration: CR S3294-3296; text: CR S3295-3296)
