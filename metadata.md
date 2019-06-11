@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1158
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1158
@@ -45,3 +45,4 @@ Consolidated Appropriations Act, 2020
 - 2019-06-10 — Motion to reconsider laid on the table Agreed to without objection.
 - 2019-06-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4367)
 - 2019-06-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4367)
+- 2019-06-11 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 113.
