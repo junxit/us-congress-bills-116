@@ -2,7 +2,7 @@
 legis-num: H. RES. 430
 congress: 116th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 430
@@ -12,9 +12,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 That the chair of the Committee on the Judiciary of the House of Representatives is authorized, on behalf of such Committee, to initiate or intervene in any judicial proceeding before a Federal court—
 
 - **(1)** to seek declaratory judgments and any and all ancillary relief, including injunctive relief, affirming the duty of—
-  - **(A)** William P. Barr, Attorney General, U.S. Department of Justice, to comply with the subpoena that is the subject of the resolution accompanying House Report 116–105; and
+  - **(A)** William P. Barr, Attorney General, to comply with the subpoena that is the subject of the resolution accompanying House Report 116–105; and
   - **(B)** Donald F. McGahn, II, former White House Counsel, to comply with the subpoena issued to him on April 22, 2019; and
-- **(2)** to petition for disclosure of information regarding any matters identified in or relating to the subpoenas referred to in paragraph (1) or any accompanying report, pursuant to Federal Rule of Criminal Procedure 6(e), including Rule 6(e)(3)(E) (providing that the court may authorize disclosure of a grand-jury matter “preliminarily to … a judicial proceeding”).
+- **(2)** to petition for disclosure of information regarding any matters identified in or relating to the subpoenas referred to in paragraph (1) or any accompanying report, pursuant to Federal Rule of Criminal Procedure 6(e), including Rule 6(e)(3)(E) (providing that the court may authorize disclosure of a grand-jury matter “preliminarily to * * * a judicial proceeding”).
 
 That the chair of each standing and permanent select committee, when authorized by the Bipartisan Legal Advisory Group, retains the ability to initiate or intervene in any judicial proceeding before a Federal court on behalf of such committee, to seek declaratory judgments and any and all ancillary relief, including injunctive relief, affirming the duty of the recipient of any subpoena duly issued by that committee to comply with that subpoena. Consistent with the Congressional Record statement on January 3, 2019, by the chair of the Committee on Rules regarding the civil enforcement of subpoenas pursuant to clause 8(b) of rule II, a vote of the Bipartisan Legal Advisory Group to authorize litigation and to articulate the institutional position of the House in that litigation is the equivalent of a vote of the full House of Representatives.
 
