@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2083
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2083
@@ -23,9 +23,10 @@ HOPR Act
 - Rep. Pappas, Chris [D-NH-1] (P000614)
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ HOPR Act
 - 2019-06-10 — Mr. Correa moved to suspend the rules and pass the bill, as amended.
 - 2019-06-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4370-4371)
 - 2019-06-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4370-4371)
+- 2019-06-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
