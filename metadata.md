@@ -1,7 +1,7 @@
 ---
 measure: S. 395
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 395
@@ -36,3 +36,5 @@ Providing Accountability Through Transparency Act of 2019
 - 2019-03-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-14.
 - 2019-03-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-14.
 - 2019-03-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 45.
+- 2019-06-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3326; text: CR S3326)
+- 2019-06-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3326; text: CR S3326)
