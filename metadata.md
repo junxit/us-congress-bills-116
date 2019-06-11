@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2476
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2476
@@ -123,9 +123,10 @@ Securing American Nonprofit Organizations Against Terrorism Act of 2019
 - Rep. Schweikert, David [R-AZ-6] (S001183)
 - Rep. Bustos, Cheri [D-IL-17] (B001286)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -143,3 +144,4 @@ Securing American Nonprofit Organizations Against Terrorism Act of 2019
 - 2019-06-10 — Motion to reconsider laid on the table Agreed to without objection.
 - 2019-06-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4365)
 - 2019-06-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4365)
+- 2019-06-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
