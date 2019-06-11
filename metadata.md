@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2539
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2539
@@ -16,9 +16,10 @@ Strengthening Local Transportation Security Capabilities Act of 2019
 
 - Rep. Barragan, Nanette Diaz [D-CA-44] (B001300)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -42,3 +43,4 @@ Strengthening Local Transportation Security Capabilities Act of 2019
 - 2019-06-10 — Motion to reconsider laid on the table Agreed to without objection.
 - 2019-06-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 384 - 13 (Roll no. 243). (text: CR H4369)
 - 2019-06-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 384 - 13 (Roll no. 243).(text: CR H4369)
+- 2019-06-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
