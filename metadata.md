@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 60
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 60
@@ -38,3 +38,12 @@ Requesting the Secretary of the Interior to authorize unique and one-time arrang
 - 2019-06-10 — Passed/agreed to in House: On passage Passed without objection.(text: CR H4378)
 - 2019-06-10 — Referred to the House Committee on Natural Resources.
 - 2019-06-11 — Received in the Senate, read twice.
+- 2019-06-18 — Passed Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S3804)
+- 2019-06-18 — Passed/agreed to in Senate: Passed Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S3804)
+- 2019-06-19 — Message on Senate action sent to the House.
+- 2019-06-24 — Presented to President.
+- 2019-06-24 — Presented to President.
+- 2019-07-05 — Became Public Law No: 116-28.
+- 2019-07-05 — Became Public Law No: 116-28.
+- 2019-07-05 — Signed by President.
+- 2019-07-05 — Signed by President.
