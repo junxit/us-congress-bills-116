@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2140
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2140
@@ -21,9 +21,10 @@ Preventing Child Marriage in Displaced Populations Act
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Preventing Child Marriage in Displaced Populations Act
 - 2019-06-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4383-4384)
 - 2019-06-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4383-4384)
 - 2019-06-10 — The title of the measure was amended. Agreed to without objection.
+- 2019-06-11 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
