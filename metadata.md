@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 431
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 431
@@ -16,6 +16,15 @@ Providing for consideration of the bill (H.R. 2740) making appropriations for th
 
 - Rep. Raskin, Jamie [D-MD-8] (R000606)
 
+## Committees (1)
+
+- House — Rules Committee
+
+## Recorded votes (2)
+
+- 2019-06-11 — [House 116-1-245](votes/house-116-1-0245.md) — On Ordering the Previous Question — **Passed** (227–190)
+- 2019-06-11 — [House 116-1-246](votes/house-116-1-0246.md) — On Agreeing to the Resolution — **Passed** (227–190)
+
 ## Actions
 
 - 2019-06-10 — Introduced in House
@@ -23,3 +32,9 @@ Providing for consideration of the bill (H.R. 2740) making appropriations for th
 - 2019-06-10 — The House Committee on Rules reported an original measure, H. Rept. 116-109, by Mr. Raskin.
 - 2019-06-10 — The House Committee on Rules reported an original measure, H. Rept. 116-109, by Mr. Raskin.
 - 2019-06-10 — The resolution provides for one hour of debate on H.R. 2740, under a structured rule. The resolution provides for one hour of debate on H.Res. 430, under a closed rule.
+- 2019-06-11 — Considered as privileged matter. (consideration: CR H4402-4411)
+- 2019-06-11 — DEBATE - The House proceeded with one hour of debate on H. Res. 431.
+- 2019-06-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-06-11 — On agreeing to the resolution Agreed to by the Yeas and Nays: 227 - 190 (Roll no. 246). (text: CR H4402)
+- 2019-06-11 — On ordering the previous question Agreed to by the Yeas and Nays: 227 - 190 (Roll no. 245). (consideration: CR H4409-4410)
+- 2019-06-11 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 227 - 190 (Roll no. 246).(text: CR H4402)
