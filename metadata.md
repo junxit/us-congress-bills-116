@@ -1,7 +1,7 @@
 ---
 measure: H.R. 542
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 542
@@ -20,9 +20,10 @@ Supporting Research and Development for First Responders Act
 
 - Rep. King, Peter T. [R-NY-2] (K000210)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Supporting Research and Development for First Responders Act
 - 2019-06-10 — Motion to reconsider laid on the table Agreed to without objection.
 - 2019-06-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 395 - 3 (Roll no. 242). (text: CR H4364)
 - 2019-06-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 395 - 3 (Roll no. 242).(text: CR H4364)
+- 2019-06-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
