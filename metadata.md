@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2609
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2609
@@ -34,3 +34,11 @@ DHS Acquisition Review Board Act of 2019
 - 2019-05-30 — Placed on the Union Calendar, Calendar No. 71.
 - 2019-05-30 — Reported by the Committee on Homeland Security. H. Rept. 116-96.
 - 2019-05-30 — Reported by the Committee on Homeland Security. H. Rept. 116-96.
+- 2019-06-10 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2019-06-10 — Considered under suspension of the rules. (consideration: CR H4372-4373)
+- 2019-06-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2609.
+- 2019-06-10 — Mr. Correa moved to suspend the rules and pass the bill.
+- 2019-06-11 — Considered as unfinished business. (consideration: CR H4423)
+- 2019-06-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-06-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 248). (text: CR 6/10/2019 H4372-4373)
+- 2019-06-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 248).(text: CR 6/10/2019 H4372-4373)
