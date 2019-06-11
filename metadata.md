@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 430
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 430
@@ -96,3 +96,15 @@ Authorizing the Committee on the Judiciary to initiate or intervene in judicial 
 - 2019-06-10 — Placed on the House Calendar, Calendar No. 27.
 - 2019-06-10 — Reported (Amended) by the Committee on Rules. H. Rept. 116-108.
 - 2019-06-10 — Reported (Amended) by the Committee on Rules. H. Rept. 116-108.
+- 2019-06-11 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2019-06-11 — Considered under the provisions of rule H. Res. 431. (consideration: CR H4411-4423)
+- 2019-06-11 — DEBATE - The House proceeded with one hour of debate on H. Res. 430.
+- 2019-06-11 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2019-06-11 — House amendment offered
+- 2019-06-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-06-11 — On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2019-06-11 — On agreeing to the resolution Agreed to by the Yeas and Nays: 229 - 191 (Roll no. 247). (text: CR H4411)
+- 2019-06-11 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 229 - 191 (Roll no. 247).(text: CR H4411)
+- 2019-06-11 — Rule H. Res. 431 passed House.
+- 2019-06-11 — Rule provides for consideration of H.R. 2740 and H. Res. 430. The resolution provides for one hour of debate on H.R. 2740, under a structured rule. The resolution provides for one hour of debate on H.Res. 430, under a closed rule.
+- 2019-06-11 — The previous question was ordered pursuant to the rule.
