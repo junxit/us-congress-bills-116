@@ -72,6 +72,6 @@ This Act may be cited as the “DHS Acquisition Review Board Act of 2019”.
   >     - **(H)** adopting and executing standardized processes with known success across programs;
   >     - **(I)** establishing an adequate workforce that is qualified and sufficient to perform necessary functions; and
   >     - **(J)** integrating the capabilities described in subparagraphs (A) through (I) into the Department’s mission and business operations.
-  >   - **(8)** *Major acquisition program* The term major acquisition program means a Department acquisition program that is estimated by the Secretary to require an eventual total expenditure of at least $300,000,000 (based on fiscal year 2019 constant dollars) over its life cycle cost.
+  >   - **(8)** *Major acquisition program* The term major acquisition program means a Department acquisition program that is estimated by the Secretary to require an eventual total expenditure of at least $300 million (based on fiscal year 2019 constant dollars) over its life cycle cost.
 
 - **(b)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended by inserting after the item relating to section 835 the following new item:
