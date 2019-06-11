@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2476
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2476
@@ -145,3 +145,14 @@ Securing American Nonprofit Organizations Against Terrorism Act of 2019
 - 2019-06-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4365)
 - 2019-06-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4365)
 - 2019-06-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2019-12-19 — Passed Senate without amendment by Unanimous Consent.
+- 2019-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2019-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S7226)
+- 2019-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S7226)
+- 2019-12-23 — Message on Senate action sent to the House.
+- 2020-01-14 — Presented to President.
+- 2020-01-14 — Presented to President.
+- 2020-01-24 — Became Public Law No: 116-108.
+- 2020-01-24 — Became Public Law No: 116-108.
+- 2020-01-24 — Signed by President.
+- 2020-01-24 — Signed by President.
