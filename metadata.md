@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2590
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2590
@@ -20,9 +20,10 @@ DHS Overseas Personnel Enhancement Act of 2019
 
 - Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ DHS Overseas Personnel Enhancement Act of 2019
 - 2019-06-10 — Mr. Correa moved to suspend the rules and pass the bill, as amended.
 - 2019-06-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 2 (Roll no. 244). (text: CR H4373-4374)
 - 2019-06-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 2 (Roll no. 244).(text: CR H4373-4374)
+- 2019-06-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
