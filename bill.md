@@ -60,8 +60,21 @@ This Act may be cited as the “Let Everyone Get Involved in Opportunities for N
 
 ## § 3. Eligibility for membership in The American Legion
 
-Section 21703(1)(A) of title 36, United States Code, is amended—
+Section 21703 of title 36, United States Code, is amended—
 
-- **(1)** in clause (vi), by striking “or”; and
-- **(2)** by adding at the end the following new clause:
-  > - **(viii)** such other beginning dates through such other ending dates as are provided in the constitution and bylaws of the corporation; or
+- **(1)** in paragraph (1)—
+  - **(A)** in subparagraph (A), by striking “during any period from—” and all that follows through the end of clause (vii) and inserting the following: “during—
+    > - **(i)** the period from April 6, 1917, through November 11, 1918; or
+    > - **(ii)** any time after December 7, 1941; or
+
+  - **(B)** in subparagraph (B), by inserting “or time” after “a period”; and
+- **(2)** in paragraph (2), by inserting “or time” after “that period”.
+
+## § 4. Nondiscrimination with respect to the requirements for holding a staff position in The American Legion
+
+- **(a)** *In general* Chapter 217 of title 36, United States Code, is amended by inserting after section 21704 the following new section:
+  > ## § 21704A. Nondiscrimination
+  >
+  > The requirements for holding a staff position in the corporation may not discriminate on the basis of race, color, religion, sex, or national origin.
+
+- **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 21704 the following new item:
