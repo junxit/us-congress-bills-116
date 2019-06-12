@@ -1,7 +1,7 @@
 ---
 measure: S. 504
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 504
@@ -70,3 +70,6 @@ Let Everyone Get Involved in Opportunities for National Service Act
 - 2019-06-11 — Senate amendment agreed to: Amendment SA 252 agreed to in Senate by Unanimous Consent.
 - 2019-06-11 — Senate amendment proposed (on the floor): Amendment SA 252 proposed by Senator McConnell for Senator Tillis.
 - 2019-06-11 — Senate amendment submitted
+- 2019-06-12 — Message on Senate action sent to the House.
+- 2019-06-12 — Received in the House.
+- 2019-06-12 — Referred to the House Committee on the Judiciary.
