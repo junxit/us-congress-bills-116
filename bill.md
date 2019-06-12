@@ -1,0 +1,31 @@
+---
+legis-num: S. RES. 249
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 249
+
+> Commemorating the victory of the University of Maryland in the 2019 National Collegiate Athletic Association Division I Women’s Lacrosse Championship.
+
+## Preamble
+
+- Whereas, on May 26, 2019, the University of Maryland, College Park won a 14th National Collegiate Athletic Association (referred to in this preamble as “NCAA”) Division I Women’s Lacrosse Championship;
+- Whereas the Maryland Terrapins women’s lacrosse team of the University of Maryland, College Park (referred to in this preamble as the “Maryland Terrapins”) has won the most national championships of any women’s lacrosse program;
+- Whereas the 2019 NCAA Division I Women’s Lacrosse Championship victory represents— (1)the fifth national championship victory for the Maryland Terrapins under head coach Cathy Reese; and (2)the 74th NCAA tournament victory for the Maryland Terrapins;
+- Whereas the Maryland Terrapins completed the 2019 women’s lacrosse season with an impressive record of 22 wins and 1 loss;
+- Whereas the Maryland Terrapins senior class finished a 4-year career with 2 NCAA titles and only 4 losses;
+- Whereas senior goalkeeper Megan Taylor— (1)made 10 saves in the championship game; (2)was named Most Outstanding Player of the Final Four; and (3)received the Tewaaraton Award, which is given to the top collegiate lacrosse player in the United States, making Megan Taylor the first goalie in history to receive that distinction;
+- Whereas the Maryland Terrapins won the 2019 NCAA Women’s Lacrosse Championship by a score of 12 to 10, with— (1)Brindi Griffin and Grace Griffin each scoring 3 goals; and (2)Jen Giles, Kali Hartshorn, and Caroline Steele each scoring 2 goals;
+- Whereas head coach Cathy Reese— (1)was selected for induction into the National Lacrosse Hall of Fame; and (2)was named conference coach of the year for the 11th time;
+- Whereas attendance at the 2019 NCAA Division I Women’s Lacrosse Championship was announced as totaling 9,433, the fourth-highest attendance for an NCAA women’s lacrosse championship game; and
+- Whereas the 2019 Maryland Terrapins team, with its commitment to excellence, tremendous teamwork, and good sportsmanship, has been a source of great pride to the University of Maryland, the State of Maryland, and the United States: Now, therefore, be it
+
+That the Senate—
+
+- **(1)** congratulates the Maryland Terrapins women’s lacrosse team of the University of Maryland, College Park for winning the 2019 National Collegiate Athletic Association Division I Women’s Lacrosse Championship;
+- **(2)** recognizes the outstanding achievements of the players, coaches, students, and staff of the University of Maryland whose teamwork and dedication were key to victory in the championship game; and
+- **(3)** respectfully requests that the Secretary of the Senate transmit for appropriate display an enrolled copy of this resolution to—
+  - **(A)** the president of the University of Maryland, College Park, Wallace Loh; and
+  - **(B)** the head coach of the University of Maryland, College Park women’s lacrosse team, Cathy Reese.
