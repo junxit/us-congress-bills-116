@@ -1,7 +1,7 @@
 ---
 measure: S. 395
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 395
@@ -38,3 +38,6 @@ Providing Accountability Through Transparency Act of 2019
 - 2019-03-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 45.
 - 2019-06-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3326; text: CR S3326)
 - 2019-06-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3326; text: CR S3326)
+- 2019-06-12 — Message on Senate action sent to the House.
+- 2019-06-12 — Received in the House.
+- 2019-06-12 — Referred to the House Committee on the Judiciary.
