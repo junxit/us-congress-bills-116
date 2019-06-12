@@ -1,0 +1,32 @@
+---
+legis-num: S. 1799
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1799
+
+> To require the Principal Cyber Advisor of the Department of Defense to conduct a study to determine the optimal strategy for structuring and manning elements of the Joint Force Headquarters–Cyber organizations, Joint Mission Operations Centers, and Cyber Operations–Integrated Planning Elements, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Defense Cybersecurity Personnel Authorizations and Inventory Oversight Act of 2019”.
+
+## § 2. Study to determine the optimal strategy for structuring and manning elements of the Joint Force Headquarters–Cyber organizations, Joint Mission Operations Centers, and Cyber Operations–Integrated Planning Elements
+
+- **(a)** *Study*
+  - **(1)** *In general* The Principal Cyber Advisor of the Department of Defense shall conduct a study to determine the optimal strategy for structuring and manning elements of the following:
+    - **(A)** Joint Force Headquarters–Cyber organizations.
+    - **(B)** Joint Mission Operations Centers.
+    - **(C)** Cyber Operations–Integrated Planning Elements.
+  - **(2)** *Elements* The study conducted under subsection (a) shall include assessment of the following:
+    - **(A)** Operational effects on the military services if the entities listed in subparagraphs (A) through (C) of paragraph (1) are restructured from organizations that are service component organizations to joint organizations.
+    - **(B)** Organizational effects on the military services if the billets associated with the entities listed in subparagraphs (A) through (C) of paragraph (1) are transferred to United States Cyber Command and designated as joint billets for joint qualification purposes.
+- **(b)** *Report*
+  - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act, the Principal Cyber Advisor shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the study conducted under subsection (a).
+  - **(2)** *Contents* The report submitted under paragraph (1) shall contain the following:
+    - **(A)** The findings of the Principal Cyber Advisor with respect to the study conducted under subsection (a).
+    - **(B)** Details of the operational and organizational effects assessed under subsection (a)(2).
+    - **(C)** A plan to carry out the transfer described in subsection (a)(2)(B) and the associated costs.
+    - **(D)** Such other matters as the Principal Cyber Advisor considers appropriate.
