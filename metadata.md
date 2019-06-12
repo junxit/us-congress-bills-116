@@ -1,7 +1,7 @@
 ---
 measure: S. 504
 congress: 116
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 504
@@ -16,7 +16,7 @@ Let Everyone Get Involved in Opportunities for National Service Act
 
 - Sen. Sinema, Kyrsten [D-AZ] (S001191)
 
-## Cosponsors (34)
+## Cosponsors (36)
 
 - Sen. Tillis, Thomas [R-NC] (T000476)
 - Sen. Risch, James E. [R-ID] (R000584)
@@ -51,11 +51,14 @@ Let Everyone Get Involved in Opportunities for National Service Act
 - Sen. Portman, Rob [R-OH] (P000449)
 - Sen. Toomey, Patrick [R-PA] (T000461)
 - Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Sinema, Kyrsten [D-AZ] (S001191)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -73,3 +76,16 @@ Let Everyone Get Involved in Opportunities for National Service Act
 - 2019-06-12 — Message on Senate action sent to the House.
 - 2019-06-12 — Received in the House.
 - 2019-06-12 — Referred to the House Committee on the Judiciary.
+- 2019-06-28 — Referred to the Subcommittee on Immigration and Citizenship.
+- 2019-07-23 — Considered under suspension of the rules. (consideration: CR H7220-7222)
+- 2019-07-23 — DEBATE - The House proceeded with forty minutes of debate on S. 504.
+- 2019-07-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-07-23 — Mr. Correa moved to suspend the rules and pass the bill.
+- 2019-07-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7220-7221)
+- 2019-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7220-7221)
+- 2019-07-29 — Presented to President.
+- 2019-07-29 — Presented to President.
+- 2019-07-30 — Became Public Law No: 116-35.
+- 2019-07-30 — Became Public Law No: 116-35.
+- 2019-07-30 — Signed by President.
+- 2019-07-30 — Signed by President.
