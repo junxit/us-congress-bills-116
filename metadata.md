@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2609
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2609
@@ -20,9 +20,10 @@ DHS Acquisition Review Board Act of 2019
 
 - Rep. Torres Small, Xochitl [D-NM-2] (T000484)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ DHS Acquisition Review Board Act of 2019
 - 2019-06-11 — Motion to reconsider laid on the table Agreed to without objection.
 - 2019-06-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 248). (text: CR 6/10/2019 H4372-4373)
 - 2019-06-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 248).(text: CR 6/10/2019 H4372-4373)
+- 2019-06-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
