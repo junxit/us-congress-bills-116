@@ -1,0 +1,27 @@
+---
+legis-num: S. 1865
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1865
+
+> To amend title 18, United States Code, to make certain changes with respect to bringing a civil action for the misappropriation of a trade secret, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Deterring Espionage by Foreign Entities through National Defense Act of 2019” or the “DEFEND Act”.
+
+## § 2. Protection of trade secrets
+
+Chapter 90 of title 18, United States Code, is amended—
+
+- **(1)** in section 1836—
+  - **(A)** in subsection (b)(3)(C), by striking “2 times” and inserting “3 times”; and
+  - **(B)** in subsection (d), in the first sentence, by striking “3 years” and inserting “5 years”; and
+- **(2)** in section 1837—
+  - **(A)** in paragraph (1), by striking “or” at the end;
+  - **(B)** in paragraph (2), by striking the period at the end and inserting “; or”; and
+  - **(C)** by adding at the end the following:
+    > - **(3)** the offense causes substantial economic harm in the United States.
