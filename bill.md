@@ -1,0 +1,28 @@
+---
+legis-num: S. 1856
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1856
+
+> To amend the National Wildlife Refuge System Administration Act of 1966 to prohibit the use of neonicotinoids in National Wildlife Refuges, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Protect Our Refuges Act of 2019”.
+
+## § 2. Prohibition of the use of neonicotinoids in National Wildlife Refuges
+
+- **(a)** *In general* The National Wildlife Refuge System Administration Act of 1966 is amended—
+  - **(1)** by redesignating section 5 (16 U.S.C. 668ee) as section 2, and moving that section so as to appear in numerical order; and
+  - **(2)** by inserting after section 4 (16 U.S.C. 668dd) the following:
+    > ## § 5. Prohibition of the use of neonicotinoids
+    >
+    > No person may use a neonicotinoid in the System.
+
+- **(b)** *Technical amendment* The National Wildlife Refuge System Administration Act of 1966 is amended by inserting before section 2 (as redesignated by subsection (a)(1)) the following:
+  > ## § 1. Short title
+  >
+  > This Act may be cited as the “National Wildlife Refuge System Administration Act of 1966”.
