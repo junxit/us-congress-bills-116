@@ -1,0 +1,25 @@
+---
+legis-num: S. 1858
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1858
+
+> To ensure the Chief Information Office of the Consumer Product Safety Commission has a significant role in decisions related to information technology, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “CPSC CIO Parity Act”.
+
+## § 2. CIO authority
+
+- **(a)** *In general* The Consumer Product Safety Commission (in this section referred to as the “Commission”) shall ensure that the Chief Information Officer of the Commission has a significant role in—
+  - **(1)** the decision-making process for annual and multi-year planning, programming, budgeting, and execution decisions, related reporting requirements, and reports related to information technology;
+  - **(2)** the management, governance, and oversight processes related to information technology; and
+  - **(3)** the hiring of personnel with information technology responsibilities.
+- **(b)** *CIO approval* The Chief Information Officer of the Commission, in consultation with the Chief Financial Officer of the Commission and budget officials, shall specify and approve the allocation of amounts appropriated to the Commission for information technology, consistent with the provisions of appropriations Acts, budget guidelines, and recommendations from the Director of the Office of Management and Budget.
+- **(c)** *Additional personnel* The Chairman of the Commission, in consultation with the Chief Information Officer of the Commission, and subject to the approval of the Commission, shall appoint—
+  - **(1)** a Chief Data Officer to serve at the Associate Executive Director level; and
+  - **(2)** a Chief Technologist, to serve on a full- or part-time basis.
