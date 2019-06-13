@@ -13,20 +13,28 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Clarifying the Small Business Runway Extension Act”.
 
-## § 2. Clarifying amendment to the Small Business Runway Extension Act of 2018
+## § 2. Sense of Congress
+
+It is the sense of Congress that—
+
+- **(1)** the Small Business Runway Extension Act of 2018 (Public Law 115–324) applies to calculations of the size of a business concern made by the Administrator of the Small Business Administration;
+- **(2)** Federal agencies rely upon such calculations to award contracts, including governmentwide acquisition contracts, to small business concerns; and
+- **(3)** the Small Business Runway Extension Act of 2018 has been effective since the date it was signed into law, on December 17, 2018.
+
+## § 3. Clarifying amendment to the Small Business Runway Extension Act of 2018
 
 Section 3(a)(2)(C) of the Small Business Act (15 U.S.C. 632(a)(2)(C)) is amended by inserting “(including the Administration when acting pursuant to subparagraph (A))” after “no Federal department or agency”.
 
-## § 3. Finalization of Small Business Runway Extension Act of 2018 rules
+## § 4. Finalization of Small Business Runway Extension Act of 2018 rules
 
 The Administrator of the Small Business Administration shall issue a final rule implementing the Small Business Runway Extension Act of 2018 (Public Law 115–324) not later than December 17, 2019.
 
-## § 4. Amendment to size standards for certain small business concerns
+## § 5. Amendment to size standards for certain small business concerns
 
 - **(a)** *Size standards for small business concerns providing services* Section 3(a)(2)(C)(ii)(II) of the Small Business Act (15 U.S.C. 632(a)(2)(C)(ii)(II)) is amended by striking “not less than”.
 - **(b)** *Size standards for other business concerns* Section 3(a)(2)(C)(ii)(III) of the Small Business Act (15 U.S.C. 632(a)(2)(C)(ii)(III)) is amended by striking “not less than 3 years” and inserting “5 years”.
 
-## § 5. Transition plan for the Small Business Runway Extension Act of 2018
+## § 6. Transition plan for the Small Business Runway Extension Act of 2018
 
 - **(a)** *Plan required* Not later than 90 days after the date of the enactment of this Act, the Administrator of the Small Business Administration shall implement a transition plan to assist business concerns and Federal agencies with compliance with the requirements of the Small Business Runway Extension Act of 2018 (Public Law 115–324).
 - **(b)** *3-Year calculation for size standards*
@@ -35,6 +43,6 @@ The Administrator of the Small Business Administration shall issue a final rule 
     - **(A)** with respect to a business concern providing services described under clause (ii)(II) of such section, a determination of the size of such concern on the basis of the annual average gross receipts of such concern over a period of 3 years; and
     - **(B)** with respect to a business concern described under clause (ii)(III) of such section, a determination of the size of such concern on the basis of data over a period of 3 years.
 
-## § 6. Requirement to update SAM
+## § 7. Requirement to update SAM
 
 Not later than 90 days after the date of the enactment of this Act, the System for Award Management (or any successor system) shall be updated to comply with the requirements of this Act.
