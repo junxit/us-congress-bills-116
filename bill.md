@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 3247
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3247
+
+> To provide for a safe transit exception to service level requirements for Department of Defense aircraft flying over Colorado wilderness areas, and for other purposes.
+
+## § 1. Safe transit exception to service level requirements for Department of Defense aircraft flying over Colorado wilderness areas
+
+- **(a)** *In general* Military aircraft operating outside of designated Department of Defense airspace in the wilderness areas in the mountainous regions of Colorado may deviate from service level requirements if oxygen requirements, icing levels, engine power limitations, cloud clearance, or turbulence prevent such aircraft from safely transiting such wilderness areas while maintaining such service level requirements, as determined by the Secretary of Defense.
+- **(b)** *Regulations* The Secretary of Defense shall ensure that all Department of Defense regulations and flight procedures are in accordance with subsection (a).
