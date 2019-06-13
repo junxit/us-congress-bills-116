@@ -1,0 +1,32 @@
+---
+measure: H.R. 3261
+congress: 116
+version: Introduced in House
+---
+
+# H.R. 3261
+
+Less Traffic with Smart Stop Lights Act of 2019
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Cárdenas, Tony [D-CA-29] (C001097)
+
+## Cosponsors (2)
+
+- Rep. Espaillat, Adriano [D-NY-13] (E000297)
+- Rep. Schweikert, David [R-AZ-6] (S001183)
+
+## Committees (1)
+
+- House — Transportation and Infrastructure Committee
+
+## Actions
+
+- 2019-06-13 — Introduced in House
+- 2019-06-13 — Introduced in House
+- 2019-06-13 — Referred to the House Committee on Transportation and Infrastructure.
