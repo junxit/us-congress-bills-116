@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 189
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 189
@@ -16,7 +16,7 @@ A resolution condemning all forms of antisemitism.
 
 - Sen. Cruz, Ted [R-TX] (C001098)
 
-## Cosponsors (43)
+## Cosponsors (56)
 
 - Sen. Kaine, Tim [D-VA] (K000384)
 - Sen. Cramer, Kevin [R-ND] (C001096)
@@ -61,6 +61,19 @@ A resolution condemning all forms of antisemitism.
 - Sen. Perdue, David [R-GA] (P000612)
 - Sen. Sullivan, Dan [R-AK] (S001198)
 - Sen. Lankford, James [R-OK] (L000575)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
 
 ## Committees (1)
 
@@ -70,3 +83,7 @@ A resolution condemning all forms of antisemitism.
 
 - 2019-05-02 — Introduced in Senate
 - 2019-05-02 — Referred to the Committee on the Judiciary.
+- 2019-06-13 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR 5/2/2019 S2622-2623)
+- 2019-06-13 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 5/2/2019 S2622-2623)
+- 2019-06-13 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S3622)
+- 2019-06-13 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S3622)
