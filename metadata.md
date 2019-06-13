@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2331
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2331
@@ -16,11 +16,15 @@ SBA Cyber Awareness Act
 
 - Rep. Crow, Jason [D-CO-6] (C001121)
 
-## Cosponsors (3)
+## Cosponsors (7)
 
 - Rep. Balderson, Troy [R-OH-12] (B001306)
 - Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
 - Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Houlahan, Chrissy [D-PA-6] (H001085)
+- Rep. Burchett, Tim [R-TN-2] (B001309)
+- Rep. Craig, Angie [D-MN-2] (C001119)
 
 ## Committees (1)
 
@@ -31,3 +35,6 @@ SBA Cyber Awareness Act
 - 2019-04-18 — Introduced in House
 - 2019-04-18 — Introduced in House
 - 2019-04-18 — Referred to the House Committee on Small Business.
+- 2019-06-13 — Placed on the Union Calendar, Calendar No. 83.
+- 2019-06-13 — Reported by the Committee on Small Business. H. Rept. 116-114.
+- 2019-06-13 — Reported by the Committee on Small Business. H. Rept. 116-114.
