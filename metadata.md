@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 231
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 231
@@ -28,3 +28,7 @@ A resolution condemning the horrific anti-Semitic attack on the Chabad of Poway 
 
 - 2019-06-05 — Introduced in Senate
 - 2019-06-05 — Referred to the Committee on the Judiciary.
+- 2019-06-13 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.(text: CR 6/5/2019 S3261)
+- 2019-06-13 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (text: CR 6/5/2019 S3261)
+- 2019-06-13 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S3626)
+- 2019-06-13 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S3626)

@@ -14,15 +14,15 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas, on April 27, 2019, a 19-year-old armed with an assault rifle attacked the Chabad of Poway Synagogue near San Diego, California, while congregants were celebrating the last day of the Passover holiday;
 - Whereas the gunman wounded Almog Peretz, Noya Dahan, and Rabbi Yisroel Goldstein;
 - Whereas Lori Gilbert Kaye, a founding member of the congregation, was killed while bravely saving the life of Rabbi Goldstein;
-- Whereas, in describing the attack, Rabbi Goldstein said—(1)“… Lori took the bullet for all of us. She died to protect all of us”; and(2)“This is Lori. This is her legacy, and her legacy will continue. It could have been so much worse.”;
+- Whereas, in describing the attack, Rabbi Goldstein said— (1)“… Lori took the bullet for all of us. She died to protect all of us”; and (2)“This is Lori. This is her legacy, and her legacy will continue. It could have been so much worse.”;
 - Whereas Oscar Stewart, a veteran of the Army, and Jonathan Morales, a border patrol agent, bravely fought back, running toward the perpetrator of the attack;
 - Whereas law enforcement and first responders, including the San Diego Sheriff’s Department, acted quickly and professionally to respond to the attack and care for the victims;
 - Whereas the perpetrator of the attack, who expressed White supremacist and White nationalist sentiments, entered the synagogue shouting anti-Semitic slurs;
 - Whereas the attack occurred 6 months to the day after the attack on the Tree of Life Synagogue in Pittsburgh, Pennsylvania, which killed 11 innocent people and injured 6 others, including 4 law enforcement officers;
 - Whereas anti-Semitism is an age-old form of prejudice, discrimination, persecution, and marginalization of Jewish people that runs counter to the values of the United States;
-- Whereas, according to an annual audit conducted by the Anti-Defamation League, in 2018—(1)anti-Semitic incidents remained at near-historic levels in the United States; and(2)the number of anti-Semitic incidents with known connections to extremists or inspired by extremist ideology reached the highest levels since 2004;
+- Whereas, according to an annual audit conducted by the Anti-Defamation League, in 2018— (1)anti-Semitic incidents remained at near-historic levels in the United States; and (2)the number of anti-Semitic incidents with known connections to extremists or inspired by extremist ideology reached the highest levels since 2004;
 - Whereas, in a manifesto attributed to the perpetrator of the attack, the perpetrator of the attack claimed responsibility for the burning of a mosque in Escondido, California, and demonstrated anti-Muslim bias;
-- Whereas growing White supremacy and White nationalism is—(1)a threat to the security of the United States; and(2)antithetical to the American values of dignity and respect of all people, including Jewish, Muslim, Black, Latino, Asian American, immigrant, and LGBTQ peoples; and
+- Whereas growing White supremacy and White nationalism is— (1)a threat to the security of the United States; and (2)antithetical to the American values of dignity and respect of all people, including Jewish, Muslim, Black, Latino, Asian American, immigrant, and LGBTQ peoples; and
 - Whereas hate has no place in the United States and there is a duty to condemn all forms of hatred: Now, therefore, be it
 
 That the Senate—
