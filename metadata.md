@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2109
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2109
@@ -16,9 +16,14 @@ Boosting Rates of American Veteran Employment Act
 
 - Rep. Rice, Kathleen M. [D-NY-4] (R000602)
 
-## Cosponsors (1)
+## Cosponsors (6)
 
 - Rep. Cook, Paul [R-CA-8] (C001094)
+- Rep. Heck, Denny [D-WA-10] (H001064)
+- Rep. Cisneros, Gilbert Ray, Jr. [D-CA-39] (C001123)
+- Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
+- Rep. Lee, Susie [D-NV-3] (L000590)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 
 ## Committees (1)
 
@@ -29,3 +34,9 @@ Boosting Rates of American Veteran Employment Act
 - 2019-04-04 — Introduced in House
 - 2019-04-04 — Introduced in House
 - 2019-04-04 — Referred to the House Committee on Veterans' Affairs.
+- 2019-04-29 — Referred to the Subcommittee on Economic Opportunity.
+- 2019-05-01 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2019-05-01 — Subcommittee Consideration and Mark-up Session Held.
+- 2019-06-18 — Placed on the Union Calendar, Calendar No. 86.
+- 2019-06-18 — Reported by the Committee on Veterans' Affairs. H. Rept. 116-117.
+- 2019-06-18 — Reported by the Committee on Veterans' Affairs. H. Rept. 116-117.
