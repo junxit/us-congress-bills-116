@@ -1,0 +1,36 @@
+---
+measure: H.R. 3302
+congress: 116
+version: Introduced in House
+---
+
+# H.R. 3302
+
+Keep Physicians Serving Patients Act of 2019
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Finkenauer, Abby [D-IA-1] (F000467)
+
+## Cosponsors (4)
+
+- Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
+- Rep. LaHood, Darin [R-IL-18] (L000585)
+- Rep. Sewell, Terri A. [D-AL-7] (S001185)
+
+## Committees (2)
+
+- House — Energy and Commerce Committee
+- House — Ways and Means Committee
+
+## Actions
+
+- 2019-06-18 — Introduced in House
+- 2019-06-18 — Introduced in House
+- 2019-06-18 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-06-18 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
