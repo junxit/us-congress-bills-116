@@ -9,7 +9,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To provide for certain extensions with respect to the Medicaid program under title XIX of the Social Security Act, and for other purposes.
 
-## § 1. Short title; table of contents
+## § 1. Short title; Table of contents
 
 - **(a)** *Short title* This Act may be cited as the “Empowering Beneficiaries, Ensuring Access, and Strengthening Accountability Act of 2019”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
@@ -93,7 +93,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 4. Extension of protection for Medicaid recipients of home and community-based services against spousal impoverishment
 
-Section 2404 of Public Law 111–148 (42 U.S.C. 1396r–5 note) is amended by striking “September 30, 2019” and inserting “March 31, 2024”.
+- **(a)** *In general* Section 2404 of Public Law 111–148 (42 U.S.C. 1396r–5 note) is amended by striking “September 30, 2019” and inserting “March 31, 2024”.
+- **(b)** *Rule of construction* Nothing in section 2404 of Public Law 111–148 (42 U.S.C. 1396r–5 note), section 1924 of the Social Security Act (42 U.S.C. 1396r–5), or section 1902(a)(17) of such Act (42 U.S.C. 1396a(a)(17)) shall be construed as prohibiting a State from applying an income or resource disregard authorized under section 1902(r)(2) of such Act (42 U.S.C. 1396a(r)(2))—
+  - **(1)** to the income or resources of individuals described in section 1902(a)(10)(A)(ii)(VI) of such Act (42 U.S.C. 1396a(a)(10)(A)(ii)(VI)) (including a disregard of the income or resources of such individual’s spouse); or
+  - **(2)** on the basis of an individual’s need for home and community-based services authorized under subsection (c), (d), (i), or (k) of section 1915 of such Act (42 U.S.C. 1396n) or under section 1115 of such Act (42 U.S.C. 1315).
 
 ## § 5. Extension of the Community Mental Health Services Demonstration Program
 
@@ -116,3 +119,7 @@ Section 223(d) of the Protecting Access to Medicare Act of 2014 (42 U.S.C. 1396a
 ## § 7. Medicaid Improvement Fund
 
 Section 1941(b)(1) of the Social Security Act (42 U.S.C. 1396w–1(b)(1)) is amended by striking “$6,000,000” and inserting “$45,500,000”.
+
+## § 8. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
