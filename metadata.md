@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2196
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2196
@@ -16,10 +16,11 @@ To amend title 38, United States Code, to reduce the credit hour requirement for
 
 - Rep. Barr, Andy [R-KY-6] (B001282)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Rep. Levin, Mike [D-CA-49] (L000593)
 - Rep. Roe, David P. [R-TN-1] (R000582)
+- Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
 
 ## Committees (1)
 
@@ -30,3 +31,9 @@ To amend title 38, United States Code, to reduce the credit hour requirement for
 - 2019-04-10 — Introduced in House
 - 2019-04-10 — Introduced in House
 - 2019-04-10 — Referred to the House Committee on Veterans' Affairs.
+- 2019-04-29 — Referred to the Subcommittee on Economic Opportunity.
+- 2019-05-01 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2019-05-01 — Subcommittee Consideration and Mark-up Session Held.
+- 2019-06-18 — Placed on the Union Calendar, Calendar No. 87.
+- 2019-06-18 — Reported by the Committee on Veterans' Affairs. H. Rept. 116-118.
+- 2019-06-18 — Reported by the Committee on Veterans' Affairs. H. Rept. 116-118.
