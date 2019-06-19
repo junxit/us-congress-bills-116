@@ -1,7 +1,7 @@
 ---
 measure: S. 1689
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1689
@@ -24,3 +24,7 @@ A bill to permit States to transfer certain funds from the clean water revolving
 
 - 2019-05-23 — Introduced in Senate
 - 2019-05-23 — Read twice and referred to the Committee on Environment and Public Works.
+- 2019-06-19 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2019-06-19 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.
+- 2019-06-19 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.
+- 2019-06-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 125.
