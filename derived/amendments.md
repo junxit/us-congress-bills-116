@@ -1,7 +1,7 @@
 ---
 measure: S. 1507
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+11 amendatory instructions. 1 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 42 U.S.C. § 300j-12
+
+> in subsection (m)(1), in the matter preceding subparagraph (A), by striking “this section” and inserting “this section, except for subsections (a)(2)(G) and (t)”; and
+
+| | |
+|---|---|
+| Removed | `this section` |
+| Inserted | `this section, except for subsections (a)(2)(G) and (t)` |
 
 ## Stated, not applied
 
@@ -34,3 +45,10 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 11023` | replace | by striking the period at the end and inserting “; and”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 11023` | replace | by striking “are those chemicals” and inserting the following: “are— | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 11023` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 11023` | replace | by striking the period at the end and inserting “; and”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 11023` | replace | by striking “are those chemicals” and inserting the following: “are— | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 11023` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300g-1` | add-at-end | Section 1412(b)(2) of the Safe Drinking Water Act (42 U.S.C. 300g–1(b)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300j-12` | add-at-end | in subsection (a)(2), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300j-12` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 2607` | add-at-end | Section 8(a) of the Toxic Substances Control Act (15 U.S.C. 2607(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
