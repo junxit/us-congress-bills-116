@@ -1,7 +1,7 @@
 ---
 measure: S. 1507
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1507
@@ -29,3 +29,7 @@ PFAS Release Disclosure and Protection Act of 2019
 
 - 2019-05-16 — Introduced in Senate
 - 2019-05-16 — Read twice and referred to the Committee on Environment and Public Works.
+- 2019-06-19 — Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2019-06-19 — Committee on Environment and Public Works. Reported by Senator Barrasso with an amendment in the nature of a substitute. Without written report.
+- 2019-06-19 — Committee on Environment and Public Works. Reported by Senator Barrasso with an amendment in the nature of a substitute. Without written report.
+- 2019-06-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 119.
