@@ -9,4 +9,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > Making appropriations for the Departments of Labor, Health and Human Services, and Education, and related agencies for the fiscal year ending September 30, 2020, and for other purposes.
 
-That the following sums are appropriated, out of any money in the Treasury not otherwise appropriated, for the Departments of Labor, Health and Human Services, and Education, and related agencies for the fiscal year ending September 30, 2020, and for other purposes, namely:
+## § 1. Short title
+
+This Act may be cited as the “Labor, Health and Human Services, Education, Defense, State, Foreign Operations, and Energy and Water Development Appropriations Act, 2020”.
