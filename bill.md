@@ -23,18 +23,20 @@ Section 34 of the National Institute of Standards and Technology Act (15 U.S.C. 
     - **(i)** in subparagraph (G), by striking “and” at the end;
     - **(ii)** in subparagraph (H), by striking the period at the end and inserting “; and”; and
     - **(iii)** by adding at the end the following:
-      > - **(I)** to contribute to the development of regional manufacturing innovation clusters across the Nation;
+      > - **(I)** to contribute to the development of regional manufacturing innovation clusters across the Nation.
 
 - **(2)** in subsection (c)—
   - **(A)** in paragraph (1), by striking “Secretary” each place it appears in subparagraph (C) and (D) and inserting “agency head”;
   - **(B)** in paragraph (2)—
     - **(i)** by striking subparagraph (E);
     - **(ii)** by redesignating subparagraphs (A), (B), (C), and (D) as clauses (i), (ii), (iii), and (iv), respectively, and moving the margins of such clauses (as so redesignated) two ems to the right;
-    - **(iii)** in the matter preceding clause (i) (as so redesignated), by striking “Activities of a center for manufacturing innovation may include” and inserting “(A) Required activities.—Activities of a center for manufacturing innovation shall include”;
+    - **(iii)** in the matter preceding clause (i) (as so redesignated), by striking “Activities of a center for manufacturing innovation may include” and inserting the following:
+      > - **(A)** *Required activities* Activities of a center for manufacturing innovation shall include
+
     - **(iv)** in clause (ii), as so redesignated, by inserting before the period at the end the following: “addressing workforce needs through training and education programs at all appropriate education levels”;
     - **(v)** in clause (iii), as so redesignated, by inserting before the period at the end the following: “, as appropriate”;
     - **(vi)** by inserting after clause (iv) (as so redesignated) the following:
-      > - **(v)** Development of roadmaps with respect to certain technology areas that take into account the research and development undertaken at other centers for manufacturing innovation and Federal agencies with respect to such areas to avoid duplication of effort and to ensure that research and development undertaken at such other centers and Federal agencies may be used for future, later-stage work at the centers for manufacturing innovation.
+      > - **(v)** Development of roadmaps with respect to technology areas being pursued by that center for manufacturing innovation that take into account the research and development undertaken at other centers for manufacturing innovation and Federal agencies with respect to such areas.
 
     - **(vii)** by adding at the end the following:
       > - **(B)** *Permissible activities* Activities of a center for manufacturing innovation may include such other activities as the agency head, in consultation with Federal departments and agencies whose missions contribute to, or are affected by, advanced manufacturing, considers consistent with the purposes described in subsection (a)(2).
@@ -57,39 +59,42 @@ Section 34 of the National Institute of Standards and Technology Act (15 U.S.C. 
       >   - **(i)** use a competitive, merit review process that includes peer review by a diverse group of individuals with relevant expertise from both the private and public sectors; and
       >   - **(ii)** ensure that the technology focus of a center for manufacturing innovation does not substantially duplicate the technology focus of any other center for manufacturing innovation.
 
-    - **(ii)** in subparagraphs (B)(i), by striking “Secretary” each place it appears and inserting “agency head”;
+    - **(ii)** in subparagraph (B)(i), by striking “Secretary” and inserting “agency head”;
     - **(iii)** by amending subparagraph (C) to read as follows:
       > - **(C)** *Performance measurement, transparency, and accountability* For each award of financial assistance under paragraph (1), the agency head shall develop and implement metrics-based performance standards to assess the effectiveness of activities funded in making progress toward the purposes of the Program.
 
     - **(iv)** in subparagraph (D), by striking “the Secretary shall” and all that follows through “collaborate” and inserting the following: “agency head, in coordination with the National Program Office, as appropriate, shall collaborate”; and
-    - **(v)** in subparagraph (E), by striking “Secretary” each place it appears and inserting “agency head”; and
+    - **(v)** in subparagraph (E), by striking “Secretary” and inserting “agency head”; and
   - **(D)** in paragraph (5)—
     - **(i)** by amending subparagraph (A) to read as follows:
       > - **(A)** *Term of award*
       >   - **(i)** *In general* Subject to clause (ii), an award made to a center for manufacturing innovation may be renewed for an additional period not to exceed the duration of the original funding award, subject to a rigorous merit review. In awarding additional funds, the agency head shall consider the extent to which the center has made progress in achieving the purposes described in subsection (a) and carrying out the activities specified in subsection (c)(2).
-      >   - **(ii)** *Existing centers* Notwithstanding clause (i), a center already in existence or undergoing a renewal process on the date of enactment of the ____ Act—
+      >   - **(ii)** *Existing centers* Notwithstanding clause (i), a center already in existence or undergoing a renewal process on the date of enactment of the American Manufacturing Leadership Act—
       >     - **(I)** may continue to receive support for the duration of the original funding award beginning on the date of establishment of that center; and
       >     - **(II)** shall be eligible for renewal of that funding pursuant to clause (i).
 
     - **(ii)** in subparagraphs (B) and (C), by striking “Secretary” each place it appears and inserting “agency head”;
-- **(4)** by striking subsection (e);
-- **(5)** by redesignating subsections (f), (g), (h), and (i) as subsections (e), (f), (g), and (h), respectively;
-- **(6)** in subsection (e) (as so redesignated)—
+- **(4)** by amending subsection (e) to read as follows:
+  > - **(e)** *Grant program for public service activities for centers for manufacturing innovation without Federal funding* The Secretary may award grants on a competitive basis to centers of manufacturing innovation that are no longer recognized as such under subsection (c)(3)(C) to carry out workforce development, outreach to small- and medium-sized manufacturers, and other activities that—
+  >   - **(1)** are determined by the Secretary to be in the national interest; and
+  >   - **(2)** are unlikely to receive private sector financial support.
+
+- **(5)** in subsection (f)—
   - **(A)** in paragraph (2)—
     - **(i)** in subparagraph (E), by striking “and” at the end;
     - **(ii)** in subparagraph (F), by striking the period at the end and inserting a semicolon; and
     - **(iii)** by adding at the end the following:
-      > - **(H)** to work with non-sponsoring Federal agencies to explore and develop options for sponsoring centers for manufacturing innovation at such agencies;
-      > - **(I)** to work with sponsoring Federal agencies to develop and implement network-wide performance goals with measurable targets and timelines;
-      > - **(J)** to help develop pilot programs that may be implemented by the centers for manufacturing innovation such to address specific purposes of the Program, including to accelerate technology transfer to the private sector; and
-      > - **(K)** to identify and disseminate best workforce education and training practices across centers for manufacturing innovation and further enhance collaboration among centers for manufacturing innovation in developing and implementing such programs.
+      > - **(G)** to work with non-sponsoring Federal agencies to explore and develop options for sponsoring centers for manufacturing innovation at such agencies;
+      > - **(H)** to work with sponsoring Federal agencies to develop and implement network-wide performance goals with measurable targets and timelines;
+      > - **(I)** to help develop pilot programs that may be implemented by the centers for manufacturing innovation to address specific purposes of the Program, including to accelerate technology transfer to the private sector; and
+      > - **(J)** to identify and disseminate best practices for workforce education and training across centers for manufacturing innovation and further enhance collaboration among centers for manufacturing innovation in developing and implementing such practices.
 
   - **(B)** by amending paragraph (5) to read as follows:
     > - **(5)** *Hollings Manufacturing Extension Partnership* The Secretary shall ensure that the National Program Office incorporates the Hollings Manufacturing Extension Partnership into Program planning to ensure—
     >   - **(A)** significant outreach to, participation of, and engagement of small- and medium-sized manufacturers in centers for manufacturing innovation across the entirety of the manufacturing supply chain; and
     >   - **(B)** that the results of the Program, including technologies developed by the Program, reach small- and medium-sized manufacturers and that such entities have access to technical assistance, as appropriate, in deploying those technologies.
 
-- **(7)** in subsection (f) (as so redesignated)—
+- **(6)** in subsection (g)—
   - **(A)** in paragraph (1)(A)—
     - **(i)** by striking “The Secretary” and all that follows through “report to the Secretary” and inserting the following: “Each agency head shall require each recipient of financial assistance from that agency under subsection (d)(1) and any other manufacturing centers considered to be centers for manufacturing innovation pursuant to subsection (c)(3) to annually submit to the appropriate agency head a report”; and
     - **(ii)** by adding at the end the following: “Each agency head shall submit such reports to the Secretary.”; and
@@ -102,8 +107,8 @@ Section 34 of the National Institute of Standards and Technology Act (15 U.S.C. 
     >     - **(iii)** such recommendations for legislative and administrative action as the Comptroller General considers appropriate to improve the Program; and
     >     - **(iv)** an assessment as to whether any prior recommendations for improvement made by the Comptroller General have been implemented or adopted.
 
-- **(8)** in subsection (g) (as so redesignated)—
-  - **(A)** in paragraph (2), by striking “subsection (e)” and inserting “subsection (j)”; and
+- **(7)** in subsection (h)—
+  - **(A)** in paragraph (2), by striking “subsection (e)” and inserting “subsection (k)”; and
   - **(B)** by adding at the end the following:
     > - **(6)** *Collaborations with other Federal agencies* The Secretary shall collaborate with Federal agencies whose missions contribute to, or are affected by, advanced manufacturing to identify and leverage existing resources at such Federal agencies to assist centers of manufacturing innovation in carrying out the purposes of the program specified in subsection (a)(2). Such existing resources may include programs—
     >   - **(A)** at the Department of Labor relating to labor and apprenticeships;
@@ -111,19 +116,20 @@ Section 34 of the National Institute of Standards and Technology Act (15 U.S.C. 
     >   - **(C)** at the Department of Education relating to workforce development, education, training, and retraining;
     >   - **(D)** at the Department of Defense relating to procurement and other authorities of the Department of Defense;
     >   - **(E)** at the Food and Drug Administration relating to biopharmaceutical manufacturing;
-    >   - **(F)** at the National Science Foundation, including the Advanced Technological Education program; and
-    >   - **(G)** additional programs that the Secretary determines are appropriate to support the activities of existing centers for manufacturing innovation.
+    >   - **(F)** at the National Science Foundation, including the Advanced Technological Education program;
+    >   - **(G)** at the National Aeronautics and Space Administration relating to procurement, workforce development, education, training, and retraining; and
+    >   - **(H)** additional programs that the Secretary determines are appropriate to support the activities of existing centers for manufacturing innovation.
 
-- **(9)** by adding at the end the following:
-  > - **(i)** *Definitions* In this section:
+- **(8)** by adding at the end the following:
+  > - **(j)** *Definitions* In this section:
   >   - **(1)** *Agency head* The term “agency head” means the head of a Federal agency that is providing financial assistance for a center of manufacturing innovation, including the Secretary of Commerce and the Secretary of Energy.
   >   - **(2)** *Regional innovation cluster* The term “regional innovation cluster” has the meaning given such term in section 27(f)(1) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3722(f)(1)).
-  > - **(j)** *Authorization of appropriations*
+  > - **(k)** *Authorization of appropriations*
   >   - **(1)** *NIST* There are authorized to be appropriated to the Secretary to carry out this section $25,000,000 for each of fiscal years 2020 through 2024.
-  >   - **(2)** *Reservation* Of the amount made available under paragraph (1) the Secretary shall reserve not less than $5,000,000 for the National Office of the Network for Manufacturing Innovation Program established under subsection (e).
+  >   - **(2)** *Reservation* Of the amount made available under paragraph (1) the Secretary shall reserve not less than $5,000,000 for the National Office of the Network for Manufacturing Innovation Program established under subsection (f).
   >   - **(3)** *Department of Energy* For centers of manufacturing innovation operated by the Department of Energy, there are authorized to be appropriated to the Secretary of Energy—
-  >     - **(A)** $70,000,000 for each of fiscal years 2020 and 2021; and
-  >     - **(B)** $84,000,000 for each of fiscal years 2022 and 2023.
+  >     - **(A)** $70,000,000 for each of fiscal years 2020, 2021, and 2022; and
+  >     - **(B)** $84,000,000 for each of fiscal years 2023 and 2024.
 
 ## § 3. Increased emphasis on regional innovation within and extension of regional innovation program
 
@@ -132,4 +138,4 @@ Section 27 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 
 - **(1)** in subsection (b)(2) by adding at the end the following new subparagraph:
   > - **(I)** Developing relationships at the local level to build supply chains and use existing capabilities of entities operating on that level to bring economic growth to suburban and rural areas.
 
-- **(2)** in subsection (d)(2) by striking “2019” and inserting “2024”.
+- **(2)** in subsection (g)(2) by striking “2019” and inserting “2024”.

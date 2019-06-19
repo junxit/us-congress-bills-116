@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2397
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-37 amendatory instructions. 10 executed, 27 stated and not applied.
+36 amendatory instructions. 9 executed, 27 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,15 +44,6 @@ to guess them.
 
 ### 15 U.S.C. § 278s
 
-> in the matter preceding clause (i) (as so redesignated), by striking “Activities of a center for manufacturing innovation may include” and inserting “(A) Required activities.—Activities of a center for manufacturing innovation shall include”;
-
-| | |
-|---|---|
-| Removed | `Activities of a center for manufacturing innovation may include` |
-| Inserted | `(A) Required activities.—Activities of a center for manufacturing innovation shall include` |
-
-### 15 U.S.C. § 278s
-
 > by striking “Secretary” and inserting “agency head”; and
 
 | | |
@@ -71,7 +62,7 @@ to guess them.
 
 ### 15 U.S.C. § 278s
 
-> in subparagraphs (B)(i), by striking “Secretary” each place it appears and inserting “agency head”;
+> in subparagraph (B)(i), by striking “Secretary” and inserting “agency head”;
 
 | | |
 |---|---|
@@ -80,7 +71,7 @@ to guess them.
 
 ### 15 U.S.C. § 278s
 
-> in subparagraph (E), by striking “Secretary” each place it appears and inserting “agency head”; and
+> in subparagraph (E), by striking “Secretary” and inserting “agency head”; and
 
 | | |
 |---|---|
@@ -98,16 +89,16 @@ to guess them.
 
 ### 15 U.S.C. § 278s
 
-> in paragraph (2), by striking “subsection (e)” and inserting “subsection (j)”; and
+> in paragraph (2), by striking “subsection (e)” and inserting “subsection (k)”; and
 
 | | |
 |---|---|
 | Removed | `subsection (e)` |
-| Inserted | `subsection (j)` |
+| Inserted | `subsection (k)` |
 
 ### 15 U.S.C. § 3722
 
-> in subsection (d)(2) by striking “2019” and inserting “2024”.
+> in subsection (g)(2) by striking “2019” and inserting “2024”.
 
 | | |
 |---|---|
@@ -128,6 +119,7 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 278s` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278s` | strike | by striking subparagraph (E); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278s` | redesignate | by redesignating subparagraphs (A), (B), (C), and (D) as clauses (i), (ii), (iii), and (iv), respectively, and moving the margins of such clauses (as so redesignated) two ems to the right; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 278s` | redesignate | in the matter preceding clause (i) (as so redesignated), by striking “Activities of a center for manufacturing innovation may include” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 278s` | redesignate | in clause (ii), as so redesignated, by inserting before the period at the end the following: “addressing workforce needs through training and education programs at all appropriate education levels”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278s` | redesignate | in clause (iii), as so redesignated, by inserting before the period at the end the following: “, as appropriate”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278s` | redesignate | by inserting after clause (iv) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -138,8 +130,7 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 278s` | amend | by amending subparagraph (C) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278s` | replace | in subparagraph (D), by striking “the Secretary shall” and all that follows through “collaborate” and inserting the following: “agency head, in coordination with the National Program Office, as appropriate, shall collaborate”; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 278s` | amend | by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 278s` | strike | by striking subsection (e); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 278s` | redesignate | by redesignating subsections (f), (g), (h), and (i) as subsections (e), (f), (g), and (h), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 278s` | amend | by amending subsection (e) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278s` | strike | in subparagraph (E), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 278s` | replace | in subparagraph (F), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278s` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
