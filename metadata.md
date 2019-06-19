@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2500
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2500
@@ -29,3 +29,26 @@ National Defense Authorization Act for Fiscal Year 2020
 - 2019-05-02 — Introduced in House
 - 2019-05-02 — Introduced in House
 - 2019-05-02 — Referred to the House Committee on Armed Services.
+- 2019-05-03 — Referred to the Subcommittee on Intelligence and Emerging Threats and Capabilities.
+- 2019-05-03 — Referred to the Subcommittee on Military Personnel.
+- 2019-05-03 — Referred to the Subcommittee on Readiness.
+- 2019-05-03 — Referred to the Subcommittee on Seapower and Projection Forces.
+- 2019-05-03 — Referred to the Subcommittee on Strategic Forces.
+- 2019-05-03 — Referred to the Subcommittee on Tactical Air and Land Forces.
+- 2019-06-04 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2019-06-04 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2019-06-04 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2019-06-04 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2019-06-04 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2019-06-04 — Forwarded by Subcommittee to Full Committee by the Yeas and Nays: 10 - 8 .
+- 2019-06-04 — Subcommittee Consideration and Mark-up Session Held.
+- 2019-06-04 — Subcommittee Consideration and Mark-up Session Held.
+- 2019-06-04 — Subcommittee Consideration and Mark-up Session Held.
+- 2019-06-04 — Subcommittee Consideration and Mark-up Session Held.
+- 2019-06-04 — Subcommittee Consideration and Mark-up Session Held.
+- 2019-06-04 — Subcommittee Consideration and Mark-up Session Held.
+- 2019-06-12 — Committee Consideration and Mark-up Session Held.
+- 2019-06-12 — Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 24.
+- 2019-06-19 — Placed on the Union Calendar, Calendar No. 88.
+- 2019-06-19 — Reported (Amended) by the Committee on Armed Services. H. Rept. 116-120.
+- 2019-06-19 — Reported (Amended) by the Committee on Armed Services. H. Rept. 116-120.
