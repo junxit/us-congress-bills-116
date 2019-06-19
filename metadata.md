@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1198
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1198
@@ -42,3 +42,7 @@ To designate the facility of the United States Postal Service located at 404 Sou
 - 2019-04-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3320)
 - 2019-04-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3320)
 - 2019-05-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2019-06-19 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2019-06-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2019-06-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2019-06-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 123.
