@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2740
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2740
@@ -20,9 +20,1265 @@ Labor, Health and Human Services, Education, Defense, State, Foreign Operations,
 
 - House — Appropriations Committee
 
+## Recorded votes (112)
+
+- 2019-06-12 — [House 116-1-251](votes/house-116-1-0251.md) — On Agreeing to the Amendment — **Agreed to** (338–83)
+- 2019-06-12 — [House 116-1-252](votes/house-116-1-0252.md) — On Agreeing to the Amendment — **Agreed to** (243–179)
+- 2019-06-12 — [House 116-1-253](votes/house-116-1-0253.md) — On Agreeing to the Amendment — **Agreed to** (290–134)
+- 2019-06-12 — [House 116-1-254](votes/house-116-1-0254.md) — On Agreeing to the Amendment — **Agreed to** (381–42)
+- 2019-06-12 — [House 116-1-255](votes/house-116-1-0255.md) — On Agreeing to the Amendment — **Agreed to** (347–76)
+- 2019-06-12 — [House 116-1-256](votes/house-116-1-0256.md) — On Agreeing to the Amendment — **Agreed to** (369–55)
+- 2019-06-12 — [House 116-1-257](votes/house-116-1-0257.md) — On Agreeing to the Amendment — **Agreed to** (413–11)
+- 2019-06-12 — [House 116-1-258](votes/house-116-1-0258.md) — On Agreeing to the Amendment — **Agreed to** (241–181)
+- 2019-06-12 — [House 116-1-259](votes/house-116-1-0259.md) — On Agreeing to the Amendment — **Agreed to** (313–109)
+- 2019-06-12 — [House 116-1-260](votes/house-116-1-0260.md) — On Agreeing to the Amendment — **Agreed to** (317–105)
+- 2019-06-12 — [House 116-1-261](votes/house-116-1-0261.md) — On Agreeing to the Amendment — **Agreed to** (312–109)
+- 2019-06-12 — [House 116-1-262](votes/house-116-1-0262.md) — On Agreeing to the Amendment — **Agreed to** (413–10)
+- 2019-06-12 — [House 116-1-263](votes/house-116-1-0263.md) — On Agreeing to the Amendment — **Agreed to** (410–12)
+- 2019-06-12 — [House 116-1-266](votes/house-116-1-0266.md) — On Agreeing to the Amendment — **Failed** (192–230)
+- 2019-06-12 — [House 116-1-267](votes/house-116-1-0267.md) — On Agreeing to the Amendment — **Failed** (191–231)
+- 2019-06-12 — [House 116-1-268](votes/house-116-1-0268.md) — On Agreeing to the Amendment — **Agreed to** (401–23)
+- 2019-06-12 — [House 116-1-269](votes/house-116-1-0269.md) — On Agreeing to the Amendment — **Agreed to** (356–67)
+- 2019-06-12 — [House 116-1-270](votes/house-116-1-0270.md) — On Agreeing to the Amendment — **Agreed to** (246–178)
+- 2019-06-12 — [House 116-1-271](votes/house-116-1-0271.md) — On Agreeing to the Amendment — **Agreed to** (336–87)
+- 2019-06-12 — [House 116-1-272](votes/house-116-1-0272.md) — On Agreeing to the Amendment — **Agreed to** (260–164)
+- 2019-06-12 — [House 116-1-273](votes/house-116-1-0273.md) — On Agreeing to the Amendment — **Agreed to** (358–66)
+- 2019-06-12 — [House 116-1-274](votes/house-116-1-0274.md) — On Agreeing to the Amendment — **Agreed to** (341–83)
+- 2019-06-12 — [House 116-1-275](votes/house-116-1-0275.md) — On Agreeing to the Amendment — **Agreed to** (415–9)
+- 2019-06-12 — [House 116-1-276](votes/house-116-1-0276.md) — On Agreeing to the Amendment — **Agreed to** (356–68)
+- 2019-06-12 — [House 116-1-277](votes/house-116-1-0277.md) — On Agreeing to the Amendment — **Agreed to** (408–15)
+- 2019-06-12 — [House 116-1-278](votes/house-116-1-0278.md) — On Agreeing to the Amendment — **Agreed to** (405–19)
+- 2019-06-13 — [House 116-1-279](votes/house-116-1-0279.md) — On Agreeing to the Amendment — **Agreed to** (348–75)
+- 2019-06-13 — [House 116-1-280](votes/house-116-1-0280.md) — On Agreeing to the Amendment — **Agreed to** (376–48)
+- 2019-06-13 — [House 116-1-281](votes/house-116-1-0281.md) — On Agreeing to the Amendment — **Agreed to** (420–4)
+- 2019-06-13 — [House 116-1-282](votes/house-116-1-0282.md) — On Agreeing to the Amendment — **Agreed to** (386–38)
+- 2019-06-13 — [House 116-1-283](votes/house-116-1-0283.md) — On Agreeing to the Amendment — **Agreed to** (236–188)
+- 2019-06-13 — [House 116-1-284](votes/house-116-1-0284.md) — On Agreeing to the Amendment — **Failed** (186–237)
+- 2019-06-13 — [House 116-1-285](votes/house-116-1-0285.md) — On Agreeing to the Amendment — **Failed** (158–266)
+- 2019-06-13 — [House 116-1-286](votes/house-116-1-0286.md) — On Agreeing to the Amendment — **Agreed to** (401–23)
+- 2019-06-13 — [House 116-1-287](votes/house-116-1-0287.md) — On Agreeing to the Amendment — **Agreed to** (356–68)
+- 2019-06-13 — [House 116-1-288](votes/house-116-1-0288.md) — On Agreeing to the Amendment — **Agreed to** (365–59)
+- 2019-06-13 — [House 116-1-289](votes/house-116-1-0289.md) — On Agreeing to the Amendment — **Failed** (150–273)
+- 2019-06-13 — [House 116-1-290](votes/house-116-1-0290.md) — On Agreeing to the Amendment — **Agreed to** (283–141)
+- 2019-06-13 — [House 116-1-291](votes/house-116-1-0291.md) — On Agreeing to the Amendment — **Agreed to** (421–3)
+- 2019-06-13 — [House 116-1-292](votes/house-116-1-0292.md) — On Agreeing to the Amendment — **Agreed to** (327–97)
+- 2019-06-13 — [House 116-1-293](votes/house-116-1-0293.md) — On Agreeing to the Amendment — **Agreed to** (396–27)
+- 2019-06-13 — [House 116-1-294](votes/house-116-1-0294.md) — On Agreeing to the Amendment — **Agreed to** (355–68)
+- 2019-06-13 — [House 116-1-295](votes/house-116-1-0295.md) — On Agreeing to the Amendment — **Agreed to** (275–148)
+- 2019-06-13 — [House 116-1-296](votes/house-116-1-0296.md) — On Agreeing to the Amendment — **Agreed to** (266–150)
+- 2019-06-13 — [House 116-1-297](votes/house-116-1-0297.md) — On Agreeing to the Amendment — **Agreed to** (358–65)
+- 2019-06-13 — [House 116-1-298](votes/house-116-1-0298.md) — On Agreeing to the Amendment — **Agreed to** (307–115)
+- 2019-06-13 — [House 116-1-299](votes/house-116-1-0299.md) — On Agreeing to the Amendment — **Agreed to** (359–64)
+- 2019-06-13 — [House 116-1-300](votes/house-116-1-0300.md) — On Agreeing to the Amendment — **Agreed to** (285–138)
+- 2019-06-13 — [House 116-1-301](votes/house-116-1-0301.md) — On Agreeing to the Amendment — **Agreed to** (376–47)
+- 2019-06-13 — [House 116-1-302](votes/house-116-1-0302.md) — On Agreeing to the Amendment — **Agreed to** (366–55)
+- 2019-06-13 — [House 116-1-303](votes/house-116-1-0303.md) — On Agreeing to the Amendment — **Agreed to** (264–158)
+- 2019-06-13 — [House 116-1-304](votes/house-116-1-0304.md) — On Agreeing to the Amendment — **Failed** (91–331)
+- 2019-06-13 — [House 116-1-305](votes/house-116-1-0305.md) — On Agreeing to the Amendment — **Agreed to** (388–30)
+- 2019-06-13 — [House 116-1-306](votes/house-116-1-0306.md) — On Agreeing to the Amendment — **Agreed to** (371–49)
+- 2019-06-13 — [House 116-1-307](votes/house-116-1-0307.md) — On Agreeing to the Amendment — **Agreed to** (365–54)
+- 2019-06-13 — [House 116-1-308](votes/house-116-1-0308.md) — On Agreeing to the Amendment — **Agreed to** (383–36)
+- 2019-06-13 — [House 116-1-309](votes/house-116-1-0309.md) — On Agreeing to the Amendment — **Agreed to** (376–41)
+- 2019-06-13 — [House 116-1-310](votes/house-116-1-0310.md) — On Agreeing to the Amendment — **Agreed to** (390–29)
+- 2019-06-13 — [House 116-1-311](votes/house-116-1-0311.md) — On Agreeing to the Amendment — **Agreed to** (316–103)
+- 2019-06-13 — [House 116-1-312](votes/house-116-1-0312.md) — On Agreeing to the Amendment — **Agreed to** (311–110)
+- 2019-06-13 — [House 116-1-313](votes/house-116-1-0313.md) — On Agreeing to the Amendment — **Agreed to** (235–183)
+- 2019-06-13 — [House 116-1-314](votes/house-116-1-0314.md) — On Agreeing to the Amendment — **Agreed to** (281–138)
+- 2019-06-13 — [House 116-1-315](votes/house-116-1-0315.md) — On Agreeing to the Amendment — **Agreed to** (233–187)
+- 2019-06-13 — [House 116-1-316](votes/house-116-1-0316.md) — On Agreeing to the Amendment — **Agreed to** (342–77)
+- 2019-06-13 — [House 116-1-317](votes/house-116-1-0317.md) — On Agreeing to the Amendment — **Agreed to** (364–54)
+- 2019-06-13 — [House 116-1-318](votes/house-116-1-0318.md) — On Agreeing to the Amendment — **Agreed to** (374–44)
+- 2019-06-13 — [House 116-1-319](votes/house-116-1-0319.md) — On Agreeing to the Amendment — **Agreed to** (345–73)
+- 2019-06-13 — [House 116-1-320](votes/house-116-1-0320.md) — On Agreeing to the Amendment — **Agreed to** (333–86)
+- 2019-06-13 — [House 116-1-321](votes/house-116-1-0321.md) — On Agreeing to the Amendment — **Agreed to** (225–193)
+- 2019-06-13 — [House 116-1-322](votes/house-116-1-0322.md) — On Agreeing to the Amendment — **Agreed to** (382–32)
+- 2019-06-18 — [House 116-1-323](votes/house-116-1-0323.md) — On Motion that the Committee Rise — **Passed** (317–82)
+- 2019-06-18 — [House 116-1-324](votes/house-116-1-0324.md) — On Agreeing to the Amendment — **Failed** (188–225)
+- 2019-06-18 — [House 116-1-325](votes/house-116-1-0325.md) — On Agreeing to the Amendment — **Agreed to** (414–6)
+- 2019-06-18 — [House 116-1-326](votes/house-116-1-0326.md) — On Agreeing to the Amendment — **Agreed to** (339–79)
+- 2019-06-18 — [House 116-1-327](votes/house-116-1-0327.md) — On Agreeing to the Amendment — **Failed** (174–244)
+- 2019-06-18 — [House 116-1-328](votes/house-116-1-0328.md) — On Agreeing to the Amendment — **Agreed to** (310–109)
+- 2019-06-18 — [House 116-1-329](votes/house-116-1-0329.md) — On Agreeing to the Amendment — **Failed** (170–248)
+- 2019-06-18 — [House 116-1-330](votes/house-116-1-0330.md) — On Agreeing to the Amendment — **Agreed to** (268–152)
+- 2019-06-18 — [House 116-1-331](votes/house-116-1-0331.md) — On Agreeing to the Amendment — **Agreed to** (387–33)
+- 2019-06-18 — [House 116-1-332](votes/house-116-1-0332.md) — On Agreeing to the Amendment — **Agreed to** (231–187)
+- 2019-06-18 — [House 116-1-334](votes/house-116-1-0334.md) — On Agreeing to the Amendment — **Failed** (131–292)
+- 2019-06-18 — [House 116-1-335](votes/house-116-1-0335.md) — On Agreeing to the Amendment — **Failed** (110–315)
+- 2019-06-18 — [House 116-1-336](votes/house-116-1-0336.md) — On Agreeing to the Amendment — **Failed** (184–241)
+- 2019-06-18 — [House 116-1-337](votes/house-116-1-0337.md) — On Agreeing to the Amendment — **Failed** (174–251)
+- 2019-06-18 — [House 116-1-338](votes/house-116-1-0338.md) — On Agreeing to the Amendment — **Failed** (123–303)
+- 2019-06-18 — [House 116-1-339](votes/house-116-1-0339.md) — On Agreeing to the Amendment — **Agreed to** (283–144)
+- 2019-06-18 — [House 116-1-340](votes/house-116-1-0340.md) — On Agreeing to the Amendment — **Failed** (134–293)
+- 2019-06-18 — [House 116-1-341](votes/house-116-1-0341.md) — On Agreeing to the Amendment — **Agreed to** (381–46)
+- 2019-06-18 — [House 116-1-342](votes/house-116-1-0342.md) — On Agreeing to the Amendment — **Agreed to** (355–73)
+- 2019-06-18 — [House 116-1-343](votes/house-116-1-0343.md) — On Agreeing to the Amendment — **Agreed to** (277–151)
+- 2019-06-18 — [House 116-1-344](votes/house-116-1-0344.md) — On Agreeing to the Amendment — **Agreed to** (243–183)
+- 2019-06-18 — [House 116-1-345](votes/house-116-1-0345.md) — On Agreeing to the Amendment — **Failed** (175–253)
+- 2019-06-18 — [House 116-1-346](votes/house-116-1-0346.md) — On Agreeing to the Amendment — **Agreed to** (327–101)
+- 2019-06-18 — [House 116-1-347](votes/house-116-1-0347.md) — On Agreeing to the Amendment — **Agreed to** (389–39)
+- 2019-06-18 — [House 116-1-348](votes/house-116-1-0348.md) — On Agreeing to the Amendment — **Agreed to** (254–174)
+- 2019-06-18 — [House 116-1-349](votes/house-116-1-0349.md) — On Agreeing to the Amendment — **Agreed to** (237–191)
+- 2019-06-18 — [House 116-1-350](votes/house-116-1-0350.md) — On Agreeing to the Amendment — **Failed** (203–225)
+- 2019-06-18 — [House 116-1-351](votes/house-116-1-0351.md) — On Agreeing to the Amendment — **Failed** (192–236)
+- 2019-06-18 — [House 116-1-352](votes/house-116-1-0352.md) — On Agreeing to the Amendment — **Agreed to** (424–3)
+- 2019-06-18 — [House 116-1-353](votes/house-116-1-0353.md) — On Agreeing to the Amendment — **Failed** (138–289)
+- 2019-06-18 — [House 116-1-354](votes/house-116-1-0354.md) — On Agreeing to the Amendment — **Agreed to** (277–151)
+- 2019-06-18 — [House 116-1-355](votes/house-116-1-0355.md) — On Agreeing to the Amendment — **Agreed to** (404–22)
+- 2019-06-19 — [House 116-1-358](votes/house-116-1-0358.md) — On Agreeing to the Amendment — **Failed** (146–288)
+- 2019-06-19 — [House 116-1-359](votes/house-116-1-0359.md) — On Agreeing to the Amendment — **Failed** (197–237)
+- 2019-06-19 — [House 116-1-360](votes/house-116-1-0360.md) — On Agreeing to the Amendment — **Agreed to** (233–200)
+- 2019-06-19 — [House 116-1-361](votes/house-116-1-0361.md) — On Agreeing to the Amendment — **Agreed to** (382–52)
+- 2019-06-19 — [House 116-1-362](votes/house-116-1-0362.md) — On Agreeing to the Amendment — **Failed** (186–248)
+- 2019-06-19 — [House 116-1-363](votes/house-116-1-0363.md) — On Agreeing to the Amendment — **Agreed to** (233–201)
+- 2019-06-19 — [House 116-1-364](votes/house-116-1-0364.md) — On Agreeing to the Amendment — **Failed** (162–269)
+- 2019-06-19 — [House 116-1-365](votes/house-116-1-0365.md) — On Agreeing to the Amendment — **Failed** (132–302)
+- 2019-06-19 — [House 116-1-366](votes/house-116-1-0366.md) — On Motion to Recommit — **Failed** (196–231)
+- 2019-06-19 — [House 116-1-367](votes/house-116-1-0367.md) — On Passage — **Passed** (226–203)
+
 ## Actions
 
 - 2019-05-15 — Introduced in House
 - 2019-05-15 — Placed on the Union Calendar, Calendar No. 39.
 - 2019-05-15 — The House Committee on Appropriations reported an original measure, H. Rept. 116-62, by Ms. DeLauro.
 - 2019-05-15 — The House Committee on Appropriations reported an original measure, H. Rept. 116-62, by Ms. DeLauro.
+- 2019-06-11 — Rules Committee Resolution H. Res. 436 Reported to House. Rule provides for consideration of H.R. 2740. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Providing for further consideration of H.R. 2740.
+- 2019-06-12 — Amendment (A001) offered by Mr. Cole. (consideration: CR H4530-4531, H4585; text: CR H4530)
+- 2019-06-12 — Amendment (A002) offered by Mr. McGovern. (consideration: CR H4531-4532, H4550; text: CR H4531)
+- 2019-06-12 — Amendment (A003) offered by Mr. Raskin. (consideration: CR H4532; text: CR H4532)
+- 2019-06-12 — Amendment (A004) offered by Ms. Shalala. (consideration: CR H4532-4533, H4550-4551; text: CR H4532)
+- 2019-06-12 — Amendment (A005) offered by Mr. DeSaulnier. (consideration: CR H4533-4534, H4551-4552; text: CR H4533)
+- 2019-06-12 — Amendment (A006) offered by Mr. DeSaulnier. (consideration: CR H4534-4535, H4552; text: CR H4534)
+- 2019-06-12 — Amendment (A007) offered by Mr. DeSaulnier. (consideration: CR H4535, H4552-4553; text: CR H4535)
+- 2019-06-12 — Amendment (A008) offered by Mr. DeSaulnier. (consideration: CR H4535-4536, H4553-4554; text: CR H4536)
+- 2019-06-12 — Amendment (A009) offered by Mrs. Roby. (consideration: CR H4536-4537, H4585-4586; text: CR H4536)
+- 2019-06-12 — Amendment (A010) offered by Ms. Waters. (consideration: CR H4537-4538; text: CR H4537)
+- 2019-06-12 — Amendment (A011) offered by Mr. Smith (NJ). (consideration: CR H4538-4540, H4554; text: CR H4538)
+- 2019-06-12 — Amendment (A012) offered by Mr. Scott (VA). (consideration: CR H4540-4541, H4554-4555; text: CR H4540)
+- 2019-06-12 — Amendment (A013) offered by Mr. DeFazio. (consideration: CR H4541-4543, H4555-4556; text: CR H4541)
+- 2019-06-12 — Amendment (A014) offered by Ms. Jackson Lee. (consideration: CR H4543-4545, H4556; text: CR H4543)
+- 2019-06-12 — Amendment (A015) offered by Ms. Jackson Lee. (consideration: CR H4545-4547, H4556-4557; text: CR H4545)
+- 2019-06-12 — Amendment (A016) offered by Mr. Pascrell. (consideration: CR H4547-4548, H4557- 4558; text: CR H4547)
+- 2019-06-12 — Amendment (A017) offered by Mr. Davis, Danny K.. (consideration: CR H4548-4550, H4558; text: CR H4548)
+- 2019-06-12 — Amendment (A018) offered by Mr. Buchanan. (consideration: CR H4559, H4586-4587; text: CR H4559)
+- 2019-06-12 — Amendment (A019) offered by Mr. Langevin. (consideration: CR H4559-4560, H4587; text: CR H4559)
+- 2019-06-12 — Amendment (A020) offered by Mr. Foster. (consideration: CR H4560-4561, H4587-4588; text: CR H4560)
+- 2019-06-12 — Amendment (A021) offered by Mr. Foster. (consideration: CR H4561-4562, H4588-4589; text: CR H4561)
+- 2019-06-12 — Amendment (A022) offered by Mr. Foster. (consideration: CR H4562, H4589; text: CR H4562)
+- 2019-06-12 — Amendment (A023) offered by Mr. Foster. (consideration: CR H4562-4563, H4589-4590; text: CR H4562)
+- 2019-06-12 — Amendment (A024) offered by Mr. Schiff. (consideration: CR H4563-4564, H4590-4591; text: CR H4563)
+- 2019-06-12 — Amendment (A025) offered by Mr. McKinley. (consideration: CR H4564, H4591; text: CR H4564)
+- 2019-06-12 — Amendment (A026) offered by Mr. Butterfield. (consideration: CR H4564-4565, H4591-4592; text: CR H4564)
+- 2019-06-12 — Amendment (A027) offered by Mr. Johnson (OH). (consideration: CR H4565, H4592-4593; text: CR H4565)
+- 2019-06-12 — Amendment (A028) offered by Ms. Moore. (consideration: CR H4565-4566, H4593; text: CR H4565)
+- 2019-06-12 — Amendment (A029) offered by Ms. Moore. (consideration: CR H4566, H4593-4594; text: CR H4566)
+- 2019-06-12 — Amendment (A030) offered by Ms. Moore. (consideration: CR H4566-4567; text: CR H4566)
+- 2019-06-12 — Amendment (A031) offered by Ms. Matsui. (consideration: CR H4567, H4594-4595; text: CR H4567)
+- 2019-06-12 — Amendment (A032) offered by Mr. Barr. (consideration: CR H4567-4568, H4595; text: CR H4567)
+- 2019-06-12 — Amendment (A033) offered by Mr. Cleaver. (consideration: CR H4568-4569, H4595-4596; text: CR H4568)
+- 2019-06-12 — Amendment (A034) offered by Ms. Castor (FL). (consideration: CR H4569-4570, H4596-4597; text: CR H4569)
+- 2019-06-12 — Amendment (A035) offered by Mr. Hill (AR). (consideration: CR H4570-4571, H4597; text: CR H4570)
+- 2019-06-12 — Amendment (A036) offered by Mr. Hill (AR). (consideration: CR H4571-4573, H4597-4598; text: CR H4571)
+- 2019-06-12 — Amendment (A037) offered by Ms. Pressley. (consideration: CR H4573-4574, H4598-4599; text: CR H4573)
+- 2019-06-12 — Amendment (A038) offered by Mr. Khanna. (consideration: CR H4574-4575, H4599; text: CR H4574)
+- 2019-06-12 — Amendment (A039) offered by Mr. Richmond. (consideration: CR H4575-4577, H4599-4600; text: CR H4575)
+- 2019-06-12 — Amendment (A040) offered by Mr. Banks. (consideration: CR H4577-4578, H4600-4601; text: CR H4577)
+- 2019-06-12 — Amendment (A041) offered by Mr. Keating. (consideration: CR H4578-4579, H4601; text: CR H4578)
+- 2019-06-12 — Amendment (A042) offered by Mrs. Miller. (consideration: CR H4579, H4601-4602; text: CR H4579)
+- 2019-06-12 — Amendment (A043) offered by Mr. Cicilline. (consideration: CR H4579-4580, H4602-4603; text: CR H4579)
+- 2019-06-12 — Amendment (A044) offered by Mr. Bera. (consideration: CR H4580, H4603; text: CR H4580)
+- 2019-06-12 — Amendment (A045) offered by Mr. Castro (TX). (consideration: CR H4580-4582, H4603-4604; text: CR H4580)
+- 2019-06-12 — Amendment agreed to Committee of the Whole
+- 2019-06-12 — Amendment agreed to Committee of the Whole
+- 2019-06-12 — Amendment agreed to Committee of the Whole
+- 2019-06-12 — Amendment agreed to Committee of the Whole
+- 2019-06-12 — Amendment agreed to Committee of the Whole
+- 2019-06-12 — Amendment agreed to Committee of the Whole
+- 2019-06-12 — Amendment agreed to Committee of the Whole
+- 2019-06-12 — Amendment agreed to Committee of the Whole
+- 2019-06-12 — Amendment agreed to Committee of the Whole
+- 2019-06-12 — Amendment agreed to Committee of the Whole
+- 2019-06-12 — Amendment agreed to Committee of the Whole
+- 2019-06-12 — Amendment agreed to Committee of the Whole
+- 2019-06-12 — Amendment agreed to Committee of the Whole
+- 2019-06-12 — Amendment agreed to Committee of the Whole
+- 2019-06-12 — Amendment agreed to Committee of the Whole
+- 2019-06-12 — Amendment agreed to Committee of the Whole
+- 2019-06-12 — Amendment agreed to Committee of the Whole
+- 2019-06-12 — Amendment agreed to Committee of the Whole
+- 2019-06-12 — Amendment agreed to Committee of the Whole
+- 2019-06-12 — Amendment agreed to Committee of the Whole
+- 2019-06-12 — Amendment agreed to Committee of the Whole
+- 2019-06-12 — Amendment agreed to Committee of the Whole
+- 2019-06-12 — Amendment agreed to Committee of the Whole
+- 2019-06-12 — Amendment agreed to Committee of the Whole
+- 2019-06-12 — Amendment failed in Committee of the Whole
+- 2019-06-12 — Amendment failed in Committee of the Whole
+- 2019-06-12 — By unanimous consent, the Moore amendment was withdrawn.
+- 2019-06-12 — By unanimous consent, the Raskin amendment was withdrawn.
+- 2019-06-12 — By unanimous consent, the Waters amendment was withdrawn.
+- 2019-06-12 — Committee of the Whole House on the state of the Union rises leaving H.R. 2740 as unfinished business.
+- 2019-06-12 — Considered as unfinished business. (consideration: CR H4584-4625)
+- 2019-06-12 — Considered under the provisions of rule H. Res. 431. (consideration: CR H4452-4582; text: CR H4461-4530)
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Banks amendment No. 42.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Barr amendment No. 33.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Bera amendment No. 46.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Buchanan amendment No. 18.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Butterfield amendment No. 26.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Castor (FL) amendment No. 36.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Castro (TX) amendment No. 47.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Cicilline amendment No. 45.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Cleaver amendment No. 34.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Danny K. Davis (IL) amendment No. 17.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the DeFazio amendment No. 13.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the DeSaulnier amendment No. 5.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the DeSaulnier amendment No. 6.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the DeSaulnier amendment No. 7.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the DeSaulnier amendment No. 8.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Foster amendment No. 20.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Foster amendment No. 21.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Foster amendment No. 22.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Foster amendment No. 23.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Hill (AR) amendment No. 37.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Hill (AR) amendment No. 38.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 14.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 15.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Johnson (OH) amendment No. 27.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Keating amendment No. 43.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Khanna amendment No. 40.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Langevin amendment No. 19.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Matsui amendment No. 32.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the McGovern amendment No. 2.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the McKinley amendment No. 25.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Miller amendment No. 44.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Moore amendment No. 28.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Moore amendment No. 29.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Moore amendment No. 30.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Pascrell amendment No. 16.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Pressley amendment No. 39.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Raskin amendment No. 3.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Richmond amendment No. 41.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Roby amendment No. 9.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Schiff amendment No. 24.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Scott (VA) amendment No. 12.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Shalala amendment No. 4.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Smith (NJ) amendment No. 11.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Waters amendment No. 10.
+- 2019-06-12 — DEBATE - Pursuant to the provisions of H.Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Cole amendment No. 1.
+- 2019-06-12 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2740.
+- 2019-06-12 — House amendment agreed to: On agreeing to the Buchanan amendment (A018) Agreed to by recorded vote: 401 - 23 (Roll no. 268).
+- 2019-06-12 — House amendment agreed to: On agreeing to the Butterfield amendment (A026) Agreed to by recorded vote: 356 - 68 (Roll no. 276).
+- 2019-06-12 — House amendment agreed to: On agreeing to the Davis, Danny K. amendment (A017) Agreed to by recorded vote: 410 - 12 (Roll no. 263).
+- 2019-06-12 — House amendment agreed to: On agreeing to the DeFazio amendment (A013) Agreed to by recorded vote: 313 - 109 (Roll no. 259).
+- 2019-06-12 — House amendment agreed to: On agreeing to the DeSaulnier amendment (A005) Agreed to by recorded vote: 290 - 134 (Roll no. 253).
+- 2019-06-12 — House amendment agreed to: On agreeing to the DeSaulnier amendment (A006) Agreed to by recorded vote: 381 - 42 (Roll no. 254).
+- 2019-06-12 — House amendment agreed to: On agreeing to the DeSaulnier amendment (A007) Agreed to by recorded vote: 347 - 76 (Roll no. 255).
+- 2019-06-12 — House amendment agreed to: On agreeing to the DeSaulnier amendment (A008) Agreed to by recorded vote: 369 - 55 (Roll no. 256).
+- 2019-06-12 — House amendment agreed to: On agreeing to the Foster amendment (A020) Agreed to by recorded vote: 246 - 178 (Roll no. 270).
+- 2019-06-12 — House amendment agreed to: On agreeing to the Foster amendment (A021) Agreed to by recorded vote: 336 - 87 (Roll no. 271).
+- 2019-06-12 — House amendment agreed to: On agreeing to the Foster amendment (A022) Agreed to by recorded vote: 260 - 164 (Roll no. 272).
+- 2019-06-12 — House amendment agreed to: On agreeing to the Foster amendment (A023) Agreed to by recorded vote: 358 - 66 (Roll no. 273).
+- 2019-06-12 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A014) Agreed to by recorded vote: 317 - 105 (Roll no. 260).
+- 2019-06-12 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A015) Agreed to by recorded vote: 312 - 109 (Roll no. 261).
+- 2019-06-12 — House amendment agreed to: On agreeing to the Johnson (OH) amendment (A027) Agreed to by recorded vote: 408 - 15 (Roll no. 277).
+- 2019-06-12 — House amendment agreed to: On agreeing to the Langevin amendment Agreed to by recorded vote: 356 - 67 (Roll no. 269).
+- 2019-06-12 — House amendment agreed to: On agreeing to the McGovern amendment (A002) Agreed to by recorded vote: 338 - 83 (Roll no. 251).
+- 2019-06-12 — House amendment agreed to: On agreeing to the McKinley amendment (A025) Agreed to by recorded vote: 415 - 9 (Roll no. 275).
+- 2019-06-12 — House amendment agreed to: On agreeing to the Moore amendment (A028) Agreed to by recorded vote: 405 - 19 (Roll no. 278).
+- 2019-06-12 — House amendment agreed to: On agreeing to the Pascrell amendment (A016) Agreed to by recorded vote: 413 - 10 (Roll no. 262).
+- 2019-06-12 — House amendment agreed to: On agreeing to the Schiff amendment (A024) Agreed to by recorded vote: 341 - 83 (Roll no. 274).
+- 2019-06-12 — House amendment agreed to: On agreeing to the Scott (VA) amendment (A012) Agreed to by recorded vote: 241 - 181 (Roll no. 258).
+- 2019-06-12 — House amendment agreed to: On agreeing to the Shalala amendment (A004) Agreed to by recorded vote: 243 - 179 (Roll no. 252).
+- 2019-06-12 — House amendment agreed to: On agreeing to the Smith (NJ) amendment (A011) Agreed to by recorded vote: 413 - 11 (Roll no. 257).
+- 2019-06-12 — House amendment not agreed to: On agreeing to the Cole amendment (A001) Failed by recorded vote: 192 - 230 (Roll no. 266).
+- 2019-06-12 — House amendment not agreed to: On agreeing to the Roby amendment (A009) Failed by recorded vote: 191 - 231 (Roll no. 267).
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered
+- 2019-06-12 — House amendment offered/reported by: Amendment (A001) offered by Mr. Cole.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A002) offered by Mr. McGovern.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A003) offered by Mr. Raskin.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A004) offered by Ms. Shalala.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A005) offered by Mr. DeSaulnier.(consideration: CR H4533-4534, H4551-4552; text: CR H4533)
+- 2019-06-12 — House amendment offered/reported by: Amendment (A006) offered by Mr. DeSaulnier.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A007) offered by Mr. DeSaulnier.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A008) offered by Mr. DeSaulnier.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A009) offered by Mrs. Roby.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A010) offered by Ms. Waters.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A011) offered by Mr. Smith (NJ).
+- 2019-06-12 — House amendment offered/reported by: Amendment (A012) offered by Mr. Scott (VA).
+- 2019-06-12 — House amendment offered/reported by: Amendment (A013) offered by Mr. DeFazio.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A014) offered by Ms. Jackson Lee.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A015) offered by Ms. Jackson Lee.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A016) offered by Mr. Pascrell.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A017) offered by Mr. Davis, Danny K..
+- 2019-06-12 — House amendment offered/reported by: Amendment (A018) offered by Mr. Buchanan.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A019) offered by Mr. Langevin.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A020) offered by Mr. Foster.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A021) offered by Mr. Foster.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A022) offered by Mr. Foster.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A023) offered by Mr. Foster.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A024) offered by Mr. Schiff.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A025) offered by Mr. McKinley.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A026) offered by Mr. Butterfield.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A027) offered by Mr. Johnson (OH).
+- 2019-06-12 — House amendment offered/reported by: Amendment (A028) offered by Ms. Moore.(consideration: CR H4565-4566, H4593; text: CR H4565)
+- 2019-06-12 — House amendment offered/reported by: Amendment (A029) offered by Ms. Moore.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A030) offered by Ms. Moore.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A031) offered by Ms. Matsui.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A032) offered by Mr. Barr.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A033) offered by Mr. Cleaver.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A034) offered by Ms. Castor (FL).
+- 2019-06-12 — House amendment offered/reported by: Amendment (A035) offered by Mr. Hill (AR).
+- 2019-06-12 — House amendment offered/reported by: Amendment (A036) offered by Mr. Hill (AR).
+- 2019-06-12 — House amendment offered/reported by: Amendment (A037) offered by Ms. Pressley.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A038) offered by Mr. Khanna.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A039) offered by Mr. Richmond.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A040) offered by Mr. Banks.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A041) offered by Mr. Keating.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A042) offered by Mrs. Miller.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A043) offered by Mr. Cicilline.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A044) offered by Mr. Bera.
+- 2019-06-12 — House amendment offered/reported by: Amendment (A045) offered by Mr. Castro (TX).
+- 2019-06-12 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 431 and Rule XVIII.
+- 2019-06-12 — Ms. DeLauro moved that the Committee rise.
+- 2019-06-12 — On agreeing to the Buchanan amendment (A018) Agreed to by recorded vote: 401 - 23 (Roll no. 268).
+- 2019-06-12 — On agreeing to the Butterfield amendment (A026) Agreed to by recorded vote: 356 - 68 (Roll no. 276).
+- 2019-06-12 — On agreeing to the Cole amendment (A001) Failed by recorded vote: 192 - 230 (Roll no. 266).
+- 2019-06-12 — On agreeing to the Davis, Danny K. amendment (A017) Agreed to by recorded vote: 410 - 12 (Roll no. 263).
+- 2019-06-12 — On agreeing to the DeFazio amendment (A013) Agreed to by recorded vote: 313 - 109 (Roll no. 259).
+- 2019-06-12 — On agreeing to the DeSaulnier amendment (A005) Agreed to by recorded vote: 290 - 134 (Roll no. 253).
+- 2019-06-12 — On agreeing to the DeSaulnier amendment (A006) Agreed to by recorded vote: 381 - 42 (Roll no. 254).
+- 2019-06-12 — On agreeing to the DeSaulnier amendment (A007) Agreed to by recorded vote: 347 - 76 (Roll no. 255).
+- 2019-06-12 — On agreeing to the DeSaulnier amendment (A008) Agreed to by recorded vote: 369 - 55 (Roll no. 256).
+- 2019-06-12 — On agreeing to the Foster amendment (A020) Agreed to by recorded vote: 246 - 178 (Roll no. 270).
+- 2019-06-12 — On agreeing to the Foster amendment (A021) Agreed to by recorded vote: 336 - 87 (Roll no. 271).
+- 2019-06-12 — On agreeing to the Foster amendment (A022) Agreed to by recorded vote: 260 - 164 (Roll no. 272).
+- 2019-06-12 — On agreeing to the Foster amendment (A023) Agreed to by recorded vote: 358 - 66 (Roll no. 273).
+- 2019-06-12 — On agreeing to the Jackson Lee amendment (A014) Agreed to by recorded vote: 317 - 105 (Roll no. 260).
+- 2019-06-12 — On agreeing to the Jackson Lee amendment (A015) Agreed to by recorded vote: 312 - 109 (Roll no. 261).
+- 2019-06-12 — On agreeing to the Johnson (OH) amendment (A027) Agreed to by recorded vote: 408 - 15 (Roll no. 277).
+- 2019-06-12 — On agreeing to the Langevin amendment Agreed to by recorded vote: 356 - 67 (Roll no. 269).
+- 2019-06-12 — On agreeing to the McGovern amendment (A002) Agreed to by recorded vote: 338 - 83 (Roll no. 251).
+- 2019-06-12 — On agreeing to the McKinley amendment (A025) Agreed to by recorded vote: 415 - 9 (Roll no. 275).
+- 2019-06-12 — On agreeing to the Moore amendment (A028) Agreed to by recorded vote: 405 - 19 (Roll no. 278).
+- 2019-06-12 — On agreeing to the Pascrell amendment (A016) Agreed to by recorded vote: 413 - 10 (Roll no. 262).
+- 2019-06-12 — On agreeing to the Roby amendment (A009) Failed by recorded vote: 191 - 231 (Roll no. 267).
+- 2019-06-12 — On agreeing to the Schiff amendment (A024) Agreed to by recorded vote: 341 - 83 (Roll no. 274).
+- 2019-06-12 — On agreeing to the Scott (VA) amendment (A012) Agreed to by recorded vote: 241 - 181 (Roll no. 258).
+- 2019-06-12 — On agreeing to the Shalala amendment (A004) Agreed to by recorded vote: 243 - 179 (Roll no. 252).
+- 2019-06-12 — On agreeing to the Smith (NJ) amendment (A011) Agreed to by recorded vote: 413 - 11 (Roll no. 257).
+- 2019-06-12 — On motion that the Committee rise Agreed to by voice vote.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Banks amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Cloud demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Barr amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Barr demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Bera amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Mooney demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Buchanan amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Butterfield amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Cloud demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Castor (FL) amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Womack demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Castro (TX) amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Mooney demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cicilline amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Mooney demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cleaver amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Cloud demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cole amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Cole demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Danny K. Davis (IL) amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the DeFazio amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the DeSaulnier amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the DeSaulnier amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the DeSaulnier amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the DeSaulnier amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Foster amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Cloud demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Foster amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Cloud demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Foster amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Cloud demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Foster amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hill (AR) amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Cloud demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hill (AR) amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Cloud demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Johnson(OH) amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Cloud demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Keating amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Khanna amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Cloud demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Langevin amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Matsui amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Cloud demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McGovern amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McKinley amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Cloud demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Miller amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Mooney demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Moore amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Cloud demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Moore amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Cloud demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pascrell amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pressley amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Cloud demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Richmond amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Cloud demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Roby amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mrs. Roby demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Schiff amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Cloud demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Scott (VA) amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Shalala amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Smith (NJ) amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-12 — Roll call votes on amendments in House
+- 2019-06-12 — Roll call votes on amendments in House
+- 2019-06-12 — Roll call votes on amendments in House
+- 2019-06-12 — Roll call votes on amendments in House
+- 2019-06-12 — Roll call votes on amendments in House
+- 2019-06-12 — Roll call votes on amendments in House
+- 2019-06-12 — Roll call votes on amendments in House
+- 2019-06-12 — Roll call votes on amendments in House
+- 2019-06-12 — Roll call votes on amendments in House
+- 2019-06-12 — Roll call votes on amendments in House
+- 2019-06-12 — Roll call votes on amendments in House
+- 2019-06-12 — Roll call votes on amendments in House
+- 2019-06-12 — Roll call votes on amendments in House
+- 2019-06-12 — Roll call votes on amendments in House
+- 2019-06-12 — Roll call votes on amendments in House
+- 2019-06-12 — Roll call votes on amendments in House
+- 2019-06-12 — Roll call votes on amendments in House
+- 2019-06-12 — Roll call votes on amendments in House
+- 2019-06-12 — Roll call votes on amendments in House
+- 2019-06-12 — Roll call votes on amendments in House
+- 2019-06-12 — Roll call votes on amendments in House
+- 2019-06-12 — Roll call votes on amendments in House
+- 2019-06-12 — Roll call votes on amendments in House
+- 2019-06-12 — Roll call votes on amendments in House
+- 2019-06-12 — Roll call votes on amendments in House
+- 2019-06-12 — Roll call votes on amendments in House
+- 2019-06-12 — Rule H. Res. 436 passed House.
+- 2019-06-12 — Rule provides for consideration of H.R. 2740 and H. Res. 430. The resolution provides for one hour of debate on H.R. 2740, under a structured rule. The resolution provides for one hour of debate on H.Res. 430, under a closed rule.
+- 2019-06-12 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2019-06-12 — The Speaker designated the Honorable Denny Heck to act as Chairman of the Committee.
+- 2019-06-12 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which were debated earlier and on which further proceedings had been postponed.
+- 2019-06-13 — Amendment (A046) offered by Mr. Jeffries. (consideration: CR H4604-4605, H4650-4651; text: CR H4604)
+- 2019-06-13 — Amendment (A047) offered by Mr. Maloney, Sean. (consideration: CR H4605-4606, H4651; text: CR H4605)
+- 2019-06-13 — Amendment (A048) offered by Ms. Adams. (consideration: CR H4606, H4651-4652; text: CR H4606)
+- 2019-06-13 — Amendment (A049) offered by Ms. Adams. (consideration: CR H4606-4607, H4652-4653; text: CR H4606)
+- 2019-06-13 — Amendment (A050) offered by Mr. Beyer. (consideration: CR H4607-4608, H4653; text: CR H4607)
+- 2019-06-13 — Amendment (A051) offered by Mr. Beyer. (consideration: CR H4608-4609, H4653-4654; text: CR H4608)
+- 2019-06-13 — Amendment (A052) offered by Ms. Blunt Rochester. (consideration: CR H4609-4610, H4654-4655; text: CR H4654-4655)
+- 2019-06-13 — Amendment (A053) offered by Mrs. Murphy. (consideration: CR H4610-4611, H4655; text: H4610)
+- 2019-06-13 — Amendment (A054) offered by Ms. Ocasio-Cortez. (consideration: CR H4611-4612, H4655-4656; text: CR H4611)
+- 2019-06-13 — Amendment (A055) offered by Ms. Ocasio-Cortez. (consideration: CR H4612-4613, H4656-4657; text: CR H4612)
+- 2019-06-13 — Amendment (A056) offered by Mr. McAdams. (consideration: CR H4613-4614, H4657; text: CR H4613)
+- 2019-06-13 — Amendment (A057) offered by Ms. Schrier. (consideration: CR H4614-4615, H4657-4658; text: CR H4614)
+- 2019-06-13 — Amendment (A058) offered by Mrs. Lee (NV). (consideration: CR H4615-4616, H4658-4659; text: CR H4615)
+- 2019-06-13 — Amendment (A059) offered by Mrs. Craig. (consideration: CR H4616-4617, H4659; text: CR H4616)
+- 2019-06-13 — Amendment (A060) offered by Mrs. Craig. (consideration: CR H4617-4618, H4659-4660; text: CR H4617)
+- 2019-06-13 — Amendment (A061) offered by Mrs. Craig. (consideration: CR H4618, H4660-4661; text: CR H4618)
+- 2019-06-13 — Amendment (A062) offered by Ms. Porter. (consideration: CR H4619, H4661; text: CR H4619)
+- 2019-06-13 — Amendment (A063) offered by Ms. Porter. (consideration: CR H4619-4620, H4661-4662; text: CR H4619)
+- 2019-06-13 — Amendment (A064) offered by Ms. Porter. (consideration: CR H4620-4621, H4662-4663; text: CR H4620)
+- 2019-06-13 — Amendment (A065) offered by Ms. Mucarsel-Powell. (consideration: CR H4621-4622, H4663; text: CR H4621)
+- 2019-06-13 — Amendment (A066) offered by Mr. Levin (MI). (consideration: CR H4622-4623, H4663-4664; text: CR H4622)
+- 2019-06-13 — Amendment (A067) offered by Ms. Pressley. (consideration: CR H4623-4625, H4664-4665; text: CR H4623)
+- 2019-06-13 — Amendment (A068) offered by Ms. Spanberger. (consideration: CR H4633-4634, H4665; text: CR H4633)
+- 2019-06-13 — Amendment (A069) offered by Mr. Delgado. (consideration: CR H4634-4635, H4665-4666; text: CR H4634)
+- 2019-06-13 — Amendment (A070) offered by Mr. Crow. (consideration: CR H4635-4636, H4666-4667; text: CR H4635)
+- 2019-06-13 — Amendment (A071) offered by Ms. Houlahan. (consideration: CR H4636-4637, H4667; text: CR H4636)
+- 2019-06-13 — Amendment (A073) offered by Mr. Pocan. (consideration: CR H4637-4639, H4668; text: CR H4638)
+- 2019-06-13 — Amendment (A074) offered by Mr. Pascrell. (consideration: CR H4639-4640, H4668-4669; text: CR H4639)
+- 2019-06-13 — Amendment (A075) offered by Mrs. Lesko. (consideration: CR H4640-4641, CR 6/18/2019 H4732-4733; text: CR H4640)
+- 2019-06-13 — Amendment (A076) offered by Ms. Jackson Lee. (consideration: CR H4641-4644, CR 6/18/2019 H4733; text: CR H4641)
+- 2019-06-13 — Amendment (A077) offered by Ms. Jackson Lee. (consideration: CR H4644-4645, CR 6/18/2019 H4733-4734; text: CR H4644)
+- 2019-06-13 — Amendment (A078) offered by Mr. Gosar. (consideration: CR H4645-4646, CR 6/18/2019 H4734-4735; text: CR H4645)
+- 2019-06-13 — Amendment (A079) offered by Mr. Grijalva. (consideration: CR H4646-4647, CR 6/18/2019 H4735; text: CR H4646)
+- 2019-06-13 — Amendment (A080) offered by Mr. Gosar. (consideration: CR H4647-4648, CR 6/18/2019 H4735-4736; text: CR H4647)
+- 2019-06-13 — Amendment (A081) offered by Ms. Speier. (consideration: CR H4648-4649, CR 6/18/2019 H4736-4737; text: CR H4648)
+- 2019-06-13 — Amendment (A082) offered by Mr. Meadows. (consideration: CR H4649-4650, CR 6/18/2019 H4737; text: CR H4649)
+- 2019-06-13 — Amendment (A084) offered by Mr. Grothman. (consideration: CR H4679-4680, CR 6/18/2019 H4752; text: CR H4679)
+- 2019-06-13 — Amendment (A086) offered by Mr. Walker. (consideration: CR H4681-4682, CR 6/18/2019 H4752-4753; text: CR H4681)
+- 2019-06-13 — Amendment (A087) offered by Mr. Palmer. (consideration: CR H4682-4683, CR 6/18/2019 H4753-4754; text: CR H4682)
+- 2019-06-13 — Amendment (A088) offered by Mr. Arrington. (consideration: CR H4683-4684, CR 6/18/2019 H4754; text: CR H4683)
+- 2019-06-13 — Amendment (A089) offered by Mr. Banks. (consideration: CR H4684-4685, CR 6/18/2019 H4754-4755; text: CR H4684)
+- 2019-06-13 — Amendment (A090) offered by Mr. Allen. (consideration: CR H4685-4686, CR 6/18/2019 H4756-4757; text: CR H4685)
+- 2019-06-13 — Amendment (A091) offered by Mr. Allen. (consideration: CR H4686; text: CR H4686)
+- 2019-06-13 — Amendment (A092) offered by Mr. Rouda. (consideration: CR H4686-4687; text: CR H4686)
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment agreed to Committee of the Whole
+- 2019-06-13 — Amendment failed in Committee of the Whole
+- 2019-06-13 — Amendment failed in Committee of the Whole
+- 2019-06-13 — Amendment failed in Committee of the Whole
+- 2019-06-13 — Amendment failed in Committee of the Whole
+- 2019-06-13 — Amendments en bloc (A083) offered by Mrs. Lowey. (consideration: CR H4673-4679, CR 6/18/2019 H4737-4738; text: CR H4673-4677)
+- 2019-06-13 — Amendments en bloc (A085) offered by Mrs. Lowey. (consideration: CR H4680, CR 6/18/2019 H4756; text: CR H4680)
+- 2019-06-13 — Committee of the Whole House on the state of the Union rises leaving H.R. 2740 as unfinished business.
+- 2019-06-13 — Committee of the Whole House on the state of the Union rises leaving H.R. 2740 as unfinished business.
+- 2019-06-13 — Committee of the Whole House on the state of the Union rises leaving H.R. 2740 as unfinished business.
+- 2019-06-13 — Committee of the Whole House on the state of the Union rises leaving H.R. 2740 as unfinished business.
+- 2019-06-13 — Committee of the Whole House on the state of the Union rises leaving H.R. 2740 as unfinished business.
+- 2019-06-13 — Committee of the Whole House on the state of the Union rises leaving H.R. 2740 as unfinished business.
+- 2019-06-13 — Committee of the Whole House on the state of the Union rises leaving H.R. 2740 as unfinished business.
+- 2019-06-13 — Committee of the Whole House on the state of the Union rises leaving H.R. 2740 as unfinished business.
+- 2019-06-13 — Committee of the Whole House on the state of the Union rises leaving H.R. 2740 as unfinished business.
+- 2019-06-13 — Considered as unfinished business. (consideration: CR H4537-4640)
+- 2019-06-13 — Considered as unfinished business. (consideration: CR H4632-4637)
+- 2019-06-13 — Considered as unfinished business. (consideration: CR H4640-4668)
+- 2019-06-13 — Considered as unfinished business. (consideration: CR H4668-4669)
+- 2019-06-13 — Considered as unfinished business. (consideration: CR H4673-4680)
+- 2019-06-13 — Considered as unfinished business. (consideration: CR H4680-4681)
+- 2019-06-13 — Considered as unfinished business. (consideration: CR H4681-4685)
+- 2019-06-13 — Considered as unfinished business. (consideration: CR H4685-4687)
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Adams amendment No. 50.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Adams amendment No. 51.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Arrington amendment No. 94.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Banks amendment No. 98.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Beyer amendment No. 52.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Beyer amendment No. 53.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Blunt Rochester amendment No. 54.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Craig amendment No. 62.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Craig amendment No. 63.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Craig amendment No. 64.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Crow amendment No. 76.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Delgado amendment No. 75.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment No. 81.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment No. 83.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Grijalva amendment No. 82.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Grothman amendment No. 87.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Houlahan amendment No. 77.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 79.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 80.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Jeffries amendment No. 48.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Lee (NV) amendment No. 61.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Lesko amendment No. 78.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Levin (MI) amendment No. 70.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the McAdams amendment No. 59.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Meadows amendment No. 85.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Mucarsel-Powell amendment No. 68.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Murphy amendment No. 56.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Ocasio-Cortez amendment No. 57.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Ocasio-Cortez amendment No. 58.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Palmer amendment No. 91.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Porter amendment No. 65.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Porter amendment No. 66.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Porter amendment No. 67.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Pressley amendment No. 71.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Schrier amendment No. 60.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Sean Patrick Maloney amendment No. 49.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Spanberger amendment No. 74.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Speier amendment No. 84.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Walker amendment No. 89.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 20 minutes of debate on the Lowey amendment en bloc No. 1.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 10 minutes of debate on the Allen amendment No. 2.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 10 minutes of debate on the Allen amendment No. 4.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 10 minutes of debate on the Pascrell amendment No. 2.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 10 minutes of debate on the Pocan amendment No. 1.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 10 minutes of debate on the Rouda amendment No. 5.
+- 2019-06-13 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 20 minutes of debate on the Lowey amendment en bloc No. 1.
+- 2019-06-13 — House amendment agreed to: On agreeing to the Adams amendment (A048) Agreed to by recorded vote: 358 - 65 (Roll no. 297).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Adams amendment (A049) Agreed to by recorded vote: 307 - 115 (Roll no. 298).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Allen amendment (A091) Agreed to by voice vote.
+- 2019-06-13 — House amendment agreed to: On agreeing to the Barr amendment (A032) Agreed to by recorded vote: 420 - 4 (Roll no. 281).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Bera amendment (A044) Agreed to by recorded vote: 396 - 27 (Roll no. 293).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Beyer amendment (A050) Agreed to by recorded vote: 359 - 64 (Roll no. 299).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Beyer amendment (A051) Agreed to by recorded vote: 285 - 138 (Roll no. 300).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Blunt Rochester amendment (A052) Agreed to by recorded vote: 376 - 47 (Roll no. 301).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Castor (FL) amendment (A034) Agreed to by recorded vote: 236 - 188 (Roll no. 283).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Castro (TX) amendment (A045) Agreed to by recorded vote: 355 - 68 (Roll no. 294).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Cicilline amendment (A043) Agreed to by recorded vote: 327 - 97 (Roll no. 292).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Cleaver amendment (A033) Agreed to by recorded vote: 386 - 38 (Roll no. 282).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Craig amendment (A059) Agreed to by recorded vote: 383 - 36 (Roll no. 308).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Craig amendment (A060) Agreed to by recorded vote: 376 - 41 (Roll no. 309).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Craig amendment (A061) Agreed to by recorded vote: 390 - 29 (Roll no. 310).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Crow amendment (A070) Agreed to by recorded vote: 345 - 73 (Roll no. 319).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Delgado amendment (A069) Agreed to by recorded vote: 374 - 44 (Roll no. 318).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Houlahan amendment (A071) Agreed to by recorded vote: 333 - 86 (Roll no. 320).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Jeffries amendment (A046) Agreed to by recorded vote: 275 - 148 (Roll no. 295).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Keating amendment (A041) Agreed to by recorded vote: 283 - 141 (Roll no. 290).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Khanna amendment (A038) Agreed to by recorded vote: 356 - 68 (Roll no. 287).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Lee (NV) amendment (A058) Agreed to by recorded vote: 365 - 54 (Roll no. 307).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Levin (MI) amendment (A066) Agreed to by recorded vote: 233 - 187 (Roll no. 315).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Maloney, Sean amendment (A047) Agreed to by recorded vote: 266 - 150 (Roll no. 296).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Matsui amendment (A031) Agreed to by recorded vote: 376 - 48 (Roll no. 280).
+- 2019-06-13 — House amendment agreed to: On agreeing to the McAdams amendment (A056) Agreed to by recorded vote: 388 - 30 (Roll no. 305).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Miller amendment (A042) Agreed to by recorded vote: 421 - 3 (Roll no. 291).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Moore amendment (A029) Agreed to by recorded vote: 348 - 75 (Roll no. 279).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Mucarsel-Powell amendment (A065) Agreed to by recorded vote: 281 - 138 (Roll no. 314).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Murphy amendment (A053) Agreed to by recorded vote: 366 - 55 (Roll no. 302).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Ocasio-Cortez amendment (A054) Agreed to by recorded vote: 264 - 158 (Roll no. 303).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Pascrell amendment (A074) Agreed to by recorded vote: 382 - 32 (Roll no. 322).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Pocan amendment (A073) Agreed to by recorded vote: 225 - 193 (Roll no. 321).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Porter amendment (A062) Agreed to by recorded vote: 316 - 103 (Roll no. 311).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Porter amendment (A063) Agreed to by recorded vote: 311 - 110 (Roll no. 312).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Porter amendment (A064) Agreed to by recorded vote: 235 - 183 (Roll no. 313).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Pressley amendment (A037) Agreed to by recorded vote: 401 - 23 (Roll no. 286).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Pressley amendment (A067) Agreed to by recorded vote: 342 - 77, 1 Present (Roll no. 316).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Richmond amendment (A039) Agreed to by recorded vote: 365 - 59 (Roll no. 288).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Rouda amendment (A092) Agreed to by voice vote.
+- 2019-06-13 — House amendment agreed to: On agreeing to the Schrier amendment (A057) Agreed to by recorded vote: 371 - 49 (Roll no. 306).
+- 2019-06-13 — House amendment agreed to: On agreeing to the Spanberger amendment (A068) Agreed to by recorded vote: 364 - 54 (Roll no. 317).
+- 2019-06-13 — House amendment not agreed to: On agreeing to the Banks amendment (A040) Failed by recorded vote: 150 - 273 (Roll no. 289).
+- 2019-06-13 — House amendment not agreed to: On agreeing to the Hill (AR) amendment (A035) Failed by recorded vote: 186 - 237, 1 Present (Roll no. 284).
+- 2019-06-13 — House amendment not agreed to: On agreeing to the Hill (AR) amendment (A036) Failed by recorded vote: 158 - 266 (Roll no. 285).
+- 2019-06-13 — House amendment not agreed to: On agreeing to the Ocasio-Cortez amendment (A055) Failed by recorded vote: 91 - 331 (Roll no. 304).
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered
+- 2019-06-13 — House amendment offered/reported by: Amendment (A046) offered by Mr. Jeffries.
+- 2019-06-13 — House amendment offered/reported by: Amendment (A047) offered by Mr. Maloney, Sean.
+- 2019-06-13 — House amendment offered/reported by: Amendment (A048) offered by Ms. Adams.
+- 2019-06-13 — House amendment offered/reported by: Amendment (A049) offered by Ms. Adams.
+- 2019-06-13 — House amendment offered/reported by: Amendment (A050) offered by Mr. Beyer.
+- 2019-06-13 — House amendment offered/reported by: Amendment (A051) offered by Mr. Beyer.
+- 2019-06-13 — House amendment offered/reported by: Amendment (A052) offered by Ms. Blunt Rochester.
+- 2019-06-13 — House amendment offered/reported by: Amendment (A053) offered by Mrs. Murphy.
+- 2019-06-13 — House amendment offered/reported by: Amendment (A054) offered by Ms. Ocasio-Cortez.
+- 2019-06-13 — House amendment offered/reported by: Amendment (A055) offered by Ms. Ocasio-Cortez.
+- 2019-06-13 — House amendment offered/reported by: Amendment (A056) offered by Mr. McAdams.
+- 2019-06-13 — House amendment offered/reported by: Amendment (A057) offered by Ms. Schrier.
+- 2019-06-13 — House amendment offered/reported by: Amendment (A058) offered by Mrs. Lee (NV).
+- 2019-06-13 — House amendment offered/reported by: Amendment (A059) offered by Mrs. Craig.
+- 2019-06-13 — House amendment offered/reported by: Amendment (A060) offered by Mrs. Craig.
+- 2019-06-13 — House amendment offered/reported by: Amendment (A061) offered by Mrs. Craig.
+- 2019-06-13 — House amendment offered/reported by: Amendment (A062) offered by Ms. Porter.
+- 2019-06-13 — House amendment offered/reported by: Amendment (A063) offered by Ms. Porter.
+- 2019-06-13 — House amendment offered/reported by: Amendment (A064) offered by Ms. Porter.
+- 2019-06-13 — House amendment offered/reported by: Amendment (A065) offered by Ms. Mucarsel-Powell.
+- 2019-06-13 — House amendment offered/reported by: Amendment (A066) offered by Mr. Levin (MI).
+- 2019-06-13 — House amendment offered/reported by: Amendment (A067) offered by Ms. Pressley.
+- 2019-06-13 — House amendment offered/reported by: Amendment (A068) offered by Ms. Spanberger.
+- 2019-06-13 — House amendment offered/reported by: Amendment (A069) offered by Mr. Delgado.
+- 2019-06-13 — House amendment offered/reported by: Amendment (A070) offered by Mr. Crow.
+- 2019-06-13 — House amendment offered/reported by: Amendment (A071) offered by Ms. Houlahan.
+- 2019-06-13 — House amendment offered/reported by: Amendment (A073) offered by Mr. Pocan.
+- 2019-06-13 — House amendment offered/reported by: Amendment (A074) offered by Mr. Pascrell.
+- 2019-06-13 — House amendment offered/reported by: Amendment (A075) offered by Mrs. Lesko.(consideration: CR H4640-4641; text: CR H4640)
+- 2019-06-13 — House amendment offered/reported by: Amendment (A076) offered by Ms. Jackson Lee.(consideration: CR H4641-4644; text: CR H4641)
+- 2019-06-13 — House amendment offered/reported by: Amendment (A077) offered by Ms. Jackson Lee.(consideration: CR H4644-4645; text: CR H4644)
+- 2019-06-13 — House amendment offered/reported by: Amendment (A078) offered by Mr. Gosar.(consideration: CR H4645-4646; text: CR H4645)
+- 2019-06-13 — House amendment offered/reported by: Amendment (A079) offered by Mr. Grijalva.(consideration: CR H4646-4647; text: CR H4646)
+- 2019-06-13 — House amendment offered/reported by: Amendment (A080) offered by Mr. Gosar.(consideration: CR H4647-4648; text: CR H4647)
+- 2019-06-13 — House amendment offered/reported by: Amendment (A081) offered by Ms. Speier.(consideration: CR H4648-4649; text: CR H4648)
+- 2019-06-13 — House amendment offered/reported by: Amendment (A082) offered by Mr. Meadows.(consideration: CR H4649-4650; text: CR H4649)
+- 2019-06-13 — House amendment offered/reported by: Amendment (A084) offered by Mr. Grothman.(consideration: CR H4679-4680; text: CR H4679)
+- 2019-06-13 — House amendment offered/reported by: Amendment (A086) offered by Mr. Walker.(consideration: CR H4681-4682; text: CR H4681)
+- 2019-06-13 — House amendment offered/reported by: Amendment (A087) offered by Mr. Palmer.(consideration: CR H4682-4683; text: CR H4682)
+- 2019-06-13 — House amendment offered/reported by: Amendment (A088) offered by Mr. Arrington.(consideration: CR H4683-4684; text: CR H4683)
+- 2019-06-13 — House amendment offered/reported by: Amendment (A089) offered by Mr. Banks.(consideration: CR H4684-4685; text: CR H4684)
+- 2019-06-13 — House amendment offered/reported by: Amendment (A090) offered by Mr. Allen.(consideration: CR H4685-4686; text: CR H4685)
+- 2019-06-13 — House amendment offered/reported by: Amendment (A091) offered by Mr. Allen.
+- 2019-06-13 — House amendment offered/reported by: Amendment (A092) offered by Mr. Rouda.
+- 2019-06-13 — House amendment offered/reported by: Amendments en bloc (A083) offered by Mrs. Lowey.(consideration: CR H4673-4679; text: CR H4673-4677)
+- 2019-06-13 — House amendment offered/reported by: Amendments en bloc (A085) offered by Mrs. Lowey.(consideration: CR H4680; text: CR H4680)
+- 2019-06-13 — Mrs. Lowey moved that the Committee rise.
+- 2019-06-13 — Mrs. Lowey moved that the Committee rise.
+- 2019-06-13 — Mrs. Lowey moved that the committee rise.
+- 2019-06-13 — Mrs. Lowey moved that the committee rise.
+- 2019-06-13 — Ms. DeLauro moved that the Committee rise.
+- 2019-06-13 — Ms. DeLauro moved that the Committee rise.
+- 2019-06-13 — Ms. DeLauro moved that the Committee rise.
+- 2019-06-13 — Ms. DeLauro moved that the Committee rise.
+- 2019-06-13 — Ms. DeLauro moved that the Committee rise.
+- 2019-06-13 — On agreeing to the Adams amendment (A048) Agreed to by recorded vote: 358 - 65 (Roll no. 297).
+- 2019-06-13 — On agreeing to the Adams amendment (A049) Agreed to by recorded vote: 307 - 115 (Roll no. 298).
+- 2019-06-13 — On agreeing to the Allen amendment (A091) Agreed to by voice vote.
+- 2019-06-13 — On agreeing to the Banks amendment (A040) Failed by recorded vote: 150 - 273 (Roll no. 289).
+- 2019-06-13 — On agreeing to the Barr amendment (A032) Agreed to by recorded vote: 420 - 4 (Roll no. 281).
+- 2019-06-13 — On agreeing to the Bera amendment (A044) Agreed to by recorded vote: 396 - 27 (Roll no. 293).
+- 2019-06-13 — On agreeing to the Beyer amendment (A050) Agreed to by recorded vote: 359 - 64 (Roll no. 299).
+- 2019-06-13 — On agreeing to the Beyer amendment (A051) Agreed to by recorded vote: 285 - 138 (Roll no. 300).
+- 2019-06-13 — On agreeing to the Blunt Rochester amendment (A052) Agreed to by recorded vote: 376 - 47 (Roll no. 301).
+- 2019-06-13 — On agreeing to the Castor (FL) amendment (A034) Agreed to by recorded vote: 236 - 188 (Roll no. 283).
+- 2019-06-13 — On agreeing to the Castro (TX) amendment (A045) Agreed to by recorded vote: 355 - 68 (Roll no. 294).
+- 2019-06-13 — On agreeing to the Cicilline amendment (A043) Agreed to by recorded vote: 327 - 97 (Roll no. 292).
+- 2019-06-13 — On agreeing to the Cleaver amendment (A033) Agreed to by recorded vote: 386 - 38 (Roll no. 282).
+- 2019-06-13 — On agreeing to the Craig amendment (A059) Agreed to by recorded vote: 383 - 36 (Roll no. 308).
+- 2019-06-13 — On agreeing to the Craig amendment (A060) Agreed to by recorded vote: 376 - 41 (Roll no. 309).
+- 2019-06-13 — On agreeing to the Craig amendment (A061) Agreed to by recorded vote: 390 - 29 (Roll no. 310).
+- 2019-06-13 — On agreeing to the Crow amendment (A070) Agreed to by recorded vote: 345 - 73 (Roll no. 319).
+- 2019-06-13 — On agreeing to the Delgado amendment (A069) Agreed to by recorded vote: 374 - 44 (Roll no. 318).
+- 2019-06-13 — On agreeing to the Hill (AR) amendment (A035) Failed by recorded vote: 186 - 237, 1 Present (Roll no. 284).
+- 2019-06-13 — On agreeing to the Hill (AR) amendment (A036) Failed by recorded vote: 158 - 266 (Roll no. 285).
+- 2019-06-13 — On agreeing to the Houlahan amendment (A071) Agreed to by recorded vote: 333 - 86 (Roll no. 320).
+- 2019-06-13 — On agreeing to the Jeffries amendment (A046) Agreed to by recorded vote: 275 - 148 (Roll no. 295).
+- 2019-06-13 — On agreeing to the Keating amendment (A041) Agreed to by recorded vote: 283 - 141 (Roll no. 290).
+- 2019-06-13 — On agreeing to the Khanna amendment (A038) Agreed to by recorded vote: 356 - 68 (Roll no. 287).
+- 2019-06-13 — On agreeing to the Lee (NV) amendment (A058) Agreed to by recorded vote: 365 - 54 (Roll no. 307).
+- 2019-06-13 — On agreeing to the Levin (MI) amendment (A066) Agreed to by recorded vote: 233 - 187 (Roll no. 315).
+- 2019-06-13 — On agreeing to the Maloney, Sean amendment (A047) Agreed to by recorded vote: 266 - 150 (Roll no. 296).
+- 2019-06-13 — On agreeing to the Matsui amendment (A031) Agreed to by recorded vote: 376 - 48 (Roll no. 280).
+- 2019-06-13 — On agreeing to the McAdams amendment (A056) Agreed to by recorded vote: 388 - 30 (Roll no. 305).
+- 2019-06-13 — On agreeing to the Miller amendment (A042) Agreed to by recorded vote: 421 - 3 (Roll no. 291).
+- 2019-06-13 — On agreeing to the Moore amendment (A029) Agreed to by recorded vote: 348 - 75 (Roll no. 279).
+- 2019-06-13 — On agreeing to the Mucarsel-Powell amendment (A065) Agreed to by recorded vote: 281 - 138 (Roll no. 314).
+- 2019-06-13 — On agreeing to the Murphy amendment (A053) Agreed to by recorded vote: 366 - 55 (Roll no. 302).
+- 2019-06-13 — On agreeing to the Ocasio-Cortez amendment (A054) Agreed to by recorded vote: 264 - 158 (Roll no. 303).
+- 2019-06-13 — On agreeing to the Ocasio-Cortez amendment (A055) Failed by recorded vote: 91 - 331 (Roll no. 304).
+- 2019-06-13 — On agreeing to the Pascrell amendment (A074) Agreed to by recorded vote: 382 - 32 (Roll no. 322).
+- 2019-06-13 — On agreeing to the Pocan amendment (A073) Agreed to by recorded vote: 225 - 193 (Roll no. 321).
+- 2019-06-13 — On agreeing to the Porter amendment (A062) Agreed to by recorded vote: 316 - 103 (Roll no. 311).
+- 2019-06-13 — On agreeing to the Porter amendment (A063) Agreed to by recorded vote: 311 - 110 (Roll no. 312).
+- 2019-06-13 — On agreeing to the Porter amendment (A064) Agreed to by recorded vote: 235 - 183 (Roll no. 313).
+- 2019-06-13 — On agreeing to the Pressley amendment (A037) Agreed to by recorded vote: 401 - 23 (Roll no. 286).
+- 2019-06-13 — On agreeing to the Pressley amendment (A067) Agreed to by recorded vote: 342 - 77, 1 Present (Roll no. 316).
+- 2019-06-13 — On agreeing to the Richmond amendment (A039) Agreed to by recorded vote: 365 - 59 (Roll no. 288).
+- 2019-06-13 — On agreeing to the Rouda amendment (A092) Agreed to by voice vote.
+- 2019-06-13 — On agreeing to the Schrier amendment (A057) Agreed to by recorded vote: 371 - 49 (Roll no. 306).
+- 2019-06-13 — On agreeing to the Spanberger amendment (A068) Agreed to by recorded vote: 364 - 54 (Roll no. 317).
+- 2019-06-13 — On motion that the Committee rise Agreed to by voice vote.
+- 2019-06-13 — On motion that the Committee rise Agreed to by voice vote.
+- 2019-06-13 — On motion that the Committee rise Agreed to by voice vote.
+- 2019-06-13 — On motion that the Committee rise Agreed to by voice vote.
+- 2019-06-13 — On motion that the Committee rise Agreed to by voice vote.
+- 2019-06-13 — On motion that the Committee rise Agreed to by voice vote.
+- 2019-06-13 — On motion that the Committee rise Agreed to by voice vote.
+- 2019-06-13 — On motion that the committee rise Agreed to by voice vote.
+- 2019-06-13 — On motion that the committee rise Agreed to by voice vote.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Adams amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Norman demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Adams amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Allen amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Allen demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Arrington amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Gohmert demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Banks amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Banks demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Beyer amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Norman demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Beyer amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Norman demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blunt Rochester amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Norman demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Craig amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Massie demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Craig amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Massie demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Craig amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Perry demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Crow amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Budd demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Delgado amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Budd demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Hice demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Hice demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Grijalva amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Hice demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Grothman amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Grothman demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Houlahan amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Budd demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Hice demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Massie demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jeffries amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lee (NV) amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Perry demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lesko amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mrs. Lowey demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Levin (MI) amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Norman demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lowey amendment en bloc No. 1, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lowey amendment en bloc No. 1, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McAdams amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Perry demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Meadows amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Hice demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mucarsel-Powell amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Norman demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Murphy amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Norman demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ocasio-Cortez amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Perry demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ocasio-Cortez amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Perry demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Palmer amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Palmer demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pascrell amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Hice demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pocan amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Hice demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Porter amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Massie demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Porter amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Massie demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Porter amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Norman demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pressley amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Norman demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Schrier amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Perry demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Sean Patrick Maloney amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Spanberger amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Budd demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Speier amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Hice demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Walker amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mrs. Lowey demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Roll call votes on amendments in House
+- 2019-06-13 — Subsequently, the Committee resumed its sitting.
+- 2019-06-13 — The Committee of the Whole rose informally to receive a message from the President.
+- 2019-06-13 — The House resolved into Committee of the Whole House on the state of the Union for further consideration pursuant to H.Res. 431.
+- 2019-06-13 — The House resolved into Committee of the Whole House on the state of the Union for further consideration pursuant to H.Res. 436.
+- 2019-06-13 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2019-06-13 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2019-06-13 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2019-06-13 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2019-06-13 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2019-06-13 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2019-06-13 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier and on which further proceedings were postponed.
+- 2019-06-18 — Amendment (A094) offered by Mr. Langevin. (consideration: CR H4715, H4757-4758; text: CR H4715)
+- 2019-06-18 — Amendment (A095) offered by Mr. Langevin. (consideration: CR H4715-4716, H4758-4759; text: CR H4715)
+- 2019-06-18 — Amendment (A096) offered by Mr. Lipinski. (consideration: CR H4716-4717; text: CR H4716)
+- 2019-06-18 — Amendment (A097) offered by Mr. Brown (MD). (consideration: CR H4717-4718, H4759; text: CR H4717)
+- 2019-06-18 — Amendment (A098) offered by Mr. Amash. (consideration: CR H4718-4720, H4759-4760; text: CR H4718)
+- 2019-06-18 — Amendment (A099) offered by Mrs. Dingell. (consideration: CR H4720; text: CR H4720)
+- 2019-06-18 — Amendment (A100) offered by Ms. Kuster (NH). (consideration: CR H4720; text: CR H4720)
+- 2019-06-18 — Amendment (A101) offered by Ms. Kuster (NH). (consideration: CR H4720-4721, H4760-4761; text: CR H4721)
+- 2019-06-18 — Amendment (A102) offered by Mr. Visclosky. (consideration: CR H4721, H4761; text: CR H4721)
+- 2019-06-18 — Amendment (A103) offered by Mr. Visclosky. (consideration: CR H4721-4722, H4761-4762; text: CR H4721)
+- 2019-06-18 — Amendment (A104) offered by Miss Gonzalez-Colon (PR). (consideration: CR H4722-4723; text: CR H4722)
+- 2019-06-18 — Amendment (A105) offered by Mr. Norman. (consideration: CR H4723; text: CR H4723)
+- 2019-06-18 — Amendment (A106) offered by Mr. Lieu, Ted. (consideration: CR H4723-4724, H4762-4763; text: CR H4723)
+- 2019-06-18 — Amendment (A107) offered by Mr. Gallagher. (consideration: CR H4724-4725, H4763; text: CR H4724)
+- 2019-06-18 — Amendment (A108) offered by Mr. Gallagher. (consideration: CR H4725-4726, H4763-4764; text: CR H4725)
+- 2019-06-18 — Amendment (A109) offered by Ms. Blunt Rochester. (consideration: CR H4726-4727, H4764-4765; text: CR H4726)
+- 2019-06-18 — Amendment (A110) offered by Ms. Jayapal. (consideration: CR H4727-4728, H4765; text: CR H4727)
+- 2019-06-18 — Amendment (A111) offered by Mr. Crow. (consideration: CR H4728-4729, H4765-4766; text: CR H4728)
+- 2019-06-18 — Amendment (A112) offered by Mr. Crow. (consideration: CR H4729; text: CR H4729)
+- 2019-06-18 — Amendment (A113) offered by Mr. Cox (CA). (consideration: CR H4729-4730, H4766-4767; text: CR H4729)
+- 2019-06-18 — Amendment (A114) offered by Mr. Burgess. (consideration: CR H4738-4739, CR 6/19/2019 H4789-4790; text: CR H4738)
+- 2019-06-18 — Amendment (A115) offered by Mr. Burgess. (consideration: CR H4739-4741, CR 6/19/2019 H4790; text: CR H4739)
+- 2019-06-18 — Amendment (A118) offered by Mr. Mullin. (consideration: CR H4745-4746, CR 6/19/2019 H4792; text: CR H4745-4746)
+- 2019-06-18 — Amendment (A119) offered by Mr. Huffman. (consideration: CR H4746-4748, CR 6/19/2019 H4792-4793; text: CR H4746)
+- 2019-06-18 — Amendment (A120) offered by Mr. Graves (LA). (consideration: CR H4748-4750, CR 6/19/2019 H4793-4794; text: CR H4748)
+- 2019-06-18 — Amendment (A121) offered by Mr. Banks. (consideration: CR H4750, CR 6/19/2019 H4794; text: CR H4750)
+- 2019-06-18 — Amendment agreed to Committee of the Whole
+- 2019-06-18 — Amendment agreed to Committee of the Whole
+- 2019-06-18 — Amendment agreed to Committee of the Whole
+- 2019-06-18 — Amendment agreed to Committee of the Whole
+- 2019-06-18 — Amendment agreed to Committee of the Whole
+- 2019-06-18 — Amendment agreed to Committee of the Whole
+- 2019-06-18 — Amendment agreed to Committee of the Whole
+- 2019-06-18 — Amendment agreed to Committee of the Whole
+- 2019-06-18 — Amendment agreed to Committee of the Whole
+- 2019-06-18 — Amendment agreed to Committee of the Whole
+- 2019-06-18 — Amendment agreed to Committee of the Whole
+- 2019-06-18 — Amendment agreed to Committee of the Whole
+- 2019-06-18 — Amendment agreed to Committee of the Whole
+- 2019-06-18 — Amendment agreed to Committee of the Whole
+- 2019-06-18 — Amendment agreed to Committee of the Whole
+- 2019-06-18 — Amendment agreed to Committee of the Whole
+- 2019-06-18 — Amendment agreed to Committee of the Whole
+- 2019-06-18 — Amendment agreed to Committee of the Whole
+- 2019-06-18 — Amendment agreed to Committee of the Whole
+- 2019-06-18 — Amendment agreed to Committee of the Whole
+- 2019-06-18 — Amendment failed in Committee of the Whole
+- 2019-06-18 — Amendment failed in Committee of the Whole
+- 2019-06-18 — Amendment failed in Committee of the Whole
+- 2019-06-18 — Amendment failed in Committee of the Whole
+- 2019-06-18 — Amendment failed in Committee of the Whole
+- 2019-06-18 — Amendment failed in Committee of the Whole
+- 2019-06-18 — Amendment failed in Committee of the Whole
+- 2019-06-18 — Amendment failed in Committee of the Whole
+- 2019-06-18 — Amendment failed in Committee of the Whole
+- 2019-06-18 — Amendment failed in Committee of the Whole
+- 2019-06-18 — Amendment failed in Committee of the Whole
+- 2019-06-18 — Amendment failed in Committee of the Whole
+- 2019-06-18 — Amendment failed in Committee of the Whole
+- 2019-06-18 — Amendments en bloc (A093) offered by Mr. Visclosky. (consideration: CR H4710-4715, H4757; text: CR H4710-4711)
+- 2019-06-18 — Amendments en bloc (A116) offered by Ms. Kaptur. (consideration: CR H4741-4743, CR 6/19/2019 H4790-4791; text: CR H4741)
+- 2019-06-18 — Amendments en bloc (A117) offered by Ms. Kaptur. (consideration: CR H4743-4745, CR 6/19/2019 H4791-4792; text: CR H4743)
+- 2019-06-18 — By unanimous consent, the Crow amendment was withdrawn. (consideration: CR H4729)
+- 2019-06-18 — By unanimous consent, the Dingell amendment was withdrawn. (consideration: CR H4720)
+- 2019-06-18 — By unanimous consent, the Kuster (NH) amendment was withdrawn. (consideration: CR H4720)
+- 2019-06-18 — By unanimous consent, the Lipinski amendment was withdrawn. (consideration: CR H4717)
+- 2019-06-18 — Committee of the Whole House on the state of the Union rises leaving H.R. 2740 as unfinished business.
+- 2019-06-18 — Committee of the Whole House on the state of the Union rises leaving H.R. 2740 as unfinished business.
+- 2019-06-18 — Committee of the Whole House on the state of the Union rises leaving H.R. 2740 as unfinished business.
+- 2019-06-18 — Committee of the Whole House on the state of the Union rises leaving H.R. 2740 as unfinished business.
+- 2019-06-18 — Committee of the Whole House on the state of the Union rises leaving H.R. 2740 as unfinished business.
+- 2019-06-18 — Considered as unfinished business pursuant to the provisions  of H. Res. 431. (consideration: CR H4752-4755)
+- 2019-06-18 — Considered as unfinished business pursuant to the provisions  of H.Res. 436. (consideration: CR H4755-4767)
+- 2019-06-18 — Considered as unfinished business pursuant to the provisions of H. Res. 431. (consideration: CR H4732-4738)
+- 2019-06-18 — Considered as unfinished business pursuant to the provisions of H. Res. 436. (consideration: CR H4738-4750)
+- 2019-06-18 — Considered as unfinished business pursuant to the provisions of H.Res. 436. (consideration: CR H4710-4732)
+- 2019-06-18 — DEBATE - Pursuant to the provisions of H. Res 436, the Committee of the Whole proceeded with 20 minutes of debate on the Visclosky amendment en bloc No. 2.
+- 2019-06-18 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 10 minutes of debate on the Amash amendment No. 24.
+- 2019-06-18 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 10 minutes of debate on the Banks amendment No. 97.
+- 2019-06-18 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 10 minutes of debate on the Blunt Rochester amendment No. 50.
+- 2019-06-18 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 10 minutes of debate on the Brown (MD) amendment No. 21.
+- 2019-06-18 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 10 minutes of debate on the Burgess amendment No. 63.
+- 2019-06-18 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 10 minutes of debate on the Burgess amendment No. 64.
+- 2019-06-18 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 10 minutes of debate on the Cox amendment No. 61.
+- 2019-06-18 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 10 minutes of debate on the Crow amendment No. 59.
+- 2019-06-18 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 10 minutes of debate on the Crow amendment No. 60.
+- 2019-06-18 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 10 minutes of debate on the Dingell amendment No. 29.
+- 2019-06-18 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 10 minutes of debate on the Gallagher amendment No. 45.
+- 2019-06-18 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 10 minutes of debate on the Gallagher amendment No. 47.
+- 2019-06-18 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 10 minutes of debate on the Gonzalez-Colon amendment No. 41.
+- 2019-06-18 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 10 minutes of debate on the Graves (LA) amendment No. 91.
+- 2019-06-18 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 10 minutes of debate on the Huffman amendment No. 90.
+- 2019-06-18 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 10 minutes of debate on the Jayapal amendment No. 51.
+- 2019-06-18 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 10 minutes of debate on the Kuster amendment No. 33.
+- 2019-06-18 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 10 minutes of debate on the Kuster amendment No. 34, as modified.
+- 2019-06-18 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 10 minutes of debate on the Langevin amendment No. 13.
+- 2019-06-18 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 10 minutes of debate on the Langevin amendment No. 15.
+- 2019-06-18 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 10 minutes of debate on the Lieu amendment No. 44.
+- 2019-06-18 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 10 minutes of debate on the Lipinski amendment No. 19.
+- 2019-06-18 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 10 minutes of debate on the Mullin amendment No. 89.
+- 2019-06-18 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 10 minutes of debate on the Norman amendment No. 43.
+- 2019-06-18 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 10 minutes of debate on the Visclosky amendment No. 38.
+- 2019-06-18 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 10 minutes of debate on the Visclosky amendment No. 40.
+- 2019-06-18 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 20 minutes of debate on the Kaptur amendment en bloc No. 3.
+- 2019-06-18 — DEBATE - Pursuant to the provisions of H. Res. 436, the Committee of the Whole proceeded with 20 minutes of debate on the Kaptur amendment en bloc No. 4.
+- 2019-06-18 — House amendment agreed to: On agreeing to the Blunt Rochester amendment (A109) Agreed to by recorded vote: 424 - 3 (Roll no. 352).
+- 2019-06-18 — House amendment agreed to: On agreeing to the Brown (MD) amendment (A097) Agreed to by recorded vote: 243 - 183 (Roll no. 344).
+- 2019-06-18 — House amendment agreed to: On agreeing to the Cox (CA) amendment (A113) Agreed to by recorded vote: 404 - 22 (Roll no. 355).
+- 2019-06-18 — House amendment agreed to: On agreeing to the Crow amendment (A111) Agreed to by recorded vote: 277 - 151 (Roll no. 354).
+- 2019-06-18 — House amendment agreed to: On agreeing to the Gonzalez-Colon (PR) amendment (A104) Agreed to by voice vote.
+- 2019-06-18 — House amendment agreed to: On agreeing to the Grijalva amendment (A079) Agreed to by recorded vote: 310 - 109 (Roll no. 328).
+- 2019-06-18 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A076) Agreed to by recorded vote: 414 - 6 (Roll no. 325).
+- 2019-06-18 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A077) Agreed to by recorded vote: 339 - 79 (Roll no. 326).
+- 2019-06-18 — House amendment agreed to: On agreeing to the Kuster (NH) amendment (A101) as modified Agreed to by recorded vote: 327 - 101 (Roll no. 346).
+- 2019-06-18 — House amendment agreed to: On agreeing to the Langevin amendment Agreed to by recorded vote: 277 - 151 (Roll no. 343).
+- 2019-06-18 — House amendment agreed to: On agreeing to the Langevin amendment Agreed to by recorded vote: 355 - 73 (Roll no. 342).
+- 2019-06-18 — House amendment agreed to: On agreeing to the Lieu, Ted amendment (A106) Agreed to by recorded vote: 237 - 191 (Roll no. 349).
+- 2019-06-18 — House amendment agreed to: On agreeing to the Lowey amendments (A083) Agreed to by recorded vote: 231 - 187 (Roll no. 332).
+- 2019-06-18 — House amendment agreed to: On agreeing to the Lowey amendments (A085) Agreed to by recorded vote: 283 - 144 (Roll no. 339).
+- 2019-06-18 — House amendment agreed to: On agreeing to the Meadows amendment (A082) Agreed to by recorded vote: 387 - 33 (Roll no. 331).
+- 2019-06-18 — House amendment agreed to: On agreeing to the Norman amendment (A105) Agreed to by voice vote.
+- 2019-06-18 — House amendment agreed to: On agreeing to the Speier amendment (A081) Agreed to by recorded vote: 268 - 152 (Roll no. 330).
+- 2019-06-18 — House amendment agreed to: On agreeing to the Visclosky amendment (A102) Agreed to by recorded vote: 389 - 39 (Roll no. 347).
+- 2019-06-18 — House amendment agreed to: On agreeing to the Visclosky amendment (A103) Agreed to by recorded vote: 254 - 174 (Roll no. 348).
+- 2019-06-18 — House amendment agreed to: On agreeing to the Visclosky amendments (A093) Agreed to by recorded vote: 381 - 46 (Roll no. 341).
+- 2019-06-18 — House amendment not agreed to: On agreeing to the Allen amendment (A090) Failed by recorded vote: 134 - 293 (Roll no. 340).
+- 2019-06-18 — House amendment not agreed to: On agreeing to the Amash amendment (A098) Failed by recorded vote: 175 - 253 (Roll no. 345).
+- 2019-06-18 — House amendment not agreed to: On agreeing to the Arrington amendment (A088) Failed by recorded vote: 174 - 251 (Roll no. 337).
+- 2019-06-18 — House amendment not agreed to: On agreeing to the Banks amendment (A089) Failed by recorded vote: 123 - 303 (Roll no. 338).
+- 2019-06-18 — House amendment not agreed to: On agreeing to the Gallagher amendment (A107) Failed by recorded vote: 203 - 225 (Roll no. 350).
+- 2019-06-18 — House amendment not agreed to: On agreeing to the Gallagher amendment (A108) Failed by recorded vote: 192 - 236 (Roll no. 351).
+- 2019-06-18 — House amendment not agreed to: On agreeing to the Gosar amendment (A078) Failed by recorded vote: 174 - 244 (Roll no. 327).
+- 2019-06-18 — House amendment not agreed to: On agreeing to the Gosar amendment (A080) Failed by recorded vote: 170 - 248 (Roll no. 329).
+- 2019-06-18 — House amendment not agreed to: On agreeing to the Grothman amendment (A084) Failed by recorded vote: 131 - 292 (Roll no. 334).
+- 2019-06-18 — House amendment not agreed to: On agreeing to the Jayapal amendment (A110) Failed by recorded vote: 138 - 289, 1 Present (Roll no. 353).
+- 2019-06-18 — House amendment not agreed to: On agreeing to the Lesko amendment (A075) Failed by recorded vote: 188 - 225 (Roll no. 324).
+- 2019-06-18 — House amendment not agreed to: On agreeing to the Palmer amendment (A087) Failed by recorded vote: 184 - 241 (Roll no. 336).
+- 2019-06-18 — House amendment not agreed to: On agreeing to the Walker amendment (A086) Failed by recorded vote: 110 - 315 (Roll no. 335).
+- 2019-06-18 — House amendment offered
+- 2019-06-18 — House amendment offered
+- 2019-06-18 — House amendment offered
+- 2019-06-18 — House amendment offered
+- 2019-06-18 — House amendment offered
+- 2019-06-18 — House amendment offered
+- 2019-06-18 — House amendment offered
+- 2019-06-18 — House amendment offered
+- 2019-06-18 — House amendment offered
+- 2019-06-18 — House amendment offered
+- 2019-06-18 — House amendment offered
+- 2019-06-18 — House amendment offered
+- 2019-06-18 — House amendment offered
+- 2019-06-18 — House amendment offered
+- 2019-06-18 — House amendment offered
+- 2019-06-18 — House amendment offered
+- 2019-06-18 — House amendment offered
+- 2019-06-18 — House amendment offered
+- 2019-06-18 — House amendment offered
+- 2019-06-18 — House amendment offered
+- 2019-06-18 — House amendment offered
+- 2019-06-18 — House amendment offered
+- 2019-06-18 — House amendment offered
+- 2019-06-18 — House amendment offered
+- 2019-06-18 — House amendment offered
+- 2019-06-18 — House amendment offered
+- 2019-06-18 — House amendment offered
+- 2019-06-18 — House amendment offered
+- 2019-06-18 — House amendment offered
+- 2019-06-18 — House amendment offered/reported by: Amendment (A094) offered by Mr. Langevin.
+- 2019-06-18 — House amendment offered/reported by: Amendment (A095) offered by Mr. Langevin.(consideration: CR H4715-4716, H4758-4759; text: CR H4715)
+- 2019-06-18 — House amendment offered/reported by: Amendment (A096) offered by Mr. Lipinski.
+- 2019-06-18 — House amendment offered/reported by: Amendment (A097) offered by Mr. Brown (MD).
+- 2019-06-18 — House amendment offered/reported by: Amendment (A098) offered by Mr. Amash.
+- 2019-06-18 — House amendment offered/reported by: Amendment (A099) offered by Mrs. Dingell.
+- 2019-06-18 — House amendment offered/reported by: Amendment (A100) offered by Ms. Kuster (NH).
+- 2019-06-18 — House amendment offered/reported by: Amendment (A101) offered by Ms. Kuster (NH).
+- 2019-06-18 — House amendment offered/reported by: Amendment (A102) offered by Mr. Visclosky.
+- 2019-06-18 — House amendment offered/reported by: Amendment (A103) offered by Mr. Visclosky.
+- 2019-06-18 — House amendment offered/reported by: Amendment (A104) offered by Miss Gonzalez-Colon (PR).
+- 2019-06-18 — House amendment offered/reported by: Amendment (A105) offered by Mr. Norman.
+- 2019-06-18 — House amendment offered/reported by: Amendment (A106) offered by Mr. Lieu, Ted.
+- 2019-06-18 — House amendment offered/reported by: Amendment (A107) offered by Mr. Gallagher.
+- 2019-06-18 — House amendment offered/reported by: Amendment (A108) offered by Mr. Gallagher.
+- 2019-06-18 — House amendment offered/reported by: Amendment (A109) offered by Ms. Blunt Rochester.
+- 2019-06-18 — House amendment offered/reported by: Amendment (A110) offered by Ms. Jayapal.
+- 2019-06-18 — House amendment offered/reported by: Amendment (A111) offered by Mr. Crow.
+- 2019-06-18 — House amendment offered/reported by: Amendment (A112) offered by Mr. Crow.
+- 2019-06-18 — House amendment offered/reported by: Amendment (A113) offered by Mr. Cox (CA).
+- 2019-06-18 — House amendment offered/reported by: Amendment (A114) offered by Mr. Burgess.(consideration: CR H4738-4739; text: CR H4738)
+- 2019-06-18 — House amendment offered/reported by: Amendment (A115) offered by Mr. Burgess.(consideration: CR H4739-4741; text: CR H4739)
+- 2019-06-18 — House amendment offered/reported by: Amendment (A118) offered by Mr. Mullin.(consideration: CR H4745-4746; text: CR H4745-4746)
+- 2019-06-18 — House amendment offered/reported by: Amendment (A119) offered by Mr. Huffman.(consideration: CR H4746-4748; text: CR H4746)
+- 2019-06-18 — House amendment offered/reported by: Amendment (A120) offered by Mr. Graves (LA).(consideration: CR H4748-4750; text: CR H4748)
+- 2019-06-18 — House amendment offered/reported by: Amendment (A121) offered by Mr. Banks.(consideration: CR H4750; text: CR H4750)
+- 2019-06-18 — House amendment offered/reported by: Amendments en bloc (A093) offered by Mr. Visclosky.
+- 2019-06-18 — House amendment offered/reported by: Amendments en bloc (A116) offered by Ms. Kaptur.(consideration: CR H4741-4743; text: CR H4741)
+- 2019-06-18 — House amendment offered/reported by: Amendments en bloc (A117) offered by Ms. Kaptur.(consideration: CR H4743-4745; text: CR H4743)
+- 2019-06-18 — Kuster (NH) amendment (A101) modified by unanimous consent. (text as modified: CR H4721)
+- 2019-06-18 — Mr. Hoyer moved that the Committee rise.
+- 2019-06-18 — Mr. Visclosky moved that the Committee rise.
+- 2019-06-18 — Ms. Kaptur moved that the Committee rise.
+- 2019-06-18 — Ms. Kaptur moved that the Committee rise.
+- 2019-06-18 — On agreeing to the Allen amendment (A090) Failed by recorded vote: 134 - 293 (Roll no. 340).
+- 2019-06-18 — On agreeing to the Amash amendment (A098) Failed by recorded vote: 175 - 253 (Roll no. 345).
+- 2019-06-18 — On agreeing to the Arrington amendment (A088) Failed by recorded vote: 174 - 251 (Roll no. 337).
+- 2019-06-18 — On agreeing to the Banks amendment (A089) Failed by recorded vote: 123 - 303 (Roll no. 338).
+- 2019-06-18 — On agreeing to the Blunt Rochester amendment (A109) Agreed to by recorded vote: 424 - 3 (Roll no. 352).
+- 2019-06-18 — On agreeing to the Brown (MD) amendment (A097) Agreed to by recorded vote: 243 - 183 (Roll no. 344).
+- 2019-06-18 — On agreeing to the Cox (CA) amendment (A113) Agreed to by recorded vote: 404 - 22 (Roll no. 355).
+- 2019-06-18 — On agreeing to the Crow amendment (A111) Agreed to by recorded vote: 277 - 151 (Roll no. 354).
+- 2019-06-18 — On agreeing to the Gallagher amendment (A107) Failed by recorded vote: 203 - 225 (Roll no. 350).
+- 2019-06-18 — On agreeing to the Gallagher amendment (A108) Failed by recorded vote: 192 - 236 (Roll no. 351).
+- 2019-06-18 — On agreeing to the Gonzalez-Colon (PR) amendment (A104) Agreed to by voice vote.
+- 2019-06-18 — On agreeing to the Gosar amendment (A078) Failed by recorded vote: 174 - 244 (Roll no. 327).
+- 2019-06-18 — On agreeing to the Gosar amendment (A080) Failed by recorded vote: 170 - 248 (Roll no. 329).
+- 2019-06-18 — On agreeing to the Grijalva amendment (A079) Agreed to by recorded vote: 310 - 109 (Roll no. 328).
+- 2019-06-18 — On agreeing to the Grothman amendment (A084) Failed by recorded vote: 131 - 292 (Roll no. 334).
+- 2019-06-18 — On agreeing to the Jackson Lee amendment (A076) Agreed to by recorded vote: 414 - 6 (Roll no. 325).
+- 2019-06-18 — On agreeing to the Jackson Lee amendment (A077) Agreed to by recorded vote: 339 - 79 (Roll no. 326).
+- 2019-06-18 — On agreeing to the Jayapal amendment (A110) Failed by recorded vote: 138 - 289, 1 Present (Roll no. 353).
+- 2019-06-18 — On agreeing to the Kuster (NH) amendment (A101) as modified Agreed to by recorded vote: 327 - 101 (Roll no. 346).
+- 2019-06-18 — On agreeing to the Langevin amendment Agreed to by recorded vote: 277 - 151 (Roll no. 343).
+- 2019-06-18 — On agreeing to the Langevin amendment Agreed to by recorded vote: 355 - 73 (Roll no. 342).
+- 2019-06-18 — On agreeing to the Lesko amendment (A075) Failed by recorded vote: 188 - 225 (Roll no. 324).
+- 2019-06-18 — On agreeing to the Lieu, Ted amendment (A106) Agreed to by recorded vote: 237 - 191 (Roll no. 349).
+- 2019-06-18 — On agreeing to the Lowey amendments (A083) Agreed to by recorded vote: 231 - 187 (Roll no. 332).
+- 2019-06-18 — On agreeing to the Lowey amendments (A085) Agreed to by recorded vote: 283 - 144 (Roll no. 339).
+- 2019-06-18 — On agreeing to the Meadows amendment (A082) Agreed to by recorded vote: 387 - 33 (Roll no. 331).
+- 2019-06-18 — On agreeing to the Norman amendment (A105) Agreed to by voice vote.
+- 2019-06-18 — On agreeing to the Palmer amendment (A087) Failed by recorded vote: 184 - 241 (Roll no. 336).
+- 2019-06-18 — On agreeing to the Speier amendment (A081) Agreed to by recorded vote: 268 - 152 (Roll no. 330).
+- 2019-06-18 — On agreeing to the Visclosky amendment (A102) Agreed to by recorded vote: 389 - 39 (Roll no. 347).
+- 2019-06-18 — On agreeing to the Visclosky amendment (A103) Agreed to by recorded vote: 254 - 174 (Roll no. 348).
+- 2019-06-18 — On agreeing to the Visclosky amendments (A093) Agreed to by recorded vote: 381 - 46 (Roll no. 341).
+- 2019-06-18 — On agreeing to the Walker amendment (A086) Failed by recorded vote: 110 - 315 (Roll no. 335).
+- 2019-06-18 — On motion that the Committee rise Agreed to by recorded vote: 317 - 82, 1 Present (Roll no. 323).
+- 2019-06-18 — On motion that the Committee rise Agreed to by voice vote.
+- 2019-06-18 — On motion that the Committee rise Agreed to by voice vote.
+- 2019-06-18 — On motion that the Committee rise Agreed to by voice vote.
+- 2019-06-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Amash amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Visclosky demanded a recorded vote and the Chair postponed fur ther proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Banks amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blunt Rochester amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Brown (MD) amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Brooks (AL) demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Burgess amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Burgess demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Burgess amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Burgess demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cox amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Crow amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gallagher amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Calvert demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gallagher amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Calvert demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Graves (LA) amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Huffman amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Gosar demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jayapal amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Ms. Jayapal demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Kaptur amendment en bloc No. 3, the Chair put the question on the amendment and by voice vote, annouced that the ayes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Kaptur amendment en bloc No. 4, the Chair put the question on the amendment and by voice vote, annouced that the ayes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Kuster amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Langevin amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Brooks (AL) demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Langevin amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Brooks (AL) demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lieu amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mullin amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Visclosky amendment en bloc No. 2, the Chair put the question on the amendment and by voice vote, annouced that the ayes had prevailed. Mr. Brooks (AL) demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Visclosky amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Calvert demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Visclosky amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-18 — Roll call votes on amendments in House
+- 2019-06-18 — Roll call votes on amendments in House
+- 2019-06-18 — Roll call votes on amendments in House
+- 2019-06-18 — Roll call votes on amendments in House
+- 2019-06-18 — Roll call votes on amendments in House
+- 2019-06-18 — Roll call votes on amendments in House
+- 2019-06-18 — Roll call votes on amendments in House
+- 2019-06-18 — Roll call votes on amendments in House
+- 2019-06-18 — Roll call votes on amendments in House
+- 2019-06-18 — Roll call votes on amendments in House
+- 2019-06-18 — Roll call votes on amendments in House
+- 2019-06-18 — Roll call votes on amendments in House
+- 2019-06-18 — Roll call votes on amendments in House
+- 2019-06-18 — Roll call votes on amendments in House
+- 2019-06-18 — Roll call votes on amendments in House
+- 2019-06-18 — Roll call votes on amendments in House
+- 2019-06-18 — Roll call votes on amendments in House
+- 2019-06-18 — Roll call votes on amendments in House
+- 2019-06-18 — Roll call votes on amendments in House
+- 2019-06-18 — Roll call votes on amendments in House
+- 2019-06-18 — Roll call votes on amendments in House
+- 2019-06-18 — Roll call votes on amendments in House
+- 2019-06-18 — Roll call votes on amendments in House
+- 2019-06-18 — Roll call votes on amendments in House
+- 2019-06-18 — Roll call votes on amendments in House
+- 2019-06-18 — Roll call votes on amendments in House
+- 2019-06-18 — Roll call votes on amendments in House
+- 2019-06-18 — Roll call votes on amendments in House
+- 2019-06-18 — Roll call votes on amendments in House
+- 2019-06-18 — Roll call votes on amendments in House
+- 2019-06-18 — Roll call votes on amendments in House
+- 2019-06-18 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2019-06-18 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2019-06-18 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2019-06-18 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2019-06-18 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2019-06-18 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier an on which further proceedings had been postponed.
+- 2019-06-19 — Amendment agreed to Committee of the Whole
+- 2019-06-19 — Amendment agreed to Committee of the Whole
+- 2019-06-19 — Amendment agreed to Committee of the Whole
+- 2019-06-19 — Amendment failed in Committee of the Whole
+- 2019-06-19 — Amendment failed in Committee of the Whole
+- 2019-06-19 — Amendment failed in Committee of the Whole
+- 2019-06-19 — Amendment failed in Committee of the Whole
+- 2019-06-19 — Amendment failed in Committee of the Whole
+- 2019-06-19 — Considered as unfinished business. (consideration: CR H4789-4797)
+- 2019-06-19 — DEBATE - The House proceeded with 10 minutes of debate on the Womack motion to recommit.
+- 2019-06-19 — House amendment agreed to: On agreeing to the Huffman amendment (A119) Agreed to by recorded vote: 233 - 201 (Roll no. 363).
+- 2019-06-19 — House amendment agreed to: On agreeing to the Kaptur amendments (A116) Agreed to by recorded vote: 233 - 200 (Roll no. 360).
+- 2019-06-19 — House amendment agreed to: On agreeing to the Kaptur amendments (A117) Agreed to by recorded vote: 382 - 52 (Roll no. 361).
+- 2019-06-19 — House amendment not agreed to: On agreeing to the Banks amendment (A121) Failed by recorded vote: 132 - 302 (Roll no. 365).
+- 2019-06-19 — House amendment not agreed to: On agreeing to the Burgess amendment (A114) Failed by recorded vote: 146 - 288 (Roll no. 358).
+- 2019-06-19 — House amendment not agreed to: On agreeing to the Burgess amendment (A115) Failed by recorded vote: 197 - 237 (Roll no. 359).
+- 2019-06-19 — House amendment not agreed to: On agreeing to the Graves (LA) amendment (A120) Failed by recorded vote: 162 - 269, 1 Present (Roll no. 364).
+- 2019-06-19 — House amendment not agreed to: On agreeing to the Mullin amendment (A118) Failed by recorded vote: 186 - 248 (Roll no. 362).
+- 2019-06-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-06-19 — Mr. Womack moved to recommit to the Committee on Appropriations. (text: CR H4795)
+- 2019-06-19 — On agreeing to the Banks amendment (A121) Failed by recorded vote: 132 - 302 (Roll no. 365).
+- 2019-06-19 — On agreeing to the Burgess amendment (A114) Failed by recorded vote: 146 - 288 (Roll no. 358).
+- 2019-06-19 — On agreeing to the Burgess amendment (A115) Failed by recorded vote: 197 - 237 (Roll no. 359).
+- 2019-06-19 — On agreeing to the Graves (LA) amendment (A120) Failed by recorded vote: 162 - 269, 1 Present (Roll no. 364).
+- 2019-06-19 — On agreeing to the Huffman amendment (A119) Agreed to by recorded vote: 233 - 201 (Roll no. 363).
+- 2019-06-19 — On agreeing to the Kaptur amendments (A116) Agreed to by recorded vote: 233 - 200 (Roll no. 360).
+- 2019-06-19 — On agreeing to the Kaptur amendments (A117) Agreed to by recorded vote: 382 - 52 (Roll no. 361).
+- 2019-06-19 — On agreeing to the Mullin amendment (A118) Failed by recorded vote: 186 - 248 (Roll no. 362).
+- 2019-06-19 — On motion to recommit Failed by recorded vote: 196 - 231 (Roll no. 366).
+- 2019-06-19 — On passage Passed by the Yeas and Nays: 226 - 203 (Roll no. 367).
+- 2019-06-19 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 226 - 203 (Roll no. 367).
+- 2019-06-19 — Roll call votes on amendments in House
+- 2019-06-19 — Roll call votes on amendments in House
+- 2019-06-19 — Roll call votes on amendments in House
+- 2019-06-19 — Roll call votes on amendments in House
+- 2019-06-19 — Roll call votes on amendments in House
+- 2019-06-19 — Roll call votes on amendments in House
+- 2019-06-19 — Roll call votes on amendments in House
+- 2019-06-19 — Roll call votes on amendments in House
+- 2019-06-19 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 2740.
+- 2019-06-19 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2019-06-19 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2019-06-19 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2740.
+- 2019-06-19 — The previous question on the motion to recommit was ordered without objection.
+- 2019-06-19 — The previous question was ordered pursuant to the rule.
