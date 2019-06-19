@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3253
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3253
@@ -45,3 +45,4 @@ Sustaining Excellence in Medicaid Act of 2019
 - 2019-06-18 — Mrs. Dingell moved to suspend the rules and pass the bill, as amended.
 - 2019-06-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 46 (Roll no. 333). (text: CR H4706-4707)
 - 2019-06-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 46 (Roll no. 333).(text: CR H4706-4707)
+- 2019-06-19 — Received in the Senate, read twice.
