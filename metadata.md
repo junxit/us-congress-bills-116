@@ -1,7 +1,7 @@
 ---
 measure: S. 1345
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1345
@@ -30,3 +30,7 @@ A bill to amend and reauthorize the Morris K. Udall and Stewart L. Udall Foundat
 
 - 2019-05-07 — Introduced in Senate
 - 2019-05-07 — Read twice and referred to the Committee on Environment and Public Works.
+- 2019-06-19 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2019-06-19 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.
+- 2019-06-19 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.
+- 2019-06-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 118.
