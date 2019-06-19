@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 3342
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3342
+
+> To make hospitals eligible for health professions opportunity grants under section 2008 of the Social Security Act.
+
+## § 1. Short title
+
+This Act may be cited as the “Health Providers Training Act”.
+
+## § 2. Eligibility of hospitals for health professions opportunity grants
+
+Section 2008(a)(4)(A) of the Social Security Act (42 U.S.C. 1397g(a)(4)(A)) is amended by striking “or a community-based organization” and inserting “, a community-based organization, or a hospital (as defined in section 1861(e))”.
+
+## § 3. Effective date
+
+The amendment made by this Act shall take effect on October 1, 2019.
