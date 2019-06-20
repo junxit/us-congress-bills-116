@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 37
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.J.Res. 37
@@ -30,9 +30,11 @@ A joint resolution providing for congressional disapproval of the proposed expor
 
 - Senate — Foreign Relations Committee
 
-## Recorded votes (1)
+## Recorded votes (3)
 
 - 2019-06-20 — [Senate 116-1-179](votes/senate-116-1-0179.md) — On the Joint Resolution — **Joint Resolution Passed** (51–45)
+- 2019-07-17 — [House 116-1-487](votes/house-116-1-0487.md) — On Passage — **Passed** (238–190)
+- 2019-07-29 — [Senate 116-1-232](votes/senate-116-1-0232.md) — On Overriding the Veto — **Veto Sustained** (45–39)
 
 ## Actions
 
@@ -47,3 +49,19 @@ A joint resolution providing for congressional disapproval of the proposed expor
 - 2019-06-20 — Passed Senate without amendment by Yea-Nay Vote. 51 - 45. Record Vote Number: 179. (text: CR S4144)
 - 2019-06-20 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 51 - 45. Record Vote Number: 179.(text: CR S4144)
 - 2019-06-20 — Received in the House.
+- 2019-07-17 — Considered as unfinished business. (consideration: CR H5976)
+- 2019-07-17 — Considered under the provisions of rule H. Res. 491. (consideration: CR H5938-5940)
+- 2019-07-17 — DEBATE - The House proceeded with twenty minutes of debate on S.J. Res. 37.
+- 2019-07-17 — On passage Passed by the Yeas and Nays: 238 - 190 (Roll no. 487). (text: CR H5938)
+- 2019-07-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on S.J. Res. 37, the Chair put the question on passage of the joint resolution and by voice vote, announced the ayes had prevailed. Mr. Kinzinger demanded the yeas and nays and the Chair postponed further proceedings until later in the legislative day.
+- 2019-07-17 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 238 - 190 (Roll no. 487).(text: CR H5938)
+- 2019-07-17 — Rule provides for consideration of H.R. 3494 and H. Res. 489 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. The resolution provides for consideration of H.R. 3494 under a structured rule; provides for consideration of a resolution relating to House Report 116-125, if called up by direction of the Committee on Overisight and Reform; provides for consideration of a joint resolution reported by the Committee on Foreign Affairs regarding the Arms Export Control Act; provides for consideration of H. Res. 489.
+- 2019-07-17 — The previous question was ordered pursuant to the rule.
+- 2019-07-24 — Presented to President.
+- 2019-07-24 — Presented to President.
+- 2019-07-24 — Veto message received in Senate. Ordered held at the desk. (text: CR S5052)
+- 2019-07-24 — Vetoed by President.
+- 2019-07-24 — Vetoed by President.
+- 2019-07-29 — Failed of passage in Senate over veto by Yea-Nay Vote. 45 - 39. Record Vote Number: 232.
+- 2019-07-29 — Failed of passage in Senate over veto: Failed of passage in Senate over veto by Yea-Nay Vote. 45 - 39. Record Vote Number: 232.
+- 2019-07-29 — Veto Message considered in Senate. (consideration: CR S5126, S5130-5134)
