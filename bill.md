@@ -15,9 +15,11 @@ This Act may be cited as the “SEC Disclosure Effectiveness Testing Act”.
 
 ## § 2. Disclosure testing
 
-- **(a)** *In general* Section 23(a) of the Securities Exchange Act of 1934 is amended by adding at the end the following:
+- **(a)** *In general* Section 23(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78w(a)) is amended by adding at the end the following:
   > - **(4)** *Investor testing*
-  >   - **(A)** *In general* The Commission, prior to making any rule or regulation pursuant to any provision of the securities laws which would designate documents or information to be provided to a retail investor, shall engage in investor testing to assess whether designating such documents or information will achieve the purpose intended by the Commission.
+  >   - **(A)** *In general* The Commission shall engage in investor testing prior to issuing any rule or regulation which designates documents or information to be disclosed under the securities laws, if such documents or information—
+  >     - **(i)** are primarily used by retail investors, as determined by the Commission; and
+  >     - **(ii)** are intended to be used by retail investors to make informed investment decisions or to understand the investments held by the retail investor.
   >   - **(B)** *Contents* Investor testing conducted pursuant to subparagraph (A) shall include the following:
   >     - **(i)** Qualitative testing in the form of one-on-one cognitive interviews of retail investors about documents or information, or samples of such documents or information, to be provided.
   >     - **(ii)** A nationwide survey of retail investors, designed to complement the interviews under clause (i), on—
@@ -26,10 +28,23 @@ This Act may be cited as the “SEC Disclosure Effectiveness Testing Act”.
   >       - **(III)** delivery preferences of such documents or information, or samples of such documents or information.
   >     - **(iii)** Analysis and publication in the Federal Register of the results of the survey and interviews.
   >     - **(iv)** An opportunity for the public to comment on such results published in the Federal Register.
-  >   - **(C)** *Substantive changes* If the Commission, in the period between engaging in investor testing and publishing a final rule, makes substantive changes to such rule that the Commission determines would have a significant impact on investors, the Commission shall again engage in investor testing.
+  >   - **(C)** *Substantive changes* If the Commission, in the period between engaging in investor testing and publishing a final rule, makes substantive changes to such rule that the Commission determines would have a significant impact on retail investors, the Commission shall again engage in investor testing.
+  >   - **(D)** *Public availability of retail testing results* The Commission shall make the data and results of any investor testing performed pursuant to this paragraph available to the public.
 
-- **(b)** *Prior rules*
-  - **(1)** *In general* For any final rule or regulation issued by the Securities and Exchange Commission (in this subsection referred to as the “Commission”) before the date of the enactment of this Act, pursuant to any provision of the securities laws (as such term is defined in section 3(a) of the Securities Exchange Act of 1934) which designates documents or information to be provided to a retail investor, the Commission shall perform investor testing that includes the contents described in section 23(a)(4) of the Securities Exchange Act of 1934.
+- **(b)** *Participation of Investor Advocate* Section 4(g) of the Securities Exchange Act of 1934 (15 U.S.C. 78d(g)) is amended—
+  - **(1)** in paragraph (4)—
+    - **(A)** in subparagraph (D)(ii), by striking “and” at the end;
+    - **(B)** by redesignating subparagraph (E) as subparagraph (F); and
+    - **(C)** by inserting after subparagraph (D) the following:
+      > - **(E)** engage in investor testing—
+      >   - **(i)** as necessary to carry out the functions of the Office; and
+      >   - **(ii)** under section 23(a)(4), if the Commission determines it appropriate; and
+
+  - **(2)** by adding at the end the following:
+    > - **(9)** *Publication of data and results of investor testing* With respect to any investor testing carried out by the Investor Advocate pursuant to paragraph (4)(E), the Investor Advocate may make the data and results of such investor testing available to the public, and without further review or editing by the Commission.
+
+- **(c)** *Prior rules*
+  - **(1)** *In general* For any final rule or regulation issued by the Securities and Exchange Commission (in this subsection referred to as the “Commission”) before the date of the enactment of this Act that would be subject to investor testing under section 23(a)(4) of the Securities Exchange Act of 1934, had such rule been issued on or after the date of enactment of this Act, the Commission shall perform investor testing with respect to such rule or regulation that includes the contents described in such section 23(a)(4).
   - **(2)** *Schedule* The Commission shall, not later than 6 months after the date of the enactment of this Act, establish a schedule for completing any investor testing required under paragraph (1) that prioritizes testing of any final rules and regulations that designate documents or information central to retail investor decision making.
   - **(3)** *Report* The Commission shall issue a report to Congress each year containing the following:
     - **(A)** The status of any investor testing required under paragraph (1).

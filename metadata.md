@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1815
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1815
@@ -25,3 +25,10 @@ SEC Disclosure Effectiveness Testing Act
 - 2019-03-18 — Introduced in House
 - 2019-03-18 — Introduced in House
 - 2019-03-18 — Referred to the House Committee on Financial Services.
+- 2019-03-26 — Committee Consideration and Mark-up Session Held.
+- 2019-03-27 — Committee Consideration and Mark-up Session Held.
+- 2019-03-28 — Committee Consideration and Mark-up Session Held.
+- 2019-03-28 — Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 26.
+- 2019-06-20 — Placed on the Union Calendar, Calendar No. 91.
+- 2019-06-20 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-123.
+- 2019-06-20 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-123.
