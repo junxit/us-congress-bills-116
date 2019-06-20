@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 3379
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3379
+
+> To amend the Public Health Service Act to shorten the exclusivity period for brand name biological products from 12 to 5 years.
+
+## § 1. Short title
+
+This Act may be cited as the “Price Relief, Innovation, and Competition for Essential Drugs Act” or the “PRICED Act”.
+
+## § 2. Exclusivity period for brand name biological products
+
+- **(a)** *In general* Section 351(k)(7)(A) of the Public Health Service Act (42 U.S.C. 262(k)(7)(A)) is amended by striking “12 years” and inserting “5 years”.
+- **(b)** *Conforming changes* Paragraphs (2)(A) and (3)(A) of section 351(m) of the Public Health Service Act (42 U.S.C. 262(m)) is amended by striking “12 years” each place it appears and inserting “5 years”.
+- **(c)** *Applicability* This Act and the amendments made by this Act apply only with respect to a biological product for which the reference product (as such term is used in section 351 of the Public Health Service Act (42 U.S.C. 262)) is licensed under subsection (a) of such section on or after the date of enactment of this Act.
