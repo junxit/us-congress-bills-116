@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 3387
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3387
+
+> To create a pilot program for the Junior Reserve Officers’ Training Corps program at Lucy Garrett Beckham High School, and for other purposes.
+
+## § 1. Pilot program on the Junior Reserve Officers’ Training Corps program at Lucy Garrett Beckham High School, Charleston County, South Carolina
+
+- **(a)** *In general* The Secretary of the department in which the Coast Guard is operating may carry out a pilot program to establish and maintain a Junior Reserve Officers’ Training Corps (JROTC) program unit in cooperation with Lucy Garrett Beckham High School, Charleston County, South Carolina.
+- **(b)** *Program requirements* The pilot program carried out by the Secretary under this section shall provide to students at Lucy Garrett Beckham High School—
+  - **(1)** instruction in subject areas relating to operations of the Coast Guard; and
+  - **(2)** training in skills which are useful and appropriate for a career in the Coast Guard.
+- **(c)** *Provision of additional support* In carrying out the pilot program under this section, the Secretary may provide to Lucy Garrett Beckham High School—
+  - **(1)** assistance in course development, instruction, and other support activities; and
+  - **(2)** necessary and appropriate course materials, equipment, and uniforms.
+- **(d)** *Employment of retired coast guard personnel*
+  - **(1)** *In general* Subject to paragraph (2), the Secretary may authorize the Lucy Garrett Beckham High School to employ, as administrators and instructors for the pilot program, retired Coast Guard and Coast Guard Reserve commissioned, warrant, and petty officers not on active duty who request that employment and who are approved by the Secretary and Lucy Garrett Beckham High School.
+  - **(2)** *Authorized pay*
+    - **(A)** *In general* Retired members employed under paragraph (1) are entitled to receive their retired or retainer pay and an additional amount of not more than the difference between—
+      - **(i)** the amount the individual would be paid as pay and allowance if the individual was considered to have been ordered to active duty during the period of employment; and
+      - **(ii)** the amount of retired pay the individual is entitled to receive during that period.
+    - **(B)** *Payment to school* The Secretary shall pay to Lucy Garrett Beckham High School an amount equal to one-half of the amount described in subparagraph (A), from funds appropriated for such purpose.
+  - **(3)** *Employment not active-duty or inactive-duty training* Notwithstanding any other provision of law, while employed under this subsection, an individual is not considered to be on active-duty or inactive-duty training.
