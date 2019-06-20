@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 3383
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3383
+
+> To amend title 49, United States Code, with respect to minimum levels of financial responsibility for the transportation of property, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Safe And Fair Environment on Highways Achieved through Underwriting Levels Act” or the “SAFE HAUL Act”.
+
+## § 2. Minimum financial responsibility for transporting property
+
+- **(a)** *In general* Section 31139(b)(2) of title 49, United States Code, is amended by striking “$750,000.” and inserting “$4,532,550 and the Secretary, in consultation with the Bureau of Labor Statistics, shall adjust such amount annually for inflation relating to medical care.”.
+- **(b)** *Effective date* The amendment made by this section shall take effect on the date that is 180 days after the date of enactment of this Act.
