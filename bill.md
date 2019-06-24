@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 3449
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3449
+
+> To require that in a notice of proposed rule making for a new rule, the notice shall identify two rules which the agency intends to repeal.
+
+## § 1. Requirement to repeal two rules before making a new rule
+
+Section 553(b) of title 5, United States Code, is amended—
+
+- **(1)** in paragraph (2), by striking “and” at the end;
+- **(2)** in paragraph (3), by striking the period at the end and inserting “; and”; and
+- **(3)** by inserting after paragraph (3) the following:
+  > - **(4)** in the case of a notice of proposed rule making for a new rule, except in the case of a new rule which is required by statute, an identification of two rules that the agency intends to repeal, including the date on which the agency began the rule making process in order to repeal such rules.
