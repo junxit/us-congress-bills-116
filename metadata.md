@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2196
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2196
@@ -22,9 +22,10 @@ To amend title 38, United States Code, to reduce the credit hour requirement for
 - Rep. Roe, David P. [R-TN-1] (R000582)
 - Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To amend title 38, United States Code, to reduce the credit hour requirement for
 - 2019-06-24 — Mr. Takano moved to suspend the rules and pass the bill.
 - 2019-06-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5046)
 - 2019-06-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5046)
+- 2019-06-25 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
