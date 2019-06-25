@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 460
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 460
@@ -16,6 +16,10 @@ Providing for consideration of the bill (H.R. 2722) to protect elections for pub
 
 - Rep. McGovern, James P. [D-MA-2] (M000312)
 
+## Committees (1)
+
+- House — Rules Committee
+
 ## Actions
 
 - 2019-06-24 — Introduced in House
@@ -23,3 +27,11 @@ Providing for consideration of the bill (H.R. 2722) to protect elections for pub
 - 2019-06-24 — The House Committee on Rules reported an original measure, H. Rept. 116-126, by Mr. McGovern.
 - 2019-06-24 — The House Committee on Rules reported an original measure, H. Rept. 116-126, by Mr. McGovern.
 - 2019-06-24 — The resolution provides for consideration of H.R. 2722 under a closed rule with one hour of general debate. Also, the resolution provides for consideration of H.R. 3351 under a structured rule with one hour of general debate.
+- 2019-06-25 — Considered as privileged matter. (consideration: CR H5091-5099)
+- 2019-06-25 — Considered as unfinished business. (consideration: CR H5099-5100)
+- 2019-06-25 — DEBATE - The House proceeded with one hour of debate on H. Res. 460.
+- 2019-06-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-06-25 — On agreeing to the resolution Agreed to by the Yeas and Nays: 225 - 190 (Roll no. 404). (text: CR H5091)
+- 2019-06-25 — On ordering the previous question Agreed to by the Yeas and Nays: 228 - 188 (Roll no. 403). (consideration: CR H5099-5100)
+- 2019-06-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 460, the Chair put the question on ordering the previous question and by voice vote announced that the ayes had prevailed. Mr. Cole demanded the yeas and nays on ordering the previous question and the Chair postponed further proceedings until later in the legislative day.
+- 2019-06-25 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 225 - 190 (Roll no. 404).(text: CR H5091)
