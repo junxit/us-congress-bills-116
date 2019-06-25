@@ -1,7 +1,7 @@
 ---
 measure: S. 1333
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1333
@@ -16,7 +16,7 @@ Stopping Improper Payments to Deceased People Act
 
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 
-## Cosponsors (7)
+## Cosponsors (8)
 
 - Sen. Kennedy, John [R-LA] (K000393)
 - Sen. Peters, Gary C. [D-MI] (P000595)
@@ -25,6 +25,7 @@ Stopping Improper Payments to Deceased People Act
 - Sen. Sinema, Kyrsten [D-AZ] (S001191)
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Rubio, Marco [R-FL] (R000595)
 
 ## Committees (1)
 
@@ -34,3 +35,7 @@ Stopping Improper Payments to Deceased People Act
 
 - 2019-05-06 — Introduced in Senate
 - 2019-05-06 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2019-05-15 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2019-06-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-49.
+- 2019-06-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-49.
+- 2019-06-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 126.
