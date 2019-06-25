@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2196
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2196
@@ -45,3 +45,14 @@ To amend title 38, United States Code, to reduce the credit hour requirement for
 - 2019-06-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5046)
 - 2019-06-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5046)
 - 2019-06-25 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2019-07-25 — Message on Senate action sent to the House.
+- 2019-07-25 — Passed Senate without amendment by Voice Vote.
+- 2019-07-25 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2019-07-25 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S5118)
+- 2019-07-25 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S5118)
+- 2019-07-30 — Presented to President.
+- 2019-07-30 — Presented to President.
+- 2019-07-31 — Became Public Law No: 116-36.
+- 2019-07-31 — Became Public Law No: 116-36.
+- 2019-07-31 — Signed by President.
+- 2019-07-31 — Signed by President.
