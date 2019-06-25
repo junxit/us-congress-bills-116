@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2109
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2109
@@ -25,9 +25,10 @@ Boosting Rates of American Veteran Employment Act
 - Rep. Lee, Susie [D-NV-3] (L000590)
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Boosting Rates of American Veteran Employment Act
 - 2019-06-24 — Mr. Takano moved to suspend the rules and pass the bill.
 - 2019-06-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5045)
 - 2019-06-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5045)
+- 2019-06-25 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
