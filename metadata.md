@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1079
 congress: 116
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1079
@@ -45,3 +45,12 @@ Creating Advanced Streamlined Electronic Services for Constituents Act of 2019
 - 2019-06-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-50.
 - 2019-06-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-50.
 - 2019-06-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 127.
+- 2019-07-31 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5275)
+- 2019-07-31 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5275)
+- 2019-08-01 — Message on Senate action sent to the House.
+- 2019-08-13 — Presented to President.
+- 2019-08-13 — Presented to President.
+- 2019-08-22 — Became Public Law No: 116-50.
+- 2019-08-22 — Became Public Law No: 116-50.
+- 2019-08-22 — Signed by President.
+- 2019-08-22 — Signed by President.
