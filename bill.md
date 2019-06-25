@@ -1,0 +1,32 @@
+---
+legis-num: H.R. 3468
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3468
+
+> To amend the Fair Labor Standards Act of 1938 to provide that sex includes sexual orientation and gender identity, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Fair Pay for All Act of 2019”.
+
+## § 2. Sex to include sexual orientation and gender identity
+
+Section 6(d)(4) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(d)(4)) is amended—
+
+- **(1)** by striking the period at the end and inserting a semicolon;
+- **(2)** by striking “subsection, the term” and inserting the following:
+  > subsection—
+  > - **(A)** the term
+
+- **(3)** by adding at the end the following:
+  > - **(B)** the term gender identity means the gender-related identity, appearance, mannerisms, or other gender-related characteristics of an individual, regardless of the individual’s designated sex at birth;
+  > - **(C)** the term sex includes—
+  >   - **(i)** a sex stereotype;
+  >   - **(ii)** pregnancy, childbirth, or a related medical condition;
+  >   - **(iii)** sexual orientation or gender identity; and
+  >   - **(iv)** sex characteristics, including intersex traits; and
+  > - **(D)** the term sexual orientation includes homosexuality, heterosexuality, and bisexuality.
