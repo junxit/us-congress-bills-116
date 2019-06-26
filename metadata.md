@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3401
 congress: 116
-version: Engrossed in House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3401
@@ -46,3 +46,21 @@ Emergency Supplemental Appropriations for Humanitarian Assistance and Security a
 - 2019-06-25 — Rules Committee Resolution H. Res. 462 Reported to House. Rule provides for consideration of H.R. 3401 with 1 hour of general debate. Motion to recommit with or without instructions allowed.
 - 2019-06-25 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-06-25 — The previous question was ordered pursuant to the rule.
+- 2019-06-26 — Amendment SA 901 proposed by Senator Shelby. (consideration: CR S4541-4542) In the nature of a substitute.
+- 2019-06-26 — Amendment SA 901, under the order of 06/26/19, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 84 - 8. Record Vote Number: 184.
+- 2019-06-26 — Amendment SA 902 proposed by Senator Paul to Amendment SA 901. (consideration: CR S4541-4542; text: CR S4542) To rescind $4,586,000,000 from foreign assistance and exchange programs.
+- 2019-06-26 — Failed of passage/not agreed to in Senate: Under the order of 06/26/19, not having achieved 60 votes in the affirmative, H.R. 3401 failed of passage in Senate by Yea-Nay Vote. 37 - 55. Record Vote Number: 182.
+- 2019-06-26 — Measure laid before Senate by unanimous consent. (consideration: CR S4531-4543)
+- 2019-06-26 — Message on Senate action sent to the House.
+- 2019-06-26 — Motion to table amendment SA 902 agreed to in Senate by Yea-Nay Vote. 77 - 15. Record Vote Number: 183.
+- 2019-06-26 — Passed Senate, under the order of 06/26/19, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 84 - 8. Record Vote Number: 185.
+- 2019-06-26 — Passed/agreed to in Senate: Passed Senate, under the order of 06/26/19, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 84 - 8. Record Vote Number: 185.
+- 2019-06-26 — Received in the Senate, read twice.
+- 2019-06-26 — Roll call votes on amendments in Senate: Amendment SA 901, under the order of 06/26/19, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 84 - 8. Record Vote Number: 184.
+- 2019-06-26 — Roll call votes on amendments in Senate: Motion to table amendment SA 902 agreed to in Senate by Yea-Nay Vote. 77 - 15. Record Vote Number: 183.
+- 2019-06-26 — Senate amendment agreed to: Amendment SA 901, under the order of 06/26/19, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 84 - 8. Record Vote Number: 184.
+- 2019-06-26 — Senate amendment proposed (on the floor): Amendment SA 901 proposed by Senator Shelby.
+- 2019-06-26 — Senate amendment proposed (on the floor): Amendment SA 902 proposed by Senator Paul to Amendment SA 901.
+- 2019-06-26 — Senate amendment submitted
+- 2019-06-26 — Senate amendment submitted
+- 2019-06-26 — Under the order of 06/26/19, not having achieved 60 votes in the affirmative, H.R. 3401 failed of passage in Senate by Yea-Nay Vote. 37 - 55. Record Vote Number: 182.
