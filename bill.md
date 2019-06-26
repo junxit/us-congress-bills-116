@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 3518
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3518
+
+> To prohibit the payment of death gratuities to the surviving heirs of deceased Members of Congress.
+
+## § 1. Prohibiting payment of gratuities to survivors of members of Congress
+
+- **(a)** *Prohibition* No payment may be made from the applicable accounts of the House of Representatives, the contingent fund of the Senate, or any other appropriated funds for a death gratuity payment to the widow, widower, or heirs-at-law of any Member of Congress who dies after the commencement of the Congress to which the Member has been elected.
+- **(b)** *No effect on other payments to survivors* Nothing in subsection (a) shall be construed to prohibit or affect the payment to any individual of any unpaid balance or salary or other sums due to a Member of Congress who dies after the commencement of the Congress to which the Member has been elected.
+
+## § 2. Definition
+
+For purposes of this Act, a “Member of Congress” means a Senator or a Representative in, or Delegate or Resident Commissioner to, the Congress.
