@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3401
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3401
@@ -64,3 +64,18 @@ Emergency Supplemental Appropriations for Humanitarian Assistance and Security a
 - 2019-06-26 — Senate amendment submitted
 - 2019-06-26 — Senate amendment submitted
 - 2019-06-26 — Under the order of 06/26/19, not having achieved 60 votes in the affirmative, H.R. 3401 failed of passage in Senate by Yea-Nay Vote. 37 - 55. Record Vote Number: 182.
+- 2019-06-27 — DEBATE - The House proceeded with one hour of debate on the motion to agree in the Senate amendment to H.R. 3401
+- 2019-06-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-06-27 — Mrs. Lowey moved that the House agree to the Senate amendment. (consideration: CR H5246-5250)
+- 2019-06-27 — On motion the House agree to the Senate amendment Agreed to by recorded vote: 305 - 102 (Roll no. 429). (text: CR H5246-5248)
+- 2019-06-27 — Pursuant to the provisions of H. Res. 466, Mrs. Lowey called up H.R. 3401 and offered a motion.
+- 2019-06-27 — Resolving differences -- House actions: On motion the House agree to the Senate amendment Agreed to by recorded vote: 305 - 102 (Roll no. 429).(text: CR H5246-5248)
+- 2019-06-27 — Rule H. Res. 466 passed House.
+- 2019-06-27 — Rules Committee Resolution H. Res. 466 Reported to House. Rule provides for consideration of Senate amendment to H.R. 3401.
+- 2019-06-27 — The previous question was ordered pursuant to the rule.
+- 2019-06-28 — Presented to President.
+- 2019-06-28 — Presented to President.
+- 2019-07-01 — Became Public Law No: 116-26.
+- 2019-07-01 — Became Public Law No: 116-26.
+- 2019-07-01 — Signed by President.
+- 2019-07-01 — Signed by President.
