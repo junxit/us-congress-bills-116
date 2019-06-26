@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3401
 congress: 116
-version: Engrossed Amendment Senate
+version: Received in Senate
 ---
 
 # H.R. 3401
