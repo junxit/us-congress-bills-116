@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2722
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-52 amendatory instructions. 10 executed, 42 stated and not applied.
+63 amendatory instructions. 11 executed, 52 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -87,6 +87,15 @@ to guess them.
 | Removed | `the Commission shall` |
 | Inserted | `the Commission, in consultation with the Secretary of Homeland Security (as appropriate), shall` |
 
+### 52 U.S.C. § 21111
+
+> Section 401 of such Act (52 U.S.C. 21111) is amended by striking “and 303” and inserting “303, and 303A”.
+
+| | |
+|---|---|
+| Removed | `and 303` |
+| Inserted | `303, and 303A` |
+
 ### 52 U.S.C. § 21081
 
 > in the matter preceding paragraph (1), by striking “this section” and inserting “this Act”;
@@ -126,6 +135,7 @@ complete account of the bill's effect, which it is not.
 | `52 U.S.C. § 21081` | amend | Section 301(a)(2) of the Help America Vote Act of 2002 (52 U.S.C. 21081(a)(2)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 21081` | insert | Section 301(a)(4) of such Act (52 U.S.C. 21081(a)(4)) is amended by inserting “(including the paper ballots required to be used under paragraph (2))” after “voting system”. | the bill quotes the text inserted but describes where it goes |
 | `52 U.S.C. § 21081` | amend | Section 301(a)(3)(B) of the Help America Vote Act of 2002 (52 U.S.C. 21081(a)(3)(B)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 21081` | add-at-end | Section 301(a)(3) of such Act (52 U.S.C. 21081(a)(3)) is amended by adding at the end the following new flush sentence: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 21081` | redesignate | by redesignating section 247 as section 248; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 21081` | insert | by inserting after section 246 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 21081` | redesignate | by redesignating the item relating to section 247 as relating to section 248; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -149,8 +159,18 @@ complete account of the bill's effect, which it is not.
 | `52 U.S.C. § 21083` | replace | Section 303(a)(3) of such Act (52 U.S.C. 21083(a)(3)) is amended by striking the period at the end and inserting “, as well as other measures to prevent and deter cybersecurity incidents, as identified by the Commission, the Secretary of… | the bill quotes the text inserted but describes where it goes |
 | `52 U.S.C. § 21141` | amend | Section 901 of the Help America Vote Act of 2002 (52 U.S.C. 21141) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 21141` | amend | The table of contents of such Act is amended by amending the item relating to section 901 to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 21081` | insert | Title III of the Help America Vote Act of 2002 (52 U.S.C. 21081 et seq.) is amended by inserting after section 303 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 21081` | insert | The table of contents for such Act is amended by inserting after the item relating to section 303 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 21001` | add-at-end | Subtitle D of title II of the Help America Vote Act of 2002 (52 U.S.C. 21001 et seq.), as amended by section 111(a), is amended by adding at the end the following new part: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 21001` | add-at-end | The table of contents of such Act, as amended by section 111(b), is further amended by adding at the end of the items relating to subtitle D of title II the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 21081` | add-at-end | Section 301(a) of the Help America Vote Act of 2002 (52 U.S.C. 21081(a)), as amended by section 104 and section 105, is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 21081` | add-at-end | Section 301(a) of such Act (52 U.S.C. 21081(a)), as amended by section 104, section 105, and subsection (a), is further amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 21081` | add-at-end | Section 301(a) of such Act (52 U.S.C. 21081(a)), as amended by section 104, section 105, and subsections (a) and (b), is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 20971` | add-at-end | Subtitle B of title II of the Help America Vote Act of 2002 (52 U.S.C. 20971 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 20922` | insert | Section 202(2) of the Help America Vote Act of 2002 (52 U.S.C. 20922(2)) is amended by inserting “and ballot marking devices” after “hardware and software”). | the bill quotes the text inserted but describes where it goes |
+| `52 U.S.C. § 20922` | insert | The heading for subtitle B of title II of such Act is amended by inserting at the end“; ballot marking devices”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 20922` | insert | by inserting “; Ballot Marking Devices” at the end of the item relating to subtitle B of title II; and | the bill quotes the text inserted but describes where it goes |
+| `52 U.S.C. § 20922` | insert | by inserting after the item related to section 231 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 20971` | add-at-end | Section 231(a) of the Help America Vote Act of 2002 (52 U.S.C. 20971(a)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 20961` | add-at-end | Section 221(b) of the Help America Vote Act of 2002 (52 U.S.C. 20961(b)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 21081` | add-at-end | Section 301(a) of the Help America Vote Act of 2002 (52 U.S.C. 21081(a)), as amended by sections 104 and 105, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -163,5 +183,4 @@ complete account of the bill's effect, which it is not.
 | `52 U.S.C. § 21081` | insert | Title III of the Help America Vote Act of 2002 (52 U.S.C. 21081 et seq.) is amended by inserting after section 301 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 21081` | insert | The table of contents of such Act is amended by inserting after the item relating to section 301 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 20922` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `52 U.S.C. § 20921` | add-at-end | Subtitle A of title II of the Help America Vote Act of 2002 (52 U.S.C. 20921 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `52 U.S.C. § 21081` | add-at-end | Section 301(a) of the Help America Vote Act of 2002 (52 U.S.C. 21081(a)), as amended by section 104, section 105, and section 202 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 21081` | add-at-end | Section 301(a) of the Help America Vote Act of 2002 (52 U.S.C. 21081(a)), as amended by section 104, section 105, and section 203, is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
