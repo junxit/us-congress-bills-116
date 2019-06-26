@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 3515
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3515
+
+> To amend the Fair Labor Standards Act of 1938 to prohibit States and municipalities from adopting certain laws and ordinances, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Wage Increase Fairness Act”.
+
+## § 2. Amendment to the Fair Labor Standards Act 1938
+
+Section 6 of the Fair Labor Standards Act (29 U.S.C. 206) is amended by adding at the end the following:
+
+> - **(h)** Nothing in this subsection shall limit the amount of a minimum wage set pursuant to this section, or of a minimum wage set by a State or municipality pursuant to section 18 of this Act, provided that: notwithstanding section 18 or any other provision of law, no State or municipality shall adopt any law or ordinance which has the purpose or effect of establishing a minimum wage which distinguishes, classifies, or establishes any requirement on an employer based on its status as excluded from the definition of “enterprise” pursuant to the second sentence of section 3(r)(1).
