@@ -1,0 +1,75 @@
+---
+legis-num: S. 1975
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1975
+
+> To require the Small Business Administration to issue licenses under the Small Business Investment Act of 1958 within particular time frames, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Small Business Investment Improvement Act of 2019”.
+
+## § 2. Timelines for issuance of SBIC licenses
+
+Section 301(c) of the Small Business Investment Act of 1958 (15 U.S.C. 681(c)) is amended—
+
+- **(1)** in paragraph (2)—
+  - **(A)** by amending subparagraph (A) to read as follows:
+    > - **(A)** *Status* The Administrator shall provide an applicant with a written report detailing the status of the application and any requirements remaining for completion of the application, including any external or internal delays—
+    >   - **(i)** except as provided in clauses (ii) and (iii), not later than 120 days after the initial receipt by the Administrator of the application;
+    >   - **(ii)** not later than 45 days after the initial receipt, if the application is submitted by a repeat applicant or a non-leveraged, non-bank applicant; or
+    >   - **(iii)** not later than 25 days after the initial receipt, if the application is submitted by a bank-owned applicant.
+
+  - **(B)** in subparagraph (B), in the matter preceding clause (i), by striking “Within a reasonable time after receiving” and inserting “Except as provided in subparagraph (C), not later than 240 days after the date on which the Administrator receives”; and
+  - **(C)** by adding at the end the following:
+    > - **(C)** *Exceptions*
+    >   - **(i)** *Repeat applicants; non-leveraged, non-bank applicant* Notwithstanding subparagraph (B), not later than 90 days after the date on which the Administrator receives a completed application submitted by a repeat applicant or a non-leveraged, non-bank applicant in accordance with this subsection and in accordance with such requirements as the Administrator may prescribe by regulation, the Administrator shall—
+    >     - **(I)** review the application in its entirety; and
+    >     - **(II)**
+    >       - **(aa)** approve the application and issue a license for such operation to the applicant if the requirements of this section are satisfied; or
+    >       - **(bb)** disapprove the application and notify the applicant in writing of the disapproval.
+    >   - **(ii)** *Bank-owned applicants* Notwithstanding subparagraph (B), not later than 45 days after the date on which the Administrator receives a completed application submitted by a bank-owned applicant in accordance with this subsection and in accordance with such requirements as the Administrator may prescribe by regulation, the Administrator shall—
+    >     - **(I)** review the application in its entirety; and
+    >     - **(II)**
+    >       - **(aa)** approve the application and issue a license for such operation to the applicant if the requirements of this section are satisfied; or
+    >       - **(bb)** disapprove the application and notify the applicant in writing of the disapproval.
+
+- **(2)** in paragraph (3)—
+  - **(A)** in subparagraph (A)—
+    - **(i)** in clause (i), by striking “and” at the end;
+    - **(ii)** in clause (ii), by adding “and” at the end; and
+    - **(iii)** by adding at the end the following:
+      > - **(iii)** the management of the applicant has successfully passed Federal Bureau of Investigation background checks within the preceding 1-year period;
+
+  - **(B)** in subparagraph (B)—
+    - **(i)** in clause (ii), by striking “and” at the end;
+    - **(ii)** in clause (iii), by adding “and” at the end; and
+    - **(iii)** by adding at the end the following:
+      > - **(iv)** the public interest of approving or disapproving the applicant.
+
+- **(3)** in paragraph (4)(A)—
+  - **(A)** in clause (ii), by striking “and” at the end;
+  - **(B)** in clause (iii), by striking the period at the end and inserting “; and”; and
+  - **(C)** by adding at the end the following:
+    > - **(iv)** has successfully passed a Federal Bureau of Investigation background check within the preceding 1-year period.
+
+- **(4)** by adding at the end the following:
+  > - **(5)** *Definitions* In this subsection—
+  >   - **(A)** the term bank-owned applicant means an applicant for a license to operate as a small business investment company under this Act that—
+  >     - **(i)** is a national bank or any member bank of the Federal Reserve System or nonmember insured bank;
+  >     - **(ii)** bears the same name as the future small business investment company;
+  >     - **(iii)** is domestically domiciled; and
+  >     - **(iv)** has not had a license under this Act revoked or involuntarily surrendered during the 10-year period preceding the date on which the application is submitted;
+  >   - **(B)** the term non-leveraged, non-bank applicant means an applicant for a license to operate as a small business investment company under this Act that is not bank-owned and that, when operational, poses no risk to the Federal Government; and
+  >   - **(C)** the term repeat applicant means an applicant for a license to operate as a small business investment company under this Act that—
+  >     - **(i)** has previously applied for and been issued such a license;
+  >     - **(ii)** has 50 percent of the same management team with the 50 percent of the same investment committee as when the applicant operated as a small business investment company;
+  >     - **(iii)** is applying for the same or less ratio leverage as when the applicant operated as a small business investment company;
+  >     - **(iv)** has substantially the same investment strategy as when the applicant operated as a small business investment company;
+  >     - **(v)** is not more than 50 percent larger than when the applicant operated as a small business investment company;
+  >     - **(vi)** has not less than 50 percent of institutional limited partnerships returning from the prior fund to invest in the new small business investment company; and
+  >     - **(vii)** has not had any major findings on examinations of the prior fund.
