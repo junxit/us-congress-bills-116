@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3351
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3351
@@ -20,9 +20,216 @@ Financial Services and General Government Appropriations Act, 2020
 
 - House — Appropriations Committee
 
+## Recorded votes (12)
+
+- 2019-06-25 — [House 116-1-411](votes/house-116-1-0411.md) — On Agreeing to the Amendment — **Failed** (191–226)
+- 2019-06-25 — [House 116-1-412](votes/house-116-1-0412.md) — On Agreeing to the Amendment — **Agreed to** (226–198)
+- 2019-06-26 — [House 116-1-415](votes/house-116-1-0415.md) — On Agreeing to the Amendment — **Failed** (151–274)
+- 2019-06-26 — [House 116-1-416](votes/house-116-1-0416.md) — On Agreeing to the Amendment — **Agreed to** (227–200)
+- 2019-06-26 — [House 116-1-417](votes/house-116-1-0417.md) — On Agreeing to the Amendment — **Failed** (141–285)
+- 2019-06-26 — [House 116-1-418](votes/house-116-1-0418.md) — On Agreeing to the Amendment — **Agreed to** (406–19)
+- 2019-06-26 — [House 116-1-419](votes/house-116-1-0419.md) — On Agreeing to the Amendment — **Agreed to** (400–27)
+- 2019-06-26 — [House 116-1-420](votes/house-116-1-0420.md) — On Agreeing to the Amendment — **Agreed to** (373–51)
+- 2019-06-26 — [House 116-1-421](votes/house-116-1-0421.md) — On Agreeing to the Amendment — **Agreed to** (408–17)
+- 2019-06-26 — [House 116-1-422](votes/house-116-1-0422.md) — On Agreeing to the Amendment — **Agreed to** (362–65)
+- 2019-06-26 — [House 116-1-423](votes/house-116-1-0423.md) — On Motion to Recommit with Instructions — **Passed** (226–195)
+- 2019-06-26 — [House 116-1-424](votes/house-116-1-0424.md) — On Passage — **Passed** (224–196)
+
 ## Actions
 
 - 2019-06-19 — Introduced in House
 - 2019-06-19 — Placed on the Union Calendar, Calendar No. 90.
 - 2019-06-19 — The House Committee on Appropriations reported an original measure, H. Rept. 116-122, by Mr. Quigley.
 - 2019-06-19 — The House Committee on Appropriations reported an original measure, H. Rept. 116-122, by Mr. Quigley.
+- 2019-06-24 — Rules Committee Resolution H. Res. 460 Reported to House. Rule provides for consideration of H.R. 2722 and H.R. 3351. The resolution provides for consideration of H.R. 2722 under a closed rule with one hour of general debate. Also, the resolution provides for consideration of H.R. 3351 under a structured rule with one hour of general debate.
+- 2019-06-25 — Amendment (A001) offered by Mr. Pocan. (consideration: CR H5130-5131; text: CR H5130)
+- 2019-06-25 — Amendment (A002) offered by Mr. King (IA). (consideration: CR H5131-5132, H5159-5160; text: CR H5131)
+- 2019-06-25 — Amendment (A003) offered by Ms. Norton. (consideration: CR H5132-5133, H5160-5161; text: CR H5132)
+- 2019-06-25 — Amendment (A004) offered by Mr. Huizenga. (consideration: CR H5133-5134; text: CR H5133)
+- 2019-06-25 — Amendment (A005) offered by Ms. Velazquez. (consideration: CR H5134; text: CR H5134)
+- 2019-06-25 — Amendment (A006) offered by Mr. Hill (AR). (consideration: CR H5134-5135; text: CR H5134)
+- 2019-06-25 — Amendment (A007) offered by Ms. Lee (CA). (consideration: CR H5135; text: CR H5135)
+- 2019-06-25 — Amendment (A008) offered by Mr. Courtney. (consideration: CR H5135-5136; text: CR H5135)
+- 2019-06-25 — Amendment (A009) offered by Mr. Pascrell. (consideration: CR H5136-5138; text: CR H5136)
+- 2019-06-25 — Amendment agreed to Committee of the Whole
+- 2019-06-25 — Amendment agreed to Committee of the Whole
+- 2019-06-25 — Amendment agreed to Committee of the Whole
+- 2019-06-25 — Amendment agreed to Committee of the Whole
+- 2019-06-25 — Amendment agreed to Committee of the Whole
+- 2019-06-25 — Amendment agreed to Committee of the Whole
+- 2019-06-25 — Amendment agreed to Committee of the Whole
+- 2019-06-25 — Amendment failed in Committee of the Whole
+- 2019-06-25 — Amendment failed in Committee of the Whole
+- 2019-06-25 — Committee of the Whole House on the state of the Union rises leaving H.R. 3351 as unfinished business.
+- 2019-06-25 — Committee of the Whole House on the state of the Union rises leaving H.R. 3351 as unfinished business.
+- 2019-06-25 — Committee of the Whole House on the state of the Union rises leaving H.R. 3351 as unfinished business.
+- 2019-06-25 — Considered as unfinished business. (consideration: CR H5108-5138)
+- 2019-06-25 — Considered as unfinished business. (consideration: CR H5159-5161)
+- 2019-06-25 — Considered under the provisions of rule H. Res. 460. (consideration: CR H5104-5108)
+- 2019-06-25 — DEBATE - Pursuant to the provisions of H. Res. 460, the Committee of the Whole proceeded with 10 minutes of debate on the Courtney amendment No. 9.
+- 2019-06-25 — DEBATE - Pursuant to the provisions of H. Res. 460, the Committee of the Whole proceeded with 10 minutes of debate on the Hill (AR) amendment No. 7.
+- 2019-06-25 — DEBATE - Pursuant to the provisions of H. Res. 460, the Committee of the Whole proceeded with 10 minutes of debate on the Huizenga amendment No. 5.
+- 2019-06-25 — DEBATE - Pursuant to the provisions of H. Res. 460, the Committee of the Whole proceeded with 10 minutes of debate on the King (IA) amendment No. 3.
+- 2019-06-25 — DEBATE - Pursuant to the provisions of H. Res. 460, the Committee of the Whole proceeded with 10 minutes of debate on the Lee (CA) amendment No. 8.
+- 2019-06-25 — DEBATE - Pursuant to the provisions of H. Res. 460, the Committee of the Whole proceeded with 10 minutes of debate on the Norton amendment No. 4.
+- 2019-06-25 — DEBATE - Pursuant to the provisions of H. Res. 460, the Committee of the Whole proceeded with 10 minutes of debate on the Pascrell amendment No. 10.
+- 2019-06-25 — DEBATE - Pursuant to the provisions of H. Res. 460, the Committee of the Whole proceeded with 10 minutes of debate on the Velázquez amendment No. 6.
+- 2019-06-25 — DEBATE - Pursuant to the provisions of H.Res. 460, the Committee of the Whole proceeded with 10 minutes of debate on the Pocan amendment No. 1.
+- 2019-06-25 — GENERAL DEBATE - The Committee of the Whole proceeded with further debate on H.R. 3351.
+- 2019-06-25 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 3351.
+- 2019-06-25 — House amendment agreed to: On agreeing to the Courtney amendment (A008) Agreed to by voice vote.
+- 2019-06-25 — House amendment agreed to: On agreeing to the Hill (AR) amendment (A006) Agreed to by voice vote.
+- 2019-06-25 — House amendment agreed to: On agreeing to the Lee (CA) amendment (A007) Agreed to by voice vote.
+- 2019-06-25 — House amendment agreed to: On agreeing to the Norton amendment (A003) Agreed to by recorded vote: 226 - 198 (Roll no. 412).
+- 2019-06-25 — House amendment agreed to: On agreeing to the Pascrell amendment (A009) Agreed to by voice vote.
+- 2019-06-25 — House amendment agreed to: On agreeing to the Pocan amendment (A001) Agreed to by voice vote.
+- 2019-06-25 — House amendment agreed to: On agreeing to the Velazquez amendment (A005) Agreed to by voice vote.
+- 2019-06-25 — House amendment not agreed to: On agreeing to the Huizenga amendment (A004) Failed by voice vote.
+- 2019-06-25 — House amendment not agreed to: On agreeing to the King (IA) amendment (A002) Failed by recorded vote: 191 - 226 (Roll no. 411).
+- 2019-06-25 — House amendment offered
+- 2019-06-25 — House amendment offered
+- 2019-06-25 — House amendment offered
+- 2019-06-25 — House amendment offered
+- 2019-06-25 — House amendment offered
+- 2019-06-25 — House amendment offered
+- 2019-06-25 — House amendment offered
+- 2019-06-25 — House amendment offered
+- 2019-06-25 — House amendment offered
+- 2019-06-25 — House amendment offered/reported by: Amendment (A001) offered by Mr. Pocan.
+- 2019-06-25 — House amendment offered/reported by: Amendment (A002) offered by Mr. King (IA).
+- 2019-06-25 — House amendment offered/reported by: Amendment (A003) offered by Ms. Norton.
+- 2019-06-25 — House amendment offered/reported by: Amendment (A004) offered by Mr. Huizenga.
+- 2019-06-25 — House amendment offered/reported by: Amendment (A005) offered by Ms. Velazquez.
+- 2019-06-25 — House amendment offered/reported by: Amendment (A006) offered by Mr. Hill (AR).
+- 2019-06-25 — House amendment offered/reported by: Amendment (A007) offered by Ms. Lee (CA).
+- 2019-06-25 — House amendment offered/reported by: Amendment (A008) offered by Mr. Courtney.
+- 2019-06-25 — House amendment offered/reported by: Amendment (A009) offered by Mr. Pascrell.
+- 2019-06-25 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 460 and Rule XVIII.
+- 2019-06-25 — Mr. Quigley moved that the Committee rise.
+- 2019-06-25 — Mr. Quigley moved that the Committee rise.
+- 2019-06-25 — Ms. Kaptur moved that the committee rise.
+- 2019-06-25 — On agreeing to the Courtney amendment (A008) Agreed to by voice vote.
+- 2019-06-25 — On agreeing to the Hill (AR) amendment (A006) Agreed to by voice vote.
+- 2019-06-25 — On agreeing to the Huizenga amendment (A004) Failed by voice vote.
+- 2019-06-25 — On agreeing to the King (IA) amendment (A002) Failed by recorded vote: 191 - 226 (Roll no. 411).
+- 2019-06-25 — On agreeing to the Lee (CA) amendment (A007) Agreed to by voice vote.
+- 2019-06-25 — On agreeing to the Norton amendment (A003) Agreed to by recorded vote: 226 - 198 (Roll no. 412).
+- 2019-06-25 — On agreeing to the Pascrell amendment (A009) Agreed to by voice vote.
+- 2019-06-25 — On agreeing to the Pocan amendment (A001) Agreed to by voice vote.
+- 2019-06-25 — On agreeing to the Velazquez amendment (A005) Agreed to by voice vote.
+- 2019-06-25 — On motion that the Committee rise Agreed to by voice vote.
+- 2019-06-25 — On motion that the Committee rise Agreed to by voice vote.
+- 2019-06-25 — On motion that the committee rise Agreed to by voice vote.
+- 2019-06-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the King (IA) amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. King (IA) demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Norton amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Graves (GA) demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-25 — Roll call votes on amendments in House
+- 2019-06-25 — Roll call votes on amendments in House
+- 2019-06-25 — Rule H. Res. 460 passed House.
+- 2019-06-25 — Rule provides for consideration of H.R. 2722 and H.R. 3351. The resolution provides for consideration of H.R. 2722 under a closed rule with one hour of general debate. Also, the resolution provides for consideration of H.R. 3351 under a structured rule with one hour of general debate.
+- 2019-06-25 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2019-06-25 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2019-06-25 — The Speaker designated the Honorable William R. Keating to act as Chairman of the Committee.
+- 2019-06-26 — Amendment (A011) offered by Mr. Grothman. (consideration: CR H5179-5180, H5189; text: CR H5179)
+- 2019-06-26 — Amendment (A013) offered by Mr. Connolly. (consideration: CR H5184-5185; text: CR H5184)
+- 2019-06-26 — Amendment (A014) offered by Mr. Banks. (consideration: CR H5185-5186, H5190-5191; text: CR H5185)
+- 2019-06-26 — Amendment (A015) offered by Mr. Suozzi. (consideration: CR H5186, H5191; text: CR H5186)
+- 2019-06-26 — Amendment (A016) offered by Mrs. Lee (NV). (consideration: CR H5186-5187, H5191-5192; text: CR H5187)
+- 2019-06-26 — Amendment (A017) offered by Ms. Dean. (consideration: CR H5187-5188, H5192-5193; text: CR H5187)
+- 2019-06-26 — Amendment (A018) offered by Mr. Kim. (consideration: CR H5188, H5193; text: CR H5188)
+- 2019-06-26 — Amendment (A019) offered by Mr. Malinowski. (consideration: CR H5188, H5193-5194; text: CR H5188)
+- 2019-06-26 — Amendment (A020) offered by Mr. Quigley. (consideration: CR H5196; text: CR H5196)
+- 2019-06-26 — Amendment agreed to Committee of the Whole
+- 2019-06-26 — Amendment agreed to Committee of the Whole
+- 2019-06-26 — Amendment agreed to Committee of the Whole
+- 2019-06-26 — Amendment agreed to Committee of the Whole
+- 2019-06-26 — Amendment agreed to Committee of the Whole
+- 2019-06-26 — Amendment agreed to Committee of the Whole
+- 2019-06-26 — Amendment agreed to Committee of the Whole
+- 2019-06-26 — Amendment agreed to Committee of the Whole
+- 2019-06-26 — Amendment agreed to by House: On agreeing to the Quigley amendment (A020) Agreed to by voice vote.
+- 2019-06-26 — Amendment failed in Committee of the Whole
+- 2019-06-26 — Amendment failed in Committee of the Whole
+- 2019-06-26 — Amendments en bloc (A010) offered by Mr. Quigley. (consideration: CR H5177-5179; text: CR H5177)
+- 2019-06-26 — Amendments en bloc (A012) offered by Mr. Quigley. (consideration: CR H5180-5184, H5189-5190; text: CR H5180-5183)
+- 2019-06-26 — Considered as unfinished business. (consideration: CR H5177-5197)
+- 2019-06-26 — DEBATE - Pursuant to the provisions of H. Res. 460, the Committee of the Whole proceeded with 10 minutes of debate on the Banks amendment No. 19.
+- 2019-06-26 — DEBATE - Pursuant to the provisions of H. Res. 460, the Committee of the Whole proceeded with 10 minutes of debate on the Connolly amendment No. 18
+- 2019-06-26 — DEBATE - Pursuant to the provisions of H. Res. 460, the Committee of the Whole proceeded with 10 minutes of debate on the Dean amendment No. 32.
+- 2019-06-26 — DEBATE - Pursuant to the provisions of H. Res. 460, the Committee of the Whole proceeded with 10 minutes of debate on the Grothman amendment No. 13.
+- 2019-06-26 — DEBATE - Pursuant to the provisions of H. Res. 460, the Committee of the Whole proceeded with 10 minutes of debate on the Kim amendment No. 35.
+- 2019-06-26 — DEBATE - Pursuant to the provisions of H. Res. 460, the Committee of the Whole proceeded with 10 minutes of debate on the Lee (NV) amendment No. 27.
+- 2019-06-26 — DEBATE - Pursuant to the provisions of H. Res. 460, the Committee of the Whole proceeded with 10 minutes of debate on the Malinowski amendment No. 40.
+- 2019-06-26 — DEBATE - Pursuant to the provisions of H. Res. 460, the Committee of the Whole proceeded with 10 minutes of debate on the Suozzi amendment No. 26.
+- 2019-06-26 — DEBATE - Pursuant to the provisions of H. Res. 460, the Committee of the Whole proceeded with 20 minutes of debate on the Quigley amendment en bloc No. 1.
+- 2019-06-26 — DEBATE - Pursuant to the provisions of H. Res. 460, the Committee of the Whole proceeded with 20 minutes of debate on the Quigley amendment en bloc No. 2.
+- 2019-06-26 — DEBATE - The House proceeded with 10 minutes of debate on the Graves (GA) motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to increase funding for the Office of Terrorism and Financial Intelligence account by $10 million and decrease funding for the General Services Administration account by a similar amount.
+- 2019-06-26 — House amendment agreed to: On agreeing to the Connolly amendment (A013) Agreed to by voice vote.
+- 2019-06-26 — House amendment agreed to: On agreeing to the Dean amendment (A017) Agreed to by recorded vote: 373 - 51 (Roll no. 420).
+- 2019-06-26 — House amendment agreed to: On agreeing to the Kim amendment (A018) Agreed to by recorded vote: 408 - 17 (Roll no. 421).
+- 2019-06-26 — House amendment agreed to: On agreeing to the Lee (NV) amendment (A016) Agreed to by recorded vote: 400 - 27 (Roll no. 419).
+- 2019-06-26 — House amendment agreed to: On agreeing to the Malinowski amendment (A019) Agreed to by recorded vote: 362 - 65 (Roll no. 422).
+- 2019-06-26 — House amendment agreed to: On agreeing to the Quigley amendment (A020) Agreed to by voice vote.
+- 2019-06-26 — House amendment agreed to: On agreeing to the Quigley amendments (A010) Agreed to by voice vote.
+- 2019-06-26 — House amendment agreed to: On agreeing to the Quigley amendments (A012) Agreed to by recorded vote: 227 - 200 (Roll no. 416).
+- 2019-06-26 — House amendment agreed to: On agreeing to the Suozzi amendment (A015) Agreed to by recorded vote: 406 - 19 (Roll no. 418).
+- 2019-06-26 — House amendment not agreed to: On agreeing to the Banks amendment (A014) Failed by recorded vote: 141 - 285 (Roll no. 417).
+- 2019-06-26 — House amendment not agreed to: On agreeing to the Grothman amendment (A011) Failed by recorded vote: 151 - 274 (Roll no. 415).
+- 2019-06-26 — House amendment offered
+- 2019-06-26 — House amendment offered
+- 2019-06-26 — House amendment offered
+- 2019-06-26 — House amendment offered
+- 2019-06-26 — House amendment offered
+- 2019-06-26 — House amendment offered
+- 2019-06-26 — House amendment offered
+- 2019-06-26 — House amendment offered
+- 2019-06-26 — House amendment offered
+- 2019-06-26 — House amendment offered
+- 2019-06-26 — House amendment offered
+- 2019-06-26 — House amendment offered/reported by: Amendment (A011) offered by Mr. Grothman.
+- 2019-06-26 — House amendment offered/reported by: Amendment (A013) offered by Mr. Connolly.
+- 2019-06-26 — House amendment offered/reported by: Amendment (A014) offered by Mr. Banks.
+- 2019-06-26 — House amendment offered/reported by: Amendment (A015) offered by Mr. Suozzi.
+- 2019-06-26 — House amendment offered/reported by: Amendment (A016) offered by Mrs. Lee (NV).
+- 2019-06-26 — House amendment offered/reported by: Amendment (A017) offered by Ms. Dean.
+- 2019-06-26 — House amendment offered/reported by: Amendment (A018) offered by Mr. Kim.
+- 2019-06-26 — House amendment offered/reported by: Amendment (A019) offered by Mr. Malinowski.
+- 2019-06-26 — House amendment offered/reported by: Amendment (A020) offered by Mr. Quigley.
+- 2019-06-26 — House amendment offered/reported by: Amendments en bloc (A010) offered by Mr. Quigley.
+- 2019-06-26 — House amendment offered/reported by: Amendments en bloc (A012) offered by Mr. Quigley.
+- 2019-06-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-06-26 — Mr. Graves (GA) moved to recommit with instructions to the Committee on Appropriations. (text: CR H5194)
+- 2019-06-26 — On agreeing to the Banks amendment (A014) Failed by recorded vote: 141 - 285 (Roll no. 417).
+- 2019-06-26 — On agreeing to the Connolly amendment (A013) Agreed to by voice vote.
+- 2019-06-26 — On agreeing to the Dean amendment (A017) Agreed to by recorded vote: 373 - 51 (Roll no. 420).
+- 2019-06-26 — On agreeing to the Grothman amendment (A011) Failed by recorded vote: 151 - 274 (Roll no. 415).
+- 2019-06-26 — On agreeing to the Kim amendment (A018) Agreed to by recorded vote: 408 - 17 (Roll no. 421).
+- 2019-06-26 — On agreeing to the Lee (NV) amendment (A016) Agreed to by recorded vote: 400 - 27 (Roll no. 419).
+- 2019-06-26 — On agreeing to the Malinowski amendment (A019) Agreed to by recorded vote: 362 - 65 (Roll no. 422).
+- 2019-06-26 — On agreeing to the Quigley amendment (A020) Agreed to by voice vote.
+- 2019-06-26 — On agreeing to the Quigley amendments (A010) Agreed to by voice vote.
+- 2019-06-26 — On agreeing to the Quigley amendments (A012) Agreed to by recorded vote: 227 - 200 (Roll no. 416).
+- 2019-06-26 — On agreeing to the Suozzi amendment (A015) Agreed to by recorded vote: 406 - 19 (Roll no. 418).
+- 2019-06-26 — On motion to recommit with instructions Agreed to by recorded vote: 226 - 195 (Roll no. 423).
+- 2019-06-26 — On passage Passed by the Yeas and Nays: 224 - 196 (Roll no. 424). (text: CR 6/25/2019 H5110-5130)
+- 2019-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Banks amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Quigley demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Dean amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Ms. Dean demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Grothman amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Grothman demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Kim amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Kim demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lee (NV) amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Quigley demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Malinowski amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Malinowski demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Quigley amendment en bloc No. 2, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Graves (GA) demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Suozzi amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Suozzi demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-06-26 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 224 - 196 (Roll no. 424).(text: CR 6/25/2019 H5110-5130)
+- 2019-06-26 — Roll call votes on amendments in House
+- 2019-06-26 — Roll call votes on amendments in House
+- 2019-06-26 — Roll call votes on amendments in House
+- 2019-06-26 — Roll call votes on amendments in House
+- 2019-06-26 — Roll call votes on amendments in House
+- 2019-06-26 — Roll call votes on amendments in House
+- 2019-06-26 — Roll call votes on amendments in House
+- 2019-06-26 — Roll call votes on amendments in House
+- 2019-06-26 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2019-06-26 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2019-06-26 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3351.
+- 2019-06-26 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2019-06-26 — The previous question was ordered pursuant to the rule.

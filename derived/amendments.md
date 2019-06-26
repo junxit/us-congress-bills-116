@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3351
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -43,6 +43,6 @@ complete account of the bill's effect, which it is not.
 | `28 U.S.C. § 133` | replace | in the third sentence (relating to the western district of North Carolina), by striking “15 years” and inserting “16 years”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `28 U.S.C. § 133` | add-at-end | by adding at the end the following: “The first vacancy in the office of district judge in the northern district of Alabama occurring 17 years or more after the confirmation date of the judge named to fill the temporary district judgeship… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 302 of the Universal Service Antideficiency Temporary Suspension Act is amended by striking “December 31, 2019” each place it appears and inserting “December 31, 2020”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “$750,000.” and inserting the following: “; (iii) for individuals who begin an undergraduate course of study in or after school year 2019-2020 but before school year 2020-2021, is from a family with a taxable annual income of… | the bill names no machine-readable US Code section |
-| — | replace | by striking “Beginning with school year 2017-2018, the Mayor shall adjust the amounts in clauses (i) and (ii)” and inserting “The Mayor shall adjust the amounts in this subparagraph”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “the Department of Labor” the first place it appears and all that follows and inserting the following: “the Department of Labor, beginning with school year 2017-2018 in the case of the amounts in clauses (i) and (ii), beginni… | the bill names no machine-readable US Code section |
+| — | replace | by striking “$750,000.” and inserting the following: “; (iii) for individuals who begin an undergraduate course of study in or after school year 2019–2020 but before school year 2020–2021, is from a family with a taxable annual income of… | the bill names no machine-readable US Code section |
+| — | replace | by striking “Beginning with school year 2017–2018, the Mayor shall adjust the amounts in clauses (i) and (ii)” and inserting “The Mayor shall adjust the amounts in this subparagraph”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “the Department of Labor” the first place it appears and all that follows and inserting the following: “the Department of Labor, beginning with school year 2017–2018 in the case of the amounts in clauses (i) and (ii), beginni… | the bill names no machine-readable US Code section |
