@@ -1,7 +1,7 @@
 ---
 measure: S. 50
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 50
@@ -42,3 +42,18 @@ Columbia River In-Lieu and Treaty Fishing Access Sites Improvement Act
 - 2019-06-27 — Senate amendment agreed to: Amendment SA 904 agreed to in Senate by Unanimous Consent.
 - 2019-06-27 — Senate amendment proposed (on the floor): Amendment SA 904 proposed by Senator McConnell for Senator Hoeven.
 - 2019-06-27 — Senate amendment submitted
+- 2019-06-28 — Held at the desk.
+- 2019-06-28 — Message on Senate action sent to the House.
+- 2019-06-28 — Received in the House.
+- 2019-12-16 — Considered under suspension of the rules. (consideration: CR H10301-10302)
+- 2019-12-16 — DEBATE - The House proceeded with forty minutes of debate on S. 50.
+- 2019-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-12-16 — Ms. Haaland moved to suspend the rules and pass the bill.
+- 2019-12-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10301)
+- 2019-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10301)
+- 2019-12-19 — Presented to President.
+- 2019-12-19 — Presented to President.
+- 2019-12-20 — Became Public Law No: 116-99.
+- 2019-12-20 — Became Public Law No: 116-99.
+- 2019-12-20 — Signed by President.
+- 2019-12-20 — Signed by President.
