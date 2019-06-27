@@ -1,7 +1,7 @@
 ---
 measure: S. 257
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 257
@@ -16,7 +16,7 @@ Tribal HUD-VASH Act of 2019
 
 - Sen. Tester, Jon [D-MT] (T000464)
 
-## Cosponsors (8)
+## Cosponsors (9)
 
 - Sen. Hoeven, John [R-ND] (H001061)
 - Sen. Udall, Tom [D-NM] (U000039)
@@ -26,6 +26,7 @@ Tribal HUD-VASH Act of 2019
 - Sen. Warren, Elizabeth [D-MA] (W000817)
 - Sen. Cramer, Kevin [R-ND] (C001096)
 - Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Smith, Tina [D-MN] (S001203)
 
 ## Committees (1)
 
@@ -39,3 +40,5 @@ Tribal HUD-VASH Act of 2019
 - 2019-03-28 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-21.
 - 2019-03-28 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-21.
 - 2019-03-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 49.
+- 2019-06-27 — Passed Senate without amendment by Voice Vote. (consideration: CR S4652-4664; text: CR S4662-4663)
+- 2019-06-27 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S4652-4664; text: CR S4662-4663)
