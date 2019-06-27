@@ -15,11 +15,14 @@ This Act may be cited as the “National Defense Authorization Act for Fiscal Ye
 
 ## § 2. Organization of Act into divisions; table of contents
 
-- **(a)** *Divisions* This Act is organized into four divisions as follows:
+- **(a)** *Divisions* This Act is organized into seven divisions as follows:
   - **(1)** Division A—Department of Defense Authorizations.
   - **(2)** Division B—Military Construction Authorizations.
   - **(3)** Division C—Department of Energy National Security Authorizations and Other Authorizations.
   - **(4)** Division D—Funding Tables.
+  - **(5)** Division E—Additional Provisions.
+  - **(6)** Division F—Intelligence Authorizations for Fiscal Year 2020.
+  - **(7)** Division G—Intelligence Authorizations for Fiscal Year 2018 and 2019.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 3. Congressional defense committees
