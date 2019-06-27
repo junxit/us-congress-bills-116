@@ -24,7 +24,7 @@ This Act may be cited as the “Columbia River In-Lieu and Treaty Fishing Access
     - **(A)** through one or more contracts entered into with an Indian Tribe or Tribal organization under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.); or
     - **(B)** to include other Federal agencies that have relevant expertise.
 - **(c)** *Definition of affected Columbia River Treaty tribes* In this section, the term affected Columbia River Treaty tribes means the Nez Perce Tribe, the Confederated Tribes of Umatilla Indian Reservation, the Confederated Tribes of the Warm Springs Reservation of Oregon, and the Confederated Tribes and Bands of the Yakama Nation.
-- **(d)** *Authorization of appropriations* There are authorized to be appropriated to the Secretary of the Interior such sums as are necessary, to remain available until expended—
+- **(d)** *Authorization of appropriations* There are authorized to be appropriated to the Secretary of the Interior $11,000,000 for the period of fiscal years 2020 through 2025, to remain available until expended—
   - **(1)** for improvements to existing structures and infrastructure to improve sanitation and safety conditions assessed under subsection (a); and
   - **(2)** to improve access to electricity, sewer, and water infrastructure, where feasible, to reflect needs for sanitary and safe use of facilities referred to in subsection (a).
 
