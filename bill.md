@@ -1,0 +1,26 @@
+---
+legis-num: S. 2012
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2012
+
+> To provide that certain regulatory actions by the Federal Communications Commission shall have no force or effect.
+
+## § 1. Short title
+
+This Act may be cited as the “Restoring Local Control Over Public Infrastructure Act of 2019”.
+
+## § 2. Definition
+
+In this Act, the term Commission means the Federal Communications Commission.
+
+## § 3. Preservation of rights of State and local governments
+
+The following regulatory actions of the Commission shall have no force or effect:
+
+- **(1)** The Declaratory Ruling in the “Third Report and Order and Declaratory Ruling in the matter of Accelerating Wireline Broadband Deployment by Removing Barriers to Infrastructure Investment and Accelerating Wireless Broadband Deployment by Removing Barriers to Infrastructure Investment” adopted by the Commission on August 2, 2018 (FCC 18–111).
+- **(2)** The “Declaratory Ruling and Third Report and Order in the matter of Accelerating Wireless Broadband Deployment by Removing Barriers to Infrastructure Investment and Accelerating Wireline Broadband Deployment by Removing Barriers to Infrastructure Investment” adopted by the Commission on September 26, 2018 (FCC 18–133).
+- **(3)** The rule adopted by the Commission entitled “Accelerating Wireless and Wireline Broadband Deployment by Removing Barriers to Infrastructure Investment” (83 Fed. Reg. 51867 (October 15, 2018)).
