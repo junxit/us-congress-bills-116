@@ -1,0 +1,18 @@
+---
+legis-num: S. 2047
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2047
+
+> To provide for a 2-week extension of the Medicaid community mental health services demonstration program, and for other purposes.
+
+## § 1. Extension of the Medicaid community mental health services demonstration program
+
+Section 223(d)(3) of the Protecting Access to Medicare Act of 2014 (42 U.S.C. 1396a note) is amended by striking “June 30, 2019” and inserting “July 14, 2019”.
+
+## § 2. Medicaid improvement fund
+
+Section 1941(b)(1) of the Social Security Act (42 U.S.C. 1396w–1(b)(1)) is amended by striking “$6,000,000” and inserting “$1,000,000”.
