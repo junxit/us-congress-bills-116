@@ -1,7 +1,7 @@
 ---
 measure: S. 224
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 224
@@ -32,3 +32,5 @@ A bill to provide for the conveyance of certain property to the Tanana Tribal Co
 - 2019-03-25 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-10.
 - 2019-03-25 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-10.
 - 2019-03-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 41.
+- 2019-06-27 — Passed Senate without amendment by Voice Vote. (consideration: CR S4652-4664; text: CR S4652-4653)
+- 2019-06-27 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S4652-4664; text: CR S4652-4653)
