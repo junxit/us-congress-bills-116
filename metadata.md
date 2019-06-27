@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1146
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1146
@@ -16,7 +16,7 @@ Arctic Cultural and Coastal Plain Protection Act
 
 - Rep. Huffman, Jared [D-CA-2] (H001068)
 
-## Cosponsors (101)
+## Cosponsors (183)
 
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 - Rep. Aguilar, Pete [D-CA-31] (A000371)
@@ -119,6 +119,88 @@ Arctic Cultural and Coastal Plain Protection Act
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
 - Rep. Trone, David J. [D-MD-6] (T000483)
 - Rep. Cunningham, Joe [D-SC-1] (C001122)
+- Rep. Case, Ed [D-HI-1] (C001055)
+- Rep. Higgins, Brian [D-NY-26] (H001038)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Levin, Andy [D-MI-9] (L000592)
+- Rep. Luria, Elaine G. [D-VA-2] (L000591)
+- Rep. DelBene, Suzan K. [D-WA-1] (D000617)
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
+- Rep. Porter, Katie [D-CA-45] (P000618)
+- Rep. Garcia, Jesus G. "Chuy" [D-IL-4] (G000586)
+- Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
+- Rep. Kim, Andy [D-NJ-3] (K000394)
+- Rep. Heck, Denny [D-WA-10] (H001064)
+- Rep. Takano, Mark [D-CA-41] (T000472)
+- Rep. Neal, Richard E. [D-MA-1] (N000015)
+- Rep. Horsford, Steven [D-NV-4] (H001066)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. Wild, Susan [D-PA-7] (W000826)
+- Rep. Ocasio-Cortez, Alexandria [D-NY-14] (O000172)
+- Rep. Cox, TJ [D-CA-21] (C001124)
+- Rep. Delgado, Antonio [D-NY-19] (D000630)
+- Rep. Golden, Jared F. [D-ME-2] (G000592)
+- Rep. Scanlon, Mary Gay [D-PA-5] (S001205)
+- Rep. Phillips, Dean [D-MN-3] (P000616)
+- Rep. Pappas, Chris [D-NH-1] (P000614)
+- Rep. Crist, Charlie [D-FL-13] (C001111)
+- Rep. Schrier, Kim [D-WA-8] (S001216)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Clark, Katherine M. [D-MA-5] (C001101)
+- Rep. Cisneros, Gilbert Ray, Jr. [D-CA-39] (C001123)
+- Rep. Frankel, Lois [D-FL-21] (F000462)
+- Rep. Kirkpatrick, Ann [D-AZ-2] (K000368)
+- Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
+- Rep. Harder, Josh [D-CA-10] (H001090)
+- Rep. Davids, Sharice [D-KS-3] (D000629)
+- Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Slotkin, Elissa [D-MI-8] (S001208)
+- Rep. Kuster, Ann M. [D-NH-2] (K000382)
+- Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Dean, Madeleine [D-PA-4] (D000631)
+- Rep. Bustos, Cheri [D-IL-17] (B001286)
+- Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
+- Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
+- Rep. Brindisi, Anthony [D-NY-22] (B001308)
+- Rep. Lawson, Al, Jr. [D-FL-5] (L000586)
+- Rep. Pressley, Ayanna [D-MA-7] (P000617)
+- Rep. Schrader, Kurt [D-OR-5] (S001180)
+- Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Jeffries, Hakeem S. [D-NY-8] (J000294)
+- Rep. Sherrill, Mikie [D-NJ-11] (S001207)
+- Rep. Foster, Bill [D-IL-11] (F000454)
+- Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
+- Rep. Adams, Alma S. [D-NC-12] (A000370)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Swalwell, Eric [D-CA-15] (S001193)
+- Rep. Sánchez, Linda T. [D-CA-38] (S001156)
+- Rep. Stanton, Greg [D-AZ-9] (S001211)
+- Rep. Vargas, Juan [D-CA-51] (V000130)
+- Rep. Meeks, Gregory W. [D-NY-5] (M001137)
+- Rep. Rose, Max [D-NY-11] (R000613)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. Wexton, Jennifer [D-VA-10] (W000825)
+- Rep. McAdams, Ben [D-UT-4] (M001209)
+- Rep. Stevens, Haley M. [D-MI-11] (S001215)
+- Rep. Loebsack, David [D-IA-2] (L000565)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Langevin, James R. [D-RI-2] (L000559)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+- Rep. O'Halleran, Tom [D-AZ-1] (O000171)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Keating, William R. [D-MA-9] (K000375)
+- Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Beatty, Joyce [D-OH-3] (B001281)
+- Rep. Rice, Kathleen M. [D-NY-4] (R000602)
+- Rep. McBath, Lucy [D-GA-6] (M001208)
 
 ## Committees (1)
 
@@ -129,3 +211,11 @@ Arctic Cultural and Coastal Plain Protection Act
 - 2019-02-11 — Introduced in House
 - 2019-02-11 — Introduced in House
 - 2019-02-11 — Referred to the House Committee on Natural Resources.
+- 2019-03-01 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2019-03-26 — Subcommittee Hearings Held.
+- 2019-05-01 — Committee Consideration and Mark-up Session Held.
+- 2019-05-01 — Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 14.
+- 2019-05-01 — Subcommittee on Energy and Mineral Resources Discharged.
+- 2019-06-27 — Placed on the Union Calendar, Calendar No. 97.
+- 2019-06-27 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-133.
+- 2019-06-27 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-133.
