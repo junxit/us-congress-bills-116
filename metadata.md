@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3351
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3351
@@ -16,9 +16,10 @@ Financial Services and General Government Appropriations Act, 2020
 
 - Rep. Quigley, Mike [D-IL-5] (Q000023)
 
-## Committees (1)
+## Committees (2)
 
 - House — Appropriations Committee
+- Senate — Appropriations Committee
 
 ## Recorded votes (12)
 
@@ -233,3 +234,4 @@ Financial Services and General Government Appropriations Act, 2020
 - 2019-06-26 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3351.
 - 2019-06-26 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-06-26 — The previous question was ordered pursuant to the rule.
+- 2019-06-27 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
