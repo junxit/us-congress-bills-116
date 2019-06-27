@@ -1,7 +1,7 @@
 ---
 measure: S. 212
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 212
@@ -32,3 +32,11 @@ Indian Community Economic Enhancement Act of 2020
 - 2019-04-08 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-28.
 - 2019-04-08 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-28.
 - 2019-04-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 63.
+- 2019-06-27 — Amendment SA 905 agreed to in Senate by Unanimous Consent.
+- 2019-06-27 — Amendment SA 905 proposed by Senator McConnell for Senator Hoeven. (consideration: CR S4650; text: CR S4650) To improve the Indian Economic Development Feasibility Study.
+- 2019-06-27 — Measure laid before Senate by unanimous consent. (consideration: CR S4649-4652)
+- 2019-06-27 — Passed Senate with an amendment by Voice Vote. (text: CR S4650-4652)
+- 2019-06-27 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(text: CR S4650-4652)
+- 2019-06-27 — Senate amendment agreed to: Amendment SA 905 agreed to in Senate by Unanimous Consent.
+- 2019-06-27 — Senate amendment proposed (on the floor): Amendment SA 905 proposed by Senator McConnell for Senator Hoeven.
+- 2019-06-27 — Senate amendment submitted
