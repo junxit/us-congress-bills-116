@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2722
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2722
@@ -50,3 +50,20 @@ SAFE Act
 - 2019-06-26 — Placed on the Union Calendar, Calendar No. 94.
 - 2019-06-26 — Reported (Amended) by the Committee on House Administration. H. Rept. 116-129, Part I.
 - 2019-06-26 — Reported (Amended) by the Committee on House Administration. H. Rept. 116-129, Part I.
+- 2019-06-27 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2019-06-27 — Considered as unfinished business. (consideration: CR H5243-5246)
+- 2019-06-27 — Considered under the provisions of rule H. Res. 460. (consideration: CR H5207-5223)
+- 2019-06-27 — DEBATE - The House proceeded with 10 minutes of debate on the Rodney Davis (IL) motion to recommit with instructions, pending reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add a new section to the bill that would require each chief state election official to disclose the identity of any foreign national with access to certain voting materials, including ballots or voting machines. Subsequently, the point of order was withdrawn.
+- 2019-06-27 — DEBATE - The House proceeded with one hour of debate on H.R. 2722.
+- 2019-06-27 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2019-06-27 — House amendment offered
+- 2019-06-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-06-27 — Mr. Davis, Rodney moved to recommit with instructions to the Committee on House Administration.
+- 2019-06-27 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2019-06-27 — On motion to recommit with instructions Failed by recorded vote: 189 - 220 (Roll no. 427).
+- 2019-06-27 — On passage Passed by recorded vote: 225 - 184 (Roll no. 428). (text: CR H4207-4214)
+- 2019-06-27 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of Rule 19, the Chair postponed further proceedings on H.R. 2722.
+- 2019-06-27 — Passed/agreed to in House: On passage Passed by recorded vote: 225 - 184 (Roll no. 428).(text: CR H4207-4214)
+- 2019-06-27 — Rule provides for consideration of H.R. 2722 and H.R. 3351. The resolution provides for consideration of H.R. 2722 under a closed rule with one hour of general debate. Also, the resolution provides for consideration of H.R. 3351 under a structured rule with one hour of general debate.
+- 2019-06-27 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2019-06-27 — The previous question was ordered pursuant to the rule.
