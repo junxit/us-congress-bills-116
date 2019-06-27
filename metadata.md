@@ -1,7 +1,7 @@
 ---
 measure: S. 199
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 199
@@ -32,3 +32,5 @@ Leech Lake Band of Ojibwe Reservation Restoration Act
 - 2019-03-07 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-3.
 - 2019-03-07 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-3.
 - 2019-03-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 33.
+- 2019-06-27 — Passed Senate without amendment by Voice Vote. (consideration: CR S4652-4664; text: CR S4664)
+- 2019-06-27 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S4652-4664; text: CR S4664)
