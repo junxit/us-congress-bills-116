@@ -1,7 +1,7 @@
 ---
 measure: S. 580
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 3 executed, 8 stated and not applied.
+18 amendatory instructions. 3 executed, 15 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -68,3 +68,10 @@ complete account of the bill's effect, which it is not.
 | `3 U.S.C. § 102` | insert | in subsection (e), by inserting after the subsection enumerator the following: “Widows and widowers.—”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `3 U.S.C. § 102` | insert | in subsection (f), by inserting after the subsection enumerator the following: “Definition.—”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `3 U.S.C. § 102` | insert | in subsection (g), by inserting after the subsection enumerator the following: “Authorization of appropriations.—”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `3 U.S.C. § 102` | replace | by striking “That (a) each” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `3 U.S.C. § 102` | redesignate | by redesignating subsection (g) as section 3 and adjusting the margin accordingly; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 401` | insert | by inserting after section 1, as so designated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `3 U.S.C. § 102` | replace | by striking “terminated other than” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `3 U.S.C. § 102` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `3 U.S.C. § 102` | insert | by inserting after the section enumerator the following: “Authorization of appropriations.”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `3 U.S.C. § 102` | insert | by inserting “or modern former President” after “former President” each place that term appears. | the bill quotes the text inserted but describes where it goes |
