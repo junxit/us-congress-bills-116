@@ -1,7 +1,7 @@
 ---
 measure: S. 294
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 294
@@ -36,3 +36,5 @@ Native American Business Incubators Program Act
 - 2019-04-08 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-29.
 - 2019-04-08 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-29.
 - 2019-04-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 64.
+- 2019-06-27 — Passed Senate without amendment by Voice Vote. (consideration: CR S4652-4664; text: CR S4660-4662)
+- 2019-06-27 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S4652-4664; text: CR S4660-4662)
