@@ -1,7 +1,7 @@
 ---
 measure: S. 832
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 832
@@ -33,3 +33,5 @@ A bill to nullify the Supplemental Treaty Between the United States of America a
 - 2019-06-10 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-45.
 - 2019-06-10 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-45.
 - 2019-06-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 110.
+- 2019-06-27 — Passed Senate without amendment by Voice Vote. (consideration: CR S4652-4664; text: CR S4652)
+- 2019-06-27 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S4652-4664; text: CR S4652)
