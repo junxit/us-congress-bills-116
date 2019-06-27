@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 220
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 220
@@ -16,7 +16,7 @@ A resolution designating the month of June 2019 as "National Post-Traumatic Stre
 
 - Sen. Sullivan, Dan [R-AK] (S001198)
 
-## Cosponsors (34)
+## Cosponsors (35)
 
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Tillis, Thomas [R-NC] (T000476)
@@ -52,6 +52,7 @@ A resolution designating the month of June 2019 as "National Post-Traumatic Stre
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Reed, Jack [D-RI] (R000122)
 - Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
 
 ## Committees (1)
 
@@ -61,3 +62,7 @@ A resolution designating the month of June 2019 as "National Post-Traumatic Stre
 
 - 2019-05-23 — Introduced in Senate
 - 2019-05-23 — Referred to the Committee on the Judiciary. (text: CR S3114)
+- 2019-06-27 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2019-06-27 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2019-06-27 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4665)
+- 2019-06-27 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4665)
