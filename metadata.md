@@ -1,7 +1,7 @@
 ---
 measure: S. 209
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 209
@@ -36,3 +36,5 @@ PROGRESS for Indian Tribes Act
 - 2019-04-29 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-34.
 - 2019-04-29 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-34.
 - 2019-04-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 73.
+- 2019-06-27 — Passed Senate without amendment by Voice Vote. (consideration: CR S4652-4664; text: CR S4653-4660)
+- 2019-06-27 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S4652-4664; text: CR S4653-4660)
