@@ -1,7 +1,7 @@
 ---
 measure: S. 294
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 294
@@ -24,9 +24,10 @@ Native American Business Incubators Program Act
 - Sen. Smith, Tina [D-MN] (S001203)
 - Sen. Cantwell, Maria [D-WA] (C000127)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -38,3 +39,6 @@ Native American Business Incubators Program Act
 - 2019-04-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 64.
 - 2019-06-27 — Passed Senate without amendment by Voice Vote. (consideration: CR S4652-4664; text: CR S4660-4662)
 - 2019-06-27 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S4652-4664; text: CR S4660-4662)
+- 2019-06-28 — Message on Senate action sent to the House.
+- 2019-06-28 — Received in the House.
+- 2019-06-28 — Referred to the House Committee on Natural Resources.
