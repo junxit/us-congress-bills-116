@@ -1,7 +1,7 @@
 ---
 measure: S. 216
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 216
@@ -20,9 +20,10 @@ Spokane Tribe of Indians of the Spokane Reservation Equitable Compensation Act
 
 - Sen. Murray, Patty [D-WA] (M001111)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ Spokane Tribe of Indians of the Spokane Reservation Equitable Compensation Act
 - 2019-03-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 34.
 - 2019-06-27 — Passed Senate without amendment by Voice Vote. (consideration: CR S4652-4664; text: CR S4663-4664)
 - 2019-06-27 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S4652-4664; text: CR S4663-4664)
+- 2019-06-28 — Message on Senate action sent to the House.
+- 2019-06-28 — Received in the House.
+- 2019-06-28 — Referred to the House Committee on Natural Resources.
