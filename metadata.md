@@ -1,7 +1,7 @@
 ---
 measure: S. 294
 congress: 116
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 294
@@ -42,3 +42,19 @@ Native American Business Incubators Program Act
 - 2019-06-28 — Message on Senate action sent to the House.
 - 2019-06-28 — Received in the House.
 - 2019-06-28 — Referred to the House Committee on Natural Resources.
+- 2019-07-03 — Referred to the Subcommittee for Indigenous Peoples of the United States.
+- 2020-07-29 — Committee Consideration and Mark-up Session Held.
+- 2020-07-29 — Ordered to be Reported by Unanimous Consent.
+- 2020-07-29 — Subcommittee for Indigenous Peoples of the United States Discharged.
+- 2020-09-21 — Considered under suspension of the rules. (consideration: CR H4562-4565)
+- 2020-09-21 — DEBATE - The House proceeded with forty minutes of debate on S. 294.
+- 2020-09-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-21 — Ms. Haaland moved to suspend the rules and pass the bill.
+- 2020-09-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4562-4564)
+- 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-10-09 — Presented to President.
+- 2020-10-09 — Presented to President.
+- 2020-10-20 — Became Public Law No: 116-174.
+- 2020-10-20 — Became Public Law No: 116-174.
+- 2020-10-20 — Signed by President.
+- 2020-10-20 — Signed by President.
