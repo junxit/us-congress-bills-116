@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2722
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2722
@@ -31,10 +31,11 @@ SAFE Act
 - Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
 - Rep. Cooper, Jim [D-TN-5] (C000754)
 
-## Committees (2)
+## Committees (3)
 
 - House — Science, Space, and Technology Committee
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Recorded votes (2)
 
@@ -72,3 +73,4 @@ SAFE Act
 - 2019-06-27 — Rule provides for consideration of H.R. 2722 and H.R. 3351. The resolution provides for consideration of H.R. 2722 under a closed rule with one hour of general debate. Also, the resolution provides for consideration of H.R. 3351 under a structured rule with one hour of general debate.
 - 2019-06-27 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-06-27 — The previous question was ordered pursuant to the rule.
+- 2019-06-28 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
