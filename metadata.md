@@ -1,7 +1,7 @@
 ---
 measure: S. 46
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 46
@@ -20,9 +20,10 @@ Klamath Tribe Judgment Fund Repeal Act
 
 - Sen. Wyden, Ron [D-OR] (W000779)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ Klamath Tribe Judgment Fund Repeal Act
 - 2019-03-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 37.
 - 2019-06-27 — Passed Senate without amendment by Voice Vote. (consideration: CR S4652-4664; text: CR S4664)
 - 2019-06-27 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S4652-4664; text: CR S4664)
+- 2019-06-28 — Message on Senate action sent to the House.
+- 2019-06-28 — Received in the House.
+- 2019-06-28 — Referred to the House Committee on Natural Resources.
