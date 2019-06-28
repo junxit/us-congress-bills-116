@@ -1,7 +1,7 @@
 ---
 measure: S. 256
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 256
@@ -28,9 +28,10 @@ Esther Martinez Native American Languages Programs Reauthorization Act
 - Sen. Sullivan, Dan [R-AK] (S001198)
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- House — Education and the Workforce Committee
 
 ## Actions
 
@@ -42,3 +43,6 @@ Esther Martinez Native American Languages Programs Reauthorization Act
 - 2019-03-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 42.
 - 2019-06-27 — Passed Senate without amendment by Voice Vote. (consideration: CR S4652-4664; text: CR S4660)
 - 2019-06-27 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S4652-4664; text: CR S4660)
+- 2019-06-28 — Message on Senate action sent to the House.
+- 2019-06-28 — Received in the House.
+- 2019-06-28 — Referred to the House Committee on Education and Labor.
