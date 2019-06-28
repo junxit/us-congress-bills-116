@@ -1,7 +1,7 @@
 ---
 measure: S. 224
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 224
@@ -20,9 +20,11 @@ A bill to provide for the conveyance of certain property to the Tanana Tribal Co
 
 - Sen. Sullivan, Dan [R-AK] (S001198)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Indian Affairs Committee
+- House — Natural Resources Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -34,3 +36,7 @@ A bill to provide for the conveyance of certain property to the Tanana Tribal Co
 - 2019-03-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 41.
 - 2019-06-27 — Passed Senate without amendment by Voice Vote. (consideration: CR S4652-4664; text: CR S4652-4653)
 - 2019-06-27 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S4652-4664; text: CR S4652-4653)
+- 2019-06-28 — Message on Senate action sent to the House.
+- 2019-06-28 — Received in the House.
+- 2019-06-28 — Referred to the Committee on Natural Resources, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-06-28 — Referred to the Committee on Natural Resources, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
