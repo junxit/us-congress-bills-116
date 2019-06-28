@@ -1,7 +1,7 @@
 ---
 measure: S. 257
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 257
@@ -28,9 +28,10 @@ Tribal HUD-VASH Act of 2019
 - Sen. Sullivan, Dan [R-AK] (S001198)
 - Sen. Smith, Tina [D-MN] (S001203)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- House — Financial Services Committee
 
 ## Actions
 
@@ -42,3 +43,6 @@ Tribal HUD-VASH Act of 2019
 - 2019-03-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 49.
 - 2019-06-27 — Passed Senate without amendment by Voice Vote. (consideration: CR S4652-4664; text: CR S4662-4663)
 - 2019-06-27 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S4652-4664; text: CR S4662-4663)
+- 2019-06-28 — Message on Senate action sent to the House.
+- 2019-06-28 — Received in the House.
+- 2019-06-28 — Referred to the House Committee on Financial Services.
