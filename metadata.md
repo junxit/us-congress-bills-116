@@ -1,7 +1,7 @@
 ---
 measure: S. 256
 congress: 116
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 256
@@ -16,7 +16,7 @@ Esther Martinez Native American Languages Programs Reauthorization Act
 
 - Sen. Udall, Tom [D-NM] (U000039)
 
-## Cosponsors (9)
+## Cosponsors (10)
 
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 - Sen. Schatz, Brian [D-HI] (S001194)
@@ -27,6 +27,7 @@ Esther Martinez Native American Languages Programs Reauthorization Act
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Sullivan, Dan [R-AK] (S001198)
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Rosen, Jacky [D-NV] (R000608)
 
 ## Committees (2)
 
@@ -46,3 +47,15 @@ Esther Martinez Native American Languages Programs Reauthorization Act
 - 2019-06-28 — Message on Senate action sent to the House.
 - 2019-06-28 — Received in the House.
 - 2019-06-28 — Referred to the House Committee on Education and Labor.
+- 2019-12-09 — Considered under suspension of the rules. (consideration: CR H9378-9380)
+- 2019-12-09 — DEBATE - The House proceeded with forty minutes of debate on S. 256.
+- 2019-12-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-12-09 — Mr. Grijalva moved to suspend the rules and pass the bill.
+- 2019-12-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9378)
+- 2019-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9378)
+- 2019-12-19 — Presented to President.
+- 2019-12-19 — Presented to President.
+- 2019-12-20 — Became Public Law No: 116-101.
+- 2019-12-20 — Became Public Law No: 116-101.
+- 2019-12-20 — Signed by President.
+- 2019-12-20 — Signed by President.
