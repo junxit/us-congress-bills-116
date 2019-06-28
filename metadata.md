@@ -1,7 +1,7 @@
 ---
 measure: S. 199
 congress: 116
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 199
@@ -38,3 +38,17 @@ Leech Lake Band of Ojibwe Reservation Restoration Act
 - 2019-06-28 — Message on Senate action sent to the House.
 - 2019-06-28 — Received in the House.
 - 2019-06-28 — Referred to the House Committee on Natural Resources.
+- 2019-07-03 — Referred to the Subcommittee for Indigenous Peoples of the United States.
+- 2019-07-03 — Referred to the Subcommittee on National Parks, Forests, and Public Lands.
+- 2020-12-03 — Considered under suspension of the rules. (consideration: CR H6096-6099)
+- 2020-12-03 — DEBATE - The House proceeded with forty minutes of debate on S. 199.
+- 2020-12-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-03 — Mr. Case moved to suspend the rules and pass the bill.
+- 2020-12-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6096-6097)
+- 2020-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6096-6097)
+- 2020-12-11 — Presented to President.
+- 2020-12-11 — Presented to President.
+- 2020-12-23 — Became Public Law No: 116-255.
+- 2020-12-23 — Became Public Law No: 116-255.
+- 2020-12-23 — Signed by President.
+- 2020-12-23 — Signed by President.
