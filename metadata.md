@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1856
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1856
@@ -76,3 +76,12 @@ Ending Homelessness Act of 2019
 - 2019-03-25 — Introduced in House
 - 2019-03-25 — Referred to the Committee on Financial Services, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-03-25 — Referred to the Committee on Financial Services, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-03-26 — Committee Consideration and Mark-up Session Held.
+- 2019-03-27 — Committee Consideration and Mark-up Session Held.
+- 2019-03-28 — Committee Consideration and Mark-up Session Held.
+- 2019-03-28 — Ordered to be Reported by the Yeas and Nays: 32 - 26.
+- 2019-07-05 — Committee on the Budget discharged.
+- 2019-07-05 — Committee on the Budget discharged.
+- 2019-07-05 — Placed on the Union Calendar, Calendar No. 101.
+- 2019-07-05 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-137, Part I.
+- 2019-07-05 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-137, Part I.
