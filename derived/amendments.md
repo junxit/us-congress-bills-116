@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1856
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+11 amendatory instructions. 0 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -37,3 +37,8 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 4568` | replace | by striking “except that not less than 75 percent” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1437a` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 11364` | amend | Section 408 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11364) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in the item relating to title II, by striking “INTERAGENCY COUNCIL ON THE HOMELESS” and inserting “UNITED STATES INTERAGENCY COUNCIL ON HOMELESSNESS”; | the bill names no machine-readable US Code section |
+| — | strike | by striking the item relating to section 209; and | the bill names no machine-readable US Code section |
+| — | replace | in the item relating to section 491, by striking “491” and inserting “441”; | the bill names no machine-readable US Code section |
+| — | replace | in the item relating to section 492, by striking “492” and inserting “442”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting before the item relating to title V the following: | the bill names no machine-readable US Code section |
