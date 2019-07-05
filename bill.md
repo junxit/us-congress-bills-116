@@ -1,0 +1,43 @@
+---
+legis-num: H.R. 3619
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3619
+
+> To amend the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 to provide the Appraisal Subcommittee with the authority to modify annual registry fees for appraisal management companies, to maintain a registry of trainees and charge a lower trainee registry fee, and to allow grants to States to assist appraiser and potential appraiser compliance with the Real Property Appraiser Qualification Criteria, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Appraisal Reform Act of 2019”.
+
+## § 2. Annual registry fees for appraisal management companies
+
+Subparagraph (B) of section 1109(a)(4) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3338(a)(4)(B)) is amended—
+
+- **(1)** in clause (ii), by striking the period at the end and inserting a semicolon; and
+- **(2)** by inserting after and below clause (ii) the following:
+
+## § 3. Trainee appraisers
+
+- **(a)** *Maintenance on national registry* Paragraph (3) of section 1103(a) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3332(a)(3)) is amended by striking “and licensed” and inserting “, licensed, and trainee”.
+- **(b)** *Annual registry fees* Subparagraph (A) of section 1109(a)(4) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3338(a)(4)(A)) is amended—
+  - **(1)** by inserting “including trainee appraisers,” after “transactions,”;
+  - **(2)** by inserting “except that the Appraisal Subcommittee may, in its discretion, charge a fee for trainee appraisers not exceeding $20” after “$40,”; and
+  - **(3)** by inserting before the semicolon the following: “; except that nothing in this subparagraph may be construed to require a State to establish or operate an program for trainee appraisers”.
+- **(c)** *Definition* Section 1121 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3350) is amended by adding at the end the following new paragraph:
+  > - **(12)** *Trainee appraiser* The term “trainee appraiser” means an individual who meets the minimum criteria established by the Appraiser Qualification Board for a trainee appraiser license and is credentialed by a State appraiser certifying and licensing agency.
+
+## § 4. Grants to nonprofits and institutions of higher education for compliance efforts
+
+Paragraph (5) of section 1109(b) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3338(b)(5)) is amended by inserting “nonprofit organizations, and institutions of higher education” after “licensing agencies,”.
+
+## § 5. Requirement to disclose appraisal fees
+
+Section 4(c) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2603(c)) is amended by striking “may” and inserting “shall”.
+
+## § 6. Inclusion of designee of Secretary of Veterans Affairs on Appraisal Subcommittee
+
+The first sentence of section 1011 of the Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3310) is amended by inserting “the Department of Veterans Affairs,” after “Protection,”.
