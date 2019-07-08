@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 208
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 208
@@ -29,3 +29,7 @@ A resolution expressing support for the designation of July as "American Grown F
 
 - 2019-05-14 — Introduced in Senate
 - 2019-05-14 — Referred to the Committee on Agriculture, Nutrition, and Forestry.
+- 2019-07-08 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR 5/14/2019 S2835)
+- 2019-07-08 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 5/14/2019 S2835)
+- 2019-07-08 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent. (consideration: CR S4700)
+- 2019-07-08 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.(consideration: CR S4700)
