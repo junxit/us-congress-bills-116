@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 34
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 34
@@ -16,7 +16,7 @@ A resolution expressing the sense of the Senate that the Governments of Burma an
 
 - Sen. Merkley, Jeff [D-OR] (M001176)
 
-## Cosponsors (21)
+## Cosponsors (25)
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
@@ -39,6 +39,10 @@ A resolution expressing the sense of the Senate that the Governments of Burma an
 - Sen. Schatz, Brian [D-HI] (S001194)
 - Sen. Harris, Kamala D. [D-CA] (H001075)
 - Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Cruz, Ted [R-TX] (C001098)
 
 ## Committees (1)
 
@@ -48,3 +52,7 @@ A resolution expressing the sense of the Senate that the Governments of Burma an
 
 - 2019-01-29 — Introduced in Senate
 - 2019-01-29 — Referred to the Committee on Foreign Relations. (text: CR S744-745)
+- 2019-06-25 — Committee on Foreign Relations. Ordered to be reported with an amendment favorably.
+- 2019-07-08 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
+- 2019-07-08 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
+- 2019-07-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 134.
