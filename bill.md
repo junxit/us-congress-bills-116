@@ -2,7 +2,7 @@
 legis-num: H. RES. 456
 congress: 116th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 456
@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - Whereas State securities regulators are the original pioneers of regulating the United States capital markets and have protected investors during times of boom and bust, from ticker tape to the block-chain;
 - Whereas State securities regulators founded the North American Securities Administrators Association (NASAA) as a voluntary association in 1919, 8 years after the first securities laws were enacted in Kansas in 1911;
-- Whereas NASAA’s membership in 2019 includes securities administrators in the 50 States, the District of Columbia, Puerto Rico, the U.S. Virgin Islands, Canada, and Mexico;
+- Whereas NASAA’s membership in 2019 includes securities administrators in the 50 States, the District of Columbia, Puerto Rico, the United States Virgin Islands, Canada, and Mexico;
 - Whereas the fundamental mission of the State securities regulators is protecting investors who transact in securities and receive investment advice, and their jurisdiction extends to a wide variety of issuers and intermediaries who offer and sell securities to the public;
 - Whereas State securities regulators are leaders in civil and administrative enforcement actions, as well as criminal prosecutions of securities violators;
 - Whereas State securities regulators have led efforts resulting in landmark settlements to stop unfair practices in the securities industry, the return of billions of dollars to harmed investors, and thousands of bad actors sitting in jail as the result of their work in investigating and uncovering fraud;
