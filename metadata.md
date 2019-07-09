@@ -1,7 +1,7 @@
 ---
 measure: S. 239
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 239
@@ -120,3 +120,18 @@ Christa McAuliffe Commemorative Coin Act of 2019
 - 2019-07-09 — Senate amendment agreed to: Amendment SA 907 agreed to in Senate by Unanimous Consent.
 - 2019-07-09 — Senate amendment proposed (on the floor): Amendment SA 907 proposed by Senator Thune for Senator Shaheen.
 - 2019-07-09 — Senate amendment submitted
+- 2019-07-10 — Held at the desk.
+- 2019-07-10 — Message on Senate action sent to the House.
+- 2019-07-10 — Received in the House.
+- 2019-09-19 — Considered under suspension of the rules. (consideration: CR H7796-7800)
+- 2019-09-19 — DEBATE - The House proceeded with forty minutes of debate on S. 239.
+- 2019-09-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-09-19 — Ms. Waters moved to suspend the rules and pass the bill.
+- 2019-09-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7796-7797)
+- 2019-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7796-7797)
+- 2019-09-27 — Presented to President.
+- 2019-09-27 — Presented to President.
+- 2019-10-09 — Became Public Law No: 116-65.
+- 2019-10-09 — Became Public Law No: 116-65.
+- 2019-10-09 — Signed by President.
+- 2019-10-09 — Signed by President.
