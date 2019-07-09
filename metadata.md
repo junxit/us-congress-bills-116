@@ -1,7 +1,7 @@
 ---
 measure: S. 279
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 279
@@ -16,9 +16,13 @@ Tribal School Federal Insurance Parity Act
 
 - Sen. Thune, John [R-SD] (T000250)
 
-## Cosponsors (1)
+## Cosponsors (5)
 
 - Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Tester, Jon [D-MT] (T000464)
 
 ## Committees (1)
 
@@ -28,3 +32,8 @@ Tribal School Federal Insurance Parity Act
 
 - 2019-01-30 — Introduced in Senate
 - 2019-01-30 — Read twice and referred to the Committee on Indian Affairs.
+- 2019-05-01 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 116-77.
+- 2019-05-15 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2019-07-09 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-54.
+- 2019-07-09 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-54.
+- 2019-07-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 135.
