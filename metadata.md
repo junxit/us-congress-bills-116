@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 188
 congress: 116
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 188
@@ -16,7 +16,7 @@ A resolution encouraging a swift transfer of power by the military to a civilian
 
 - Sen. Cruz, Ted [R-TX] (C001098)
 
-## Cosponsors (27)
+## Cosponsors (32)
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Risch, James E. [R-ID] (R000584)
@@ -45,6 +45,11 @@ A resolution encouraging a swift transfer of power by the military to a civilian
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 - Sen. Kaine, Tim [D-VA] (K000384)
 - Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
 
 ## Committees (1)
 
@@ -58,3 +63,18 @@ A resolution encouraging a swift transfer of power by the military to a civilian
 - 2019-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2019-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2019-06-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 106.
+- 2019-07-09 — Amendment SA 908 agreed to in Senate by Unanimous Consent.
+- 2019-07-09 — Amendment SA 908 proposed by Senator Thune for Senator Cruz. (consideration: CR S4736-4737; text: CR S4737) In the nature of a substitute.
+- 2019-07-09 — Amendment SA 909 agreed to in Senate by Unanimous Consent.
+- 2019-07-09 — Amendment SA 909 proposed by Senator Thune for Senator Cruz. (consideration: CR S4737-4738; text: CR S4737-4738) To amend the preamble.
+- 2019-07-09 — Measure laid before Senate by unanimous consent.
+- 2019-07-09 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(consideration: CR S4736-4739; text: CR S4738-4739)
+- 2019-07-09 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (consideration: CR S4736-4739; text: CR S4738-4739)
+- 2019-07-09 — Senate amendment agreed to: Amendment SA 908 agreed to in Senate by Unanimous Consent.
+- 2019-07-09 — Senate amendment agreed to: Amendment SA 909 agreed to in Senate by Unanimous Consent.
+- 2019-07-09 — Senate amendment proposed (on the floor): Amendment SA 908 proposed by Senator Thune for Senator Cruz.
+- 2019-07-09 — Senate amendment proposed (on the floor): Amendment SA 909 proposed by Senator Thune for Senator Cruz.
+- 2019-07-09 — Senate amendment submitted
+- 2019-07-09 — Senate amendment submitted
+- 2019-07-09 — The committee amendment to the preamble withdrawn by Unanimous Consent.
+- 2019-07-09 — The committee substitute withdrawn by Unanimous Consent.
