@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 10
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Con.Res. 10
@@ -16,10 +16,12 @@ A concurrent resolution recognizing that Chinese telecommunications companies su
 
 - Sen. Gardner, Cory [R-CO] (G000562)
 
-## Cosponsors (2)
+## Cosponsors (4)
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Rubio, Marco [R-FL] (R000595)
 
 ## Committees (1)
 
@@ -29,3 +31,7 @@ A concurrent resolution recognizing that Chinese telecommunications companies su
 
 - 2019-03-28 — Introduced in Senate
 - 2019-03-28 — Referred to the Committee on Foreign Relations. (text: CR S2094-2095)
+- 2019-06-25 — Committee on Foreign Relations. Ordered to be reported with an amendment favorably.
+- 2019-07-09 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2019-07-09 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2019-07-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 136.
