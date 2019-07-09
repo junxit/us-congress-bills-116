@@ -45,7 +45,7 @@ Congress finds the following:
     - **(B)** a design on the reverse side that depicts the legacy of Christa McAuliffe as a teacher.
   - **(2)** *Designation and inscriptions* On each coin minted under this Act, there shall be—
     - **(A)** a designation of the value of the coin;
-    - **(B)** an inscription of the year “2020”; and
+    - **(B)** an inscription of the year “2021”; and
     - **(C)** inscriptions of the words “Liberty”, “In God We Trust”, “United States of America”, and “E Pluribus Unum”.
 - **(b)** *Selection* The design for the coins minted under this Act shall be—
   - **(1)** selected by the Secretary, after consultation with the family of Christa McAuliffe, FIRST, and the Commission of Fine Arts; and
@@ -55,7 +55,7 @@ Congress finds the following:
 
 - **(a)** *Quality of coins* Coins minted under this Act shall be issued in uncirculated and proof qualities.
 - **(b)** *Mint facility* Only 1 facility of the United States Mint may be used to strike any particular quality of the coins minted under this Act.
-- **(c)** *Period for issuance* The Secretary may issue coins under this Act only during the period beginning on January 1, 2020, and ending on December 31, 2020.
+- **(c)** *Period for issuance* The Secretary may issue coins under this Act only during the period beginning on January 1, 2021, and ending on December 31, 2021.
 
 ## § 6. Sale of coins
 
