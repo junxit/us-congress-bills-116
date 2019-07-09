@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2409
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2409
@@ -16,20 +16,34 @@ Expanding Access to Capital for Rural Job Creators Act
 
 - Rep. Axne, Cynthia [D-IA-3] (A000378)
 
-## Cosponsors (5)
+## Cosponsors (7)
 
 - Rep. Mooney, Alexander X. [R-WV-2] (M001195)
 - Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
 - Rep. Pappas, Chris [D-NH-1] (P000614)
 - Rep. Riggleman, Denver [R-VA-5] (R000611)
 - Rep. Rose, John W. [R-TN-6] (R000612)
+- Rep. Lawson, Al, Jr. [D-FL-5] (L000586)
+- Rep. Gonzalez, Anthony [R-OH-16] (G000588)
 
 ## Committees (1)
 
 - House — Financial Services Committee
+
+## Recorded votes (1)
+
+- 2019-07-09 — [House 116-1-433](votes/house-116-1-0433.md) — On Motion to Suspend the Rules and Pass — **Passed** (413–7)
 
 ## Actions
 
 - 2019-04-30 — Introduced in House
 - 2019-04-30 — Introduced in House
 - 2019-04-30 — Referred to the House Committee on Financial Services.
+- 2019-07-09 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2019-07-09 — Considered as unfinished business. (consideration: CR H5288-5289)
+- 2019-07-09 — Considered under suspension of the rules. (consideration: CR H5285-5287)
+- 2019-07-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2409.
+- 2019-07-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-07-09 — Ms. Waters moved to suspend the rules and pass the bill.
+- 2019-07-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 7 (Roll no. 433). (text: CR H5285)
+- 2019-07-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 7 (Roll no. 433).(text: CR H5285)
