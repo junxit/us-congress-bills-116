@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2919
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2919
@@ -29,3 +29,9 @@ Improving Investment Research for Small and Emerging Issuers Act
 - 2019-05-22 — Introduced in House
 - 2019-05-22 — Introduced in House
 - 2019-05-22 — Referred to the House Committee on Financial Services.
+- 2019-07-09 — Considered under suspension of the rules. (consideration: CR H5283)
+- 2019-07-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2919.
+- 2019-07-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-07-09 — Ms. Waters moved to suspend the rules and pass the bill.
+- 2019-07-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5283)
+- 2019-07-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5283)
