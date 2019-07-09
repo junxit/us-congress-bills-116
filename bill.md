@@ -11,11 +11,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Protect Affordable Mortgages for Veterans Act of 2019”.
+This Act may be cited as the “Protecting Affordable Mortgages for Veterans Act of 2019”.
 
 ## § 2. Seasoning requirements for certain refinanced mortgage loans
 
-- **(a)** *Ginnie Mae* Paragraph (1) of section 306(g) of the National Housing Act (12 U.S.C. 1721(g)(1)) is amended by striking the second sentence (as added by section 309(b) of Public Law 115–174).
+- **(a)** *Ginnie mae* Paragraph (1) of section 306(g) of the National Housing Act (12 U.S.C. 1721(g)(1)) is amended by striking the second sentence (as added by section 309(b) of Public Law 115–174).
 - **(b)** *Veterans loans* Section 3709 of title 38, United States Code, is amended by striking subsection (c) and inserting the following:
   > - **(c)** *Loan seasoning* Except as provided in subsection (d) and notwithstanding section 3703 of this title or any other provision of law, a loan to a veteran for a purpose specified in section 3710 of this title that is a refinance may not be guaranteed or insured under this chapter until the date that is the later of—
   >   - **(1)** the date on which the borrower has made at least six consecutive monthly payments on the loan being refinanced; and
