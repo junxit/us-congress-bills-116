@@ -2,14 +2,14 @@
 legis-num: H. RES. 476
 congress: 116th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 476
 
 > Providing for consideration of the bill (H.R. 2500) to authorize appropriations for fiscal year 2020 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes, and providing for consideration of motions to suspend the rules.
 
-That at any time after adoption of this resolution the Speaker may, pursuant to clause 2(b) of rule XVIII, declare the House resolved into the Committee of the Whole House on the state of the Union for consideration of the bill (H.R. 2500) to authorize appropriations for fiscal year 2020 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes. The first reading of the bill shall be dispensed with. All points of order against consideration of the bill are waived. General debate shall be confined to the bill and amendments specified in this section and shall not exceed one hour equally divided and controlled by the chair and ranking minority member of the Committee on Armed Services. After general debate the bill shall be considered for amendment under the five-minute rule. In lieu of the amendment in the nature of a substitute recommended by the Committee on Armed Services now printed in the bill, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 116-19, modified by the amendment printed in part A of the report of the Committee on Rules accompanying this resolution, shall be considered as adopted in the House and in the Committee of the Whole. The bill, as amended, shall be considered as the original bill for the purpose of further amendment under the five-minute rule and shall be considered as read. All points of order against provisions in the bill, as amended, are waived.
+That at any time after adoption of this resolution the Speaker may, pursuant to clause 2(b) of rule XVIII, declare the House resolved into the Committee of the Whole House on the state of the Union for consideration of the bill (H.R. 2500) to authorize appropriations for fiscal year 2020 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes. The first reading of the bill shall be dispensed with. All points of order against consideration of the bill are waived. General debate shall be confined to the bill and amendments specified in this section and shall not exceed one hour equally divided and controlled by the chair and ranking minority member of the Committee on Armed Services. After general debate the bill shall be considered for amendment under the five-minute rule. In lieu of the amendment in the nature of a substitute recommended by the Committee on Armed Services now printed in the bill, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 116–19, modified by the amendment printed in part A of the report of the Committee on Rules accompanying this resolution, shall be considered as adopted in the House and in the Committee of the Whole. The bill, as amended, shall be considered as the original bill for the purpose of further amendment under the five-minute rule and shall be considered as read. All points of order against provisions in the bill, as amended, are waived.
 
 ## § 2.
 
@@ -32,3 +32,7 @@ Clause 7(a)(1) of rule XV shall not apply with respect to H.R. 553.
 ## § 6.
 
 It shall be in order at any time on the legislative day of July 11, 2019, or July 12, 2019, for the Speaker to entertain motions that the House suspend the rules, as though under clause 1 of rule XV, relating to the bill (H.R. 1327) to extend authorization for the September 11th Victim Compensation Fund of 2001 through fiscal year 2090, and for other purposes.
+
+## § 7.
+
+The amendments specified in Rules Committee Print 116–23 shall be considered as though printed in part B of House Report 116–143.
