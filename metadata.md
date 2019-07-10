@@ -1,7 +1,7 @@
 ---
 measure: H.R. 677
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 677
@@ -75,3 +75,9 @@ version: Reported in House
 - 2019-07-09 — Placed on the Union Calendar, Calendar No. 102.
 - 2019-07-09 — Reported by the Committee on Judiciary. H. Rept. 116-139.
 - 2019-07-09 — Reported by the Committee on Judiciary. H. Rept. 116-139.
+- 2019-07-10 — Considered under suspension of the rules. (consideration: CR H5332-5334)
+- 2019-07-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 677.
+- 2019-07-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-07-10 — Ms. Bass moved to suspend the rules and pass the bill.
+- 2019-07-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5332)
+- 2019-07-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5332)
