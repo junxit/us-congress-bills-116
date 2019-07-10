@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2740
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2740
@@ -1282,3 +1282,6 @@ Labor, Health and Human Services, Education, Defense, State, Foreign Operations,
 - 2019-06-19 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2740.
 - 2019-06-19 — The previous question on the motion to recommit was ordered without objection.
 - 2019-06-19 — The previous question was ordered pursuant to the rule.
+- 2019-06-24 — Received in the Senate.
+- 2019-07-09 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2019-07-10 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 140.
