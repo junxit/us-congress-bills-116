@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2919
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2919
@@ -20,9 +20,10 @@ Improving Investment Research for Small and Emerging Issuers Act
 
 - Rep. McAdams, Ben [D-UT-4] (M001209)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -35,3 +36,4 @@ Improving Investment Research for Small and Emerging Issuers Act
 - 2019-07-09 — Ms. Waters moved to suspend the rules and pass the bill.
 - 2019-07-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5283)
 - 2019-07-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5283)
+- 2019-07-10 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
