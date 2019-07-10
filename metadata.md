@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2515
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2515
@@ -27,9 +27,10 @@ Whistleblower Protection Reform Act of 2019
 - Rep. Taylor, Van [R-TX-3] (T000479)
 - Rep. Cleaver, Emanuel [D-MO-5] (C001061)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ Whistleblower Protection Reform Act of 2019
 - 2019-07-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 12 (Roll no. 431). (text: CR H5276)
 - 2019-07-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 12 (Roll no. 431).(text: CR H5276)
 - 2019-07-09 — The title of the measure was amended. Agreed to without objection.
+- 2019-07-10 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
