@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 3674
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3674
+
+> To amend the Higher Education Act of 1965 to eliminate origination fees for Federal Direct Loans.
+
+## § 1. Short title
+
+This Act may be cited as the “Eliminating the Hidden Student Loan Tax Act”.
+
+## § 2. Elimination of origination fees for Federal Direct Loans
+
+- **(a)** *Sense of Congress* It is the sense of Congress that no origination fees should be charged on any future Federal Direct Loans.
+- **(b)** *Repeal of origination fees* Subsection (c) of section 455 of the Higher Education Act of 1965 (20 U.S.C. 1087e(c)) is repealed.
+- **(c)** *Effective date* The amendment made by subsection (b) shall apply with respect to loans made under part D of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq.) for which the first disbursement of principal is made, or, in the case of a Federal Direct Consolidation Loan, the application is received, on or after July 1, 2020.
