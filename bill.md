@@ -44,3 +44,7 @@ This Act may be cited as the “Fairness for High-Skilled Immigrants Act of 2019
     - **(A)** *In general* Notwithstanding section 202 of the Immigration and Nationality Act, as amended by this Act, immigrant visas under section 203(b) of the Immigration and Nationality Act (8 U.S.C. 1153(b)) shall be allocated such that no alien described in subparagraph (B) receives a visa later than the alien otherwise would have received said visa had this Act not been enacted.
     - **(B)** *Alien described* An alien is described in this subparagraph if the alien is the beneficiary of a petition for an immigrant visa under section 203(b) of the Immigration and Nationality Act (8 U.S.C. 1153(b)) that was approved prior to the date of enactment of this Act.
   - **(5)** *Rules for chargeability* Section 202(b) of such Act (8 U.S.C. 1152(b)) shall apply in determining the foreign state to which an alien is chargeable for purposes of this subsection.
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
