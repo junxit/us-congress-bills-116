@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2162
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2162
@@ -21,9 +21,10 @@ Housing Financial Literacy Act of 2019
 - Rep. Stivers, Steve [R-OH-15] (S001187)
 - Rep. Scott, David [D-GA-13] (S001157)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Housing Financial Literacy Act of 2019
 - 2019-07-09 — Ms. Waters moved to suspend the rules and pass the bill, as amended.
 - 2019-07-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5278)
 - 2019-07-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5278)
+- 2019-07-10 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
