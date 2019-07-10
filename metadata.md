@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2409
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2409
@@ -26,9 +26,10 @@ Expanding Access to Capital for Rural Job Creators Act
 - Rep. Lawson, Al, Jr. [D-FL-5] (L000586)
 - Rep. Gonzalez, Anthony [R-OH-16] (G000588)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -47,3 +48,4 @@ Expanding Access to Capital for Rural Job Creators Act
 - 2019-07-09 — Ms. Waters moved to suspend the rules and pass the bill.
 - 2019-07-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 7 (Roll no. 433). (text: CR H5285)
 - 2019-07-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 7 (Roll no. 433).(text: CR H5285)
+- 2019-07-10 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
