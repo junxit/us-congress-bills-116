@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3055
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
