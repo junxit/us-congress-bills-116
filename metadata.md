@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3050
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3050
@@ -22,9 +22,10 @@ Expanding Investment in Small Businesses Act of 2019
 - Rep. Gonzalez, Vicente [D-TX-15] (G000581)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -43,3 +44,4 @@ Expanding Investment in Small Businesses Act of 2019
 - 2019-07-09 — Ms. Waters moved to suspend the rules and pass the bill, as amended.
 - 2019-07-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 2 (Roll no. 432). (text: CR H5283-5284)
 - 2019-07-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 2 (Roll no. 432).(text: CR H5283-5284)
+- 2019-07-10 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
