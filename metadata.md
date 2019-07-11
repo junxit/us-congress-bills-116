@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2502
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2502
@@ -16,6 +16,11 @@ Transparency in Federal Buildings Projects Act of 2019
 
 - Rep. Palmer, Gary J. [R-AL-6] (P000609)
 
+## Cosponsors (2)
+
+- Rep. Meadows, Mark [R-NC-11] (M001187)
+- Rep. Pence, Greg [R-IN-6] (P000615)
+
 ## Committees (1)
 
 - House — Transportation and Infrastructure Committee
@@ -25,3 +30,10 @@ Transparency in Federal Buildings Projects Act of 2019
 - 2019-05-02 — Introduced in House
 - 2019-05-02 — Introduced in House
 - 2019-05-02 — Referred to the House Committee on Transportation and Infrastructure.
+- 2019-05-03 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- 2019-05-08 — Committee Consideration and Mark-up Session Held.
+- 2019-05-08 — Ordered to be Reported by Voice Vote.
+- 2019-05-08 — Subcommittee on Economic Development, Public Buildings, and Emergency Management Discharged.
+- 2019-07-11 — Placed on the Union Calendar, Calendar No. 109.
+- 2019-07-11 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-147.
+- 2019-07-11 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-147.
