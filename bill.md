@@ -9,12 +9,18 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To authorize appropriations for fiscal year 2020 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes.
 
-## § 1. Short title; table of contents
+## § 1. Short title
 
-- **(a)** *Short title* This Act may be cited as the “Damon Paul Nelson and Matthew Young Pollard Intelligence Authorization Act for Fiscal Year 2020”.
+This Act may be cited as the “Damon Paul Nelson and Matthew Young Pollard Intelligence Authorization Act for Fiscal Years 2018, 2019, and 2020”.
+
+## § 2. Divisions and table of contents
+
+- **(a)** *Divisions* This Act is organized into two divisions as follows:
+  - **(1)** Division A—Intelligence Authorizations for Fiscal Year 2020.
+  - **(2)** Division B—Intelligence Authorizations for Fiscal Years 2018 and 2019.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
-## § 2. Definitions
+## § 3. Definitions
 
 In this Act:
 
