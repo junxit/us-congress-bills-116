@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1569
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1569
@@ -48,3 +48,4 @@ To amend title 28, United States Code, to add Flagstaff and Yuma to the list of 
 - 2019-07-10 — Mr. Stanton moved to suspend the rules and pass the bill.
 - 2019-07-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5328)
 - 2019-07-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5328)
+- 2019-07-11 — Received in the Senate, read twice.
