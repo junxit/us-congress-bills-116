@@ -1,7 +1,7 @@
 ---
 measure: H.R. 677
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 677
@@ -60,9 +60,10 @@ version: Engrossed in House
 - Rep. Moulton, Seth [D-MA-6] (M001196)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -81,3 +82,4 @@ version: Engrossed in House
 - 2019-07-10 — Ms. Bass moved to suspend the rules and pass the bill.
 - 2019-07-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5332)
 - 2019-07-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5332)
+- 2019-07-11 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
