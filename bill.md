@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 3696
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3696
+
+> To extend funding for section 510 of the Social Security Act (regarding a youth empowerment program).
+
+## § 1. Short title
+
+This Act may be cited as the “Youth Empowerment Act of 2019”.
+
+## § 2. Youth empowerment program
+
+Subsections (a)(1), (a)(2), (f)(1), and (f)(2) of section 510 of the Social Security Act (42 U.S.C. 710) are amended by striking “2018 and 2019” each place it appears and inserting “2020 and 2021”.
