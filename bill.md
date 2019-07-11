@@ -56,13 +56,13 @@ This Act may be cited as the “Raise the Wage Act”.
 - **(a)** *Base minimum wage for newly hired employees who are less than 20 years old* Section 6(g)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(g)(1)) is amended by striking “a wage which is not less than $4.25 an hour.” and inserting the following:
   > a wage at a rate that is not less than—
   > - **(A)** for the 1-year period beginning on the effective date under section 7 of the Raise the Wage Act, $5.50 an hour;
-  > - **(B)** for each succeeding 1-year period until the hourly wage under this paragraph equals the wage in effect under section 6(a)(1) for such period, an hourly wage equal to the amount determined under this paragraph for the preceding year, increased by the lesser of
+  > - **(B)** for each succeeding 1-year period until the hourly wage under this paragraph equals the wage in effect under section 6(a)(1) for such period, an hourly wage equal to the amount determined under this paragraph for the preceding year, increased by the lesser of—
   >   - **(i)** $1.25; or
   >   - **(ii)** the amount necessary for the wage in effect under this paragraph to equal the wage in effect under section 6(a)(1) for such period, rounded up to the nearest multiple of $0.05; and
   > - **(C)** for each succeeding 1-year period after the increase made pursuant to subparagraph (B)(ii), the minimum wage in effect under section 6(a)(1).
 
 - **(b)** *Scheduled repeal of separate minimum wage for newly hired employees who are less than 20 years old*
-  - **(1)** *In general* Section 6(g)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(g)(1)), as amended by subsection (a), shall be repealed.
+  - **(1)** *In general* Section 6(g) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(g)), as amended by subsection (a), shall be repealed.
   - **(2)** *Publication of notice* Subsection (i) of section 6 of the Fair Labor Standards Act of 1938 (29 U.S.C. 206), as amended by section 3(c)(2), is further amended by striking “or subparagraph (B) or (C) of subsection (g)(1),”.
   - **(3)** *Effective date* The repeal and amendment made by paragraphs (1) and (2), respectively, shall take effect on the date that is one day after the date on which the hourly wage under subparagraph (C) of section 6(g)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(g)(1)), as amended by subsection (a), takes effect.
 
@@ -102,4 +102,14 @@ Section 6 of the Fair Labor Standards Act of 1938 (29 U.S.C. 206), as amended by
 
 ## § 7. General effective date
 
-Except as otherwise provided in this Act or the amendments made by this Act, this Act and the amendments made by this Act shall take effect on the first day of the third month that begins after the date of enactment of this Act.
+Except as otherwise provided in this Act or the amendments made by this Act, this Act and the amendments made by this Act shall take effect—
+
+- **(1)** subject to paragraph (2), on the first day of the third month that begins after the date of enactment of this Act; and
+- **(2)** with respect to the Commonwealth of the Northern Mariana Islands, on the date that is 18 months after the effective date described in paragraph (1).
+
+## § 8. GAO report
+
+Not later than 1 year after the date of enactment of this Act, the Comptroller General shall submit to the Education and Labor Committee of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report that, with respect to the Commonwealth of the Northern Mariana Islands—
+
+- **(1)** assesses the status and structure of the economy (including employment, earnings and wages, and key industries); and
+- **(2)** for each year in which a wage increase will take effect under subsection (a)(1) or (g)(1) of section 6, section 3(m)(2)(A)(i), or section 14(c)(1)(A) of the Fair Labor Standards Act of 1938 (29 U.S.C. 201 et seq.), as amended by this Act, estimates the proportion of employees who will be directly affected by each such wage increase taking effect for such year, disaggregated by industry and occupation.

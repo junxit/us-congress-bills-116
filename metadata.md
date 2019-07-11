@@ -1,7 +1,7 @@
 ---
 measure: H.R. 582
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 582
@@ -16,7 +16,7 @@ Raise the Wage Act
 
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 
-## Cosponsors (188)
+## Cosponsors (205)
 
 - Rep. Pocan, Mark [D-WI-2] (P000607)
 - Rep. Murphy, Stephanie N. [D-FL-7] (M001202)
@@ -206,6 +206,23 @@ Raise the Wage Act
 - Rep. Scott, David [D-GA-13] (S001157)
 - Rep. Cleaver, Emanuel [D-MO-5] (C001061)
 - Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Case, Ed [D-HI-1] (C001055)
+- Rep. Moulton, Seth [D-MA-6] (M001196)
+- Rep. Bera, Ami [D-CA-7] (B001287)
+- Rep. Lynch, Stephen F. [D-MA-8] (L000562)
+- Rep. Sherrill, Mikie [D-NJ-11] (S001207)
+- Rep. Himes, James A. [D-CT-4] (H001047)
+- Rep. Doggett, Lloyd [D-TX-35] (D000399)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Stevens, Haley M. [D-MI-11] (S001215)
+- Rep. Rose, Max [D-NY-11] (R000613)
+- Rep. Houlahan, Chrissy [D-PA-6] (H001085)
+- Rep. Neal, Richard E. [D-MA-1] (N000015)
+- Rep. Kirkpatrick, Ann [D-AZ-2] (K000368)
+- Rep. Vela, Filemon [D-TX-34] (V000132)
+- Rep. Cooper, Jim [D-TN-5] (C000754)
+- Rep. Slotkin, Elissa [D-MI-8] (S001208)
+- Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
 
 ## Committees (1)
 
@@ -216,3 +233,8 @@ Raise the Wage Act
 - 2019-01-16 — Introduced in House
 - 2019-01-16 — Introduced in House
 - 2019-01-16 — Referred to the House Committee on Education and Labor.
+- 2019-03-06 — Committee Consideration and Mark-up Session Held.
+- 2019-03-06 — Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 28 - 20.
+- 2019-07-11 — Placed on the Union Calendar, Calendar No. 112.
+- 2019-07-11 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 116-150.
+- 2019-07-11 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 116-150.
