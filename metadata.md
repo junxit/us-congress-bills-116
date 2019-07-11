@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1984
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1984
@@ -16,7 +16,7 @@ Disclosing Aid Spent to Ensure Relief Act
 
 - Rep. Peters, Scott H. [D-CA-52] (P000608)
 
-## Cosponsors (13)
+## Cosponsors (16)
 
 - Rep. Meadows, Mark [R-NC-11] (M001187)
 - Rep. Cisneros, Gilbert Ray, Jr. [D-CA-39] (C001123)
@@ -31,6 +31,9 @@ Disclosing Aid Spent to Ensure Relief Act
 - Rep. Rouda, Harley [D-CA-48] (R000616)
 - Rep. Tonko, Paul [D-NY-20] (T000469)
 - Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
+- Rep. Spano, Ross [R-FL-15] (S001210)
+- Rep. Himes, James A. [D-CT-4] (H001047)
 
 ## Committees (1)
 
@@ -41,3 +44,10 @@ Disclosing Aid Spent to Ensure Relief Act
 - 2019-03-28 — Introduced in House
 - 2019-03-28 — Introduced in House
 - 2019-03-28 — Referred to the House Committee on Transportation and Infrastructure.
+- 2019-03-29 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- 2019-05-08 — Committee Consideration and Mark-up Session Held.
+- 2019-05-08 — Ordered to be Reported by Voice Vote.
+- 2019-05-08 — Subcommittee on Economic Development, Public Buildings, and Emergency Management Discharged.
+- 2019-07-11 — Placed on the Union Calendar, Calendar No. 110.
+- 2019-07-11 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-148.
+- 2019-07-11 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-148.
