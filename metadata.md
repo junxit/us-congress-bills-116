@@ -1,7 +1,7 @@
 ---
 measure: S. 1811
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1811
@@ -32,3 +32,7 @@ Water Resources Development Act of 2020
 - 2019-07-10 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(text: CR S4776)
 - 2019-07-10 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S4776)
 - 2019-07-10 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S4776)
+- 2019-07-11 — Message on Senate action sent to the House.
+- 2019-07-11 — Received in the House.
+- 2019-07-11 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-07-11 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
