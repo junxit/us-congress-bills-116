@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1044
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1044
@@ -330,9 +330,10 @@ Fairness for High-Skilled Immigrants Act of 2020
 - Rep. Budd, Ted [R-NC-13] (B001305)
 - Rep. Timmons, William R. IV [R-SC-4] (T000480)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -349,3 +350,4 @@ Fairness for High-Skilled Immigrants Act of 2020
 - 2019-07-10 — Ms. Lofgren moved to suspend the rules and pass the bill, as amended.
 - 2019-07-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 365 - 65 (Roll no. 437). (text: CR H5323-5324)
 - 2019-07-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 365 - 65 (Roll no. 437).(text: CR H5323-5324)
+- 2019-07-11 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
