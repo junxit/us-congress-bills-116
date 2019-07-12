@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 3747
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3747
+
+> To require the Federal Government to acquire mineral rights, and prohibit disturbance, of the subsurface of federally owned sites listed on the National Priorities List to the extent necessary to protect cleanup remedies, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “On or Under Act”.
+
+## § 2. Prohibition on disturbance of the subsurface of NPL sites
+
+- **(a)** *Acquisition of mineral rights* Upon the date of enactment of this Act, the Federal Government shall acquire all the current existing mineral rights, including lease interests, that exist in the subsurface of federally owned sites listed on the National Priorities List under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.).
+- **(b)** *Prohibition* Upon acquiring such subsurface mineral rights, unless for the purposes of site clean-up, the Administrator of the Environmental Protection Agency shall prohibit, through restrictive covenant or other appropriate mechanism, any drilling, excavation, or other disturbance of the federally owned subsurface beneath a site listed on the National Priorities List under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.).
