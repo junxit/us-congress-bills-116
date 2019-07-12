@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2500
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2500
@@ -23,6 +23,45 @@ National Defense Authorization Act for Fiscal Year 2020
 ## Committees (1)
 
 - House — Armed Services Committee
+
+## Recorded votes (36)
+
+- 2019-07-11 — [House 116-1-438](votes/house-116-1-0438.md) — On Agreeing to the Amendment — **Agreed to** (236–193)
+- 2019-07-11 — [House 116-1-439](votes/house-116-1-0439.md) — On Agreeing to the Amendment — **Agreed to** (242–187)
+- 2019-07-11 — [House 116-1-440](votes/house-116-1-0440.md) — On Agreeing to the Amendment — **Agreed to** (231–199)
+- 2019-07-11 — [House 116-1-441](votes/house-116-1-0441.md) — On Agreeing to the Amendment — **Agreed to** (243–187)
+- 2019-07-11 — [House 116-1-442](votes/house-116-1-0442.md) — On Agreeing to the Amendment — **Agreed to** (225–205)
+- 2019-07-11 — [House 116-1-443](votes/house-116-1-0443.md) — On Agreeing to the Amendment — **Agreed to** (247–182)
+- 2019-07-11 — [House 116-1-444](votes/house-116-1-0444.md) — On Agreeing to the Amendment — **Agreed to** (251–178)
+- 2019-07-11 — [House 116-1-445](votes/house-116-1-0445.md) — On Agreeing to the Amendment — **Agreed to** (219–210)
+- 2019-07-11 — [House 116-1-446](votes/house-116-1-0446.md) — On Agreeing to the Amendment — **Agreed to** (243–186)
+- 2019-07-11 — [House 116-1-447](votes/house-116-1-0447.md) — On Agreeing to the Amendment — **Agreed to** (234–195)
+- 2019-07-11 — [House 116-1-448](votes/house-116-1-0448.md) — On Agreeing to the Amendment — **Agreed to** (239–187)
+- 2019-07-11 — [House 116-1-449](votes/house-116-1-0449.md) — On Agreeing to the Amendment — **Agreed to** (246–180)
+- 2019-07-11 — [House 116-1-450](votes/house-116-1-0450.md) — On Agreeing to the Amendment — **Agreed to** (240–185)
+- 2019-07-11 — [House 116-1-451](votes/house-116-1-0451.md) — On Agreeing to the Amendment — **Agreed to** (252–173)
+- 2019-07-11 — [House 116-1-452](votes/house-116-1-0452.md) — On Agreeing to the Amendment — **Agreed to** (241–183)
+- 2019-07-11 — [House 116-1-453](votes/house-116-1-0453.md) — On Agreeing to the Amendment — **Agreed to** (236–189)
+- 2019-07-11 — [House 116-1-454](votes/house-116-1-0454.md) — On Agreeing to the Amendment — **Failed** (164–264)
+- 2019-07-11 — [House 116-1-455](votes/house-116-1-0455.md) — On Agreeing to the Amendment — **Failed** (198–229)
+- 2019-07-11 — [House 116-1-456](votes/house-116-1-0456.md) — On Agreeing to the Amendment — **Agreed to** (215–214)
+- 2019-07-11 — [House 116-1-457](votes/house-116-1-0457.md) — On Agreeing to the Amendment — **Agreed to** (223–205)
+- 2019-07-11 — [House 116-1-458](votes/house-116-1-0458.md) — On Agreeing to the Amendment — **Agreed to** (221–207)
+- 2019-07-12 — [House 116-1-459](votes/house-116-1-0459.md) — On Agreeing to the Amendment — **Failed** (115–307)
+- 2019-07-12 — [House 116-1-460](votes/house-116-1-0460.md) — On Agreeing to the Amendment — **Failed** (187–236)
+- 2019-07-12 — [House 116-1-461](votes/house-116-1-0461.md) — On Agreeing to the Amendment — **Agreed to** (417–6)
+- 2019-07-12 — [House 116-1-462](votes/house-116-1-0462.md) — On Agreeing to the Amendment — **Failed** (201–221)
+- 2019-07-12 — [House 116-1-463](votes/house-116-1-0463.md) — On Agreeing to the Amendment — **Agreed to** (251–170)
+- 2019-07-12 — [House 116-1-464](votes/house-116-1-0464.md) — On Agreeing to the Amendment — **Agreed to** (242–180)
+- 2019-07-12 — [House 116-1-465](votes/house-116-1-0465.md) — On Agreeing to the Amendment — **Agreed to** (237–183)
+- 2019-07-12 — [House 116-1-466](votes/house-116-1-0466.md) — On Agreeing to the Amendment — **Failed** (198–223)
+- 2019-07-12 — [House 116-1-467](votes/house-116-1-0467.md) — On Agreeing to the Amendment — **Failed** (179–241)
+- 2019-07-12 — [House 116-1-468](votes/house-116-1-0468.md) — On Agreeing to the Amendment — **Failed** (173–245)
+- 2019-07-12 — [House 116-1-469](votes/house-116-1-0469.md) — On Agreeing to the Amendment — **Agreed to** (213–204)
+- 2019-07-12 — [House 116-1-470](votes/house-116-1-0470.md) — On Agreeing to the Amendment — **Agreed to** (236–182)
+- 2019-07-12 — [House 116-1-471](votes/house-116-1-0471.md) — On Agreeing to the Amendment — **Agreed to** (230–189)
+- 2019-07-12 — [House 116-1-472](votes/house-116-1-0472.md) — On Motion to Recommit with Instructions — **Failed** (204–212)
+- 2019-07-12 — [House 116-1-473](votes/house-116-1-0473.md) — On Passage — **Passed** (220–197)
 
 ## Actions
 
@@ -52,3 +91,514 @@ National Defense Authorization Act for Fiscal Year 2020
 - 2019-06-19 — Placed on the Union Calendar, Calendar No. 88.
 - 2019-06-19 — Reported (Amended) by the Committee on Armed Services. H. Rept. 116-120.
 - 2019-06-19 — Reported (Amended) by the Committee on Armed Services. H. Rept. 116-120.
+- 2019-06-27 — Supplemental report filed by the Committee on Armed Services, H. Rept. 116-120, Part II.
+- 2019-06-27 — Supplemental report filed by the Committee on Armed Services, H. Rept. 116-120, Part II.
+- 2019-07-09 — Rules Committee Resolution H. Res. 476 Reported to House. Rule provides for consideration of H.R. 2500 with 1 hour of general debate. Motion to recommit with or without instructions allowed. The resolution provides for a motion to suspend the rules relating to H.R. 1327 on the legislative days of July 11, 2019, or July 12, 2019.
+- 2019-07-10 — Amendment (A001) offered by Mr. Smith (WA). (consideration: CR H5533-5534; text: CR H5533)
+- 2019-07-10 — Amendment (A003) offered by Ms. Speier. (consideration: CR H5546-5547; text: CR H5546)
+- 2019-07-10 — Amendment (A004) offered by Ms. Speier. (consideration: CR H5547-5549; text: CR H5547-5548)
+- 2019-07-10 — Amendment (A005) offered by Mr. Brindisi. (consideration: CR H5549-5550; text: CR H5549)
+- 2019-07-10 — Amendment (A006) offered by Mrs. Torres (CA). (consideration: CR H5550-5551; text: CR H5550)
+- 2019-07-10 — Amendment (A007) offered by Mr. Connolly. (consideration: CR H5551-5552; text: CR H5551)
+- 2019-07-10 — Amendment (A008) offered by Mr. Connolly. (consideration: CR H5552-5554; text: CR H5552-5553)
+- 2019-07-10 — Amendment (A009) offered by Ms. Shalala. (consideration: CR H5554-5555; text: CR H5554)
+- 2019-07-10 — Amendment (A010) offered by Ms. Omar. (consideration: CR H5555-5557; text: CR H5555)
+- 2019-07-10 — Amendment (A011) offered by Mr. Smith (WA). (consideration: CR H5557-5558; text: CR H5557)
+- 2019-07-10 — Amendment agreed to Committee of the Whole
+- 2019-07-10 — Amendment agreed to Committee of the Whole
+- 2019-07-10 — Amendment agreed to Committee of the Whole
+- 2019-07-10 — Amendment agreed to Committee of the Whole
+- 2019-07-10 — Amendment agreed to Committee of the Whole
+- 2019-07-10 — Amendments en bloc (A002) offered by Mr. Smith (WA). (consideration: CR H5534-5546; text: CR H5534-5545)
+- 2019-07-10 — Amendments en bloc (A012) offered by Mr. Smith (WA). (consideration: CR H5558-5563; text: CR H5558-5563)
+- 2019-07-10 — Amendments en bloc (A013) offered by Mr. Smith (WA). (consideration: CR H5563-5568; text: CR H5563-5567)
+- 2019-07-10 — Amendments en bloc (A014) offered by Mr. Smith (WA). (consideration: CR H5568-5575; text: CR H5568-5575)
+- 2019-07-10 — Committee of the Whole House on the state of the Union rises leaving H.R. 2500 as unfinished business.
+- 2019-07-10 — Considered under the provisions of rule H. Res. 476. (consideration: CR H5337-5576; text: CR H5351-5533)
+- 2019-07-10 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Brindisi amendment No. 9.
+- 2019-07-10 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Connolly amendment No. 11.
+- 2019-07-10 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Connolly amendment No. 12.
+- 2019-07-10 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Omar amendment No. 17.
+- 2019-07-10 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Shalala amendment No. 14.
+- 2019-07-10 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Smith (WA) amendment No. 1.
+- 2019-07-10 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Smith (WA) amendment No. 19.
+- 2019-07-10 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Speier amendment No. 3.
+- 2019-07-10 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Speier amendment No. 6.
+- 2019-07-10 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Torres (CA) amendment No. 10.
+- 2019-07-10 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 20 minutes of debate on the Smith (WA) en bloc No. 1.
+- 2019-07-10 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 20 minutes of debate on the Smith (WA) en bloc No. 2.
+- 2019-07-10 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 20 minutes of debate on the Smith (WA) en bloc No. 3.
+- 2019-07-10 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 20 minutes of debate on the Smith (WA) en bloc No. 4.
+- 2019-07-10 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2500.
+- 2019-07-10 — House amendment agreed to: On agreeing to the Connolly amendment (A008) Agreed to by voice vote.
+- 2019-07-10 — House amendment agreed to: On agreeing to the Smith (WA) amendments (A002) Agreed to by voice vote.
+- 2019-07-10 — House amendment agreed to: On agreeing to the Smith (WA) amendments (A012) Agreed to by voice vote.
+- 2019-07-10 — House amendment agreed to: On agreeing to the Smith (WA) amendments (A013) Agreed to by voice vote.
+- 2019-07-10 — House amendment agreed to: On agreeing to the Smith (WA) amendments (A014) Agreed to by voice vote.
+- 2019-07-10 — House amendment offered
+- 2019-07-10 — House amendment offered
+- 2019-07-10 — House amendment offered
+- 2019-07-10 — House amendment offered
+- 2019-07-10 — House amendment offered
+- 2019-07-10 — House amendment offered
+- 2019-07-10 — House amendment offered
+- 2019-07-10 — House amendment offered
+- 2019-07-10 — House amendment offered
+- 2019-07-10 — House amendment offered
+- 2019-07-10 — House amendment offered
+- 2019-07-10 — House amendment offered
+- 2019-07-10 — House amendment offered
+- 2019-07-10 — House amendment offered
+- 2019-07-10 — House amendment offered/reported by: Amendment (A001) offered by Mr. Smith (WA).(consideration: CR H5533-5534; text: CR H5533)
+- 2019-07-10 — House amendment offered/reported by: Amendment (A003) offered by Ms. Speier.(consideration: CR H5546-5547; text: CR H5546)
+- 2019-07-10 — House amendment offered/reported by: Amendment (A004) offered by Ms. Speier.(consideration: CR H5547-5549; text: CR H5547-5548)
+- 2019-07-10 — House amendment offered/reported by: Amendment (A005) offered by Mr. Brindisi.(consideration: CR H5549-5550; text: CR H5549)
+- 2019-07-10 — House amendment offered/reported by: Amendment (A006) offered by Mrs. Torres (CA).(consideration: CR H5550-5551; text: CR H5550)
+- 2019-07-10 — House amendment offered/reported by: Amendment (A007) offered by Mr. Connolly.(consideration: CR H5551-5552; text: CR H5551)
+- 2019-07-10 — House amendment offered/reported by: Amendment (A008) offered by Mr. Connolly.
+- 2019-07-10 — House amendment offered/reported by: Amendment (A009) offered by Ms. Shalala.(consideration: CR H5554-5555; text: CR H5554)
+- 2019-07-10 — House amendment offered/reported by: Amendment (A010) offered by Ms. Omar.(consideration: CR H5555-5557; text: CR H5555)
+- 2019-07-10 — House amendment offered/reported by: Amendment (A011) offered by Mr. Smith (WA).(consideration: CR H5557-5558; text: CR H5557)
+- 2019-07-10 — House amendment offered/reported by: Amendments en bloc (A002) offered by Mr. Smith (WA).
+- 2019-07-10 — House amendment offered/reported by: Amendments en bloc (A012) offered by Mr. Smith (WA).
+- 2019-07-10 — House amendment offered/reported by: Amendments en bloc (A013) offered by Mr. Smith (WA).
+- 2019-07-10 — House amendment offered/reported by: Amendments en bloc (A014) offered by Mr. Smith (WA).
+- 2019-07-10 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 476 and Rule XVIII.
+- 2019-07-10 — Mr. Smith (WA) moved that the Committee rise.
+- 2019-07-10 — On agreeing to the Connolly amendment (A008) Agreed to by voice vote.
+- 2019-07-10 — On agreeing to the Smith (WA) amendments (A002) Agreed to by voice vote.
+- 2019-07-10 — On agreeing to the Smith (WA) amendments (A012) Agreed to by voice vote.
+- 2019-07-10 — On agreeing to the Smith (WA) amendments (A013) Agreed to by voice vote.
+- 2019-07-10 — On agreeing to the Smith (WA) amendments (A014) Agreed to by voice vote.
+- 2019-07-10 — On motion that the Committee rise Agreed to by voice vote.
+- 2019-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Brindisi amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Thornberry demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Connolly amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Hice (GA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Omar amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Lamborn demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Shalala amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Foxx (NC) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Smith (WA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Hice (GA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Smith (WA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Stefanik demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Speier amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Speier demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Speier amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Speier demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Torres (CA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Barr demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-10 — Rule H. Res. 476 passed House.
+- 2019-07-10 — Rule provides for consideration of H.R. 2500 with 1 hour of general debate. Motion to recommit with or without instructions allowed. The resolution provides for a motion to suspend the rules relating to H.R. 1327 on the legislative days of July 11, 2019, or July 12, 2019.
+- 2019-07-10 — The Speaker designated the Honorable Henry Cuellar to act as Chairman of the Committee.
+- 2019-07-11 — Amendment (A015) offered by Mr. Sherman. (consideration: CR H5595-5596; text: CR H5595)
+- 2019-07-11 — Amendment (A016) offered by Mr. Lieu, Ted. (consideration: CR H5596; text: CR H5596)
+- 2019-07-11 — Amendment (A017) offered by Mr. Lieu, Ted. (consideration: CR H5596-5598; text: CR H 5596)
+- 2019-07-11 — Amendment (A018) offered by Mr. Smith (WA). (consideration: CR H5598-5599; text: CR H5598)
+- 2019-07-11 — Amendment (A019) offered by Mr. Cicilline. (consideration: CR H5599-5601; text: CR H5560)
+- 2019-07-11 — Amendment (A020) offered by Mr. Engel. (consideration: CR H5601-5603; text: CR H5601-5602)
+- 2019-07-11 — Amendment (A021) offered by Mr. Engel. (consideration: CR H5603-5606; text: CR H5603-5604)
+- 2019-07-11 — Amendment (A022) offered by Mr. Blumenauer. (consideration: CR H5616-5618, H5638; text: CR H5616-5617)
+- 2019-07-11 — Amendment (A023) offered by Mr. Blumenauer. (consideration: CR H5618-5620, H5638-5639; text: CR H5618-5619)
+- 2019-07-11 — Amendment (A024) offered by Ms. Frankel. (consideration: CR H5620-5622, H5639-5640; text: CR H5620-5621)
+- 2019-07-11 — Amendment (A025) offered by Mr. Langevin. (consideration: CR H5622-5624; text: CR H5622)
+- 2019-07-11 — Amendment (A027) offered by Mr. Takano. (consideration: CR H5631-5632; text: CR H5631)
+- 2019-07-11 — Amendment (A028) offered by Mr. Lieu, Ted. (consideration: CR H5632-5634, H5640; text: CR H5632-5633)
+- 2019-07-11 — Amendment (A029) offered by Mr. Raskin. (consideration: CR H5634-5636, H5640-5641; text: CR H5634-5635)
+- 2019-07-11 — Amendment (A030) offered by Mr. Huffman. (consideration: CR H5636-5638; text: CR H5636-5637)
+- 2019-07-11 — Amendment (A031) offered by Mr. Pappas. (consideration: CR H5641- 5642; text: CR H5641)
+- 2019-07-11 — Amendment (A032) offered by Ms. Lee (CA). (consideration: CR H5642-5644; text: CR H5642-5643)
+- 2019-07-11 — Amendment (A033) offered by Mr. Amash. (consideration: CR H5644-5646; text: CR H5644-5645)
+- 2019-07-11 — Amendment (A045) offered by Mr. Khanna. (consideration: CR H5711; text: CR H5711)
+- 2019-07-11 — Amendment (A046) offered by Mr. Tipton. (consideration: CR H5712-5713; text: CR H5712)
+- 2019-07-11 — Amendment (A047) offered by Mr. Turner. (consideration: CR H5713-5714; text: CR H5713)
+- 2019-07-11 — Amendment (A048) offered by Mr. Khanna. (consideration: CR H5714-5718; text: CR H5714-5715)
+- 2019-07-11 — Amendment (A049) offered by Ms. Lee (CA). (consideration: CR H5718-5719; text: CR H5718)
+- 2019-07-11 — Amendment (A050) offered by Ms. Lee (CA). (consideration: CR H5719-5720; text: CR H5719)
+- 2019-07-11 — Amendment (A051) offered by Ms. Garcia (TX). (consideration: CR H5721-5722; text: CR H5721)
+- 2019-07-11 — Amendment (A052) offered by Ms. Ocasio-Cortez. (consideration: CR H5722-5723; text: CR H5722)
+- 2019-07-11 — Amendment (A053) offered by Ms. Ocasio-Cortez. (consideration: CR H5723; text: CR H5723)
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment agreed to Committee of the Whole
+- 2019-07-11 — Amendment failed in Committee of the Whole
+- 2019-07-11 — Amendment failed in Committee of the Whole
+- 2019-07-11 — Amendments en bloc (A026) offered by Mr. Smith (WA). (consideration: CR H5624-5631; text: CR H5624-5629)
+- 2019-07-11 — Amendments en bloc (A034) offered by Mr. Smith (WA). (consideration: CR H5646-5650; text: CR H5646-5648)
+- 2019-07-11 — Amendments en bloc (A035) offered by Mr. Smith (WA). (consideration: CR H5650-5655; text: CR H5650-5652)
+- 2019-07-11 — Amendments en bloc (A036) offered by Ms. Horn, Kendra S. (consideration: CR H5655-5659; text: CR H5655-5658)
+- 2019-07-11 — Amendments en bloc (A037) offered by Ms. Horn, Kendra S.
+- 2019-07-11 — Amendments en bloc (A038) offered by Ms. Horn, Kendra S. (consideration: CR H5665-5673; text: CR H5665-5669)
+- 2019-07-11 — Amendments en bloc (A039) offered by Ms. Horn, Kendra S. (consideration: CR H5673-5677; text: CR H5673-5677)
+- 2019-07-11 — Amendments en bloc (A040) offered by Ms. Horn, Kendra S. (consideration: CR H5677-5682; text: CR H5677-5682)
+- 2019-07-11 — Amendments en bloc (A041) offered by Ms. Horn, Kendra S. (consideration: CR H5682-5686; text: CR H5682-5686)
+- 2019-07-11 — Amendments en bloc (A042) offered by Ms. Horn, Kendra S. (consideration: CR H5686-5692; text: CR H5686-5691)
+- 2019-07-11 — Amendments en bloc (A043) offered by Ms. Horn, Kendra S. (consideration: CR H5692-5697; text: CR H5692-5696)
+- 2019-07-11 — Amendments en bloc (A044) offered by Mr. Smith (WA). (consideration: CR H5697-5711; text: CR H5697-5710)
+- 2019-07-11 — Committee of the Whole House on the state of the Union rises leaving H.R. 2500 as unfinished business.
+- 2019-07-11 — Considered as unfinished business. (consideration: CR H5594-5724)
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Amash amendment No. 50.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Blumenauer amendment No. 32.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Blumenauer amendment No. 33.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Cicilline amendment No. 27.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Engel amendment No. 29.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Engel amendment No. 31.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Garcia (TX) amendment No. 428.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Huffman amendment No. 46.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Khanna amendment No. 217.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Lee (CA) amendment No. 424.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Lee (CA) amendment No. 425.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Lee (CA) amendment No. 49.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Ocasio-Cortez amendment No. 429.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Ocasio-Cortez amendment No. 430.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Pappas amendment No. 48.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Raskin amendment No. 45.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Sherman amendment No. 21.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Smith (WA) amendment No. 26.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Takano amendment No. 39.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Ted Lieu (CA) amendment No. 44.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Ted Lieu amendment No. 23.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Ted Lieu amendment No. 24.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Tipton amendment No. 375.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Turner amendment No. 386.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 20 minutes of debate on the Kendra S. Horn en bloc No. 10.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 20 minutes of debate on the Kendra S. Horn en bloc No. 11.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 20 minutes of debate on the Kendra S. Horn en bloc No. 12.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 20 minutes of debate on the Kendra S. Horn en bloc No. 13.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 20 minutes of debate on the Kendra S. Horn en bloc No. 14.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 20 minutes of debate on the Kendra S. Horn en bloc No. 15.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 20 minutes of debate on the Kendra S. Horn en bloc No. 8.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 20 minutes of debate on the Kendra S. Horn en bloc No. 9.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 20 minutes of debate on the Khanna amendment No. 423.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 20 minutes of debate on the Smith (WA) en bloc No. 16.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 20 minutes of debate on the Smith (WA) en bloc No. 5.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 20 minutes of debate on the Smith (WA) en bloc No. 6.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 20 minutes of debate on the Smith (WA) en bloc No. 7.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H.Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Frankel amendment No. 34.
+- 2019-07-11 — DEBATE - Pursuant to the provisions of H.Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Langevin amendment No. 35.
+- 2019-07-11 — House amendment agreed to: On agreeing to the Brindisi amendment (A005) Agreed to by recorded vote: 243 - 187 (Roll no. 441).
+- 2019-07-11 — House amendment agreed to: On agreeing to the Cicilline amendment (A019) Agreed to by recorded vote: 252 - 173 (Roll no. 451).
+- 2019-07-11 — House amendment agreed to: On agreeing to the Connolly amendment (A007) Agreed to by recorded vote: 247 - 182 (Roll no. 443).
+- 2019-07-11 — House amendment agreed to: On agreeing to the Engel amendment (A020) Agreed to by recorded vote: 241 - 183 (Roll no. 452).
+- 2019-07-11 — House amendment agreed to: On agreeing to the Engel amendment (A021) Agreed to by recorded vote: 236 - 189 (Roll no. 453).
+- 2019-07-11 — House amendment agreed to: On agreeing to the Frankel amendment (A024) Agreed to by recorded vote: 215 - 214 (Roll no. 456).
+- 2019-07-11 — House amendment agreed to: On agreeing to the Horn, Kendra S. amendments (A036) Agreed to by voice vote.
+- 2019-07-11 — House amendment agreed to: On agreeing to the Horn, Kendra S. amendments (A037) Agreed to by voice vote.
+- 2019-07-11 — House amendment agreed to: On agreeing to the Horn, Kendra S. amendments (A038) Agreed to by voice vote.
+- 2019-07-11 — House amendment agreed to: On agreeing to the Horn, Kendra S. amendments (A039) Agreed to by voice vote.
+- 2019-07-11 — House amendment agreed to: On agreeing to the Horn, Kendra S. amendments (A040) Agreed to by voice vote.
+- 2019-07-11 — House amendment agreed to: On agreeing to the Horn, Kendra S. amendments (A041) Agreed to by voice vote.
+- 2019-07-11 — House amendment agreed to: On agreeing to the Horn, Kendra S. amendments (A042) Agreed to by voice vote.
+- 2019-07-11 — House amendment agreed to: On agreeing to the Horn, Kendra S. amendments (A043) Agreed to by voice vote.
+- 2019-07-11 — House amendment agreed to: On agreeing to the Huffman amendment (A030) Agreed to by voice vote.
+- 2019-07-11 — House amendment agreed to: On agreeing to the Khanna amendment (A045) Agreed to by voice vote.
+- 2019-07-11 — House amendment agreed to: On agreeing to the Langevin amendment Agreed to by voice vote.
+- 2019-07-11 — House amendment agreed to: On agreeing to the Lieu, Ted amendment (A016) Agreed to by recorded vote: 239 - 187 (Roll no. 448).
+- 2019-07-11 — House amendment agreed to: On agreeing to the Lieu, Ted amendment (A017) Agreed to by recorded vote: 246 - 180 (Roll no. 449).
+- 2019-07-11 — House amendment agreed to: On agreeing to the Lieu, Ted amendment (A028) Agreed to by recorded vote: 223 - 205, 1 Present (Roll no. 457).
+- 2019-07-11 — House amendment agreed to: On agreeing to the Omar amendment (A010) Agreed to by recorded vote: 219 - 210 (Roll no. 445).
+- 2019-07-11 — House amendment agreed to: On agreeing to the Pappas amendment (A031) Agreed to by voice vote.
+- 2019-07-11 — House amendment agreed to: On agreeing to the Raskin amendment (A029) Agreed to by recorded vote: 221 - 207 (Roll no. 458).
+- 2019-07-11 — House amendment agreed to: On agreeing to the Shalala amendment (A009) Agreed to by recorded vote: 251 - 178 (Roll no. 444).
+- 2019-07-11 — House amendment agreed to: On agreeing to the Sherman amendment (A015) Agreed to by recorded vote: 234 - 195 (Roll no. 447).
+- 2019-07-11 — House amendment agreed to: On agreeing to the Smith (WA) amendment (A001) Agreed to by recorded vote: 236 - 193 (Roll no. 438).
+- 2019-07-11 — House amendment agreed to: On agreeing to the Smith (WA) amendment (A011) Agreed to by recorded vote: 243 - 186, 1 Present (Roll no. 446).
+- 2019-07-11 — House amendment agreed to: On agreeing to the Smith (WA) amendment (A018) Agreed to by recorded vote: 240 - 185 (Roll no. 450).
+- 2019-07-11 — House amendment agreed to: On agreeing to the Smith (WA) amendments (A026) Agreed to by voice vote.
+- 2019-07-11 — House amendment agreed to: On agreeing to the Smith (WA) amendments (A034) Agreed to by voice vote.
+- 2019-07-11 — House amendment agreed to: On agreeing to the Smith (WA) amendments (A035) Agreed to by voice vote.
+- 2019-07-11 — House amendment agreed to: On agreeing to the Smith (WA) amendments (A044) Agreed to by voice vote.
+- 2019-07-11 — House amendment agreed to: On agreeing to the Speier amendment (A003) Agreed to by recorded vote: 242 - 187 (Roll no. 439).
+- 2019-07-11 — House amendment agreed to: On agreeing to the Speier amendment (A004) Agreed to by recorded vote: 231 - 199 (Roll no. 440).
+- 2019-07-11 — House amendment agreed to: On agreeing to the Takano amendment (A027) Agreed to by voice vote.
+- 2019-07-11 — House amendment agreed to: On agreeing to the Torres (CA) amendment (A006) Agreed to by recorded vote: 225 - 205 (Roll no. 442).
+- 2019-07-11 — House amendment not agreed to: On agreeing to the Blumenauer amendment (A022) Failed by recorded vote: 164 - 264 (Roll no. 454).
+- 2019-07-11 — House amendment not agreed to: On agreeing to the Blumenauer amendment (A023) Failed by recorded vote: 198 - 229 (Roll no. 455).
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered
+- 2019-07-11 — House amendment offered/reported by: Amendment (A015) offered by Mr. Sherman.
+- 2019-07-11 — House amendment offered/reported by: Amendment (A016) offered by Mr. Lieu, Ted.
+- 2019-07-11 — House amendment offered/reported by: Amendment (A017) offered by Mr. Lieu, Ted.
+- 2019-07-11 — House amendment offered/reported by: Amendment (A018) offered by Mr. Smith (WA).
+- 2019-07-11 — House amendment offered/reported by: Amendment (A019) offered by Mr. Cicilline.
+- 2019-07-11 — House amendment offered/reported by: Amendment (A020) offered by Mr. Engel.
+- 2019-07-11 — House amendment offered/reported by: Amendment (A021) offered by Mr. Engel.
+- 2019-07-11 — House amendment offered/reported by: Amendment (A022) offered by Mr. Blumenauer.
+- 2019-07-11 — House amendment offered/reported by: Amendment (A023) offered by Mr. Blumenauer.
+- 2019-07-11 — House amendment offered/reported by: Amendment (A024) offered by Ms. Frankel.
+- 2019-07-11 — House amendment offered/reported by: Amendment (A025) offered by Mr. Langevin.
+- 2019-07-11 — House amendment offered/reported by: Amendment (A027) offered by Mr. Takano.
+- 2019-07-11 — House amendment offered/reported by: Amendment (A028) offered by Mr. Lieu, Ted.
+- 2019-07-11 — House amendment offered/reported by: Amendment (A029) offered by Mr. Raskin.
+- 2019-07-11 — House amendment offered/reported by: Amendment (A030) offered by Mr. Huffman.
+- 2019-07-11 — House amendment offered/reported by: Amendment (A031) offered by Mr. Pappas.
+- 2019-07-11 — House amendment offered/reported by: Amendment (A032) offered by Ms. Lee (CA).(consideration: CR H5642-5644; text: CR H5642-5643)
+- 2019-07-11 — House amendment offered/reported by: Amendment (A033) offered by Mr. Amash.(consideration: CR H5644-5646; text: CR H5644-5645)
+- 2019-07-11 — House amendment offered/reported by: Amendment (A045) offered by Mr. Khanna.
+- 2019-07-11 — House amendment offered/reported by: Amendment (A046) offered by Mr. Tipton.(consideration: CR H5712-5713; text: CR H5712)
+- 2019-07-11 — House amendment offered/reported by: Amendment (A047) offered by Mr. Turner.(consideration: CR H5713-5714; text: CR H5713)
+- 2019-07-11 — House amendment offered/reported by: Amendment (A048) offered by Mr. Khanna.(consideration: CR H5714-5718; text: CR H5714-5715)
+- 2019-07-11 — House amendment offered/reported by: Amendment (A049) offered by Ms. Lee (CA).(consideration: CR H5718-5719; text: CR H5718)
+- 2019-07-11 — House amendment offered/reported by: Amendment (A050) offered by Ms. Lee (CA).(consideration: CR H5719-5720; text: CR H5719)
+- 2019-07-11 — House amendment offered/reported by: Amendment (A051) offered by Ms. Garcia (TX).(consideration: CR H5721-5722; text: CR H5721)
+- 2019-07-11 — House amendment offered/reported by: Amendment (A052) offered by Ms. Ocasio-Cortez.(consideration: CR H5722-5723; text: CR H5722)
+- 2019-07-11 — House amendment offered/reported by: Amendment (A053) offered by Ms. Ocasio-Cortez.(consideration: CR H5723; text: CR H5723)
+- 2019-07-11 — House amendment offered/reported by: Amendments en bloc (A026) offered by Mr. Smith (WA).
+- 2019-07-11 — House amendment offered/reported by: Amendments en bloc (A034) offered by Mr. Smith (WA).
+- 2019-07-11 — House amendment offered/reported by: Amendments en bloc (A035) offered by Mr. Smith (WA).
+- 2019-07-11 — House amendment offered/reported by: Amendments en bloc (A036) offered by Ms. Horn, Kendra S.
+- 2019-07-11 — House amendment offered/reported by: Amendments en bloc (A037) offered by Ms. Horn, Kendra S.
+- 2019-07-11 — House amendment offered/reported by: Amendments en bloc (A038) offered by Ms. Horn, Kendra S.
+- 2019-07-11 — House amendment offered/reported by: Amendments en bloc (A039) offered by Ms. Horn, Kendra S.
+- 2019-07-11 — House amendment offered/reported by: Amendments en bloc (A040) offered by Ms. Horn, Kendra S.
+- 2019-07-11 — House amendment offered/reported by: Amendments en bloc (A041) offered by Ms. Horn, Kendra S.
+- 2019-07-11 — House amendment offered/reported by: Amendments en bloc (A042) offered by Ms. Horn, Kendra S.
+- 2019-07-11 — House amendment offered/reported by: Amendments en bloc (A043) offered by Ms. Horn, Kendra S.
+- 2019-07-11 — House amendment offered/reported by: Amendments en bloc (A044) offered by Mr. Smith (WA).
+- 2019-07-11 — Mr. Smith (WA) moved that the Committee rise.
+- 2019-07-11 — On agreeing to the Blumenauer amendment (A022) Failed by recorded vote: 164 - 264 (Roll no. 454).
+- 2019-07-11 — On agreeing to the Blumenauer amendment (A023) Failed by recorded vote: 198 - 229 (Roll no. 455).
+- 2019-07-11 — On agreeing to the Brindisi amendment (A005) Agreed to by recorded vote: 243 - 187 (Roll no. 441). (consideration: CR H5608)
+- 2019-07-11 — On agreeing to the Cicilline amendment (A019) Agreed to by recorded vote: 252 - 173 (Roll no. 451). (consideration: CR H5614-5615)
+- 2019-07-11 — On agreeing to the Connolly amendment (A007) Agreed to by recorded vote: 247 - 182 (Roll no. 443). (consideration: CR H5609-5610)
+- 2019-07-11 — On agreeing to the Engel amendment (A020) Agreed to by recorded vote: 241 - 183 (Roll no. 452). (consideration: CR H5615-5616)
+- 2019-07-11 — On agreeing to the Engel amendment (A021) Agreed to by recorded vote: 236 - 189 (Roll no. 453). (consideration: CR H5616)
+- 2019-07-11 — On agreeing to the Frankel amendment (A024) Agreed to by recorded vote: 215 - 214 (Roll no. 456).
+- 2019-07-11 — On agreeing to the Horn, Kendra S. amendments (A036) Agreed to by voice vote.
+- 2019-07-11 — On agreeing to the Horn, Kendra S. amendments (A037) Agreed to by voice vote.
+- 2019-07-11 — On agreeing to the Horn, Kendra S. amendments (A038) Agreed to by voice vote.
+- 2019-07-11 — On agreeing to the Horn, Kendra S. amendments (A039) Agreed to by voice vote.
+- 2019-07-11 — On agreeing to the Horn, Kendra S. amendments (A040) Agreed to by voice vote.
+- 2019-07-11 — On agreeing to the Horn, Kendra S. amendments (A041) Agreed to by voice vote.
+- 2019-07-11 — On agreeing to the Horn, Kendra S. amendments (A042) Agreed to by voice vote.
+- 2019-07-11 — On agreeing to the Horn, Kendra S. amendments (A043) Agreed to by voice vote.
+- 2019-07-11 — On agreeing to the Huffman amendment (A030) Agreed to by voice vote.
+- 2019-07-11 — On agreeing to the Khanna amendment (A045) Agreed to by voice vote.
+- 2019-07-11 — On agreeing to the Langevin amendment Agreed to by voice vote.
+- 2019-07-11 — On agreeing to the Lieu, Ted amendment (A016) Agreed to by recorded vote: 239 - 187 (Roll no. 448). (consideration: CR H5612-5613)
+- 2019-07-11 — On agreeing to the Lieu, Ted amendment (A017) Agreed to by recorded vote: 246 - 180 (Roll no. 449). (consideration: CR H5613-5614)
+- 2019-07-11 — On agreeing to the Lieu, Ted amendment (A028) Agreed to by recorded vote: 223 - 205, 1 Present (Roll no. 457).
+- 2019-07-11 — On agreeing to the Omar amendment (A010) Agreed to by recorded vote: 219 - 210 (Roll no. 445). (consideration: CR H5610-5611)
+- 2019-07-11 — On agreeing to the Pappas amendment (A031) Agreed to by voice vote.
+- 2019-07-11 — On agreeing to the Raskin amendment (A029) Agreed to by recorded vote: 221 - 207 (Roll no. 458).
+- 2019-07-11 — On agreeing to the Shalala amendment (A009) Agreed to by recorded vote: 251 - 178 (Roll no. 444). (consideration: CR H5610)
+- 2019-07-11 — On agreeing to the Sherman amendment (A015) Agreed to by recorded vote: 234 - 195 (Roll no. 447). (consideration: CR H5612)
+- 2019-07-11 — On agreeing to the Smith (WA) amendment (A001) Agreed to by recorded vote: 236 - 193 (Roll no. 438). (consideration: CR H5606)
+- 2019-07-11 — On agreeing to the Smith (WA) amendment (A011) Agreed to by recorded vote: 243 - 186, 1 Present (Roll no. 446). (consideration: CR H5611-5612)
+- 2019-07-11 — On agreeing to the Smith (WA) amendment (A018) Agreed to by recorded vote: 240 - 185 (Roll no. 450). (consideration: CR H5614)
+- 2019-07-11 — On agreeing to the Smith (WA) amendments (A026) Agreed to by voice vote.
+- 2019-07-11 — On agreeing to the Smith (WA) amendments (A034) Agreed to by voice vote.
+- 2019-07-11 — On agreeing to the Smith (WA) amendments (A035) Agreed to by voice vote.
+- 2019-07-11 — On agreeing to the Smith (WA) amendments (A044) Agreed to by voice vote.
+- 2019-07-11 — On agreeing to the Speier amendment (A003) Agreed to by recorded vote: 242 - 187 (Roll no. 439). (consideration: CR H5606-5607)
+- 2019-07-11 — On agreeing to the Speier amendment (A004) Agreed to by recorded vote: 231 - 199 (Roll no. 440). (consideration: CR H5607-5608)
+- 2019-07-11 — On agreeing to the Takano amendment (A027) Agreed to by voice vote.
+- 2019-07-11 — On agreeing to the Torres (CA) amendment (A006) Agreed to by recorded vote: 225 - 205 (Roll no. 442). (consideration: CR H5608-5609)
+- 2019-07-11 — On motion that the Committee rise Agreed to by voice vote.
+- 2019-07-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Amash amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Thornberry demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blumenauer amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Turner demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blumenauer amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Blumenauer demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cicilline amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Thornberry demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Engel amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Cheney demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Engel amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Stefanik demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Frankel amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Lamborn demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Garcia (TX) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Rogers (AL) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Khanna amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Thornberry demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lee (CA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. McCaul demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lee (CA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. McCaul demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lee (CA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Lee (CA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ocasio-Cortez amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Rogers (AL) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ocasio-Cortez amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Rogers (AL) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Raskin amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Lamborn demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Sherman amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Wright demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Smith (WA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Zeldin demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ted Lieu (CA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Gibbs demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ted Lieu amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Zeldin demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ted Lieu amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Zeldin demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Tipton amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Tipton demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Turner amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Turner demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-11 — Roll call votes on amendments in House
+- 2019-07-11 — Roll call votes on amendments in House
+- 2019-07-11 — Roll call votes on amendments in House
+- 2019-07-11 — Roll call votes on amendments in House
+- 2019-07-11 — Roll call votes on amendments in House
+- 2019-07-11 — Roll call votes on amendments in House
+- 2019-07-11 — Roll call votes on amendments in House
+- 2019-07-11 — Roll call votes on amendments in House
+- 2019-07-11 — Roll call votes on amendments in House
+- 2019-07-11 — Roll call votes on amendments in House
+- 2019-07-11 — Roll call votes on amendments in House
+- 2019-07-11 — Roll call votes on amendments in House
+- 2019-07-11 — Roll call votes on amendments in House
+- 2019-07-11 — Roll call votes on amendments in House
+- 2019-07-11 — Roll call votes on amendments in House
+- 2019-07-11 — Roll call votes on amendments in House
+- 2019-07-11 — Roll call votes on amendments in House
+- 2019-07-11 — Roll call votes on amendments in House
+- 2019-07-11 — Roll call votes on amendments in House
+- 2019-07-11 — Roll call votes on amendments in House
+- 2019-07-11 — Roll call votes on amendments in House
+- 2019-07-11 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2019-07-11 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier and on which further proceedings had been postponed.
+- 2019-07-12 — Amendment (A054) offered by Mr. Thompson (MS). (consideration: CR H5733-5734, H5757-5758; text: CR H5733)
+- 2019-07-12 — Amendment (A055) offered by Mr. Malinowski. (consideration: CR H5734-5735, H5758-5759; text: CR H5734)
+- 2019-07-12 — Amendment (A056) offered by Mrs. Dingell. (consideration: CR H5735-5737; text: CR H5735)
+- 2019-07-12 — Amendment (A057) offered by Ms. Jayapal. (consideration: CR H5737-5740, H5759; text: CR H5737)
+- 2019-07-12 — Amendment (A058) offered by Mr. Smith (WA). (consideration: CR H5740-5743; text: CR H5740)
+- 2019-07-12 — Amendment agreed to Committee of the Whole
+- 2019-07-12 — Amendment agreed to Committee of the Whole
+- 2019-07-12 — Amendment agreed to Committee of the Whole
+- 2019-07-12 — Amendment agreed to Committee of the Whole
+- 2019-07-12 — Amendment agreed to Committee of the Whole
+- 2019-07-12 — Amendment agreed to Committee of the Whole
+- 2019-07-12 — Amendment agreed to Committee of the Whole
+- 2019-07-12 — Amendment agreed to Committee of the Whole
+- 2019-07-12 — Amendment agreed to Committee of the Whole
+- 2019-07-12 — Amendment failed in Committee of the Whole
+- 2019-07-12 — Amendment failed in Committee of the Whole
+- 2019-07-12 — Amendment failed in Committee of the Whole
+- 2019-07-12 — Amendment failed in Committee of the Whole
+- 2019-07-12 — Amendment failed in Committee of the Whole
+- 2019-07-12 — Amendment failed in Committee of the Whole
+- 2019-07-12 — Approved Further Amendments To Measure Previously Reported.
+- 2019-07-12 — Committee of the Whole House on the state of the Union rises leaving H.R. 2500 as unfinished business.
+- 2019-07-12 — Considered as unfinished business. (CR H5733-5743)
+- 2019-07-12 — Considered as unfinished business. (consideration: CR H5750-5764)
+- 2019-07-12 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Dingell amendment No. 440.
+- 2019-07-12 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Jayapal amendment No. 441.
+- 2019-07-12 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Malinowski amendment No. 438.
+- 2019-07-12 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 10 minutes of debate on the Thompson (MS) amendment No. 437.
+- 2019-07-12 — DEBATE - Pursuant to the provisions of H. Res. 476, the Committee of the Whole proceeded with 20 minutes of debate on the Smith (WA) en bloc No. 17.
+- 2019-07-12 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Thornberry motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add the following new titles to the bill: Increase in Funding for Operation and Maintenance, Increase in Funding for Military Personnel, and Increase in Basic Pay.
+- 2019-07-12 — House amendment agreed to: On agreeing to the Dingell amendment (A056) Agreed to by voice vote.
+- 2019-07-12 — House amendment agreed to: On agreeing to the Jayapal amendment (A057) Agreed to by recorded vote: 230 - 189 (Roll no. 471).
+- 2019-07-12 — House amendment agreed to: On agreeing to the Khanna amendment (A048) Agreed to by recorded vote: 251 - 170 (Roll no. 463).
+- 2019-07-12 — House amendment agreed to: On agreeing to the Lee (CA) amendment (A049) Agreed to by recorded vote: 242 - 180 (Roll no. 464).
+- 2019-07-12 — House amendment agreed to: On agreeing to the Lee (CA) amendment (A050) Agreed to by recorded vote: 237 - 183 (Roll no. 465).
+- 2019-07-12 — House amendment agreed to: On agreeing to the Malinowski amendment (A055) Agreed to by recorded vote: 236 - 182 (Roll no. 470).
+- 2019-07-12 — House amendment agreed to: On agreeing to the Smith (WA) amendment (A058) Agreed to by voice vote.
+- 2019-07-12 — House amendment agreed to: On agreeing to the Thompson (MS) amendment (A054) Agreed to by recorded vote: 213 - 204 (Roll no. 469).
+- 2019-07-12 — House amendment agreed to: On agreeing to the Tipton amendment (A046) Agreed to by recorded vote: 417 - 6 (Roll no. 461).
+- 2019-07-12 — House amendment not agreed to: On agreeing to the Amash amendment (A033) Failed by recorded vote: 187 - 236 (Roll no. 460).
+- 2019-07-12 — House amendment not agreed to: On agreeing to the Garcia (TX) amendment (A051) Failed by recorded vote: 198 - 223 (Roll no. 466).
+- 2019-07-12 — House amendment not agreed to: On agreeing to the Lee (CA) amendment (A032) Failed by recorded vote: 115 - 307 (Roll no. 459).
+- 2019-07-12 — House amendment not agreed to: On agreeing to the Ocasio-Cortez amendment (A052) Failed by recorded vote: 179 - 241, 1 Present (Roll no. 467).
+- 2019-07-12 — House amendment not agreed to: On agreeing to the Ocasio-Cortez amendment (A053) Failed by recorded vote: 173 - 245 (Roll no. 468).
+- 2019-07-12 — House amendment not agreed to: On agreeing to the Turner amendment (A047) Failed by recorded vote: 201 - 221 (Roll no. 462).
+- 2019-07-12 — House amendment offered
+- 2019-07-12 — House amendment offered
+- 2019-07-12 — House amendment offered
+- 2019-07-12 — House amendment offered
+- 2019-07-12 — House amendment offered
+- 2019-07-12 — House amendment offered/reported by: Amendment (A054) offered by Mr. Thompson (MS).
+- 2019-07-12 — House amendment offered/reported by: Amendment (A055) offered by Mr. Malinowski.
+- 2019-07-12 — House amendment offered/reported by: Amendment (A056) offered by Mrs. Dingell.
+- 2019-07-12 — House amendment offered/reported by: Amendment (A057) offered by Ms. Jayapal.
+- 2019-07-12 — House amendment offered/reported by: Amendment (A058) offered by Mr. Smith (WA).
+- 2019-07-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-07-12 — Mr. Smith (WA) moved that the committee rise.
+- 2019-07-12 — Mr. Thornberry moved to recommit with instructions to the Committee on Armed Services. (text: CR H5760-5762)
+- 2019-07-12 — On agreeing to the Amash amendment (A033) Failed by recorded vote: 187 - 236 (Roll no. 460). (consideration: CR H5751-5752)
+- 2019-07-12 — On agreeing to the Dingell amendment (A056) Agreed to by voice vote.
+- 2019-07-12 — On agreeing to the Garcia (TX) amendment (A051) Failed by recorded vote: 198 - 223 (Roll no. 466). (consideration: CR H5755-5756)
+- 2019-07-12 — On agreeing to the Jayapal amendment (A057) Agreed to by recorded vote: 230 - 189 (Roll no. 471).
+- 2019-07-12 — On agreeing to the Khanna amendment (A048) Agreed to by recorded vote: 251 - 170 (Roll no. 463). (consideration: CR H5753-5754)
+- 2019-07-12 — On agreeing to the Lee (CA) amendment (A032) Failed by recorded vote: 115 - 307 (Roll no. 459). (consideration: CR H5751)
+- 2019-07-12 — On agreeing to the Lee (CA) amendment (A049) Agreed to by recorded vote: 242 - 180 (Roll no. 464). (consideration: CR H5754-5755)
+- 2019-07-12 — On agreeing to the Lee (CA) amendment (A050) Agreed to by recorded vote: 237 - 183 (Roll no. 465). (consideration: CR H5755)
+- 2019-07-12 — On agreeing to the Malinowski amendment (A055) Agreed to by recorded vote: 236 - 182 (Roll no. 470).
+- 2019-07-12 — On agreeing to the Ocasio-Cortez amendment (A052) Failed by recorded vote: 179 - 241, 1 Present (Roll no. 467). (consideration: CR H5756-5757)
+- 2019-07-12 — On agreeing to the Ocasio-Cortez amendment (A053) Failed by recorded vote: 173 - 245 (Roll no. 468). (consideration: CR H5757)
+- 2019-07-12 — On agreeing to the Smith (WA) amendment (A058) Agreed to by voice vote.
+- 2019-07-12 — On agreeing to the Thompson (MS) amendment (A054) Agreed to by recorded vote: 213 - 204 (Roll no. 469).
+- 2019-07-12 — On agreeing to the Tipton amendment (A046) Agreed to by recorded vote: 417 - 6 (Roll no. 461). (consideration: CR H5752-5753)
+- 2019-07-12 — On agreeing to the Turner amendment (A047) Failed by recorded vote: 201 - 221 (Roll no. 462). (consideration: CR H5753)
+- 2019-07-12 — On motion that the committee rise Agreed to by voice vote.
+- 2019-07-12 — On motion to recommit with instructions Failed by recorded vote: 204 - 212 (Roll no. 472).
+- 2019-07-12 — On passage Passed by recorded vote: 220 - 197 (Roll no. 473).
+- 2019-07-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jayapal amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Thornberry demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Malinowski amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mrs. Wagner demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Thompson (MS) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Thornberry demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-12 — Passed/agreed to in House: On passage Passed by recorded vote: 220 - 197 (Roll no. 473).
+- 2019-07-12 — Roll call votes on amendments in House
+- 2019-07-12 — Roll call votes on amendments in House
+- 2019-07-12 — Roll call votes on amendments in House
+- 2019-07-12 — Roll call votes on amendments in House
+- 2019-07-12 — Roll call votes on amendments in House
+- 2019-07-12 — Roll call votes on amendments in House
+- 2019-07-12 — Roll call votes on amendments in House
+- 2019-07-12 — Roll call votes on amendments in House
+- 2019-07-12 — Roll call votes on amendments in House
+- 2019-07-12 — Roll call votes on amendments in House
+- 2019-07-12 — Roll call votes on amendments in House
+- 2019-07-12 — Roll call votes on amendments in House
+- 2019-07-12 — Roll call votes on amendments in House
+- 2019-07-12 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 2500.
+- 2019-07-12 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2019-07-12 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2019-07-12 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2500.
+- 2019-07-12 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2019-07-12 — The previous question was ordered pursuant to the rule.
+- 2019-07-12 — The title of the measure was amended. Agreed to without objection.
