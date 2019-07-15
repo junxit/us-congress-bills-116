@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 206
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 206
@@ -28,3 +28,7 @@ A resolution marking the 70th anniversary of the four Geneva Conventions of 1949
 
 - 2019-05-14 — Introduced in Senate
 - 2019-05-14 — Referred to the Committee on Foreign Relations. (text: CR S2834)
+- 2019-06-25 — Committee on Foreign Relations. Ordered to be reported with an amendment favorably.
+- 2019-07-15 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
+- 2019-07-15 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
+- 2019-07-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 146.
