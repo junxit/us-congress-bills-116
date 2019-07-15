@@ -1,7 +1,7 @@
 ---
 measure: S. 1430
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-22 amendatory instructions. 0 executed, 22 stated and not applied.
+23 amendatory instructions. 0 executed, 23 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,12 +44,13 @@ complete account of the bill's effect, which it is not.
 | `5 U.S.C. § 8345` | insert | by inserting “(1)” after “(e)”; | the bill quotes the text inserted but describes where it goes |
 | `5 U.S.C. § 8345` | insert | in the first sentence, by inserting “(including an organization)” after “person”; | the bill quotes the text inserted but describes where it goes |
 | `5 U.S.C. § 8345` | insert | by inserting “(including an organization)” after “any person”; and | the bill quotes the text inserted but describes where it goes |
-| `5 U.S.C. § 8345` | insert | by inserting “and may appropriately receive such payments on behalf of the claimant” after “claimant”; and | the bill quotes the text inserted but describes where it goes |
+| `5 U.S.C. § 8345` | insert | by inserting “and may appropriately receive such payments on behalf of the claimant” after “claimant” the second place it appears; and | the bill quotes the text inserted but describes where it goes |
 | `5 U.S.C. § 8345` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 8345` | insert | by inserting “(1)” after “(c)”; | the bill quotes the text inserted but describes where it goes |
 | `5 U.S.C. § 8345` | insert | in the first sentence, by inserting “(including an organization)” after “person”; | the bill quotes the text inserted but describes where it goes |
 | `5 U.S.C. § 8345` | insert | by inserting “(including an organization)” after “any person”; and | the bill quotes the text inserted but describes where it goes |
-| `5 U.S.C. § 8345` | insert | by inserting “and may appropriately receive such payments on behalf of the claimant” after “claimant”; and | the bill quotes the text inserted but describes where it goes |
+| `5 U.S.C. § 8345` | insert | by inserting “and may appropriately receive such payments on behalf of the claimant” after “claimant” the second place it appears; and | the bill quotes the text inserted but describes where it goes |
 | `5 U.S.C. § 8345` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 408` | insert | Section 8345 of title 5, United States Code, is amended by inserting after subsection (e) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 408` | add-at-end | Section 8466 of title 5, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | Section 8348(a)(1)(B) of title 5, United States Code, is amended by inserting “in administering fraud prevention under sections 8345, 8345a, 8466, and 8466a of this title,” after “8465(b) of this title,”. | the bill names no machine-readable US Code section |
