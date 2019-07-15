@@ -27,21 +27,32 @@ Congress finds the following:
 
 ## § 3. Sanctions relating to undermining democracy in Cambodia
 
-- **(a)** *Designation of persons responsible for undermining democracy in cambodia* Not later than 180 days after the date of the enactment of this Act, the President shall apply the sanctions described in subsection (b) on—
-  - **(1)** each senior official of the government, military, or security forces of Cambodia that the President determines has directly and substantially undermined democracy in Cambodia;
-  - **(2)** each senior official of the government, military, or security forces of Cambodia that the President determines has committed or directed serious human rights violations associated with undermining democracy in Cambodia; and
-  - **(3)** entities owned or controlled by senior officials of the government, military, or security forces of Cambodia described in paragraphs (1) and (2).
-- **(b)** *Sanctions described*
-  - **(1)** *Asset blocking* The President shall exercise all of the powers granted to the President under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in property and interests in property of a person designated under subsection (a) if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
-  - **(2)** *Visa restrictions*
-    - **(A)** *In general* The Secretary of State, in consultation with the Secretary of Homeland Security, shall continue to implement the policy announced by the Department of State on December 6, 2017, to restrict entry into the United States of persons involved in undermining democracy in Cambodia, including any person designated under subsection (a).
-    - **(B)** *Exception for multilateral activities* Persons otherwise restricted from entry into the United States under this section may be admitted if such admission is necessary to comply with United States obligations under the Agreement between the United Nations and the United States of America regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, or under the Convention on Consular Relations, done at Vienna April 24, 1963, and entered into force March 19, 1967, or other applicable international obligations of the United States.
-  - **(3)** *Penalties* The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that violates, attempts to violate, conspires to violate, or causes a violation of paragraph (1) to the same extent that such penalties apply to a person that commits an unlawful act described in subsection (a) of such section 206.
-- **(c)** *List of designated persons*
-  - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act, the President shall transmit to the appropriate congressional committees a list of persons designated under subsection (a).
-  - **(2)** *Updates* The President shall transmit to the appropriate congressional committees updated lists under paragraph (1) as new information becomes available.
-- **(d)** *Implementation* The President may exercise all authorities provided under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) to carry out this section.
-- **(e)** *Waiver* The President may waive the application of sanctions described in subsection (b) with respect to a person designated under subsection (a) if the President determines and certifies to the appropriate congressional committees that such waiver is in the national interest of the United States.
+- **(a)** *Designation of persons responsible for undermining democracy in Cambodia*
+  - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act, the President shall designate and transmit to the appropriate congressional committees a list of—
+    - **(A)** each senior official of the government, military, or security forces of Cambodia who the President determines has directly and substantially undermined democracy in Cambodia;
+    - **(B)** each senior official of the government, military, or security forces of Cambodia who the President determines has committed or directed serious human rights violations associated with undermining democracy in Cambodia; and
+    - **(C)** entities owned or controlled by senior officials of the government, military, or security forces of Cambodia described in subparagraphs (A) and (B).
+  - **(2)** *Imposition of sanctions* The President shall impose the sanctions described in subsection (b) on each foreign person designated pursuant to paragraph (1).
+  - **(3)** *Updates* The President shall transmit to the appropriate congressional committees updated lists under paragraph (1) as new information becomes available.
+- **(b)** *Sanctions described* The sanctions described in this subsection are the following:
+  - **(1)** *Asset blocking* The President shall exercise all of the powers granted to the President under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in property and interests in property of a foreign person designated under subsection (a) if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+  - **(2)** *Inadmissibility of certain individuals*
+    - **(A)** *Ineligibility for visas and admission to the united states* A foreign person designated under subsection (a) is—
+      - **(i)** inadmissible to the United States;
+      - **(ii)** ineligible to receive a visa or other documentation to enter the United States; and
+      - **(iii)** otherwise ineligible to be admitted or paroled into the United States or to receive any other benefit under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.).
+    - **(B)** *Current visas revoked* A foreign person designated under subsection (a) is subject to the following:
+      - **(i)** Revocation of any visa or other entry documentation regardless of when the visa or other entry documentation is or was issued.
+      - **(ii)** A revocation under clause (i) shall—
+        - **(I)** take effect immediately; and
+        - **(II)** automatically cancel any other valid visa or entry documentation that is in the foreign person’s possession.
+    - **(C)** *Exception to comply with international obligations* Sanctions under this paragraph shall not apply with respect to a foreign person if admitting or paroling the person into the United States is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or other applicable international obligations.
+  - **(3)** *Penalties* The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) shall apply to a foreign person that violates, attempts to violate, conspires to violate, or causes a violation of paragraph (1) to the same extent that such penalties apply to a person that commits an unlawful act described in subsection (a) of such section 206.
+- **(c)** *Implementation* The President may exercise all authorities provided under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) to carry out this section.
+- **(d)** *Waiver* The President may waive the application of sanctions described in subsection (b) with respect to a person designated under subsection (a) if the President determines and certifies to the appropriate congressional committees that such waiver is in the national interest of the United States.
+- **(e)** *Exception relating to importation of goods*
+  - **(1)** *In general* The authorities and requirements to impose sanctions authorized under this Act shall not include the authority or requirement to impose sanctions on the importation of goods.
+  - **(2)** *Good defined* In this subsection, the term “good” means any article, natural or man-made substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
 
 ## § 4. Suspension of sanctions
 
@@ -51,20 +62,24 @@ Congress finds the following:
   - **(3)** Conducting free and fair elections which allow for the active participation of credible opposition candidates.
 - **(b)** *Renewal of suspension* The suspension described in subsection (a) may be renewed for additional, consecutive-day periods if the President certifies to the appropriate congressional committees that Cambodia is continuing to make meaningful progress towards satisfying the conditions described in such subsection during the previous year.
 
-## § 5. Sunset
+## § 5. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
+
+## § 6. Sunset
 
 This Act shall terminate on the date that is 5 years after the date of the enactment of this Act.
 
-## § 6. Definitions
+## § 7. Definitions
 
 In this Act:
 
-- **(1)** *Appropriate congressional committees* The term appropriate congressional committees means the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives, and the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+- **(1)** *Appropriate congressional committees* The term “appropriate congressional committees” means the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives, and the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate.
 - **(2)** *Person*
-  - **(A)** *In general* The term person means—
+  - **(A)** *In general* The term “person” means—
     - **(i)** a natural person; or
     - **(ii)** a corporation, business association, partnership, society, trust, financial institution, insurer, underwriter, guarantor, and any other business organization, any other nongovernmental entity, organization, or group, and any governmental entity operating as a business enterprise or any successor to any entity described in this clause.
-  - **(B)** *Application to governmental entities* The term person does not include a government or governmental entity that is not operating as a business enterprise.
-- **(3)** *United states person* The term United States person means—
+  - **(B)** *Application to governmental entities* The term “person” does not include a government or governmental entity that is not operating as a business enterprise.
+- **(3)** *United states person* The term “United States person” means—
   - **(A)** a United States citizen or an alien lawfully admitted for permanent residence to the United States; or
   - **(B)** an entity organized under the laws of the United States or of any jurisdiction of the United States, including a foreign branch of such an entity.
