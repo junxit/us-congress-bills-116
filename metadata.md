@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1649
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1649
@@ -37,3 +37,9 @@ Small Business Development Center Cyber Training Act of 2019
 - 2019-06-13 — Placed on the Union Calendar, Calendar No. 81.
 - 2019-06-13 — Reported by the Committee on Small Business. H. Rept. 116-112.
 - 2019-06-13 — Reported by the Committee on Small Business. H. Rept. 116-112.
+- 2019-07-15 — Considered under suspension of the rules. (consideration: CR H5809-5810)
+- 2019-07-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1649.
+- 2019-07-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-07-15 — Mr. Delgado moved to suspend the rules and pass the bill.
+- 2019-07-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5809)
+- 2019-07-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5809)
