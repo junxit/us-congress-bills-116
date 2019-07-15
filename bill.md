@@ -2,7 +2,7 @@
 legis-num: H. RES. 441
 congress: 116th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 441
@@ -20,7 +20,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Ibrahim Hussein Berro, a member of the terrorist group Hezbollah, was identified as the AMIA bomber;
 - Whereas, in November 2006, an Argentine judge issued arrest warrants for Iranian nationals Ali Fallahijan (former Iranian intelligence minister), Mohsen Rabbani (former Iranian cultural attaché), Ahmad Reza Asghari (former Iranian diplomat), Ahmad Vahidi (former Iranian defense minister), Ali Akbar Velayati (former Iranian foreign minister), Mohsen Rezaee (former chief commander of the Iranian Islamic Revolutionary Guards Corps), Ali Akbar Hashemi Rafsanjani (former President of Iran), Hadi Soleimanpour (former Iranian Ambassador to Argentina), and Lebanese national Imad Fayez Moughnieh who were named as suspects in the AMIA bombing;
 - Whereas, in November 2007, INTERPOL voted to put the following suspects in the 1994 AMIA attack on its most wanted list—Ali Fallahijan, Mohsen Rabbani, Ahmad Reza Asghari, Ahmad Vahidi, and Mohsen Razaee from Iran and Imad Fayez Moughnieh from Lebanon;
-- Whereas Interpol currently has 4 red alerts in place in relation to the AMIA attack;
+- Whereas Interpol currently has four red alerts in place in relation to the AMIA attack;
 - Whereas, on January 13, 2015, prosecutor Alberto Nisman alleged in a complaint that then-Argentinian President Cristina Fernandez de Kirchner and then-Minister of Foreign Relations Hector Timerman conspired to cover up Iranian involvement in the 1994 terrorist bombing, and reportedly agreed to negotiate immunity for Iranian suspects and help get their names removed from the INTERPOL list;
 - Whereas prosecutor Alberto Nisman was scheduled to present his new findings to the Argentinian Congress on January 19, 2015;
 - Whereas prosecutor Alberto Nisman was found shot in the head in his apartment in Buenos Aires on January 18, 2015;
