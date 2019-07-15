@@ -1,7 +1,7 @@
 ---
 measure: S. 1420
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1420
@@ -20,11 +20,18 @@ SMART Act of 2019
 
 - Sen. Lankford, James [R-OK] (L000575)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
 - 2019-05-13 — Introduced in Senate
 - 2019-05-13 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2019-05-15 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2019-05-22 — Committee on Homeland Security and Governmental Affairs Subcommittee on Regulatory Affairs and Federal Management. Hearings held.
+- 2019-05-22 — Committee on Small Business and Entrepreneurship. Hearings held.
+- 2019-07-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-55.
+- 2019-07-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-55.
+- 2019-07-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 147.
