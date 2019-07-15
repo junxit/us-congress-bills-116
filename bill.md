@@ -15,5 +15,7 @@ This Act may be cited as the “Access to Sufficient Capital for Everyone in Nat
 
 ## § 2. Collateral requirements for disaster loans under the Small Business Act
 
-- **(a)** *Amendment to the RISE After Disaster Act of 2015* Section 2102 of the RISE After Disaster Act of 2015 (Public Law 114–88) is amended be striking subsections (b) and (c).
+- **(a)** *Amendment to the RISE After Disaster Act of 2015* Section 2102 of the RISE After Disaster Act of 2015 (Public Law 114–88) is amended—
+  - **(1)** by striking subsections (b) and (c); and
+  - **(2)** by striking “(a) In general.—”.
 - **(b)** *Effective date* The amendment made by subsection (a) shall take effect as though enacted as part of the RISE After Disaster Act of 2015.
