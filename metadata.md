@@ -1,7 +1,7 @@
 ---
 measure: S. 1430
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1430
@@ -29,3 +29,7 @@ Representative Payee Fraud Prevention Act of 2019
 
 - 2019-05-13 — Introduced in Senate
 - 2019-05-13 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2019-05-15 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2019-07-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 116-56.
+- 2019-07-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 116-56.
+- 2019-07-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 148.
