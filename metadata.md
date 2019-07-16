@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 198
 congress: 116
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 198
@@ -16,7 +16,7 @@ A resolution condemning Brunei's dramatic human rights backsliding.
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 
-## Cosponsors (13)
+## Cosponsors (14)
 
 - Sen. Young, Todd [R-IN] (Y000064)
 - Sen. Menendez, Robert [D-NJ] (M000639)
@@ -31,6 +31,7 @@ A resolution condemning Brunei's dramatic human rights backsliding.
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 - Sen. Cruz, Ted [R-TX] (C001098)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Markey, Edward J. [D-MA] (M000133)
 
 ## Committees (1)
 
@@ -44,3 +45,5 @@ A resolution condemning Brunei's dramatic human rights backsliding.
 - 2019-07-09 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2019-07-09 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2019-07-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 139.
+- 2019-07-16 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(consideration: CR S4870; text: CR S4870)
+- 2019-07-16 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (consideration: CR S4870; text: CR S4870)
