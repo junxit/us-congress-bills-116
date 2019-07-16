@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2615
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2615
@@ -57,10 +57,11 @@ United States-Northern Triangle Enhanced Engagement Act
 - Rep. Phillips, Dean [D-MN-3] (P000616)
 - Rep. Price, David E. [D-NC-4] (P000523)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -78,3 +79,4 @@ United States-Northern Triangle Enhanced Engagement Act
 - 2019-07-15 — Mr. Engel moved to suspend the rules and pass the bill, as amended. (consideration: CR H5780-5786)
 - 2019-07-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5780-5784)
 - 2019-07-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5780-5784)
+- 2019-07-16 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
