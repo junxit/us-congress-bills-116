@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 74
 congress: 116
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 74
@@ -51,3 +51,17 @@ A resolution marking the fifth anniversary of Ukraine's Revolution of Dignity by
 - 2019-06-03 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with an amended preamble. Without written report.
 - 2019-06-03 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with an amended preamble. Without written report.
 - 2019-06-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 103.
+- 2019-07-16 — Amendment SA 925 agreed to in Senate by Unanimous Consent.
+- 2019-07-16 — Amendment SA 925 proposed by Senator Thune for Senator Portman. (consideration: CR S4862-4863; text: CR S4862-4863) To amend the preamble.
+- 2019-07-16 — Amendment SA 926 agreed to in Senate by Unanimous Consent.
+- 2019-07-16 — Amendment SA 926 proposed by Senator Thune for Senator Portman. (consideration: CR S4861-4862; text: CR S4861-4862) In the nature of a substitute.
+- 2019-07-16 — Measure laid before Senate by unanimous consent.
+- 2019-07-16 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Voice Vote.(consideration: CR S4860-4864; text: CR S4863-4864)
+- 2019-07-16 — Resolution agreed to in Senate with an amendment and an amended preamble by Voice Vote. (consideration: CR S4860-4864; text: CR S4863-4864)
+- 2019-07-16 — Senate amendment agreed to: Amendment SA 925 agreed to in Senate by Unanimous Consent.
+- 2019-07-16 — Senate amendment agreed to: Amendment SA 926 agreed to in Senate by Unanimous Consent.
+- 2019-07-16 — Senate amendment proposed (on the floor): Amendment SA 925 proposed by Senator Thune for Senator Portman.
+- 2019-07-16 — Senate amendment proposed (on the floor): Amendment SA 926 proposed by Senator Thune for Senator Portman.
+- 2019-07-16 — Senate amendment submitted
+- 2019-07-16 — Senate amendment submitted
+- 2019-07-16 — The committee amendment to the preamble withdrawn by Unanimous Consent.
