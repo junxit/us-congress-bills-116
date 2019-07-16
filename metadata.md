@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2037
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2037
@@ -38,11 +38,12 @@ Saudi Arabia Human Rights and Accountability Act of 2019
 - Rep. Khanna, Ro [D-CA-17] (K000389)
 - Rep. Curtis, John R. [R-UT-3] (C001114)
 
-## Committees (3)
+## Committees (4)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
 - House — Intelligence (Permanent Select) Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -67,3 +68,4 @@ Saudi Arabia Human Rights and Accountability Act of 2019
 - 2019-07-15 — Mr. Engel moved to suspend the rules and pass the bill, as amended.
 - 2019-07-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 7 (Roll no. 477). (text: CR H5796-5797)
 - 2019-07-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 7 (Roll no. 477).(text: CR H5796-5797)
+- 2019-07-16 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
