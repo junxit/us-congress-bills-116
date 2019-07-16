@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2744
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2744
@@ -22,9 +22,10 @@ USAID Branding Modernization Act
 - Rep. Guest, Michael [R-MS-3] (G000591)
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ USAID Branding Modernization Act
 - 2019-07-15 — Mr. Engel moved to suspend the rules and pass the bill.
 - 2019-07-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 1 (Roll no. 475). (text: CR H5786)
 - 2019-07-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 1 (Roll no. 475).(text: CR H5786)
+- 2019-07-16 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
