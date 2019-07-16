@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 198
 congress: 116
-version: Reported to Senate
+version: Agreed to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+1 amendatory instruction. 0 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,5 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | repeal | supports the withdrawal and denial of United States visas for any Brunei official responsible for passage or implementation of such laws until they are repealed. | the bill names no machine-readable US Code section |
 | — | repeal | supports the withdrawal and denial of United States visas for any Brunei official responsible for passage or implementation of such penal code and related laws until they are repealed. | the bill names no machine-readable US Code section |
