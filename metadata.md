@@ -1,7 +1,7 @@
 ---
 measure: S. 375
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 375
@@ -34,3 +34,5 @@ Payment Integrity Information Act of 2019
 - 2019-05-06 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-35.
 - 2019-05-06 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-35.
 - 2019-05-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 76.
+- 2019-07-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4864-4870; text: CR S4864-4970)
+- 2019-07-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4864-4870; text: CR S4864-4970)
