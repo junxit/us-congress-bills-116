@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2142
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2142
@@ -31,9 +31,10 @@ To amend the Small Business Act to require the Small Business and Agriculture Re
 - Rep. Watkins, Steve [R-KS-2] (W000824)
 - Rep. Axne, Cynthia [D-IA-3] (A000378)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ To amend the Small Business Act to require the Small Business and Agriculture Re
 - 2019-07-15 — Mr. Delgado moved to suspend the rules and pass the bill.
 - 2019-07-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5806)
 - 2019-07-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5806)
+- 2019-07-16 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
