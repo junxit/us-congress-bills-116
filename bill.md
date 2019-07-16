@@ -2,7 +2,7 @@
 legis-num: H. RES. 489
 congress: 116th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 489
@@ -23,7 +23,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas as President Reagan observed, the torch of Lady Liberty symbolizes our freedom and represents our heritage, the compact with our parents, our grandparents, and our ancestors, and it is the Statue of Liberty and its values that give us our great and special place in the world;
 - Whereas other countries may seek to compete with us, but in one vital area, as “a beacon of freedom and opportunity that draws the people of the world, no country on Earth comes close”;
 - Whereas it is the great life force of “each generation of new Americans that guarantees that America's triumph shall continue unsurpassed” through the 21st century and beyond and is part of the “magical, intoxicating power of America”;
-- Whereas this is “one of the most important sources of America's greatness: we lead the world because, unique among nations, we draw our people -- our strength -- from every country and every corner of the world, and by doing so we continuously renew and enrich our nation”;
+- Whereas this is “one of the most important sources of America's greatness: we lead the world because, unique among nations, we draw our people—our strength—from every country and every corner of the world, and by doing so we continuously renew and enrich our nation”;
 - Whereas “thanks to each wave of new arrivals to this land of opportunity, we're a nation forever young, forever bursting with energy and new ideas, and always on the cutting edge”, always leading the world to the next frontier;
 - Whereas this openness is vital to our future as a Nation, and “if we ever closed the door to new Americans, our leadership in the world would soon be lost”; and
 - Whereas President Donald Trump’s racist comments have legitimized fear and hatred of new Americans and people of color: Now, therefore, be it
