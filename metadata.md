@@ -1,7 +1,7 @@
 ---
 measure: H.R. 277
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 277
@@ -22,9 +22,10 @@ Access to Sufficient Capital for Everyone in Natural Disaster areas Act of 2019
 - Rep. Finkenauer, Abby [D-IA-1] (F000467)
 - Rep. Craig, Angie [D-MN-2] (C001119)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Access to Sufficient Capital for Everyone in Natural Disaster areas Act of 2019
 - 2019-07-15 — Mr. Delgado moved to suspend the rules and pass the bill, as amended.
 - 2019-07-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5805)
 - 2019-07-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5805)
+- 2019-07-16 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
