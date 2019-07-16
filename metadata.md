@@ -1,7 +1,7 @@
 ---
 measure: H.R. 526
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 526
@@ -30,10 +30,11 @@ Cambodia Democracy Act of 2019
 - Rep. Taylor, Van [R-TX-3] (T000479)
 - Rep. Timmons, William R. IV [R-SC-4] (T000480)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Cambodia Democracy Act of 2019
 - 2019-07-15 — Mr. Engel moved to suspend the rules and pass the bill, as amended.
 - 2019-07-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5802-5803)
 - 2019-07-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5802-5803)
+- 2019-07-16 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
