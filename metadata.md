@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1941
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1941
@@ -16,7 +16,7 @@ Coastal and Marine Economies Protection Act
 
 - Rep. Cunningham, Joe [D-SC-1] (C001122)
 
-## Cosponsors (30)
+## Cosponsors (51)
 
 - Rep. Rooney, Francis [R-FL-19] (R000607)
 - Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
@@ -48,6 +48,27 @@ Coastal and Marine Economies Protection Act
 - Rep. Levin, Mike [D-CA-49] (L000593)
 - Rep. Soto, Darren [D-FL-9] (S001200)
 - Rep. Cox, TJ [D-CA-21] (C001124)
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Rep. Luria, Elaine G. [D-VA-2] (L000591)
+- Rep. Cartwright, Matt [D-PA-8] (C001090)
+- Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
+- Rep. Peters, Scott H. [D-CA-52] (P000608)
+- Rep. Bonamici, Suzanne [D-OR-1] (B001278)
+- Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Khanna, Ro [D-CA-17] (K000389)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Rice, Kathleen M. [D-NY-4] (R000602)
+- Rep. Lee, Barbara [D-CA-13] (L000551)
+- Rep. Espaillat, Adriano [D-NY-13] (E000297)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Himes, James A. [D-CT-4] (H001047)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. Adams, Alma S. [D-NC-12] (A000370)
+- Rep. Harder, Josh [D-CA-10] (H001090)
+- Rep. Slotkin, Elissa [D-MI-8] (S001208)
+- Rep. Sánchez, Linda T. [D-CA-38] (S001156)
 
 ## Committees (1)
 
@@ -59,3 +80,10 @@ Coastal and Marine Economies Protection Act
 - 2019-03-28 — Introduced in House
 - 2019-03-28 — Referred to the House Committee on Natural Resources.
 - 2019-03-28 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2019-04-02 — Subcommittee Hearings Held.
+- 2019-06-19 — Committee Consideration and Mark-up Session Held.
+- 2019-06-19 — Ordered to be Reported by the Yeas and Nays: 22 - 12.
+- 2019-06-19 — Subcommittee on Energy and Mineral Resources Discharged.
+- 2019-07-16 — Placed on the Union Calendar, Calendar No. 117.
+- 2019-07-16 — Reported by the Committee on Natural Resources. H. Rept. 116-157.
+- 2019-07-16 — Reported by the Committee on Natural Resources. H. Rept. 116-157.
