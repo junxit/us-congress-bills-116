@@ -1,7 +1,7 @@
 ---
 measure: S. 1833
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1833
@@ -34,3 +34,5 @@ Restore the Harmony Way Bridge Act
 - 2019-06-19 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.
 - 2019-06-19 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.
 - 2019-06-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 120.
+- 2019-07-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4915; text: CR S4915)
+- 2019-07-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4915; text: CR S4915)
