@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1327
 congress: 116
-version: Reported in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1327
@@ -376,3 +376,6 @@ Never Forget the Heroes: James Zadroga, Ray Pfeifer, and Luis Alvarez Permanent 
 - 2019-07-12 — Reported by the Committee on Judiciary. H. Rept. 116-152.
 - 2019-07-12 — Reported by the Committee on Judiciary. H. Rept. 116-152.
 - 2019-07-12 — The title of the measure was amended. Agreed to without objection.
+- 2019-07-15 — Received in the Senate.
+- 2019-07-16 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2019-07-17 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 153.
