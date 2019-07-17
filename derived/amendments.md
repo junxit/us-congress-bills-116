@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1327
 congress: 116
-version: Reported in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -26,39 +26,39 @@ to guess them.
 
 ### 49 U.S.C. § 40101
 
-> in subsection (c), by striking “$4,600,000,000” and all that follows through “expended” and inserting “such sums as may be necessary for fiscal year 2019 and each fiscal year thereafter through fiscal year 2090, to remain available through such fiscal year”; and
+> in subsection (c), by striking “$4,600,000,000” and all that follows through “expended” and inserting “such sums as may be necessary for fiscal year 2019 and each fiscal year thereafter through fiscal year 2092, to remain available until expended”; and
 
 | | |
 |---|---|
 | Removed | `$4,600,000,000” and all that follows through “expended` |
-| Inserted | `such sums as may be necessary for fiscal year 2019 and each fiscal year thereafter through fiscal year 2090, to remain available through such fiscal year` |
+| Inserted | `such sums as may be necessary for fiscal year 2019 and each fiscal year thereafter through fiscal year 2092, to remain available until expended` |
 
 ### 49 U.S.C. § 40101
 
-> in subsection (e), by striking “Upon completion of all payments under this title” and inserting “On October 1, 2090”.
+> in subsection (e), by striking “Upon completion of all payments under this title” and inserting “On October 1, 2092, or at such time thereafter as all funds are expended”.
 
 | | |
 |---|---|
 | Removed | `Upon completion of all payments under this title` |
-| Inserted | `On October 1, 2090` |
+| Inserted | `On October 1, 2092, or at such time thereafter as all funds are expended` |
 
-### 49 U.S.C. § 40101
+### 40 U.S.C. § 401010
 
-> Section 405(a)(3)(B) of the Air Transportation Safety and System Stabilization Act (49 U.S.C. 40101 note) is amended by striking “the date that is 5 years after the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act” and inserting “October 1, 2089”.
+> Section 405(a)(3)(B) of the Air Transportation Safety and System Stabilization Act (40 U.S.C. 401010 note) is amended by striking “the date that is 5 years after the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act” and inserting “October 1, 2090”.
 
 | | |
 |---|---|
 | Removed | `the date that is 5 years after the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act` |
-| Inserted | `October 1, 2089` |
+| Inserted | `October 1, 2090` |
 
-### 49 U.S.C. § 40101
+### 40 U.S.C. § 40101
 
-> in subparagraph (C)(ii), by striking “each year thereafter” and inserting “not less than once every 5 years thereafter”; and
+> Section 405(b)(7)(B)(ii) of the Air Transportation Safety and System Stabilization Act (40 U.S.C. 40101 note) is amended by striking “$200,000.” and inserting “the annual gross income limitation. The annual gross income limitation in effect on the date of enactment of the Never Forget the Heroes: James Zadroga, Ray Pfeifer, and Luis Alvarez Permanent Authorization of the September 11th Victim Compensation Fund Act is $200,000. The Special Master shall periodically adjust that annual gross income limitation to account for inflation.”.
 
 | | |
 |---|---|
-| Removed | `each year thereafter` |
-| Inserted | `not less than once every 5 years thereafter` |
+| Removed | `$200,000.` |
+| Inserted | `the annual gross income limitation. The annual gross income limitation in effect on the date of enactment of the Never Forget the Heroes: James Zadroga, Ray Pfeifer, and Luis Alvarez Permanent Authorization of the September 11th Victim Compensation Fund Act is $200,000. The Special Master shall periodically adjust that annual gross income limitation to account for inflation.` |
 
 ## Stated, not applied
 
@@ -69,9 +69,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `49 U.S.C. § 40101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 40101` | add-at-end | Section 406(d)(2) of the Air Transportation Safety and System Stabilization Act (49 U.S.C. 40101 note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 40101` | redesignate | by redesignating clauses (i) and (ii) as subclauses (I) and (II) respectively, and adjusting the margins accordingly; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 40101` | replace | by striking “With respect to” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `49 U.S.C. § 40101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `40 U.S.C. § 40101` | replace | by striking “In considering” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `40 U.S.C. § 40101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 40101` | redesignate | by redesignating subsection (b) as subsection (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 40101` | insert | by inserting after subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
