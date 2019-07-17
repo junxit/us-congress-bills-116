@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1847
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1847
@@ -29,3 +29,11 @@ Inspector General Protection Act
 - 2019-03-21 — Introduced in House
 - 2019-03-21 — Introduced in House
 - 2019-03-21 — Referred to the House Committee on Oversight and Reform.
+- 2019-03-26 — Committee Consideration and Mark-up Session Held.
+- 2019-03-26 — Ordered to be Reported (Amended) by Voice Vote.
+- 2019-07-17 — Considered under suspension of the rules. (consideration: CR H5950-5951)
+- 2019-07-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1847.
+- 2019-07-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-07-17 — Mr. Rouda moved to suspend the rules and pass the bill, as amended.
+- 2019-07-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5950)
+- 2019-07-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5950)

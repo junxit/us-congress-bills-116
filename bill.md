@@ -30,10 +30,14 @@ This Act may be cited as the “Inspector General Protection Act”.
 - **(a)** *In General* Subchapter III of chapter 33 of title 5, United States Code, is amended by inserting after section 3349d the following new section:
   > ## § 3349e. Presidential explanation of failure to nominate an Inspector General
   >
-  > If the President fails to make a formal nomination for a vacant Inspector General position within the period beginning on the date on which the vacancy occurred and ending on the day that is 210 days after that date, the President shall communicate, within 30 days after the end of such period, to Congress in writing—
+  > If the President fails to make a formal nomination for a vacant Inspector General position that requires a formal nomination by the President to be filled within the period beginning on the date on which the vacancy occurred and ending on the day that is 210 days after that date, the President shall communicate, within 30 days after the end of such period, to Congress in writing—
   >
   > - **(1)** the reasons why the President has not yet made a formal nomination; and
   > - **(2)** a target date for making a formal nomination.
 
 - **(b)** *Clerical Amendment* The table of sections for chapter 33 of title 5, United States Code, is amended by inserting after the item relating to 3349d the following new item:
 - **(c)** *Effective Date* The amendment made by subsection (a) shall take effect on the date of the enactment of this Act and shall apply to any vacancy first occurring on or after that date.
+
+## § 4. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
