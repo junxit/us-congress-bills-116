@@ -1,0 +1,33 @@
+---
+legis-num: H.R. 3814
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3814
+
+> To amend the Gulf of Mexico Energy Security Act of 2006, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Domestic Offshore Energy Reinvestment Act of 2019”.
+
+## § 2. Amendments to the Gulf of Mexico energy security act of 2006
+
+- **(a)** *In general* Section 105(a) of the Gulf of Mexico Energy Security Act of 2006 (43 U.S.C. 1331 note) is amended—
+  - **(1)** in paragraph (1), by striking “50” and inserting “37.5”; and
+  - **(2)** in paragraph (2)—
+    - **(A)** in the matter preceding subparagraph (A), by striking “50” and inserting “62.5”;
+    - **(B)** in subparagraph (A), by striking “75” and inserting “80”; and
+    - **(C)** in subparagraph (B), by striking “25” and inserting “20”.
+- **(b)** *In general* Section 105(d) of the Gulf of Mexico Energy Security Act of 2006 (43 U.S.C. 1331 note) is amended—
+  - **(1)** in paragraph (1), by inserting after subparagraph (E):
+    > - **(F)** planning, engineering, design, construction, operations, and maintenance of one or more projects that are specifically authorized by any other Act for ecosystem restoration, hurricane protection, or flood damage prevention.
+
+  - **(2)** in paragraph (2), by striking paragraph (2) and inserting:
+    > - **(2)** *Limitation* Of the amounts received by a Gulf producing State or coastal political subdivision under subsection (b)—
+    >   - **(A)** not more than 3 percent may be used for the purposes described in paragraph (1)(E); and
+    >   - **(B)** not less than 25 percent may be used for the purposes described in paragraph (1)(F), and shall be applied proportionally to the applicable Federal and non-Federal share pursuant to such specific project authorization.
+
+- **(c)** *In General* Section 105(f) of the Gulf of Mexico Energy Security Act of 2006 (43 U.S.C. 1331 note) is amended by striking section 105(f).
