@@ -1,7 +1,7 @@
 ---
 measure: S. 375
 congress: 116
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 375
@@ -22,9 +22,10 @@ Payment Integrity Information Act of 2019
 - Sen. Peters, Gary C. [D-MI] (P000595)
 - Sen. Braun, Mike [R-IN] (B001310)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -39,3 +40,16 @@ Payment Integrity Information Act of 2019
 - 2019-07-17 — Message on Senate action sent to the House.
 - 2019-07-17 — Received in the House.
 - 2019-07-17 — Referred to the House Committee on Oversight and Reform.
+- 2019-12-19 — Committee Consideration and Mark-up Session Held.
+- 2020-02-05 — Considered under suspension of the rules. (consideration: CR H819-825)
+- 2020-02-05 — DEBATE - The House proceeded with forty minutes of debate on S. 375.
+- 2020-02-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-02-05 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
+- 2020-02-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H819-825)
+- 2020-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-02-20 — Presented to President.
+- 2020-02-20 — Presented to President.
+- 2020-03-02 — Became Public Law No: 116-117.
+- 2020-03-02 — Became Public Law No: 116-117.
+- 2020-03-02 — Signed by President.
+- 2020-03-02 — Signed by President.
