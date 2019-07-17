@@ -1,7 +1,7 @@
 ---
 measure: S. 1321
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1321
@@ -33,3 +33,5 @@ Defending the Integrity of Voting Systems Act
 - 2019-05-22 — Committee on the Judiciary. Reported by Senator Graham without amendment. Without written report.
 - 2019-05-22 — Committee on the Judiciary. Reported by Senator Graham without amendment. Without written report.
 - 2019-05-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 95.
+- 2019-07-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4915; text: CR S4915)
+- 2019-07-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4915; text: CR S4915)
