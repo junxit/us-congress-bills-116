@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1327
 congress: 116
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1327
@@ -355,9 +355,12 @@ Never Forget the Heroes: James Zadroga, Ray Pfeifer, and Luis Alvarez Permanent 
 
 - House — Judiciary Committee
 
-## Recorded votes (1)
+## Recorded votes (4)
 
 - 2019-07-12 — [House 116-1-474](votes/house-116-1-0474.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (402–12)
+- 2019-07-23 — [Senate 116-1-222](votes/senate-116-1-0222.md) — On the Amendment — **Amendment Rejected** (32–66)
+- 2019-07-23 — [Senate 116-1-223](votes/senate-116-1-0223.md) — On the Amendment — **Amendment Rejected** (22–77)
+- 2019-07-23 — [Senate 116-1-224](votes/senate-116-1-0224.md) — On Passage of the Bill — **Bill Passed** (97–2)
 
 ## Actions
 
@@ -383,3 +386,25 @@ Never Forget the Heroes: James Zadroga, Ray Pfeifer, and Luis Alvarez Permanent 
 - 2019-07-15 — Received in the Senate.
 - 2019-07-16 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2019-07-17 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 153.
+- 2019-07-18 — Senate amendment submitted
+- 2019-07-18 — Senate amendment submitted
+- 2019-07-23 — Amendment SA 928 proposed by Senator Lee. (consideration: CR S4997-4998; text: CR S4997) To limit the amount available for the Victims Compensation Fund.
+- 2019-07-23 — Amendment SA 928, under the order of 7/18/19, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 32 - 66. Record Vote Number: 222.
+- 2019-07-23 — Amendment SA 929 proposed by Senator Paul. (consideration: CR S4996-4998; text: CR S4996) To require a sequestration of certain direct spending.
+- 2019-07-23 — Amendment SA 929, under the order of 7/18/19, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 22 - 77. Record Vote Number: 223.
+- 2019-07-23 — Measure laid before Senate by unanimous consent. (consideration: CR S4986, S4994-4998)
+- 2019-07-23 — Message on Senate action sent to the House.
+- 2019-07-23 — Passed Senate without amendment by Yea-Nay Vote. 97 - 2. Record Vote Number: 224.
+- 2019-07-23 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 97 - 2. Record Vote Number: 224.
+- 2019-07-23 — Roll call votes on amendments in Senate: Amendment SA 928, under the order of 7/18/19, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 32 - 66. Record Vote Number: 222.
+- 2019-07-23 — Roll call votes on amendments in Senate: Amendment SA 929, under the order of 7/18/19, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 22 - 77. Record Vote Number: 223.
+- 2019-07-23 — Senate amendment not agreed to: Amendment SA 928, under the order of 7/18/19, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 32 - 66. Record Vote Number: 222.
+- 2019-07-23 — Senate amendment not agreed to: Amendment SA 929, under the order of 7/18/19, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 22 - 77. Record Vote Number: 223.
+- 2019-07-23 — Senate amendment proposed (on the floor): Amendment SA 928 proposed by Senator Lee.(consideration: CR S4997-4998; text: CR S4997)
+- 2019-07-23 — Senate amendment proposed (on the floor): Amendment SA 929 proposed by Senator Paul.(consideration: CR S4996-4998; text: CR S4996)
+- 2019-07-24 — Presented to President.
+- 2019-07-24 — Presented to President.
+- 2019-07-29 — Became Public Law No: 116-34.
+- 2019-07-29 — Became Public Law No: 116-34.
+- 2019-07-29 — Signed by President.
+- 2019-07-29 — Signed by President.

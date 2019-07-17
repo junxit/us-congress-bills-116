@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1327
 congress: 116
-version: Placed on Calendar Senate
+version: Enrolled Bill
 derived: true
 ---
 
