@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3494
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3494
@@ -16,9 +16,16 @@ Damon Paul Nelson and Matthew Young Pollard Intelligence Authorization Act for F
 
 - Rep. Schiff, Adam B. [D-CA-28] (S001150)
 
-## Committees (1)
+## Committees (2)
 
 - House — Intelligence (Permanent Select) Committee
+- House — Ways and Means Committee
+
+## Recorded votes (3)
+
+- 2019-07-17 — [House 116-1-490](votes/house-116-1-0490.md) — On Agreeing to the Amendment — **Failed** (178–255)
+- 2019-07-17 — [House 116-1-491](votes/house-116-1-0491.md) — On Agreeing to the Amendment — **Agreed to** (237–196)
+- 2019-07-17 — [House 116-1-492](votes/house-116-1-0492.md) — On Passage — **Passed** (397–31)
 
 ## Actions
 
@@ -31,3 +38,236 @@ Damon Paul Nelson and Matthew Young Pollard Intelligence Authorization Act for F
 - 2019-07-11 — Referred to the House Committee on Ways and Means for a period ending not later than July 11, 2019 for consideration of such provisions of the bill and amendment as fall within the jurisdiction of that committee pursuant to clause 1(t) of rule X.
 - 2019-07-11 — Reported (Amended) by the Committee on 116-151, Part I.
 - 2019-07-11 — Reported (Amended) by the Committee on 116-151, Part I.
+- 2019-07-15 — Rules Committee Resolution H. Res. 491 Reported to House. Rule provides for consideration of H.R. 3494 and H. Res. 489 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. The resolution provides for consideration of H.R. 3494 under a structured rule; provides for consideration of a resolution relating to House Report 116-125, if called up by direction of the Committee on Overisight and Reform; provides for consideration of a joint resolution reported by the Committee on Foreign Affairs regarding the Arms Export Control Act; provides for consideration of H. Res. 489.
+- 2019-07-16 — Amendment (A001) offered by Mr. Stewart. (consideration: CR H5887-5888; text: CR H5887)
+- 2019-07-16 — Amendment (A002) offered by Mr. Stewart. (consideration: CR H5888; text: CR H5888)
+- 2019-07-16 — Amendment (A003) offered by Mr. Carson (IN). (consideration: CR H5888-5889; text: CR H5888)
+- 2019-07-16 — Amendment (A004) offered by Mr. Hurd (TX). (consideration: CR H5889-5890; text: CR H5889)
+- 2019-07-16 — Amendment (A005) offered by Mr. Thompson (MS). (consideration: CR H5890-5891; text: CR H5890)
+- 2019-07-16 — Amendment (A006) offered by Mr. Ruppersberger. (consideration: CR H5891-5892; text: CR H5891)
+- 2019-07-16 — Amendment (A007) offered by Mr. Chabot. (consideration: CR H5892-5894; text: CR H5892)
+- 2019-07-16 — Amendment (A008) offered by Mr. Schiff. (consideration: CR H5894-5895; text: CR H5894)
+- 2019-07-16 — Amendment (A009) offered by Mr. Case. (consideration: CR H5895; text: CR H5895)
+- 2019-07-16 — Amendment (A010) offered by Ms. Frankel. (consideration: CR H5895-5896; text: CR H5895-5896)
+- 2019-07-16 — Amendment (A011) offered by Mr. Kennedy. (consideration: CR H5896-5898; text: CR H5896-5897)
+- 2019-07-16 — Amendment (A012) offered by Miss Rice (NY). (consideration: CR H5898-5899; text: CR H5898)
+- 2019-07-16 — Amendment (A013) offered by Ms. Jayapal. (consideration: CR H5899-5900; text: CR H5899)
+- 2019-07-16 — Amendment (A014) offered by Mrs. Murphy. (consideration: CR H5900-5901; text: CR H5900-5901)
+- 2019-07-16 — Amendment (A015) offered by Mrs. Murphy. (consideration: CR H5901-5902; text: CR H5901-5902)
+- 2019-07-16 — Amendment (A016) offered by Mr. Brindisi. (consideration: CR H5902-5903; text: CR H5902)
+- 2019-07-16 — Amendment (A017) offered by Mr. Kinzinger. (consideration: CR H5903; text: CR H5903)
+- 2019-07-16 — Amendment (A018) offered by Ms. Hill (CA). (consideration: CR H5903; text: CR H5903)
+- 2019-07-16 — Amendment (A019) offered by Mr. Levin (MI). (consideration: CR H5903-5904; text: CR H5903)
+- 2019-07-16 — Amendment (A020) offered by Mr. Schiff. (consideration: CR H5904; text: CR H5904)
+- 2019-07-16 — Amendment (A021) offered by Mr. Schiff. (consideration: CR H5904; text: CR H5904)
+- 2019-07-16 — Amendment (A022) offered by Mr. Rose (NY). (consideration: CR H5904-5905; text: CR H5904-5905)
+- 2019-07-16 — Amendment (A023) offered by Mr. Rose (NY). (consideration: CR H5905; text: CR H5905)
+- 2019-07-16 — Amendment (A024) offered by Mr. Pence. (consideration: CR H5905-5906; text: CR H5905-5906)
+- 2019-07-16 — Amendment (A025) offered by Mr. Schiff. (consideration: CR H5906-5907; text: CR H5906-5907)
+- 2019-07-16 — Amendment (A026) offered by Mr. Schiff. (consideration: CR H5907; text: CR H5907)
+- 2019-07-16 — Amendment (A027) offered by Mr. Yoho. (consideration: CR H5907-5908; text: CR H5907)
+- 2019-07-16 — Amendment (A028) offered by Mr. Yoho. (consideration: CR H5908; text: CR H5908)
+- 2019-07-16 — Amendment (A029) offered by Ms. Omar. (consideration: CR H5908-5909; text: CR H5908)
+- 2019-07-16 — Amendment (A030) offered by Mr. Crow. (consideration: CR H5909; text: CR H5909)
+- 2019-07-16 — Amendment agreed to Committee of the Whole
+- 2019-07-16 — Amendment agreed to Committee of the Whole
+- 2019-07-16 — Amendment agreed to Committee of the Whole
+- 2019-07-16 — Amendment agreed to Committee of the Whole
+- 2019-07-16 — Amendment agreed to Committee of the Whole
+- 2019-07-16 — Amendment agreed to Committee of the Whole
+- 2019-07-16 — Amendment agreed to Committee of the Whole
+- 2019-07-16 — Amendment agreed to Committee of the Whole
+- 2019-07-16 — Amendment agreed to Committee of the Whole
+- 2019-07-16 — Amendment agreed to Committee of the Whole
+- 2019-07-16 — Amendment agreed to Committee of the Whole
+- 2019-07-16 — Amendment agreed to Committee of the Whole
+- 2019-07-16 — Amendment agreed to Committee of the Whole
+- 2019-07-16 — Amendment agreed to Committee of the Whole
+- 2019-07-16 — Amendment agreed to Committee of the Whole
+- 2019-07-16 — Amendment agreed to Committee of the Whole
+- 2019-07-16 — Amendment agreed to Committee of the Whole
+- 2019-07-16 — Amendment agreed to Committee of the Whole
+- 2019-07-16 — Amendment agreed to Committee of the Whole
+- 2019-07-16 — Amendment agreed to Committee of the Whole
+- 2019-07-16 — Amendment agreed to Committee of the Whole
+- 2019-07-16 — Amendment agreed to Committee of the Whole
+- 2019-07-16 — Amendment agreed to Committee of the Whole
+- 2019-07-16 — Amendment agreed to Committee of the Whole
+- 2019-07-16 — Amendment agreed to Committee of the Whole
+- 2019-07-16 — Amendment agreed to Committee of the Whole
+- 2019-07-16 — Amendment agreed to Committee of the Whole
+- 2019-07-16 — Amendment agreed to Committee of the Whole
+- 2019-07-16 — Committee of the Whole House on the state of the Union rises leaving H.R. 3494 as unfinished business.
+- 2019-07-16 — Considered under the provisions of rule H. Res. 491. (consideration: CR H5858-5910; text of amendment in the nature of a substitute: CR H5861-5887)
+- 2019-07-16 — DEBATE - Pursuant to the provisions of H. Res. 491, the Committee of the Whole proceeded with 10 minutes of debate on the Brindisi amendment No. 16.
+- 2019-07-16 — DEBATE - Pursuant to the provisions of H. Res. 491, the Committee of the Whole proceeded with 10 minutes of debate on the Crow amendment No. 31.
+- 2019-07-16 — DEBATE - Pursuant to the provisions of H. Res. 491, the Committee of the Whole proceeded with 10 minutes of debate on the Hill (CA) amendment No. 18.
+- 2019-07-16 — DEBATE - Pursuant to the provisions of H. Res. 491, the Committee of the Whole proceeded with 10 minutes of debate on the Kinzinger amendment No. 17.
+- 2019-07-16 — DEBATE - Pursuant to the provisions of H. Res. 491, the Committee of the Whole proceeded with 10 minutes of debate on the Levin (MI) amendment No. 19.
+- 2019-07-16 — DEBATE - Pursuant to the provisions of H. Res. 491, the Committee of the Whole proceeded with 10 minutes of debate on the Murphy amendment No. 14.
+- 2019-07-16 — DEBATE - Pursuant to the provisions of H. Res. 491, the Committee of the Whole proceeded with 10 minutes of debate on the Murphy amendment No. 15.
+- 2019-07-16 — DEBATE - Pursuant to the provisions of H. Res. 491, the Committee of the Whole proceeded with 10 minutes of debate on the Omar amendment No. 29.
+- 2019-07-16 — DEBATE - Pursuant to the provisions of H. Res. 491, the Committee of the Whole proceeded with 10 minutes of debate on the Pence amendment No. 24.
+- 2019-07-16 — DEBATE - Pursuant to the provisions of H. Res. 491, the Committee of the Whole proceeded with 10 minutes of debate on the Rose (NY) amendment No. 22.
+- 2019-07-16 — DEBATE - Pursuant to the provisions of H. Res. 491, the Committee of the Whole proceeded with 10 minutes of debate on the Rose (NY) amendment No. 23.
+- 2019-07-16 — DEBATE - Pursuant to the provisions of H. Res. 491, the Committee of the Whole proceeded with 10 minutes of debate on the Schiff amendment No. 20.
+- 2019-07-16 — DEBATE - Pursuant to the provisions of H. Res. 491, the Committee of the Whole proceeded with 10 minutes of debate on the Schiff amendment No. 21.
+- 2019-07-16 — DEBATE - Pursuant to the provisions of H. Res. 491, the Committee of the Whole proceeded with 10 minutes of debate on the Schiff amendment No. 25.
+- 2019-07-16 — DEBATE - Pursuant to the provisions of H. Res. 491, the Committee of the Whole proceeded with 10 minutes of debate on the Schiff amendment No. 26.
+- 2019-07-16 — DEBATE - Pursuant to the provisions of H. Res. 491, the Committee of the Whole proceeded with 10 minutes of debate on the Yoho amendment No. 27.
+- 2019-07-16 — DEBATE - Pursuant to the provisions of H. Res. 491, the Committee of the Whole proceeded with 10 minutes of debate on the Yoho amendment No. 28.
+- 2019-07-16 — DEBATE - Pursuant to the provisions of H.Res. 491, the Committee of the Whole proceeded with 10 minutes of debate on the Caron (IN) amendment No. 3.
+- 2019-07-16 — DEBATE - Pursuant to the provisions of H.Res. 491, the Committee of the Whole proceeded with 10 minutes of debate on the Case amendment No. 9.
+- 2019-07-16 — DEBATE - Pursuant to the provisions of H.Res. 491, the Committee of the Whole proceeded with 10 minutes of debate on the Chabot amendment No. 7.
+- 2019-07-16 — DEBATE - Pursuant to the provisions of H.Res. 491, the Committee of the Whole proceeded with 10 minutes of debate on the Frankel amendment No. 10.
+- 2019-07-16 — DEBATE - Pursuant to the provisions of H.Res. 491, the Committee of the Whole proceeded with 10 minutes of debate on the Hurd amendment No. 4.
+- 2019-07-16 — DEBATE - Pursuant to the provisions of H.Res. 491, the Committee of the Whole proceeded with 10 minutes of debate on the Jayapal amendment No. 13.
+- 2019-07-16 — DEBATE - Pursuant to the provisions of H.Res. 491, the Committee of the Whole proceeded with 10 minutes of debate on the Kennedy amendment No. 11.
+- 2019-07-16 — DEBATE - Pursuant to the provisions of H.Res. 491, the Committee of the Whole proceeded with 10 minutes of debate on the Rice amendment No. 12.
+- 2019-07-16 — DEBATE - Pursuant to the provisions of H.Res. 491, the Committee of the Whole proceeded with 10 minutes of debate on the Ruppersberger amendment No. 6.
+- 2019-07-16 — DEBATE - Pursuant to the provisions of H.Res. 491, the Committee of the Whole proceeded with 10 minutes of debate on the Schiff amendment No. 8.
+- 2019-07-16 — DEBATE - Pursuant to the provisions of H.Res. 491, the Committee of the Whole proceeded with 10 minutes of debate on the Stewart amendment No. 1.
+- 2019-07-16 — DEBATE - Pursuant to the provisions of H.Res. 491, the Committee of the Whole proceeded with 10 minutes of debate on the Stewart amendment No. 2.
+- 2019-07-16 — DEBATE - Pursuant to the provisions of H.Res. 491, the Committee of the Whole proceeded with 10 minutes of debate on the Thompson (MS) amendment No. 5.
+- 2019-07-16 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 3494.
+- 2019-07-16 — House amendment agreed to: On agreeing to the Brindisi amendment (A016) Agreed to by voice vote.
+- 2019-07-16 — House amendment agreed to: On agreeing to the Carson (IN) amendment (A003) Agreed to by voice vote.
+- 2019-07-16 — House amendment agreed to: On agreeing to the Case amendment (A009) Agreed to by voice vote.
+- 2019-07-16 — House amendment agreed to: On agreeing to the Crow amendment (A030) Agreed to by voice vote.
+- 2019-07-16 — House amendment agreed to: On agreeing to the Frankel amendment (A010) Agreed to by voice vote.
+- 2019-07-16 — House amendment agreed to: On agreeing to the Hill (CA) amendment (A018) Agreed to by voice vote.
+- 2019-07-16 — House amendment agreed to: On agreeing to the Hurd (TX) amendment (A004) Agreed to by voice vote.
+- 2019-07-16 — House amendment agreed to: On agreeing to the Jayapal amendment (A013) Agreed to by voice vote.
+- 2019-07-16 — House amendment agreed to: On agreeing to the Kinzinger amendment (A017) Agreed to by voice vote.
+- 2019-07-16 — House amendment agreed to: On agreeing to the Levin (MI) amendment (A019) Agreed to by voice vote.
+- 2019-07-16 — House amendment agreed to: On agreeing to the Murphy amendment (A014) Agreed to by voice vote.
+- 2019-07-16 — House amendment agreed to: On agreeing to the Murphy amendment (A015) Agreed to by voice vote.
+- 2019-07-16 — House amendment agreed to: On agreeing to the Omar amendment (A029) Agreed to by voice vote.
+- 2019-07-16 — House amendment agreed to: On agreeing to the Pence amendment (A024) Agreed to by voice vote.
+- 2019-07-16 — House amendment agreed to: On agreeing to the Rice (NY) amendment (A012) Agreed to by voice vote.
+- 2019-07-16 — House amendment agreed to: On agreeing to the Rose (NY) amendment (A022) Agreed to by voice vote.
+- 2019-07-16 — House amendment agreed to: On agreeing to the Rose (NY) amendment (A023) Agreed to by voice vote.
+- 2019-07-16 — House amendment agreed to: On agreeing to the Ruppersberger amendment (A006) Agreed to by voice vote.
+- 2019-07-16 — House amendment agreed to: On agreeing to the Schiff amendment (A008) Agreed to by voice vote.
+- 2019-07-16 — House amendment agreed to: On agreeing to the Schiff amendment (A020) Agreed to by voice vote.
+- 2019-07-16 — House amendment agreed to: On agreeing to the Schiff amendment (A021) Agreed to by voice vote.
+- 2019-07-16 — House amendment agreed to: On agreeing to the Schiff amendment (A025) Agreed to by voice vote.
+- 2019-07-16 — House amendment agreed to: On agreeing to the Schiff amendment (A026) Agreed to by voice vote.
+- 2019-07-16 — House amendment agreed to: On agreeing to the Stewart amendment (A001) Agreed to by voice vote.
+- 2019-07-16 — House amendment agreed to: On agreeing to the Stewart amendment (A002) Agreed to by voice vote.
+- 2019-07-16 — House amendment agreed to: On agreeing to the Thompson (MS) amendment (A005) Agreed to by voice vote.
+- 2019-07-16 — House amendment agreed to: On agreeing to the Yoho amendment (A027) Agreed to by voice vote.
+- 2019-07-16 — House amendment agreed to: On agreeing to the Yoho amendment (A028) Agreed to by voice vote.
+- 2019-07-16 — House amendment offered
+- 2019-07-16 — House amendment offered
+- 2019-07-16 — House amendment offered
+- 2019-07-16 — House amendment offered
+- 2019-07-16 — House amendment offered
+- 2019-07-16 — House amendment offered
+- 2019-07-16 — House amendment offered
+- 2019-07-16 — House amendment offered
+- 2019-07-16 — House amendment offered
+- 2019-07-16 — House amendment offered
+- 2019-07-16 — House amendment offered
+- 2019-07-16 — House amendment offered
+- 2019-07-16 — House amendment offered
+- 2019-07-16 — House amendment offered
+- 2019-07-16 — House amendment offered
+- 2019-07-16 — House amendment offered
+- 2019-07-16 — House amendment offered
+- 2019-07-16 — House amendment offered
+- 2019-07-16 — House amendment offered
+- 2019-07-16 — House amendment offered
+- 2019-07-16 — House amendment offered
+- 2019-07-16 — House amendment offered
+- 2019-07-16 — House amendment offered
+- 2019-07-16 — House amendment offered
+- 2019-07-16 — House amendment offered
+- 2019-07-16 — House amendment offered
+- 2019-07-16 — House amendment offered
+- 2019-07-16 — House amendment offered
+- 2019-07-16 — House amendment offered
+- 2019-07-16 — House amendment offered
+- 2019-07-16 — House amendment offered/reported by: Amendment (A001) offered by Mr. Stewart.
+- 2019-07-16 — House amendment offered/reported by: Amendment (A002) offered by Mr. Stewart.
+- 2019-07-16 — House amendment offered/reported by: Amendment (A003) offered by Mr. Carson (IN).
+- 2019-07-16 — House amendment offered/reported by: Amendment (A004) offered by Mr. Hurd (TX).
+- 2019-07-16 — House amendment offered/reported by: Amendment (A005) offered by Mr. Thompson (MS).
+- 2019-07-16 — House amendment offered/reported by: Amendment (A006) offered by Mr. Ruppersberger.
+- 2019-07-16 — House amendment offered/reported by: Amendment (A007) offered by Mr. Chabot.(consideration: CR H5892-5894; text: CR H5892)
+- 2019-07-16 — House amendment offered/reported by: Amendment (A008) offered by Mr. Schiff.
+- 2019-07-16 — House amendment offered/reported by: Amendment (A009) offered by Mr. Case.
+- 2019-07-16 — House amendment offered/reported by: Amendment (A010) offered by Ms. Frankel.
+- 2019-07-16 — House amendment offered/reported by: Amendment (A011) offered by Mr. Kennedy.(consideration: CR H5896-5898; text: CR H5896-5897)
+- 2019-07-16 — House amendment offered/reported by: Amendment (A012) offered by Miss Rice (NY).
+- 2019-07-16 — House amendment offered/reported by: Amendment (A013) offered by Ms. Jayapal.
+- 2019-07-16 — House amendment offered/reported by: Amendment (A014) offered by Mrs. Murphy.
+- 2019-07-16 — House amendment offered/reported by: Amendment (A015) offered by Mrs. Murphy.
+- 2019-07-16 — House amendment offered/reported by: Amendment (A016) offered by Mr. Brindisi.
+- 2019-07-16 — House amendment offered/reported by: Amendment (A017) offered by Mr. Kinzinger.
+- 2019-07-16 — House amendment offered/reported by: Amendment (A018) offered by Ms. Hill (CA).
+- 2019-07-16 — House amendment offered/reported by: Amendment (A019) offered by Mr. Levin (MI).
+- 2019-07-16 — House amendment offered/reported by: Amendment (A020) offered by Mr. Schiff.
+- 2019-07-16 — House amendment offered/reported by: Amendment (A021) offered by Mr. Schiff.
+- 2019-07-16 — House amendment offered/reported by: Amendment (A022) offered by Mr. Rose (NY).
+- 2019-07-16 — House amendment offered/reported by: Amendment (A023) offered by Mr. Rose (NY).
+- 2019-07-16 — House amendment offered/reported by: Amendment (A024) offered by Mr. Pence.
+- 2019-07-16 — House amendment offered/reported by: Amendment (A025) offered by Mr. Schiff.
+- 2019-07-16 — House amendment offered/reported by: Amendment (A026) offered by Mr. Schiff.
+- 2019-07-16 — House amendment offered/reported by: Amendment (A027) offered by Mr. Yoho.
+- 2019-07-16 — House amendment offered/reported by: Amendment (A028) offered by Mr. Yoho.
+- 2019-07-16 — House amendment offered/reported by: Amendment (A029) offered by Ms. Omar.
+- 2019-07-16 — House amendment offered/reported by: Amendment (A030) offered by Mr. Crow.
+- 2019-07-16 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 491 and Rule XVIII.
+- 2019-07-16 — Mr. Schiff moved that the committee rise.
+- 2019-07-16 — On agreeing to the Brindisi amendment (A016) Agreed to by voice vote.
+- 2019-07-16 — On agreeing to the Carson (IN) amendment (A003) Agreed to by voice vote.
+- 2019-07-16 — On agreeing to the Case amendment (A009) Agreed to by voice vote.
+- 2019-07-16 — On agreeing to the Crow amendment (A030) Agreed to by voice vote.
+- 2019-07-16 — On agreeing to the Frankel amendment (A010) Agreed to by voice vote.
+- 2019-07-16 — On agreeing to the Hill (CA) amendment (A018) Agreed to by voice vote.
+- 2019-07-16 — On agreeing to the Hurd (TX) amendment (A004) Agreed to by voice vote.
+- 2019-07-16 — On agreeing to the Jayapal amendment (A013) Agreed to by voice vote.
+- 2019-07-16 — On agreeing to the Kinzinger amendment (A017) Agreed to by voice vote.
+- 2019-07-16 — On agreeing to the Levin (MI) amendment (A019) Agreed to by voice vote.
+- 2019-07-16 — On agreeing to the Murphy amendment (A014) Agreed to by voice vote.
+- 2019-07-16 — On agreeing to the Murphy amendment (A015) Agreed to by voice vote.
+- 2019-07-16 — On agreeing to the Omar amendment (A029) Agreed to by voice vote.
+- 2019-07-16 — On agreeing to the Pence amendment (A024) Agreed to by voice vote.
+- 2019-07-16 — On agreeing to the Rice (NY) amendment (A012) Agreed to by voice vote.
+- 2019-07-16 — On agreeing to the Rose (NY) amendment (A022) Agreed to by voice vote.
+- 2019-07-16 — On agreeing to the Rose (NY) amendment (A023) Agreed to by voice vote.
+- 2019-07-16 — On agreeing to the Ruppersberger amendment (A006) Agreed to by voice vote.
+- 2019-07-16 — On agreeing to the Schiff amendment (A008) Agreed to by voice vote.
+- 2019-07-16 — On agreeing to the Schiff amendment (A020) Agreed to by voice vote.
+- 2019-07-16 — On agreeing to the Schiff amendment (A021) Agreed to by voice vote.
+- 2019-07-16 — On agreeing to the Schiff amendment (A025) Agreed to by voice vote.
+- 2019-07-16 — On agreeing to the Schiff amendment (A026) Agreed to by voice vote.
+- 2019-07-16 — On agreeing to the Stewart amendment (A001) Agreed to by voice vote.
+- 2019-07-16 — On agreeing to the Stewart amendment (A002) Agreed to by voice vote.
+- 2019-07-16 — On agreeing to the Thompson (MS) amendment (A005) Agreed to by voice vote.
+- 2019-07-16 — On agreeing to the Yoho amendment (A027) Agreed to by voice vote.
+- 2019-07-16 — On agreeing to the Yoho amendment (A028) Agreed to by voice vote.
+- 2019-07-16 — On motion that the committee rise Agreed to by voice vote.
+- 2019-07-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Chabot amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Chabot demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Kennedy amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Conaway demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-07-16 — Rule provides for consideration of H.R. 3494 and H. Res. 489 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. The resolution provides for consideration of H.R. 3494 under a structured rule; provides for consideration of a resolution relating to House Report 116-125, if called up by direction of the Committee on Overisight and Reform; provides for consideration of a joint resolution reported by the Committee on Foreign Affairs regarding the Arms Export Control Act; provides for consideration of H. Res. 489.
+- 2019-07-16 — The Speaker designated the Honorable Jared Huffman to act as Chairman of the Committee.
+- 2019-07-17 — Amendment agreed to Committee of the Whole
+- 2019-07-17 — Amendment failed in Committee of the Whole
+- 2019-07-17 — Considered as unfinished business. (consideration: CR H5978-5980)
+- 2019-07-17 — House amendment agreed to: On agreeing to the Kennedy amendment (A011) Agreed to by recorded vote: 237 - 196 (Roll no. 491).
+- 2019-07-17 — House amendment not agreed to: On agreeing to the Chabot amendment (A007) Failed by recorded vote: 178 - 255 (Roll no. 490).
+- 2019-07-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-07-17 — On agreeing to the Chabot amendment (A007) Failed by recorded vote: 178 - 255 (Roll no. 490). (consideration: CR H5978-5979)
+- 2019-07-17 — On agreeing to the Kennedy amendment (A011) Agreed to by recorded vote: 237 - 196 (Roll no. 491). (consideration: CR H5979)
+- 2019-07-17 — On passage Passed by the Yeas and Nays: 397 - 31 (Roll no. 492).
+- 2019-07-17 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 397 - 31 (Roll no. 492).
+- 2019-07-17 — Roll call votes on amendments in House
+- 2019-07-17 — Roll call votes on amendments in House
+- 2019-07-17 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 3494.
+- 2019-07-17 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2019-07-17 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2019-07-17 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3494.
+- 2019-07-17 — The previous question was ordered pursuant to the rule.
+- 2019-07-17 — The title of the measure was amended. Agreed to without objection.

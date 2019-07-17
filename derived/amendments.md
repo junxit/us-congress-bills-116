@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3494
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-127 amendatory instructions. 35 executed, 92 stated and not applied.
+144 amendatory instructions. 36 executed, 108 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -69,24 +69,6 @@ to guess them.
 | Removed | `every 90 days` |
 | Inserted | `annually` |
 
-### 50 U.S.C. § 3110
-
-> by striking “The Director of National Intelligence” and inserting “The head of each element of the intelligence community”; and
-
-| | |
-|---|---|
-| Removed | `The Director of National Intelligence` |
-| Inserted | `The head of each element of the intelligence community` |
-
-### 50 U.S.C. § 3110
-
-> by striking “an element” and inserting “the element”.
-
-| | |
-|---|---|
-| Removed | `an element` |
-| Inserted | `the element` |
-
 ### 50 U.S.C. § 3364
 
 > in the heading, by striking “reports” and inserting “briefings”; and
@@ -104,6 +86,33 @@ to guess them.
 |---|---|
 | Removed | `submit to the congressional intelligence committees, the heads of the relevant elements of the intelligence community, and the heads of analytic training departments a report containing` |
 | Inserted | `provide to the congressional intelligence committees, the heads of the relevant elements of the intelligence community, and the heads of analytic training departments a briefing with` |
+
+### 50 U.S.C. § 3332
+
+> by striking “paragraph (1) shall—” and all that follows through “permit an element” and insert “paragraph (1) shall permit an element”;
+
+| | |
+|---|---|
+| Removed | `paragraph (1) shall—” and all that follows through “permit an element` |
+| Inserted | `paragraph (1) shall permit an element` |
+
+### 50 U.S.C. § 3332
+
+> by striking “approval; and” and inserting “approval.”; and
+
+| | |
+|---|---|
+| Removed | `approval; and` |
+| Inserted | `approval.` |
+
+### 22 U.S.C. § 8772
+
+> in subparagraph (A), by striking “in the United States” the first place it appears and inserting “by or”;
+
+| | |
+|---|---|
+| Removed | `in the United States` |
+| Inserted | `by or` |
 
 ### 50 U.S.C. § 2031
 
@@ -358,12 +367,28 @@ complete account of the bill's effect, which it is not.
 | `50 U.S.C. § 3021` | add-at-end | Title I of the National Security Act of 1947 (50 U.S.C. 3021 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3021` | insert | The table of contents in the first section of the National Security Act of 1947 is amended by inserting after the item relating to section 119B the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | repeal | Effective 90 days after the date of the enactment of this Act, section 2161 of title 10, United States Code, is repealed, and the table of sections at the beginning of chapter 108 of such title is amended by striking the item relating to… | the bill names no machine-readable US Code section |
+| `50 U.S.C. § 3510` | insert | Section 8 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 3510) is amended by inserting before “rental of” the following: “payment of death benefits in cases in which the circumstances of the death of an employee of the Agency … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3511` | add-at-end | Section 11 of such Act (50 U.S.C. 3511) is amended by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3001` | insert | The National Security Act of 1947 (50 U.S.C. 3001 et seq.) is amended by inserting after section 119B the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3001` | insert | The table of contents at the beginning of such Act is amended by inserting after the item relating to section 119B the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3106` | add-at-end | Section 507(a) of such Act (50 U.S.C. 3106) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3231` | add-at-end | Title XI of the National Security Act of 1947 (50 U.S.C. 3231 et seq.), as amended by section 2718, is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3231` | insert | The table of contents in the first section of the National Security Act of 1947, as amended by section 2718, is further amended by inserting after the item relating to section 1105 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3231` | add-at-end | Title XI of the National Security Act of 1947 (50 U.S.C. 3231 et seq.), as amended by section 501, is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3231` | insert | The table of contents in the first section of the National Security Act of 1947, as amended by section 501, is further amended by inserting after the item relating to section 1106 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3105` | repeal | Section 601 of the Intelligence Authorization Act for Fiscal Year 2017 (division N of Public Law 115–31; 131 Stat. 827) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3105a` | repeal | Section 506J of the National Security Act of 1947 (50 U.S.C. 3105a) is repealed and the table of contents in the first section of such Act is amended by striking the item relating to section 506J. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 6038` | repeal | Section 108 of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996 (22 U.S.C. 6038) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 3332` | strike | Section 308 of the Intelligence Authorization Act for Fiscal Year 2017 (50 U.S.C. 3332) is amended by striking subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3332` | strike | by striking subparagraph (B); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3332` | strike | by striking subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | in subsection (b)(8)(B), by inserting “Congress (including any committee of Congress),” before “the Special Counsel”; and | the bill names no machine-readable US Code section |
+| — | insert | in subsection (c)(2)(C)(iii)(III), by inserting after “Congress” the following: “(including any committee of Congress)”. | the bill names no machine-readable US Code section |
+| `22 U.S.C. § 8772` | insert | in subparagraph (B), by inserting “, or an asset that would be blocked if the asset were located in the United States,” after “unblocked)”; and | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 8772` | insert | by inserting after “in aid of execution” the following: “, or to an order directing that the asset be brought to the State in which the court is located and subsequently to execution or attachment in aid of execution,”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 8772` | insert | by inserting “, without regard to concerns relating to international comity” after “resources for such an act”; and | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 8772` | replace | by striking “that are identified” and inserting the following: “that are— | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 8772` | replace | by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 8772` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 2031` | replace | in subsection (a)(3)(B), by striking the period at the end and inserting “, as determined by using the annual rate of basic pay that would be payable for full-time service in that position.”; | the bill quotes the text inserted but describes where it goes |
 | `50 U.S.C. § 2031` | redesignate | by redesignating subsections (h), (i), (j), (k), and (l) as subsections (i), (j), (k), (l), and (m), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 2031` | insert | by inserting after subsection (g) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -382,7 +407,7 @@ complete account of the bill's effect, which it is not.
 | `50 U.S.C. § 3032` | add-at-end | Section 103G(a) of the National Security Act of 1947 (50 U.S.C. 3032(a)) is amended by adding at the end the following new sentence: “The Chief Information Officer shall report directly to the Director of National Intelligence.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3506` | strike | in paragraph (6), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `50 U.S.C. § 3506` | replace | in paragraph (7), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `50 U.S.C. § 3506` | add-at-end | by adding at the end the following new paragraph (8): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3506` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3501` | insert | The Central Intelligence Agency Act of 1949 (50 U.S.C. 3501 et seq.) is amended by inserting after section 19 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3036` | strike | Section 104A of the National Security Act of 1947 (50 U.S.C. 3036) is amended by striking subsection (g). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3036` | strike | Section 611 of the Intelligence Authorization Act for Fiscal Year 2005 (Public Law 108–487) is amended by striking subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
