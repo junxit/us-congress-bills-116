@@ -1,0 +1,24 @@
+---
+legis-num: S. 2148
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2148
+
+> To amend the Small Business Act to provide additional awards for disaster recovery, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Small Business Disaster Recovery Improvement Act”.
+
+## § 2. Additional awards for disaster recovery
+
+Section 7(b)(12) of the Small Business Act (15 U.S.C. 636(b)(12)) is amended—
+
+- **(1)** in subparagraph (A), by striking “may” and inserting “shall”; and
+- **(2)** by adding at the end the following:
+  > - **(I)** *Award amount*
+  >   - **(i)** *In general* The total amount of financial assistance provided under this paragraph in a fiscal year shall be in an amount that is not less than 3 percent and not more than 5 percent of the total amount made available for that fiscal year for administrative expenses to carry out the disaster loan program under this subsection, including amounts made available as emergency supplemental appropriations.
+  >   - **(ii)** *Remainder* Any financial assistance allocated to an entity under clause (i) that remains unobligated by the end of the fiscal year in which the financial assistance is made available shall be reallocated to the Administrator to provide loans under this subsection.
