@@ -1,7 +1,7 @@
 ---
 measure: H.R. 736
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 736
@@ -16,7 +16,7 @@ Access to Congressionally Mandated Reports Act
 
 - Rep. Quigley, Mike [D-IL-5] (Q000023)
 
-## Cosponsors (14)
+## Cosponsors (22)
 
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
 - Rep. Moulton, Seth [D-MA-6] (M001196)
@@ -32,6 +32,14 @@ Access to Congressionally Mandated Reports Act
 - Rep. Walker, Mark [R-NC-6] (W000819)
 - Rep. Davis, Rodney [R-IL-13] (D000619)
 - Rep. Loudermilk, Barry [R-GA-11] (L000583)
+- Rep. Foster, Bill [D-IL-11] (F000454)
+- Rep. Wilson, Frederica S. [D-FL-24] (W000808)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Axne, Cynthia [D-IA-3] (A000378)
+- Rep. Kilmer, Derek [D-WA-6] (K000381)
+- Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
+- Rep. Taylor, Van [R-TX-3] (T000479)
+- Rep. Gooden, Lance [R-TX-5] (G000589)
 
 ## Committees (2)
 
@@ -44,3 +52,9 @@ Access to Congressionally Mandated Reports Act
 - 2019-01-23 — Introduced in House
 - 2019-01-23 — Referred to the Committee on Oversight and Reform, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-01-23 — Referred to the Committee on Oversight and Reform, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-07-17 — Considered under suspension of the rules. (consideration: CR H5951-5953)
+- 2019-07-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 736.
+- 2019-07-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-07-17 — Mr. Rouda moved to suspend the rules and pass the bill, as amended.
+- 2019-07-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5951-5952)
+- 2019-07-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5951-5952)

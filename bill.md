@@ -18,7 +18,7 @@ This Act may be cited as the “Access to Congressionally Mandated Reports Act�
 In this Act:
 
 - **(1)** *Congressionally mandated report* The term congressionally mandated report—
-  - **(A)** means a report that is required to be submitted to either House of Congress or any committee of Congress, or subcommittee thereof, by a statute, resolution, or conference report that accompanies legislation enacted into law; and
+  - **(A)** means a report that is required by statute to be submitted to either House of Congress or any committee of Congress or subcommittee thereof; and
   - **(B)** does not include a report required under part B of subtitle II of title 36, United States Code.
 - **(2)** *Director* The term Director means the Director of the Government Publishing Office.
 - **(3)** *Federal agency* The term Federal agency has the meaning given that term under section 102 of title 40, United States Code, but does not include the Government Accountability Office.
@@ -35,14 +35,14 @@ In this Act:
   - **(3)** *Consultation* In carrying out this Act, the Director shall consult with the Clerk of the House of Representatives, the Secretary of the Senate, and the Librarian of Congress regarding the requirements for and maintenance of congressionally mandated reports on the reports online portal.
 - **(b)** *Content and function* The Director shall ensure that the reports online portal includes the following:
   - **(1)** Subject to subsection (c), with respect to each congressionally mandated report, each of the following:
-    - **(A)** A citation to the statute, conference report, or resolution requiring the report.
+    - **(A)** A citation to the statute requiring the report.
     - **(B)** An electronic copy of the report, including any transmittal letter associated with the report, in an open format that is platform independent and that is available to the public without restrictions, including restrictions that would impede the re-use of the information in the report.
     - **(C)** The ability to retrieve a report, to the extent practicable, through searches based on each, and any combination, of the following:
       - **(i)** The title of the report.
       - **(ii)** The reporting Federal agency.
       - **(iii)** The date of publication.
-      - **(iv)** Each congressional committee receiving the report, if applicable.
-      - **(v)** The statute, resolution, or conference report requiring the report.
+      - **(iv)** Each congressional committee or subcommittee receiving the report, if applicable.
+      - **(v)** The statute requiring the report.
       - **(vi)** Subject tags.
       - **(vii)** A unique alphanumeric identifier for the report that is consistent across report editions.
       - **(viii)** The serial number, Superintendent of Documents number, or other identification number for the report, if applicable.
@@ -50,8 +50,7 @@ In this Act:
       - **(x)** Full text search.
       - **(xi)** Any other relevant information specified by the Director.
     - **(D)** The date on which the report was required to be submitted, and on which the report was submitted, to the reports online portal.
-    - **(E)** Access to the report not later than 30 calendar days after its submission to Congress.
-    - **(F)** To the extent practicable, a permanent means of accessing the report electronically.
+    - **(E)** To the extent practicable, a permanent means of accessing the report electronically.
   - **(2)** A means for bulk download of all congressionally mandated reports.
   - **(3)** A means for downloading individual reports as the result of a search.
   - **(4)** An electronic means for the head of each Federal agency to submit to the reports online portal each congressionally mandated report of the agency, as required by section 4.
@@ -66,35 +65,38 @@ In this Act:
       - **(ii)** the date on which the report was required to be submitted; and
     - **(B)** include the congressionally mandated report on the list described in subsection (b)(5)(C).
   - **(2)** *Reports not in open format* If a Federal agency submits a congressionally mandated report that is not in an open format, the Director shall include the congressionally mandated report in another format on the reports online portal.
-- **(d)** *Free access* The Director may not charge a fee, require registration, or impose any other limitation in exchange for access to the reports online portal.
-- **(e)** *Upgrade capability* The reports online portal shall be enhanced and updated as necessary to carry out the purposes of this Act.
+- **(d)** *Deadline* The Director shall ensure that information required to be published on the online portal under this Act with respect to a congressionally mandated report or information required under subsection (c) is published—
+  - **(1)** not later than 30 calendar days after the information is received from the Federal agency involved; or
+  - **(2)** in the case of information required under subsection (c), not later than 30 calendar days after the deadline under this Act for the Federal agency involved to submit information with respect to the congressionally mandated report involved.
+- **(e)** *Exception for certain reports*
+  - **(1)** *Exception described* A congressionally mandated report which is required by statute to be submitted to a committee of Congress or a subcommittee thereof, including any transmittal letter associated with the report, shall not be submitted to or published on the reports online portal if the chair of a committee or subcommittee to which the report is submitted notifies the Director in writing that the report is to be withheld from submission and publication under this Act.
+  - **(2)** *Notice on portal* If a report is withheld from submission to or publication on the reports online portal under paragraph (1), the Director shall post on the portal—
+    - **(A)** a statement that the report is withheld at the request of a committee or subcommittee involved; and
+    - **(B)** the written notification specified in paragraph (1).
+- **(f)** *Free access* The Director may not charge a fee, require registration, or impose any other limitation in exchange for access to the reports online portal.
+- **(g)** *Upgrade capability* The reports online portal shall be enhanced and updated as necessary to carry out the purposes of this Act.
 
 ## § 4. Federal agency responsibilities
 
-- **(a)** *Submission of electronic copies of reports* Concurrently with the submission to Congress of each congressionally mandated report, the head of the Federal agency submitting the congressionally mandated report shall submit to the Director the information required under subparagraphs (A) through (D) of section 3(b)(1) with respect to the congressionally mandated report. Nothing in this Act shall relieve a Federal agency of any other requirement to publish the congressionally mandated report on the online portal of the Federal agency or otherwise submit the congressionally mandated report to Congress or specific committees of Congress, or subcommittees thereof.
-- **(b)** *Guidance* Not later than 240 days after the date of enactment of this Act, the Director of the Office of Management and Budget, in consultation with the Director, shall issue guidance to agencies on the implementation of this Act.
+- **(a)** *Submission of electronic copies of reports* Not earlier than 30 calendar days or later than 45 calendar days after the date on which a congressionally mandated report is submitted to either House of Congress or to any committee of Congress or subcommittee thereof, the head of the Federal agency submitting the congressionally mandated report shall submit to the Director the information required under subparagraphs (A) through (D) of section 3(b)(1) with respect to the congressionally mandated report. Nothing in this Act shall relieve a Federal agency of any other requirement to publish the congressionally mandated report on the online portal of the Federal agency or otherwise submit the congressionally mandated report to Congress or specific committees of Congress, or subcommittees thereof.
+- **(b)** *Guidance* Not later than 240 calendar days after the date of enactment of this Act, the Director of the Office of Management and Budget, in consultation with the Director, shall issue guidance to agencies on the implementation of this Act.
 - **(c)** *Structure of submitted report data* The head of each Federal agency shall ensure that each congressionally mandated report submitted to the Director complies with the open format criteria established by the Director in the guidance issued under subsection (b).
-- **(d)** *Point of contact* The head of each Federal agency shall designate a point of contact for congressionally mandated report.
-- **(e)** *List of reports* As soon as practicable each calendar year (but not later than April 1), and on a rolling basis during the year if feasible, the Librarian of Congress shall submit to the Director a list of congressionally mandated reports from the previous calendar year, in consultation with the Clerk of the House of Representatives, which shall—
-  - **(1)** be provided in an open format;
-  - **(2)** include the information required under clauses (i), (ii), (iv), (v) of section 3(b)(1)(C) for each report;
-  - **(3)** include the frequency of the report;
-  - **(4)** include a unique alphanumeric identifier for the report that is consistent across report editions;
-  - **(5)** include the date on which each report is required to be submitted; and
-  - **(6)** be updated and provided to the Director, as necessary.
+- **(d)** *Point of contact* The head of each Federal agency shall designate a point of contact for congressionally mandated reports.
 
-## § 5. Removing and altering reports
+## § 5. Changing or removing reports
 
-A report submitted to be published to the reports online portal may only be changed or removed, with the exception of technical changes, by the head of the Federal agency concerned if—
-
-- **(1)** the head of the Federal agency consults with each congressional committee to which the report is submitted; and
-- **(2)** Congress enacts a joint resolution authorizing the changing or removal of the report.
+- **(a)** *Limitation on authority To change or remove reports* Except as provided in subsection (b), the head of the Federal agency concerned may change or remove a congressionally mandated report submitted to be published on the reports online portal only if—
+  - **(1)** the head of the Federal agency consults with each committee of Congress or subcommittee thereof to which the report is required to be submitted (or, in the case of a report which is not required to be submitted to a particular committee of Congress or subcommittee thereof, to each committee with jurisdiction over the agency, as determined by the head of the agency in consultation with the Speaker of the House of Representatives and the President pro tempore of the Senate) prior to changing or removing the report; and
+  - **(2)** a joint resolution is enacted to authorize the change in or removal of the report.
+- **(b)** *Exceptions* Notwithstanding subsection (a), the head of the Federal agency concerned—
+  - **(1)** may make technical changes to a report submitted to or published on the online portal; and
+  - **(2)** may remove a report from the online portal if the report was submitted to or published on the online portal in error.
 
 ## § 6. Relationship to the Freedom of Information Act
 
 - **(a)** *In general* Nothing in this Act shall be construed to—
-  - **(1)** require the disclosure of information or records that are exempt from public disclosure under section 552 of title 5, United States Code; or
-  - **(2)** to impose any affirmative duty on the Director to review congressionally mandated reports submitted for publication to the reports online portal for the purpose of identifying and redacting such information or records.
+  - **(1)** require the disclosure of information, records, or reports that are exempt from public disclosure under section 552 of title 5, United States Code; or
+  - **(2)** impose any affirmative duty on the Director to review congressionally mandated reports submitted for publication to the reports online portal for the purpose of identifying and redacting such information or records.
 - **(b)** *Redaction of information* The head of a Federal agency may redact information required to be disclosed under this Act if the information would be properly withheld from disclosure under section 552 of title 5, United States Code, and shall—
   - **(1)** redact information required to be disclosed under this Act if disclosure of such information is prohibited by law;
   - **(2)** redact information being withheld under this subsection prior to submitting the information to the Director;
@@ -104,4 +106,17 @@ A report submitted to be published to the reports online portal may only be chan
 
 ## § 7. Implementation
 
-Except as provided in section 4(b), this Act shall be implemented not later than 1 year after the date of enactment of this Act and shall apply with respect to congressionally mandated reports submitted to Congress on or after the date that is 1 year after such date of enactment.
+- **(a)** *Reports submitted to Congress*
+  - **(1)** *In general* This Act shall apply with respect to any congressionally mandated report which—
+    - **(A)** is required by statute to be submitted to the House of Representatives or Senate at any time before, on, or after the date of the enactment of this Act; or
+    - **(B)** is included by the Clerk of the House of Representatives or the Secretary of the Senate (as the case may be) on the list of reports received by the House of Representatives or Senate (as the case may be) at any time before the date of the enactment of this Act.
+  - **(2)** *Transition rule for previously submitted reports* The Director shall ensure that any congressionally mandated report described in paragraph (1) which was required to be submitted to Congress by a statue enacted before the date of the enactment of this Act is published on the online portal under this Act not later than 1 year after the date of the enactment of this Act.
+- **(b)** *Reports submitted to committees* In the case of congressionally mandated reports which are required by statute to be submitted to a committee of Congress or a subcommittee thereof, this Act shall apply with respect to—
+  - **(1)** any such report which is first required to be submitted by a statute which is enacted on or after the date of the enactment of this Act; and
+  - **(2)** to the maximum extent practical, any congressionally mandated report which was required to be submitted by a statute enacted before the date of enactment of this act unless—
+    - **(A)** the chair of the committee, or subcommittee thereof, to which the report was required to be submitted notifies the Director in writing that the report is to be withheld from publication; and
+    - **(B)** the Director publishes the notification on the online portal.
+
+## § 8. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
