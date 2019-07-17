@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1250
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1250
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 11158 H
 
 - Rep. Babin, Brian [R-TX-36] (B001291)
 
-## Cosponsors (34)
+## Cosponsors (35)
 
 - Rep. Gohmert, Louie [R-TX-1] (G000552)
 - Rep. Crenshaw, Dan [R-TX-2] (C001120)
@@ -52,6 +52,7 @@ To designate the facility of the United States Postal Service located at 11158 H
 - Rep. Brady, Kevin [R-TX-8] (B000755)
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 - Rep. Garcia, Sylvia R. [D-TX-29] (G000587)
+- Rep. Escobar, Veronica [D-TX-16] (E000299)
 
 ## Committees (1)
 
@@ -62,3 +63,12 @@ To designate the facility of the United States Postal Service located at 11158 H
 - 2019-02-14 — Introduced in House
 - 2019-02-14 — Introduced in House
 - 2019-02-14 — Referred to the House Committee on Oversight and Reform.
+- 2019-06-12 — Committee Consideration and Mark-up Session Held.
+- 2019-06-12 — Ordered to be Reported by Unanimous Consent.
+- 2019-07-17 — Considered under suspension of the rules. (consideration: CR H5953-5954)
+- 2019-07-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1250.
+- 2019-07-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-07-17 — Mr. Rouda moved to suspend the rules and pass the bill, as amended.
+- 2019-07-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5953-5954)
+- 2019-07-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5953-5954)
+- 2019-07-17 — The title of the measure was amended. Agreed to without objection.
