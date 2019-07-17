@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 3817
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3817
+
+> To cancel the registration of all uses of the pesticide paraquat, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Protect Against Paraquat Act”.
+
+## § 2. Cancellation of registration of paraquat
+
+- **(a)** *In general* Pursuant to section 6(b) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136d(b)), effective on the date of the enactment of this Act—
+  - **(1)** paraquat shall be deemed to generally cause unreasonable adverse effects to humans in part due to its acute systemic toxicity and for being a known neurotoxin which causes Parkinson’s disease;
+  - **(2)** the Administrator of the Environmental Protection Agency shall cancel the registration of all uses of paraquat; and
+  - **(3)** following such cancellation, the Administrator shall, in accordance with section 408(l)(2) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 346a(l)(2)), revoke any tolerance or exemption that allows the presence of paraquat or any pesticide chemical residue that results from its use, in or on food.
+- **(b)** *Use of existing stocks* Notwithstanding section 6(a) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136d(a)), effective on the date of the enactment of this Act, the continued sale and use of existing stocks of paraquat is prohibited.
+- **(c)** *Reregistration* Effective on the date of the enactment of this Act, the Administrator of the Environmental Protection Agency may not reregister paraquat under section 4 of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136a–1).
