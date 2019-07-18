@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3299
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -269,7 +269,7 @@ to guess them.
 
 ### 26 U.S.C. § 2513
 
-> in the first sentence, by striking “husband and wife” and inserting “spouses”; and
+> by striking “husband and wife” and inserting “spouses”; and
 
 | | |
 |---|---|
@@ -278,7 +278,7 @@ to guess them.
 
 ### 26 U.S.C. § 2513
 
-> in the second sentence, by striking “his taxable year” and inserting “such spouse's taxable year”;
+> by striking “his taxable year” and inserting “such spouse's taxable year”;
 
 | | |
 |---|---|
@@ -287,7 +287,7 @@ to guess them.
 
 ### 26 U.S.C. § 2513
 
-> in the first sentence, by striking “his executor or administrator” and inserting “the decedent's executor or administrator”;
+> by striking “his executor or administrator” and inserting “the decedent's executor or administrator”;
 
 | | |
 |---|---|
@@ -296,7 +296,7 @@ to guess them.
 
 ### 26 U.S.C. § 2513
 
-> in the first sentence, by striking “with respect to both himself and the decedent” and inserting “with respect to both the surviving spouse and the decedent”; and
+> by striking “with respect to both himself and the decedent” and inserting “with respect to both the surviving spouse and the decedent”; and
 
 | | |
 |---|---|
@@ -305,7 +305,7 @@ to guess them.
 
 ### 26 U.S.C. § 2513
 
-> in the second sentence, by striking “constitute his separate return” and inserting “constitute the survivor's separate return”;
+> by striking “constitute his separate return” and inserting “constitute the survivor's separate return”;
 
 | | |
 |---|---|

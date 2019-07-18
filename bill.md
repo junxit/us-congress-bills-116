@@ -16,10 +16,10 @@ This Act may be cited as the “Promoting Respect for Individuals’ Dignity and
 ## § 2. Extension of period of limitation for certain legally married couples
 
 - **(a)** *In general* In the case of an individual first treated as married for purposes of the Internal Revenue Code of 1986 by the application of the holdings of Revenue Ruling 2013–17—
-  - **(1)** if such individual filed a separate return for a taxable year ending before September 16, 2013, for which a joint return could have been made by the individual and the individual's spouse but for the fact that such holdings were not effective at the time of filing, the time prescribed by section 6013(b)(2)(A) of such Code for filing a joint return after filing a separate return shall not expire before the date prescribed by law (including extensions) for filing the return of tax for the taxable year that includes the date of the enactment of this Act; and
+  - **(1)** if such individual filed a return (other than a joint return) for a taxable year ending before September 16, 2013, for which a joint return could have been made by the individual and the individual's spouse but for the fact that such holdings were not effective at the time of filing, such return shall be treated as a separate return within the meaning of section 6013(b) of such Code and the time prescribed by section 6013(b)(2)(A) of such Code for filing a joint return after filing a separate return shall not expire before the date prescribed by law (including extensions) for filing the return of tax for the taxable year that includes the date of the enactment of this Act, and
   - **(2)** in the case of a joint return filed pursuant to paragraph (1)—
-    - **(A)** the period of limitation prescribed by section 6511(a) of such Code for any such taxable year shall be extended until the date prescribed by law (including extensions) for filing the return of tax for the taxable year that includes the date of the enactment of this Act; and
-    - **(B)** section 6511(b)(2) shall not apply to any claim of credit or refund with respect to such return.
+    - **(A)** the period of limitation prescribed by section 6511(a) of such Code for any such taxable year shall be extended until the date prescribed by law (including extensions) for filing the return of tax for the taxable year that includes the date of the enactment of this Act, and
+    - **(B)** section 6511(b)(2) of such Code shall not apply to any claim of credit or refund with respect to such return.
 - **(b)** *Amendments, etc. restricted to change in marital status* Subsection (a) shall apply only with respect to amendments to the return of tax, and claims for credit or refund, relating to a change in the marital status for purposes of the Internal Revenue Code of 1986 of the individual.
 
 ## § 3. Rules relating to all legally married couples
@@ -82,12 +82,12 @@ This Act may be cited as the “Promoting Respect for Individuals’ Dignity and
     - **(B)** in subsection (a), in the matter preceding paragraph (1), by striking “husband and wife” and inserting “married couple”;
     - **(C)** in subsection (a)(1), by striking “either the husband or wife” and inserting “either spouse”;
     - **(D)** in subsection (a)(2)—
-      - **(i)** in the first sentence, by striking “husband and wife” and inserting “spouses”; and
-      - **(ii)** in the second sentence, by striking “his taxable year” and inserting “such spouse's taxable year”;
+      - **(i)** by striking “husband and wife” and inserting “spouses”; and
+      - **(ii)** by striking “his taxable year” and inserting “such spouse's taxable year”;
     - **(E)** in subsection (a)(3)—
-      - **(i)** in the first sentence, by striking “his executor or administrator” and inserting “the decedent's executor or administrator”;
-      - **(ii)** in the first sentence, by striking “with respect to both himself and the decedent” and inserting “with respect to both the surviving spouse and the decedent”; and
-      - **(iii)** in the second sentence, by striking “constitute his separate return” and inserting “constitute the survivor's separate return”;
+      - **(i)** by striking “his executor or administrator” and inserting “the decedent's executor or administrator”;
+      - **(ii)** by striking “with respect to both himself and the decedent” and inserting “with respect to both the surviving spouse and the decedent”; and
+      - **(iii)** by striking “constitute his separate return” and inserting “constitute the survivor's separate return”;
     - **(F)** in subsection (b), by striking paragraph (1) and inserting the following new paragraph:
       > - **(1)** *In general* Except as provided in paragraph (2), if an individual has filed a separate return for a taxable year for which a joint return could have been made by the individual and the individual's spouse under subsection (a) and the time prescribed by law for filing the return for such taxable year has expired, such individual and such spouse may nevertheless make a joint return for such taxable year. A joint return filed under this subsection shall constitute the return of the individual and the individual's spouse for such taxable year, and all payments, credits, refunds, or other repayments made or allowed with respect to the separate return of either spouse for such taxable year shall be taken into account in determining the extent to which the tax based upon the joint return has been paid. If a joint return is made under this subsection, any election (other than the election to file a separate return) made by either spouse in a separate return for such taxable year with respect to the treatment of any income, deduction, or credit of such spouse shall not be changed in the making of the joint return where such election would have been irrevocable if the joint return had not been made. If a joint return is made under this subsection after the death of either spouse, such return with respect to the decedent can be made only by the decedent's executor or administrator.
 
@@ -127,23 +127,22 @@ This Act may be cited as the “Promoting Respect for Individuals’ Dignity and
   - **(2)** Section 2(b)(2)(A).
   - **(3)** Subsections (d)(1)(B) and (e)(3) of section 21.
   - **(4)** Section 36(c)(5).
-  - **(5)** Section 71(b)(1)(C).
-  - **(6)** Section 179(d)(2)(A).
-  - **(7)** Section 318(a)(1)(A)(i).
-  - **(8)** Section 408(d)(6).
-  - **(9)** Section 469(i)(5)(B)(ii).
-  - **(10)** Section 507(d)(2)(B)(iii).
-  - **(11)** Clauses (ii) and (iii) of section 613A(c)(8)(D).
-  - **(12)** Section 672(e)(2).
-  - **(13)** Section 704(e)(2).
-  - **(14)** Subparagraphs (A) and (B)(ii) of section 911(c)(3).
-  - **(15)** Section 1235(c)(2).
-  - **(16)** Section 1563(e)(5).
-  - **(17)** Section 3121(b)(3)(B).
-  - **(18)** Section 4946(d).
-  - **(19)** Section 4975(e)(6).
-  - **(20)** Subparagraphs (A)(iv) and (B) of section 6012(a)(1).
-  - **(21)** Section 7703(a).
+  - **(5)** Section 179(d)(2)(A).
+  - **(6)** Section 318(a)(1)(A)(i).
+  - **(7)** Section 408(d)(6).
+  - **(8)** Section 469(i)(5)(B)(ii).
+  - **(9)** Section 507(d)(2)(B)(iii).
+  - **(10)** Clauses (ii) and (iii) of section 613A(c)(8)(D).
+  - **(11)** Section 672(e)(2).
+  - **(12)** Section 704(e)(2).
+  - **(13)** Subparagraphs (A) and (B)(ii) of section 911(c)(3).
+  - **(14)** Section 1235(c)(2).
+  - **(15)** Section 1563(e)(5).
+  - **(16)** Section 3121(b)(3)(B).
+  - **(17)** Section 4946(d).
+  - **(18)** Section 4975(e)(6).
+  - **(19)** Subparagraphs (A)(iv) and (B) of section 6012(a)(1).
+  - **(20)** Section 7703(a).
 - **(b)** *Conforming amendments*
   - **(1)** The following provisions of the Internal Revenue Code of 1986 are each amended by striking “his spouse” each place it appears and inserting “the taxpayer's spouse”:
     - **(A)** Section 2(a)(2)(B).
