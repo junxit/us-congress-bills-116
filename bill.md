@@ -7,7 +7,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. 1694
 
-> To require any Federal agency that issues licenses to conduct activities in outer space to include in the requirements for such licenses an agreement relating to the preservation and protection of the Apollo 11 landing site, and for other purposes.
+> To require any Federal agency that issues licenses to conduct lunar activities to include in the requirements for such licenses an agreement relating to the preservation and protection of the Apollo 11 landing site, and for other purposes.
 
 ## § 1. Short title
 
@@ -26,30 +26,29 @@ This Act may be cited as the “One Small Step to Protect Human Heritage in Spac
     - **(A)** are the first archaeological sites with human activity that are not on Earth;
     - **(B)** provide evidence of the first achievements of humankind in the realm of space travel and exploration; and
     - **(C)** contain artifacts and other evidence of human exploration activities that remain a potential source of cultural, historical, archaeological, anthropological, scientific, and engineering knowledge.
-  - **(8)** As commercial enterprises and more countries acquire the ability to land on the Moon, it is necessary to ensure the recognition and protection of the Apollo 11 landing site and other historic landing sites together with all the human effort and innovation the sites represent.
-  - **(9)** On July 20, 2011, NASA published the voluntary guidance entitled “NASA’s Recommendations to Space-Faring Entities: How to Protect and Preserve the Historic and Scientific Value of U.S. Government Lunar Artifacts”.
-  - **(10)** In March 2018, the Office of Science and Technology Policy published a report entitled “Protecting & Preserving Apollo Program Lunar Landing Sites & Artifacts”.
-  - **(11)** The Apollo 11 landing site and other similar historic landing sites in outer space merit legal protection from inadvertent or intentional interference with such sites or the environment surrounding such sites in order to prevent irremediable loss of archaeological, anthropological, historical, scientific, and engineering significance and value.
-  - **(12)** Space-faring entities based outside the United States have the capacity to land on the Moon.
-  - **(13)** The licensing requirements under this Act are applicable only to United States-based activities in outer space and therefore have limited efficacy for protecting against intentional or inadvertent disturbances of the Apollo 11 landing site and other similar historic sites from space-faring entities based outside the United States.
-  - **(14)** A binding international agreement to protect the Apollo 11 landing site and other similar historic sites by requiring adherence to the recommendations described in section 3(b) would be sufficient to protect against intentional or inadvertent disturbances of the Apollo 11 landing site and other similar historic sites.
-- **(b)** *Sense of Congress* It is the sense of Congress that the President should initiate a diplomatic initiative to negotiate an international agreement described in subsection (a)(14).
+  - **(8)** On July 20, 2011, NASA published the voluntary guidance entitled “NASA’s Recommendations to Space-Faring Entities: How to Protect and Preserve the Historic and Scientific Value of U.S. Government Lunar Artifacts”.
+  - **(9)** In March 2018, the Office of Science and Technology Policy published a report entitled “Protecting & Preserving Apollo Program Lunar Landing Sites & Artifacts”.
+  - **(10)** Space-faring entities based outside the United States have the capacity to land on the Moon.
+  - **(11)** The licensing requirements under this Act are applicable only to United States-based lunar activities and therefore have limited efficacy for protecting the Apollo 11 landing site, other similar historic sites, and lunar artifacts from disturbances caused by space-faring entities based outside the United States.
+- **(b)** *Sense of Congress* It is the sense of Congress that—
+  - **(1)** as commercial enterprises and more countries acquire the ability to land on the Moon, it is necessary to ensure the recognition and protection of the Apollo 11 landing site and other historic landing sites in acknowledgment of the human effort and innovation the sites represent;
+  - **(2)** the Apollo 11 landing site, other similar historic landing sites, lunar artifacts, and the environment surrounding such sites and artifacts merit legal protection from disturbance to prevent irremediable loss of sites and artifacts that are of archeological, anthropological, historical, scientific, and engineering significance and value; and
+  - **(3)** the President should work with other countries to develop best practices to ensure the protection of historic lunar landing sites and artifacts.
 
 ## § 3. Licensing requirements concerning preservation of historic lunar landing sites
 
-- **(a)** *In general* Beginning not later than 90 days after the date of the enactment of this Act, any Federal agency that issues a license to conduct an activity in outer space shall require each applicant for such a license—
+- **(a)** *In general* Not later than 90 days after the date of the enactment of this Act, any Federal agency that issues a license to conduct a lunar activity shall require each applicant for such a license—
   - **(1)** to agree to abide by the recommendations described in subsection (b); or
-  - **(2)** in the case of an activity that requires a license from more than one Federal agency, to certify (as described in paragraph (1) or (2), as applicable, of section 1746 of title 28, United States Code) that the applicant has submitted an application for a license for such activity to another Federal agency that satisfies paragraph (1).
+  - **(2)** in the case of a lunar activity that requires a license from more than one Federal agency, to certify under penalty of perjury as provided in paragraph (1) or (2), as applicable, of section 1746 of title 28, United States Code, that the applicant has submitted an application for a license for such activity to another Federal agency that satisfies paragraph (1).
 - **(b)** *Recommendations described* The recommendations described in this subsection are—
-  - **(1)** “NASA’s Recommendations to Space-Faring Entities: How to Protect and Preserve the Historic and Scientific Value of U.S. Government Lunar Artifacts” issued by the National Aeronautics and Space Administration on July 20, 2011;
-  - **(2)** the updates to “NASA’s Recommendations to Space-Faring Entities: How to Protect and Preserve the Historic and Scientific Value of U.S. Government Lunar Artifacts” issued by the National Aeronautics and Space Administration on October 28, 2011; and
-  - **(3)** any successor heritage preservation recommendations, guidelines, or principles relating to the protection and preservation of Government lunar artifacts issued by the National Aeronautics and Space Administration.
-- **(c)** *Exemptions* A Federal agency issuing a license described in subsection (a) may, in consultation with the Administrator of the National Aeronautics and Space Administration, exempt specific activities of an applicant from the historic preservation agreement or certification under subsection (a) if such bona fide activities are determined to have legitimate and significant historical, archeological, anthropological, scientific, or engineering value.
-- **(d)** *Authority To assess penalty fees*
-  - **(1)** *In general* A Federal agency issuing a license described in subsection (a) may assess a penalty fee on the holder of such license for conduct that violates one or more of terms of the license relating to the agreement under subsection (a)(1).
+  - **(1)** “NASA’s Recommendations to Space-Faring Entities: How to Protect and Preserve the Historic and Scientific Value of U.S. Government Lunar Artifacts” issued by the National Aeronautics and Space Administration on July 20, 2011, and updated on October 28, 2011; and
+  - **(2)** any successor heritage preservation recommendations, guidelines, or principles relating to the protection and preservation of Government lunar artifacts issued by the National Aeronautics and Space Administration.
+- **(c)** *Exemptions* A Federal agency issuing a license described in subsection (a) may, in consultation with the Administrator of the National Aeronautics and Space Administration, exempt specific lunar activities of an applicant from the historic preservation agreement or certification under subsection (a) if such bona fide activities are determined to have legitimate and significant historical, archeological, anthropological, scientific, or engineering value.
+- **(d)** *Authority to assess penalty fees*
+  - **(1)** *In general* A Federal agency issuing a license described in subsection (a) may assess a penalty fee on the holder of such license for conduct that violates one or more terms of the license relating to the agreement under subsection (a)(1).
   - **(2)** *Amount* The penalty fee amount assessed under paragraph (1) shall be—
     - **(A)** commensurate with the nature and extent of the violation; and
     - **(B)** sufficient to deter future violations.
-- **(e)** *Activity defined* In this section, the term activity means an action or endeavor in outer space that—
+- **(e)** *Lunar activity defined* In this section, the term lunar activity means an action or endeavor in space that—
   - **(1)** is intended to be lunar in nature, including lunar orbit, landing, and impact; or
   - **(2)** has a greater likelihood than not of becoming lunar in nature, including unintentional orbit and impact.
