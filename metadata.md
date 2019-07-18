@@ -1,7 +1,7 @@
 ---
 measure: H.R. 736
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 736
@@ -58,3 +58,4 @@ Access to Congressionally Mandated Reports Act
 - 2019-07-17 — Mr. Rouda moved to suspend the rules and pass the bill, as amended.
 - 2019-07-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5951-5952)
 - 2019-07-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5951-5952)
+- 2019-07-18 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 154.
