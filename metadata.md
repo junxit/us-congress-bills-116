@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1250
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1250
@@ -54,9 +54,10 @@ To designate the facility of the United States Postal Service located at 11158 H
 - Rep. Garcia, Sylvia R. [D-TX-29] (G000587)
 - Rep. Escobar, Veronica [D-TX-16] (E000299)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -72,3 +73,4 @@ To designate the facility of the United States Postal Service located at 11158 H
 - 2019-07-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5953-5954)
 - 2019-07-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5953-5954)
 - 2019-07-17 — The title of the measure was amended. Agreed to without objection.
+- 2019-07-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
