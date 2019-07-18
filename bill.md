@@ -17,17 +17,18 @@ This Act may be cited as the “Raise the Wage Act”.
 
 - **(a)** *In general* Section 6(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)(1)) is amended to read as follows:
   > - **(1)** except as otherwise provided in this section, not less than—
-  >   - **(A)** $8.55 an hour, beginning on the effective date under section 7 of the Raise the Wage Act;
-  >   - **(B)** $9.85 an hour, beginning 1 year after such effective date;
-  >   - **(C)** $11.15 an hour, beginning 2 years after such effective date;
-  >   - **(D)** $12.45 an hour, beginning 3 years after such effective date;
-  >   - **(E)** $13.75 an hour, beginning 4 years after such effective date;
-  >   - **(F)** $15.00 an hour, beginning 5 years after such effective date; and
-  >   - **(G)** beginning on the date that is 6 years after such effective date, and annually thereafter, the amount determined by the Secretary under subsection (h);
+  >   - **(A)** $8.40 an hour, beginning on the effective date under section 7 of the Raise the Wage Act;
+  >   - **(B)** $9.50 an hour, beginning 1 year after such effective date;
+  >   - **(C)** $10.60 an hour, beginning 2 years after such effective date;
+  >   - **(D)** $11.70 an hour, beginning 3 years after such effective date;
+  >   - **(E)** $12.80 an hour, beginning 4 years after such effective date;
+  >   - **(F)** $13.90 an hour, beginning 5 years after such effective date;
+  >   - **(G)** $15.00 an hour, beginning 6 years after such effective date; and
+  >   - **(H)** beginning on the date that is 7 years after such effective date, and annually thereafter, the amount determined by the Secretary under subsection (h);
 
 - **(b)** *Determination based on increase in the median hourly wage of all employees* Section 6 of the Fair Labor Standards Act of 1938 (29 U.S.C. 206) is amended by adding at the end the following:
   > - **(h)**
-  >   - **(1)** Not later than each date that is 90 days before a new minimum wage determined under subsection (a)(1)(G) is to take effect, the Secretary shall determine the minimum wage to be in effect under this subsection for each period described in subsection (a)(1)(G). The wage determined under this subsection for a year shall be—
+  >   - **(1)** Not later than each date that is 90 days before a new minimum wage determined under subsection (a)(1)(H) is to take effect, the Secretary shall determine the minimum wage to be in effect under this subsection for each period described in subsection (a)(1)(H). The wage determined under this subsection for a year shall be—
   >     - **(A)** not less than the amount in effect under subsection (a)(1) on the date of such determination;
   >     - **(B)** increased from such amount by the annual percentage increase, if any, in the median hourly wage of all employees as determined by the Bureau of Labor Statistics; and
   >     - **(C)** rounded up to the nearest multiple of $0.05.
@@ -49,7 +50,7 @@ This Act may be cited as the “Raise the Wage Act”.
 - **(c)** *Scheduled repeal of separate minimum wage for tipped employees*
   - **(1)** *Tipped employees* Section 3(m)(2)(A) of the Fair Labor Standards Act of 1938 (29 U.S.C. 203(m)(2)(A)), as amended by subsections (a) and (b), is further amended by striking the sentence beginning with “In determining the wage an employer is required to pay a tipped employee,” and all that follows through “of this subsection.” and inserting “The wage required to be paid to a tipped employee shall be the wage set forth in section 6(a)(1).”.
   - **(2)** *Publication of notice* Subsection (i) of section 6 of the Fair Labor Standards Act of 1938 (29 U.S.C. 206), as amended by section 5, is further amended by striking “or in accordance with subclause (II) or (III) of section 3(m)(2)(A)(i)”.
-  - **(3)** *Effective date* The amendments made by paragraphs (1) and (2) shall take effect on the date that is one day after the date on which the hourly wage under subclause (III) of section 3(m)(2)(A)(i) of the Fair Labor Standards Act of 1938 (29 U.S.C. 203(m)(2)(A)(i)), as amended by subsection (a), takes effect.
+  - **(3)** *Effective date* The amendments made by paragraphs (1) and (2) shall take effect on the date that is 1 day after the date on which the hourly wage under subclause (III) of section 3(m)(2)(A)(i) of the Fair Labor Standards Act of 1938 (29 U.S.C. 203(m)(2)(A)(i)), as amended by subsection (a), takes effect.
 
 ## § 4. Newly hired employees who are less than 20 years old
 
@@ -64,7 +65,7 @@ This Act may be cited as the “Raise the Wage Act”.
 - **(b)** *Scheduled repeal of separate minimum wage for newly hired employees who are less than 20 years old*
   - **(1)** *In general* Section 6(g) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(g)), as amended by subsection (a), shall be repealed.
   - **(2)** *Publication of notice* Subsection (i) of section 6 of the Fair Labor Standards Act of 1938 (29 U.S.C. 206), as amended by section 3(c)(2), is further amended by striking “or subparagraph (B) or (C) of subsection (g)(1),”.
-  - **(3)** *Effective date* The repeal and amendment made by paragraphs (1) and (2), respectively, shall take effect on the date that is one day after the date on which the hourly wage under subparagraph (C) of section 6(g)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(g)(1)), as amended by subsection (a), takes effect.
+  - **(3)** *Effective date* The repeal and amendment made by paragraphs (1) and (2), respectively, shall take effect on the date that is 1 day after the date on which the hourly wage under subparagraph (C) of section 6(g)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(g)(1)), as amended by subsection (a), takes effect.
 
 ## § 5. Publication of notice
 
@@ -107,9 +108,41 @@ Except as otherwise provided in this Act or the amendments made by this Act, thi
 - **(1)** subject to paragraph (2), on the first day of the third month that begins after the date of enactment of this Act; and
 - **(2)** with respect to the Commonwealth of the Northern Mariana Islands, on the date that is 18 months after the effective date described in paragraph (1).
 
-## § 8. GAO report
+## § 8. GAO report on the Commonwealth of the Northern Mariana Islands
 
 Not later than 1 year after the date of enactment of this Act, the Comptroller General shall submit to the Education and Labor Committee of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report that, with respect to the Commonwealth of the Northern Mariana Islands—
 
 - **(1)** assesses the status and structure of the economy (including employment, earnings and wages, and key industries); and
 - **(2)** for each year in which a wage increase will take effect under subsection (a)(1) or (g)(1) of section 6, section 3(m)(2)(A)(i), or section 14(c)(1)(A) of the Fair Labor Standards Act of 1938 (29 U.S.C. 201 et seq.), as amended by this Act, estimates the proportion of employees who will be directly affected by each such wage increase taking effect for such year, disaggregated by industry and occupation.
+
+## § 9. GAO Report on Wage Increase Impact
+
+- **(a)** *In general* Not later than 90 days before the date of the third wage increase to first take effect after the date of enactment of this Act, the Comptroller General, in consultation with the persons described in subsection (b), shall prepare and submit to Congress a report, that—
+  - **(1)** identifies and analyzes the effects, in the aggregate, of the first wage increases and second wage increases after such date of enactment on business enterprises (including small business enterprises) including the effects, with respect to such enterprises, on—
+    - **(A)** the wages and compensation of employees;
+    - **(B)** the number of employees, disaggregated by full-time and part-time employees;
+    - **(C)** the prices, sales, and revenues;
+    - **(D)** employee turnover and retention;
+    - **(E)** hiring and training costs; and
+    - **(F)** productivity and absenteeism;
+  - **(2)** to the extent practicable, identifies such effects in isolation from other factors that may affect business enterprises (including small business enterprises), including—
+    - **(A)** broader economic conditions;
+    - **(B)** changes in Federal, State, and local law, policy, and regulation;
+    - **(C)** industry consolidation;
+    - **(D)** natural disasters; and
+    - **(E)** significant demographic changes;
+  - **(3)** to the extent practicable, identifies and analyzes such effects for the Nation as a whole, and, separately, for—
+    - **(A)** each census division, as designated by the Bureau of the Census;
+    - **(B)** each metropolitan statistical area and nonmetropolitan portion (as such terms are defined by the Office of Management and Budget with respect to 2013); and
+    - **(C)** each urbanized area, urbanized cluster, and rural area, as designated by the Bureau of the Census; and
+  - **(4)** describes the methodology used to generate the information in the report.
+- **(b)** *Expert consultation* The persons described in this subsection are—
+  - **(1)** labor economists with expertise in minimum wage and low wage labor markets;
+  - **(2)** workers (including agricultural workers), and the labor organizations and worker groups representing such workers;
+  - **(3)** representatives of businesses, including small businesses, agricultural employers, and businesses in the accommodation and food services sector;
+  - **(4)** State and local governments; and
+  - **(5)** the Board of Governors of the Federal Reserve System.
+- **(c)** *Congressional assessment and recommendations* Not later than 60 days after the date on which Congress receives the report under subsection (a), Congress shall—
+  - **(1)** assess the findings of such report; and
+  - **(2)** make recommendations with respect to actions of Congress to address the findings of such report, including actions to delay the next scheduled wage increases.
+- **(d)** *Wage increase defined* The term “wage increase” means an increase in wages that takes effect under subsection (a)(1) or (g)(1) of section 6, section 3(m)(2)(A)(i), or section 14(c)(1)(A) of the Fair Labor Standards Act of 1938 (29 U.S.C. 201 et seq.), as amended by this Act.

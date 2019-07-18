@@ -1,7 +1,7 @@
 ---
 measure: H.R. 582
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 582
@@ -228,6 +228,12 @@ Raise the Wage Act
 
 - House — Education and the Workforce Committee
 
+## Recorded votes (3)
+
+- 2019-07-18 — [House 116-1-494](votes/house-116-1-0494.md) — On Agreeing to the Amendment — **Agreed to** (248–181)
+- 2019-07-18 — [House 116-1-495](votes/house-116-1-0495.md) — On Motion to Recommit with Instructions — **Failed** (210–218)
+- 2019-07-18 — [House 116-1-496](votes/house-116-1-0496.md) — On Passage — **Passed** (231–199)
+
 ## Actions
 
 - 2019-01-16 — Introduced in House
@@ -238,3 +244,29 @@ Raise the Wage Act
 - 2019-07-11 — Placed on the Union Calendar, Calendar No. 112.
 - 2019-07-11 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 116-150.
 - 2019-07-11 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 116-150.
+- 2019-07-15 — Rules Committee Resolution H. Res. 492 Reported to House. Rule provides for consideration of H.R. 582 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order.
+- 2019-07-17 — Rule H. Res. 492 passed House.
+- 2019-07-18 — Amendment (A002) offered by Mr. O'Halleran. (consideration: CR H7123-7126; text: CR H7123-7124)
+- 2019-07-18 — Amendment agreed to by House: On agreeing to the O'Halleran amendment (A002) Agreed to by recorded vote: 248 - 181 (Roll no. 494).
+- 2019-07-18 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2019-07-18 — Considered under the provisions of rule H. Res. 492. (consideration: CR H7095-7128; text of amendment in the nature of a substitute: CR H7095-7096)
+- 2019-07-18 — DEBATE - Pursuant to the provisions of H.Res. 492, the House proceeded with 10 minutes of debate on the O'Halleran amendment No. 1.
+- 2019-07-18 — DEBATE - The House proceeded with 10 minutes of debate on the Meuser motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment adding a section pertaining to Small Business Surivival which shall not apply to an enterprise that employs fewer than 10 individuals and whose annual gross volume of sales made or business done is less than $1,000,000.
+- 2019-07-18 — DEBATE - The House proceeded with one hour of debate on H.R. 582.
+- 2019-07-18 — House amendment agreed to: On agreeing to the O'Halleran amendment (A002) Agreed to by recorded vote: 248 - 181 (Roll no. 494).
+- 2019-07-18 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2019-07-18 — House amendment offered
+- 2019-07-18 — House amendment offered
+- 2019-07-18 — House amendment offered/reported by: Amendment (A002) offered by Mr. O'Halleran.
+- 2019-07-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-07-18 — Mr. Meuser moved to recommit with instructions to the Committee on Education and Labor. (text: CR H7126)
+- 2019-07-18 — On agreeing to the O'Halleran amendment (A002) Agreed to by recorded vote: 248 - 181 (Roll no. 494).
+- 2019-07-18 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2019-07-18 — On motion to recommit with instructions Failed by recorded vote: 210 - 218 (Roll no. 495).
+- 2019-07-18 — On passage Passed by recorded vote: 231 - 199 (Roll no. 496).
+- 2019-07-18 — Passed/agreed to in House: On passage Passed by recorded vote: 231 - 199 (Roll no. 496).
+- 2019-07-18 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2019-07-18 — Roll call votes on amendments in House
+- 2019-07-18 — Rule provides for consideration of H.R. 582 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order.
+- 2019-07-18 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2019-07-18 — The previous question was ordered on the amendment (A002) and on the bill pursuant to the rule.
