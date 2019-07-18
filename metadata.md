@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3494
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3494
@@ -16,10 +16,11 @@ Damon Paul Nelson and Matthew Young Pollard Intelligence Authorization Act for F
 
 - Rep. Schiff, Adam B. [D-CA-28] (S001150)
 
-## Committees (2)
+## Committees (3)
 
 - House — Intelligence (Permanent Select) Committee
 - House — Ways and Means Committee
+- Senate — Intelligence (Select) Committee
 
 ## Actions
 
@@ -265,3 +266,4 @@ Damon Paul Nelson and Matthew Young Pollard Intelligence Authorization Act for F
 - 2019-07-17 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3494.
 - 2019-07-17 — The previous question was ordered pursuant to the rule.
 - 2019-07-17 — The title of the measure was amended. Agreed to without objection.
+- 2019-07-18 — Received in the Senate and Read twice and referred to the Select Committee on Intelligence.
