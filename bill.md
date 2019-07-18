@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 3847
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3847
+
+> To designate the facility of the United States Postal Service located at 117 West Poythress Street in Hopewell, Virginia, as the “Reverend Curtis West Harris Post Office Building”.
+
+## § 1. Reverend Curtis West Harris Post Office Building
+
+- **(a)** *Designation* The facility of the United States Postal Service located 117 West Poythress Street in Hopewell, Virginia, shall be known and designated as the “Reverend Curtis West Harris Post Office Building”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Reverend Curtis West Harris Post Office Building”.
