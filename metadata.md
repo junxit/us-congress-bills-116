@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2943
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2943
@@ -16,6 +16,14 @@ Providing Benefits Information in Spanish and Tagalog for Veterans and Families 
 
 - Rep. Cisneros, Gilbert Ray, Jr. [D-CA-39] (C001123)
 
+## Cosponsors (5)
+
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Cárdenas, Tony [D-CA-29] (C001097)
+- Rep. Mucarsel-Powell, Debbie [D-FL-26] (M001207)
+- Rep. Escobar, Veronica [D-TX-16] (E000299)
+- Rep. Gallego, Ruben [D-AZ-7] (G000574)
+
 ## Committees (1)
 
 - House — Veterans' Affairs Committee
@@ -25,3 +33,7 @@ Providing Benefits Information in Spanish and Tagalog for Veterans and Families 
 - 2019-05-23 — Introduced in House
 - 2019-05-23 — Introduced in House
 - 2019-05-23 — Referred to the House Committee on Veterans' Affairs.
+- 2019-06-20 — Committee Hearings Held.
+- 2019-07-18 — Placed on the Union Calendar, Calendar No. 118.
+- 2019-07-18 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 116-158.
+- 2019-07-18 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 116-158.
