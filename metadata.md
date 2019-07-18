@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2325
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2325
@@ -16,9 +16,10 @@ To designate the facility of the United States Postal Service located at 100 Cal
 
 - Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -33,3 +34,4 @@ To designate the facility of the United States Postal Service located at 100 Cal
 - 2019-07-17 — Mr. Rouda moved to suspend the rules and pass the bill.
 - 2019-07-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5957)
 - 2019-07-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5957)
+- 2019-07-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
