@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1844
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1844
@@ -36,9 +36,10 @@ To designate the facility of the United States Postal Service located at 66 Grov
 - Rep. Bustos, Cheri [D-IL-17] (B001286)
 - Rep. LaHood, Darin [R-IL-18] (L000585)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ To designate the facility of the United States Postal Service located at 66 Grov
 - 2019-07-17 — Mr. Rouda moved to suspend the rules and pass the bill.
 - 2019-07-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5956)
 - 2019-07-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5956)
+- 2019-07-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
