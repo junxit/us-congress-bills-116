@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1847
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1847
@@ -20,9 +20,10 @@ Inspector General Protection Act
 
 - Rep. Hice, Jody B. [R-GA-10] (H001071)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Inspector General Protection Act
 - 2019-07-17 — Mr. Rouda moved to suspend the rules and pass the bill, as amended.
 - 2019-07-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5950)
 - 2019-07-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5950)
+- 2019-07-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
