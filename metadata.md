@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1250
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1250
@@ -74,3 +74,14 @@ To designate the facility of the United States Postal Service located at 11158 H
 - 2019-07-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5953-5954)
 - 2019-07-17 — The title of the measure was amended. Agreed to without objection.
 - 2019-07-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2019-07-30 — Passed Senate without amendment by Unanimous Consent.
+- 2019-07-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2019-07-30 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S5204)
+- 2019-07-30 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S5204)
+- 2019-07-31 — Message on Senate action sent to the House.
+- 2019-08-13 — Presented to President.
+- 2019-08-13 — Presented to President.
+- 2019-08-23 — Became Public Law No: 116-55.
+- 2019-08-23 — Became Public Law No: 116-55.
+- 2019-08-23 — Signed by President.
+- 2019-08-23 — Signed by President.
