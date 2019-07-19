@@ -1,7 +1,7 @@
 ---
 measure: S. 1321
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1321
@@ -21,9 +21,10 @@ Defending the Integrity of Voting Systems Act
 - Sen. Graham, Lindsey [R-SC] (G000359)
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -35,3 +36,6 @@ Defending the Integrity of Voting Systems Act
 - 2019-05-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 95.
 - 2019-07-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4915; text: CR S4915)
 - 2019-07-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4915; text: CR S4915)
+- 2019-07-18 — Message on Senate action sent to the House.
+- 2019-07-19 — Received in the House.
+- 2019-07-19 — Referred to the House Committee on the Judiciary.
