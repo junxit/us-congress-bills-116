@@ -1,7 +1,7 @@
 ---
 measure: S. 1833
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1833
@@ -22,9 +22,10 @@ Restore the Harmony Way Bridge Act
 - Sen. Duckworth, Tammy [D-IL] (D000622)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Environment and Public Works Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -36,3 +37,6 @@ Restore the Harmony Way Bridge Act
 - 2019-06-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 120.
 - 2019-07-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4915; text: CR S4915)
 - 2019-07-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4915; text: CR S4915)
+- 2019-07-18 — Message on Senate action sent to the House.
+- 2019-07-19 — Received in the House.
+- 2019-07-19 — Referred to the House Committee on Transportation and Infrastructure.
