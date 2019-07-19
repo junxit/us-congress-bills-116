@@ -16,149 +16,110 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 2. Initial health screening protocol
 
-- **(a)** *In general*
-  - **(1)** *Screening required* The Commissioner of U.S. Customs and Border Protection (referred to in this Act as the “Commissioner”) shall ensure that any individual whom U.S. Customs and Border Protection (referred to in this Act as “CBP”) detains (referred to in this Act as a “detainee”) receives an initial health screening by a medical professional—
-    - **(A)** to identify acute conditions and high-risk vulnerabilities; and
-    - **(B)** to provide appropriate health care to subpopulations involving pediatrics, obstetrics, and geriatrics specialties.
-  - **(2)** *Timing* The screening required by paragraph (1) shall be performed within—
-    - **(A)** 3 hours of being initially detained for high-priority populations in accordance with subsection (d); and
-    - **(B)** 12 hours of being initially detained for all other populations.
-- **(b)** *Interpreters* To ensure that health screenings and medical care required under subsections (a) and (f) are carried out in the best interests of the detainees receiving such screenings and care, the Commissioner shall—
-  - **(1)** provide such detainees with interpreters in the detainee’s native or indigenous language; and
-  - **(2)** inform detainees of the availability of interpretation services.
-- **(c)** *Chaperones* To ensure that health screenings and medical care required under subsections (a) and (f) are carried out in the best interests of the detainees receiving such screenings and care—
-  - **(1)** the Commissioner shall provide chaperones when necessary according to standard United States medical practice to protect a person’s dignity, culture, and gender-specific sensitivities; and
-  - **(2)** the physical examination of infants, toddlers, children, or any minors 17 years of age or younger shall, to the extent practicable, always be performed—
-    - **(A)** in the presence of a parent or legal guardian; or
-    - **(B)** in the absence of a parent or legal guardian, in the presence of the detainee’s closest present adult relative.
-- **(d)** *Prioritization* The Commissioner shall ensure that the initial screening required by subsection (a) is prioritized and conducted within 3 hours of being initially detained for the following high-priority populations:
-  - **(1)** Individuals who are exhibiting signs of acute or potentially severe physical or mental illness.
-  - **(2)** Pregnant women.
-  - **(3)** Infants.
-  - **(4)** Children.
-  - **(5)** Any minors 17 years of age or younger.
-  - **(6)** Elderly individuals.
-  - **(7)** Individuals who are visibly physically or mentally disabled.
-  - **(8)** Any other individual who self-identifies as having a medical condition that requires prompt medical attention, such as the following:
-    - **(A)** A disability.
-    - **(B)** A mental health issue.
-    - **(C)** HIV positive.
-    - **(D)** A chronic disease, such as diabetes.
-- **(e)** *Standardization of screening*
-  - **(1)** *In general*
-    - **(A)** *Consultation and development of guidelines and protocol* The Commissioner, in consultation with the Secretary of Health and Human Services and nongovernmental experts in delivery of health care in humanitarian crises, shall develop guidelines and protocols for the health screenings and medical care required under subsections (a) and (f).
-    - **(B)** *Assessment of appropriate level of care* The guidelines and protocols required by subparagraph (A) shall require that each detainee be administered a health screening to assess and identify age-appropriate signs, symptoms, risks, and experiences, including mental health risks and distressing or traumatic experiences, to determine the appropriate level of care needed.
-    - **(C)** *Standardized medical intake* The guidelines and protocols required by subparagraph (A) shall ensure that each such screening makes use of a standardized medical intake questionnaire or the equivalent of such a questionnaire, such as relevant portions of the Performance-Based National Detention Standards questionnaire administered by U.S. Immigration and Customs Enforcement.
-    - **(D)** *Consultation* In developing the guidelines and protocols required by subparagraph (A), the Commissioner shall consult with the Administrator of the Health Resources and Services Administration regarding health screening and medical care under the Emergency Medical Services for Children Program.
-  - **(2)** *Contents* The guidelines and protocols required by paragraph (1) shall require, with respect to each detainee—
-    - **(A)** an interview and questionnaire;
-    - **(B)** screening for vital signs, including pulse rate, temperature, blood pressure, oxygen saturation, and respiration rate;
-    - **(C)** screening for blood glucose for known diabetics;
-    - **(D)** weight for detainees under 12 years of age;
-    - **(E)** a physical exam; and
-    - **(F)** an assessment and development of a plan for risk-assessment, required interventions, and continued monitoring and care.
+- **(a)** *In general* The Commissioner of U.S. Customs and Border Protection (referred to in this Act as the “Commissioner”), in consultation with the Secretary of Health and Human Services, the Administrator of the Health Resources and Services Administration, and nongovernmental experts in the delivery of health care in humanitarian crises and in the delivery of health care to children, shall develop guidelines and protocols for the provision of health screenings and appropriate medical care for individuals in the custody of U.S. Customs and Border Protection (referred to in this Act as “CBP”), as required under this section.
+- **(b)** *Initial screening and medical assessment* The Commissioner shall ensure that any individual who is detained in the custody of CBP (referred to in this Act as a “detainee”) receives an initial in-person screening by a licensed medical professional in accordance with the standards described in subsection (c)—
+  - **(1)** to assess and identify any illness, condition, or age-appropriate mental or physical symptoms that may have resulted from distressing or traumatic experiences;
+  - **(2)** to identify acute conditions and high-risk vulnerabilities; and
+  - **(3)** to ensure that appropriate healthcare is provided to individuals as needed, including pediatric, obstetric, and geriatric care.
+- **(c)** *Standardization of initial screening and medical assessment*
+  - **(1)** *In general* The initial screening and medical assessment shall include—
+    - **(A)** an interview and the use of a standardized medical intake questionnaire or the equivalent;
+    - **(B)** screening of vital signs, including pulse rate, body temperature, blood pressure, oxygen saturation, and respiration rate;
+    - **(C)** screening for blood glucose for known or suspected diabetics;
+    - **(D)** weight assessment of detainees under 12 years of age;
+    - **(E)** a physical examination; and
+    - **(F)** a risk-assessment and the development of a plan for monitoring and care, when appropriate.
+  - **(2)** *Prescription medication* The medical professional shall review any prescribed medication that is in the detainee’s possession or that was confiscated by CBP upon arrival and determine if the medication may be kept by the detainee for use during detention, properly stored by CBP with appropriate access for use during detention, or maintained with the detained individual’s personal property. A detainee may not be denied the use of necessary and appropriate medication for the management of the detainee’s illness.
   - **(3)** *Rule of construction* Nothing in this subsection shall be construed as requiring detainees to disclose their medical status or history.
-- **(f)** *Further care*
-  - **(1)** *In general* If an initial health screening of a detainee displays values outside of normal ranges per National Emergency Services Education Standards or if an individual is identified as high-risk or is in need of medical intervention, the Commissioner shall ensure such detainee is provided with an in-person or technology-facilitated medical consultation with a readily available licensed emergency care professional.
-  - **(2)** *Availability* The Commissioner shall ensure that—
-    - **(A)** a licensed emergency care professional is on call at all times with respect to detainees; and
-    - **(B)** appropriate emergency transportation is on site or on call to arrive on site within 30 minutes of being called.
-  - **(3)** *Re-evaluations* Detainees who present with any abnormalities during a health screening under subsection (a) shall—
-    - **(A)** be re-evaluated and monitored as determined by the emergency care professional and at least once every 24 hours; and
-    - **(B)** notwithstanding subparagraph (A), have safety health clearance prior to transportation, including reevaluation of vital signs.
-- **(g)** *Psychological and mental care* The Commissioner shall ensure that detainees who have experienced physical or sexual violence or other potentially life-threatening events, or who have witnessed atrocities that may cause severe, traumatic, or toxic stress, are provided psychological first aid, including a basic, humane, and supportive response to ensure that basic needs are met.
-- **(h)** *Documentation* The Commissioner shall ensure that the health screenings and medical care required under subsections (a) and (f) and any other medical evaluations and interventions for detainees are documented in accordance with commonly accepted standards in the United States for medical record documentation.
-- **(i)** *Release from CBP* Before being released from CBP custody, each detainee in a high-priority population, or requiring intervention, or in need of health care followup upon release, shall receive medical records that outline the health screening and medical care that was conducted under this section with respect to the detainee, as well as documentation of medical issues, evaluations, interventions, and immunizations.
-- **(j)** *Infrastructure, equipment, and personnel* The Commissioner and the Administrator of General Services, as the case may be, shall ensure that each location at which a detainee is first transported after such detainee’s initial encounter with an agent or officer of CBP has the following:
-  - **(1)** A private space for the health screening required under subsection (a), including for any necessary follow-up exam or care management.
-  - **(2)** Appropriate equipment to carry out such screening, monitor health, provide emergency care, treat traumas and perform resuscitations (including paramedic bags with equipment suitable for neonates, infants, and toddlers).
-  - **(3)** A designated area and necessary equipment to prevent the spread of communicable diseases.
-  - **(4)** Basic over-the-counter and prescription medications for all age groups, including all pediatric age groups, including the medications necessary to ensure that detainees are not deprived of their medication required to manage their chronic illness.
-  - **(5)** A medical professional trained and certified to conduct such health screening.
-  - **(6)** An emergency medicine physician or emergency care provider on site, or if such a physician is not available, an emergency medicine physician or emergency care provider on call at all times for consultation.
-  - **(7)** Other professionals to meet the requirements of this section, such as physicians specializing in pediatrics, family medicine, emergency medicine, obstetrics and gynecology, geriatric medicine, internal medicine, and infectious diseases; nurse practitioners; other nurses; physician assistants; licensed social workers; mental health professionals; public health professionals; and dieticians.
-  - **(8)** Interpreters on site, or if an interpreter is not available, an interpreter on call at all times.
-  - **(9)** The capability to provide appropriate transportation in the case of a medical emergency on site or on call to arrive on site within 30 minutes.
-- **(k)** *Ethical guidelines* The Commissioner shall ensure that all medical assessments and procedures conducted pursuant to this section—
-  - **(1)** are conducted in accordance with ethical guidelines in the applicable medical field; and
-  - **(2)** respect human dignity.
+- **(d)** *Timing*
+  - **(1)** *In general* Except as provided in paragraph (2), the initial screening and medical assessment described in subsections (b) and (c) shall take place as soon as practicable, but not later than 12 hours after a detainee’s arrival at a CBP facility.
+  - **(2)** *High priority individuals* The initial screening and medical assessment described in subsections (b) and (c) shall take place as soon as practicable, but not later than 6 hours after a detainee’s arrival at a CBP facility if the individual reasonably self-identifies as having a medical condition that requires prompt medical attention or is—
+    - **(A)** exhibiting signs of acute or potentially severe physical or mental illness, or otherwise has an acute or chronic physical or mental disability or illness;
+    - **(B)** pregnant;
+    - **(C)** a child (with priority given, as appropriate, to the youngest children); or
+    - **(D)** elderly.
+- **(e)** *Further care*
+  - **(1)** *In general* If, as a result of the initial health screening and medical assessment, the licensed medical professional conducting the screening or assessment determines that one or more of the detainee’s vital sign measurements are significantly outside normal ranges in accordance with the National Emergency Services Education Standards, or if the detainee is identified as high-risk or in need of medical intervention, the detainee shall be provided, as expeditiously as possible, with an in-person or technology-facilitated medical consultation with a licensed emergency care professional.
+  - **(2)** *Re-evaluation*
+    - **(A)** *In general* Detainees described in paragraph (1) shall be re-evaluated within 24 hours and monitored thereafter as determined by an emergency care professional (and in the care of a consultation provided to a child, with a licensed emergency care professional with a background in pediatric care).
+    - **(B)** *Reevaluation prior to transportation* In addition to the re-evaluations under subparagraph (A), detainees shall have all vital signs re-evaluated and be cleared as safe to travel by a medical professional prior to transportation.
+  - **(3)** *Pyschological and mental care* The Commissioner shall ensure that detainees who have experienced physical or sexual violence or who have experienced events that may cause severe trauma or toxic stress, are provided access to basic, humane, and supportive psychological assistance.
+- **(f)** *Interpreters* To ensure that health screenings and medical care required under this section are carried out in the best interests of the detainee, the Commissioner shall ensure that language-appropriate interpretation services, including indigenous languages, are provided to each detainee and that each detainee is informed of the availability of interpretation services.
+- **(g)** *Chaperones* To ensure that health screenings and medical care required under this section are carried out in the best interests of the detainee—
+  - **(1)** the Commissioner shall establish guidelines for and ensure the presence of chaperones for all detainees during medical screenings and examinations consistent with relevant guidelines in the American Medical Association Code of Medical Ethics, and recommendations of the American Academy of Pediatrics; and
+  - **(2)** to the extent practicable, the physical examination of a child shall always be performed in the presence of a parent or legal guardian or in the presence of the detainee’s closest present adult relative if a parent or legal guardian is unavailable.
+- **(h)** *Documentation* The Commissioner shall ensure that the health screenings and medical care required under this section, along with any other medical evaluations and interventions for detainees, are documented in accordance with commonly accepted standards in the United States for medical record documentation. Such documentation shall be provided to any individual who received a health screening and subsequent medical treatment upon release from CBP custody.
+- **(i)** *Infrastructure and equipment* The Commissioner or the Administrator of General Services shall ensure that each location to which detainees are first transported after an initial encounter with an agent or officer of CBP has the following:
+  - **(1)** A private space that provides a comfortable and considerate atmosphere for the patient and that ensures the patient’s dignity and right to privacy during the health screening and medical assessment and any necessary follow-up care.
+  - **(2)** All necessary and appropriate medical equipment and facilities to conduct the health screenings and follow-up care required under this section, to treat trauma, to provide emergency care, including resuscitation of individuals of all ages, and to prevent the spread of communicable diseases.
+  - **(3)** Basic over-the-counter medications appropriate for all age groups.
+  - **(4)** Appropriate transportation to medical facilities in the case of a medical emergency, or an on-call service with the ability to arrive at the CBP facility within 30 minutes.
+- **(j)** *Personnel* The Commissioner or the Administrator of General Services shall ensure that each location to which detainees are first transported after an initial encounter has onsite at least one licensed medical professional to conduct health screenings. Other personnel that are or may be necessary for carrying out the functions described in subsection (e), such as licensed emergency care professionals, specialty physicians (including physicians specializing in pediatrics, family medicine, obstetrics and gynecology, geriatric medicine, internal medicine, and infectious diseases), nurse practitioners, other nurses, physician assistants. licensed social workers, mental health professionals, public health professionals, dieticians, interpreters, and chaperones, shall be located on site to the extent practicable, or if not practicable, shall be available on call.
+- **(k)** *Ethical guidelines* The Commissioner shall ensure that all medical assessments and procedures conducted pursuant to this section are conducted in accordance with ethical guidelines in the applicable medical field, and respect human dignity.
 
-## § 3. Water, sanitation, and hygiene
+## § 3. Water, sanitation and hygiene
 
-The Commissioner shall ensure that a detainee has access to the following:
+The Commissioner shall ensure that detainees have access to—
 
-- **(1)** Not less than one gallon of drinking water per day, including age-appropriate fluids.
-- **(2)** A private, safe, clean, and reliable toilet with proper waste disposal and a hand washing station, with not less than one toilet available for every 12 male detainees, and 1 toilet per 8 female detainees.
-- **(3)** A clean diaper changing facility, which includes proper waste disposal, a hand washing station, and unrestricted access to diapers.
-- **(4)** Accommodations to ensure hygiene for elderly individuals and individuals with disabilities.
-- **(5)** The opportunity to bathe every day in a private and secure manner.
-- **(6)** Adult diapers, in the case of an individual who is incontinent.
-- **(7)** Products to maintain basic personal hygiene, including—
-  - **(A)** soap, a toothbrush, toothpaste, and feminine hygiene products; and
-  - **(B)** proper handling and disposal methods for used products.
+- **(1)** not less than one gallon of drinking water per person per day, and age-appropriate fluids as needed;
+- **(2)** a private, safe, clean, and reliable permanent or portable toilet with proper waste disposal and a hand washing station, with not less than one toilet available for every 12 male detainees, and 1 toilet for every 8 female detainees;
+- **(3)** a clean diaper changing facility, which includes proper waste disposal, a hand washing station, and unrestricted access to diapers;
+- **(4)** the opportunity to bathe daily in a permanent or portable shower that is private and secure; and
+- **(5)** products for individuals of all age groups and with disabilities to maintain basic personal hygiene, including soap, a toothbrush, toothpaste, adult diapers, and feminine hygiene products, as well as receptacles for the proper storage and disposal of such products.
 
 ## § 4. Food and nutrition
 
-The Commissioner shall ensure that a detainee has access to the following:
+The Commissioner shall ensure that detainees have access to—
 
-- **(1)** In the case of an individual age 12 or older, a diet that contains not less than 2,000 calories per day.
-- **(2)** In the case of a child who is under the age of 12, a diet that contains an appropriate number of calories per day based on the child’s age and weight.
-- **(3)** Three meals per day.
-- **(4)** Accommodations for any dietary need or restriction in the case of a pregnant or breastfeeding woman, an infant, a child, an elderly individual, an individual with a disability, an individual with a food allergy, or an individual with religious dietary restrictions.
-- **(5)** Access to food in a manner that follows applicable food safety standards.
+- **(1)** three meals per day including—
+  - **(A)** in the case of an individual age 12 or older, a diet that contains not less than 2,000 calories per day; and
+  - **(B)** in the case of a child who is under the age of 12, a diet that contains an appropriate number of calories per day based on the child’s age and weight;
+- **(2)** accommodations for any dietary needs or restrictions; and
+- **(3)** access to food in a manner that follows applicable food safety standards.
 
 ## § 5. Shelter
 
 The Commissioner shall ensure that each facility at which a detainee is detained meets the following requirements:
 
 - **(1)** Except as provided in paragraph (2), males and females shall be detained separately.
-- **(2)** In the case of a minor child arriving in the United States with an adult relative or legal guardian, such child shall be detained with such relative or legal guardian, with family cohesion maintained—
-  - **(A)** unless this arrangement incites safety or security concerns; and
-  - **(B)** in no case shall such minor be detained apart from such adult relative or legal guardian, pursuant to subparagraph (A), with other adults.
-- **(3)** In the case of a minor child arriving in the United States without an adult relative or legal guardian, such child—
-  - **(A)** shall be detained in an age-appropriate facility; and
-  - **(B)** shall not be detained with adults.
-- **(4)** A detainee with a disability, including a temporary disability, shall be held in a manner that provides for his or her safety, comfort, and security.
-- **(5)** There shall be no less than 2 square meters of space for each detainee.
+- **(2)** In the case of a minor child arriving in the United States with an adult relative or legal guardian, such child shall be detained with such relative or legal guardian unless such an arrangement poses safety or security concerns. In no case shall a minor who is detained apart from an adult relative or legal guardian as a result of such safety or security concerns be detained with other adults.
+- **(3)** In the case of an unaccompanied minor arriving in the United States without an adult relative or legal guardian, such child shall be detained in an age-appropriate facility and shall not be detained with adults.
+- **(4)** A detainee with a temporary or permanent disability shall be held in an accessible location and in a manner that provides for his or her safety, comfort, and security, with accommodations provided as needed.
+- **(5)** No detainee shall be placed in a room for any period of time if the detainee’s placement would exceed the maximum occupancy level as determined by the appropriate building code, fire marshal, or other authority.
 - **(6)** Each detainee shall be provided with temperature appropriate clothing and bedding.
 - **(7)** The facility shall be well lit and well ventilated, with the humidity and temperature kept at comfortable levels (between 68 and 74 degrees Fahrenheit).
-- **(8)** Detainees shall have access to the outdoors for not less than 1 hour during the daylight hours during each 24-hour period.
+- **(8)** Detainees who are in custody for more than 48 hours shall have access to the outdoors for not less than 1 hour during the daylight hours during each 24-hour period.
 - **(9)** Detainees shall have the ability to practice their religion or not to practice a religion, as applicable.
-- **(10)** Detainees shall have access to sufficient time for sleeping without unnecessary disturbances (including light and noise) throughout the night, between the hours of 10 p.m. and 6 a.m.
+- **(10)** Detainees shall have access to lighting and noise levels that are safe and conducive for sleeping throughout the night between the hours of 10 p.m. and 6 a.m.
 - **(11)** Officers, employees, and contracted personnel of CBP shall—
   - **(A)** follow medical standards for the isolation and prevention of communicable diseases; and
-  - **(B)** ensure the physical and mental safety of lesbian, gay, bisexual, transgender, and intersex detainees.
-- **(12)** The facility shall have video-monitoring—
-  - **(A)** to provide for the safety of children and disabled individuals, or any safety need considerations; and
-  - **(B)** to prevent the sexual abuse or physical harm of vulnerable detainees.
+  - **(B)** ensure the physical and mental safety of detainees who identify as lesbian, gay, bisexual, transgender, and intersex.
+- **(12)** The facility shall have video-monitoring to provide for the safety of the detained population and to prevent sexual abuse and physical harm of vulnerable detainees.
+- **(13)** The Commissioner shall ensure that language-appropriate “Detainee Bill of Rights”, including indigenous languages, are posted or otherwise made available in all areas where detainees are located. The “Detainee Bill of Rights” shall include all rights afforded to the detainee under this Act.
+- **(14)** Video from video-monitoring must be preserved for 90 days and the detention facility must maintain certified records that the video-monitoring is properly working at all times.
 
-## § 6. Coordination and surge capacity
+## § 6. Coordination and Surge capacity
 
-The Secretary of Homeland Security, acting through the Commissioner or an operational commander or other appropriate official within the Department of Homeland Security, shall enter into memoranda of understanding with appropriate Federal agencies, such as the Department of Health and Human Services, the Federal Emergency Management Agency, and applicable emergency government relief services, and contracts with health care, public health, social work, and transportation professionals, for purposes of coordinating—
-
-- **(1)** compliance with this Act; and
-- **(2)** addressing surge capacity.
+The Secretary of Homeland Security shall enter into memoranda of understanding with appropriate Federal agencies, such as the Department of Health and Human Services, and applicable emergency government relief services, as well as contracts with health care, public health, social work, and transportation professionals, for purposes of addressing surge capacity and ensuring compliance with this Act.
 
 ## § 7. Training
 
-The Commissioner shall ensure that personnel of CBP are professionally trained to focus on the following:
+The Commissioner shall ensure that CBP personnel assigned to each short-term custodial facility are professionally trained, including continuing education as the Commissioner deems appropriate, in all subjects necessary to ensure compliance with this Act, including—
 
-- **(1)** Annual humanitarian response and standards training to comply with this Act.
-- **(2)** Evidence of physical and mental illness, including common signs of high-risk and medical distress in children and high-priority populations.
-- **(3)** Vulnerabilities and indicators of child sexual exploitation and effective responses to missing migrant children including by leveraging the resources of the National Center for Missing and Exploited Children.
-- **(4)** Procedures to report incidents of suspected child sexual abuse and exploitation directly to the CyberTipline of the National Center for Missing and Exploited Children (or any successor tipline).
+- **(1)** humanitarian response protocols and standards;
+- **(2)** indicators of physical and mental illness, and medical distress in children and adults;
+- **(3)** indicators of child sexual exploitation and effective responses to missing migrant children; and
+- **(4)** procedures to report incidents of suspected child sexual abuse and exploitation directly to the National Center for Missing and Exploited Children.
 
 ## § 8. Interfacility transfer of care
 
-- **(a)** *Transfer* When a detainee is discharged from a medical facility or emergency department, the Commissioner shall ensure a transfer of responsibility of care from the medical provider at such medical facility or emergency department to an accepting licensed health care provider of CBP.
-- **(b)** *Responsibilities of accepting provider* Such accepting licensed health care provider shall review the medical facility or emergency department’s evaluation, diagnosis, treatment, management, and discharge care instructions—
-  - **(1)** to assess for the safety of the discharge and transfer; and
-  - **(2)** to provide necessary follow-up care.
+- **(a)** *Transfer* When a detainee is discharged from a medical facility or emergency department, the Commissioner shall ensure that responsibility of care is transferred from the medical facility or emergency department to an accepting licensed health care provider of CBP.
+- **(b)** *Responsibilities of accepting providers* Such accepting licensed health care provider shall review the medical facility or emergency department’s evaluation, diagnosis, treatment, management, and discharge care instructions to assess the safety of the discharge and transfer and to provide necessary follow-up care.
 
 ## § 9. Planning and initial implementation
 
-- **(a)** *Planning* No later than 30 days after the date of enactment of this Act, the Secretary of Homeland Security shall submit a detailed plan to the Congress delineating the timeline, process, and challenges of carrying this Act.
-- **(b)** *Implementation* The Secretary of Homeland Security shall ensure that this Act is implemented not later than 6 months after the date of enactment of this Act.
+- **(a)** *Planning* Not later than 60 days after the date of enactment of this Act, the Secretary of Homeland Security shall submit to Congress a detailed plan delineating the timeline, process, and challenges of carrying out the requirements of this Act.
+- **(b)** *Implementation* The Secretary of Homeland Security shall ensure that the requirements of this Act are implemented not later than 6 months after the date of enactment.
 
 ## § 10. Contractor compliance
 
@@ -167,20 +128,36 @@ The Secretary of Homeland Security shall ensure that all personnel contracted to
 ## § 11. Inspections
 
 - **(a)** *In general* The Inspector General of the Department of Homeland Security shall—
-  - **(1)** conduct unannounced inspections of ports of entry, border patrol stations, and detention facilities of or administered by CBP or contractors of CBP; and
-  - **(2)** submit to the Congress reports on the results of the inspections under paragraph (1) and other reports of the Inspector General related to custody operations.
+  - **(1)** conduct unannounced inspections of ports of entry, border patrol stations, and detention facilities administered by CBP or contractors of CBP; and
+  - **(2)** submit to Congress, reports on the results of such inspections as well as other reports of the Inspector General related to custody operations.
 - **(b)** *Particular attention* In carrying out subsection (a), the Inspector General of the Department of Homeland Security shall pay particular attention to—
   - **(1)** the degree of compliance by CBP with the requirements of this Act;
   - **(2)** remedial actions taken by CBP; and
-  - **(3)** the health needs of the detainees.
+  - **(3)** the health needs of detainees.
+- **(c)** *Access to facilities* The Commissioner may not deny a Member of Congress entrance to any facility or building used, owned, or operated by CBP.
 
 ## § 12. GAO report
 
 - **(a)** *In general* The Comptroller General of the United States shall—
   - **(1)** not later than 6 months after the date of enactment of this Act, commence a study on implementation of, and compliance with, this Act; and
-  - **(2)** not later than 1 year after the date of enactment of this Act, submit a report to the Congress on the results of such study.
-- **(b)** *Issues To be studied* The study required by subsection (a) shall examine the management and oversight by CBP of ports of entry, border patrol stations, and other detention facilities, including the extent to which CBP and the Department of Homeland Security have effective processes in place to comply with this Act.
+  - **(2)** not later than 1 year after the date of enactment of this Act, submit a report to Congress on the results of such study.
+- **(b)** *Issues to be studied* The study required by subsection (a) shall examine the management and oversight by CBP of ports of entry, border patrol stations, and other detention facilities, including the extent to which CBP and the Department of Homeland Security have effective processes in place to comply with this Act. The study shall also examine the extent to which CBP personnel, in carrying out this Act, make abusive, derisive, profane, or harassing statements or gestures, or engage in any other conduct evidencing hatred or invidious prejudice to or about one person or group on account of race, color, religion, national origin, sex, sexual orientation, age, or disability, including on social media.
 
 ## § 13. Rule of construction
 
 Nothing in this Act shall be construed to authorize CBP to detain individuals for longer than 72 hours.
+
+## § 14. Definitions
+
+In this Act:
+
+- **(1)** *Interpretation services* The term “interpretation services” includes translation services that are performed either in-person or through a telephone or video service.
+- **(2)** *Child* The term “child” has the meaning given the term in section 101(b)(1) of the Immigration and Nationality Act (8 U.S.C. 1101(b)(1)).
+- **(3)** *U.S. customs and border protection facility* The term “U.S. Customs and Border Protection Facility” includes—
+  - **(A)** U.S. Border Patrol stations;
+  - **(B)** ports of entry;
+  - **(C)** checkpoints;
+  - **(D)** forward operating bases;
+  - **(E)** secondary inspection areas; and
+  - **(F)** short-term custody facilities.
+- **(4)** *Forward operating base* The term “forward operating base” means a permanent facility established by CBP in forward or remote locations, and designated as such by CBP.

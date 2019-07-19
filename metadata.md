@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3239
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3239
@@ -16,7 +16,7 @@ Humanitarian Standards for Individuals in Customs and Border Protection Custody 
 
 - Rep. Ruiz, Raul [D-CA-36] (R000599)
 
-## Cosponsors (112)
+## Cosponsors (160)
 
 - Rep. Castro, Joaquin [D-TX-20] (C001091)
 - Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
@@ -130,6 +130,54 @@ Humanitarian Standards for Individuals in Customs and Border Protection Custody 
 - Rep. Panetta, Jimmy [D-CA-20] (P000613)
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 - Rep. DelBene, Suzan K. [D-WA-1] (D000617)
+- Rep. Sánchez, Linda T. [D-CA-38] (S001156)
+- Rep. Welch, Peter [D-VT-At Large] (W000800)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. Himes, James A. [D-CT-4] (H001047)
+- Rep. Davids, Sharice [D-KS-3] (D000629)
+- Rep. Lowey, Nita M. [D-NY-17] (L000480)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. DeFazio, Peter A. [D-OR-4] (D000191)
+- Rep. Tlaib, Rashida [D-MI-13] (T000481)
+- Rep. Neguse, Joe [D-CO-2] (N000191)
+- Rep. Schrier, Kim [D-WA-8] (S001216)
+- Rep. Khanna, Ro [D-CA-17] (K000389)
+- Rep. Meng, Grace [D-NY-6] (M001188)
+- Rep. Bera, Ami [D-CA-7] (B001287)
+- Rep. Bustos, Cheri [D-IL-17] (B001286)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Higgins, Brian [D-NY-26] (H001038)
+- Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
+- Rep. Wasserman Schultz, Debbie [D-FL-23] (W000797)
+- Rep. Malinowski, Tom [D-NJ-7] (M001203)
+- Rep. Wilson, Frederica S. [D-FL-24] (W000808)
+- Rep. Rice, Kathleen M. [D-NY-4] (R000602)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Wexton, Jennifer [D-VA-10] (W000825)
+- Rep. Fletcher, Lizzie [D-TX-7] (F000468)
+- Rep. Quigley, Mike [D-IL-5] (Q000023)
+- Rep. Shalala, Donna E. [D-FL-27] (S001206)
+- Rep. Norcross, Donald [D-NJ-1] (N000188)
+- Rep. Kuster, Ann M. [D-NH-2] (K000382)
+- Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Cooper, Jim [D-TN-5] (C000754)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Trone, David J. [D-MD-6] (T000483)
+- Rep. Houlahan, Chrissy [D-PA-6] (H001085)
+- Rep. Correa, J. Luis [D-CA-46] (C001110)
+- Rep. Eshoo, Anna G. [D-CA-18] (E000215)
+- Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Crist, Charlie [D-FL-13] (C001111)
+- Rep. Evans, Dwight [D-PA-3] (E000296)
+- Rep. Scanlon, Mary Gay [D-PA-5] (S001205)
+- Rep. Sewell, Terri A. [D-AL-7] (S001185)
+- Rep. Garcia, Sylvia R. [D-TX-29] (G000587)
+- Rep. Beyer, Donald S., Jr. [D-VA-8] (B001292)
+- Rep. McBath, Lucy [D-GA-6] (M001208)
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
 
 ## Committees (2)
 
@@ -143,3 +191,12 @@ Humanitarian Standards for Individuals in Customs and Border Protection Custody 
 - 2019-06-12 — Introduced in House
 - 2019-06-12 — Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-06-12 — Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-06-25 — Referred to the Subcommittee on Border Security, Facilitation, and Operations.
+- 2019-06-28 — Referred to the Subcommittee on Immigration and Citizenship.
+- 2019-07-17 — Committee Consideration and Mark-up Session Held.
+- 2019-07-17 — Ordered to be Reported by the Yeas and Nays: 18 - 13.
+- 2019-07-19 — Committee on Homeland Security discharged.
+- 2019-07-19 — Committee on Homeland Security discharged.
+- 2019-07-19 — Placed on the Union Calendar, Calendar No. 121.
+- 2019-07-19 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-162, Part I.
+- 2019-07-19 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-162, Part I.
