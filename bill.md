@@ -1,0 +1,17 @@
+---
+legis-num: H.R. 3856
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3856
+
+> To amend the Immigration and Nationality Act to reform asylum procedures related to safe third countries, and for other purposes.
+
+## § 1. Safe third country
+
+Section 208(a)(2)(A) of the Immigration and Nationality Act (8 U.S.C. 1158(a)(2)(A)) is amended—
+
+- **(1)** by striking “Attorney General” each place it appears and inserting “Secretary of Homeland Security”; and
+- **(2)** by striking “removed, pursuant to a bilateral or multilateral agreement, to” and inserting “removed to”.
