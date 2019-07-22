@@ -1,7 +1,7 @@
 ---
 measure: S. 1521
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1521
@@ -30,3 +30,7 @@ A bill to amend section 327 of the Robert T. Stafford Disaster Relief and Emerge
 
 - 2019-05-16 — Introduced in Senate
 - 2019-05-16 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2019-06-19 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2019-07-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-60.
+- 2019-07-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-60.
+- 2019-07-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 159.
