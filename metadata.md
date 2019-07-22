@@ -1,7 +1,7 @@
 ---
 measure: H.R. 582
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 582
@@ -270,3 +270,4 @@ Raise the Wage Act
 - 2019-07-18 — Rule provides for consideration of H.R. 582 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order.
 - 2019-07-18 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-07-18 — The previous question was ordered on the amendment (A002) and on the bill pursuant to the rule.
+- 2019-07-22 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 156.
