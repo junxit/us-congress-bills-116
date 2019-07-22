@@ -17,7 +17,7 @@ This Act may be cited as the “Poison Center Network Enhancement Act of 2019”
 
 Section 1271 of the Public Health Service Act (42 U.S.C. 300d–71) is amended—
 
-- **(1)** in the section heading, by inserting before the period the following: “and Other Communication Capabilities”;
+- **(1)** in the section heading, by inserting before the period the following: “and Other Communication Capabilities”; and
 - **(2)** by striking subsection (a) and inserting the following:
   > - **(a)** *In general* The Secretary—
   >   - **(1)** shall provide coordination and assistance to poison control centers for the establishment and maintenance of a nationwide toll-free phone number, to be used to access such centers; and
@@ -42,7 +42,7 @@ Section 1272 of the Public Health Service Act (42 U.S.C. 300d–72) is amended�
   - **(C)** by striking “established under” and inserting “and other available communication technologies established, implemented, or maintained under”;
 - **(3)** in subsection (b)—
   - **(A)** in the matter preceding paragraph (1), by striking “nationwide poison prevention” and inserting “nationwide poisoning and toxic exposure prevention”; and
-  - **(B)** in paragraph (1), by striking “poison prevention and poison control center” and inserting “poisoning and toxic exposure prevention awareness materials, applicable public health emergency preparedness and response information, and poison control center” after “distribution of”;
+  - **(B)** in paragraph (1), by striking “poison prevention and poison control center” and inserting “poisoning and toxic exposure prevention awareness materials, applicable public health emergency preparedness and response information, and poison control center” after “distribution of”; and
 - **(4)** by striking subsection (c);
 - **(5)** by redesignating subsection (d) as subsection (c); and
 - **(6)** in subsection (c) (as so redesignated), by striking “2015 through 2019” and inserting “2020 through 2024”.
@@ -51,7 +51,7 @@ Section 1272 of the Public Health Service Act (42 U.S.C. 300d–72) is amended�
 
 Section 1273 of the Public Health Service Act (42 U.S.C. 300d–73) is amended—
 
-- **(1)** in subsection (a), by inserting “and toxic exposures” after “poisonings”;
+- **(1)** in subsection (a), by inserting “and toxic exposures” after “poisonings”; and
 - **(2)** in subsection (b)—
   - **(A)** in paragraph (1)—
     - **(i)** by striking “for poison” and inserting “for poisoning and toxic exposure”; and
@@ -60,8 +60,10 @@ Section 1273 of the Public Health Service Act (42 U.S.C. 300d–73) is amended�
     - **(i)** by striking “United States and” and inserting “United States,”; and
     - **(ii)** by inserting before the semicolon the following: “, and other government agencies as determined to be appropriate and nonduplicative by the Secretary”; and
   - **(C)** in paragraph (8), by striking “calls” and inserting “contacts”;
-- **(3)** in subsection (d), by striking paragraph (3) and inserting the following:
-  > - **(3)** *Limitation* In no case may the sum of the number of years for a waiver under this subsection exceed 5 years. Notwithstanding any previous waivers, in the case of a poison control center whose accreditation is affected by a public health emergency declared pursuant to section 319, the Secretary may, as the circumstances of the emergency reasonably require, provide a waiver under paragraph (1) or a renewal under paragraph (2) for up to 2 years.
+- **(3)** in subsection (d) , by striking paragraph (3) and inserting the following:
+  > - **(3)** *Limitation*
+  >   - **(A)** *In general* The sum of the number of years for a waiver under paragraph (1) and a renewal under paragraph (2) may not exceed 5 years.
+  >   - **(B)** *Public health emergency* Notwithstanding any previous waivers, in the case of a poison control center whose accreditation is affected by a public health emergency declared pursuant to section 319, the Secretary may, as the circumstances of the emergency reasonably require, provide a waiver under paragraph (1) or a renewal under paragraph (2), not to exceed 2 years. The Secretary may require quarterly reports and other information related to such a waiver or renewal under this paragraph.
 
 - **(4)** by striking subsection (f) and inserting the following:
   > - **(f)** *Maintenance of effort* With respect to activities for which a grant is awarded under this section, the Secretary may require that poison control centers agree to maintain the expenditures of the center for such activities at a level that is not less than the level of expenditures maintained by the center for the fiscal year preceding the fiscal year for which the grant is received.
