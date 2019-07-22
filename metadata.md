@@ -1,7 +1,7 @@
 ---
 measure: H.R. 748
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 748
@@ -408,3 +408,5 @@ CARES Act
 - 2019-07-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 6 (Roll no. 493). (text: CR H5958-5959)
 - 2019-07-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 6 (Roll no. 493).(text: CR H5958-5959)
 - 2019-07-17 — The Chair announced the Speaker's designation, pursuant to clause 7(a)(1) of rule 15, of H.R. 748 as the measure on the Consensus Calendar to be considered this week.
+- 2019-07-18 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2019-07-22 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 157.
