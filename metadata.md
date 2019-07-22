@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3504
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3504
@@ -30,3 +30,7 @@ Ryan Kules and Paul Benne Specially Adaptive Housing Improvement Act of 2019
 - 2019-06-26 — Introduced in House
 - 2019-06-26 — Introduced in House
 - 2019-06-26 — Referred to the House Committee on Veterans' Affairs.
+- 2019-07-08 — Referred to the Subcommittee on Economic Opportunity.
+- 2019-07-22 — Placed on the Union Calendar, Calendar No. 124.
+- 2019-07-22 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 116-164.
+- 2019-07-22 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 116-164.
