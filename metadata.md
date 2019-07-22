@@ -1,7 +1,7 @@
 ---
 measure: S. 1199
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1199
@@ -32,3 +32,5 @@ Poison Center Network Enhancement Act of 2019
 - 2019-07-09 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
 - 2019-07-09 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
 - 2019-07-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 138.
+- 2019-07-22 — Passed Senate with an amendment by Voice Vote. (consideration: CR S4969; text: CR S4969)
+- 2019-07-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S4969; text: CR S4969)
