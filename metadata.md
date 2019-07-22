@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 19
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 19
@@ -48,9 +48,10 @@ A concurrent resolution celebrating the 50th anniversary of the Apollo 11 Moon l
 - Sen. Warren, Elizabeth [D-MA] (W000817)
 - Sen. Cantwell, Maria [D-WA] (C000127)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Science, Space, and Technology Committee
 
 ## Actions
 
@@ -60,3 +61,6 @@ A concurrent resolution celebrating the 50th anniversary of the Apollo 11 Moon l
 - 2019-07-18 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 6/5/2019 S3265-3266)
 - 2019-07-18 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S4955)
 - 2019-07-18 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S4955)
+- 2019-07-22 — Message on Senate action sent to the House.
+- 2019-07-22 — Received in the House.
+- 2019-07-22 — Referred to the House Committee on Science, Space, and Technology.

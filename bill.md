@@ -2,7 +2,7 @@
 legis-num: S. CON. RES. 19
 congress: 116th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # S. CON. RES. 19
@@ -14,8 +14,8 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas, on May 25, 1961, President John F. Kennedy, Jr., before a joint session of Congress, declared, “Now it is time to take longer strides—time for a great new American enterprise—time for this Nation to take a clearly leading role in space achievement, which in many ways may hold the key to our future on Earth”, setting the goal of sending astronauts to the Moon and returning them safely to the Earth;
 - Whereas the National Aeronautics and Space Administration (in this preamble referred to as “NASA”) mobilized and established the Apollo space program to meet the goal set by President Kennedy;
 - Whereas the Apollo space program built on the achievements of the prior space programs of NASA, including the Mercury and Gemini missions;
-- Whereas the successful Moon landing honored the tragic sacrifice of every astronaut whose life had previously been lost in the service of United States spaceflight research, including—(1)Roger B. Chaffee, Virgil I. “Gus” Grissom, and Edward H. White II, the astronauts whose lives were lost during pre-flight tests for Apollo 1; and(2)Theodore C. Freeman, Charles A. Bassett II, Elliot See, Jr., Robert H. Lawrence, Jr., Michael J. Adams, and Clifton C. Williams, Jr.;
-- Whereas the crew of the Apollo 11 mission consisted of—(1)Neil Armstrong, Mission Commander;(2)Edwin E. “Buzz” Aldrin, Lunar Module Pilot; and(3)Michael Collins, Command Module Pilot;
+- Whereas the successful Moon landing honored the tragic sacrifice of every astronaut whose life had previously been lost in the service of United States spaceflight research, including— (1)Roger B. Chaffee, Virgil I. “Gus” Grissom, and Edward H. White II, the astronauts whose lives were lost during pre-flight tests for Apollo 1; and (2)Theodore C. Freeman, Charles A. Bassett II, Elliot See, Jr., Robert H. Lawrence, Jr., Michael J. Adams, and Clifton C. Williams, Jr.;
+- Whereas the crew of the Apollo 11 mission consisted of— (1)Neil Armstrong, Mission Commander; (2)Edwin E. “Buzz” Aldrin, Lunar Module Pilot; and (3)Michael Collins, Command Module Pilot;
 - Whereas James A. Lovell, Jr., Fred W. Haise, Jr., and William A. Anders stood ready to support or stand in for the Apollo 11 crew;
 - Whereas, on July 16, 1969, the Apollo 11 crew launched from the NASA Launch Operations Center, now known as the John F. Kennedy Space Center, aboard a Saturn V rocket;
 - Whereas, on July 20, 1969, Neil Armstrong and Buzz Aldrin landed the Eagle Lunar Module on the surface of the Moon, and Neil Armstrong said to Mission Control in Houston, Texas, “Houston, Tranquility Base here. The Eagle has landed.”;
