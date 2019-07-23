@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3153
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3153
@@ -57,3 +57,9 @@ Expanding Findings for Federal Opioid Research and Treatment Act
 - 2019-06-27 — Placed on the Union Calendar, Calendar No. 95.
 - 2019-06-27 — Reported by the Committee on Science, Space, and Technology. H. Rept. 116-131.
 - 2019-06-27 — Reported by the Committee on Science, Space, and Technology. H. Rept. 116-131.
+- 2019-07-23 — Considered under suspension of the rules. (consideration: CR H7172-7173)
+- 2019-07-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3153.
+- 2019-07-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-07-23 — Ms. Johnson (TX) moved to suspend the rules and pass the bill.
+- 2019-07-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7172)
+- 2019-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7172)
