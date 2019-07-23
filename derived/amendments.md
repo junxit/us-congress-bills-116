@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2507
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-22 amendatory instructions. 13 executed, 9 stated and not applied.
+30 amendatory instructions. 16 executed, 14 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,33 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 42 U.S.C. § 300b-8
+
+> in paragraph (1), by striking “enhance, improve or” and inserting “facilitate, enhance, improve, or”;
+
+| | |
+|---|---|
+| Removed | `enhance, improve or` |
+| Inserted | `facilitate, enhance, improve, or` |
+
+### 42 U.S.C. § 300b-8
+
+> by striking “followup” and inserting “follow-up”; and
+
+| | |
+|---|---|
+| Removed | `followup` |
+| Inserted | `follow-up` |
+
+### 42 U.S.C. § 300b-8
+
+> by striking “or will use” and inserting “will use”; and
+
+| | |
+|---|---|
+| Removed | `or will use` |
+| Inserted | `will use` |
 
 ### 42 U.S.C. § 300b-10
 
@@ -150,10 +177,15 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 300b-8` | amend | Section 1109(a)(3) of the Public Health Service Act (42 U.S.C. 300b–8(a)(3)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-8` | amend | by amending paragraph (3) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-8` | insert | by inserting before the semicolon at the end the following: “, including re-engaging patients who have not received recommended follow-up services and supports”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-8` | insert | by inserting “, or will use amounts received under such grant to enhance capacity and infrastructure to facilitate the adoption of,” before “the guidelines and recommendations”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 300b-10` | insert | in paragraph (5), by inserting “and adopt process improvements” after “take appropriate steps”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 300b-10` | strike | in paragraph (7) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 300b-10` | redesignate | by redesignating paragraph (8) as paragraph (9); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-10` | redesignate | by redesignating paragraph (8) as paragraph (9); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300b-10` | insert | by inserting after paragraph (7) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-10` | redesignate | by redesignating subparagraphs (K) and (L) as subparagraphs (L) and (M), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-10` | insert | by inserting after subparagraph (J) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300b-12` | strike | by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 300b-12` | replace | by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 300b-12` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

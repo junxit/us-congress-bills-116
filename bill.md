@@ -15,21 +15,38 @@ This Act may be cited as the “Newborn Screening Saves Lives Reauthorization Ac
 
 ## § 2. Improved newborn and child screening and follow-up for heritable disorders
 
-Section 1109(a)(3) of the Public Health Service Act (42 U.S.C. 300b–8(a)(3)) is amended to read as follows:
+- **(a)** *Purposes* Section 1109(a) of the Public Health Service Act (42 U.S.C. 300b–8(a)) is amended—
+  - **(1)** in paragraph (1), by striking “enhance, improve or” and inserting “facilitate, enhance, improve, or”;
+  - **(2)** by amending paragraph (3) to read as follows:
+    > - **(3)** to develop, and deliver to parents, families, and patient advocacy and support groups, educational programs that—
+    >   - **(A)** address newborn screening counseling, testing (including newborn screening pilot studies), follow-up, treatment, specialty services, and long-term care;
+    >   - **(B)** assess the target audience’s current knowledge, incorporate health communications strategies, and measure impact; and
+    >   - **(C)** are at appropriate literacy levels;
 
-> - **(3)** to develop and deliver educational programs (at appropriate literacy levels) about newborn screening counseling, testing, follow-up, treatment, specialty services, and long-term care to parents, families, and patient advocacy and support groups that assess the target audience’s current knowledge, incorporate health communications strategies, and measure impact;
+  - **(3)** in paragraph (4)—
+    - **(A)** by striking “followup” and inserting “follow-up”; and
+    - **(B)** by inserting before the semicolon at the end the following: “, including re-engaging patients who have not received recommended follow-up services and supports”.
+- **(b)** *Approval factors* Section 1109(c) of the Public Health Service Act (42 U.S.C. 300b–8(c)) is amended—
+  - **(1)** by striking “or will use” and inserting “will use”; and
+  - **(2)** by inserting “, or will use amounts received under such grant to enhance capacity and infrastructure to facilitate the adoption of,” before “the guidelines and recommendations”.
 
 ## § 3. Advisory committee on heritable disorders in newborns and children
 
 Section 1111 of the Public Health Service Act (42 U.S.C. 300b–10) is amended—
 
 - **(1)** in subsection (b)—
-  - **(A)** in paragraph (7) by striking “and” at the end;
-  - **(B)** by redesignating paragraph (8) as paragraph (9); and
-  - **(C)** by inserting after paragraph (7) the following:
+  - **(A)** in paragraph (5), by inserting “and adopt process improvements” after “take appropriate steps”;
+  - **(B)** in paragraph (7) by striking “and” at the end;
+  - **(C)** by redesignating paragraph (8) as paragraph (9);
+  - **(D)** by inserting after paragraph (7) the following:
     > - **(8)** develop, maintain, and publish on a publicly accessible website consumer-friendly materials detailing—
     >   - **(A)** the uniform screening panel nomination process, including data requirements, standards, and the use of international data in nomination submissions; and
     >   - **(B)** the process for obtaining technical assistance for submitting nominations to the uniform screening panel and detailing the instances in which the provision of technical assistance would introduce a conflict of interest for members of the Advisory Committee; and
+
+  - **(E)** in paragraph (9), as redesignated—
+    - **(i)** by redesignating subparagraphs (K) and (L) as subparagraphs (L) and (M), respectively; and
+    - **(ii)** by inserting after subparagraph (J) the following:
+      > - **(K)** the appropriate and recommended use of safe and effective genetic testing by health care professionals in newborns and children with an initial diagnosis of a disease or condition characterized by a variety of genetic causes and manifestations;
 
 - **(2)** in subsection (g)—
   - **(A)** in paragraph (1) by striking “2019” and inserting “2024”; and
@@ -103,8 +120,10 @@ Section 12 of the Newborn Screening Saves Lives Reauthorization Act of 2014 (42 
   - **(5)** Technological and other infrastructure needs to improve timeliness of diagnosis and short- and long-term follow-up for infants identified through newborn screening and improve public health surveillance.
   - **(6)** Current and future communication and educational needs for priority stakeholders and the public to promote understanding and knowledge of a modernized newborn screening system with an emphasis on evolving communication channels and messaging.
   - **(7)** The extent to which newborn screening yields better data on the disease prevalence for screened conditions and improves long-term outcomes for those identified through newborn screening, including existing systems supporting such data collection and recommendations for systems that would allow for improved data collection.
-- **(b)** *Report* Not later than 18 months after the effective date of the agreement under subsection (a), such agreement shall require NAM, or such other appropriate entity, to submit to the Secretary of Health and Human Services and the appropriate committees of jurisdiction of Congress a report containing—
+  - **(8)** The impact on newborn morbidity and mortality in States that adopt newborn screening tests included on the uniform panel.
+- **(b)** *Public stakeholder meeting* In the course of completing the study described in subsection (a), NAM or such other appropriate entity shall hold not less than one public meeting to obtain stakeholder input on the topics of such study.
+- **(c)** *Report* Not later than 18 months after the effective date of the agreement under subsection (a), such agreement shall require NAM, or such other appropriate entity, to submit to the Secretary of Health and Human Services and the appropriate committees of jurisdiction of Congress a report containing—
   - **(1)** the results of the study conducted under subsection (a);
   - **(2)** recommendations to modernize the processes described in subsection (a)(1); and
   - **(3)** recommendations for such legislative and administrative action as NAM, or such other appropriate entity, determines appropriate.
-- **(c)** *Authorization of appropriations* There is authorized to be appropriated $2,000,000 for the period of fiscal years 2020 and 2021 to carry out this section.
+- **(d)** *Authorization of appropriations* There is authorized to be appropriated $2,000,000 for the period of fiscal years 2020 and 2021 to carry out this section.
