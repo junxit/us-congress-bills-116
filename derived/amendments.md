@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3311
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -62,14 +62,14 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 78m` | redesignate | by redesignating subsections (i) through (k) as subsections (j) through (l), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 78m` | insert | by inserting after subsection (h) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 78m` | insert | in section 322(a), by inserting “1183,” after “1163,”; | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 78m` | insert | in subsection (a), by inserting “, other than a case under subchapter V of chapter 11,” after “7 or 11”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 78m` | insert | in subsection (a), by inserting “, other than a case under subchapter V of chapter 11” after “7 or 11”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 78m` | insert | in subsection (b), by inserting “subchapter V of chapter 11 or” after “In a case under”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 78m` | insert | by inserting “1194,” after “726,”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 78m` | insert | by inserting “subchapter V of chapter 11,” after “chapter 7,”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 78m` | insert | in subsection (b), by inserting “1194,” after “1173,”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 78m` | insert | in section 363(c)(1), by inserting “1183, 1184,” after “1108,”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 78m` | insert | in section 364(a), by inserting “1183, 1184,” after “1108,”; | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 78m` | insert | in section 523(a), in the matter preceding paragraph (1), by inserting “1192,” after “1141,”; | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 78m` | insert | in section 523(a), in the matter preceding paragraph (1), by inserting “1192” after “1141,”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 78m` | insert | in paragraph (1), by inserting “1192,” after “1141,”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 78m` | insert | in paragraph (3), by inserting “1192,” after “523,”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 78m` | insert | in subsection (c)(1), by inserting “1192,” after “1141,”; and | the bill quotes the text inserted but describes where it goes |
@@ -78,7 +78,7 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 78m` | replace | in section 1102(a), by striking paragraph (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 78m` | insert | in section 1146(a), by inserting “or 1191” after “1129”. | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 78m` | insert | in subsection (a)(3), by inserting “(including subchapter V of chapter 11)” after “7, 11”; | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 78m` | insert | in subsection (b), by inserting “subchapter V of chapter 11 or” after “cases under”; | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 78m` | insert | in subsection (b), by inserting “subchapter V of chapter 11 or” after “cases under” the first place it appears; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 78m` | insert | in subsection (d)(1), by inserting “subchapter V of chapter 11 or” after “cases under” each place that term appears; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 78m` | insert | in paragraph (1), by inserting “subchapter V of chapter 11 or” after “cases under”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 78m` | insert | in paragraph (2), by inserting “subchapter V of chapter 11 or” after “cases under” each place that term appears; and | the bill quotes the text inserted but describes where it goes |
