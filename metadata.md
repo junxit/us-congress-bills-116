@@ -1,7 +1,7 @@
 ---
 measure: S. 1883
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1883
@@ -31,3 +31,7 @@ Combating Money Laundering, Terrorist Financing, and Counterfeiting Act of 2019
 
 - 2019-06-18 — Introduced in Senate
 - 2019-06-18 — Read twice and referred to the Committee on the Judiciary.
+- 2019-07-18 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2019-07-23 — Committee on the Judiciary. Reported by Senator Graham with an amendment in the nature of a substitute. Without written report.
+- 2019-07-23 — Committee on the Judiciary. Reported by Senator Graham with an amendment in the nature of a substitute. Without written report.
+- 2019-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 160.
