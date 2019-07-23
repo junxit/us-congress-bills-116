@@ -18,8 +18,10 @@ This Act may be cited as the “Energy and Water Research Integration Act of 201
 - **(a)** *In general* The Secretary of Energy shall integrate water considerations into energy research, development, and demonstration programs and projects of the Department of Energy by—
   - **(1)** advancing energy and energy efficiency technologies and practices that meet the objectives of—
     - **(A)** minimizing freshwater withdrawal and consumption;
-    - **(B)** increasing water use efficiency; and
+    - **(B)** increasing water use efficiency;
     - **(C)** utilizing nontraditional water sources with efforts to improve the quality of the water from those sources;
+    - **(D)** minimizing deleterious impacts on water bodies, groundwater, and waterways; and
+    - **(E)** minimizing seismic impacts;
   - **(2)** considering the effects climate variability may have on water supplies and quality for energy generation and fuel production; and
   - **(3)** improving understanding of the energy-water nexus.
 - **(b)** *Strategic plan*
@@ -27,7 +29,7 @@ This Act may be cited as the “Energy and Water Research Integration Act of 201
   - **(2)** *Specific considerations* In developing the strategic plan, the Secretary shall consider—
     - **(A)** new advanced cooling technologies for energy generation and fuel production technologies;
     - **(B)** performance improvement of existing cooling technologies and cost reductions associated with using those technologies;
-    - **(C)** innovative water reuse, recovery, and treatment technologies in energy generation and fuel production;
+    - **(C)** innovative water reuse, recovery, and treatment technologies in energy generation and fuel production, including renewable energy;
     - **(D)** technology development for carbon capture and storage systems that utilize efficient water use design strategies;
     - **(E)** technologies that are life-cycle cost effective;
     - **(F)** systems analysis and modeling of issues relating to the energy-water nexus;
@@ -35,17 +37,20 @@ This Act may be cited as the “Energy and Water Research Integration Act of 201
     - **(H)** advanced materials for the use of nontraditional water sources for energy generation and fuel production;
     - **(I)** biomass production and utilization and the impact on hydrologic systems;
     - **(J)** technologies that reduce impacts on water from energy resource development;
-    - **(K)** energy efficient technologies for water distribution, treatment, and collection systems;
-    - **(L)** technologies for energy generation from water distribution, treatment, and collection systems; and
-    - **(M)** any other area of the energy-water nexus that the Secretary considers appropriate.
+    - **(K)** energy efficient technologies for water distribution, treatment, supply, and collection systems;
+    - **(L)** technologies for energy generation from water distribution, treatment, supply, and collection systems;
+    - **(M)** the flexible operation of water infrastructure to provide essential grid reliability services;
+    - **(N)** modular or energy-water microgrid systems that can provide energy and water resources in remote or disaster recovery areas;
+    - **(O)** recovering energy in the form of biofuels, bioproducts, and biopower from municipal and industrial wastewaters, and similar organic streams; and
+    - **(P)** any other area of the energy-water nexus that the Secretary considers appropriate.
   - **(3)** *Collaboration and nonduplication* In developing the strategic plan, the Secretary shall coordinate and avoid duplication—
     - **(A)** with other Federal agencies operating related programs, if appropriate; and
     - **(B)** across programs and projects of the Department, including with those of the National Laboratories.
   - **(4)** *Relevant information and recommendations* In developing the strategic plan, the Secretary shall consider and incorporate, as appropriate, relevant information and recommendations, including those of the National Water Availability and Use Assessment Program under section 9508(d) of the Omnibus Public Land Management Act of 2009 (42 U.S.C. 10368(d)).
-  - **(5)** *Additional participation* In developing the strategic plan, the Secretary shall consult and coordinate with a diverse group of representatives from research and academic institutions, industry, and State and local governments who have expertise in technologies and practices relating to the energy-water nexus.
+  - **(5)** *Additional participation* In developing the strategic plan, the Secretary shall consult and coordinate with a diverse group of representatives from research and academic institutions, industry, public utility commissions, and State and local governments who have expertise in technologies and practices relating to the energy-water nexus.
   - **(6)** *Submission to Congress* Not later than 12 months after the date of enactment of this Act, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate the strategic plan.
   - **(7)** *Updating the strategic plan* Not later than 3 years after the date of enactment of this Act, and at least once every 5 years thereafter, the Secretary shall—
-    - **(A)** utilize relevant information produced by Federal Government agencies, academia, States, and industry to update the strategic plan;
+    - **(A)** utilize relevant information produced by Federal Government agencies, academia, State, local, and tribal governments and industry to update the strategic plan;
     - **(B)** include in the updated strategic plan a description of the changes from the previous strategic plan and the rationale for such changes;
     - **(C)** include a review of progress made towards the milestones outlined in the previous strategic plan; and
     - **(D)** submit the updated strategic plan to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
@@ -53,19 +58,20 @@ This Act may be cited as the “Energy and Water Research Integration Act of 201
 
 ## § 3. Energy-water oversight and coordination
 
-- **(a)** *In general* The Secretary, in coordination with other relevant Federal agencies, shall establish an Energy-Water Subcommittee of the Energy Advisory Board to promote and enable improved energy and water resource data collection, reporting, and technological innovation. The Subcommittee shall consist of—
+- **(a)** *In general* In carrying out the research, development, and demonstration activities outlined in section 2, the Secretary, in coordination with other relevant Federal agencies, shall establish an Energy-Water Committee to promote and enable improved energy and water resource data collection, reporting, and technological innovation. The Committee shall consist of—
   - **(1)** representation from each program within the Department and each Federal agency that conducts research related to the energy-water nexus; and
-  - **(2)** non-Federal members, including representatives of research and academic institutions, States, and industry, who have expertise in technologies and practices relating to the energy-water nexus.
-- **(b)** *Functions* The Subcommittee shall—
-  - **(1)** make recommendations on the development and integration of data collection and data communication standards and protocols to agencies and entities currently engaged in collecting the data for the energy-water nexus;
-  - **(2)** recommend ways to make improvements to Federal water use data to increase understanding of trends in energy generation and fuel production;
+  - **(2)** non-Federal members, including representatives of research and academic institutions, State, local, and tribal governments, public utility commissions, and industry, who have expertise in technologies, technological innovations, or practices relating to the energy-water nexus.
+- **(b)** *Functions* The Committee shall, in carrying out section 2—
+  - **(1)** make recommendations on the development and integration of data collection and data communication standards and protocols, including models and modeling results, to agencies and entities currently engaged in collecting the data for the energy-water nexus;
+  - **(2)** recommend ways to make improvements to Federal water use data to increase understanding of trends in energy generation and fuel production, including non-cooling water uses;
   - **(3)** recommend best practices for utilizing information from existing monitoring networks to provide nationally uniform water and energy use and infrastructure data; and
-  - **(4)** conduct annual technical workshops, including at least 1 regional workshop annually, to facilitate information exchange among Federal, regional, State, local, and tribal governments and private sector experts on technologies that encourage the conservation and efficient use of water and energy.
-- **(c)** *Reports* Not later than 1 year after the date of enactment of this Act, and at least once every 2 years thereafter, the Subcommittee, through the Secretary, shall transmit to Congress a report on its findings and activities under this section.
+  - **(4)** conduct annual technical workshops, including at least one regional workshop annually, to facilitate information exchange among Federal, regional, State, local, and tribal governments and private sector experts on technologies that encourage the conservation and efficient use of water and energy.
+- **(c)** *Reports* Not later than 1 year after the date of enactment of this Act, and at least once every 2 years thereafter, the Committee, through the Secretary, shall transmit to Congress a report on its findings and activities under this section.
+- **(d)** *Applicability of Federal Advisory Committee Act* Except as otherwise provided in this section, the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Committee.
 
-## § 4. Mandates
+## § 4. Rule of construction
 
-Nothing in this Act shall be construed to require State, tribal, or local governments to take any action that may result in an increased financial burden to such governments by restricting the use of water by such governments.
+Notwithstanding any other provision of law, nothing in this Act shall be construed to require State, tribal, or local governments to provide additional data for Federal purposes, or to take any action that may result in an increased financial burden to such governments by restricting the use of water by such governments.
 
 ## § 5. Coordination and nonduplication
 
@@ -75,7 +81,11 @@ To the maximum extent practicable, the Secretary shall coordinate activities und
 
 In this Act:
 
-- **(1)** *Department* The term Department means the Department of Energy.
-- **(2)** *Energy-water nexus* The term energy-water nexus means the energy required to provide reliable water supplies and the water required to provide reliable energy supplies throughout the United States.
-- **(3)** *Secretary* The term Secretary means the Secretary of Energy.
-- **(4)** *Subcommittee* The term Subcommittee means the Energy-Water Subcommittee of the Energy Advisory Board established under section 3(a).
+- **(1)** *Committee* The term Committee means the Energy-Water Committee established under section 3(a).
+- **(2)** *Department* The term Department means the Department of Energy.
+- **(3)** *Energy-water nexus* The term energy-water nexus means the energy required to provide reliable water supplies and the water required to provide reliable energy supplies throughout the United States.
+- **(4)** *Secretary* The term Secretary means the Secretary of Energy.
+
+## § 7. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.

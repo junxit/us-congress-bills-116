@@ -1,7 +1,7 @@
 ---
 measure: H.R. 34
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 34
@@ -16,9 +16,12 @@ Energy and Water Research Integration Act of 2019
 
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Lujan, Ben Ray [D-NM-3] (L000570)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
 
 ## Committees (1)
 
@@ -29,3 +32,14 @@ Energy and Water Research Integration Act of 2019
 - 2019-01-03 — Introduced in House
 - 2019-01-03 — Introduced in House
 - 2019-01-03 — Referred to the House Committee on Science, Space, and Technology.
+- 2019-02-12 — Referred to the Subcommittee on Energy..
+- 2019-03-27 — Forwarded by Subcommittee to Full Committee (Amended) by  Voice Vote .
+- 2019-03-27 — Subcommittee Consideration and Mark-up Session  Held.
+- 2019-05-01 — Committee Consideration and Mark-up Session Held.
+- 2019-05-01 — Ordered to be Reported (Amended) by Voice Vote.
+- 2019-07-23 — Considered under suspension of the rules. (consideration: CR H7177-7179)
+- 2019-07-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 34.
+- 2019-07-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-07-23 — Ms. Johnson (TX) moved to suspend the rules and pass the bill, as amended.
+- 2019-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7177-7178)
+- 2019-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7177-7178)
