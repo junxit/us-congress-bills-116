@@ -9,7 +9,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To direct the Secretary of Veterans Affairs to carry out the Women’s Health Transition Training pilot program through at least fiscal year 2020, and for other purposes.
 
-## § 1. Encouragement of participation in Women’s Health Transition Training pilot program
+## § 1. Short title
+
+This Act may be cited as the “Helping Expand and Launch Transitional Health for Women Veterans Act” or “HEALTH Act”.
+
+## § 2. Encouragement of participation in Women’s Health Transition Training pilot program
 
 - **(a)** *Duration* The Secretary of Veterans Affairs shall carry out the Women’s Health Transition Training pilot program (in this section referred to as the “pilot program”) until at least September 30, 2020.
 - **(b)** *Report* Not later than September 30, 2020, the Secretary of Defense and the Secretary of Veterans Affairs shall jointly submit to the appropriate congressional committees a report on the pilot program that includes the following:
