@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 194
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 194
@@ -16,7 +16,7 @@ A resolution designating July 30, 2019, as "National Whistleblower Appreciation 
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 
-## Cosponsors (10)
+## Cosponsors (18)
 
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Markey, Edward J. [D-MA] (M000133)
@@ -28,6 +28,14 @@ A resolution designating July 30, 2019, as "National Whistleblower Appreciation 
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 - Sen. Ernst, Joni [R-IA] (E000295)
 - Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
 
 ## Committees (1)
 
@@ -37,3 +45,7 @@ A resolution designating July 30, 2019, as "National Whistleblower Appreciation 
 
 - 2019-05-08 — Introduced in Senate
 - 2019-05-08 — Referred to the Committee on the Judiciary.
+- 2019-07-23 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR 5/8/2019 S2746-2747)
+- 2019-07-23 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 5/8/2019 S2746-2747)
+- 2019-07-23 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S5018-5019)
+- 2019-07-23 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S5018-5019)
