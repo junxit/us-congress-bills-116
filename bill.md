@@ -1,0 +1,29 @@
+---
+legis-num: S. 2212
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2212
+
+> To require the Commandant of the Coast Guard to take certain steps to improve Coast Guard shore infrastructure, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Coast Guard Shore Infrastructure Improvement Act”.
+
+## § 2. Shore infrastructure
+
+- **(a)** *In general* Not later than December 31, 2020, the Commandant of the Coast Guard shall—
+  - **(1)** develop a plan to standardize Coast Guard facility condition assessments;
+  - **(2)** establish shore infrastructure performance goals, measures, and baselines to track the effectiveness of maintenance and repair investments and provide feedback on progress made;
+  - **(3)** develop a process to routinely align the Coast Guard shore infrastructure portfolio with mission needs, including disposing of unneeded assets;
+  - **(4)** establish guidance for planning boards to document inputs, deliberations, and project prioritization decisions for infrastructure maintenance projects;
+  - **(5)** employ models for Coast Guard infrastructure asset lines for—
+    - **(A)** predicting the outcome of investments in shore infrastructure;
+    - **(B)** analyzing tradeoffs; and
+    - **(C)** optimizing decisions among competing investments;
+  - **(6)** include in congressional budget requests and related reports supporting details on competing project alternatives and report tradeoffs; and
+  - **(7)** explore the development of real property management expertise in the Coast Guard workforce, including members of the Senior Executive Service.
+- **(b)** *Briefing* Not later than January 31, 2021, the Commandant of the Coast Guard shall brief the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives with respect to the status of the actions required under subsection (a).
