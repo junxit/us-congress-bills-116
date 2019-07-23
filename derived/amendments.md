@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3375
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-14 amendatory instructions. 4 executed, 10 stated and not applied.
+15 amendatory instructions. 4 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -76,6 +76,7 @@ complete account of the bill's effect, which it is not.
 | `47 U.S.C. § 227` | add-at-end | Section 227(b) of the Communications Act of 1934 (47 U.S.C. 227(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 227` | add-at-end | Section 227(e)(5)(A)(iii) of the Communications Act of 1934 (47 U.S.C. 227(e)(5)(A)(iii)) is amended by adding at the end the following: “Paragraph (5) of section 503(b) shall not apply in the case of a violation of this subsection.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 227` | add-at-end | Section 227(b) of the Communications Act of 1934 (47 U.S.C. 227(b)), as amended by subsection (a), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 227` | add-at-end | Section 227(b) of the Communications Act of 1934 (47 U.S.C. 227(b)), as amended by subsections (a) and (b), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 227` | add-at-end | Section 227 of the Communications Act of 1934 (47 U.S.C. 227) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 227` | add-at-end | Section 227 of the Communications Act of 1934 (47 U.S.C. 227), as amended by section 6, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 227` | add-at-end | Section 227 of the Communications Act of 1934 (47 U.S.C. 227), as amended by section 6 and subsection (a) of this section, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
