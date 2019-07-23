@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3196
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3196
@@ -39,3 +39,10 @@ Vera C. Rubin Observatory Designation Act
 - 2019-06-27 — Placed on the Union Calendar, Calendar No. 96.
 - 2019-06-27 — Reported by the Committee on Science, Space, and Technology. H. Rept. 116-132.
 - 2019-06-27 — Reported by the Committee on Science, Space, and Technology. H. Rept. 116-132.
+- 2019-07-23 — Considered under suspension of the rules. (consideration: CR H7176-7177)
+- 2019-07-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3196.
+- 2019-07-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-07-23 — Ms. Johnson (TX) moved to suspend the rules and pass the bill, as amended.
+- 2019-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7176)
+- 2019-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7176)
+- 2019-07-23 — The title of the measure was amended. Agreed to without objection.

@@ -7,11 +7,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3196
 
-> To designate the Large Synoptic Survey Telescope as the “Vera Rubin Survey Telescope”.
+> To designate the Large Synoptic Survey Telescope as the “Vera C. Rubin Observatory”.
 
 ## § 1. Short title
 
-This Act may be cited as the “Vera Rubin Survey Telescope Designation Act”.
+This Act may be cited as the “Vera C. Rubin Observatory Designation Act”.
 
 ## § 2. Findings
 
@@ -33,8 +33,8 @@ Congress finds the following:
 
 ## § 3. Designation
 
-The Large Synoptic Survey Telescope shall be known and designated as the “Vera Rubin Survey Telescope”.
+The Large Synoptic Survey Telescope shall be known and designated as the “Vera C. Rubin Observatory”.
 
 ## § 4. References
 
-Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility described in section 3 shall be deemed to be a reference to the “Vera Rubin Survey Telescope”.
+Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility described in section 3 shall be deemed to be a reference to the “Vera C. Rubin Observatory”.
