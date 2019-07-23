@@ -2,7 +2,7 @@
 legis-num: H. RES. 358
 congress: 116th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 358
@@ -26,7 +26,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the United Nations Office for the Coordination of Humanitarian Affairs stated in April 2019 that more than 530,000 people were internally displaced in areas affected by the Anglophone conflict;
 - Whereas the Office of the United Nations High Commissioner for Refugees reports that more than 32,000 Cameroonian refugees have registered in Nigeria;
 - Whereas the Department of State has expressly called on the Government of Cameroon to respect the rights, including the right to due process, of 47 Cameroonians forcibly returned in January 2018 from Nigerian custody to Cameroonian authorities, many of whom had reportedly submitted asylum claims in Nigeria; and
-- Whereas ten of the 47 Cameroonians forcibly returned from Nigeria now face charges before a military court punishable by the death penalty, while the other thirty-seven reportedly remain in detention without charge: Now, therefore, be it
+- Whereas 10 of the 47 Cameroonians forcibly returned from Nigeria now face charges before a military court punishable by the death penalty, while the other 37 reportedly remain in detention without charge: Now, therefore, be it
 
 That the House of Representatives—
 
