@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1837
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-14 amendatory instructions. 2 executed, 12 stated and not applied.
+15 amendatory instructions. 2 executed, 13 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -62,4 +62,5 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (3), by striking “Funds authorized” and all that follows through “later.” and inserting “Funds authorized to be available for Israel under subsection (b)(1) and paragraph (1) of this subsection for fiscal years 2020, 2021, 2… | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding the first proviso, by striking “September 30, 2020” and inserting “September 30, 2025”; and | the bill names no machine-readable US Code section |
 | — | replace | in the second proviso, by striking “September 30, 2020” and inserting “September 30, 2025”. | the bill names no machine-readable US Code section |
-| `22 U.S.C. § 5202` | replace | Section 2334 of title 18, United States Code, is amended by striking subparagraph (A) of subsection (e)(1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | by striking subparagraphs (A) and (B) of subsection (e)(1) and inserting the following: | the bill names no machine-readable US Code section |
+| — | insert | And by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
