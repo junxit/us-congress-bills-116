@@ -15,13 +15,13 @@ This Act may be cited as the “Stopping Bad Robocalls Act”.
 
 ## § 2. Consumer protection regulations relating to making robocalls
 
-Not later than 6 months after the date of the enactment of this Act, and as appropriate thereafter to ensure that the consumer protection and privacy purposes of section 227 of the Communications Act of 1934 (47 U.S.C. 227) remain effective, the Commission shall prescribe such regulations, or amend such existing regulations, as necessary to clarify such descriptions of automatic telephone dialing systems and calls made using an artificial or prerecorded voice as will, in the judgment of the Commission, ensure that—
+Not later than 6 months after the date of the enactment of this Act, and as appropriate thereafter to ensure that the consumer protection and privacy purposes of section 227 of the Communications Act of 1934 (47 U.S.C. 227) remain effective, the Commission shall prescribe such regulations, or amend such existing regulations, regarding calls made or text messages sent using automatic telephone dialing systems and calls made using an artificial or prerecorded voice as will, in the judgment of the Commission, clarify descriptions of automatic telephone dialing systems and ensure that—
 
 - **(1)** the consumer protection and privacy purposes of such section are effectuated;
-- **(2)** calls made and text messages sent using automatic telephone dialing systems and calls made using an artificial or prerecorded voice are made or sent (as the case may be) with consent, unless exempted by paragraph (1), (2)(B), or (2)(C) of subsection (b) of such section;
+- **(2)** calls made and text messages sent using automatic telephone dialing systems and calls made using an artificial or prerecorded voice are made or sent (as the case may be) with consent, unless consent is not required under or the call or text message is exempted by paragraph (1), (2)(B), or (2)(C) of subsection (b) of such section;
 - **(3)** consumers can withdraw consent for such calls and text messages;
 - **(4)** circumvention or evasion of such section is prevented;
-- **(5)** callers maintain records to demonstrate that such callers have obtained consent, unless exempted by paragraph (1), (2)(B), or (2)(C) of subsection (b) of such section, for such calls and text messages, for a period of time that will permit the Commission to effectuate the consumer protection and privacy purposes of such section; and
+- **(5)** callers maintain records to demonstrate that such callers have obtained consent, unless consent is not required under or the call or text message is exempted by paragraph (1), (2)(B), or (2)(C) of subsection (b) of such section, for such calls and text messages, for a period of time that will permit the Commission to effectuate the consumer protection and privacy purposes of such section; and
 - **(6)** compliance with such section is facilitated.
 
 ## § 3. Consumer protections for exemptions
@@ -52,16 +52,16 @@ Not later than 6 months after the date of the enactment of this Act, and as appr
   - **(2)** *Conforming amendments* Section 227(d)(3)(B) of the Communications Act of 1934 (47 U.S.C. 227(d)(3)(B)) is amended—
     - **(A)** by striking “called party’s line” each place it appears and inserting “telephone line called”; and
     - **(B)** by striking “called party has hung up” and inserting “answering party has hung up”.
-  - **(3)** *Effective date* The amendments made by this subsection shall apply beginning on the date on which the Commission establishes the database described in the Second Report and Order in the matter of Advanced Methods to Target and Eliminate Unlawful Robocalls (CG Docket No. 17–59; FCC 18–177; adopted on December 12, 2018).
+  - **(3)** *Effective date* The amendments made by this subsection shall apply beginning on the date on which the database described in the Second Report and Order in the matter of Advanced Methods to Target and Eliminate Unlawful Robocalls (CG Docket No. 17–59; FCC 18–177; adopted on December 12, 2018) becomes fully operational, such that a person may check the database to determine the last date of permanent disconnection associated with a phone number. Nothing in the amendments made by this subsection shall affect the construction of the law as it applies before the effective date.
 
 ## § 5. Enforcement
 
-- **(a)** *No citation required To seek forfeiture penalty*
+- **(a)** *No citation required to seek forfeiture penalty*
   - **(1)** *For robocall violations* Section 227(b) of the Communications Act of 1934 (47 U.S.C. 227(b)) is amended by adding at the end the following:
     > - **(4)** *No citation required to seek forfeiture penalty* Paragraph (5) of section 503(b) shall not apply in the case of a violation made with the intent to cause such violation of this subsection.
 
   - **(2)** *For caller identification information violations* Section 227(e)(5)(A)(iii) of the Communications Act of 1934 (47 U.S.C. 227(e)(5)(A)(iii)) is amended by adding at the end the following: “Paragraph (5) of section 503(b) shall not apply in the case of a violation of this subsection.”.
-- **(b)** *4-Year statute of limitations*
+- **(b)** *4-year statute of limitations*
   - **(1)** *For robocall violations* Section 227(b) of the Communications Act of 1934 (47 U.S.C. 227(b)), as amended by subsection (a), is further amended by adding at the end the following:
     > - **(5)** *4-year statute of limitations* Notwithstanding paragraph (6) of section 503(b), no forfeiture penalty for violation of this subsection shall be determined or imposed against any person if the violation charged occurred more than—
     >   - **(A)** 3 years prior to the date of issuance of the notice required by paragraph (3) of such section or the notice of apparent liability required by paragraph (4) of such section (as the case may be); or
@@ -70,6 +70,8 @@ Not later than 6 months after the date of the enactment of this Act, and as appr
   - **(2)** *For caller identification information violations* Section 227(e)(5)(A)(iv) of the Communications Act of 1934 (47 U.S.C. 227(e)(5)(A)(iv)) is amended—
     - **(A)** in the heading, by striking “2-year” and inserting “4-year”; and
     - **(B)** by striking “2 years” and inserting “4 years”.
+- **(c)** *Increased penalty for robocall violations with intent* Section 227(b) of the Communications Act of 1934 (47 U.S.C. 227(b)), as amended by subsections (a) and (b), is further amended by adding at the end the following:
+  > - **(6)** *Increased penalty for violations with intent* In the case of a forfeiture penalty for violation of this subsection that is determined or imposed under section 503(b), if such violation was made with the intent to cause such violation, the amount of such penalty shall be equal to an amount determined in accordance with subparagraphs (A) through (F) of section 503(b)(2) plus an additional penalty not to exceed $10,000.
 
 ## § 6. Annual report to Congress
 
@@ -131,16 +133,16 @@ Section 227 of the Communications Act of 1934 (47 U.S.C. 227) is amended by addi
   >     - **(B)** a call or text message for which misleading or inaccurate caller identification information was caused to be transmitted in violation of subsection (e).
   >   - **(2)** *Text message defined* In this subsection, the term “text message” has the meaning given such term in subsection (e)(8).
 
-- **(b)** *Robocall blocking service with opt-Out customer approval* Section 227 of the Communications Act of 1934 (47 U.S.C. 227), as amended by section 6 and subsection (a) of this section, is further amended by adding at the end the following:
-  > - **(k)** *Robocall blocking service with opt-Out customer approval*
-  >   - **(1)** *In general* Not later than 1 year after the date of the enactment of this subsection, the Commission shall take a final agency action to ensure the robocall blocking services provided on an opt-out basis pursuant to the Declaratory Ruling of the Commission in the matter of Advanced Methods to Target and Eliminate Unlawful Robocalls (CG Docket No. 17–59; FCC 19–51; adopted on June 6, 2019)—
+- **(b)** *Robocall blocking service* Section 227 of the Communications Act of 1934 (47 U.S.C. 227), as amended by section 6 and subsection (a) of this section, is further amended by adding at the end the following:
+  > - **(k)** *Robocall blocking service*
+  >   - **(1)** *In general* Not later than 1 year after the date of the enactment of this subsection, the Commission shall take a final agency action to ensure the robocall blocking services provided on an opt-out or opt-in basis pursuant to the Declaratory Ruling of the Commission in the matter of Advanced Methods to Target and Eliminate Unlawful Robocalls (CG Docket No. 17–59; FCC 19–51; adopted on June 6, 2019)—
   >     - **(A)** are provided with transparency and effective redress options for both—
   >       - **(i)** consumers; and
   >       - **(ii)** callers; and
-  >     - **(B)** are provided with no additional line item charge to consumers.
+  >     - **(B)** are provided with no additional line item charge to consumers and no additional charge to callers for resolving complaints related to erroneously blocked calls.
   >   - **(2)** *Text message defined* In this subsection, the term “text message” has the meaning given such term in subsection (e)(8).
 
-- **(c)** *Study on information requirements for certain voIP service providers*
+- **(c)** *Study on information requirements for certain voip service providers*
   - **(1)** *In general* The Commission shall conduct a study regarding whether to require a provider of covered VoIP service to—
     - **(A)** provide to the Commission contact information for such provider and keep such information current; and
     - **(B)** retain records relating to each call transmitted over the covered VoIP service of such provider that are sufficient to trace such call back to the source of such call.
@@ -150,6 +152,117 @@ Section 227 of the Communications Act of 1934 (47 U.S.C. 227) is amended by addi
     - **(B)** would be an interconnected VoIP service (as so defined) except that the service permits users to terminate calls to the public switched telephone network but does not permit users to receive calls that originate on the public switched telephone network.
 - **(d)** *Transitional rule regarding definition of text message* Paragraph (2) of subsection (j) of section 227 of the Communications Act of 1934 (47 U.S.C. 227), as added by subsection (a) of this section, and paragraph (2) of subsection (k) of such section 227, as added by subsection (b) of this section, shall apply before the effective date of the amendment made to subsection (e)(8) of such section 227 by subparagraph (C) of section 503(a)(2) of division P of the Consolidated Appropriations Act, 2018 (Public Law 115–141) as if such amendment was already in effect.
 
-## § 9. Commission defined
+## § 9. Provision of evidence of certain robocall violations to Attorney General
+
+- **(a)** *In general* If the Chief of the Enforcement Bureau of the Commission obtains evidence that suggests a willful, knowing, and repeated robocall violation with an intent to defraud, cause harm, or wrongfully obtain anything of value, the Chief of the Enforcement Bureau shall provide such evidence to the Attorney General.
+- **(b)** *Report to Congress* Not later than 1 year after the date of the enactment of this Act, and annually thereafter, the Commission shall publish on its website and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that—
+  - **(1)** states the number of instances during the preceding year in which the Chief of the Enforcement Bureau provided the evidence described in subsection (a) to the Attorney General; and
+  - **(2)** contains a general summary of the types of robocall violations to which such evidence relates.
+- **(c)** *Rules of construction* Nothing in this section shall be construed to affect the ability of the Commission or the Chief of the Enforcement Bureau under other law—
+  - **(1)** to refer a matter to the Attorney General; or
+  - **(2)** to pursue or continue pursuit of an enforcement action in a matter with respect to which the Chief of the Enforcement Bureau provided the evidence described in subsection (a) to the Attorney General.
+- **(d)** *Robocall violation defined* In this section, the term “robocall violation” means a violation of subsection (b) or (e) of section 227 of the Communications Act of 1934 (47 U.S.C. 227).
+
+## § 10. Protection from one-ring scams
+
+- **(a)** *Initiation of proceeding* Not later than 120 days after the date of the enactment of this Act, the Commission shall initiate a proceeding to protect called parties from one-ring scams.
+- **(b)** *Matters to be considered* As part of the proceeding required by subsection (a), the Commission shall consider how the Commission can—
+  - **(1)** work with Federal and State law enforcement agencies to address one-ring scams;
+  - **(2)** work with the governments of foreign countries to address one-ring scams;
+  - **(3)** in consultation with the Federal Trade Commission, better educate consumers about how to avoid one-ring scams;
+  - **(4)** incentivize voice service providers to stop calls made to perpetrate one-ring scams from being received by called parties, including consideration of adding identified one-ring scam type numbers to the Commission’s existing list of permissible categories for carrier-initiated blocking;
+  - **(5)** work with entities that provide call-blocking services to address one-ring scams; and
+  - **(6)** establish obligations on international gateway providers that are the first point of entry for these calls into the United States, including potential requirements that such providers verify with the foreign originator the nature or purpose of calls before initiating service.
+- **(c)** *Report to Congress* Not later than 1 year after the date of the enactment of this Act, the Commission shall publish on its website and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the status of the proceeding required by subsection (a).
+- **(d)** *Definitions* In this section:
+  - **(1)** *One-ring scam* The term “one-ring scam” means a scam in which a caller makes a call and allows the call to ring the called party for a short duration, in order to prompt the called party to return the call, thereby subjecting the called party to charges.
+  - **(2)** *State* The term “State” has the meaning given such term in section 3 of the Communications Act of 1934 (47 U.S.C. 153).
+  - **(3)** *Voice service* The term “voice service” has the meaning given such term in section 227(e)(8) of the Communications Act of 1934 (47 U.S.C. 227(e)(8)). This paragraph shall apply before the effective date of the amendment made to such section by subparagraph (C) of section 503(a)(2) of division P of the Consolidated Appropriations Act, 2018 (Public Law 115–141) as if such amendment was already in effect.
+
+## § 11. Interagency working group
+
+- **(a)** *In general* The Attorney General, in consultation with the Commission, shall convene an interagency working group to study the enforcement of section 227(b) of the Communications Act of 1934 (47 U.S.C. 227(b)).
+- **(b)** *Duties* In carrying out the study under subsection (a), the interagency working group shall—
+  - **(1)** determine whether, and if so how, any Federal law, including regulations, policies, and practices, or budgetary or jurisdictional constraints inhibit the enforcement of such section;
+  - **(2)** identify existing and potential Federal policies and programs that encourage and improve coordination among Federal departments and agencies and States, and between States, in the enforcement and prevention of the violation of such section;
+  - **(3)** identify existing and potential international policies and programs that encourage and improve coordination between countries in the enforcement and prevention of the violation of such section (and laws of foreign countries prohibiting similar conduct); and
+  - **(4)** consider—
+    - **(A)** the benefit and potential sources of additional resources for the Federal enforcement and prevention of the violation of such section;
+    - **(B)** whether memoranda of understanding regarding the enforcement and prevention of the violation of such section should be established between—
+      - **(i)** the States;
+      - **(ii)** the States and the Federal Government; and
+      - **(iii)** the Federal Government and foreign governments;
+    - **(C)** whether a process should be established to allow States to request Federal subpoenas from the Commission with respect to the enforcement of such section;
+    - **(D)** whether increased criminal penalties for the violation of such section (including increasing the amount of fines and increasing the maximum term of imprisonment that may be imposed to a period greater than 2 years) are appropriate;
+    - **(E)** whether regulation of any entity that enters into a business arrangement with a carrier for the specific purpose of carrying, routing, or transmitting a call that constitutes a violation of such section would assist in the successful enforcement and prevention of the violation of such section; and
+    - **(F)** the extent to which the prosecution of certain violations of such section (which result in economic, physical, or emotional harm) pursuant to any Department of Justice policy may inhibit or otherwise interfere with the prosecution of other violations of such section.
+- **(c)** *Members* The interagency working group shall be composed of such representatives of Federal departments and agencies as the Attorney General considers appropriate, which may include—
+  - **(1)** the Department of Commerce (including the National Telecommunications and Information Administration);
+  - **(2)** the Department of State;
+  - **(3)** the Department of Homeland Security;
+  - **(4)** the Commission;
+  - **(5)** the Federal Trade Commission; and
+  - **(6)** the Bureau of Consumer Financial Protection.
+- **(d)** *Non-Federal stakeholders* In carrying out the study under subsection (a), the interagency working group shall consult with such non-Federal stakeholders as the Attorney General determines have relevant expertise, including the National Association of Attorneys General.
+- **(e)** *Report to Congress* Not later than 9 months after the date of the enactment of this Act, the interagency working group shall submit to the Committee on Commerce, Science, and Transportation and the Committee on the Judiciary of the Senate and the Committee on Energy and Commerce and the Committee on the Judiciary of the House of Representatives a report on the findings of the study under subsection (a), including—
+  - **(1)** any recommendations regarding the enforcement and prevention of the violation of such section; and
+  - **(2)** a description of what process, if any, relevant Federal departments and agencies have made in implementing the recommendations under paragraph (1).
+
+## § 12. Commission defined
 
 In this Act, the term “Commission” means the Federal Communications Commission.
+
+## § 13. Annual robocall report
+
+- **(a)** *In general* Not later than 1 year after the date of the enactment of this Act, and annually thereafter, the Commission shall make publicly available on the website of the Commission, and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science and Transportation of the Senate, a report on the status of private-led efforts to trace back the origin of suspected unlawful robocalls by the registered consortium and the participation of voice service providers in such efforts.
+- **(b)** *Contents of report* The report required under subsection (a) shall include, at minimum, the following:
+  - **(1)** A description of private-led efforts to trace back the origin of suspected unlawful robocalls by the registered consortium and the actions taken by the registered consortium to coordinate with the Commission.
+  - **(2)** A list of voice service providers identified by the registered consortium that participated in private-led efforts to trace back the origin of suspected unlawful robocalls through the registered consortium.
+  - **(3)** A list of each voice service provider that received a request from the registered consortium to participate in private-led efforts to trace back the origin of suspected unlawful robocalls and refused to participate, as identified by the registered consortium.
+  - **(4)** The reason, if any, each voice service provider identified by the registered consortium provided for not participating in private-led efforts to trace back the origin of suspected unlawful robocalls.
+  - **(5)** A description of how the Commission may use the information provided to the Commission by voice service providers or the registered consortium that have participated in private-led efforts to trace back the origin of suspected unlawful robocalls in the enforcement efforts by the Commission.
+- **(c)** *Additional information* Not later than 210 days after the date of the enactment of this Act, and annually thereafter, the Commission shall issue a notice to the public seeking additional information from voice service providers and the registered consortium of private-led efforts to trace back the origin of suspected unlawful robocalls necessary for the report by the Commission required under subsection (a).
+- **(d)** *Registration of consortium of private-led efforts to trace back the origin of suspected unlawful robocalls*
+  - **(1)** *In general* Not later than 90 days after the date of the enactment of this Act, the Commission shall issue rules to establish a registration process for the registration of a single consortium that conducts private-led efforts to trace back the origin of suspected unlawful robocalls. The consortium shall meet the following requirements:
+    - **(A)** Be a neutral third-party competent to manage the private-led effort to trace back the origin of suspected unlawful robocalls in the judgement of the Commission.
+    - **(B)** Maintain a set of written best practices about the management of such efforts and regarding providers of voice services’ participation in private-led efforts to trace back the origin of suspected unlawful robocalls.
+    - **(C)** Consistent with section 222(d)(2) of the Communications Act of 1934 (47 U.S.C. 222(d)(2)), any private-led efforts to trace back the origin of suspected unlawful robocalls conducted by the third-party focus on “fraudulent, abusive, or unlawful” traffic.
+    - **(D)** File a notice with the Commission that the consortium intends to conduct private-led efforts to trace back in advance of such registration.
+  - **(2)** *Annual notice by the Commission seeking registrations* Not later than 120 days after the date of the enactment of this Act, and annually thereafter, the Commission shall issue a notice to the public seeking the registration described in paragraph (1).
+- **(e)** *List of voice service providers* The Commission may publish a list of voice service providers and take appropriate enforcement action based on information obtained from the consortium about voice service providers that refuse to participate in private-led efforts to trace back the origin of suspected unlawful robocalls, and other information the Commission may collect about service providers that are found to originate or transmit substantial amounts of illegal calls.
+- **(f)** *Definitions* In this section:
+  - **(1)** *Private-led effort to trace back* The term “private-led effort to trace back” means an effort made by the registered consortium of voice service providers to establish a methodology for determining the origin of a suspected unlawful robocall.
+  - **(2)** *Registered consortium* The term “registered consortium” means the consortium registered under subsection (d).
+  - **(3)** *Suspected unlawful robocall* The term “suspected unlawful robocall” means a call that the Commission or a voice service provider reasonably believes was made in violation of subsection (b) or (e) of section 227 of the Communications Act of 1934 (47 U.S.C. 227).
+  - **(4)** *Voice service* The term “voice service”—
+    - **(A)** means any service that is interconnected with the public switched telephone network and that furnishes voice communications to an end user using resources from the North American Numbering Plan or any successor to the North American Numbering Plan adopted by the Commission under section 251(e)(1) of the Communications Act of 1934 (47 U.S.C. 251(e)(1)); and
+    - **(B)** includes—
+      - **(i)** transmissions from a telephone facsimile machine, computer, or other device to a telephone facsimile machine; and
+      - **(ii)** without limitation, any service that enables real-time, two-way voice communications, including any service that requires internet protocol-compatible customer premises equipment (commonly known as “CPE”) and permits out-bound calling, whether or not the service is one-way or two-way voice over internet protocol.
+
+## § 14. Hospital Robocall Protection Group
+
+- **(a)** *Establishment* Not later than 180 days after the date of the enactment of this Act, the Commission shall establish an advisory committee to be known as the “Hospital Robocall Protection Group”.
+- **(b)** *Membership* The Group shall be composed only of the following members:
+  - **(1)** An equal number of representatives from each of the following:
+    - **(A)** Voice service providers that serve hospitals.
+    - **(B)** Companies that focus on mitigating unlawful robocalls.
+    - **(C)** Consumer advocacy organizations.
+    - **(D)** Providers of one-way voice over internet protocol services described in subsection (e)(4)(B)(ii).
+    - **(E)** Hospitals.
+    - **(F)** State government officials focused on combatting unlawful robocalls.
+  - **(2)** One representative of the Commission.
+  - **(3)** One representative of the Federal Trade Commission.
+- **(c)** *Issuance of best practices* Not later than 180 days after the date on which the Group is established under subsection (a), the Group shall issue best practices regarding the following:
+  - **(1)** How voice service providers can better combat unlawful robocalls made to hospitals.
+  - **(2)** How hospitals can better protect themselves from such calls, including by using unlawful robocall mitigation techniques.
+  - **(3)** How the Federal Government and State governments can help combat such calls.
+- **(d)** *Proceeding by FCC* Not later than 180 days after the date on which the best practices are issued by the Group under subsection (c), the Commission shall conclude a proceeding to assess the extent to which the voluntary adoption of such best practices can be facilitated to protect hospitals and other institutions.
+- **(e)** *Definitions* In this section:
+  - **(1)** *Group* The term “Group” means the Hospital Robocall Protection Group established under subsection (a).
+  - **(2)** *State* The term “State” has the meaning given such term in section 3 of the Communications Act of 1934 (47 U.S.C. 153).
+  - **(3)** *Voice service* The term “voice service”—
+    - **(A)** means any service that is interconnected with the public switched telephone network and that furnishes voice communications to an end user using resources from the North American Numbering Plan or any successor to the North American Numbering Plan adopted by the Commission under section 251(e)(1) of the Communications Act of 1934 (47 U.S.C. 251(e)(1)); and
+    - **(B)** includes—
+      - **(i)** transmissions from a telephone facsimile machine, computer, or other device to a telephone facsimile machine; and
+      - **(ii)** without limitation, any service that enables real-time, two-way voice communications, including any service that requires internet protocol-compatible customer premises equipment (commonly known as “CPE”) and permits out-bound calling, whether or not the service is one-way or two-way voice over internet protocol.
