@@ -2,7 +2,7 @@
 legis-num: H. RES. 246
 congress: 116th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 246
@@ -13,22 +13,26 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - Whereas the democratic, Jewish State of Israel is a key ally and strategic partner of the United States;
 - Whereas since Israel’s founding in 1948, Congress has repeatedly expressed our Nation’s unwavering commitment to the security of Israel as a Jewish and democratic state;
+- Whereas it is a hallmark of American democracy for citizens to petition the United States Government in favor of or against United States foreign policy;
+- Whereas the United States Constitution protects the rights of United States citizens to articulate political views, including with respect to the policies of the United States or foreign governments;
 - Whereas American policy has long sought to bring peace to the Middle East and recognized that both the Israeli and Palestinian people should be able to live in safe and sovereign states, free from fear and violence, with mutual recognition;
 - Whereas support for peace between the Israelis and Palestinians has long-standing bipartisan support in Congress;
 - Whereas it is the long-standing policy of the United States that a peaceful resolution to the Israeli-Palestinian conflict should come through direct negotiations between the Government of Israel and the Palestinian Authority, with the support of countries in the region and around the world;
-- Whereas it is a hallmark of American democracy for citizens to petition the United States Government in favor of or against United States foreign policy;
 - Whereas cooperation between Israel and the United States is of great importance, especially in the context of rising anti-Semitism, authoritarianism and security problems in Europe, the Middle East, and North Africa;
 - Whereas the Global Boycott, Divestment and Sanctions Movement (BDS Movement) targeting Israel is a campaign that does not favor a two-state solution and that seeks to exclude the State of Israel and the Israeli people from the economic, cultural, and academic life of the rest of the world;
-- Whereas the BDS Movement targets not only the Israeli government but also Israeli academic, cultural, and civil society institutions, as well as individual Israeli citizens of all political persuasions, religions, and ethnicities, and in some cases even Jews of other nationalities who support Israel;
-- Whereas the BDS Movement does not recognize, and many of its supporters explicitly deny, the right of the Jewish people to national self-determination;
-- Whereas a founder of the BDS Movement has denied the right of the Jewish people in their homeland, saying, “We oppose a Jewish state in any part of Palestine. No Palestinian, rational Palestinian, not a sell-out Palestinian, will ever accept a Jewish state in Palestine.”;
-- Whereas university-based BDS efforts violate the core goals of the university and global cultural development, which thrive on free and open exchange and debate; and
-- Whereas the BDS Movement promotes principles of collective guilt, mass punishment, and group isolation, which are destructive of prospects for progress towards peace and a two-state solution: Now, therefore, be it
+- Whereas the Global Boycott, Divestment and Sanctions Movement is one of several recent political movements that undermines the possibility for a negotiated solution to the Israeli-Palestinian conflict by demanding concessions of one party alone and encouraging the Palestinians to reject negotiations in favor of international pressure;
+- Whereas the founder of the Global BDS Movement, Omar Barghouti, has denied the right of the Jewish people in their homeland, saying, “We oppose a Jewish state in any part of Palestine. No Palestinian, rational Palestinian, not a sell-out Palestinian, will ever accept a Jewish state in Palestine.”;
+- Whereas the Global BDS Movement targets not only the Israeli government but also Israeli academic, cultural, and civil society institutions, as well as individual Israeli citizens of all political persuasions, religions, and ethnicities, and in some cases even Jews of other nationalities who support Israel;
+- Whereas the Global BDS Movement does not recognize, and many of its supporters explicitly deny, the right of the Jewish people to national self-determination;
+- Whereas university-based Global BDS efforts violate the core goals of the university and global cultural development, which thrive on free and open exchange and debate, and in some cases, leads to the intimidation and harassment of Jewish students and others who support Israel;
+- Whereas the Global BDS Movement promotes principles of collective guilt, mass punishment, and group isolation, which are destructive of prospects for progress towards peace and a two-state solution;
+- Whereas boycotts and similar tools aimed at promoting racial justice and social change have been used effectively in the United States, South Africa, and other parts of the world; and
+- Whereas in contrast to protest movements that have sought racial justice and social change, the Global Boycott, Divestment and Sanctions Movement targeting Israel is not about promoting coexistence, civil rights, and political reconciliation but about questioning and undermining the very legitimacy of the country and its people: Now, therefore, be it
 
 That the House of Representatives—
 
 - **(1)** opposes the Global Boycott, Divestment, and Sanctions Movement (BDS Movement) targeting Israel, including efforts to target United States companies that are engaged in commercial activities that are legal under United States law, and all efforts to delegitimize the State of Israel;
-- **(2)** affirms that the Global Boycott, Divestment, and Sanctions Movement undermines the possibility for a negotiated solution to the Israeli-Palestinian conflict by demanding concessions of one party alone and encouraging the Palestinians to reject negotiations in favor of international pressure;
-- **(3)** urges Israelis and Palestinians to return to direct negotiations as the only way to achieve an end to the Israeli-Palestinian conflict;
+- **(2)** urges Israelis and Palestinians to return to direct negotiations as the only way to achieve an end to the Israeli-Palestinian conflict;
+- **(3)** affirms the Constitutional right of United States citizens to free speech, including the right to protest or criticize the policies of the United States or foreign governments;
 - **(4)** supports the full implementation of the United States-Israel Strategic Partnership Act of 2014 (Public Law 113–296; 128 Stat. 4075) and new efforts to enhance government-wide, coordinated United States-Israel scientific and technological cooperation in civilian areas, such as with respect to energy, water, agriculture, alternative fuel technology, civilian space technology, and security, in order to counter the effects of actions to boycott, divest from, or sanction Israel; and
 - **(5)** reaffirms its strong support for a negotiated solution to the Israeli-Palestinian conflict resulting in two states—a democratic Jewish State of Israel, and a viable, democratic Palestinian state—living side-by-side in peace, security, and mutual recognition.
