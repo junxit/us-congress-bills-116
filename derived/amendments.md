@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2397
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-36 amendatory instructions. 9 executed, 27 stated and not applied.
+55 amendatory instructions. 26 executed, 29 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,7 +26,43 @@ to guess them.
 
 ### 15 U.S.C. § 278s
 
-> in paragraph (1), by striking “Network for Manufacturing Innovation Program” and inserting “Manufacturing USA Program”; and
+> in the section heading by striking “Network for manufacturing innovation” and inserting “Manufacturing USA Network”;
+
+| | |
+|---|---|
+| Removed | `Network for manufacturing innovation` |
+| Inserted | `Manufacturing USA Network` |
+
+### 15 U.S.C. § 278s
+
+> by striking “centers for manufacturing innovation” each place it appears in subsections (a)(3)(B), (b)(1), (d), (g), and (i) and inserting “Manufacturing USA institutes”;
+
+| | |
+|---|---|
+| Removed | `centers for manufacturing innovation` |
+| Inserted | `Manufacturing USA institutes` |
+
+### 15 U.S.C. § 278s
+
+> by striking “center for manufacturing innovation” each place it appears in subsections (d)(1), (d)(4)(E), (g), and (h)(1) and inserting “Manufacturing USA institute”;
+
+| | |
+|---|---|
+| Removed | `center for manufacturing innovation` |
+| Inserted | `Manufacturing USA institute` |
+
+### 15 U.S.C. § 278s
+
+> by striking “center” each place it appears in subsection (d)(2), (d)(4)(E), and (d)(5) and inserting “Manufacturing USA institute”;
+
+| | |
+|---|---|
+| Removed | `center` |
+| Inserted | `Manufacturing USA institute` |
+
+### 15 U.S.C. § 278s
+
+> in the subsection heading, by striking “Network for Manufacturing Innovation Program” and inserting “Manufacturing USA Program”;
 
 | | |
 |---|---|
@@ -35,12 +71,111 @@ to guess them.
 
 ### 15 U.S.C. § 278s
 
-> in paragraph (1), by striking “Secretary” each place it appears in subparagraph (C) and (D) and inserting “agency head”;
+> in paragraph (1), by striking “Network for Manufacturing Innovation Program” and inserting “Manufacturing USA Program”;
+
+| | |
+|---|---|
+| Removed | `Network for Manufacturing Innovation Program` |
+| Inserted | `Manufacturing USA Program` |
+
+### 15 U.S.C. § 278s
+
+> in paragraph (3)(A), by striking “Network for Manufacturing Innovation” and inserting “Manufacturing USA Network”;
+
+| | |
+|---|---|
+| Removed | `Network for Manufacturing Innovation` |
+| Inserted | `Manufacturing USA Network` |
+
+### 15 U.S.C. § 278s
+
+> in the subsection heading, by striking “Network for Manufacturing Innovation” and inserting “Manufacturing USA Network”; and
+
+| | |
+|---|---|
+| Removed | `Network for Manufacturing Innovation` |
+| Inserted | `Manufacturing USA Network` |
+
+### 15 U.S.C. § 278s
+
+> in paragraph (2), by striking “Network for Manufacturing Innovation” and inserting “Manufacturing USA Network”;
+
+| | |
+|---|---|
+| Removed | `Network for Manufacturing Innovation` |
+| Inserted | `Manufacturing USA Network` |
+
+### 15 U.S.C. § 278s
+
+> in the subsection heading, by striking “Centers for manufacturing innovation” and inserting “Manufacturing USA institutes”;
+
+| | |
+|---|---|
+| Removed | `Centers for manufacturing innovation` |
+| Inserted | `Manufacturing USA institutes` |
+
+### 15 U.S.C. § 278s
+
+> in the matter preceding subparagraph (A), by striking “center for manufacturing innovation is a center” and inserting “Manufacturing USA institute is an institute”;
+
+| | |
+|---|---|
+| Removed | `center for manufacturing innovation is a center` |
+| Inserted | `Manufacturing USA institute is an institute` |
+
+### 15 U.S.C. § 278s
+
+> by striking “Secretary” each place it appears in subparagraph (C) and (D) and inserting “agency head”;
 
 | | |
 |---|---|
 | Removed | `Secretary` |
 | Inserted | `agency head` |
+
+### 15 U.S.C. § 278s
+
+> in the matter preceding subparagraph (A), by striking “center for manufacturing innovation” and inserting “Manufacturing USA institute”;
+
+| | |
+|---|---|
+| Removed | `center for manufacturing innovation` |
+| Inserted | `Manufacturing USA institute` |
+
+### 15 U.S.C. § 278s
+
+> in clause (i), as so redesignated, by striking “cost, time, and risk” and inserting “cost, time, or risk”;
+
+| | |
+|---|---|
+| Removed | `cost, time, and risk` |
+| Inserted | `cost, time, or risk` |
+
+### 15 U.S.C. § 278s
+
+> in clause (iv), as so redesignated, by striking “women and minority owned” and inserting “women, minority, and veteran owned”
+
+| | |
+|---|---|
+| Removed | `women and minority owned` |
+| Inserted | `women, minority, and veteran owned` |
+
+### 15 U.S.C. § 278s
+
+> in subparagraph (A), by striking “centers for manufacturing innovation” and inserting “Manufacturing USA institutes”;
+
+| | |
+|---|---|
+| Removed | `centers for manufacturing innovation` |
+| Inserted | `Manufacturing USA institutes` |
+
+### 15 U.S.C. § 278s
+
+> in subparagraph (B), by striking “center for manufacturing innovation” and inserting “Manufacturing USA institute”; and
+
+| | |
+|---|---|
+| Removed | `center for manufacturing innovation` |
+| Inserted | `Manufacturing USA institute` |
 
 ### 15 U.S.C. § 278s
 
@@ -71,7 +206,7 @@ to guess them.
 
 ### 15 U.S.C. § 278s
 
-> in subparagraph (E), by striking “Secretary” and inserting “agency head”; and
+> in the matter preceding clause (i), by striking “Secretary” and inserting “agency head”; and
 
 | | |
 |---|---|
@@ -80,12 +215,30 @@ to guess them.
 
 ### 15 U.S.C. § 278s
 
-> in subparagraphs (B) and (C), by striking “Secretary” each place it appears and inserting “agency head”;
+> in clause (x), by striking “center for manufacturing” and inserting “Manufacturing USA institute”; and
+
+| | |
+|---|---|
+| Removed | `center for manufacturing` |
+| Inserted | `Manufacturing USA institute` |
+
+### 15 U.S.C. § 278s
+
+> in subparagraph (B), by striking “Secretary” each place it appears and inserting “agency head”; and
 
 | | |
 |---|---|
 | Removed | `Secretary` |
 | Inserted | `agency head` |
+
+### 15 U.S.C. § 278s
+
+> in paragraph (1), by striking “Network for Manufacturing Innovation Program” and inserting “Manufacturing USA Program”;
+
+| | |
+|---|---|
+| Removed | `Network for Manufacturing Innovation Program` |
+| Inserted | `Manufacturing USA Program` |
 
 ### 15 U.S.C. § 278s
 
@@ -119,17 +272,19 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 278s` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278s` | strike | by striking subparagraph (E); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278s` | redesignate | by redesignating subparagraphs (A), (B), (C), and (D) as clauses (i), (ii), (iii), and (iv), respectively, and moving the margins of such clauses (as so redesignated) two ems to the right; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 278s` | redesignate | in the matter preceding clause (i) (as so redesignated), by striking “Activities of a center for manufacturing innovation may include” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 278s` | redesignate | in clause (ii), as so redesignated, by inserting before the period at the end the following: “addressing workforce needs through training and education programs at all appropriate education levels”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 278s` | redesignate | in the matter preceding clause (i) (as so redesignated), by striking “Activities of a Manufacturing USA institute may include” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 278s` | redesignate | in clause (ii), as so redesignated, by inserting before the period at the end the following: “addressing workforce needs through training and education programs at all appropriate education levels, including programs on applied engineeri… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278s` | redesignate | in clause (iii), as so redesignated, by inserting before the period at the end the following: “, as appropriate”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278s` | redesignate | by inserting after clause (iv) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278s` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 278s` | add-at-end | in paragraph (3), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 278s` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278s` | insert | by inserting “for a period of not less than 5 and not more than 7 years” after “financial assistance”; | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 278s` | strike | by striking paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278s` | amend | by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278s` | amend | by amending subparagraph (C) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 278s` | replace | in subparagraph (D), by striking “the Secretary shall” and all that follows through “collaborate” and inserting the following: “agency head, in coordination with the National Program Office, as appropriate, shall collaborate”; and | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 278s` | replace | in subparagraph (D), by striking “the Secretary shall” and all that follows through “collaborate” and inserting the following: “the agency head, in coordination with the National Program Office, as appropriate, shall collaborate”; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 278s` | amend | by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 278s` | strike | by striking subparagraph (C); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278s` | amend | by amending subsection (e) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278s` | strike | in subparagraph (E), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 278s` | replace | in subparagraph (F), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
