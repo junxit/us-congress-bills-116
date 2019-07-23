@@ -13,99 +13,114 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Autism Collaboration, Accountability, Research, Education, and Support Act of 2019” or the “Autism CARES Act of 2019”.
 
-## § 2. Expansion, intensification, and coordination of activities of National Institutes of Health with respect to research on autism spectrum disorder
+## § 2. Expansion, intensification, and coordination of activities of the NIH with respect to research on autism spectrum disorder
 
 Section 409C of the Public Health Service Act (42 U.S.C. 284g) is amended—
 
 - **(1)** in subsection (a)(1)—
-  - **(A)** by inserting after “and toxicology” the following: “, and interventions to maximize outcomes for persons with autism spectrum disorder”;
-  - **(B)** by inserting after “early” the following: “and ongoing”; and
-  - **(C)** by inserting after “treatment of autism spectrum disorder” the following: “, including dissemination and implementation of clinical care, supports, intervention, and treatment”; and
+  - **(A)** in the first sentence, by striking “and toxicology” and inserting “toxicology, and interventions to maximize outcomes for individuals with autism spectrum disorder”; and
+  - **(B)** by striking the second sentence and inserting the following: “Such research shall investigate the causes (including possible environmental causes), diagnosis or ruling out, early and ongoing detection, prevention, services across the lifespan, supports, intervention, and treatment of autism spectrum disorder, including dissemination and implementation of clinical care, supports, interventions, and treatments.”;
 - **(2)** in subsection (b)—
-  - **(A)** by amending paragraph (2) to read as follows:
-    > - **(2)** *Research* Each center under paragraph (1) shall conduct basic and clinical research into autism spectrum disorder. Such research should include investigations into the causes, diagnosis, and early and ongoing detection, prevention, and treatment of autism spectrum disorder across the lifespan. The centers, as a group, shall conduct research including in the fields of developmental neurobiology, genetics, psychopharmacology, ge­nom­ics, and developmental, behavioral, and clinical psychology.
+  - **(A)** in paragraph (2)—
+    - **(i)** in the second sentence, by striking “cause” and all that follows through “disorder” and inserting “causes, diagnosis, early and ongoing detection, prevention, and treatment of autism spectrum disorder across the lifespan”; and
+    - **(ii)** in the third sentence, by striking “neurobiology” and all that follows through the period and inserting “neurobiology, genetics, genomics, psychopharmacology, developmental psychology, behavioral psychology, and clinical psychology.”; and
+  - **(B)** in paragraph (3), by adding at the end the following:
+    > - **(D)** *Reducing disparities* The Director may consider, as appropriate, the extent to which a center can demonstrate availability and access to clinical services for youth and adults from diverse racial, ethnic, geographic, or linguistic backgrounds in decisions about awarding grants to applicants which meet the scientific criteria for funding under this section.
 
-  - **(B)** in paragraph (3), by adding at the end the following new subparagraph:
-    > - **(D)** *Reducing disparities* In awarding grants to applicants which meet the scientific criteria for funding under this section, the Director may consider, as appropriate, the extent to which a center can demonstrate availability and access to clinical services for youth and adults from diverse racial, ethnic, geographic, or linguistic backgrounds.
+## § 3. Programs relating to autism
 
-## § 3. Developmental disabilities surveillance and research program
+- **(a)** *Developmental disabilities surveillance and research program* Section 399AA of the Public Health Service Act (42 U.S.C. 280i) is amended—
+  - **(1)** in subsection (a)(1), by striking “adults on autism spectrum disorder” and inserting “adults with autism spectrum disorder”;
+  - **(2)** in subsection (a)(2)—
+    - **(A)** by striking “State and local public health officials” and inserting “State, local, and Tribal public health officials”;
+    - **(B)** by striking “or other developmental disabilities” and inserting “and other developmental disabilities”;
+  - **(3)** in subsection (a)(3), by striking “a university, or any other educational institution” and inserting “a university, any other educational institution, an Indian tribe, or a tribal organization”;
+  - **(4)** in subsection (b)(2)(A), by striking “relevant State and local public health officials, private sector developmental disability researchers, and advocates for individuals with developmental disabilities” and inserting “State, local, and Tribal public health officials, private sector developmental disability researchers, advocates for individuals with autism spectrum disorder, and advocates for individuals with other developmental disabilities”;
+  - **(5)** in subsection (d)—
+    - **(A)** by redesignating paragraphs (1) and (2) as paragraphs (2) and (3), respectively; and
+    - **(B)** by inserting before paragraph (2), as so redesignated, the following new paragraph:
+      > - **(1)** *Indian tribe; tribal organization* The terms “Indian tribe” and “tribal organization” have the meanings given such terms in section 4 of the Indian Health Care Improvement Act.
 
-Section 399AA(e) of the Public Health Service Act (42 U.S.C. 280i(e)) is amended by striking “2019” and inserting “2024”.
+  - **(6)** in subsection (e), by striking “2019” and inserting “2024”.
+- **(b)** *Autism education, early detection, and intervention* Section 399BB of the Public Health Service Act (42 U.S.C. 280i–1) is amended—
+  - **(1)** in subsection (a)(1)—
+    - **(A)** by striking “individuals with autism spectrum disorder or other developmental disabilities” and inserting “individuals with autism spectrum disorder and other developmental disabilities”; and
+    - **(B)** by striking “children with autism spectrum disorder” and all that follows through “disabilities;” and inserting “individuals with autism spectrum disorder and other developmental disabilities across their lifespan;”;
+  - **(2)** in subsection (b)—
+    - **(A)** in paragraph (2), by inserting “individuals with” before “autism spectrum disorder”;
+    - **(B)** by redesignating paragraphs (4) through (6) as paragraphs (5) through (7), respectively; and
+    - **(C)** by inserting after paragraph (3) the following:
+      > - **(4)** promote evidence-based screening techniques and interventions for individuals with autism spectrum disorder and other developmental disabilities across their lifespan;
 
-## § 4. Autism education, early detection, and intervention
+  - **(3)** in subsection (c)—
+    - **(A)** in paragraph (1), in the matter preceding subparagraph (A), by striking “the needs of individuals with autism spectrum disorder or other developmental disabilities and their families” and inserting “the needs of individuals with autism spectrum disorder and other developmental disabilities across their lifespan and the needs of their families”; and
+    - **(B)** in paragraph (2)—
+      - **(i)** in subparagraph (A)(ii), by striking “caregivers of individuals with an autism spectrum disorder” and inserting “caregivers of individuals with autism spectrum disorder or other developmental disabilities”;
+      - **(ii)** in subparagraph (B)(i)(II), by inserting “autism spectrum disorder and” after “individuals with”; and
+      - **(iii)** in subparagraph (B)(ii), by inserting “autism spectrum disorder and” after “individuals with”;
+  - **(4)** in subsection (e)—
+    - **(A)** in paragraph (1)—
+      - **(i)** in the matter preceding subparagraph (A), by inserting “across their lifespan” before “and ensure”; and
+      - **(ii)** in subparagraph (B)(iv), by inserting “across their lifespan” after “other developmental disabilities”;
+    - **(B)** by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively; and
+    - **(C)** by inserting after paragraph (1) the following:
+      > - **(2)** *Developmental-behavioral pediatrician training programs*
+      >   - **(A)** *In general* In making awards under this subsection, the Secretary may prioritize awards to applicants that are developmental-behavioral pediatrician training programs located in rural or underserved areas.
+      >   - **(B)** *Definition of underserved area* In this paragraph, the term underserved area means—
+      >     - **(i)** a health professional shortage area (as defined in section 332(a)(1)(A)); and
+      >     - **(ii)** an urban or rural area designated by the Secretary as an area with a shortage of personal health services (as described in section 330(b)(3)(A)).
 
-Section 399BB of the Public Health Service Act (42 U.S.C. 280i–1) is amended—
+  - **(5)** in subsection (f), by inserting “across the lifespan of such individuals” after “other developmental disabilities”; and
+  - **(6)** in subsection (g), by striking “2019” and inserting “2024”.
+- **(c)** *Interagency autism coordinating committee* Section 399CC of the Public Health Service Act (42 U.S.C. 280i–2) is amended—
+  - **(1)** in subsection (b)—
+    - **(A)** in paragraph (2), by inserting “across the lifespan of such individuals” before the semicolon; and
+    - **(B)** in paragraph (5), by inserting “across the lifespan of such individuals” before “and the families”;
+  - **(2)** in subsection (c)—
+    - **(A)** in paragraph (1)(D), by inserting “, the Department of Labor, the Department of Justice, the Department of Veterans Affairs, the Department of Housing and Urban Development,” after “Department of Education”;
+    - **(B)** in subparagraphs (A), (B), and (C) of paragraph (2), by striking “at least two such members” each place it appears and inserting “at least three such members”;
+    - **(C)** in paragraph (3)(A), by striking “one or more additional 4-year terms” and inserting “one additional 4-year term”; and
+  - **(3)** in subsection (f), by striking “2019” and inserting “2024”.
+- **(d)** *Reports to Congress* Section 399DD of the Public Health Service Act (42 U.S.C. 280i–3) is amended—
+  - **(1)** in subsection (a)—
+    - **(A)** in paragraph (1), by striking “Autism CARES Act of 2014” and inserting “Autism CARES Act of 2019”; and
+    - **(B)** in paragraph (2)—
+      - **(i)** in subparagraphs (A), (B), (D), and (E), by striking “Autism CARES Act of 2014” each place it appears and inserting “Autism CARES Act of 2019”;
+      - **(ii)** in subparagraph (G), by striking “age of the child” and inserting “age of the individual”;
+      - **(iii)** in subparagraph (H), by striking “; and” and inserting “;”;
+      - **(iv)** in subparagraph (I), by striking the period and inserting “; and”; and
+      - **(v)** by adding at the end the following:
+        > - **(J)** information on how States use home- and community-based services and other supports to ensure that individuals with autism spectrum disorder and other developmental disabilities are living, working, and participating in their community.
 
-- **(1)** in subsection (a)(1), by striking “for children” and inserting “for individuals”;
-- **(2)** in subsection (b)—
-  - **(A)** by redesignating paragraphs (4) through (6) as paragraphs (5) through (7), respectively; and
-  - **(B)** by inserting after paragraph (3) the following new paragraph:
-    > - **(4)** promote evidence-based screening techniques and interventions for individuals with autism spectrum disorder across their lifespans;
+  - **(2)** in subsection (b)—
+    - **(A)** in the heading, by striking “young adults and transitioning youth” and inserting “the health and well-Being of individuals with autism spectrum disorder across their lifespan”;
+    - **(B)** by amending paragraph (1) to read as follows:
+      > - **(1)** *In general* Not later than 2 years after the date of enactment of the Autism CARES Act of 2019, the Secretary shall prepare and submit, to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report concerning the health and well-being of individuals with autism spectrum disorder.
 
-- **(3)** in subsection (c)(1), in the matter preceding subparagraph (A), by inserting after “needs of individuals with autism spectrum disorder or other developmental disabilities” the following: “across the lifespan of such individuals”;
-- **(4)** in subsection (e), by adding at the end the following new paragraph:
-  > - **(4)** *Prioritization*
-  >   - **(A)** *In general* In awarding grants and agreements under paragraphs (1) and (2), the Secretary may prioritize awards to training programs described in paragraph (1) that are developmental-behavioral pediatrician training programs located in rural areas or underserved areas.
-  >   - **(B)** *Underserved area defined* In this paragraph, the term underserved area means—
-  >     - **(i)** an area described in section 332(a)(1)(A); and
-  >     - **(ii)** a medically underserved population (as defined in section 330(b)(3)(A)).
+    - **(C)** in paragraph (2)—
+      - **(i)** by amending subparagraph (A) to read as follows:
+        > - **(A)** demographic factors associated with the health and well-being of individuals with autism spectrum disorder;
 
-- **(5)** in subsection (f), by inserting after “individuals with autism spectrum disorder or other developmental disabilities” the following: “across the lifespan of such individuals”; and
-- **(6)** in subsection (g), by striking “2019” and inserting “2024”.
+      - **(ii)** in subparagraph (B), by striking “young adults” and all that follows through the semicolon and inserting “the health and well-being of individuals with autism spectrum disorder, including an identification of existing Federal laws, regulations, policies, research, and programs;”; and
+      - **(iii)** by amending subparagraphs (C), (D), and (E) to read as follows:
+        > - **(C)** recommendations on establishing best practices guidelines to ensure interdisciplinary coordination between all relevant service providers receiving Federal funding;
+        > - **(D)** comprehensive approaches to improving health outcomes and well-being for individuals with autism spectrum disorder, including—
+        >   - **(i)** community-based behavioral supports and interventions;
+        >   - **(ii)** nutrition, recreational, and social activities; and
+        >   - **(iii)** personal safety services related to public safety agencies or the criminal justice system for such individuals; and
+        > - **(E)** recommendations that seek to improve health outcomes for such individuals, including across their lifespan, by addressing—
+        >   - **(i)** screening and diagnosis of children and adults;
+        >   - **(ii)** behavioral and other therapeutic approaches;
+        >   - **(iii)** primary and preventative care;
+        >   - **(iv)** communication challenges;
+        >   - **(v)** aggression, self-injury, elopement, and other behavioral issues;
+        >   - **(vi)** emergency room visits and acute care hospitalization;
+        >   - **(vii)** treatment for co-occurring physical and mental health conditions;
+        >   - **(viii)** premature mortality;
+        >   - **(ix)** medical practitioner training; and
+        >   - **(x)** caregiver mental health.
 
-## § 5. Interagency Autism Coordinating Committee
-
-Section 399CC of the Public Health Service Act (42 U.S.C. 280i–2) is amended—
-
-- **(1)** in subsection (b)—
-  - **(A)** in paragraph (2), by inserting after “services and supports for individuals with autism spectrum disorder” the following: “across the lifespan of such individuals”; and
-  - **(B)** in paragraph (5), by inserting after “individuals with an autism spectrum disorder” the following: “across the lifespan of such individuals”;
-- **(2)** in subsection (c)—
-  - **(A)** in paragraph (1)(D), by inserting after “the Department of Education” the following: “, the Department of Labor, the Department of Justice, the Department of Housing and Urban Development,”; and
-  - **(B)** in paragraph (3)(A), by striking “one or more additional 4-year terms” and inserting “one additional 4-year term”; and
-- **(3)** in subsection (f), by striking “2019” and inserting “2024”.
-
-## § 6. Reports to Congress
-
-Section 399DD of the Public Health Service Act (42 U.S.C. 280i–3) is amended—
-
-- **(1)** in subsection (a)—
-  - **(A)** in paragraph (1), by striking “of 2014” and inserting “of 2019”; and
-  - **(B)** in paragraph (2)—
-    - **(i)** by striking “of 2014” each place it appears and inserting “of 2019”;
-    - **(ii)** in subparagraph (G), striking “age of the child” and inserting “age of the individual”;
-    - **(iii)** in subparagraph (H), by striking “and” at the end;
-    - **(iv)** in subparagraph (I), by striking the period at the end and inserting “; and”; and
-    - **(v)** by adding at the end the following new subparagraph:
-      > - **(J)** information on how States use home and community-based services and other supports to ensure that individuals with autism spectrum disorder or other developmental disabilities are living, working, and participating in the community.
-
-- **(2)** by amending subsection (b) to read as follows:
-  > - **(b)** *Report on health and well-Being of individuals with autism spectrum disorder*
-  >   - **(1)** *In general* Not later than 2 years after the date of enactment of the Autism CARES Act of 2019, the Secretary shall prepare and submit to the Committee on Health, Education, Labor and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report concerning the health and well-being of individuals with autism spectrum disorder.
-  >   - **(2)** *Contents* The report submitted under paragraph (1) shall contain—
-  >     - **(A)** demographic factors associated with the health and well-being of individuals with autism spectrum disorder;
-  >     - **(B)** an overview of policies and programs relevant to the health and well-being of individuals with autism spectrum disorder, including an identification of existing Federal laws, regulations, policies, research, and programs;
-  >     - **(C)** proposals on establishing best practices guidelines to ensure interdisciplinary coordination between all relevant service providers receiving Federal funding;
-  >     - **(D)** comprehensive approaches to improving health outcomes and well-being for individuals with autism spectrum disorder, including—
-  >       - **(i)** community-based behavioral supports and interventions;
-  >       - **(ii)** nutrition, recreational, and social activities; and
-  >       - **(iii)** personal safety services for individuals with autism spectrum disorder related to public safety agencies or the criminal justice system; and
-  >     - **(E)** recommendations that seek to improve health outcomes for individuals with autism spectrum disorder by addressing—
-  >       - **(i)** screening and diagnosis of individuals of all ages;
-  >       - **(ii)** behavioral and other therapeutic approaches;
-  >       - **(iii)** primary and preventative care;
-  >       - **(iv)** communication challenges;
-  >       - **(v)** aggression, self-injury, elopement, and other behavioral issues;
-  >       - **(vi)** emergency room visits and acute care hospitalization;
-  >       - **(vii)** treatment for co-occurring physical and mental health conditions;
-  >       - **(viii)** premature mortality;
-  >       - **(ix)** medical practitioner training; and
-  >       - **(x)** caregiver mental health.
-
-## § 7. Authorization of appropriations
-
-Section 399EE of the Public Health Service Act (42 U.S.C. 280i–4) is amended—
-
-- **(1)** in subsection (a), by striking “$22,000,000 for each of fiscal years 2015 through 2019” and inserting “$23,100,000 for each of fiscal years 2020 through 2024”;
-- **(2)** in subsection (b), by striking “$48,000,000 for each of fiscal years 2015 through 2019” and inserting “$50,599,000 for each of fiscal years 2020 through 2024”; and
-- **(3)** in subsection (c), by striking “there is authorized to be appropriated $190,000,000 for each of fiscal years 2015 through 2019” and inserting “there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2020 through 2024”.
+- **(e)** *Authorization of appropriations* Section 399EE of the Public Health Service Act (42 U.S.C. 280i–4) is amended—
+  - **(1)** in subsection (a), by striking “$22,000,000 for each of fiscal years 2015 through 2019” and inserting “$23,100,000 for each of fiscal years 2020 through 2024”;
+  - **(2)** in subsection (b), by striking “$48,000,000 for each of fiscal years 2015 through 2019” and inserting “$50,599,000 for each of fiscal years 2020 through 2024”; and
+  - **(3)** in subsection (c), by striking “there is authorized to be appropriated $190,000,000 for each of fiscal years 2015 through 2019” and inserting “there are authorized to be appropriated $296,000,000 for each of fiscal years 2020 through 2024”.
