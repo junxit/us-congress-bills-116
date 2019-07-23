@@ -24,7 +24,3 @@ Section 101(10A) of title 11, United States Code, is amended by striking subpara
 >     - **(II)** payments to victims of war crimes or crimes against humanity on account of their status as victims of such crimes;
 >     - **(III)** payments to victims of international terrorism or domestic terrorism, as those terms are defined in section 2331 of title 18, on account of their status as victims of such terrorism; and
 >     - **(IV)** any monthly compensation, pension, pay, annuity, or allowance paid under title 10, 37, or 38 in connection with a disability, combat-related injury or disability, or death of a member of the uniformed services, except that any retired pay excluded under this subclause shall include retired pay paid under chapter 61 of title 10 only to the extent that such retired pay exceeds the amount of retired pay to which the debtor would otherwise be entitled if retired under any provision of title 10 other than chapter 61 of that title.
-
-## § 3. Determination of Budgetary Effects
-
-The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
