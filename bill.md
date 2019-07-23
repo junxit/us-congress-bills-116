@@ -84,9 +84,9 @@ It shall be the policy of the United States—
   - **(2)** *Form of report* Each report submitted under paragraph (1) shall be submitted in unclassified form but may contain a classified annex.
 - **(b)** *Imposition of sanctions*
   - **(1)** *In general* The President shall impose the following sanctions with respect to each government of a foreign country identified pursuant to subparagraph (A) or (B) of subsection (a)(1):
-    - **(A)** The United States Government shall suspend, for a period of one year, United States assistance to the government of the foreign country.
-    - **(B)** The Secretary of the Treasury shall instruct the United States Executive Director to each appropriate international financial institution to oppose, and vote against, for a period of one year, the extension by such institution of any loan or financial or technical assistance to the government of the foreign country.
-    - **(C)** No item on the United States Munitions List (established pursuant to section 38 of the Arms Export Control Act (22 U.S.C. 2778)) or the Commerce Control List set forth in Supplement No. 1 to part 774 of title 15, Code of Federal Regulations, may be exported to the government of the foreign country for a period of one year.
+    - **(A)** The United States Government shall suspend, for a period of 1 year, United States assistance to the government of the foreign country.
+    - **(B)** The Secretary of the Treasury shall instruct the United States Executive Director to each appropriate international financial institution to oppose, and vote against, for a period of 1 year, the extension by such institution of any loan or financial or technical assistance to the government of the foreign country.
+    - **(C)** No item on the United States Munitions List (established pursuant to section 38 of the Arms Export Control Act (22 U.S.C. 2778)) or the Commerce Control List set forth in Supplement No. 1 to part 774 of title 15, Code of Federal Regulations, may be exported to the government of the foreign country for a period of 1 year.
   - **(2)** *Exceptions* The President shall not be required to apply sanctions with respect to the government of a foreign country pursuant to paragraph (1)—
     - **(A)** with respect to materials intended to be used by United States military or civilian personnel at military facilities in the country; or
     - **(B)** if the application of such sanctions would prevent the United States from meeting the terms of any status of forces agreement to which the United States is a party.
@@ -140,12 +140,15 @@ It shall be the policy of the United States—
 
 - **(a)** *Rule of construction* Nothing in this Act shall be construed to apply to the authorized intelligence activities of the United States.
 - **(b)** *Regulatory authority* The President shall, not later than 180 days after the date of the enactment of this Act, promulgate regulations as are necessary for the implementation of this Act.
-- **(c)** *Termination* This Act shall terminate beginning—
+- **(c)** *Exception relating to importation of goods*
+  - **(1)** *In general* The authorities and requirements to impose sanctions authorized under this Act shall not include the authority or requirement to impose sanctions on the importation of goods.
+  - **(2)** *Good defined* In this subsection, the term good means any article, natural or man-made substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
+- **(d)** *Termination* This Act shall terminate beginning—
   - **(1)** 30 days after the date on which the President certifies to the appropriate congressional committees that Hamas and the Palestinian Islamic Jihad, or any successor or affiliate thereof—
     - **(A)** are no longer designated as a foreign terrorist organization pursuant to section 219 of the Immigration and Nationality Act (8 U.S.C. 1189);
     - **(B)** are no longer subject to sanctions pursuant to—
-      - **(i)** Executive Order 12947 (January 23, 1995; relating to prohibiting transactions with terrorists who threaten to disrupt the Middle East peace process); and
-      - **(ii)** Executive Order 13224 (September 23, 2001; relating to blocking property and prohibiting transactions with persons who commit, threaten to commit, or support terrorism); and
+      - **(i)** Executive Order No. 12947 (January 23, 1995; relating to prohibiting transactions with terrorists who threaten to disrupt the Middle East peace process); and
+      - **(ii)** Executive Order No. 13224 (September 23, 2001; relating to blocking property and prohibiting transactions with persons who commit, threaten to commit, or support terrorism); and
     - **(C)** meet the criteria described in paragraphs (1) through (4) of section 9 of the Palestinian Anti-Terrorism Act of 2006 (22 U.S.C. 2378b note); or
   - **(2)** 3 years after the date of the enactment of this Act,
 
@@ -163,3 +166,7 @@ Except as otherwise provided, in this Act:
 - **(6)** *United States person* The term United States person means—
   - **(A)** a United States citizen or an alien lawfully admitted for permanent residence to the United States; or
   - **(B)** an entity organized under the laws of the United States or of any jurisdiction within the United States, including a foreign branch of such an entity.
+
+## § 9. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
