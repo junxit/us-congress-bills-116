@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3504
 
-> To amend title 38, United States Code, to provide for improvements to the specially adapted housing program of the Department of Veterans Affairs, and for other purposes.
+> To amend title 38, United States Code, to provide for improvements to the specially adapted housing program and educational assistance programs of the Department of Veterans Affairs, and for other purposes.
 
 ## § 1. Short title
 
@@ -30,7 +30,7 @@ This Act may be cited as the “Ryan Kules Specially Adaptive Housing Improvemen
 ## § 3. Increase in amounts of assistance provided
 
 - **(a)** *Increase of number of grants per veteran* Section 2102(d)(3) of such title is amended by striking “three” and inserting “six”.
-- **(b)** *Increase in number of applications authorized to be approved* Section 2101(a)(4) of such title is amended by striking “30 applications” and inserting “120 applications”.
+- **(b)** *Increase in number of applications authorized To be approved* Section 2101(a)(4) of such title is amended by striking “30 applications” and inserting “120 applications”.
 - **(c)** *Increase in maximum amount of assistance for adaptation to veteran’s residence* Section 2102(b)(2) of such title is amended by striking “$12,000” and inserting “$19,733”.
 - **(d)** *Increase in aggregate amount of assistance for acquisition of housing with special features* Section 2102(d)(1) of such title is amended by striking “$63,780” and inserting “$98,492”.
 - **(e)** *Increase in aggregate amount of assistance for adaptations to veterans’ residences* Section 2102(d)(2) of such title is amended by striking “$12,756” and inserting “$19,733”.
@@ -45,7 +45,7 @@ Section 2102 of such title is amended by adding at the end the following new sub
 >   - **(2)** In this subsection, a covered veteran is a veteran who—
 >     - **(A)** is described in section 2101(a)(2) of this title;
 >     - **(B)** first receives assistance under this chapter on or after October 1, 2020;
->     - **(C)** as of the date of the veteran’s application for assistance under paragraph (1), most recently received assistance under this chapter more than ten years before such date; and
+>     - **(C)** as of the date of the veteran’s application for assistance under paragraph (1), most recently received assistance under this chapter more than 10 years before such date; and
 >     - **(D)** lives in a home that the Secretary determines does not have adaptations that are reasonably necessary because of the veteran’s disability.
 
 ## § 5. Improvement to work-study allowance program
@@ -79,7 +79,7 @@ Section 2102 of such title is amended by adding at the end the following new sub
     > - **(10)** An individual who is the child or spouse of a person who, on or after September 11, 2001, dies in line of duty while serving on duty other than active duty as a member of the Armed Forces.
     > - **(11)** An individual who is the child or spouse of a member of the Selected Reserve who dies on or after September 11, 2001—
     >   - **(A)** from a service-connected disability; and
-    >   - **(B)** not later than four years after the date of the last discharge or release of that member from active duty or active duty for training.
+    >   - **(B)** not later than 4 years after the date of the last discharge or release of that member from active duty or active duty for training.
 
 - **(b)** *Applicability date* The amendments made by subsection (a) apply with respect to a quarter, semester, or term, as applicable, commencing on or after August 1, 2020.
 - **(c)** *Conforming amendments*
@@ -122,3 +122,7 @@ Section 2101 of title 38, United States Code, is amended—
 - **(2)** in subsection (b)(2)—
   - **(A)** by striking subparagraph (A); and
   - **(B)** by redesignating subparagraphs (B) and (C) as subparagraphs (A) and (B), respectively.
+
+## § 10. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.

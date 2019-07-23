@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3504
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3504
@@ -34,3 +34,9 @@ Ryan Kules and Paul Benne Specially Adaptive Housing Improvement Act of 2019
 - 2019-07-22 — Placed on the Union Calendar, Calendar No. 124.
 - 2019-07-22 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 116-164.
 - 2019-07-22 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 116-164.
+- 2019-07-23 — Considered under suspension of the rules. (consideration: CR H7207-7211)
+- 2019-07-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3504.
+- 2019-07-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-07-23 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
+- 2019-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7207-7209)
+- 2019-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7207-7209)
