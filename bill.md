@@ -50,7 +50,7 @@ This Act may be cited as the “Small Business Reorganization Act of 2019”.
 
   - **(3)** in section 322(a), by inserting “1183,” after “1163,”;
   - **(4)** in section 326—
-    - **(A)** in subsection (a), by inserting “, other than a case under subchapter V of chapter 11” after “7 or 11”; and
+    - **(A)** in subsection (a), by inserting “, other than a case under subchapter V of chapter 11,” after “7 or 11”; and
     - **(B)** in subsection (b), by inserting “subchapter V of chapter 11 or” after “In a case under”;
   - **(5)** in section 347—
     - **(A)** in subsection (a)—
@@ -59,7 +59,7 @@ This Act may be cited as the “Small Business Reorganization Act of 2019”.
     - **(B)** in subsection (b), by inserting “1194,” after “1173,”;
   - **(6)** in section 363(c)(1), by inserting “1183, 1184,” after “1108,”;
   - **(7)** in section 364(a), by inserting “1183, 1184,” after “1108,”;
-  - **(8)** in section 523(a), in the matter preceding paragraph (1), by inserting “1192” after “1141,”;
+  - **(8)** in section 523(a), in the matter preceding paragraph (1), by inserting “1192,” after “1141,”;
   - **(9)** in section 524—
     - **(A)** in subsection (a)—
       - **(i)** in paragraph (1), by inserting “1192,” after “1141,”; and
@@ -74,7 +74,7 @@ This Act may be cited as the “Small Business Reorganization Act of 2019”.
 - **(b)** *Title 28* Title 28 United States Code, is amended—
   - **(1)** in section 586—
     - **(A)** in subsection (a)(3), by inserting “(including subchapter V of chapter 11)” after “7, 11”;
-    - **(B)** in subsection (b), by inserting “subchapter V of chapter 11 or” after “cases under” the first place it appears;
+    - **(B)** in subsection (b), by inserting “subchapter V of chapter 11 or” after “cases under”;
     - **(C)** in subsection (d)(1), by inserting “subchapter V of chapter 11 or” after “cases under” each place that term appears; and
     - **(D)** in subsection (e)—
       - **(i)** in paragraph (1), by inserting “subchapter V of chapter 11 or” after “cases under”;
@@ -92,7 +92,3 @@ This Act may be cited as the “Small Business Reorganization Act of 2019”.
 ## § 5. Effective date
 
 This Act and the amendments made by this Act shall take effect 180 days after the date of enactment of this Act.
-
-## § 6. Determination of Budgetary Effects
-
-The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
