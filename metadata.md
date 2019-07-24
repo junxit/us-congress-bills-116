@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1307
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1307
@@ -49,3 +49,9 @@ Post-Disaster Assistance Online Accountability Act
 - 2019-07-23 — Placed on the Union Calendar, Calendar No. 127.
 - 2019-07-23 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-167, Part I.
 - 2019-07-23 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-167, Part I.
+- 2019-07-24 — Considered under suspension of the rules. (consideration: CR H7291-7292)
+- 2019-07-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1307.
+- 2019-07-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-07-24 — Mr. DeFazio moved to suspend the rules and pass the bill.
+- 2019-07-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7291-7292)
+- 2019-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7291-7292)
