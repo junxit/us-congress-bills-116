@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3504
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3504
@@ -40,3 +40,4 @@ Ryan Kules and Paul Benne Specially Adaptive Housing Improvement Act of 2019
 - 2019-07-23 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
 - 2019-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7207-7209)
 - 2019-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7207-7209)
+- 2019-07-24 — Received in the Senate, read twice.
