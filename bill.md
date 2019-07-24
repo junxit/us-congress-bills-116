@@ -15,7 +15,7 @@ This Act may be cited as the “Ysleta del Sur Pueblo and Alabama-Coushatta Trib
 
 ## § 2. Amendment
 
-The Ysleta del Sur Pueblo and Alabama-Coushatta Indian Tribes of Texas Restoration Act (Public Law 100–89; 101 Stat. 666) is amended by adding at the end the following:
+The Ysleta del Sur Pueblo and Alabama and Coushatta Indian Tribes of Texas Restoration Act (Public Law 100–89; 101 Stat. 666) is amended by adding at the end the following:
 
 > ## § 301. Rule of construction
 >
