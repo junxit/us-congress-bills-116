@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3304
 congress: 116
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 3304
@@ -48,3 +48,4 @@ National Guard and Reservists Debt Relief Extension Act of 2019
 - 2019-07-23 — Placed on the Union Calendar, Calendar No. 130.
 - 2019-07-23 — Reported by the Committee on Judiciary. H. Rept. 116-170.
 - 2019-07-23 — Reported by the Committee on Judiciary. H. Rept. 116-170.
+- 2019-07-24 — Received in the Senate, read twice.

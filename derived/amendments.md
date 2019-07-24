@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3304
 congress: 116
-version: Reported in House
+version: Received in Senate
 derived: true
 ---
 
