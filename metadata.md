@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2942
 congress: 116
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 2942
@@ -51,3 +51,4 @@ HEALTH Act
 - 2019-07-23 — Placed on the Union Calendar, Calendar No. 126.
 - 2019-07-23 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 116-166, Part I.
 - 2019-07-23 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 116-166, Part I.
+- 2019-07-24 — Received in the Senate.
