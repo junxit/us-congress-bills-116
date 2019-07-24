@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1058
 
-> To reauthorize certain provisions of the Public Health Service Act relating to autism, and for other purposes.
+> To amend the Public Health Service Act to enhance activities of the National Institutes of Health with respect to research on autism spectrum disorder and enhance programs relating to autism, and for other purposes.
 
 ## § 1. Short title
 
