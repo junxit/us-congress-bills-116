@@ -1,7 +1,7 @@
 ---
 measure: H.R. 617
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 617
@@ -45,10 +45,11 @@ Department of Energy Veterans’ Health Initiative Act
 - Rep. Balderson, Troy [R-OH-12] (B001306)
 - Rep. Babin, Brian [R-TX-36] (B001291)
 
-## Committees (2)
+## Committees (3)
 
 - House — Veterans' Affairs Committee
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -63,3 +64,4 @@ Department of Energy Veterans’ Health Initiative Act
 - 2019-07-23 — Ms. Johnson (TX) moved to suspend the rules and pass the bill, as amended.
 - 2019-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7179-7180)
 - 2019-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7179-7180)
+- 2019-07-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
