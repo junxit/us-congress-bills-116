@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2943
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2943
@@ -44,3 +44,4 @@ Providing Benefits Information in Spanish and Tagalog for Veterans and Families 
 - 2019-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7204-7205)
 - 2019-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7204-7205)
 - 2019-07-23 — The title of the measure was amended. Agreed to without objection.
+- 2019-07-24 — Received in the Senate.
