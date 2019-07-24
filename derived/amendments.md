@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3299
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-122 amendatory instructions. 45 executed, 77 stated and not applied.
+124 amendatory instructions. 46 executed, 78 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -429,6 +429,15 @@ to guess them.
 | Removed | `husband and wife` |
 | Inserted | `married couple` |
 
+### 26 U.S.C. § 6651
+
+> Section 6651(j)(1) of such Code is amended by striking “$330” and inserting “$435”.
+
+| | |
+|---|---|
+| Removed | `$330` |
+| Inserted | `$435` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -515,3 +524,4 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (m) of section 7448, as so amended, by striking “he” each place it appears and inserting “such judge or special trial judge”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “his” both places it appears and inserting “such judge's”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “to bring himself” and inserting “to come”. | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 6651` | replace | The second sentence of subsection (a) of section 6651 of the Internal Revenue Code of 1986 is amended by striking “$330” and inserting “$435”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
