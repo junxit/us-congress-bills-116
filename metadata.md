@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3311
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3311
@@ -44,3 +44,12 @@ Small Business Reorganization Act of 2019
 - 2019-07-23 — Reported by the Committee on Judiciary. H. Rept. 116-171.
 - 2019-07-23 — Reported by the Committee on Judiciary. H. Rept. 116-171.
 - 2019-07-24 — Received in the Senate, read twice.
+- 2019-08-01 — Message on Senate action sent to the House.
+- 2019-08-01 — Passed Senate without amendment by Voice Vote. (consideration: CR S5321)
+- 2019-08-01 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S5321)
+- 2019-08-13 — Presented to President.
+- 2019-08-13 — Presented to President.
+- 2019-08-23 — Became Public Law No: 116-54.
+- 2019-08-23 — Became Public Law No: 116-54.
+- 2019-08-23 — Signed by President.
+- 2019-08-23 — Signed by President.
