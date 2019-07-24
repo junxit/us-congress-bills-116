@@ -61,8 +61,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 The Commissioner shall ensure that detainees have access to—
 
-- **(1)** not less than one gallon of drinking water per person per day, and age-appropriate fluids as needed;
-- **(2)** a private, safe, clean, and reliable permanent or portable toilet with proper waste disposal and a hand washing station, with not less than one toilet available for every 12 male detainees, and 1 toilet for every 8 female detainees;
+- **(1)** not less than 1 gallon of drinking water per person per day, and age-appropriate fluids as needed;
+- **(2)** a private, safe, clean, and reliable permanent or portable toilet with proper waste disposal and a hand washing station, with not less than 1 toilet available for every 12 male detainees, and 1 toilet for every 8 female detainees;
 - **(3)** a clean diaper changing facility, which includes proper waste disposal, a hand washing station, and unrestricted access to diapers;
 - **(4)** the opportunity to bathe daily in a permanent or portable shower that is private and secure; and
 - **(5)** products for individuals of all age groups and with disabilities to maintain basic personal hygiene, including soap, a toothbrush, toothpaste, adult diapers, and feminine hygiene products, as well as receptacles for the proper storage and disposal of such products.
@@ -132,8 +132,9 @@ The Secretary of Homeland Security shall ensure that all personnel contracted to
   - **(2)** submit to Congress, reports on the results of such inspections as well as other reports of the Inspector General related to custody operations.
 - **(b)** *Particular attention* In carrying out subsection (a), the Inspector General of the Department of Homeland Security shall pay particular attention to—
   - **(1)** the degree of compliance by CBP with the requirements of this Act;
-  - **(2)** remedial actions taken by CBP; and
-  - **(3)** the health needs of detainees.
+  - **(2)** remedial actions taken by CBP;
+  - **(3)** the health needs of detainees; and
+  - **(4)** the degree of compliance with part 115 of title 6, Code of Federal Regulations (commonly known as the “Standards To Prevent, Detect, and Respond to Sexual Abuse and Assault in Confinement Facilities”).
 - **(c)** *Access to facilities* The Commissioner may not deny a Member of Congress entrance to any facility or building used, owned, or operated by CBP.
 
 ## § 12. GAO report
@@ -141,11 +142,17 @@ The Secretary of Homeland Security shall ensure that all personnel contracted to
 - **(a)** *In general* The Comptroller General of the United States shall—
   - **(1)** not later than 6 months after the date of enactment of this Act, commence a study on implementation of, and compliance with, this Act; and
   - **(2)** not later than 1 year after the date of enactment of this Act, submit a report to Congress on the results of such study.
-- **(b)** *Issues to be studied* The study required by subsection (a) shall examine the management and oversight by CBP of ports of entry, border patrol stations, and other detention facilities, including the extent to which CBP and the Department of Homeland Security have effective processes in place to comply with this Act. The study shall also examine the extent to which CBP personnel, in carrying out this Act, make abusive, derisive, profane, or harassing statements or gestures, or engage in any other conduct evidencing hatred or invidious prejudice to or about one person or group on account of race, color, religion, national origin, sex, sexual orientation, age, or disability, including on social media.
+- **(b)** *Issues To be studied* The study required by subsection (a) shall examine the management and oversight by CBP of ports of entry, border patrol stations, and other detention facilities, including the extent to which CBP and the Department of Homeland Security have effective processes in place to comply with this Act. The study shall also examine the extent to which CBP personnel, in carrying out this Act, make abusive, derisive, profane, or harassing statements or gestures, or engage in any other conduct evidencing hatred or invidious prejudice to or about one person or group on account of race, color, religion, national origin, sex, sexual orientation, age, or disability, including on social media.
 
-## § 13. Rule of construction
+## § 13. Rules of construction
 
-Nothing in this Act shall be construed to authorize CBP to detain individuals for longer than 72 hours.
+Nothing in this Act may be construed—
+
+- **(1)** as authorizing CBP to detain individuals for longer than 72 hours;
+- **(2)** as contradicting the March 7, 2014, Department of Homeland Security rule adopting Standards to Prevent, Detect, and Respond to Sexual Abuse and Assault in Confinement Facilities, which includes a zero tolerance policy prohibiting all forms of sexual abuse and assault of individuals in U.S. Customs and Border Protection custody, including in holding facilities, during transport, and during processing;
+- **(3)** as contradicting current protocols related to Department background checks in the hiring process;
+- **(4)** as restricting the Department from denying employment to or terminating the employment of any individual who would be or is involved with the handling or processing at holding facilities, during transport, or during processing, or care of detainees, including the care of children, and has been convicted of a sex crime or other offense involving a child victim; or
+- **(5)** as affecting the obligation to fully comply with all applicable immigration laws, including being subject to any penalties, fines, or other sanctions.
 
 ## § 14. Definitions
 
@@ -161,3 +168,8 @@ In this Act:
   - **(E)** secondary inspection areas; and
   - **(F)** short-term custody facilities.
 - **(4)** *Forward operating base* The term “forward operating base” means a permanent facility established by CBP in forward or remote locations, and designated as such by CBP.
+- **(5)** *Publication of data on complaints of sexual abuse at CBP facilities* Not later than 90 days after the date of enactment of this Act, the Secretary of Homeland Security, acting in coordination with the Office of Inspector General and Office for Civil Rights and Civil Liberties, shall publicly release aggregate data on complaints of sexual abuse at CBP facilities on its website on a quarterly basis, excluding any personally identifiable information that may compromise the confidentiality of individuals who reported abuse.
+
+## § 15. Sense of Congress
+
+It is the sense of the Congress that the men and women of the U.S. Border Patrol should be commended for continuing to carry out their duties in a professional manner, including caring for the extraordinarily high numbers of family units, unaccompanied alien children, and single adults processed in United States Customs and Border Protection facilities referenced in this Act.
