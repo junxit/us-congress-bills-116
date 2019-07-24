@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3239
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3239
@@ -184,6 +184,11 @@ Humanitarian Standards for Individuals in Customs and Border Protection Custody 
 - House — Homeland Security Committee
 - House — Judiciary Committee
 
+## Recorded votes (2)
+
+- 2019-07-24 — [House 116-1-506](votes/house-116-1-0506.md) — On Motion to Recommit with Instructions — **Passed** (239–192)
+- 2019-07-24 — [House 116-1-507](votes/house-116-1-0507.md) — On Passage — **Passed** (233–195)
+
 ## Actions
 
 - 2019-06-11 — Sponsor introductory remarks on measure. (CR H4402)
@@ -200,3 +205,41 @@ Humanitarian Standards for Individuals in Customs and Border Protection Custody 
 - 2019-07-19 — Placed on the Union Calendar, Calendar No. 121.
 - 2019-07-19 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-162, Part I.
 - 2019-07-19 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-162, Part I.
+- 2019-07-23 — Rules Committee Resolution H. Res. 509 Reported to House. Rule provides for consideration of H.R. 397 and H.R. 3239. Resolution provides for consideration of both H.R. 397 and H.R. 3239 under structured rules. Resolution also provides that it shall be in order on the legislative day of July 25, 2019 or July 26, 2019 that the House suspend the rules. Resolution additionally provides for proceedings from the period from July 29, 2019 through September 6, 2019.
+- 2019-07-24 — Amendment (A001) offered by Ms. Kuster (NH). (consideration: CR H7342-7343; text: CR H7342)
+- 2019-07-24 — Amendment (A002) offered by Ms. Kuster (NH). (consideration: CR H7343-7345; text: CR H7343)
+- 2019-07-24 — Amendment (A003) offered by Ms. Lofgren. (consideration: CR H7350; text: CR H7350)
+- 2019-07-24 — Amendment agreed to Committee of the Whole
+- 2019-07-24 — Amendment agreed to Committee of the Whole
+- 2019-07-24 — Amendment agreed to by House: On agreeing to the Lofgren amendment (A003) Agreed to by voice vote.
+- 2019-07-24 — Considered as unfinished business. (consideration: CR H7348, H7350)
+- 2019-07-24 — Considered under the provisions of rule H. Res. 509. (consideration: CR H7336-7345; text: CR H7340-7342)
+- 2019-07-24 — DEBATE - Pursuant to the provisions of H. Res. 509, the Committee of the Whole proceeded with 10 minutes of debate on the Kuster amendment No. 1.
+- 2019-07-24 — DEBATE - Pursuant to the provisions of H. Res. 509, the Committee of the Whole proceeded with 10 minutes of debate on the Kuster amendment No. 2.
+- 2019-07-24 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Kinzinger motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add a new section to the bill stating that it is the sense of Congress that the men and women of the U.S. Border Patrol should be commended for continuing to carry out their duties in a professional manner.
+- 2019-07-24 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 3239.
+- 2019-07-24 — House amendment agreed to: On agreeing to the Kuster (NH) amendment (A001) Agreed to by voice vote.
+- 2019-07-24 — House amendment agreed to: On agreeing to the Kuster (NH) amendment (A002) Agreed to by voice vote.
+- 2019-07-24 — House amendment agreed to: On agreeing to the Lofgren amendment (A003) Agreed to by voice vote.
+- 2019-07-24 — House amendment offered
+- 2019-07-24 — House amendment offered
+- 2019-07-24 — House amendment offered
+- 2019-07-24 — House amendment offered/reported by: Amendment (A001) offered by Ms. Kuster (NH).(consideration: CR H7342-7343; text: CR H7342)
+- 2019-07-24 — House amendment offered/reported by: Amendment (A002) offered by Ms. Kuster (NH).(consideration: CR H7343-7345; text: CR H7343)
+- 2019-07-24 — House amendment offered/reported by: Amendment (A003) offered by Ms. Lofgren.(consideration: CR H7350; text: CR H7350)
+- 2019-07-24 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 509 and Rule XVIII.
+- 2019-07-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-07-24 — Mr. Kinzinger moved to recommit with instructions to the Committee on the Judiciary. (text: CR H7348)
+- 2019-07-24 — On agreeing to the Kuster (NH) amendment (A001) Agreed to by voice vote.
+- 2019-07-24 — On agreeing to the Kuster (NH) amendment (A002) Agreed to by voice vote.
+- 2019-07-24 — On agreeing to the Lofgren amendment (A003) Agreed to by voice vote.
+- 2019-07-24 — On motion to recommit with instructions Agreed to by recorded vote: 239 - 192 (Roll no. 506).
+- 2019-07-24 — On passage Passed by recorded vote: 233 - 195 (Roll no. 507).
+- 2019-07-24 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of Rule 19, the Chair postponed further proceedings on H.R. 3239.
+- 2019-07-24 — Passed/agreed to in House: On passage Passed by recorded vote: 233 - 195 (Roll no. 507).
+- 2019-07-24 — Rule H. Res. 509 passed House.
+- 2019-07-24 — Rule provides for consideration of H.R. 397 and H.R. 3239. Resolution provides for consideration of both H.R. 397 and H.R. 3239 under structured rules. Resolution also provides that it shall be in order on the legislative day of July 25, 2019 or July 26, 2019 that the House suspend the rules. Resolution additionally provides for proceedings from the period from July 29, 2019 through September 6, 2019.
+- 2019-07-24 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3239.
+- 2019-07-24 — The Speaker designated the Honorable Salud O. Carbajal to act as Chairman of the Committee.
+- 2019-07-24 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2019-07-24 — The previous question was ordered pursuant to the rule.
