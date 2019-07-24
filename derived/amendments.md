@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3409
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-356 amendatory instructions. 52 executed, 304 stated and not applied.
+346 amendatory instructions. 52 executed, 294 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -545,15 +545,10 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “determination by the Secretary” and inserting “determination by the Secretary of Transportation under section 312(d) of title 49”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c), by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 2103(c)(3) of title 14, United States Code, is amended by striking “rear admiral (lower half)” and inserting “vice admiral”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Chapter 27 of title 14, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | The analysis for chapter 27 of title 14, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 7 of title 14, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The analysis for chapter 7 of title 14, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `14 U.S.C. § 1110` | insert | Chapter 11 of title 14, United States Code, as amended by this Act, is further amended by inserting after section 1110 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `14 U.S.C. § 1110` | insert | The table of contents of chapter 11 of title 14, United States Code, is amended by inserting after the item relating to section 1110 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | redesignate | in subsection (c) by striking paragraph (2) and redesignating paragraph (1) as paragraph (2); | the bill names no machine-readable US Code section |
-| — | redesignate | by inserting before paragraph (2), as redesignated by paragraph (1), the following: “ | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2), as redesignated by paragraph (1), by striking “In such amounts as provided in appropriations Acts, and except” and inserting “Except”. | the bill names no machine-readable US Code section |
 | — | amend | Section 3105(a)(1) of title 46, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A), by striking “operates; and” and inserting “operates;”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking “those waters.” and inserting “those waters; and”; and | the bill names no machine-readable US Code section |
@@ -590,9 +585,6 @@ complete account of the bill's effect, which it is not.
 | — | insert | Section 15109 of title 46 is amended by inserting “or to which this chapter applies” after “committee established under this chapter” each place it appears. | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(1)” before “A notice”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (1), as so designated by this section, the following: | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3), by striking “continues; and” and inserting “continues;”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (4), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | `6 U.S.C. § 101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Subchapter II of chapter 700 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The analysis for such chapter is amended by adding at the end of the items relating to such subchapter the following: | the bill names no machine-readable US Code section |
@@ -608,10 +600,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “If the Secretary” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | The analysis for chapter 43 of title 46, United States Code, is amended by striking the item relating to section 4305 and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (a)(2), by striking “may be appropriated to the Secretary” and inserting “shall be available to the Secretary without further appropriation and shall remain available until expended”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking paragraph (4) of subsection (c). | the bill names no machine-readable US Code section |
-| — | replace | Section 80301(c) of title 46, United States Code, is amended by striking “operating expenses of the Coast Guard.” and inserting “operations and support of the Coast Guard and shall remain available until expended.”. | the bill names no machine-readable US Code section |
-| — | insert | in subsection (b)(3), by inserting “and updates” after “Area Maritime Transportation Security Plans” each place it appears; and | the bill names no machine-readable US Code section |
+| — | amend | by amending subsection (b)(3) to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | in subsection (c)(4), by inserting “or update” after “plan” each place it appears. | the bill names no machine-readable US Code section |
 | — | replace | by striking “On request” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -634,6 +623,7 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 2712` | strike | by striking paragraph (6). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2704` | amend | Section 1004(d)(2) of the Oil Pollution Act of 1990 (33 U.S.C. 2704(d)(2)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1855` | amend | Section 305(i)(1)(G)(iv) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1855(i)(1)(G)(iv)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 70105(g) of title 46, United States Code, is amended by striking “shall concurrently” and all that follows and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | Subtitle II of title 46, United States Code, is amended by striking chapter 45 and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 3104(d) of title 46, United States Code, is amended by striking “under section 4503(d)” and inserting “under section 4502(3)”. | the bill names no machine-readable US Code section |
 | `14 U.S.C. § 504` | strike | Section 401 of the Coast Guard Authorization Act of 2010 (Public Law 111–281) is amended by striking subsection (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -646,7 +636,7 @@ complete account of the bill's effect, which it is not.
 | `14 U.S.C. § 504` | add-at-end | The analysis for chapter 7 of title 14, United States Code, as amended by this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `14 U.S.C. § 504` | replace | The analysis for chapter 11 of title 14, United States Code, is amended by striking the item relating to section 1110 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `14 U.S.C. § 504` | add-at-end | The analysis for chapter 51 of title 14, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `14 U.S.C. § 504` | insert | The analysis for chapter 700 of title 46, United States Code, as amended by section 312(b), is further amended by inserting after the item relating to section 70006 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `14 U.S.C. § 504` | insert | The analysis for chapter 700 of title 46, United States Code, as amended by section 311(b), is further amended by inserting after the item relating to section 70006 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1902a` | strike | The Maritime Transportation Security Act of 2002 is amended by striking section 204 (33 U.S.C. 1902a). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1902` | redesignate | is amended by redesignating subsections (e) through (i) as subsections (f) through (j) respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1901` | insert | by inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
