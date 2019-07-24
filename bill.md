@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 434
 
-> To designate the Emancipation National Historic Trail, and for other purposes.
+> To amend the National Trails System Act to provide for the study of the Emancipation National Historic Trail, and for other purposes.
 
 ## § 1. Short title
 
