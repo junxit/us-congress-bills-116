@@ -1,7 +1,7 @@
 ---
 measure: H.R. 397
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 397
@@ -234,6 +234,12 @@ Rehabilitation for Multiemployer Pensions Act of 2019
 - House — Education and the Workforce Committee
 - House — Ways and Means Committee
 
+## Recorded votes (3)
+
+- 2019-07-24 — [House 116-1-503](votes/house-116-1-0503.md) — On Agreeing to the Amendment — **Failed** (186–245)
+- 2019-07-24 — [House 116-1-504](votes/house-116-1-0504.md) — On Motion to Recommit with Instructions — **Failed** (200–232)
+- 2019-07-24 — [House 116-1-505](votes/house-116-1-0505.md) — On Passage — **Passed** (264–169)
+
 ## Actions
 
 - 2019-01-09 — Introduced in House
@@ -253,3 +259,30 @@ Rehabilitation for Multiemployer Pensions Act of 2019
 - 2019-07-19 — Placed on the Union Calendar, Calendar No. 123.
 - 2019-07-19 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 116-159, Part II.
 - 2019-07-19 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 116-159, Part II.
+- 2019-07-23 — Rules Committee Resolution H. Res. 509 Reported to House. Rule provides for consideration of H.R. 397 and H.R. 3239. Resolution provides for consideration of both H.R. 397 and H.R. 3239 under structured rules. Resolution also provides that it shall be in order on the legislative day of July 25, 2019 or July 26, 2019 that the House suspend the rules. Resolution additionally provides for proceedings from the period from July 29, 2019 through September 6, 2019.
+- 2019-07-24 — Amendment (A004) offered by Mr. Roe, David P. (consideration: CR H7334-7335, H7345; text: CR H7334)
+- 2019-07-24 — Amendment failed by House: On agreeing to the Roe, David P. amendment (A004) Failed by recorded vote: 186 - 245 (Roll no. 503).
+- 2019-07-24 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2019-07-24 — Considered as unfinished business. (consideration: CR H7345, H7347-7348)
+- 2019-07-24 — Considered under the provisions of rule H. Res. 509. (consideration: CR H7318-7335)
+- 2019-07-24 — DEBATE - Pursuant to the provisions of H. Res. 509, the House proceeded with 10 minutes of debate on the David P. Roe amendment No. 1.
+- 2019-07-24 — DEBATE - The House proceeded with one hour of debate on H.R. 397.
+- 2019-07-24 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Mast motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to insert a new clause in section 4(b)(1)(c) of the bill stating that pension plans will not knowingly engage in a commerce-related or investment-related boycott, divestment, or sanctions activity intended to undermine the existence of, penalize, inflict economic harm on, or otherwise limit commercial relations with Israel.
+- 2019-07-24 — House amendment agreed to: On agreeing to the Rules amendment (A003) Agreed to by voice vote.
+- 2019-07-24 — House amendment not agreed to: On agreeing to the Roe, David P. amendment (A004) Failed by recorded vote: 186 - 245 (Roll no. 503).
+- 2019-07-24 — House amendment offered
+- 2019-07-24 — House amendment offered
+- 2019-07-24 — House amendment offered/reported by: Amendment (A004) offered by Mr. Roe, David P.(consideration: CR H7334-7335, H7345; text: CR H7334)
+- 2019-07-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-07-24 — Mr. Mast moved to recommit with instructions to the Committee on Education and Labor. (text: CR H7346)
+- 2019-07-24 — On agreeing to the Roe, David P. amendment (A004) Failed by recorded vote: 186 - 245 (Roll no. 503).
+- 2019-07-24 — On agreeing to the Rules amendment (A003) Agreed to by voice vote.
+- 2019-07-24 — On motion to recommit with instructions Failed by recorded vote: 200 - 232 (Roll no. 504).
+- 2019-07-24 — On passage Passed by recorded vote: 264 - 169 (Roll no. 505). (text: CR H7318-7323)
+- 2019-07-24 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Roe amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Mr. Scotts (VA) demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-07-24 — Passed/agreed to in House: On passage Passed by recorded vote: 264 - 169 (Roll no. 505).(text: CR H7318-7323)
+- 2019-07-24 — Roll call votes on amendments in House
+- 2019-07-24 — Rule provides for consideration of H.R. 397 and H.R. 3239. Resolution provides for consideration of both H.R. 397 and H.R. 3239 under structured rules. Resolution also provides that it shall be in order on the legislative day of July 25, 2019 or July 26, 2019 that the House suspend the rules. Resolution additionally provides for proceedings from the period from July 29, 2019 through September 6, 2019.
+- 2019-07-24 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2019-07-24 — The previous question was ordered pursuant to the rule.
+- 2019-07-24 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of the amendment offered by Mr. Roe (TN), which had been debated earlier and on which further proceedings had been postponed.
