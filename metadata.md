@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3196
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3196
@@ -24,9 +24,10 @@ Vera C. Rubin Observatory Designation Act
 - Rep. Casten, Sean [D-IL-6] (C001117)
 - Rep. Horn, Kendra S. [D-OK-5] (H001083)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Vera C. Rubin Observatory Designation Act
 - 2019-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7176)
 - 2019-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7176)
 - 2019-07-23 — The title of the measure was amended. Agreed to without objection.
+- 2019-07-24 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
