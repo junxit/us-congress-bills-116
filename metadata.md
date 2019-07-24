@@ -1,7 +1,7 @@
 ---
 measure: S. 2249
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2249
