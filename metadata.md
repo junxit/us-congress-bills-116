@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3196
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3196
@@ -48,3 +48,14 @@ Vera C. Rubin Observatory Designation Act
 - 2019-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7176)
 - 2019-07-23 — The title of the measure was amended. Agreed to without objection.
 - 2019-07-24 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2019-12-18 — Passed Senate without amendment by Unanimous Consent.
+- 2019-12-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2019-12-18 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S7165)
+- 2019-12-18 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S7165)
+- 2019-12-19 — Message on Senate action sent to the House.
+- 2019-12-20 — Became Public Law No: 116-97.
+- 2019-12-20 — Became Public Law No: 116-97.
+- 2019-12-20 — Presented to President.
+- 2019-12-20 — Presented to President.
+- 2019-12-20 — Signed by President.
+- 2019-12-20 — Signed by President.
