@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1850
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1850
@@ -63,10 +63,11 @@ Palestinian International Terrorism Support Prevention Act of 2019
 - Rep. Buchanan, Vern [R-FL-16] (B001260)
 - Rep. Smith, Adrian [R-NE-3] (S001172)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Financial Services Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -83,3 +84,4 @@ Palestinian International Terrorism Support Prevention Act of 2019
 - 2019-07-23 — Mr. Engel moved to suspend the rules and pass the bill, as amended.
 - 2019-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7198-7201)
 - 2019-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7198-7201)
+- 2019-07-24 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
