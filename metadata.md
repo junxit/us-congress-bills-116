@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3311
 congress: 116
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 3311
@@ -43,3 +43,4 @@ Small Business Reorganization Act of 2019
 - 2019-07-23 — Placed on the Union Calendar, Calendar No. 131.
 - 2019-07-23 — Reported by the Committee on Judiciary. H. Rept. 116-171.
 - 2019-07-23 — Reported by the Committee on Judiciary. H. Rept. 116-171.
+- 2019-07-24 — Received in the Senate, read twice.
