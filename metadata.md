@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3352
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3352
@@ -29,3 +29,9 @@ Department of State Authorization Act of 2019
 - 2019-06-19 — Introduced in House
 - 2019-06-19 — Introduced in House
 - 2019-06-19 — Referred to the House Committee on Foreign Affairs.
+- 2019-06-26 — Committee Agreed to Seek Consideration Under Suspension of the Rules.
+- 2019-06-26 — Committee Consideration and Mark-up Session Held.
+- 2019-06-26 — Ordered to be Reported (Amended) by Voice Vote.
+- 2019-07-24 — Placed on the Union Calendar, Calendar No. 140.
+- 2019-07-24 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 116-181.
+- 2019-07-24 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 116-181.
