@@ -1,7 +1,7 @@
 ---
 measure: H.R. 36
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 36
@@ -121,9 +121,10 @@ Combating Sexual Harassment in Science Act of 2019
 - Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
 - Rep. Lieu, Ted [D-CA-33] (L000582)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -142,3 +143,4 @@ Combating Sexual Harassment in Science Act of 2019
 - 2019-07-23 — Ms. Johnson (TX) moved to suspend the rules and pass the bill, as amended.
 - 2019-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7173-7175)
 - 2019-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7173-7175)
+- 2019-07-24 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
