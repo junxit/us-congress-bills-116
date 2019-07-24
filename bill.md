@@ -83,11 +83,9 @@ Section 1116 of the Public Health Service Act (42 U.S.C. 300b–15) is amended�
   - **(A)** by striking “may” and inserting “shall”; and
   - **(B)** in subparagraph (D)—
     - **(i)** by inserting “, or with a high probability of being recommended by,” after “recommended by”; and
-    - **(ii)** by striking “that screenings are ready for nationwide implementation” and inserting “that reliable newborn screening technologies are evaluated and ready for use”; and
+    - **(ii)** by striking “that screenings are ready for nationwide implementation” and inserting “that reliable newborn screening technologies are piloted and ready for use”; and
 - **(2)** in subsection (b) to read as follows:
-  > - **(b)** *Funding* In carrying out the research program under this section, the Secretary and the Director—
-  >   - **(1)** shall ensure that entities receiving funding through the program will provide assurances, as practicable, that such entities will work in consultation with the appropriate State departments of health; and
-  >   - **(2)** may accept, use, and dispose of donations and bequests from private for-profit and non-profit entities, in accordance with Federal law.
+  > - **(b)** *Funding* In carrying out the research program under this section, the Secretary and the Director shall ensure that entities receiving funding through the program will provide assurances, as practicable, that such entities will work in consultation with State departments of health, as appropriate.
 
 ## § 7. Authorization of appropriations for newborn screening programs and activities
 
@@ -108,7 +106,7 @@ Section 12 of the Newborn Screening Saves Lives Reauthorization Act of 2014 (42 
 
 > ## § 12. Institutional review boards; ethics guidance program
 >
-> Research on nonidentified newborn dried blood spots shall be considered secondary research (as that term is defined in part 4 of section 46.104 of title 45, Code of Federal Regulations) with nonidentified biospecimens for purposes of federally funded research conducted pursuant to the Public Health Service Act (42 U.S.C. 200 et seq.).
+> Research on nonidentified newborn dried blood spots shall be considered secondary research (as that term is defined in section 46.104(d)(4) of title 45, Code of Federal Regulations (or successor regulations)) with nonidentified biospecimens for purposes of federally funded research conducted pursuant to the Public Health Service Act (42 U.S.C. 200 et seq.).
 
 ## § 9. NAM report on the modernization of newborn screening
 
