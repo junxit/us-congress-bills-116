@@ -1,7 +1,7 @@
 ---
 measure: S. 542
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 542
@@ -33,3 +33,7 @@ Interstate Transport Act of 2019
 
 - 2019-02-25 — Introduced in Senate
 - 2019-02-25 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2019-04-03 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2019-07-24 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-65.
+- 2019-07-24 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-65.
+- 2019-07-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 161.
