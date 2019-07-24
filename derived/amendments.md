@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2507
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -107,12 +107,12 @@ to guess them.
 
 ### 42 U.S.C. § 300b-15
 
-> by striking “that screenings are ready for nationwide implementation” and inserting “that reliable newborn screening technologies are evaluated and ready for use”; and
+> by striking “that screenings are ready for nationwide implementation” and inserting “that reliable newborn screening technologies are piloted and ready for use”; and
 
 | | |
 |---|---|
 | Removed | `that screenings are ready for nationwide implementation` |
-| Inserted | `that reliable newborn screening technologies are evaluated and ready for use` |
+| Inserted | `that reliable newborn screening technologies are piloted and ready for use` |
 
 ### 42 U.S.C. § 300b-16
 

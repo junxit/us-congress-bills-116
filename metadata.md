@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2507
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2507
@@ -88,3 +88,9 @@ Newborn Screening Saves Lives Reauthorization Act of 2019
 - 2019-07-23 — Placed on the Union Calendar, Calendar No. 134.
 - 2019-07-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-174.
 - 2019-07-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-174.
+- 2019-07-24 — Considered under suspension of the rules. (consideration: CR H7365-7368)
+- 2019-07-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2507.
+- 2019-07-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-07-24 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
+- 2019-07-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7365-7367)
+- 2019-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7365-7367)
