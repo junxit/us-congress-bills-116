@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3305
 congress: 116
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3305
@@ -50,3 +50,12 @@ To designate the facility of the United States Postal Service located at 2509 Ge
 - 2019-07-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
 - 2019-07-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
 - 2019-07-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 162.
+- 2019-07-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5205)
+- 2019-07-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5205)
+- 2019-07-31 — Message on Senate action sent to the House.
+- 2019-08-13 — Presented to President.
+- 2019-08-13 — Presented to President.
+- 2019-08-21 — Became Public Law No: 116-47.
+- 2019-08-21 — Became Public Law No: 116-47.
+- 2019-08-21 — Signed by President.
+- 2019-08-21 — Signed by President.
