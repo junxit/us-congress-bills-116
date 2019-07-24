@@ -1,7 +1,7 @@
 ---
 measure: H.R. 434
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 434
@@ -91,3 +91,10 @@ Emancipation National Historic Trail Study Act
 - 2019-06-27 — Placed on the Union Calendar, Calendar No. 99.
 - 2019-06-27 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-135.
 - 2019-06-27 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-135.
+- 2019-07-24 — Considered under suspension of the rules. (consideration: CR H7353-7361)
+- 2019-07-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 434.
+- 2019-07-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-07-24 — Mr. San Nicolas moved to suspend the rules and pass the bill, as amended.
+- 2019-07-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7353)
+- 2019-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7353)
+- 2019-07-24 — The title of the measure was amended. Agreed to without objection.
