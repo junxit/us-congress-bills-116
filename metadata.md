@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1837
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1837
@@ -311,7 +311,7 @@ United States-Israel Cooperation Enhancement and Regional Security Act
 - Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
 - Rep. Cline, Ben [R-VA-6] (C001118)
 
-## Committees (9)
+## Committees (10)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
@@ -322,6 +322,7 @@ United States-Israel Cooperation Enhancement and Regional Security Act
 - House — Veterans' Affairs Committee
 - House — Science, Space, and Technology Committee
 - House — Armed Services Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -349,3 +350,4 @@ United States-Israel Cooperation Enhancement and Regional Security Act
 - 2019-07-23 — Mr. Engel moved to suspend the rules and pass the bill, as amended.
 - 2019-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7188-7193)
 - 2019-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7188-7193)
+- 2019-07-24 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
