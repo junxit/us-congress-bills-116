@@ -242,3 +242,13 @@ This Act may be cited as the “Promoting Respect for Individuals’ Dignity and
     - **(QQ)** in section 7448(q)—
       - **(i)** by striking “his” both places it appears and inserting “such judge's”; and
       - **(ii)** by striking “to bring himself” and inserting “to come”.
+
+## § 5. Increase in penalty for failure to file
+
+- **(a)** *In general* The second sentence of subsection (a) of section 6651 of the Internal Revenue Code of 1986 is amended by striking “$330” and inserting “$435”.
+- **(b)** *Inflation adjustment* Section 6651(j)(1) of such Code is amended by striking “$330” and inserting “$435”.
+- **(c)** *Effective date* The amendments made by this section shall apply to returns required to be filed after December 31, 2019.
+
+## § 6. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
