@@ -1,7 +1,7 @@
 ---
 measure: H.R. 34
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 34
@@ -23,9 +23,10 @@ Energy and Water Research Integration Act of 2019
 - Rep. Lujan, Ben Ray [D-NM-3] (L000570)
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Energy and Water Research Integration Act of 2019
 - 2019-07-23 — Ms. Johnson (TX) moved to suspend the rules and pass the bill, as amended.
 - 2019-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7177-7178)
 - 2019-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7177-7178)
+- 2019-07-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
