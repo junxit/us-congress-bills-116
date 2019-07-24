@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3153
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3153
@@ -44,9 +44,10 @@ Expanding Findings for Federal Opioid Research and Treatment Act
 - Rep. Bonamici, Suzanne [D-OR-1] (B001278)
 - Rep. Chu, Judy [D-CA-27] (C001080)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -63,3 +64,4 @@ Expanding Findings for Federal Opioid Research and Treatment Act
 - 2019-07-23 — Ms. Johnson (TX) moved to suspend the rules and pass the bill.
 - 2019-07-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7172)
 - 2019-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7172)
+- 2019-07-24 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
