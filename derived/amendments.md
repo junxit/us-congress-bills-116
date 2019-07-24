@@ -1,7 +1,7 @@
 ---
 measure: H.R. 759
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `25 U.S.C. § 2701` | add-at-end | The Ysleta del Sur Pueblo and Alabama-Coushatta Indian Tribes of Texas Restoration Act (Public Law 100–89; 101 Stat. 666) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 2701` | add-at-end | The Ysleta del Sur Pueblo and Alabama and Coushatta Indian Tribes of Texas Restoration Act (Public Law 100–89; 101 Stat. 666) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
