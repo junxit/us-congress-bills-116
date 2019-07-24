@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3409
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3409
@@ -41,3 +41,9 @@ Coast Guard Authorization Act of 2019
 - 2019-07-23 — Placed on the Union Calendar, Calendar No. 132.
 - 2019-07-23 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 116-172.
 - 2019-07-23 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 116-172.
+- 2019-07-24 — Considered under suspension of the rules. (consideration: CR H7263-7287)
+- 2019-07-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3409.
+- 2019-07-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-07-24 — Mr. DeFazio moved to suspend the rules and pass the bill, as amended.
+- 2019-07-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7263-7284)
+- 2019-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7263-7284)
