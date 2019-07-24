@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 507
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 507
@@ -25,3 +25,5 @@ Affirming the validity of subpoenas duly issued and investigations undertaken by
 - 2019-07-23 — Introduced in House
 - 2019-07-23 — Introduced in House
 - 2019-07-23 — Referred to the House Committee on Rules.
+- 2019-07-24 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 509, H. Res. 507 is considered passed House.(consideration: CR H7312-7313; text: CR H7312-7313)
+- 2019-07-24 — Pursuant to the provisions of H. Res. 509, H. Res. 507 is considered passed House. (consideration: CR H7312-7313; text: CR H7312-7313)
