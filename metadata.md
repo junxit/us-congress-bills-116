@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1665
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1665
@@ -30,9 +30,10 @@ Building Blocks of STEM Act
 - Rep. Foster, Bill [D-IL-11] (F000454)
 - Rep. Horn, Kendra S. [D-OK-5] (H001083)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Building Blocks of STEM Act
 - 2019-07-23 — Ms. Johnson (TX) moved to suspend the rules and pass the bill.
 - 2019-07-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7166-7167)
 - 2019-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7166-7167)
+- 2019-07-24 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
