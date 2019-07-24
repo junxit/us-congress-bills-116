@@ -56,14 +56,14 @@ Not later than 6 months after the date of the enactment of this Act, and as appr
 
 ## § 5. Enforcement
 
-- **(a)** *No citation required to seek forfeiture penalty*
+- **(a)** *No citation required To seek forfeiture penalty*
   - **(1)** *For robocall violations* Section 227(b) of the Communications Act of 1934 (47 U.S.C. 227(b)) is amended by adding at the end the following:
     > - **(4)** *No citation required to seek forfeiture penalty* Paragraph (5) of section 503(b) shall not apply in the case of a violation made with the intent to cause such violation of this subsection.
 
   - **(2)** *For caller identification information violations* Section 227(e)(5)(A)(iii) of the Communications Act of 1934 (47 U.S.C. 227(e)(5)(A)(iii)) is amended by adding at the end the following: “Paragraph (5) of section 503(b) shall not apply in the case of a violation of this subsection.”.
-- **(b)** *4-year statute of limitations*
+- **(b)** *Four-Year statute of limitations*
   - **(1)** *For robocall violations* Section 227(b) of the Communications Act of 1934 (47 U.S.C. 227(b)), as amended by subsection (a), is further amended by adding at the end the following:
-    > - **(5)** *4-year statute of limitations* Notwithstanding paragraph (6) of section 503(b), no forfeiture penalty for violation of this subsection shall be determined or imposed against any person if the violation charged occurred more than—
+    > - **(5)** *Four-year statute of limitations* Notwithstanding paragraph (6) of section 503(b), no forfeiture penalty for violation of this subsection shall be determined or imposed against any person if the violation charged occurred more than—
     >   - **(A)** 3 years prior to the date of issuance of the notice required by paragraph (3) of such section or the notice of apparent liability required by paragraph (4) of such section (as the case may be); or
     >   - **(B)** if the violation was made with the intent to cause such violation, 4 years prior to the date of issuance of the notice required by paragraph (3) of such section or the notice of apparent liability required by paragraph (4) of such section (as the case may be).
 
@@ -80,7 +80,7 @@ Section 227 of the Communications Act of 1934 (47 U.S.C. 227) is amended by addi
 > - **(i)** *Annual report to Congress on robocalls and transmission of misleading or inaccurate caller identification information*
 >   - **(1)** *Report required* Not later than 1 year after the date of the enactment of this subsection, and annually thereafter, the Commission, after consultation with the Federal Trade Commission, shall submit to Congress a report regarding enforcement by the Commission of subsections (b), (c), (d), and (e) during the preceding calendar year.
 >   - **(2)** *Matters for inclusion* Each report required by paragraph (1) shall include the following:
->     - **(A)** The number of complaints received by the Commission during each of the preceding five calendar years, for each of the following categories:
+>     - **(A)** The number of complaints received by the Commission during each of the preceding 5 calendar years, for each of the following categories:
 >       - **(i)** Complaints alleging that a consumer received a call in violation of subsection (b) or (c).
 >       - **(ii)** Complaints alleging that a consumer received a call in violation of the standards prescribed under subsection (d).
 >       - **(iii)** Complaints alleging that a consumer received a call in connection with which misleading or inaccurate caller identification information was transmitted in violation of subsection (e).
@@ -97,9 +97,9 @@ Section 227 of the Communications Act of 1934 (47 U.S.C. 227) is amended by addi
 - **(a)** *In general* Not later than 1 year after the date of enactment of this Act, the Commission shall prescribe regulations in WC Docket No. 17–97.
 - **(b)** *Requirements for effective call authentication technology*
   - **(1)** *In general* The regulations required by subsection (a) shall—
-    - **(A)** require providers of voice service to implement, within six months after the date on which such regulations are prescribed, an effective call authentication technology; and
+    - **(A)** require providers of voice service to implement, within 6 months after the date on which such regulations are prescribed, an effective call authentication technology; and
     - **(B)** ensure that voice service providers that have implemented the effective authentication technology attest that such provider has determined, when originating calls on behalf of a calling party, that the calling party number transmitted with such calls has been appropriately authenticated.
-  - **(2)** *Reassessment of regulations* The Commission shall reassess such regulations, at least once every two years, to ensure the regulations remain effective and up to date with technological capabilities.
+  - **(2)** *Reassessment of regulations* The Commission shall reassess such regulations, at least once every 2 years, to ensure the regulations remain effective and up to date with technological capabilities.
   - **(3)** *Exemption*
     - **(A)** *Burdens and barriers to implementation* The Commission—
       - **(i)** shall include findings on any burdens or barriers to the implementation required in paragraph (1), including—
@@ -142,7 +142,7 @@ Section 227 of the Communications Act of 1934 (47 U.S.C. 227) is amended by addi
   >     - **(B)** are provided with no additional line item charge to consumers and no additional charge to callers for resolving complaints related to erroneously blocked calls.
   >   - **(2)** *Text message defined* In this subsection, the term “text message” has the meaning given such term in subsection (e)(8).
 
-- **(c)** *Study on information requirements for certain voip service providers*
+- **(c)** *Study on information requirements for certain VoIP service providers*
   - **(1)** *In general* The Commission shall conduct a study regarding whether to require a provider of covered VoIP service to—
     - **(A)** provide to the Commission contact information for such provider and keep such information current; and
     - **(B)** retain records relating to each call transmitted over the covered VoIP service of such provider that are sufficient to trace such call back to the source of such call.
@@ -166,7 +166,7 @@ Section 227 of the Communications Act of 1934 (47 U.S.C. 227) is amended by addi
 ## § 10. Protection from one-ring scams
 
 - **(a)** *Initiation of proceeding* Not later than 120 days after the date of the enactment of this Act, the Commission shall initiate a proceeding to protect called parties from one-ring scams.
-- **(b)** *Matters to be considered* As part of the proceeding required by subsection (a), the Commission shall consider how the Commission can—
+- **(b)** *Matters To be considered* As part of the proceeding required by subsection (a), the Commission shall consider how the Commission can—
   - **(1)** work with Federal and State law enforcement agencies to address one-ring scams;
   - **(2)** work with the governments of foreign countries to address one-ring scams;
   - **(3)** in consultation with the Federal Trade Commission, better educate consumers about how to avoid one-ring scams;
@@ -222,7 +222,7 @@ In this Act, the term “Commission” means the Federal Communications Commissi
   - **(4)** The reason, if any, each voice service provider identified by the registered consortium provided for not participating in private-led efforts to trace back the origin of suspected unlawful robocalls.
   - **(5)** A description of how the Commission may use the information provided to the Commission by voice service providers or the registered consortium that have participated in private-led efforts to trace back the origin of suspected unlawful robocalls in the enforcement efforts by the Commission.
 - **(c)** *Additional information* Not later than 210 days after the date of the enactment of this Act, and annually thereafter, the Commission shall issue a notice to the public seeking additional information from voice service providers and the registered consortium of private-led efforts to trace back the origin of suspected unlawful robocalls necessary for the report by the Commission required under subsection (a).
-- **(d)** *Registration of consortium of private-led efforts to trace back the origin of suspected unlawful robocalls*
+- **(d)** *Registration of consortium of private-Led efforts to trace back the origin of suspected unlawful robocalls*
   - **(1)** *In general* Not later than 90 days after the date of the enactment of this Act, the Commission shall issue rules to establish a registration process for the registration of a single consortium that conducts private-led efforts to trace back the origin of suspected unlawful robocalls. The consortium shall meet the following requirements:
     - **(A)** Be a neutral third-party competent to manage the private-led effort to trace back the origin of suspected unlawful robocalls in the judgement of the Commission.
     - **(B)** Maintain a set of written best practices about the management of such efforts and regarding providers of voice services’ participation in private-led efforts to trace back the origin of suspected unlawful robocalls.
@@ -266,3 +266,7 @@ In this Act, the term “Commission” means the Federal Communications Commissi
     - **(B)** includes—
       - **(i)** transmissions from a telephone facsimile machine, computer, or other device to a telephone facsimile machine; and
       - **(ii)** without limitation, any service that enables real-time, two-way voice communications, including any service that requires internet protocol-compatible customer premises equipment (commonly known as “CPE”) and permits out-bound calling, whether or not the service is one-way or two-way voice over internet protocol.
+
+## § 15. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.

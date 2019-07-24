@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3375
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3375
@@ -260,6 +260,10 @@ Stopping Bad Robocalls Act
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2019-07-24 — [House 116-1-502](votes/house-116-1-0502.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (429–3)
+
 ## Actions
 
 - 2019-06-20 — Introduced in House
@@ -273,3 +277,11 @@ Stopping Bad Robocalls Act
 - 2019-07-23 — Placed on the Union Calendar, Calendar No. 133.
 - 2019-07-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-173.
 - 2019-07-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-173.
+- 2019-07-24 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2019-07-24 — Considered as unfinished business. (consideration: CR H7312)
+- 2019-07-24 — Considered under suspension of the rules. (consideration: CR H7292-7303)
+- 2019-07-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3375.
+- 2019-07-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-07-24 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
+- 2019-07-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 429 - 3 (Roll no. 502). (text: CR H7293-7296)
+- 2019-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 429 - 3 (Roll no. 502).(text: CR H7293-7296)
