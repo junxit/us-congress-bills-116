@@ -1,7 +1,7 @@
 ---
 measure: H.R. 776
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 776
@@ -63,3 +63,12 @@ Emergency Medical Services for Children Program Reauthorization Act of 2019
 - 2019-07-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7364)
 - 2019-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7364)
 - 2019-07-25 — Received in the Senate, read twice.
+- 2019-07-31 — Passed Senate without amendment by Voice Vote. (consideration: CR S5275)
+- 2019-07-31 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S5275)
+- 2019-08-01 — Message on Senate action sent to the House.
+- 2019-08-13 — Presented to President.
+- 2019-08-13 — Presented to President.
+- 2019-08-22 — Became Public Law No: 116-49.
+- 2019-08-22 — Became Public Law No: 116-49.
+- 2019-08-22 — Signed by President.
+- 2019-08-22 — Signed by President.
