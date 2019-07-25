@@ -1,7 +1,7 @@
 ---
 measure: H.R. 397
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 397
@@ -286,3 +286,4 @@ Rehabilitation for Multiemployer Pensions Act of 2019
 - 2019-07-24 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-07-24 — The previous question was ordered pursuant to the rule.
 - 2019-07-24 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of the amendment offered by Mr. Roe (TN), which had been debated earlier and on which further proceedings had been postponed.
+- 2019-07-25 — Received in the Senate.
