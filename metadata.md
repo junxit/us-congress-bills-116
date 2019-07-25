@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3253
 congress: 116
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3253
@@ -50,3 +50,12 @@ Sustaining Excellence in Medicaid Act of 2019
 - 2019-06-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 46 (Roll no. 333). (text: CR H4706-4707)
 - 2019-06-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 46 (Roll no. 333).(text: CR H4706-4707)
 - 2019-06-19 — Received in the Senate, read twice.
+- 2019-07-25 — Amendment SA 930 agreed to in Senate by Unanimous Consent.
+- 2019-07-25 — Amendment SA 930 proposed by Senator Scott FL for Senator Blunt. (consideration: CR S5114; text: CR S5114) In the nature of a substitute.
+- 2019-07-25 — Measure laid before Senate by unanimous consent. (consideration: CR S5114)
+- 2019-07-25 — Message on Senate action sent to the House.
+- 2019-07-25 — Passed Senate with an amendment by Voice Vote.
+- 2019-07-25 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2019-07-25 — Senate amendment agreed to: Amendment SA 930 agreed to in Senate by Unanimous Consent.
+- 2019-07-25 — Senate amendment proposed (on the floor): Amendment SA 930 proposed by Senator Scott FL for Senator Blunt.(consideration: CR S5114; text: CR S5114)
+- 2019-07-25 — Senate amendment submitted

@@ -2,124 +2,48 @@
 legis-num: H.R. 3253
 congress: 116th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 3253
 
-> To provide for certain extensions with respect to the Medicaid program under title XIX of the Social Security Act, and for other purposes.
+That the bill from the House of Representatives (H.R. 3253) entitled “An Act to provide for certain extensions with respect to the Medicaid program under title XIX of the Social Security Act, and for other purposes.”, do pass with the following
 
-## § 1. Short title; Table of contents
+*Strike all after the enacting clause and insert the following:*
 
-- **(a)** *Short title* This Act may be cited as the “Empowering Beneficiaries, Ensuring Access, and Strengthening Accountability Act of 2019”.
-- **(b)** *Table of contents* The table of contents for this Act is as follows:
+## § 1. Short title
 
-## § 2. Extension of Money Follows the Person Rebalancing Demonstration
+This Act may be cited as the “Sustaining Excellence in Medicaid Act of 2019”.
 
-- **(a)** *In general*
-  - **(1)** *Funding* Section 6071(h) of the Deficit Reduction Act of 2005 (42 U.S.C. 1396a note) is amended—
-    - **(A)** in paragraph (1)—
-      - **(i)** in subparagraph (E), by striking “and” at the end;
-      - **(ii)** in subparagraph (F)—
-        - **(I)** by striking “subject to paragraph (3), 132,000,000” and inserting “$132,000,000”; and
-        - **(II)** by striking the period at the end and inserting a semicolon; and
-      - **(iii)** by adding at the end the following new subparagraphs:
-        > - **(G)** $417,000,000 for fiscal year 2020;
-        > - **(H)** $450,000,000 for each of fiscal years 2021 through 2023; and
-        > - **(I)** $225,000,000 for fiscal year 2024.
+## § 2. Extension of the Community Mental Health Services Demonstration Program
 
-    - **(B)** in paragraph (2)—
-      - **(i)** by striking “Subject to paragraph (3), amounts” and inserting “Amounts”; and
-      - **(ii)** by striking “2021” and inserting “2024”; and
-    - **(C)** by striking paragraph (3).
-  - **(2)** *Research and evaluation* Section 6071(g) of the Deficit Reduction Act of 2005 (42 U.S.C. 1396a note) is amended—
-    - **(A)** in paragraph (2), by striking “2016” and inserting “2024”; and
-    - **(B)** in paragraph (3), by inserting “and for each of fiscal years 2019 through 2024,” after “2016,”.
-- **(b)** *Changes to institutional residency period requirement*
-  - **(1)** *In general* Section 6071(b)(2) of the Deficit Reduction Act of 2005 (42 U.S.C. 1396a note) is amended—
-    - **(A)** in subparagraph (A)(i), by striking “90” and inserting “60”; and
-    - **(B)** by striking the flush sentence after subparagraph (B).
-  - **(2)** *Effective date* The amendments made by paragraph (1) shall take effect on the date that is 30 days after the date of the enactment of this Act.
-- **(c)** *Updates to State application requirements* Section 6071(c) of the Deficit Reduction Act of 2005 (42 U.S.C. 1396a note) is amended—
-  - **(1)** in paragraph (3), by striking “, which shall include” and all that follows through “2007”;
-  - **(2)** in paragraph (7)—
-    - **(A)** in the paragraph heading, by striking “Rebalancing” and inserting “Expenditures”;
-    - **(B)** in subparagraph (A), by adding “and” at the end; and
-    - **(C)** in subparagraph (B)—
-      - **(i)** in clause (i), by striking “and” at the end;
-      - **(ii)** in clause (ii), by striking the period at the end and inserting a semicolon; and
-      - **(iii)** by adding at the end the following:
-        > - **(iii)** include a work plan that describes for each Federal fiscal year that occurs during the proposed MFP demonstration project—
-        >   - **(I)** the use of grant funds for each proposed initiative that is designed to accomplish the objective described in subsection (a)(1), including a funding source for each activity that is part of each such proposed initiative;
-        >   - **(II)** an evaluation plan that identifies expected results for each such proposed initiative; and
-        >   - **(III)** a sustainability plan for components of such proposed initiatives that are intended to improve transitions, which shall be updated with actual expenditure information for each Federal fiscal year that occurs during the MFP demonstration project; and
-        > - **(iv)** contain assurances that grant funds used to accomplish the objective described in subsection (a)(1) shall be obligated not later than 24 months after the date on which the funds are awarded and shall be expended not later than 60 months after the date on which the funds are awarded (unless the Secretary approves a waiver of either such requirement).
+Section 223(d)(3) of the Protecting Access to Medicare Act of 2014 (42 U.S.C. 1396a note), as amended by Public Law 116–29, is amended by striking “July 14, 2019” and inserting “September 13, 2019”.
 
-  - **(3)** in paragraph (13)—
-    - **(A)** in subparagraph (A), by striking “; and” and inserting “, and in such manner as will meet the reporting requirements set forth for the Transformed Medicaid Statistical Management Information System (T–MSIS);”;
-    - **(B)** by redesignating subparagraph (B) as subparagraph (D); and
-    - **(C)** by inserting after subparagraph (A) the following:
-      > - **(B)** the State shall report on a quarterly basis on the use of grant funds by distinct activity, as described in the approved work plan, and by specific population as targeted by the State;
-      > - **(C)** if the State fails to report the information required under subparagraph (B), fails to report such information on a quarterly basis, or fails to make progress under the approved work plan, the State shall implement a corrective action plan and any lack of progress under the approved work plan may result in withholding of grant funds made available to the State; and
+## § 3. Extension of protection for Medicaid recipients of home and community-based services against spousal impoverishment
 
-- **(d)** *Funding for quality assurance and improvement; Technical assistance; Oversight* Section 6071(f) of the Deficit Reduction Act of 2005 (42 U.S.C. 1396a note) is amended by striking paragraph (2) and inserting the following:
-  > - **(2)** *Funding* From the amounts appropriated under subsection (h)(1) for each of fiscal years 2019 through 2024, $1,000,000 shall be available to the Secretary for each such fiscal year to carry out this subsection.
-
-- **(e)** *Best practices evaluation* Section 6071 of the Deficit Reduction Act of 2005 (42 U.S.C. 1396a note) is amended by adding at the end the following:
-  > - **(i)** *Best practices*
-  >   - **(1)** *Report* The Secretary, directly or through grant or contract, shall submit a report to the President and Congress not later than September 30, 2020, that contains findings and conclusions on best practices from the State MFP demonstration projects carried out with grants made under this section. The report shall include information and analyses with respect to the following:
-  >     - **(A)** The most effective State strategies for transitioning beneficiaries from institutional to qualified community settings carried out under the State MFP demonstration projects and how such strategies may vary for different types of beneficiaries, such as beneficiaries who are aged, physically disabled, intellectually or developmentally disabled, or individuals with serious mental illnesses, and other targeted waiver beneficiary populations.
-  >     - **(B)** The most common and the most effective State uses of grant funds carried out under the State MFP demonstration projects for transitioning beneficiaries from institutional to qualified community settings and improving health outcomes, including differentiating funding for current initiatives that are designed for such purpose and funding for proposed initiatives that are designed for such purpose.
-  >     - **(C)** The most effective State approaches carried out under State MFP demonstration projects for improving person-centered care and planning.
-  >     - **(D)** Identification of program, financing, and other flexibilities available under the State MFP demonstration projects, that are not available under the traditional Medicaid program, and which directly contributed to successful transitions and improved health outcomes under the State MFP demonstration projects.
-  >     - **(E)** State strategies and financing mechanisms for effective coordination of housing financed or supported under State MFP demonstration projects with local housing authorities and other resources.
-  >     - **(F)** Effective State approaches for delivering Money Follows the Person transition services through managed care entities.
-  >     - **(G)** Other best practices and effective transition strategies demonstrated by States with approved MFP demonstration projects, as determined by the Secretary.
-  >     - **(H)** Identification and analyses of opportunities and challenges to integrating effective Money Follows the Person practices and State strategies into the traditional Medicaid program.
-  >   - **(2)** *Collaboration* In preparing the report required under this subsection, the Secretary shall collect and incorporate information from States with approved MFP demonstration projects and beneficiaries participating in such projects, and providers participating in such projects.
-  >   - **(3)** *Funding* From the amounts appropriated under subsection (h)(1) for each of fiscal years 2020 and 2021, not more than $300,000 shall be available to the Secretary for each such fiscal year to carry out this subsection.
-
-- **(f)** *MACPAC report on qualified settings criteria* Section 6071 of the Deficit Reduction Act of 2005 (42 U.S.C. 1396a note), as amended by subsection (e), is further amended by adding at the end the following:
-  > - **(j)** *MACPAC report* Prior to the final implementation date established by the Secretary for the criteria established for home and community-based settings in section 441.301(c)(4) of title 42, Code of Federal Regulations, as part of final implementation of the Home and Community Based Services (HCBS) Final Rule published on January 16, 2014 (79 Fed. Reg. 2947) (referred to in this subsection as the HCBS final rule), the Medicaid and CHIP Payment and Access Commission (MACPAC) shall submit to Congress a report that—
-  >   - **(1)** identifies the types of home and community-based settings and associated services that are available to eligible individuals in both the MFP demonstration program and sites in compliance with the HCBS final rule; and
-  >   - **(2)** if determined appropriate by the Commission, recommends policies to align the criteria for a qualified residence under subsection (b)(6) (as in effect on October 1, 2017) with the criteria in the HCBS final rule.
-
-- **(g)** *Application to current projects* Not later than 1 year after the date of the enactment of this Act, any State with an approved MFP demonstration project under section 6071 of the Deficit Reduction Act of 2005 (42 U.S.C. 1396a note) on the date of the enactment of this Act shall submit a revised application to the Secretary that contains the same information and assurances as are required for any new State applicant under the amendments made by this section.
-
-## § 3. Clarifying authority of State Medicaid fraud and abuse control units to investigate and prosecute cases of Medicaid patient abuse and neglect in any setting
-
-- **(a)** *In general* Section 1903(q)(4)(A)(ii) of the Social Security Act (42 U.S.C. 1396b(q)(4)(A)(ii)) is amended by inserting after “patients residing in board and care facilities” the following: “and of patients (who are receiving medical assistance under the State plan under this title) in a noninstitutional or other setting”.
-- **(b)** *Availability of funding* Section 1903(a)(6) of the Social Security Act (42 U.S.C. 1396b(a)(6)) is amended, in the matter following subparagraph (B), by striking “(as found necessary by the Secretary for the elimination of fraud in the provision and administration of medical assistance provided under the State plan)”.
-
-## § 4. Extension of protection for Medicaid recipients of home and community-based services against spousal impoverishment
-
-- **(a)** *In general* Section 2404 of Public Law 111–148 (42 U.S.C. 1396r–5 note) is amended by striking “September 30, 2019” and inserting “March 31, 2024”.
-- **(b)** *Rule of construction* Nothing in section 2404 of Public Law 111–148 (42 U.S.C. 1396r–5 note), section 1924 of the Social Security Act (42 U.S.C. 1396r–5), or section 1902(a)(17) of such Act (42 U.S.C. 1396a(a)(17)) shall be construed as prohibiting a State from applying an income or resource disregard authorized under section 1902(r)(2) of such Act (42 U.S.C. 1396a(r)(2))—
-  - **(1)** to the income or resources of individuals described in section 1902(a)(10)(A)(ii)(VI) of such Act (42 U.S.C. 1396a(a)(10)(A)(ii)(VI)) (including a disregard of the income or resources of such individual’s spouse); or
+- **(a)** *In general* Section 2404 of Public Law 111–148 (42 U.S.C. 1396r–5 note) is amended by striking “September 30, 2019” and inserting “December 31, 2019”.
+- **(b)** *Rule of construction* Nothing in section 2404 of Public Law 111–148 (42 U.S.C. 1396r–5 note) or section 1902(a)(17) or 1924 of the Social Security Act (42 U.S.C. 1396a(a)(17), 1396r–5) shall be construed as prohibiting a State from applying an income or resource disregard under a methodology authorized under section 1902(r)(2) of such Act (42 U.S.C. 1396a(r)(2))—
+  - **(1)** to the income or resources of an individual described in section 1902(a)(10)(A)(ii)(VI) of such Act (42 U.S.C. 1396a(a)(10)(A)(ii)(VI)) (including a disregard of the income or resources of such individual’s spouse); or
   - **(2)** on the basis of an individual’s need for home and community-based services authorized under subsection (c), (d), (i), or (k) of section 1915 of such Act (42 U.S.C. 1396n) or under section 1115 of such Act (42 U.S.C. 1315).
 
-## § 5. Extension of the Community Mental Health Services Demonstration Program
+## § 4. Extension of Money Follows the Person Rebalancing Demonstration
 
-Section 223(d) of the Protecting Access to Medicare Act of 2014 (42 U.S.C. 1396a note) is amended—
+Section 6071(h)(1)(F) of the Deficit Reduction Act of 2005 (42 U.S.C. 1396a note) is amended by striking “$132,000,000” and inserting “$254,500,000”.
 
-- **(1)** in paragraph (3), by striking “June 30, 2019” and inserting “December 31, 2021”; and
-- **(2)** in paragraph (7)(B), by striking “December 31, 2021” and inserting “June 30, 2021”.
+## § 5. Extension for family-to-family health information centers
 
-## § 6. Preventing inappropriately low rebates under Medicaid drug rebate program
+Section 501(c) of the Social Security Act (42 U.S.C. 701(c)) is amended—
 
-- **(a)** *Prohibiting manufacturers from blending average manufacturer price of brand drug and any authorized generic of such drug* Section 1927(k)(1)(C) of the Social Security Act (42 U.S.C. 1396r–8(k)(1)(C)) is amended—
-  - **(1)** in the subparagraph heading, by striking “Inclusion” and inserting “Exclusion”;
-  - **(2)** by striking “a new drug application” and inserting “the manufacturer’s new drug application”; and
-  - **(3)** by striking “inclusive” and inserting “exclusive”.
-- **(b)** *Eliminating manufacturers from definition of wholesaler* Section 1927(k)(11) of the Social Security Act (42 U.S.C. 1396r–8(k)(11)) is amended—
-  - **(1)** by striking “manufacturers,”; and
-  - **(2)** by striking “manufacturer’s and”.
-- **(c)** *Effective date* The amendments made by this section shall apply with respect to covered outpatient drugs dispensed on or after January 1, 2020.
+- **(1)** in paragraph (1)(A)(vii), by striking “and 2019” and inserting “through 2024”; and
+- **(2)** in paragraph (3)(C), by striking “fiscal years 2018 and 2019” and inserting “fiscal year 2018 and each fiscal year thereafter”.
 
-## § 7. Medicaid Improvement Fund
+## § 6. Reduced wholesale acquisition cost (WAC)-based payments for new drugs and biologicals
 
-Section 1941(b)(1) of the Social Security Act (42 U.S.C. 1396w–1(b)(1)) is amended by striking “$6,000,000” and inserting “$45,500,000”.
+Section 1847A(c)(4) of the Social Security Act (42 U.S.C. 1395w–3a(c)(4)) is amended by striking “payable under this section for the drug or biological based on—” and all that follows through the period at the end and inserting the following: “payable under this section—
 
-## § 8. Determination of budgetary effects
-
-The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
+> - **(A)** in the case of a drug or biological furnished prior to January 1, 2019, based on—
+>   - **(i)** the wholesale acquisition cost; or
+>   - **(ii)** the methodologies in effect under this part on November 1, 2003, to determine payment amounts for drugs or biologicals; and
+> - **(B)** in the case of a drug or biological furnished on or after January 1, 2019—
+>   - **(i)** at an amount not to exceed 103 percent of the wholesale acquisition cost; or
+>   - **(ii)** based on the methodologies in effect under this part on November 1, 2003, to determine payment amounts for drugs or biologicals.
