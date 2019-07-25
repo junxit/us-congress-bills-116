@@ -1,7 +1,7 @@
 ---
 measure: H.R. 434
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 434
@@ -100,3 +100,14 @@ Emancipation National Historic Trail Study Act
 - 2019-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7353)
 - 2019-07-24 — The title of the measure was amended. Agreed to without objection.
 - 2019-07-25 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2020-01-13 — Passed Senate without amendment by Voice Vote.
+- 2020-01-13 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2020-01-13 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent. (consideration: CR S163)
+- 2020-01-13 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.(consideration: CR S163)
+- 2020-01-14 — Message on Senate action sent to the House.
+- 2020-01-16 — Presented to President.
+- 2020-01-16 — Presented to President.
+- 2020-01-27 — Became Public Law No: 116-111.
+- 2020-01-27 — Became Public Law No: 116-111.
+- 2020-01-27 — Signed by President.
+- 2020-01-27 — Signed by President.
