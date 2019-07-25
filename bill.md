@@ -46,7 +46,7 @@ This Act may be cited as the “U.S. Senator Joseph D. Tydings Memorial Prevent 
 - **(c)** *Horse shows and exhibitions* Section 4 of the Horse Protection Act (15 U.S.C. 1823) is amended—
   - **(1)** in subsection (a)—
     - **(A)** by striking “appointed” and inserting “licensed”; and
-    - **(B)** by adding at the end the following new sentences: “In the first instance in which the Secretary determines that a horse is sore, the Secretary shall disqualify the horse from being shown or exhibited for a period of not less than 180 days. In the second instance in which the Secretary determines that such horse is sore, the Secretary shall disqualify the horse for a period of not less than one year. In the third instance in which the Secretary determines that such horse is sore, the Secretary shall disqualify the horse for a period of not less than three years.”;
+    - **(B)** by adding at the end the following new sentences: “In the first instance in which the Secretary determines that a horse is sore, the Secretary shall disqualify the horse from being shown or exhibited for a period of not less than 180 days. In the second instance in which the Secretary determines that such horse is sore, the Secretary shall disqualify the horse for a period of not less than 1 year. In the third instance in which the Secretary determines that such horse is sore, the Secretary shall disqualify the horse for a period of not less than 3 years.”;
   - **(2)** in subsection (b) by striking “appointed” and inserting “licensed”;
   - **(3)** by striking subsection (c) and inserting the following new subsection:
     > - **(c)**
@@ -59,7 +59,7 @@ This Act may be cited as the “U.S. Senator Joseph D. Tydings Memorial Prevent 
     >   - **(2)**
     >     - **(A)** Not later than 30 days before the date on which a horse show, horse exhibition, or horse sale or auction begins, the management of such show, exhibition, or sale or auction may notify the Secretary of the intent of the management to hire a person or persons licensed under this subsection and assigned by the Secretary to conduct inspections at such show, exhibition, or sale or auction.
     >     - **(B)** After such notification, the Secretary shall assign a person or persons licensed under this subsection to conduct inspections at the horse show, horse exhibition, or horse sale or auction.
-    >   - **(3)** A person licensed by the Secretary to conduct inspections under this subsection shall issue a citation with respect to any violation of this Act recorded during an inspection and notify the Secretary of each such violation not later than five days after the date on which a citation was issued with respect to such violation.
+    >   - **(3)** A person licensed by the Secretary to conduct inspections under this subsection shall issue a citation with respect to any violation of this Act recorded during an inspection and notify the Secretary of each such violation not later than 5 days after the date on which a citation was issued with respect to such violation.
 
   - **(4)** by adding at the end the following new subsection:
     > - **(f)** The Secretary shall publish on the public website of the Animal and Plant Health Inspection Service of the Department of Agriculture, and update as frequently as the Secretary determines is necessary, information on violations of this Act for the purposes of allowing the management of a horse show, horse exhibition, or horse sale or auction to determine if an individual is in violation of this Act.
@@ -87,13 +87,13 @@ This Act may be cited as the “U.S. Senator Joseph D. Tydings Memorial Prevent 
   - **(1)** in subsection (a)—
     - **(A)** in paragraph (1)—
       - **(i)** by striking “Except as provided in paragraph (2) of this subsection, any person who knowingly violates section 5” and inserting “Any person who knowingly violates section 5 or the regulations issued under such section, including any violation recorded during an inspection conducted in accordance with section 4(c) or 4(e)”; and
-      - **(ii)** by striking “more than $3,000, or imprisoned for not more than one year, or both.” and inserting “more than $5,000, or imprisoned for not more than three years, or both, for each such violation.”;
+      - **(ii)** by striking “more than $3,000, or imprisoned for not more than 1 year, or both.” and inserting “more than $5,000, or imprisoned for not more than 3 years, or both, for each such violation.”;
     - **(B)** in paragraph (2)—
       - **(i)** by striking subparagraph (A);
       - **(ii)** by striking “(2)”; and
-      - **(iii)** by redesignating subparagraphs (B) and (C) as paragraphs (2) and (3), respectively, and moving the margins of such paragraphs (as so redesignated) two ems to the left; and
+      - **(iii)** by redesignating subparagraphs (B) and (C) as paragraphs (2) and (3), respectively, and moving the margins of such paragraphs (as so redesignated) 2 ems to the left; and
     - **(C)** by adding at the end the following new paragraph:
-      > - **(4)** Any person who knowingly fails to obey an order of disqualification shall, upon conviction thereof, be fined not more than $5,000 for each failure to obey such an order, imprisoned for not more than three years, or both.
+      > - **(4)** Any person who knowingly fails to obey an order of disqualification shall, upon conviction thereof, be fined not more than $5,000 for each failure to obey such an order, imprisoned for not more than 3 years, or both.
 
   - **(2)** in subsection (b)—
     - **(A)** in paragraph (1)—
@@ -104,9 +104,13 @@ This Act may be cited as the “U.S. Senator Joseph D. Tydings Memorial Prevent 
 
   - **(3)** in subsection (c)—
     - **(A)** in the first sentence—
-      - **(i)** by inserting “, or otherwise participating in any horse show, horse exhibition, or horse sale or auction” before “for a period of not less than one year”; and
+      - **(i)** by inserting “, or otherwise participating in any horse show, horse exhibition, or horse sale or auction” before “for a period of not less than 1 year”; and
       - **(ii)** by striking “any subsequent” and inserting “the second”;
     - **(B)** by inserting before “Any person who knowingly fails” the following: “For the third or any subsequent violation, a person may be permanently disqualified by order of the Secretary, after notice and an opportunity for a hearing before the Secretary, from showing or exhibiting any horse, judging or managing any horse show, horse exhibition, or horse sale or auction, or otherwise participating in, including financing the participation of other individuals in, any horse show, horse exhibition, or horse sale or auction (regardless of whether walking horses are shown, exhibited, sold, auctioned, or offered for sale at the horse show, horse exhibition, or horse sale or auction).”; and
     - **(C)** by striking “$3,000” each place it appears and inserting “$5,000”.
 - **(f)** *Regulations* Not later than 180 days after the date of the enactment of this Act, the Secretary of Agriculture shall issue regulations to carry out the amendments made by this section, including regulations prescribing the requirements under subsection (c) of section 4 of the Horse Protection Act (15 U.S.C. 1823(c)), as amended by subsection (c)(3).
 - **(g)** *Severability* If any provision of this Act or any amendment made by this Act, or the application of a provision to any person or circumstance, is held to be unconstitutional, the remainder of this Act and the amendments made by this Act, and the application of the provisions to any person or circumstance, shall not be affected by the holding.
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.

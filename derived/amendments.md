@@ -1,7 +1,7 @@
 ---
 measure: H.R. 693
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -107,12 +107,12 @@ to guess them.
 
 ### 15 U.S.C. § 1825
 
-> by striking “more than $3,000, or imprisoned for not more than one year, or both.” and inserting “more than $5,000, or imprisoned for not more than three years, or both, for each such violation.”;
+> by striking “more than $3,000, or imprisoned for not more than 1 year, or both.” and inserting “more than $5,000, or imprisoned for not more than 3 years, or both, for each such violation.”;
 
 | | |
 |---|---|
-| Removed | `more than $3,000, or imprisoned for not more than one year, or both.` |
-| Inserted | `more than $5,000, or imprisoned for not more than three years, or both, for each such violation.` |
+| Removed | `more than $3,000, or imprisoned for not more than 1 year, or both.` |
+| Inserted | `more than $5,000, or imprisoned for not more than 3 years, or both, for each such violation.` |
 
 ### 15 U.S.C. § 1825
 
@@ -175,8 +175,8 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 1824` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1825` | strike | by striking subparagraph (A); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1825` | strike | by striking “(2)”; and | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 1825` | redesignate | by redesignating subparagraphs (B) and (C) as paragraphs (2) and (3), respectively, and moving the margins of such paragraphs (as so redesignated) two ems to the left; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1825` | redesignate | by redesignating subparagraphs (B) and (C) as paragraphs (2) and (3), respectively, and moving the margins of such paragraphs (as so redesignated) 2 ems to the left; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1825` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1825` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 1825` | insert | by inserting “, or otherwise participating in any horse show, horse exhibition, or horse sale or auction” before “for a period of not less than one year”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 1825` | insert | by inserting “, or otherwise participating in any horse show, horse exhibition, or horse sale or auction” before “for a period of not less than 1 year”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 1825` | insert | by inserting before “Any person who knowingly fails” the following: “For the third or any subsequent violation, a person may be permanently disqualified by order of the Secretary, after notice and an opportunity for a hearing before the … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
