@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3352
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-154 amendatory instructions. 50 executed, 104 stated and not applied.
+150 amendatory instructions. 50 executed, 100 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -491,8 +491,6 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 2291h` | insert | Subsection (a) of section 489 of the Foreign Assistance Act of 1961 (22 U.S.C. 2291h) is amended by inserting after paragraph (8) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2651a` | redesignate | by redesignating subsection (g) as subsection (i); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2651a` | insert | by inserting after subsection (f) the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 4021` | redesignate | by redesignating subsection (g) as subsection (h); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 4021` | insert | by inserting after subsection (f) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 3981` | insert | in section 501 (22 U.S.C. 3981), by inserting “If a position designated under this section is unfilled for more than 365 calendar days, such position may be filled, as appropriate, on a temporary basis, in accordance with section 309.” a… | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 3982` | insert | in paragraph (2) of section 502(a) (22 U.S.C. 3982(a)), by inserting “, or domestically, in a position working on issues relating to a particular country or geographic area,” after “geographic area”. | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 2651a` | redesignate | by redesignating paragraph (4) (as redesignated pursuant to such section 103) as paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -513,14 +511,13 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 4081` | insert | by inserting “or” after “resides,”; | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 4081` | insert | by inserting after subparagraph (B) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 4083` | add-at-end | Section 903(b) of the Foreign Service Act of 1980 (22 U.S.C. 4083(b)) is amended by adding at the end the following new sentence: “In cases in which the family members of a member of the Service reside apart from the member at authorized… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 4013` | amend | by amending the section heading to read as follows: “Department awards”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 4013` | amend | by amending the section heading to read as follows: “Department Awards”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 4013` | insert | in the first sentence, by inserting “or Civil Service” after “the Service”. | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 4013` | amend | The item relating to section 614 in the table of contents of the Foreign Service Act of 1980 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 3982` | add-at-end | Section 502(a)(2) of the Foreign Service Act of 1980 (22 U.S.C. 3982(a)(2)), as amended by section 111 of this Act, is further amended by adding at the end the following new sentences: “Any employee subjected to an assignment restriction… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 3948` | add-at-end | Subsection (b) of section 308 of the Foreign Service Act of 1980 (22 U.S.C. 3948) is amended by adding at the end the following new sentence: “Former career tenured members of the Service seeking reappointment, if separated for other tha… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 3948` | insert | Title 5, United States Code, is amended by inserting after chapter 102 the following new chapter: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 3948` | add-at-end | The table of sections for subpart I of title 5, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 3948` | amend | Subsection (a) of section 308 of the Foreign Service Act of 1980 (22 U.S.C. 3948) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Chapter 103 of title 5, United States Code, as added by section 313 of this Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | The table of sections for subpart I of title 5, United States Code, is amended by adding after the item relating to section 10302 the following new item: | the bill names no machine-readable US Code section |
 | — | strike | Section 1115(d) of the Supplemental Appropriations Act, 2009 (Public Law 111–32) is amended by striking the last sentence. | the bill names no machine-readable US Code section |
@@ -529,15 +526,14 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 4010` | strike | by striking “(7) In this subsection:”; | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 4010` | replace | in subparagraph (A), by striking “(A) The term” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 4010` | strike | by striking subparagraph (B) (relating to the definition of “suspend” and “suspension”); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 4010` | redesignate | by redesignating clauses (i) and (ii) as subparagraphs (A) and (B), respectively; and moving such subparagraphs two ems to the left. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 4010` | redesignate | by redesignating clauses (i) and (ii) as subparagraphs (A) and (B), respectively; and moving such subparagraphs 2 ems to the left. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 4803` | add-at-end | Subchapter II of chapter 63 of title 5, United States Code, is amended by adding at the end the following new sections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 4803` | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 6329c the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 3941` | replace | by striking “The Secretary” and inserting: “(1) The Secretary”; and | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 3941` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 6553` | strike | by striking “until October 1, 2020”. | the bill quotes the text struck but describes what replaces it |
-| `22 U.S.C. § 2321j` | redesignate | by redesignating subparagraphs (A) through (F) as paragraphs (1) through (6), respectively, and moving the margins of each such paragraph two ems to the left; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2321j` | redesignate | in paragraph (2), as redesignated, by inserting “except as provided in subsection (c)(3),” before “funds available”; and | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 2321j` | strike | by striking “(2) Accordingly,” and all that follows through “1990.” ; | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 2321j` | redesignate | by redesignating subparagraphs (A) through (F) as paragraphs (1) through (6), respectively, and moving the margins of each such paragraph 2 ems to the left; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2321j` | strike | by striking “(2) Accordingly,” and all that follows through “1990.”; | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 2321j` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2321j` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2761` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
