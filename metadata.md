@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1984
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1984
@@ -35,9 +35,10 @@ Disclosing Aid Spent to Ensure Relief Act
 - Rep. Spano, Ross [R-FL-15] (S001210)
 - Rep. Himes, James A. [D-CT-4] (H001047)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -57,3 +58,4 @@ Disclosing Aid Spent to Ensure Relief Act
 - 2019-07-24 — Mr. DeFazio moved to suspend the rules and pass the bill.
 - 2019-07-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7287-7288)
 - 2019-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7287-7288)
+- 2019-07-25 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
