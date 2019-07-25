@@ -1,7 +1,7 @@
 ---
 measure: S. 1275
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1275
@@ -32,3 +32,5 @@ Federal Agency Customer Experience Act of 2019
 - 2019-06-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 116-46.
 - 2019-06-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 116-46.
 - 2019-06-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 111.
+- 2019-07-25 — Passed Senate with amendments by Voice Vote. (consideration: CR S5115-5117; text: CR S5115-5117)
+- 2019-07-25 — Passed/agreed to in Senate: Passed Senate with amendments by Voice Vote.(consideration: CR S5115-5117; text: CR S5115-5117)

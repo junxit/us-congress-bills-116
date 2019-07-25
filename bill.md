@@ -18,9 +18,9 @@ This Act may be cited as the “Federal Agency Customer Experience Act of 2019�
 - **(a)** *Findings* Congress finds that—
   - **(1)** the Federal Government serves the people of the United States and should seek to continually improve public services provided by the Federal Government based on customer feedback;
   - **(2)** the people of the United States deserve a Federal Government that provides efficient, effective, and high-quality services across multiple channels;
-  - **(3)** many agencies, offices, programs, and Federal employees provide excellent service to individuals;, however, many parts of the Federal Government still fall short on delivering the customer service experience that individuals have come to expect from the private sector;
+  - **(3)** many agencies, offices, programs, and Federal employees provide excellent service to individuals, however, many parts of the Federal Government still fall short on delivering the customer service experience that individuals have come to expect from the private sector;
   - **(4)** according to the 2018 American Customer Satisfaction Index, the Federal Government ranks among the bottom of all industries in the United States in customer satisfaction;
-  - **(5)** providing quality services to individuals improves the confidence of the people of the United States in their government Government and helps agencies achieve greater impact and fulfill their missions; and
+  - **(5)** providing quality services to individuals improves the confidence of the people of the United States in their Government and helps agencies achieve greater impact and fulfill their missions; and
   - **(6)** improving service to individuals requires agencies to work across organizational boundaries, leverage technology, collect and share standardized data, and develop customer-centered mindsets and service strategies.
 - **(b)** *Sense of Congress* It is the sense of Congress that—
   - **(1)** all agencies should strive to provide high-quality, courteous, effective, and efficient services to the people of the United States and seek to measure, collect, report, and utilize metrics relating to the experience of individuals interacting with agencies to continually improve services to the people of the United States; and
@@ -41,10 +41,10 @@ In this Act:
 Subchapter I of chapter 35 of title 44, United States Code (commonly known as the “Paperwork Reduction Act”), is amended—
 
 - **(1)** in section 3502, as amended by section 202(a) of the Foundations for Evidence-Based Policymaking Act of 2018 (Public Law 115–435)—
-  - **(A)** in paragraph (13)(D) (22), by striking “and” at the end;
-  - **(B)** in paragraph (14) (23), by striking the period at the end and inserting “; and”; and
+  - **(A)** in paragraph (22), by striking “and” at the end;
+  - **(B)** in paragraph (23), by striking the period at the end and inserting “; and”; and
   - **(C)** by adding at the end the following:
-    > - **(1524)** the term voluntary feedback means any submission of information, opinion, or concern that is—
+    > - **(24)** the term voluntary feedback means any submission of information, opinion, or concern that is—
     >   - **(A)** voluntarily made by a specific individual or other entity relating to a particular service of or transaction with an agency; and
     >   - **(B)** specifically solicited by that agency.
 
