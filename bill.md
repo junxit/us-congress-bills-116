@@ -30,7 +30,8 @@ This Act may be cited as the “Eliminate From Regulators Opportunities to Natio
   - **(2)** affect the authority of the President under section 706 of the Communications Act of 1934 (47 U.S.C. 606); or
   - **(3)** prevent—
     - **(A)** an agency from providing another agency with access to a broadband network; or
-    - **(B)** a private entity from obtaining access to a broadband network at a facility that is owned or operated by the Federal Government if that entity is under a contract to provide services at that facility.
+    - **(B)** a private entity from obtaining access to a broadband network at a facility that is owned or operated by the Federal Government if that entity is under a contract to provide services at that facility.; or
+  - **(4)** affect the authority of the Federal Communications Commission under the Communications Act of 1934 (47 U.S.C. 151 et seq.).
 
 ## § 3. Report on vulnerabilities of United States broadband networks
 
