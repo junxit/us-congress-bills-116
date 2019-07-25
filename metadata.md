@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3239
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3239
@@ -179,10 +179,11 @@ Humanitarian Standards for Individuals in Customs and Border Protection Custody 
 - Rep. McBath, Lucy [D-GA-6] (M001208)
 - Rep. Davis, Susan A. [D-CA-53] (D000598)
 
-## Committees (2)
+## Committees (3)
 
 - House — Homeland Security Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (2)
 
@@ -243,3 +244,4 @@ Humanitarian Standards for Individuals in Customs and Border Protection Custody 
 - 2019-07-24 — The Speaker designated the Honorable Salud O. Carbajal to act as Chairman of the Committee.
 - 2019-07-24 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-07-24 — The previous question was ordered pursuant to the rule.
+- 2019-07-25 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
