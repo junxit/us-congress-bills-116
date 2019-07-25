@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2336
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2336
@@ -61,3 +61,9 @@ Family Farmer Relief Act of 2019
 - 2019-07-24 — Placed on the Union Calendar, Calendar No. 141.
 - 2019-07-24 — Reported by the Committee on Judiciary. H. Rept. 116-182.
 - 2019-07-24 — Reported by the Committee on Judiciary. H. Rept. 116-182.
+- 2019-07-25 — Considered under suspension of the rules. (consideration: CR H7438-7439)
+- 2019-07-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2336.
+- 2019-07-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-07-25 — Mr. Cicilline moved to suspend the rules and pass the bill, as amended.
+- 2019-07-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7438)
+- 2019-07-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7438)
