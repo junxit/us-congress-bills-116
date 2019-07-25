@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 420
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 420
@@ -29,3 +29,10 @@ Permitting official photographs of the House of Representatives to be taken whil
 - 2019-06-04 — Introduced in House
 - 2019-06-04 — Introduced in House
 - 2019-06-04 — Referred to the House Committee on House Administration.
+- 2019-07-25 — Committee on House Administration discharged.
+- 2019-07-25 — Committee on House Administration discharged.
+- 2019-07-25 — Considered by unanimous consent. (consideration: CR H7443)
+- 2019-07-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-07-25 — Ms. Lofgren asked unanimous consent to discharge from committee and consider.
+- 2019-07-25 — On agreeing to the resolution Agreed to without objection. (text: CR H7443)
+- 2019-07-25 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H7443)
