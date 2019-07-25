@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3299
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
