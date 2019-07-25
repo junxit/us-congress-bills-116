@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3245
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3245
@@ -63,3 +63,12 @@ Restore the Harmony Way Bridge Act
 - 2019-07-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7290)
 - 2019-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7290)
 - 2019-07-25 — Received in the Senate, read twice.
+- 2019-07-31 — Message on Senate action sent to the House.
+- 2019-07-31 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5217)
+- 2019-07-31 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5217)
+- 2019-08-13 — Presented to President.
+- 2019-08-13 — Presented to President.
+- 2019-08-23 — Became Public Law No: 116-56.
+- 2019-08-23 — Became Public Law No: 116-56.
+- 2019-08-23 — Signed by President.
+- 2019-08-23 — Signed by President.
