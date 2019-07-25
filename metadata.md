@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1058
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1058
@@ -217,3 +217,4 @@ Autism Collaboration, Accountability, Research, Education, and Support Act of 20
 - 2019-07-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7303-7304)
 - 2019-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7303-7304)
 - 2019-07-24 — The title of the measure was amended. Agreed to without objection.
+- 2019-07-25 — Received in the Senate, read twice.
