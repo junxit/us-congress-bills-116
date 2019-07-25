@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 4047
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4047
+
+> To require certain Federal financial regulators to carry out an independent study of their regulated entities’ processes for allowing third parties to access consumer-authorized financial data.
+
+## § 1. Short title
+
+This Act may be cited as the “Open Banking Study Act of 2019”.
+
+## § 2. Consumer-authorized financial data study
+
+- **(a)** *Study* The Board of Governors of the Federal Reserve System, the Bureau of Consumer Financial Protection, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the National Credit Union Administration shall, jointly, carry out a study of their regulated entities’ processes for allowing third parties to access consumer-authorized financial data.
+- **(b)** *Report* Not later than the end of the 1-year period beginning on the date of enactment of this Act, the Federal agencies required to carry out a study under subsection (a) shall submit a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate containing—
+  - **(1)** a description of all findings and determinations made in carrying out the study required under subsection (a); and
+  - **(2)** administrative and legislative recommendations that would encourage consumer-authorized financial data sharing and aggregation consistent with the agencies’ safety and soundness, consumer protection, and cybersecurity standards, and all applicable laws and regulations.
