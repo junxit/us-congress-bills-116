@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 519
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 519
@@ -16,6 +16,10 @@ Providing for consideration of the bill (H.R. 3877) to amend the Balanced Budget
 
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
 
+## Committees (1)
+
+- House — Rules Committee
+
 ## Actions
 
 - 2019-07-24 — Introduced in House
@@ -23,3 +27,11 @@ Providing for consideration of the bill (H.R. 3877) to amend the Balanced Budget
 - 2019-07-24 — Resolution provides for consideration of H.R. 3877 and H.R. 549 under closed rules. Resolution also waives clause 6(a) of Rule XIII, requiring a two-thirds vote waiver to consider a rule on the same day it is reported from the Rules Committee against any resolution reported through the legislative day of July 26, 2019.
 - 2019-07-24 — The House Committee on Rules reported an original measure, H. Rept. 116-183, by Mr. Perlmutter.
 - 2019-07-24 — The House Committee on Rules reported an original measure, H. Rept. 116-183, by Mr. Perlmutter.
+- 2019-07-25 — Considered as privileged matter. (consideration: CR H7390-7395)
+- 2019-07-25 — Considered as unfinished business. (consideration: CR H7396-7397)
+- 2019-07-25 — DEBATE - The House proceeded with one hour of debate on H. Res. 519.
+- 2019-07-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-07-25 — On agreeing to the resolution Agreed to by the Yeas and Nays: 232 - 197 (Roll no. 509). (text: CR H7390-7391)
+- 2019-07-25 — On ordering the previous question Agreed to by the Yeas and Nays: 234 - 195 (Roll no. 508). (consideration: CR H7395, H7396)
+- 2019-07-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 519, the Chair put the question on ordering the previous question and by voice vote, announced the ayes had prevailed. Mr. Cole demanded the yeas and nays and the Chair postponed further proceedings until later in the legislative day.
+- 2019-07-25 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 232 - 197 (Roll no. 509).(text: CR H7390-7391)
