@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3375
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3375
@@ -285,3 +285,4 @@ Stopping Bad Robocalls Act
 - 2019-07-24 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
 - 2019-07-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 429 - 3 (Roll no. 502). (text: CR H7293-7296)
 - 2019-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 429 - 3 (Roll no. 502).(text: CR H7293-7296)
+- 2019-07-25 — Received in the Senate.
