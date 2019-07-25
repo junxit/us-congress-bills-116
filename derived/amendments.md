@@ -1,7 +1,7 @@
 ---
 measure: S. 1275
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -31,8 +31,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | in paragraph (13)(D) (22), by striking “and” at the end; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (14) (23), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (22), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (23), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (C), by striking “or” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (D), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
