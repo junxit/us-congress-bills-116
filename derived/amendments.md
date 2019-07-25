@@ -1,7 +1,7 @@
 ---
 measure: H.R. 776
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 
