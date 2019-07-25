@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1365
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1365
@@ -25,9 +25,10 @@ To make technical corrections to the Guam World War II Loyalty Recognition Act.
 - Rep. Shimkus, John [R-IL-15] (S000364)
 - Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ To make technical corrections to the Guam World War II Loyalty Recognition Act.
 - 2019-07-24 — Mr. San Nicolas moved to suspend the rules and pass the bill, as amended.
 - 2019-07-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7351)
 - 2019-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7351)
+- 2019-07-25 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
