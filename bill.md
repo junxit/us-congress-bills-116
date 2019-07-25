@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 3253
-congress: 116th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Sixteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 3253
 
-That the bill from the House of Representatives (H.R. 3253) entitled “An Act to provide for certain extensions with respect to the Medicaid program under title XIX of the Social Security Act, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To provide for certain extensions with respect to the Medicaid program under title XIX of the Social Security Act, and for other purposes.
 
 ## § 1. Short title
 

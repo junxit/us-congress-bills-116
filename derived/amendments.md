@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3253
 congress: 116
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 

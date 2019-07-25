@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3253
 congress: 116
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3253
@@ -59,3 +59,13 @@ Sustaining Excellence in Medicaid Act of 2019
 - 2019-07-25 — Senate amendment agreed to: Amendment SA 930 agreed to in Senate by Unanimous Consent.
 - 2019-07-25 — Senate amendment proposed (on the floor): Amendment SA 930 proposed by Senator Scott FL for Senator Blunt.(consideration: CR S5114; text: CR S5114)
 - 2019-07-25 — Senate amendment submitted
+- 2019-07-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-07-30 — Ms. Norton asked unanimous consent to take from the Speaker's Table and agree to the Senate amendment. (consideration: CR H7477-7478)
+- 2019-07-30 — On motion that the House agree to the Senate amendment Agreed to without objection. (text: CR H7477-7478)
+- 2019-07-30 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text: CR H7477-7478)
+- 2019-08-01 — Presented to President.
+- 2019-08-01 — Presented to President.
+- 2019-08-06 — Became Public Law No: 116-39.
+- 2019-08-06 — Became Public Law No: 116-39.
+- 2019-08-06 — Signed by President.
+- 2019-08-06 — Signed by President.
