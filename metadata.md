@@ -1,7 +1,7 @@
 ---
 measure: H.R. 504
 congress: 116
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 504
@@ -57,3 +57,15 @@ DHS Field Engagement Accountability Act
 - 2019-03-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 47.
 - 2019-07-25 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5115)
 - 2019-07-25 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5115)
+- 2019-07-29 — Message on Senate action sent to the House.
+- 2020-02-10 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 504.
+- 2020-02-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-02-10 — Ms. Torres Small (NM) moved that the House suspend the rules agree to the Senate amendment. (consideration: CR H988-990)
+- 2020-02-10 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text: CR H988-989)
+- 2020-02-10 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.
+- 2020-02-20 — Presented to President.
+- 2020-02-20 — Presented to President.
+- 2020-03-02 — Became Public Law No: 116-116.
+- 2020-03-02 — Became Public Law No: 116-116.
+- 2020-03-02 — Signed by President.
+- 2020-03-02 — Signed by President.
