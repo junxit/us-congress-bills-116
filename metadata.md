@@ -1,7 +1,7 @@
 ---
 measure: H.R. 549
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 549
@@ -74,3 +74,22 @@ Venezuela TPS Act of 2019
 - 2019-07-23 — Placed on the Union Calendar, Calendar No. 128.
 - 2019-07-23 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-168.
 - 2019-07-23 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-168.
+- 2019-07-24 — Rules Committee Resolution H. Res. 519 Reported to House. Rule provides for consideration of H.R. 3877 and H.R. 549. Resolution provides for consideration of H.R. 3877 and H.R. 549 under closed rules. Resolution also waives clause 6(a) of Rule XIII, requiring a two-thirds vote waiver to consider a rule on the same day it is reported from the Rules Committee against any resolution reported through the legislative day of July 26, 2019.
+- 2019-07-25 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2019-07-25 — Considered as unfinished business. (consideration: CR H7440-7443)
+- 2019-07-25 — Considered under the provisions of rule H. Res. 519. (consideration: CR H7409-7412)
+- 2019-07-25 — DEBATE - The House proceeded with 10 minutes of debate on the Reschenthaler motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to insert new language on Page 1, line 11: "because of the economic, humanitarian, security and refugee crisis that is a direct result of years of socialist policies implemented by the regimes of Hugo Chavez and Nicolas Maduro".
+- 2019-07-25 — DEBATE - The House proceeded with 30 minutes of debate on H.R. 549.
+- 2019-07-25 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2019-07-25 — House amendment offered
+- 2019-07-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-07-25 — Mr. Reschenthaler moved to recommit with instructions to the Committee on the Judiciary. (text: CR H7440-7441)
+- 2019-07-25 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2019-07-25 — On motion to recommit with instructions Failed by recorded vote: 215 - 217 (Roll no. 513).
+- 2019-07-25 — On passage Passed by recorded vote: 272 - 158 (Roll no. 514). (text: CR H7409)
+- 2019-07-25 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of Rule 19, the Chair postponed further proceedings on H.R. 549.
+- 2019-07-25 — Passed/agreed to in House: On passage Passed by recorded vote: 272 - 158 (Roll no. 514).(text: CR H7409)
+- 2019-07-25 — Rule H. Res. 519 passed House.
+- 2019-07-25 — Rule provides for consideration of H.R. 3877 and H.R. 549. Resolution provides for consideration of H.R. 3877 and H.R. 549 under closed rules. Resolution also waives clause 6(a) of Rule XIII, requiring a two-thirds vote waiver to consider a rule on the same day it is reported from the Rules Committee against any resolution reported through the legislative day of July 26, 2019.
+- 2019-07-25 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2019-07-25 — The previous question was ordered pursuant to the rule.
