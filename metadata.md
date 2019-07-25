@@ -1,7 +1,7 @@
 ---
 measure: H.R. 434
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 434
@@ -74,9 +74,10 @@ Emancipation National Historic Trail Study Act
 - Rep. Escobar, Veronica [D-TX-16] (E000299)
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -98,3 +99,4 @@ Emancipation National Historic Trail Study Act
 - 2019-07-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7353)
 - 2019-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7353)
 - 2019-07-24 — The title of the measure was amended. Agreed to without objection.
+- 2019-07-25 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
