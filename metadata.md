@@ -1,7 +1,7 @@
 ---
 measure: H.R. 776
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 776
@@ -62,3 +62,4 @@ Emergency Medical Services for Children Program Reauthorization Act of 2019
 - 2019-07-24 — Mr. Pallone moved to suspend the rules and pass the bill.
 - 2019-07-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7364)
 - 2019-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7364)
+- 2019-07-25 — Received in the Senate, read twice.
