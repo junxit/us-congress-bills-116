@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1307
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1307
@@ -25,11 +25,12 @@ Post-Disaster Assistance Online Accountability Act
 - Rep. Rouzer, David [R-NC-7] (R000603)
 - Rep. Davids, Sharice [D-KS-3] (D000629)
 
-## Committees (3)
+## Committees (4)
 
 - House — Financial Services Committee
 - House — Small Business Committee
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ Post-Disaster Assistance Online Accountability Act
 - 2019-07-24 — Mr. DeFazio moved to suspend the rules and pass the bill.
 - 2019-07-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7291-7292)
 - 2019-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7291-7292)
+- 2019-07-25 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
