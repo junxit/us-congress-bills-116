@@ -1,0 +1,16 @@
+---
+legis-num: H.R. 4059
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4059
+
+> To take certain lands in California into trust for the benefit of the Agua Caliente Band of Cahuilla Indians, and for other purposes.
+
+## § 1. Lands to be taken into trust
+
+- **(a)** *In general* The approximately 2,560 acres of land owned by the Agua Caliente Band of Cahuilla Indians, numbered 16, 21, 27, and 29 and generally depicted as “BLM Exchange Lands (2,560 Acres)” on the map titled “ACBCI/BLM LAND EXCHANGE” is hereby taken into trust for the benefit of the Agua Caliente Band of Cahuilla Indians.
+- **(b)** *Lands part of reservation* Lands taken into trust by this section shall be part of the Tribe’s reservation and shall be administered in accordance with the laws and regulations generally applicable to property held in trust by the United States for an Indian tribe.
+- **(c)** *Gaming prohibited* Lands taken into trust by this section for the benefit of the Agua Caliente Band of Cahuilla Indians shall not be eligible for gaming under the Indian Gaming Regulatory Act (25 U.S.C. 2701 et seq.).
