@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 4078
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4078
+
+> To reauthorize the Young Women’s Breast Health Education and Awareness Requires Learning Young Act of 2009.
+
+## § 1. Short title
+
+This Act may be cited as the “EARLY Act Reauthorization of 2019”.
+
+## § 2. Reauthorization of the Young Women’s Breast Health Education and Awareness Requires Learning Young Act of 2009
+
+Section 399NN(h) of the Public Health Service Act (42 U.S.C. 280m(h)) is amended by striking “$4,900,000 for each of fiscal years 2015 through 2019” and inserting “$9,000,000 for each of fiscal years 2020 through 2024”.
