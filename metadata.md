@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3877
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3877
@@ -51,3 +51,6 @@ Bipartisan Budget Act of 2019
 - 2019-07-25 — Roll call votes on amendments in House
 - 2019-07-25 — Rule provides for consideration of H.R. 3877 and H.R. 549. Resolution provides for consideration of H.R. 3877 and H.R. 549 under closed rules. Resolution also waives clause 6(a) of Rule XIII, requiring a two-thirds vote waiver to consider a rule on the same day it is reported from the Rules Committee against any resolution reported through the legislative day of July 26, 2019.
 - 2019-07-25 — The previous question was ordered pursuant to the rule.
+- 2019-07-29 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S5125)
+- 2019-07-29 — Motion to proceed to consideration of measure made in Senate. (CR S5125)
+- 2019-07-29 — Received in the Senate. Read twice. Ordered Placed on Senate Legislative Calendar under General Orders. Calendar No. 165, pursuant to the order of July 25, 2019.
