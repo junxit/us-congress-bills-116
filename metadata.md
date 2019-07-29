@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1388
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1388
@@ -40,3 +40,7 @@ Lytton Rancheria Homelands Act of 2019
 - 2019-03-26 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 21 (Roll no. 128). (text: CR H2812-2813)
 - 2019-03-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 21 (Roll no. 128).(text: CR H2812-2813)
 - 2019-03-27 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2019-06-19 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2019-07-29 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-67.
+- 2019-07-29 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-67.
+- 2019-07-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 166.
