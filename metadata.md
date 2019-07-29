@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3670
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3670
@@ -31,9 +31,10 @@ Short-Term Detention Standards Act
 - Rep. Stefanik, Elise M. [R-NY-21] (S001196)
 - Rep. Kuster, Ann M. [D-NH-2] (K000382)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Short-Term Detention Standards Act
 - 2019-07-25 — Ms. Slotkin moved to suspend the rules and pass the bill, as amended.
 - 2019-07-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7436)
 - 2019-07-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7436)
+- 2019-07-29 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
