@@ -1,7 +1,7 @@
 ---
 measure: H.R. 549
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 549
@@ -52,9 +52,10 @@ Venezuela TPS Act of 2019
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 - Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (3)
 
@@ -99,3 +100,4 @@ Venezuela TPS Act of 2019
 - 2019-07-25 — Rule provides for consideration of H.R. 3877 and H.R. 549. Resolution provides for consideration of H.R. 3877 and H.R. 549 under closed rules. Resolution also waives clause 6(a) of Rule XIII, requiring a two-thirds vote waiver to consider a rule on the same day it is reported from the Rules Committee against any resolution reported through the legislative day of July 26, 2019.
 - 2019-07-25 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-07-25 — The previous question was ordered pursuant to the rule.
+- 2019-07-29 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
