@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 53
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 53
@@ -32,3 +32,4 @@ Authorizing the use of Emancipation Hall for an event to commemorate the 400th a
 - 2019-07-25 — Ms. Lofgren asked unanimous consent to discharge from committee and consider.
 - 2019-07-25 — On agreeing to the resolution Agreed to without objection. (text: CR H7443)
 - 2019-07-25 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H7443)
+- 2019-07-29 — Received in the Senate.
