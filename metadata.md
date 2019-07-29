@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3877
 congress: 116
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3877
@@ -16,9 +16,10 @@ Bipartisan Budget Act of 2019
 
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Neal, Richard E. [D-MA-1] (N000015)
+- Sen. Lee, Mike [R-UT] (L000577)
 
 ## Committees (3)
 
@@ -54,3 +55,24 @@ Bipartisan Budget Act of 2019
 - 2019-07-29 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S5125)
 - 2019-07-29 — Motion to proceed to consideration of measure made in Senate. (CR S5125)
 - 2019-07-29 — Received in the Senate. Read twice. Ordered Placed on Senate Legislative Calendar under General Orders. Calendar No. 165, pursuant to the order of July 25, 2019.
+- 2019-07-30 — Cloture motion on the motion to proceed to the measure withdrawn by unanimous consent in Senate. (CR S5178)
+- 2019-07-30 — Senate amendment submitted
+- 2019-07-30 — Senate amendment submitted
+- 2019-07-31 — Senate amendment submitted
+- 2019-08-01 — Amendment SA 932 proposed by Senator Paul. (consideration: CR S5287-5288; text: CR S5287) In the nature of a substitute.
+- 2019-08-01 — Amendment SA 932, under the order of 7/30/19, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 23 - 70. Record Vote Number: 260.
+- 2019-08-01 — Cloture motion on the measure presented in Senate. (CR S5288)
+- 2019-08-01 — Cloture on the measure invoked in Senate by Yea-Nay Vote. 67 - 27. Record Vote Number: 261. (CR S5288)
+- 2019-08-01 — Measure laid before Senate by unanimous consent. (consideration: CR S5281, S5284-5289)
+- 2019-08-01 — Message on Senate action sent to the House.
+- 2019-08-01 — Passed Senate without amendment by Yea-Nay Vote. 67 - 28. Record Vote Number: 262.
+- 2019-08-01 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 67 - 28. Record Vote Number: 262.
+- 2019-08-01 — Presented to President.
+- 2019-08-01 — Presented to President.
+- 2019-08-01 — Roll call votes on amendments in Senate: Amendment SA 932, under the order of 7/30/19, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 23 - 70. Record Vote Number: 260.
+- 2019-08-01 — Senate amendment not agreed to: Amendment SA 932, under the order of 7/30/19, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 23 - 70. Record Vote Number: 260.
+- 2019-08-01 — Senate amendment proposed (on the floor): Amendment SA 932 proposed by Senator Paul.(consideration: CR S5287-5288; text: CR S5287)
+- 2019-08-02 — Became Public Law No: 116-37.
+- 2019-08-02 — Became Public Law No: 116-37.
+- 2019-08-02 — Signed by President.
+- 2019-08-02 — Signed by President.
