@@ -1,7 +1,7 @@
 ---
 measure: H.R. 693
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 693
@@ -326,9 +326,10 @@ PAST Act
 - Rep. Hagedorn, Jim [R-MN-1] (H001088)
 - Rep. McBath, Lucy [D-GA-6] (M001208)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -351,3 +352,4 @@ PAST Act
 - 2019-07-25 — Motion to reconsider laid on the table Agreed to without objection.
 - 2019-07-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 333 - 96 (Roll no. 510). (text: CR 7/24/2019 H7368-7369)
 - 2019-07-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 333 - 96 (Roll no. 510).(text: CR 7/24/2019 H7368-7369)
+- 2019-07-29 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
