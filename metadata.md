@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2336
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2336
@@ -67,3 +67,4 @@ Family Farmer Relief Act of 2019
 - 2019-07-25 — Mr. Cicilline moved to suspend the rules and pass the bill, as amended.
 - 2019-07-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7438)
 - 2019-07-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7438)
+- 2019-07-29 — Received in the Senate, read twice.
