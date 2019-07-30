@@ -1,7 +1,7 @@
 ---
 measure: S. 1275
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1275
@@ -20,9 +20,10 @@ Federal Agency Customer Experience Act of 2019
 
 - Sen. Lankford, James [R-OK] (L000575)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ Federal Agency Customer Experience Act of 2019
 - 2019-06-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 111.
 - 2019-07-25 — Passed Senate with amendments by Voice Vote. (consideration: CR S5115-5117; text: CR S5115-5117)
 - 2019-07-25 — Passed/agreed to in Senate: Passed Senate with amendments by Voice Vote.(consideration: CR S5115-5117; text: CR S5115-5117)
+- 2019-07-29 — Message on Senate action sent to the House.
+- 2019-07-30 — Received in the House.
+- 2019-07-30 — Referred to the House Committee on Oversight and Reform.
