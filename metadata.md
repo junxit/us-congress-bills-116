@@ -1,7 +1,7 @@
 ---
 measure: S. 1272
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1272
@@ -32,3 +32,5 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2019-06-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
 - 2019-06-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
 - 2019-06-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 121.
+- 2019-07-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5204; text: CR S5204)
+- 2019-07-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5204; text: CR S5204)
