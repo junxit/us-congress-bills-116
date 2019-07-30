@@ -1,7 +1,7 @@
 ---
 measure: S. 929
 congress: 116
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 929
@@ -28,3 +28,7 @@ A bill to amend title 28, United States Code, to redefine the eastern and middle
 
 - 2019-03-28 — Introduced in Senate
 - 2019-03-28 — Read twice and referred to the Committee on the Judiciary.
+- 2019-07-30 — Passed Senate without amendment by Unanimous Consent. (text: CR S5204)
+- 2019-07-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S5204)
+- 2019-07-30 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S5203-5204)
+- 2019-07-30 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S5203-5204)
