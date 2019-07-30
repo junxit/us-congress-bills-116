@@ -1,7 +1,7 @@
 ---
 measure: S. 398
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 398
@@ -33,3 +33,7 @@ Saudi Arabia Accountability and Yemen Act of 2019
 
 - 2019-02-07 — Introduced in Senate
 - 2019-02-07 — Read twice and referred to the Committee on Foreign Relations.
+- 2019-07-25 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2019-07-30 — Committee on Foreign Relations. Reported by Senator Risch without amendment. Without written report.
+- 2019-07-30 — Committee on Foreign Relations. Reported by Senator Risch without amendment. Without written report.
+- 2019-07-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 167.
