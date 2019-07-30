@@ -15,8 +15,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 - **(c)** *Findings* The Congress finds the following:
   - **(1)** Many reports over the past decade have found that it is critical to our Nation’s economic leadership and global competitiveness that the United States educates and trains more scientists and engineers.
-  - **(2)** Research shows that women and minorities who are interested in STEM careers are disproportionately lost at nearly every educational transition.
-  - **(3)** The National Center for Science and Engineering Statistics at the National Science Foundation collects, compiles, and publishes data on the demographics of STEM degrees and STEM jobs in the United States.
+  - **(2)** Research shows that women and minorities who are interested in STEM careers are disproportionately lost at nearly every educational transition and at every career milestone.
+  - **(3)** The National Center for Science and Engineering Statistics at the National Science Foundation collects, compiles, analyzes, and publishes data on the demographics of STEM degrees and STEM jobs in the United States.
   - **(4)** Women now earn nearly 37 percent of all STEM bachelor’s degrees, but major variations persist among fields. In 2017, women earned only 20 percent of all bachelor’s degrees awarded in engineering and 19 percent of bachelor’s degrees awarded in computer sciences. Based on Bureau of Labor Statistics data, jobs in computing occupations are expected to account for nearly 60 percent of the projected annual growth of newly created STEM job openings from 2016 to 2026.
   - **(5)** In 2017, underrepresented minority groups comprised 39 percent of the college-age population of the United States, but only 18 percent of students who earned bachelor’s degrees in STEM fields. The Higher Education Research Institute at the University of California, Los Angeles, found that, while freshmen from underrepresented minority groups express an interest in pursuing a STEM undergraduate degree at the same rate as all other freshmen, only 22.1 percent of Latino students, 18.4 percent of African-American students, and 18.8 percent of Native American students studying in STEM fields complete their degree within 5 years, compared to approximately 33 percent of White students and 42 percent of Asian students who complete their degree within 5 years.
   - **(6)** In some STEM fields, including the computer sciences, women persist at about the same rate through doctorate degrees. In other STEM fields, women persist through doctorate degrees at a lower rate. In mathematics, women earn just 26 percent of doctorate degrees compared with 42 percent of undergraduate degrees. Overall, women earned 38 percent of STEM doctorate degrees in 2016. The rate of minority students earning STEM doctorate degrees in physics is 9 percent, compared with 15 percent for bachelor’s degree. Students from underrepresented minority groups accounted for only 11.5 percent of STEM doctorate degrees awarded in 2016.
@@ -37,18 +37,18 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 The purposes of this Act are as follows:
 
-- **(1)** To ensure that Federal science agencies and institutions of higher education receiving Federal research and development funding are fully engaging their entire talent pool.
-- **(2)** To promote research on, and increase understanding of, the participation and trajectories of women, minorities, and other groups historically underrepresented in STEM studies and careers, including persons with disabilities and rural, poor, and tribal populations, at institutions of higher education and Federal science agencies, including Federal laboratories.
+- **(1)** To ensure that Federal science agencies and institutions of higher education receiving Federal research and development funding are fully engaging the entire talent pool of the United States.
+- **(2)** To promote research on, and increase understanding of, the participation and trajectories of women, minorities, and other groups historically underrepresented in STEM studies and careers, including persons with disabilities, older learners, veterans, and rural, poor, and tribal populations, at institutions of higher education and Federal science agencies, including Federal laboratories.
 - **(3)** To raise awareness within Federal science agencies, including Federal laboratories, and institutions of higher education about cultural and institutional barriers limiting the recruitment, retention, promotion, and other indicators of participation and achievement of women, minorities, and other groups historically underrepresented in academic and Government STEM research careers at all levels.
 - **(4)** To identify, disseminate, and implement best practices at Federal science agencies, including Federal laboratories, and at institutions of higher education to remove or reduce cultural and institutional barriers limiting the recruitment, retention, and success of women, minorities, and other groups historically underrepresented in academic and Government STEM research careers.
 - **(5)** To provide grants to institutions of higher education to recruit, retain, and advance STEM faculty members from underrepresented minority groups and to implement or expand reforms in undergraduate STEM education in order to increase the number of students from underrepresented minority groups receiving degrees in these fields.
 
 ## § 3. Federal science agency policies for caregivers
 
-- **(a)** *OSTP guidance* Not later than 6 months after the date of enactment of this Act, the Director shall provide guidance to each Federal science agency to establish policies that—
+- **(a)** *OSTP guidance* Not later than 6 months after the date of enactment of this Act, the Director, in consultation with relevant agencies, shall provide guidance to each Federal science agency to establish policies that—
   - **(1)** apply to all—
-    - **(A)** intramural and extramural research awards granted by such agency; and
-    - **(B)** primary investigators of such research who have caregiving responsibilities, including care for a newborn or newly adopted child and care for an immediate family member who is sick or disabled; and
+    - **(A)** research awards granted by such agency; and
+    - **(B)** principal investigators of such research who have caregiving responsibilities, including care for a newborn or newly adopted child and care for an immediate family member who is sick or disabled; and
   - **(2)** provide—
     - **(A)** flexibility in timing for the initiation of approved research awards granted by such agency;
     - **(B)** no-cost extensions of such research awards;
@@ -66,24 +66,24 @@ The purposes of this Act are as follows:
 
 - **(a)** *Collection of data*
   - **(1)** *In general* Each Federal science agency shall collect, as practicable, with respect to all applications for merit-reviewed research and development grants to institutions of higher education and Federal laboratories supported by that agency, the standardized record-level annual information on demographics, primary field, award type, institution type, review rating, budget request, funding outcome, and awarded budget.
-  - **(2)** *Uniformity and standardization* The Director shall establish a policy to ensure uniformity and standardization of the data collection required under paragraph (1).
+  - **(2)** *Uniformity and standardization* The Director, in consultation with the Director of the National Science Foundation, shall establish a policy to ensure uniformity and standardization of the data collection required under paragraph (1).
   - **(3)** *Record-level data*
     - **(A)** *Requirement* Beginning not later than 2 years after the date of the enactment of this Act, and on an annual basis thereafter, each Federal science agency shall submit to the Director of the National Science Foundation record-level data collected under paragraph (1) in the form required by such Director.
     - **(B)** *Previous data* As part of the first submission under subparagraph (A), each Federal science agency, to the extent practicable, shall also submit comparable record-level data for the 5 years preceding the date of such submission.
-- **(b)** *Reporting of data* The Director of the National Science Foundation shall publish statistical summary data collected under this section, disaggregated and cross-tabulated by race, ethnicity, gender, age, and years since completion of doctoral degree, including in conjunction with the National Science Foundation’s report required by section 37 of the Science and Technology Equal Opportunities Act (42 U.S.C. 1885d; Public Law 96–516).
+- **(b)** *Reporting of data* The Director of the National Science Foundation shall publish statistical summary data, as practicable, collected under this section, disaggregated and cross-tabulated by race, ethnicity, gender, and years since completion of doctoral degree, including in conjunction with the National Science Foundation’s report required by section 37 of the Science and Technology Equal Opportunities Act (42 U.S.C. 1885d; Public Law 96–516).
 
 ## § 5. Policies for review of Federal research grants
 
 - **(a)** *In general* Each Federal science agency shall implement the policy recommendations with respect to reducing the impact of implicit bias at Federal science agencies and grantee institutions as developed by the Office of Science and Technology Policy in the 2016 report entitled “Reducing the Impact of Bias in the STEM Workforce” and any subsequent updates.
-- **(b)** *Pilot activity* In consultation with the National Science Foundation and consistent with policy recommendations referenced in subsection (a), each Federal science agency shall implement a 2-year pilot orientation activity for program officers and members of standing review committees to educate reviewers on, and minimize the effects of, implicit bias in the review of extramural and intramural Federal research grants.
-- **(c)** *Establishment of policies* Drawing upon lessons learned from the pilot activity under subsection (b), each Federal science agency shall maintain or develop and implement policies and practices to minimize the effects of implicit bias in the review of extramural and intramural Federal research grants.
+- **(b)** *Pilot activity* In consultation with the National Science Foundation and consistent with policy recommendations referenced in subsection (a), each Federal science agency shall implement a 2-year pilot orientation activity for program officers and members of standing review committees to educate reviewers on research related to, and minimize the effects of, implicit bias in the review of extramural and intramural Federal research grants.
+- **(c)** *Establishment of policies* Drawing upon lessons learned from the pilot activity under subsection (b), each Federal science agency shall maintain or develop and implement evidence-based policies and practices to minimize the effects of implicit bias in the review of extramural and intramural Federal research grants.
 - **(d)** *Assessment of policies* Federal science agencies shall regularly assess, and amend as necessary, the policies and practices implemented pursuant to subsection (c) to ensure effective measures are in place to minimize the effects of implicit bias in the review of extramural and intramural Federal research grants.
 
 ## § 6. Collection of data on demographics of faculty
 
 - **(a)** *Collection of data*
-  - **(1)** *In general* Not later than 3 years after the date of enactment of this Act, and at least every 5 years thereafter, the Director of the National Science Foundation shall carry out a survey to collect institution-level data on the demographics of STEM faculty, by broad fields of STEM, at different types of institutions of higher education.
-  - **(2)** *Considerations* To the extent practicable, the Director of the National Science Foundation shall consider, by gender, race, ethnicity, citizenship status, age, and years since completion of doctoral degree—
+  - **(1)** *In general* Not later than 3 years after the date of enactment of this Act, and at least every 5 years thereafter, the Director of the National Science Foundation shall carry out a survey to collect data from grantees on the demographics of STEM faculty, by broad fields of STEM, at different types of institutions of higher education.
+  - **(2)** *Considerations* To the extent practicable, the Director of the National Science Foundation shall consider, by gender, race, ethnicity, citizenship status, and years since completion of doctoral degree—
     - **(A)** the number and percentage of faculty;
     - **(B)** the number and percentage of faculty at each rank;
     - **(C)** the number and percentage of faculty who are in nontenure-track positions, including teaching and research;
@@ -101,19 +101,19 @@ The purposes of this Act are as follows:
 ## § 7. Cultural and institutional barriers to expanding the academic and Federal STEM workforce
 
 - **(a)** *Best practices at institutions of higher education and Federal laboratories*
-  - **(1)** *Development of guidance* Not later than 12 months after the date of enactment of this Act, the Director shall develop written guidance for institutions of higher education and Federal laboratories on the best practices for—
+  - **(1)** *Development of guidance* Not later than 12 months after the date of enactment of this Act, the Director, in consultation with the interagency working group on inclusion in STEM, shall develop written guidance for institutions of higher education and Federal laboratories on the best practices for—
     - **(A)** conducting periodic climate surveys of STEM departments and divisions, with a particular focus on identifying any cultural or institutional barriers to the recruitment, retention, or advancement of women, racial and ethnic minorities, and other groups historically underrepresented in STEM studies and careers; and
     - **(B)** providing educational opportunities, including workshops as described in subsection (b), for STEM faculty, research personnel, and administrators to learn about current research on implicit bias in recruitment, evaluation, and promotion of undergraduate and graduate students and research personnel.
   - **(2)** *Existing guidance* In developing the guidance under paragraph (1), the Director shall utilize guidance already developed by Federal science agencies.
   - **(3)** *Dissemination of guidance* Federal science agencies shall broadly disseminate the guidance developed under paragraph (1) to institutions of higher education that receive Federal research funding and Federal laboratories.
   - **(4)** *Establishment of policies* Consistent with the guidance developed under paragraph (1)—
     - **(A)** the Director of the National Science Foundation shall develop a policy that—
-      - **(i)** applies to, at a minimum, each institution classified under the Indiana University Center for Postsecondary Research Carnegie Classification as a doctorate-granting university with a very high level of research activity; and
+      - **(i)** applies to, at a minimum, doctoral degree granting institutions that receive Federal research funding; and
       - **(ii)** requires each such institution, not later than 3 years after the date of enactment of this Act, to report to the Director of the National Science Foundation on activities and policies developed and implemented based on the guidance developed under paragraph (1); and
     - **(B)** each Federal science agency with a Federal laboratory shall maintain or develop and implement practices and policies for the purposes described in paragraph (1) for such laboratory.
 - **(b)** *Workshops To address cultural barriers to expanding the academic and Federal STEM workforce*
   - **(1)** *In general* Not later than 6 months after the date of enactment of this Act, the Director, in consultation with the interagency working group on inclusion in STEM, shall recommend a uniform policy for Federal science agencies to carry out a program of workshops that educate STEM department chairs at institutions of higher education, senior managers at Federal laboratories, and other federally funded researchers about methods that minimize the effects of implicit bias in the career advancement, including hiring, tenure, promotion, and selection for any honor based in part on the recipient’s research record, of academic and Federal STEM researchers.
-  - **(2)** *Interagency coordination* The Director shall ensure that workshops supported under this subsection are coordinated across Federal science agencies and jointly supported as appropriate.
+  - **(2)** *Interagency coordination* The Director shall, to the extent practicable, ensure that workshops supported under this subsection are coordinated across Federal science agencies and jointly supported as appropriate.
   - **(3)** *Minimizing costs* To the extent practicable, workshops shall be held in conjunction with national or regional STEM disciplinary meetings to minimize costs associated with participant travel.
   - **(4)** *Priority fields for academic participants* In considering the participation of STEM department chairs and other academic researchers, the Director shall prioritize workshops for the broad fields of STEM in which the national rate of representation of women among tenured or tenure-track faculty or nonfaculty researchers at doctorate-granting institutions of higher education is less than 25 percent, according to the most recent data available from the National Center for Science and Engineering Statistics.
   - **(5)** *Organizations eligible to carry out workshops* A Federal science agency may carry out the program of workshops under this subsection by making grants to organizations made eligible by the Federal science agency and any of the following organizations:
@@ -121,11 +121,11 @@ The purposes of this Act are as follows:
     - **(B)** Nonprofit organizations that have the primary mission of advancing the participation of women, minorities, or other groups historically underrepresented in STEM.
   - **(6)** *Characteristics of workshops* The workshops shall have the following characteristics:
     - **(A)** Invitees to workshops shall include at least—
-      - **(i)** the chairs of departments in the relevant STEM discipline or disciplines from at least the top 50 institutions of higher education, as determined by the amount of Federal research and development funds obligated to each institution of higher education in the prior year based on data available from the National Science Foundation; and
+      - **(i)** the chairs of departments in the relevant STEM discipline or disciplines from doctoral degree granting institutions that receive Federal research funding; and
       - **(ii)** in the case of Federal laboratories, individuals with personnel management responsibilities comparable to those of an institution of higher education department chair.
     - **(B)** Activities at the workshops shall include research presentations and interactive discussions or other activities that increase the awareness of the existence of implicit bias in recruitment, hiring, tenure review, promotion, and other forms of formal recognition of individual achievement for faculty and other federally funded STEM researchers and shall provide strategies to overcome such bias.
-    - **(C)** Research presentations and other workshop programs, as appropriate, shall include a discussion of the unique challenges faced by different underrepresented groups, including minority women, minority men, persons from rural and underserved areas, persons with disabilities, and first generation graduates in research.
-    - **(D)** Workshop programs shall include information on best practices for mentoring undergraduate and graduate women, minorities, and other students from groups historically underrepresented in STEM.
+    - **(C)** Research presentations and other workshop programs, as appropriate, shall include a discussion of the unique challenges faced by different underrepresented groups, including minority women, minority men, persons from rural and underserved areas, persons with disabilities, gender and sexual minority individuals, and first generation graduates in research.
+    - **(D)** Workshop programs shall include information on best practices for mentoring undergraduate, graduate, and postdoctoral women, minorities, and other students from groups historically underrepresented in STEM.
   - **(7)** *Data on workshops* Any proposal for funding by an organization seeking to carry out a workshop under this subsection shall include a description of how such organization will—
     - **(A)** collect data on the rates of attendance by invitees in workshops, including information on the home institution and department of attendees, and the rank of faculty attendees;
     - **(B)** conduct attitudinal surveys on workshop attendees before and after the workshops; and
@@ -133,7 +133,7 @@ The purposes of this Act are as follows:
   - **(8)** *Report to NSF* Organizations receiving funding to carry out workshops under this subsection shall report the data required in paragraph (7) to the Director of the National Science Foundation in such form as required by such Director.
 - **(c)** *Report to Congress* Not later than 4 years after the date of enactment of this Act, the Director of the National Science Foundation shall submit a report to Congress that includes—
   - **(1)** a summary and analysis of the types and frequency of activities and policies developed and carried out under subsection (a) based on the reports submitted under paragraph (4) of such subsection; and
-  - **(2)** a description and evaluation of the status and effectiveness of the program of workshops required under subsection (c), including a summary of any data reported under paragraph (8) of such subsection.
+  - **(2)** a description and evaluation of the status and effectiveness of the program of workshops required under subsection (b), including a summary of any data reported under paragraph (8) of such subsection.
 - **(d)** *Authorization of appropriations* There are authorized to be appropriated to the Director of the National Science Foundation $1,000,000 in each of fiscal years 2020 through 2024 to carry out this section.
 
 ## § 8. Research and dissemination at the National Science Foundation
@@ -142,9 +142,8 @@ The purposes of this Act are as follows:
   - **(1)** research grants to analyze the record-level data collected under section 4 and section 6, consistent with policies to ensure the privacy of individuals identifiable by such data;
   - **(2)** research grants to study best practices for work-life accommodation;
   - **(3)** research grants to study the impact of policies and practices that are implemented under this Act or that are otherwise consistent with the purposes of this Act;
-  - **(4)** collaboration with other Federal science agencies and professional associations to exchange best practices, harmonize work-life accommodation policies and practices, and overcome common barriers to work-life accommodation;
-  - **(5)** collaboration with institutions of higher education in order to clarify and catalyze the adoption of a coherent and consistent set of work-life accommodation policies and practices; and
-  - **(6)** research grants to study the use of standardized graduate student admission exams and its impact on the recruitment, retention, and success of women, underrepresented minorities, persons from rural areas, persons with disabilities, and first generation graduates in graduate STEM degree programs.
+  - **(4)** collaboration with other Federal science agencies and professional associations to exchange best practices, harmonize work-life accommodation policies and practices, and overcome common barriers to work-life accommodation; and
+  - **(5)** collaboration with institutions of higher education in order to clarify and catalyze the adoption of a coherent and consistent set of work-life accommodation policies and practices.
 - **(b)** *Authorization of appropriations* There are authorized to be appropriated to the Director of the National Science Foundation $5,000,000 in each of fiscal years 2020 through 2024 to carry out this section.
 
 ## § 9. Research and related activities to expand STEM opportunities
@@ -162,7 +161,7 @@ The purposes of this Act are as follows:
     >     - **(D)** development and hosting of intra- or inter-institutional workshops to propagate best practices in recruiting, retaining, and advancing faculty members from underrepresented minority groups;
     >     - **(E)** professional development opportunities for faculty members from underrepresented minority groups;
     >     - **(F)** activities aimed at making undergraduate STEM students from underrepresented minority groups aware of opportunities for academic careers in STEM fields;
-    >     - **(G)** activities to identify and engage exceptional graduate students from underrepresented minority groups at various stages of their studies and to encourage them to enter academic careers; and
+    >     - **(G)** activities to identify and engage exceptional graduate students and postdoctoral researchers from underrepresented minority groups at various stages of their studies and to encourage them to enter academic careers; and
     >     - **(H)** other activities consistent with paragraph (1), as determined by the Director of the Foundation.
     >   - **(4)** *Selection process*
     >     - **(A)** *Application* An institution of higher education (or a consortium of such institutions) seeking funding under this subsection shall submit an application to the Director of the Foundation at such time, in such manner, and containing such information and assurances as such Director may require. The application shall include, at a minimum, a description of—
@@ -184,11 +183,11 @@ The purposes of this Act are as follows:
   >   - **(2)** *Merit review; competition* Grants shall be awarded under this subsection on a merit-reviewed, competitive basis.
   >   - **(3)** *Use of funds* Activities supported by grants under this subsection may include—
   >     - **(A)** implementation or expansion of innovative, research-based approaches to broaden participation of underrepresented minority groups in STEM fields;
-  >     - **(B)** implementation or expansion of bridge, cohort, tutoring, or mentoring programs designed to enhance the recruitment and retention of students from underrepresented minority groups in STEM fields;
+  >     - **(B)** implementation or expansion of bridge, cohort, tutoring, or mentoring programs, including those involving community colleges and technical schools, designed to enhance the recruitment and retention of students from underrepresented minority groups in STEM fields;
   >     - **(C)** implementation or expansion of outreach programs linking institutions of higher education and K–12 school systems in order to heighten awareness among pre-college students from underrepresented minority groups of opportunities in college-level STEM fields and STEM careers;
   >     - **(D)** implementation or expansion of faculty development programs focused on improving retention of undergraduate STEM students from underrepresented minority groups;
   >     - **(E)** implementation or expansion of mechanisms designed to recognize and reward faculty members who demonstrate a commitment to increasing the participation of students from underrepresented minority groups in STEM fields;
-  >     - **(F)** expansion of successful reforms aimed at increasing the number of STEM students from underrepresented minority groups beyond a single course or group of courses to achieve reform within an entire academic unit, or expansion of successful reform efforts beyond a single academic unit to other STEM academic units within an institution of higher education;
+  >     - **(F)** expansion of successful reforms aimed at increasing the number of STEM students from underrepresented minority groups beyond a single course or group of courses to achieve reform within an entire academic unit, or expansion of successful reform efforts beyond a single academic unit or field to other STEM academic units or fields within an institution of higher education;
   >     - **(G)** expansion of opportunities for students from underrepresented minority groups to conduct STEM research in industry, at Federal labs, and at international research institutions or research sites;
   >     - **(H)** provision of stipends for students from underrepresented minority groups participating in research;
   >     - **(I)** development of research collaborations between research-intensive universities and primarily undergraduate minority-serving institutions;
@@ -228,7 +227,7 @@ The purposes of this Act are as follows:
 
 - **(b)** *Evaluation*
   - **(1)** *In general* Not later than 2 years after the date of enactment of this Act, the Director of the National Science Foundation shall evaluate the grant program authorized under section 525 of the America COMPETES Reauthorization Act of 2010 (42 U.S.C. 1862p–13), as amended.
-  - **(2)** *Requirements* In conducting the evaluation under paragraph (1), the Director shall—
+  - **(2)** *Requirements* In conducting the evaluation under paragraph (1), the Director of the National Science Foundation shall, as practicable—
     - **(A)** use a common set of benchmarks and assessment tools to identify best practices and materials developed or demonstrated by the research conducted pursuant to grants programs under section 525 of the America COMPETES Reauthorization Act of 2010 (42 U.S.C. 1862p–13);
     - **(B)** include an assessment of the effectiveness of such grant programs in expanding access to high quality STEM education, research, and outreach at tribal colleges and universities, as applicable;
     - **(C)** assess the number of students who participated in such grant programs; and
