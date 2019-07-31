@@ -1,7 +1,7 @@
 ---
 measure: S. 1441
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1441
@@ -16,11 +16,13 @@ Protecting Europe’s Energy Security Act of 2019
 
 - Sen. Cruz, Ted [R-TX] (C001098)
 
-## Cosponsors (3)
+## Cosponsors (5)
 
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 - Sen. Barrasso, John [R-WY] (B001261)
 - Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Gardner, Cory [R-CO] (G000562)
 
 ## Committees (1)
 
@@ -30,3 +32,7 @@ Protecting Europe’s Energy Security Act of 2019
 
 - 2019-05-14 — Introduced in Senate
 - 2019-05-14 — Read twice and referred to the Committee on Foreign Relations.
+- 2019-07-31 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2019-07-31 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2019-07-31 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2019-07-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 169.
