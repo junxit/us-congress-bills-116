@@ -1,7 +1,7 @@
 ---
 measure: S. 1992
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1992
@@ -30,3 +30,7 @@ A bill to amend the FAST Act to repeal a rescission of funds.
 
 - 2019-06-26 — Introduced in Senate
 - 2019-06-26 — Read twice and referred to the Committee on Environment and Public Works.
+- 2019-07-30 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2019-07-31 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.
+- 2019-07-31 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.
+- 2019-07-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 168.
