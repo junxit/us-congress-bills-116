@@ -76,6 +76,6 @@ This Act may be cited as the “Presidential Transition Enhancement Act of 2019�
       >       - **(II)** keep confidential any nonpublic information provided in the course of the duties of the member with the transition and exclusively use such information for the purposes of the transition; and
       >       - **(III)** not use any nonpublic information provided in the course of transition duties, in any manner, for personal or private gain for the member or any other party at any time during or after the transition; and
       >     - **(iv)** a description of how the transition team will enforce the Code of Ethical Conduct, including the names of the members of the transition team responsible for enforcement, oversight, and compliance.
-      >   - **(C)** *Publicly available* The transition team shall make the ethics plan described in this paragraph publicly available on the Internetinternet website of the General Services Administration the earlier of—
+      >   - **(C)** *Publicly available* The transition team shall make the ethics plan described in this paragraph publicly available on the internet website of the General Services Administration the earlier of—
       >     - **(i)** the day on which the memorandum of understanding is completed; or
       >     - **(ii)** October 1.

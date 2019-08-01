@@ -1,7 +1,7 @@
 ---
 measure: S. 394
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 394
@@ -16,10 +16,11 @@ Presidential Transition Enhancement Act of 2019
 
 - Sen. Johnson, Ron [R-WI] (J000293)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
 
 ## Committees (1)
 
@@ -33,3 +34,6 @@ Presidential Transition Enhancement Act of 2019
 - 2019-03-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 116-13.
 - 2019-03-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 116-13.
 - 2019-03-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 44.
+- 2019-08-01 — Message on Senate action sent to the House.
+- 2019-08-01 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S5318-5320; text: CR S5319-5320)
+- 2019-08-01 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S5318-5320; text: CR S5319-5320)
