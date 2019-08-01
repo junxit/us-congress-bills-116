@@ -1,0 +1,29 @@
+---
+legis-num: S. 2432
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2432
+
+> To require Amtrak to place at least 1 station agent in every State in which Amtrak operates.
+
+## § 1. Short title
+
+This Act may be cited as the “Station Agent in Every Amtrak State Act”.
+
+## § 2. Definitions
+
+In this Act:
+
+- **(1)** *Amtrak* The term Amtrak means the National Railroad Passenger Corporation, doing business as “Amtrak”.
+- **(2)** *Station agent* The term station agent means an Amtrak employee who is responsible for—
+  - **(A)** assisting passengers with intercity passenger rail travel;
+  - **(B)** selling Amtrak tickets;
+  - **(C)** providing customer service during operating hours; or
+  - **(D)** performing building maintenance duties at any Amtrak facility.
+
+## § 3. Amtrak station agents
+
+Amtrak shall ensure that not fewer than 1 station agent is placed in every State in which Amtrak operates.
