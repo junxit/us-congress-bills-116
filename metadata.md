@@ -1,7 +1,7 @@
 ---
 measure: S. 862
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 862
@@ -49,3 +49,16 @@ Rebuilding Small Businesses After Disasters Act
 - 2019-08-01 — Senate amendment proposed (on the floor): Amendment SA 937 proposed by Senator McConnell for Senator Kennedy.(consideration: CR S5321; text: CR S5321)
 - 2019-08-01 — Senate amendment submitted
 - 2019-08-01 — Senate amendment submitted
+- 2019-08-02 — Held at the desk.
+- 2019-08-02 — Received in the House.
+- 2019-11-20 — Considered by unanimous consent. (consideration: CR H9101-9102)
+- 2019-11-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-11-20 — Ms. Craig asked unanimous consent to take from the Speaker's table and consider.
+- 2019-11-20 — On passage Passed without objection. (text: CR H9102)
+- 2019-11-20 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9102)
+- 2019-11-21 — Presented to President.
+- 2019-11-21 — Presented to President.
+- 2019-11-22 — Became Public Law No: 116-70.
+- 2019-11-22 — Became Public Law No: 116-70.
+- 2019-11-22 — Signed by President.
+- 2019-11-22 — Signed by President.
