@@ -1,7 +1,7 @@
 ---
 measure: S. 862
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 862
@@ -34,3 +34,18 @@ Rebuilding Small Businesses After Disasters Act
 - 2019-04-03 — Committee on Small Business and Entrepreneurship. Reported by Senator Rubio without amendment. Without written report.
 - 2019-04-03 — Committee on Small Business and Entrepreneurship. Reported by Senator Rubio without amendment. Without written report.
 - 2019-04-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 54.
+- 2019-06-19 — Committee on Small Business and Entrepreneurship. Hearings held.
+- 2019-08-01 — Amendment SA 936 agreed to in Senate by Unanimous Consent.
+- 2019-08-01 — Amendment SA 936 proposed by Senator McConnell for Senator Kennedy. (consideration: CR S5320-5321; text: CR S5320-5321) In the nature of a substitute.
+- 2019-08-01 — Amendment SA 937 agreed to in Senate by Unanimous Consent.
+- 2019-08-01 — Amendment SA 937 proposed by Senator McConnell for Senator Kennedy. (consideration: CR S5321; text: CR S5321) To amend the title.
+- 2019-08-01 — Measure laid before Senate by unanimous consent. (consideration: CR S5320-5321)
+- 2019-08-01 — Message on Senate action sent to the House.
+- 2019-08-01 — Passed Senate with an amendment and an amendment to the Title by Voice Vote.
+- 2019-08-01 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Voice Vote.
+- 2019-08-01 — Senate amendment agreed to: Amendment SA 936 agreed to in Senate by Unanimous Consent.
+- 2019-08-01 — Senate amendment agreed to: Amendment SA 937 agreed to in Senate by Unanimous Consent.
+- 2019-08-01 — Senate amendment proposed (on the floor): Amendment SA 936 proposed by Senator McConnell for Senator Kennedy.(consideration: CR S5320-5321; text: CR S5320-5321)
+- 2019-08-01 — Senate amendment proposed (on the floor): Amendment SA 937 proposed by Senator McConnell for Senator Kennedy.(consideration: CR S5321; text: CR S5321)
+- 2019-08-01 — Senate amendment submitted
+- 2019-08-01 — Senate amendment submitted
