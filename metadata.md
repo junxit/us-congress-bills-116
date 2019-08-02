@@ -1,7 +1,7 @@
 ---
 measure: S. 394
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 394
@@ -22,9 +22,10 @@ Presidential Transition Enhancement Act of 2019
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
 - Sen. Warren, Elizabeth [D-MA] (W000817)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -37,3 +38,5 @@ Presidential Transition Enhancement Act of 2019
 - 2019-08-01 — Message on Senate action sent to the House.
 - 2019-08-01 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S5318-5320; text: CR S5319-5320)
 - 2019-08-01 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S5318-5320; text: CR S5319-5320)
+- 2019-08-02 — Received in the House.
+- 2019-08-02 — Referred to the House Committee on Oversight and Reform.
