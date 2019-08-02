@@ -1,7 +1,7 @@
 ---
 measure: S. 2052
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2052
@@ -16,9 +16,10 @@ A bill to authorize the honorary promotion of Colonel Charles E. McGee to brigad
 
 - Sen. Van Hollen, Chris [D-MD] (V000128)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Armed Services Committee
+- House — Armed Services Committee
 
 ## Actions
 
@@ -35,3 +36,5 @@ A bill to authorize the honorary promotion of Colonel Charles E. McGee to brigad
 - 2019-07-31 — Senate amendment agreed to: Amendment SA 933 agreed to in Senate by Unanimous Consent.
 - 2019-07-31 — Senate amendment proposed (on the floor): Amendment SA 933 proposed by Senator Cornyn for Senator Van Hollen.(consideration: CR S5217; text: CR S5217)
 - 2019-07-31 — Senate amendment submitted
+- 2019-08-02 — Received in the House.
+- 2019-08-02 — Referred to the House Committee on Armed Services.
