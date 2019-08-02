@@ -1,7 +1,7 @@
 ---
 measure: S. 394
 congress: 116
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 394
@@ -40,3 +40,15 @@ Presidential Transition Enhancement Act of 2019
 - 2019-08-01 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S5318-5320; text: CR S5319-5320)
 - 2019-08-02 — Received in the House.
 - 2019-08-02 — Referred to the House Committee on Oversight and Reform.
+- 2020-02-05 — Considered under suspension of the rules. (consideration: CR H825-827)
+- 2020-02-05 — DEBATE - The House proceeded with forty minutes of debate on S. 394.
+- 2020-02-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-02-05 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
+- 2020-02-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H825-826)
+- 2020-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-02-20 — Presented to President.
+- 2020-02-20 — Presented to President.
+- 2020-03-03 — Became Public Law No: 116-121.
+- 2020-03-03 — Became Public Law No: 116-121.
+- 2020-03-03 — Signed by President.
+- 2020-03-03 — Signed by President.
