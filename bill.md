@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 4162
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4162
+
+> To amend title 38, United States Code, to extend the period under which an election must be made for entitlement to educational assistance under the All-Volunteer Educational Assistance Program of Department of Veterans Affairs, to phase out the use of such program, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “GI Bill Planning Act of 2019”.
+
+## § 2. Period for election to receive benefits under All-Volunteer Educational Assistance Program of Department of Veterans Affairs
+
+- **(a)** *In general* Section 3011 of title 38, United States Code, is amended—
+  - **(1)** in subsection (c)(1), by striking “Any such election shall be made at the time the individual initially enters on active duty as a member of the Armed Forces” and inserting “Any such election shall be made during the 90-day period beginning on the day that is 180 days after the date on which the individual initially enters initial training”; and
+  - **(2)** in subsection (b)(1), by striking “that such individual is entitled to such pay” and inserting “that begin after the date that is 270 days after the date on which the individual initially enters initial training”.
+- **(b)** *Effective date* The amendments made by subsection (a) shall take effect 180 days after the date of enactment of this Act.
+
+## § 3. Phase out of All-Volunteer Educational Assistance Program
+
+Subsection (a)(1)(A) of section 3011 of title 38, United States Code, as amended by section 1, is further amended by striking “after June 30, 1985” and inserting “during the period beginning July 1, 1985, and ending September 30, 2029”.
