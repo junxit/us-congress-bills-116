@@ -13,6 +13,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Ensuring Equal Access to Shelter Act of 2019”.
 
-## § 2. Prohibition
+## § 2. Prohibition on implementation of rule
 
-The Secretary of Housing and Urban Development may not implement, administer, enforce, or in any manner make effective the proposed rule entitled “Revised Requirements Under Community Planning and Development Housing Programs”, published by the Department of Housing and Urban Development in Spring 2019 (Docket No. FR–6152), or any final rule based substantially on such proposed rule.
+The Secretary of Housing and Urban Development may not implement, administer, enforce, or in any manner make effective the proposed rule entitled “Revised Requirements Under Community Planning and Development Housing Programs”, published by the Department of Housing and Urban Development in Spring 2019 (Docket No. FR-6152; RIN: 2506-AC53), or any final rule based substantially on such proposed rule.
