@@ -41,4 +41,10 @@ chamber: IN THE SENATE OF THE UNITED STATES
     - **(C)** an effective plan for evaluation, measurement, and verification of energy savings; and
     - **(D)** the financial need of the applicant.
   - **(4)** *Limitation on individual grant amount* Each grant awarded under this section shall not exceed $200,000.
-- **(d)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2019 through 2023, to remain available until expended.
+- **(d)** *Authorization of appropriations* There is
+- **(d)** *Report* Not later than January 1, 2023, the Secretary shall submit to Congress a report on the pilot program established under subsection (b) that describes—
+  - **(1)** the net reduction in energy use and energy costs under the pilot program; and
+  - **(2)** for each recipient of a grant under the pilot program—
+    - **(A)** the geographic location of the recipient; and
+    - **(B)** the size of the organization of the recipient.
+- **(e)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2019 through 2023, to remain available until expended.
