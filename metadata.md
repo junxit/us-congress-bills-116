@@ -1,7 +1,7 @@
 ---
 measure: S. 494
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 494
@@ -31,3 +31,7 @@ American Fisheries Advisory Committee Act
 
 - 2019-02-14 — Introduced in Senate
 - 2019-02-14 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2019-04-03 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2019-08-16 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker under authority of the order of the Senate of 08/01/2019 without amendment. With written report No. 116-77.
+- 2019-08-16 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker under authority of the order of the Senate of 08/01/2019 without amendment. With written report No. 116-77.
+- 2019-08-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 179.
