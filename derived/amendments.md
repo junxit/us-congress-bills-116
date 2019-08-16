@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1138
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
