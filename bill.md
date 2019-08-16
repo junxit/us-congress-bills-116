@@ -20,7 +20,7 @@ In this Act:
 - **(1)** *Appropriate committee of Congress* The term appropriate committee of Congress means—
   - **(A)** the Select Committee on Intelligence, the Committee on Homeland Security and Governmental Affairs, and the Committee on Energy and Natural Resources of the Senate; and
   - **(B)** the Permanent Select Committee on Intelligence, the Committee on Homeland Security, and the Committee on Energy and Commerce of the House of Representatives.
-- **(2)** *Covered entity* The term covered entity means an entity identified pursuant to section 9(a) of Executive Order 13636 of February 12, 2013 (78 Fed. Reg. 11742), relating to identification of critical infrastructure where a cybersecurity incident could reasonably result in catastrophic regional or national effects on public health or safety, economic security, or national security.
+- **(2)** *Covered entity* The term covered entity means an entity identified pursuant to section 9(a) owner or operator described in section 9(c) of Executive Order 13636 of February 12, 2013 (78 Fed. Reg. 11742), relating to identification of critical infrastructure where a cybersecurity incident could reasonably result in catastrophic regional or national effects on public health or safety, economic security, or national security.
 - **(3)** *Exploit* The term exploit means a software tool designed to take advantage of a security vulnerability.
 - **(4)** *Industrial control system*
   - **(A)** *In general* The term industrial control system means an operational technology used to measure, control, or manage industrial functions.

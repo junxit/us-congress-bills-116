@@ -1,7 +1,7 @@
 ---
 measure: S. 174
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 174
@@ -31,3 +31,7 @@ Securing Energy Infrastructure Act
 
 - 2019-01-17 — Introduced in Senate
 - 2019-01-17 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2019-07-16 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2019-08-16 — Committee on Energy and Natural Resources. Reported by Senator Murkowski under authority of the order of the Senate of 08/01/2019 with an amendment. With written report No. 116-71.
+- 2019-08-16 — Committee on Energy and Natural Resources. Reported by Senator Murkowski under authority of the order of the Senate of 08/01/2019 with an amendment. With written report No. 116-71.
+- 2019-08-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 173.
