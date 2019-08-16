@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1138
 congress: 116
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1138
@@ -43,3 +43,12 @@ To reauthorize the West Valley demonstration project, and for other purposes.
 - 2019-08-16 — Committee on Energy and Natural Resources. Reported by Senator Murkowski under authority of the order of the Senate of 08/01/2019 without amendment. With written report No. 116-69.
 - 2019-08-16 — Committee on Energy and Natural Resources. Reported by Senator Murkowski under authority of the order of the Senate of 08/01/2019 without amendment. With written report No. 116-69.
 - 2019-08-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 171.
+- 2019-12-02 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6790)
+- 2019-12-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6790)
+- 2019-12-03 — Message on Senate action sent to the House.
+- 2019-12-19 — Presented to President.
+- 2019-12-19 — Presented to President.
+- 2019-12-20 — Became Public Law No: 116-95.
+- 2019-12-20 — Became Public Law No: 116-95.
+- 2019-12-20 — Signed by President.
+- 2019-12-20 — Signed by President.
