@@ -23,7 +23,7 @@ This Act may be cited as the “Securing the Homeland Security Supply Chain Act 
   >   - **(2)** limit, notwithstanding any other provision of law, in whole or in part, the disclosure of information, including classified information, relating to the basis for carrying out such an action; and
   >   - **(3)** exclude, in whole or in part, a source carried out in the course of such an action applicable to a covered procurement of the Department.
   > - **(b)** *Determination and notification* Except as authorized by subsection (c) to address an urgent national security interest, the Secretary may exercise the authority provided in subsection (a) only after—
-  >   - **(1)** obtaining a joint recommendation, in unclassified or classified form, from the Chief Acquisition Officer and the Chief Information Officer of the Department, including a review of any risk assessment made available by an appropriate person or entity, that there is a significant supply chain risk in a covered procurement;
+  >   - **(1)** obtaining a joint recommendation, in unclassified or classified form, from the Chief Acquisition Officer and the Chief Information Officer of the Department, including a review of any risk assessment made available by an appropriate person or entity, including the national risk management center at the Cybersecurity and Infrastructure Security Agency, that there is a significant supply chain risk in a covered procurement;
   >   - **(2)** notifying any source named in the joint recommendation described in paragraph (1) advising—
   >     - **(A)** that a recommendation has been obtained;
   >     - **(B)** to the extent consistent with the national security and law enforcement interests, the basis for such recommendation;
@@ -84,3 +84,10 @@ This Act may be cited as the “Securing the Homeland Security Supply Chain Act 
 
 - **(b)** *Rulemaking* Section 553 of title 5, United States Code, and section 1707 of title 41, United States Code, shall not apply to the Secretary of Homeland Security when carrying out the authorities and responsibilities under section 836 of the Homeland Security Act of 2002, as added by subsection (a).
 - **(c)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 835 the following new item:
+
+## § 3. Report on threats posed by foreign state-owned entities to DHS information technology and communications systems
+
+Not later than 180 days after the date of the enactment of this Act, the Under Secretary for Management of the Department of Homeland Security, in coordination with the national risk management center of the Cybersecurity and Infrastructure Security Agency of the Department, shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on cybersecurity threats posed by terrorist actors and foreign state-owned entities to the information technology and communications systems of Department of Homeland Security, including information relating to the following:
+
+- **(1)** The use of foreign state-owned entities’ information and communications technology by the Department of Homeland Security, listed by component.
+- **(2)** The threats, in consultation with the Department’s Office of Intelligence and Analysis, of foreign state-owned entities’ information and communications technology equipment that could impact the Department.
