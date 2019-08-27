@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3526
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3526
@@ -29,3 +29,8 @@ Counter Terrorist Network Act
 - 2019-06-27 — Introduced in House
 - 2019-06-27 — Introduced in House
 - 2019-06-27 — Referred to the House Committee on Homeland Security.
+- 2019-07-17 — Committee Consideration and Mark-up Session Held.
+- 2019-07-17 — Ordered to be Reported by Unanimous Consent.
+- 2019-08-27 — Placed on the Union Calendar, Calendar No. 147.
+- 2019-08-27 — Reported by the Committee on Homeland Security. H. Rept. 116-189.
+- 2019-08-27 — Reported by the Committee on Homeland Security. H. Rept. 116-189.
