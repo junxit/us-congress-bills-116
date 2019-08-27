@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3320
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3320
@@ -16,7 +16,7 @@ Securing the Homeland Security Supply Chain Act of 2019
 
 - Rep. King, Peter T. [R-NY-2] (K000210)
 
-## Cosponsors (6)
+## Cosponsors (8)
 
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. Rice, Kathleen M. [D-NY-4] (R000602)
@@ -24,6 +24,8 @@ Securing the Homeland Security Supply Chain Act of 2019
 - Rep. Rogers, Mike D. [R-AL-3] (R000575)
 - Rep. Rose, Max [D-NY-11] (R000613)
 - Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Hagedorn, Jim [R-MN-1] (H001088)
 
 ## Committees (1)
 
@@ -34,3 +36,10 @@ Securing the Homeland Security Supply Chain Act of 2019
 - 2019-06-18 — Introduced in House
 - 2019-06-18 — Introduced in House
 - 2019-06-18 — Referred to the House Committee on Homeland Security.
+- 2019-06-25 — Referred to the Subcommittee on Oversight, Management, and Accountability.
+- 2019-07-17 — Committee Consideration and Mark-up Session Held.
+- 2019-07-17 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2019-07-17 — Subcommittee on Oversight, Management, and Accountability Discharged.
+- 2019-08-27 — Placed on the Union Calendar, Calendar No. 146.
+- 2019-08-27 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-188.
+- 2019-08-27 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-188.
