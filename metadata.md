@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3675
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3675
@@ -31,3 +31,8 @@ Trusted Traveler Reconsideration and Restoration Act of 2019
 - 2019-07-10 — Introduced in House
 - 2019-07-10 — Introduced in House
 - 2019-07-10 — Referred to the House Committee on Homeland Security.
+- 2019-07-17 — Committee Consideration and Mark-up Session Held.
+- 2019-07-17 — Ordered to be Reported by Unanimous Consent.
+- 2019-08-30 — Placed on the Union Calendar, Calendar No. 149.
+- 2019-08-30 — Reported by the Committee on Homeland Security. H. Rept. 116-191.
+- 2019-08-30 — Reported by the Committee on Homeland Security. H. Rept. 116-191.
