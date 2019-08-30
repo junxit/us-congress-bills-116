@@ -71,7 +71,15 @@ Section 703 of the Homeland Security Act of 2002 (6 U.S.C. 343) is amended—
   >   - **(1)** Overseeing the management of the Homeland Security Enterprise Architecture and ensuring that, before each acquisition decision event (as such term is defined in section 711), approved information technology acquisitions comply with any departmental information technology management requirements, security protocols, and the Homeland Security Enterprise Architecture, and in any case in which information technology acquisitions do not comply with the Department’s management directives, making recommendations to the Department’s Acquisition Review Board regarding such noncompliance.
   >   - **(2)** Providing recommendations to the Acquisition Review Board regarding information technology programs, and developing information technology acquisition strategic guidance.
 
-## § 5. Acquisition authorities for Program Accountability and Risk Management (PARM)
+## § 5. Acquisition authorities for Under Secretary of Strategy, Policy, and Plans
+
+Subsection (c) of section 709 of the Homeland Security Act of 2002 (6 U.S.C. 349) is amended by—
+
+- **(1)** redesignating paragraphs (4) through (7) as (5) through (8), respectively; and
+- **(2)** inserting after paragraph (3) the following new paragraph:
+  > - **(4)** ensure acquisition programs (as such term is defined in section 711) support the DHS Quadrennial Homeland Security Review Report, the DHS Strategic Plan, the DHS Strategic Priorities, and other appropriate successor documents;
+
+## § 6. Acquisition authorities for Program Accountability and Risk Management (PARM)
 
 - **(a)** *In general* Title VII of the Homeland Security Act of 2002 (6 U.S.C. 341 et seq.) is amended by adding at the end the following new section:
   > ## § 711. Acquisition authorities for Program Accountability and Risk Management
