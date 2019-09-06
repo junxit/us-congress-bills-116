@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3154
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -33,5 +33,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `12 U.S.C. § 1709` | insert | Section 203 of the National Housing Act (12 U.S.C. 1709) is amended by inserting after subsection (h) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1472` | add-at-end | Section 501 of the Housing Act of 1949 (42 U.S.C. 1472) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1709` | add-at-end | Section 302(b) of the National Housing Act (12 U.S.C 1717(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1717` | add-at-end | Section 302(b) of the National Housing Act (12 U.S.C. 1717(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1454` | add-at-end | Section 305(a) of the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1454) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
