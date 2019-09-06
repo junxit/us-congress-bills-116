@@ -19,11 +19,11 @@ Title V of the Housing Act of 1949 (42 U.S.C. 1471 et seq.) is amended by adding
 
 > ## § 545. Housing preservation and revitalization program
 >
-> - **(a)** *Establishment* The Secretary shall carry out a program under this section for the preservation and revitalization of multifamily rental housing projects financed with loans under sections 514, 515, and 516.
+> - **(a)** *Establishment* The Secretary shall carry out a program under this section for the preservation and revitalization of multifamily rental housing projects financed under section 515 or both sections 514 and 516.
 > - **(b)** *Notice of maturing loans*
 >   - **(1)** *To owners* On an annual basis, the Secretary shall provide written notice to each owner of a property financed under section 515 or both sections 514 and 516 that will mature within the 4-year period beginning upon the provision of such notice, setting forth the options and financial incentives that are available to facilitate the extension of the loan term or the option to decouple a rental assistance contract pursuant to subsection (f).
 >   - **(2)** *To tenants*
->     - **(A)** *In general* For each property financed with a loan made or insured under section 514, 515, or 516, not later than the date that is 2 years before the date that such loan will mature, the Secretary shall provide written notice to each household residing in such property that informs them of the date of the loan maturity, the possible actions that may happen with respect to the property upon such maturity, and how to protect their right to reside in federally assisted housing after such maturity.
+>     - **(A)** *In general* For each property financed under section 515 or both sections 514 and 516, not later than the date that is 2 years before the date that such loan will mature, the Secretary shall provide written notice to each household residing in such property that informs them of the date of the loan maturity, the possible actions that may happen with respect to the property upon such maturity, and how to protect their right to reside in federally assisted housing after such maturity.
 >     - **(B)** *Language* Notice under this paragraph shall be provided in plain English and shall be translated to other languages in the case of any property located in an area in which a significant number of residents speak such other languages.
 > - **(c)** *Loan restructuring* Under the program under this section, the Secretary may restructure such existing housing loans, as the Secretary considers appropriate, for the purpose of ensuring that such projects have sufficient resources to preserve the projects to provide safe and affordable housing for low-income residents and farm laborers, by—
 >   - **(1)** reducing or eliminating interest;
@@ -42,7 +42,7 @@ Title V of the Housing Act of 1949 (42 U.S.C. 1471 et seq.) is amended by adding
 >   - **(2)** *Rents* Any agreement to extend the term of the rental assistance contract under section 521 for a project shall obligate the owner to continue to maintain the project as decent, safe and sanitary housing and to operate the development in accordance with this title, except that rents shall be based on the lesser of—
 >     - **(A)** the budget-based needs of the project; or
 >     - **(B)** (ii) the operating cost adjustment factor as a payment standard as provided under section 524 of the Multifamily Assisted Housing Reform and Affordability Act of 1997 (42 U.S.C. 1437 note).
-> - **(g)** *Multifamily housing transfer technical assistance* Under the program under this section, the Secretary may provide grants to qualified nonprofit organizations and public housing agencies to provide technical assistance, including financial and legal services, to borrowers under loans under this title for multifamily housing to facilitate the acquisition of such multifamily housing properties in areas where the Secretary determines there is a risk of loss of affordable housing.
+> - **(g)** *Multifamily housing transfer technical assistance* Under the program under this section, the Secretary may provide grants to qualified non-profit organizations and public housing agencies to provide technical assistance, including financial and legal services, to borrowers under loans under this title for multifamily housing to facilitate the acquisition of such multifamily housing properties in areas where the Secretary determines there is a risk of loss of affordable housing.
 > - **(h)** *Transfer of rental assistance* After the loan or loans for a rental project originally financed under section 515 or both sections 514 and 516 have matured or have been prepaid and the owner has chosen not to restructure the loan pursuant to subsection (c), a tenant residing in such project shall have 18 months prior to loan maturation or prepayment to transfer the rental assistance assigned to the tenant’s unit to another rental project originally financed under section 515 or both sections 514 and 516, and the owner of the initial project may rent the tenant’s previous unit to a new tenant without income restrictions.
 > - **(i)** *Administrative expenses* Of any amounts made available for the program under this section for any fiscal year, the Secretary may use not more than $1,000,000 for administrative expenses for carrying out such program.
 > - **(j)** *Authorization of appropriations* There is authorized to be appropriated for the program under this section $200,000,000 for each of fiscal years 2020 through 2024.
@@ -51,7 +51,7 @@ Title V of the Housing Act of 1949 (42 U.S.C. 1471 et seq.) is amended by adding
 
 Section 542 of the Housing Act of 1949 (42 U.S.C. 1490r) is amended by adding at the end the following new subsection:
 
-> - **(c)** *Eligibility of households in section 514 and 515 projects* The Secretary may provide rural housing vouchers under this section for any low-income household (including those not receiving rental assistance) residing in a property financed with a loan made or insured under section 514 or 515 (42 U.S.C. 1484, 1485) which has been prepaid, has been foreclosed, or has matured after September 30, 2005, or residing in a property assisted under section 514 or 516 that is owned by a nonprofit organization or public agency.
+> - **(c)** *Eligibility of households in section 514, 515, and 516 projects* The Secretary may provide rural housing vouchers under this section for any low-income household (including those not receiving rental assistance) residing in a property financed with a loan made or insured under section 514 or 515 (42 U.S.C. 1484, 1485) which has been prepaid, has been foreclosed, or has matured after September 30, 2005, or residing in a property assisted under section 514 or 516 that is owned by a nonprofit organization or public agency.
 
 ## § 4. Amount of voucher assistance
 
@@ -62,7 +62,7 @@ Notwithstanding any other provision of law, in the case of any rural housing vou
 Subsection (d) of section 521 of the Housing Act of 1949 (42 U.S.C. 1490a(d)) is amended by adding at the end the following new paragraph:
 
 > - **(3)** In the case of any rental assistance contract authority that becomes available because of the termination of assistance on behalf of an assisted family—
->   - **(A)** at the option of the owner of the rental project, the Secretary shall provide the owner a period of 6 months before such assistance is made available pursuant to subparagraph (B) during which the owner may use such assistance authority to provide assistance on behalf of an eligible unassisted family that—
+>   - **(A)** at the option of the owner of the rental project, the Secretary shall provide the owner a period of 6 months before such assistance is made available pursuant to subparagraph (B) during which the owner may use such assistance authority to provide assistance of behalf of an eligible unassisted family that—
 >     - **(i)** is residing in the same rental project that the assisted family resided in prior to such termination; or
 >     - **(ii)** newly occupies a dwelling unit in such rental project during such period; and
 >   - **(B)** except for assistance used as provided in subparagraph (A), the Secretary shall use such remaining authority to provide such assistance on behalf of eligible families residing in other rental projects originally financed under section 515 or both sections 514 and 516 of this Act.
@@ -73,18 +73,18 @@ There is authorized to be appropriated to the Secretary of Agriculture $50,000,0
 
 ## § 7. Plan for preserving affordability of rental projects
 
-- **(a)** *Plan* The Secretary of Agriculture (in this section referred to as the “Secretary”) shall submit a written plan to the Congress, not later than the expiration of the 6-month period beginning on the date of the enactment of this Act, for preserving the affordability for low-income families of rental projects for which loans were made or insured under section 514 or 515 of the Housing Act of 1949 and avoiding the displacement of tenant households, which shall—
+- **(a)** *Plan* The Secretary of Agriculture (in this section referred to as the “Secretary”) shall submit a written plan to the Congress, not later than the expiration of the 6-month period beginning on the date of the enactment of this Act, for preserving the affordability for low-income families of rental projects for which loans were made under section 515 or made to nonprofit or public agencies under section 514 and avoiding the displacement of tenant households, which shall—
   - **(1)** set forth specific performance goals and measures;
   - **(2)** set forth the specific actions and mechanisms by which such goals will be achieved;
   - **(3)** set forth specific measurements by which progress towards achievement of each goal can be measured;
   - **(4)** provide for detailed reporting on outcomes; and
   - **(5)** include any legislative recommendations to assist in achievement of the goals under the plan.
 - **(b)** *Advisory committee*
-  - **(1)** *Establishment; purpose* The Secretary shall establish an advisory committee whose purpose shall be to assist the Secretary in preserving section 515 and 514 properties through the multifamily housing preservation and revitalization program under section 545 and in implementing the plan required under subsection (a).
+  - **(1)** *Establishment; purpose* The Secretary shall establish an advisory committee whose purpose shall be to assist the Secretary in preserving section 515 properties and section 514 properties owned by nonprofit or public agencies through the multifamily housing preservation and revitalization program under section 545 and in implementing the plan required under subsection (a).
   - **(2)** *Member* The advisory shall consist of 13 members, appointed by the Secretary, as follows:
     - **(A)** A State Director of Rural Development for the Department of Agriculture.
     - **(B)** 2 representatives of for-profit developers or owners of multifamily rural rental housing.
-    - **(C)** 2 representatives of nonprofit developers or owners of multifamily rural rental housing.
+    - **(C)** 2 representatives of non-profit developers or owners of multifamily rural rental housing.
     - **(D)** 2 representatives of State housing finance agencies.
     - **(E)** 2 representatives of tenants of multifamily rural rental housing.
     - **(F)** 1 representative of a community development financial institution that is involved in preserving the affordability of housing assisted under sections 514, 515, and 516 of the Housing Act of 1949.
@@ -94,7 +94,7 @@ There is authorized to be appropriated to the Secretary of Agriculture $50,000,0
   - **(3)** *Meetings* The advisory committee shall meet not less often than once each calendar quarter.
   - **(4)** *Functions* In providing assistance to the Secretary to carry out its purpose, the advisory committee shall carry out the following functions:
     - **(A)** Assisting the Rural Housing Service of the Department of Agriculture to improve estimates of the size, scope, and condition of rental housing portfolio of the Service, including the time frames for maturity of mortgages and costs for preserving the portfolio as affordable housing.
-    - **(B)** Reviewing current policies and procedures of the Rural Housing Service regarding preservation of affordable rental housing financed under sections 514, 515, and 538 of the Housing Act of 1949, the Multifamily Preservation and Revitalization Demonstration program (MPR), and the rental assistance program and making recommendations regarding improvements and modifications to such policies and procedures.
+    - **(B)** Reviewing current policies and procedures of the Rural Housing Service regarding preservation of affordable rental housing financed under sections 514, 515, 516, and 538 of the Housing Act of 1949, the Multifamily Preservation and Revitalization Demonstration program (MPR), and the rental assistance program and making recommendations regarding improvements and modifications to such policies and procedures.
     - **(C)** Providing ongoing review of Rural Housing Service program results.
     - **(D)** Providing reports to the Congress and the public on meetings, recommendations, and other findings of the advisory committee.
   - **(5)** *Travel costs* Any amounts made available for administrative costs of the Department of Agriculture may be used for costs of travel by members of the advisory committee to meetings of the committee.
