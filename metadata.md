@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3154
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3154
@@ -16,7 +16,7 @@ Homeownership for DREAMers Act
 
 - Rep. Vargas, Juan [D-CA-51] (V000130)
 
-## Cosponsors (23)
+## Cosponsors (27)
 
 - Rep. Tlaib, Rashida [D-MI-13] (T000481)
 - Rep. Garcia, Sylvia R. [D-TX-29] (G000587)
@@ -41,6 +41,10 @@ Homeownership for DREAMers Act
 - Rep. Gomez, Jimmy [D-CA-34] (G000585)
 - Rep. Castro, Joaquin [D-TX-20] (C001091)
 - Rep. Heck, Denny [D-WA-10] (H001064)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. Cárdenas, Tony [D-CA-29] (C001097)
+- Rep. Peters, Scott H. [D-CA-52] (P000608)
+- Rep. Meeks, Gregory W. [D-NY-5] (M001137)
 
 ## Committees (1)
 
@@ -51,3 +55,8 @@ Homeownership for DREAMers Act
 - 2019-06-06 — Introduced in House
 - 2019-06-06 — Introduced in House
 - 2019-06-06 — Referred to the House Committee on Financial Services.
+- 2019-06-11 — Committee Consideration and Mark-up Session Held.
+- 2019-06-11 — Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 25.
+- 2019-09-06 — Placed on the Union Calendar, Calendar No. 155.
+- 2019-09-06 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-197.
+- 2019-09-06 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-197.
