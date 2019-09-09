@@ -1,7 +1,7 @@
 ---
 measure: S. 349
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 349
@@ -16,7 +16,7 @@ Reviving America's Scenic Byways Act of 2019
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 
-## Cosponsors (7)
+## Cosponsors (8)
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
@@ -25,6 +25,7 @@ Reviving America's Scenic Byways Act of 2019
 - Sen. Warren, Elizabeth [D-MA] (W000817)
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
 
 ## Committees (1)
 
@@ -38,3 +39,7 @@ Reviving America's Scenic Byways Act of 2019
 - 2019-06-19 — Committee on Environment and Public Works. Reported by Senator Barrasso with an amendment in the nature of a substitute. Without written report.
 - 2019-06-19 — Committee on Environment and Public Works. Reported by Senator Barrasso with an amendment in the nature of a substitute. Without written report.
 - 2019-06-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 116.
+- 2019-07-23 — By Senator Barrasso from Committee on Environment and Public Works filed written report. Report No. 116-61.
+- 2019-07-23 — By Senator Barrasso from Committee on Environment and Public Works filed written report. Report No. 116-61.
+- 2019-09-09 — Passed Senate with an amendment by Voice Vote. (consideration: CR S5366; text: CR S5366)
+- 2019-09-09 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S5366; text: CR S5366)

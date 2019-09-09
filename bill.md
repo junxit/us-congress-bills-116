@@ -11,11 +11,9 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Reviving America's Scenic Byways Act”.
+This Act may be cited as the “Reviving America’s Scenic Byways Act of 2019”.
 
 ## § 2. National scenic byways program
 
-- **(a)** *Request for nominations* Not later than 90 days after the date of enactment of this Act, the Secretary of Transportation shall publish in the Federal Register and on the appropriate website of the Department of Transportation a request for nominations for roads to be designated under the national scenic byways program under section 162 of title 23, United States Code.
-- **(b)** *Designation determinations* Not earlier than 1 year, and not later than 1 year and 30 days, after the date on which a request for nominations is published under subsection (a), the Secretary of Transportation shall—
-  - **(1)** make a determination on each nomination received pursuant to the request; and
-  - **(2)** publish in the Federal Register and on the appropriate website of the Department of Transportation a list of the roads that the Secretary has selected to be designated under the national scenic byways program under section 162 of title 23, United States Code.
+- **(a)** *Request for nominations* Not later than 90 days after the date of enactment of this Act, the Secretary of Transportation shall issue a request for nominations with respect to roads to be designated under the national scenic byways program, as described in section 162(a) of title 23, United States Code. The Secretary shall make the request for nominations available on the appropriate website of the Department of Transportation.
+- **(b)** *Designation determinations* Not later than 1 year after the date on which the request for nominations required under subsection (a) is issued, the Secretary shall make publicly available on the appropriate website of the Department of Transportation a list specifying the roads, nominated pursuant to such request, to be designated under the national scenic byways program.
