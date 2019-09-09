@@ -67,3 +67,7 @@ Section 453 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17112
   > - **(h)** *International specifications and metrics* The Secretary, in collaboration with key stakeholders, shall actively participate in efforts to harmonize global specifications and metrics for data center energy and water efficiency.
   > - **(i)** *Data center utilization metric* The Secretary, in collaboration with key stakeholders, shall facilitate in the development of an efficiency metric that measures the energy efficiency of a data center (including equipment and facilities).
   > - **(j)** *Protection of proprietary information* The Secretary and the Administrator shall not disclose any proprietary information or trade secrets provided by any individual or company for the purposes of carrying out this section or the programs and initiatives established under this section.
+
+## § 4. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
