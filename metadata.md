@@ -1,7 +1,7 @@
 ---
 measure: S. 1207
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1207
@@ -16,10 +16,11 @@ Navajo Utah Water Rights Settlement Act of 2019
 
 - Sen. Romney, Mitt [R-UT] (R000615)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Sinema, Kyrsten [D-AZ] (S001191)
 - Sen. McSally, Martha [R-AZ] (M001197)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
 
 ## Committees (1)
 
@@ -29,3 +30,7 @@ Navajo Utah Water Rights Settlement Act of 2019
 
 - 2019-04-11 — Introduced in Senate
 - 2019-04-11 — Read twice and referred to the Committee on Indian Affairs.
+- 2019-05-15 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2019-09-09 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-79.
+- 2019-09-09 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-79.
+- 2019-09-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 182.
