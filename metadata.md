@@ -1,7 +1,7 @@
 ---
 measure: S. 1689
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1689
@@ -37,3 +37,17 @@ A bill to permit States to transfer certain funds from the clean water revolving
 - 2019-07-23 — Star Print ordered on report 116-63.
 - 2019-09-09 — Passed Senate without amendment by Voice Vote. (consideration: CR S5367; text: CR S5367)
 - 2019-09-09 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S5367; text: CR S5367)
+- 2019-09-10 — Held at the desk.
+- 2019-09-10 — Message on Senate action sent to the House.
+- 2019-09-10 — Received in the House.
+- 2019-09-17 — Considered by unanimous consent. (consideration: CR H7744)
+- 2019-09-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-09-17 — Mr. Pallone asked unanimous consent to take from the Speaker's table and consider.
+- 2019-09-17 — On passage Passed without objection. (text: CR H7744)
+- 2019-09-17 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7744)
+- 2019-09-23 — Presented to President.
+- 2019-09-23 — Presented to President.
+- 2019-10-04 — Became Public Law No: 116-63.
+- 2019-10-04 — Became Public Law No: 116-63.
+- 2019-10-04 — Signed by President.
+- 2019-10-04 — Signed by President.
