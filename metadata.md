@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 57
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 57
@@ -34,3 +34,4 @@ Authorizing the use of Emancipation Hall for an event to commemorate the 400th a
 - 2019-08-16 — Without objection, the Chair laid before the House H. Con. Res. 57.
 - 2019-09-09 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S5364)
 - 2019-09-09 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S5364)
+- 2019-09-10 — Message on Senate action sent to the House.
