@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3352
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3352
@@ -20,9 +20,10 @@ Department of State Authorization Act of 2019
 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Department of State Authorization Act of 2019
 - 2019-07-25 — Mr. Engel moved to suspend the rules and pass the bill, as amended.
 - 2019-07-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7412-7434)
 - 2019-07-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7412-7434)
+- 2019-09-09 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
