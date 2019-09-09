@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1760
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1760
@@ -29,3 +29,10 @@ Advanced Nuclear Fuel Availability Act
 - 2019-03-14 — Introduced in House
 - 2019-03-14 — Introduced in House
 - 2019-03-14 — Referred to the House Committee on Energy and Commerce.
+- 2019-03-15 — Referred to the Subcommittee on Energy.
+- 2019-09-09 — Considered under suspension of the rules. (consideration: CR H7544-7546)
+- 2019-09-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1760.
+- 2019-09-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-09-09 — Mr. Rush moved to suspend the rules and pass the bill.
+- 2019-09-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7545)
+- 2019-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7545)
