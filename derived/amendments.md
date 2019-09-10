@@ -1,7 +1,7 @@
 ---
 measure: H.R. 281
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-70 amendatory instructions. 68 executed, 2 stated and not applied.
+71 amendatory instructions. 69 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -125,7 +125,16 @@ to guess them.
 
 ### 12 U.S.C. § 1811
 
-> The Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.) is amended by striking “Chairman of the Board of Governors” each place such term appears and inserting “Chair of the Board of Governors”.
+> in section 7(a)(3), by striking “Chairman of the Board of Governors” and inserting “Chair of the Board of Governors”; and
+
+| | |
+|---|---|
+| Removed | `Chairman of the Board of Governors` |
+| Inserted | `Chair of the Board of Governors` |
+
+### 12 U.S.C. § 1811
+
+> in section 10(k)(5)(B)(ii), by striking “Chairman of the Board of Governors” and inserting “Chair of the Board of Governors”.
 
 | | |
 |---|---|
@@ -323,7 +332,7 @@ to guess them.
 
 ### 12 U.S.C. § 226
 
-> in section 13, in the eleventh undesignated paragraph, by striking “his” and inserting “the assured’s”;
+> in section 13, in the tenth undesignated paragraph, by striking “his” and inserting “the assured’s”;
 
 | | |
 |---|---|
@@ -530,7 +539,7 @@ to guess them.
 
 ### 12 U.S.C. § 4513
 
-> by striking “Chairman of the Board of Governors” each place such term appears and inserting “Chair of the Board of Governors”; and
+> by striking “Chairman of the Board of Governors” and inserting “Chair of the Board of Governors”; and
 
 | | |
 |---|---|
