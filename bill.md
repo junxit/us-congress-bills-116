@@ -31,6 +31,7 @@ This Act may be cited as the “Anti-Border Corruption Improvement Act”.
   >     - **(A)** has served in the Armed Forces for at least 3 years;
   >     - **(B)** holds, or has held during the most recent 5-year period, a Secret, Top Secret, or Top Secret/Sensitive Compartmented Information clearance;
   >     - **(C)** holds or has undergone and passed a background investigation to the level required for service as a law enforcement officer with U.S. Customs and Border Protection;
+  >     - **(C)** holds a current, in-scope background investigation to the level required for services as a law enforcement officer with U.S. Customs and Border Protection;
   >     - **(D)** received, or is eligible to receive, an honorable discharge from service in the Armed Forces and has not engaged in criminal activity or committed a serious military or civil offense under the Uniform Code of Military Justice; and
   >     - **(E)** was not granted any waivers to obtain the clearance referred to subparagraph (B).
 
