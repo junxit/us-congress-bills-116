@@ -1,7 +1,7 @@
 ---
 measure: S. 1867
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1867
@@ -29,3 +29,7 @@ DHS Countering Unmanned Aircraft Systems Coordinator Act
 
 - 2019-06-13 — Introduced in Senate
 - 2019-06-13 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2019-06-19 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2019-09-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-91.
+- 2019-09-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-91.
+- 2019-09-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 195.
