@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 548
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 548
@@ -27,3 +27,11 @@ Providing for consideration of the bill (H.R. 205) to amend the Gulf of Mexico E
 - 2019-09-09 — Providing for consideration of H.R. 205, H.R. 1146, and H.R. 1941.
 - 2019-09-09 — The House Committee on Rules reported an original measure, H. Rept. 116-200, by Mr. Hastings.
 - 2019-09-09 — The House Committee on Rules reported an original measure, H. Rept. 116-200, by Mr. Hastings.
+- 2019-09-10 — Considered as privileged matter. (consideration: CR H7566-7571)
+- 2019-09-10 — Considered as unfinished business. (consideration: CR H7584-7585)
+- 2019-09-10 — DEBATE - The House proceeded with one hour of debate on H. Res. 548.
+- 2019-09-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-09-10 — On agreeing to the resolution Agreed to by the Yeas and Nays: 231 - 196 (Roll no. 518). (text: CR H7566-7567)
+- 2019-09-10 — On ordering the previous question Agreed to by the Yeas and Nays: 232 - 196 (Roll no. 517). (consideration: CR H7584)
+- 2019-09-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 548, the Chair put the question on ordering the previous question and by voice vote, announced the ayes had prevailed. Mrs. Lesko demanded the yeas and nays and the Chair postponed further proceedings until later in the legislative day.
+- 2019-09-10 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 231 - 196 (Roll no. 518).(text: CR H7566-7567)
