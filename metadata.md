@@ -1,7 +1,7 @@
 ---
 measure: S. 1378
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1378
@@ -35,3 +35,7 @@ Repeal Insurance Plans of the Multi-State Program Act
 
 - 2019-05-08 — Introduced in Senate
 - 2019-05-08 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2019-05-15 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2019-09-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-86.
+- 2019-09-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-86.
+- 2019-09-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 190.
