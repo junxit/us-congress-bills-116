@@ -1,7 +1,7 @@
 ---
 measure: S. 859
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 859
@@ -24,3 +24,7 @@ RIVER Act
 
 - 2019-03-25 — Introduced in Senate
 - 2019-03-25 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2019-07-16 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2019-09-10 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 116-81.
+- 2019-09-10 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 116-81.
+- 2019-09-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 184.
