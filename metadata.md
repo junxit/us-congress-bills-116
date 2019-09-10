@@ -1,7 +1,7 @@
 ---
 measure: S. 2193
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2193
@@ -16,6 +16,10 @@ CHARGE Act
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
 
+## Cosponsors (1)
+
+- Sen. Portman, Rob [R-OH] (P000449)
+
 ## Committees (1)
 
 - Senate — Homeland Security and Governmental Affairs Committee
@@ -24,3 +28,7 @@ CHARGE Act
 
 - 2019-07-18 — Introduced in Senate
 - 2019-07-18 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2019-07-24 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2019-09-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 116-95.
+- 2019-09-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 116-95.
+- 2019-09-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 199.

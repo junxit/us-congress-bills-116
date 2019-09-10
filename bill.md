@@ -19,6 +19,7 @@ This Act may be cited as the “Charging Helps Agencies Realize General Efficien
   - **(1)** the term “Administrator” means the Administrator of General Services;
   - **(2)** the term charge card—
     - **(A)** means a card, plate, coupon book, or other credit device existing for the purpose of obtaining money, property, labor, or services on credit; and
+    - **(A)** means a card, plate, coupon book, or other means existing for the purpose of obtaining money, property, labor, or services; and
     - **(B)** includes—
       - **(i)** a card issued under the GSA SmartPay program; and
       - **(ii)** a Fleet Services card;
@@ -31,4 +32,4 @@ This Act may be cited as the “Charging Helps Agencies Realize General Efficien
 - **(b)** *Guidance* Not later than 180 days after the date of enactment of this Act, the Administrator shall issue guidance to clarify that each Federal agency may, in accordance with section 1344 of title 31, United States Code—
   - **(1)** charge a covered electric motor vehicle at a commercial electric motor vehicle charging station; and
   - **(2)** pay for a transaction described in paragraph (1) with a charge card.
-- **(c)** *Issuance of charge cards* Not later than 180 days after the date of enactment of this Act, the Administrator shall issue to each Federal agency a charge card for each covered electric motor vehicle of the Federal agency that may be used by the Federal agency to charge the covered motor vehicle in accordance with the guidance issued under subsection (b).
+- **(c)** *Issuance of charge cards* Not later than 180 days after the date of enactment of this Act, the Administrator shall issue to each Federal agency a charge card for each covered electric motor vehicle of the Federal agency that may be used by an officer or employee of the Federal agency to charge pay for charging the covered motor vehicle in accordance with the guidance issued under subsection (b).
