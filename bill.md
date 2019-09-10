@@ -7,32 +7,80 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1690
 
-> To require carbon monoxide detectors in certain federally assisted housing, and for other purposes.
+> To require carbon monoxide alarms or detectors in certain federally assisted housing, and for other purposes.
 
 ## § 1. Short title
 
-This Act may be cited as the “Safe Housing for Families Act of 2019”.
+This Act may be cited as the “Carbon Monoxide Alarms Leading Every Resident To Safety Act of 2019” or the “CO ALERTS Act of 2019”.
 
-## § 2. Carbon monoxide detectors in Federally assisted housing
+## § 2. Findings
 
-- **(a)** *Supportive housing for the elderly* Subsection (j) of section 202 of the Housing Act of 1949 (12 U.S.C. 1701q(j)) is amended by adding at the end the following:
-  > - **(9)** *Carbon monoxide detectors*
-  >   - **(A)** *In general* Each owner of a dwelling unit assisted under this section shall ensure that not less than one carbon monoxide detector is installed per floor in the dwelling unit in accordance with standards and criteria acceptable to the Secretary for the protection of occupants in the dwelling unit.
-  >   - **(B)** *Rehabilitation* Each owner of a dwelling unit assisted under this section that is located in a property that is undergoing or planning a substantial rehabilitation project shall ensure that, during that rehabilitation, not less than one carbon monoxide detector is installed per floor in the dwelling unit in accordance with standards and criteria acceptable to the Secretary for the protection of occupants in the dwelling unit.
+Congress finds that—
 
-- **(b)** *Supportive housing for persons with disabilities* Subsection (j) of section 811 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 8013(j)) is amended by adding at the end the following:
-  > - **(7)** *Carbon monoxide detectors*
-  >   - **(A)** *In general* Each dwelling unit assisted under this section shall contain not less than one carbon monoxide detector installed per floor of the dwelling unit in accordance with standards and criteria acceptable to the Secretary for the protection of occupants in the dwelling unit.
-  >   - **(B)** *Rehabilitation* Each dwelling unit assisted under this section that is located in a property that is undergoing or planning a substantial rehabilitation project shall, during that rehabilitation, have installed not less than one carbon monoxide detector per floor of the dwelling unit in accordance with standards and criteria acceptable to the Secretary for the protection of occupants in the dwelling unit.
+- **(1)** carbon monoxide alarms are not required by federally assisted housing programs, when not required by State or local codes;
+- **(2)** numerous federally assisted housing residents have lost their lives due to carbon monoxide poisoning;
+- **(3)** the effects of carbon monoxide poisoning occur immediately and can result in death in a matter of minutes;
+- **(4)** carbon monoxide exposure can cause permanent brain damage, life-threatening cardiac complications, fetal death or miscarriage, and death, among other harmful health conditions;
+- **(5)** carbon monoxide poisoning is especially dangerous for unborn babies, children, elderly individuals, and individuals with cardiovascular disease, among others with chronic health conditions;
+- **(6)** the majority of the 4,600,000 families receiving Federal housing assistance are families with young children, elderly individuals, or individuals with disabilities, making them especially vulnerable to carbon monoxide poisoning;
+- **(7)** more than 400 people die and 50,000 additional people visit the emergency room annually as a result of carbon monoxide poisoning;
+- **(8)** carbon monoxide poisoning is entirely preventable and early detection is possible with the use of carbon monoxide alarms;
+- **(9)** the Centers for Disease Control and Prevention warns that carbon monoxide poisoning is entirely preventable and recommends the installation of carbon monoxide alarms;
+- **(10)** the Office of Lead Hazard Control and Healthy Homes of the Department of Housing and Urban Development recommends the installation of carbon monoxide alarms as a best practice to keep families and individuals safe and to protect health; and
+- **(11)** in order to safeguard the health and well-being of tenants in federally assisted housing, the Federal Government should consider best practices for primary prevention of carbon monoxide-related incidents.
 
-- **(c)** *Public housing* Subsection (a) of section 3 of the United States Housing Act of 1937 (42 U.S.C. 1437a(a)) is amended by adding at the end the following:
-  > - **(8)** *Carbon monoxide detectors*
-  >   - **(A)** *In general* Each public housing agency shall ensure, for each dwelling unit in public housing owned or operated by the public housing agency, that not less than one carbon monoxide detector is installed per floor in the dwelling unit in accordance with standards and criteria acceptable to the Secretary for the protection of occupants in the dwelling unit.
-  >   - **(B)** *Rehabilitation* With respect to public housing for which a public housing agency is undergoing or planning a substantial rehabilitation project, the public housing agency shall ensure that, during that rehabilitation, not less than one carbon monoxide detector is installed per floor in each dwelling unit located in that public housing in accordance with standards and criteria acceptable to the Secretary for the protection of occupants in the dwelling unit.
+## § 3. Carbon monoxide alarms or detectors in federally assisted housing
 
-- **(d)** *Section 8 housing* Subsection (o) of section 8 (42 U.S.C. 1437f(o)) is amended by adding at the end the following:
-  > - **(21)** *Carbon monoxide detectors*
-  >   - **(A)** *In general* Each owner of a dwelling unit receiving tenant-based assistance or project-based assistance under this subsection shall ensure that not less than one carbon monoxide detector is installed per floor in the dwelling unit in accordance with standards and criteria acceptable to the Secretary for the protection of occupants in the dwelling unit.
-  >   - **(B)** *Rehabilitation* With respect to a property receiving tenant-based assistance or project-based assistance for which the owner is undergoing or planning a substantial rehabilitation project, the owner shall ensure that, during that rehabilitation, not less than one carbon monoxide detector is installed per floor in each dwelling unit assisted in that property in accordance with standards and criteria acceptable to the Secretary for the protection of occupants in the dwelling unit.
+- **(a)** *Public housing, tenant-Based assistance, and project-Based assistance* The United States Housing Act of 1937 (42 U.S.C. 1437 et seq.) is amended—
+  - **(1)** in section 3(a) (42 U.S.C. 1437a(a)), by adding at the end the following:
+    > - **(8)** *Carbon monoxide alarms* Each public housing agency shall ensure that carbon monoxide alarms or detectors are installed in each dwelling unit in public housing owned or operated by the public housing agency in a manner that meets or exceeds—
+    >   - **(A)** the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
+    >   - **(B)** any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
 
-- **(e)** *Additional funding* There is authorized to be appropriated to carry out the amendments made by this Act $1,000,000 for each of fiscal years 2020 through 2029.
+  - **(2)** in section 8 (42 U.S.C. 1437f)—
+    - **(A)** by inserting after subsection (i) the following:
+      > - **(j)** *Carbon monoxide alarms* Each owner of a dwelling unit receiving project-based assistance under this section shall ensure that carbon monoxide alarms or detectors are installed in the dwelling unit in a manner that meets or exceeds—
+      >   - **(1)** the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
+      >   - **(2)** any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
+
+    - **(B)** in subsection (o), by adding at the end the following:
+      > - **(21)** *Carbon monoxide alarms* Each dwelling unit receiving tenant-based assistance or project-based assistance under this subsection shall have carbon monoxide alarms or detectors installed in the dwelling unit in a manner that meets or exceeds—
+      >   - **(A)** the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
+      >   - **(B)** any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
+
+- **(b)** *Supportive housing for the elderly* Section 202(j) of the Housing Act of 1959 (12 U.S.C. 1701q(j)) is amended by adding at the end the following:
+  > - **(9)** *Carbon monoxide alarms* Each owner of a dwelling unit assisted under this section shall ensure that carbon monoxide alarms or detectors are installed in the dwelling unit in a manner that meets or exceeds—
+  >   - **(A)** the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
+  >   - **(B)** any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
+
+- **(c)** *Supportive housing for persons with disabilities* Section 811(j) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 8013(j)) is amended by adding at the end the following:
+  > - **(7)** *Carbon monoxide alarms* Each dwelling unit assisted under this section shall contain installed carbon monoxide alarms or detectors that meet or exceed—
+  >   - **(A)** the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
+  >   - **(B)** any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
+
+- **(d)** *Housing Opportunities for Persons with AIDS* Section 856 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12905) is amended by adding at the end the following new subsection:
+  > - **(i)** *Carbon monoxide alarms* Each dwelling unit assisted under this subtitle shall contain installed carbon monoxide alarms or detectors that meet or exceed—
+  >   - **(1)** the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
+  >   - **(2)** any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
+
+- **(e)** *Rural housing* Title V of the Housing Act of 1949 (42 U.S.C. 1471 et seq.) is amended—
+  - **(1)** in section 514 (42 U.S.C. 1484), by adding at the end the following:
+    > - **(j)** Housing and related facilities constructed with loans under this section shall contain installed carbon monoxide alarms or detectors that meet or exceed—
+    >   - **(1)** the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
+    >   - **(2)** any other standards as may be adopted by the Secretary, in collaboration with the Secretary of Housing and Urban Development, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
+
+  - **(2)** in section 515 (42 U.S.C. 1485)—
+    - **(A)** in subsection (m), by inserting “(1)” before “The Secretary shall establish”; and
+    - **(B)** by adding at the end the following:
+      > - **(2)** Housing and related facilities rehabilitated or repaired with amounts received under a loan made or insured under this section shall contain installed carbon monoxide alarms or detectors that meet or exceed—
+      >   - **(A)** the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
+      >   - **(B)** any other standards as may be adopted by the Secretary, in collaboration with the Secretary of Housing and Urban Development, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
+
+- **(f)** *Guidance* The Secretary of Housing and Urban Development shall provide guidance to public housing agencies (as defined in section 3(b)(6) of the United States Housing Act of 1937 (42 U.S.C. 1437a(b)(6)) on how to educate tenants on health hazards in the home, including to carbon monoxide poisoning, lead poisoning, asthma induced by housing-related allergens, and other housing-related preventable outcomes, to help advance primary prevention and prevent future deaths and other harms.
+- **(g)** *Effective date* The amendments made by subsections (a) through (d) shall take effect on the date that is 2 years after the date of enactment of this Act.
+- **(h)** *Authorization of appropriations* There is authorized to be appropriated to carry out this Act, $101,400,000 per year for each of fiscal years 2020, 2021, and 2022.
+- **(i)** *No preemption* Nothing in the amendments made by this section shall be construed to preempt or limit the applicability of any State or local law relating to the installation and maintenance of carbon monoxide alarms or detectors in housing that requires standards that are more stringent than the standards described in the amendments made by this section.
+
+## § 4. Study on inclusion of carbon monoxide alarms or detectors in other units
+
+The Secretary of Housing and Urban Development, in consultation with the Consumer Product Safety Commission, shall conduct a study and issue a publicly available report on requiring carbon monoxide alarms or detectors in federally assisted housing that is not covered in the amendments made by section 3.
