@@ -1,7 +1,7 @@
 ---
 measure: S. 979
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 979
@@ -16,11 +16,13 @@ FACE Act
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 
-## Cosponsors (3)
+## Cosponsors (5)
 
 - Sen. Johnson, Ron [R-WI] (J000293)
 - Sen. Peters, Gary C. [D-MI] (P000595)
 - Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
 
 ## Committees (1)
 
@@ -30,3 +32,7 @@ FACE Act
 
 - 2019-04-02 — Introduced in Senate
 - 2019-04-02 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2019-06-19 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2019-09-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 116-84.
+- 2019-09-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 116-84.
+- 2019-09-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 188.

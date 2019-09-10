@@ -30,7 +30,8 @@ Congress finds that—
   >   - **(2)** an updated strategy described in subsection (a)(1)(C) that clearly defines—
   >     - **(A)** the objectives of advance contracts;
   >     - **(B)** how advance contracts contribute to disaster response operations of the Agency; and
-  >     - **(C)** whether and how advance contracts should be prioritized in relation to new post-disaster contract awards.
+  >     - **(C)** how to maximize the award of advance contracts to small business concerns, as defined in section 3 of the Small Business Act (15 U.S.C. 632); and
+  >     - **(C)(D)** whether and how advance contracts should be prioritized in relation to new post-disaster contract awards.
   > - **(f)** *Additional duties of the Administrator*
   >   - **(1)** *Head of contracting* The Administrator shall ensure that the head of contracting activity of the Agency—
   >     - **(A)** not later than 270 days after the date of enactment of this subsection, updates the Disaster Contracting Desk Guide of the Agency to provide specific guidance—
