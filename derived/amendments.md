@@ -1,7 +1,7 @@
 ---
 measure: S. 859
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 5 executed, 0 stated and not applied.
+11 amendatory instructions. 10 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -68,3 +68,59 @@ to guess them.
 |---|---|
 | Removed | `each of the fiscal years 2006 through 2015` |
 | Inserted | `each of fiscal years 2019 through 2036` |
+
+### 42 U.S.C. § 15881
+
+> in subsection (c), by striking “10” and inserting “22”;
+
+| | |
+|---|---|
+| Removed | `10` |
+| Inserted | `22` |
+
+### 42 U.S.C. § 15881
+
+> in subsection (e)(2), by striking “section 29(d)(2)(B)” and inserting “section 45K(d)(2)(B)”;
+
+| | |
+|---|---|
+| Removed | `section 29(d)(2)(B)` |
+| Inserted | `section 45K(d)(2)(B)` |
+
+### 42 U.S.C. § 15881
+
+> in subsection (f), by striking “20” and inserting “32”; and
+
+| | |
+|---|---|
+| Removed | `20` |
+| Inserted | `32` |
+
+### 42 U.S.C. § 15881
+
+> in subsection (g), by striking “each of the fiscal years 2006 through 2015” and inserting “each of fiscal years 2019 through 2036”.
+
+| | |
+|---|---|
+| Removed | `each of the fiscal years 2006 through 2015` |
+| Inserted | `each of fiscal years 2019 through 2036` |
+
+### 42 U.S.C. § 15882
+
+> Section 243(c) of the Energy Policy Act of 2005 (42 U.S.C. 15882(c)) is amended by striking “each of the fiscal years 2006 through 2015” and inserting “each of fiscal years 2019 through 2036”.
+
+| | |
+|---|---|
+| Removed | `each of the fiscal years 2006 through 2015` |
+| Inserted | `each of fiscal years 2019 through 2036` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `42 U.S.C. § 15881` | replace | in subsection (b), by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
