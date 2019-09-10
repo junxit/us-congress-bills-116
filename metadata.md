@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3620
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3620
@@ -37,3 +37,9 @@ Strategy and Investment in Rural Housing Preservation Act of 2019
 - 2019-09-06 — Placed on the Union Calendar, Calendar No. 156.
 - 2019-09-06 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-198.
 - 2019-09-06 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-198.
+- 2019-09-10 — Considered under suspension of the rules. (consideration: CR H7573-7576)
+- 2019-09-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3620.
+- 2019-09-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-09-10 — Mr. San Nicolas moved to suspend the rules and pass the bill, as amended.
+- 2019-09-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7573-7574)
+- 2019-09-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7573-7574)
