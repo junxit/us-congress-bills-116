@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2114
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2114
@@ -20,9 +20,10 @@ Enhancing State Energy Security Planning and Emergency Preparedness Act of 2019
 
 - Rep. Upton, Fred [R-MI-6] (U000031)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Enhancing State Energy Security Planning and Emergency Preparedness Act of 2019
 - 2019-09-09 — Mr. Rush moved to suspend the rules and pass the bill.
 - 2019-09-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7543-7544)
 - 2019-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7543-7544)
+- 2019-09-10 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
