@@ -81,16 +81,17 @@ There is authorized to be appropriated to the Secretary of Agriculture $50,000,0
   - **(5)** include any legislative recommendations to assist in achievement of the goals under the plan.
 - **(b)** *Advisory committee*
   - **(1)** *Establishment; purpose* The Secretary shall establish an advisory committee whose purpose shall be to assist the Secretary in preserving section 515 properties and section 514 properties owned by nonprofit or public agencies through the multifamily housing preservation and revitalization program under section 545 and in implementing the plan required under subsection (a).
-  - **(2)** *Member* The advisory shall consist of 13 members, appointed by the Secretary, as follows:
+  - **(2)** *Member* The advisory committee shall consist of 14 members, appointed by the Secretary, as follows:
     - **(A)** A State Director of Rural Development for the Department of Agriculture.
-    - **(B)** 2 representatives of for-profit developers or owners of multifamily rural rental housing.
-    - **(C)** 2 representatives of non-profit developers or owners of multifamily rural rental housing.
-    - **(D)** 2 representatives of State housing finance agencies.
-    - **(E)** 2 representatives of tenants of multifamily rural rental housing.
-    - **(F)** 1 representative of a community development financial institution that is involved in preserving the affordability of housing assisted under sections 514, 515, and 516 of the Housing Act of 1949.
-    - **(G)** 1 representative of a nonprofit organization that operates nationally and has actively participated in the preservation of housing assisted by the Rural Housing Service by conducting research regarding, and providing financing and technical assistance for, preserving the affordability of such housing.
-    - **(H)** 1 representative of low-income housing tax credit investors.
-    - **(I)** 1 representative of regulated financial institutions that finance affordable multifamily rural rental housing developments.
+    - **(B)** The Administrator for Rural Housing Service of the Department of Agriculture.
+    - **(C)** Two representatives of for-profit developers or owners of multifamily rural rental housing.
+    - **(D)** Two representatives of non-profit developers or owners of multifamily rural rental housing.
+    - **(E)** Two representatives of State housing finance agencies.
+    - **(F)** Two representatives of tenants of multifamily rural rental housing.
+    - **(G)** One representative of a community development financial institution that is involved in preserving the affordability of housing assisted under sections 514, 515, and 516 of the Housing Act of 1949.
+    - **(H)** One representative of a nonprofit organization that operates nationally and has actively participated in the preservation of housing assisted by the Rural Housing Service by conducting research regarding, and providing financing and technical assistance for, preserving the affordability of such housing.
+    - **(I)** One representative of low-income housing tax credit investors.
+    - **(J)** One representative of regulated financial institutions that finance affordable multifamily rural rental housing developments.
   - **(3)** *Meetings* The advisory committee shall meet not less often than once each calendar quarter.
   - **(4)** *Functions* In providing assistance to the Secretary to carry out its purpose, the advisory committee shall carry out the following functions:
     - **(A)** Assisting the Rural Housing Service of the Department of Agriculture to improve estimates of the size, scope, and condition of rental housing portfolio of the Service, including the time frames for maturity of mortgages and costs for preserving the portfolio as affordable housing.
