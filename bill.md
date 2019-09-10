@@ -25,7 +25,8 @@ The Congress finds that—
 
 ## § 3. Federal reserve bank presidents
 
-The provision designated “fifth” of the fourth undesignated paragraph of section 4 of the Federal Reserve Act (12 U.S.C. 341) is amended by inserting after “employees.” the following: “In making the appointment of a president, the bank shall interview at least one individual reflective of gender diversity and one individual reflective of racial or ethnic diversity.”.
+- **(a)** *In general* The provision designated “fifth” of the fourth undesignated paragraph of section 4 of the Federal Reserve Act (12 U.S.C. 341) is amended by inserting after “employees.” the following: “In making the appointment of a president, the bank shall interview at least one individual reflective of gender diversity and one individual reflective of racial or ethnic diversity.”.
+- **(b)** *Report* Not later than January 1 of each year, each Federal reserve bank shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate, the Committee on Financial Services of the House of Representatives, and the Office of Inspector General for the Board of Governors of the Federal Reserve System and the Bureau of Consumer Financial Protection a report describing the applicant pool demographic for the position of the president of the Federal reserve bank for the preceding fiscal year, if applicable.
 
 ## § 4. Technical adjustments
 
@@ -36,7 +37,7 @@ The provision designated “fifth” of the fourth undesignated paragraph of sec
 - **(c)** *Dodd-Frank Wall Street Reform and Consumer Protection Act* The Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5301 et seq.) is amended by striking “Chairman of the Board” each place such term appears and inserting “Chair of the Board”.
 - **(d)** *Emergency Economic Stabilization Act of 2008* The Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5201 et seq.) is amended by striking “Chairman of the Board” each place such term appears and inserting “Chair of the Board”.
 - **(e)** *Emergency Loan Guarantee Act* Section 2 of the Emergency Loan Guarantee Act (15 U.S.C. 1841) is amended by striking “Chairman of the Board of Governors” and inserting “Chair of the Board of Governors”.
-- **(f)** *Emergency Steel Loan Guarantee and Emergency Oil and Gas Act of 1999* The Emergency Steel Loan Guarantee and Emergency Oil and Gas Act of 1999 (15 U.S.C. 1841 note) is amended—
+- **(f)** *Emergency Steel Loan Guarantee and Emergency Oil and Gas Guaranteed Loan Act of 1999* The Emergency Steel Loan Guarantee and Emergency Oil and Gas Guaranteed Loan Act of 1999 (15 U.S.C. 1841 note) is amended—
   - **(1)** in section 101(e)(2)—
     - **(A)** by striking “Chairman of the Board of Governors” and inserting “Chair of the Board of Governors”; and
     - **(B)** by striking “Chairman,” and inserting “Chair,”; and
@@ -44,7 +45,9 @@ The provision designated “fifth” of the fourth undesignated paragraph of sec
     - **(A)** by striking “Chairman of the Board of Governors” and inserting “Chair of the Board of Governors”; and
     - **(B)** by striking “Chairman,” and inserting “Chair,”.
 - **(g)** *Farm Credit Act of 1971* Section 4.9(d)(1)(C) of the Farm Credit Act of 1971 (12 U.S.C. 2160(d)(1)(C)) is amended by striking “Chairman of the Board of Governors” and inserting “Chair of the Board of Governors”.
-- **(h)** *Federal Deposit Insurance Act* The Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.) is amended by striking “Chairman of the Board of Governors” each place such term appears and inserting “Chair of the Board of Governors”.
+- **(h)** *Federal Deposit Insurance Act* The Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.) is amended—
+  - **(1)** in section 7(a)(3), by striking “Chairman of the Board of Governors” and inserting “Chair of the Board of Governors”; and
+  - **(2)** in section 10(k)(5)(B)(ii), by striking “Chairman of the Board of Governors” and inserting “Chair of the Board of Governors”.
 - **(i)** *Federal Reserve Act* The Federal Reserve Act (12 U.S.C. 226 et seq.) is amended—
   - **(1)** by striking “chairman” each place such term appears and inserting “chair”;
   - **(2)** by striking “Chairman” each place such term appears other than in section 11(r)(2)(B) and inserting “Chair”;
@@ -75,7 +78,7 @@ The provision designated “fifth” of the fourth undesignated paragraph of sec
       - **(ii)** in the fifth sentence, by striking “his” and inserting “the member’s”; and
       - **(iii)** in the sixth sentence, by striking “his” and inserting “the member’s”;
   - **(8)** in section 12, by striking “his” and inserting “the member’s”;
-  - **(9)** in section 13, in the eleventh undesignated paragraph, by striking “his” and inserting “the assured’s”;
+  - **(9)** in section 13, in the tenth undesignated paragraph, by striking “his” and inserting “the assured’s”;
   - **(10)** in section 16—
     - **(A)** by striking “he” each place such term appears and inserting “the agent”;
     - **(B)** in the seventh undesignated paragraph—
@@ -109,7 +112,7 @@ The provision designated “fifth” of the fourth undesignated paragraph of sec
 - **(l)** *Food, Conservation, and Energy Act of 2008* Section 13106(a) of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 2 note) is amended by striking “Chairman of the Board of Governors” and inserting “Chair of the Board of Governors”.
 - **(m)** *Housing and Community Development Act of 1992* Section 1313(a)(3) of the Housing and Community Development Act of 1992 (12 U.S.C. 4513(a)(3)) is amended—
   - **(1)** in the heading, by striking “chairman” and inserting “chair”;
-  - **(2)** by striking “Chairman of the Board of Governors” each place such term appears and inserting “Chair of the Board of Governors”; and
+  - **(2)** by striking “Chairman of the Board of Governors” and inserting “Chair of the Board of Governors”; and
   - **(3)** by striking “Chairman regarding” and inserting “Chair regarding”.
 - **(n)** *Inspector General Act of 1978* Section 8G of the Inspector General Act of 1978 is amended by striking “Chairman of the Board of Governors” each place such term appears and inserting “Chair of the Board of Governors”.
 - **(o)** *International Lending Supervision Act of 1983* Section 908(b)(3)(C) of the International Lending Supervision Act of 1983 (12 U.S.C. 3907(b)(3)(C)) is amended by striking “Chairman of the Board of Governors” and inserting “Chair of the Board of Governors”.
