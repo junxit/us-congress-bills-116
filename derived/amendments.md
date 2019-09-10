@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2852
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `12 U.S.C. § 1708` | replace | by striking subparagraph (A) and inserting the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1708` | insert | in subparagraph (B), by inserting before the period at the end the following: “, which shall include completion of a course or seminar that consists of not less than 7 hours of training regarding such appraisal requirements and is approv… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1708` | insert | in subparagraph (B), by inserting before the period at the end the following: “, which, in the case of appraisers for any mortgage for single-family housing, shall include completion of a course or seminar that consists of not less than … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
