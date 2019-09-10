@@ -1,7 +1,7 @@
 ---
 measure: S. 1881
 congress: 116
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
