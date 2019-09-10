@@ -40,3 +40,7 @@ The Bank Service Company Act (12 U.S.C. 1861 et seq.) is amended—
   - **(E)** in subsection (f), as so redesignated, by inserting “, in consultation with State banking agencies,” after “appropriate Federal banking agencies”; and
   - **(F)** by adding at the end the following:
     > - **(g)** *Rule of construction* Nothing in this section shall be construed as granting authority for a State banking agency to examine a bank service company where no such authority exists in State law.
+
+## § 3. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
