@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 4276
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4276
+
+> To establish a minimum staffing level of U.S. Customs and Border Protection officials along the northern border, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Border Officers Utilization for National Defense Act of 2019” or the “BOUND Act”.
+
+## § 2. Minimum U.S. Customs and Border Protection staffing along the northern border
+
+- **(a)** *In general* Beginning on the date of the enactment of this Act, the Commissioner of U.S. Customs and Border Protection shall ensure that not fewer than the maximum number of U.S. Customs and Border Protection officers deployed along the international border between the United States and Canada (referred to in this Act as the “northern border”) at any time between January 1, 2016, and such date of enactment are always deployed along the northern border, including at ports of entry along the northern border.
+- **(b)** *Limitation on transfers* The Commissioner of U.S. Customs and Border Protection may not transfer any U.S. Customs and Border Protection officer away from an assignment along the northern border, including at ports of entry along the northern border, if such transfer would reduce the number of such officers assigned to the northern border below the level required under subsection (a).
