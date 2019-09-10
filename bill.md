@@ -60,4 +60,12 @@ Subtitle A of title XXII of the Homeland Security Act of 2002 (6 U.S.C. 651 et s
     >     - **(A)** the status of the pilot program;
     >     - **(B)** the rate of voluntary participation in the pilot program;
     >     - **(C)** the effectiveness of the pilot program in detecting and blocking traffic that could not have been captured without the network sensors deployed under the pilot program; and
-    >     - **(D)** recommendations for expanding the use of classified threat indicators to protect United States critical infrastructure.
+    >     - **(D)** recommendations for expanding the use of classified threat indicators to protect United States critical infrastructure.”.
+    > - **(p)** *Deployment of enhanced capabilities*
+    >   - **(1)** *Establishment* Not later than 180 days after the date of enactment of this subsection, the Secretary may establish an initiative to enhance efforts to deploy technical or analytic capabilities or services that utilize classified cyber threat indicators or intelligence for the purpose of detecting or preventing malicious network traffic on unclassified non-Federal information systems.
+    >   - **(2)** *Voluntary participation* Activities conducted under this subsection may only be carried out on a voluntary basis upon request of the non-Federal entity.
+    >   - **(3)** *Report* Not later than 1 year after the date on which the Secretary establishes the initiative under this subsection, the Secretary shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a report on the initiative, which shall include—
+    >     - **(A)** the status of the initiative;
+    >     - **(B)** the rate of voluntary participation in the initiative;
+    >     - **(C)** the effectiveness of the initiative; and
+    >     - **(D)** recommendations for expanding the use of classified cyber threat indicators to protect non-Federal entities.

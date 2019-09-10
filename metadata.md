@@ -1,7 +1,7 @@
 ---
 measure: S. 1846
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1846
@@ -28,3 +28,7 @@ State and Local Government Cybersecurity Act of 2019
 
 - 2019-06-13 — Introduced in Senate
 - 2019-06-13 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2019-06-19 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2019-09-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment. With written report No. 116-90.
+- 2019-09-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment. With written report No. 116-90.
+- 2019-09-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 194.
