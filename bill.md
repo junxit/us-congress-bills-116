@@ -1,0 +1,58 @@
+---
+legis-num: H.R. 4274
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4274
+
+> To amend the Internal Revenue Code of 1986 to repeal the limitation on the deduction for certain taxes, including State and local property and income taxes, to limit the step-up in basis allowed in the case of property acquired from a decedent, and to deem a sale on any contribution of property to a private foundation.
+
+## § 1. Short title
+
+This Act may be cited as the “Cutting Local Taxes by Reinstating SALT Act”.
+
+## § 2. Repeal of limitation on deduction for State and local, etc. taxes
+
+- **(a)** *In general* Section 164(b) of the Internal Revenue Code of 1986 is amended by striking paragraph (6) (as added by Public Law 115–97) and all that follows.
+- **(b)** *Effective date* The amendments made by this section shall apply to taxable years beginning after December 31, 2017.
+
+## § 3. Step-up in basis of property acquired from decedent limited to $5,000,000
+
+- **(a)** *In general* Section 1014(a) of the Internal Revenue Code of 1986 is amended to read as follows:
+  > - **(a)** *In general* Except as otherwise provided in this section, the basis of property in the hands of a person acquiring the property from a decedent or to whom the property passed from a decedent shall, if not sold, exchanged, or otherwise disposed of before the decedent’s death by such person, be the lesser of—
+  >   - **(1)** the adjusted basis of the decedent, or
+  >   - **(2)** the fair market value of the property at the date of the decedent’s death.
+
+- **(b)** *$5,000,000 basis increase* Section 1014 of such Code is amended by adding at the end the following new subsection:
+  > - **(g)** *$5,000,000 basis increase*
+  >   - **(1)** *In general* The basis of a decedent’s property to which subsection (a) applies shall be increased by an amount equal to a portion of the aggregate basis increase, which shall be allocated amongst property of the decedent in proportion to the net appreciation in value of the property.
+  >   - **(2)** *Aggregate basis increase* For purposes of this subsection, the aggregate basis increase shall be an amount equal to the lesser of—
+  >     - **(A)** $5,000,000, or
+  >     - **(B)** the aggregate net appreciation in value of all the decedent’s property to which subsection (a) applies.
+  >   - **(3)** *Net appreciation* For purposes of this subsection, the net appreciation in value of any property is the amount by which (if any) the fair market value of the property exceeds the decedent’s adjusted basis as of the date of the decedent’s death.
+  >   - **(4)** *Special rules for certain property* For purposes of determining net appreciation in value of property, in lieu of fair market value, the following shall be used:
+  >     - **(A)** In the case of an election under 2032, the property value at the applicable valuation date prescribed by such section.
+  >     - **(B)** In the case of an election under section 2032A, the property value determined under such section.
+  >     - **(C)** To the extent of the applicability of the exclusion described in section 2031(c), the basis in the hands of the decedent.
+
+- **(c)** *Conforming amendments*
+  - **(1)** Section 1014(d) of such Code is amended by striking “under subsection (a), such basis (determined before the application of this subsection)” and inserting “under this section (determined without regard to this subsection), such basis”.
+  - **(2)** Section 1014(e) of such Code is amended by inserting before the period at the end the following: “and subsection (g) shall not apply to such property”.
+- **(d)** *Effective date* The amendments made by this section shall apply to the estates of decedents dying after December 31, 2019.
+
+## § 4. Tax treatment of contributions of property to private foundation
+
+- **(a)** *In general* Part IV of subchapter P of the Internal Revenue Code of 1986 is amended by adding at the end the following new section:
+  > ## § 1261. Treatment of contributions of property to private foundation
+  >
+  > - **(a)** *In general* Any property contributed by a taxpayer to a private foundation shall be treated for purposes of this title as sold by the taxpayer on the date of such contribution for its fair market value.
+  > - **(b)** *Determination and recognition of gain and loss* In the case of any sale for the taxable year under subsection (a)—
+  >   - **(1)** this subchapter shall be applied separately with respect to all gains and losses from such sales,
+  >   - **(2)** losses shall be allowed only to the extent of gains, and
+  >   - **(3)** the tax imposed by this chapter for such taxable year shall not be less than the amount of such tax (determined without regard to this section) increased by an amount equal to the increase in such tax which would result solely from the inclusion of any net gain from all such sales.
+  > - **(c)** *Coordination with deduction* No deduction shall be allowed under any other provision of this chapter by reason of any contribution to which subsection (a) applies.
+
+- **(b)** *Clerical amendment* The table of sections for subchapter P of such Code is amended by adding at the end the following new item:
+- **(c)** *Effective date* The amendments made by this section shall apply to contributions of property in taxable years beginning after December 31, 2019.
