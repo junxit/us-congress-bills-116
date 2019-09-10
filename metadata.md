@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1420
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1420
@@ -24,9 +24,10 @@ Energy Efficient Government Technology Act
 - Rep. McKinley, David B. [R-WV-1] (M001180)
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ Energy Efficient Government Technology Act
 - 2019-09-09 — Mr. Rush moved to suspend the rules and pass the bill, as amended.
 - 2019-09-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 23 (Roll no. 515). (text: CR H7540-7541)
 - 2019-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 23 (Roll no. 515).(text: CR H7540-7541)
+- 2019-09-10 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
