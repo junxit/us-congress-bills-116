@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1760
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1760
@@ -20,9 +20,10 @@ Advanced Nuclear Fuel Availability Act
 
 - Rep. McNerney, Jerry [D-CA-9] (M001166)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Advanced Nuclear Fuel Availability Act
 - 2019-09-09 — Mr. Rush moved to suspend the rules and pass the bill.
 - 2019-09-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7545)
 - 2019-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7545)
+- 2019-09-10 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
