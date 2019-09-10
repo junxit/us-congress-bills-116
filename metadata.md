@@ -1,7 +1,7 @@
 ---
 measure: H.R. 150
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 150
@@ -57,3 +57,7 @@ Grant Reporting Efficiency and Agreements Transparency Act of 2019
 - 2019-01-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 41).
 - 2019-01-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 41).
 - 2019-01-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2019-06-19 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2019-09-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-96.
+- 2019-09-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-96.
+- 2019-09-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 200.

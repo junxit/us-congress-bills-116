@@ -1,7 +1,7 @@
 ---
 measure: H.R. 150
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+8 amendatory instructions. 0 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,3 +35,7 @@ complete account of the bill's effect, which it is not.
 | `31 U.S.C. § 6101` | insert | The table of chapters for subtitle V of title 31, United States Code, is amended by inserting after the item relating to chapter 63 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | insert | Section 7502(h) of title 31, United States Code, is amended by inserting before “to a Federal clearinghouse” the following “in an electronic form consistent with the data standards established under chapter 64,”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 7505 of title 31, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| `31 U.S.C. § 6101` | insert | Subtitle V of title 31, United States Code, is amended by inserting after chapter 63 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 6101` | insert | The table of chapters for subtitle V of title 31, United States Code, is amended by inserting after the item relating to chapter 63 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | Section 7502(h) of title 31, United States Code, is amended, in the matter preceding paragraph (1), by inserting “in an electronic form in accordance with the data standards established under chapter 64 and” after “the reporting package,”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 7505 of title 31, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
