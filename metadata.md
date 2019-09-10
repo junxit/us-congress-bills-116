@@ -1,7 +1,7 @@
 ---
 measure: S. 1085
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1085
@@ -29,3 +29,7 @@ Vehicle Innovation Act of 2019
 
 - 2019-04-09 — Introduced in Senate
 - 2019-04-09 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2019-07-16 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2019-09-10 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 116-83.
+- 2019-09-10 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 116-83.
+- 2019-09-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 186.
