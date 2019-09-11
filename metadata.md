@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2852
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2852
@@ -21,9 +21,10 @@ Homebuyer Assistance Act of 2019
 - Rep. Duffy, Sean P. [R-WI-7] (D000614)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Homebuyer Assistance Act of 2019
 - 2019-09-10 — Mr. San Nicolas moved to suspend the rules and pass the bill, as amended.
 - 2019-09-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 5 (Roll no. 519). (text: CR H7572)
 - 2019-09-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 5 (Roll no. 519).(text: CR H7572)
+- 2019-09-11 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
