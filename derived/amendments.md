@@ -1,7 +1,7 @@
 ---
 measure: H.R. 335
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,5 +32,5 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `33 U.S.C. § 4001` | redesignate | by redesignating sections 605 through 609 as sections 606 through 610, respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 4001` | insert | by inserting after section 604 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 5304` | insert | by inserting after section 604 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 4001` | replace | The table of contents in section 2 of the Coast Guard Authorization Act of 1998 (Public Law 105–383) is amended by striking the items relating to title VI and inserting the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
