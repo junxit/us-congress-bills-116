@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1690
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1690
@@ -48,9 +48,10 @@ Carbon Monoxide Alarms Leading Every Resident To Safety Act of 2019
 - Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
 - Rep. Cleaver, Emanuel [D-MO-5] (C001061)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -64,3 +65,4 @@ Carbon Monoxide Alarms Leading Every Resident To Safety Act of 2019
 - 2019-09-10 — Mr. San Nicolas moved to suspend the rules and pass the bill, as amended.
 - 2019-09-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7581-7582)
 - 2019-09-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7581-7582)
+- 2019-09-11 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
