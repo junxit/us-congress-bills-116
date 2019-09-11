@@ -1,7 +1,7 @@
 ---
 measure: S. 2035
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2035
@@ -20,9 +20,10 @@ TSA Credential and Endorsement Harmonization Act of 2019
 
 - Sen. Young, Todd [R-IN] (Y000064)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Homeland Security Committee
 
 ## Actions
 
@@ -33,3 +34,6 @@ TSA Credential and Endorsement Harmonization Act of 2019
 - 2019-09-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S5411)
 - 2019-09-10 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S5411)
 - 2019-09-10 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S5411)
+- 2019-09-11 — Message on Senate action sent to the House.
+- 2019-09-11 — Received in the House.
+- 2019-09-11 — Referred to the House Committee on Homeland Security.
