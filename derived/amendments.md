@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1941
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,4 +31,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `43 U.S.C. § 1348` | replace | by striking “The” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 1348` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | redesignate | Section 18 of the Outer Continental Shelf Lands Act is amended by redesignating subsections (g) and (h) as subsections (h) and (i) respectively, and by inserting after subsection (f) the following: | the bill names no machine-readable US Code section |
+| `43 U.S.C. § 1348` | add-at-end | Section 22 of the Outer Continental Shelf Lands Act (43 U.S.C. 1348) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1340` | add-at-end | Section 11 of the Outer Continental Shelf Lands Act (43 U.S.C. 1340) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
