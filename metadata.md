@@ -1,7 +1,7 @@
 ---
 measure: S. 178
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 178
@@ -16,7 +16,7 @@ UIGHUR Act of 2019
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 
-## Cosponsors (34)
+## Cosponsors (44)
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Gardner, Cory [R-CO] (G000562)
@@ -52,6 +52,16 @@ UIGHUR Act of 2019
 - Sen. Isakson, Johnny [R-GA] (I000055)
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Hawley, Josh [R-MO] (H001089)
 
 ## Committees (1)
 
@@ -65,3 +75,5 @@ UIGHUR Act of 2019
 - 2019-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
 - 2019-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
 - 2019-06-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 99.
+- 2019-09-11 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5450-5452; text: CR S5450-5452)
+- 2019-09-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5450-5452; text: CR S5450-5452)
