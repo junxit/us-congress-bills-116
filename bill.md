@@ -1,0 +1,33 @@
+---
+legis-num: H.R. 4304
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4304
+
+> To amend title 51, United States Code, to allow the Administrator of the National Aeronautics and Space Administration to accept in-kind consideration for certain leases, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “NASA Enhanced Use Lease Authority Act of 2019”.
+
+## § 2. Enhanced Use Lease Authority
+
+- **(a)** *Expansion of in-Kind consideration for certain leases* Section 20145(b)(1) of title 51, United States Code, is amended by striking subparagraph (B) and inserting the following:
+  > - **(B)** *Exceptions* Notwithstanding subparagraph (A), the Administrator may accept in-kind consideration for leases entered into for the purpose of—
+  >   - **(i)** developing renewable energy production facilities;
+  >   - **(ii)** maintaining, constructing, modifying, or improving facilities on real property under the jurisdiction of the Administrator;
+  >   - **(iii)** carrying out aeronautical and space research, development, testing, and evaluation activities; or
+  >   - **(iv)** the provision of services to the Administration, including launch services and payload processing services.
+
+- **(b)** *Reporting requirements* Section 20145(f) of title 51, United States Code, is amended by adding at the end the following:
+  > - **(3)** *Capturing the value of in-kind consideration* Information with respect to—
+  >   - **(A)** the value and nature of in-kind consideration; and
+  >   - **(B)** controls in place that ensure that the Administration takes advantage of such consideration.
+
+- **(c)** *Obligation of funds* Section 20145 of title 51, United States Code, is amended by adding at the end the following:
+  > - **(h)** *Obligation of funds* Except as provided in subsection (b)(2), the Administrator may not obligate funds under this section.
+
+- **(d)** *Expiration of lease authority* Section 20145(g) of title 51, United States Code, is amended by striking “December 31, 2019” and inserting “December 31, 2029”.
