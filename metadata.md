@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1146
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1146
@@ -202,9 +202,18 @@ Arctic Cultural and Coastal Plain Protection Act
 - Rep. Rice, Kathleen M. [D-NY-4] (R000602)
 - Rep. McBath, Lucy [D-GA-6] (M001208)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
+
+## Recorded votes (5)
+
+- 2019-09-12 — [House 116-1-526](votes/house-116-1-0526.md) — On Agreeing to the Amendment — **Failed** (193–230)
+- 2019-09-12 — [House 116-1-527](votes/house-116-1-0527.md) — On Agreeing to the Amendment — **Failed** (184–237)
+- 2019-09-12 — [House 116-1-528](votes/house-116-1-0528.md) — On Agreeing to the Amendment — **Failed** (187–237)
+- 2019-09-12 — [House 116-1-529](votes/house-116-1-0529.md) — On Motion to Recommit with Instructions — **Failed** (189–229)
+- 2019-09-12 — [House 116-1-530](votes/house-116-1-0530.md) — On Passage — **Passed** (225–193)
 
 ## Actions
 
@@ -219,3 +228,51 @@ Arctic Cultural and Coastal Plain Protection Act
 - 2019-06-27 — Placed on the Union Calendar, Calendar No. 97.
 - 2019-06-27 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-133.
 - 2019-06-27 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-133.
+- 2019-09-09 — Rules Committee Resolution H. Res. 548 Reported to House. Providing for consideration of H.R. 205, H.R. 1146, and H.R. 1941.
+- 2019-09-12 — Amendment (A001) offered by Mr. Young. (consideration: CR H7681-7682, H7685-7686; text: CR H7681)
+- 2019-09-12 — Amendment (A002) offered by Mr. Gosar. (consideration: CR H7682-7683, H7686-7687; text: CR H7682)
+- 2019-09-12 — Amendment (A003) offered by Mr. Gosar. (consideration: CR H7683-7685, H7687; text: CR H7683)
+- 2019-09-12 — Amendment failed in Committee of the Whole
+- 2019-09-12 — Amendment failed in Committee of the Whole
+- 2019-09-12 — Amendment failed in Committee of the Whole
+- 2019-09-12 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2019-09-12 — Considered under the provisions of rule H. Res. 548. (consideration: CR H7671-7690; text: CR H7680-7681)
+- 2019-09-12 — DEBATE - Pursuant to the provisions of H. Res. 548, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment No. 2.
+- 2019-09-12 — DEBATE - Pursuant to the provisions of H. Res. 548, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment No. 3, as modified.
+- 2019-09-12 — DEBATE - Pursuant to the provisions of H. Res. 548, the Committee of the Whole proceeded with 10 minutes of debate on the Young amendment No. 1.
+- 2019-09-12 — DEBATE - The House proceeded with 10 minutes of debate on the Curtis motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment stating that Section 2 of this Act shall take effect on the date the President certifies that the enactment of this Act will not result in a net increase of Russian oil and gas imports into the United States.
+- 2019-09-12 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1146.
+- 2019-09-12 — Gosar amendment (A003) modified by unanimous consent. (text as modified: CR H7683)
+- 2019-09-12 — House amendment agreed to: On agreeing to the Rules amendment (A004) Agreed to without objection.
+- 2019-09-12 — House amendment not agreed to: On agreeing to the Gosar amendment (A002) Failed by recorded vote: 184 - 237 (Roll no. 527).
+- 2019-09-12 — House amendment not agreed to: On agreeing to the Gosar amendment (A003) as modified Failed by recorded vote: 187 - 237 (Roll no. 528).
+- 2019-09-12 — House amendment not agreed to: On agreeing to the Young amendment (A001) Failed by recorded vote: 193 - 230 (Roll no. 526).
+- 2019-09-12 — House amendment offered
+- 2019-09-12 — House amendment offered
+- 2019-09-12 — House amendment offered
+- 2019-09-12 — House amendment offered
+- 2019-09-12 — House amendment offered/reported by: Amendment (A001) offered by Mr. Young.
+- 2019-09-12 — House amendment offered/reported by: Amendment (A002) offered by Mr. Gosar.
+- 2019-09-12 — House amendment offered/reported by: Amendment (A003) offered by Mr. Gosar.
+- 2019-09-12 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 548 and Rule XVIII.
+- 2019-09-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-09-12 — Mr. Curtis moved to recommit with instructions to the Committee on Natural Resources. (text: CR H7687)
+- 2019-09-12 — On agreeing to the Gosar amendment (A002) Failed by recorded vote: 184 - 237 (Roll no. 527).
+- 2019-09-12 — On agreeing to the Gosar amendment (A003) as modified Failed by recorded vote: 187 - 237 (Roll no. 528).
+- 2019-09-12 — On agreeing to the Rules amendment (A004) Agreed to without objection.
+- 2019-09-12 — On agreeing to the Young amendment (A001) Failed by recorded vote: 193 - 230 (Roll no. 526).
+- 2019-09-12 — On motion to recommit with instructions Failed by the Yeas and Nays: 189 - 229 (Roll no. 529).
+- 2019-09-12 — On passage Passed by recorded vote: 225 - 193 (Roll No. 530).
+- 2019-09-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Gosar demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-09-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Gosar demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-09-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Young amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Young demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-09-12 — Passed/agreed to in House: On passage Passed by recorded vote: 225 - 193 (Roll No. 530).
+- 2019-09-12 — Providing for consideration of H.R. 205, H.R. 1146, and H.R. 1941.
+- 2019-09-12 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2019-09-12 — Roll call votes on amendments in House
+- 2019-09-12 — Roll call votes on amendments in House
+- 2019-09-12 — Roll call votes on amendments in House
+- 2019-09-12 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1146.
+- 2019-09-12 — The Speaker designated the Honorable Sean Casten to act as Chairman of the Committee.
+- 2019-09-12 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2019-09-12 — The previous question was ordered pursuant to the rule.
