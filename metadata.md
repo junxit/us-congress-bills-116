@@ -1,7 +1,7 @@
 ---
 measure: H.R. 205
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 205
@@ -37,9 +37,10 @@ Protecting and Securing Florida's Coastline Act of 2019
 - Rep. Cartwright, Matt [D-PA-8] (C001090)
 - Rep. Himes, James A. [D-CT-4] (H001047)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -88,3 +89,4 @@ Protecting and Securing Florida's Coastline Act of 2019
 - 2019-09-11 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 205.
 - 2019-09-11 — The Speaker designated the Honorable Al Lawson, Jr. to act as Chairman of the Committee.
 - 2019-09-11 — The previous question was ordered pursuant to the rule.
+- 2019-09-12 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
