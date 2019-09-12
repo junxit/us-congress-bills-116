@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3356
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
