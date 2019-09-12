@@ -1,7 +1,7 @@
 ---
 measure: S. 178
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 178
@@ -63,9 +63,12 @@ UIGHUR Act of 2019
 - Sen. Tillis, Thomas [R-NC] (T000476)
 - Sen. Hawley, Josh [R-MO] (H001089)
 
-## Committees (1)
+## Committees (4)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
+- House — Judiciary Committee
+- House — Intelligence (Permanent Select) Committee
 
 ## Actions
 
@@ -77,3 +80,8 @@ UIGHUR Act of 2019
 - 2019-06-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 99.
 - 2019-09-11 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5450-5452; text: CR S5450-5452)
 - 2019-09-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5450-5452; text: CR S5450-5452)
+- 2019-09-12 — Message on Senate action sent to the House.
+- 2019-09-12 — Received in the House.
+- 2019-09-12 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on Intelligence (Permanent Select), and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-09-12 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on Intelligence (Permanent Select), and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-09-12 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on Intelligence (Permanent Select), and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
