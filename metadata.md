@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1941
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1941
@@ -70,9 +70,10 @@ Coastal and Marine Economies Protection Act
 - Rep. Slotkin, Elissa [D-MI-8] (S001208)
 - Rep. Sánchez, Linda T. [D-CA-38] (S001156)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (4)
 
@@ -175,3 +176,4 @@ Coastal and Marine Economies Protection Act
 - 2019-09-11 — The Speaker designated the Honorable Henry Cuellar to act as Chairman of the Committee.
 - 2019-09-11 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-09-11 — The previous question was ordered pursuant to the rule.
+- 2019-09-12 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
