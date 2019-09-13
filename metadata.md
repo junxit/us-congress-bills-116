@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1423
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1423
@@ -16,7 +16,7 @@ FAIR Act
 
 - Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
 
-## Cosponsors (147)
+## Cosponsors (222)
 
 - Rep. Barragan, Nanette Diaz [D-CA-44] (B001300)
 - Rep. Bass, Karen [D-CA-37] (B001270)
@@ -165,6 +165,81 @@ FAIR Act
 - Rep. Hayes, Jahana [D-CT-5] (H001081)
 - Rep. Wilson, Frederica S. [D-FL-24] (W000808)
 - Rep. Doggett, Lloyd [D-TX-35] (D000399)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Aguilar, Pete [D-CA-31] (A000371)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Slotkin, Elissa [D-MI-8] (S001208)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. DeFazio, Peter A. [D-OR-4] (D000191)
+- Rep. Crow, Jason [D-CO-6] (C001121)
+- Rep. Meeks, Gregory W. [D-NY-5] (M001137)
+- Rep. Gallego, Ruben [D-AZ-7] (G000574)
+- Rep. Axne, Cynthia [D-IA-3] (A000378)
+- Rep. Heck, Denny [D-WA-10] (H001064)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. Allred, Colin Z. [D-TX-32] (A000376)
+- Rep. Adams, Alma S. [D-NC-12] (A000370)
+- Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
+- Rep. Scanlon, Mary Gay [D-PA-5] (S001205)
+- Rep. DeSaulnier, Mark [D-CA-11] (D000623)
+- Rep. Malinowski, Tom [D-NJ-7] (M001203)
+- Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
+- Rep. Quigley, Mike [D-IL-5] (Q000023)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Foster, Bill [D-IL-11] (F000454)
+- Rep. Kelly, Robin L. [D-IL-2] (K000385)
+- Rep. Kilmer, Derek [D-WA-6] (K000381)
+- Rep. Norcross, Donald [D-NJ-1] (N000188)
+- Rep. Ruiz, Raul [D-CA-36] (R000599)
+- Rep. Schiff, Adam B. [D-CA-28] (S001150)
+- Rep. Shalala, Donna E. [D-FL-27] (S001206)
+- Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Wexton, Jennifer [D-VA-10] (W000825)
+- Rep. Lowey, Nita M. [D-NY-17] (L000480)
+- Rep. Sherrill, Mikie [D-NJ-11] (S001207)
+- Rep. Himes, James A. [D-CT-4] (H001047)
+- Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
+- Rep. Schrier, Kim [D-WA-8] (S001216)
+- Rep. Castor, Kathy [D-FL-14] (C001066)
+- Rep. Veasey, Marc A. [D-TX-33] (V000131)
+- Rep. Peters, Scott H. [D-CA-52] (P000608)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Clyburn, James E. [D-SC-6] (C000537)
+- Rep. Fletcher, Lizzie [D-TX-7] (F000468)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Castro, Joaquin [D-TX-20] (C001091)
+- Rep. Matsui, Doris O. [D-CA-6] (M001163)
+- Rep. O'Halleran, Tom [D-AZ-1] (O000171)
+- Rep. Crist, Charlie [D-FL-13] (C001111)
+- Rep. Phillips, Dean [D-MN-3] (P000616)
+- Rep. Trone, David J. [D-MD-6] (T000483)
+- Rep. Morelle, Joseph D. [D-NY-25] (M001206)
+- Rep. Moulton, Seth [D-MA-6] (M001196)
+- Rep. Stanton, Greg [D-AZ-9] (S001211)
+- Rep. Davids, Sharice [D-KS-3] (D000629)
+- Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Lamb, Conor [D-PA-17] (L000588)
+- Rep. Houlahan, Chrissy [D-PA-6] (H001085)
+- Rep. Neal, Richard E. [D-MA-1] (N000015)
+- Rep. Keating, William R. [D-MA-9] (K000375)
+- Rep. Schrader, Kurt [D-OR-5] (S001180)
+- Rep. Underwood, Lauren [D-IL-14] (U000040)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Stevens, Haley M. [D-MI-11] (S001215)
+- Rep. Gaetz, Matt [R-FL-1] (G000578)
+- Rep. Torres Small, Xochitl [D-NM-2] (T000484)
+- Rep. Costa, Jim [D-CA-16] (C001059)
+- Rep. Bustos, Cheri [D-IL-17] (B001286)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Gabbard, Tulsi [D-HI-2] (G000571)
+- Rep. Vargas, Juan [D-CA-51] (V000130)
 
 ## Committees (1)
 
@@ -175,3 +250,10 @@ FAIR Act
 - 2019-02-28 — Introduced in House
 - 2019-02-28 — Introduced in House
 - 2019-02-28 — Referred to the House Committee on the Judiciary.
+- 2019-04-08 — Referred to the Subcommittee on Antitrust, Commercial, and Administrative Law.
+- 2019-09-10 — Committee Consideration and Mark-up Session Held.
+- 2019-09-10 — Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 14.
+- 2019-09-10 — Subcommittee on Antitrust, Commercial, and Administrative Law Discharged.
+- 2019-09-13 — Placed on the Union Calendar, Calendar No. 161.
+- 2019-09-13 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-204.
+- 2019-09-13 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-204.

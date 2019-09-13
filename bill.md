@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Forced Arbitration Injustice Repeal Act” or “FAIR Act”.
+This Act may be cited as the “Forced Arbitration Injustice Repeal Act” or the “FAIR Act”.
 
 ## § 2. Purposes
 
