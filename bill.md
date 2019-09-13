@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Safe Sleep Act of 2019”.
+This Act may be cited as the “Safe Sleep for Babies Act of 2019”.
 
 ## § 2. Prohibition on sale of inclined sleepers for infants
 
