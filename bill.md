@@ -13,26 +13,19 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Stop Tip-overs of Unstable, Risky Dressers on Youth Act” or the “STURDY Act”.
 
-## § 2. Consumer product safety standard to protect against tip-over of free-standing clothing storage units
+## § 2. Consumer product safety standard to protect against tip-over of clothing storage units
 
-- **(a)** *Free-Standing clothing storage unit defined*
-  - **(1)** *In general* In this section, the term free-standing clothing storage unit means any piece of furniture manufactured in the United States or imported for use in the United States that is intended for the storage of clothing, including furniture items that—
-    - **(A)** are commonly referred to as a chest, door chest, chest of drawers, dresser, or bureau; or
-    - **(B)** may contain a chest, door chest, chest of drawers, dresser, or bureau.
-  - **(2)** *CPSC definition* The Consumer Product Safety Commission may adjust the definition under paragraph (1) if the Commission determines that inclusion of additional furniture items is reasonably necessary to protect public health and safety.
+- **(a)** *Clothing storage unit defined* In this section, the term “clothing storage unit” means any free-standing furniture item manufactured in the United States or imported for use in the United States that is intended for the storage of clothing, typical of bedroom furniture.
 - **(b)** *Consumer product safety standard required*
   - **(1)** *In general* Except as provided in subsection (c)(1), not later than 1 year after the date of the enactment of this Act, the Consumer Product Safety Commission shall—
-    - **(A)** in consultation with representatives of consumer groups, clothing storage unit manufacturers, and independent child product engineers and experts, examine and assess the effectiveness of any voluntary consumer product safety standards for free-standing clothing storage units; and
-    - **(B)** in accordance with section 553 of title 5, United States Code, promulgate a final consumer product safety standard for free-standing clothing storage units to protect children from tip-over-related death or injury that includes—
-      - **(i)** tests that require the use of weight to simulate children up to 72 months of age using the most recent anthropometric data;
-      - **(ii)** tests or testing that more closely simulate real world use including to account for impact on clothing storage unit stability of carpeting, drawers with items in them, multiple open drawers, and dynamic force;
+    - **(A)** in consultation with representatives of consumer groups, clothing storage unit manufacturers, craft or handmade furniture manufacturers, and independent child product engineers and experts, examine and assess the effectiveness of any voluntary consumer product safety standards for clothing storage units; and
+    - **(B)** in accordance with section 553 of title 5, United States Code, promulgate a final consumer product safety standard for clothing storage units to protect children from tip-over-related death or injury that includes—
+      - **(i)** tests that simulate the weight of children up to 60 pounds;
+      - **(ii)** objective, repeatable, and measurable tests that simulate real world use and account for any impact on clothing storage unit stability that may result from placement on carpeted surfaces, drawers with items in them, multiple open drawers, or dynamic force;
       - **(iii)** testing of all clothing storage units, including those under 30 inches in height; and
-      - **(iv)** warning requirements that—
-        - **(I)** strengthen requirements for permanency and conspicuous placement now in ASTM F2057–17; and
-        - **(II)** revise the message panel text of ASTM F2057–17 to make more understandable, consistent with typical clothing storage unit use, and written to motivate consumer compliance.
-  - **(3)** *Treatment of standard* A consumer product safety standard promulgated under paragraph (1) shall be treated as a consumer product safety rule promulgated under section 9 of the Consumer Product Safety Act (15 U.S.C. 2058).
+      - **(iv)** warning requirements based on ASTM F2057-17, or its successor at the time of enactment, provided that the Consumer Product Safety Commission shall strengthen the requirements of ASTM F2057-17, or its successor, if reasonably necessary to protect children from tip-over-related death or injury.
+  - **(2)** *Treatment of standard* A consumer product safety standard promulgated under paragraph (1) shall be treated as a consumer product safety rule promulgated under section 9 of the Consumer Product Safety Act (15 U.S.C. 2058).
 - **(c)** *Subsequent rulemaking*
-  - **(1)** *In general* At any time subsequent to the publication of a consumer product safety standard under subsection (b)(1), the Commission may initiate a rulemaking, in accordance with section 553 of title 5, United States Code—
-    - **(A)** to modify the requirements of the consumer product safety standard described in subsection (b)(1); or
-    - **(B)** to include any additional provision in such consumer product safety standard that the Commission determines is reasonably necessary to protect public health or safety.
-  - **(2)** *Treatment of rules* Any rule promulgated under paragraph (1) shall be treated as a consumer product safety rule promulgated under section 9 of the Consumer Product Safety Act (15 U.S.C. 2058).
+  - **(1)** *In general* At any time subsequent to the publication of a consumer product safety standard under subsection (b)(1), the Commission may initiate a rulemaking, in accordance with section 553 of title 5, United States Code to modify the requirements of the consumer product safety standard described in subsection (b)(1) if reasonably necessary to protect children from tip-over-related death or injury.
+  - **(2)** *Revision of rule* If, after the date of the enactment of this Act, the Centers for Disease Control and Prevention revises its Clinical Growth Charts, the consumer product safety standard described in subsection (b)(1) shall , on the date that is 180 days after such revision, be revised to include tests that simulate the weight of children up to the 95th percentile weight of children 72 months in age, as depicted in the revised Centers for Disease Control and Prevention Clinical Growth Charts, unless the Commission determines the modification is not reasonably necessary to protect children from tip-over-related death or injury.
+  - **(3)** *Treatment of rules* Any rule promulgated under paragraph (1) or revision made pursuant to paragraph (2) shall be treated as a consumer product safety rule promulgated under section 9 of the Consumer Product Safety Act (15 U.S.C. 2058).
