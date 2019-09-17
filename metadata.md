@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2211
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2211
@@ -60,3 +60,9 @@ Stop Tip-overs of Unstable, Risky Dressers on Youth Act
 - 2019-09-16 — Placed on the Union Calendar, Calendar No. 166.
 - 2019-09-16 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-209.
 - 2019-09-16 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-209.
+- 2019-09-17 — Considered under suspension of the rules. (consideration: CR H7720-7723)
+- 2019-09-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2211.
+- 2019-09-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-09-17 — Ms. Schakowsky moved to suspend the rules and pass the bill, as amended.
+- 2019-09-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7720)
+- 2019-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7720)
