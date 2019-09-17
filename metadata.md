@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 25
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 25
@@ -55,8 +55,15 @@ A concurrent resolution recognizing September 11, 2019, as a "National Day of Se
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 - Sen. Roberts, Pat [R-KS] (R000307)
 
+## Committees (1)
+
+- House — Oversight and Accountability Committee
+
 ## Actions
 
 - 2019-09-16 — Introduced in Senate
 - 2019-09-16 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S5495; text: CR S5495)
 - 2019-09-16 — Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5495; text: CR S5495)
+- 2019-09-17 — Message on Senate action sent to the House.
+- 2019-09-17 — Received in the House.
+- 2019-09-17 — Referred to the House Committee on Oversight and Reform.
