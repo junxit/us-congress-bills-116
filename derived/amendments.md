@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2486
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 4 executed, 8 stated and not applied.
+9 amendatory instructions. 2 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,30 +35,12 @@ to guess them.
 
 ### 20 U.S.C. § 1067q
 
-> by striking “$100,000,000” and inserting “$85,000,000”; and
+> in the second sentence, by striking “2019” and inserting “2021”.
 
 | | |
 |---|---|
-| Removed | `$100,000,000` |
-| Inserted | `$85,000,000` |
-
-### 20 U.S.C. § 1067q
-
-> in clause (iv), as redesignated by clause (ii), by striking “(D)” and inserting “(E)”;
-
-| | |
-|---|---|
-| Removed | `(D)` |
-| Inserted | `(E)` |
-
-### 20 U.S.C. § 1067q
-
-> in subparagraph (E), as redesignated by subparagraph (C), in the matter preceding clause (i), by striking “subparagraph (A)(iii)” and inserting “subparagraph (A)(iv)”.
-
-| | |
-|---|---|
-| Removed | `subparagraph (A)(iii)` |
-| Inserted | `subparagraph (A)(iv)` |
+| Removed | `2019` |
+| Inserted | `2021` |
 
 ## Stated, not applied
 
@@ -69,11 +51,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `20 U.S.C. § 1067q` | strike | by striking the second sentence; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1067q` | strike | by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
-| `20 U.S.C. § 1067q` | redesignate | by redesignating clause (iii) as clause (iv); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1067q` | insert | by inserting after clause (ii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1067q` | replace | by striking subparagraph (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1067q` | redesignate | by redesignating subparagraph (D) as subparagraph (E); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1067q` | insert | by inserting after subparagraph (C) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1087h` | add-at-end | Section 458(a)(4) of the Higher Education Act of 1965 (20 U.S.C. 1087h(a)(4)) is amended by adding at the end the following: “Notwithstanding any other provision of this Act, the authority to obligate funds for account maintenance fees u… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1087h` | strike | by striking paragraphs (1), (4), and (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1087h` | redesignate | by redesignating paragraphs (3), (6), (7), and (8) as paragraphs (1), (2), (3), and (4), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1087h` | strike | by striking subsection (b); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1087h` | redesignate | by redesignating subsection (c) as subsection (b). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1072b` | strike | by striking paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1072b` | redesignate | by redesignating paragraphs (4) through (6) as paragraphs (3) through (5), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1070a` | replace | Section 401(b)(7)(A)(iv) of the Higher Education Act of 1965 (20 U.S.C. 1070a(b)(7)(A)(iv)) is amended by striking subclauses (X) and (XI) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
