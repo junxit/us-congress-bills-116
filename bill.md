@@ -15,39 +15,36 @@ This Act may be cited as the “Fostering Undergraduate Talent by Unlocking Reso
 
 ## § 2. Strengthening historically black colleges and universities and other minority-serving institutions
 
-Section 371(b) of the Higher Education Act of 1965 (20 U.S.C. 1067q(b)) is amended—
+Section 371(b)(1)(A) of the Higher Education Act of 1965 (20 U.S.C. 1067q(b)(1)(A)) is amended—
 
-- **(1)** in paragraph (1)(A)—
-  - **(A)** in the first sentence, by striking “through 2019” and inserting “through 2021”; and
-  - **(B)** by striking the second sentence; and
-- **(2)** in paragraph (2)—
-  - **(A)** in subparagraph (A)—
-    - **(i)** in clause (ii)—
-      - **(I)** by striking “$100,000,000” and inserting “$85,000,000”; and
-      - **(II)** by striking “and” after the semicolon;
-    - **(ii)** by redesignating clause (iii) as clause (iv);
-    - **(iii)** by inserting after clause (ii) the following:
-      > - **(iii)** $15,000,000 shall be available for allocation under subparagraph (D); and
-
-    - **(iv)** in clause (iv), as redesignated by clause (ii), by striking “(D)” and inserting “(E)”;
-  - **(B)** by striking subparagraph (C) and inserting the following:
-    > - **(C)** *Allocation and allotment hbcus* The amount made available for allocation under this subparagraph by subparagraph (A)(ii) for any fiscal year shall be available to eligible institutions described in subsection (a)(1) and shall be made available as grants under section 323 and allotted among such institutions under section 324, treating such amount, plus the amount appropriated for such fiscal year in a regular or supplemental appropriation Act to carry out part B of this title, as the amount appropriated to carry out part B of this title for purposes of allotments under section 324, for use by such institutions with a priority for—
-    >   - **(i)** activities described in paragraphs (1), (2), (4), (5), and (10) of section 323(a); and
-    >   - **(ii)** other activities, consistent with the institution's comprehensive plan and designed to increase the institution's capacity to prepare students for careers in the physical or natural sciences, mathematics, computer science or information technology or sciences, engineering, language instruction in the less commonly taught languages or international affairs, or nursing or allied health professions.
-
-  - **(C)** by redesignating subparagraph (D) as subparagraph (E);
-  - **(D)** by inserting after subparagraph (C) the following:
-    > - **(D)** *Allocation and allotment pbis*
-    >   - **(i)** *In general* The amount made available for allocation under this subparagraph by subparagraph (A)(iii) for any fiscal year shall be available to eligible institutions described in subsection (a)(5) and shall be available for a competitive grant program to award grants of $600,000 annually for programs in any of the following areas:
-    >     - **(I)** Science, technology, engineering, or mathematics (STEM).
-    >     - **(II)** Health education.
-    >     - **(III)** Internationalization or glo­bal­i­za­tion.
-    >     - **(IV)** Teacher preparation.
-    >     - **(V)** Improving educational outcomes of African-American males.
-    >   - **(ii)** *Excess funds* The Secretary shall allot any amounts remaining from the amount made available for allocation under this subparagraph by subparagraph (A)(iii) for any fiscal year after grants are awarded under clause (i) to eligible institutions described in subsection (a)(5) for activities determined appropriate by the Secretary.
-
-  - **(E)** in subparagraph (E), as redesignated by subparagraph (C), in the matter preceding clause (i), by striking “subparagraph (A)(iii)” and inserting “subparagraph (A)(iv)”.
+- **(1)** in the first sentence, by striking “through 2019” and inserting “through 2021”; and
+- **(2)** in the second sentence, by striking “2019” and inserting “2021”.
 
 ## § 3. Elimination of account maintenance fees
 
-Section 458(a)(4) of the Higher Education Act of 1965 (20 U.S.C. 1087h(a)(4)) is amended by adding at the end the following: “Notwithstanding any other provision of this Act, the authority to obligate funds for account maintenance fees under this section shall expire at the end of fiscal year 2019.”.
+- **(a)** *In general* Section 458 of the Higher Education Act of 1965 (20 U.S.C. 1087h) is amended—
+  - **(1)** in subsection (a)—
+    - **(A)** by striking paragraphs (1), (4), and (5); and
+    - **(B)** by redesignating paragraphs (3), (6), (7), and (8) as paragraphs (1), (2), (3), and (4), respectively;
+  - **(2)** by striking subsection (b); and
+  - **(3)** by redesignating subsection (c) as subsection (b).
+- **(b)** *Conforming amendments* Section 422B(c) of the Higher Education Act of 1965 (20 U.S.C. 1072b(c)) is amended—
+  - **(1)** by striking paragraph (3); and
+  - **(2)** by redesignating paragraphs (4) through (6) as paragraphs (3) through (5), respectively.
+- **(c)** *Effective date* The amendments made by this section shall take effect on October 1, 2019.
+
+## § 4. Transfer of Federal Pell Grant Funds
+
+Section 401(b)(7)(A)(iv) of the Higher Education Act of 1965 (20 U.S.C. 1070a(b)(7)(A)(iv)) is amended by striking subclauses (X) and (XI) and inserting the following:
+
+> - **(X)** $1,267,000,000 for fiscal year 2020;
+> - **(XI)** $1,145,000,000 for fiscal year 2021;
+> - **(XII)** $1,145,000,000 for fiscal year 2022;
+> - **(XIII)** $1,145,000,000 for fiscal year 2023;
+> - **(XIV)** $1,145,000,000 for fiscal year 2024;
+> - **(XV)** $1,394,000,000 for fiscal year 2025; and
+> - **(XVI)** $1,145,000,000 for fiscal year 2026 and each succeeding fiscal year.
+
+## § 5. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Committee on the Budget of the House of Representatives, provided that such statement has been submitted prior to the vote on passage.
