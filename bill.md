@@ -34,16 +34,22 @@ In this Act:
   - **(B)** the American National Standard for Gas and Vapor Detectors and Sensors (ANSI/UL 2075).
 - **(4)** *Dwelling unit* The term dwelling unit means a room or suite of rooms used for human habitation, and includes a single family residence as well as each living unit of a multiple family residence (including apartment buildings) and each living unit in a mixed use building.
 - **(5)** *Fire code enforcement officials* The term fire code enforcement officials means officials of the fire safety code enforcement agency of a State or local government.
-- **(6)** *NFPA 72* The term NFPA 72 means—
-  - **(A)** the National Fire Alarm and Signaling Code issued in 2019 by the National Fire Protection Association; and
+- **(6)** *International fire code* The term IFC means—
+  - **(A)** the 2015 or 2018 edition of the International Fire Code published by the International Code Council; or
+  - **(B)** any amended or similar successor code pertaining to the proper installation of carbon monoxide alarms in dwelling units.
+- **(7)** *International residential code* The term IRC means—
+  - **(A)** the 2015 or 2018 edition of the International Residential Code published by the International Code Council; or
+  - **(B)** any amended or similar successor code pertaining to the proper installation of carbon monoxide alarms in dwelling units.
+- **(8)** *NFPA 72* The term NFPA 72 means—
+  - **(A)** the National Fire Alarm and Signaling Code issued in 2019 by the National Fire Protection Association; or
   - **(B)** any amended or similar successor standard pertaining to the proper installation of carbon monoxide alarms in dwelling units.
-- **(7)** *State* The term State has the meaning given such term in section 3 of the Consumer Product Safety Act (15 U.S.C. 2052) and includes the Northern Mariana Islands and any political subdivision of a State.
+- **(9)** *State* The term State has the meaning given such term in section 3 of the Consumer Product Safety Act (15 U.S.C. 2052) and includes the Northern Mariana Islands and any political subdivision of a State.
 
 ## § 4. Grant program for carbon monoxide poisoning prevention
 
 - **(a)** *In general* Subject to the availability of appropriations authorized under subsection (f), the Commission shall establish a grant program to provide assistance to eligible States to carry out the carbon monoxide poisoning prevention activities described in subsection (e).
 - **(b)** *Eligibility* For purposes of this section, an eligible State is any State that—
-  - **(1)** demonstrates to the satisfaction of the Commission that the State has adopted a statute or a rule, regulation, or similar measure with the force and effect of law, requiring compliant carbon monoxide alarms to be installed in dwelling units in accordance with NFPA 72; and
+  - **(1)** demonstrates to the satisfaction of the Commission that the State has adopted a statute or a rule, regulation, or similar measure with the force and effect of law, requiring compliant carbon monoxide alarms to be installed in dwelling units in accordance with NFPA 72, the IFC, or the IRC; and
   - **(2)** submits an application to the Commission at such time, in such form, and containing such additional information as the Commission may require, which application may be filed on behalf of the State by the fire code enforcement officials for such State.
 - **(c)** *Grant amount* The Commission shall determine the amount of the grants awarded under this section.
 - **(d)** *Selection of grant recipients* In selecting eligible States for the award of grants under this section, the Commission shall give favorable consideration to an eligible State that—
@@ -54,7 +60,7 @@ In this Act:
 - **(e)** *Use of grant funds*
   - **(1)** *In general* An eligible State receiving a grant under this section may use such grant—
     - **(A)** to purchase and install compliant carbon monoxide alarms in the dwelling units of low-income families or elderly persons, facilities that commonly serve children or the elderly, including childcare facilities, public schools, and senior centers, or student dwelling units owned by public universities;
-    - **(B)** to train State or local fire code enforcement officials in the proper enforcement of State or local laws concerning compliant carbon monoxide alarms and the installation of such alarms in accordance with NFPA 72;
+    - **(B)** to train State or local fire code enforcement officials in the proper enforcement of State or local laws concerning compliant carbon monoxide alarms and the installation of such alarms in accordance with NFPA 72, the IFC, or the IRC;
     - **(C)** for the development and dissemination of training materials, instructors, and any other costs related to the training sessions authorized by this subsection; and
     - **(D)** to educate the public about the risk associated with carbon monoxide as a poison and the importance of proper carbon monoxide alarm use.
   - **(2)** *Limitations*
