@@ -20,11 +20,11 @@ This Act may be cited as the “Portable Fuel Container Safety Act of 2019”.
   - **(1)** shall be promulgated in accordance with section 553 of title 5, United States Code; and
   - **(2)** shall be treated as a consumer product safety rule promulgated under section 9 of the Consumer Product Safety Act (15 U.S.C. 2058).
 - **(c)** *Exception*
-  - **(1)** *Voluntary standard* Subsection (a) shall not apply if the Commission determines that—
-    - **(A)** there is a voluntary standard for flame mitigation devices in portable fuel containers that impedes the propagation of flame into the container, or a combination of more than one voluntary standard which taken together serve such purpose for the full scope of this Act;
-    - **(B)** the voluntary standard or combination of voluntary standards described in subparagraph (A) is or will be in effect not later than 18 months after the date of enactment of this Act; and
-    - **(C)** the voluntary standard or combination of voluntary standards described in subparagraph (A) is developed by ASTM International or such other standard development organization that the Commission determines to have met the intent of this Act.
-  - **(2)** *Determination required to be published in the Federal register* Any determination made by the Commission under this subsection shall be published in the Federal Register.
+  - **(1)** *Voluntary standard* Subsection (a) shall not apply for a class of portable fuel containers in the scope of this Act if the Commission determines at any time that—
+    - **(A)** there is a voluntary standard for flame mitigation devices for those containers that impedes the propagation of flame into the container;
+    - **(B)** the voluntary standard described in subparagraph (A) is or will be in effect not later than 18 months after the date of enactment of this Act; and
+    - **(C)** the voluntary standard described in subparagraph (A) is developed by ASTM International or such other standard development organization that the Commission determines to have met the intent of this Act.
+  - **(2)** *Determination required to be published in the federal register* Any determination made by the Commission under this subsection shall be published in the Federal Register.
 - **(d)** *Treatment of voluntary standard for purpose of enforcement* If the Commission determines that a voluntary standard meets the conditions described in subsection (c), the requirements of such voluntary standard shall be treated as a consumer product safety rule promulgated under section 9 of the Consumer Product Safety Act (15 U.S.C. 2058) beginning on the date which is the later of—
   - **(1)** 180 days after publication of the Commission’s determination under subsection (c); or
   - **(2)** the effective date contained in the voluntary standard.
@@ -38,7 +38,7 @@ This Act may be cited as the “Portable Fuel Container Safety Act of 2019”.
 - **(h)** *Portable fuel container defined* In this section, the term portable fuel container means any container or vessel (including any spout, cap, and other closure mechanism or component of such container or vessel or any retrofit or aftermarket spout or component intended or reasonably anticipated to be for use with such container)—
   - **(1)** intended for flammable liquid fuels with a flash point less than 140 degrees Fahrenheit, including gasoline, kerosene, diesel, ethanol, methanol, denatured alcohol, or biofuels;
   - **(2)** that is a consumer product with a capacity of 5 gallons or less; and
-  - **(3)** that the manufacturer knows or reasonably should know is used by consumers for receiving, transporting, storing, and dispensing flammable liquid fuels.
+  - **(3)** that the manufacturer knows or reasonably should know is used by consumers for transporting, storing, and dispensing flammable liquid fuels.
 - **(i)** *Rule of construction* This section may not be interpreted to conflict with the Children’s Gasoline Burn Prevention Act (Public Law 110–278; 122 Stat. 2602).
 
 ## § 3. Children’s gasoline burn prevention act
