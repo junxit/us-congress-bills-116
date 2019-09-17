@@ -1,15 +1,13 @@
 ---
 legis-num: S. 1790
-congress: 116th CONGRESS
+congress: One Hundred Sixteenth Congress of the United States of America
 session: 1st Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 1790
 
-That the bill from the Senate (S. 1790) entitled “An Act to authorize appropriations for fiscal year 2020 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To authorize appropriations for fiscal year 2020 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.
 
 ## § 1. Short title
 
@@ -22,8 +20,14 @@ This Act may be cited as the “National Defense Authorization Act for Fiscal Ye
   - **(2)** Division B—Military Construction Authorizations.
   - **(3)** Division C—Department of Energy National Security Authorizations and Other Authorizations.
   - **(4)** Division D—Funding Tables.
+  - **(5)** Division E—Intelligence Authorizations for Fiscal Years 2018, 2019, and 2020.
+  - **(6)** Division F—Other Matters.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 3. Congressional defense committees
 
 In this Act, the term “congressional defense committees” has the meaning given that term in section 101(a)(16) of title 10, United States Code.
+
+## § 4. Budgetary effects of this Act
+
+The budgetary effects of this Act, for the purposes of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, jointly submitted for printing in the Congressional Record by the Chairmen of the House and Senate Budget Committees, provided that such statement has been submitted prior to the vote on passage in the House acting first on the conference report or amendment between the Houses.

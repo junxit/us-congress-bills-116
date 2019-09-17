@@ -1,7 +1,7 @@
 ---
 measure: S. 1790
 congress: 116
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 1790
@@ -1908,3 +1908,44 @@ National Defense Authorization Act for Fiscal Year 2020
 - 2019-09-17 — The Speaker appointed conferees - from the Committee on the Judiciary for consideration of secs. 1025, 1031, 1044, 1682, 6004, 6206, 6804, 6811, 6813-16, 6835, 6921, and 6944 of the Senate bill, and secs. 530F, 530G, 550D, 550F, 550J, 570H, 729, 827, 1011, 1048, 1049, 1050C, 1093, 1099C, 1099K, 1099V, 1099Z-3, 1212, 1296A, 1704, 1711, 1713-16, and 1733 of the House amendment and modifications committed to conference: Nadler, Lofgren, and Collins (GA).
 - 2019-09-17 — The Speaker appointed conferees - from the Permanent Select Committee on Intelligence for consideration of matters within the jurisdiction of that committee under clause 11 of rule X: Schiff, Sewell (AL), and Nunes.
 - 2019-09-17 — The previous question was ordered without objection.
+- 2019-09-18 — Cloture motion on the motion to disagree to the amendment of the House to the Senate bill, agree to the request for conference, and authorize the Presiding Officer to appoint confereees presented in Senate. (CR S5563)
+- 2019-09-18 — Cloture on the motion to disagree to the amendment of the House to the Senate bill, agree to the request for conference, and authorize the Presiding Officer to appoint confereees invoked in Senate by Yea-Nay Vote. 87 - 7. Record Vote Number: 293. (CR S5569)
+- 2019-09-18 — Measure laid before Senate by unanimous consent. (consideration: CR S5562-5570)
+- 2019-09-18 — Message on House action received in Senate and at desk: House amendment to Senate bill and House requests a conference.
+- 2019-09-18 — Motion to disagree to the amendment of the House to the Senate bill, agree to request for conference, and authorize the Presiding Officer to appoint conferees agreed to by Voice Vote.
+- 2019-09-18 — Motion to disagree to the amendment of the House to the Senate bill, agree to request for conference, and authorize the Presiding Officer to appoint conferees made in Senate. (CR S5562)
+- 2019-09-18 — Senate appointed conferees. Inhofe; Wicker; Fischer; Cotton; Rounds; Ernst; Tillis; Sullivan; Perdue; Cramer; McSally; Scott FL; Blackburn; Hawley; Reed; Shaheen; Gillibrand; Blumenthal; Hirono; Kaine; King; Heinrich; Warren; Peters; Manchin; Duckworth; Jones.
+- 2019-09-18 — Senate disagrees to the amendment of the House to the Senate bill, agrees to request for conference, and authorizes the Presiding Officer to appoint conferees.
+- 2019-09-19 — Conference committee actions: Conference held.
+- 2019-09-19 — Conference held.
+- 2019-09-19 — Message on Senate action sent to the House.
+- 2019-12-09 — Conferees agreed to file conference report.
+- 2019-12-09 — Conference committee actions: Conferees agreed to file conference report.
+- 2019-12-09 — Conference report H. Rept. 116-333 filed. (text of conference report: CR H9389-9951)
+- 2019-12-09 — Conference report filed: Conference report H. Rept. 116-333 filed.
+- 2019-12-10 — Conference papers: Senate report and manager's statement held at the desk in Senate.
+- 2019-12-10 — Rules Committee Resolution H. Res. 758 Reported to House. The rule provides for consideration of H.R. 3, under a structured rule, with 4 hours of general debate. The rule provides for consideration of H.R. 5038 under a closed rule, with 1 hour of general debate. The rule provides for consideration of the conference report to accompany S. 1790 with 1 hour of debate.
+- 2019-12-11 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 377 - 48 (Roll no. 672).(text: 12/9/2019 CR H9389-9951)
+- 2019-12-11 — DEBATE - The House proceeded with one hour of debate on the conference report to accompany S. 1790.
+- 2019-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-12-11 — Mr. Smith (WA) brought up conference report H. Rept. 116-333 for consideration under the provisions of H. Res. 758. (consideration: CR H10082-10093)
+- 2019-12-11 — On agreeing to the conference report Agreed to by the Yeas and Nays: 377 - 48 (Roll no. 672). (text: 12/9/2019 CR H9389-9951)
+- 2019-12-11 — Rule H. Res. 758 passed House.
+- 2019-12-11 — The previous question was ordered pursuant to the rule.
+- 2019-12-12 — Cloture motion on the conference report to accompany S. 1790 presented in Senate. (CR S7019)
+- 2019-12-12 — Conference papers: message on House action held at the desk in Senate.
+- 2019-12-12 — Conference report considered in Senate. (consideration: CR S7019-7023)
+- 2019-12-16 — Cloture on the conference report to accompany S. 1790 invoked in Senate by Yea-Nay Vote. 76 - 6. Record Vote Number: 398. (CR S7042)
+- 2019-12-16 — Conference report considered in Senate. (CR S7037-7038, S7042-7046)
+- 2019-12-17 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 86 - 8. Record Vote Number: 400.
+- 2019-12-17 — Conference report considered in Senate. (consideration: CR S7061, S7064-7070)
+- 2019-12-17 — Message on Senate action sent to the House.
+- 2019-12-17 — Motion to waive all applicable budgetary discipline with respect to the measure (the conference report to accompany S. 1790) agreed to in Senate by Yea-Nay Vote. 82 - 12. Record Vote Number: 399. (CR S7069)
+- 2019-12-17 — Point of order that the conference report to accompany S. 1790 violates section 3101(b) of S.Con.Res. 11, 114th Congress, raised in Senate.
+- 2019-12-17 — Senate agreed to conference report by Yea-Nay Vote. 86 - 8. Record Vote Number: 400.
+- 2019-12-19 — Presented to President.
+- 2019-12-19 — Presented to President.
+- 2019-12-20 — Became Public Law No: 116-92.
+- 2019-12-20 — Became Public Law No: 116-92.
+- 2019-12-20 — Signed by President.
+- 2019-12-20 — Signed by President.
