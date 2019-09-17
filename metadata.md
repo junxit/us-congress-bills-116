@@ -1,7 +1,7 @@
 ---
 measure: S. 1790
 congress: 116
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 1790
@@ -16,7 +16,7 @@ National Defense Authorization Act for Fiscal Year 2020
 
 - Sen. Inhofe, James M. [R-OK] (I000024)
 
-## Cosponsors (1103)
+## Cosponsors (1105)
 
 - Sen. Portman, Rob [R-OH] (P000449)
 - Sen. Jones, Doug [D-AL] (J000300)
@@ -47,6 +47,7 @@ National Defense Authorization Act for Fiscal Year 2020
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
 - Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Jones, Doug [D-AL] (J000300)
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
 - Sen. Feinstein, Dianne [D-CA] (F000062)
@@ -494,6 +495,7 @@ National Defense Authorization Act for Fiscal Year 2020
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Murray, Patty [D-WA] (M001111)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Scott, Rick [R-FL] (S001217)
 - Sen. Scott, Rick [R-FL] (S001217)
 - Sen. Scott, Rick [R-FL] (S001217)
@@ -1126,13 +1128,16 @@ National Defense Authorization Act for Fiscal Year 2020
 
 - Senate — Armed Services Committee
 
-## Recorded votes (5)
+## Recorded votes (8)
 
 - 2019-06-19 — [Senate 116-1-176](votes/senate-116-1-0176.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (89–10)
 - 2019-06-24 — [Senate 116-1-181](votes/senate-116-1-0181.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (86–6)
 - 2019-06-27 — [Senate 116-1-186](votes/senate-116-1-0186.md) — On the Cloture Motion — **Cloture Motion Agreed to** (87–7)
 - 2019-06-27 — [Senate 116-1-187](votes/senate-116-1-0187.md) — On the Amendment — **Amendment Agreed to** (90–4)
 - 2019-06-27 — [Senate 116-1-188](votes/senate-116-1-0188.md) — On Passage of the Bill — **Bill Passed** (86–8)
+- 2019-06-28 — [Senate 116-1-189](votes/senate-116-1-0189.md) — On the Amendment — **Amendment Rejected** (50–40)
+- 2019-09-17 — [House 116-1-531](votes/house-116-1-0531.md) — On Motion to Instruct Conferees — **Failed** (198–219)
+- 2019-09-17 — [House 116-1-532](votes/house-116-1-0532.md) — On Closing Portions of the Conference — **Passed** (407–4)
 
 ## Actions
 
@@ -1864,3 +1869,53 @@ National Defense Authorization Act for Fiscal Year 2020
 - 2019-06-27 — Senate amendment agreed to: Amendment SA 764 as modified and amended agreed to in Senate by Voice Vote.
 - 2019-06-27 — Senate amendment agreed to: Amendment SA 861 agreed to in Senate by Yea-Nay Vote. 90 - 4. Record Vote Number: 187.
 - 2019-06-27 — Senate amendment proposed (on the floor): Amendment SA 883 proposed by Senator Udall.
+- 2019-06-28 — Amendment SA 883, under the order of 6/27/19, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 40. Record Vote Number: 189.
+- 2019-06-28 — Considered by Senate. (consideration: CR S4669-4670)
+- 2019-06-28 — Message on Senate action sent to the House.
+- 2019-06-28 — Roll call votes on amendments in Senate: Amendment SA 883, under the order of 6/27/19, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 40. Record Vote Number: 189.
+- 2019-06-28 — Senate amendment not agreed to: Amendment SA 883, under the order of 6/27/19, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 40. Record Vote Number: 189.
+- 2019-07-02 — Held at the desk.
+- 2019-07-02 — Received in the House.
+- 2019-09-12 — Amendment SA 938 proposed by Senator Inhofe. (consideration: CR S5466; text: CR S5466) To improve the bill.
+- 2019-09-12 — Measure amended in Senate after passage by Unanimous Consent.
+- 2019-09-12 — Message on Senate action sent to the House.
+- 2019-09-12 — Message on Senate action sent to the House.
+- 2019-09-12 — Message received in the Senate: Returned to the Senate in compliance with a request of the Senate for the return thereof.
+- 2019-09-12 — Notwithstanding the passage of S. 1790, as amended, amendment SA 938 agreed to in Senate by Unanimous Consent.
+- 2019-09-12 — Papers returned to Senate
+- 2019-09-12 — Senate amendment agreed to: Notwithstanding the passage of S. 1790, as amended, amendment SA 938 agreed to in Senate by Unanimous Consent.
+- 2019-09-12 — Senate amendment proposed (on the floor): Amendment SA 938 proposed by Senator Inhofe.
+- 2019-09-12 — Senate amendment submitted
+- 2019-09-16 — Held at the desk.
+- 2019-09-16 — Received in the House.
+- 2019-09-17 — DEBATE - The House proceeded with one hour of debate on the Thornberry motion to instruct conferees. The instructions contained in the motion seek to require the managers on the part of the House to be instructed to agree to section 2906 of the Senate bill with amendments that authorize specified military construction projects.
+- 2019-09-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-09-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-09-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-09-17 — Mr. Smith (WA) asked unanimous consent that the House insist upon its amendment, and request a conference. (consideration: CR H7737-7738)
+- 2019-09-17 — Mr. Smith (WA) asked unanimous consent to take from the Speaker's table, the bill S. 1790, and ask for its immediate consideration in the House; to strike out all after the enacting clause of such bill and insert in lieu thereof the provisions of H.R. 2500 as passed by the House; to pass the Senate bill, as amended; and to insist on the House amendment thereto and request a conference with there Senate thereon. Agreed to without objection.
+- 2019-09-17 — Mr. Smith (WA) moved that the House to close portions of the conference.
+- 2019-09-17 — Mr. Thornberry moved that the House instruct conferees. (consideration: CR H7738-7742; text: CR H7738-7739)
+- 2019-09-17 — On motion that the House insist upon its amendment, and request a conference Agreed to without objection.
+- 2019-09-17 — On motion that the House instruct conferees Failed by the Yeas and Nays: 198 - 219 (Roll no. 531).
+- 2019-09-17 — On motion to close portions of the conference Agreed to by the Yeas and Nays: 407 -4 (Roll no. 532).
+- 2019-09-17 — On passage Passed without objection.
+- 2019-09-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Thornberry motion to instruct conferees, the Chair put the question on the motion to instruct and by voice vote, announced that the nays had prevailed. Mr. Thornberry demanded the yeas and nays and the Chair postponed further proceedings on the motion until a time to be announced.
+- 2019-09-17 — Passed/agreed to in House: On passage Passed without objection.
+- 2019-09-17 — The House struck all after the enacting clause and inserted in lieu thereof the provisions of a similar measure H.R. 2500. Agreed to without objection.
+- 2019-09-17 — The Speaker appointed conferees - from the Committee on Armed Services for consideration of the Senate bill and the House amendment, and modifications committed to conference: Smith of Washington, Davis of California, Langevin, Larsen of Washington, Cooper, Courtney, Garamendi, Speier, Norcross, Gallego, Moulton, Carbajal, Brown of Maryland, Khanna, Keating, Vela, Kim, Kendra S. Horn of Oklahoma, Cisneros, Thornberry, Wilson of South Carolina, Turner, Rogers of Alabama, Conaway, Lamborn, Wittman, Hartzler, Stefanik, Kelly of Mississippi, Bacon, Banks, and Cheney.
+- 2019-09-17 — The Speaker appointed conferees - from the Committee on Education and Labor for consideration of secs. 571, 572, and 5501 of the Senate bill, and secs. 211, 576, 580, 1099N, 1117, 3120, and 3503 of the House amendment, and modifications committed to conference: Scott (VA), Trahan, and Foxx (NC).
+- 2019-09-17 — The Speaker appointed conferees - from the Committee on Energy and Commerce for consideration of secs. 214, 315, 318, 703, 3112, 3113, 3201-03, 5318, 6001, 6006, 6021, 6701, 6711, 6721-24, 6741, 6742, 6751-54, 8101, 8202, 10421, 10422, and 10742 of the Senate bill, and secs. 315, 330F, 330H, 330O, 606, 737, 3111, 3112, 3127, 3128, 3201, and 3202 of the House amendment, and modifications committed to conference: Pallone, Tonko, and Upton.
+- 2019-09-17 — The Speaker appointed conferees - from the Committee on Financial Services for consideration of secs. 6017, 6018, 6804, 6811, 6813-16, 6834, 6835, and title LXIX of the Senate bill, and secs. 550K, 560G, subtitle I of title X, secs. 1240B, 1292, 1704, 1711, 1713-16, 1733, and 2843 of the House amendment, and modifications committed to conference: Waters, Sherman, and Barr.
+- 2019-09-17 — The Speaker appointed conferees - from the Committee on Foreign Affairs for consideration of secs. 834, 1011, 1043, 1202, 1203, 1205, 1206, 1211, 1212, 1215, 1221-24, 1231-36, 1238, 1252, 1281-84, title XIII, secs. 1671, 1681, 2822, 6203-06, 6210, 6213, 6215, 6231, 6236, title LXVIII, secs. 6921, 6922, 6931, 6941, 6943, 6954, part I of subtitle B of title LXXXV, secs. 8562, and 10701 of the Senate bill, and secs. 634, 1036, 1046, 1050, 1099X, 1201, 1202, 1204, 1207, 1210, 1213, 1215, 1218, 1221-25, 1229, 1231-34, 1240A, 1241, 1250D, 1251, 1255, 1258, 1260A, 1260B, 1265, 1266, 1269, 1270, 1270G, 1270H, 1270I, 1270N, 1270R, 1270S, 1270T, 1270 W, subtitle I of title XII, subtitle J of title XII, title XIII, secs. 1521, 1669, and title XVII of the House amendment, and modifications committed to conference: Engel, Meeks, and McCaul.
+- 2019-09-17 — The Speaker appointed conferees - from the Committee on Homeland Security for consideration of secs. 6006, 6012, and 8543 of the Senate bill, and modifications committed to conference: Rose (NY), Underwood, and Walker.
+- 2019-09-17 — The Speaker appointed conferees - from the Committee on Natural Resources for consideration of secs. 314, 2812, 2814, 6001, 6020, subtitle C of title LXVII, sec. 8524, part I of subtitle B of title LXXXV, secs. 8554, and 8571 of the Senate bill, and secs. 330G, 1094, 1099D, 1099F, 1099U, 2851, subtitle F of title XXVIII, secs. 2876, and 2880 of the House amendment, and modifications committed to conference: Grijalva, Haaland, and Bishop (UT).
+- 2019-09-17 — The Speaker appointed conferees - from the Committee on Oversight and Reform for consideration of secs. 218, 530, 559, 579, 1081, 1082, title XI, secs. 5802, 6012, subtitle B of title LXV, secs. 9304, 9307, 9311, 9313, 9314, 10303, 10432, 10434, 10601, 10603-05, 10612, 10741, and 10742 of the Senate bill, and secs. 212, 239, 5500, 629, 633, 804, 829, 842, 861, 872, 877, 883, 884, 891, 895, 899E, 899H, 899I, 1064, 1085, 1099B, title XI, secs. 1704, 1711, 1713-16, and 3127 of the House amendment, and modifications committed to conference: Lynch, Connolly, and Green (TN).
+- 2019-09-17 — The Speaker appointed conferees - from the Committee on Science, Space, and Technology for consideration of secs. 216, 219, 1612, 6001, 6006, 6008, 6009, 6742, 6754, 8524, and 10742 of the Senate bill, and secs. 214, 217, 882, and 1089 of the House amendment, and modifications committed to conference: Johnson (TX), Sherrill, and Baird.
+- 2019-09-17 — The Speaker appointed conferees - from the Committee on Small Business for consideration of sec. 841 of the Senate bill, and secs. 872-76, 878, 879, 881, 882, and 886-89 of the House amendment, and modifications committed to conference: Velazquez, Golden, and Chabot.
+- 2019-09-17 — The Speaker appointed conferees - from the Committee on Transportation and Infrastructure for consideration of secs. 353, 1612, 1682, 2805, title XXXV, secs. 6001, 6006, 6012, 6015, 6019, 6021, 6754, 8500, 8511, 8517, 8519, 8520, 8522, 8523, 8525, 8532, 8543, 8545, 8546, and 8571 of the Senate bill, and secs. 311, 313, 330A, 330O, 351, 354, 555, 569, 580C, 606, 896, 2808, 3501, and 3504 of the House amendment, and modifications committed to conference: Delgado, Pappas, and Katko.
+- 2019-09-17 — The Speaker appointed conferees - from the Committee on Veterans' Affairs for consideration of secs. 568, 721, 726, 727, 1083, 1431, 2812, 2813, 5702, and 6007 of the Senate bill, and secs. 530, 530A, 545, 546, 550E, 550G, 550H, 550I, 550J, 569, 570E, 570F, 574, 624, 705, 706, 713, 715, 1093, 1126, and 1411 of the House amendment, and modifications committed to conference: Takano, Brownley (CA), and Watkins .
+- 2019-09-17 — The Speaker appointed conferees - from the Committee on the Budget for consideration of secs. 4 and 10608 of the Senate bill, and secs. 1006 and 1112 of the House amendment, and modifications committed to conference: Yarmuth, Peters, and Johnson (OH).
+- 2019-09-17 — The Speaker appointed conferees - from the Committee on the Judiciary for consideration of secs. 1025, 1031, 1044, 1682, 6004, 6206, 6804, 6811, 6813-16, 6835, 6921, and 6944 of the Senate bill, and secs. 530F, 530G, 550D, 550F, 550J, 570H, 729, 827, 1011, 1048, 1049, 1050C, 1093, 1099C, 1099K, 1099V, 1099Z-3, 1212, 1296A, 1704, 1711, 1713-16, and 1733 of the House amendment and modifications committed to conference: Nadler, Lofgren, and Collins (GA).
+- 2019-09-17 — The Speaker appointed conferees - from the Permanent Select Committee on Intelligence for consideration of matters within the jurisdiction of that committee under clause 11 of rule X: Schiff, Sewell (AL), and Nunes.
+- 2019-09-17 — The previous question was ordered without objection.
