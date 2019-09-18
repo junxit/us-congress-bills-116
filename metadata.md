@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 558
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 558
@@ -27,3 +27,11 @@ Providing for consideration of the bill (H.R. 1423) to amend title 9 of the Unit
 - 2019-09-17 — The House Committee on Rules reported an original measure, H. Rept. 116-210, by Mrs. Torres (CA).
 - 2019-09-17 — The House Committee on Rules reported an original measure, H. Rept. 116-210, by Mrs. Torres (CA).
 - 2019-09-17 — The resolution waives the requirement of clause 6(a) of rule XIII for a two-thirds vote to consider a report from the Committee on Rules on the same day it is presented to the House with respect to any resolution reported through the legislative day of September 20, 2019, relating to a measure making or continuing appropriations for the fiscal year ending September 30, 2020. The resolution provides that it shall be in order at any time on the legislative day of September 19, 2019, or September 20, 2019, for the Speaker to entertain motions that the House suspend the rules.
+- 2019-09-18 — Considered as privileged matter. (consideration: CR H7761-7765)
+- 2019-09-18 — Considered as unfinished business. (consideration: CR: H7766-7767)
+- 2019-09-18 — DEBATE - The House proceeded with one hour of debate on H. Res. 558.
+- 2019-09-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-09-18 — On agreeing to the resolution Agreed to by the Yeas and Nays: 228 - 196 (Roll no. 534). (text: CR H7761)
+- 2019-09-18 — On ordering the previous question Agreed to by the Yeas and Nays: 228 - 195 (Roll no. 533). (consideration: CR H7766)
+- 2019-09-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.Res. 558, the Chair put the question on ordering the previous question and by voice vote, announced that the ayes had prevailed. Mrs. Lesko demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2019-09-18 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 228 - 196 (Roll no. 534).(text: CR H7761)
