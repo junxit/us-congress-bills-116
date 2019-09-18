@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1618
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1618
@@ -28,10 +28,11 @@ Nicholas and Zachary Burt Carbon Monoxide Poisoning Prevention Act of 2019
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
-## Committees (2)
+## Committees (3)
 
 - House — Committee on House Administration
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ Nicholas and Zachary Burt Carbon Monoxide Poisoning Prevention Act of 2019
 - 2019-09-17 — Ms. Schakowsky moved to suspend the rules and pass the bill, as amended.
 - 2019-09-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7723-7724)
 - 2019-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7723-7724)
+- 2019-09-18 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
