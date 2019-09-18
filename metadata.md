@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2211
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2211
@@ -42,9 +42,10 @@ Stop Tip-overs of Unstable, Risky Dressers on Youth Act
 - Rep. Underwood, Lauren [D-IL-14] (U000040)
 - Rep. Lofgren, Zoe [D-CA-19] (L000397)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -66,3 +67,4 @@ Stop Tip-overs of Unstable, Risky Dressers on Youth Act
 - 2019-09-17 — Ms. Schakowsky moved to suspend the rules and pass the bill, as amended.
 - 2019-09-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7720)
 - 2019-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7720)
+- 2019-09-18 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
