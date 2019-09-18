@@ -1,0 +1,35 @@
+---
+legis-num: H.R. 4383
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4383
+
+> To ensure that unclaimed money recovered at airport security checkpoints is transferred to a fund for certain border security activities, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Cents for Sense Act of 2019”.
+
+## § 2. Disposition of unclaimed money recovered at airport security checkpoints
+
+- **(a)** *In general*
+  - **(1)** *Establishment of Fund* There is established in the Treasury of the United States a fund to be known as the “Traveler’s Border Protection Fund” (in this subsection referred to as the “Fund”).
+  - **(2)** *Transfers to Fund* Notwithstanding any other provision of law, the Administrator of the Transportation Security Administration shall ensure the transfer to the Fund of unclaimed money recovered at airport security checkpoints.
+  - **(3)** *Authorized uses* Amounts may be made available from the Fund only—
+    - **(A)** to the Secretary of Homeland Security; and
+    - **(B)** for the construction or maintenance of a barrier along the international border between the United States and Mexico.
+  - **(4)** *Annual report* Each fiscal year, the Secretary of Homeland Security shall submit to Congress a report that contains a detailed description of—
+    - **(A)** the amount of unclaimed money recovered from airport security checkpoints in the most recently completed fiscal year;
+    - **(B)** the amounts available in the Fund; and
+    - **(C)** how amounts made available from the Fund have been used for the activities described in paragraph (3)(B).
+- **(b)** *Conforming and clerical amendments*
+  - **(1)** *Conforming amendments* Section 44945 of title 49, United States Code, is amended—
+    - **(A)** in the heading, by striking “money and”;
+    - **(B)** by striking subsection (a); and
+    - **(C)** in subsection (b)—
+      - **(i)** by redesignating paragraphs (1) through (4) as subsections (a) through (d), respectively, and adjusting the margins accordingly; and
+      - **(ii)** by striking “(b) Disposition of unclaimed clothing.—”.
+  - **(2)** *Clerical amendment* The table of sections for chapter 449 of title 49, United States Code, is amended by amending the item relating to section 44945 to read as follows:
