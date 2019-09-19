@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2290
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2290
@@ -25,3 +25,9 @@ Shutdown Guidance for Financial Institutions Act
 - 2019-04-10 — Introduced in House
 - 2019-04-10 — Introduced in House
 - 2019-04-10 — Referred to the House Committee on Financial Services.
+- 2019-09-19 — Considered under suspension of the rules. (consideration: CR H7805-7807)
+- 2019-09-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2290.
+- 2019-09-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-09-19 — Ms. Waters moved to suspend the rules and pass the bill, as amended.
+- 2019-09-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7805-7806)
+- 2019-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7805-7806)
