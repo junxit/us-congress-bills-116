@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 205
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 205
@@ -16,7 +16,7 @@ A resolution expressing the gratitude of the Senate for the people who operate o
 
 - Sen. Murphy, Christopher [D-CT] (M001169)
 
-## Cosponsors (11)
+## Cosponsors (20)
 
 - Sen. Cramer, Kevin [R-ND] (C001096)
 - Sen. Jones, Doug [D-AL] (J000300)
@@ -29,6 +29,15 @@ A resolution expressing the gratitude of the Senate for the people who operate o
 - Sen. Roberts, Pat [R-KS] (R000307)
 - Sen. Duckworth, Tammy [D-IL] (D000622)
 - Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. McSally, Martha [R-AZ] (M001197)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
 
 ## Committees (1)
 
@@ -38,3 +47,7 @@ A resolution expressing the gratitude of the Senate for the people who operate o
 
 - 2019-05-14 — Introduced in Senate
 - 2019-05-14 — Referred to the Committee on Health, Education, Labor, and Pensions.
+- 2019-09-19 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR 5/14/2019 S2833-2834)
+- 2019-09-19 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 5/14/2019 S2833-2834)
+- 2019-09-19 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S5609)
+- 2019-09-19 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S5609)
