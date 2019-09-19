@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2613
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2613
@@ -16,9 +16,10 @@ Advancing Innovation to Assist Law Enforcement Act
 
 - Rep. Gonzalez, Anthony [R-OH-16] (G000588)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Emmer, Tom [R-MN-6] (E000294)
+- Rep. McAdams, Ben [D-UT-4] (M001209)
 
 ## Committees (1)
 
@@ -29,3 +30,9 @@ Advancing Innovation to Assist Law Enforcement Act
 - 2019-05-09 — Introduced in House
 - 2019-05-09 — Introduced in House
 - 2019-05-09 — Referred to the House Committee on Financial Services.
+- 2019-09-19 — Considered under suspension of the rules. (consideration: CR H7810-7812)
+- 2019-09-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2613.
+- 2019-09-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-09-19 — Mr. San Nicolas moved to suspend the rules and pass the bill.
+- 2019-09-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7810-7811)
+- 2019-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7810-7811)
