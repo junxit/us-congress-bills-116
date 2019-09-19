@@ -1,7 +1,7 @@
 ---
 measure: S. 253
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 253
@@ -16,12 +16,14 @@ Streamlining Energy Efficiency for Schools Act
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 
-## Cosponsors (4)
+## Cosponsors (6)
 
 - Sen. Warner, Mark R. [D-VA] (W000805)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 - Sen. Portman, Rob [R-OH] (P000449)
 - Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
 
 ## Committees (1)
 
@@ -31,3 +33,7 @@ Streamlining Energy Efficiency for Schools Act
 
 - 2019-01-29 — Introduced in Senate
 - 2019-01-29 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2019-07-16 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2019-09-19 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments. With written report No. 116-107.
+- 2019-09-19 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments. With written report No. 116-107.
+- 2019-09-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 207.
