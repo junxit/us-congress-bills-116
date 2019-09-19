@@ -49,3 +49,7 @@ Under such regulations as the Secretary may prescribe, the Secretary may strike 
 
 - **(a)** *National medals* Medals struck under this Act are national medals for purposes of chapter 51 of title 31, United States Code.
 - **(b)** *Numismatic items* For purposes of section 5134 of title 31, United States Code, all medals struck under this Act shall be considered to be numismatic items.
+
+## § 6. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
