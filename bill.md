@@ -22,7 +22,7 @@ The Congress finds the following:
   - **(B)** to collect and preserve the stories of Purple Heart recipients from all branches of service and across generations to ensure that all recipients are represented.
 - **(2)** The National Purple Heart Hall of Honor first opened its doors on November 10, 2006, in New Windsor, NY.
 - **(3)** The National Purple Heart Hall of Honor is co-located with the New Windsor Cantonment State Historic Site.
-- **(4)** The National Purple Heart Hall of Honor is the first to recognize the estimated 1.8 million U.S. servicemembers wounded or killed in action representing recipients from the Civil War to the present day, serving as a living memorial to their sacrifice by sharing their stories through interviews, exhibits and the Roll of Honor, an interactive computer database of each recipient enrolled.
+- **(4)** The National Purple Heart Hall of Honor is the first to recognize the estimated 1.8 million United States servicemembers wounded or killed in action representing recipients from the Civil War to the present day, serving as a living memorial to their sacrifice by sharing their stories through interviews, exhibits and the Roll of Honor, an interactive computer database of each recipient enrolled.
 
 ## § 3. Coin specifications
 
@@ -79,4 +79,8 @@ The Congress finds the following:
   - **(3)** $5 per coin for the half-dollar coin.
 - **(b)** *Distribution* Subject to section 5134(f)(1) of title 31, United States Code, all surcharges received by the Secretary from the sale of coins issued under this Act shall be promptly paid by the Secretary to the National Purple Heart Hall of Honor, Inc., to support the mission of the National Purple Heart Hall of Honor, Inc., including capital improvements to the National Purple Heart Hall of Honor facilities.
 - **(c)** *Audits* The National Purple Heart Hall of Honor, Inc., shall be subject to the audit requirements of section 5134(f)(2) of title 31, United States Code, with regard to the amounts received under subsection (b).
-- **(d)** *Limitation* Notwithstanding subsection (a), no surcharge may be included with respect to the issuance under this Act of any coin during a calendar year if, as of the time of such issuance, the issuance of such coin would result in the number of commemorative coin programs issued during such year to exceed the annual 2 commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code (as in effect on the date of the enactment of this Act). The Secretary of the Treasury may issue guidance to carry out this subsection.
+- **(d)** *Limitation* Notwithstanding subsection (a), no surcharge may be included with respect to the issuance under this Act of any coin during a calendar year if, as of the time of such issuance, the issuance of such coin would result in the number of commemorative coin programs issued during such year to exceed the annual two commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code (as in effect on the date of the enactment of this Act). The Secretary of the Treasury may issue guidance to carry out this subsection.
+
+## § 8. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
