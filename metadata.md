@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3625
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3625
@@ -25,3 +25,11 @@ PCAOB Whistleblower Protection Act of 2019
 - 2019-07-05 — Introduced in House
 - 2019-07-05 — Introduced in House
 - 2019-07-05 — Referred to the House Committee on Financial Services.
+- 2019-07-16 — Committee Consideration and Mark-up Session Held.
+- 2019-07-16 — Ordered to be Reported (Amended) by Voice Vote.
+- 2019-09-19 — Considered under suspension of the rules. (consideration: CR H7800-7803)
+- 2019-09-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3625.
+- 2019-09-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-09-19 — Ms. Waters moved to suspend the rules and pass the bill, as amended.
+- 2019-09-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7800-7802)
+- 2019-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7800-7802)
