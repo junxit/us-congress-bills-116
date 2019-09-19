@@ -1,7 +1,7 @@
 ---
 measure: H.R. 762
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 762
@@ -63,3 +63,7 @@ Streamlining Energy Efficiency for Schools Act
 - 2019-03-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2328)
 - 2019-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2328)
 - 2019-03-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2019-07-16 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2019-09-19 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 116-108.
+- 2019-09-19 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 116-108.
+- 2019-09-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 208.
