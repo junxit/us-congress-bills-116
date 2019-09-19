@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Appraisal Reform Act of 2019”.
+This Act may be cited as the “Appraisal Fee Transparency Act of 2019”.
 
 ## § 2. Annual registry fees for appraisal management companies
 
@@ -41,3 +41,7 @@ Section 4(c) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 260
 ## § 6. Inclusion of designee of Secretary of Veterans Affairs on Appraisal Subcommittee
 
 The first sentence of section 1011 of the Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3310) is amended by inserting “the Department of Veterans Affairs,” after “Protection,”.
+
+## § 7. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
