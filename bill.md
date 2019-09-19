@@ -27,15 +27,15 @@ The Congress finds the following:
 - **(8)** The Tour de France, the world’s preeminent cycling competition, was first held over a century ago, in 1903.
 - **(9)** The Tour de France takes place over 23 days, covering an extraordinary 2,200 miles, winding through multiple mountain ranges, spanning multiple nations, and is viewed as comparable to running a marathon every day for three consecutive weeks.
 - **(10)** Greg first competed in the Tour de France in 1984, finishing third, and finishing second the following year, in both years deputizing himself to his teammates, sacrificing a chance to win himself to boost his teammates toward victory.
-- **(11)** Greg emerged victorious in the 1986 Tour de France, ascending the fabled Alpe D’Huez, defeating the field by more than three full minutes, becoming the first American and the first non-European to win cycling’s most prestigious race.
+- **(11)** Greg emerged victorious in the 1986 Tour de France, ascending the fabled Alpe D’Huez, defeating the field by more than 3 full minutes, becoming the first American and the first non-European to win cycling’s most prestigious race.
 - **(12)** In 1987, while recovering from a broken wrist and collarbone, Greg was tragically shot during a turkey hunting accident, leaving him in intensive care, requiring the removal of over 40 shotgun pellets from his abdomen, was deemed unlikely to ever ride a bicycle again, and likely survived only due to the abnormal strength of his cardiovascular system.
-- **(13)** Greg mounted the greatest comeback in the history of American sports, taking home an astonishing victory at the 1989 Tour de France, following multiple surgeries, life-threatening gunshot wounds, tendon repair, and an appendectomy, winning by eight seconds in the closest finish in the history of the Tour de France.
+- **(13)** Greg mounted the greatest comeback in the history of American sports, taking home an astonishing victory at the 1989 Tour de France, following multiple surgeries, life-threatening gunshot wounds, tendon repair, and an appendectomy, winning by 8 seconds in the closest finish in the history of the Tour de France.
 - **(14)** Greg would win a third Tour de France victory in 1990.
 - **(15)** Greg is the only American to win the Tour de France.
 - **(16)** Greg has vocally spoken out to champion healthy sport amongst athletes of all ages and competition levels.
 - **(17)** Greg and his wife, Kathy, are active in numerous nonprofit causes, including healthy sport, assisting victims of sexual abuse and various childhood illnesses.
 - **(18)** Cycling offers young people a healthy, active, outdoor hobby.
-- **(19)** Greg completed his professional career having won two World Championships, three Tour de France championships, and twenty-two titles overall.
+- **(19)** Greg completed his professional career having won 2 World Championships, 3 Tour de France championships, and 22 titles overall.
 - **(20)** More than any other cyclist, Greg personified the “breakaway” culture of American cycling in the 1970s and 80s, viewed universally as the epitome of a young person on a bicycle, attempting to accomplish feats no other American had achieved.
 - **(21)** Greg has not only reached the pinnacle of international sport, but has devoted his time and resources to assisting his fellow athletes.
 - **(22)** Greg has demonstrated the commitment to excellence, generosity, community, and tenacity that makes him an example for all to follow.
@@ -53,3 +53,7 @@ The Secretary may strike and sell duplicates in bronze of the gold medal struck 
 
 - **(a)** *National medals* The medals struck pursuant to this Act are national medals for purposes of chapter 51 of title 31, United States Code.
 - **(b)** *Numismatic items* For purposes of section 5134 of title 31, United States Code, all medals struck under this Act shall be considered to be numismatic items.
+
+## § 6. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
