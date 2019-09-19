@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3625
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,7 +26,7 @@ to guess them.
 
 ### 15 U.S.C. § 7219
 
-> in section 109(c)(2) (15 U.S.C. 7219(c)(2)) by striking “all funds collected” and inserting “at least 50 percent of funds collected”.
+> in section 109(c)(2) (15 U.S.C. 7219(c)(2), by striking “all funds collected” and inserting “at least 50 percent of funds collected”.
 
 | | |
 |---|---|
