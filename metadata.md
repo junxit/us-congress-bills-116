@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4285
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4285
@@ -39,3 +39,12 @@ Department of Veterans Affairs Expiring Authorities Act of 2019
 - 2019-09-18 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 1 (Roll no. 535). (text: CR 9/17/2019 H7729-7730)
 - 2019-09-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 1 (Roll no. 535).(text: CR 9/17/2019 H7729-7730)
 - 2019-09-19 — Received in the Senate, read twice.
+- 2019-09-23 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5632)
+- 2019-09-23 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5632)
+- 2019-09-24 — Message on Senate action sent to the House.
+- 2019-09-30 — Became Public Law No: 116-61.
+- 2019-09-30 — Became Public Law No: 116-61.
+- 2019-09-30 — Presented to President.
+- 2019-09-30 — Presented to President.
+- 2019-09-30 — Signed by President.
+- 2019-09-30 — Signed by President.
