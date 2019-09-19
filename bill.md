@@ -17,7 +17,7 @@ This Act may be cited as the “Hidden Figures Congressional Gold Medal Act”.
 
 Congress finds the following:
 
-- **(1)** In 1935, the National Advisory Committee for Aeronautics (referred to in this section as “NACA”) hired 5 women to serve as the first “computer pool” at the Langley Memorial Aeronautical Laboratory where those women took on work making calculations that male engineers had made previously.
+- **(1)** In 1935, the National Advisory Committee for Aeronautics (referred to in this section as “NACA”) hired five women to serve as the first “computer pool” at the Langley Memorial Aeronautical Laboratory where those women took on work making calculations that male engineers had made previously.
 - **(2)** During the 1940s, NACA began recruiting African-American women to work as computers and initially separated those women from their White counterparts in a group known as the “West Area Computers” where the women were restricted to segregated dining and bathroom facilities.
 - **(3)** Katherine Johnson was born on August 26, 1918, in White Sulphur Springs, West Virginia.
 - **(4)** In 1953, Katherine Johnson began her career in aeronautics as a computer in the segregated West Area Computing unit described in paragraph (2).
@@ -51,7 +51,7 @@ Congress finds the following:
     - **(ii)** published a dozen technical papers that focused on the boundary layer of air around airplanes; and
   - **(B)** after 21 years working as an engineer at NASA, transitioned to a new job as Langley’s Federal Women’s Program Manager where she worked to improve the prospects of NASA’s female mathematicians, engineers, and scientists.
 - **(20)** Mary Jackson retired from NASA in 1985 and died in 2005.
-- **(21)** These 4 women, along with the other African-American women in NASA’s West Area Computing unit, were integral to the success of the early space program. The stories of these 4 women exemplify the experiences of hundreds of women who worked as computers, mathematicians, and engineers at NACA beginning in the 1930s and their handmade calculations played an integral role in—
+- **(21)** These four women, along with the other African-American women in NASA’s West Area Computing unit, were integral to the success of the early space program. The stories of these four women exemplify the experiences of hundreds of women who worked as computers, mathematicians, and engineers at NACA beginning in the 1930s and their handmade calculations played an integral role in—
   - **(A)** aircraft testing during World War II;
   - **(B)** supersonic flight research;
   - **(C)** sending the Voyager probes to explore the solar system; and
@@ -59,12 +59,12 @@ Congress finds the following:
 
 ## § 3. Congressional Gold Medals
 
-- **(a)** *Presentation authorized* The Speaker of the House of Representatives and the President pro tempore of the Senate shall make appropriate arrangements for the presentation, on behalf of Congress, of 5 gold medals of appropriate design as follows:
+- **(a)** *Presentation authorized* The Speaker of the House of Representatives and the President pro tempore of the Senate shall make appropriate arrangements for the presentation, on behalf of Congress, of five gold medals of appropriate design as follows:
   - **(1)** One gold medal to Katherine Johnson in recognition of her service to the United States as a mathematician.
   - **(2)** One gold medal to Dr. Christine Darden for her service to the United States as an aeronautical engineer.
   - **(3)** In recognition of their service to the United States during the Space Race—
-    - **(A)** 1 gold medal commemorating the life of Dorothy Vaughan; and
-    - **(B)** 1 gold medal commemorating the life of Mary Jackson.
+    - **(A)** one gold medal commemorating the life of Dorothy Vaughan; and
+    - **(B)** one gold medal commemorating the life of Mary Jackson.
   - **(4)** One gold medal in recognition of all women who served as computers, mathematicians, and engineers at the National Advisory Committee for Aeronautics and the National Aeronautics and Space Administration between the 1930s and the 1970s (referred to in this section as “recognized women”).
 - **(b)** *Design and striking* For the purpose of the awards under subsection (a), the Secretary of the Treasury (referred to in this Act as the “Secretary”) shall strike each gold medal described in that subsection with suitable emblems, devices, and inscriptions, to be determined by the Secretary.
 - **(c)** *Transfer of certain medals after presentation*
@@ -90,3 +90,7 @@ Under regulations that the Secretary may promulgate, the Secretary may strike an
 
 - **(a)** *Authority To use fund amounts* There is authorized to be charged against the United States Mint Public Enterprise Fund such amounts as may be necessary to pay for the costs of the medals struck under this Act.
 - **(b)** *Proceeds of sale* Amounts received from the sale of duplicate bronze medals authorized under section 4 shall be deposited into the United States Mint Public Enterprise Fund.
+
+## § 7. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
