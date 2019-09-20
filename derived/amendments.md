@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1423
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,7 +26,7 @@ to guess them.
 
 ### 26 U.S.C. § 62
 
-> in the section heading by striking “Chapter 1; residual application” and inserting “Application”, and
+> in the section heading by striking “Chapter 1; residual application” and inserting “Application”; and
 
 | | |
 |---|---|
@@ -35,7 +35,7 @@ to guess them.
 
 ### 26 U.S.C. § 62
 
-> in the section heading by striking “Chapter 1; residual application” and inserting “Application”, and
+> in the section heading by striking “Chapter 1; residual application” and inserting “Application”; and
 
 | | |
 |---|---|
@@ -52,9 +52,9 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `26 U.S.C. § 62` | add-at-end | Title 9 of the United States Code is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 62` | replace | in section 1 by striking “of seamen,” and all that follows through “interstate commerce,” and inserting in its place “of individuals, regardless of whether such individuals are designated as employees or independent contractors for other… | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 62` | insert | in section 2 by inserting “or as otherwise provided in chapter 4” before the period at the end, | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 62` | add-at-end | by adding at the end the following: “This chapter applies to the extent that this chapter is not in conflict with chapter 4.”, and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 62` | replace | in section 1 by striking “of seamen,” and all that follows through “interstate commerce” and inserting in its place “of individuals, regardless of whether such individuals are designated as employees or independent contractors for other … | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 62` | insert | in section 2 by inserting “or as otherwise provided in chapter 4” before the period at the end; | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 62` | add-at-end | by adding at the end the following: “This chapter applies to the extent that this chapter is not in conflict with chapter 4.”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 62` | add-at-end | by adding at the end the following: “This chapter applies to the extent that this chapter is not in conflict with chapter 4.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 62` | replace | The table of sections of chapter 2 of title 9, United States Code, is amended by striking the item relating to section 208 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 62` | replace | The table of sections of chapter 3 of title 9, United States Code, is amended by striking the item relating to section 307 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

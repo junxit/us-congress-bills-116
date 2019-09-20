@@ -17,7 +17,7 @@ This Act may be cited as the “Forced Arbitration Injustice Repeal Act” or th
 
 The purposes of this Act are to—
 
-- **(1)** prohibit predispute arbitration agreements that force arbitration of future employment, consumer, antitrust, or civil rights disputes, and
+- **(1)** prohibit predispute arbitration agreements that force arbitration of future employment, consumer, antitrust, or civil rights disputes; and
 - **(2)** prohibit agreements and practices that interfere with the right of individuals, workers, and small businesses to participate in a joint, class, or collective action related to an employment, consumer, antitrust, or civil rights dispute.
 
 ## § 3. Arbitration of employment, consumer, antitrust, and civil rights disputes
@@ -25,13 +25,13 @@ The purposes of this Act are to—
 - **(a)** *In general* Title 9 of the United States Code is amended by adding at the end the following:
 - **(b)** *Technical and conforming amendments*
   - **(1)** *In general* Title 9 of the United States Code is amended—
-    - **(A)** in section 1 by striking “of seamen,” and all that follows through “interstate commerce,” and inserting in its place “of individuals, regardless of whether such individuals are designated as employees or independent contractors for other purposes”,
-    - **(B)** in section 2 by inserting “or as otherwise provided in chapter 4” before the period at the end,
+    - **(A)** in section 1 by striking “of seamen,” and all that follows through “interstate commerce” and inserting in its place “of individuals, regardless of whether such individuals are designated as employees or independent contractors for other purposes”;
+    - **(B)** in section 2 by inserting “or as otherwise provided in chapter 4” before the period at the end;
     - **(C)** in section 208—
-      - **(i)** in the section heading by striking “Chapter 1; residual application” and inserting “Application”, and
-      - **(ii)** by adding at the end the following: “This chapter applies to the extent that this chapter is not in conflict with chapter 4.”, and
+      - **(i)** in the section heading by striking “Chapter 1; residual application” and inserting “Application”; and
+      - **(ii)** by adding at the end the following: “This chapter applies to the extent that this chapter is not in conflict with chapter 4.”; and
     - **(D)** in section 307—
-      - **(i)** in the section heading by striking “Chapter 1; residual application” and inserting “Application”, and
+      - **(i)** in the section heading by striking “Chapter 1; residual application” and inserting “Application”; and
       - **(ii)** by adding at the end the following: “This chapter applies to the extent that this chapter is not in conflict with chapter 4.”.
   - **(2)** *Table of sections*
     - **(A)** *Chapter 2* The table of sections of chapter 2 of title 9, United States Code, is amended by striking the item relating to section 208 and inserting the following:
@@ -41,3 +41,7 @@ The purposes of this Act are to—
 ## § 4. Effective date
 
 This Act, and the amendments made by this Act, shall take effect on the date of enactment of this Act and shall apply with respect to any dispute or claim that arises or accrues on or after such date.
+
+## § 5. Rule of construction
+
+Nothing in this Act, or the amendments made by this Act, shall be construed to prohibit the use of arbitration on a voluntary basis after the dispute arises.
