@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1423
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1423
@@ -257,3 +257,31 @@ FAIR Act
 - 2019-09-13 — Placed on the Union Calendar, Calendar No. 161.
 - 2019-09-13 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-204.
 - 2019-09-13 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-204.
+- 2019-09-17 — Rules Committee Resolution H. Res. 558 Reported to House. Rule provides for consideration of H.R. 1423 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The resolution waives the requirement of clause 6(a) of rule XIII for a two-thirds vote to consider a report from the Committee on Rules on the same day it is presented to the House with respect to any resolution reported through the legislative day of September 20, 2019, relating to a measure making or continuing appropriations for the fiscal year ending September 30, 2020. The resolution provides that it shall be in order at any time on the legislative day of September 19, 2019, or September 20, 2019, for the Speaker to entertain motions that the House suspend the rules.
+- 2019-09-18 — Rule H. Res. 558 passed House.
+- 2019-09-20 — Amendment (A001) offered by Mr. Jordan. (consideration: CR H7849-7850, H7851-7852; text: CR H7849)
+- 2019-09-20 — Amendment (A002) offered by Mrs. Fletcher. (consideration: CR H7850-7851; text: CR H7850)
+- 2019-09-20 — Amendment agreed to Committee of the Whole
+- 2019-09-20 — Amendment failed in Committee of the Whole
+- 2019-09-20 — Considered under the provisions of rule H. Res. 558. (consideration: CR H7840-7853)
+- 2019-09-20 — DEBATE - Pursuant to the provisions of H.Res. 558, the Committee of the Whole proceeded with 10 minutes of debate on the Fletcher amendment No. 2.
+- 2019-09-20 — DEBATE - Pursuant to the provisions of H.Res. 558, the Committee of the Whole proceeded with 10 minutes of debate on the Jordan amendment No. 1.
+- 2019-09-20 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1423.
+- 2019-09-20 — House amendment agreed to: On agreeing to the Fletcher amendment (A002) Agreed to by voice vote.
+- 2019-09-20 — House amendment not agreed to: On agreeing to the Jordan amendment (A001) Failed by recorded vote: 161 - 253 (Roll no. 539).
+- 2019-09-20 — House amendment offered
+- 2019-09-20 — House amendment offered
+- 2019-09-20 — House amendment offered/reported by: Amendment (A001) offered by Mr. Jordan.(consideration: CR H7849-7850, H7851-7852; text: CR H7849)
+- 2019-09-20 — House amendment offered/reported by: Amendment (A002) offered by Mrs. Fletcher.(consideration: CR H7850-7851; text: CR H7850)
+- 2019-09-20 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 558 and Rule XVIII.
+- 2019-09-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-09-20 — On agreeing to the Fletcher amendment (A002) Agreed to by voice vote.
+- 2019-09-20 — On agreeing to the Jordan amendment (A001) Failed by recorded vote: 161 - 253 (Roll no. 539).
+- 2019-09-20 — On passage Passed by recorded vote: 225 - 186 (Roll no. 540). (text: CR H7848-7849)
+- 2019-09-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jordan amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Jordan demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2019-09-20 — Passed/agreed to in House: On passage Passed by recorded vote: 225 - 186 (Roll no. 540).(text: CR H7848-7849)
+- 2019-09-20 — Roll call votes on amendments in House
+- 2019-09-20 — Rule provides for consideration of H.R. 1423 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The resolution waives the requirement of clause 6(a) of rule XIII for a two-thirds vote to consider a report from the Committee on Rules on the same day it is presented to the House with respect to any resolution reported through the legislative day of September 20, 2019, relating to a measure making or continuing appropriations for the fiscal year ending September 30, 2020. The resolution provides that it shall be in order at any time on the legislative day of September 19, 2019, or September 20, 2019, for the Speaker to entertain motions that the House suspend the rules.
+- 2019-09-20 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1423.
+- 2019-09-20 — The Speaker designated the Honorable Lauren Underwood to act as Chairwoman of the Committee.
+- 2019-09-20 — The previous question was ordered pursuant to the rule.
