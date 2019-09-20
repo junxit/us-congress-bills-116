@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 4454
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4454
+
+> To disclose the use of Federal funds with any privately held company owned by the President, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Disclosing Official Spending at Presidential Businesses Act”.
+
+## § 2. Disclosure of expenditure of Federal funds at businesses owned by the President
+
+- **(a)** *In general* The head of each Executive agency shall submit a quarterly report to the Director of the Office of Government Ethics listing each instance, during the most recently ended quarter, that the Executive agency obligated or expended Federal funds with any privately held company that is owned, either in whole or in part, directly or indirectly, including through trusts, by the President. With respect to each such instance, the report shall include—
+  - **(1)** the amount of the obligation or expenditure; and
+  - **(2)** the name of the company.
+- **(b)** *Publication* Not later than 10 days after receiving a report under subsection (a), the Director shall publish the report on the Office’s public internet website.
+- **(c)** *Definition of Executive agency* In this section, the term “Executive agency” has the meaning given that term in section 105 of title 5, United States Code, and includes the United States Postal Service, the Postal Regulatory Commission, the White House, and the Executive Office of the President.
