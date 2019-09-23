@@ -1,7 +1,7 @@
 ---
 measure: H.R. 550
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 550
@@ -321,9 +321,10 @@ No War Against Iran Act
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 - Rep. Cline, Ben [R-VA-6] (C001118)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -337,3 +338,4 @@ No War Against Iran Act
 - 2019-09-19 — Ms. Waters moved to suspend the rules and pass the bill, as amended.
 - 2019-09-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7807-7808)
 - 2019-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7807-7808)
+- 2019-09-23 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
