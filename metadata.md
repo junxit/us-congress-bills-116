@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1830
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1830
@@ -326,9 +326,10 @@ National Purple Heart Hall of Honor Commemorative Coin Act
 - Rep. McHenry, Patrick T. [R-NC-10] (M001156)
 - Rep. Cline, Ben [R-VA-6] (C001118)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -341,3 +342,4 @@ National Purple Heart Hall of Honor Commemorative Coin Act
 - 2019-09-19 — Mr. San Nicolas moved to suspend the rules and pass the bill, as amended.
 - 2019-09-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7816)
 - 2019-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7816)
+- 2019-09-23 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
