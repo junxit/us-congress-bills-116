@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3619
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3619
@@ -22,9 +22,10 @@ Appraisal Fee Transparency Act of 2019
 - Rep. Cleaver, Emanuel [D-MO-5] (C001061)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Appraisal Fee Transparency Act of 2019
 - 2019-09-19 — Ms. Waters moved to suspend the rules and pass the bill, as amended.
 - 2019-09-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7804)
 - 2019-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7804)
+- 2019-09-23 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
