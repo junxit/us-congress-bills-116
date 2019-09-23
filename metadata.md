@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3589
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3589
@@ -338,3 +338,14 @@ Greg LeMond Congressional Gold Medal Act
 - 2019-09-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7814-7815)
 - 2019-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7814-7815)
 - 2019-09-23 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2020-11-16 — Passed Senate without amendment by Unanimous Consent.
+- 2020-11-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-11-16 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S6693)
+- 2020-11-16 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S6693)
+- 2020-11-17 — Message on Senate action sent to the House.
+- 2020-11-24 — Presented to President.
+- 2020-11-24 — Presented to President.
+- 2020-12-04 — Became Public Law No: 116-208.
+- 2020-12-04 — Became Public Law No: 116-208.
+- 2020-12-04 — Signed by President.
+- 2020-12-04 — Signed by President.
