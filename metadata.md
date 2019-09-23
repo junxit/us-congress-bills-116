@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2486
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2486
@@ -62,3 +62,6 @@ Fostering Undergraduate Talent by Unlocking Resources for Education Act
 - 2019-09-17 — Ms. Adams moved to suspend the rules and pass the bill, as amended.
 - 2019-09-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7734-7735)
 - 2019-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7734-7735)
+- 2019-09-18 — Received in the Senate.
+- 2019-09-19 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2019-09-23 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 212.
