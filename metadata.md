@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1396
 congress: 116
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1396
@@ -352,3 +352,12 @@ Hidden Figures Congressional Gold Medal Act
 - 2019-09-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7812-7813)
 - 2019-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7812-7813)
 - 2019-09-23 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 214.
+- 2019-10-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5904)
+- 2019-10-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5904)
+- 2019-10-21 — Message on Senate action sent to the House.
+- 2019-10-29 — Presented to President.
+- 2019-10-29 — Presented to President.
+- 2019-11-08 — Became Public Law No: 116-68.
+- 2019-11-08 — Became Public Law No: 116-68.
+- 2019-11-08 — Signed by President.
+- 2019-11-08 — Signed by President.
