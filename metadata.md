@@ -1,7 +1,7 @@
 ---
 measure: S. 1340
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1340
@@ -16,11 +16,14 @@ Ebola Eradication Act of 2019
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (3)
+## Cosponsors (6)
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Lee, Mike [R-UT] (L000577)
 
 ## Committees (1)
 
@@ -34,3 +37,13 @@ Ebola Eradication Act of 2019
 - 2019-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
 - 2019-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
 - 2019-06-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 102.
+- 2019-08-01 — Senate amendment submitted
+- 2019-09-23 — Amendment SA 940 agreed to in Senate by Unanimous Consent.
+- 2019-09-23 — Amendment SA 940 proposed by Senator Rubio for Senator Menendez. (consideration: CR S5633; text: CR S5633) To modify the authority to provide assistance.
+- 2019-09-23 — Measure laid before Senate by unanimous consent. (consideration: CR S5632-5633)
+- 2019-09-23 — Passed Senate with an amendment by Unanimous Consent. (text: CR S5633)
+- 2019-09-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S5633)
+- 2019-09-23 — Senate amendment agreed to: Amendment SA 940 agreed to in Senate by Unanimous Consent.
+- 2019-09-23 — Senate amendment proposed (on the floor): Amendment SA 940 proposed by Senator Rubio for Senator Menendez.(consideration: CR S5633; text: CR S5633)
+- 2019-09-23 — Senate amendment submitted
+- 2019-09-23 — The committee substitute as amended agreed to by Unanimous Consent.
