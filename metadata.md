@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1396
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1396
@@ -351,3 +351,4 @@ Hidden Figures Congressional Gold Medal Act
 - 2019-09-19 — Mr. San Nicolas moved to suspend the rules and pass the bill, as amended.
 - 2019-09-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7812-7813)
 - 2019-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7812-7813)
+- 2019-09-23 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 214.
