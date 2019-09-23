@@ -19,13 +19,13 @@ Section 719 of title 31, United States Code, is amended by adding at the end the
 
 > - **(i)**
 >   - **(1)** In this subsection—
->     - **(A)** the term “covered bill or resolution” means a bill or joint resolution of a public character reported by any committee of Congress (including the Committee on Appropriations and the Committee on the Budget of either House);
+>     - **(A)** the term “covered bill or joint resolution” means a bill or joint resolution of a public character reported by any committee of Congress (including the Committee on Appropriations and the Committee on the Budget of either House);
 >     - **(B)** the term “Director” means the Director of the Congressional Budget Office;
->     - **(C)** the term “existing duplicative or overlapping feature” means an element of the Federal Government previously identified in a GAO duplication and overlap report;
->     - **(D)** the term GAO duplication and overlap report means each annual report prepared by the Comptroller General under section 21 of the Joint Resolution entitled “Joint Resolution increasing the statutory limit on the public debt”, approved February 12, 2010 (31 U.S.C. 712 note); and
+>     - **(C)** the term “existing duplicative or overlapping feature” means an element of the Federal Government previously identified as an area of duplication, overlap, or fragmentation in a GAO duplication and overlap report;
+>     - **(D)** the term GAO duplication and overlap report means each annual report prepared by the Comptroller General under section 21 of the Joint Resolution entitled “Joint Resolution increasing the statutory limit on the public debt”, approved February 12, 2010 Public Law 111–139 (31 U.S.C. 712 note); and
 >     - **(E)** the term “new duplicative or overlapping feature” means a new Federal program, office, or initiative created under a covered bill or joint resolution that would duplicate or overlap with an existing duplicative or overlapping feature.
 >   - **(2)** For each covered bill or joint resolution—
->     - **(A)** the Comptroller General shall—
+>     - **(A)** the Comptroller General shall, to the extent practicable—
 >       - **(i)** prepare an assessment—
 >         - **(I)** to determine whether the covered bill or joint resolution creates a new duplicative or overlapping feature; and
 >         - **(II)** if the covered bill or joint resolution creates a new duplicative or overlapping feature, that includes—
@@ -34,9 +34,14 @@ Section 719 of title 31, United States Code, is amended by adding at the end the
 >             - **(AA)** the section of the covered bill or joint resolution at which the new duplicative or overlapping feature is established; and
 >             - **(BB)** the GAO duplication and overlap report in which the existing duplicative or overlapping feature is identified;
 >       - **(ii)** submit the assessment prepared under clause (i) to the Director; and
->       - **(iii)** publish the assessment prepared under clause (i) on the website of the Government Accountability Office; and
->     - **(B)** subject to paragraph (3), the Director may include the assessment submitted by the Comptroller General under subparagraph (A)(ii) with the estimate for the covered bill or joint resolution to which the assessment pertains submitted by the Director under section 402 of the Congressional Budget Act of 1974 (2 U.S.C. 653).
->   - **(3)** If the Comptroller General has not submitted to the Director an assessment for a covered bill or joint resolution under paragraph (2)(A)(ii) on the date on which the Director submits the estimate for the covered bill or joint resolution to which the assessment pertains under section 402 of the Congressional Budget Act of 1974 (2 U.S.C. 653), the Director may, on the date on which the Comptroller General submits the assessment to the Director, prepare and submit to each applicable committee a version of the estimate for the covered bill or joint resolution that includes the assessment.
+>       - **(i)** determine the extent to which the covered bill or joint resolution creates a risk of a new duplicative or overlapping feature and, if the risk so warrants, identify—
+>         - **(I)** the name of the new Federal program, office, or initiative;
+>         - **(II)** the section of the covered bill or joint resolution at which the new duplicative or overlapping feature is established; and
+>         - **(III)** the GAO duplication and overlap report in which the existing duplicative or overlapping feature is identified; and
+>       - **(ii)** submit the information described in clause (i) to the Director and the committee that reported the covered bill or joint resolution; and
+>       - **(iii)** publish the assessment information prepared under clause (i) on the website of the Government Accountability Office; and
+>     - **(B)** subject to paragraph (3), the Director may include the assessment information submitted by the Comptroller General under subparagraph (A)(ii) with as a supplement to the estimate for the covered bill or joint resolution to which the assessment information pertains submitted by the Director under section 402 of the Congressional Budget Act of 1974 (2 U.S.C. 653).
+>   - **(3)** If the Comptroller General has not submitted to the Director an assessment the information for a covered bill or joint resolution under paragraph (2)(A)(ii) on the date on which the Director submits the estimate for the covered bill or joint resolution to which the assessment information pertains under section 402 of the Congressional Budget Act of 1974 (2 U.S.C. 653), the Director may, on the date on which the Comptroller General submits the assessment information to the Director, prepare and submit to each applicable committee a version of the estimate for the covered bill or joint resolution that includes the assessment. the information as a supplement to the estimate for the covered bill or joint resolution.
 
 ## § 3. Effective date
 
