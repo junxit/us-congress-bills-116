@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4378
 congress: 116
-version: Placed on Calendar Senate
+version: Enrolled Bill
 derived: true
 ---
 
