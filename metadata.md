@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2290
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2290
@@ -16,9 +16,10 @@ Shutdown Guidance for Financial Institutions Act
 
 - Rep. Wexton, Jennifer [D-VA-10] (W000825)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -31,3 +32,4 @@ Shutdown Guidance for Financial Institutions Act
 - 2019-09-19 — Ms. Waters moved to suspend the rules and pass the bill, as amended.
 - 2019-09-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7805-7806)
 - 2019-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7805-7806)
+- 2019-09-23 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
