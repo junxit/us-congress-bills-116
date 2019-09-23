@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3589
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3589
@@ -320,9 +320,10 @@ Greg LeMond Congressional Gold Medal Act
 - Rep. Finkenauer, Abby [D-IA-1] (F000467)
 - Rep. McHenry, Patrick T. [R-NC-10] (M001156)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -336,3 +337,4 @@ Greg LeMond Congressional Gold Medal Act
 - 2019-09-19 — Mr. San Nicolas moved to suspend the rules and pass the bill, as amended.
 - 2019-09-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7814-7815)
 - 2019-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7814-7815)
+- 2019-09-23 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
