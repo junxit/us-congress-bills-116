@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4378
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4378
@@ -39,3 +39,4 @@ Continuing Appropriations Act, 2020, and Health Extenders Act of 2019
 - 2019-09-19 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2019-09-19 — Rules Committee Resolution H. Res. 564 Reported to House. Rule provides for consideration of H.R. 4378 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
 - 2019-09-19 — The previous question was ordered pursuant to the rule.
+- 2019-09-23 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 213.
