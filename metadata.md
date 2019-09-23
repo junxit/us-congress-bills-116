@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4378
 congress: 116
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4378
@@ -36,3 +36,20 @@ Continuing Appropriations Act, 2020, and Health Extenders Act of 2019
 - 2019-09-19 — Rules Committee Resolution H. Res. 564 Reported to House. Rule provides for consideration of H.R. 4378 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
 - 2019-09-19 — The previous question was ordered pursuant to the rule.
 - 2019-09-23 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 213.
+- 2019-09-25 — Senate amendment submitted
+- 2019-09-26 — Amendment SA 942 not agreed to in Senate by Yea-Nay Vote. 24 - 73. Record Vote Number: 310.
+- 2019-09-26 — Amendment SA 942 proposed by Senator Paul. (consideration: CR S5722-5723; text: CR S5722) To reduce the amount appropriated by 2 percent.
+- 2019-09-26 — Measure laid before Senate by unanimous consent. (consideration: CR S5713-5715, S5722-5723)
+- 2019-09-26 — Message on Senate action sent to the House.
+- 2019-09-26 — Passed Senate, under the order of 9/25/19, having achieved 60 votes in the affirmative, without amendment by Yea-Nay Vote. 81 - 16. Record Vote Number: 311.
+- 2019-09-26 — Passed/agreed to in Senate: Passed Senate, under the order of 9/25/19, having achieved 60 votes in the affirmative, without amendment by Yea-Nay Vote. 81 - 16. Record Vote Number: 311.
+- 2019-09-26 — Roll call votes on amendments in Senate: Amendment SA 942 not agreed to in Senate by Yea-Nay Vote. 24 - 73. Record Vote Number: 310.
+- 2019-09-26 — Senate amendment not agreed to: Amendment SA 942 not agreed to in Senate by Yea-Nay Vote. 24 - 73. Record Vote Number: 310.
+- 2019-09-26 — Senate amendment proposed (on the floor): Amendment SA 942 proposed by Senator Paul.(consideration: CR S5722-5723; text: CR S5722)
+- 2019-09-26 — Senate amendment submitted
+- 2019-09-27 — Became Public Law No: 116-59.
+- 2019-09-27 — Became Public Law No: 116-59.
+- 2019-09-27 — Presented to President.
+- 2019-09-27 — Presented to President.
+- 2019-09-27 — Signed by President.
+- 2019-09-27 — Signed by President.
