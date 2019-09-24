@@ -1,7 +1,7 @@
 ---
 measure: S. 1706
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1706
@@ -16,9 +16,10 @@ Energy Savings Through Public-Private Partnerships Act of 2019
 
 - Sen. Gardner, Cory [R-CO] (G000562)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Energy Savings Through Public-Private Partnerships Act of 2019
 
 - 2019-06-04 — Introduced in Senate
 - 2019-06-04 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2019-07-16 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2019-09-24 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 116-116.
+- 2019-09-24 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 116-116.
+- 2019-09-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 219.
