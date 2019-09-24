@@ -44,13 +44,13 @@ Section 811 of the Public Health Service Act (42 U.S.C. 296j) is amended—
   >   - **(2)** have as their objective the education of clinical nurse specialists who will upon completion of such a program be qualified to effectively provide care through the wellness and illness continuum to inpatients and outpatients experiencing acute and chronic illness.
 
 - **(4)** by adding at the end the following:
-  > - **(i)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section $74,581,000 for each of fiscal years 2020 through 2024.
+  > - **(i)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section $77,585,000 for each of fiscal years 2020 through 2024.
 
 ## § 4. Increasing nursing workforce diversity
 
 Section 821 of the Public Health Service Act (42 U.S.C. 296m) is amended by adding at the end the following:
 
-> - **(d)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section $17,343,000 for each of fiscal years 2020 through 2024.
+> - **(d)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section $18,037,000 for each of fiscal years 2020 through 2024.
 
 ## § 5. Strengthening capacity for basic nurse education and practice
 
@@ -75,7 +75,7 @@ Section 821 of the Public Health Service Act (42 U.S.C. 296m) is amended by addi
     >   - **(1)** *Eligible entity* The term eligible entity includes an accredited school of nursing, a health care facility, a partnership of such a school and facility, a federally qualified health center, or a nurse-managed health clinic.
     >   - **(2)** *Nurse-managed health clinic* The term nurse-managed health clinic means a nurse-practice arrangement, managed by advanced practice nurses, that provides primary care or wellness services to underserved or vulnerable populations that is associated with a school, college, university or department of nursing, federally qualified health center, or independent nonprofit health or social services agency.
 
-  - **(8)** in subsection (g), as redesignated by paragraph (5), by striking “such sums as may be necessary for each of fiscal years 2010 through 2014” and inserting “$41,913,000 for each of fiscal years 2020 through 2024”.
+  - **(8)** in subsection (g), as redesignated by paragraph (5), by striking “such sums as may be necessary for each of fiscal years 2010 through 2014” and inserting “$43,590,000 for each of fiscal years 2020 through 2024”.
 - **(b)** *Nurse retention grants* Section 831A of the Public Health Service Act (42 U.S.C. 296p–1) is repealed.
 
 ## § 6. Student loans
@@ -84,8 +84,8 @@ Section 821 of the Public Health Service Act (42 U.S.C. 296m) is amended by addi
   - **(1)** in subsection (b)(1), by striking “he began such practice” and inserting “the individual began such practice”;
   - **(2)** in subsection (d)(1), by striking “(for fiscal years 2003 and 2004) and may (for fiscal years thereafter)”;
   - **(3)** in subsection (h), in the matter preceding paragraph (1), by striking “Not later than” through “regarding” and inserting “The annual report on nursing workforce programs, as required by section 806(i), shall include information regarding the programs carried out under this section, including”; and
-  - **(4)** in subsection (i)(1), by striking “such sums as may be necessary for each of fiscal years 2003 through 2007” and inserting “$87,135,000 for each of fiscal years 2020 through 2024”.
-- **(b)** *Nurse faculty loan program* Section 846A of the Public Health Service Act (42 U.S.C. 297n–1) is amended by striking “such sums as may be necessary for each of fiscal years 2010 through 2014” and inserting “$28,500,000 for each of fiscal years 2020 through 2024”.
+  - **(4)** in subsection (i)(1), by striking “such sums as may be necessary for each of fiscal years 2003 through 2007” and inserting “$90,620,000 for each of fiscal years 2020 through 2024”.
+- **(b)** *Nurse faculty loan program* Section 846A(f) of the Public Health Service Act (42 U.S.C. 297n–1(f)) is amended by striking “such sums as may be necessary for each of fiscal years 2010 through 2014” and inserting “$29,640,000 for each of fiscal years 2020 through 2024”.
 
 ## § 7. National Advisory Council on Nurse Education and Practice
 
@@ -101,3 +101,4 @@ Section 851 of the Public Health Service Act (42 U.S.C. 297t) is amended—
 
 - **(a)** *Public service announcements* Part G of title VIII of the Public Health Service Act (42 U.S.C. 297w et seq.) is repealed.
 - **(b)** *Funding* Part I of title VIII of the Public Health Service Act (42 U.S.C. 298d) is repealed.
+- **(c)** *Eliminating limitation on assignment* Section 846(a) of the Public Health Service Act (42 U.S.C. 297n(a)) is amended, in the matter following paragraph (3), by striking “After fiscal year 2007,” and all that follows through the period at the end.
