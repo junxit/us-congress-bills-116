@@ -1,7 +1,7 @@
 ---
 measure: H.R. 728
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-30 amendatory instructions. 11 executed, 19 stated and not applied.
+31 amendatory instructions. 11 executed, 20 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -62,12 +62,12 @@ to guess them.
 
 ### 42 U.S.C. § 296p
 
-> in subsection (g), as redesignated by paragraph (5), by striking “such sums as may be necessary for each of fiscal years 2010 through 2014” and inserting “$41,913,000 for each of fiscal years 2020 through 2024”.
+> in subsection (g), as redesignated by paragraph (5), by striking “such sums as may be necessary for each of fiscal years 2010 through 2014” and inserting “$43,590,000 for each of fiscal years 2020 through 2024”.
 
 | | |
 |---|---|
 | Removed | `such sums as may be necessary for each of fiscal years 2010 through 2014` |
-| Inserted | `$41,913,000 for each of fiscal years 2020 through 2024` |
+| Inserted | `$43,590,000 for each of fiscal years 2020 through 2024` |
 
 ### 42 U.S.C. § 297n
 
@@ -89,21 +89,21 @@ to guess them.
 
 ### 42 U.S.C. § 297n
 
-> in subsection (i)(1), by striking “such sums as may be necessary for each of fiscal years 2003 through 2007” and inserting “$87,135,000 for each of fiscal years 2020 through 2024”.
+> in subsection (i)(1), by striking “such sums as may be necessary for each of fiscal years 2003 through 2007” and inserting “$90,620,000 for each of fiscal years 2020 through 2024”.
 
 | | |
 |---|---|
 | Removed | `such sums as may be necessary for each of fiscal years 2003 through 2007` |
-| Inserted | `$87,135,000 for each of fiscal years 2020 through 2024` |
+| Inserted | `$90,620,000 for each of fiscal years 2020 through 2024` |
 
 ### 42 U.S.C. § 297n-1
 
-> Section 846A of the Public Health Service Act (42 U.S.C. 297n–1) is amended by striking “such sums as may be necessary for each of fiscal years 2010 through 2014” and inserting “$28,500,000 for each of fiscal years 2020 through 2024”.
+> Section 846A(f) of the Public Health Service Act (42 U.S.C. 297n–1(f)) is amended by striking “such sums as may be necessary for each of fiscal years 2010 through 2014” and inserting “$29,640,000 for each of fiscal years 2020 through 2024”.
 
 | | |
 |---|---|
 | Removed | `such sums as may be necessary for each of fiscal years 2010 through 2014` |
-| Inserted | `$28,500,000 for each of fiscal years 2020 through 2024` |
+| Inserted | `$29,640,000 for each of fiscal years 2020 through 2024` |
 
 ### 42 U.S.C. § 297t
 
@@ -151,3 +151,4 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 297t` | amend | in subsection (d), by amending paragraph (3) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 297w` | repeal | Part G of title VIII of the Public Health Service Act (42 U.S.C. 297w et seq.) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 298d` | repeal | Part I of title VIII of the Public Health Service Act (42 U.S.C. 298d) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 297n` | strike | Section 846(a) of the Public Health Service Act (42 U.S.C. 297n(a)) is amended, in the matter following paragraph (3), by striking “After fiscal year 2007,” and all that follows through the period at the end. | the bill quotes the text struck but describes what replaces it |
