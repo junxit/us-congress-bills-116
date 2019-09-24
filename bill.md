@@ -17,38 +17,43 @@ This Act may be cited as the “Southeast Asia Strategy Act”.
 
 Congress finds the following:
 
-- **(1)** Southeast Asia is the fulcrum of the Indo-Pacific region and the Association of Southeast Asian Nations (ASEAN), a regional intergovernmental organization, remains the centerpiece of the Indo-Pacific region’s architecture.
-- **(2)** The United States has reaffirmed that the security and sovereignty of its Southeast Asian allies and partners, including a strong, independent ASEAN, remain vital to the security, prosperity, and stability of the Indo-Pacific region.
-- **(3)** The United States has committed to reinvigorating its longstanding security alliances with the Philippines and Thailand, as well as bolstering partnerships with a range of Southeast Asian nations.
-- **(4)** A central element of United States strategy for the Indo-Pacific region is strengthening United States alliances and partnerships and working with and through allies and partners to address common challenges and to enhance shared capabilities.
-- **(5)** ASEAN member states are critical United States security partners in preventing violent extremism, protecting the freedom and openness of the maritime domain, engaging in global peacekeeping operations, and preventing the trafficking of weapons of mass destruction.
-- **(6)** ASEAN member states are vital to the prosperity of the United States economy and exports to ASEAN economies support more than 500,000 jobs in the United States.
-- **(7)** The United States and ASEAN have recently celebrated the 40th anniversary of their ties and established a new strategic partnership that will enhance cooperation across the economic, political-security, and people-to-people pillars of the relationship.
+- **(1)** Southeast Asia is the fulcrum of the Indo-Pacific region, providing both a geographic and maritime link between East and South Asia.
+- **(2)** The Association of Southeast Asian Nations (ASEAN), a regional intergovernmental organization, remains central to the Indo-Pacific region’s institutional architecture and to United States foreign policy toward the region.
+- **(3)** The United States has reaffirmed that the security and sovereignty of its Southeast Asian allies and partners, including a strong, independent ASEAN, remain vital to the security, prosperity, and stability of the Indo-Pacific region.
+- **(4)** The United States has committed to continuing to deepen longstanding alliances and partnerships with a range of Southeast Asian nations, including by promoting our shared values, democracy, human rights, and civil society.
+- **(5)** Since the end of the Second World War, United States investments in strengthening alliances and partnerships with Southeast Asian nations have yielded tremendous returns for United States interests, as working with and through these alliances and partnerships have increased the region’s capacity and capability to address common challenges.
+- **(6)** ASEAN member states are critical United States security partners in preventing violent extremism and protecting the freedom and openness of the maritime domain and in preventing the trafficking of weapons of mass destruction.
+- **(7)** ASEAN member states have contributed significantly to regional disaster monitoring and management and emergency response through initiatives such as the ASEAN Coordinating Centre for Humanitarian Assistance on Disaster Management, an inter-governmental organization that facilitates coordination and cooperation among ASEAN member states and international organizations in times of emergency.
+- **(8)** According to the 2018 ASEAN Business Outlook Survey, ASEAN member states are vital to the prosperity of the United States economy and exports to ASEAN economies support more than 500,000 jobs in the United States.
+- **(9)** The United States and ASEAN have recently celebrated the 40th anniversary of their ties and established a new strategic partnership that will enhance cooperation across the economic, political-security, and people-to-people pillars of the relationship.
 
 ## § 3. Statement of policy
 
 It is the policy of the United States to—
 
-- **(1)** cooperate more closely with the ASEAN and ASEAN member states in the interest of promoting peace, security, and stability in the Indo-Pacific region;
-- **(2)** establish and communicate a comprehensive and focused strategy that articulates the role and importance of Southeast Asia to the United States, the value of the United States-ASEAN relationship, the mutual interests of both parties, and the concrete and material benefits all nations derive from strong United States engagement and leadership in Southeast Asia; and
-- **(3)** affirm the importance of ASEAN centrality and ASEAN-led mechanisms in the evolving regional architecture of the Indo-Pacific region.
+- **(1)** deepen cooperation with ASEAN and ASEAN member states in the interest of promoting peace, security, and stability in the Indo-Pacific region;
+- **(2)** affirm the importance of ASEAN centrality and ASEAN-led mechanisms in the evolving institutional architecture of the Indo-Pacific region; and
+- **(3)** establish and communicate a comprehensive strategy toward the Indo-Pacific region that articulates—
+  - **(A)** the role and importance of Southeast Asia to the United States;
+  - **(B)** the value of the United States-ASEAN relationship;
+  - **(C)** the mutual interests of all parties;
+  - **(D)** the concrete and material benefits all nations derive from strong United States engagement and leadership in Southeast Asia; and
+  - **(E)** efforts to forge and maintain ASEAN consensus, especially on key issues of political and security concern to the region, such as the South China Sea.
 
 ## § 4. Strategy for engagement with Southeast Asia and ASEAN
 
-- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, the Secretary of State, in consultation with the Secretary of Commerce and the Secretary of Defense, shall develop and submit to the appropriate congressional committees a comprehensive and focused multi-year strategy for engagement with Southeast Asia and ASEAN.
+- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, the Secretary of State, in consultation with the heads of other Federal departments and agencies as appropriate, shall develop and submit to the appropriate congressional committees a comprehensive strategy for engagement with Southeast Asia and ASEAN.
 - **(b)** *Matters To be included* The strategy required by subsection (a) shall include the following:
-  - **(1)** An identification of enduring United States interests in Southeast Asia and efforts to bolster the effectiveness of ASEAN as an independent and unified regional leader.
-  - **(2)** An identification of—
-    - **(A)** the future of Southeast Asian alliances, partnerships, and multilateral engagements, including efforts to expand security interoperability and economic connectivity, and build networks of allies and partners with other United States partners in the Indo-Pacific region; and
-    - **(B)** partners outside ASEAN that support United States interests in Southeast Asia, such as an ASEAN-centered and rules-based order, including multilateral efforts to coordinate engagement with ASEAN.
-  - **(3)** A list of ongoing and planned initiatives and programs to strengthen the United States partnership with Southeast Asian countries and ASEAN through trade, investment, energy, and economic and political diplomacy in Southeast Asia and through development and capacity building, including efforts to improve the environment for private sector-led economic development, public-private partnerships, infrastructure development, development of the digital economy and technology, and other initiatives relating to education, disaster management, and public health.
-  - **(4)** An assessment of ongoing and planned initiatives to directly assist Southeast Asian countries and ASEAN in developing institutional capabilities, including with respect to enforcing international law and sanctions, and initiatives to cooperate with ASEAN as an institution in these areas.
-  - **(5)** An assessment of ongoing and planned efforts to promote and engage with Southeast Asian countries on human rights and democracy, to strengthen the rule of law, civil society, and transparent governance, and to protect the integrity of elections and personal data from cyber threats.
-  - **(6)** An assessment of ongoing and planned security cooperation, assistance, and training initiatives within Southeast Asian countries, including—
-    - **(A)** maritime security and political initiatives for protecting the maritime commons and supporting international law and freedom of navigation in the South China Sea; and
-    - **(B)** efforts to combat terrorism, human trafficking, piracy, and illegal fishing, and promote more open, reliable routes for trade.
-  - **(7)** An assessment of ongoing and planned funding for relevant United States Government departments and agencies on the implementation of initiatives highlighted in the strategy and an identification of additional strategic, management, procedural, legal, personnel, and funding resources needed to fully implement the strategy.
-- **(c)** *Updates to strategy* The Secretary of State, in consultation with the Secretary of Commerce and the Secretary of Defense, shall submit to the appropriate congressional committees an updated strategy under subsection (a) for each of the four years following the year in which the initial strategy is submitted under subsection (a).
-- **(d)** *Appropriate congressional committees defined* In this section, the term appropriate congressional committees means—
+  - **(1)** A statement of enduring United States interests in Southeast Asia and a description of efforts to bolster the effectiveness of ASEAN.
+  - **(2)** A description of efforts to—
+    - **(A)** deepen and expand Southeast Asian alliances, partnerships, and multilateral engagements, including efforts to expand broad based and inclusive economic growth, security ties, security cooperation and interoperability, economic connectivity, and expand opportunities for ASEAN to work with other like-minded partners in the region; and
+    - **(B)** encourage like-minded partners outside of the Indo-Pacific region to engage with ASEAN.
+  - **(3)** A summary of initiatives across the whole of the United States Government to strengthen the United States partnership with Southeast Asian nations and ASEAN, including to promote broad based and inclusive economic growth, trade, investment, energy and efforts to combat climate change, public-private partnerships, physical and digital infrastructure development, education, disaster management, public health and economic and political diplomacy in Southeast Asia.
+  - **(4)** A summary of initiatives across the whole of the United States Government to enhance the capacity of Southeast Asian nations with respect to enforcing international law and multilateral sanctions, and initiatives to cooperate with ASEAN as an institution in these areas.
+  - **(5)** A summary of initiatives across the whole of the United States Government to promote human rights and democracy, to strengthen the rule of law, civil society, and transparent governance, and to protect the integrity of elections from outside influence.
+  - **(6)** A summary of initiatives to promote security cooperation and security assistance within Southeast Asian nations, including—
+    - **(A)** maritime security and maritime domain awareness initiatives for protecting the maritime commons and supporting international law and freedom of navigation in the South China Sea; and
+    - **(B)** efforts to combat terrorism, human trafficking, piracy, and illegal fishing, and promote more open, reliable routes for sea lines of communication.
+- **(c)** *Appropriate congressional committees defined* In this section, the term appropriate congressional committees means—
   - **(1)** the Committee on Foreign Affairs and the Committee on Armed Services of the House of Representatives; and
   - **(2)** the Committee on Foreign Relations and the Committee on Armed Services of the Senate.
