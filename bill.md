@@ -2,7 +2,7 @@
 legis-num: H. RES. 127
 congress: 116th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 127
@@ -32,6 +32,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas section 211 of the North Korea Sanctions and Policy Enhancement Act of 2016 (22 U.S.C. 9231; Public Law 114–122) expresses the sense of Congress that the President “should seek to strengthen high-level trilateral mechanisms for discussion and coordination of policy toward North Korea between the Government of the United States, the Government of South Korea, and the Government of Japan”;
 - Whereas the Asia Reassurance Initiative Act of 2018 (Public Law 115–409) underscores the importance of trilateral defense cooperation and enforcement of multilateral sanctions against North Korea and calls for regular consultation with Congress on the status of such efforts;
 - Whereas the United States, Japan, and the Republic of Korea have made great strides in promoting trilateral cooperation and defense partnership, including ministerial meetings, information sharing, and cooperation on ballistic missile defense exercises to counter North Korean provocations;
+- Whereas the United States views the General Security of Military Information Agreement (GSOMIA) between the Republic of Korea and Japan as important to United States security interests in the region, and trilateral information sharing as a critical aspect of cooperation between our allies;
 - Whereas Japanese Americans and Korean Americans have made invaluable contributions to the security, prosperity, and diversity of our Nation, including service as our elected representatives in the Senate and in the House of Representatives; and
 - Whereas the United States Government looks forward to continuing to deepen our enduring partnerships with Japan and the Republic of Korea on economic, security, and cultural issues, as well as embracing new opportunities for bilateral and trilateral partnerships and cooperation on emerging regional and global challenges: Now, therefore, be it
 
