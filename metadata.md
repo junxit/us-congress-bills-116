@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2229
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2229
@@ -16,7 +16,7 @@ First Responders Passport Act of 2019
 
 - Rep. Chabot, Steve [R-OH-1] (C000266)
 
-## Cosponsors (15)
+## Cosponsors (22)
 
 - Rep. Boyle, Brendan F. [D-PA-2] (B001296)
 - Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
@@ -33,6 +33,13 @@ First Responders Passport Act of 2019
 - Rep. Dingell, Debbie [D-MI-12] (D000624)
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 - Rep. Swalwell, Eric [D-CA-15] (S001193)
+- Rep. Cicilline, David N. [D-RI-1] (C001084)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Wild, Susan [D-PA-7] (W000826)
+- Rep. Phillips, Dean [D-MN-3] (P000616)
+- Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
+- Rep. Delgado, Antonio [D-NY-19] (D000630)
 
 ## Committees (1)
 
@@ -43,3 +50,12 @@ First Responders Passport Act of 2019
 - 2019-04-10 — Introduced in House
 - 2019-04-10 — Introduced in House
 - 2019-04-10 — Referred to the House Committee on Foreign Affairs.
+- 2019-06-20 — Committee Agreed to Seek Consideration Under Suspension of the Rules.
+- 2019-06-20 — Committee Consideration and Mark-up Session Held.
+- 2019-06-20 — Ordered to be Reported (Amended) by Voice Vote.
+- 2019-09-24 — Considered under suspension of the rules. (consideration: CR H7874-7875)
+- 2019-09-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2229.
+- 2019-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-09-24 — Mr. Levin (MI) moved to suspend the rules and pass the bill, as amended.
+- 2019-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7874)
+- 2019-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7874)
