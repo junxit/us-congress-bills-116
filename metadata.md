@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 313
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 313
@@ -16,7 +16,7 @@ A resolution designating the week of September 22 through September 28, 2019, as
 
 - Sen. Hyde-Smith, Cindy [R-MS] (H001079)
 
-## Cosponsors (11)
+## Cosponsors (14)
 
 - Sen. Jones, Doug [D-AL] (J000300)
 - Sen. Young, Todd [R-IN] (Y000064)
@@ -29,6 +29,9 @@ A resolution designating the week of September 22 through September 28, 2019, as
 - Sen. Cantwell, Maria [D-WA] (C000127)
 - Sen. Sinema, Kyrsten [D-AZ] (S001191)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Cruz, Ted [R-TX] (C001098)
 
 ## Committees (1)
 
@@ -38,3 +41,7 @@ A resolution designating the week of September 22 through September 28, 2019, as
 
 - 2019-09-17 — Introduced in Senate
 - 2019-09-17 — Referred to the Committee on the Judiciary.
+- 2019-09-24 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR 9/17/2019 S5542)
+- 2019-09-24 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 9/17/2019 S5542)
+- 2019-09-24 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S5669)
+- 2019-09-24 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S5669)
