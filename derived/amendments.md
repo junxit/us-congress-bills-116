@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1158
 congress: 116
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -31,8 +31,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `6 U.S.C. § 148` | insert | in subsection (d)(1)(B)(iv), by inserting “, including cybersecurity specialists” after “entities”; | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 148` | redesignate | by redesignating subsections (f) through (m) as subsections (g) through (n), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 148` | insert | by inserting after subsection (e) the following new subsection (f): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 148` | insert | in paragraph (1), by inserting “, or any team or activity of the Center,” after “Center”; and | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 148` | insert | in paragraph (2), by inserting “, or any team or activity of the Center,” after “Center”. | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 659` | insert | in subsection (d)(1)(B)(iv), by inserting “, including cybersecurity specialists” after “entities”; | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 659` | redesignate | by redesignating subsections (f) through (m) as subsections (g) through (n), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 659` | insert | by inserting after subsection (e) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 659` | insert | in paragraph (1), by inserting “, or any team or activity of the Center,” after “Center”; and | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 659` | insert | in paragraph (2), by inserting “, or any team or activity of the Center,” after “Center”. | the bill quotes the text inserted but describes where it goes |
