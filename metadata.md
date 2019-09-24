@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1158
 congress: 116
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1158
@@ -16,12 +16,14 @@ Consolidated Appropriations Act, 2020
 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Cosponsors (4)
+## Cosponsors (6)
 
 - Rep. Langevin, James R. [D-RI-2] (L000559)
 - Rep. Katko, John [R-NY-24] (K000386)
 - Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
 - Rep. Ratcliffe, John [R-TX-4] (R000601)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Peters, Gary C. [D-MI] (P000595)
 
 ## Committees (1)
 
@@ -46,3 +48,11 @@ Consolidated Appropriations Act, 2020
 - 2019-06-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4367)
 - 2019-06-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4367)
 - 2019-06-11 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 113.
+- 2019-09-24 — Amendment SA 941 agreed to in Senate by Unanimous Consent.
+- 2019-09-24 — Amendment SA 941 proposed by Senator McConnell for Senator Hassan. (consideration: CR S5669; text: CR S5669) In the nature of a substitute.
+- 2019-09-24 — Measure laid before Senate by unanimous consent. (consideration: CR S5669)
+- 2019-09-24 — Passed Senate with an amendment by Unanimous Consent.
+- 2019-09-24 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2019-09-24 — Senate amendment agreed to: Amendment SA 941 agreed to in Senate by Unanimous Consent.
+- 2019-09-24 — Senate amendment proposed (on the floor): Amendment SA 941 proposed by Senator McConnell for Senator Hassan.(consideration: CR S5669; text: CR S5669)
+- 2019-09-24 — Senate amendment submitted
