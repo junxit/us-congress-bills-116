@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1423
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1423
@@ -241,9 +241,10 @@ FAIR Act
 - Rep. Gabbard, Tulsi [D-HI-2] (G000571)
 - Rep. Vargas, Juan [D-CA-51] (V000130)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -285,3 +286,4 @@ FAIR Act
 - 2019-09-20 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1423.
 - 2019-09-20 — The Speaker designated the Honorable Lauren Underwood to act as Chairwoman of the Committee.
 - 2019-09-20 — The previous question was ordered pursuant to the rule.
+- 2019-09-24 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
