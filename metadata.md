@@ -1,7 +1,7 @@
 ---
 measure: S. 1340
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1340
@@ -25,9 +25,10 @@ Ebola Eradication Act of 2019
 - Sen. Inhofe, James M. [R-OK] (I000024)
 - Sen. Lee, Mike [R-UT] (L000577)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,6 @@ Ebola Eradication Act of 2019
 - 2019-09-23 — Senate amendment proposed (on the floor): Amendment SA 940 proposed by Senator Rubio for Senator Menendez.(consideration: CR S5633; text: CR S5633)
 - 2019-09-23 — Senate amendment submitted
 - 2019-09-23 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2019-09-24 — Message on Senate action sent to the House.
+- 2019-09-24 — Received in the House.
+- 2019-09-24 — Referred to the House Committee on Foreign Affairs.
