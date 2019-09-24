@@ -21,7 +21,7 @@ This Act may be cited as the “Educating Medical Professionals and Optimizing W
 - **(b)** *Health professions training for diversity* Section 740 of the Public Health Service Act (42 U.S.C. 293d) is amended—
   - **(1)** in subsection (a), by striking “$51,000,000 for fiscal year 2010, and such sums as may be necessary for each of the fiscal years 2011 through 2014” and inserting “$51,419,000 for each of fiscal years 2020 through 2024”;
   - **(2)** in subsection (b), by striking “$5,000,000 for each of the fiscal years 2010 through 2014” and inserting “$1,250,000 for each of fiscal years 2020 through 2024”; and
-  - **(3)** in subsection (c), by striking “$60,000,000 for fiscal year 2010 and such sums as may be necessary for each of the fiscal years 2011 through 2014” and inserting “$14,899,000 for each of fiscal years 2020 through 2024”.
+  - **(3)** in subsection (c), by striking “$60,000,000 for fiscal year 2010 and such sums as may be necessary for each of the fiscal years 2011 through 2014” and inserting “$20,000,000 for each of fiscal years 2020 through 2024”.
 - **(c)** *Primary care training and enhancement* Section 747(c)(1) of the Public Health Service Act (42 U.S.C. 293k(c)(1)) is amended by striking “$125,000,000 for fiscal year 2010, and such sums as may be necessary for each of fiscal years 2011 through 2014” and inserting “$51,371,000 for each of fiscal years 2020 through 2024”.
 - **(d)** *Training in general, pediatric, and public health dentistry* Section 748(f) of the Public Health Service Act (42 U.S.C. 293k–2(f)) is amended by striking “$30,000,000 for fiscal year 2010 and such sums as may be necessary for each of fiscal years 2011 through 2015” and inserting “$42,707,000 for each of fiscal years 2020 through 2024”.
 - **(e)** *Area health education centers* Section 751(j)(1) of the Public Health Service Act (42 U.S.C. 294a(j)(1)) is amended by striking “$125,000,000 for each of the fiscal years 2010 through 2014” and inserting “$42,075,000 for each of fiscal years 2020 through 2024”.
@@ -68,16 +68,7 @@ Section 753 of the Public Health Service Act (42 U.S.C. 294c) is amended to read
 >     - **(A)** in communities that have a shortage of geriatric workforce professionals; and
 >     - **(B)** in States in which no entity has previously received an award under such paragraph (including as in effect before the date of enactment of the Educating Medical Professionals and Optimizing Workforce Efficiency and Readiness for Health Act of 2019).
 >   - **(8)** *Award amounts* Awards under paragraph (1) shall be in an amount determined by the Secretary. Entities that submit applications under this subsection that describe a plan for providing geriatric education and training for home health workers and family caregivers are eligible to receive $100,000 per year more than entities that do not include a description of such a plan.
->   - **(9)** *Reporting*
->     - **(A)** *Reports from entities* Each entity awarded a grant under paragraph (1) shall submit an annual report to the Secretary on financial and programmatic performance under such grant, which may include factors such as the number of trainees, the number of professions and disciplines, the number of partnerships with health care delivery sites, the number of faculty and practicing professionals who participated in continuing education programs, and such other factors as the Secretary may require.
->     - **(B)** *Reports to Congress*
->       - **(i)** *Annual report* At the end of each fiscal year in which the Secretary awards grants under this subsection, the Secretary shall submit to Congress a report that provides a summary of the financial and programmatic performance of such grants, which may include factors such as—
->         - **(I)** the number of trainees;
->         - **(II)** the number of professions and disciplines;
->         - **(III)** the number of partnerships with health care delivery sites;
->         - **(IV)** the number of faculty and practicing professionals who participated in continuing education programs; and
->         - **(V)** other factors that assess the impact of the program under this subsection on the health status of older adults, the quality of care for older adults, and the knowledge and skills of the Nation’s health care workforce to care for older adults.
->       - **(ii)** *Public availability* The Secretary shall make each report submitted under clause (i), and supporting data, publicly available in an accessible format on the internet website of the Health Resources and Services Administration.
+>   - **(9)** *Reporting* Each entity awarded a grant under paragraph (1) shall submit an annual report to the Secretary on financial and programmatic performance under such grant, which may include factors such as the number of trainees, the number of professions and disciplines, the number of partnerships with health care delivery sites, the number of faculty and practicing professionals who participated in continuing education programs, and such other factors as the Secretary may require.
 > - **(b)** *Geriatric Academic Career Awards*
 >   - **(1)** *Establishment of program* The Secretary shall establish a program to award grants, to be known as Geriatric Academic Career Awards, to eligible entities applying on behalf of eligible individuals to promote the career development of such individuals as academic geriatricians or other academic geriatrics health professionals.
 >   - **(2)** *Eligibility*
@@ -95,7 +86,7 @@ Section 753 of the Public Health Service Act (42 U.S.C. 294c) is amended to read
 >   - **(3)** *Limitations* An eligible entity may not receive an award under paragraph (1) on behalf of an eligible individual unless the eligible entity—
 >     - **(A)** submits to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, and the Secretary approves such application;
 >     - **(B)** provides, in such form and manner as the Secretary may require, assurances that the eligible individual on whose behalf an application was submitted under subparagraph (A) will meet the service requirement described in paragraph (8); and
->     - **(C)** provides, in such form and manner as the Secretary may require, assurances that such individual has a full-time faculty appointment in an accredited health professions school or graduate program and documented commitment from such school or program to spend 75 percent of the total time of such individual on teaching and developing skills in interprofessional education in geriatrics.
+>     - **(C)** provides, in such form and manner as the Secretary may require, assurances that such individual has a full-time faculty appointment in an accredited health professions school or graduate program and documented commitment from such school or program to spend 75 percent of the individual’s time that is supported by the award on teaching and developing skills in interprofessional education in geriatrics.
 >   - **(4)** *Requirements* In awarding grants under this subsection, the Secretary—
 >     - **(A)** shall give priority to eligible entities that apply on behalf of eligible individuals who are on the faculty of institutions that integrate geriatrics education, training, and best practices into academic program criteria;
 >     - **(B)** may give priority to eligible entities that operate a geriatrics workforce enhancement program under subsection (a);
@@ -118,27 +109,33 @@ Section 775 of the Public Health Service Act (42 U.S.C. 295f) is amended to read
 >
 > - **(a)** *In general* The Secretary shall establish and carry out a program of entering into pediatric specialty loan repayment agreements with qualified health professionals under which—
 >   - **(1)** the qualified health professional agrees to a period of not less than 2 years of obligated service during which the professional will—
->     - **(A)** participate in an accredited pediatric medical subspecialty, pediatric surgical specialty, or child and adolescent mental and behavioral health residency or fellowship; or
->     - **(B)** be employed full-time in providing pediatric medical subspecialty care, pediatric surgical specialty care, or child and adolescent mental and behavioral health care, including substance use disorder prevention and treatment services, in an area with—
->       - **(i)** a shortage of health care professionals practicing in the pediatric medical subspecialty, the pediatric surgical specialty, or child and adolescent mental and behavioral health, as applicable; and
->       - **(ii)** a sufficient pediatric population, as determined by the Secretary, to support the addition of a practitioner in the pediatric medical subspecialty, the pediatric surgical specialty, or child and adolescent mental and behavioral health, as applicable; and
+>     - **(A)** participate in an accredited pediatric medical subspecialty, pediatric surgical specialty, child and adolescent psychiatry subspecialty, or child and adolescent mental and behavioral health residency or fellowship; or
+>     - **(B)** be employed full-time in providing pediatric medical subspecialty care, pediatric surgical specialty care, child and adolescent psychiatry subspecialty care, or child and adolescent mental and behavioral health care, including substance use disorder prevention and treatment services, in an area with—
+>       - **(i)** a shortage of health care professionals practicing in the pediatric medical subspecialty, the pediatric surgical specialty, the child and adolescent psychiatry subspecialty, or child and adolescent mental and behavioral health, as applicable; and
+>       - **(ii)** a sufficient pediatric population, as determined by the Secretary, to support the addition of a practitioner in the pediatric medical subspecialty, the pediatric surgical specialty, the child and adolescent psychiatry subspecialty, or child and adolescent mental and behavioral health, as applicable; and
 >   - **(2)** the Secretary agrees to make payments on the principal and interest of undergraduate, graduate, or graduate medical education loans of the qualified health professional of not more than $35,000 a year for each year of agreed upon service under paragraph (1) for a period of not more than 3 years.
 > - **(b)** *Eligibility requirements*
 >   - **(1)** *Pediatric medical specialists and pediatric surgical specialists* For purposes of loan repayment agreements under this section with respect to pediatric medical subspecialty and pediatric surgical specialty practitioners, the term qualified health professional means a licensed physician who—
 >     - **(A)** is entering or receiving training in an accredited pediatric medical subspecialty or pediatric surgical subspecialty residency or fellowship; or
->     - **(B)** has completed (but not prior to the end of the calendar year in which this section is enacted) the training described in clause (i).
->   - **(2)** *Child and adolescent mental and behavioral health* For purposes of loan repayment agreements under this section with respect to child and adolescent mental and behavioral health care, the term qualified health professional means a health care professional who—
->     - **(A)** has received specialized training or clinical experience in child and adolescent mental health in psychiatry, psychology, school psychology, behavioral pediatrics, psychiatric nursing, social work, school social work, substance use disorder prevention and treatment, marriage and family therapy, school counseling, or professional counseling;
->     - **(B)** has a license or certification in a State to practice allopathic medicine, osteopathic medicine, psychology, school psychology, psychiatric nursing, social work, school social work, marriage and family therapy, school counseling, or professional counseling; or
->     - **(C)** is a mental health service professional who has completed (but not before the end of the calendar year in which this section is enacted) specialized training or clinical experience in child and adolescent mental health described in clause (i).
+>     - **(B)** has completed (but not prior to the end of the calendar year in which the Educating Medical Professionals and Optimizing Workforce Efficiency and Readiness for Health Act of 2019 is enacted) the training described in subparagraph (A).
+>   - **(2)** *Child and adolescent psychiatry and mental and behavioral health* For purposes of loan repayment agreements under this section with respect to child and adolescent mental and behavioral health care, the term qualified health professional means a health care professional who—
+>     - **(A)** has received specialized training or clinical experience in child and adolescent mental health in psychiatry, psychology, school psychology, or psychiatric nursing;
+>     - **(B)** has a license or certification in a State to practice allopathic medicine, osteopathic medicine, psychology, school psychology, or psychiatric nursing; or
+>     - **(C)** is a mental health service professional who has completed (but not before the end of the calendar year in which the Educating Medical Professionals and Optimizing Workforce Efficiency and Readiness for Health Act of 2019 is enacted) specialized training or clinical experience in child and adolescent mental health described in subparagraph (A).
 >   - **(3)** *Additional eligibility requirements* The Secretary may not enter into a loan repayment agreement under this section with a qualified health professional unless—
->     - **(A)** the professional agrees to work in, or for a provider serving, a medically underserved area, or to serve a medically underserved population;
->     - **(B)** the professional is a United States citizen or a permanent legal United States resident; and
+>     - **(A)** the professional agrees to work in, or for a provider serving, an area or community with a shortage of eligible qualified health professionals (as defined in paragraphs (1) and (2));
+>     - **(B)** the professional is a United States citizen, a permanent legal United States resident, or lawfully present in the United States; and
 >     - **(C)** if the professional is enrolled in a graduate program, the program is accredited, and the professional has an acceptable level of academic standing (as determined by the Secretary).
 > - **(c)** *Priority* In entering into loan repayment agreements under this section, the Secretary shall give priority to applicants who—
->   - **(1)** are or will be working in a school or other pre-kindergarten, elementary, or secondary education setting;
->   - **(2)** have familiarity with evidence-based methods and cultural and linguistic competence in health care services; and
->   - **(3)** demonstrate financial need.
+>   - **(1)** have familiarity with evidence-based methods and cultural and linguistic competence in health care services; and
+>   - **(2)** demonstrate financial need.
 > - **(d)** *Authorization of appropriations* There are authorized to be appropriated for each of fiscal years 2020 through 2024—
 >   - **(1)** $30,000,000 to carry out this section with respect to loan repayment agreements with qualified health professionals described in subsection (b)(1); and
 >   - **(2)** $20,000,000 to carry out this section with respect to loan repayment agreements with respect to qualified health professionals described in subsection (b)(2).
+
+## § 5. Increasing workforce diversity in the professions of physical therapy, occupational therapy, audiology, and speech-language pathology
+
+Title VII of the Public Health Service Act is amended—
+
+- **(1)** by redesignating part G (42 U.S.C. 295j et seq.) as part H; and
+- **(2)** by inserting after part F (42 U.S.C. 294n et seq.) the following new part:

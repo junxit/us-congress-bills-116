@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2781
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 9 executed, 3 stated and not applied.
+14 amendatory instructions. 9 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,12 +44,12 @@ to guess them.
 
 ### 42 U.S.C. § 293d
 
-> in subsection (c), by striking “$60,000,000 for fiscal year 2010 and such sums as may be necessary for each of the fiscal years 2011 through 2014” and inserting “$14,899,000 for each of fiscal years 2020 through 2024”.
+> in subsection (c), by striking “$60,000,000 for fiscal year 2010 and such sums as may be necessary for each of the fiscal years 2011 through 2014” and inserting “$20,000,000 for each of fiscal years 2020 through 2024”.
 
 | | |
 |---|---|
 | Removed | `$60,000,000 for fiscal year 2010 and such sums as may be necessary for each of the fiscal years 2011 through 2014` |
-| Inserted | `$14,899,000 for each of fiscal years 2020 through 2024` |
+| Inserted | `$20,000,000 for each of fiscal years 2020 through 2024` |
 
 ### 42 U.S.C. § 293k
 
@@ -117,3 +117,5 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 293` | amend | Subsection (i) of section 736 of the Public Health Service Act (42 U.S.C. 293) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 294c` | amend | Section 753 of the Public Health Service Act (42 U.S.C. 294c) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 295f` | amend | Section 775 of the Public Health Service Act (42 U.S.C. 295f) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 295j` | redesignate | by redesignating part G (42 U.S.C. 295j et seq.) as part H; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 294n` | insert | by inserting after part F (42 U.S.C. 294n et seq.) the following new part: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
