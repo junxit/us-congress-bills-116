@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1595
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 1 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 12 U.S.C. § 289
+
+> Section 7(a)(3)(A) of the Federal Reserve Act (12 U.S.C. 289(a)(3)(A)) is amended by striking “$6,825,000,000” and inserting “$6,821,000,000”.
+
+| | |
+|---|---|
+| Removed | `$6,825,000,000` |
+| Inserted | `$6,821,000,000` |
 
 ## Stated, not applied
 

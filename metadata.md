@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1595
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1595
@@ -230,6 +230,10 @@ SAFE Banking Act of 2019
 - House — Judiciary Committee
 - House — Financial Services Committee
 
+## Recorded votes (1)
+
+- 2019-09-25 — [House 116-1-544](votes/house-116-1-0544.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (321–103)
+
 ## Actions
 
 - 2019-03-07 — Introduced in House
@@ -246,3 +250,9 @@ SAFE Banking Act of 2019
 - 2019-06-05 — Placed on the Union Calendar, Calendar No. 78.
 - 2019-06-05 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-104, Part I.
 - 2019-06-05 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-104, Part I.
+- 2019-09-25 — Considered under suspension of the rules. (consideration: CR H7962-7974)
+- 2019-09-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1595.
+- 2019-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-09-25 — Mr. Perlmutter moved to suspend the rules and pass the bill, as amended.
+- 2019-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 321 - 103 (Roll no. 544). (text: CR H7962-7964)
+- 2019-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 321 - 103 (Roll no. 544).(text: CR H7962-7964)
