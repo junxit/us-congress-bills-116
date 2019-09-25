@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3190
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3190
@@ -73,13 +73,14 @@ Burma Unified through Rigorous Military Accountability Act of 2019
 - Rep. Lofgren, Zoe [D-CA-19] (L000397)
 - Rep. Yoho, Ted S. [R-FL-3] (Y000065)
 
-## Committees (5)
+## Committees (6)
 
 - House — Foreign Affairs Committee
 - House — Ways and Means Committee
 - House — Financial Services Committee
 - House — Judiciary Committee
 - House — Armed Services Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -101,3 +102,4 @@ Burma Unified through Rigorous Military Accountability Act of 2019
 - 2019-09-24 — Mr. Levin (MI) moved to suspend the rules and pass the bill, as amended.
 - 2019-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 21 (Roll no. 541). (text: CR H7878-7883)
 - 2019-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 21 (Roll no. 541).(text: CR H7878-7883)
+- 2019-09-25 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
