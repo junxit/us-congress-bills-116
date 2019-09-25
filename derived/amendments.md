@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2203
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,24 +14,13 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 1 executed, 5 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
-
-## Executed
-
-### 6 U.S.C. § 211
-
-> by striking “model” and inserting “models”; and
-
-| | |
-|---|---|
-| Removed | `model` |
-| Inserted | `models` |
 
 ## Stated, not applied
 
@@ -42,8 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `6 U.S.C. § 231` | add-at-end | Subtitle C of title IV of the Homeland Security Act of 2002 (6 U.S.C. 231 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 231` | replace | The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by striking the items relating to sections 435 and 436 and inserting the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Subtitle C of title IV of the Homeland Security Act of 2002, as amended by section 201 of this Act, is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002, as amended by section 201 of this Act, is further amended by inserting after the item relating to section 437 the following new item: | the bill names no machine-readable US Code section |
-| `6 U.S.C. § 211` | insert | by inserting before the period at the end the following: “, and information concerning the progress made toward meeting officer hiring targets, while accounting for attrition”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 341` | add-at-end | Title VII of the Homeland Security Act of 2002 (6 U.S.C. 341 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 341` | amend | The table of contents of the Homeland Security Act of 2002 is amended by adding after the item relating to section 710 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
