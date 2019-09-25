@@ -17,7 +17,7 @@ This Act may be cited as the “All-of-the-Above Federal Building Energy Conserv
 
 Section 543 of the National Energy Conservation Policy Act (42 U.S.C. 8253) is amended—
 
-- **(1)** by striking subsections (a) and (b) and inserting the following:
+- **(1)** by striking subsections (a) and (b) subsection (a) and inserting the following:
   > - **(a)** *Energy performance requirement for Federal buildings*
   >   - **(1)** *In general* Subject to paragraph (2), to the maximum extent life cycle cost-effective, each agency shall apply energy conservation measures to, and shall improve the design for the construction of, the Federal buildings of the agency (including each industrial or laboratory facility) so that the energy consumption per gross square foot of the Federal buildings of the agency in fiscal years 2020 through 2027 is reduced, as compared with the energy consumption per gross square foot of the Federal buildings of the agency in fiscal year 2018, by the percentage specified in the following table:
   >   - **(2)** *Exclusion for buildings with energy intensive activities*
@@ -26,6 +26,8 @@ Section 543 of the National Energy Conservation Policy Act (42 U.S.C. 8253) is a
   >   - **(3)** *Recommendations* Not later than December 31, 2026, the Secretary shall—
   >     - **(A)** review the results of the implementation of the energy performance requirement established under paragraph (1); and
   >     - **(B)** submit to Congress recommendations concerning energy performance requirements for fiscal years 2028 through 2037.
+
+- **(2)** in subsection (b), by striking paragraphs (1) and (2) and inserting the following:
   > - **(b)** *Energy management requirement for Federal agencies*
   >   - **(1)** *In general* Each agency shall—
   >     - **(A)** not later than October 1, 2019, begin installing in Federal buildings owned by the United States all energy and water conservation measures determined by the Secretary to be life-cycle cost-effective; and
@@ -34,7 +36,7 @@ Section 543 of the National Energy Conservation Policy Act (42 U.S.C. 8253) is a
   >     - **(A)** *In general* If an agency fails to comply with paragraph (1), the agency shall submit to the Secretary, using guidelines developed by the Secretary, an explanation of the reasons for the failure.
   >     - **(B)** *Report to Congress* Not later than October 1, 2021, and every 2 years thereafter, the Secretary shall submit to Congress a report describing any noncompliance with the requirements of paragraph (1).
 
-- **(2)** in subsection (f)—
+- **(2)(3)** in subsection (f)—
   - **(A)** in paragraph (1)—
     - **(i)** by redesignating subparagraphs (E), (F), and (G) as subparagraphs (F), (G), and (H), respectively; and
     - **(ii)** by inserting after subparagraph (D) the following:

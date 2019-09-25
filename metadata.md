@@ -1,7 +1,7 @@
 ---
 measure: S. 1245
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1245
@@ -28,3 +28,7 @@ All-of-the-Above Federal Building Energy Conservation Act of 2019
 
 - 2019-04-30 — Introduced in Senate
 - 2019-04-30 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2019-07-16 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2019-09-25 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments. With written report No. 116-117.
+- 2019-09-25 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments. With written report No. 116-117.
+- 2019-09-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 220.
