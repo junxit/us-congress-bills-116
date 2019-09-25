@@ -22,7 +22,10 @@ This Act may be cited as the “Federal Energy and Water Management Performance 
     - **(B)** by striking paragraph (1) and inserting the following:
       > - **(1)** *In general* Subject to paragraph (2), the head of each Federal agency shall—
       >   - **(A)** for each of fiscal years 2020 through 2030, reduce average building energy intensity (as measured in British thermal units per gross square foot) at facilities of the agency by 2.5 percent each fiscal year relative to the average building energy intensity of the facilities of the agency in fiscal year 2018;
-      >   - **(B)** for each of fiscal years 2020 through 2030, improve water use efficiency and management, including stormwater management, at facilities of the agency by reducing agency potable water consumption intensity (as measured in gallons per gross square foot)—
+      >   - **(B)** for each of fiscal years 2020 through 2030, improve water use efficiency and management, including stormwater management, at facilities of the agency by reducing agency potable water consumption intensity—
+      >     - **(i)** by 54 percent by fiscal year 2030, relative to the water consumption of the agency in fiscal year 2007, through reductions of 2 percent each fiscal year (as measured in gallons per gross square foot);
+      >     - **(ii)** by reducing the industrial, landscaping, and agricultural water consumption of the agency, as compared to a baseline of that consumption by the agency in fiscal year 2010, through reductions of 2 percent each fiscal year (as measured in gallons); and
+      >     - **(iii)** by installing appropriate infrastructure features on federally owned property to improve stormwater and wastewater management; and water consumption intensity (as measured in gallons per gross square foot)—
       >     - **(i)** by 54 percent by fiscal year 2030, relative to the water consumption of the agency in fiscal year 2007; and
       >     - **(ii)** through reductions of 2 percent each fiscal year; and
       >   - **(C)** to the maximum extent practicable, in carrying out subparagraphs (A) and (B), take measures that are life cycle cost effective (as defined in subsection (f)(1)).
@@ -112,9 +115,9 @@ Section 543 of the National Energy Conservation Policy Act (42 U.S.C. 8253) is a
 >         - **(II)** based on that data, submit to each Federal agency a report that will facilitate the energy and water management, energy-related investment practices, and environmental stewardship of the agency in support of Federal goals under this Act and under other provisions of law (including regulations);
 >       - **(iv)**
 >         - **(I)** establish new Federal building energy efficiency standards; and
->         - **(II)** in consultation with the Administrator of the General Services Administration, acting through the head of the Office of High-Performance Green Buildings, implement new Federal building sustainable design principles for new Federal facilities;
+>         - **(II)** in consultation with the Administrator of the General Services Administration, acting through the head of the Office of High-Performance Green Buildings, implement new establish and implement Federal building sustainable design principles for new Federal facilities;
 >       - **(v)** manage the implementation of Federal building energy efficiency standards and sustainable design principles established under section 305 of the Energy Conservation and Production Act (42 U.S.C. 6834); and
->       - **(vi)** designate products for categories not covered under the Energy Star program established under section 324A of the Energy Policy and Conservation Act (42 U.S.C. 6294a).
+>       - **(vi)** designate products that meet the highest energy conservation standards for categories not covered under the Energy Star program established under section 324A of the Energy Policy and Conservation Act (42 U.S.C. 6294a).
 >     - **(C)** *Federal policy coordination* Under the Program, the Federal Director shall—
 >       - **(i)** develop and implement accredited training consistent with existing Federal programs and activities—
 >         - **(I)** relating to energy and water use, management, and resilience in Federal buildings, energy-related investment practices, and environmental stewardship; and

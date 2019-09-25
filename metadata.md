@@ -1,7 +1,7 @@
 ---
 measure: S. 1857
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1857
@@ -32,3 +32,8 @@ Federal Energy and Water Management Performance Act of 2019
 
 - 2019-06-13 — Introduced in Senate
 - 2019-06-13 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2019-07-09 — Committee on Energy and Natural Resources Subcommittee on Energy. Hearings held. With printed Hearing: S.Hrg. 116-327.
+- 2019-07-16 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2019-09-25 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments. With written report No. 116-119.
+- 2019-09-25 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments. With written report No. 116-119.
+- 2019-09-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 222.
