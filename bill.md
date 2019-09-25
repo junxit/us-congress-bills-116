@@ -1,0 +1,12 @@
+---
+legis-num: S. RES. 331
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 331
+
+> Instructing the managers on the part of the Senate on the bill S. 1790 (116th Congress) to insist upon the inclusion of the provisions of S. 2118 (116th Congress) (relating to the prohibition of United States persons from dealing in certain information and communications technology or services from foreign adversaries and requiring the approval of Congress to terminate certain export controls in effect with respect to Huawei Technologies Co. Ltd.).
+
+That the managers on the part of the Senate at the conference on the disagreeing votes of the two Houses on the House amendment to the bill S. 1790 (116th Congress) are instructed to insist upon the inclusion of the provisions of S. 2118 (116th Congress) (relating to the prohibition of United States persons from dealing in certain information and communications technology or services from foreign adversaries and requiring the approval of Congress to terminate certain export controls in effect with respect to Huawei Technologies Co. Ltd.).
