@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1632
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1632
@@ -27,9 +27,10 @@ Southeast Asia Strategy Act
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 - Rep. Phillips, Dean [D-MN-3] (P000616)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Southeast Asia Strategy Act
 - 2019-09-24 — Mr. Levin (MI) moved to suspend the rules and pass the bill, as amended.
 - 2019-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7875)
 - 2019-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7875)
+- 2019-09-25 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
