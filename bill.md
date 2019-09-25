@@ -1,0 +1,12 @@
+---
+legis-num: S. RES. 334
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 334
+
+> Instructing the managers on the part of the Senate on the bill S. 1790 (116th Congress) to insist upon the provisions contained in section 316 of the Senate bill (relating to a prohibition on the use of perfluoroalkyl substances and polyfluoroalkyl substances for land-based applications of firefighting foam).
+
+That the managers on the part of the Senate at the conference on the disagreeing votes of the two Houses on the House amendment to the bill S. 1790 (116th Congress) are instructed to insist upon the provisions of section 316 of the Senate bill (relating to a prohibition on the use of perfluoroalkyl substances and polyfluoroalkyl substances for land-based applications of firefighting foam).
