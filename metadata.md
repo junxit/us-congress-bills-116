@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2229
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2229
@@ -41,9 +41,10 @@ First Responders Passport Act of 2019
 - Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
 - Rep. Delgado, Antonio [D-NY-19] (D000630)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -59,3 +60,4 @@ First Responders Passport Act of 2019
 - 2019-09-24 — Mr. Levin (MI) moved to suspend the rules and pass the bill, as amended.
 - 2019-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7874)
 - 2019-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7874)
+- 2019-09-25 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
