@@ -1,0 +1,12 @@
+---
+legis-num: S. RES. 336
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 336
+
+> Instructing the managers on the part of the Senate on the bill S. 1790 (116th Congress) to insist upon the members of the conference to consider potential commonsense solutions regarding family and medical leave, including voluntary compensatory time programs and incentives through the tax code.
+
+That the managers on the part of the Senate at the conference on the disagreeing votes of the two Houses on the House amendment to the bill S. 1790 be instructed to insist upon the members of the conference consider potential commonsense solutions regarding family and medical leave, including voluntary compensatory time programs and incentives through the tax code.
