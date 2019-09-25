@@ -32,23 +32,32 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 3. Protections for ancillary businesses
 
-For purposes of sections 1956 and 1957 of title 18, United States Code, and all other provisions of Federal law, the proceeds from a transaction conducted by a cannabis-related legitimate business or service provider shall not be considered as proceeds from an unlawful activity solely because the transaction was conducted by a cannabis-related legitimate business or service provider, as applicable.
+For the purposes of sections 1956 and 1957 of title 18, United States Code, and all other provisions of Federal law, the proceeds from a transaction involving activities of a cannabis-related legitimate business or service provider shall not be considered proceeds from an unlawful activity solely because—
+
+- **(1)** the transaction involves proceeds from a cannabis-related legitimate business or service provider; or
+- **(2)** the transaction involves proceeds from—
+  - **(A)** cannabis-related activities described in section 14(4)(B) conducted by a cannabis-related legitimate business; or
+  - **(B)** activities described in section 14(13)(A) conducted by a service provider.
 
 ## § 4. Protections under Federal law
 
 - **(a)** *In general* With respect to providing a financial service to a cannabis-related legitimate business or service provider within a State, political subdivision of a State, or Indian country that allows the cultivation, production, manufacture, sale, transportation, display, dispensing, distribution, or purchase of cannabis pursuant to a law or regulation of such State, political subdivision, or Indian Tribe that has jurisdiction over the Indian country, as applicable, a depository institution, entity performing a financial service for or in association with a depository institution, or insurer that provides a financial service to a cannabis-related legitimate business or service provider, and the officers, directors, and employees of that depository institution, entity, or insurer may not be held liable pursuant to any Federal law or regulation—
   - **(1)** solely for providing such a financial service; or
   - **(2)** for further investing any income derived from such a financial service.
-- **(b)** *Protections for Federal reserve banks* With respect to providing a service to a depository institution that provides a financial service to a cannabis-related legitimate business or service provider (where such financial service is provided within a State, political subdivision of a State, or Indian country that allows the cultivation, production, manufacture, sale, transportation, display, dispensing, distribution, or purchase of cannabis pursuant to a law or regulation of such State, political subdivision, or Indian Tribe that has jurisdiction over the Indian country, as applicable), a Federal reserve bank, and the officers, directors, and employees of the Federal reserve bank, may not be held liable pursuant to any Federal law or regulation—
+- **(b)** *Protections for Federal reserve banks and Federal Home Loan Banks* With respect to providing a service to a depository institution that provides a financial service to a cannabis-related legitimate business or service provider (where such financial service is provided within a State, political subdivision of a State, or Indian country that allows the cultivation, production, manufacture, sale, transportation, display, dispensing, distribution, or purchase of cannabis pursuant to a law or regulation of such State, political subdivision, or Indian Tribe that has jurisdiction over the Indian country, as applicable), a Federal reserve bank or Federal Home Loan Bank, and the officers, directors, and employees of the Federal reserve bank or Federal Home Loan Bank, may not be held liable pursuant to any Federal law or regulation—
   - **(1)** solely for providing such a service; or
   - **(2)** for further investing any income derived from such a service.
-- **(c)** *Forfeiture*
+- **(c)** *Protections for insurers* With respect to engaging in the business of insurance within a State, political subdivision of a State, or Indian country that allows the cultivation, production, manufacture, sale, transportation, display, dispensing, distribution, or purchase of cannabis pursuant to a law or regulation of such State, political subdivision, or Indian Tribe that has jurisdiction over the Indian country, as applicable, an insurer that engages in the business of insurance with a cannabis-related legitimate business or service provider or who otherwise engages with a person in a transaction permissible under State law related to cannabis, and the officers, directors, and employees of that insurer may not be held liable pursuant to any Federal law or regulation—
+  - **(1)** solely for engaging in the business of insurance; or
+  - **(2)** for further investing any income derived from the business of insurance.
+- **(d)** *Forfeiture*
   - **(1)** *Depository institutions* A depository institution that has a legal interest in the collateral for a loan or another financial service provided to an owner, employee, or operator of a cannabis-related legitimate business or service provider, or to an owner or operator of real estate or equipment that is leased or sold to a cannabis-related legitimate business or service provider, shall not be subject to criminal, civil, or administrative forfeiture of that legal interest pursuant to any Federal law for providing such loan or other financial service.
-  - **(2)** *Federal reserve banks* A Federal reserve bank that has a legal interest in the collateral for a loan or another financial service provided to an owner, employee, or operator of a depository institution that provides a financial services to a cannabis-related legitimate business or service provider, or to an owner or operator of real estate or equipment that is leased or sold to such a depository institution, shall not be subject to criminal, civil, or administrative forfeiture of that legal interest pursuant to any Federal law for providing such loan or other financial service.
+  - **(2)** *Federal reserve banks and Federal Home Loan Banks* A Federal reserve bank or Federal Home Loan Bank that has a legal interest in the collateral for a loan or another financial service provided to a depository institution that provides a financial service to a cannabis-related legitimate business or service provider, or to an owner or operator of real estate or equipment that is leased or sold to a cannabis-related legitimate business or service provider, shall not be subject to criminal, civil, or administrative forfeiture of that legal interest pursuant to any Federal law for providing such loan or other financial service.
 
-## § 5. Rule of construction
+## § 5. Rules of construction
 
-Nothing in this Act shall require a depository institution, entity performing a financial service for or in association with a depository institution, or insurer to provide financial services to a cannabis-related legitimate business or service provider.
+- **(a)** *No requirement To provide financial services* Nothing in this Act shall require a depository institution, entity performing a financial service for or in association with a depository institution, or insurer to provide financial services to a cannabis-related legitimate business, service provider, or any other business.
+- **(b)** *General examination, supervisory, and enforcement authority* Nothing in this Act may be construed in any way as limiting or otherwise restricting the general examination, supervisory, and enforcement authority of the Federal banking regulators, provided that the basis for any supervisory or enforcement action is not the provision of financial services to a cannabis-related legitimate business or service provider.
 
 ## § 6. Requirements for filing suspicious activity reports
 
@@ -58,11 +67,11 @@ Section 5318(g) of title 31, United States Code, is amended by adding at the end
 >   - **(A)** *In general* With respect to a financial institution or any director, officer, employee, or agent of a financial institution that reports a suspicious transaction pursuant to this subsection, if the reason for the report relates to a cannabis-related legitimate business or service provider, the report shall comply with appropriate guidance issued by the Financial Crimes Enforcement Network. The Secretary shall ensure that the guidance is consistent with the purpose and intent of the SAFE Banking Act of 2019 and does not significantly inhibit the provision of financial services to a cannabis-related legitimate business or service provider in a State, political subdivision of a State, or Indian country that has allowed the cultivation, production, manufacture, transportation, display, dispensing, distribution, sale, or purchase of cannabis pursuant to law or regulation of such State, political subdivision, or Indian Tribe that has jurisdiction over the Indian country.
 >   - **(B)** *Definitions* For purposes of this paragraph:
 >     - **(i)** *Cannabis* The term cannabis has the meaning given the term marihuana in section 102 of the Controlled Substances Act (21 U.S.C. 802).
->     - **(ii)** *Cannabis-related legitimate business* The term “cannabis-related legitimate business” has the meaning given that term in section 11 of the SAFE Banking Act of 2019.
+>     - **(ii)** *Cannabis-related legitimate business* The term “cannabis-related legitimate business” has the meaning given that term in section 14 of the SAFE Banking Act of 2019.
 >     - **(iii)** *Indian country* The term “Indian country” has the meaning given that term in section 1151 of title 18.
 >     - **(iv)** *Indian Tribe* The term “Indian Tribe” has the meaning given that term in section 102 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a).
->     - **(v)** *Financial service* The term financial service has the meaning given that term in section 11 of the SAFE Banking Act of 2019.
->     - **(vi)** *Service provider* The term “service provider” has the meaning given that term in section 11 of the SAFE Banking Act of 2019.
+>     - **(v)** *Financial service* The term financial service has the meaning given that term in section 14 of the SAFE Banking Act of 2019.
+>     - **(vi)** *Service provider* The term “service provider” has the meaning given that term in section 14 of the SAFE Banking Act of 2019.
 >     - **(vii)** *State* The term State means each of the several States, the District of Columbia, Puerto Rico, and any territory or possession of the United States.
 
 ## § 7. Guidance and examination procedures
@@ -90,7 +99,57 @@ Not later than 2 years after the date of the enactment of this Act, the Comptrol
 - **(1)** During the period of 2014 until the date of the enactment of this Act, reports relating to marijuana-related businesses.
 - **(2)** During the 1-year period after date of the enactment of this Act, reports relating to cannabis-related legitimate businesses.
 
-## § 11. Definitions
+## § 11. Banking services for hemp businesses
+
+- **(a)** *Findings* The Congress finds that—
+  - **(1)** the Agriculture Improvement Act of 2018 (Public Law 115–334) legalized hemp by removing it from the definition of “marihuana” under the Controlled Substances Act;
+  - **(2)** despite the legalization of hemp, some hemp businesses (including producers, manufacturers, and retailers) continue to have difficulty gaining access to banking products and services; and
+  - **(3)** businesses involved in the sale of hemp-derived cannabidiol (“CBD”) products are particularly affected, due to confusion about their legal status.
+- **(b)** *Federal banking regulator hemp banking guidance* Not later than the end of the 90-day period beginning on the date of enactment of this Act, the Federal banking regulators shall jointly issue guidance to financial institutions—
+  - **(1)** confirming the legality of hemp, hemp-derived CBD products, and other hemp-derived cannabinoid products, and the legality of engaging in financial services with businesses selling hemp, hemp-derived CBD products, and other hemp-derived cannabinoid products, after the enactment of the Agriculture Improvement Act of 2018; and
+  - **(2)** to provide recommended best practices for financial institutions to follow when providing financial services and merchant processing services to businesses involved in the sale of hemp, hemp-derived CBD products, and other hemp-derived cannabinoid products.
+- **(c)** *Financial institution defined* In this section, the term “financial institution” means any person providing financial services.
+
+## § 12. Application of safe harbors to hemp and CBD products
+
+- **(a)** *In general* Except as provided under subsection (b), the provisions of this Act (other than sections 6 and 10) shall apply to hemp (including hemp-derived cannabidiol and other hemp-derived cannabinoid products) in the same manner as such provisions apply to cannabis.
+- **(b)** *Rule of application* In applying the provisions of this Act described under subsection (a) to hemp, the definition of “cannabis-related legitimate business” shall be treated as excluding any requirement to engage in activity pursuant to the law of a State or political subdivision thereof.
+- **(c)** *Hemp defined* In this section, the term “hemp” has the meaning given that term under section 297A of the Agricultural Marketing Act of 1946 (7 U.S.C. 1639o).
+
+## § 13. Requirements for deposit account termination requests and orders
+
+- **(a)** *Termination requests or orders must be valid*
+  - **(1)** *In general* An appropriate Federal banking agency may not formally or informally request or order a depository institution to terminate a specific customer account or group of customer accounts or to otherwise restrict or discourage a depository institution from entering into or maintaining a banking relationship with a specific customer or group of customers unless—
+    - **(A)** the agency has a valid reason for such request or order; and
+    - **(B)** such reason is not based solely on reputation risk.
+  - **(2)** *Treatment of national security threats* If an appropriate Federal banking agency believes a specific customer or group of customers is, or is acting as a conduit for, an entity which—
+    - **(A)** poses a threat to national security;
+    - **(B)** is involved in terrorist financing;
+    - **(C)** is an agency of the Government of Iran, North Korea, Syria, or any country listed from time to time on the State Sponsors of Terrorism list;
+    - **(D)** is located in, or is subject to the jurisdiction of, any country specified in subparagraph (C); or
+    - **(E)** does business with any entity described in subparagraph (C) or (D), unless the appropriate Federal banking agency determines that the customer or group of customers has used due diligence to avoid doing business with any entity described in subparagraph (C) or (D),
+- **(b)** *Notice requirement*
+  - **(1)** *In general* If an appropriate Federal banking agency formally or informally requests or orders a depository institution to terminate a specific customer account or a group of customer accounts, the agency shall—
+    - **(A)** provide such request or order to the institution in writing; and
+    - **(B)** accompany such request or order with a written justification for why such termination is needed, including any specific laws or regulations the agency believes are being violated by the customer or group of customers, if any.
+  - **(2)** *Justification requirement* A justification described under paragraph (1)(B) may not be based solely on the reputation risk to the depository institution.
+- **(c)** *Customer notice*
+  - **(1)** *Notice required* Except as provided under paragraph (2) or as otherwise prohibited from being disclosed by law, if an appropriate Federal banking agency orders a depository institution to terminate a specific customer account or a group of customer accounts, the depository institution shall inform the specific customer or group of customers of the justification for the customer’s account termination described under subsection (b).
+  - **(2)** *Notice prohibited*
+    - **(A)** *Notice prohibited in cases of national security* If an appropriate Federal banking agency requests or orders a depository institution to terminate a specific customer account or a group of customer accounts based on a belief that the customer or customers pose a threat to national security, or are otherwise described under subsection (a)(2), neither the depository institution nor the appropriate Federal banking agency may inform the customer or customers of the justification for the customer’s account termination.
+    - **(B)** *Notice prohibited in other cases* If an appropriate Federal banking agency determines that the notice required under paragraph (1) may interfere with an authorized criminal investigation, neither the depository institution nor the appropriate Federal banking agency may inform the specific customer or group of customers of the justification for the customer’s account termination.
+- **(d)** *Reporting requirement* Each appropriate Federal banking agency shall issue an annual report to the Congress stating—
+  - **(1)** the aggregate number of specific customer accounts that the agency requested or ordered a depository institution to terminate during the previous year; and
+  - **(2)** the legal authority on which the agency relied in making such requests and orders and the frequency on which the agency relied on each such authority.
+- **(e)** *Definitions* For purposes of this section:
+  - **(1)** *Appropriate Federal banking agency* The term “appropriate Federal banking agency” means—
+    - **(A)** the appropriate Federal banking agency, as defined under section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813); and
+    - **(B)** the National Credit Union Administration, in the case of an insured credit union.
+  - **(2)** *Depository institution* The term “depository institution” means—
+    - **(A)** a depository institution, as defined under section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813); and
+    - **(B)** an insured credit union.
+
+## § 14. Definitions
 
 In this Act:
 
@@ -104,13 +163,13 @@ In this Act:
   - **(A)** a depository institution as defined in section 3(c) of the Federal Deposit Insurance Act (12 U.S.C. 1813(c));
   - **(B)** a Federal credit union as defined in section 101 of the Federal Credit Union Act (12 U.S.C. 1752); or
   - **(C)** a State credit union as defined in section 101 of the Federal Credit Union Act (12 U.S.C. 1752).
-- **(6)** *Federal banking regulator* The term Federal banking regulator means each of the Board of Governors of the Federal Reserve System, the Bureau of Consumer Financial Protection, the Federal Deposit Insurance Corporation, the Financial Crimes Enforcement Network, the Office of Foreign Asset Control, the Office of the Comptroller of the Currency, the National Credit Union Administration, the Department of the Treasury, or any Federal agency or department that regulates banking or financial services, as determined by the Secretary of the Treasury.
+- **(6)** *Federal banking regulator* The term Federal banking regulator means each of the Board of Governors of the Federal Reserve System, the Bureau of Consumer Financial Protection, the Federal Deposit Insurance Corporation, the Federal Housing Finance Agency, the Financial Crimes Enforcement Network, the Office of Foreign Asset Control, the Office of the Comptroller of the Currency, the National Credit Union Administration, the Department of the Treasury, or any Federal agency or department that regulates banking or financial services, as determined by the Secretary of the Treasury.
 - **(7)** *Financial service* The term financial service—
   - **(A)** means a financial product or service, as defined in section 1002 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5481);
   - **(B)** includes the business of insurance;
   - **(C)** includes, whether performed directly or indirectly, the authorizing, processing, clearing, settling, billing, transferring for deposit, transmitting, delivering, instructing to be delivered, reconciling, collecting, or otherwise effectuating or facilitating of payments or funds, where such payments or funds are made or transferred by any means, including by the use of credit cards, debit cards, other payment cards, or other access devices, accounts, original or substitute checks, or electronic funds transfers;
   - **(D)** includes acting as a money transmitting business which directly or indirectly makes use of a depository institution in connection with effectuating or facilitating a payment for a cannabis-related legitimate business or service provider in compliance with section 5330 of title 31, United States Code, and any applicable State law; and
-  - **(E)** includes acting as an armored car service for processing and depositing with a depository institution or the Board of Governors of the Federal Reserve System with respect to any monetary instruments (as defined under section 1956(c)(5) of title 18, United States Code.
+  - **(E)** includes acting as an armored car service for processing and depositing with a depository institution or a Federal reserve bank with respect to any monetary instruments (as defined under section 1956(c)(5) of title 18, United States Code.
 - **(8)** *Indian country* The term “Indian country” has the meaning given that term in section 1151 of title 18.
 - **(9)** *Indian Tribe* The term “Indian Tribe” has the meaning given that term in section 102 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a).
 - **(10)** *Insurer* The term “insurer” has the meaning given that term under section 313(r) of title 31, United States Code.
@@ -122,3 +181,11 @@ In this Act:
     - **(ii)** provides any business services, including the sale or lease of real or any other property, legal or other licensed services, or any other ancillary service, relating to cannabis; and
   - **(B)** does not include a business, organization, or other person that participates in any business or organized activity that involves handling cannabis or cannabis products, including cultivating, producing, manufacturing, selling, transporting, displaying, dispensing, distributing, or purchasing cannabis or cannabis products.
 - **(14)** *State* The term State means each of the several States, the District of Columbia, Puerto Rico, and any territory or possession of the United States.
+
+## § 15. Discretionary surplus funds
+
+Section 7(a)(3)(A) of the Federal Reserve Act (12 U.S.C. 289(a)(3)(A)) is amended by striking “$6,825,000,000” and inserting “$6,821,000,000”.
+
+## § 16. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
