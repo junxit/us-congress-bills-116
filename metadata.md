@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 577
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 577
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 2203) to increase transparency, ac
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2019-09-25 — [House 116-1-542](votes/house-116-1-0542.md) — On Ordering the Previous Question on the Amendment and the Resolution — **Passed** (227–191)
+- 2019-09-25 — [House 116-1-543](votes/house-116-1-0543.md) — On Agreeing to the Resolution — **Passed** (228–191)
+
 ## Actions
 
 - 2019-09-24 — Introduced in House
@@ -27,3 +32,16 @@ Providing for consideration of the bill (H.R. 2203) to increase transparency, ac
 - 2019-09-24 — Rule provides for consideration of H.R. 2203, H.R. 3525, and H.Res. 576 under closed rules. Rule also provides that it shall be in order at any time on the legislative day of September 26, 2019, for the Speaker to entertain motions that the House suspend the rules; and provides for proceedings during the period from September 30, 2019, through October 14, 2019
 - 2019-09-24 — The House Committee on Rules reported an original measure, H. Rept. 116-217, by Ms. Scanlon.
 - 2019-09-24 — The House Committee on Rules reported an original measure, H. Rept. 116-217, by Ms. Scanlon.
+- 2019-09-25 — Amendment (A001) offered by Ms. Scanlon. (consideration: CR H7919-7920; text: CR H7919)
+- 2019-09-25 — Amendment agreed to by House: On agreeing to the Scanlon amendment (A001) Agreed to by voice vote.
+- 2019-09-25 — Considered as privileged matter. (consideration: CR H7913-7920)
+- 2019-09-25 — DEBATE - The House proceeded with one hour of debate on H. Res. 577.
+- 2019-09-25 — House amendment agreed to: On agreeing to the Scanlon amendment (A001) Agreed to by voice vote.
+- 2019-09-25 — House amendment offered
+- 2019-09-25 — House amendment offered/reported by: Amendment (A001) offered by Ms. Scanlon.(consideration: CR H7919-7920; text: CR H7919)
+- 2019-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-09-25 — On agreeing to the Scanlon amendment (A001) Agreed to by voice vote.
+- 2019-09-25 — On agreeing to the resolution Agreed to by the Yeas and Nays: 228 - 191 (Roll no. 543).
+- 2019-09-25 — On ordering the previous question on the amendment (A001) Agreed to by the Yeas and Nays: 227 - 191 (Roll no. 542). (consideration: CR H7919-7920)
+- 2019-09-25 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 228 - 191 (Roll no. 543).
+- 2019-09-25 — Roll call votes on amendments in House
