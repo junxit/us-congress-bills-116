@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 277
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 277
@@ -16,13 +16,17 @@ A resolution remembering the 25th Anniversary of the bombing of the Argentine Is
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (5)
+## Cosponsors (9)
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Cruz, Ted [R-TX] (C001098)
 - Sen. Kaine, Tim [D-VA] (K000384)
 - Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -32,3 +36,7 @@ A resolution remembering the 25th Anniversary of the bombing of the Argentine Is
 
 - 2019-07-17 — Introduced in Senate
 - 2019-07-17 — Referred to the Committee on Foreign Relations.
+- 2019-09-25 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2019-09-26 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with a preamble. Without written report.
+- 2019-09-26 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with a preamble. Without written report.
+- 2019-09-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 235.
