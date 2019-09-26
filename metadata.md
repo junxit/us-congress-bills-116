@@ -1,7 +1,7 @@
 ---
 measure: S. 384
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 384
@@ -28,3 +28,7 @@ A bill to require the Secretary of Commerce, acting through the Director of the 
 
 - 2019-02-07 — Introduced in Senate
 - 2019-02-07 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2019-07-10 — Committee on Commerce, Science, and Transportation. Ordered to be reported with amendments favorably.
+- 2019-09-26 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-128.
+- 2019-09-26 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-128.
+- 2019-09-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 240.
