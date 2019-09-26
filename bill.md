@@ -15,7 +15,7 @@ This Act may be cited as the “Traveling Parents Screening Consistency Act of 2
 
 ## § 2. Comptroller General review
 
-Not later than one year after the date of the enactment of this Act, the Comptroller General of the United States shall conduct a review of the Transportation Security Administration’s (TSA) implementation of the Bottles and Breastfeeding Equipment Screening Act (Public Law 114–293), as well as the effectiveness of TSA in ensuring screening protocol clarity and screening consistency relating to the screening of formula, breast milk, purified deionized water for infants, and juice. Such review shall include the following:
+Not later than 1 year after the date of the enactment of this Act, the Comptroller General of the United States shall conduct a review of the Transportation Security Administration’s (TSA) implementation of the Bottles and Breastfeeding Equipment Screening Act (Public Law 114–293), as well as the effectiveness of TSA in ensuring screening protocol clarity and screening consistency relating to the screening of formula, breast milk, purified deionized water for infants, and juice. Such review shall include the following:
 
 - **(1)** Consider whether TSA effectively manages consistency of screening protocol applications for formula, breastmilk, purified deionized water for infants, and juice, including the extent to which Transportation Security officers engage in screening beyond that which is prescribed through relevant policies and training.
 - **(2)** Evaluate the need for TSA to update and revise procedures for such screening.
