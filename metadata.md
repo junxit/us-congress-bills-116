@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1595
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1595
@@ -225,10 +225,11 @@ SAFE Banking Act of 2019
 - Rep. Cleaver, Emanuel [D-MO-5] (C001061)
 - Rep. Costa, Jim [D-CA-16] (C001059)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -252,3 +253,4 @@ SAFE Banking Act of 2019
 - 2019-09-25 — Mr. Perlmutter moved to suspend the rules and pass the bill, as amended.
 - 2019-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 321 - 103 (Roll no. 544). (text: CR H7962-7964)
 - 2019-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 321 - 103 (Roll no. 544).(text: CR H7962-7964)
+- 2019-09-26 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
