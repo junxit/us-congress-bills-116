@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3525
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3525
@@ -54,3 +54,21 @@ U.S. Border Patrol Medical Screening Standards Act
 - 2019-09-18 — Placed on the Union Calendar, Calendar No. 167.
 - 2019-09-18 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-211.
 - 2019-09-18 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-211.
+- 2019-09-24 — Rules Committee Resolution H. Res. 577 Reported to House. Rule provides for consideration of H.R. 2203, H.R. 3525 and H. Res. 576. Rule provides for consideration of H.R. 2203, H.R. 3525, and H.Res. 576 under closed rules. Rule also provides that it shall be in order at any time on the legislative day of September 26, 2019, for the Speaker to entertain motions that the House suspend the rules; and provides for proceedings during the period from September 30, 2019, through October 14, 2019
+- 2019-09-26 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2019-09-26 — Considered as unfinished business. (consideration: CR H8038-8041)
+- 2019-09-26 — Considered under the provisions of rule H. Res. 577. (consideration: CR H8032-8037)
+- 2019-09-26 — DEBATE - The House proceeded with 10 minutes of debate on the Green (TN) motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back with an amendment to change the effective date of section 3 to September 30, 2027.
+- 2019-09-26 — DEBATE - The House proceeded with one hour of debate on H.R. 3525.
+- 2019-09-26 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2019-09-26 — House amendment offered
+- 2019-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-09-26 — Mr. Green (TN) moved to recommit with instructions to the Committee on Homeland Security. (text: CR H8038)
+- 2019-09-26 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2019-09-26 — On motion to recommit with instructions Failed by the Yeas and Nays: 202 - 213 (Roll no. 551).
+- 2019-09-26 — On passage Passed by the Yeas and Nays: 230 - 184 (Roll no. 552). (text: CR H8032)
+- 2019-09-26 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of Rule XIX, the Chair postponed further proceedings on H.R. 3525.
+- 2019-09-26 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 230 - 184 (Roll no. 552).(text: CR H8032)
+- 2019-09-26 — Rule provides for consideration of H.R. 2203, H.R. 3525 and H. Res. 576. Rule provides for consideration of H.R. 2203, H.R. 3525, and H.Res. 576 under closed rules. Rule also provides that it shall be in order at any time on the legislative day of September 26, 2019, for the Speaker to entertain motions that the House suspend the rules; and provides for proceedings during the period from September 30, 2019, through October 14, 2019
+- 2019-09-26 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2019-09-26 — The previous question was ordered pursuant to the rule.
