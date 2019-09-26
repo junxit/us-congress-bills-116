@@ -1,7 +1,7 @@
 ---
 measure: S. 1678
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1678
@@ -16,11 +16,14 @@ Taiwan Allies International Protection and Enhancement Initiative (TAIPEI) Act o
 
 - Sen. Gardner, Cory [R-CO] (G000562)
 
-## Cosponsors (3)
+## Cosponsors (6)
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Cruz, Ted [R-TX] (C001098)
 
 ## Committees (1)
 
@@ -30,3 +33,7 @@ Taiwan Allies International Protection and Enhancement Initiative (TAIPEI) Act o
 
 - 2019-05-23 — Introduced in Senate
 - 2019-05-23 — Read twice and referred to the Committee on Foreign Relations.
+- 2019-09-25 — Committee on Foreign Relations. Ordered to be reported with an amendment favorably.
+- 2019-09-26 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2019-09-26 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2019-09-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 237.
