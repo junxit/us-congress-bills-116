@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3526
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3526
@@ -34,3 +34,9 @@ Counter Terrorist Network Act
 - 2019-08-27 — Placed on the Union Calendar, Calendar No. 147.
 - 2019-08-27 — Reported by the Committee on Homeland Security. H. Rept. 116-189.
 - 2019-08-27 — Reported by the Committee on Homeland Security. H. Rept. 116-189.
+- 2019-09-26 — Considered under suspension of the rules. (consideration: CR H8025-8027)
+- 2019-09-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3526.
+- 2019-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-09-26 — Mr. Correa moved to suspend the rules and pass the bill.
+- 2019-09-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8025-8026)
+- 2019-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8025-8026)

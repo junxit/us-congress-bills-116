@@ -30,4 +30,4 @@ Section 411 of the Homeland Security Act of 2002 (6 U.S.C. 211) is amended—
 
 ## § 3. Briefings
 
-The Commissioner of U.S. Customs and Border Protection shall biannually brief the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate regarding activities, during the prior six months, in furtherance of clause (vii) of section 411(g)(4)(C) of the Homeland Security Act of 2002 (6 U.S.C. 211(g)(4)(C)), as added by section 2 of this Act. Such briefings may be provided in a classified setting if the Commissioner determines such is appropriate.
+The Commissioner of U.S. Customs and Border Protection shall biannually brief the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate regarding activities, during the prior 6 months, in furtherance of clause (vii) of section 411(g)(4)(C) of the Homeland Security Act of 2002 (6 U.S.C. 211(g)(4)(C)), as added by section 2 of this Act. Such briefings may be provided in a classified setting if the Commissioner determines such is appropriate.
