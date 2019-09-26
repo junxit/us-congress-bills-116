@@ -25,7 +25,7 @@ This Act may be cited as the “TSA Reaching Across Nationalities, Societies, an
   - **(1)** International enplanement.
   - **(2)** Local populations surrounding major airports.
 - **(d)** *Implementation* Not later than 180 days after the submission of the plan required under subsection (a), the Administrator of the TSA shall implement such plan.
-- **(e)** *GAO review* Not later than one year after the implementation pursuant to subsection (d) of the plan required under subsection (a), the Comptroller General of the United States shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a review of such implementation.
+- **(e)** *GAO review* Not later than 1 year after the implementation pursuant to subsection (d) of the plan required under subsection (a), the Comptroller General of the United States shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a review of such implementation.
 - **(f)** *Definitions* In this section:
   - **(1)** *Airport* The term “airport” has the meaning given such term in section 40102 of title 49, United States Code.
   - **(2)** *Major airports* The term “major airports” means Category X and Category I airports.
