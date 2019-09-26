@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 236
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 236
@@ -16,9 +16,10 @@ A resolution reaffirming the strong partnership between Tunisia and the United S
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ A resolution reaffirming the strong partnership between Tunisia and the United S
 
 - 2019-06-05 — Introduced in Senate
 - 2019-06-05 — Referred to the Committee on Foreign Relations.
+- 2019-09-25 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2019-09-26 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with a preamble. Without written report.
+- 2019-09-26 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with a preamble. Without written report.
+- 2019-09-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 234.
