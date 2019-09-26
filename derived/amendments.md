@@ -1,7 +1,7 @@
 ---
 measure: S. 2297
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-227 amendatory instructions. 52 executed, 175 stated and not applied.
+250 amendatory instructions. 56 executed, 194 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -395,12 +395,48 @@ to guess them.
 
 ### 33 U.S.C. § 1601
 
-> in the matter preceding paragraph (1) of section 70005, as redesignated by subsection (a)(1), by striking “and 70003” and inserting “70003, and 70004”; and
+> in the matter preceding paragraph (1), by striking “70004” and inserting “70005”; and
+
+| | |
+|---|---|
+| Removed | `70004` |
+| Inserted | `70005` |
+
+### 33 U.S.C. § 1601
+
+> in paragraph (1), by striking “70005” and inserting “70006”; and
+
+| | |
+|---|---|
+| Removed | `70005` |
+| Inserted | `70006` |
+
+### 33 U.S.C. § 1601
+
+> in the matter preceding paragraph (1) in section 70003(c), by striking “70004” and inserting “70005”;
+
+| | |
+|---|---|
+| Removed | `70004` |
+| Inserted | `70005` |
+
+### 33 U.S.C. § 1601
+
+> (3) in the matter preceding paragraph (1) of section 70005, as redesignated by subsection (a)(1), by striking “and 70003” and inserting “70003, and 70004”; and
 
 | | |
 |---|---|
 | Removed | `and 70003` |
 | Inserted | `70003, and 70004` |
+
+### 42 U.S.C. § 9620
+
+> by striking “Nothing” and inserting “After the date on which the Secretary of the Interior conveys land under section 533, nothing”; and
+
+| | |
+|---|---|
+| Removed | `Nothing` |
+| Inserted | `After the date on which the Secretary of the Interior conveys land under section 533, nothing` |
 
 ### 33 U.S.C. § 2761
 
@@ -538,6 +574,10 @@ complete account of the bill's effect, which it is not.
 | — | strike | in paragraph (5), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (6) as paragraph (7); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (5) the following new paragraph (6): | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1902(b) of title 14, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (6), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (7) as paragraph (8); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (6) the following new paragraph (7): | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 27 of title 14, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The analysis for chapter 27 of title 14, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (d) as subsection (e); and | the bill names no machine-readable US Code section |
@@ -617,6 +657,15 @@ complete account of the bill's effect, which it is not.
 | — | insert | in subsection (c)(4), by inserting “or update thereto” after “plan” each place it appears. | the bill names no machine-readable US Code section |
 | — | insert | Section 80301(c) of title 46, United States Code, as amended by section 302, is further amended by inserting “and shall be available until expended” before the period at the end. | the bill names no machine-readable US Code section |
 | — | replace | Section 9307(f)(1) of title 46, United States Code, is amended by striking “2020” and inserting “2027”. | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “seven” and inserting “8”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking “representing the interests of” and inserting “chosen from among nominations made by”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C), by striking “representing the interests of Great Lakes ports” and inserting “chosen from among nominations made by Great Lakes port authorities and marine terminals”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “representing the interests of” and inserting “chosen from among nominations made by”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraph (E) as subparagraph (F); | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (D) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | in subparagraph (F), as so redesignated, by striking “with a background in finance or accounting,”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (f)(1), by striking “2020” and inserting “2030”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 8905 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in the matter preceding subparagraph (A), by inserting “and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy” before “shall”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A), by striking “Army, Navy, Air Force, and Marine Corps” and inserting “armed forces”; and | the bill names no machine-readable US Code section |
@@ -633,7 +682,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the matter preceding subparagraph (A) of subsection (a)(2), by striking “may be appropriated” and inserting “shall be available without further appropriations and shall remain available until expended”; and | the bill names no machine-readable US Code section |
 | — | insert | in the matter preceding subparagraph (A) of paragraph (1), by inserting “plus a surcharge of 25 percent of such total amount,” after “seafarer,”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (4). | the bill names no machine-readable US Code section |
-| — | replace | in subsection (a), by striking “law enforcement personnel” and inserting “public safety personnel”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking “law enforcement agency personnel” and inserting “public safety personnel”; | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding subparagraph (A) of subsection (b)(8), by striking “law enforcement personnel—” and inserting “public safety personnel—”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c)(2)(C), by striking “law enforcement personnel” and inserting “public safety personnel”; and | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding paragraph (1) of subsection (a), by striking “law enforcement personnel—” and inserting “public safety personnel—”; | the bill names no machine-readable US Code section |
@@ -655,10 +704,12 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 1601` | redesignate | by redesignating sections 70004 and 70005 as sections 70005 and 70006, respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1601` | insert | by inserting after section 70003 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1601` | replace | The analysis for chapter 700 of title 46, United States Code, is amended by striking the items relating to sections 70004 and 70005 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1601` | insert | in section 70032, by inserting “70005,” after “70004,”. | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 1601` | insert | (4) in section 70032, by inserting “70005,” after “70004,”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 9620` | add-at-end | Section 533 of the Coast Guard Authorization Act of 2016 (Public Law 114–120; 130 Stat. 74) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 9620` | replace | by striking “Nothing” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 9620` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 9620` | add-at-end | Section 533 of the Coast Guard Authorization Act of 2016 (Public Law 114–120; 130 Stat. 74) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 9620` | insert | by inserting “, with respect to contaminants on such land placed there prior to the date on which the land is conveyed” before the period. | the bill quotes the text inserted but describes where it goes |
 | — | strike | in the matter preceding paragraph (1), by striking “shall”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “advise” and inserting “shall advise and provide recommendations in writing to”; and | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (E), by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
@@ -672,7 +723,11 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 2761` | insert | in paragraph (1), by inserting “technology” after “research and”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 2761` | redesignate | by redesignating clauses (iii) and (iv) as clauses (iv) and (v), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2761` | insert | by inserting after clause (ii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 2761` | redesignate | by inserting after clause (v), as redesignated by subclause (II), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 2761` | redesignate | by inserting after clause (v), as redesignated by subclause (II) clause (ii) of this subparagraph, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2761` | replace | by striking paragraph (7) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2761` | insert | by inserting “States, tribes,” after “research institutions,”; and | the bill quotes the text inserted but describes where it goes |
+| — | add-at-end | Chapter 35 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The analysis for chapter 35 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 319 of title 14, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | Section 305(i)(1)(G)(iv) of Public Law 94–265, as amended by section 416 of the Coast Guard Authorization of 2006 (Public Law 109–241), is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 308 of title 46, United States Code, is amended by striking “$28,012,310 for fiscal year 2018 and $28,544,543 for fiscal year 2019” and inserting “$29,086,888 for fiscal year 2020 and $29,639,538 for fiscal year 2021”. | the bill names no machine-readable US Code section |
