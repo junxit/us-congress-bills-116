@@ -1,7 +1,7 @@
 ---
 measure: S. 2297
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2297
@@ -30,3 +30,7 @@ Coast Guard Authorization Act of 2019
 
 - 2019-07-25 — Introduced in Senate
 - 2019-07-25 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2019-07-31 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment favorably.
+- 2019-09-26 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with amendments. Without written report.
+- 2019-09-26 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with amendments. Without written report.
+- 2019-09-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 226.
