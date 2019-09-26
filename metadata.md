@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2203
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2203
@@ -47,11 +47,12 @@ Homeland Security Improvement Act
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 - Rep. Levin, Mike [D-CA-49] (L000593)
 
-## Committees (3)
+## Committees (4)
 
 - House — Ways and Means Committee
 - House — Judiciary Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (2)
 
@@ -96,3 +97,4 @@ Homeland Security Improvement Act
 - 2019-09-25 — Rule provides for consideration of H.R. 2203, H.R. 3525 and H. Res. 576. Rule provides for consideration of H.R. 2203, H.R. 3525, and H.Res. 576 under closed rules. Rule also provides that it shall be in order at any time on the legislative day of September 26, 2019, for the Speaker to entertain motions that the House suspend the rules; and provides for proceedings during the period from September 30, 2019, through October 14, 2019
 - 2019-09-25 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-09-25 — The previous question was ordered pursuant to the rule.
+- 2019-09-26 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
