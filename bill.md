@@ -30,6 +30,7 @@ That the Senate—
 
 - **(1)** commends the work of the Global Fund and its partners for their contributions aimed at ending the epidemics of AIDS, tuberculosis, and malaria;
 - **(2)** affirms the support of the United States for the goal of securing a minimum of $14,000,000,000 in donor commitments for the Sixth Global Fund Replenishment, to be held on October 10, 2019, in Lyon, France;
-- **(3)** urges donor countries to step up the fight and increase their pledges for the Sixth Global Fund Replenishment;
-- **(4)** urges Global Fund recipient countries to continue to make and meet ambitious co-financing commitments to sustain progress in ending the epidemics of AIDS, tuberculosis, and malaria; and
-- **(5)** encourages United States bilateral aid programs to continue their collaboration with the Global Fund to maximize the life-saving impact of global health investments.
+- **(3)** supports United States contributions of 33 percent of the budget provided by the Global Fund’s Sixth Replenishment, consistent with section 202(d) of the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003 (22 U.S.C. 7622(d)), and provided that the Fund continues to uphold its longstanding commitment to transparency, accountability, and results in combating AIDS, tuberculosis, and malaria;
+- **(3)** (4) urges donor countries to step up the fight and increase their pledges for the Sixth Global Fund Replenishment;
+- **(4)** (5) urges Global Fund recipient countries to continue to make and meet ambitious co-financing commitments to sustain progress in ending the epidemics of AIDS, tuberculosis, and malaria; and
+- **(5)** (6) encourages United States bilateral aid programs to continue their collaboration with the Global Fund to maximize the life-saving impact of global health investments.
