@@ -1,7 +1,7 @@
 ---
 measure: S. 737
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 737
@@ -48,3 +48,18 @@ Building Blocks of STEM Act
 - 2019-09-26 — Senate amendment agreed to: Amendment SA 944 agreed to in Senate by Unanimous Consent.
 - 2019-09-26 — Senate amendment proposed (on the floor): Amendment SA 944 proposed by Senator McConnell for Senator Rosen.
 - 2019-09-26 — Senate amendment submitted
+- 2019-09-27 — Message on Senate action sent to the House.
+- 2019-10-01 — Held at the desk.
+- 2019-10-01 — Received in the House.
+- 2019-12-09 — Considered under suspension of the rules. (consideration: CR H9362-9363)
+- 2019-12-09 — DEBATE - The House proceeded with forty minutes of debate on S. 737.
+- 2019-12-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-12-09 — Ms. Johnson (TX) moved to suspend the rules and pass the bill.
+- 2019-12-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9362)
+- 2019-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9362)
+- 2019-12-19 — Presented to President.
+- 2019-12-19 — Presented to President.
+- 2019-12-24 — Became Public Law No: 116-102.
+- 2019-12-24 — Became Public Law No: 116-102.
+- 2019-12-24 — Signed by President.
+- 2019-12-24 — Signed by President.
