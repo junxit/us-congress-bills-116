@@ -15,7 +15,7 @@ This Act may be cited as the “Helping Families Fly Act of 2019”.
 
 ## § 2. Training required
 
-- **(a)** *In general* Not later than one year after the date of the enactment of this Act, the Administrator shall develop and implement training for frontline Administration personnel regarding the screening of pregnant women and families with young children at passenger screening checkpoints. Such training shall include the following:
+- **(a)** *In general* Not later than 1 year after the date of the enactment of this Act, the Administrator shall develop and implement training for frontline Administration personnel regarding the screening of pregnant women and families with young children at passenger screening checkpoints. Such training shall include the following:
   - **(1)** Information relating to concerns of pregnant women relating to the use of Advanced Imaging Technology and appropriate opt-out procedures and alternative screening procedures.
   - **(2)** Guidelines to assist pregnant women and families traveling with young children effectively and efficiently complete the screening process in a manner that is respectful and improves the overall functioning of the screening checkpoint.
   - **(3)** Communication and procedural guidelines for frontline Administration personnel to assist with passenger divestiture for pregnant women and families traveling with young children to improve the effectiveness and overall passenger experience at the screening checkpoint.
