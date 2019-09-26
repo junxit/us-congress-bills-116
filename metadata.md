@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2528
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2528
@@ -63,3 +63,9 @@ STEM Opportunities Act of 2019
 - 2019-07-30 — Placed on the Union Calendar, Calendar No. 142.
 - 2019-07-30 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 116-184.
 - 2019-07-30 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 116-184.
+- 2019-09-26 — Considered under suspension of the rules. (consideration: CR H8005-8010)
+- 2019-09-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2528.
+- 2019-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-09-26 — Ms. Johnson (TX) moved to suspend the rules and pass the bill, as amended.
+- 2019-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8005-8009)
+- 2019-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8005-8009)
