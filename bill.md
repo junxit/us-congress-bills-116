@@ -33,7 +33,7 @@ This Act may be cited as the “South Florida Clean Coastal Waters Act of 2019�
     >   - **(6)** nongovernmental organizations; and
     >   - **(7)** Indian tribes (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304)).
     > - **(c)** *Action plan*
-    >   - **(1)** *In general* Not later than 2 years after the date of the enactment of the South Florida Clean Coastal Waters Act of 2019, the Task Force shall develop and submit to Congress a plan, based on the integrated assessment under subsection (b), for reducing, mitigating, and controlling harmful algal blooms and hypoxia in South Florida.
+    >   - **(1)** *In general* Not later than 3 years and 6 months after the date of the enactment of the South Florida Clean Coastal Waters Act of 2019, the Task Force shall develop and submit to Congress a plan, based on the integrated assessment under subsection (b), for reducing, mitigating, and controlling harmful algal blooms and hypoxia in South Florida.
     >   - **(2)** *Contents* The plan submitted under paragraph (1) shall—
     >     - **(A)** address the monitoring needs identified in the integrated assessment under subsection (b);
     >     - **(B)** develop a timeline and budgetary requirements for deployment of future assets;
