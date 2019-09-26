@@ -19,6 +19,14 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas the alliance is a testament to the ability of great nations to overcome the past and jointly work to create a more secure and prosperous future;
 - Whereas our two countries, coming from different cultural backgrounds, have created an active and dynamic relationship beneficial to both peoples; and
 - Whereas cultural and people-to-people ties between the United States and Japan are long-standing and deep, as exemplified by the 1912 gift from the People of Japan to the People of the United States of the beautiful cherry trees that grace our Nation’s capital, signifying the unbreakable bond between the two nations: Now, therefore be it
+- Whereas the United States and Japan granted each other formal recognition on March 31, 1854, with the signing of the Treaty of Peace and Amity, and established full diplomatic relations in 1858;
+- Whereas, for the past 70 years, the alliance between the United States and Japan has played a vital role in ensuring peace, stability, and economic development in Asia and beyond;
+- Whereas the United States and Japan are deeply committed to the common values of freedom, democracy, rule of law, and free market economics;
+- Whereas the United States-Japan alliance, forged nearly six decades ago with the signing of the Treaty of Mutual Cooperation and Security, is the cornerstone for advancing a free and open Indo-Pacific region, and contributes internationally to peace and stability;
+- Whereas the United States and Japan are indispensable partners in combating the proliferation of weapons of mass destruction, improving global health, countering human trafficking and promoting human rights, assisting the victims of conflict and disaster worldwide, and contributing to global economic development;
+- Whereas the alliance is a testament to the ability of great nations to overcome the past and jointly work to create a more secure and prosperous future;
+- Whereas our two countries, coming from different cultural backgrounds, have created an active and dynamic relationship beneficial to both peoples; and
+- Whereas cultural and people-to-people ties between the United States and Japan are long-standing and deep, as exemplified by the 1912 gift from the People of Japan to the People of the United States of the beautiful cherry trees that grace our Nation’s capital, signifying the unbreakable bond between the two nations: Now, therefore be it
 
 That the Senate—
 

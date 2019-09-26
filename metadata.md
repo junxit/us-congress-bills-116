@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 183
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 183
@@ -16,11 +16,13 @@ A resolution reaffirming the vital role of the United States-Japan alliance in p
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (3)
+## Cosponsors (5)
 
 - Sen. Risch, James E. [R-ID] (R000584)
 - Sen. Markey, Edward J. [D-MA] (M000133)
 - Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
 
 ## Committees (1)
 
@@ -30,3 +32,7 @@ A resolution reaffirming the vital role of the United States-Japan alliance in p
 
 - 2019-05-02 — Introduced in Senate
 - 2019-05-02 — Referred to the Committee on Foreign Relations. (text: CR S2619-2620)
+- 2019-09-25 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2019-09-26 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with an amended preamble. Without written report.
+- 2019-09-26 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with an amended preamble. Without written report.
+- 2019-09-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 233.
