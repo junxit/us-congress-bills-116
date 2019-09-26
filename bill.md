@@ -15,7 +15,7 @@ This Act may be cited as the “Trusted Traveler Reconsideration and Restoration
 
 ## § 2. Comptroller General review
 
-Not later than one year after the date of the enactment of this Act, the Comptroller General of the United States shall conduct a review of Department of Homeland Security trusted traveler programs. Such review shall examine the following:
+Not later than 1 year after the date of the enactment of this Act, the Comptroller General of the United States shall conduct a review of Department of Homeland Security trusted traveler programs. Such review shall examine the following:
 
 - **(1)** The extent to which the Department of Homeland Security tracks data and monitors trends related to trusted traveler programs, including root causes for identity-matching errors resulting in an individual’s enrollment in a trusted traveler program being reinstated.
 - **(2)** Whether the Department coordinates with the heads of other relevant Federal, State, local, Tribal, or territorial entities regarding redress procedures for disqualifying offenses not covered by the Department’s own redress processes but which offenses impact an individual’s enrollment in a trusted traveler program.
