@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3106
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3106
@@ -98,3 +98,10 @@ Domestic and International Terrorism DATA Act
 - 2019-09-19 — Placed on the Union Calendar, Calendar No. 168.
 - 2019-09-19 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-213, Part I.
 - 2019-09-19 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-213, Part I.
+- 2019-09-26 — Considered under suspension of the rules. (consideration: CR H8027-8032)
+- 2019-09-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3106.
+- 2019-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-09-26 — Mr. Thompson (MS) moved to suspend the rules and pass the bill, as amended.
+- 2019-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8027-8028)
+- 2019-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8027-8028)
+- 2019-09-26 — The title of the measure was amended. Agreed to without objection.

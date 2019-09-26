@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3106
 
-> To require a joint domestic terrorism report, establish within the Department of Homeland Security a National Center for the Study of Domestic Terrorism, authorize research within the Department of Homeland Security on current trends in domestic terrorism, and for other purposes.
+> To require a joint domestic and international terrorism report, authorize research within the Department of Homeland Security on current trends in domestic terrorism, and for other purposes.
 
 ## § 1. Short title
 
