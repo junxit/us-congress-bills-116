@@ -1,7 +1,7 @@
 ---
 measure: S. 737
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 737
@@ -16,7 +16,7 @@ Building Blocks of STEM Act
 
 - Sen. Rosen, Jacky [D-NV] (R000608)
 
-## Cosponsors (7)
+## Cosponsors (9)
 
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
 - Sen. Schatz, Brian [D-HI] (S001194)
@@ -25,6 +25,8 @@ Building Blocks of STEM Act
 - Sen. Fischer, Deb [R-NE] (F000463)
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
 
 ## Committees (1)
 
@@ -38,3 +40,11 @@ Building Blocks of STEM Act
 - 2019-08-16 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker under authority of the order of the Senate of 08/01/2019 without amendment. With written report No. 116-78.
 - 2019-08-16 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker under authority of the order of the Senate of 08/01/2019 without amendment. With written report No. 116-78.
 - 2019-08-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 180.
+- 2019-09-26 — Amendment SA 944 agreed to in Senate by Unanimous Consent.
+- 2019-09-26 — Amendment SA 944 proposed by Senator McConnell for Senator Rosen. (consideration: CR S5760-5761; text: CR S5760-5761) In the nature of a substitute.
+- 2019-09-26 — Measure laid before Senate by unanimous consent. (consideration: CR S5760-5761)
+- 2019-09-26 — Passed Senate with an amendment by Voice Vote.
+- 2019-09-26 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2019-09-26 — Senate amendment agreed to: Amendment SA 944 agreed to in Senate by Unanimous Consent.
+- 2019-09-26 — Senate amendment proposed (on the floor): Amendment SA 944 proposed by Senator McConnell for Senator Rosen.
+- 2019-09-26 — Senate amendment submitted
