@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 4501
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4501
+
+> To amend the Federal Deposit Insurance Act to provide that the consumer transaction account deposits of an insured depository institution are not considered to be funds obtained by or through a deposit broker, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Consumer Transaction Account Protection Act of 2019”.
+
+## § 2. Limited exception for consumer transaction account deposits
+
+Section 29 of the Federal Deposit Insurance Act (12 U.S.C. 1831f) is amended by adding at the end the following new subsection:
+
+> - **(j)** *Limited exception for consumer transaction account deposits*
+>   - **(1)** *In general* Consumer transaction account deposits of an insured depository institution shall not be considered to be funds obtained, directly or indirectly, by or through a deposit broker.
+>   - **(2)** *Consumer transaction account deposit defined* For purposes of this subsection, the term “consumer transaction account deposit” means a deposit in a transaction account, as defined in section 19(b)(1) of the Federal Reserve Act, with an insured depository institution—
+>     - **(A)** that is entirely covered by deposit insurance;
+>     - **(B)** that is opened by a natural person;
+>     - **(C)** that is held in the name of such natural person;
+>     - **(D)** that is used monthly by such natural person to make payments to, and to receive deposits from, third parties; and
+>     - **(E)** with respect to which only such natural person is recognized by the insured depository institution as being authorized to designate that withdrawals or payments be made from the account.
