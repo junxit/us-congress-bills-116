@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2534
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,7 +32,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `15 U.S.C. § 78a` | insert | The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by inserting after section 16 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 78a` | insert | in section 21(d)(2), by inserting “, section 16A of this title” after “section 10(b) of this title,”; | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 78a` | insert | in section 21(d)(2), by inserting “, section 16A of this title” after “section 10(b) of this title”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 78a` | insert | in subsection (g)(1), by inserting “and section 16A, ” after “thereunder,”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 78a` | insert | in subsection (h)(1), by inserting “and section 16A, ” after “thereunder,”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 78a` | insert | in section 21C(f), by inserting “or section 16A,” after “section 10(b)”. | the bill quotes the text inserted but describes where it goes |
