@@ -42,9 +42,8 @@ This Act may be cited as the “Insider Trading Prohibition Act”.
   >       - **(ii)** is made pursuant to an advance election.
 
 - **(b)** *Conforming amendments* The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is further amended—
-  - **(1)** in section 21(d)(2), by inserting “, section 16A of this title” after “section 10(b) of this title,”;
+  - **(1)** in section 21(d)(2), by inserting “, section 16A of this title” after “section 10(b) of this title”;
   - **(2)** in section 21A—
     - **(A)** in subsection (g)(1), by inserting “and section 16A, ” after “thereunder,”; and
     - **(B)** in subsection (h)(1), by inserting “and section 16A, ” after “thereunder,”; and
   - **(3)** in section 21C(f), by inserting “or section 16A,” after “section 10(b)”.
-- **(c)** *Sense of Congress* It is the sense of the Congress that the amendments made by this Act are intended to supercede section 10(b) or 14e of the Securities Exchange Act of 1934 with regard to the wrongful use or wrongful communication of material, nonpublic information in connection with the purchase or sale of securities, security-based swaps, and security-based swap agreements.
