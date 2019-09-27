@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 4553
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4553
+
+> To expand the tropical disease product priority review voucher program to encourage treatments for the Middle East respiratory syndrome, Nipah, and Rift Valley fever.
+
+## § 1. Short title
+
+This Act may be cited as the “Adding Epidemic Diseases to the FDA Priority Review Voucher Program Act”.
+
+## § 2. Expanding tropical disease product priority review voucher program to encourage treatments for Middle East respiratory syndrome, Nipah, and Rift Valley fever
+
+Section 524(a)(3) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360n(a)(3)) is amended—
+
+- **(1)** by redesignating subparagraph (S) as subparagraph (V); and
+- **(2)** by inserting after subparagraph (R) the following:
+  > - **(S)** Middle East respiratory syndrome.
+  > - **(T)** Nipah.
+  > - **(U)** Rift Valley fever.
