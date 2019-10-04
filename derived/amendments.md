@@ -1,7 +1,7 @@
 ---
 measure: H.R. 823
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 16 U.S.C. § 1132
 
-> in paragraph (18), by striking “1993,” and inserting “1993, and certain Federal land within the White River National Forest that comprises approximately 6,876 acres, as generally depicted as Proposed Ptarmigan Peak Wilderness Additions on the map entitled Proposed Ptarmigan Peak Wilderness Additions and dated January 23, 2018,”; and
+> in paragraph (18), by striking “1993,” and inserting “1993, and certain Federal land within the White River National Forest that comprises approximately 6,896 acres, as generally depicted as Proposed Ptarmigan Peak Wilderness Additions on the map entitled Proposed Ptarmigan Peak Wilderness Additions and dated June 24, 2019,”; and
 
 | | |
 |---|---|
 | Removed | `1993,` |
-| Inserted | `1993, and certain Federal land within the White River National Forest that comprises approximately 6,876 acres, as generally depicted as Proposed Ptarmigan Peak Wilderness Additions on the map entitled Proposed Ptarmigan Peak Wilderness Additions and dated January 23, 2018,` |
+| Inserted | `1993, and certain Federal land within the White River National Forest that comprises approximately 6,896 acres, as generally depicted as Proposed Ptarmigan Peak Wilderness Additions on the map entitled Proposed Ptarmigan Peak Wilderness Additions and dated June 24, 2019,` |
 
 ## Stated, not applied
 
