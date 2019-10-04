@@ -18,13 +18,17 @@ This Act may be cited as the “Outsourcing Accountability Act of 2019”.
 Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by adding at the end the following:
 
 > - **(s)** *Disclosure of number of domestic and foreign employees*
->   - **(1)** *Definition* In this subsection, the term “covered subsidiary” means, with respect to an issuer, any subsidiary of the issuer that is—
+>   - **(1)** *Definition* In this subsection, the term “covered subsidiary” means, with respect to an issuer, any subsidiary of such issuer that is—
 >     - **(A)** a consolidated subsidiary; or
->     - **(B)** a subsidiary with respect to which the issuer accounts for the investment of the issuer by using the equity method of accounting.
->   - **(2)** *Requirement* Except as provided in paragraph (3), beginning in the first full fiscal year that begins after the date of enactment of this subsection, each issuer that is required to file a report with the Commission under subsection (a) shall disclose annually to the Commission and to shareholders of the issuer—
->     - **(A)** the total number of employees of the issuer and covered subsidiaries with respect to the issuer who are domiciled in the United States, listed by number in each State;
->     - **(B)** the total number of employees of the issuer who physically work in and are domiciled in any country other than the United States, listed by number in each country;
->     - **(C)** the total number of employees of covered subsidiaries with respect to the issuer who physically work in and are domiciled in any country other than the United States, listed by the number of employees at each such covered subsidiary in each such country; and
->     - **(D)** as compared with the previous reporting year, the percentage amount by which the numbers described in subparagraphs (A), (B), and (C) increased or decreased with respect to the applicable number.
->   - **(3)** *Exemption for emerging growth companies* An emerging growth company shall not be subject to paragraph (2).
->   - **(4)** *Rules* The Commission may promulgate such rules as the Commission considers necessary to implement the requirement under paragraph (2).
+>     - **(B)** a subsidiary with respect to which the issuer accounts for the investment of the issuer in the subsidiary using the equity method of accounting.
+>   - **(2)** *Disclosure Requirement* Except with respect to an emerging growth company, beginning in the first full fiscal year that begins after the date of the enactment of this subsection, each issuer that is required to file a report with the Commission pursuant to subsection (a) shall disclose in such report—
+>     - **(A)** the total number of employees of the issuer and any covered subsidiary of the issuer who are domiciled in the United States—
+>       - **(i)** disaggregated by State, District of Columbia, commonwealth, territory, or possession of the United States; and
+>       - **(ii)** compared using a percentage change calculation to any such total reported by the issuer in the most recent annual report of the issuer;
+>     - **(B)** the total number of employees of the issuer who physically work in and are domiciled in any country other than the United States—
+>       - **(i)** disaggregated by country; and
+>       - **(ii)** compared using a percentage change calculation to any such total reported by the issuer in the most recent annual report of the issuer; and
+>     - **(C)** the total number of employees of any covered subsidiary of the issuer who physically work in and are domiciled in any country other than the United States—
+>       - **(i)** disaggregated by country; and
+>       - **(ii)** compared using a percentage change calculation to any such total reported by the issuer in the most recent annual report of the issuer.
+>   - **(3)** *Rulemaking* The Commission may issue such rules as the Commission considers necessary to implement this subsection.

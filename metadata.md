@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3624
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3624
@@ -29,3 +29,8 @@ Outsourcing Accountability Act of 2019
 - 2019-07-05 — Introduced in House
 - 2019-07-05 — Introduced in House
 - 2019-07-05 — Referred to the House Committee on Financial Services.
+- 2019-07-16 — Committee Consideration and Mark-up Session Held.
+- 2019-07-16 — Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 25.
+- 2019-10-04 — Placed on the Union Calendar, Calendar No. 173.
+- 2019-10-04 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-220.
+- 2019-10-04 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-220.
