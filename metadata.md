@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1014
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1014
@@ -32,3 +32,12 @@ Offshore Wind for Territories Act
 - 2019-02-06 — Introduced in House
 - 2019-02-06 — Introduced in House
 - 2019-02-06 — Referred to the House Committee on Natural Resources.
+- 2019-02-25 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2019-02-25 — Referred to the Subcommittee on Water, Oceans, and Wildlife.
+- 2019-05-01 — Committee Consideration and Mark-up Session Held.
+- 2019-05-01 — Ordered to be Reported by Unanimous Consent.
+- 2019-05-01 — Subcommittee on Energy and Mineral Resources Discharged.
+- 2019-05-01 — Subcommittee on Water, Oceans, and Wildlife Discharged.
+- 2019-10-11 — Placed on the Union Calendar, Calendar No. 182.
+- 2019-10-11 — Reported by the Committee on Natural Resources. H. Rept. 116-230.
+- 2019-10-11 — Reported by the Committee on Natural Resources. H. Rept. 116-230.
