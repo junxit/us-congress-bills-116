@@ -1,0 +1,31 @@
+---
+legis-num: H.R. 4666
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4666
+
+> To amend title XVIII of the Social Security Act to provide certain low-income territorial residents with automatic eligibility for premium and cost-sharing subsidies under the Medicare program, and for other purposes.
+
+## § 1. Automatic eligibility of certain low-income territorial residents for premium and cost-sharing subsidies under the Medicare program; sunset of enhanced allotment program
+
+- **(a)** *Automatic eligibility of certain low-Income territorial residents for premium and cost-Sharing subsidies under the Medicare program*
+  - **(1)** *In general* Section 1860D–14(a)(3) of the Social Security Act (42 U.S.C. 1395w–114(a)(3)) is amended—
+    - **(A)** in subparagraph (B)(v)—
+      - **(i)** in subclause (I), by striking “and” at the end;
+      - **(ii)** in subclause (II), by striking the period and inserting “; and”; and
+      - **(iii)** by inserting after subclause (II) the following new subclause:
+        > - **(III)** with respect to plan years beginning on or after January 1, 2021, shall provide that any part D eligible individual who is enrolled for medical assistance under the State Medicaid plan of a territory (as defined in section 1935(f)) under title XIX (or a waiver of such a plan) shall be treated as a subsidy eligible individual described in paragraph (1).
+
+    - **(B)** in subparagraph (F), by adding at the end the following new sentence: “The previous sentence shall not apply with respect to eligibility determinations for premium and cost-sharing subsidies under this section made on or after January 1, 2021.”.
+  - **(2)** *Conforming amendment* Section 1860D–31(j)(2)(D) of the Social Security Act (42 U.S.C. 1395w–141(j)(2)(D)) is amended by adding at the end the following new sentence: “The previous sentence shall not apply with respect to amounts made available to a State under this paragraph on or after January 1, 2021.”.
+- **(b)** *Sunset of enhanced allotment program*
+  - **(1)** *In general* Section 1935(e) of the Social Security Act (42 U.S.C. 1396u–5(e)) is amended—
+    - **(A)** in paragraph (1)(A), by inserting after “such State” the following: “before January 1, 2021”; and
+    - **(B)** in paragraph (3)—
+      - **(i)** in subparagraph (A), in the matter preceding clause (i), by inserting after “a year” the following: “(before 2021)”; and
+      - **(ii)** in subparagraph (B)(iii), by striking “a subsequent year” and inserting “each of fiscal years 2008 through 2020”.
+  - **(2)** *Territory defined* Section 1935 of the Social Security Act (42 U.S.C. 1396u–5) is amended by adding at the end the following new subsection:
+    > - **(f)** *Territory defined* In this section, the term territory means Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa.
