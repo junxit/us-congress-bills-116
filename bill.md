@@ -1,0 +1,37 @@
+---
+legis-num: H.R. 4648
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4648
+
+> To improve estimates of off-campus room and board for students at institutions of higher education, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Transparency in Off-Campus Housing Act”.
+
+## § 2. Institutional calculations for off-campus room and board
+
+- **(a)** *Authority To prescribe regulations* Section 478(a) of the Higher Education Act of 1965 (20 U.S.C. 1087rr(a)) is amended—
+  - **(1)** in paragraph (1)—
+    - **(A)** by striking “or” at the end of subparagraph (A);
+    - **(B)** by striking the period at the end of subparagraph (B) and inserting “; or”; and
+    - **(C)** by adding at the end the following:
+      > - **(C)** to prescribe—
+      >   - **(i)** at least one methodology that institutions of higher education (other than institutions that receive a waiver under clause (ii)) shall use in determining the allowance for room and board costs incurred by students described in subparagraph (A) of section 472(3) and by students described in subparagraph (D) of such section, that shall—
+      >     - **(I)** ensure that each such allowance determination is sufficient to cover reasonable room and board costs incurred by the students for whom such allowance is being determined; and
+      >     - **(II)** include the sources of information that institutions shall use in making each such allowance determination; and
+      >   - **(ii)** a process for granting institutions of higher education a waiver from the requirements of clause (i), including—
+      >     - **(I)** a requirement that each institution of higher education seeking such a waiver submit to the Secretary—
+      >       - **(aa)** a description of the methodology that the institution will use for each allowance determination described in clause (i);
+      >       - **(bb)** an assurance that each such allowance determination meets the requirements of clause (i)(I); and
+      >       - **(cc)** a demonstration that the institution will use reliable sources of information for each such allowance determination; and
+      >     - **(II)** a requirement that each institution of higher education that receives such a waiver publicly disclose on the website of the institution the methodology and sources of information used by the institution for each allowance determination described in clause (i).
+
+  - **(2)** by adding at the end the following:
+    > - **(3)** Any regulation proposed by the Secretary under paragraph (1)(C) of this subsection shall not be subject to the requirements of paragraph (2).
+
+- **(b)** *Requirement To prescribe regulations* Not later than 18 months after the date of enactment of this Act, the Secretary of Education shall issue regulations that meet the requirements of subparagraph (C) of section 478(a)(1) of the Higher Education Act of 1965 (20 U.S.C. 1087rr(a)(1)), as added by subsection (a).
