@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1314
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 33 U.S.C. § 3610
 
-> Section 12311 of the Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3610) is amended by striking “fiscal years 2009 through 2013” and inserting “2020 through 2024” .
+> Section 12311 of the Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3610) is amended by striking “for fiscal years 2009 through 2013 such sums as are necessary” and inserting “$47,500,000 for each of fiscal years 2020 through 2024” .
 
 | | |
 |---|---|
-| Removed | `fiscal years 2009 through 2013` |
-| Inserted | `2020 through 2024` |
+| Removed | `for fiscal years 2009 through 2013 such sums as are necessary` |
+| Inserted | `$47,500,000 for each of fiscal years 2020 through 2024` |
 
 ## Stated, not applied
 
