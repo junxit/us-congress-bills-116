@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3722
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3722
@@ -25,9 +25,10 @@ Joint Task Force to Combat Opioid Trafficking Act of 2019
 - Rep. Taylor, Van [R-TX-3] (T000479)
 - Rep. Meadows, Mark [R-NC-11] (M001187)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ Joint Task Force to Combat Opioid Trafficking Act of 2019
 - 2019-09-27 — Motion to reconsider laid on the table Agreed to without objection.
 - 2019-09-27 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 1 (Roll no. 554). (text: 09/26/2019 CR H8022-8023)
 - 2019-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 1 (Roll no. 554).(text: 09/26/2019 CR H8022-8023)
+- 2019-10-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
