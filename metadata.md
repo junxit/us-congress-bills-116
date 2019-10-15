@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 322
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 322
@@ -30,3 +30,7 @@ A resolution expressing support for the designation of the week of September 22 
 
 - 2019-09-23 — Introduced in Senate
 - 2019-09-23 — Referred to the Committee on Commerce, Science, and Transportation.
+- 2019-10-15 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 09/23/2019 CR S5631)
+- 2019-10-15 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 09/23/2019 CR S5631)
+- 2019-10-15 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S5799)
+- 2019-10-15 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S5799)
