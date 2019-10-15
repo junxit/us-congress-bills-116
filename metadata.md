@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3694
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3694
@@ -31,9 +31,10 @@ Helping Families Fly Act of 2019
 - Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
 - Rep. Phillips, Dean [D-MN-3] (P000616)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Helping Families Fly Act of 2019
 - 2019-09-26 — Mr. Correa moved to suspend the rules and pass the bill.
 - 2019-09-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8021)
 - 2019-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8021)
+- 2019-10-15 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
