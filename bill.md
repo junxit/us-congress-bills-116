@@ -26,7 +26,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(b)** *Regulations* If the Secretary establishes a grant program under this section, the Secretary shall prescribe regulations regarding—
   - **(1)** the evaluation of applications for grants under the program; and
   - **(2)** administration of the program.
-- **(c)** *Report required* Not later than two years after the Secretary establishes a grant program under this section, the Secretary shall submit to the committees on Veterans’ Affairs of the House of Representatives and the Senate a report regarding the determination of the Secretary whether the grant program is a financially effective means to promote the purposes in subsection (a)(3).
+- **(c)** *Report required* Not later than 2 years after the Secretary establishes a grant program under this section, the Secretary shall submit to the committees on Veterans’ Affairs of the House of Representatives and the Senate a report regarding the determination of the Secretary whether the grant program is a financially effective means to promote the purposes in subsection (a)(3).
 - **(d)** *Definitions* In this section:
   - **(1)** The term “Veterans Legacy Program” means the program of the National Cemetery Administration that is responsible for providing engagement and educational tools and opportunities to the public regarding the service and sacrifice of veterans interred in national, State, or Tribal veterans’ cemeteries.
   - **(2)** The term “institution of higher learning” has the meaning given that term in section 3452(f) of title 38, United States Code.

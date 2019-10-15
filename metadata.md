@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2385
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2385
@@ -35,3 +35,11 @@ To permit the Secretary of Veterans Affairs to establish a grant program to cond
 - 2019-07-24 — Placed on the Union Calendar, Calendar No. 138.
 - 2019-07-24 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 116-179.
 - 2019-07-24 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 116-179.
+- 2019-10-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2019-10-15 — Considered as unfinished business. (consideration: CR H8137-8138)
+- 2019-10-15 — Considered under suspension of the rules. (consideration: CR H8129-8130)
+- 2019-10-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2385.
+- 2019-10-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-10-15 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
+- 2019-10-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 1 (Roll no. 556). (text: CR H8129)
+- 2019-10-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 1 (Roll no. 556).(text: CR H8129)
