@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3246
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3246
@@ -25,9 +25,10 @@ Traveling Parents Screening Consistency Act of 2019
 - Rep. Hagedorn, Jim [R-MN-1] (H001088)
 - Rep. Bacon, Don [R-NE-2] (B001298)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Traveling Parents Screening Consistency Act of 2019
 - 2019-09-26 — Mr. Correa moved to suspend the rules and pass the bill.
 - 2019-09-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8024-8025)
 - 2019-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8024-8025)
+- 2019-10-15 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
