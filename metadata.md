@@ -1,7 +1,7 @@
 ---
 measure: S. 2169
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2169
@@ -29,3 +29,7 @@ A bill to amend section 3116 of title 5, United States Code, to clarify the appl
 
 - 2019-07-18 — Introduced in Senate
 - 2019-07-18 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2019-07-24 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2019-10-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment. With written report No. 116-129.
+- 2019-10-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment. With written report No. 116-129.
+- 2019-10-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 241.
