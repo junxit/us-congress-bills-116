@@ -7,60 +7,57 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4270
 
-> To prohibit commercial exports of certain nonlethal crowd control items and defense articles and services to the Hong Kong Disciplined Services, and for other purposes.
+> To prohibit commercial exports of certain nonlethal crowd control items and defense articles and services to the Hong Kong Police, and for other purposes.
 
 ## § 1. Short title
 
 This Act may be cited as the “Placing Restrictions on Teargas Exports and Crowd Control Technology to Hong Kong Act” or the “PROTECT Hong Kong Act”.
 
-## § 2. Findings and statement of policy
+## § 2. Findings
 
-- **(a)** *Findings* Congress finds the following:
-  - **(1)** During the 2019 anti-extradition bill and pro-democracy protests, the Hong Kong Police Force used non-lethal crowd control articles such as water cannon trucks, tear gas, rubber bullets, sponge grenades, beanbag rounds, batons, pepper spray, pepper balls, and projectile launchers.
-  - **(2)** The United Nations High Commissioner for Human Rights, along with human rights organizations, have called for an investigation of the use of crowd control tactics used in Hong Kong which fall short of international standards, including the United Nations Code of Conduct for Law Enforcement Officials and the Basic Principles on the Use of Force and Firearms for Law Enforcement Officials.
-  - **(3)** United States companies received export licenses to sell the Hong Kong Police Force munitions and non-lethal crowd control defense articles and services and at least some of those articles were used by the police unnecessarily and disproportionately during largely peaceful demonstrations.
-  - **(4)** The Government of the United Kingdom suspended export licenses for the sale of tear gas and other non-lethal crowd control equipment to Hong Kong until concerns about human rights abuses are addressed by the Hong Kong Special Administrative Region government.
-  - **(5)** The European Parliament adopted a resolution calling on European governments and the international community to impose export-control mechanisms to deny the Hong Kong and Chinese governments access to technologies used to violate basic rights.
-  - **(6)** Hong Kong citizens and the international community have called for changes to the Hong Kong Police’s crowd control tactics and these requests have gone unheeded by the Hong Kong Special Administrative Region government.
-- **(b)** *Statement of policy* It is the policy of the United States—
-  - **(1)** to restrict the export of security assistance and crime control and detection instruments and equipment to any country the government of which engages in a consistent pattern of gross violations of internationally recognized human rights as required by section 502B(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2304(a)); and
-  - **(2)** to use export controls on crime control and detection instruments and equipment to deter the development of a consistent pattern of human rights abuses, distance the United States from such abuses, and avoid contributing to civil disorder in a country or region in accordance with section 742.7(b) of part 774 of subtitle B of title 15, Code of Federal Regulations.
+Congress finds the following:
 
-## § 3. Prohibition on commercial export of covered defense articles and services and covered munitions items to the Hong Kong Disciplined Services
+- **(1)** The United Nations High Commissioner for Human Rights, along with human rights organizations, has called for an investigation of the use of crowd control tactics used in Hong Kong which fall short of international standards, including the United Nations Code of Conduct for Law Enforcement Officials and the Basic Principles on the Use of Force and Firearms for Law Enforcement Officials.
+- **(2)** United States companies have reportedly provided the Hong Kong Police Force with munitions and non-lethal crowd control equipment that were reportedly used by the police.
+- **(3)** Hong Kong citizens and the international community have called for changes to the Hong Kong Police’s crowd control tactics and these requests have gone unheeded by the Hong Kong Special Administrative Region Government.
 
-- **(a)** *In general* Except as provided in subsection (b), beginning on the date that is 30 days after the date of the enactment of this Act, the President shall prohibit the issuance of licenses to export covered defense articles and services and covered munitions items to the Hong Kong Disciplined Services.
-- **(b)** *Exception* The prohibition in subsection (a) shall not take effect if—
-  - **(1)** the President certifies to the appropriate congressional committees before the date specified in such subsection (a) that—
-    - **(A)** extraordinary circumstances exist that necessitate the continuation of the export of covered defense articles and services and covered munitions items to the Hong Kong Disciplined Services and includes a description of such circumstances; or
-    - **(B)** exports of covered defense articles and services and covered munitions items to parts of the Hong Kong Disciplined Services other than the Hong Kong Police Force are required to advance United States foreign policy goals and includes—
-      - **(i)** a description of the articles, services, and items; and
-      - **(ii)** the number of articles, services, and items required to meet such goals; or
-  - **(2)** the President has issued an Executive order under section 202 of the United States-Hong Kong Policy Act of 1992 (22 U.S.C. 5722) before the date specified in such subsection (a) suspending the application of section 201(a) of such Act to any United States law related to the sale of covered defense articles and services and covered munitions items to the Hong Kong Disciplined Services.
+## § 3. Statement of policy
 
-## § 4. Report on covered defense articles and services and covered munitions items exported to the Hong Kong Disciplined Services
+It is the policy of the United States—
 
-- **(a)** *In general* Not later than 90 days after the date of the enactment of this Act, the Secretary of State, in consultation with the Secretary of Commerce and the heads of other relevant Federal departments and agencies, shall submit to the appropriate congressional committees a report that lists and provides a description of all covered defense articles and services and covered munitions items exported to the Hong Kong Disciplined Services during the five-year period ending on such date of enactment.
-- **(b)** *Form* The report required by subsection (a) shall be—
-  - **(1)** submitted in unclassified form; and
-  - **(2)** submitted as either a separate written report or as an annex to testimony offered by Department of State officials before one or more of the appropriate congressional committees.
+- **(1)** to restrict the export of security assistance and crime control and detection instruments and equipment to any government that engages in a consistent pattern of gross violations of internationally recognized human rights, consistent with the requirements of section 502B(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2304(a)); and
+- **(2)** to use export controls on crime control and detection instruments and equipment to deter the development of a consistent pattern of human rights abuses, distance the United States from such abuses, and avoid contributing to civil disorder in a country or region, in accordance with section 742.7(b) of part 774 of subtitle B of title 15, Code of Federal Regulations.
 
-## § 5. Definitions
+## § 4. Prohibition on commercial export of covered defense articles and services and covered munitions items to the Hong Kong Police
+
+- **(a)** *In general* Beginning on the date that is 30 days after the date of the enactment of this Act, except as provided in subsection (b), the President shall prohibit the issuance of licenses to export covered defense articles and services and covered munitions items to the Hong Kong Police.
+- **(b)** *Waiver* The prohibition under subsection (a) shall not apply to the issuance of a license with respect to which the President submits to the appropriate congressional committees, not fewer than 30 days before the date of such issuance, a written certification that the exports to be covered by such license are important to the national interests and foreign policy goals of the United States, including a description of the manner in which such exports will promote such interests and goals.
+- **(c)** *Termination* The prohibition under subsection (a) shall terminate on the date on which the President certifies to the appropriate congressional committees that—
+  - **(1)** the Hong Kong Police have not engaged in gross violations of human rights during the 1-year period ending on the date of such certification; and
+  - **(2)** there has been an independent examination of human rights concerns related to the crowd control tactics of the Hong Kong Police and the Government of the Hong Kong Special Administrative Region has adequately addressed those concerns.
+
+## § 5. Report on covered defense articles and services and covered munitions items exported to the Hong Kong Police
+
+- **(a)** *In general* Not later than 90 days after the date of the enactment of this Act, the Secretary of State and the Secretary of Commerce, in consultation with the heads of other relevant Federal departments and agencies, shall jointly submit to the appropriate congressional committees a report that lists and provides a description of all covered defense articles and services and covered munitions items exported to the Hong Kong Police during the 5-year period ending on such date of enactment.
+- **(b)** *Form* The report required by subsection (a) shall be submitted in unclassified form but may include a classified annex.
+
+## § 6. Definitions
 
 In this Act:
 
 - **(1)** *Appropriate congressional committees* The term appropriate congressional committees means—
-  - **(A)** the Committee on Foreign Affairs of the House of Representatives; and
-  - **(B)** the Committee on Foreign Relations of the Senate.
+  - **(A)** the Committee on Foreign Affairs of the House of Representatives;
+  - **(B)** the Committee on Foreign Relations of the Senate; and
+  - **(C)** the Committee on Banking, Housing, and Urban Affairs of the Senate.
 - **(2)** *Covered defense articles and services* The term covered defense articles and services means defense articles and defense services designated by the President under section 38(a)(1) of the Arms Export Control Act (22 U.S.C. 2778(a)(1)).
 - **(3)** *Covered munitions items* The term covered munitions items means—
   - **(A)** items controlled under section 742.7 of part 742 of subtitle B of title 15, Code of Federal Regulations (relating to crime control and detection instruments and equipment and related technology and software); and
   - **(B)** items listed under the “600 series” of the Commerce Control List contained in Supplement No. 1 to part 774 of subtitle B of title 15, Code of Federal Regulations.
 - **(4)** *Hong Kong* The term Hong Kong has the meaning given such term in section 3 of the United States-Hong Kong Policy Act of 1992 (22 U.S.C. 5702).
-- **(5)** *Hong Kong Disciplined Services* The term Hong Kong Disciplined Services means—
-  - **(A)** the Hong Kong Police Force;
-  - **(B)** the Hong Kong Auxiliary Police Force;
-  - **(C)** the Hong Kong Immigration Department;
-  - **(D)** the Hong Kong Customs and Excise Department;
-  - **(E)** the Hong Kong Fire Services Department;
-  - **(F)** the Hong Kong Correctional Services Department; and
-  - **(G)** the Hong Kong Government Flying Service.
+- **(5)** *Hong Kong Police* The term Hong Kong Police means—
+  - **(A)** the Hong Kong Police Force; and
+  - **(B)** the Hong Kong Auxiliary Police Force.
+
+## § 7. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
