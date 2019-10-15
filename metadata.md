@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3526
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3526
@@ -20,9 +20,10 @@ Counter Terrorist Network Act
 
 - Rep. Katko, John [R-NY-24] (K000386)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Counter Terrorist Network Act
 - 2019-09-26 — Mr. Correa moved to suspend the rules and pass the bill.
 - 2019-09-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8025-8026)
 - 2019-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8025-8026)
+- 2019-10-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
