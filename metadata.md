@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1199
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1199
@@ -36,3 +36,9 @@ VA Website Accessibility Act of 2019
 - 2019-06-25 — Placed on the Union Calendar, Calendar No. 93.
 - 2019-06-25 — Reported by the Committee on Veterans' Affairs. H. Rept. 116-127.
 - 2019-06-25 — Reported by the Committee on Veterans' Affairs. H. Rept. 116-127.
+- 2019-10-15 — Considered under suspension of the rules. (consideration: CR H8130-8132)
+- 2019-10-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1199.
+- 2019-10-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-10-15 — Mr. Takano moved to suspend the rules and pass the bill.
+- 2019-10-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8131)
+- 2019-10-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8131)
