@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3691
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3691
@@ -20,9 +20,10 @@ TRANSLATE Act
 
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ TRANSLATE Act
 - 2019-09-26 — Mr. Correa moved to suspend the rules and pass the bill.
 - 2019-09-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8019)
 - 2019-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8019)
+- 2019-10-15 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
