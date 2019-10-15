@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3106
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3106
@@ -77,10 +77,11 @@ Domestic and International Terrorism DATA Act
 - Rep. Carbajal, Salud O. [D-CA-24] (C001112)
 - Rep. Lamb, Conor [D-PA-17] (L000588)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -105,3 +106,4 @@ Domestic and International Terrorism DATA Act
 - 2019-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8027-8028)
 - 2019-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8027-8028)
 - 2019-09-26 — The title of the measure was amended. Agreed to without objection.
+- 2019-10-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
