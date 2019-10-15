@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3525
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3525
@@ -40,9 +40,10 @@ U.S. Border Patrol Medical Screening Standards Act
 - Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
 - Rep. Welch, Peter [D-VT-At Large] (W000800)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (2)
 
@@ -77,3 +78,4 @@ U.S. Border Patrol Medical Screening Standards Act
 - 2019-09-26 — Rule provides for consideration of H.R. 2203, H.R. 3525 and H. Res. 576. Rule provides for consideration of H.R. 2203, H.R. 3525, and H.Res. 576 under closed rules. Rule also provides that it shall be in order at any time on the legislative day of September 26, 2019, for the Speaker to entertain motions that the House suspend the rules; and provides for proceedings during the period from September 30, 2019, through October 14, 2019
 - 2019-09-26 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-09-26 — The previous question was ordered pursuant to the rule.
+- 2019-10-15 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
