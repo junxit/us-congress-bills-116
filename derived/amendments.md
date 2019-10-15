@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3289
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+6 amendatory instructions. 1 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 22 U.S.C. § 5731
+
+> in the matter preceding paragraph (1), in the first sentence, by striking “2024” and inserting “2027”;
+
+| | |
+|---|---|
+| Removed | `2024` |
+| Inserted | `2027` |
 
 ## Stated, not applied
 
@@ -31,6 +42,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `22 U.S.C. § 5721` | insert | in section 201(b), by inserting “or after” after “entered into before”; and | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 5721` | add-at-end | Title II of the United States-Hong Kong Policy Act of 1992 (22 U.S.C. 5721 et seq.), as amended by subsection (a), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1182` | add-at-end | Section 212(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 5721` | add-at-end | Title II of the United States-Hong Kong Policy Act of 1992 (22 U.S.C. 5721 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 5721` | add-at-end | Title II of the United States-Hong Kong Policy Act of 1992 (22 U.S.C. 5721 et seq.), as amended by subsection (a), is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 5731` | strike | in paragraph (7), by striking “and” after the semicolon at the end; | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 5731` | replace | in paragraph (8), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 5731` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

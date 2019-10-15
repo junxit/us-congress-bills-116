@@ -18,24 +18,15 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 In this Act:
 
-- **(1)** *Admitted; alien* The terms admitted and alien have the meanings given those terms in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101).
-- **(2)** *Appropriate congressional committees* The term appropriate congressional committees means—
-  - **(A)** the Committee on Armed Services of the Senate;
-  - **(B)** the Committee on Banking, Housing, and Urban Affairs of the Senate;
-  - **(C)** the Committee on Foreign Relations of the Senate;
-  - **(D)** the Committee on Homeland Security and Governmental Affairs of the Senate;
-  - **(E)** the Committee on the Judiciary of the Senate;
-  - **(F)** the Committee on Armed Services of the House of Representatives;
-  - **(G)** the Committee on Financial Services of the House of Representatives;
-  - **(H)** the Committee on Foreign Affairs of the House of Representatives;
-  - **(I)** the Committee on Homeland Security of the House of Representatives; and
-  - **(J)** the Committee on the Judiciary of the House of Representatives.
-- **(3)** *China* The term China means the People’s Republic of China.
-- **(4)** *Financial institution* The term financial institution has the meaning given that term in section 5312 of title 31, United States Code.
-- **(5)** *Social credit system* The term social credit system means a system proposed by the Government of China, scheduled to be implemented by 2020, that would aggregate data on every Chinese citizen and business from existing financial credit systems, mass surveillance, public records, online activity, and artificial intelligence to expand the notion of a financial credit score, potentially rewarding or punishing certain financial, social, religious, or political behaviors.
-- **(6)** *United States person* The term United States person means—
-  - **(A)** a United States citizen or an alien lawfully admitted for permanent residence to the United States; or
-  - **(B)** an entity organized under the laws of the United States or of any jurisdiction within the United States, including a foreign branch of such an entity.
+- **(1)** *Appropriate congressional committees* The term “appropriate congressional committees” means—
+  - **(A)** the Committee on Foreign Affairs of the House of Representatives;
+  - **(B)** the Committee on Financial Services of the House of Representatives;
+  - **(C)** the Committee on the Judiciary of the House of Representatives.
+  - **(D)** the Committee on Foreign Relations of the Senate;
+  - **(E)** the Committee on Banking, Housing, and Urban Affairs of the Senate; and
+  - **(F)** the Committee on the Judiciary of the Senate.
+- **(2)** *China* The term “China” means the People’s Republic of China.
+- **(3)** *Social credit system* The term “social credit system” means a system proposed by the Government of China and scheduled for implementation by 2020 that would use existing financial credit systems, public records, online activity, and other tools of surveillance to aggregate data on every Chinese citizen and business and use that data to monitor, shape, and rate certain financial, social, religious, or political behaviors.
 
 ## § 3. Statement of policy
 
@@ -43,171 +34,172 @@ It is the policy of the United States—
 
 - **(1)** to reaffirm the principles and objectives set forth in the United States-Hong Kong Policy Act of 1992 (Public Law 102–383), namely that—
   - **(A)** the United States has “a strong interest in the continued vitality, prosperity, and stability of Hong Kong”;
-  - **(B)** “[s]upport for democratization is a fundamental principle of United States foreign policy”;
+  - **(B)** “[s]upport for democratization is a fundamental principle of United States foreign policy” and therefore “naturally applies to United States policy toward Hong Kong”;
   - **(C)** “the human rights of the people of Hong Kong are of great importance to the United States and are directly relevant to United States interests in Hong Kong [and] serve as a basis for Hong Kong’s continued economic prosperity”; and
-  - **(D)** Hong Kong must remain sufficiently autonomous from the People’s Republic of China to justify a different treatment under a particular law of the United States, or any provision thereof, from that accorded the People’s Republic of China;
-- **(2)** to support the democratic aspirations of the people of Hong Kong, as guaranteed to them by the Joint Declaration of the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the People’s Republic of China on the Question of Hong Kong, done at Beijing December 19, 1984 (referred to in this Act as the “Joint Declaration”), the International Covenant on Civil and Political Rights, done at New York December 19, 1966, the Universal Declaration of Human Rights, done at Paris December 10, 1948, and the Basic Law of the Hong Kong Special Administrative Region of the People’s Republic of China (referred to in this Act as the “Basic Law”);
-- **(3)** to urge the Government of the People's Republic of China to uphold its commitments to Hong Kong, including allowing the people of Hong Kong to rule Hong Kong with a high degree of autonomy and without undue interference, and ensuring that Hong Kong voters freely enjoy the right to elect the Chief Executive and all members of the Hong Kong Legislative Council by universal suffrage;
-- **(4)** to support the establishment of a genuine democratic option to freely and fairly nominate and elect the Chief Executive of Hong Kong, and the establishment by 2020 of open and direct democratic elections for all members of the Hong Kong Legislative Council;
-- **(5)** to support the robust exercise by residents of Hong Kong of the rights to free speech and the press as guaranteed to them by the Basic Law and the Joint Declaration;
-- **(6)** to ensure that all residents of Hong Kong are afforded freedom from arbitrary or unlawful arrest, detention, or imprisonment as guaranteed to them by the Basic Law and the Joint Declaration;
-- **(7)** to draw international attention to any violations by the Government of the People’s Republic of China of the fundamental rights of residents of Hong Kong and any encroachment upon the autonomy guaranteed to Hong Kong by the Basic Law and the Joint Declaration;
-- **(8)** to protect United States citizens and long-term permanent residents living in Hong Kong and those visiting and transiting through Hong Kong; and
-- **(9)** to maintain the economic and cultural ties that provide significant benefits to the United States and Hong Kong.
+  - **(D)** Hong Kong must remain sufficiently autonomous from the People’s Republic of China to “justify treatment under a particular law of the United States, or any provision thereof, different from that accorded the People’s Republic of China”;
+- **(2)** to support the high degree of autonomy and fundamental rights and freedoms of the people of Hong Kong, as enumerated by—
+  - **(A)** the Joint Declaration of the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the People’s Republic of China on the Question of Hong Kong, done at Beijing December 19, 1984 (referred to in this Act as the “Joint Declaration”);
+  - **(B)** the International Covenant on Civil and Political Rights, done at New York December 19, 1966; and
+  - **(C)** the Universal Declaration of Human Rights, done at Paris December 10, 1948.
+- **(3)** to support the democratic aspirations of the people of Hong Kong, including the “ultimate aim” of the selection of the Chief Executive and all members of the Legislative Council by universal suffrage, as articulated in the Basic Law of the Hong Kong Special Administrative Region of the People’s Republic of China (referred to in this Act as the “Basic Law”);
+- **(4)** to urge the Government of the People’s Republic of China and the Government of the Hong Kong Special Autonomous Region to uphold their commitment to the people of Hong Kong, including providing a high degree of autonomy for Hong Kong as articulated in the Joint Declaration and the Basic Law;
+- **(5)** to support the robust exercise by residents of Hong Kong of the rights to free speech, the press, and other fundamental freedoms as provided by the Basic Law and the Joint Declaration;
+- **(6)** to support freedom from arbitrary or unlawful arrest, detention, or imprisonment for all Hong Kong residents, as provided to them by the Basic Law and the Joint Declaration;
+- **(7)** to draw international attention to any violations by the Government of the People’s Republic of China of the fundamental rights of the people of Hong Kong and any encroachment upon the autonomy guaranteed to Hong Kong by the Basic Law and the Joint Declaration;
+- **(8)** to protect United States citizens and legal permanent residents living in Hong Kong as well as people visiting and transiting through Hong Kong; and
+- **(9)** to maintain the economic and cultural ties that provide significant benefits to both the United States and Hong Kong.
 
 ## § 4. Amendments to the United States-Hong Kong Policy Act of 1992
 
-- **(a)** *Report* Title II of the United States-Hong Kong Policy Act of 1992 (22 U.S.C. 5721 et seq.) is amended—
-  - **(1)** in section 201(b), by inserting “or after” after “entered into before”; and
-  - **(2)** adding at the end the following:
-    > ## § 205. Secretary of State report regarding the autonomy of Hong Kong
-    >
-    > - **(a)** *Report*
-    >   - **(1)** *In general* The Secretary of State shall annually certify to Congress, in conjunction with the report required under section 301, whether Hong Kong is sufficiently autonomous to justify special treatment by the United States for bilateral agreements and programs, in accordance with this Act, including the degree to which Hong Kong’s autonomy has been eroded due to actions taken by the Government of China that are inconsistent with its commitments in the Basic Law and the Joint Declaration and the impact of such erosion on specific areas of cooperation with the United States, including on political rights, civil liberties, rule of law, freedom of information, religious freedom, and democratic governance in Hong Kong.
-    >   - **(2)** *Factor for consideration* In making a certification under paragraph (1), the Secretary of State should consider the terms, obligations, and expectations expressed in the Joint Declaration with respect to Hong Kong.
-    > - **(b)** *Waiver authority* The Secretary of State may waive the application of subsection (a) if the Secretary—
-    >   - **(1)** determines that such a waiver is in the national security interests of the United States; and
-    >   - **(2)** on or before the date on which the waiver takes effect, notifies the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives of the intent to waive such subsection.
-
-- **(b)** *Visa applicants* Title II of the United States-Hong Kong Policy Act of 1992 (22 U.S.C. 5721 et seq.), as amended by subsection (a), is further amended by adding at the end the following:
-  > ## § 206. Treatment of Hong Kong applicants for visas to study or work in the United States
+- **(a)** *Certifications* Title II of the United States-Hong Kong Policy Act of 1992 (22 U.S.C. 5721 et seq.) is amended by adding at the end the following new section:
+  > ## § 205. Secretary of State certification regarding the autonomy of Hong Kong
   >
-  > - **(a)** *Statement of policy* Notwithstanding any other provision of law, applications for visas to enter, study, or work in the United States, which are submitted by otherwise qualified applicants who resided in Hong Kong in 2014, shall not be denied on the basis of the applicant’s arrest, detention, or other adverse government action taken as a result of the applicant’s participation in nonviolent protest activities related to the electoral process, internationally recognized human rights, protecting an independent judiciary, or the rule of law.
-  > - **(b)** *Implementation* The Secretary of State shall take such steps as may be necessary to ensure that consular officers are aware of the policy described in subsection (a) and receive appropriate training and support to ensure that the policy is carried out so that affected individuals do not face discrimination or unnecessary delay in the processing of their visa applications, including—
-  >   - **(1)** providing specialized training for consular officers posted to Hong Kong, Beijing, Guangzhou, or Macau;
-  >   - **(2)** instructing the United States Consulate in Hong Kong to maintain an active list of individuals whom are known to have been detained, arrested, or otherwise targeted by the Government of Hong Kong or of China, or intermediaries of such governments, as a result of their participation in the 2014 protests, to facilitate the cross-checking of visa applications for Hong Kong residents;
-  >   - **(3)** amending the physical and online versions of the visa application, as necessary, to notify relevant applicants of such policy; and
-  >   - **(4)** instructing personnel at the United States Consulate in Hong Kong to engage with relevant individuals in the Hong Kong community to proactively inform them that they will not face discrimination when applying for a visa to the United States due to any adverse action taken against them by the authorities as a result of their participation in the 2014 protests or other peaceful pro-democracy or human rights demonstrations.
-  > - **(c)** *Cooperation with like-Minded countries* The Secretary of State, or his or her designee, shall contact appropriate representatives of other democratic countries, particularly those who receive a large number of applicants for student and employment visas from Hong Kong—
-  >   - **(1)** to inform them of the United States policy regarding arrests for participation in nonviolent protests in Hong Kong;
-  >   - **(2)** to encourage them to take similar steps to ensure the rights of nonviolent protesters are protected from discrimination due to the actions of the Government of Hong Kong and of China; and
-  >   - **(3)** to offer to share information, as appropriate, regarding the execution of such policy, including information regarding persons eligible for relief under such policy.
+  > - **(a)** *Certification*
+  >   - **(1)** *In general* The Secretary of State shall annually submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a certification, in conjunction with, and taking into consideration the contents of, the report required in section 301, regarding whether Hong Kong continues to warrant treatment under particular treaties, international agreements, and United States laws, or any provisions thereof, specified in paragraph (2) in the same manner as such treaties, international agreements, and laws were applied to Hong Kong as of the date of enactment of this section.
+  >   - **(2)** *Provisions specified* The treaties, international agreements, and United States laws specified in this paragraph are the following:
+  >     - **(A)** Commercial agreements.
+  >     - **(B)** Law enforcement cooperation, including extradition matters.
+  >     - **(C)** Nonproliferation commitments.
+  >     - **(D)** Sanctions enforcement.
+  >     - **(E)** Export control agreements, including enforcement of export controls with respect to dual use technologies.
+  >     - **(F)** Formal treaties and agreements between the United States and Hong Kong, including agreements related to taxation and currency exchange.
+  >     - **(G)** Other particular laws of the United States, or any provisions thereof, that accord to Hong Kong treatment different to that accorded to the People’s Republic of China.
+  >     - **(H)** Other bilateral or multilateral agreements determined relevant by the Secretary.
+  >   - **(3)** *Contents* Each assessment under paragraph (1) shall include an evaluation of the Government of Hong Kong’s autonomous decision-making within the executive, legislative, and judicial branches, with respect to—
+  >     - **(A)** upholding the rule of law; and
+  >     - **(B)** protecting the rights enumerated in—
+  >       - **(i)** the Joint Declaration of the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the People’s Republic of China on the Question of Hong Kong, done at Beijing December 19, 1984 (the “Joint Declaration”);
+  >       - **(ii)** the Basic Law of the Hong Kong Special Administrative Region of the People’s Republic of China (the “Basic Law”);
+  >       - **(iii)** the Universal Declaration of Human Rights, done at Paris December 10, 1948; and
+  >       - **(iv)** the International Covenant on Civil and Political Rights, done at New York December 19, 1966.
+  >   - **(4)** *Factors for consideration* In making a certification under paragraph (1), the Secretary of State should consider the terms, obligations, and expectations expressed in the Joint Declaration and the Basic Law.
+  >   - **(5)** *Additional certifications* Notwithstanding the annual requirement for certifications under paragraph (1), the Secretary of State may issue additional certifications at any time if the Secretary determines that circumstances in Hong Kong warrant such.
+  >   - **(6)** *Form* Each certification under paragraph (1) and any additional certifications under paragraph (5) shall be submitted in unclassified from but may include a classified annex if the Secretary of State determines such is necessary.
+  > - **(b)** *Waiver* The Secretary of State may waive the application of subsection (a), in whole or in part, if—
+  >   - **(1)** the Secretary determines that such a waiver—
+  >     - **(A)** is in the national security interests of the United States; or
+  >     - **(B)** would protect the autonomy of Hong Kong; and
+  >   - **(2)** on or before the date on which such a waiver takes effect, the Secretary notifies the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives of the intent to waive such subsection.
+  > - **(c)** *Public availability* The unclassified portion of the certifications required under subsection (a) shall be made available to the public, including through publication on the Department of State website.
 
-## § 5. Annual report on enforcement of United States export control and sanctions laws by Hong Kong
+- **(b)** *Visa applicants* Title II of the United States-Hong Kong Policy Act of 1992 (22 U.S.C. 5721 et seq.), as amended by subsection (a), is further amended by adding at the end the following new section:
+  > ## § 206. Treatment of Hong Kong applicants for visas to enter the United States
+  >
+  > It is the sense of Congress that applications for visas to enter the United States, including for work or study, which are submitted by otherwise qualified applicants from Hong Kong should not be denied solely on the basis of politically-motivated arrest, detention, or other adverse government action taken against such applicants as a result of the participation by such applicants in protest activities, and that the Secretary of State should make efforts to implement such policy, ensure consular officers make determinations in accordance with such policy, and coordinate with representatives of other countries to encourage the adoption of compatible policies.
 
-- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, and annually thereafter, the Secretary of Commerce, in consultation with the Secretary of the Treasury and the Secretary of State, shall submit a report to the committees specified in subsection (b) that includes—
-  - **(1)** an assessment of whether the Government of Hong Kong has adequately enforced the export control laws of the United States with respect to sensitive dual-use items;
-  - **(2)** to the extent possible, an identification of—
-    - **(A)** any items that were reexported from Hong Kong in violation of such laws;
-    - **(B)** the countries and persons to which such items were reexported; and
-    - **(C)** how such items were used;
-  - **(3)** an assessment of whether sensitive dual-use items subject to the export control laws of the United States are being—
-    - **(A)** transshipped through Hong Kong; and
-    - **(B)** used to develop—
-      - **(i)** the Sharp Eyes, Skynet, Integrated Joint Operations Platform, or other systems of mass surveillance and predictive policing; or
-      - **(ii)** the “social credit” system of China;
-  - **(4)** an assessment of the efforts by the Government of China to use the status of Hong Kong as a separate customs territory to import items into China in violation of the export control laws of the United States, whether as part of the Greater Bay Area plan, the assignment of Hong Kong by Beijing as a national technology and innovation center, or through other programs that may exploit Hong Kong as a conduit for controlled sensitive technology;
-  - **(5)** an assessment of whether the Government of Hong Kong has adequately enforced sanctions imposed by the United States and the United Nations; and
-  - **(6)** a description of the types of goods and services transshipped or reexported through Hong Kong in violation of such sanctions to—
+- **(c)** *Reporting requirements* Subsection (a) of section 301 of the United States-Hong Kong Policy Act of 1992 (22 U.S.C. 5731) is amended—
+  - **(1)** in the matter preceding paragraph (1), in the first sentence, by striking “2024” and inserting “2027”;
+  - **(2)** in paragraph (7), by striking “and” after the semicolon at the end;
+  - **(3)** in paragraph (8), by striking the period and inserting “; and”; and
+  - **(4)** by adding at the end the following new paragraphs:
+    > - **(9)** China’s ability to limit Hong Kong’s autonomy with respect to the treaties, international agreements, and United States laws specified in section 205(a)(2) as result of actions by the Government of the People’s Republic of China that are inconsistent with its commitments under the Basic Law or the Joint Declaration;
+    > - **(10)** the limitations to Hong Kong’s autonomy with respect to the treaties, international agreements, and United States laws specified in section 205(a)(2) resulting from actions by the Government of the Hong Kong Special Autonomous Region that are inconsistent with its commitments under the Basic Law or the Joint Declaration;
+    > - **(11)** the specific impacts to any areas of cooperation between the United States and Hong Kong as a result of limits, whether self-imposed or otherwise, to Hong Kong’s autonomy, including any failures of the Hong Kong Government to fulfill obligations with the United States under the treaties, international agreements, and United States laws specified in section 205(a)(2);
+    > - **(12)** the specific actions taken by the United States Government to mitigate the negative impact to United States interests of limitations, whether self-imposed or otherwise, to Hong Kong’s autonomy or any failures to fulfill obligations with the United States under the treaties, international agreements, and United States laws specified in section 205(a)(2); and
+    > - **(13)** whether the rescission of special treatment under any particular treaties, international agreements, or particular laws of the United States, or any provisions thereof would contribute to further erosion of Hong Kong’s autonomy.
+
+## § 5. Report on enforcement of United States export control and sanctions laws by Hong Kong
+
+- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, the President shall transmit to the committees specified in subsection (b) a report that includes the following:
+  - **(1)** An assessment of the policies and actions of the Government of the Hong Kong Special Autonomous Region to enforce the Export Control Reform Act of 2018 (subtitle B of title XVII of Public Law 115–232) and other relevant provisions of United States law related to export controls.
+  - **(2)** To the extent possible, an identification of the following:
+    - **(A)** Any items that were transferred from Hong Kong in violation of such laws.
+    - **(B)** The countries and persons to which such items were transferred.
+    - **(C)** How such items were used.
+  - **(3)** An assessment of whether United States origin items (including software, technology, and services) have been transferred from Hong Kong to China in violation of United States law and have been used by China for mass surveillance, predictive policing, or for the social credit system.
+  - **(4)** An assessment of the policies and actions of the Government of the Hong Kong Special Autonomous Region to enforce sanctions imposed by the United States and the United Nations.
+  - **(5)** A description of the types of goods and services transshipped or reexported through Hong Kong in violation of such sanctions to—
     - **(A)** North Korea or Iran; or
     - **(B)** other countries, regimes, or persons subject to such sanctions for engaging in activities—
-      - **(i)** relating to international terrorism, international narcotics trafficking, or the proliferation of weapons of mass destruction; or
+      - **(i)** relating to—
+        - **(I)** international terrorism, international narcotics trafficking, or the proliferation of weapons of mass destruction; or
+        - **(II)** corruption and violations of human rights; or
       - **(ii)** that otherwise present a threat to the national security, foreign policy, or economy of the United States.
-- **(b)** *Committees specified* The committees specified in this subsection are—
-  - **(1)** the Committee on Foreign Relations of the Senate;
-  - **(2)** the Committee on Banking, Housing, and Urban Affairs of the Senate;
-  - **(3)** the Committee on Commerce, Science, and Transportation of the Senate;
-  - **(4)** the Committee on Foreign Affairs of the House of Representatives; and
-  - **(5)** the Committee on Energy and Commerce of the House of Representatives.
-- **(c)** *Form of report* The report required under subsection (a) shall be submitted in unclassified form, but may include a classified annex.
+- **(b)** *Committees specified* The committees specified in this subsection are the following:
+  - **(1)** The Committee on Foreign Relations of the Senate.
+  - **(2)** The Committee on Banking, Housing, and Urban Affairs of the Senate.
+  - **(3)** The Committee on Foreign Affairs of the House of Representatives.
+  - **(4)** The Committee on Financial Services of the House of Representatives.
+- **(c)** *Form of report* The report required under subsection (a) shall be transmitted in unclassified form, but may include a classified annex.
 
-## § 6. Protecting United States citizens and others from rendition to mainland China
+## § 6. Protecting United States interests with respect to Hong Kong
 
-- **(a)** *Findings* Congress makes the following findings:
-  - **(1)** The proposed amendments to Hong Kong’s Fugitive Ordinance, if enacted—
-    - **(A)** would allow rendition from Hong Kong of residents or foreign nationals to countries—
-      - **(i)** with criminal procedure systems that lack strong protections for the rights of defendants; or
-      - **(ii)** in which the law is used as to repress internationally recognized human rights, including to mainland China;
-    - **(B)** would remove independent legislative oversight and appropriate judicial review of extradition requests;
-    - **(C)** may increase the influence of the Government of China in Hong Kong and further erode the autonomy guaranteed Hong Kong by the Joint Declaration; and
-    - **(D)** would erode Hong Kong’s reputation as a center of commerce and freedom governed by the rule of law.
-  - **(2)** The Government of China has subjected Chinese and foreign nationals, including citizens of the United States, Canada, Australia, Sweden, and Taiwan, to arbitrary detention, televised confessions, denial of legal representation and medical treatment, and other types of mistreatment.
-- **(b)** *Policy statements* It is the policy to the United States—
-  - **(1)** to ensure that United States citizens are protected from rendition to mainland China;
-  - **(2)** pursuant to section 103(7) of the United States-Hong Kong Policy Act of 1992 (22 U.S.C. 5713(7)), to encourage United States businesses “to continue to operate in Hong Kong in accordance with applicable United States and Hong Kong law”; and
-  - **(3)** pursuant to section 201(b) of such Act (22 U.S.C. 5721(b)), to decide whether the Government of Hong Kong is “legally competent to carry out its obligations” under treaties and international agreements established between the United States and Hong Kong.
-- **(c)** *Response to threat of rendition* If the proposed amendments to Hong Kong’s Fugitive Offenders Ordinance are enacted, and the amended law allows renditions to countries that lack protection for the rights of defendants—
-  - **(1)** not later than 30 days after the date of the enactment of such amendments, the President shall submit a report to the appropriate congressional committees that—
-    - **(A)** assesses whether the Government of Hong Kong is “legally competent” to administer the United States-Hong Kong Agreement for the Surrender of Fugitive Offenders;
-    - **(B)** determines whether any additional authorities are needed to revise or withdraw from that treaty to protect United States citizens and national security and to support the guaranteed protections of the Joint Declaration; and
-    - **(C)** includes a strategy for protecting United States citizens from rendition to mainland China from Hong Kong, including an assessment of—
-      - **(i)** whether additional resources are needed for American Citizen Services at the United States Consulate in Hong Kong; and
-      - **(ii)** whether the Department of State will revise the travel advisory for Hong Kong to reflect the potential impact of the revised Fugitive Offenders Ordinance on United States residents and individuals traveling to, or transiting through, Hong Kong; and
-  - **(2)** if the Government of Hong Kong enacts a new law regarding national security, pursuant to Article 23 of the Basic Law, the President and the Secretary of State shall take the actions required under paragraph (1) and any additional actions required under section 202 of the United States-Hong Kong Policy Act of 1992 (U.S.C. 5722) unless Secretary of State certifies that—
-    - **(A)** the new law does not violate the guarantees of the Joint Declaration; and
-    - **(B)** the internationally recognized human rights of Hong Kong citizens and foreign residents will not be restricted as a result of the new law’s implementation.
+- **(a)** *Policy statements* It is the policy to the United States—
+  - **(1)** to safeguard United States citizens and lawful permanent residents from extradition, rendition, or abduction to China from Hong Kong for trial, detention, or any other purpose;
+  - **(2)** to safeguard United States businesses in Hong Kong from economic coercion and intellectual property theft;
+  - **(3)** pursuant to section 103(7) of the United States-Hong Kong Policy Act of 1992 (22 U.S.C. 5713(7)), to encourage United States businesses “to continue to operate in Hong Kong in accordance with applicable United States and Hong Kong law”; and
+  - **(4)** pursuant to section 201(b) of such Act (22 U.S.C. 5721(b)), to evaluate as circumstances require the Government of Hong Kong is “legally competent to carry out its obligations” under treaties and international agreements established between the United States and Hong Kong.
+- **(b)** *Notification to Congress*
+  - **(1)** *Determination* The Secretary of State shall, with respect to any legislation proposed or enacted by the Government of Hong Kong, determine, not later than 30 days after such legislation is proposed or enacted, if such proposed or enacted legislation would—
+    - **(A)** put United States citizens or lawful permanent residents at risk for rendition to China or other countries with which the United States Government does not have an extradition agreement; or
+    - **(B)** otherwise have a significant negative impact on United States interests with respect to Hong Kong.
+  - **(2)** *Notification* If the Secretary of State makes a determination in the affirmative under paragraph (1), the Secretary shall submit to the appropriate congressional committees a notification relating thereto that includes the following:
+    - **(A)** An assessment of the potential risks of the proposed or enacted legislation described in such paragraph to United States national interests, including risks to United States citizens or lawful permanent residents residing in, traveling to, or transiting through Hong Kong.
+    - **(B)** A strategy for protecting United States interests in Hong Kong with respect to the proposed or enacted legislation described in such paragraph.
 
-## § 7. Identification of persons responsible for abductions and for other actions to suppress basic freedoms in Hong Kong
+## § 7. Sanctions relating to undermining fundamental freedoms and autonomy in Hong Kong
 
-- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, and annually thereafter in conjunction with the publication of the report required under section 301 of the Hong Kong Policy Act of 1992 (22 U.S.C. 5731) the President shall submit, to the appropriate congressional committees, a list containing the name of each person who the President determines, based on credible information, is responsible for—
-  - **(1)** the surveillance, abduction, detention, abuse, or forced confession of Gui Minhai, Lee Bo, Lam Wing-kee, Lui Bo, or Cheung Chi-ping, all of whom are involved in the operation of the Mighty Current Publishing House based in Hong Kong;
-  - **(2)** the surveillance, abduction, detention, abuse, or forced confession of Guo Zhongxiao or Wang Jianmin, both of whom are involved in the operation of magazine publications based in Hong Kong; or
-  - **(3)** the rendition to the mainland of the People’s Republic of China of any individual, or the arbitrary detention, torture, or forced confession of any individual after rendition, in connection with the exercise by that individual of internationally recognized human rights in Hong Kong, including such individuals extradited to the mainland of the People's Republic of China under any amended fugitive offenders ordinance in Hong Kong.
-- **(b)** *Consideration of certain information* In preparing the list required under subsection (a), the President shall consider—
-  - **(1)** information provided by the chairperson and ranking member of each of the appropriate congressional committees; and
-  - **(2)** credible information obtained by other countries or nongovernmental organizations, including organizations inside China or Hong Kong, that monitor the human rights abuses of the Government of the China or its agents.
-- **(c)** *Requests by chairperson and ranking member of appropriate congressional committees*
-  - **(1)** *In general* Not later than 120 days after receiving a written request from the chairperson and ranking member of 1 of the appropriate congressional committees with respect to whether a person meets the criteria for being added to the list required under subsection (a), the President shall submit a response to the chairperson and ranking member of the committee that made the request with respect to the status of the person.
-  - **(2)** *Information about removal decisions* If the President removes from the list required under subsection (a) a person that was placed on the list at the request of the chairperson and ranking member of 1 of the appropriate congressional committees, the President shall provide the chairperson and ranking member with any information that contributed to the decision to remove the person.
-  - **(3)** *Form* The President may submit a response required under paragraph (1) in classified form if the President determines that such classification is vital to the national security interests of the United States.
+- **(a)** *Identification of persons responsible for undermining fundamental freedoms and autonomy in Hong Kong*
+  - **(1)** *In general* The President shall transmit to the appropriate congressional committees a report, in accordance with paragraph (2), that identifies each foreign person that the President determines, based on credible information, is knowingly responsible for any of the following:
+    - **(A)** The actual or threatened rendition, arbitrary detention, torture, or forced confession of any individual in Hong Kong.
+    - **(B)** Repeated acts or decisions which contravene the shared obligations of China and Hong Kong under the Joint Declaration and Basic Law and undermine the national interests of the United States in Hong Kong’s autonomy and the rule of law.
+    - **(C)** Other gross violations of internationally recognized human rights in Hong Kong.
+  - **(2)** *Timing of reports* The President shall transmit—
+    - **(A)** the report required under paragraph (1)—
+      - **(i)** not later than 180 days after the date of the enactment of this Act; and
+      - **(ii)** not less frequently than annually thereafter in conjunction with the publication of the report required under section 301 of the United States-Hong Kong Policy Act of 1992 (22 U.S.C. 5731); and
+    - **(B)** an update to the report required under paragraph (1) not later than 15 days after any new credible information described in such paragraph becomes available.
+  - **(3)** *Consideration of certain information* In preparing the report required under paragraph (1), the President shall consider the following:
+    - **(A)** Information provided jointly by the chairperson and ranking member of each of the appropriate congressional committees.
+    - **(B)** Credible information obtained by other countries or nongovernmental organizations that monitor violations of human rights abuses.
+  - **(4)** *Form* The report required under paragraph (1) shall be submitted in unclassified form but may include a classified annex.
+- **(b)** *Imposition of sanctions* The President shall impose the sanctions described in subsection (c) with respect to each foreign person identified in the report required under subsection (a)(1).
+- **(c)** *Sanctions described* The sanctions described in this subsection are the following:
+  - **(1)** *Asset blocking* The President shall exercise all of the powers granted to the President under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in property and interests in property of a foreign person identified in the report required under subsection (a)(1) if such property and interests in property are in the United States, come within the United States, or come within the possession or control of a United States person.
+  - **(2)** *Ineligibility for visas, admission, or parole*
+    - **(A)** *Visas, admission, or parole* A foreign person described in subsection (a)(1) and his or her immediate family members is—
+      - **(i)** inadmissible to the United States;
+      - **(ii)** ineligible to receive a visa or other documentation to enter the United States; and
+      - **(iii)** otherwise ineligible to be admitted or paroled into the United States or to receive any other benefit under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.).
+    - **(B)** *Current visas revoked*
+      - **(i)** *In general* A foreign person described in subsection (a)(1) is subject to revocation of any visa or other entry documentation regardless of when the visa or other entry documentation is or was issued.
+      - **(ii)** *Immediate effect* A revocation under clause (i) shall—
+        - **(I)** take effect immediately; and
+        - **(II)** automatically cancel any other valid visa or entry documentation that is in the alien’s possession.
+    - **(C)** *Exception to comply with international obligations* Sanctions under this paragraph shall not apply with respect to a foreign person if admitting or paroling such person into the United States is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or other applicable international obligations.
+  - **(3)** *Penalties* The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) shall apply to a foreign person that violates, attempts to violate, conspires to violate, or causes a violation of paragraph (1) to the same extent that such penalties apply to a person that commits an unlawful act described in subsection (a) of such section 206.
+- **(d)** *Implementation* The President may exercise all authorities provided under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) to carry out this section.
+- **(e)** *Waiver* The President may waive the application of sanctions under this section with respect to a foreign person identified in the report required under subsection (a)(1) if the President determines and certifies to the appropriate congressional committees that such a waiver is in the national interest of the United States.
+- **(f)** *Termination of sanctions* The President may terminate the application of sanctions under this section with respect to a foreign person if the President determines and reports to the appropriate congressional committees not less than 15 days before such termination takes effect that—
+  - **(1)** credible information exists that such person did not engage in the activity for which sanctions were imposed;
+  - **(2)** such person has been prosecuted appropriately for the activity for which sanctions were imposed;
+  - **(3)** such person has credibly demonstrated a significant change in behavior, has paid an appropriate consequence for the activity for which sanctions were imposed, and has credibly committed to not engage in an activity described in subsection (a)(1) in the future; or
+  - **(4)** the termination of the sanctions is in the national security interests of the United States.
+- **(g)** *Exception relating to the importation of goods*
+  - **(1)** *In general* The authorities and requirements to impose sanctions under this section shall not include the authority or requirement to impose sanctions on the importation of goods.
+  - **(2)** *Good defined* In this subsection, the term “good” means any article, natural or man-made substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
+- **(h)** *Definitions* In this section:
+  - **(1)** *Admitted* The term “admitted” has the meanings given such term in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101).
+  - **(2)** *Foreign person* The term “foreign person” means a person that is not a United States person.
+  - **(3)** *Knowingly* The term “knowingly” means, with respect to conduct, a circumstance, or a result, means that a person has actual knowledge, or should have known, of the conduct, the circumstance, or the result.
+  - **(4)** *Person* The term “person” means an individual or entity.
+  - **(5)** *United States person* The term “United States person” means—
+    - **(A)** a United States citizen or an alien lawfully admitted for permanent residence to the United States; or
+    - **(B)** an entity organized under the laws of the United States or any jurisdiction within the United States, including a foreign branch of such an entity.
 
-## § 8. Inadmissibility of certain aliens and family members
+## § 8. Sanctions reports
 
-- **(a)** *In general* Section 212(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(2)) is amended by adding at the end the following:
-  > - **(J)** *Certain aliens responsible for abductions or extraditions from hong kong* Any alien included in the list submitted by the President under section 7(a) of the Hong Kong Human Rights and Democracy Act of 2019 is inadmissible.
+- **(a)** *In general* The President shall transmit to the appropriate congressional committees a report that includes the following:
+  - **(1)** A list of each foreign person with respect to which the President imposed sanctions under section 7 during the year preceding the transmission of such report.
+  - **(2)** A description of the type of sanctions imposed with respect to each such person.
+  - **(3)** The number of foreign persons with respect to which the President terminated such sanctions during such year.
+  - **(4)** The dates on which such sanctions were imposed or terminated, as applicable.
+  - **(5)** The reasons for imposing or terminating such sanctions.
+  - **(6)** A description of the efforts of the President to encourage the governments of other countries to impose sanctions that are similar to such sanctions.
+- **(b)** *Form* The report required under subsection (a) shall be transmitted in unclassified form but may contain a classified annex.
+- **(c)** *Public availability* The unclassified portion of the report required under subsection (a) shall be made available to the public, including through publication in the Federal Register.
+- **(d)** *Nonapplicability of confidentiality requirement with respect to visa records* The President shall publish the report required under subsection (a) without regard to the requirements of section 222(f) of the Immigration and Nationality Act (8 U.S.C. 1202(f)) with respect to confidentiality of records pertaining to the issuance or refusal of visas or permits to enter the United States.
 
-- **(b)** *Current visas revoked*
-  - **(1)** *In general* The issuing consular officer, the Secretary of State, or the Secretary of Homeland Security (or a designee of either Secretary) shall revoke any visa or other entry documentation issued to any alien who is included on the list required under section 7(a), regardless of when such visa or entry documentation was issued.
-  - **(2)** *Effective date* Revocations under paragraph (1) shall take effect on the date such action is taken and shall automatically cancel any other valid visa or entry documentation that is in the alien’s possession.
-- **(c)** *Waiver for national security interests*
-  - **(1)** *In general* The Secretary of State may waive, with respect to an alien, the application of section 212(a)(2) of the Immigration and Nationality Act, as amended by subsection (a), or the application of subsection (b) if the Secretary—
-    - **(A)** determines that such waiver—
-      - **(i)** is necessary to permit the United States to comply with the Agreement between the United Nations and the United States of America regarding the Headquarters of the United Nations, signed June 26, 1947, and entered into force November 21, 1947, or other applicable international obligations of the United States; or
-      - **(ii)** is vital to the national security interests of the United States; and
-    - **(B)** before granting such waiver, provides to the appropriate congressional committees notice of, and a justification for, the waiver.
-  - **(2)** *Timing for certain waivers* Notification under subparagraph (B) of paragraph (1) shall be made not later than 15 days before granting a waiver under such paragraph if the Secretary grants such waiver under subparagraph (A)(ii) of such paragraph.
-- **(d)** *Regulatory authority* The Secretary of State shall prescribe such regulations as may be necessary to carry out this section.
+## § 9. Determination of budgetary effects
 
-## § 9. Financial measures
-
-- **(a)** *Blocking of property* The President shall exercise all powers granted by the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) (except that the requirements of section 202 of such Act (50 U.S.C. 1701) shall not apply) to the extent necessary to block and prohibit all transactions in all property and interests in property of a person on the list required under section 7(a) if such property and interests in property—
-  - **(1)** are in the United States;
-  - **(2)** come within the United States; or
-  - **(3)** are or come within the possession or control of a United States person.
-- **(b)** *Exception for importation of goods*
-  - **(1)** *In general* The requirement to impose sanctions under subsection (a) shall not include the authority to impose sanctions with respect to the importation of goods.
-  - **(2)** *Good defined* In this subsection, the term good means any article, natural or manmade substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
-- **(c)** *Waiver for national security interests* The President may waive the application of subsection (a) if the President—
-  - **(1)** determines that such waiver is vital for the national security interests of the United States; and
-  - **(2)** not later than 15 days before granting the waiver, submits to the appropriate congressional committees notice of, and a justification for, the waiver.
-- **(d)** *Enforcement*
-  - **(1)** *Penalties* Any person that violates, attempts to violate, conspires to violate, or causes a violation of subsection (a) or any regulation, license, or order issued to carry out that subsection shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) to the same extent as a person that commits an unlawful act described in subsection (a) of such section.
-  - **(2)** *Requirements for financial institutions* Not later than 120 days after the date of the enactment of this Act, the Secretary of the Treasury shall prescribe or amend regulations to the extent necessary to require each financial institution that is a United States person and has within its possession or control assets that are property or interests in property of a person on the list required under section 7(a) to certify to the Secretary that, to the best of the knowledge of the financial institution, the financial institution has blocked all assets within the possession or control of the financial institution in accordance with subsection (a).
-  - **(3)** *Notification to congress* Not later than 10 days before prescribing or revising regulations under paragraph (2), the President shall notify the appropriate congressional committees of the proposed regulations and the provisions of this Act or amendments made by this Act that the regulations are implementing.
-- **(e)** *Rulemaking* The Secretary of the Treasury shall issue such regulations, licenses, and orders as may be necessary to carry out this section.
-
-## § 10. Reports to Congress
-
-- **(a)** *In general* The President shall submit a report to the appropriate congressional committees that includes—
-  - **(1)** a list of each foreign person with respect to which the President imposed sanctions pursuant to section 8 or 9 during the 1-year period preceding the submission of the report;
-  - **(2)** a description of the type of sanctions imposed with respect to each such person;
-  - **(3)** the number of foreign persons with respect to which the President—
-    - **(A)** imposed sanctions under section 8 or 9 during that year; and
-    - **(B)** terminated sanctions under section 8 or 9 during that year;
-  - **(4)** the dates on which such sanctions were imposed or terminated; and
-  - **(5)** the reasons for imposing or terminating such sanctions.
-- **(b)** *Dates for submission*
-  - **(1)** *Initial report* The President shall submit the initial report under subsection (a) not later than 1 year after the date of the enactment of this Act.
-  - **(2)** *Subsequent reports*
-    - **(A)** *In general* The President shall submit a report under subsection (a) on December 10, or the first day thereafter on which both Houses of Congress are in session, of—
-      - **(i)** the calendar year in which the initial report is submitted if the initial report is submitted before December 10 of that calendar year; and
-      - **(ii)** each calendar year thereafter.
-- **(c)** *Form of report*
-  - **(1)** *In general* Each report required under subsection (a) shall be submitted in unclassified form, but may include a classified annex.
-  - **(2)** *Exception* The name of a foreign person to be included in the list required under subsection (a)(1) may not be included in the classified annex authorized under paragraph (1) unless the President—
-    - **(A)** determines that such inclusion is vital to the national security interests of the United States;
-    - **(B)** uses the annex in a manner consistent with congressional intent and the purposes of this Act; and
-    - **(C)** not later than 15 days before including such name in the classified annex, provides to the appropriate congressional committees notice of, and a justification for, including the name in the classified annex despite any publicly available credible information indicating that the person engaged in an activity described in section 8 or 9.
-- **(d)** *Public availability*
-  - **(1)** *In general* The unclassified portion of the report required under subsection (a) shall be made available to the public, including through publication in the Federal Register.
-  - **(2)** *Nonapplicability of confidentiality requirement with respect to visa records* The President shall publish the list required under subsection (a)(1) without regard to the requirements under section 222(f) of the Immigration and Nationality Act (8 U.S.C. 1202(f)) with respect to confidentiality of records pertaining to the issuance or refusal of visas or permits to enter the United States.
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
