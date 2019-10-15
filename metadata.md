@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3710
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3710
@@ -21,9 +21,10 @@ Cybersecurity Vulnerability Remediation Act
 - Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
 - Rep. Langevin, James R. [D-RI-2] (L000559)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Cybersecurity Vulnerability Remediation Act
 - 2019-09-26 — Ms. Jackson Lee moved to suspend the rules and pass the bill.
 - 2019-09-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8013)
 - 2019-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8013)
+- 2019-10-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
