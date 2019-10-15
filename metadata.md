@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2334
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2334
@@ -16,7 +16,7 @@ To designate the Department of Veterans Affairs community-based outpatient clini
 
 - Rep. Conaway, K. Michael [R-TX-11] (C001062)
 
-## Cosponsors (21)
+## Cosponsors (35)
 
 - Rep. Crenshaw, Dan [R-TX-2] (C001120)
 - Rep. Gohmert, Louie [R-TX-1] (G000552)
@@ -39,6 +39,20 @@ To designate the Department of Veterans Affairs community-based outpatient clini
 - Rep. Gonzalez, Vicente [D-TX-15] (G000581)
 - Rep. Cuellar, Henry [D-TX-28] (C001063)
 - Rep. Roy, Chip [R-TX-21] (R000614)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+- Rep. Granger, Kay [R-TX-12] (G000377)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Flores, Bill [R-TX-17] (F000461)
+- Rep. Marchant, Kenny [R-TX-24] (M001158)
+- Rep. Allred, Colin Z. [D-TX-32] (A000376)
+- Rep. Doggett, Lloyd [D-TX-35] (D000399)
+- Rep. Castro, Joaquin [D-TX-20] (C001091)
+- Rep. Gooden, Lance [R-TX-5] (G000589)
+- Rep. Burgess, Michael C. [R-TX-26] (B001248)
+- Rep. Garcia, Sylvia R. [D-TX-29] (G000587)
+- Rep. Escobar, Veronica [D-TX-16] (E000299)
+- Rep. Fletcher, Lizzie [D-TX-7] (F000468)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 
 ## Committees (1)
 
@@ -49,3 +63,10 @@ To designate the Department of Veterans Affairs community-based outpatient clini
 - 2019-04-18 — Introduced in House
 - 2019-04-18 — Introduced in House
 - 2019-04-18 — Referred to the House Committee on Veterans' Affairs.
+- 2019-05-02 — Referred to the Subcommittee on Health.
+- 2019-10-15 — Considered under suspension of the rules. (consideration: CR H8132-8135)
+- 2019-10-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2334.
+- 2019-10-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-10-15 — Mr. Takano moved to suspend the rules and pass the bill.
+- 2019-10-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8132)
+- 2019-10-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8132)
