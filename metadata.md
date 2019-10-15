@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2528
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2528
@@ -48,9 +48,10 @@ STEM Opportunities Act of 2019
 - Rep. Waltz, Michael [R-FL-6] (W000823)
 - Rep. Mucarsel-Powell, Debbie [D-FL-26] (M001207)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -69,3 +70,4 @@ STEM Opportunities Act of 2019
 - 2019-09-26 — Ms. Johnson (TX) moved to suspend the rules and pass the bill, as amended.
 - 2019-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8005-8009)
 - 2019-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8005-8009)
+- 2019-10-15 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
