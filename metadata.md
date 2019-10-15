@@ -1,7 +1,7 @@
 ---
 measure: H.R. 335
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 335
@@ -23,10 +23,11 @@ South Florida Clean Coastal Waters Act of 2019
 - Rep. Posey, Bill [R-FL-8] (P000599)
 - Rep. Waltz, Michael [R-FL-6] (W000823)
 
-## Committees (2)
+## Committees (3)
 
 - House — Natural Resources Committee
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ South Florida Clean Coastal Waters Act of 2019
 - 2019-09-26 — Ms. Johnson (TX) moved to suspend the rules and pass the bill, as amended.
 - 2019-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8010-8011)
 - 2019-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8010-8011)
+- 2019-10-15 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
