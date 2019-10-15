@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3675
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3675
@@ -22,9 +22,10 @@ Trusted Traveler Reconsideration and Restoration Act of 2019
 - Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
 - Rep. Slotkin, Elissa [D-MI-8] (S001208)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Trusted Traveler Reconsideration and Restoration Act of 2019
 - 2019-09-26 — Mr. Correa moved to suspend the rules and pass the bill.
 - 2019-09-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8020)
 - 2019-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8020)
+- 2019-10-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
