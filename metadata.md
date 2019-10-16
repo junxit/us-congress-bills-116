@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3152
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3152
@@ -37,3 +37,11 @@ To designate the facility of the United States Postal Service located at 456 Nor
 - 2019-06-06 — Introduced in House
 - 2019-06-06 — Referred to the House Committee on Oversight and Reform.
 - 2019-06-06 — Sponsor introductory remarks on measure. (CR E726)
+- 2019-06-12 — Committee Consideration and Mark-up Session Held.
+- 2019-06-12 — Ordered to be Reported by Unanimous Consent.
+- 2019-10-16 — Considered under suspension of the rules. (consideration: CR H8173-8174)
+- 2019-10-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3152.
+- 2019-10-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-10-16 — Mr. Rouda moved to suspend the rules and pass the bill.
+- 2019-10-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8173)
+- 2019-10-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8173)
