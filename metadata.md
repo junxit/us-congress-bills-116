@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2334
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2334
@@ -54,9 +54,10 @@ To designate the Department of Veterans Affairs community-based outpatient clini
 - Rep. Fletcher, Lizzie [D-TX-7] (F000468)
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -70,3 +71,4 @@ To designate the Department of Veterans Affairs community-based outpatient clini
 - 2019-10-15 — Mr. Takano moved to suspend the rules and pass the bill.
 - 2019-10-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8132)
 - 2019-10-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8132)
+- 2019-10-16 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
