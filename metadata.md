@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1252
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1252
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 6531 Va
 
 - Rep. Cárdenas, Tony [D-CA-29] (C001097)
 
-## Cosponsors (46)
+## Cosponsors (50)
 
 - Rep. LaMalfa, Doug [R-CA-1] (L000578)
 - Rep. Thompson, Mike [D-CA-5] (T000460)
@@ -64,6 +64,10 @@ To designate the facility of the United States Postal Service located at 6531 Va
 - Rep. Lee, Barbara [D-CA-13] (L000551)
 - Rep. Speier, Jackie [D-CA-14] (S001175)
 - Rep. Ruiz, Raul [D-CA-36] (R000599)
+- Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. Nunes, Devin [R-CA-22] (N000181)
+- Rep. Porter, Katie [D-CA-45] (P000618)
+- Rep. Harder, Josh [D-CA-10] (H001090)
 
 ## Committees (1)
 
@@ -74,3 +78,10 @@ To designate the facility of the United States Postal Service located at 6531 Va
 - 2019-02-14 — Introduced in House
 - 2019-02-14 — Introduced in House
 - 2019-02-14 — Referred to the House Committee on Oversight and Reform.
+- 2019-07-25 — Committee Consideration and Mark-up Session Held.
+- 2019-10-16 — Considered under suspension of the rules. (consideration: CR H8169)
+- 2019-10-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1252.
+- 2019-10-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-10-16 — Mr. Rouda moved to suspend the rules and pass the bill.
+- 2019-10-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8169)
+- 2019-10-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8169)
