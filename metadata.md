@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3289
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3289
@@ -87,3 +87,4 @@ Hong Kong Human Rights and Democracy Act of 2019
 - 2019-10-15 — Mr. Sherman moved to suspend the rules and pass the bill, as amended.
 - 2019-10-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8119-8122)
 - 2019-10-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8119-8122)
+- 2019-10-16 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 243.
