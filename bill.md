@@ -37,20 +37,20 @@ This Act may be cited as the “ONDCP Technical Corrections Act of 2019”.
       - **(i)** in paragraph (2)(A)(ii), by striking “fo” and inserting “of”;
       - **(ii)** in paragraph (3)(E)(ii)—
         - **(I)** in subclause (I), by striking “subparagraph (A)” and inserting “clause (i)”; and
-        - **(II)** in subclause (II), by striking “clause (i)” and inserting “subclause (I)”;
+        - **(II)** in subclause (II), by striking “clause (i)” and inserting “subclause (I)”; and
       - **(iii)** in paragraph (5)(B)—
         - **(I)** by striking “The Director shall determine whether the coordinator position is a noncareer” and inserting “For purposes of carrying out subparagraph (A), the Director shall designate or appoint an”; and
         - **(II)** by striking “a career” and inserting “an”;
     - **(D)** in subsection (d)—
       - **(i)** paragraph (8)—
         - **(I)** in subparagraph (E)—
-          - **(aa)** in clause (iii), by moving subclauses (I) through (V) two ems to the left so that the left margin of such clause is aligned with the margin of clause (iii); and
-          - **(bb)** by moving clause (iii) two ems to the left so that the left margin of such clause is aligned with the margin of subparagraph (E); and
+          - **(aa)** in clause (iii), by moving subclauses (I) through (V) 2 ems to the left so that the left margin of such clause is aligned with the margin of clause (iii);
+          - **(bb)** by moving clause (iii) 2 ems to the left so that the left margin of such clause is aligned with the margin of subparagraph (E); and
           - **(cc)** by redesignating clause (iii) as subparagraph (F); and
         - **(II)** in subparagraph (F), as so redesignated—
           - **(aa)** by redesignating subclauses (I) through (V) as clauses (i) through (v), respectively; and
           - **(bb)** in clause (v), as so redesignated, by striking the period at the end and inserting a semicolon; and
-      - **(ii)** in paragraph (9), by striking “section 704(f)(5)” and inserting “subsection (f)(5); and”; and
+      - **(ii)** in paragraph (9), by striking “section 704(f)(5);” and inserting “subsection (f)(5); and”; and
     - **(E)** in subsection (j)—
       - **(i)** by striking “The Director shall determine whether the coordinator position is a noncareer” and inserting “For purposes of carrying out the previous sentence, the Director shall designate or appoint an”;
       - **(ii)** by striking “a career” and inserting “an”; and
@@ -63,7 +63,7 @@ This Act may be cited as the “ONDCP Technical Corrections Act of 2019”.
         - **(II)** in subparagraph (C)—
           - **(aa)** by inserting “that may impede applicants” after “barriers”; and
           - **(bb)** by striking “impediments” and all that follows through “agencies”; and
-      - **(ii)** in paragraph (2), in the heading, by inserting “Program” before “agencies”;
+      - **(ii)** in paragraph (2), in the heading, by striking “drug control” and inserting “drug control program”;
   - **(7)** in section 707(o)(2)(B), by striking “802(33))” and inserting “802(33)))”; and
   - **(8)** in section 709—
     - **(A)** in subsection (a)—
@@ -76,7 +76,7 @@ This Act may be cited as the “ONDCP Technical Corrections Act of 2019”.
     - **(C)** in subsection (f)(1), by striking “subtitle” and inserting “subsection”.
 - **(b)** *Repeal of annual report requirement* The Office of National Drug Control Policy Reauthorization Act of 2006 (Public Law 109–469; 120 Stat. 3502) is amended—
   - **(1)** by repealing section 203; and
-  - **(2)** in section (1)(c), in the table of contents, by striking the item relating to section 203.
+  - **(2)** in section 1(c), in the table of contents, by striking the item relating to section 203.
 - **(c)** *Technical correction to the Substance Abuse Prevention Act of 2018*
   - **(1)** *Amendments* The Substance Abuse Prevention Act of 2018 (subtitle K of title VIII of Public Law 115–271) is amended—
     - **(A)** in section 8203—
@@ -85,12 +85,20 @@ This Act may be cited as the “ONDCP Technical Corrections Act of 2019”.
         - **(II)** in paragraph (1), by striking “the National Narcotics Leadership Act of 1988” and inserting “subtitle A of title I of the Anti-Drug Abuse Act of 1988”;
         - **(III)** by striking paragraph (3);
         - **(IV)** by redesignating paragraph (4) as paragraph (3); and
-        - **(V)** in paragraph (3)(A), as so redesignated, by striking “National Narcotics Leadership Act of 1988” and inserting “Anti-Drug Abuse Act of 1988”; and
+        - **(V)** in paragraph (3)(A), as so redesignated, by striking “National Narcotics Leadership Act of 1988” and inserting “Anti-Drug Abuse Act of 1988”;
       - **(ii)** in subsection (b)—
-        - **(I)** in the heading, by striking “National Narcotics Leadership Act of 1988” and inserting “Anti-Drug Abuse Act of 1988”; and
+        - **(I)** in the heading, by striking “National Narcotics Leadership Act of 1988” and inserting “Anti-Drug Abuse Act of 1988”;
         - **(II)** in the matter preceding paragraph (1), by striking “National Narcotics Leadership Act of 1988” and inserting “Anti-Drug Abuse Act of 1988”; and
+        - **(III)** in paragraph (4)(B), by striking “in section 1032(b)(1)(A) (21 U.S.C. 1532(b)(1)(A)), by striking clause (iii) and inserting the following” and inserting “by amending section 1032(b)(3)(D) (21 U.S.C. 1532(b)(3)(D)) to read as follows”; and
+      - **(iii)** in the quoted matter added by subsection (b)(4)(B)—
+        - **(I)** in clause (iii), by moving subclauses (I) and (II) 2 ems to the left so that the left margins of such subclauses are aligned with the margin of clause (iii);
+        - **(II)** by moving clause (iii) 2 ems to the left so that the left margin of such clause is aligned with the margin of subparagraph (B) of subsection (b)(4);
+        - **(III)** by redesignating clause (iii) as subparagraph (D); and
+        - **(IV)** in subparagraph (D), as so redesignated—
+          - **(aa)** by redesignating subclauses (I) and (II) as clauses (i) and (ii), respectively; and
+          - **(bb)** in clause (ii), as so redesignated, by striking “tears” and inserting “years”; and
     - **(B)** in section 8221—
-      - **(i)** in the quoted matter added by subsection (a), by striking “Sec. 706. National drug control strategy.”; and
+      - **(i)** in the quoted matter added by subsection (a), by striking “‘Sec. 706. National drug control strategy.”; and
       - **(ii)** in subsection (a), by striking “amended to read as follows:” and inserting
         > amended—
         > - **(1)** by striking subsections (a) and (b);
@@ -98,22 +106,23 @@ This Act may be cited as the “ONDCP Technical Corrections Act of 2019”.
         > - **(3)** by inserting before subsection (h), as so redesignated, the following:
 
   - **(2)** *Effective date* The amendments made by this subsection shall take effect as if included in the enactment of the Substance Abuse Prevention Act of 2018 (subtitle K of title VIII of Public Law 115–271).
+  - **(3)** *Matching requirement revived and restored* Section 1032(b)(1)(A)(iii) of the Anti-Drug Abuse Act of 1988 (21 U.S.C. 1532(b)(1)(A)) is revived and restored as if the amendment made by section 8203(b)(4) of the Substance Abuse Prevention Act of 2018 (subtitle K of title VIII of Public Law 115–271) had never been enacted.
 - **(d)** *Additional technical corrections to the Office of National Drug Control Policy Reauthorization Act of 1998* Section 706 of the Office of National Drug Control Policy Reauthorization Act of 1998 (21 U.S.C. 1701 et seq.) is amended—
   - **(1)** in subsection (c)(1)(N)—
     - **(A)** in clause (ii), by striking “Programs” and inserting “Program agencies”; and
     - **(B)** in clause (iii), by striking “Agencies” and inserting “Program agencies”;
-  - **(2)** in subsection (c)(2), in the matter proceeding subparagraph (A), by striking “paragraph (1)” and inserting “paragraph (1)(M)”;
+  - **(2)** in subsection (c)(2), in the matter preceding subparagraph (A), by striking “paragraph (1)” and inserting “paragraph (1)(M)”;
   - **(3)** in subsection (f)—
     - **(A)** in paragraph (2), by striking “office” and inserting “Office”; and
     - **(B)** in paragraph (3)(A)(ii)—
       - **(i)** in subclause (III), by striking the semicolon at the end and inserting “; and”; and
       - **(ii)** in subclause (IV), by striking the semicolon at the end and inserting a period; and
-  - **(4)** in subsection (g)(3), in subparagraph (B), by striking “chapter;” and inserting “title; and”.
-- **(e)** *Administration of grant; authorization of appropriations* Section 4 of Public Law 107–82 (21 U.S.C. 1521 note) is amended—
-  - **(1)** in subsection (a) by striking “, using amounts authorized to be appropriated by subsection (d),”;
-  - **(2)** by striking subsection (d); and
-  - **(3)** by inserting after subsection (c) the following:
+  - **(4)** in subsection (g)(3), in subparagraph (B), by striking “chapter;” and inserting “title;”.
+- **(e)** *Administration of grant* Section 4 of Public Law 107–82 (21 U.S.C. 1521 note) is amended—
+  - **(1)** in subsection (a)—
+    - **(A)** by striking “The Director” and inserting “Beginning in fiscal year 2020, the Director”; and
+    - **(B)** by striking “, using amounts authorized to be appropriated by subsection (d),”; and
+  - **(2)** by amending subsection (d) to read as follows:
     > - **(d)** *Administration of grant*
-    >   - **(1)** *Duration* The grant made under subsection (a) shall be for a term of 5 years.
+    >   - **(1)** *Duration* With respect to a grant made under subsection (a) in fiscal year 2020, the term of the grant shall be 4 years.
     >   - **(2)** *Disbursement* To the extent amounts are provided in appropriation Acts for such grant, the Director shall disburse the amount of the grant made under subsection (a) on an annual basis.
-    > - **(e)** *Authorization of appropriations* There are authorized to be appropriated for the purposes of activities under this section, including the grant under subsection (a), $2,000,000 for each of fiscal years 2020 through 2024.
