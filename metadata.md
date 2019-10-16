@@ -1,7 +1,7 @@
 ---
 measure: H.R. 95
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 95
@@ -320,9 +320,10 @@ Homeless Veteran Families Act
 - Rep. Phillips, Dean [D-MN-3] (P000616)
 - Rep. Shalala, Donna E. [D-FL-27] (S001206)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -341,3 +342,4 @@ Homeless Veteran Families Act
 - 2019-10-15 — Mr. Takano moved to suspend the rules and pass the bill.
 - 2019-10-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 557). (text: CR H8135)
 - 2019-10-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 557).(text: CR H8135)
+- 2019-10-16 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
