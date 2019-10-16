@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4270
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4270
@@ -51,9 +51,10 @@ Placing Restrictions on Teargas Exports and Crowd Control Technology to Hong Kon
 - Rep. Trahan, Lori [D-MA-3] (T000482)
 - Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -69,3 +70,4 @@ Placing Restrictions on Teargas Exports and Crowd Control Technology to Hong Kon
 - 2019-10-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8124-8125)
 - 2019-10-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8124-8125)
 - 2019-10-15 — The title of the measure was amended. Agreed to without objection.
+- 2019-10-16 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
