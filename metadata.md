@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3329
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3329
@@ -79,3 +79,10 @@ To designate the facility of the United States Postal Service located at 5186 Be
 - 2019-06-18 — Introduced in House
 - 2019-06-18 — Introduced in House
 - 2019-06-18 — Referred to the House Committee on Oversight and Reform.
+- 2019-07-25 — Committee Consideration and Mark-up Session Held.
+- 2019-10-16 — Considered under suspension of the rules. (consideration: CR H8175-8176)
+- 2019-10-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3329.
+- 2019-10-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-10-16 — Mr. Rouda moved to suspend the rules and pass the bill.
+- 2019-10-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8175)
+- 2019-10-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8175)
