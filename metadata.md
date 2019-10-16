@@ -1,7 +1,7 @@
 ---
 measure: S. 2159
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2159
@@ -28,3 +28,7 @@ A bill to repeal the Act entitled "An Act to confer jurisdiction on the State of
 
 - 2019-07-18 — Introduced in Senate
 - 2019-07-18 — Read twice and referred to the Committee on Indian Affairs.
+- 2019-07-24 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2019-10-16 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-130.
+- 2019-10-16 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-130.
+- 2019-10-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 244.
