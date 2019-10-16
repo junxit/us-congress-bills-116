@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2385
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2385
@@ -20,9 +20,10 @@ To permit the Secretary of Veterans Affairs to establish a grant program to cond
 
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -47,3 +48,4 @@ To permit the Secretary of Veterans Affairs to establish a grant program to cond
 - 2019-10-15 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
 - 2019-10-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 1 (Roll no. 556). (text: CR H8129)
 - 2019-10-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 1 (Roll no. 556).(text: CR H8129)
+- 2019-10-16 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
