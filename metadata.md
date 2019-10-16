@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 356
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 356
@@ -28,3 +28,7 @@ A resolution designating September 4, 2019, as "National Polycystic Kidney Disea
 
 - 2019-09-26 — Introduced in Senate
 - 2019-09-26 — Referred to the Committee on the Judiciary.
+- 2019-10-16 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 9/26/2019 CR S5757)
+- 2019-10-16 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 9/26/2019 CR S5757)
+- 2019-10-16 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S5852-5853)
+- 2019-10-16 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S5852-5853)
