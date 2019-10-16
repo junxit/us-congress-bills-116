@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1199
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1199
@@ -22,9 +22,10 @@ VA Website Accessibility Act of 2019
 - Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ VA Website Accessibility Act of 2019
 - 2019-10-15 — Mr. Takano moved to suspend the rules and pass the bill.
 - 2019-10-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8131)
 - 2019-10-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8131)
+- 2019-10-16 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
