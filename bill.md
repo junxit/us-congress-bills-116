@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3207
 
-> To designate the facility of the United States Postal Service located at 114 Mill Street in Hookstown, Pennslyvania, as the “Staff Sergeant Dylan Elchin Post Office Building”.
+> To designate the facility of the United States Postal Service located at 114 Mill Street in Hookstown, Pennsylvania, as the “Staff Sergeant Dylan Elchin Post Office Building”.
 
 ## § 1. Staff Sergeant Dylan Elchin Post Office Building
 
