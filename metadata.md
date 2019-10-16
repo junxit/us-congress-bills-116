@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2334
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2334
@@ -72,3 +72,14 @@ To designate the Department of Veterans Affairs community-based outpatient clini
 - 2019-10-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8132)
 - 2019-10-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8132)
 - 2019-10-16 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2019-11-21 — Passed Senate without amendment by Unanimous Consent.
+- 2019-11-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2019-11-21 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S6767)
+- 2019-11-21 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S6767)
+- 2019-11-25 — Message on Senate action sent to the House.
+- 2019-12-04 — Presented to President.
+- 2019-12-04 — Presented to President.
+- 2019-12-13 — Became Public Law No: 116-87.
+- 2019-12-13 — Became Public Law No: 116-87.
+- 2019-12-13 — Signed by President.
+- 2019-12-13 — Signed by President.
