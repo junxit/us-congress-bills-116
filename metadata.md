@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2385
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2385
@@ -45,3 +45,14 @@ To permit the Secretary of Veterans Affairs to establish a grant program to cond
 - 2019-10-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 1 (Roll no. 556). (text: CR H8129)
 - 2019-10-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 1 (Roll no. 556).(text: CR H8129)
 - 2019-10-16 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2019-12-19 — Passed Senate without amendment by Voice Vote.
+- 2019-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2019-12-19 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S7231)
+- 2019-12-19 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S7231)
+- 2019-12-23 — Message on Senate action sent to the House.
+- 2020-01-06 — Presented to President.
+- 2020-01-06 — Presented to President.
+- 2020-01-17 — Became Public Law No: 116-107.
+- 2020-01-17 — Became Public Law No: 116-107.
+- 2020-01-17 — Signed by President.
+- 2020-01-17 — Signed by President.
