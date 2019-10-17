@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1253
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1253
@@ -69,9 +69,10 @@ To designate the facility of the United States Postal Service located at 13507 V
 - Rep. Porter, Katie [D-CA-45] (P000618)
 - Rep. Harder, Josh [D-CA-10] (H001090)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -85,3 +86,4 @@ To designate the facility of the United States Postal Service located at 13507 V
 - 2019-10-16 — Mr. Rouda moved to suspend the rules and pass the bill.
 - 2019-10-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8169)
 - 2019-10-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8169)
+- 2019-10-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
