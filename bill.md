@@ -1,0 +1,14 @@
+---
+legis-num: S. 2624
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2624
+
+> To prohibit arms sales to Turkey.
+
+## § 1. Prohibition on arms sales to Turkey
+
+Beginning on the date of the enactment of this Act, the United States Government may not sell, transfer, deliver, license for export, authorize the performance of any service relating to, or otherwise make available any defense article, defense service, or design and construction service, as such terms are defined for purposes of the Arms Export Control Act (22 U.S.C. 2751 et seq.), to the Government of Turkey or to any agents or instrumentalities of such Government.
