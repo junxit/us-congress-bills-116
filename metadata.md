@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1496
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1496
@@ -37,3 +37,4 @@ Presidential Allowance Modernization Act of 2019
 - 2019-10-16 — Mr. Rouda moved to suspend the rules and pass the bill, as amended.
 - 2019-10-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8167-8168)
 - 2019-10-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8167-8168)
+- 2019-10-17 — Received in the Senate.
