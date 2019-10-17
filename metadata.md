@@ -1,7 +1,7 @@
 ---
 measure: H.R. 887
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 887
@@ -22,9 +22,10 @@ To designate the facility of the United States Postal Service located at 877 Eas
 - Rep. Stewart, Chris [R-UT-2] (S001192)
 - Rep. Bishop, Rob [R-UT-1] (B001250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ To designate the facility of the United States Postal Service located at 877 Eas
 - 2019-10-16 — Mr. Rouda moved to suspend the rules and pass the bill.
 - 2019-10-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8176)
 - 2019-10-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8176)
+- 2019-10-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
