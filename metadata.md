@@ -1,7 +1,7 @@
 ---
 measure: S. 2635
 congress: 116
-version: Considered and Passed Senate
+version: Engrossed in Senate
 ---
 
 # S. 2635
