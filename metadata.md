@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3207
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3207
@@ -36,9 +36,10 @@ To designate the facility of the United States Postal Service located at 114 Mil
 - Rep. Smucker, Lloyd [R-PA-11] (S001199)
 - Rep. Houlahan, Chrissy [D-PA-6] (H001085)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ To designate the facility of the United States Postal Service located at 114 Mil
 - 2019-10-16 — Mr. Rouda moved to suspend the rules and pass the bill, as amended.
 - 2019-10-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8174)
 - 2019-10-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8174)
+- 2019-10-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
