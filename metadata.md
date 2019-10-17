@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3314
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3314
@@ -27,9 +27,10 @@ To designate the facility of the United States Postal Service located at 1750 Mc
 - Rep. Lesko, Debbie [R-AZ-8] (L000589)
 - Rep. Stanton, Greg [D-AZ-9] (S001211)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To designate the facility of the United States Postal Service located at 1750 Mc
 - 2019-10-16 — Mr. Rouda moved to suspend the rules and pass the bill.
 - 2019-10-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8175)
 - 2019-10-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8175)
+- 2019-10-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
