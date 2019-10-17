@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2451
 congress: 116
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2451
@@ -38,3 +38,12 @@ To designate the facility of the United States Postal Service located at 575 Dex
 - 2019-10-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8171)
 - 2019-10-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8171)
 - 2019-10-17 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 247.
+- 2019-11-21 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6767)
+- 2019-11-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6767)
+- 2019-11-25 — Message on Senate action sent to the House.
+- 2019-12-04 — Presented to President.
+- 2019-12-04 — Presented to President.
+- 2019-12-13 — Became Public Law No: 116-88.
+- 2019-12-13 — Became Public Law No: 116-88.
+- 2019-12-13 — Signed by President.
+- 2019-12-13 — Signed by President.
