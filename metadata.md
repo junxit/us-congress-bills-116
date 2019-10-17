@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3889
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3889
@@ -41,3 +41,14 @@ ONDCP Technical Corrections Act of 2019
 - 2019-10-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8165-8166)
 - 2019-10-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8165-8166)
 - 2019-10-17 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2019-11-14 — Passed Senate without amendment by Unanimous Consent.
+- 2019-11-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2019-11-14 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6614)
+- 2019-11-14 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6614)
+- 2019-11-18 — Message on Senate action sent to the House.
+- 2019-11-21 — Presented to President.
+- 2019-11-21 — Presented to President.
+- 2019-11-27 — Became Public Law No: 116-74.
+- 2019-11-27 — Became Public Law No: 116-74.
+- 2019-11-27 — Signed by President.
+- 2019-11-27 — Signed by President.
