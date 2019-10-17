@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4387
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4387
@@ -16,9 +16,12 @@ To establish Growth Accelerator Fund Competition within the Small Business Admin
 
 - Rep. Espaillat, Adriano [D-NY-13] (E000297)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Rep. Balderson, Troy [R-OH-12] (B001306)
+- Rep. Hagedorn, Jim [R-MN-1] (H001088)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Evans, Dwight [D-PA-3] (E000296)
 
 ## Committees (1)
 
@@ -29,3 +32,8 @@ To establish Growth Accelerator Fund Competition within the Small Business Admin
 - 2019-09-18 — Introduced in House
 - 2019-09-18 — Introduced in House
 - 2019-09-18 — Referred to the House Committee on Small Business.
+- 2019-09-25 — Committee Consideration and Mark-up Session Held.
+- 2019-09-25 — Ordered to be Reported by Voice Vote.
+- 2019-10-17 — Placed on the Union Calendar, Calendar No. 189.
+- 2019-10-17 — Reported by the Committee on Small Business. H. Rept. 116-238.
+- 2019-10-17 — Reported by the Committee on Small Business. H. Rept. 116-238.
