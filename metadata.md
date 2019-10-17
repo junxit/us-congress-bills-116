@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3889
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3889
@@ -20,10 +20,11 @@ ONDCP Technical Corrections Act of 2019
 
 - Rep. Meadows, Mark [R-NC-11] (M001187)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Accountability Committee
 - House — Energy and Commerce Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ ONDCP Technical Corrections Act of 2019
 - 2019-10-16 — Mr. Rouda moved to suspend the rules and pass the bill, as amended.
 - 2019-10-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8165-8166)
 - 2019-10-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8165-8166)
+- 2019-10-17 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
