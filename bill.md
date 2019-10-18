@@ -1,0 +1,40 @@
+---
+legis-num: H.R. 4746
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4746
+
+> To direct the Secretary of Defense to submit to Congress a report on service waivers for transgender individuals, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Transgender Military Service Reporting Act of 2019”.
+
+## § 2. Report on service waivers for transgender individuals
+
+- **(a)** *In general* Not later than 120 days after the date of the enactment of this Act, and annually thereafter for a two-year period, the Secretary of Defense shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report identifying the number of individuals (disaggregated by the status of the individuals as exempt individuals or nonexempt individuals) to whom the following applied during the reporting period for such report:
+  - **(1)** Diagnosed with a covered medical condition—
+    - **(A)** prior to accession into the Armed Forces; or
+    - **(B)** as a member of the Armed Forces.
+  - **(2)** Presumptively denied accession into the Armed Forces as a result of a covered medical condition.
+  - **(3)** Applied for a service waiver as a result of a covered medical condition.
+  - **(4)** Received a service waiver for a covered medical condition.
+  - **(5)** Denied a service waiver for a covered medical condition.
+  - **(6)** Separated from the Armed Forces as a result of a covered medical condition.
+- **(b)** *Definitions* In this section:
+  - **(1)** The terms “exempt individuals” and “nonexempt individuals” have the meanings given those terms in attachment 3 of the memorandum—
+    - **(A)** issued by the Office of the Deputy Secretary of Defense;
+    - **(B)** dated March 12, 2019; and
+    - **(C)** with the subject heading “Directive-Type Memorandum (DTM)–19–004—Military Service by Transgender Persons and Persons with Gender Dysphoria”.
+  - **(2)** The term “covered medical condition” means—
+    - **(A)** gender dysphoria;
+    - **(B)** gender transition treatment; or
+    - **(C)** any other condition related to gender dysphoria or gender transition treatment.
+  - **(3)** The term “reporting period” means, with respect to a report submitted under subsection (a), the calendar year most recently completed before the date on which such report is to be submitted.
+  - **(4)** The term “service waiver” includes a waiver—
+    - **(A)** for accession into the Armed Forces;
+    - **(B)** to continue service in the Armed Forces; or
+    - **(C)** to otherwise permit service in the Armed Forces.
