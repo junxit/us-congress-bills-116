@@ -15,4 +15,4 @@ This Act may be cited as the “Gold Star Families National Monument Extension A
 
 ## § 2. Extension of authority for establishment of commemorative work
 
-Notwithstanding section 8903(e) of title 40, United Sates Code, the authority provided by section 2859 of the Military Construction Authorization Act for Fiscal Year 2013 (division B of Public Law 112–239; 126 Stat. 2164; 40 U.S.C. 8903 note) shall continue to apply through January 2, 2027.
+Notwithstanding section 8903(e) of title 40, United Sates Code, the authority provided by section 2859 of the Military Construction Authorization Act for Fiscal Year 2013 (division B of Public Law 112–239; 126 Stat. 2164; 40 U.S.C. 8903 note) shall continue to apply through January 2, 2024.
