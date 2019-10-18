@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 4761
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4761
+
+> To ensure U.S. Customs and Border Protection officers, agents, and other personnel have adequate synthetic opioid detection equipment, that the Department of Homeland Security has a process to update synthetic opioid detection capability, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “DHS Opioid Detection Resilience Act of 2019”.
+
+## § 2. Strategy to ensure detection of all opioid purity levels at ports of entry
+
+Not later than 180 days after the date of the enactment of this section, the Commissioner of U.S. Customs and Border Protection (CBP) shall—
+
+- **(1)** implement a strategy to ensure deployed chemical screening devices are able to identify in an operational environment narcotics at purity levels less than or equal to 10 percent, or provide ports of entry with an alternate method for identifying narcotics at lower purity levels; and
+- **(2)** require testing of any new chemical screening devices to understand the abilities and limitations of such devices relating to identifying narcotics at various purity levels before CBP commits to the acquisition of such devices.
+
+## § 3. Plan to ensure opioid detection equipment resiliency
+
+Not later than 180 days after the date of the enactment of this section, the Secretary of Homeland Security shall implement a plan for the long-term development of a centralized spectral database for chemical screening devices. Such plan shall address the following:
+
+- **(1)** How newly identified spectra will be collected, stored, and distributed to such devices in their operational environment, including at ports of entry.
+- **(2)** Identification of parties responsible for updates and maintenance of such database.
