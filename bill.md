@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This title may be cited as the “SCORE for Small Business Act of 2019”.
+This Act may be cited as the “SCORE for Small Business Act of 2019”.
 
 ## § 2. SCORE Program provisions and requirements
 
