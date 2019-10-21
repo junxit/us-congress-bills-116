@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1815
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1815
@@ -16,9 +16,10 @@ SEC Disclosure Effectiveness Testing Act
 
 - Rep. Casten, Sean [D-IL-6] (C001117)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (4)
 
@@ -86,3 +87,4 @@ SEC Disclosure Effectiveness Testing Act
 - 2019-10-17 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1815.
 - 2019-10-17 — The Speaker designated the Honorable James R. Langevin to act as Chairman of the Committee.
 - 2019-10-17 — The previous question was ordered pursuant to the rule.
+- 2019-10-21 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
