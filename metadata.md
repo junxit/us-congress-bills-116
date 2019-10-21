@@ -1,7 +1,7 @@
 ---
 measure: H.R. 150
 congress: 116
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 150
@@ -61,3 +61,5 @@ Grant Reporting Efficiency and Agreements Transparency Act of 2019
 - 2019-09-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-96.
 - 2019-09-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-96.
 - 2019-09-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 200.
+- 2019-10-21 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5927-5928)
+- 2019-10-21 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5927-5928)
