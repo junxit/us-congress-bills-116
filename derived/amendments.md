@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4406
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -71,12 +71,12 @@ to guess them.
 
 ### 15 U.S.C. § 648
 
-> in clause (vii), by striking “subparagraph” and all that follows through the period at the end and inserting “subparagraph $175,000,000 for fiscal years 2020 through 2023”; and
+> in clause (vii), by striking “subparagraph” and all that follows through the period at the end and inserting “subparagraph $175,000,000 for each of fiscal years 2020 through 2023.”; and
 
 | | |
 |---|---|
 | Removed | `subparagraph` |
-| Inserted | `subparagraph $175,000,000 for fiscal years 2020 through 2023` |
+| Inserted | `subparagraph $175,000,000 for each of fiscal years 2020 through 2023.` |
 
 ### 15 U.S.C. § 648
 

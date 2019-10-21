@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4406
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4406
@@ -27,6 +27,10 @@ Small Business Development Centers Improvement Act of 2019
 
 - House — Small Business Committee
 
+## Recorded votes (1)
+
+- 2019-10-21 — [House 116-1-569](votes/house-116-1-0569.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (375–25)
+
 ## Actions
 
 - 2019-09-19 — Introduced in House
@@ -37,3 +41,11 @@ Small Business Development Centers Improvement Act of 2019
 - 2019-10-17 — Placed on the Union Calendar, Calendar No. 191.
 - 2019-10-17 — Reported by the Committee on Small Business. H. Rept. 116-240.
 - 2019-10-17 — Reported by the Committee on Small Business. H. Rept. 116-240.
+- 2019-10-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2019-10-21 — Considered as unfinished business. (consideration: CR H8280-8281)
+- 2019-10-21 — Considered under suspension of the rules. (consideration: CR H8266-8268)
+- 2019-10-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4406.
+- 2019-10-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-10-21 — Ms. Velazquez moved to suspend the rules and pass the bill, as amended.
+- 2019-10-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 375 - 25 (Roll no. 569). (text: CR H8266-8267)
+- 2019-10-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 375 - 25 (Roll no. 569).(text: CR H8266-8267)
