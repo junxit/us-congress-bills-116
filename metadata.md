@@ -1,7 +1,7 @@
 ---
 measure: H.R. 150
 congress: 116
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 150
@@ -63,3 +63,15 @@ Grant Reporting Efficiency and Agreements Transparency Act of 2019
 - 2019-09-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 200.
 - 2019-10-21 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5927-5928)
 - 2019-10-21 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5927-5928)
+- 2019-10-22 — Message on Senate action sent to the House.
+- 2019-12-16 — DEBATE - The House proceeded with forty minutes of debate on the Senate amendment to H.R. 150.
+- 2019-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-12-16 — Mr. Gomez moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H10295-10298)
+- 2019-12-16 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text: CR H10295-10297)
+- 2019-12-16 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text: CR H10295-10297)
+- 2019-12-19 — Presented to President.
+- 2019-12-19 — Presented to President.
+- 2019-12-30 — Became Public Law No: 116-103.
+- 2019-12-30 — Became Public Law No: 116-103.
+- 2019-12-30 — Signed by President.
+- 2019-12-30 — Signed by President.
