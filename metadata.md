@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4407
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4407
@@ -37,3 +37,12 @@ SCORE for Small Business Act of 2019
 - 2019-10-17 — Placed on the Union Calendar, Calendar No. 192.
 - 2019-10-17 — Reported by the Committee on Small Business. H. Rept. 116-241.
 - 2019-10-17 — Reported by the Committee on Small Business. H. Rept. 116-241.
+- 2019-10-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2019-10-21 — Considered as unfinished business. (consideration: CR H8281)
+- 2019-10-21 — Considered under suspension of the rules. (consideration: CR H8274-8277)
+- 2019-10-21 — DEBATE - The House continued with further debate on H.R. 4407.
+- 2019-10-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4407.
+- 2019-10-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-10-21 — Ms. Velazquez moved to suspend the rules and pass the bill.
+- 2019-10-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 389 - 8 (Roll no. 570). (text: CR H8274-8275)
+- 2019-10-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 389 - 8 (Roll no. 570).(text: CR H8274-8275)
