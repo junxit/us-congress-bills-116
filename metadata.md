@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2514
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2514
@@ -16,6 +16,11 @@ COUNTER Act of 2019
 
 - Rep. Cleaver, Emanuel [D-MO-5] (C001061)
 
+## Cosponsors (2)
+
+- Rep. Stivers, Steve [R-OH-15] (S001187)
+- Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
+
 ## Committees (2)
 
 - House — Ways and Means Committee
@@ -28,3 +33,8 @@ COUNTER Act of 2019
 - 2019-05-03 — Referred to the Committee on Financial Services, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-05-03 — Referred to the Committee on Financial Services, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-05-03 — Referred to the Subcommittee on Trade.
+- 2019-10-21 — Committee on Ways and Means discharged.
+- 2019-10-21 — Committee on Ways and Means discharged.
+- 2019-10-21 — Placed on the Union Calendar, Calendar No. 195.
+- 2019-10-21 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-245, Part I.
+- 2019-10-21 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-245, Part I.

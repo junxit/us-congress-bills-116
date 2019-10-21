@@ -18,7 +18,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 Section 5312(a) of title 31, United States Code, is amended by adding at the end the following:
 
-> - **(6)** *Bank Secrecy Act* The term Bank Secrecy act means—
+> - **(7)** *Bank Secrecy Act* The term Bank Secrecy act means—
 >   - **(A)** section 21 of the Federal Deposit Insurance Act;
 >   - **(B)** chapter 2 of title I of Public Law 91–508; and
 >   - **(C)** this subchapter.
