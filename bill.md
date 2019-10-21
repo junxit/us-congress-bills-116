@@ -38,19 +38,26 @@ This Act may be cited as the “Promoting Security and Justice for Victims of Te
       - **(iii)** by striking clause (ii); and
       - **(iv)** by redesignating clause (iii) as clause (ii); and
     - **(B)** by striking subparagraph (B) and inserting the following:
-      > - **(B)**
-      >   - **(i)** after 15 days after the date of enactment of the Promoting Security and Justice for Victims of Terrorism Act of 2019—
-      >     - **(I)** continues to maintain any office, headquarters, premises, or other facilities or establishments in the United States;
-      >     - **(II)** establishes or procures any office, headquarters, premises, or other facilities or establishments in the United States; or
-      >     - **(III)** conducts any activity while physically present in the United States on behalf of the Palestine Liberation Organization or the Palestinian Authority;
-      >   - **(ii)**
-      >     - **(I)** after 120 days after the date of enactment of the Promoting Security and Justice for Victims of Terrorism Act of 2019, has not submitted a notice of withdrawal from all specialized agencies of the United Nations of which the defendant has the same standing as a member state in the United Nations or any specialized agency thereof outside an agreement negotiated between Israel and the Palestinians; or
-      >     - **(II)** after 2 years after the date of enactment of the Promoting Security and Justice for Victims of Terrorism Act of 2019, has the same standing as a member state in the United Nations or any specialized agency thereof outside an agreement negotiated between Israel and the Palestinians; or
-      >   - **(iii)** after the date of enactment of this clause, makes, renews, promotes, or advances any application in order to obtain the same standing as a member state in the United Nations or any specialized agency thereof, or accepts such standing, outside an agreement negotiated between Israel and the Palestinians.
+  - **(1)** in paragraph (1), by striking subparagraphs (A) and (B) and inserting the following:
+    > - **(A)** after the date that is 120 days after the date of the enactment of the Promoting Security and Justice for Victims of Terrorism Act of 2019, makes any payment, directly or indirectly—
+    >   - **(i)** to any payee designated by any individual who, after being fairly tried or pleading guilty, has been imprisoned for committing any act of terrorism that injured or killed a national of the United States, if such payment is made by reason of such imprisonment; or
+    >   - **(ii)** to any family member of any individual, following such individual’s death while committing an act of terrorism that injured or killed a national of the United States, if such payment is made by reason of the death of such individual; or
+    > - **(B)**
+    >   - **(i)** after 15 days after the date of enactment of the Promoting Security and Justice for Victims of Terrorism Act of 2019—
+    >     - **(I)** continues to maintain any office, headquarters, premises, or other facilities or establishments in the United States;
+    >     - **(II)** establishes or procures any office, headquarters, premises, or other facilities or establishments in the United States; or
+    >     - **(III)** conducts any activity while physically present in the United States on behalf of the Palestine Liberation Organization or the Palestinian Authority;
+    >   - **(ii)**
+    >     - **(I)** after 120 days after the date of enactment of the Promoting Security and Justice for Victims of Terrorism Act of 2019, has not submitted a notice of withdrawal from all specialized agencies of the United Nations of which the defendant has the same standing as a member state in the United Nations or any specialized agency thereof outside an agreement negotiated between Israel and the Palestinians; or
+    >     - **(II)** after 2 years after the date of enactment of the Promoting Security and Justice for Victims of Terrorism Act of 2019, has the same standing as a member state in the United Nations or any specialized agency thereof outside an agreement negotiated between Israel and the Palestinians; or
+    >   - **(iii)** after the date of enactment of this clause, makes, renews, promotes, or advances any application in order to obtain the same standing as a member state in the United Nations or any specialized agency thereof, or accepts such standing, outside an agreement negotiated between Israel and the Palestinians.
 
   - **(2)** by adding at the end the following:
-    > - **(3)** *Exception for certain payments and assistance* In determining whether a defendant shall be deemed to have consented to personal jurisdiction under paragraph (1)(A), no court may consider any payment or assistance described in section 1004(b)(1) of the Taylor Force Act (22 U.S.C. 2378c–1(b)(1)).
-    > - **(4)** *Exception for certain activities and locations* In determining whether a defendant shall be deemed to have consented to personal jurisdiction under paragraph (1)(B), no court may consider—
+  - **(“(3)** *Exception for certain payments and assistance* In determining whether a defendant shall be deemed to have consented to personal jurisdiction under paragraph (1)(A), no court may consider any payment or assistance described in section 1004(b)(1) of the Taylor Force Act (22 U.S.C. 2378c–1(b)(1)).
+  - **(“(4)**
+  - **(2)** in paragraph (2), by adding at the end the following: “For purposes of paragraph (1)(A), no court may consider the receipt of any assistance by a nongovernmental organization, whether direct or indirect, as a basis for consent to jurisdiction by a defendant.”; and
+  - **(3)** by adding at the end the following:
+    > - **(3)** *Exception for certain activities and locations* In determining whether a defendant shall be deemed to have consented to personal jurisdiction under paragraph (1)(B)paragraph (1)(B)(i), no court may consider—
     >   - **(A)** any office, headquarters, premises, or other facility or establishment used exclusively for the purpose of conducting official business of the United Nations;
     >   - **(B)** any activity undertaken exclusively for the purpose of conducting official business of the United Nations;
     >   - **(C)** any activity involving officials of the United States that the Secretary of State determines is in the national security interest of the United States if the Secretary reports to the appropriate congressional committees annually on the use of the authority under this subparagraph;
@@ -64,7 +71,7 @@ This Act may be cited as the “Promoting Security and Justice for Victims of Te
     >     - **(i)** all covered claims have been resolved and settled, or are proceeding toward settlement because the defendant is actively engaged in settlement discussions with victims who have covered claims; and
     >     - **(ii)** any claims similar to those described in section 2 Promoting Security and Justice for Victims of Terrorism Act of 2019 and that have been filed after the date of enactment of this paragraph are proceeding toward settlement because the defendant is actively engaged in settlement discussions with victims who have such claims.
     >   - **(B)** *Recertification* A certification under this paragraph may be made for renewable periods of up to 1 year.
-    > - **(6)** *Rule of construction* Notwithstanding any other law (including any treaty), any office, headquarters, premises, or other facility or establishment within the territory of the United States that is not specifically exempted by paragraph (4)(A) shall be considered to be in the United States for purposes of subclauses (I) and (II) of paragraph (1)(B)(i).
+    > - **(6)(4)** *Rule of construction* Notwithstanding any other law (including any treaty), any office, headquarters, premises, or other facility or establishment within the territory of the United States that is not specifically exempted by paragraph (4)(A)(3)(A) shall be considered to be in the United States for purposes of subclauses (I) and (II) of paragraph (1)(B)(i).
     > - **(7)** *Sunset* Paragraph (1)(A) shall terminate on the date on which the Secretary of State, in consultation with the Attorney General, certifies in writing to the President pro tempore of the Senate and Speaker of the House of Representatives that—
     >   - **(A)** all covered claims have been resolved and settled in a manner that is satisfactory to the parties; and
     >   - **(B)** on or after the 2-year period beginning on the date of enactment of this paragraph, there are no similar claims under section 2333 against a defendant that—
@@ -80,4 +87,16 @@ This Act may be cited as the “Promoting Security and Justice for Victims of Te
     >       - **(I)** identified in clause (i), (ii), or (iii); and
     >       - **(II)** that self-identifies as, holds itself out to be, or carries out conduct in the name of, the “State of Palestine” or “Palestine” in connection with official business of the United Nations.
 
+    > - **(5)** *Defined term* In this subsection, the term defendant means—
+    >   - **(A)** the Palestinian Authority;
+    >   - **(B)** the Palestine Liberation Organization;
+    >   - **(C)** any organization or other entity that is a successor to or affiliated with the Palestinian Authority or the Palestine Liberation Organization; or
+    >   - **(D)** any organization or other entity that—
+    >     - **(i)** is identified in subparagraph (A), (B), or (C); and
+    >     - **(ii)** self identifies as, holds itself out to be, or carries out conduct in the name of, the “State of Palestine” or “Palestine” in connection with official business of the United Nations.
+
 - **(b)** *Prior consent not abrogated* The amendments made by this section shall not abrogate any consent deemed to have been given under section 2334(e) of title 18, United States Code, as in effect on the day before the date of enactment of this Act.
+
+## § 4. Severability
+
+If any provision of this Act, an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of such provisions to any person or circumstance shall not be affected thereby.
