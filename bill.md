@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This subtitle may be cited as the “Small Business Development Centers Improvement Act of 2019”.
+This Act may be cited as the “Small Business Development Centers Improvement Act of 2019”.
 
 ## § 2. Use of authorized entrepreneurial development programs
 
@@ -111,11 +111,15 @@ Section 21(a)(3) of the Small Business Act (15 U.S.C. 648(a)(3)), as amended by 
   - **(A)** by striking “Whereas”;
   - **(B)** by inserting “Program” after “Center”;
   - **(C)** by striking “National” and inserting “national”; and
-  - **(D)** by moving such subparagraph two ems to the left.
+  - **(D)** by moving such subparagraph 2 ems to the left.
 
 ## § 10. Authorization of appropriations
 
 Section 21(a)(4)(C) of the Small Business Act (15 U.S.C. 648(a)(4)(C)) is amended—
 
-- **(1)** in clause (vii), by striking “subparagraph” and all that follows through the period at the end and inserting “subparagraph $175,000,000 for fiscal years 2020 through 2023”; and
+- **(1)** in clause (vii), by striking “subparagraph” and all that follows through the period at the end and inserting “subparagraph $175,000,000 for each of fiscal years 2020 through 2023.”; and
 - **(2)** in clause (viii), by striking “shall reserve not less than $1,000,000” and inserting “shall reserve not more than $2,000,000”.
+
+## § 11. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
