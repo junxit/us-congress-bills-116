@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3624
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3624
@@ -20,9 +20,10 @@ Outsourcing Accountability Act of 2019
 
 - Rep. McNerney, Jerry [D-CA-9] (M001166)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (3)
 
@@ -71,3 +72,4 @@ Outsourcing Accountability Act of 2019
 - 2019-10-18 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3624.
 - 2019-10-18 — The Speaker designated the Honorable Joe Neguse to act as Chairman of the Committee.
 - 2019-10-18 — The previous question was ordered pursuant to the rule.
+- 2019-10-21 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
