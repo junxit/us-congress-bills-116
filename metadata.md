@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 50
 congress: 116
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 50
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 
-## Cosponsors (10)
+## Cosponsors (12)
 
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Menendez, Robert [D-NJ] (M000639)
@@ -28,6 +28,8 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Merkley, Jeff [D-OR] (M001176)
 - Sen. Van Hollen, Chris [D-MD] (V000128)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
 
 ## Committees (1)
 
@@ -37,3 +39,9 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2019-07-16 — Introduced in Senate
 - 2019-07-16 — Read twice and referred to the Committee on Finance. (text: CR S4859)
+- 2019-10-22 — Measure laid before Senate by motion. (consideration: CR S5952)
+- 2019-10-22 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote.
+- 2019-10-22 — Motion to proceed to consideration of measure made in Senate. (CR S5952)
+- 2019-10-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 258.
+- 2019-10-22 — Senate Committee on Finance discharged by petition pursuant to 5 U.S.C. 802(c).
+- 2019-10-22 — Senate Committee on Finance discharged by petition pursuant to 5 U.S.C. 802(c).
