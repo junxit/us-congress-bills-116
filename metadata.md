@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 646
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 646
@@ -27,3 +27,9 @@ Providing for consideration of the bill (H.R. 2513) to ensure that persons who f
 - 2019-10-21 — Rule provides for consideration of H.R. 2513 with 1 hour of general debate. Motion to recommit with or without instructions allowed. Measure will be considered read. Specified amendments are in order.
 - 2019-10-21 — The House Committee on Rules reported an original measure, H. Rept. 116-247, by Mr. Perlmutter.
 - 2019-10-21 — The House Committee on Rules reported an original measure, H. Rept. 116-247, by Mr. Perlmutter.
+- 2019-10-22 — Considered as privileged matter. (consideration: CR H8307-8315)
+- 2019-10-22 — DEBATE - The House proceeded with one hour of debate on H. Res. 646.
+- 2019-10-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-10-22 — On agreeing to the resolution Agreed to by the Yeas and Nays: 227 - 195 (Roll no. 572). (text: CR H8307)
+- 2019-10-22 — On ordering the previous question Agreed to by the Yeas and Nays: 228 - 194 (Roll no. 571). (consideration: CR H8314-8315)
+- 2019-10-22 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 227 - 195 (Roll no. 572).(text: CR H8307)
