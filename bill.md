@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 4779
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4779
+
+> To extend the Undertaking Spam, Spyware, And Fraud Enforcement With Enforcers beyond Borders Act of 2006, and for other purposes.
+
+## § 1. Extension of the U.S. SAFE WEB Act of 2006
+
+Section 13 of the U.S. SAFE WEB Act of 2006 (Public Law 109–455; 15 U.S.C. 44 note) is amended by striking “September 30, 2020” and inserting “September 30, 2027”.
+
+## § 2. Report
+
+Not later than 3 years after the date of the enactment of this Act, the Federal Trade Commission shall transmit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report describing its use of and experience with the authority granted by the U.S. SAFE WEB Act of 2006 (Public Law 109–455) and the amendments made by such Act. The report shall include—
+
+- **(1)** the number of cross-border complaints received and acted upon by the Commission;
+- **(2)** identification of the foreign agencies with which the Commission has cooperated and the results of such cooperation, including any foreign agency enforcement action or lack thereof;
+- **(3)** a description of Commission litigation brought in foreign courts and the results of such litigation; and
+- **(4)** any recommendations for legislation that may advance the mission of the Commission in carrying out the U.S. SAFE WEB Act of 2006 and the amendments made by such Act.
