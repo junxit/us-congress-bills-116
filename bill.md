@@ -13,15 +13,42 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Rodchenkov Anti-Doping Act of 2019”.
 
-## § 2. Definitions
+## § 2. Findings
+
+Congress finds the following:
+
+- **(1)** Doping fraud conspiracies which affect the results of Major International Sport Competitions harm the clean athletes, including the United States athletes, who participate in those competitions by denying them their due recognition and economic rewards.
+- **(2)** Doping fraud conspiracies which affect the results of Major International Sport Competitions also harm the sponsors of clean athletes, including United States sponsors, whose sponsored athletes participate in these competitions by denying the sponsors the recognition they would have received had their sponsored athletes not been cheated out of their rightful placement by doped competitors.
+- **(3)** Doping fraud conspiracies which affect the results of Major International Sport Competitions also harm the sponsors of those competitions by debasing the legitimacy of the product which they have paid to sponsor.
+- **(4)** Doping fraud conspiracies which affect the results of Major International Sport Competitions also harm the media companies which broadcast those competitions by debasing the legitimacy of the product which they have paid to broadcast.
+- **(5)** Doping fraud conspiracies which affect the results of Major International Sport Competitions also harm the general public who pay to watch these competitions in the expectation that they will be fair competitions competed on a level playing field.
+- **(6)** Doping fraud conspiracies which affect the results of Major International Sport Competitions also hurt the sport organizations whose athletes participate in those competitions because their supporters assume that the competitions in which the athletes participate are fair competitions which embody the fundamental social values of sport and not sham exhibitions rigged in favor of cheaters who dope.
+- **(7)** Doping fraud conspiracies in Major International Sporting Competitions undermine the integrity and value of not only those events but all organized sport around the world, including the United States.
+- **(8)** The economic impact of sport in the United States economy exceeds over $500,000,000,000 yearly. Doping fraud conspiracies in Major International Sport Competitions seriously threaten the value of that sector of the United States economy.
+- **(9)** Doping fraud conspiracies often beget other illegal activity, including bribery and money laundering.
+- **(10)** The World Anti-Doping Code, which first went into effect in 2003, has been an effective tool in the fight against international doping by significantly harmonizing the anti-doping rules of sport and the national laws of those countries which address sport doping through legislation.
+- **(11)** On August 25, 2003, the United States ratified the Convention. As a party to the Convention, the United States has agreed to “adopt appropriate measures at the national and international levels which are consistent with the Code … In abiding by the obligations contained in this Convention, each State Party undertakes to adopt appropriate measures. Such measures may include legislation, regulation, policies or administrative practices.”
+- **(12)** USADA was recognized by Congress, under the United States Anti-Doping Agency Reauthorization Act (Public Law 113–280; 128 Stat. 3020), as the independent anti-doping organization for the amateur athletic competitions recognized by the United States Olympic Committee. Both USADA and the United States Olympic Committee are Signatories to the World Anti-Doping Code.
+- **(13)** The mission of USADA is to preserve the integrity of competition, inspire true sport, and protect the rights of athletes.
+- **(14)** As a party to the Convention, the United States has also agreed to “insure the application of the present Convention, notably through domestic coordination. To meet their obligations under [the] Convention, States Parties may rely on Anti-Doping Organizations as well as sports authorities and organizations.” Because USADA does not have search and seizure or subpoena powers, this cooperation by Federal agencies is very important to USADA in carrying out its mission.
+- **(15)** Existing criminal statutes, such as conspiracy to commit wire fraud and conspiracy to commit mail fraud, have been important tools used by United States law enforcement agencies to fight corruption in connection with some Major International Sport Competitions. However, in other international sporting events, the facts of a doping fraud conspiracy may not support the use of existing laws. As is evident from the recent exposure of the doping fraud conspiracy in Russia involving the Sochi Olympic Games and other Major International Sport Competitions before and after such Olympic Games, whistleblowers, including Dr. Grigory Rodchenkov and Yuliya and Vitaliy Stepanov, can play a critical role in exposing doping fraud conspiracies and other fraudulent acts in international sport.
+- **(16)** These whistleblowers, including Dr. Grigory Rodchenkov and Yuliya and Vitaliy Stepanov, often expose major international doping fraud conspiracies at considerable personal risk. By criminalizing these conspiracies, such whistleblowers will be included under existing witness and informant protection laws.
+
+## § 3. Definitions
 
 - **(1)** *Anti-doping organization* The term anti-doping organization has the meaning given the term in Article 2 of the Convention.
 - **(2)** *Athlete* The term athlete has the meaning given the term in Article 2 of the Convention.
 - **(3)** *Code* The term Code means the World Anti-Doping Code most recently adopted by WADA on March 5, 2003.
 - **(4)** *Convention* The term Convention means the United Nations Educational, Scientific, and Cultural Organization International Convention Against Doping in Sport done at Paris October 19, 2005, and ratified by the United States in 2008.
+- **(5)** *Major international sport competition* The term Major International Sport Competition means—
+  - **(A)** a competition in which—
+    - **(i)** 1 or more United States athletes and 3 or more athletes from other countries participate; and
+    - **(ii)**
+      - **(I)** the competition organizer or sanctioning body receives sponsorship or other financial support from an organization doing business in the United States; or
+      - **(II)** the competition organizer or sanctioning body receives compensation for the right to broadcast the competition in the United States; and
 - **(5)** *Major international sport competition* The term “Major International Sport Competition”—
   - **(A)** means a competition—
-    - **(i)** in which one or more United States athletes and three or more athletes from other countries participate;
+    - **(i)** in which 1 or more United States athletes and 3 or more athletes from other countries participate;
     - **(ii)** that is governed by the anti-doping rules and principles of the Code; and
     - **(iii)** in which—
       - **(I)** the competition organizer or sanctioning body receives sponsorship or other financial support from an organization doing business in the United States; or
@@ -34,37 +61,34 @@ This Act may be cited as the “Rodchenkov Anti-Doping Act of 2019”.
 - **(10)** *USADA* The term USADA means the United States Anti-Doping Agency.
 - **(11)** *WADA* The term WADA means the World Anti-Doping Agency.
 
-## § 3. Major international doping fraud conspiracies
+## § 4. Major international doping fraud conspiracies
 
 - **(a)** *In general* It shall be unlawful for any person, other than an athlete, to knowingly carry into effect, attempt to carry into effect, or conspire with any other person to carry into effect a scheme in commerce to influence by use of a prohibited substance or prohibited method any major international sports competition.
 - **(b)** *Extraterritorial jurisdiction* There is extraterritorial Federal jurisdiction over an offense under this section.
 
-## § 4. Criminal penalties and statute of limitations
+## § 5. Criminal penalties and statute of limitations
 
 - **(a)** *In general*
-  - **(1)** *Criminal penalty* Whoever violates section 3 shall be sentenced to a term of imprisonment for not more than 10 years, fined $250,000 if the person is an individual or $1,000,000 if the defendant is other than an individual, or both.
+  - **(1)** *Criminal penalty* Whoever violates section 4 shall be sentenced to a term of imprisonment for not more than 10 years, fined $250,000 if the person is an individual or $1,000,000 if the defendant is other than an individual, or both.
+  - **(2)** *Forfeiture* Any property real or personal used in violation of section 4 may be seized and forfeited to the United States.
   - **(2)** *Forfeiture* Any property real or personal, tangible or intangible, may be seized and criminally forfeited to the United States if that property—
-    - **(A)** is used or intended to be used, in any manner, to commit or facilitate a violation of section 3; or
-    - **(B)** constitutes or is traceable to the proceeds taken, obtained, or retained in connection with or as a result of a violation of section 3.
+    - **(A)** is used or intended to be used, in any manner, to commit or facilitate a violation of section 4; or
+    - **(B)** constitutes or is traceable to the proceeds taken, obtained, or retained in connection with or as a result of a violation of section 4.
 - **(b)** *Limitation on prosecution*
-  - **(1)** *In general* No person shall be prosecuted, tried, or punished for violation of section 3 unless the indictment is returned or the information is filed within 10 years after the date on which the offense was completed.
-  - **(2)** *Tolling* Upon application in the United States, filed before a return of an indictment, indicating that evidence of an offense under this chapter is in a foreign country, the district court before which a grand jury is impaneled to investigate the offense shall suspend the running of this statute of limitation for the offense if the court finds by a preponderance of the evidence that an official request has been made for such evidence and that it reasonably appears, or reasonably appeared at the time the request was made, that such evidence is, or was, in such foreign country.
+  - **(1)** *In general* No person shall be prosecuted, tried, or punished for violation of section 4 unless the indictment is returned or the information is filed within 10 years after the date on which the offense was completed.
+  - **(2)** *Tolling* Upon application in the United States, filed before a return of an indictment, indicating that evidence of an offense under this chapter is in a foreign country, the district court before which a grand jury is impaneled to investigate the offense shall suspend the running of this statute of limitation for the offense if the court finds by a preponderance of the evidence that an official request has been made for such evidence and that it reasonably appears, or reasonably cleared appeared at the time the request was made, that such evidence is, or was, in such foreign country.
 
-## § 5. Restitution
+## § 6. Restitution
 
 Section 3663A of title 18, United States Code, is amended in subsection (c)—
 
 - **(1)** in paragraph (1)(A)—
   - **(A)** by redesignating clauses (iii) and (iv) as clauses (iv) and (v), respectively; and
   - **(B)** by inserting after clause (ii) the following:
-    > - **(iii)** an offense described in section 3 of the Rodchenkov Anti-Doping Act of 2019;
+    > - **(iii)** an offense described in section 4 of the Rodchenkov Anti-Doping Act of 2019;
 
-- **(2)** in paragraph (3), in the matter preceding subparagraph (A), by inserting “or (iii)” after “paragraph (1)(A)(ii)”.
+- **(2)** in paragraph (3), in the matter preceding clause (i), by inserting “or (iii)” after “paragraph (1)(A)(ii)”.
 
-## § 6. Coordination and sharing of information with USADA
+## § 7. Coordination and sharing of information with USADA
 
-Except as otherwise prohibited by law and except in cases in which the integrity of a criminal investigation would be affected, in furtherance of the obligation of the United States under Article 7 of the Convention, the Department of Justice, the Department of Homeland Security, and the Food and Drug Administration shall coordinate with USADA with regard to any investigation related to a potential violation of section 3 of this Act, to include sharing with USADA all information in the possession of the Department of Justice, the Department of Homeland Security, or the Food and Drug Administration which may be relevant to any such potential violation.
-
-## § 7. Determination of Budgetary Effects
-
-The budgetary effects of this Act, and the amendments made by this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
+Except as otherwise prohibited by law and except in cases in which the integrity of a criminal investigation would be affected, in furtherance of the obligation of the United States under Article 7 of the Convention, the Department of Justice, the Department of Homeland Security, and the Food and Drug Administration shall coordinate with USADA with regard to any investigation related to a potential violation of section 4 of this Act or anti-doping rules adopted by USADA pursuant to the Code, to include sharing with USADA all information in the possession of the Department of Justice, the Department of Homeland Security, or the Food and Drug Administration which may be relevant to any such potential violation.
