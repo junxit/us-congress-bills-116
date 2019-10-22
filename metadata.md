@@ -1,7 +1,7 @@
 ---
 measure: S. 334
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 334
@@ -28,3 +28,7 @@ Clean Water for Rural Communities Act
 
 - 2019-02-05 — Introduced in Senate
 - 2019-02-05 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2019-09-25 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2019-10-22 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 116-133.
+- 2019-10-22 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 116-133.
+- 2019-10-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 253.
