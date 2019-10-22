@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4387
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4387
@@ -23,9 +23,10 @@ To establish Growth Accelerator Fund Competition within the Small Business Admin
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 - Rep. Evans, Dwight [D-PA-3] (E000296)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To establish Growth Accelerator Fund Competition within the Small Business Admin
 - 2019-10-21 — Ms. Velazquez moved to suspend the rules and pass the bill.
 - 2019-10-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8277)
 - 2019-10-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8277)
+- 2019-10-22 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
