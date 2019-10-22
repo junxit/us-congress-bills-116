@@ -1,7 +1,7 @@
 ---
 measure: S. 2094
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2094
@@ -28,3 +28,8 @@ Enhancing State Energy Security Planning and Emergency Preparedness Act of 2019
 
 - 2019-07-11 — Introduced in Senate
 - 2019-07-11 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2019-09-11 — Committee on Energy and Natural Resources Subcommittee on Energy. Hearings held. With printed Hearing: S.Hrg. 116-335.
+- 2019-09-25 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2019-10-22 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 116-136.
+- 2019-10-22 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 116-136.
+- 2019-10-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 256.
