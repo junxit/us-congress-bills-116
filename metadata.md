@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4405
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4405
@@ -36,9 +36,10 @@ Women's Business Centers Improvements Act of 2019
 - Rep. Moore, Gwen [D-WI-4] (M001160)
 - Rep. Stevens, Haley M. [D-MI-11] (S001215)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ Women's Business Centers Improvements Act of 2019
 - 2019-10-21 — Ms. Velazquez moved to suspend the rules and pass the bill.
 - 2019-10-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8268-8272)
 - 2019-10-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8268-8272)
+- 2019-10-22 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
