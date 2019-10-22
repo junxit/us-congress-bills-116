@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2114
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2114
@@ -39,3 +39,7 @@ Enhancing State Energy Security Planning and Emergency Preparedness Act of 2019
 - 2019-09-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7543-7544)
 - 2019-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7543-7544)
 - 2019-09-10 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2019-09-25 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2019-10-22 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 116-137.
+- 2019-10-22 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 116-137.
+- 2019-10-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 257.
