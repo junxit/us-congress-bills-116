@@ -1,7 +1,7 @@
 ---
 measure: H.R. 835
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -33,4 +33,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | redesignate | by redesignating clauses (iii) and (iv) as clauses (iv) and (v), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after clause (ii) the following: | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (3), in the matter preceding clause (i), by inserting “or (iii)” after “paragraph (1)(A)(ii)”. | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (3), in the matter preceding subparagraph (A), by inserting “or (iii)” after “paragraph (1)(A)(ii)”. | the bill names no machine-readable US Code section |
