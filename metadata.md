@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4407
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4407
@@ -23,9 +23,10 @@ SCORE for Small Business Act of 2019
 - Rep. Evans, Dwight [D-PA-3] (E000296)
 - Rep. Houlahan, Chrissy [D-PA-6] (H001085)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ SCORE for Small Business Act of 2019
 - 2019-10-21 — Ms. Velazquez moved to suspend the rules and pass the bill.
 - 2019-10-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 389 - 8 (Roll no. 570). (text: CR H8274-8275)
 - 2019-10-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 389 - 8 (Roll no. 570).(text: CR H8274-8275)
+- 2019-10-22 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
