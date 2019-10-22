@@ -2,7 +2,7 @@
 legis-num: H. RES. 552
 congress: 116th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 552
@@ -14,7 +14,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas United States citizen Paul Whelan is a resident of Novi, Michigan, and a United States Marine Corps veteran;
 - Whereas Paul Whelan traveled to Moscow for the wedding of a personal friend on December 22, 2018;
 - Whereas Russia’s Federal Security Service arrested Paul Whelan at the Metropol Hotel in Moscow on December 28, 2018, and charged him with espionage;
-- Whereas Paul Whelan was imprisoned in Lefortovo Prison and continues to be held there more than eight months after his arrest;
+- Whereas Paul Whelan was imprisoned in Lefortovo Prison and continues to be held there more than 8 months after his arrest;
 - Whereas the Federal Security Service has not provided any evidence of supposed wrongdoing;
 - Whereas a Moscow court has extended Paul Whelan’s pre-trial detention multiple times without publicly presenting justification or evidence of wrongdoing;
 - Whereas officials from the United States Embassy in Moscow have routinely had their topics of discussion with Paul Whelan severely limited by the Federal Security Service;

@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 552
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 552
@@ -16,7 +16,7 @@ Calling on the Government of the Russian Federation to provide evidence of wrong
 
 - Rep. Stevens, Haley M. [D-MI-11] (S001215)
 
-## Cosponsors (12)
+## Cosponsors (21)
 
 - Rep. Walberg, Tim [R-MI-7] (W000798)
 - Rep. Levin, Andy [D-MI-9] (L000592)
@@ -30,6 +30,15 @@ Calling on the Government of the Russian Federation to provide evidence of wrong
 - Rep. Lawrence, Brenda L. [D-MI-14] (L000581)
 - Rep. Slotkin, Elissa [D-MI-8] (S001208)
 - Rep. Bergman, Jack [R-MI-1] (B001301)
+- Rep. Tlaib, Rashida [D-MI-13] (T000481)
+- Rep. Kinzinger, Adam [R-IL-16] (K000378)
+- Rep. Cicilline, David N. [D-RI-1] (C001084)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Phillips, Dean [D-MN-3] (P000616)
+- Rep. Mucarsel-Powell, Debbie [D-FL-26] (M001207)
+- Rep. Taylor, Van [R-TX-3] (T000479)
+- Rep. Crenshaw, Dan [R-TX-2] (C001120)
+- Rep. Hurd, Will [R-TX-23] (H001073)
 
 ## Committees (1)
 
@@ -40,3 +49,11 @@ Calling on the Government of the Russian Federation to provide evidence of wrong
 - 2019-09-11 — Introduced in House
 - 2019-09-11 — Introduced in House
 - 2019-09-11 — Referred to the House Committee on Foreign Affairs.
+- 2019-09-25 — Committee Consideration and Mark-up Session Held.
+- 2019-09-25 — Ordered to be Reported by Unanimous Consent.
+- 2019-10-22 — Considered under suspension of the rules. (consideration: CR H8362-8364)
+- 2019-10-22 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 552.
+- 2019-10-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-10-22 — Mr. Engel moved to suspend the rules and agree to the resolution.
+- 2019-10-22 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H8362)
+- 2019-10-22 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H8362)
