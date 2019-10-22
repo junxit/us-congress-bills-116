@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 4784
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4784
+
+> To require the National Institute of Justice to update its research report, entitled “A Review of Gun Safety Technologies”.
+
+## § 1. Updating of National Institute of Justice research report on gun safety technologies
+
+Within 1 year after the date of the enactment of this Act, the Director of the National Institute of Justice shall cause to have its June 2013 research report, entitled “Review of Gun Safety Technologies” updated, and shall transmit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate, and make available online, a copy of the updated report.
