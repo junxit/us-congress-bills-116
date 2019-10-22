@@ -52,3 +52,7 @@ This Act may be cited as the “Preventing Animal Cruelty and Torture Act” or 
   >     - **(B)** uses anesthesia produced by an agent that causes painless loss of consciousness and subsequent death.
 
 - **(b)** *Technical and conforming amendment* The table of sections for chapter 3 of title 18, United States Code, is amended by striking the item relating to section 48 and inserting the following:
+
+## § 3. Determination of Budgetary Effects
+
+The budgetary effects of this Act, and the amendments made by this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
