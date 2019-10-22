@@ -47,3 +47,7 @@ This Act may be cited as the “Timely Review of Infrastructure Act”.
     - **(A)** an analysis of any trends with respect to hiring, vacancies, and compensation at the Federal Energy Regulatory Commission; and
     - **(B)** a description of the efforts to retain and attract employees or other personnel responsible for conducting work of a scientific, technological, engineering, or mathematical nature at the Federal Energy Regulatory Commission.
 - **(c)** *Applicability* The amendment made by subsection (a) shall apply beginning on the date that is 30 days after the date of enactment of this Act.
+
+## § 3. Report on the authority of the Secretary of Energy to implement flexible compensation models
+
+Not later than 180 days after the date of enactment of this Act, the Secretary of Energy shall submit to Congress a report examining the full scope of the hiring authority made available to the Secretary by the Office of Personnel Management to implement flexible compensation models, including pay for performance and pay banding, throughout the Department of Energy, including at the National Laboratories, for the purposes of hiring, recruiting, and retaining employees responsible for conducting work of a scientific, technological, engineering, or mathematical nature.
