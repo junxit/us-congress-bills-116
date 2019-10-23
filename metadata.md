@@ -1,7 +1,7 @@
 ---
 measure: H.R. 724
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 724
@@ -339,3 +339,14 @@ PACT Act
 - 2019-10-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8355)
 - 2019-10-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8355)
 - 2019-10-23 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2019-11-05 — Passed Senate without amendment by Unanimous Consent.
+- 2019-11-05 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2019-11-05 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6410)
+- 2019-11-05 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6410)
+- 2019-11-06 — Message on Senate action sent to the House.
+- 2019-11-18 — Presented to President.
+- 2019-11-18 — Presented to President.
+- 2019-11-25 — Became Public Law No: 116-72.
+- 2019-11-25 — Became Public Law No: 116-72.
+- 2019-11-25 — Signed by President.
+- 2019-11-25 — Signed by President.
