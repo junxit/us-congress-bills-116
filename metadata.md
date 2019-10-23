@@ -1,7 +1,7 @@
 ---
 measure: S. 2333
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2333
@@ -28,3 +28,7 @@ Energy Cybersecurity Act of 2019
 
 - 2019-07-30 — Introduced in Senate
 - 2019-07-30 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2019-09-25 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2019-10-23 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 116-144.
+- 2019-10-23 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 116-144.
+- 2019-10-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 264.
