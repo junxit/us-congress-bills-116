@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2513
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2513
@@ -29,9 +29,10 @@ Corporate Transparency Act of 2019
 - Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -105,3 +106,4 @@ Corporate Transparency Act of 2019
 - 2019-10-22 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2513.
 - 2019-10-22 — The Speaker designated the Honorable Lauren Underwood to act as Chairwoman of the Committee.
 - 2019-10-22 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2019-10-23 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
