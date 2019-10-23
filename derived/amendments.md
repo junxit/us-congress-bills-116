@@ -1,7 +1,7 @@
 ---
 measure: S. 2137
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-86 amendatory instructions. 11 executed, 75 stated and not applied.
+89 amendatory instructions. 11 executed, 78 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -188,10 +188,13 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 8253` | insert | in paragraph (7)(B)(ii)(II), by inserting “and water” after “energy”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 8253` | insert | in paragraph (9)(A), in the matter preceding clause (i), by inserting “and water” after “energy”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 8253` | replace | The table of contents for the National Energy Conservation Policy Act (Public Law 95–619; 92 Stat. 3206) is amended by striking the item relating to section 543 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8253` | add-at-end | Section 543 of the National Energy Conservation Policy Act (42 U.S.C. 8253) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 8253` | add-at-end | Section 543 of the National Energy Conservation Policy Act (42 U.S.C. 8253) (as amended by section 301) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 6832` | insert | in each of paragraphs (1) through (16), by inserting a paragraph heading, the text of which is comprised of the term defined in that paragraph; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 6832` | redesignate | by redesignating paragraphs (2) through (16) as paragraphs (3), (4), (6), (7), (8), (10), (12), (13), (14), (15), (16), (9), (17), (5), and (2), respectively, and moving the paragraphs so as to appear in numerical order; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 6832` | redesignate | by inserting after paragraph (10) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6832` | insert | in each of paragraphs (1) through (13), (15), and (16), by inserting a paragraph heading, the text of which is comprised of the term defined in that paragraph; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6832` | redesignate | by redesignating paragraphs (2) through (13) and (15) through (18) as paragraphs (3), (4), (6), (7), (8), (10), (15), (16), (17), (18), (19), (9), (5), (2), (11), and (12), respectively, and moving the paragraphs so as to appear in numer… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6832` | redesignate | by inserting after paragraph (12) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 17092` | replace | by striking “(3)(A) Not later than” and all that follows through subparagraph (B) and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 17092` | replace | in subparagraph (C), by striking “(C) In the budget request” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 17092` | replace | by striking subparagraph (D) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
