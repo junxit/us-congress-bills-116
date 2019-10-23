@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1123
 congress: 116
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1123
@@ -23,9 +23,10 @@ Divisional Realignment for the Eastern District of Arkansas Act of 2019
 - Rep. Hill, J. French [R-AR-2] (H001072)
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Divisional Realignment for the Eastern District of Arkansas Act of 2019
 - 2019-10-22 — Placed on the Union Calendar, Calendar No. 197.
 - 2019-10-22 — Reported by the Committee on Judiciary. H. Rept. 116-248.
 - 2019-10-22 — Reported by the Committee on Judiciary. H. Rept. 116-248.
+- 2019-10-23 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
