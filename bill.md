@@ -65,7 +65,19 @@ Section 633 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17212
 >   - **(12)** to identify, in conjunction with the Secretary of the Department in which the United States Coast Guard is operating, acting through the Commandant of the United States Coast Guard, the potential navigational impacts of marine energy technologies and measures to prevent adverse impacts on navigation; and
 >   - **(13)** to support in-water technology development with international partners using existing cooperative procedures (including memoranda of understanding)—
 >     - **(A)** to allow cooperative funding and other support of value to be exchanged and leveraged; and
->     - **(B)** to encourage international research centers and international companies to participate in the development of marine energy technology in the United States and to encourage United States research centers and companies to participate in marine energy projects abroad.
+>     - **(B)** to encourage international research centers and international companies to participate in the development of marine energy technology in the United States and to encourage United States research centers and companies to participate in marine energy projects abroad. abroad; and
+>   - **(14)** to assist in the development of technology necessary to support the use of marine energy—
+>     - **(A)** for the generation and storage of power at sea, including in applications relating to—
+>       - **(i)** ocean observation and navigation;
+>       - **(ii)** underwater vehicle charging;
+>       - **(iii)** marine aquaculture;
+>       - **(iv)** production of marine algae; and
+>       - **(v)** extraction of critical minerals and gasses from seawater;
+>     - **(B)** for the generation and storage of power to promote the resilience of coastal communities, including in applications relating to—
+>       - **(i)** desalination;
+>       - **(ii)** disaster recovery and resilience; and
+>       - **(iii)** community microgrids in isolated power systems; and
+>     - **(C)** in any other applications, as determined by the Secretary.
 > - **(b)** *Cost sharing and merit review* The Secretary shall carry out the program under this section in accordance with sections 988 and 989 of the Energy Policy Act of 2005 (42 U.S.C. 16352, 16353).
 
 ## § 5. National Marine Energy Centers
@@ -94,4 +106,12 @@ Section 634 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17213
 
 ## § 6. Authorization of appropriations
 
-Section 636 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17215) is amended by striking “$50,000,000 for each of the fiscal years 2008 through 2012” and inserting “$150,000,000 for each of fiscal years 2020 and 2021”.
+Section 636 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17215) is amended by striking “$50,000,000 for each of the fiscal years 2008 through 2012” and inserting “$150,000,000 $160,000,000 for each of fiscal years 2020 and 2021”.
+
+## § 7. Study of energy innovation in marine transportation and infrastructure resilience
+
+- **(a)** *In general* The Secretary of Energy, in consultation with the Secretary of Transportation and the Secretary of Commerce, shall conduct a study to examine opportunities for research and development in advanced marine energy technologies—
+  - **(1)** to support the maritime transportation sector to enhance job creation, economic development, and competitiveness;
+  - **(2)** to support associated maritime energy infrastructure, including infrastructure that serves ports, to improve system resilience and disaster recovery; and
+  - **(3)** to enable scientific missions at sea and in extreme environments, including the Arctic.
+- **(b)** *Report* Not later than 1 year after the date of enactment of this Act, the Secretary of Energy shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report that describes the results of the study conducted under subsection (a).
