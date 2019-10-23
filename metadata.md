@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4617
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4617
@@ -161,6 +161,12 @@ SHIELD Act
 - House — Judiciary Committee
 - House — Committee on House Administration
 
+## Recorded votes (3)
+
+- 2019-10-23 — [House 116-1-581](votes/house-116-1-0581.md) — On Agreeing to the Amendment — **Failed** (180–231)
+- 2019-10-23 — [House 116-1-582](votes/house-116-1-0582.md) — On Motion to Recommit with Instructions — **Failed** (182–225)
+- 2019-10-23 — [House 116-1-583](votes/house-116-1-0583.md) — On Passage — **Passed** (227–181)
+
 ## Actions
 
 - 2019-10-08 — Introduced in House
@@ -174,3 +180,121 @@ SHIELD Act
 - 2019-10-21 — Placed on the Union Calendar, Calendar No. 196.
 - 2019-10-21 — Reported (Amended) by the Committee on House Administration. H. Rept. 116-246, Part I.
 - 2019-10-21 — Reported (Amended) by the Committee on House Administration. H. Rept. 116-246, Part I.
+- 2019-10-22 — Rules Committee Resolution H. Res. 650 Reported to House. Rule provides for consideration of H.R. 4617 with 1 hour of general debate. Motion to recommit with or without instructions allowed.
+- 2019-10-23 — Amendment (A001) offered by Mr. DeSaulnier. (consideration: CR H8424-8425; text: CR H8424)
+- 2019-10-23 — Amendment (A002) offered by Mrs. Lesko. (consideration: CR H8425-8426, H8438; text: CR H8425)
+- 2019-10-23 — Amendment (A003) offered by Mr. Lynch. (consideration: CR H8426-8427; text: CR H8426-8427)
+- 2019-10-23 — Amendment (A004) offered by Mr. Levin (MI). (consideration: CR H8427-8428; text: CR H8427)
+- 2019-10-23 — Amendment (A005) offered by Mr. Langevin. (consideration: CR H8428-8430; text: CR H8428)
+- 2019-10-23 — Amendment (A006) offered by Mr. Swalwell (CA). (consideration: CR H8430-8431; text: CR H8430)
+- 2019-10-23 — Amendment (A007) offered by Mr. Brown (MD). (consideration: CR H8431-8432; text: CR H8431)
+- 2019-10-23 — Amendment (A008) offered by Mr. Delgado. (consideration: CR H8432-8433; text: CR H8432)
+- 2019-10-23 — Amendment (A009) offered by Ms. Houlahan. (consideration: CR H8433-8434; text: CR H8433)
+- 2019-10-23 — Amendment (A010) offered by Ms. Slotkin. (consideration: CR H8434-8435; text: CR H8434)
+- 2019-10-23 — Amendment (A011) offered by Ms. Sherrill. (consideration: CR H8435-8436; text: CR H8435)
+- 2019-10-23 — Amendment (A012) offered by Mr. Cunningham. (consideration: CR H8436; text: CR H8436)
+- 2019-10-23 — Amendment (A013) offered by Mr. Cunningham. (consideration: CR H8436-8437; text: CR H8436)
+- 2019-10-23 — Amendment (A014) offered by Ms. Spanberger. (consideration: CR H8437-8438; text: CR H8437)
+- 2019-10-23 — Amendment agreed to Committee of the Whole
+- 2019-10-23 — Amendment agreed to Committee of the Whole
+- 2019-10-23 — Amendment agreed to Committee of the Whole
+- 2019-10-23 — Amendment agreed to Committee of the Whole
+- 2019-10-23 — Amendment agreed to Committee of the Whole
+- 2019-10-23 — Amendment agreed to Committee of the Whole
+- 2019-10-23 — Amendment agreed to Committee of the Whole
+- 2019-10-23 — Amendment agreed to Committee of the Whole
+- 2019-10-23 — Amendment agreed to Committee of the Whole
+- 2019-10-23 — Amendment agreed to Committee of the Whole
+- 2019-10-23 — Amendment agreed to Committee of the Whole
+- 2019-10-23 — Amendment agreed to Committee of the Whole
+- 2019-10-23 — Amendment agreed to Committee of the Whole
+- 2019-10-23 — Amendment failed in Committee of the Whole
+- 2019-10-23 — Considered under the provisions of rule H. Res. 650. (consideration: CR H8410-8442)
+- 2019-10-23 — DEBATE - Pursuant to the provisions of H. Res. 650, the Committee of the Whole proceeded with 10 minutes of debate on the Brown (MD) amendment No. 7.
+- 2019-10-23 — DEBATE - Pursuant to the provisions of H. Res. 650, the Committee of the Whole proceeded with 10 minutes of debate on the Cunningham amendment No. 12.
+- 2019-10-23 — DEBATE - Pursuant to the provisions of H. Res. 650, the Committee of the Whole proceeded with 10 minutes of debate on the Cunningham amendment No. 13.
+- 2019-10-23 — DEBATE - Pursuant to the provisions of H. Res. 650, the Committee of the Whole proceeded with 10 minutes of debate on the DeSaulnier amendment No. 1.
+- 2019-10-23 — DEBATE - Pursuant to the provisions of H. Res. 650, the Committee of the Whole proceeded with 10 minutes of debate on the Delgado amendment No. 8.
+- 2019-10-23 — DEBATE - Pursuant to the provisions of H. Res. 650, the Committee of the Whole proceeded with 10 minutes of debate on the Houlahan amendment No. 9.
+- 2019-10-23 — DEBATE - Pursuant to the provisions of H. Res. 650, the Committee of the Whole proceeded with 10 minutes of debate on the Langevin amendment No. 5.
+- 2019-10-23 — DEBATE - Pursuant to the provisions of H. Res. 650, the Committee of the Whole proceeded with 10 minutes of debate on the Lesko amendment No. 2.
+- 2019-10-23 — DEBATE - Pursuant to the provisions of H. Res. 650, the Committee of the Whole proceeded with 10 minutes of debate on the Levin (MI) amendment No. 4.
+- 2019-10-23 — DEBATE - Pursuant to the provisions of H. Res. 650, the Committee of the Whole proceeded with 10 minutes of debate on the Lynch amendment No. 3.
+- 2019-10-23 — DEBATE - Pursuant to the provisions of H. Res. 650, the Committee of the Whole proceeded with 10 minutes of debate on the Sherrill amendment No. 11.
+- 2019-10-23 — DEBATE - Pursuant to the provisions of H. Res. 650, the Committee of the Whole proceeded with 10 minutes of debate on the Slotkin amendment No. 10.
+- 2019-10-23 — DEBATE - Pursuant to the provisions of H. Res. 650, the Committee of the Whole proceeded with 10 minutes of debate on the Spanberger amendment No. 14.
+- 2019-10-23 — DEBATE - Pursuant to the provisions of H. Res. 650, the Committee of the Whole proceeded with 10 minutes of debate on the Swalwell (CA) amendment No. 6.
+- 2019-10-23 — DEBATE - The House proceeded with 10 minutes on the Rodney Davis (IL) motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to strike subsection (b) of section 1 and all that follows and insert the text of the bill entitled the "Honest Elections Act".
+- 2019-10-23 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 4617.
+- 2019-10-23 — House amendment agreed to: On agreeing to the Brown (MD) amendment (A007) Agreed to by voice vote.
+- 2019-10-23 — House amendment agreed to: On agreeing to the Cunningham amendment (A012) Agreed to by voice vote.
+- 2019-10-23 — House amendment agreed to: On agreeing to the Cunningham amendment (A013) Agreed to by voice vote.
+- 2019-10-23 — House amendment agreed to: On agreeing to the DeSaulnier amendment (A001) Agreed to by voice vote.
+- 2019-10-23 — House amendment agreed to: On agreeing to the Delgado amendment (A008) Agreed to by voice vote.
+- 2019-10-23 — House amendment agreed to: On agreeing to the Houlahan amendment (A009) Agreed to by voice vote.
+- 2019-10-23 — House amendment agreed to: On agreeing to the Langevin amendment Agreed to by voice vote.
+- 2019-10-23 — House amendment agreed to: On agreeing to the Levin (MI) amendment (A004) Agreed to by voice vote.
+- 2019-10-23 — House amendment agreed to: On agreeing to the Lynch amendment (A003) Agreed to by voice vote.
+- 2019-10-23 — House amendment agreed to: On agreeing to the Sherrill amendment (A011) Agreed to by voice vote.
+- 2019-10-23 — House amendment agreed to: On agreeing to the Slotkin amendment (A010) Agreed to by voice vote.
+- 2019-10-23 — House amendment agreed to: On agreeing to the Spanberger amendment (A014) Agreed to by voice vote.
+- 2019-10-23 — House amendment agreed to: On agreeing to the Swalwell (CA) amendment (A006) Agreed to by voice vote.
+- 2019-10-23 — House amendment not agreed to: On agreeing to the Lesko amendment (A002) Failed by recorded vote: 180 - 231 (Roll no. 581).
+- 2019-10-23 — House amendment offered
+- 2019-10-23 — House amendment offered
+- 2019-10-23 — House amendment offered
+- 2019-10-23 — House amendment offered
+- 2019-10-23 — House amendment offered
+- 2019-10-23 — House amendment offered
+- 2019-10-23 — House amendment offered
+- 2019-10-23 — House amendment offered
+- 2019-10-23 — House amendment offered
+- 2019-10-23 — House amendment offered
+- 2019-10-23 — House amendment offered
+- 2019-10-23 — House amendment offered
+- 2019-10-23 — House amendment offered
+- 2019-10-23 — House amendment offered
+- 2019-10-23 — House amendment offered/reported by: Amendment (A001) offered by Mr. DeSaulnier.(consideration: CR H8424-8425; text: CR H8424)
+- 2019-10-23 — House amendment offered/reported by: Amendment (A002) offered by Mrs. Lesko.(consideration: CR H8425-8426, H8438; text: CR H8425)
+- 2019-10-23 — House amendment offered/reported by: Amendment (A003) offered by Mr. Lynch.(consideration: CR H8426-8427; text: CR H8426-8427)
+- 2019-10-23 — House amendment offered/reported by: Amendment (A004) offered by Mr. Levin (MI).(consideration: CR H8427-8428; text: CR H8427)
+- 2019-10-23 — House amendment offered/reported by: Amendment (A005) offered by Mr. Langevin.(consideration: CR H8428-8430; text: CR H8428)
+- 2019-10-23 — House amendment offered/reported by: Amendment (A006) offered by Mr. Swalwell (CA).(consideration: CR H8430-8431; text: CR H8430)
+- 2019-10-23 — House amendment offered/reported by: Amendment (A007) offered by Mr. Brown (MD).(consideration: CR H8431-8432; text: CR H8431)
+- 2019-10-23 — House amendment offered/reported by: Amendment (A008) offered by Mr. Delgado.(consideration: CR H8432-8433; text: CR H8432)
+- 2019-10-23 — House amendment offered/reported by: Amendment (A009) offered by Ms. Houlahan.(consideration: CR H8433-8434; text: CR H8433)
+- 2019-10-23 — House amendment offered/reported by: Amendment (A010) offered by Ms. Slotkin.(consideration: CR H8434-8435; text: CR H8434)
+- 2019-10-23 — House amendment offered/reported by: Amendment (A011) offered by Ms. Sherrill.(consideration: CR H8435-8436; text: CR H8435)
+- 2019-10-23 — House amendment offered/reported by: Amendment (A012) offered by Mr. Cunningham.(consideration: CR H8436; text: CR H8436)
+- 2019-10-23 — House amendment offered/reported by: Amendment (A013) offered by Mr. Cunningham.(consideration: CR H8436-8437; text: CR H8436)
+- 2019-10-23 — House amendment offered/reported by: Amendment (A014) offered by Ms. Spanberger.(consideration: CR H8437-8438; text: CR H8437)
+- 2019-10-23 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 650 and Rule XVIII.
+- 2019-10-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-10-23 — Mr. Davis, Rodney moved to recommit with instructions to the Committee on House Administration. (text: CR H8439-8440)
+- 2019-10-23 — On agreeing to the Brown (MD) amendment (A007) Agreed to by voice vote.
+- 2019-10-23 — On agreeing to the Cunningham amendment (A012) Agreed to by voice vote.
+- 2019-10-23 — On agreeing to the Cunningham amendment (A013) Agreed to by voice vote.
+- 2019-10-23 — On agreeing to the DeSaulnier amendment (A001) Agreed to by voice vote.
+- 2019-10-23 — On agreeing to the Delgado amendment (A008) Agreed to by voice vote.
+- 2019-10-23 — On agreeing to the Houlahan amendment (A009) Agreed to by voice vote.
+- 2019-10-23 — On agreeing to the Langevin amendment Agreed to by voice vote.
+- 2019-10-23 — On agreeing to the Lesko amendment (A002) Failed by recorded vote: 180 - 231 (Roll no. 581).
+- 2019-10-23 — On agreeing to the Levin (MI) amendment (A004) Agreed to by voice vote.
+- 2019-10-23 — On agreeing to the Lynch amendment (A003) Agreed to by voice vote.
+- 2019-10-23 — On agreeing to the Sherrill amendment (A011) Agreed to by voice vote.
+- 2019-10-23 — On agreeing to the Slotkin amendment (A010) Agreed to by voice vote.
+- 2019-10-23 — On agreeing to the Spanberger amendment (A014) Agreed to by voice vote.
+- 2019-10-23 — On agreeing to the Swalwell (CA) amendment (A006) Agreed to by voice vote.
+- 2019-10-23 — On motion to recommit with instructions Failed by recorded vote: 182 - 225 (Roll no. 582).
+- 2019-10-23 — On passage Passed by recorded vote: 227 - 181 (Roll no. 583).
+- 2019-10-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lesko amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mrs. Lesko demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2019-10-23 — Passed/agreed to in House: On passage Passed by recorded vote: 227 - 181 (Roll no. 583).
+- 2019-10-23 — Roll call votes on amendments in House
+- 2019-10-23 — Rule H. Res. 650 passed House.
+- 2019-10-23 — Rule provides for consideration of H.R. 4617 with 1 hour of general debate. Motion to recommit with or without instructions allowed.
+- 2019-10-23 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2019-10-23 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4617.
+- 2019-10-23 — The Speaker designated the Honorable Henry Cuellar to act as Chairman of the Committee.
+- 2019-10-23 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2019-10-23 — The previous question was ordered pursuant to the rule.
+- 2019-10-23 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the Lesko amendment, which was debated earlier and on which further proceedings had been postponed.
