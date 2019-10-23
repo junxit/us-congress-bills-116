@@ -1,7 +1,7 @@
 ---
 measure: S. 1751
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -35,9 +35,9 @@ to guess them.
 
 ### 43 U.S.C. § 485h
 
-> in paragraph (8), by striking “has been filed with the Federal Energy Regulatory Commission as of August 9, 2013” and inserting “was filed with the Federal Energy Regulatory Commission before August 9, 2013, and is still pending”.
+> in paragraph (8), by striking “has been filed with the Federal Energy Regulatory Commission as of August 9, 2013 as of the date of the enactment of the Bureau of Reclamation Small Conduit Hydropower Development and Rural Jobs Act” and inserting “was filed with the Federal Energy Regulatory Commission before August 9, 2013, and is still pending”.
 
 | | |
 |---|---|
-| Removed | `has been filed with the Federal Energy Regulatory Commission as of August 9, 2013` |
+| Removed | `has been filed with the Federal Energy Regulatory Commission as of August 9, 2013 as of the date of the enactment of the Bureau of Reclamation Small Conduit Hydropower Development and Rural Jobs Act` |
 | Inserted | `was filed with the Federal Energy Regulatory Commission before August 9, 2013, and is still pending` |

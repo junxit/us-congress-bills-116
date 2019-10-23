@@ -18,7 +18,7 @@ This Act may be cited as the “Bureau of Reclamation Pumped Storage Hydropower 
 Section 9(c) of the Reclamation Project Act of 1939 (43 U.S.C. 485h(c)) is amended—
 
 - **(1)** in paragraph (1), in the fourth sentence, by striking “, including small conduit hydropower development” and inserting “and reserve to the Secretary the exclusive authority to develop small conduit hydropower using Bureau of Reclamation facilities and pumped storage hydropower exclusively using Bureau of Reclamation reservoirs”; and
-- **(2)** in paragraph (8), by striking “has been filed with the Federal Energy Regulatory Commission as of August 9, 2013” and inserting “was filed with the Federal Energy Regulatory Commission before August 9, 2013, and is still pending”.
+- **(2)** in paragraph (8), by striking “has been filed with the Federal Energy Regulatory Commission as of August 9, 2013 as of the date of the enactment of the Bureau of Reclamation Small Conduit Hydropower Development and Rural Jobs Act” and inserting “was filed with the Federal Energy Regulatory Commission before August 9, 2013, and is still pending”.
 
 ## § 3. Limitations on issuance of certain leases of power privilege
 
