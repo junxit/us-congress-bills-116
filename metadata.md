@@ -1,7 +1,7 @@
 ---
 measure: S. 1931
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1931
@@ -28,3 +28,7 @@ Western Area Power Administration Transparency Act
 
 - 2019-06-20 — Introduced in Senate
 - 2019-06-20 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2019-09-25 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2019-10-23 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 116-142.
+- 2019-10-23 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 116-142.
+- 2019-10-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 262.
