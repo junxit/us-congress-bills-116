@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1123
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1123
@@ -47,3 +47,14 @@ Divisional Realignment for the Eastern District of Arkansas Act of 2019
 - 2019-10-22 — Reported by the Committee on Judiciary. H. Rept. 116-248.
 - 2019-10-22 — Reported by the Committee on Judiciary. H. Rept. 116-248.
 - 2019-10-23 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2019-11-07 — Passed Senate without amendment by Unanimous Consent.
+- 2019-11-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2019-11-07 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6485)
+- 2019-11-07 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6485)
+- 2019-11-08 — Message on Senate action sent to the House.
+- 2019-11-18 — Presented to President.
+- 2019-11-18 — Presented to President.
+- 2019-11-26 — Became Public Law No: 116-73.
+- 2019-11-26 — Became Public Law No: 116-73.
+- 2019-11-26 — Signed by President.
+- 2019-11-26 — Signed by President.
