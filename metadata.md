@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1420
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1420
@@ -48,3 +48,7 @@ Energy Efficient Government Technology Act
 - 2019-09-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 23 (Roll no. 515). (text: CR H7540-7541)
 - 2019-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 23 (Roll no. 515).(text: CR H7540-7541)
 - 2019-09-10 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2019-09-25 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2019-10-23 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 116-145.
+- 2019-10-23 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 116-145.
+- 2019-10-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 265.
