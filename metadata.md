@@ -1,7 +1,7 @@
 ---
 measure: H.R. 598
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 598
@@ -49,11 +49,12 @@ Georgia Support Act
 - Rep. Taylor, Van [R-TX-3] (T000479)
 - Rep. Price, David E. [D-NC-4] (P000523)
 
-## Committees (3)
+## Committees (4)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
 - House — Ways and Means Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -72,3 +73,4 @@ Georgia Support Act
 - 2019-10-22 — Mr. Engel moved to suspend the rules and pass the bill, as amended.
 - 2019-10-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8358-8360)
 - 2019-10-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8358-8360)
+- 2019-10-23 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
