@@ -1,7 +1,7 @@
 ---
 measure: S. 1821
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -35,12 +35,12 @@ to guess them.
 
 ### 42 U.S.C. § 17215
 
-> Section 636 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17215) is amended by striking “$50,000,000 for each of the fiscal years 2008 through 2012” and inserting “$150,000,000 for each of fiscal years 2020 and 2021”.
+> Section 636 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17215) is amended by striking “$50,000,000 for each of the fiscal years 2008 through 2012” and inserting “$150,000,000 $160,000,000 for each of fiscal years 2020 and 2021”.
 
 | | |
 |---|---|
 | Removed | `$50,000,000 for each of the fiscal years 2008 through 2012` |
-| Inserted | `$150,000,000 for each of fiscal years 2020 and 2021` |
+| Inserted | `$150,000,000 $160,000,000 for each of fiscal years 2020 and 2021` |
 
 ## Stated, not applied
 
