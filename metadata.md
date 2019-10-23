@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 32
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 32
@@ -29,9 +29,10 @@ Expressing the sense of Congress regarding the execution-style murders of United
 - Rep. King, Peter T. [R-NY-2] (K000210)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Expressing the sense of Congress regarding the execution-style murders of United
 - 2019-10-22 — Mr. Engel moved to suspend the rules and agree to the resolution.
 - 2019-10-22 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H8364)
 - 2019-10-22 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H8364)
+- 2019-10-23 — Received in the Senate and referred to the Committee on Foreign Relations.
