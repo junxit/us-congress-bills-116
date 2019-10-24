@@ -1,7 +1,7 @@
 ---
 measure: S. 2065
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2065
@@ -38,3 +38,5 @@ Deepfake Report Act of 2019
 - 2019-09-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-93.
 - 2019-09-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-93.
 - 2019-09-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 197.
+- 2019-10-24 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6176)
+- 2019-10-24 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6176)

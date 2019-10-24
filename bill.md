@@ -22,31 +22,19 @@ In this Act:
 
 ## § 3. Reports on digital content forgery technology
 
-- **(a)** *In general* Not later than 200 days after the date of enactment of this Act and every 18 months thereafter, the Secretary, acting through the Under Secretary for Science and Technology, shall produce a report on the state of digital content forgery technology.
+- **(a)** *In general* Not later than 1 year after the date of enactment of this Act, and annually thereafter for 5 years, the Secretary, acting through the Under Secretary for Science and Technology, shall produce a report on the state of digital content forgery technology.
 - **(b)** *Contents* Each report produced under subsection (a) shall include—
   - **(1)** an assessment of the underlying technologies used to create or propagate digital content forgeries, including the evolution of such technologies;
-  - **(2)** a description of the types of digital content forgeries, including use—
-    - **(A)** by foreign or domestic sources; and
-    - **(B)** in cyber attacks, pornography, and media;
+  - **(2)** a description of the types of digital content forgeries, including those used to commit fraud, cause harm, or violate civil rights recognized under Federal law;
   - **(3)** an assessment of how foreign governments, and the proxies and networks thereof, use, or could use, digital content forgeries to harm national security;
-  - **(4)** an assessment of how non-governmental entities in the United States, use, or could use, digital content forgeries;
-  - **(5)** an assessment of the uses, applications, dangers, and benefits of deep learning technologies used to generate high fidelity artificial content of events that did not occur;
-  - **(6)** an analysis of the methods used to determine whether content is genuinely created by a human or through digital content forgery technology, including an assessment of any effective heuristics used to make such a determination;
-  - **(7)** a description of the technological counter-measures that are, or could be, used to address concerns with digital content forgery technology;
-  - **(8)** recommendations regarding whether additional legal authorities are needed to address the findings of the report; and
-  - **(9)** any additional information the Secretary determines appropriate.
-- **(c)** *Consultation and public hearings* In producing each report required under subsection (a), the Secretary shall—
-  - **(1)** consult with—
-    - **(A)** the intelligence community (as defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003));
-    - **(B)** the Secretary of Defense;
-    - **(C)** the Chairman of the Joint Chiefs of Staff;
-    - **(D)** the Department of Justice, Computer Crime and Intellectual Property Section;
-    - **(E)** the Office of Science and Technology Policy;
-    - **(F)** the National Institute of Standards and Technology;
-    - **(G)** the National Science Foundation;
-    - **(H)** the Federal Election Commission;
-    - **(I)** the Federal Trade Commission; and
-    - **(J)** any other agency of the Federal government that the Secretary considers necessary; and
+  - **(4)** an assessment of how non-governmental entities in the United States use, or could use, digital content forgeries;
+  - **(5)** an assessment of the uses, applications, dangers, and benefits of deep learning technologies used to generate high fidelity artificial content of events that did not occur, including the impact on individuals;
+  - **(6)** an analysis of the methods used to determine whether content is genuinely created by a human or through digital content forgery technology and an assessment of any effective heuristics used to make such a determination, as well as recommendations on how to identify and address suspect content and elements to provide warnings to users of the content;
+  - **(7)** a description of the technological counter-measures that are, or could be, used to address concerns with digital content forgery technology; and
+  - **(8)** any additional information the Secretary determines appropriate.
+- **(c)** *Consultation and public hearings* In producing each report required under subsection (a), the Secretary may—
+  - **(1)** consult with any other agency of the Federal Government that the Secretary considers necessary; and
   - **(2)** conduct public hearings to gather, or otherwise allow interested parties an opportunity to present, information and advice relevant to the production of the report.
-- **(d)** *Form of report* Each report produced under subsection (a) shall be produced in unclassified form, but may contain a classified annex.
-- **(e)** *Applicability of FOIA* Nothing in this Act, or in a report produced under this section, shall be construed to allow the disclosure of information or a record that is exempt from public disclosure under section 552 of title 5, United States Code.
+- **(d)** *Form of report* Each report required under subsection (a) shall be produced in unclassified form, but may contain a classified annex.
+- **(e)** *Applicability of FOIA* Nothing in this Act, or in a report produced under this section, shall be construed to allow the disclosure of information or a record that is exempt from public disclosure under section 552 of title 5, United States Code (commonly known as the “Freedom of Information Act”).
+- **(f)** *Applicability of the Paperwork Reduction Act* Subchapter I of chapter 35 of title 44, United States Code (commonly known as the “Paperwork Reduction Act”), shall not apply to this Act.
