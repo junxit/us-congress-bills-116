@@ -1,7 +1,7 @@
 ---
 measure: S. 2107
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2107
@@ -16,11 +16,14 @@ Protecting America's Food and Agriculture Act of 2019
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
 
-## Cosponsors (3)
+## Cosponsors (6)
 
 - Sen. Roberts, Pat [R-KS] (R000307)
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Ernst, Joni [R-IA] (E000295)
 
 ## Committees (1)
 
@@ -34,3 +37,5 @@ Protecting America's Food and Agriculture Act of 2019
 - 2019-09-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-94.
 - 2019-09-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-94.
 - 2019-09-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 198.
+- 2019-10-24 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6176-6177; text: CR S6177)
+- 2019-10-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6176-6177; text: CR S6177)
