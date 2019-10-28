@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2440
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2440
@@ -45,6 +45,10 @@ Full Utilization of the Harbor Maintenance Trust Fund Act
 - House — Budget Committee
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2019-10-28 — [House 116-1-585](votes/house-116-1-0585.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (296–109)
+
 ## Actions
 
 - 2019-05-01 — Introduced in House
@@ -60,3 +64,11 @@ Full Utilization of the Harbor Maintenance Trust Fund Act
 - 2019-07-02 — Placed on the Union Calendar, Calendar No. 100.
 - 2019-07-02 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-136, Part I.
 - 2019-07-02 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-136, Part I.
+- 2019-10-28 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2019-10-28 — Considered as unfinished business. (consideration: CR H8519-8520)
+- 2019-10-28 — Considered under suspension of the rules. (consideration: CR H8479-8484)
+- 2019-10-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2440.
+- 2019-10-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-10-28 — Mr. DeFazio moved to suspend the rules and pass the bill, as amended.
+- 2019-10-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 296 - 109 (Roll no. 585). (text: CR H8479-8480)
+- 2019-10-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 296 - 109 (Roll no. 585).(text: CR H8479-8480)
