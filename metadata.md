@@ -1,7 +1,7 @@
 ---
 measure: S. 2107
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2107
@@ -39,3 +39,7 @@ Protecting America's Food and Agriculture Act of 2019
 - 2019-09-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 198.
 - 2019-10-24 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6176-6177; text: CR S6177)
 - 2019-10-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6176-6177; text: CR S6177)
+- 2019-10-28 — Message on Senate action sent to the House.
+- 2019-10-28 — Received in the House.
+- 2019-10-28 — Referred to the Committee on Homeland Security, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-10-28 — Referred to the Committee on Homeland Security, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
