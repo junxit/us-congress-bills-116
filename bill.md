@@ -26,7 +26,7 @@ This Act may be cited as the “Combat Online Predators Act”.
   >     - **(B)** the victim of the offense is not less than 15 nor more than 17 years of age and not more than 3 years younger than the person who committed the offense at the time the offense occurred.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of chapter 110A of title 18, United States Code, is amended by inserting after the item relating to section 2261A the following new item:
-- **(c)** *Conforming amendment* Section 2261A of title 18, United States Code, is amended by striking “section 2261(b) of this title” and inserting “section 2261(b) or section 2262B, as the case may be”.
+- **(c)** *Conforming amendment* Section 2261A of title 18, United States Code, is amended by striking “section 2261(b) of this title” and inserting “section 2261(b) or section 2261B, as the case may be”.
 
 ## § 3. Report on best practices regarding enforcement of anti-stalking laws
 

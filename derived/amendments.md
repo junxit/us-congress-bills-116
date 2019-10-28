@@ -1,7 +1,7 @@
 ---
 measure: S. 134
 congress: 116
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 18 U.S.C. § 2261A
 
-> Section 2261A of title 18, United States Code, is amended by striking “section 2261(b) of this title” and inserting “section 2261(b) or section 2262B, as the case may be”.
+> Section 2261A of title 18, United States Code, is amended by striking “section 2261(b) of this title” and inserting “section 2261(b) or section 2261B, as the case may be”.
 
 | | |
 |---|---|
 | Removed | `section 2261(b) of this title` |
-| Inserted | `section 2261(b) or section 2262B, as the case may be` |
+| Inserted | `section 2261(b) or section 2261B, as the case may be` |
 
 ## Stated, not applied
 
