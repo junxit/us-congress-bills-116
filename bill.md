@@ -23,9 +23,9 @@ This Act may be cited as the “Payment Commission Data Act of 2019”.
       > - **(C)** by the Executive Director of the Medicare Payment Advisory Commission for purposes of monitoring, making recommendations, and analysis of the program under this title and by the Executive Director of the Medicaid and CHIP Payment and Access Commission for purposes of monitoring, making recommendations, and analysis of the Medicaid program established under title XIX and the Children’s Health Insurance Program under title XXI.
 
   - **(2)** by adding at the end the following new paragraph:
-    > - **(3)** *Additional restrictions on disclosure of information* The Executive Directors described in paragraph (2)(C) shall not disclose any of the following information disclosed to such Executive Directors or obtained by such Executive Directors pursuant to such paragraph, with respect to a prescription drug plan offered by a PDP sponsor:
-    >   - **(A)** The specific amounts or the identity of the source of any rebates, price concessions, or other forms of direct or indirect remuneration under such prescription drug plan.
-    >   - **(B)** Information submitted with the bid submitted under section 1860D–11 by such PDP sponsor.
+    > - **(3)** *Additional restrictions on disclosure of information* The Executive Directors described in paragraph (2)(C) shall not disclose any of the following information disclosed to such Executive Directors or obtained by such Executive Directors pursuant to such paragraph, with respect to a prescription drug plan offered by a PDP sponsor or an MA–PD plan offered by an MA organization:
+    >   - **(A)** The specific amounts or the identity of the source of any rebates, discounts, price concessions, or other forms of direct or indirect remuneration under such prescription drug plan or such MA–PD plan.
+    >   - **(B)** Information submitted with the bid submitted under section 1860D–11(b) by such PDP sponsor or under section 1854(a) by such MA organization.
     >   - **(C)** In the case of such information from prescription drug event records, in a form that would not be permitted under section 423.505(m) of title 42, Code of Federal Regulations, or any successor regulation, if made by the Centers for Medicare & Medicaid Services.
 
 - **(b)** *Access to certain rebate and payment data under Medicare and Medicaid* Section 1927(b)(3)(D) of the Social Security Act (42 U.S.C. 1396r–8(b)(3)(D)) is amended—
