@@ -1,7 +1,7 @@
 ---
 measure: H.R. 777
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 777
@@ -61,3 +61,4 @@ Debbie Smith Reauthorization Act of 2019
 - 2019-10-23 — Mr. Nadler moved to suspend the rules and pass the bill, as amended.
 - 2019-10-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 1 (Roll no. 584). (text: CR H8404)
 - 2019-10-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 1 (Roll no. 584).(text: CR H8404)
+- 2019-10-28 — Received in the Senate, read twice.
