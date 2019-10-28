@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4617
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4617
@@ -156,10 +156,11 @@ SHIELD Act
 - Rep. Smith, Adam [D-WA-9] (S000510)
 - Rep. Clark, Katherine M. [D-MA-5] (C001101)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Recorded votes (3)
 
@@ -298,3 +299,4 @@ SHIELD Act
 - 2019-10-23 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-10-23 — The previous question was ordered pursuant to the rule.
 - 2019-10-23 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the Lesko amendment, which was debated earlier and on which further proceedings had been postponed.
+- 2019-10-28 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
