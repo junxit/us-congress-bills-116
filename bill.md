@@ -59,7 +59,7 @@ The Congress finds the following:
 ## § 5. Issuance of coins
 
 - **(a)** *Quality of coins* Coins minted under this Act shall be issued in uncirculated and proof qualities.
-- **(b)** *Mint facilities* Only 1 facility of the United States Mint may be used to strike any particular quality of the coins minted under this Act.
+- **(b)** *Mint facilities* Only one facility of the United States Mint may be used to strike any particular quality of the coins minted under this Act.
 - **(c)** *Period for issuance* The Secretary may issue coins minted under this Act only during the 1-year period beginning on January 1, 2021.
 
 ## § 6. Sale of coins
@@ -81,4 +81,8 @@ The Congress finds the following:
   - **(3)** $5 per coin for the half-dollar coin.
 - **(b)** *Distribution* Subject to section 5134(f)(1) of title 31, United States Code, all surcharges received by the Secretary from the sale of coins issued under this Act shall be promptly paid by the Secretary to the National Law Enforcement Officers Memorial Fund, Inc., for educational and outreach programs and exhibits.
 - **(c)** *Audits* The National Law Enforcement Officers Memorial Fund, Inc., shall be subject to the audit requirements of section 5134(f)(2) of title 31, United States Code, with regard to the amounts received under subsection (b).
-- **(d)** *Limitation* Notwithstanding subsection (a), no surcharge may be included with respect to the issuance under this Act of any coin during a calendar year if, as of the time of such issuance, the issuance of such coin would result in the number of commemorative coin programs issued during such year to exceed the annual 2 commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code (as in effect on the date of the enactment of this Act). The Secretary of the Treasury may issue guidance to carry out this subsection.
+- **(d)** *Limitation* Notwithstanding subsection (a), no surcharge may be included with respect to the issuance under this Act of any coin during a calendar year if, as of the time of such issuance, the issuance of such coin would result in the number of commemorative coin programs issued during such year to exceed the annual two commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code (as in effect on the date of the enactment of this Act). The Secretary of the Treasury may issue guidance to carry out this subsection.
+
+## § 8. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
