@@ -73,7 +73,7 @@ Section 1122(a) of title 31, United States Code, is amended—
   - **(2)** the term program has the meaning given that term in section 1122(a)(1) of title 31, United States Code, as amended by section 2 of this Act; and
   - **(3)** the term program activity has the meaning given that term in section 1115(h) of title 31, United States Code.
 - **(b)** *Plan for implementation and reconciling program definitions* Not later than 180 days after the date of enactment of this Act, the Director shall submit to Congress a report that—
-  - **(1)** includes plan that—
+  - **(1)** includes a plan that—
     - **(A)** discusses how making available on a website the information required under subsection (a) of section 1122 of title 31, United States Code, as amended by section 2, will leverage existing data sources while avoiding duplicative or overlapping information in presenting information relating to program activities and programs;
     - **(B)** indicates how any gaps in data will be assessed and addressed;
     - **(C)** indicates how the Director will display such data; and
@@ -88,7 +88,7 @@ Section 1122(a) of title 31, United States Code, is amended—
     - **(D)** developing and presenting findings from the pilot program to Congress;
     - **(E)** notifying Congress regarding how program activities will be aggregated, disaggregated, or consolidated as part of identifying programs; and
     - **(F)** implementing a Governmentwide program inventory through an iterative approach; and
-  - **(4)** including recommendations, if any, to reconcile the conflicting definitions of the term “program” in relevant Federal statutes, as it relates to the purpose of this Act.
+  - **(4)** including includes recommendations, if any, to reconcile the conflicting definitions of the term “program” in relevant Federal statutes, as it relates to the purpose of this Act.
 - **(c)** *Implementation*
   - **(1)** *In general* Not later than 3 years after the date of enactment of this Act, the Director shall make available online all information required under the amendments made by section 2 with respect to all programs.
   - **(2)** *Extensions* The Director may, based on an analysis of the costs of implementation, and after submitting to Congress a notification of the action by the Director, extend the deadline for implementation under paragraph (1) by not more than a total of 1 year.
