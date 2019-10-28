@@ -1,7 +1,7 @@
 ---
 measure: H.R. 360
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 360
@@ -16,9 +16,11 @@ Cyber Sense Act of 2020
 
 - Rep. Latta, Robert E. [R-OH-5] (L000566)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Rep. McNerney, Jerry [D-CA-9] (M001166)
+- Rep. Norman, Ralph [R-SC-5] (N000190)
+- Rep. Harder, Josh [D-CA-10] (H001090)
 
 ## Committees (1)
 
@@ -29,3 +31,11 @@ Cyber Sense Act of 2020
 - 2019-01-09 — Introduced in House
 - 2019-01-09 — Introduced in House
 - 2019-01-09 — Referred to the House Committee on Energy and Commerce.
+- 2019-01-25 — Referred to the Subcommittee on Energy.
+- 2019-05-16 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2019-05-16 — Subcommittee Consideration and Mark-up Session Held.
+- 2019-07-17 — Committee Consideration and Mark-up Session Held.
+- 2019-07-17 — Ordered to be Reported by Voice Vote.
+- 2019-10-28 — Placed on the Union Calendar, Calendar No. 204.
+- 2019-10-28 — Reported by the Committee on Energy and Commerce. H. Rept. 116-256.
+- 2019-10-28 — Reported by the Committee on Energy and Commerce. H. Rept. 116-256.
