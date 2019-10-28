@@ -19,7 +19,7 @@ Section 210 of the Water Resources Development Act of 1986 (33 U.S.C. 2238) is a
 
 - **(1)** in the section heading, by striking “Authorization of appropriations” and inserting “Funding for navigation”; and
 - **(2)** by adding at the end the following:
-  > - **(g)** *Adjustments to discretionary spending limits* Amounts made available from the Harbor Maintenance Trust Fund under this section or section 9505 of the Internal Revenue Code of 1986 shall be made available in accordance with section 251(b)(2)(G) of the Balanced Budget and Emergency Deficit Control Act of 1985.
+  > - **(g)** *Adjustments to discretionary spending limits* Amounts made available from the Harbor Maintenance Trust Fund under this section or section 9505 of the Internal Revenue Code of 1986 shall be made available in accordance with section 251(b)(2)(H) of the Balanced Budget and Emergency Deficit Control Act of 1985.
 
 ## § 3. Annual report to Congress
 
@@ -35,8 +35,8 @@ Section 330 of the Water Resources Development Act of 1992 (26 U.S.C. 9505 note;
 
 Section 251(b)(2) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901(b)(2)) is amended by adding at the end the following:
 
-> - **(G)** *Harbor Maintenance Trust Fund*
->   - **(i)** *In general* If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for harbor maintenance activities, then the adjustments for that fiscal year shall be the total of such amount in that Act for such purpose for that fiscal year, but may not exceed the total amount within the Harbor Maintenance Trust Fund under subsection (a) of section 9505 of the Internal Revenue Code of 1986 on the last day of the fiscal year that is two years prior to that fiscal year.
+> - **(H)** *Harbor Maintenance Trust Fund*
+>   - **(i)** *In general* If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for harbor maintenance activities, then the adjustments for that fiscal year shall be the total of such amount in that Act for such purpose for that fiscal year, but may not exceed the total amount within the Harbor Maintenance Trust Fund under subsection (a) of section 9505 of the Internal Revenue Code of 1986 on the last day of the fiscal year that is 2 years prior to that fiscal year.
 >   - **(ii)** *Limitation* The adjustment under clause (i) with respect to an amount made available for harbor maintenance activities may only be made if such amount—
 >     - **(I)** is derived solely from funds in such Trust Fund; and
 >     - **(II)** is made available for expenditures described under subsection (c) of such section 9505.
