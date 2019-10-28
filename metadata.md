@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3942
 congress: 116
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.R. 3942

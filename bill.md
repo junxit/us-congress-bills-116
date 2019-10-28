@@ -50,7 +50,3 @@ This Act may be cited as the “Preventing Online Sales of E-Cigarettes to Child
 
 - **(a)** *Regulations* Not later than 120 days after the date of enactment of this Act, the United States Postal Service shall promulgate regulations to clarify the applicability of the prohibition on mailing of cigarettes under section 1716E of title 18, United States Code, to electronic nicotine delivery systems, in accordance with the amendment to the definition of cigarette made by section 2.
 - **(b)** *Effective date* The prohibition on mailing of cigarettes under section 1716E of title 18, United States Code, shall apply to electronic nicotine delivery systems on and after the date on which the United States Postal Service promulgates regulations under subsection (a) of this section.
-
-## § 4. Determination of Budgetary Effects
-
-The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
