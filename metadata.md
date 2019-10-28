@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2514
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2514
@@ -38,3 +38,9 @@ COUNTER Act of 2019
 - 2019-10-21 — Placed on the Union Calendar, Calendar No. 195.
 - 2019-10-21 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-245, Part I.
 - 2019-10-21 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-245, Part I.
+- 2019-10-28 — Considered under suspension of the rules. (consideration: CR H8494-8503)
+- 2019-10-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2514.
+- 2019-10-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-10-28 — Mr. Scott, David moved to suspend the rules and pass the bill, as amended.
+- 2019-10-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8494-8501)
+- 2019-10-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8494-8501)
