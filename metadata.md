@@ -1,7 +1,7 @@
 ---
 measure: H.R. 362
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 362
@@ -16,9 +16,11 @@ Energy Emergency Leadership Act
 
 - Rep. Rush, Bobby L. [D-IL-1] (R000515)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Rep. Walberg, Tim [R-MI-7] (W000798)
+- Rep. Van Drew, Jefferson [D-NJ-2] (V000133)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 
 ## Committees (1)
 
@@ -29,3 +31,11 @@ Energy Emergency Leadership Act
 - 2019-01-09 — Introduced in House
 - 2019-01-09 — Introduced in House
 - 2019-01-09 — Referred to the House Committee on Energy and Commerce.
+- 2019-01-25 — Referred to the Subcommittee on Energy.
+- 2019-05-16 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2019-05-16 — Subcommittee Consideration and Mark-up Session Held.
+- 2019-07-17 — Committee Consideration and Mark-up Session Held.
+- 2019-07-17 — Ordered to be Reported by Voice Vote.
+- 2019-10-28 — Placed on the Union Calendar, Calendar No. 203.
+- 2019-10-28 — Reported by the Committee on Energy and Commerce. H. Rept. 116-255.
+- 2019-10-28 — Reported by the Committee on Energy and Commerce. H. Rept. 116-255.
