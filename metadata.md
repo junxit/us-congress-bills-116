@@ -1,7 +1,7 @@
 ---
 measure: S. 2177
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2177
@@ -16,7 +16,7 @@ Taxpayers Right-To-Know Act
 
 - Sen. Lankford, James [R-OK] (L000575)
 
-## Cosponsors (8)
+## Cosponsors (10)
 
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
 - Sen. Sinema, Kyrsten [D-AZ] (S001191)
@@ -26,6 +26,8 @@ Taxpayers Right-To-Know Act
 - Sen. Paul, Rand [R-KY] (P000603)
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Kennedy, John [R-LA] (K000393)
 
 ## Committees (1)
 
@@ -35,3 +37,7 @@ Taxpayers Right-To-Know Act
 
 - 2019-07-18 — Introduced in Senate
 - 2019-07-18 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2019-07-24 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2019-10-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 116-154.
+- 2019-10-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 116-154.
+- 2019-10-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 275.
