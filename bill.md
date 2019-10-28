@@ -18,7 +18,7 @@ This Act may be cited as the “Women’s Suffrage Centennial Commemorative Coin
 - **(a)** *Findings* Congress finds the following:
   - **(1)** Elizabeth Cady Stanton and Lucretia Mott organized the first Women’s Rights Convention in Seneca Falls, New York. 68 women and 32 men signed the Declaration of Sentiments at the Convention in July 1848.
   - **(2)** The Declaration of Sentiments was modeled after the Declaration of Independence and declared that “all men and women are created equal”, linking women’s rights directly to the founding ideals of the United States.
-  - **(3)** Suffrage activists, including Elizabeth Cady Stanton, Susan B. Anthony, Harriet Tubman, Sojourner Truth, Ida B. Wells, Jovita Idar, Inez Millholland, Mary Church Terrell, Anne Dallas Dudley, Carrie Chapman Cat, Alice Paul, Lucy Burns, and many others, conducted over 900 local, State, and Federal campaigns over a 72-year time span to win women the right to vote.
+  - **(3)** Suffrage activists, including Elizabeth Cady Stanton, Susan B. Anthony, Harriet Tubman, Sojourner Truth, Ida B. Wells, Jovita Idar, Inez Millholland, Mary Church Terrell, Anne Dallas Dudley, Carrie Chapman Cat, Alice Paul, Lucy Burns, Esther Hobart Morris, and many others, conducted over 900 local, State, and Federal campaigns over a 72-year time span to win women the right to vote.
   - **(4)** On November 6, 1917, New York granted women the right to vote, which was an act that created momentum for the national movement that culminated in the ratification of the 19th Amendment to the Constitution of the United States 3 years later.
   - **(5)** The 19th Amendment to the Constitution of the United States (“The Susan B. Anthony Amendment”) guarantees all United States women the right to vote and was passed by the 66th Congress of the United States on June 4, 1919.
   - **(6)** On August 9, 1920, right before the ratification period was set to expire, Governor Albert H. Roberts called a special session of the Tennessee General Assembly to consider the amendment. Pro-suffrage and anti-suffrage activists from around the country descended on Nashville, Tennessee, intent on influencing the legislature.
@@ -56,7 +56,7 @@ This Act may be cited as the “Women’s Suffrage Centennial Commemorative Coin
 ## § 5. Issuance of coins
 
 - **(a)** *Quality of coins* Coins minted under this Act shall be issued in uncirculated and proof qualities.
-- **(b)** *Mint facilities* Only 1 facility of the United States Mint may be used to strike any particular quality of the coins minted under this Act.
+- **(b)** *Mint facilities* Only one facility of the United States Mint may be used to strike any particular quality of the coins minted under this Act.
 - **(c)** *Period for issuance* The Secretary may issue coins under this Act only during the period beginning on January 1, 2020, and ending on December 31, 2020.
 
 ## § 6. Sale of coins
@@ -84,3 +84,7 @@ The Secretary shall take such actions as may be necessary to ensure that—
 
 - **(1)** minting and issuing coins under this Act will not result in any net cost to the United States Government; and
 - **(2)** no funds, including applicable surcharges, shall be disbursed to any recipient designated in section 7(b) until the total cost of designing and issuing all of the coins authorized by this Act (including labor, materials, dies, use of machinery, overhead expenses, marketing, and shipping) is recovered by the United States Treasury, consistent with sections 5112(m) and 5134(f) of title 31, United States Code.
+
+## § 9. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
