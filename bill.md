@@ -19,7 +19,7 @@ It is the sense of Congress that veterans treatment courts are a successful prog
 
 ## § 3. Veteran Treatment Court Program
 
-- **(a)** *Establishment* Subject to the availability of appropriations, in coordination with the Secretary of Veterans Affairs, the Attorney General shall establish and carry out a Veteran Treatment Court Program to provide grants and technical assistance to the State circuit court systems that—
+- **(a)** *Establishment* Subject to the availability of appropriations, in coordination with the Secretary of Veterans Affairs, the Attorney General shall establish and carry out a Veteran Treatment Court Program to provide grants and technical assistance to court systems that—
   - **(1)** have adopted a Veterans Treatment Court Program; or
   - **(2)** have filed a notice of intent to establish a Veterans Treatment Court Program with the Secretary.
 - **(b)** *Purpose* The purpose of the Veterans Treatment Court Program established under subsection (a) is to ensure the Department of Justice has a single office to coordinate the provision of grants, training, and technical assistance to help State, local, and Tribal governments to develop and maintain veteran treatment courts.

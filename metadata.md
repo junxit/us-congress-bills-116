@@ -1,7 +1,7 @@
 ---
 measure: H.R. 886
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 886
@@ -16,7 +16,7 @@ Veteran Treatment Court Coordination Act of 2019
 
 - Rep. Crist, Charlie [D-FL-13] (C001111)
 
-## Cosponsors (94)
+## Cosponsors (135)
 
 - Rep. Stefanik, Elise M. [R-NY-21] (S001196)
 - Rep. Aguilar, Pete [D-CA-31] (A000371)
@@ -112,6 +112,47 @@ Veteran Treatment Court Coordination Act of 2019
 - Rep. Dunn, Neal P. [R-FL-2] (D000628)
 - Rep. Shalala, Donna E. [D-FL-27] (S001206)
 - Rep. Horn, Kendra S. [D-OK-5] (H001083)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Mucarsel-Powell, Debbie [D-FL-26] (M001207)
+- Rep. Thompson, Mike [D-CA-5] (T000460)
+- Rep. Pappas, Chris [D-NH-1] (P000614)
+- Rep. Brindisi, Anthony [D-NY-22] (B001308)
+- Rep. Wild, Susan [D-PA-7] (W000826)
+- Rep. Torres Small, Xochitl [D-NM-2] (T000484)
+- Rep. Vargas, Juan [D-CA-51] (V000130)
+- Rep. Kim, Andy [D-NJ-3] (K000394)
+- Rep. Wexton, Jennifer [D-VA-10] (W000825)
+- Rep. Katko, John [R-NY-24] (K000386)
+- Rep. Reschenthaler, Guy [R-PA-14] (R000610)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. McBath, Lucy [D-GA-6] (M001208)
+- Rep. Kirkpatrick, Ann [D-AZ-2] (K000368)
+- Rep. Boyle, Brendan F. [D-PA-2] (B001296)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Tipton, Scott  R. [R-CO-3] (T000470)
+- Rep. Escobar, Veronica [D-TX-16] (E000299)
+- Rep. Gonzalez, Anthony [R-OH-16] (G000588)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. Finkenauer, Abby [D-IA-1] (F000467)
+- Rep. Kuster, Ann M. [D-NH-2] (K000382)
+- Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
+- Rep. Case, Ed [D-HI-1] (C001055)
+- Rep. Cárdenas, Tony [D-CA-29] (C001097)
+- Rep. Cox, TJ [D-CA-21] (C001124)
+- Rep. Kennedy, Joseph P., III [D-MA-4] (K000379)
+- Rep. Axne, Cynthia [D-IA-3] (A000378)
+- Rep. Bacon, Don [R-NE-2] (B001298)
+- Rep. Quigley, Mike [D-IL-5] (Q000023)
+- Rep. Yoho, Ted S. [R-FL-3] (Y000065)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Stanton, Greg [D-AZ-9] (S001211)
+- Rep. Phillips, Dean [D-MN-3] (P000616)
+- Rep. Steube, W. Gregory [R-FL-17] (S001214)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+- Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
+- Rep. Bass, Karen [D-CA-37] (B001270)
+- Rep. Morelle, Joseph D. [D-NY-25] (M001206)
+- Rep. Stauber, Pete [R-MN-8] (S001212)
 
 ## Committees (1)
 
@@ -122,3 +163,16 @@ Veteran Treatment Court Coordination Act of 2019
 - 2019-01-30 — Introduced in House
 - 2019-01-30 — Introduced in House
 - 2019-01-30 — Referred to the House Committee on the Judiciary.
+- 2019-03-22 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2019-10-15 — Subcommittee on Crime, Terrorism, and Homeland Security Discharged.
+- 2019-10-16 — Committee Consideration and Mark-up Session Held.
+- 2019-10-16 — Ordered to be Reported by Voice Vote.
+- 2019-10-28 — Considered under suspension of the rules. (consideration: CR H8489-8491)
+- 2019-10-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 886.
+- 2019-10-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-10-28 — Ms. Bass moved to suspend the rules and pass the bill, as amended.
+- 2019-10-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8489)
+- 2019-10-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8489)
+- 2019-10-28 — Placed on the Union Calendar, Calendar No. 207.
+- 2019-10-28 — Reported by the Committee on Judiciary. H. Rept. 116-259.
+- 2019-10-28 — Reported by the Committee on Judiciary. H. Rept. 116-259.
