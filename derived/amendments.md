@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1781
 congress: 116
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
