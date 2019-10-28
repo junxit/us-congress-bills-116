@@ -9,16 +9,17 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To make administrative reforms to the National Flood Insurance Program to increase fairness and accuracy and protect the taxpayer from program fraud and abuse, and for other purposes.
 
-## § 1. Short title
+## § 1. Short title; table of contents
 
-This Act may be cited as the “National Flood Insurance Program Administrative Reform Act of 2019”.
+- **(a)** *Short title* This Act may be cited as the “National Flood Insurance Program Administrative Reform Act of 2019”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Pilot program for properties with preexisting conditions
 
 Section 1311 of the National Flood Insurance Act of 1968 (42 U.S.C. 4018) is amended by adding at the end the following new subsection:
 
 > - **(c)** *Pilot program for investigation of preexisting structural conditions*
->   - **(1)** *Voluntary program* The Administrator shall carry out a pilot program under this subsection to provide for companies participating in the Write Your Own Program (as such term is defined in section 1370(a) (42 U.S.C. 4121(a))) to investigate preexisting structural conditions of insured properties and potentially insured properties that could result in the denial of a claim under a policy for flood insurance coverage under this title in the event of a flood loss to such property. Participation in the pilot program shall be voluntary on the part of Write Your Own companies.
+>   - **(1)** *Voluntary program* The Administrator shall carry out a pilot program under this subsection to provide for companies participating in the Write Your Own program (as such term is defined in section 1370(a) (42 U.S.C. 4121(a))) to investigate preexisting structural conditions of insured properties and potentially insured properties that could result in the denial of a claim under a policy for flood insurance coverage under this title in the event of a flood loss to such property. Participation in the pilot program shall be voluntary on the part of Write Your Own companies.
 >   - **(2)** *Investigation of properties* Under the pilot program under this subsection, a Write Your Own company participating in the program shall—
 >     - **(A)** provide in policies for flood insurance coverage under this title covered by the program that, upon the request of the policyholder, the company shall provide for—
 >       - **(i)** an investigation of the property covered by such policy, using common methods, to determine whether preexisting structural conditions are present that could result in the denial of a claim under such policy for flood losses; and
@@ -31,7 +32,7 @@ Section 1311 of the National Flood Insurance Act of 1968 (42 U.S.C. 4018) is ame
 
 ## § 3. Penalties for fraud and false statements in the National Flood Insurance Program
 
-Part C of chapter 2 of the National Flood Insurance Act of 1968 (42 U.S.C. 4081 et seq.) is amended by adding at the end the following new section:
+Part C of chapter II of the National Flood Insurance Act of 1968 (42 U.S.C. 4081 et seq.) is amended by adding at the end the following new section:
 
 > ## § 1349. Penalties for fraud and false statements in the National Flood Insurance Program
 >
@@ -44,7 +45,7 @@ Part C of chapter 2 of the National Flood Insurance Act of 1968 (42 U.S.C. 4081 
 > - **(d)** *Rule of construction* This section shall not be construed—
 >   - **(1)** to prevent the Federal Government from bringing action against a company or individual under applicable statutes, including the False Claims Act; and
 >   - **(2)** as creating any action, private right of action, or remedy not otherwise provided by this title or under Federal law.
->   - **(3)** *State action* Any person found to have violated subsection (a) shall be referred to the appropriate and relevant State licensing agency by the Attorney General.
+>   - **(e)** *State action* Any person found to have violated subsection (a) shall be referred to the appropriate and relevant State licensing agency by the Attorney General.
 
 ## § 4. Enhanced policyholder appeals process rights
 
@@ -61,7 +62,7 @@ Part C of chapter 2 of the National Flood Insurance Act of 1968 (42 U.S.C. 4081 
   > - **(f)** *Policyholder litigation* This section shall not be construed to prevent a policyholder from bringing legal action against the Federal Emergency Management Agency or a Write Your Own company following the exhaustion of all administrative remedies and pursuant to applicable statute.
 
 - **(b)** *Maintenance of litigation rights* Section 1341 of the National Flood Insurance Act of 1968 (42 U.S.C. 4072) is amended by adding after the period at the end the following: “For purposes of this section, the time from which the Administrator has acknowledged receipt of a request by the policyholder to pursue an appeal of the initial determination regarding approval, disapproval, or amount of payment by the Administrator until the Administrator mails a final determination of such appeal shall not be considered towards the one year statute of limitation under this Act. However, this section shall not be construed as creating any action or remedy not otherwise provided by this title.”.
-- **(c)** *Repeal* Section 205 of the Bunning-Blumenauer-Bereuter Flood Insurance Reform Act of 2004 (42 U.S.C. 4011 note) is hereby repealed.
+- **(c)** *Repeal* Section 205 of the Bunning-Bereuter-Blumenauer Flood Insurance Reform Act of 2004 (42 U.S.C. 4011 note) is hereby repealed.
 
 ## § 5. Deadline for approval of claims
 
@@ -88,7 +89,7 @@ Part C of chapter 2 of the National Flood Insurance Act of 1968 (42 U.S.C. 4081 
   > - **(c)** *Joint defense*
   >   - **(1)** *Authority* The Administrator and the Write Your Own companies may enter into, and operate under, a joint defense agreement for any claim or lawsuit, or multiple claims or lawsuits, arising under a contract of flood insurance.
   >   - **(2)** *Free flow of information* Under such joint defense agreement, there may be the free flow of information between the Write Your Own companies, the Administrator, the United States Department of Justice, and legal counsel for the Write Your Own companies for the purpose of litigation coordination and to allow the Administrator to perform oversight responsibility of such litigation.
-  >   - **(3)** *Arrangement* Such joint defense agreement may be included in the arrangement between the Administrator and the Write Your Own companies.
+  >   - **(3)** *Arrangement* Such joint defense agreement may be included in the Arrangement between the Administrator and the Write Your Own companies.
   >   - **(4)** *Regulations* The Administrator may issue rules or regulations or provide such formal guidance as the Administrator considers necessary and appropriate in order to further such joint defense agreement with the Write Your Own companies.
 
 - **(b)** *Implementation* The Administrator of the Federal Emergency Management Agency shall initiate compliance with section 1351(c) of the National Flood Insurance Act of 1968, as added by the amendment made by subsection (a) of this section, not later than the expiration of the 12-month period beginning on the date of the enactment of this Act.
@@ -137,7 +138,7 @@ Part C of chapter II of the National Flood Insurance Act of 1968 (42 U.S.C. 4081
   >     - **(E)** acknowledge that the policyholder has been provided and has reviewed a summary, which may be the policy declarations page, of the total cost, amount and extent of insurance coverage provided under the policy.
   > - **(d)** *Rule of construction* This section shall not be construed to void or alter the coverage terms of the underlying standard flood insurance policy and the corresponding endorsements. In the event that the customer does not affirmatively acknowledge the requirements under subsection (c)(2), a Write Your Own company may still issue the policy on behalf of the National Flood Insurance Program under such terms.
 
-- **(b)** *Repeals* Sections 202 and 203 of the Bunning-Bereuter-Blumenauer Flood Insurance Reform Act of 2004 (42 U.S.C. 4011 note) is hereby repealed.
+- **(b)** *Repeals* Sections 202 and 203 of the Bunning-Bereuter-Blumenauer Flood Insurance Reform Act of 2004 (42 U.S.C. 4011 note) are hereby repealed.
 
 ## § 10. Reserve Fund amounts
 
@@ -178,8 +179,8 @@ Section 1318 of the National Flood Insurance Act of 1968 (42 U.S.C. 4025) is ame
 > - **(f)** *Meetings and actions*
 >   - **(1)** *In general* The Committee shall meet not less frequently than twice each year at the request of the Chairperson or a majority of its members, and may take action by a vote of the majority of the members in accordance with the Committee’s charter.
 >   - **(2)** *Initial meeting* The Administrator, or a person designated by the Administrator, shall request and coordinate the initial meeting of the Committee.
-> - **(g)** *Transparency; FACA* To the greatest extent possible, the Committee shall operate in a transparent manner that adheres to the requirements of the Federal Advisory Committee Act, with the exception that the Committee shall be permitted to freely communicate both during and between meetings under subsection (f) in a confidential manner to discuss non-public information regarding the operations of the National Flood Insurance Program and other sensitive and non-public issues. If such communication occurs, the Committee shall, to the greatest extent possible, report a summary of such discussions in an appropriate public manner.
-> - **(h)** *Staff of FEMA* Upon the request of the Chairperson, the Administrator may detail, on a nonreimbursable basis, personnel of the Federal Emergency Management Agency to assist the Committee in carrying out its duties.
+> - **(g)** *Transparency; FACA* To the greatest extent possible, the Committee shall operate in a transparent manner that adheres to the requirements of the Federal Advisory Committee Act, with the exception that the Committee shall be permitted to freely communicate both during and between meetings under paragraph (f) in a confidential manner to discuss non-public information regarding the operations of the National Flood Insurance Program and other sensitive and non-public issues. If such communication occurs, the Committee shall, to the greatest extent possible, report a summary of such discussions in an appropriate public manner.
+> - **(h)** *Staff of FEMA* Upon the request of the Chairperson, the Administrator may detail, on a non-reimbursable basis, personnel of the Federal Emergency Management Agency to assist the Committee in carrying out its duties.
 > - **(i)** *Powers* In carrying out this section, the Committee may hold hearings, receive evidence and assistance, provide information, and conduct research, as it considers appropriate.
 > - **(j)** *Reports to Congress* The Administrator, on an annual basis, shall report to the Committee on Financial Services of the House of Representatives, the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Office of Management and Budget on—
 >   - **(1)** the recommendations made by the Committee;

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3111
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -43,7 +43,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 4018` | add-at-end | Section 1311 of the National Flood Insurance Act of 1968 (42 U.S.C. 4018) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 4081` | add-at-end | Part C of chapter 2 of the National Flood Insurance Act of 1968 (42 U.S.C. 4081 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4081` | add-at-end | Part C of chapter II of the National Flood Insurance Act of 1968 (42 U.S.C. 4081 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4081` | add-at-end | Part C of chapter II of the National Flood Insurance Act of 1968 (42 U.S.C. 4081 et seq.), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4072` | amend | Section 1341 of the National Flood Insurance Act of 1968 (42 U.S.C. 4072) is amended by adding after the period at the end the following: “For purposes of this section, the time from which the Administrator has acknowledged receipt of a … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4019` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

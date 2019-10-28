@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3111
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3111
@@ -25,3 +25,8 @@ National Flood Insurance Program Administrative Reform Act of 2019
 - 2019-06-05 — Introduced in House
 - 2019-06-05 — Introduced in House
 - 2019-06-05 — Referred to the House Committee on Financial Services.
+- 2019-06-11 — Committee Consideration and Mark-up Session Held.
+- 2019-06-11 — Ordered to be Reported (Amended) by the Yeas and Nays: 58 - 0.
+- 2019-10-28 — Placed on the Union Calendar, Calendar No. 209.
+- 2019-10-28 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-261.
+- 2019-10-28 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-261.
