@@ -41,8 +41,8 @@ This Act may be cited as the “Palliative Care and Hospice Education and Traini
   >     - **(D)** develop specific performance-based measures to evaluate the competency of trainees; and
   >     - **(E)** provide training in interprofessional team-based palliative medicine through one or both of the training options described in paragraph (3).
   >   - **(3)** *Training options* The training options referred to in subparagraph (E) of paragraph (2) are as follows:
-  >     - **(A)** 1-year retraining programs in hospice and palliative medicine for physicians who are faculty at schools of medicine and osteopathic medicine, or others determined appropriate by the Secretary.
-  >     - **(B)** 1- or 2-year training programs that are designed to provide training in interprofessional team-based hospice and palliative medicine for physicians who have completed graduate medical education programs in any medical specialty leading to board eligibility in hospice and palliative medicine pursuant to the American Board of Medical Specialties.
+  >     - **(A)** One-year retraining programs in hospice and palliative medicine for physicians who are faculty at schools of medicine and osteopathic medicine, or others determined appropriate by the Secretary.
+  >     - **(B)** One- or two-year training programs that are designed to provide training in interprofessional team-based hospice and palliative medicine for physicians who have completed graduate medical education programs in any medical specialty leading to board eligibility in hospice and palliative medicine pursuant to the American Board of Medical Specialties.
   >   - **(4)** *Definitions* For purposes of this subsection, the term graduate medical education means a program sponsored by a school of medicine, a school of osteopathic medicine, a hospital, or a public or private institution that—
   >     - **(A)** offers postgraduate medical training in the specialties and subspecialties of medicine; and
   >     - **(B)** has been accredited by the Accreditation Council for Graduate Medical Education or the American Osteopathic Association through its Committee on Postdoctoral Training.
@@ -125,7 +125,7 @@ Part A of title IX of the Public Health Service Act (42 U.S.C. 299 et seq.) is a
 
 ## § 5. Clarification
 
-None of the funds made available under this Act (or an amendment made by this Act) may be used to provide, promote, or provide training with regard to any item or service for which Federal funding is unavailable under section 3 of Public Law 105–12 (42 U.S.C. 14402).
+None of the funds authorized under this Act (or an amendment made by this Act) may be used to provide, promote, or provide training with regard to any item or service for which Federal funding is unavailable under section 3 of Public Law 105–12 (42 U.S.C. 14402).
 
 ## § 6. Enhancing NIH research in palliative care
 
