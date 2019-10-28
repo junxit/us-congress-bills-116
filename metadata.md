@@ -1,7 +1,7 @@
 ---
 measure: H.R. 777
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 777
@@ -62,3 +62,12 @@ Debbie Smith Reauthorization Act of 2019
 - 2019-10-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 1 (Roll no. 584). (text: CR H8404)
 - 2019-10-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 1 (Roll no. 584).(text: CR H8404)
 - 2019-10-28 — Received in the Senate, read twice.
+- 2019-12-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7084)
+- 2019-12-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7084)
+- 2019-12-19 — Message on Senate action sent to the House.
+- 2019-12-20 — Presented to President.
+- 2019-12-20 — Presented to President.
+- 2019-12-30 — Became Public Law No: 116-104.
+- 2019-12-30 — Became Public Law No: 116-104.
+- 2019-12-30 — Signed by President.
+- 2019-12-30 — Signed by President.
