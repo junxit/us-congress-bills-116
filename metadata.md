@@ -1,7 +1,7 @@
 ---
 measure: S. 2107
 congress: 116
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2107
@@ -25,9 +25,11 @@ Protecting America's Food and Agriculture Act of 2019
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Ernst, Joni [R-IA] (E000295)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Homeland Security Committee
+- House — Agriculture Committee
 
 ## Actions
 
@@ -43,3 +45,16 @@ Protecting America's Food and Agriculture Act of 2019
 - 2019-10-28 — Received in the House.
 - 2019-10-28 — Referred to the Committee on Homeland Security, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-10-28 — Referred to the Committee on Homeland Security, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-11-14 — Referred to the Subcommittee on Border Security, Facilitation, and Operations.
+- 2020-02-10 — Considered under suspension of the rules. (consideration: CR H983-986)
+- 2020-02-10 — DEBATE - The House proceeded with forty minutes of debate on S. 2107.
+- 2020-02-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-02-10 — Ms. Torres Small (NM) moved to suspend the rules and pass the bill.
+- 2020-02-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H983)
+- 2020-02-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-02-20 — Presented to President.
+- 2020-02-20 — Presented to President.
+- 2020-03-03 — Became Public Law No: 116-122.
+- 2020-03-03 — Became Public Law No: 116-122.
+- 2020-03-03 — Signed by President.
+- 2020-03-03 — Signed by President.
