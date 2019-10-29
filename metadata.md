@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 183
 congress: 116
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 183
@@ -36,3 +36,5 @@ A resolution reaffirming the vital role of the United States-Japan alliance in p
 - 2019-09-26 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with an amended preamble. Without written report.
 - 2019-09-26 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with an amended preamble. Without written report.
 - 2019-09-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 233.
+- 2019-10-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.(consideration: CR S6255-6256)
+- 2019-10-29 — Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (consideration: CR S6255-6256)
