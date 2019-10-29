@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2440
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2440
@@ -40,10 +40,11 @@ Full Utilization of the Harbor Maintenance Trust Fund Act
 - Rep. Stauber, Pete [R-MN-8] (S001212)
 - Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
 
-## Committees (2)
+## Committees (3)
 
 - House — Budget Committee
 - House — Transportation and Infrastructure Committee
+- Senate — Budget Committee
 
 ## Recorded votes (1)
 
@@ -72,3 +73,4 @@ Full Utilization of the Harbor Maintenance Trust Fund Act
 - 2019-10-28 — Mr. DeFazio moved to suspend the rules and pass the bill, as amended.
 - 2019-10-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 296 - 109 (Roll no. 585). (text: CR H8479-8480)
 - 2019-10-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 296 - 109 (Roll no. 585).(text: CR H8479-8480)
+- 2019-10-29 — Received in the Senate and Read twice and referred to the Committee on the Budget.
