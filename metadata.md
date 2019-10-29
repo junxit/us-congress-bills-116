@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 236
 congress: 116
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 236
@@ -33,3 +33,5 @@ A resolution reaffirming the strong partnership between Tunisia and the United S
 - 2019-09-26 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with a preamble. Without written report.
 - 2019-09-26 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with a preamble. Without written report.
 - 2019-09-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 234.
+- 2019-10-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.(consideration: CR S6256; text: 6/5/2019 CR S3264)
+- 2019-10-29 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (consideration: CR S6256; text: 6/5/2019 CR S3264)
