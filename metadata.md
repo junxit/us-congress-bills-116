@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 367
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 367
@@ -28,3 +28,7 @@ A resolution condemning the horrific attack in Dayton, Ohio, and expressing supp
 
 - 2019-10-21 — Introduced in Senate
 - 2019-10-21 — Referred to the Committee on the Judiciary.
+- 2019-10-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 10/21/2019 CR S5926)
+- 2019-10-29 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 10/21/2019 CR S5926)
+- 2019-10-29 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6254)
+- 2019-10-29 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6254)
