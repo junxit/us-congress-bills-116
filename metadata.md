@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 296
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 296
@@ -16,7 +16,7 @@ Affirming the United States record on the Armenian Genocide.
 
 - Rep. Schiff, Adam B. [D-CA-28] (S001150)
 
-## Cosponsors (76)
+## Cosponsors (141)
 
 - Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
@@ -94,13 +94,93 @@ Affirming the United States record on the Armenian Genocide.
 - Rep. Lofgren, Zoe [D-CA-19] (L000397)
 - Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
 - Rep. Shalala, Donna E. [D-FL-27] (S001206)
+- Rep. Tlaib, Rashida [D-MI-13] (T000481)
+- Rep. Rouda, Harley [D-CA-48] (R000616)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Brindisi, Anthony [D-NY-22] (B001308)
+- Rep. Visclosky, Peter J. [D-IN-1] (V000108)
+- Rep. Fortenberry, Jeff [R-NE-1] (F000449)
+- Rep. Kennedy, Joseph P., III [D-MA-4] (K000379)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. Trone, David J. [D-MD-6] (T000483)
+- Rep. Carson, Andre [D-IN-7] (C001072)
+- Rep. Hill, Katie [D-CA-25] (H001087)
+- Rep. Schweikert, David [R-AZ-6] (S001183)
+- Rep. Barragan, Nanette Diaz [D-CA-44] (B001300)
+- Rep. Crow, Jason [D-CO-6] (C001121)
+- Rep. Porter, Katie [D-CA-45] (P000618)
+- Rep. Ocasio-Cortez, Alexandria [D-NY-14] (O000172)
+- Rep. Ryan, Tim [D-OH-13] (R000577)
+- Rep. Neguse, Joe [D-CO-2] (N000191)
+- Rep. Aguilar, Pete [D-CA-31] (A000371)
+- Rep. Luria, Elaine G. [D-VA-2] (L000591)
+- Rep. Moolenaar, John R. [R-MI-4] (M001194)
+- Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
+- Rep. Calvert, Ken [R-CA-42] (C000059)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Quigley, Mike [D-IL-5] (Q000023)
+- Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
+- Rep. Norcross, Donald [D-NJ-1] (N000188)
+- Rep. Stevens, Haley M. [D-MI-11] (S001215)
+- Rep. Lee, Susie [D-NV-3] (L000590)
+- Rep. Meeks, Gregory W. [D-NY-5] (M001137)
+- Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
+- Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Haaland, Debra A. [D-NM-1] (H001080)
+- Rep. Lynch, Stephen F. [D-MA-8] (L000562)
+- Rep. Bass, Karen [D-CA-37] (B001270)
+- Rep. Garcia, Jesus G. "Chuy" [D-IL-4] (G000586)
+- Rep. DeSaulnier, Mark [D-CA-11] (D000623)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Scanlon, Mary Gay [D-PA-5] (S001205)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Rep. Thompson, Mike [D-CA-5] (T000460)
+- Rep. Kildee, Daniel T. [D-MI-5] (K000380)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Davidson, Warren [R-OH-8] (D000626)
+- Rep. Swalwell, Eric [D-CA-15] (S001193)
+- Rep. Matsui, Doris O. [D-CA-6] (M001163)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+- Rep. Cooper, Jim [D-TN-5] (C000754)
+- Rep. Dean, Madeleine [D-PA-4] (D000631)
+- Rep. Crist, Charlie [D-FL-13] (C001111)
+- Rep. Frankel, Lois [D-FL-21] (F000462)
+- Rep. Richmond, Cedric L. [D-LA-2] (R000588)
+- Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
+- Rep. Taylor, Van [R-TX-3] (T000479)
+- Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
+- Rep. Slotkin, Elissa [D-MI-8] (S001208)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Brown, Anthony G. [D-MD-4] (B001304)
+- Rep. Hurd, Will [R-TX-23] (H001073)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. Stanton, Greg [D-AZ-9] (S001211)
+- Rep. Soto, Darren [D-FL-9] (S001200)
+- Rep. Babin, Brian [R-TX-36] (B001291)
 
 ## Committees (1)
 
 - House — Foreign Affairs Committee
+
+## Recorded votes (1)
+
+- 2019-10-29 — [House 116-1-591](votes/house-116-1-0591.md) — On Agreeing to the Resolution — **Passed** (405–11)
 
 ## Actions
 
 - 2019-04-08 — Introduced in House
 - 2019-04-08 — Introduced in House
 - 2019-04-08 — Referred to the House Committee on Foreign Affairs.
+- 2019-10-28 — Rules Committee Resolution H. Res. 655 Reported to House. Rule provides for consideration of H. Res. 296 with 1 hour of general debate. Previous question shall be considered as ordered.
+- 2019-10-29 — Considered as unfinished business. (consideration: CR H8583-8584)
+- 2019-10-29 — Considered under the provisions of rule H. Res. 655. (consideration: CR H8559-8568)
+- 2019-10-29 — DEBATE - The House proceeded with one hour of debate on H. Res. 296.
+- 2019-10-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-10-29 — On agreeing to the resolution Agreed to by the Yeas and Nays: 405 - 11, 3 Present (Roll no. 591). (text: CR H8560)
+- 2019-10-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.Res. 296, the Chair put the question on agreeing to the resolution and by voice vote, announced that the ayes had prevailed. Mr. Engel demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2019-10-29 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 405 - 11, 3 Present (Roll no. 591).(text: CR H8560)
+- 2019-10-29 — Rule H. Res. 655 passed House.
+- 2019-10-29 — Rule provides for consideration of H. Res. 296 with 1 hour of general debate. Previous question shall be considered as ordered.
+- 2019-10-29 — The previous question was ordered pursuant to the rule.
