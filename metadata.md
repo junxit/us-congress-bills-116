@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2514
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2514
@@ -21,10 +21,11 @@ COUNTER Act of 2019
 - Rep. Stivers, Steve [R-OH-15] (S001187)
 - Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ COUNTER Act of 2019
 - 2019-10-28 — Mr. Scott, David moved to suspend the rules and pass the bill, as amended.
 - 2019-10-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8494-8501)
 - 2019-10-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8494-8501)
+- 2019-10-29 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
