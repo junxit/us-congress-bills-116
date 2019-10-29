@@ -1,7 +1,7 @@
 ---
 measure: S. 1678
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1678
@@ -37,3 +37,5 @@ Taiwan Allies International Protection and Enhancement Initiative (TAIPEI) Act o
 - 2019-09-26 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
 - 2019-09-26 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
 - 2019-09-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 237.
+- 2019-10-29 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6254-6255)
+- 2019-10-29 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6254-6255)
