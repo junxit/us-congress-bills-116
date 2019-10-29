@@ -1,7 +1,7 @@
 ---
 measure: H.R. 886
 congress: 116
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 886
@@ -154,9 +154,10 @@ Veteran Treatment Court Coordination Act of 2019
 - Rep. Morelle, Joseph D. [D-NY-25] (M001206)
 - Rep. Stauber, Pete [R-MN-8] (S001212)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -176,3 +177,4 @@ Veteran Treatment Court Coordination Act of 2019
 - 2019-10-28 — Placed on the Union Calendar, Calendar No. 207.
 - 2019-10-28 — Reported by the Committee on Judiciary. H. Rept. 116-259.
 - 2019-10-28 — Reported by the Committee on Judiciary. H. Rept. 116-259.
+- 2019-10-29 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
