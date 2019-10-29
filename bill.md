@@ -2,7 +2,7 @@
 legis-num: H. RES. 296
 congress: 116th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 296
@@ -12,7 +12,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## Preamble
 
 - Whereas the United States has a proud history of recognizing and condemning the Armenian Genocide, the killing of 1.5 million Armenians by the Ottoman Empire from 1915 to 1923, and providing relief to the survivors of the campaign of genocide against Armenians, Greeks, Assyrians, Chaldeans, Syriacs, Arameans, Maronites, and other Christians;
-- Whereas the Honorable Henry Morgenthau, United States Ambassador to the Ottoman Empire from 1913 to 1916, organized and led protests by officials of many countries against what he described as the empire’s “campaign of race extermination”, and was instructed on July 16, 1915, by United States Secretary of State Robert Lansing that the “Department approves your procedure … to stop Armenian persecution”;
+- Whereas the Honorable Henry Morgenthau, United States Ambassador to the Ottoman Empire from 1913 to 1916, organized and led protests by officials of many countries against what he described as the empire’s “campaign of race extermination”, and was instructed on July 16, 1915, by United States Secretary of State Robert Lansing that the “Department approves your procedure * * * to stop Armenian persecution”;
 - Whereas President Woodrow Wilson encouraged the formation of the Near East Relief, chartered by an Act of Congress, which raised $116,000,000 (over $2,500,000,000 in 2019 dollars) between 1915 and 1930, and the Senate adopted resolutions condemning these massacres;
 - Whereas Raphael Lemkin, who coined the term “genocide” in 1944, and who was the earliest proponent of the United Nations Convention on the Prevention and Punishment of Genocide, invoked the Armenian case as a definitive example of genocide in the 20th century;
 - Whereas, as displayed in the United States Holocaust Memorial Museum, Adolf Hitler, on ordering his military commanders to attack Poland without provocation in 1939, dismissed objections by saying “[w]ho, after all, speaks today of the annihilation of the Armenians?”, setting the stage for the Holocaust;
