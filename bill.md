@@ -2,7 +2,7 @@
 legis-num: H.R. 3942
 congress: 116th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 3942
@@ -43,10 +43,14 @@ This Act may be cited as the “Preventing Online Sales of E-Cigarettes to Child
       >       - **(II)** any other therapeutic purpose; and
       >     - **(ii)** marketed and sold solely for a purpose described in clause (i).
 
-  - **(2)** in section 2A(b)(1) (15 U.S.C. 376a(b)(1)), by inserting “NICOTINE/” after “CIGARETTES/”.
+  - **(2)** in section 2A(b)(1) (15 U.S.C. 376a(b)(1)), by inserting “NICOTINE/” after“CIGARETTES/”.
 - **(b)** *Effective date* This section, and the amendments made by this section, shall take effect on the date that is 90 days after the date of enactment of this Act.
 
 ## § 3. Nonmailability of electronic nicotine delivery systems
 
 - **(a)** *Regulations* Not later than 120 days after the date of enactment of this Act, the United States Postal Service shall promulgate regulations to clarify the applicability of the prohibition on mailing of cigarettes under section 1716E of title 18, United States Code, to electronic nicotine delivery systems, in accordance with the amendment to the definition of cigarette made by section 2.
 - **(b)** *Effective date* The prohibition on mailing of cigarettes under section 1716E of title 18, United States Code, shall apply to electronic nicotine delivery systems on and after the date on which the United States Postal Service promulgates regulations under subsection (a) of this section.
+
+## § 4. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
