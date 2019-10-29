@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1781
 congress: 116
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1781
@@ -48,10 +48,11 @@ Payment Commission Data Act of 2019
 - Rep. Craig, Angie [D-MN-2] (C001119)
 - Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -76,3 +77,4 @@ Payment Commission Data Act of 2019
 - 2019-10-28 — Placed on the Union Calendar, Calendar No. 205.
 - 2019-10-28 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-257, Part I.
 - 2019-10-28 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-257, Part I.
+- 2019-10-29 — Received in the Senate and Read twice and referred to the Committee on Finance.
