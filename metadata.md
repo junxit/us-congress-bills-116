@@ -1,7 +1,7 @@
 ---
 measure: H.R. 728
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 728
@@ -149,9 +149,10 @@ Title VIII Nursing Workforce Reauthorization Act of 2019
 - Rep. Morelle, Joseph D. [D-NY-25] (M001206)
 - Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -172,3 +173,4 @@ Title VIII Nursing Workforce Reauthorization Act of 2019
 - 2019-10-28 — Ms. Schakowsky moved to suspend the rules and pass the bill, as amended.
 - 2019-10-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8513-8514)
 - 2019-10-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8513-8514)
+- 2019-10-29 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
