@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 52
 congress: 116
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 52
@@ -73,3 +73,9 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2019-07-31 — Introduced in Senate
 - 2019-07-31 — Read twice and referred to the Committee on Finance.
+- 2019-10-29 — Measure laid before Senate by motion. (consideration: CR S6220-6225, S6228-6235)
+- 2019-10-29 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote.
+- 2019-10-29 — Motion to proceed to consideration of measure made in Senate. (CR S6220)
+- 2019-10-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 278.
+- 2019-10-29 — Senate Committee on Finance discharged by petition pursuant to 5 U.S.C. 802(c).
+- 2019-10-29 — Senate Committee on Finance discharged by petition pursuant to 5 U.S.C. 802(c).
