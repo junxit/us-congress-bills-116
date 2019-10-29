@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3942
 congress: 116
-version: Reported in House
+version: Received in Senate
 derived: true
 ---
 
@@ -36,4 +36,4 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 375` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 375` | redesignate | by redesignating paragraphs (7) through (14) as paragraphs (8) through (15), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 375` | insert | by inserting after paragraph (6) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 376a` | insert | in section 2A(b)(1) (15 U.S.C. 376a(b)(1)), by inserting “NICOTINE/” after “CIGARETTES/”. | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 376a` | insert | in section 2A(b)(1) (15 U.S.C. 376a(b)(1)), by inserting “NICOTINE/” after“CIGARETTES/”. | the bill quotes the text inserted but describes where it goes |

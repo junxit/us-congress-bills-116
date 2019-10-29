@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3942
 congress: 116
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 3942
@@ -73,3 +73,4 @@ Preventing Online Sales of E-Cigarettes to Children Act
 - 2019-10-28 — Placed on the Union Calendar, Calendar No. 208.
 - 2019-10-28 — Reported by the Committee on Judiciary. H. Rept. 116-260.
 - 2019-10-28 — Reported by the Committee on Judiciary. H. Rept. 116-260.
+- 2019-10-29 — Received in the Senate.
