@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 277
 congress: 116
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 277
@@ -40,3 +40,5 @@ A resolution remembering the 25th Anniversary of the bombing of the Argentine Is
 - 2019-09-26 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with a preamble. Without written report.
 - 2019-09-26 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with a preamble. Without written report.
 - 2019-09-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 235.
+- 2019-10-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S6256; text: 7/17/2019 CR S4912-4913)
+- 2019-10-29 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S6256; text: 7/17/2019 CR S4912-4913)
