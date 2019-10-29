@@ -1,7 +1,7 @@
 ---
 measure: S. 134
 congress: 116
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 134
@@ -43,3 +43,15 @@ Combat Online Predators Act
 - 2019-10-29 — Message on Senate action sent to the House.
 - 2019-10-29 — Received in the House.
 - 2019-10-29 — Referred to the House Committee on the Judiciary.
+- 2020-12-08 — Considered under suspension of the rules. (consideration: CR H7011-7014)
+- 2020-12-08 — DEBATE - The House proceeded with forty minutes of debate on S. 134.
+- 2020-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-08 — Mr. Cicilline moved to suspend the rules and pass the bill.
+- 2020-12-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7011-7012)
+- 2020-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-12-11 — Presented to President.
+- 2020-12-11 — Presented to President.
+- 2020-12-22 — Became Public Law No: 116-249.
+- 2020-12-22 — Became Public Law No: 116-249.
+- 2020-12-22 — Signed by President.
+- 2020-12-22 — Signed by President.

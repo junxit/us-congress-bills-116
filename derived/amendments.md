@@ -1,7 +1,7 @@
 ---
 measure: S. 134
 congress: 116
-version: Referred in House
+version: Enrolled Bill
 derived: true
 ---
 
