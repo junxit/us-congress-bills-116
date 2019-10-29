@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2423
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2423
@@ -345,3 +345,4 @@ Women's Suffrage Centennial Commemorative Coin Act
 - 2019-10-28 — Mr. Scott, David moved to suspend the rules and pass the bill, as amended.
 - 2019-10-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8507-8508)
 - 2019-10-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8507-8508)
+- 2019-10-29 — Received in the Senate, read twice.
