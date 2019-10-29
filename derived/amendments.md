@@ -1,7 +1,7 @@
 ---
 measure: S. 2044
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,5 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `43 U.S.C. § 510b` | add-at-end | Section 9603 of the Omnibus Public Land Management Act of 2009 (43 U.S.C. 510b) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 509` | insert | Section 5 of the Reclamation Safety of Dams Act of 1978 (43 U.S.C. 509) is amended, in the first sentence, by inserting “, and, effective October 1, 2019, not to exceed an additional $550,000,000 (October 1, 2019, price levels)” before “… | the bill quotes the text inserted but describes where it goes |
 | `43 U.S.C. § 510b` | add-at-end | Section 9603 of the Omnibus Public Land Management Act of 2009 (43 U.S.C. 510b) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 509` | insert | Section 5 of the Reclamation Safety of Dams Act of 1978 (43 U.S.C. 509) is amended, in the first sentence, by inserting “, and, effective October 1, 2019, not to exceed an additional $550,000,000 (October 1, 2019, price levels)” before “… | the bill quotes the text inserted but describes where it goes |
