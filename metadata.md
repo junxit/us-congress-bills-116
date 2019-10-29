@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1306
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1306
@@ -25,9 +25,10 @@ Federal Disaster Assistance Coordination Act
 - Rep. Rouzer, David [R-NC-7] (R000603)
 - Rep. Davids, Sharice [D-KS-3] (D000629)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Federal Disaster Assistance Coordination Act
 - 2019-10-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8485)
 - 2019-10-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8485)
 - 2019-10-28 — The title of the measure was amended. Agreed to without objection.
+- 2019-10-29 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
