@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1775
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1775
@@ -21,9 +21,10 @@ Notice to Airmen Improvement Act of 2019
 - Rep. DeSaulnier, Mark [D-CA-11] (D000623)
 - Rep. Katko, John [R-NY-24] (K000386)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Notice to Airmen Improvement Act of 2019
 - 2019-10-28 — Mr. DeFazio moved to suspend the rules and pass the bill.
 - 2019-10-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8487)
 - 2019-10-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8487)
+- 2019-10-29 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
