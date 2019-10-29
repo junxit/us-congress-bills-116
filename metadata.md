@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 655
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 655
@@ -27,3 +27,9 @@ Providing for consideration of the resolution (H. Res. 296) affirming the United
 - 2019-10-28 — Rule provides for consideration of H. Res. 296 with 1 hour of general debate. Previous question shall be considered as ordered.
 - 2019-10-28 — The House Committee on Rules reported an original measure, H. Rept. 116-263, by Mr. McGovern.
 - 2019-10-28 — The House Committee on Rules reported an original measure, H. Rept. 116-263, by Mr. McGovern.
+- 2019-10-29 — Considered as privileged matter. (consideration: CR H8552-8558)
+- 2019-10-29 — DEBATE - The House proceeded with one hour of debate on H. Res. 655.
+- 2019-10-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-10-29 — On agreeing to the resolution Agreed to by the Yeas and Nays: 223 - 191 (Roll no. 588). (text: CR H8552)
+- 2019-10-29 — On ordering the previous question Agreed to by the Yeas and Nays: 224 - 189 (Roll no. 587). (consideration: CR H8557)
+- 2019-10-29 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 223 - 191 (Roll no. 588).(text: CR H8552)
