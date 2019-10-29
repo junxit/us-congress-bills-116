@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4067
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4067
@@ -24,9 +24,10 @@ Financial Inclusion in Banking Act of 2019
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 - Rep. Cleaver, Emanuel [D-MO-5] (C001061)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Financial Inclusion in Banking Act of 2019
 - 2019-10-28 — Mr. Scott, David moved to suspend the rules and pass the bill, as amended.
 - 2019-10-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8503)
 - 2019-10-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8503)
+- 2019-10-29 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
