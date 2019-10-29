@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2781
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2781
@@ -34,9 +34,10 @@ EMPOWER for Health Act of 2019
 - Rep. Rice, Kathleen M. [D-NY-4] (R000602)
 - Rep. Morelle, Joseph D. [D-NY-25] (M001206)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -57,3 +58,4 @@ EMPOWER for Health Act of 2019
 - 2019-10-28 — Ms. Schakowsky moved to suspend the rules and pass the bill, as amended.
 - 2019-10-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8509-8511)
 - 2019-10-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8509-8511)
+- 2019-10-29 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
