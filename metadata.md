@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2502
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2502
@@ -45,3 +45,14 @@ Transparency in Federal Buildings Projects Act of 2019
 - 2019-10-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8488)
 - 2019-10-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8488)
 - 2019-10-29 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2020-12-22 — Message on Senate action sent to the House.
+- 2020-12-22 — Passed Senate without amendment by Unanimous Consent.
+- 2020-12-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-12-22 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
+- 2020-12-22 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S7929)
+- 2021-01-01 — Presented to President.
+- 2021-01-01 — Presented to President.
+- 2021-01-13 — Became Public Law No: 116-333.
+- 2021-01-13 — Became Public Law No: 116-333.
+- 2021-01-13 — Signed by President.
+- 2021-01-13 — Signed by President.
