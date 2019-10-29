@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2115
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2115
@@ -24,10 +24,11 @@ Public Disclosure of Drug Discounts and Real-Time Beneficiary Drug Cost Act
 - Rep. Slotkin, Elissa [D-MI-8] (S001208)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Public Disclosure of Drug Discounts and Real-Time Beneficiary Drug Cost Act
 - 2019-10-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 586). (text: CR H8516)
 - 2019-10-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 586).(text: CR H8516)
 - 2019-10-28 — The title of the measure was amended. Agreed to without objection.
+- 2019-10-29 — Received in the Senate and Read twice and referred to the Committee on Finance.
