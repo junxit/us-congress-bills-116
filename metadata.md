@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4860
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4860
@@ -20,9 +20,10 @@ Crowdfunding Amendments Act
 
 - Rep. Waters, Maxine [D-CA-43] (W000187)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -35,3 +36,4 @@ Crowdfunding Amendments Act
 - 2019-10-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8493)
 - 2019-10-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8493)
 - 2019-10-28 — Referred to the House Committee on Financial Services.
+- 2019-10-29 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
