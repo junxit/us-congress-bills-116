@@ -1,0 +1,12 @@
+---
+legis-num: H. RES. 661
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 661
+
+> Authorizing the Office of General Counsel of the House of Representatives to retain private counsel, either for pay or pro bono, in support of the ongoing inquiry into whether sufficient grounds exist for the House of Representatives to exercise its Constitutional power to impeach President Donald John Trump.
+
+That the Office of General Counsel of the House of Representatives is authorized to retain private counsel, either for pay or pro bono, in support of the ongoing inquiry into whether sufficient grounds exist for the House of Representatives to exercise its Constitutional power to impeach Donald John Trump, President of the United States of America.
