@@ -1,7 +1,7 @@
 ---
 measure: S. 134
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 134
@@ -21,9 +21,10 @@ Combat Online Predators Act
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -39,3 +40,6 @@ Combat Online Predators Act
 - 2019-10-28 — Senate amendment agreed to: Amendment SA 1196 agreed to in Senate by Unanimous Consent.
 - 2019-10-28 — Senate amendment proposed (on the floor): Amendment SA 1196 proposed by Senator McConnell for Senator Toomey.
 - 2019-10-28 — Senate amendment submitted
+- 2019-10-29 — Message on Senate action sent to the House.
+- 2019-10-29 — Received in the House.
+- 2019-10-29 — Referred to the House Committee on the Judiciary.
