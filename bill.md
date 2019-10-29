@@ -1,0 +1,36 @@
+---
+legis-num: S. 2725
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2725
+
+> To modify the procedures for loan guarantees provided for Indian housing, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Native American Housing Affordability Act of 2019”.
+
+## § 2. Findings
+
+Congress finds that—
+
+- **(1)** the extended timelines for approving lenders' applications to participate in the program established under section 184 of the Housing and Community Development Act of 1992 (12 U.S.C. 1715z–13a) are unacceptably long;
+- **(2)** those extended timelines inhibit the ability of lenders to provide needed mortgage loans on Native American reservations; and
+- **(3)** it can take a significant amount of time for certain Bureau of Indian Affairs Land Title and Records Offices to issue final certified title status reports for mortgages issued on Indian trust land under section 184 of the Housing and Community Development Act of 1992 (12 U.S.C. 1715z–13a), which delays the guarantee of the loan by the Department of Housing and Urban Development.
+
+## § 3. Improvements to loan guarantees for Indian housing
+
+- **(a)** *Documentation required for Indian trust land* Section 184(c) of the Housing and Community Development Act of 1992 (12 U.S.C. 1715z–13a(c)) is amended by adding at the end the following:
+  > - **(5)** *Trailing documents*
+  >   - **(A)** *In general* The Secretary may issue a certificate of guarantee under this subsection for a loan involving a security interest in Indian trust land before the Secretary receives the trailing documents required by the Secretary, including the final certified title status report showing the recordation by the Bureau of Indian Affairs of the mortgage relating to the loan, if the originating lender agrees to indemnify the Secretary for any losses that may result when—
+  >     - **(i)** a claim payment is presented to the Secretary due to the default of the borrower on the loan; and
+  >     - **(ii)** the required trailing documents are outstanding.
+  >   - **(B)** *Termination of indemnification agreement* An indemnification agreement between an originating lender and the Secretary described in subparagraph (A) shall only terminate upon receipt by the Secretary of the trailing documents described in that subparagraph in a form and manner that is acceptable to the Secretary.
+  >   - **(C)** *Rule of construction* Nothing in this paragraph shall be construed as authorizing the Bureau of Indian Affairs to delay the issuance of a final certified title status report and recorded mortgage relating to a loan closed on Indian trust land.
+
+- **(b)** *Reporting* The Secretary of Housing and Urban Development shall—
+  - **(1)** report to the Committee on Banking, Housing, and Urban Affairs and the Committee on Indian Affairs of the Senate and the Committee on Financial Services and the Committee on Natural Resources of the House of Representatives on a semiannual basis on the progress that the Secretary is making to accelerate the processing of lender applications under section 184 of the Housing and Community Development Act of 1992 (12 U.S.C. 1715z–13a); and
+  - **(2)** if there is no improvement in accelerating those processing timelines, submit to the committees described in paragraph (1) a report explaining the lack of improvement.
