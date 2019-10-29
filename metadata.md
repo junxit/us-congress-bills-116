@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2423
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2423
@@ -346,3 +346,12 @@ Women's Suffrage Centennial Commemorative Coin Act
 - 2019-10-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8507-8508)
 - 2019-10-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8507-8508)
 - 2019-10-29 — Received in the Senate, read twice.
+- 2019-10-31 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6358)
+- 2019-10-31 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6358)
+- 2019-11-04 — Message on Senate action sent to the House.
+- 2019-11-18 — Presented to President.
+- 2019-11-18 — Presented to President.
+- 2019-11-25 — Became Public Law No: 116-71.
+- 2019-11-25 — Became Public Law No: 116-71.
+- 2019-11-25 — Signed by President.
+- 2019-11-25 — Signed by President.

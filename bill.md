@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 2423
-congress: 116th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Sixteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 2423
@@ -18,7 +18,7 @@ This Act may be cited as the “Women’s Suffrage Centennial Commemorative Coin
 - **(a)** *Findings* Congress finds the following:
   - **(1)** Elizabeth Cady Stanton and Lucretia Mott organized the first Women’s Rights Convention in Seneca Falls, New York. 68 women and 32 men signed the Declaration of Sentiments at the Convention in July 1848.
   - **(2)** The Declaration of Sentiments was modeled after the Declaration of Independence and declared that “all men and women are created equal”, linking women’s rights directly to the founding ideals of the United States.
-  - **(3)** Suffrage activists, including Elizabeth Cady Stanton, Susan B. Anthony, Harriet Tubman, Sojourner Truth, Ida B. Wells, Jovita Idar, Inez Millholland, Mary Church Terrell, Anne Dallas Dudley, Carrie Chapman Cat, Alice Paul, Lucy Burns, Esther Hobart Morris, and many others, conducted over 900 local, State, and Federal campaigns over a 72-year time span to win women the right to vote.
+  - **(3)** Suffrage activists, including Elizabeth Cady Stanton, Susan B. Anthony, Harriet Tubman, Sojourner Truth, Ida B. Wells, Jovita Idar, Inez Millholland, Mary Church Terrell, Anne Dallas Dudley, Carrie Chapman Catt, Alice Paul, Lucy Burns, Esther Hobart Morris, and many others, conducted over 900 local, State, and Federal campaigns over a 72-year time span to win women the right to vote.
   - **(4)** On November 6, 1917, New York granted women the right to vote, which was an act that created momentum for the national movement that culminated in the ratification of the 19th Amendment to the Constitution of the United States 3 years later.
   - **(5)** The 19th Amendment to the Constitution of the United States (“The Susan B. Anthony Amendment”) guarantees all United States women the right to vote and was passed by the 66th Congress of the United States on June 4, 1919.
   - **(6)** On August 9, 1920, right before the ratification period was set to expire, Governor Albert H. Roberts called a special session of the Tennessee General Assembly to consider the amendment. Pro-suffrage and anti-suffrage activists from around the country descended on Nashville, Tennessee, intent on influencing the legislature.
@@ -47,7 +47,7 @@ This Act may be cited as the “Women’s Suffrage Centennial Commemorative Coin
   - **(2)** *Designations and inscriptions* On each coin minted under this Act, there shall be—
     - **(A)** a designation of the value of the coin;
     - **(B)** an inscription of the year “2020”; and
-    - **(C)** inscriptions of the words “Liberty”, “In God We Trust”, “United States of America”, and “E Pluribus Unum.”
+    - **(C)** inscriptions of the words “Liberty”, “In God We Trust”, “United States of America”, and “E Pluribus Unum”.
 - **(b)** *Selection* The design for the coins minted under this Act shall—
   - **(1)** contain motifs that honor Susan B. Anthony, Elizabeth Cady Stanton, Carrie Chapman Catt, Harriet Tubman, Mary Church Terrell, Alice Paul, Lide Meriwether, Ida B. Wells, and other suffrage activists of the late 19th century and early 20th centuries;
   - **(2)** be selected by the Secretary, after consultation with the Smithsonian Institution’s American Women’s History Initiative, and the Commission of Fine Arts; and
