@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2502
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2502
@@ -21,9 +21,10 @@ Transparency in Federal Buildings Projects Act of 2019
 - Rep. Meadows, Mark [R-NC-11] (M001187)
 - Rep. Pence, Greg [R-IN-6] (P000615)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Transparency in Federal Buildings Projects Act of 2019
 - 2019-10-28 — Mr. DeFazio moved to suspend the rules and pass the bill.
 - 2019-10-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8488)
 - 2019-10-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8488)
+- 2019-10-29 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
