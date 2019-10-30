@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4334
 congress: 116
-version: Reported in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4334
@@ -64,3 +64,5 @@ Supporting Older Americans Act of 2020
 - 2019-10-28 — Placed on the Union Calendar, Calendar No. 206.
 - 2019-10-28 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 116-258.
 - 2019-10-28 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 116-258.
+- 2019-10-29 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2019-10-30 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 280.
