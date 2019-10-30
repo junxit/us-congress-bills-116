@@ -37,12 +37,12 @@ Congress finds that—
   - **(A)** Chaco Canyon, which was designated as a National Monument in 1907 and as the Chaco Culture National Historical Park in 1980;
   - **(B)** the Aztec Ruins, which was designated as a National Monument in 1923 and expanded in each of 1928, 1930, 1948, and 1988; and
   - **(C)** the 39 Chaco Culture Archeological Protection Sites designated in 1995;
-- **(9)** recognizes that the standard for Tribal consultation is outlined in Executive Order 13175 (25 U.S.C. 5301 note; relating to consultation and coordination with Indian Tribal governments);
+- **(9)** recognizes that the standard for Tribal consultation is outlined in Executive Order No. 13175 (25 U.S.C. 5301 note; relating to consultation and coordination with Indian Tribal governments);
 - **(10)** extensive natural gas development has occurred in the Greater Chaco region that affect the health, safety, economies, and quality of life of local communities;
 - **(11)** renewed interest in oil exploration and production within the Mancos/Gallup Shale play has increased the potential for—
   - **(A)** significant impacts on resources and visitor experiences at the Chaco Culture National Historical Park; and
   - **(B)** additional impacts on local communities in the Greater Chaco region, including Pueblos and Indian Tribes;
-- **(12)** a mineral withdrawal in the landscape around the Chaco Culture National Historical Park would prevent leasing and development in the immediate area surrounding the Chaco Culture National Historical Park, which would protect resources and visitor experiences at the Chaco Culture National Historical Park; and
+- **(12)** a mineral withdrawal in the landscape around the Chaco Culture National Historical Park would prevent leasing and development on Federal lands and of Federal minerals in the immediate area surrounding the Chaco Culture National Historical Park, which would protect resources and visitor experiences at the Chaco Culture National Historical Park; and
 - **(13)** additional studies and protective measures should be undertaken to address health, safety, and environmental impacts on communities and interests of Pueblos and Indian Tribes in the Greater Chaco landscape.
 
 ## § 3. Definitions
@@ -86,3 +86,7 @@ Nothing in this Act—
 
 - **(1)** affects the mineral rights of an Indian Tribe or member of an Indian Tribe to trust land or allotment land; or
 - **(2)** precludes improvements to, or rights-of-way for water, power, or road development on, the Federal land to assist communities adjacent to or in the vicinity of the Federal land.
+
+## § 7. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
