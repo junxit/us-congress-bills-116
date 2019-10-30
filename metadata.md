@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 660
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 660
@@ -36,3 +36,6 @@ Directing certain committees to continue their ongoing investigations as part of
 - 2019-10-29 — Introduced in House
 - 2019-10-29 — Introduced in House
 - 2019-10-29 — Referred to the House Committee on Rules.
+- 2019-10-30 — Placed on the House Calendar, Calendar No. 52.
+- 2019-10-30 — Reported by the Committee on Rules. H. Rept. 116-266.
+- 2019-10-30 — Reported by the Committee on Rules. H. Rept. 116-266.
