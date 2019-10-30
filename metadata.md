@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1373
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1373
@@ -145,6 +145,14 @@ Grand Canyon Centennial Protection Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (5)
+
+- 2019-10-30 — [House 116-1-598](votes/house-116-1-0598.md) — On Agreeing to the Amendment — **Failed** (185–240)
+- 2019-10-30 — [House 116-1-599](votes/house-116-1-0599.md) — On Agreeing to the Amendment — **Failed** (178–243)
+- 2019-10-30 — [House 116-1-600](votes/house-116-1-0600.md) — On Agreeing to the Amendment — **Failed** (186–237)
+- 2019-10-30 — [House 116-1-601](votes/house-116-1-0601.md) — On Motion to Recommit with Instructions — **Failed** (196–226)
+- 2019-10-30 — [House 116-1-602](votes/house-116-1-0602.md) — On Passage — **Passed** (236–185)
+
 ## Actions
 
 - 2019-02-26 — Introduced in House
@@ -158,3 +166,56 @@ Grand Canyon Centennial Protection Act
 - 2019-10-04 — Placed on the Union Calendar, Calendar No. 175.
 - 2019-10-04 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-222.
 - 2019-10-04 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-222.
+- 2019-10-28 — Rules Committee Resolution H. Res. 656 Reported to House. Rule provides for consideration of H.R. 823, H.R. 1373 and H.R. 2181. The resolution provides for one hour of general debate for H.R. 823, H.R. 1373 and H.R. 2181. The resolution provides for proceedings during the period from November 1, 2019 through November 11, 2019.
+- 2019-10-30 — Amendment (A001) offered by Mr. Gosar. (consideration: CR H8618-8620, H8640-8641; text: CR H8618)
+- 2019-10-30 — Amendment (A002) offered by Mr. Gosar. (consideration: CR H8620-8621, H8641-8642; text: CR H8620)
+- 2019-10-30 — Amendment (A003) offered by Mr. Gosar. (consideration: CR H8621-8622, H8642; text: CR H8621)
+- 2019-10-30 — Amendment failed in Committee of the Whole
+- 2019-10-30 — Amendment failed in Committee of the Whole
+- 2019-10-30 — Amendment failed in Committee of the Whole
+- 2019-10-30 — Committee of the Whole House on the state of the Union rises leaving H.R. 1373 as unfinished business.
+- 2019-10-30 — Committee of the Whole House on the state of the Union rises leaving H.R. 1373 as unfinished business.
+- 2019-10-30 — Considered as unfinished business. (consideration: CR H8618-8622)
+- 2019-10-30 — Considered as unfinished business. (consideration: CR H8640-8645)
+- 2019-10-30 — Considered under the provisions of rule H. Res. 656. (consideration: CR H8609-8618)
+- 2019-10-30 — DEBATE - Pursuant to the provisions of H. Res. 656, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar Amendment No. 2.
+- 2019-10-30 — DEBATE - Pursuant to the provisions of H. Res. 656, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar Amendment No. 3.
+- 2019-10-30 — DEBATE - Pursuant to the provisions of H.Res. 656, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar Amendment No. 1.
+- 2019-10-30 — DEBATE - The House proceeded with 10 minutes of debate on the Wittman motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to delay enactment until the Secretary of the Interior, in consultation with appropriate entities, issues a report concluding that the withdrawal under section 2 will not result in increased mineral imports from Russia, Kazakhstan, Uzbekistan and Namibia.
+- 2019-10-30 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1373.
+- 2019-10-30 — House amendment not agreed to: On agreeing to the Gosar amendment (A001) Failed by recorded vote: 185 - 240 (Roll no. 598).
+- 2019-10-30 — House amendment not agreed to: On agreeing to the Gosar amendment (A002) Failed by recorded vote: 178 - 243 (Roll no. 599).
+- 2019-10-30 — House amendment not agreed to: On agreeing to the Gosar amendment (A003) Failed by recorded vote: 186 - 237 (Roll no. 600).
+- 2019-10-30 — House amendment offered
+- 2019-10-30 — House amendment offered
+- 2019-10-30 — House amendment offered
+- 2019-10-30 — House amendment offered/reported by: Amendment (A001) offered by Mr. Gosar.
+- 2019-10-30 — House amendment offered/reported by: Amendment (A002) offered by Mr. Gosar.
+- 2019-10-30 — House amendment offered/reported by: Amendment (A003) offered by Mr. Gosar.
+- 2019-10-30 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 656 and Rule XVIII.
+- 2019-10-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-10-30 — Mr. Grijalva moved that the Committee rise.
+- 2019-10-30 — Mr. Grijalva moved that the committe rise.
+- 2019-10-30 — Mr. Wittman moved to recommit with instructions to the Committee on Natural Resources. (text: CR H8642-8643)
+- 2019-10-30 — On agreeing to the Gosar amendment (A001) Failed by recorded vote: 185 - 240 (Roll no. 598).
+- 2019-10-30 — On agreeing to the Gosar amendment (A002) Failed by recorded vote: 178 - 243 (Roll no. 599).
+- 2019-10-30 — On agreeing to the Gosar amendment (A003) Failed by recorded vote: 186 - 237 (Roll no. 600).
+- 2019-10-30 — On motion that the Committee rise Agreed to by voice vote.
+- 2019-10-30 — On motion that the committe rise Agreed to by voice vote.
+- 2019-10-30 — On motion to recommit with instructions Failed by recorded vote: 196 - 226 (Roll no. 601).
+- 2019-10-30 — On passage Passed by recorded vote: 236 - 185 (Roll no. 602). (text: CR H8618)
+- 2019-10-30 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. Gosar demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2019-10-30 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. Gosar demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2019-10-30 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. Gosar demanded a recorded vote, and the Chair postponed further proceedings on adoption of the amendment until a time to be announced.
+- 2019-10-30 — Passed/agreed to in House: On passage Passed by recorded vote: 236 - 185 (Roll no. 602).(text: CR H8618)
+- 2019-10-30 — Roll call votes on amendments in House
+- 2019-10-30 — Roll call votes on amendments in House
+- 2019-10-30 — Roll call votes on amendments in House
+- 2019-10-30 — Rule provides for consideration of H.R. 823, H.R. 1373 and H.R. 2181. The resolution provides for one hour of general debate for H.R. 823, H.R. 1373 and H.R. 2181. The resolution provides for proceedings during the period from November 1, 2019 through November 11, 2019.
+- 2019-10-30 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2019-10-30 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2019-10-30 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1373.
+- 2019-10-30 — The Speaker designated the Honorable Linda T. Sanchez to act as Chairwoman of the Committee.
+- 2019-10-30 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2019-10-30 — The previous question was ordered pursuant to the rule.
+- 2019-10-30 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on agreeing to amendments to H.R. 1373 which had been debated earlier and on which further proceedings had been postponed.
