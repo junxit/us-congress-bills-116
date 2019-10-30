@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4695
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4695
@@ -150,3 +150,4 @@ PACT Act
 - 2019-10-29 — Mr. Engel moved to suspend the rules and pass the bill, as amended.
 - 2019-10-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 16 (Roll no. 592). (text: CR H8568-8571)
 - 2019-10-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 16 (Roll no. 592).(text: CR H8568-8571)
+- 2019-10-30 — Received in the Senate.
