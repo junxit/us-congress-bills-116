@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1623
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1623
@@ -16,9 +16,10 @@ Help America Run Act
 
 - Rep. Porter, Katie [D-CA-45] (P000618)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -32,3 +33,4 @@ Help America Run Act
 - 2019-10-29 — Ms. Lofgren moved to suspend the rules and pass the bill, as amended.
 - 2019-10-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8576-8577)
 - 2019-10-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8576-8577)
+- 2019-10-30 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
