@@ -1,0 +1,24 @@
+---
+legis-num: H. RES. 666
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 666
+
+> Expressing the sense of the House of Representatives on the ratification of the United Nations Covenant on Economic, Social and Cultural Rights.
+
+## Preamble
+
+- Whereas the United States is, by many accounts, one of the world’s wealthiest countries;
+- Whereas the United States is also a land of stark inequality;
+- Whereas in 2017, the United Nations Special Rapporteur on extreme poverty and human rights found that among nations in the Organisation for Economic Co-operation and Development, the United States “ranked 35th out of 37 in terms of poverty and inequality”;
+- Whereas the United Nations Special Rapporteur on extreme poverty and human rights also found that 40 million people in the United States live in poverty, the United States ranks 36th in the world “in terms of access to water and sanitation,” and Americans can expect to “live shorter and sicker lives compared to people living in any other rich democracy”;
+- Whereas poverty and inequality are not inevitabilities;
+- Whereas poverty and inequality are choices made by people in power;
+- Whereas every American has the right to just working conditions, quality healthcare, an excellent education, healthy food, and safe housing;
+- Whereas the United States Government can and should be held accountable by Americans and the international community for ensuring these rights for all Americans; and
+- Whereas to guarantee this accountability, the United States must ratify the International Covenant on Economic, Social and Cultural Rights: Now, therefore, be it
+
+That it is the sense of the House of Representatives that the Senate should give its advice and consent to the ratification of the United Nations Covenant on Economic, Social and Cultural Rights.
