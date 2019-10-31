@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2181
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2181
@@ -29,9 +29,10 @@ Chaco Cultural Heritage Area Protection Act of 2019
 - Rep. Cole, Tom [R-OK-4] (C001053)
 - Rep. Lieu, Ted [D-CA-33] (L000582)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (5)
 
@@ -106,3 +107,4 @@ Chaco Cultural Heritage Area Protection Act of 2019
 - 2019-10-30 — The Speaker designated the Honorable Henry Cuellar to act as Chairman of the Committee.
 - 2019-10-30 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-10-30 — The previous question was ordered pursuant to the rule.
+- 2019-10-31 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
