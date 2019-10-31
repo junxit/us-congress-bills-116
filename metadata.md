@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 345
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 345
@@ -36,3 +36,7 @@ A resolution supporting the goals and ideals of National Cybersecurity Awareness
 
 - 2019-09-26 — Introduced in Senate
 - 2019-09-26 — Referred to the Committee on Commerce, Science, and Transportation.
+- 2019-10-31 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 9/26/2019 CR S5753)
+- 2019-10-31 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 9/26/2019 CR S5753)
+- 2019-10-31 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S6358)
+- 2019-10-31 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S6358)
