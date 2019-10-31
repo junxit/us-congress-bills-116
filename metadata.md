@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3055
 congress: 116
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3055
@@ -16,11 +16,374 @@ Further Continuing Appropriations Act, 2020, and Further Health Extenders Act of
 
 - Rep. Serrano, Jose E. [D-NY-15] (S000248)
 
+## Cosponsors (360)
+
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. McSally, Martha [R-AZ] (M001197)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. McSally, Martha [R-AZ] (M001197)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. McSally, Martha [R-AZ] (M001197)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+
 ## Committees (1)
 
 - House — Appropriations Committee
 
-## Recorded votes (39)
+## Recorded votes (47)
 
 - 2019-06-20 — [House 116-1-368](votes/house-116-1-0368.md) — On Agreeing to the Amendment — **Failed** (186–245)
 - 2019-06-20 — [House 116-1-369](votes/house-116-1-0369.md) — On Agreeing to the Amendment — **Failed** (192–240)
@@ -61,6 +424,14 @@ Further Continuing Appropriations Act, 2020, and Further Health Extenders Act of
 - 2019-06-25 — [House 116-1-406](votes/house-116-1-0406.md) — On Agreeing to the Amendment — **Agreed to** (294–127)
 - 2019-06-25 — [House 116-1-407](votes/house-116-1-0407.md) — On Motion to Recommit with Instructions — **Failed** (201–220)
 - 2019-06-25 — [House 116-1-408](votes/house-116-1-0408.md) — On Passage — **Passed** (227–194)
+- 2019-10-22 — [Senate 116-1-330](votes/senate-116-1-0330.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (92–2)
+- 2019-10-28 — [Senate 116-1-334](votes/senate-116-1-0334.md) — On the Amendment — **Amendment Agreed to** (90–1)
+- 2019-10-28 — [Senate 116-1-335](votes/senate-116-1-0335.md) — On the Amendment — **Amendment Rejected** (24–67)
+- 2019-10-28 — [Senate 116-1-336](votes/senate-116-1-0336.md) — On the Amendment — **Amendment Agreed to** (91–1)
+- 2019-10-30 — [Senate 116-1-338](votes/senate-116-1-0338.md) — On the Cloture Motion — **Cloture Motion Agreed to** (88–5)
+- 2019-10-31 — [Senate 116-1-339](votes/senate-116-1-0339.md) — On the Amendment — **Amendment Rejected** (29–64)
+- 2019-10-31 — [Senate 116-1-340](votes/senate-116-1-0340.md) — On the Amendment — **Amendment Agreed to** (82–11)
+- 2019-10-31 — [Senate 116-1-341](votes/senate-116-1-0341.md) — On Passage of the Bill — **Bill Passed** (84–9)
 
 ## Actions
 
@@ -860,3 +1231,538 @@ Further Continuing Appropriations Act, 2020, and Further Health Extenders Act of
 - 2019-07-08 — Received in the Senate.
 - 2019-07-09 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2019-07-10 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 141.
+- 2019-10-17 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S5881)
+- 2019-10-17 — Motion to proceed to consideration of measure made in Senate. (CR S5880)
+- 2019-10-17 — Motion to proceed to consideration of measure withdrawn in Senate.
+- 2019-10-22 — Amendment SA 948 proposed by Senator Shelby. (consideration: CR S5951; text: CR S5978-6042) In the nature of a substitute.
+- 2019-10-22 — Amendment SA 950 proposed by Senator McConnell for Senator Shelby to Amendment SA 948. (consideration: CR S5951; text: CR S5951) To make a technical correction.
+- 2019-10-22 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 92 - 2. Record Vote Number: 330. (CR S5946)
+- 2019-10-22 — Measure laid before Senate by motion. (consideration: CR S5951)
+- 2019-10-22 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote.
+- 2019-10-22 — Motion to proceed to measure considered in Senate. (CR S5947)
+- 2019-10-22 — Senate amendment proposed (on the floor): Amendment SA 948 proposed by Senator Shelby.(consideration: CR S5951; text: CR S5978-6042)
+- 2019-10-22 — Senate amendment proposed (on the floor): Amendment SA 950 proposed by Senator McConnell for Senator Shelby to Amendment SA 948.(consideration: CR S5951; text: CR S5951)
+- 2019-10-22 — Senate amendment submitted
+- 2019-10-22 — Senate amendment submitted
+- 2019-10-22 — Senate amendment submitted
+- 2019-10-22 — Senate amendment submitted
+- 2019-10-22 — Senate amendment submitted
+- 2019-10-22 — Senate amendment submitted
+- 2019-10-22 — Senate amendment submitted
+- 2019-10-22 — Senate amendment submitted
+- 2019-10-22 — Senate amendment submitted
+- 2019-10-22 — Senate amendment submitted
+- 2019-10-22 — Senate amendment submitted
+- 2019-10-22 — Senate amendment submitted
+- 2019-10-22 — Senate amendment submitted
+- 2019-10-22 — Senate amendment submitted
+- 2019-10-22 — Senate amendment submitted
+- 2019-10-22 — Senate amendment submitted
+- 2019-10-22 — Senate amendment submitted
+- 2019-10-22 — Senate amendment submitted
+- 2019-10-22 — Senate amendment submitted
+- 2019-10-23 — Considered by Senate. (consideration: CR S6080)
+- 2019-10-23 — Considered by Senate. (consideration: CR S6080)
+- 2019-10-23 — Considered by Senate. (consideration: CR S6080)
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-23 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-24 — Senate amendment submitted
+- 2019-10-28 — Amendment SA 1019 not agreed to in Senate by Yea-Nay Vote. 24 - 67. Record Vote Number: 335.
+- 2019-10-28 — Amendment SA 1019 proposed by Senator Paul to Amendment SA 948. (consideration: CR S6185, S6186-6187; text: CR S6185) To reduce the amounts appropriated to be 2 percent less than the amount appropriated for fiscal year 2019.
+- 2019-10-28 — Amendment SA 1067 agreed to in Senate by Yea-Nay Vote. 91 - 1. Record Vote Number: 336.
+- 2019-10-28 — Amendment SA 1067 proposed by Senator Jones to Amendment SA 948. (consideration: CR S6186, S6187; text: CR S6186) To provide funding for the relending program to resolve ownership and succession on farmland.
+- 2019-10-28 — Amendment SA 961 agreed to in Senate by Yea-Nay Vote. 90 - 1. Record Vote Number: 334.
+- 2019-10-28 — Amendment SA 961 proposed by Senator Cortez Masto to Amendment SA 948. (consideration: CR S6183-6184, S6186; text: CR S6183) To require a report relating to the challenges that food distribution programs face in reaching underserved populations.
+- 2019-10-28 — Cloture motion on SA 948 presented in Senate. (CR S6187)
+- 2019-10-28 — Cloture motion on the measure presented in Senate. (CR S6187)
+- 2019-10-28 — Considered by Senate. (consideration: CR S6179)
+- 2019-10-28 — Considered by Senate. (consideration: CR S6179, S6183-6187)
+- 2019-10-28 — Considered by Senate. (consideration: CR S6179, S6187)
+- 2019-10-28 — Roll call votes on amendments in Senate: Amendment SA 1019 not agreed to in Senate by Yea-Nay Vote. 24 - 67. Record Vote Number: 335.
+- 2019-10-28 — Roll call votes on amendments in Senate: Amendment SA 1067 agreed to in Senate by Yea-Nay Vote. 91 - 1. Record Vote Number: 336.
+- 2019-10-28 — Roll call votes on amendments in Senate: Amendment SA 961 agreed to in Senate by Yea-Nay Vote. 90 - 1. Record Vote Number: 334.
+- 2019-10-28 — Senate amendment agreed to: Amendment SA 1067 agreed to in Senate by Yea-Nay Vote. 91 - 1. Record Vote Number: 336.
+- 2019-10-28 — Senate amendment agreed to: Amendment SA 961 agreed to in Senate by Yea-Nay Vote. 90 - 1. Record Vote Number: 334.
+- 2019-10-28 — Senate amendment not agreed to: Amendment SA 1019 not agreed to in Senate by Yea-Nay Vote. 24 - 67. Record Vote Number: 335.
+- 2019-10-28 — Senate amendment proposed (on the floor): Amendment SA 1019 proposed by Senator Paul to Amendment SA 948.
+- 2019-10-28 — Senate amendment proposed (on the floor): Amendment SA 1067 proposed by Senator Jones to Amendment SA 948.
+- 2019-10-28 — Senate amendment proposed (on the floor): Amendment SA 961 proposed by Senator Cortez Masto to Amendment SA 948.
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-28 — Senate amendment submitted
+- 2019-10-29 — Considered by Senate. (consideration: CR S6206)
+- 2019-10-29 — Considered by Senate. (consideration: CR S6206)
+- 2019-10-29 — Considered by Senate. (consideration: CR S6206-6220)
+- 2019-10-29 — Senate amendment submitted
+- 2019-10-29 — Senate amendment submitted
+- 2019-10-29 — Senate amendment submitted
+- 2019-10-29 — Senate amendment submitted
+- 2019-10-29 — Senate amendment submitted
+- 2019-10-29 — Senate amendment submitted
+- 2019-10-29 — Senate amendment submitted
+- 2019-10-29 — Senate amendment submitted
+- 2019-10-29 — Senate amendment submitted
+- 2019-10-29 — Senate amendment submitted
+- 2019-10-29 — Senate amendment submitted
+- 2019-10-29 — Senate amendment submitted
+- 2019-10-29 — Senate amendment submitted
+- 2019-10-29 — Senate amendment submitted
+- 2019-10-29 — Senate amendment submitted
+- 2019-10-29 — Senate amendment submitted
+- 2019-10-29 — Senate amendment submitted
+- 2019-10-29 — Senate amendment submitted
+- 2019-10-29 — Senate amendment submitted
+- 2019-10-29 — Senate amendment submitted
+- 2019-10-29 — Senate amendment submitted
+- 2019-10-29 — Senate amendment submitted
+- 2019-10-29 — Senate amendment submitted
+- 2019-10-29 — Senate amendment submitted
+- 2019-10-29 — Senate amendment submitted
+- 2019-10-29 — Senate amendment submitted
+- 2019-10-29 — Senate amendment submitted
+- 2019-10-30 — Cloture on SA 948 invoked in Senate by Yea-Nay Vote. 88 - 5. Record Vote Number: 338. (CR S6271)
+- 2019-10-30 — Considered by Senate. (consideration: CR S6271)
+- 2019-10-30 — Considered by Senate. (consideration: CR S6271)
+- 2019-10-30 — Considered by Senate. (consideration: CR S6271-6281, S6281-6294)
+- 2019-10-30 — Roll call votes on amendments in Senate: Cloture on SA 948 invoked in Senate by Yea-Nay Vote. 88 - 5. Record Vote Number: 338.(CR S6271)
+- 2019-10-30 — Senate amendment submitted
+- 2019-10-30 — Senate amendment submitted
+- 2019-10-30 — Senate amendment submitted
+- 2019-10-31 — Amendment SA 1002 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1002 proposed by Senator McConnell for Senator Collins to Amendment SA 948. (consideration: CR S6311; text: CR S6314) To make a technical correction.
+- 2019-10-31 — Amendment SA 1005 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1005 proposed by Senator McConnell for Senator Shaheen to Amendment SA 948. (consideration: CR S6311; text: CR S6314) To express the sense of Congress.
+- 2019-10-31 — Amendment SA 1010 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1010 proposed by Senator McConnell for Senator Kaine to Amendment SA 948. (consideration: CR S6311; text: CR S6314) To ensure funding for the FAA remote tower pilot program.
+- 2019-10-31 — Amendment SA 1023 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1023 proposed by Senator McConnell for Senator Smith to Amendment SA 948. (consideration: CR S6311; text: CR S6311) To amend provisions relating to the rental assistance program of the Rural Housing Service.
+- 2019-10-31 — Amendment SA 1025 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1025 proposed by Senator McConnell for Senator Sinema to Amendment SA 948. (consideration: CR S6311; text: CR S6313) To require a Bureau of Indian Affairs report analyzing the facilities investments required to improve direct service and tribally operated detention and public safety facilities in Indian country.
+- 2019-10-31 — Amendment SA 1037 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1037 proposed by Senator McConnell for Senator Hirono to Amendment SA 948. (consideration: CR S6311; text: CR S6311) To require a study on the economic and environmental impacts of importing orchids in growing media.
+- 2019-10-31 — Amendment SA 1061 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1061 proposed by Senator McConnell for Senator Cortez Masto to Amendment SA 948. (consideration: CR S6311; text: CR S6314) To require a report on engagement with local interests relating to intelligent transportation systems technologies and smart cities solutions.
+- 2019-10-31 — Amendment SA 1062 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1062 proposed by Senator McConnell for Senator Cortez Masto to Amendment SA 948. (consideration: CR S6311; text: CR S6314) To prohibit the use of funds to terminate the ITS program advisory committee.
+- 2019-10-31 — Amendment SA 1077 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1077 proposed by Senator McConnell for Senator Capito to Amendment SA 948. (consideration: CR S6311; text: CR S6312) To make $10,000,000 available for the SelectUSA program.
+- 2019-10-31 — Amendment SA 1079 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1079 proposed by Senator McConnell for Senator Ernst to Amendment SA 948. (consideration: CR S6311; text: CR S6313) To prohibit bogus bonus payments to contractors.
+- 2019-10-31 — Amendment SA 1081 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1081 proposed by Senator McConnell for Senator Ernst to Amendment SA 948. (consideration: CR S6311; text: CR S6313) To require the Director of the Office of Management and Budget to submit to Congress a report on projects that are over budget and behind schedule.
+- 2019-10-31 — Amendment SA 1088 as modified agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1088 proposed by Senator McConnell for Senator Brown to Amendment SA 948. (consideration: CR S6311; text as modified: CR S6311) To provide appropriations for centers of excellence at 1890 Institutions, with an offset.
+- 2019-10-31 — Amendment SA 1094 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1094 proposed by Senator McConnell for Senator Cantwell to Amendment SA 948. (consideration: CR S6311; text: CR S6312) To require the Administrator of the National Oceanic and Atmospheric Administration submit to Congress a report on existing supercomputing capacity and needs of the Administration.
+- 2019-10-31 — Amendment SA 1099 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1099 proposed by Senator McConnell for Senator Baldwin to Amendment SA 948. (consideration: CR S6311; text: CR S6311) To increase the appropriation of the Farm and Ranch Stress Assistance Network, with an offset.
+- 2019-10-31 — Amendment SA 1114 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1114 proposed by Senator McConnell for Senator Heinrich to Amendment SA 948. (consideration: CR S6311; text: CR S6314) To improve the bill.
+- 2019-10-31 — Amendment SA 1121 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1121 proposed by Senator McConnell for Senator Whitehouse to Amendment SA 948. (consideration: CR S6311; text: CR S6311) To set aside funding for the ocean agriculture working group.
+- 2019-10-31 — Amendment SA 1129 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1129 proposed by Senator McConnell for Senator Toomey to Amendment SA 948. (consideration: CR S6311; text: CR S6312) To require that the Secretary of Commerce use amounts appropriated or otherwise made available for the Bureau of Industry and Security for operations and administration to publish and submit to Congress a report on the findings of the investigation into the effect on national security of imports of automobiles and automotive parts.
+- 2019-10-31 — Amendment SA 1130 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1130 proposed by Senator McConnell for Senator Shaheen to Amendment SA 948. (consideration: CR S6311; text: CR S6314-6315) To provide a sense of Congress relating to preserving manufactured home communities.
+- 2019-10-31 — Amendment SA 1133 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1133 proposed by Senator McConnell for Senator Thune to Amendment SA 948. (consideration: CR S6311; text: CR S6311) To provide funding for the new beginning for Tribal students program, with an offset.
+- 2019-10-31 — Amendment SA 1141 as modified agreed to in Senate by Yea-Nay Vote. 82 - 11. Record Vote Number: 340.
+- 2019-10-31 — Amendment SA 1141 proposed by Senator Jones to Amendment SA 948. (consideration: CR S6321-6322; text as modified: CR S6321) To prohibit the implementation of the "Rostenkowski Test" with respect to the Mass Transit Account of the Highway Trust Fund.
+- 2019-10-31 — Amendment SA 1143 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1143 proposed by Senator McConnell for Senator Jones to Amendment SA 948. (consideration: CR S6311; text: CR S6311) To increase the appropriation for rural decentralized water systems.
+- 2019-10-31 — Amendment SA 1146 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1146 proposed by Senator McConnell for Senator Durbin to Amendment SA 948. (consideration: CR S6311; text: CR S6312) To require the Drug Enforcement Administration to continue to establish and utilize data collection and sharing agreements in order to properly estimate rates of overdose deaths and overall public health impact related to certain controlled substances, for the purpose of determining diversion and establishing annual opioid production quotas.
+- 2019-10-31 — Amendment SA 1149 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1149 proposed by Senator McConnell for Senator Smith to Amendment SA 948. (consideration: CR S6311; text: CR S6312) To require the Secretary of Agriculture to prioritize maintenance and staff needs relating to assistance provided by the Rural Housing Service.
+- 2019-10-31 — Amendment SA 1150 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1150 proposed by Senator McConnell for Senator Gardner to Amendment SA 948. (consideration: CR S6311; text: CR S6312-6313) To increase funding for the COPS Office Anti-Methamphetamine Task Forces grant program.
+- 2019-10-31 — Amendment SA 1151 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1151 proposed by Senator McConnell for Senator Cornyn to Amendment SA 948. (consideration: CR S6311; text: CR S6313) To increase funding for the construction of high priority water and wastewater facilities on the United States-Mexico Border, with an offset.
+- 2019-10-31 — Amendment SA 1159 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1159 proposed by Senator McConnell for Senator Cardin to Amendment SA 948. (consideration: CR S6311; text: CR S6313) To provide for a report on certain programs of the United States Holocaust Memorial Museum.
+- 2019-10-31 — Amendment SA 1160 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1160 proposed by Senator McConnell for Senator Rosen to Amendment SA 948. (consideration: CR S6311; text: CR S6313) To set aside funds for certain Lake Tahoe restoration activities.
+- 2019-10-31 — Amendment SA 1161 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1161 proposed by Senator McConnell for Senator Rosen to Amendment SA 948. (consideration: CR S6311; text: CR S6312) To increase the appropriation for the distance learning and telemedicine program, with an offset.
+- 2019-10-31 — Amendment SA 1162 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1162 proposed by Senator McConnell for Senator Thune to Amendment SA 948. (consideration: CR S6311; text: CR S6313) To require a study of law enforcement staffing needs of Indian Tribes.
+- 2019-10-31 — Amendment SA 1163 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1163 proposed by Senator McConnell for Senator McSally to Amendment SA 948. (consideration: CR S6311; text: CR S6312) To provide funding for the emergency and transitional pet shelter and housing assistance grant program, with an offset.
+- 2019-10-31 — Amendment SA 1182 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1182 proposed by Senator McConnell for Senator Peters to Amendment SA 948. (consideration: CR S6311; text: CR S6313) To increase money appropriated for Geographic Programs, with an offset.
+- 2019-10-31 — Amendment SA 1193 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1193 proposed by Senator McConnell for Senator Cornyn to Amendment SA 948. (consideration: CR S6311; text: CR S6313-6314) To make available funds for the Smithsonian Latino Center.
+- 2019-10-31 — Amendment SA 1199 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1199 proposed by Senator McConnell for Senator Menendez to Amendment SA 948. (consideration: CR S6311; text: CR S6314) To set aside funds for the Partnership Wild and Scenic Rivers program.
+- 2019-10-31 — Amendment SA 1209 not agreed to in Senate by Yea-Nay Vote. 29 - 64. Record Vote Number: 339.
+- 2019-10-31 — Amendment SA 1209 proposed by Senator Lee to Amendment SA 948. (consideration: CR S6321) To prohibit the expenditure of certain amounts from the Land and Water Conservation Fund for land acquisition.
+- 2019-10-31 — Amendment SA 1211 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1211 proposed by Senator McConnell for Senator Blunt to Amendment SA 948. (consideration: CR S6311; text: CR S6314) To set aside funds for the 400 Years of African-American History Commission.
+- 2019-10-31 — Amendment SA 1214 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1214 proposed by Senator McConnell for Senator Hoeven to Amendment SA 948. (consideration: CR S6311; text: CR S6315) To provide for a veterans pilot training competitive grant program.
+- 2019-10-31 — Amendment SA 1215 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1215 proposed by Senator McConnell for Senator McSally to Amendment SA 948. (consideration: CR S6311; text: CR S6314) To require a report on the status of the Four Forest Restoration Initiative.
+- 2019-10-31 — Amendment SA 1217 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1217 proposed by Senator McConnell for Senator Reed to Amendment SA 948. (consideration: CR S6311; text: CR S6312) To provide funding for States impacted by Eastern equine encephalitis, with an offset.
+- 2019-10-31 — Amendment SA 1220 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1220 proposed by Senator McConnell for Senator Collins to Amendment SA 948. (consideration: CR S6311; text: CR S6314) To make available funds for the Women's History Initiative.
+- 2019-10-31 — Amendment SA 1223 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1223 proposed by Senator McConnell for Senator Stabenow to Amendment SA 948. (consideration: CR S6311; text: CR S6312) To provide funding for the Office of Urban Agriculture and Innovative Production, with an offset.
+- 2019-10-31 — Amendment SA 1224 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1224 proposed by Senator McConnell for Senator Cornyn to Amendment SA 948. (consideration: CR S6311; text: CR S6312) To provide funding for pilot projects to address food insecurity, with an offset.
+- 2019-10-31 — Amendment SA 1227 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1227 proposed by Senator McConnell for Senator Schumer to Amendment SA 948. (consideration: CR S6311; text: CR S6314) To provide for a Government Accountability Office study on outdoor recreation.
+- 2019-10-31 — Amendment SA 1234 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1234 proposed by Senator McConnell for Senator McSally to Amendment SA 948. (consideration: CR S6311; text: CR S6313) To require the Attorney General to submit a report on the enforcement of animal welfare laws.
+- 2019-10-31 — Amendment SA 1235 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 1235 proposed by Senator McConnell for Senator Portman to Amendment SA 948. (consideration: CR S6311; text: CR S6315) To provide additional funding for the family unification program of the Department of Housing and Urban Development.
+- 2019-10-31 — Amendment SA 948, as amended, agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 951 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 951 proposed by Senator McConnell for Senator Warner to Amendment SA 948. (consideration: CR S6311; text: CR S6312) To require the Attorney General to report to Congress on, and establish a deadline for, the implementation of the Ashanti Alert Act of 2018.
+- 2019-10-31 — Amendment SA 953 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 953 proposed by Senator McConnell for Senator Tester to Amendment SA 948. (consideration: CR S6311; text: CR S6311) To provide for the availability of funds for Agricultural Research Service research facilities to provide public access.
+- 2019-10-31 — Amendment SA 956 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Amendment SA 956 proposed by Senator McConnell for Senator Hassan to Amendment SA 948. (consideration: CR S6311; text: CR S6314) To require the Secretary of Housing and Urban Development to provide Congress with recommendations and associated costs for future research on rental payment insurance.
+- 2019-10-31 — Cloture motion on the measure withdrawn by unanimous consent in Senate. (CR S6322)
+- 2019-10-31 — Considered by Senate. (consideration: CR S6311, S6322)
+- 2019-10-31 — Considered by Senate. (consideration: CR S6311, S6322)
+- 2019-10-31 — Considered by Senate. (consideration: CR S6311-6322)
+- 2019-10-31 — Passed Senate, under the order of 10/30/19, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 84 - 9. Record Vote Number: 341.
+- 2019-10-31 — Passed/agreed to in Senate: Passed Senate, under the order of 10/30/19, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 84 - 9. Record Vote Number: 341.
+- 2019-10-31 — Proposed amendment SA 950 withdrawn in Senate. (consideration: CR S6322)
+- 2019-10-31 — Roll call votes on amendments in Senate: Amendment SA 1141 as modified agreed to in Senate by Yea-Nay Vote. 82 - 11. Record Vote Number: 340.
+- 2019-10-31 — Roll call votes on amendments in Senate: Amendment SA 1209 not agreed to in Senate by Yea-Nay Vote. 29 - 64. Record Vote Number: 339.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1002 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1005 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1010 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1023 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1025 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1037 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1061 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1062 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1077 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1079 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1081 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1088 as modified agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1094 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1099 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1114 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1121 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1129 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1130 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1133 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1141 as modified agreed to in Senate by Yea-Nay Vote. 82 - 11. Record Vote Number: 340.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1143 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1146 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1149 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1150 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1151 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1159 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1160 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1161 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1162 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1163 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1182 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1193 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1199 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1211 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1214 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1215 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1217 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1220 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1223 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1224 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1227 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1234 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 1235 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 948, as amended, agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 951 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 953 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment agreed to: Amendment SA 956 agreed to in Senate by Unanimous Consent.
+- 2019-10-31 — Senate amendment not agreed to: Amendment SA 1209 not agreed to in Senate by Yea-Nay Vote. 29 - 64. Record Vote Number: 339.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1002 proposed by Senator McConnell for Senator Collins to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1005 proposed by Senator McConnell for Senator Shaheen to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1010 proposed by Senator McConnell for Senator Kaine to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1023 proposed by Senator McConnell for Senator Smith to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1025 proposed by Senator McConnell for Senator Sinema to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1037 proposed by Senator McConnell for Senator Hirono to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1061 proposed by Senator McConnell for Senator Cortez Masto to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1062 proposed by Senator McConnell for Senator Cortez Masto to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1077 proposed by Senator McConnell for Senator Capito to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1079 proposed by Senator McConnell for Senator Ernst to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1081 proposed by Senator McConnell for Senator Ernst to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1088 proposed by Senator McConnell for Senator Brown to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1094 proposed by Senator McConnell for Senator Cantwell to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1099 proposed by Senator McConnell for Senator Baldwin to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1114 proposed by Senator McConnell for Senator Heinrich to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1121 proposed by Senator McConnell for Senator Whitehouse to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1129 proposed by Senator McConnell for Senator Toomey to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1130 proposed by Senator McConnell for Senator Shaheen to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1133 proposed by Senator McConnell for Senator Thune to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1141 proposed by Senator Jones to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1143 proposed by Senator McConnell for Senator Jones to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1146 proposed by Senator McConnell for Senator Durbin to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1149 proposed by Senator McConnell for Senator Smith to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1150 proposed by Senator McConnell for Senator Gardner to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1151 proposed by Senator McConnell for Senator Cornyn to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1159 proposed by Senator McConnell for Senator Cardin to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1160 proposed by Senator McConnell for Senator Rosen to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1161 proposed by Senator McConnell for Senator Rosen to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1162 proposed by Senator McConnell for Senator Thune to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1163 proposed by Senator McConnell for Senator McSally to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1182 proposed by Senator McConnell for Senator Peters to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1193 proposed by Senator McConnell for Senator Cornyn to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1199 proposed by Senator McConnell for Senator Menendez to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1209 proposed by Senator Lee to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1211 proposed by Senator McConnell for Senator Blunt to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1214 proposed by Senator McConnell for Senator Hoeven to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1215 proposed by Senator McConnell for Senator McSally to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1217 proposed by Senator McConnell for Senator Reed to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1220 proposed by Senator McConnell for Senator Collins to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1223 proposed by Senator McConnell for Senator Stabenow to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1224 proposed by Senator McConnell for Senator Cornyn to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1227 proposed by Senator McConnell for Senator Schumer to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1234 proposed by Senator McConnell for Senator McSally to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 1235 proposed by Senator McConnell for Senator Portman to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 951 proposed by Senator McConnell for Senator Warner to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 953 proposed by Senator McConnell for Senator Tester to Amendment SA 948.
+- 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 956 proposed by Senator McConnell for Senator Hassan to Amendment SA 948.
