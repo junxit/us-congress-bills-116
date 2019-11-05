@@ -1,7 +1,7 @@
 ---
 measure: S. 2629
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2629
@@ -28,3 +28,7 @@ United States Public Health Service Modernization Act of 2019
 
 - 2019-10-17 — Introduced in Senate
 - 2019-10-17 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2019-10-31 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2019-11-05 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
+- 2019-11-05 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
+- 2019-11-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 289.
