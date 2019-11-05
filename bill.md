@@ -61,12 +61,13 @@ Not later than 3 years after the date of enactment of this Act, the Comptroller 
   - **(2)** require proposals submitted in partnership with one or more HBCU, TCU, or MSI include a plan for establishing a sustained partnership that is jointly developed and managed, draws from the capacities of each institution, and is mutually beneficial; and
   - **(3)** encourage proposals submitted in partnership with the private sector, non-profit organizations, Federal laboratories, and international research institutions, as appropriate.
 - **(f)** *MSI Centers of Innovation* Grants under this section may fund the establishment of no more than five MSI Centers of Innovation to leverage successes of HBCUs, TCUs, and MSIs in STEM education and research training of underrepresented minority students as models for other institutions, including both HBCUs, TCUs, and MSIs and institutions of higher education that are not HBCUs, TCUs, or MSIs. Such centers will be located on campuses of selected institutions of higher education and serve as incubators to allow institutions of higher education to experiment, pilot, evaluate, and scale up promising practices.
+- **(g)** *Authorization of appropriations* There are authorized to be appropriated to the Director of the National Science Foundation $170,000,000 for fiscal year 2020, $175,000,000 for fiscal year 2021, $180,000,000 for fiscal year FY 2022, $185,000,000 for fiscal year 2023, and $190,000,000 fiscal year 2024 to carry out this section.
 
 ## § 5. Agency responsibilities
 
 - **(a)** *In general* In consultation with outside stakeholders and the heads of the Federal science agencies, the Director shall develop a uniform set of policy guidelines for Federal science agencies to carry out a sustained program of outreach activities to increase clarity, transparency, and accountability for Federal science agency investments in STEM education and research activities at HBCUs, TCUs, and MSIs.
 - **(b)** *Outreach activities* In developing policy guidelines under subsection (a) the Director shall include guidelines that require each Federal science agency—
-  - **(1)** to designate a liason for HBCUs, TCUs, and MSIs responsible for—
+  - **(1)** to designate a liaison for HBCUs, TCUs, and MSIs responsible for—
     - **(A)** enhancing direct communication with HBCUs, TCUs, and MSIs to increase the Federal science agency’s understanding of the capacity and needs of such institutions and to raise awareness of available Federal funding opportunities at such institutions;
     - **(B)** coordinating programs, activities, and initiatives while accounting for the capacity and needs of HBCUs, TCUs, and MSIs;
     - **(C)** tracking Federal science agency investments in and engagement with HBCUs, TCUs, and MSIs; and
