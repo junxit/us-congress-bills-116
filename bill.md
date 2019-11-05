@@ -22,15 +22,15 @@ The Congress makes the following findings:
 - **(3)** Long-term research and development is necessary to create breakthroughs in engineering biology. Such research and development requires government investment as many of the benefits are too distant or uncertain for industry to support alone.
 - **(4)** Research is necessary to inform evidence-based governance of engineering biology and to support the growth of the engineering biology industry.
 - **(5)** The Federal Government can play an important role by facilitating the development of tools and technologies to further advance engineering biology, including user facilities, by facilitating public-private partnerships, by supporting risk research, and by facilitating the commercial application in the United States of research funded by the Federal Government.
-- **(6)** The United States led the development of the science and engineering techniques that created the field of engineering biology, but due to increasing international competition, the United States is at risk of losing its competitive advantage if it does not invest the necessary resources and have a national strategy.
-- **(7)** A National Engineering Biology Initiative can serve to establish new research directions and technology goals, improve interagency coordination and planning processes, drive technology transfer to the private sector, and help ensure optimal returns on the Federal investment.
+- **(5)** The United States led the development of the science and engineering techniques that created the field of engineering biology, but due to increasing international competition, the United States is at risk of losing its competitive advantage if does not invest the necessary resources and have a national strategy.
+- **(6)** A National Engineering Biology Initiative can serve to establish new research directions and technology goals, improve interagency coordination and planning processes, drive technology transfer to the private sector, and help ensure optimal returns on the Federal investment.
 
 ## § 3. Definitions
 
 In this Act:
 
 - **(1)** *Biomanufacturing* The term “biomanufacturing” means the utilization of biological systems to develop new and advance existing products, tools, and processes at commercial scale.
-- **(2)** *Engineering biology* The term “engineering biology” means the application of engineering design principles and practices to biological systems, including molecular and cellular systems, to advance fundamental understanding of complex natural systems and to enable novel functions and capabilities.
+- **(2)** *Engineering biology* The term “engineering biology” means the application of engineering design principles and practices to biological systems, including molecular and cellular systems, to advance fundamental understanding of complex natural systems and to enable novel or optimize functions and capabilities.
 - **(3)** *Initiative* The term “Initiative” means the National Engineering Biology Research and Development Initiative established under section 4.
 - **(4)** *Omics* The term “omics” refers to the collective technologies used to explore the roles, relationships, and actions of the various types of molecules that make up the cells of an organism.
 
@@ -52,7 +52,7 @@ In this Act:
     - **(C)** interdisciplinary research centers that are organized to investigate basic research questions, carry out technology development and demonstration activities, and increase understanding of how to scale up engineering biology processes, including biomanufacturing;
   - **(2)** sustained support for databases and related tools, including—
     - **(A)** support for curated genomics, epigenomics, and all other relevant omics databases, including plant and microbial databases, that are available to researchers to carry out engineering biology research;
-    - **(B)** development of standards for such databases, including for curation, interoperability, and protection of privacy and security;
+    - **(B)** development of standards for such databases, including for curation, interoperability, and protection of privacy and security; and
     - **(C)** support for the development of computational tools, including artificial intelligence tools, that can accelerate research and innovation using such databases; and
     - **(D)** an inventory and assessment of all Federal government omics databases to identify opportunities for consolidation and inform investment in such databases as critical infrastructure for the engineering biology research enterprise;
   - **(3)** sustained support for the development, optimization, and validation of novel tools and technologies to enable the dynamic study of molecular processes in situ, including through grants to investigators at institutions of higher education and other nonprofit research institutions, and through the Small Business Innovation Research Program and the Small Business Technology Transfer Program, as described in section 9 of the Small Business Act (15 U.S.C. 638);
@@ -66,7 +66,7 @@ In this Act:
 - **(c)** *Expanding participation* The Initiative shall include, to the maximum extent practicable, outreach to primarily undergraduate and minority-serving institutions about Initiative opportunities, and shall encourage the development of research collaborations between research-intensive universities and primarily undergraduate and minority-serving institutions.
 - **(d)** *Ethical, legal, environmental, safety, security, and societal issues* Initiative activities shall take into account ethical, legal, environmental, safety, security, and other appropriate societal issues by—
   - **(1)** supporting research, including in the social sciences, and other activities addressing ethical, legal, environmental, and other appropriate societal issues related to engineering biology, including integrating research on such topics with the research and development in engineering biology, and ensuring that the results of such research are widely disseminated, including through interdisciplinary engineering biology research centers described in subsection (b)(1);
-  - **(2)** supporting research and other activities related to the safety and security implications of engineering biology, including outreach to increase awareness among federally funded researchers at institutions of higher education about potential safety and security implications of engineering biology research, as appropriate;
+  - **(2)** supporting research and other activities related to the safety and security implications of engineering biology, including outreach to increase awareness among federally-funded researchers at institutions of higher education about potential safety and security implications of engineering biology research, as appropriate;
   - **(3)** ensuring that input from Federal and non-Federal experts on the ethical, legal, environmental, security, and other appropriate societal issues related to engineering biology is integrated into the Initiative; and
   - **(4)** ensuring, through the agencies and departments that participate in the Initiative, that public input and outreach are integrated into the Initiative by the convening of regular and ongoing public discussions through mechanisms such as workshops, consensus conferences, and educational events, as appropriate.
 
@@ -118,26 +118,30 @@ In this Act:
 
 ## § 7. External review of ethical, legal, environmental, and societal issues
 
-- **(a)** *In general* Not later than 12 months after the date of enactment of this Act, the Director of the National Science Foundation shall enter into an agreement with the National Academies to convene a workshop to review the ethical, legal, environmental, and other appropriate societal issues related to engineering biology research and development. The goals of the workshop shall be to—
-  - **(1)** assess the current research on such issues;
-  - **(2)** evaluate the research gaps relating to such issues; and
-  - **(3)** provide recommendations on how the Initiative can address the research needs identified.
-- **(b)** *Report to congress* Not later than 2 years after the date of enactment of this Act, the Director of the National Science Foundation shall transmit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a summary report containing the findings of the workshop convened under this section.
+- **(a)** *In general* Not later than 6 months after the date of enactment of this Act, the Director of the National Science Foundation shall enter into an agreement with the National Academies of Sciences, Engineering, and Medicine to conduct a review, and make recommendations with respect to, the ethical, legal, environmental, and other appropriate societal issues related to engineering biology research and development. The review shall include—
+  - **(1)** an assessment of the current research on such issues;
+  - **(2)** a description of the research gaps relating to such issues;
+  - **(3)** recommendations on how the Initiative can address the research needs identified pursuant to paragraph (2); and
+  - **(4)** recommendations on how engineering biology researchers can best incorporate considerations of ethical, legal, environmental, and other societal issues into the development of research proposals and the conduct of research.
+- **(b)** *Report to Congress* The agreement entered into under subsection (a) shall require the National Academy of Sciences, Engineering, and Medicine to, not later than 2 years after the date of the enactment of this Act—
+  - **(1)** submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing the findings and recommendations of the review conducted under subsection (a); and
+  - **(2)** make a copy of such report available on a publicly accessible website.
 
 ## § 8. Agency activities
 
 - **(a)** *National Science Foundation* As part of the Initiative, the National Science Foundation shall—
   - **(1)** support basic research in engineering biology through individual grants and through interdisciplinary research centers;
   - **(2)** support research on the environmental, legal, and social implications of engineering biology;
-  - **(3)** provide support for research instrumentation for engineering biology disciplines, including support for research, development, optimization and validation of novel technologies to enable the dynamic study of molecular processes in situ; and
-  - **(4)** award grants, on a competitive basis, to enable institutions to support graduate students and postdoctoral fellows who perform some of their engineering biology research in an industry setting.
+  - **(3)** provide support for research instrumentation for engineering biology disciplines, including support for research, development, optimization and validation of novel technologies to enable the dynamic study of molecular processes in situ;
+  - **(4)** support curriculum development and research experiences for secondary, undergraduate, and graduate students in engineering biology and biomanufacturing; and
+  - **(5)** award grants, on a competitive basis, to enable institutions to support graduate students and postdoctoral fellows who perform some of their engineering biology research in an industry setting.
 - **(b)** *Department of Commerce* As part of the Initiative, the Director of the National Institute of Standards and Technology shall—
   - **(1)** establish a bioscience research program to advance the development of standard reference materials and measurements and to create new data tools, techniques, and processes necessary to advance engineering biology and biomanufacturing;
   - **(2)** provide access to user facilities with advanced or unique equipment, services, materials, and other resources to industry, institutions of higher education, nonprofit organizations, and government agencies to perform research and testing; and
   - **(3)** provide technical expertise to inform the potential development of guidelines or safeguards for new products, processes, and systems of engineering biology.
 - **(c)** *Department of Energy* As part of the Initiative, the Secretary of Energy shall—
-  - **(1)** conduct and support basic research, development, demonstration, and commercial application activities in engineering biology, including in the areas of synthetic biology, advanced biofuel development, biobased materials, and environmental remediation;
-  - **(2)** support the development, optimization, and validation of novel, scalable tools and technologies to enable the dynamic study of molecular processes in situ; and
+  - **(1)** conduct and support research, development, demonstration, and commercial application activities in engineering biology, including in the areas of synthetic biology, advanced biofuel development, biobased materials, and environmental remediation;
+  - **(2)** support the development, optimization and validation of novel, scalable tools and technologies to enable the dynamic study of molecular processes in situ; and
   - **(3)** provide access to user facilities with advanced or unique equipment, services, materials, and other resources, as appropriate, to industry, institutions of higher education, nonprofit organizations, and government agencies to perform research and testing.
 - **(d)** *National Aeronautics and Space Administration* As part of the Initiative, the National Aeronautics and Space Administration shall—
   - **(1)** conduct and support basic and applied research in engineering biology, including in synthetic biology, and related to Earth and space sciences, aeronautics, space technology, and space exploration and experimentation, consistent with the priorities established in the National Academies’ decadal surveys; and
