@@ -1,7 +1,7 @@
 ---
 measure: S. 1130
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+3 amendatory instructions. 1 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 42 U.S.C. § 241
+
+> in the part heading, by striking “Sudden infant death syndrome” and inserting “Sudden unexpected infant death, sudden infant death syndrome, and sudden unexpected death in childhood”; and
+
+| | |
+|---|---|
+| Removed | `Sudden infant death syndrome` |
+| Inserted | `Sudden unexpected infant death, sudden infant death syndrome, and sudden unexpected death in childhood` |
 
 ## Stated, not applied
 
@@ -32,3 +43,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 241` | add-at-end | Title III of the Public Health Service Act (42 U.S.C. 241 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 241` | insert | by inserting before section 1122 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
