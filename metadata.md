@@ -1,7 +1,7 @@
 ---
 measure: S. 1874
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1874
@@ -16,9 +16,10 @@ Bulb Replacement Improving Government with High-Efficiency Technology Act
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Bulb Replacement Improving Government with High-Efficiency Technology Act
 
 - 2019-06-13 — Introduced in Senate
 - 2019-06-13 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2019-06-19 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2019-11-06 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-157.
+- 2019-11-06 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-157.
+- 2019-11-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 292.
