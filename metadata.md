@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4842
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4842
@@ -45,3 +45,6 @@ EXPO Act of 2019
 - 2019-10-29 — Mr. Phillips moved to suspend the rules and pass the bill, as amended.
 - 2019-10-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8585)
 - 2019-10-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8585)
+- 2019-10-30 — Received in the Senate.
+- 2019-11-05 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2019-11-06 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 291.
