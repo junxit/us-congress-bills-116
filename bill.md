@@ -1,0 +1,22 @@
+---
+legis-num: S. 2806
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2806
+
+> To amend title 38, United States Code, to expand authority for certain qualifying work-study activities for purposes of the educational assistance programs of the Department of Veterans Affairs to include outreach services provided through congressional offices, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Department of Veterans Affairs Work Study Expansion Act of 2019”.
+
+## § 2. Expansion of authority for certain qualifying work-study activities for purposes of the educational assistance programs of the Department of Veterans Affairs to include outreach services provided through congressional offices
+
+Section 3485(a)(4) of title 38, United States Code, is amended by adding at the end the following new subparagraph:
+
+> - **(K)** The following activities carried out at the offices of Members of Congress for such Members:
+>   - **(i)** The distribution of information to members of the Armed Forces, veterans, and their dependents about the benefits and services under laws administered by the Secretary and other appropriate governmental and nongovernmental programs.
+>   - **(ii)** The preparation and processing of papers and other documents, including documents to assist in the preparation and presentation of claims for benefits under laws administered by the Secretary.
