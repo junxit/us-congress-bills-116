@@ -1,7 +1,7 @@
 ---
 measure: S. 1388
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1388
@@ -33,3 +33,5 @@ Supply Chain Counterintelligence Training Act of 2019
 - 2019-09-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-87.
 - 2019-09-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-87.
 - 2019-09-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 191.
+- 2019-11-07 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6483; text: CR S6483-6484)
+- 2019-11-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6483; text: CR S6483-6484)
