@@ -1,0 +1,34 @@
+---
+legis-num: S. 2818
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2818
+
+> To require the Secretary of the Interior to issue regulations to ban the venting and flaring of gas in oil and gas production operations in the United States, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Fuel Loss Abatement and Royalty Enhancement Act” or the “FLARE Act”.
+
+## § 2. Regulations to ban venting and flaring of gas
+
+- **(a)** *In general* Not later than 180 days after the date of enactment of this Act, the Secretary of the Interior shall issue regulations under this Act—
+  - **(1)** to ban the venting and flaring of gas in oil and gas production operations on Federal land onshore and offshore in the United States, with the exception of—
+    - **(A)** de minimis venting and flaring; and
+    - **(B)** venting and flaring that the Secretary determines is required for safety; and
+  - **(2)** to promote the capture and beneficial use or reinjection of gas in the operations referred to in paragraph (1).
+- **(b)** *Royalties* A regulation issued under this section shall include provisions that treat gas that is flared or vented in operations under a lease under this Act as production for which royalty is required to be paid to the United States.
+
+## § 3. Assessment of venting and flaring of gas in production operations in United States
+
+Not later than 18 months after the date of enactment of this Act, the Comptroller General of the United States shall—
+
+- **(1)** assess the venting and flaring of gas in oil and gas production operations on Federal land onshore and offshore in the United States; and
+- **(2)** submit to Congress a report on the venting and flaring of gas in oil and gas production operations on Federal land onshore and offshore in the United States, including an estimate of the volume of gas that is vented or flared in such operations each year.
+
+## § 4. Regulations
+
+The Secretary of the Interior shall issue regulations that define the terms vent, venting, flare, and flaring for purposes of this Act.
