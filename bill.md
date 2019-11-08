@@ -1,0 +1,32 @@
+---
+legis-num: H.R. 5013
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5013
+
+> To apply the Fair Debt Collection Practices Act to small businesses to the same extent as such Act applies to consumers, to require the Director of the Bureau of Consumer Financial Protection to define “small business” for purposes of such Act, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Small Business Fair Debt Collection Protection Act”.
+
+## § 2. Fair debt collection practices for loans to small businesses
+
+- **(a)** *In general* The Fair Debt Collection Practices Act (15 U.S.C. 1692 et seq.) is amended—
+  - **(1)** in section 803, by amending paragraph (5) to read as follows:
+    > - **(5)** The term debt means any obligation or alleged obligation to pay money arising out of a transaction, whether or not such obligation has been reduced to judgment.
+
+  - **(2)** by redesignating section 819 as section 820; and
+  - **(3)** by inserting after section 818 the following:
+    > ## § 819. Application to small businesses
+    >
+    > - **(a)** *In general* This Act shall apply to small businesses to the same extent as this Act applies to consumers.
+    > - **(b)** *Small business defined* The Director of the Bureau, in consultation with the Administrator of the Small Business Administration, shall issue a rule to define the term “small business” for purposes of this section.
+
+- **(b)** *Clerical amendment* The table of contents for the Fair Debt Collection Practices Act is amended by striking the item relating to section 819 and inserting the following:
+- **(c)** *Prohibition on harassment or abuse* Section 806(3) of the Fair Debt Collection Practices Act (15 U.S.C. 1692d) is amended—
+  - **(1)** by striking “consumers who” and inserting “consumers or small businesses that”; and
+  - **(2)** by inserting “, to a commercial credit bureau,” after “consumer reporting agency”.
