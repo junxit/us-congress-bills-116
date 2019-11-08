@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4863
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4863
@@ -50,3 +50,10 @@ United States Export Finance Agency Act of 2019
 - 2019-10-28 — Introduced in House
 - 2019-10-28 — Introduced in House
 - 2019-10-28 — Referred to the House Committee on Financial Services.
+- 2019-10-29 — Committee Consideration and Mark-up Session Held.
+- 2019-10-30 — Committee Consideration and Mark-up Session Held.
+- 2019-10-31 — Committee Consideration and Mark-up Session Held.
+- 2019-10-31 — Ordered to be Reported (Amended) by the Yeas and Nays: 30 - 27.
+- 2019-11-08 — Placed on the Union Calendar, Calendar No. 216.
+- 2019-11-08 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-271.
+- 2019-11-08 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-271.
