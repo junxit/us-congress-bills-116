@@ -1,7 +1,7 @@
 ---
 measure: S. 979
 congress: 116
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 979
@@ -42,3 +42,18 @@ FACE Act
 - 2019-11-08 — Message on Senate action sent to the House.
 - 2019-11-08 — Received in the House.
 - 2019-11-08 — Referred to the House Committee on Transportation and Infrastructure.
+- 2019-11-12 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- 2020-12-18 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2020-12-18 — Considered as unfinished business. (consideration: CR H7271-7272)
+- 2020-12-18 — Considered under suspension of the rules. (consideration: CR H7268-7270)
+- 2020-12-18 — DEBATE - The House proceeded with forty minutes of debate on S. 979.
+- 2020-12-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-18 — Ms. Norton moved to suspend the rules and pass the bill.
+- 2020-12-18 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 386 - 1 (Roll no. 246). (text: CR H7268)
+- 2020-12-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 386 - 1 (Roll no. 246).
+- 2020-12-21 — Presented to President.
+- 2020-12-21 — Presented to President.
+- 2020-12-31 — Became Public Law No: 116-272.
+- 2020-12-31 — Became Public Law No: 116-272.
+- 2020-12-31 — Signed by President.
+- 2020-12-31 — Signed by President.
