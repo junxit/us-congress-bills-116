@@ -18,7 +18,7 @@ This Act may be cited as the “Land and Water Conservation Fund Permanent Fundi
 - **(a)** *In general* Section 200303 of title 54, United States Code, is amended to read as follows:
   > ## § 200303. Availability of funds
   >
-  > - **(a)** *In general* For fiscal year 2020 and each fiscal year thereafter, amounts deposited in the Fund under section 200302 shall be made available for expenditure, without further appropriation or fiscal year limitation, to carry out the purposes of the Fund (including accounts and programs made available from the Fund under the Consolidated and Further Continuing Appropriations Act, 2015 (Public Law 113–235; 128 Stat. 2130)).
+  > - **(a)** *In general* For each fiscal year beginning after the date of the enactment of this section, amounts deposited in the Fund under section 200302 shall be made available for expenditure, without further appropriation or fiscal year limitation, to carry out the purposes of the Fund (including accounts and programs made available from the Fund under the Consolidated and Further Continuing Appropriations Act, 2015 (Public Law 113–235; 128 Stat. 2130)).
   > - **(b)** *Additional amounts* Amounts made available under subsection (a) shall be in addition to amounts made available to the Fund under section 105 of the Gulf of Mexico Energy Security Act of 2006 (43 U.S.C. 1331 note; Public Law 109–432) or otherwise appropriated from the Fund.
   > - **(c)** *Allocation authority*
   >   - **(1)** *Submission of cost estimates* The President shall submit to Congress detailed account, program, and project allocations to be funded under subsection (a) as part of the annual budget submission of the President.
