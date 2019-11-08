@@ -1,7 +1,7 @@
 ---
 measure: S. 979
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 979
@@ -24,9 +24,10 @@ FACE Act
 - Sen. Lankford, James [R-OK] (L000575)
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -38,3 +39,6 @@ FACE Act
 - 2019-09-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 188.
 - 2019-11-07 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S6484; text: CR S6484-6485)
 - 2019-11-07 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S6484; text: CR S6484-6485)
+- 2019-11-08 — Message on Senate action sent to the House.
+- 2019-11-08 — Received in the House.
+- 2019-11-08 — Referred to the House Committee on Transportation and Infrastructure.
