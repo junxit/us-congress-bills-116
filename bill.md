@@ -15,4 +15,4 @@ This Act may be cited as the “Chesapeake Bay Gateways and Watertrails Network 
 
 ## § 2. Reauthorization of Chesapeake Bay Gateways and Watertrails Network
 
-Section 502(2) of the Chesapeake Bay Initiative Act of 1998 (16 U.S.C. 461 note; Public Law 105–312) is amended by striking “for each of fiscal years 1999 through 2019” and inserting “for each of fiscal years 2020 through 2025”.
+Section 502(c) of the Chesapeake Bay Initiative Act of 1998 (54 U.S.C. 320101 note; Public Law 105–312) is amended by striking “2019” and inserting “2025”.
