@@ -1,7 +1,7 @@
 ---
 measure: S. 1388
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1388
@@ -21,9 +21,10 @@ Supply Chain Counterintelligence Training Act of 2019
 - Sen. Johnson, Ron [R-WI] (J000293)
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -35,3 +36,6 @@ Supply Chain Counterintelligence Training Act of 2019
 - 2019-09-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 191.
 - 2019-11-07 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6483; text: CR S6483-6484)
 - 2019-11-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6483; text: CR S6483-6484)
+- 2019-11-08 — Message on Senate action sent to the House.
+- 2019-11-08 — Received in the House.
+- 2019-11-08 — Referred to the House Committee on Oversight and Reform.
