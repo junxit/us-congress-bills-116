@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2427
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -24,11 +24,11 @@ to guess them.
 
 ## Executed
 
-### 16 U.S.C. § 461
+### 54 U.S.C. § 320101
 
-> Section 502(2) of the Chesapeake Bay Initiative Act of 1998 (16 U.S.C. 461 note; Public Law 105–312) is amended by striking “for each of fiscal years 1999 through 2019” and inserting “for each of fiscal years 2020 through 2025”.
+> Section 502(c) of the Chesapeake Bay Initiative Act of 1998 (54 U.S.C. 320101 note; Public Law 105–312) is amended by striking “2019” and inserting “2025”.
 
 | | |
 |---|---|
-| Removed | `for each of fiscal years 1999 through 2019` |
-| Inserted | `for each of fiscal years 2020 through 2025` |
+| Removed | `2019` |
+| Inserted | `2025` |

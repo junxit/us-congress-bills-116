@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2427
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2427
@@ -16,7 +16,7 @@ Chesapeake Bay Gateways and Watertrails Network Reauthorization Act of 2019
 
 - Rep. Sarbanes, John P. [D-MD-3] (S001168)
 
-## Cosponsors (15)
+## Cosponsors (16)
 
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 - Rep. Wittman, Robert J. [R-VA-1] (W000804)
@@ -33,6 +33,7 @@ Chesapeake Bay Gateways and Watertrails Network Reauthorization Act of 2019
 - Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
 - Rep. Luria, Elaine G. [D-VA-2] (L000591)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Cartwright, Matt [D-PA-8] (C001090)
 
 ## Committees (1)
 
@@ -43,3 +44,11 @@ Chesapeake Bay Gateways and Watertrails Network Reauthorization Act of 2019
 - 2019-05-01 — Introduced in House
 - 2019-05-01 — Introduced in House
 - 2019-05-01 — Referred to the House Committee on Natural Resources.
+- 2019-05-08 — Referred to the Subcommittee on National Parks, Forests, and Public Lands.
+- 2019-05-22 — Subcommittee Hearings Held.
+- 2019-06-19 — Committee Consideration and Mark-up Session Held.
+- 2019-06-19 — Ordered to be Reported (Amended) by Voice Vote.
+- 2019-06-19 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2019-11-08 — Placed on the Union Calendar, Calendar No. 221.
+- 2019-11-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-276.
+- 2019-11-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-276.
