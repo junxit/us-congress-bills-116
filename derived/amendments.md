@@ -1,7 +1,7 @@
 ---
 measure: S. 1877
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 1 executed, 2 stated and not applied.
+7 amendatory instructions. 2 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,15 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 52 U.S.C. § 30114
+
+> in subsection (a)(2), by striking “for ordinary” and inserting “except as provided in subsection (d), for ordinary”; and
+
+| | |
+|---|---|
+| Removed | `for ordinary` |
+| Inserted | `except as provided in subsection (d), for ordinary` |
 
 ### 52 U.S.C. § 30114
 
@@ -43,4 +52,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Section 8905 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `52 U.S.C. § 30114` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 901` | add-at-end | Chapter 13 of title 31, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 901` | add-at-end | The table of sections for chapter 13 of title 31, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30114` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
