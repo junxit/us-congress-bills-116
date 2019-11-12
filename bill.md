@@ -23,3 +23,7 @@ This Act may be cited as the “GI Bill Planning Act of 2019”.
 ## § 3. Phase out of All-Volunteer Educational Assistance Program
 
 Subsection (a)(1)(A) of section 3011 of title 38, United States Code, as amended by section 1, is further amended by striking “after June 30, 1985” and inserting “during the period beginning July 1, 1985, and ending September 30, 2029”.
+
+## § 4. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
