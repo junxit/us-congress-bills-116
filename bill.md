@@ -7,28 +7,40 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4771
 
-> To amend title 38, United States Code, to permit appellants to appear in disability compensation cases before the Board of Veterans’ Appeals by picture and voice transmission from locations other than facilities of the Department of Veterans Affairs.
+> To amend title 38, United States Code, to permit appellants to appear in cases before the Board of Veterans’ Appeals by picture and voice transmission from locations other than facilities of the Department of Veterans Affairs, and for other purposes.
 
 ## § 1. Short title
 
 This Act may be cited as the “VA Tele-Hearing Modernization Act”.
 
-## § 2. Disability compensation hearings before the Board of Veterans' Appeals by means of teleconference from locations other than facilities of the Department of Veterans Affairs
+## § 2. Hearings before the Board of Veterans’ Appeals by means of teleconference from locations other than facilities of the Department of Veterans Affairs
 
-- **(a)** *Establishment* Section 7107 of title 38, United States Code, is amended—
-  - **(1)** in subsection (c)(2)—
-    - **(A)** in subparagraph (A), by inserting “or subparagraph (C) of this paragraph” after “subparagraph (B) of such paragraph”;
-    - **(B)** in subparagraph (B), by inserting “or subparagraph (C) of this paragraph” after “subparagraph (A) of such paragraph”; and
-    - **(C)** by adding at the end the following new subparagraph (C):
-      > - **(C)** Upon notification of a Board hearing under subparagraph (A) or (B) of paragraph (1) in a case regarding disability compensation under a law administered by the Secretary, the appellant may alternatively request a hearing by picture and voice transmission—
-      >   - **(i)** at a location selected by the appellant; and
-      >   - **(ii)** via a secure internet platform established and maintained by the Secretary that protects sensitive personal information from a data breach.
+- **(a)** *In general* Section 7107(c)(2) of title 38, United States Code, is amended—
+  - **(1)** in subparagraph (A), by inserting “or subparagraph (C) of this paragraph” after “subparagraph (B) of such paragraph”;
+  - **(2)** in subparagraph (B), by inserting “or subparagraph (C) of this paragraph” after “subparagraph (A) of such paragraph”; and
+  - **(3)** by adding at the end the following new subparagraph (C):
+    > - **(C)**
+    >   - **(i)** Upon notification of a Board hearing under subparagraph (A) or (B) of paragraph (1), the appellant may alternatively request a hearing by picture and voice transmission—
+    >     - **(I)** at a location selected by the appellant; and
+    >     - **(II)** via a secure internet platform established and maintained by the Secretary that protects sensitive personal information from a data breach.
+    >   - **(ii)** If an appellant makes a request under clause (i), the Board shall grant such request.
 
-  - **(2)** by adding at the end the following new subsection (f):
-    > - **(f)** *Definitions* In this section, the terms “sensitive personal information” and “data breach” have the meanings given those terms in section 5727 of this title.
+- **(b)** *Deadline for implementation* The Secretary shall implement the amendments made by subsection (a) not later than 180 days after the date of the enactment of this Act.
+- **(c)** *Reporting*
+  - **(1)** *Annual reporting requirements* Section 7101(d)(2) of such title is amended—
+    - **(A)** in subparagraph (E), by striking “; and” and inserting a semicolon;
+    - **(B)** in subparagraph (F), by striking the period at the ending and inserting “; and”; and
+    - **(C)** by adding at the end the following new subparagraph:
+      > - **(G)** with respect to hearings scheduled under section 7107(c)(2)(C) of this title—
+      >   - **(i)** the number of hearings scheduled under such section;
+      >   - **(ii)** the number of hearings under such section that were cancelled; and
+      >   - **(iii)** any statistical difference in outcomes between cases heard under such section and those held at the principal location of the Board or by picture and voice transmission at a facility of the Department.
 
-- **(b)** *Deadline* The Secretary shall implement the amendments made by subsection (a) not later than 180 days after the date of the enactment of this Act.
-- **(c)** *Reports* On the day that is one year after the date on which the Secretary implements subparagraph (C) of subsection (c)(2) of such section 7107, as added by subsection (a), and twice annually thereafter, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report regarding hearings held under such subparagraph. Each such report shall include, with respect to the year immediately preceding the date of the report, the following:
-  - **(1)** The number of hearings scheduled under such subparagraph.
-  - **(2)** The number of hearings under such subparagraph that were cancelled and why each such hearing was cancelled.
-  - **(3)** Any statistical difference in outcomes between cases heard under such subparagraph and those held at the principal location of the Board or by picture and voice transmission at a facility of the Department.
+  - **(2)** *One-time reporting requirements* The first report required to be submitted under section 7101(d) of title 38, United States Code, shall include the following information with respect to hearings scheduled under subparagraph (C) of paragraph (2) of subsection (c) of section 7101 of such title, as added by subsection (a):
+    - **(A)** An outline of the outreach the Secretary of Veterans Affairs plans to conduct to inform veterans, families of veterans, survivors of veterans, veterans service organizations, military service organizations, congressional caseworkers, advocates for veterans, and such other stakeholders as the Secretary considers appropriate about hearings scheduled under such subparagraph, including—
+      - **(i)** a description of the resources required to conduct such outreach;
+      - **(ii)** a timeline for conducting such outreach; and
+      - **(iii)** information related to the advantages and potential technological challenges of conducting hearings under such subparagraph.
+    - **(B)** A description of any modifications to the information technology systems of the Veterans Benefits Administration and the Board of Veterans’ Appeals required to carry out hearings under such subparagraph, including cost estimates and a timeline for making such modifications.
+    - **(C)** A detailed description of the intra-agency partnership between the Board of Veterans’ Appeals and the telehealth program of the Veterans Health Administration as the Board conducts hearings under such subparagraph, including best practices, a risk assessment overview, risk mitigation efforts, and a plan for ongoing collaboration and information sharing.
+- **(d)** *Collaboration* In developing the capacity and procedures to conduct hearings under subparagraph (C) of paragraph (2) of subsection (c) of section 7101 of title 38, United States Code, as added by subsection (a), the Secretary of Veterans Affairs shall collaborate with, partner with, and give weight to the advice of veterans service organizations and such other stakeholders as the Secretary considers appropriate.
