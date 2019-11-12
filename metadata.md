@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1865
 congress: 116
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1865
@@ -339,3 +339,11 @@ Further Consolidated Appropriations Act, 2020
 - 2019-10-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8505)
 - 2019-10-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8505)
 - 2019-10-29 — Received in the Senate, read twice.
+- 2019-11-12 — Amendment SA 1244 agreed to in Senate by Unanimous Consent.
+- 2019-11-12 — Amendment SA 1244 proposed by Senator Inhofe for Senator Blunt. (consideration: CR S6512; text: CR S6512) To add a provision relating to financial assurances.
+- 2019-11-12 — Measure laid before Senate by unanimous consent. (consideration: CR S6512)
+- 2019-11-12 — Passed Senate with an amendment by Unanimous Consent.
+- 2019-11-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2019-11-12 — Senate amendment agreed to: Amendment SA 1244 agreed to in Senate by Unanimous Consent.
+- 2019-11-12 — Senate amendment proposed (on the floor): Amendment SA 1244 proposed by Senator Inhofe for Senator Blunt.
+- 2019-11-12 — Senate amendment submitted
