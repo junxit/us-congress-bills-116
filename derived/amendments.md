@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4771
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,4 +34,6 @@ complete account of the bill's effect, which it is not.
 | — | insert | in subparagraph (A), by inserting “or subparagraph (C) of this paragraph” after “subparagraph (B) of such paragraph”; | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (B), by inserting “or subparagraph (C) of this paragraph” after “subparagraph (A) of such paragraph”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subparagraph (C): | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subsection (f): | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (E), by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (F), by striking the period at the ending and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
