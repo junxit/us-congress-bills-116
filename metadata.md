@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1424
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1424
@@ -16,7 +16,7 @@ Fallen Warrior Battlefield Cross Memorial Act
 
 - Rep. Gonzalez, Anthony [R-OH-16] (G000588)
 
-## Cosponsors (15)
+## Cosponsors (28)
 
 - Rep. Chabot, Steve [R-OH-1] (C000266)
 - Rep. Wenstrup, Brad R. [R-OH-2] (W000815)
@@ -33,6 +33,19 @@ Fallen Warrior Battlefield Cross Memorial Act
 - Rep. Davidson, Warren [R-OH-8] (D000626)
 - Rep. Latta, Robert E. [R-OH-5] (L000566)
 - Rep. Balderson, Troy [R-OH-12] (B001306)
+- Rep. Gaetz, Matt [R-FL-1] (G000578)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Olson, Pete [R-TX-22] (O000168)
+- Rep. Meadows, Mark [R-NC-11] (M001187)
+- Rep. Mast, Brian J. [R-FL-18] (M001199)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Brady, Kevin [R-TX-8] (B000755)
+- Rep. Walker, Mark [R-NC-6] (W000819)
+- Rep. Banks, Jim [R-IN-3] (B001299)
+- Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
+- Rep. Cunningham, Joe [D-SC-1] (C001122)
+- Rep. Steube, W. Gregory [R-FL-17] (S001214)
+- Rep. Allred, Colin Z. [D-TX-32] (A000376)
 
 ## Committees (1)
 
@@ -43,3 +56,14 @@ Fallen Warrior Battlefield Cross Memorial Act
 - 2019-02-28 — Introduced in House
 - 2019-02-28 — Introduced in House
 - 2019-02-28 — Referred to the House Committee on Veterans' Affairs.
+- 2019-03-29 — Referred to the Subcommittee on Disability Assistance and Memorial Affairs.
+- 2019-10-22 — Subcommittee Hearings Held.
+- 2019-10-29 — Committee Consideration and Mark-up Session Held.
+- 2019-10-29 — Ordered to be Reported by Voice Vote.
+- 2019-10-29 — Subcommittee on Disability Assistance and Memorial Affairs Discharged.
+- 2019-11-12 — Considered under suspension of the rules. (consideration: CR H8761-8763)
+- 2019-11-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1424.
+- 2019-11-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-11-12 — Mr. Takano moved to suspend the rules and pass the bill.
+- 2019-11-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8761)
+- 2019-11-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8761)
