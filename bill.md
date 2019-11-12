@@ -9,16 +9,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend title 38, United States Code, to provide for increased access to Department of Veterans Affairs medical care for women veterans.
 
-## § 1. Improved access to Department of Veterans Affairs medical care for women veterans
+## § 1. Short title; table of contents
 
-- **(a)** *In general* Subchapter II of chapter 17 of title 38, United States Code, is amended by adding at the end the following new section:
-  > ## § 1720J. Medical services for women veterans
-  >
-  > - **(a)** *Access to care* The Secretary shall ensure that gender specific services are continuously available at every medical center and community based outpatient clinic of the Department.
-  > - **(b)** *Study on extended hours of care* The Secretary shall conduct a study to assess—
-  >   - **(1)** the use of extended hours as a means of reducing barriers to care;
-  >   - **(2)** the need for extended hours based on interviews with women veterans and employees; and
-  >   - **(3)** the best practices and resources required to implement use of extended hours.
-  > - **(c)** *Annual report to Congress* Not later than September 30 of each year, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on compliance with subsection (a).
-
-- **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 1720I the following new item:
+- **(a)** *Short title* This Act may be cited as the “Deborah Sampson Act”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
