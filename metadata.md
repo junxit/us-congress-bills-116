@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1615
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1615
@@ -16,7 +16,7 @@ VA-SBA Act
 
 - Rep. Kelly, Trent [R-MS-1] (K000388)
 
-## Cosponsors (20)
+## Cosponsors (25)
 
 - Rep. Chabot, Steve [R-OH-1] (C000266)
 - Rep. Stauber, Pete [R-MN-8] (S001212)
@@ -38,6 +38,11 @@ VA-SBA Act
 - Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
 - Rep. Joyce, John [R-PA-13] (J000302)
 - Rep. Stivers, Steve [R-OH-15] (S001187)
+- Rep. Kim, Andy [D-NJ-3] (K000394)
+- Rep. Peters, Scott H. [D-CA-52] (P000608)
+- Rep. Golden, Jared F. [D-ME-2] (G000592)
+- Rep. Spano, Ross [R-FL-15] (S001210)
+- Rep. Hern, Kevin [R-OK-1] (H001082)
 
 ## Committees (2)
 
@@ -50,3 +55,10 @@ VA-SBA Act
 - 2019-03-07 — Introduced in House
 - 2019-03-07 — Referred to the Committee on Small Business, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-03-07 — Referred to the Committee on Small Business, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-07-17 — Committee Consideration and Mark-up Session Held.
+- 2019-07-17 — Ordered to be Reported (Amended) by Voice Vote.
+- 2019-11-12 — Committee on Veterans' Affairs discharged.
+- 2019-11-12 — Committee on Veterans' Affairs discharged.
+- 2019-11-12 — Placed on the Union Calendar, Calendar No. 225.
+- 2019-11-12 — Reported (Amended) by the Committee on Small Business. H. Rept. 116-280, Part I.
+- 2019-11-12 — Reported (Amended) by the Committee on Small Business. H. Rept. 116-280, Part I.

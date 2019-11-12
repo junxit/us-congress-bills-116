@@ -29,8 +29,9 @@ For purposes of this Act, the term transfer date means the date that is 2 years 
     - **(A)** by striking “the Secretary” and inserting “the Administrator”; and
     - **(B)** by striking “subsection (f)” and inserting “section 36 of the Small Business Act”;
   - **(2)** in subsection (f)—
-    - **(A)** by striking “the Secretary” each place such term appears, other than under paragraph (7) and in the last place such term appears under paragraph (2)(A), and inserting “the Administrator”;
-    - **(B)** in paragraph (2)—
+    - **(A)** by striking “the Secretary” each place such term appears, other than in the last place such term appears under paragraph (2)(A), and inserting “the Administrator”;
+    - **(B)** in paragraph (1), by striking “small business concerns owned and controlled by veterans with service-connected disabilities” each place such term appears and inserting “small business concerns owned and controlled by service-disabled veterans”;
+    - **(C)** in paragraph (2)—
       - **(i)** in subparagraph (A), by striking “to access” and inserting “to obtain from the Secretary of Veterans Affairs”; and
       - **(ii)** by striking subparagraph (B) and inserting the following:
         > - **(B)** For purposes of this subsection—
@@ -40,22 +41,28 @@ For purposes of this Act, the term transfer date means the date that is 2 years 
         >   - **(ii)** the Administrator shall verify—
         >     - **(I)** the status of a business concern as a small business concern; and
         >     - **(II)** the ownership and control of such business concern.
-        > - **(C)** If the Administrator receives an application from an individual with respect to a business concern for inclusion in the database, but the individual’s status as a veteran or service-disabled veteran, the business concern’s status as a small business concern, or the ownership and control of such business concern cannot be verified under subparagraph (B), the Administrator may not include the business concern in the database maintained by the Administrator.
+        > - **(C)** The Administrator may not certify a concern under subsection (b) or section 36A if the Secretary of Veterans Affairs cannot provide the verification described under subparagraph (B)(i)(I).
 
-    - **(C)** by striking paragraphs (4) and (7);
-    - **(D)** by redesignating paragraphs (5) and (6) as paragraphs (4) and (5), respectively, and redesignating paragraph (8) as paragraph (6); and
-    - **(E)** in paragraph (6), as so redesignated—
-      - **(i)** in subparagraph (B)(ii)—
-        - **(I)** by amending subclause (I) to read as follows:
-          > - **(I)** the Secretary of Veterans Affairs or the Administrator; or
+    - **(D)** by striking paragraphs (4) and (7);
+    - **(E)** by redesignating paragraphs (5) and (6) as paragraphs (4) and (5), respectively, and redesignating paragraph (8) as paragraph (6);
+    - **(F)** in paragraph (4), as so redesignated, by striking “The Secretary” and inserting “The Administrator”; and
+    - **(G)** in paragraph (6), as so redesignated—
+      - **(i)** in subparagraph (A)—
+        - **(I)** by striking “verify the status of the concern as a small business concern or the ownership or control of the concern” and inserting “certify the status of the concern as a small business concern owned and controlled by veterans (under section 36A) or a small business concern owned and controlled by service-disabled veterans (under section 36(g))”; and
+        - **(II)** by striking “verification” and inserting “certification”;
+      - **(ii)** in subparagraph (B)—
+        - **(I)** in clause (i), by striking “small business concern owned and controlled by veterans with service-connected disabilities” and inserting “small business concern owned and controlled by service-disabled veterans”; and
+        - **(II)** in clause (ii)—
+          - **(aa)** by amending subclause (I) to read as follows:
+            > - **(I)** the Secretary of Veterans Affairs or the Administrator; or
 
-        - **(II)** in subclause (II), by striking “the contracting officer of the Department” and inserting “the applicable contracting officer”; and
-      - **(ii)** by striking subparagraph (C);
+          - **(bb)** in subclause (II), by striking “the contracting officer of the Department” and inserting “the applicable contracting officer”; and
+      - **(iii)** by striking subparagraph (C);
   - **(3)** by redesignating subsection (k) (relating to definitions) as subsection (l);
   - **(4)** by inserting after subsection (j) (relating to annual reports) the following:
-    > - **(k)** *Annual transfer for certification costs* For each fiscal year, the Secretary of Veterans Affairs shall reimburse the Administrator in an amount necessary to cover any cost incurred by the Administrator for certifying small business concerns owned and controlled by veterans that do not qualify as small business concerns owned and controlled by service-disabled veterans for the Secretary for purposes of this section and section 8128. The Administrator is authorized to accept such reimbursement. The amount of any such reimbursement shall be determined jointly by the Secretary and the Administrator and shall be provided from fees collected by the Secretary under multiple-award schedule contracts. Any disagreement about the amount shall be resolved by the Director of the Office of Management and Budget.
+    > - **(k)** *Annual transfer for certification costs* For each fiscal year, the Secretary of Veterans Affairs shall reimburse the Administrator in an amount necessary to cover any cost incurred by the Administrator for certifying small business concerns owned and controlled by veterans that do not qualify as small business concerns owned and controlled by service-disabled veterans for the Secretary for purposes of this section and section 8128 of this title. The Administrator is authorized to accept such reimbursement. The amount of any such reimbursement shall be determined jointly by the Secretary and the Administrator and shall be provided from fees collected by the Secretary under multiple-award schedule contracts. Any disagreement about the amount shall be resolved by the Director of the Office of Management and Budget.
 
-  - **(5)** in subsection (k) (relating to definitions), as so redesignated, by adding at the end the following:
+  - **(5)** subsection (l) (relating to definitions), as so redesignated, by adding at the end the following:
     > - **(4)** The term Administrator means the Administrator of the Small Business Administration.
 
 - **(b)** *Transfer of requirements relating to database to the Small Business Act* Effective on the transfer date, subsection (f) of section 8127 of title 38, United States Code (as amended by subsection (a)), is transferred to section 36 of the Small Business Act (15 U.S.C. 657f), inserted so as to appear after subsection (e).
@@ -63,28 +70,22 @@ For purposes of this Act, the term transfer date means the date that is 2 years 
   - **(1)** *Small Business Act* Section 3(q)(2)(C)(i)(III) of the Small Business Act (15 U.S.C. 632(q)(2)(C)(i)(III)) is amended by striking “section 8127(f) of title 38, United States Code” and inserting “section 36”.
   - **(2)** *Title 38* Section 8128 of title 38, United States Code, is amended by striking “section 8127(f) of this title” and inserting “section 36 of the Small Business Act”.
 
-## § 4. Dollar threshold for sole source awards to small business concern owned and controlled by service-disabled veterans
-
-- **(a)** *Small Business Act* Effective on the transfer date, section 36(c) of the Small Business Act, as redesignated by section 6(a)(2), is amended—
-  - **(1)** by striking the first dollar figure and inserting “$7,000,000”; and
-  - **(2)** by striking the second dollar figure and inserting “$5,000,000”.
-- **(b)** *Title 38* Effective on the transfer date, paragraph (2) of section 8127(c) of title 38, United States Code, is amended to read as follows:
-  > - **(2)** the anticipated award price of the contract will not exceed the amount described under section 36(c) of the Small Business Act; and
-
-## § 5. Additional requirement for database
+## § 4. Additional requirements for database
 
 - **(a)** *Administration access to database before the transfer date* During the period between the date of the enactment of this Act and the transfer date, the Secretary of Veterans Affairs shall provide the Administrator of the Small Business Administration with access to the contents of the database described under section 8127(f) of title 38, United States Code.
-- **(b)** *Rule of construction* Nothing in this Act or the amendments made by this Act may be construed as prohibiting the Administrator of the Small Business Administration from combining the contents of the database described under section 8127(f) of title 38, United States Code, with other databases maintained by the Administration.
+- **(b)** *Rule of construction* Nothing in this Act or the amendments made by this Act may be construed—
+  - **(1)** as prohibiting the Administrator of the Small Business Administration from combining the contents of the database described under section 8127(f) of title 38, United States Code, with other databases maintained by the Administration; or
+  - **(2)** as requiring the Administrator to use any system or technology related to the database described under section 8127(f) of title 38, United States Code, on or after the transfer date to comply with the requirement to maintain a database under subsection (f) of section 36 of the Small Business Act (as transferred pursuant to section 3(b) of this Act).
 - **(c)** *Recognition of the issuance of joint regulations* The date specified under section 1832(e) of the National Defense Authorization Act for Fiscal Year 2017 (15 U.S.C. 632 note) shall be deemed to be October 1, 2018.
 
-## § 6. Procurement program for small business concerns owned and controlled by service-disabled veterans
+## § 5. Procurement program for small business concerns owned and controlled by service-disabled veterans
 
 - **(a)** *Procurement program for small business concerns owned and controlled by service-Disabled veterans* Section 36 of the Small Business Act (15 U.S.C. 657f) is amended—
   - **(1)** by striking subsections (d) and (e);
   - **(2)** by redesignating subsections (a), (b), and (c) as subsections (c), (d), and (e) respectively;
   - **(3)** by inserting before subsection (c), as so redesignated, the following:
     > - **(a)** *Contracting officer defined* For purposes of this section, the term contracting officer has the meaning given such term in section 2101 of title 41, United States Code.
-    > - **(b)** *Certification of small business concerns owned and controlled by service-Disabled veterans* With respect to a procurement program or preference established under this Act or any other Federal law applicable to small business concerns owned and controlled by service-disabled veterans, the Administrator shall—
+    > - **(b)** *Certification of small business concerns owned and controlled by service-Disabled veterans* With respect to a procurement program or preference established under this Act that applies to prime contractors, the Administrator shall—
     >   - **(1)** certify the status of the concern as a “small business concern owned and controlled by service-disabled veterans”; and
     >   - **(2)** require the periodic recertification of such status.
 
@@ -110,7 +111,7 @@ For purposes of this Act, the term transfer date means the date that is 2 years 
     - **(B)** in paragraph (A), by striking “9, 15, or 31” and inserting “8, 9, 15, 31, 36, or 36A”; and
   - **(2)** in subsection (e), by striking “,, a” and inserting “, a “small business concern owned and controlled by service-disabled veterans”, a “small business concern owned and controlled by veterans”, a”.
 
-## § 7. Certification for small business concerns owned and controlled by veterans
+## § 6. Certification for small business concerns owned and controlled by veterans
 
 The Small Business Act (15 U.S.C. 631 et seq.) is amended by inserting after section 36 the following new section:
 
@@ -129,17 +130,17 @@ The Small Business Act (15 U.S.C. 631 et seq.) is amended by inserting after sec
 >     - **(B)** sections 3729 through 3733 of title 31, United States Code; and
 >     - **(C)** section 8127(g) of title 38, United States Code.
 
-## § 8. Status of self-certified small business concerns owned and controlled by service-disabled veterans and veterans
+## § 7. Status of self-certified small business concerns owned and controlled by service-disabled veterans
 
-- **(a)** *In general* Notwithstanding any other provision of law, any small business concern that self-certified as a small business concern owned and controlled by veterans or a small business concern owned and controlled by service-disabled veterans shall—
+- **(a)** *In general* Notwithstanding any other provision of law, any small business concern that self-certified as a small business concern owned and controlled by service-disabled veterans shall—
   - **(1)** if the concern files a certification application with the Administrator of the Small Business Administration before the end of the 1-year period beginning on the transfer date, maintain such self-certification until the Administrator makes a determination with respect to such certification; and
   - **(2)** if the concern does not file such a certification application before the end of the 1-year period beginning on the transfer date, lose, at the end of such 1-year period, any self-certification of the concern as a small business concern owned and controlled by service-disabled veterans.
 - **(b)** *Non-Applicability to Department of Veterans Affairs* Subsection (a) shall not apply to participation in contracts (including subcontracts) with the Department of Veterans Affairs.
-- **(c)** *Notice* The Administrator shall notify any small business concern that self-certified as a small business concern owned and controlled by veterans or a small business concern owned and controlled by service-disabled veterans about the requirements of the Verification Alignment and Service-disabled Business Adjustment Act, including the transfer date and any extension of such transfer date made pursuant to section 2, and make such notice publicly available, on—
+- **(c)** *Notice* The Administrator shall notify any small business concern that self-certified as a small business concern owned and controlled by service-disabled veterans about the requirements of this Act, including the transfer date and any extension of such transfer date made pursuant to section 2, and make such notice publicly available, on—
   - **(1)** the date of the enactment of this Act; and
   - **(2)** the date on which an extension described under section 2 is approved.
 
-## § 9. Transfer of the Center for Verification and Evaluation of the Department of Veterans Affairs to the Small Business Administration
+## § 8. Transfer of the Center for Verification and Evaluation of the Department of Veterans Affairs to the Small Business Administration
 
 - **(a)** *Abolishment* The Center for Verification and Evaluation of the Department of Veterans Affairs defined under section 74.1 of title 38, Code of Federal Regulations, is abolished effective on the transfer date.
 - **(b)** *Transfer of functions* All functions that, immediately before the effective date of this section, were functions of the Center for Verification and Evaluation shall—
@@ -148,7 +149,7 @@ The Small Business Act (15 U.S.C. 631 et seq.) is amended by inserting after sec
 - **(c)** *Transfer of assets* So much of the personnel, property, records, and unexpended balances of appropriations, allocations, and other funds employed, used, held, available, or to be made available in connection with a function transferred under this section shall be available to the Small Business Administration at such time or times as the President directs for use in connection with the functions transferred.
 - **(d)** *References* Any reference in any other Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or pertaining to a function of the Center for Verification and Evaluation that is transferred under this section is deemed, after the transfer date, to refer to the Small Business Administration.
 
-## § 10. Report
+## § 9. Report
 
 Not later than the end of the 1-year period beginning on the date of the enactment of this Act, and every 6 months thereafter until the transfer date, the Administrator of the Small Business Administration and Secretary of Veterans Affairs shall jointly issue a report to the Committees on Appropriations, Small Business, and Veterans’ Affairs of the House of Representatives and the Committees on Appropriations, Small Business and Entrepreneurship, and Veterans’ Affairs of the Senate on the planning for the transfer of functions and property required under this Act and the amendments made by this Act on the transfer date. Such report shall include—
 

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1615
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-27 amendatory instructions. 10 executed, 17 stated and not applied.
+29 amendatory instructions. 15 executed, 14 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,12 +44,57 @@ to guess them.
 
 ### 15 U.S.C. § 657f
 
+> in paragraph (1), by striking “small business concerns owned and controlled by veterans with service-connected disabilities” each place such term appears and inserting “small business concerns owned and controlled by service-disabled veterans”;
+
+| | |
+|---|---|
+| Removed | `small business concerns owned and controlled by veterans with service-connected disabilities` |
+| Inserted | `small business concerns owned and controlled by service-disabled veterans` |
+
+### 15 U.S.C. § 657f
+
 > in subparagraph (A), by striking “to access” and inserting “to obtain from the Secretary of Veterans Affairs”; and
 
 | | |
 |---|---|
 | Removed | `to access` |
 | Inserted | `to obtain from the Secretary of Veterans Affairs` |
+
+### 15 U.S.C. § 657f
+
+> in paragraph (4), as so redesignated, by striking “The Secretary” and inserting “The Administrator”; and
+
+| | |
+|---|---|
+| Removed | `The Secretary` |
+| Inserted | `The Administrator` |
+
+### 15 U.S.C. § 657f
+
+> by striking “verify the status of the concern as a small business concern or the ownership or control of the concern” and inserting “certify the status of the concern as a small business concern owned and controlled by veterans (under section 36A) or a small business concern owned and controlled by service-disabled veterans (under section 36(g))”; and
+
+| | |
+|---|---|
+| Removed | `verify the status of the concern as a small business concern or the ownership or control of the concern` |
+| Inserted | `certify the status of the concern as a small business concern owned and controlled by veterans (under section 36A) or a small business concern owned and controlled by service-disabled veterans (under section 36(g))` |
+
+### 15 U.S.C. § 657f
+
+> by striking “verification” and inserting “certification”;
+
+| | |
+|---|---|
+| Removed | `verification` |
+| Inserted | `certification` |
+
+### 15 U.S.C. § 657f
+
+> in clause (i), by striking “small business concern owned and controlled by veterans with service-connected disabilities” and inserting “small business concern owned and controlled by service-disabled veterans”; and
+
+| | |
+|---|---|
+| Removed | `small business concern owned and controlled by veterans with service-connected disabilities` |
+| Inserted | `small business concern owned and controlled by service-disabled veterans` |
 
 ### 15 U.S.C. § 657f
 
@@ -123,18 +168,15 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 657f` | replace | by striking “the Secretary” each place such term appears, other than under paragraph (7) and in the last place such term appears under paragraph (2)(A), and inserting “the Administrator”; | the bill quotes text on both sides, but not as a single substitution this could carry out |
+| `15 U.S.C. § 657f` | replace | by striking “the Secretary” each place such term appears, other than in the last place such term appears under paragraph (2)(A), and inserting “the Administrator”; | the bill quotes text on both sides, but not as a single substitution this could carry out |
 | `15 U.S.C. § 657f` | replace | by striking subparagraph (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 657f` | strike | by striking paragraphs (4) and (7); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 657f` | redesignate | by redesignating paragraphs (5) and (6) as paragraphs (4) and (5), respectively, and redesignating paragraph (8) as paragraph (6); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 657f` | redesignate | by redesignating paragraphs (5) and (6) as paragraphs (4) and (5), respectively, and redesignating paragraph (8) as paragraph (6); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 657f` | amend | by amending subclause (I) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 657f` | strike | by striking subparagraph (C); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 657f` | redesignate | by redesignating subsection (k) (relating to definitions) as subsection (l); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 657f` | insert | by inserting after subsection (j) (relating to annual reports) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 657f` | redesignate | in subsection (k) (relating to definitions), as so redesignated, by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | by striking the first dollar figure and inserting “$7,000,000”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking the second dollar figure and inserting “$5,000,000”. | the bill names no machine-readable US Code section |
-| — | amend | Effective on the transfer date, paragraph (2) of section 8127(c) of title 38, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| `15 U.S.C. § 657f` | redesignate | subsection (l) (relating to definitions), as so redesignated, by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 657f` | strike | by striking subsections (d) and (e); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 657f` | redesignate | by redesignating subsections (a), (b), and (c) as subsections (c), (d), and (e) respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 657f` | redesignate | by inserting before subsection (c), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
