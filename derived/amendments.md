@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3699
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -34,5 +34,5 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 1501` | strike | in paragraph (15), by striking “and” after the semicolon at the end; | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 1501` | redesignate | by redesignating paragraph (16) as paragraph (17); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 1501` | insert | by inserting after paragraph (15) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 1501` | add-at-end | Title XII of the Implementing Recommendations of the 9/11 Commission Act of 2007 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 1501` | add-at-end | Title XII of the Implementing Recommendations of the 9/11 Commission Act of 2007 (Public Law 110–53) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 1501` | insert | The table of contents for the Implementing Recommendations of the 9/11 Commission Act of 2007 is amended by inserting after the item relating to section 1208 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
