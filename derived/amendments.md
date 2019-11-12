@@ -1,7 +1,7 @@
 ---
 measure: S. 2731
 congress: 116
-version: Reported to Senate
+version: Indefinitely Postponed Senate
 derived: true
 ---
 
