@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4031
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4031
@@ -16,7 +16,7 @@ GLRI Act of 2019
 
 - Rep. Joyce, David P. [R-OH-14] (J000295)
 
-## Cosponsors (39)
+## Cosponsors (49)
 
 - Rep. Kaptur, Marcy [D-OH-9] (K000009)
 - Rep. Huizenga, Bill [R-MI-2] (H001058)
@@ -57,6 +57,16 @@ GLRI Act of 2019
 - Rep. Bergman, Jack [R-MI-1] (B001301)
 - Rep. Turner, Michael R. [R-OH-10] (T000463)
 - Rep. Kelly, Mike [R-PA-16] (K000376)
+- Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
+- Rep. Slotkin, Elissa [D-MI-8] (S001208)
+- Rep. Tlaib, Rashida [D-MI-13] (T000481)
+- Rep. Lipinski, Daniel [D-IL-3] (L000563)
+- Rep. Delgado, Antonio [D-NY-19] (D000630)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Stevens, Haley M. [D-MI-11] (S001215)
+- Rep. Steil, Bryan [R-WI-1] (S001213)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
 
 ## Committees (1)
 
@@ -67,3 +77,10 @@ GLRI Act of 2019
 - 2019-07-25 — Introduced in House
 - 2019-07-25 — Introduced in House
 - 2019-07-25 — Referred to the House Committee on Transportation and Infrastructure.
+- 2019-07-26 — Referred to the Subcommittee on Water Resources and Environment.
+- 2019-09-19 — Committee Consideration and Mark-up Session Held.
+- 2019-09-19 — Ordered to be Reported by Voice Vote.
+- 2019-09-19 — Subcommittee on Water Resources and Environment Discharged.
+- 2019-11-13 — Placed on the Union Calendar, Calendar No. 231.
+- 2019-11-13 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-287.
+- 2019-11-13 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-287.
