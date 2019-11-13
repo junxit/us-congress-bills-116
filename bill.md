@@ -27,7 +27,7 @@ Section 32(c) of the Small Business Act (15 U.S.C. 657b(c)) is amended by adding
   - **(1)** *In general* Not later than 1 year after the date of the enactment of this Act, the Comptroller General of the United States shall submit a report on the ability of small business concerns owned and controlled by covered individuals to access credit to—
     - **(A)** the Committee on Veterans’ Affairs and the Committee on Small Business and Entrepreneurship of the Senate; and
     - **(B)** the Committee on Veterans’ Affairs and the Committee on Small Business of the House of Representatives.
-  - **(2)** *Contents* The report submitted under paragraph (1) shall include an analysis of—
+  - **(2)** *Contents* The report submitted under paragraph (1) shall include, to the extent practicable, an analysis of—
     - **(A)** the sources of credit used by small business concerns owned and controlled by covered individuals and the average percentage of the credit obtained from each source by such concerns;
     - **(B)** the default rate for small business concerns owned and controlled by covered individuals, disaggregated by each source of credit described in subparagraph (A), as compared to the default rate for the source of credit for small business concerns generally;
     - **(C)** the Federal lending programs available to provide credit to small business concerns owned and controlled by covered individuals;
