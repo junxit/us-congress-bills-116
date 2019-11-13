@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1424
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1424
@@ -47,9 +47,10 @@ Fallen Warrior Battlefield Cross Memorial Act
 - Rep. Steube, W. Gregory [R-FL-17] (S001214)
 - Rep. Allred, Colin Z. [D-TX-32] (A000376)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -67,3 +68,4 @@ Fallen Warrior Battlefield Cross Memorial Act
 - 2019-11-12 — Mr. Takano moved to suspend the rules and pass the bill.
 - 2019-11-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8761)
 - 2019-11-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8761)
+- 2019-11-13 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
