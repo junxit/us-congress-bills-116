@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3224
 congress: 116
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3224
@@ -55,9 +55,10 @@ Deborah Sampson Act
 - Rep. Beyer, Donald S., Jr. [D-VA-8] (B001292)
 - Rep. Houlahan, Chrissy [D-PA-6] (H001085)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -84,3 +85,4 @@ Deborah Sampson Act
 - 2019-11-12 — Placed on the Union Calendar, Calendar No. 226.
 - 2019-11-12 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 116-281.
 - 2019-11-12 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 116-281.
+- 2019-11-13 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
