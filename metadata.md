@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1424
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1424
@@ -69,3 +69,14 @@ Fallen Warrior Battlefield Cross Memorial Act
 - 2019-11-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8761)
 - 2019-11-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8761)
 - 2019-11-13 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2019-12-19 — Passed Senate without amendment by Unanimous Consent.
+- 2019-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2019-12-19 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S7226)
+- 2019-12-19 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S7226)
+- 2019-12-23 — Message on Senate action sent to the House.
+- 2020-01-06 — Presented to President.
+- 2020-01-06 — Presented to President.
+- 2020-01-07 — Became Public Law No: 116-106.
+- 2020-01-07 — Became Public Law No: 116-106.
+- 2020-01-07 — Signed by President.
+- 2020-01-07 — Signed by President.
