@@ -53,6 +53,7 @@ Congress finds the following:
   - **(3)** *Other responsibilities* The council, subject to the general policies of the Board of Regents, shall have authority—
     - **(A)** to provide for preservation, restoration, and maintenance of the collections of the museum; and
     - **(B)** to solicit, accept, use, and dispose of gifts, bequests, and devises of personal property for the purpose of aiding and facilitating the work of the museum.
+  - **(4)** *Ensuring diversity of political viewpoints in exhibits and programs* In carrying out its duties, the council shall ensure that the exhibits and programs of the museum reflect the diversity of the political viewpoints held by women of the United States on the events and issues relating to the history of women in the United States.
 - **(c)** *Composition and appointment*
   - **(1)** *In general* The council shall be composed of 25 voting members as provided under paragraph (2).
   - **(2)** *Voting members* The council shall include the following voting members:
