@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4356
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4356
@@ -20,9 +20,10 @@ Protecting Families of Fallen Servicemembers Act
 
 - Rep. Wenstrup, Brad R. [R-OH-2] (W000815)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Protecting Families of Fallen Servicemembers Act
 - 2019-11-12 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
 - 2019-11-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8757)
 - 2019-11-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8757)
+- 2019-11-13 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
