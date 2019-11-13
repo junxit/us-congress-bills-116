@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4771
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4771
@@ -20,9 +20,10 @@ VA Tele-Hearing Modernization Act
 
 - Rep. Katko, John [R-NY-24] (K000386)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ VA Tele-Hearing Modernization Act
 - 2019-11-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2019-11-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2019-11-12 — The title of the measure was amended. Agreed to without objection.
+- 2019-11-13 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
