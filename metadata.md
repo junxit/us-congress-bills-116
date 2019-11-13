@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4356
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4356
@@ -41,3 +41,14 @@ Protecting Families of Fallen Servicemembers Act
 - 2019-11-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8757)
 - 2019-11-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8757)
 - 2019-11-13 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2020-12-15 — Passed Senate without amendment by Unanimous Consent.
+- 2020-12-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-12-15 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S7508)
+- 2020-12-15 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S7508)
+- 2020-12-16 — Message on Senate action sent to the House.
+- 2020-12-24 — Presented to President.
+- 2020-12-24 — Presented to President.
+- 2021-01-05 — Became Public Law No: 116-285.
+- 2021-01-05 — Became Public Law No: 116-285.
+- 2021-01-05 — Signed by President.
+- 2021-01-05 — Signed by President.
