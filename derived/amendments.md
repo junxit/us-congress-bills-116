@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1615
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -134,11 +134,11 @@ to guess them.
 
 ### 15 U.S.C. § 645
 
-> by striking “,, a” and inserting “, a small business concern owned and controlled by service-disabled veterans, a small business concern owned and controlled by veterans, a”; and
+> by striking “, a” and inserting “, a small business concern owned and controlled by service-disabled veterans, a small business concern owned and controlled by veterans, a”; and
 
 | | |
 |---|---|
-| Removed | `,, a` |
+| Removed | `, a` |
 | Inserted | `, a small business concern owned and controlled by service-disabled veterans, a small business concern owned and controlled by veterans, a` |
 
 ### 15 U.S.C. § 645
@@ -152,11 +152,11 @@ to guess them.
 
 ### 15 U.S.C. § 645
 
-> in subsection (e), by striking “,, a” and inserting “, a small business concern owned and controlled by service-disabled veterans, a small business concern owned and controlled by veterans, a”.
+> in subsection (e), by striking “, a” and inserting “, a small business concern owned and controlled by service-disabled veterans, a small business concern owned and controlled by veterans, a”.
 
 | | |
 |---|---|
-| Removed | `,, a` |
+| Removed | `, a` |
 | Inserted | `, a small business concern owned and controlled by service-disabled veterans, a small business concern owned and controlled by veterans, a` |
 
 ## Stated, not applied

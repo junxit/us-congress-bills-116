@@ -107,9 +107,9 @@ For purposes of this Act, the term transfer date means the date that is 2 years 
 
 - **(b)** *Penalties for misrepresentation* Section 16 of the Small Business Act (15 U.S.C. 645) is amended—
   - **(1)** in subsection (d)(1)—
-    - **(A)** by striking “,, a” and inserting “, a “small business concern owned and controlled by service-disabled veterans”, a “small business concern owned and controlled by veterans”, a”; and
+    - **(A)** by striking “, a” and inserting “, a “small business concern owned and controlled by service-disabled veterans”, a “small business concern owned and controlled by veterans”, a”; and
     - **(B)** in paragraph (A), by striking “9, 15, or 31” and inserting “8, 9, 15, 31, 36, or 36A”; and
-  - **(2)** in subsection (e), by striking “,, a” and inserting “, a “small business concern owned and controlled by service-disabled veterans”, a “small business concern owned and controlled by veterans”, a”.
+  - **(2)** in subsection (e), by striking “, a” and inserting “, a “small business concern owned and controlled by service-disabled veterans”, a “small business concern owned and controlled by veterans”, a”.
 
 ## § 6. Certification for small business concerns owned and controlled by veterans
 
@@ -146,7 +146,7 @@ The Small Business Act (15 U.S.C. 631 et seq.) is amended by inserting after sec
 - **(b)** *Transfer of functions* All functions that, immediately before the effective date of this section, were functions of the Center for Verification and Evaluation shall—
   - **(1)** on the date of enactment of this Act, be functions of both the Center for Verification and Evaluation and the Small Business Administration, except that the Small Business Administration shall not have any authority to carry out any verification functions of the Center for Verification and Evaluation; and
   - **(2)** on the transfer date, be functions of the Small Business Administration.
-- **(c)** *Transfer of assets* So much of the personnel, property, records, and unexpended balances of appropriations, allocations, and other funds employed, used, held, available, or to be made available in connection with a function transferred under this section shall be available to the Small Business Administration at such time or times as the President directs for use in connection with the functions transferred.
+- **(c)** *Transfer of assets* So much of the personnel, property, and records employed, used, held, available, or to be made available in connection with a function transferred under this section shall be available to the Small Business Administration at such time or times as the President directs for use in connection with the functions transferred.
 - **(d)** *References* Any reference in any other Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or pertaining to a function of the Center for Verification and Evaluation that is transferred under this section is deemed, after the transfer date, to refer to the Small Business Administration.
 
 ## § 9. Report
@@ -159,3 +159,7 @@ Not later than the end of the 1-year period beginning on the date of the enactme
   - **(B)** self-certified concerns that are expected to apply for certification;
 - **(3)** an explanation of how outreach to veteran service organizations, the service-disabled veteran-owned and veteran-owned small business community, and other stakeholders will be conducted; and
 - **(4)** other pertinent information determined by the Administrator and the Secretary.
+
+## § 10. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
