@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4771
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4771
@@ -41,3 +41,14 @@ VA Tele-Hearing Modernization Act
 - 2019-11-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2019-11-12 — The title of the measure was amended. Agreed to without objection.
 - 2019-11-13 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2020-03-26 — Message on Senate action sent to the House.
+- 2020-03-26 — Passed Senate without amendment by Unanimous Consent.
+- 2020-03-26 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-03-26 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2020-03-26 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S2158)
+- 2020-04-03 — Presented to President.
+- 2020-04-03 — Presented to President.
+- 2020-04-10 — Became Public Law No: 116-137.
+- 2020-04-10 — Became Public Law No: 116-137.
+- 2020-04-10 — Signed by President.
+- 2020-04-10 — Signed by President.
