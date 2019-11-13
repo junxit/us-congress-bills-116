@@ -50,3 +50,7 @@ This Act may be cited as the “Patriotic Employer Protection Act of 2019”.
     >   - **(A)** a period of war declared by the Congress;
     >   - **(B)** a period of national emergency declared by the Congress or by the President; or
     >   - **(C)** a period of a contingency operation, as defined in section 101(a) of title 10, United States Code.
+
+## § 3. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
