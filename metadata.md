@@ -1,7 +1,7 @@
 ---
 measure: H.R. 729
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 729
@@ -16,7 +16,7 @@ Coastal and Great Lakes Communities Enhancement Act
 
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 
-## Cosponsors (12)
+## Cosponsors (14)
 
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 - Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
@@ -30,6 +30,8 @@ Coastal and Great Lakes Communities Enhancement Act
 - Rep. Moore, Gwen [D-WI-4] (M001160)
 - Rep. Lujan, Ben Ray [D-NM-3] (L000570)
 - Rep. Dingell, Debbie [D-MI-12] (D000624)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Case, Ed [D-HI-1] (C001055)
 
 ## Committees (1)
 
@@ -40,3 +42,13 @@ Coastal and Great Lakes Communities Enhancement Act
 - 2019-01-23 — Introduced in House
 - 2019-01-23 — Introduced in House
 - 2019-01-23 — Referred to the House Committee on Natural Resources.
+- 2019-02-08 — Referred to the Subcommittee for Indigenous Peoples of the United States.
+- 2019-02-08 — Referred to the Subcommittee on Water, Oceans, and Wildlife.
+- 2019-07-25 — Subcommittee Hearings Held.
+- 2019-09-25 — Committee Consideration and Mark-up Session Held.
+- 2019-09-25 — Ordered to be Reported by Voice Vote.
+- 2019-09-25 — Subcommittee for Indigenous Peoples of the United States Discharged.
+- 2019-09-25 — Subcommittee on Water, Oceans, and Wildlife Discharged.
+- 2019-11-13 — Placed on the Union Calendar, Calendar No. 228.
+- 2019-11-13 — Reported by the Committee on Natural Resources. H. Rept. 116-283.
+- 2019-11-13 — Reported by the Committee on Natural Resources. H. Rept. 116-283.
