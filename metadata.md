@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4162
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4162
@@ -34,9 +34,10 @@ GI Bill Planning Act of 2019
 - Rep. Womack, Steve [R-AR-3] (W000809)
 - Rep. Moolenaar, John R. [R-MI-4] (M001194)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ GI Bill Planning Act of 2019
 - 2019-11-12 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
 - 2019-11-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 610). (text: CR H8758)
 - 2019-11-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 610).(text: CR H8758)
+- 2019-11-13 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
