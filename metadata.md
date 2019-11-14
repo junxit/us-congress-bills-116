@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 72
 congress: 116
-version: Enrolled Bill
+version: Received in Senate
 ---
 
 # H.Con.Res. 72
