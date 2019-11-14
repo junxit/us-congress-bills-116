@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 661
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 661
@@ -25,3 +25,5 @@ Authorizing the Office of General Counsel of the House of Representatives to ret
 - 2019-10-29 — Introduced in House
 - 2019-10-29 — Introduced in House
 - 2019-10-29 — Referred to the House Committee on House Administration.
+- 2019-11-14 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 695, H. Res. 661 is considered passed House.(consideration: CR H8845; text: CR H8845)
+- 2019-11-14 — Pursuant to the provisions of H. Res. 695, H. Res. 661 is considered passed House. (consideration: CR H8845; text: CR H8845)
