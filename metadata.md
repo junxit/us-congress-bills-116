@@ -1,7 +1,7 @@
 ---
 measure: H.R. 499
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 499
@@ -24,9 +24,10 @@ Service-Disabled Veterans Small Business Continuation Act
 - Rep. Balderson, Troy [R-OH-12] (B001306)
 - Rep. Underwood, Lauren [D-IL-14] (U000040)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Service-Disabled Veterans Small Business Continuation Act
 - 2019-11-13 — Mr. Schneider moved to suspend the rules and pass the bill.
 - 2019-11-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 613). (text: CR H8802)
 - 2019-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 613).(text: CR H8802)
+- 2019-11-14 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
