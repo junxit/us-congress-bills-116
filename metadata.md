@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 415
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 415
@@ -35,3 +35,7 @@ A resolution expressing the sense of the Senate that the United States Postal Se
 
 - 2019-11-07 — Introduced in Senate
 - 2019-11-07 — Referred to the Committee on Homeland Security and Governmental Affairs.
+- 2019-11-14 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR 11/07/2019 S6482)
+- 2019-11-14 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 11/07/2019 S6482)
+- 2019-11-14 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S6614)
+- 2019-11-14 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S6614)
