@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4258
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4258
@@ -43,3 +43,4 @@ Reauthorizing Security for Supreme Court Justices Act of 2019
 - 2019-11-13 — Mr. Stanton moved to suspend the rules and pass the bill.
 - 2019-11-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8796-8797)
 - 2019-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8796-8797)
+- 2019-11-14 — Received in the Senate, read twice.
