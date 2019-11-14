@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 693
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 693
@@ -25,3 +25,5 @@ Authorizing the Director of the Office of Diversity and Inclusion and the Direct
 - 2019-11-13 — Introduced in House
 - 2019-11-13 — Introduced in House
 - 2019-11-13 — Referred to the House Committee on House Administration.
+- 2019-11-14 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 695, H. Res. 693 is considered passed House.(consideration: CR H8845; text: CR H8845)
+- 2019-11-14 — Pursuant to the provisions of H. Res. 695, H. Res. 693 is considered passed House. (consideration: CR H8845; text: CR H8845)
