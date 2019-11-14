@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1773
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1773
@@ -312,10 +312,11 @@ Rosie the Riveter Congressional Gold Medal Act of 2019
 - Rep. Taylor, Van [R-TX-3] (T000479)
 - Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
 
-## Committees (2)
+## Committees (3)
 
 - House — Committee on House Administration
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -330,3 +331,4 @@ Rosie the Riveter Congressional Gold Medal Act of 2019
 - 2019-11-13 — Ms. Garcia (TX) moved to suspend the rules and pass the bill, as amended.
 - 2019-11-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8809)
 - 2019-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8809)
+- 2019-11-14 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
