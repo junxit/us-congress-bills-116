@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1615
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1615
@@ -44,10 +44,11 @@ VA-SBA Act
 - Rep. Spano, Ross [R-FL-15] (S001210)
 - Rep. Hern, Kevin [R-OK-1] (H001082)
 
-## Committees (2)
+## Committees (3)
 
 - House — Veterans' Affairs Committee
 - House — Small Business Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -68,3 +69,4 @@ VA-SBA Act
 - 2019-11-13 — Mr. Schneider moved to suspend the rules and pass the bill, as amended.
 - 2019-11-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8805-8807)
 - 2019-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8805-8807)
+- 2019-11-14 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
