@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 5090
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5090
+
+> To require the Administrator of General Services to issue regulations allowing the leasing of certain space for preventive health fitness programs, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “More Opportunities for Veterans to Exercise Act” or the “MOVE Act”.
+
+## § 2. Regulations
+
+Not later than 60 days after the date of enactment of this Act, the Administrator of General Services shall amend section 102–73.225 of title 41, Code of Federal Regulations, to provide that the Department of Veterans Affairs is delegated authority to lease, as a type of special purpose space, space for preventive health fitness programs and preventive health fitness counseling for the purpose of improving healthcare outcomes (including weight management).
+
+## § 3. Preventive health services
+
+Section 1701(9) of title 38, United States Code, is amended—
+
+- **(1)** in subparagraph (K), by striking “and” at the end;
+- **(2)** in subparagraph (L), by striking the period at the end and inserting “;”; and
+- **(3)** by adding after subparagraph (L) at the end the following:
+  > - **(M)** weight management services and physical activity programming for the purpose of improving physical and mental health; and
+  > - **(N)** physical activity counseling.
