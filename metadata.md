@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3734
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3734
@@ -25,9 +25,10 @@ Successful Entrepreneurship for Reservists and Veterans Act
 - Rep. Golden, Jared F. [D-ME-2] (G000592)
 - Rep. Costa, Jim [D-CA-16] (C001059)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ Successful Entrepreneurship for Reservists and Veterans Act
 - 2019-11-13 — Mr. Schneider moved to suspend the rules and pass the bill, as amended.
 - 2019-11-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 3 (Roll no. 614). (text: CR H8803)
 - 2019-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 3 (Roll no. 614).(text: CR H8803)
+- 2019-11-14 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
