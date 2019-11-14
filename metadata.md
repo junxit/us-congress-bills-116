@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3537
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3537
@@ -26,9 +26,10 @@ Veteran Entrepreneurship Training Act of 2019
 - Rep. Balderson, Troy [R-OH-12] (B001306)
 - Rep. Underwood, Lauren [D-IL-14] (U000040)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Recorded votes (1)
 
@@ -52,3 +53,4 @@ Veteran Entrepreneurship Training Act of 2019
 - 2019-11-13 — Mr. Schneider moved to suspend the rules and pass the bill.
 - 2019-11-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 424 - 1 (Roll no. 612). (text: CR H8797-8798)
 - 2019-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 424 - 1 (Roll no. 612).(text: CR H8797-8798)
+- 2019-11-14 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
