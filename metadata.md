@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4275
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4275
@@ -29,3 +29,10 @@ To amend the Federal Water Pollution Control Act to reauthorize the Lake Pontcha
 - 2019-09-10 — Introduced in House
 - 2019-09-10 — Introduced in House
 - 2019-09-10 — Referred to the House Committee on Transportation and Infrastructure.
+- 2019-09-11 — Referred to the Subcommittee on Water Resources and Environment.
+- 2019-09-19 — Committee Consideration and Mark-up Session Held.
+- 2019-09-19 — Ordered to be Reported (Amended) by Voice Vote.
+- 2019-09-19 — Subcommittee on Water Resources and Environment Discharged.
+- 2019-11-14 — Placed on the Union Calendar, Calendar No. 234.
+- 2019-11-14 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 116-291.
+- 2019-11-14 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 116-291.
