@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2247
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
