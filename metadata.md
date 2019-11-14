@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 393
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 393
@@ -28,3 +28,7 @@ A resolution recognizing the historical, cultural, and religious significance of
 
 - 2019-10-31 — Introduced in Senate
 - 2019-10-31 — Referred to the Committee on the Judiciary.
+- 2019-11-14 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR 10/31/2019 S6339)
+- 2019-11-14 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 10/31/2019 S6339)
+- 2019-11-14 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6614)
+- 2019-11-14 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6614)
