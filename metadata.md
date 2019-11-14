@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1773
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1773
@@ -332,3 +332,14 @@ Rosie the Riveter Congressional Gold Medal Act of 2019
 - 2019-11-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8809)
 - 2019-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8809)
 - 2019-11-14 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2020-11-12 — Message on Senate action sent to the House.
+- 2020-11-12 — Passed Senate without amendment by Unanimous Consent.
+- 2020-11-12 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-11-12 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S6664)
+- 2020-11-12 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S6664)
+- 2020-11-24 — Presented to President.
+- 2020-11-24 — Presented to President.
+- 2020-12-03 — Became Public Law No: 116-195.
+- 2020-12-03 — Became Public Law No: 116-195.
+- 2020-12-03 — Signed by President.
+- 2020-12-03 — Signed by President.
