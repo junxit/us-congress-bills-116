@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1663
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1663
@@ -20,9 +20,10 @@ Foundation of the Federal Bar Association Charter Amendments Act of 2019
 
 - Rep. Raskin, Jamie [D-MD-8] (R000606)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Foundation of the Federal Bar Association Charter Amendments Act of 2019
 - 2019-11-13 — Mr. Raskin moved to suspend the rules and pass the bill.
 - 2019-11-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8794)
 - 2019-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8794)
+- 2019-11-14 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
