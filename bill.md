@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 5131
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5131
+
+> To require reimbursement for costs associated with Presidential travel, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Stop Padding Presidential Pockets Act ”.
+
+## § 2. Reimbursement required
+
+Notwithstanding any other provision of law, in the case of a person whom the United States Secret Service is authorized to protect under paragraph (1) or (2) of section 3056(a) of title 18, United States Code, if that person travels domestically or internationally in furtherance of the business interests of an entity owned by or controlled by the President of the United States, or from which the President of the United States receives any financial benefit, that person shall reimburse to the Treasury—
+
+- **(1)** amount expended by the United States Secret Service for the provision of such protection; and
+- **(2)** any amount expended for other costs incurred by the Government pertaining to that travel.
