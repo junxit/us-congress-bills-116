@@ -1,7 +1,7 @@
 ---
 measure: S. 764
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 1 executed, 6 stated and not applied.
+14 amendatory instructions. 2 executed, 12 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,6 +33,15 @@ to guess them.
 | Removed | `paragraphs (A), (B), and (C) of section 202(a)` |
 | Inserted | `section 202(b)(2)` |
 
+### 50 U.S.C. § 1706
+
+> in subsection (b), by striking “concurrent resolution” and inserting “joint resolution”; and
+
+| | |
+|---|---|
+| Removed | `concurrent resolution` |
+| Inserted | `joint resolution` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -48,3 +57,9 @@ complete account of the bill's effect, which it is not.
 | `50 U.S.C. § 1641` | add-at-end | Section 401 of the National Emergencies Act (50 U.S.C. 1641) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1631` | repeal | Title III of the National Emergencies Act (50 U.S.C. 1631) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1706` | replace | in subsection (b), by striking “if the national emergency” and all that follows through “under this section.” and inserting the following: “if— | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 1621` | replace | Title II of the National Emergencies Act (50 U.S.C. 1621 et seq.) is amended by striking sections 201 and 202 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1641` | add-at-end | Section 401 of the National Emergencies Act (50 U.S.C. 1641) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1702` | redesignate | by redesignating subsection (c) as subsection (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1702` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1631` | repeal | Title III of the National Emergencies Act (50 U.S.C. 1631) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1706` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
