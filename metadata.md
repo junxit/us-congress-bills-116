@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4344
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4344
@@ -29,3 +29,15 @@ Investor Protection and Capital Markets Fairness Act
 - 2019-09-17 — Introduced in House
 - 2019-09-17 — Introduced in House
 - 2019-09-17 — Referred to the House Committee on Financial Services.
+- 2019-09-18 — Committee Consideration and Mark-up Session Held.
+- 2019-09-19 — Committee Consideration and Mark-up Session Held.
+- 2019-09-20 — Committee Consideration and Mark-up Session Held.
+- 2019-09-20 — Ordered to be Reported (Amended) by the Yeas and Nays: 49 - 5.
+- 2019-11-18 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2019-11-18 — Considered as unfinished business. (consideration: CR H8941-8942)
+- 2019-11-18 — Considered under suspension of the rules. (consideration: CR H8929-8932)
+- 2019-11-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4344.
+- 2019-11-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-11-18 — Mr. Green, Al (TX) moved to suspend the rules and pass the bill, as amended.
+- 2019-11-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 314 - 95 (Roll no. 627). (text: CR H8929)
+- 2019-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 314 - 95 (Roll no. 627).(text: CR H8929)
