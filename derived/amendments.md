@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1309
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -45,5 +45,5 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1395cc` | strike | in subparagraph (X), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1395cc` | replace | in subparagraph (Y), by striking at the end the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395cc` | insert | by inserting after subparagraph (Y) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395cc` | insert | in subparagraph (A), by inserting “and a hospital or skilled nursing facility that fails to comply with the requirement of subsection (a)(1)(Z) (relating to the Workplace Violence Prevention Standard)” after “Blood­borne Pathogens Standa… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395cc` | insert | in subparagraph (A), by inserting “and a hospital or skilled nursing facility that fails to comply with the requirement of subsection (a)(1)(Z) (relating to the Workplace Violence Prevention Standard)” after “Bloodborne Pathogens standar… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395cc` | insert | by inserting “(or, in the case of a failure to comply with the requirement of subsection (a)(1)(Z), for a violation of the Workplace Violence Prevention standard referred to in such subsection by a hospital or skilled nursing facility, a… | the bill quotes the text inserted but describes where it goes |
