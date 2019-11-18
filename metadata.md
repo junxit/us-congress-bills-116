@@ -1,7 +1,7 @@
 ---
 measure: S. 764
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 764
@@ -16,7 +16,7 @@ ARTICLE ONE Act
 
 - Sen. Lee, Mike [R-UT] (L000577)
 
-## Cosponsors (14)
+## Cosponsors (18)
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Tillis, Thomas [R-NC] (T000476)
@@ -32,6 +32,10 @@ ARTICLE ONE Act
 - Sen. Romney, Mitt [R-UT] (R000615)
 - Sen. Cruz, Ted [R-TX] (C001098)
 - Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. McSally, Martha [R-AZ] (M001197)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
 
 ## Committees (1)
 
@@ -41,3 +45,7 @@ ARTICLE ONE Act
 
 - 2019-03-12 — Introduced in Senate
 - 2019-03-12 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2019-07-24 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2019-11-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-159.
+- 2019-11-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-159.
+- 2019-11-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 307.
