@@ -1,7 +1,7 @@
 ---
 measure: S. 2071
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2071
@@ -33,3 +33,5 @@ Repealing Existing Substandard Provisions Encouraging Conciliation with Tribes A
 - 2019-10-22 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-132.
 - 2019-10-22 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-132.
 - 2019-10-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 252.
+- 2019-11-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6628-6629; text: CR S6628-6629)
+- 2019-11-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6628-6629; text: CR S6628-6629)
