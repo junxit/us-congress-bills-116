@@ -27,7 +27,7 @@ This Act may be cited as the “Tribal Access to Homeless Assistance Act”.
       > - **(11)** *Indian Tribe* The term Indian Tribe has the meaning given the term Indian tribe in section 4 of the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4103).
 
   - **(2)** in subtitle C (42 U.S.C. 11381 et seq.), by adding at the end the following:
-    > ## § 435. Indian Tribes and tribally designated housing entities
+    > ## § 435. Participation of Indian Tribes and tribally designated housing entities
     >
     > Notwithstanding any other provision of this title, for purposes of this subtitle, an Indian Tribe or tribally designated housing entity (as defined in section 4 of the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4103)) may—
     >
