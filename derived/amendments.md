@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4634
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 8 executed, 0 stated and not applied.
+10 amendatory instructions. 8 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,12 +26,12 @@ to guess them.
 
 ### 15 U.S.C. § 6701
 
-> Section 108(a) of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended by striking “2020” and inserting “2030”.
+> Section 108(a) of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended by striking “2020” and inserting “2027”.
 
 | | |
 |---|---|
 | Removed | `2020` |
-| Inserted | `2030` |
+| Inserted | `2027` |
 
 ### 15 U.S.C. § 6701
 
@@ -44,12 +44,12 @@ to guess them.
 
 ### 15 U.S.C. § 6701
 
-> by striking “2019” and inserting “2025”;
+> by striking “2019” and inserting “2024”;
 
 | | |
 |---|---|
 | Removed | `2019` |
-| Inserted | `2025` |
+| Inserted | `2024` |
 
 ### 15 U.S.C. § 6701
 
@@ -89,9 +89,21 @@ to guess them.
 
 ### 15 U.S.C. § 6701
 
-> by striking “2024” and inserting “2034”.
+> by striking “2024” and inserting “2029”.
 
 | | |
 |---|---|
 | Removed | `2024` |
-| Inserted | `2034` |
+| Inserted | `2029` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `15 U.S.C. § 6701` | redesignate | by redesignating subparagraphs (B) through (E) as subparagraphs (C) through (F), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 6701` | insert | by inserting after subparagraph (A) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
