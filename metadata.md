@@ -1,7 +1,7 @@
 ---
 measure: S. 2099
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2099
@@ -35,3 +35,6 @@ White Horse Hill National Game Preserve Designation Act
 - 2019-09-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 223.
 - 2019-11-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6613; text: CR S6613-6614)
 - 2019-11-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6613; text: CR S6613-6614)
+- 2019-11-18 — Message on Senate action sent to the House.
+- 2019-11-18 — Received in the House.
+- 2019-11-18 — Referred to the House Committee on Natural Resources.
