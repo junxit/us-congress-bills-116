@@ -1,7 +1,7 @@
 ---
 measure: S. 2071
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2071
@@ -21,9 +21,10 @@ Repealing Existing Substandard Provisions Encouraging Conciliation with Tribes A
 - Sen. Sinema, Kyrsten [D-AZ] (S001191)
 - Sen. Lankford, James [R-OK] (L000575)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -35,3 +36,6 @@ Repealing Existing Substandard Provisions Encouraging Conciliation with Tribes A
 - 2019-10-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 252.
 - 2019-11-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6628-6629; text: CR S6628-6629)
 - 2019-11-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6628-6629; text: CR S6628-6629)
+- 2019-11-19 — Message on Senate action sent to the House.
+- 2019-11-19 — Received in the House.
+- 2019-11-19 — Referred to the House Committee on Natural Resources.
