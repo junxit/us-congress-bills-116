@@ -1,0 +1,20 @@
+---
+legis-num: H. RES. 711
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 711
+
+> Recognizing and celebrating the 200th anniversary of the entry of Alabama into the Union as the twenty-second State.
+
+## Preamble
+
+- Whereas the United States Congress created the Alabama Territory from the eastern half of the Mississippi Territory on March 3, 1817;
+- Whereas, by 1819, the birth and growth of cities, towns, and communities in the Alabama Territory ensured that the population of the territory had developed sufficiently to achieve the minimum number of inhabitants required by Congress to qualify for statehood;
+- Whereas the United States Congress and President James Monroe approved statehood for the Alabama Territory on December 14, 1819, making it the Nation’s twenty-second State;
+- Whereas December 14, 2019, marks the 200th anniversary of the attainment of statehood by Alabama; and
+- Whereas this bicentennial anniversary is a monumental occasion to celebrate and commemorate the achievements of the great State of Alabama: Now, therefore, be it
+
+That the House of Representatives recognizes and celebrates the 200th anniversary of the entry of Alabama into the Union as the twenty-second State.
