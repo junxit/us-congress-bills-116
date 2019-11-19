@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4300
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4300
@@ -31,9 +31,10 @@ Fostering Stable Housing Opportunities Act of 2019
 - Rep. Keating, William R. [D-MA-9] (K000375)
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Fostering Stable Housing Opportunities Act of 2019
 - 2019-11-18 — Mr. Green, Al (TX) moved to suspend the rules and pass the bill, as amended.
 - 2019-11-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8937-8938)
 - 2019-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8937-8938)
+- 2019-11-19 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
