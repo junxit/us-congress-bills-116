@@ -1,7 +1,7 @@
 ---
 measure: S. 1838
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 derived: true
 ---
 
