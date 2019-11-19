@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3469
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3469
@@ -52,3 +52,10 @@ Covert Testing and Risk Mitigation Improvement Act of 2019
 - 2019-06-25 — Introduced in House
 - 2019-06-25 — Introduced in House
 - 2019-06-25 — Referred to the House Committee on Homeland Security.
+- 2019-07-18 — Referred to the Subcommittee on Transportation and Maritime Security.
+- 2019-10-23 — Committee Consideration and Mark-up Session Held.
+- 2019-10-23 — Ordered to be Reported.
+- 2019-10-23 — Subcommittee on Transportation and Maritime Security Discharged.
+- 2019-11-19 — Placed on the Union Calendar, Calendar No. 240.
+- 2019-11-19 — Reported by the Committee on Homeland Security. H. Rept. 116-298.
+- 2019-11-19 — Reported by the Committee on Homeland Security. H. Rept. 116-298.
