@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3055
 congress: 116
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 3055
@@ -16,7 +16,7 @@ Further Continuing Appropriations Act, 2020, and Further Health Extenders Act of
 
 - Rep. Serrano, Jose E. [D-NY-15] (S000248)
 
-## Cosponsors (360)
+## Cosponsors (370)
 
 - Sen. Risch, James E. [R-ID] (R000584)
 - Sen. Crapo, Mike [R-ID] (C000880)
@@ -62,6 +62,16 @@ Further Continuing Appropriations Act, 2020, and Further Health Extenders Act of
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 - Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Portman, Rob [R-OH] (P000449)
 - Sen. Jones, Doug [D-AL] (J000300)
 - Sen. Jones, Doug [D-AL] (J000300)
 - Sen. Merkley, Jeff [D-OR] (M001176)
@@ -383,7 +393,7 @@ Further Continuing Appropriations Act, 2020, and Further Health Extenders Act of
 
 - House — Appropriations Committee
 
-## Recorded votes (48)
+## Recorded votes (51)
 
 - 2019-06-20 — [House 116-1-368](votes/house-116-1-0368.md) — On Agreeing to the Amendment — **Failed** (186–245)
 - 2019-06-20 — [House 116-1-369](votes/house-116-1-0369.md) — On Agreeing to the Amendment — **Failed** (192–240)
@@ -433,6 +443,9 @@ Further Continuing Appropriations Act, 2020, and Further Health Extenders Act of
 - 2019-10-31 — [Senate 116-1-340](votes/senate-116-1-0340.md) — On the Amendment — **Amendment Agreed to** (82–11)
 - 2019-10-31 — [Senate 116-1-341](votes/senate-116-1-0341.md) — On Passage of the Bill — **Bill Passed** (84–9)
 - 2019-11-19 — [House 116-1-631](votes/house-116-1-0631.md) — On Motion to Concur in the Senate Amendment with an Amendment — **Passed** (231–192)
+- 2019-11-21 — [Senate 116-1-363](votes/senate-116-1-0363.md) — On the Motion to Table — **Motion to Table Agreed to** (73–20)
+- 2019-11-21 — [Senate 116-1-364](votes/senate-116-1-0364.md) — On the Cloture Motion — **Cloture Motion Agreed to** (75–19)
+- 2019-11-21 — [Senate 116-1-365](votes/senate-116-1-0365.md) — On the Motion — **Motion Agreed to** (74–20)
 
 ## Actions
 
@@ -1777,3 +1790,23 @@ Further Continuing Appropriations Act, 2020, and Further Health Extenders Act of
 - 2019-11-19 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 231 - 192 (Roll no. 631).(text: CR H9035-9037)
 - 2019-11-19 — Rule H. Res. 708 passed House.
 - 2019-11-19 — The previous question was ordered pursuant to the rule.
+- 2019-11-20 — Senate amendment submitted
+- 2019-11-20 — Senate amendment submitted
+- 2019-11-21 — Amendment SA 1250 proposed by Senator Paul. (consideration: CR S6734-6735; text: CR S6734) To reduce the amount appropriated by 1 percent and put the savings towards the Highway Trust Fund and certain Environmental Protection Agency Infrastructure Assistance.
+- 2019-11-21 — Became Public Law No: 116-69.
+- 2019-11-21 — Became Public Law No: 116-69.
+- 2019-11-21 — Cloture motion on the motion to concur in the House amendment to the Senate amendment to H.R. 3055 presented in Senate. (CR S6735)
+- 2019-11-21 — Cloture on the motion to concur in the House amendment to the Senate amendment to H.R. 3055 invoked in Senate by Yea-Nay Vote. 75 - 19. Record Vote Number: 364. (CR S6735)
+- 2019-11-21 — Measure laid before Senate by unanimous consent. (consideration: CR S6734-6736)
+- 2019-11-21 — Message on Senate action sent to the House.
+- 2019-11-21 — Motion by Senator McConnell to concur in the House amendment to the Senate amendment to H.R. 3055 made in Senate. (CR S6735)
+- 2019-11-21 — Motion by Senator Paul to concur in the House amendment to the Senate amendment to H.R. 3055 with an amendment (SA 1250) made in Senate. (CR S6734)
+- 2019-11-21 — Motion to table the motion to concur in the House amendment to the Senate amendment to H.R. 3055 with an amendment (SA 1250) agreed to in Senate by Yea-Nay Vote. 73 - 20. Record Vote Number: 363.
+- 2019-11-21 — Presented to President.
+- 2019-11-21 — Presented to President.
+- 2019-11-21 — Resolving differences -- Senate actions: Senate agreed to the House amendment to the Senate amendment to H.R. 3055 by Yea-Nay Vote. 74 - 20. Record Vote Number: 365.
+- 2019-11-21 — Roll call votes on amendments in Senate: Motion to table the motion to concur in the House amendment to the Senate amendment to H.R. 3055 with an amendment (SA 1250) agreed to in Senate by Yea-Nay Vote. 73 - 20. Record Vote Number: 363.
+- 2019-11-21 — Senate agreed to the House amendment to the Senate amendment to H.R. 3055 by Yea-Nay Vote. 74 - 20. Record Vote Number: 365.
+- 2019-11-21 — Senate amendment proposed (on the floor): Amendment SA 1250 proposed by Senator Paul.
+- 2019-11-21 — Signed by President.
+- 2019-11-21 — Signed by President.

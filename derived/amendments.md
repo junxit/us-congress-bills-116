@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3055
 congress: 116
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
