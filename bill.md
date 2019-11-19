@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 3055
-congress: 116th CONGRESS
-session: 1st Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Sixteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 3055
 
-That the House agree to the amendment of the Senate to the bill (H.R. 3055) entitled “An Act making appropriations for the Departments of Commerce and Justice, Science, and Related Agencies for the fiscal year ending September 30, 2020, and for other purposes.”, with the following
-
-*In lieu of the matter proposed to be inserted by the Senate amendment, insert the following:*
+> Making further continuing appropriations for fiscal year 2020, and for other purposes.
 
 ## § 1. Short title
 
