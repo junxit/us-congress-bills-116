@@ -1,7 +1,7 @@
 ---
 measure: S. 1838
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 1 executed, 4 stated and not applied.
+2 amendatory instructions. 1 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -42,7 +42,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `22 U.S.C. § 5721` | insert | in section 201(b), by inserting “or after” after “entered into before”; and | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 5721` | add-at-end | Title II of the United States-Hong Kong Policy Act of 1992 (22 U.S.C. 5721 et seq.), as amended by subsection (a), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1182` | add-at-end | Section 212(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 5721` | add-at-end | Title II of the United States-Hong Kong Policy Act of 1992 (22 U.S.C. 5721 et seq.), as amended by subsection (a), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
