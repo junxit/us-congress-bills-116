@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3702
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3702
@@ -35,10 +35,11 @@ Reforming Disaster Recovery Act of 2019
 - Rep. Brooks, Susan W. [R-IN-5] (B001284)
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 
-## Committees (2)
+## Committees (3)
 
 - House — Financial Services Committee
 - House — Appropriations Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -60,3 +61,4 @@ Reforming Disaster Recovery Act of 2019
 - 2019-11-18 — Mr. Green, Al (TX) moved to suspend the rules and pass the bill, as amended.
 - 2019-11-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 290 - 118 (Roll no. 625). (text: CR H8914-8917)
 - 2019-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 290 - 118 (Roll no. 625).(text: CR H8914-8917)
+- 2019-11-19 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
