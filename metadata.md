@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4029
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4029
@@ -27,9 +27,10 @@ Tribal Access to Homeless Assistance Act
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 - Rep. Stanton, Greg [D-AZ-9] (S001211)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Tribal Access to Homeless Assistance Act
 - 2019-11-18 — Mr. Green, Al (TX) moved to suspend the rules and pass the bill, as amended.
 - 2019-11-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8926)
 - 2019-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8926)
+- 2019-11-19 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
