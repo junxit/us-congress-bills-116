@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4344
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4344
@@ -20,9 +20,10 @@ Investor Protection and Capital Markets Fairness Act
 
 - Rep. Huizenga, Bill [R-MI-2] (H001058)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Investor Protection and Capital Markets Fairness Act
 - 2019-11-18 — Mr. Green, Al (TX) moved to suspend the rules and pass the bill, as amended.
 - 2019-11-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 314 - 95 (Roll no. 627). (text: CR H8929)
 - 2019-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 314 - 95 (Roll no. 627).(text: CR H8929)
+- 2019-11-19 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
