@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3055
 congress: 116
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 3055
@@ -1716,3 +1716,13 @@ Further Continuing Appropriations Act, 2020, and Further Health Extenders Act of
 - 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 951 proposed by Senator McConnell for Senator Warner to Amendment SA 948.
 - 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 953 proposed by Senator McConnell for Senator Tester to Amendment SA 948.
 - 2019-10-31 — Senate amendment proposed (on the floor): Amendment SA 956 proposed by Senator McConnell for Senator Hassan to Amendment SA 948.
+- 2019-11-04 — Message on Senate action sent to the House.
+- 2019-11-18 — Rules Committee Resolution H. Res. 708 Reported to House. The resolution makes in order a motion that the House concur in the Senate amendment with an amendment inserting the text of Rules Committee Print 116-38, in lieu of the matter proposed to be inserted by the Senate.
+- 2019-11-19 — DEBATE - Pursuant to H. Res. 708, the House proceeded with one hour of debate on the Lowey motion to concur in the Senate amendment with an amendment to H.R. 3055.
+- 2019-11-19 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2019-11-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-11-19 — Mrs. Lowey moved that the House concur with an amendment to the Senate amendment. (consideration: CR H8972-9041; text: CR H8972-9035)
+- 2019-11-19 — On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 231 - 192 (Roll no. 631). (text: CR H9035-9037)
+- 2019-11-19 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 231 - 192 (Roll no. 631).(text: CR H9035-9037)
+- 2019-11-19 — Rule H. Res. 708 passed House.
+- 2019-11-19 — The previous question was ordered pursuant to the rule.
