@@ -1,7 +1,7 @@
 ---
 measure: S. 1838
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1838
@@ -16,7 +16,7 @@ Hong Kong Human Rights and Democracy Act of 2019
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 
-## Cosponsors (53)
+## Cosponsors (56)
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Risch, James E. [R-ID] (R000584)
@@ -71,6 +71,9 @@ Hong Kong Human Rights and Democracy Act of 2019
 - Sen. Murray, Patty [D-WA] (M001111)
 - Sen. Daines, Steve [R-MT] (D000618)
 - Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Graham, Lindsey [R-SC] (G000359)
 
 ## Committees (1)
 
@@ -93,3 +96,20 @@ Hong Kong Human Rights and Democracy Act of 2019
 - 2019-11-19 — Senate amendment proposed (on the floor): Amendment SA 1246 proposed by Senator Rubio.
 - 2019-11-19 — Senate amendment submitted
 - 2019-11-19 — The committee amendment withdrawn by Unanimous Consent. (CR S6657)
+- 2019-11-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2019-11-20 — Considered as unfinished business. (consideration: CR H9100)
+- 2019-11-20 — Considered under suspension of the rules. (consideration: CR H9089-9096)
+- 2019-11-20 — DEBATE - The House proceeded with forty minutes of debate on S. 1838.
+- 2019-11-20 — Held at the desk.
+- 2019-11-20 — Message on Senate action sent to the House.
+- 2019-11-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-11-20 — Mr. Engel moved to suspend the rules and pass the bill.
+- 2019-11-20 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 1 (Roll no. 635). (text: CR H9089-9092)
+- 2019-11-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 1 (Roll no. 635).(text: CR H9089-9092)
+- 2019-11-20 — Received in the House.
+- 2019-11-21 — Presented to President.
+- 2019-11-21 — Presented to President.
+- 2019-11-27 — Became Public Law No: 116-76.
+- 2019-11-27 — Became Public Law No: 116-76.
+- 2019-11-27 — Signed by President.
+- 2019-11-27 — Signed by President.
