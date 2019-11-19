@@ -1,7 +1,7 @@
 ---
 measure: S. 2710
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2710
@@ -40,6 +40,10 @@ A bill to prohibit the commercial export of covered munitions items to the Hong 
 
 - Senate — Banking, Housing, and Urban Affairs Committee
 
+## Recorded votes (1)
+
+- 2019-11-20 — [House 116-1-636](votes/house-116-1-0636.md) — On Motion to Suspend the Rules and Pass — **Passed** (417–0)
+
 ## Actions
 
 - 2019-10-24 — Introduced in Senate
@@ -59,3 +63,20 @@ A bill to prohibit the commercial export of covered munitions items to the Hong 
 - 2019-11-19 — Senate amendment proposed (on the floor): Amendment SA 1248 proposed by Senator Merkley.
 - 2019-11-19 — Senate amendment submitted
 - 2019-11-19 — Senate amendment submitted
+- 2019-11-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2019-11-20 — Considered as unfinished business. (consideration: CR H9100-9101)
+- 2019-11-20 — Considered under suspension of the rules. (consideration: CR H9096-9098)
+- 2019-11-20 — DEBATE - The House proceeded with forty minutes of debate on S. 2710.
+- 2019-11-20 — Held at the desk.
+- 2019-11-20 — Message on Senate action sent to the House.
+- 2019-11-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-11-20 — Mr. Sherman moved to suspend the rules and pass the bill.
+- 2019-11-20 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 636). (text: CR H9096)
+- 2019-11-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 636).(text: CR H9096)
+- 2019-11-20 — Received in the House.
+- 2019-11-21 — Presented to President.
+- 2019-11-21 — Presented to President.
+- 2019-11-27 — Became Public Law No: 116-77.
+- 2019-11-27 — Became Public Law No: 116-77.
+- 2019-11-27 — Signed by President.
+- 2019-11-27 — Signed by President.
