@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 75
 congress: 116
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 75
