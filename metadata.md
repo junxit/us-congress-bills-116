@@ -1,7 +1,7 @@
 ---
 measure: H.R. 737
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 737
@@ -310,6 +310,10 @@ Shark Fin Sales Elimination Act of 2019
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2019-11-20 — [House 116-1-634](votes/house-116-1-0634.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (310–107)
+
 ## Actions
 
 - 2019-01-23 — Introduced in House
@@ -323,3 +327,11 @@ Shark Fin Sales Elimination Act of 2019
 - 2019-11-08 — Placed on the Union Calendar, Calendar No. 218.
 - 2019-11-08 — Reported by the Committee on Natural Resources. H. Rept. 116-273.
 - 2019-11-08 — Reported by the Committee on Natural Resources. H. Rept. 116-273.
+- 2019-11-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2019-11-20 — Considered as unfinished business. (consideration: CR H9099-9100)
+- 2019-11-20 — Considered under suspension of the rules. (consideration: CR H9076-9083)
+- 2019-11-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 737.
+- 2019-11-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-11-20 — Mr. Huffman moved to suspend the rules and pass the bill, as amended.
+- 2019-11-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 310 - 107 (Roll no. 634). (text: CR H9077)
+- 2019-11-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 310 - 107 (Roll no. 634).(text: CR H9077)

@@ -30,19 +30,27 @@ Section 2 shall not apply with respect to possession of a shark fin that was tak
 ## § 4. Exemption for Dogfish
 
 - **(a)** *In general* It shall not be a violation of section 2 for any person to possess, offer for sale, sell, or purchase any fresh or frozen raw fin or tail from any stock of the species Mustelus canis (smooth dogfish) or Squalus acanthias (spiny dogfish).
-- **(b)** *Report* By not later than January 1, 2027, the Secretary of Commerce shall review the exemption in subsection (a) and shall prepare and submit to the Congress a report that includes a recommendation on whether the exemption should continue or be terminated. In preparing such report and making such recommendation, the Secretary shall analyze factors including—
+- **(b)** *Report* By not later than January 1, 2027, the Secretary of Commerce should review the exemption in subsection (a) and should prepare and submit to the Congress a report that includes a recommendation on whether the exemption should continue or be terminated. In preparing such report and making such recommendation, the Secretary should analyze factors including—
   - **(1)** the economic viability of dogfish fisheries with and without the continuation of the exemption;
   - **(2)** the impact to ocean ecosystems of continuing or terminating the exemption;
   - **(3)** the impact on enforcement of the ban contained in section 3 caused by the exemption; and
   - **(4)** the impact of the exemption on shark conservation.
 
-## § 5. Definitions
+## § 5. Inclusion of rays and skates in seafood traceability program
+
+Not later than 1 year after the date of the enactment of this Act, the Secretary of Commerce shall revise section 300.324 of title 50, Code of Federal Regulations, to include rays and skates in the species and species groups specified in subsection (a)(2) of such section.
+
+## § 6. Definitions
 
 In this Act:
 
-- **(1)** *Shark* The term “shark” means any species of the orders Pristiophoriformes, Squa­tin­i­formes, Squaliformes, Hexanchiformes, Lam­ni­formes, Carchariniformes, Orectolobiformes, and Heterodontiformes.
+- **(1)** *Shark* The term “shark” means any species of the orders Pristiophoriformes, Squatiniformes, Squaliformes, Hexanchiformes, Lamniformes, Carchariniformes, Orectolobiformes, and Heterodontiformes.
 - **(2)** *Shark fin* The term “shark fin” means the raw, dried, or otherwise processed detached fin, or the raw, dried, or otherwise processed detached tail, of a shark.
 
-## § 6. State authority
+## § 7. State authority
 
 Nothing in this Act affects any right of a State or territory of the United States to adopt or enforce any regulation or standard that is more stringent than a regulation or standard in effect under this Act.
+
+## § 8. Determination of budget effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
