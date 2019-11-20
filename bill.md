@@ -24,6 +24,8 @@ This Act may be cited as the “Multinational Species Conservation Funds Semipos
     >   - **(A)** *In general* The United States Postal Service shall sell each copy of the Multinational Species Conservation Fund Semipostal Stamp that the United States Postal Service prints under this Act.
     >   - **(B)** *Notification of Congress* The United States Postal Service shall notify the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform of the House of Representatives when all copies of the Multinational Species Conservation Fund Semipostal Stamp printed under this Act have been sold.
 
-- **(b)** *Retroactive applicability*
-  - **(1)** *In general* The amendments made by subsection (a) shall take effect as if enacted on the day after the date of enactment of the Multinational Species Conservation Funds Semipostal Stamp Reauthorization Act of 2013 (Public Law 113–165; 128 Stat. 1878).
-  - **(2)** *Consequence of destruction of stamps* If the United States Postal Service destroys 1 or more Multinational Species Conservation Fund Semipostal Stamps before the date of enactment of this Act, the United States Postal Service shall print and sell the same number of such stamps on or after that date of enactment.
+- **(b)** *Retroactive applicability* The amendments made by subsection (a) shall take effect as if enacted on the day after the date of enactment of the Multinational Species Conservation Funds Semipostal Stamp Reauthorization Act of 2013 (Public Law 113–165; 128 Stat. 1878).
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
