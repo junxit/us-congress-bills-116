@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1487
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1487
@@ -42,3 +42,9 @@ Santa Monica Mountains National Recreation Area Boundary Adjustment Study Act
 - 2019-11-15 — Placed on the Union Calendar, Calendar No. 236.
 - 2019-11-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-293.
 - 2019-11-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-293.
+- 2019-11-20 — Considered under suspension of the rules. (consideration: CR H9088-9089)
+- 2019-11-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1487.
+- 2019-11-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-11-20 — Mr. Huffman moved to suspend the rules and pass the bill, as amended.
+- 2019-11-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9088)
+- 2019-11-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9088)
