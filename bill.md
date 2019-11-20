@@ -20,46 +20,46 @@ Title I of the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.) is a
 > ## § 124. San Francisco Bay restoration grant program
 >
 > - **(a)** *Definitions* In this section:
->   - **(1)** *Annual priority list* The term annual priority list means the annual priority list compiled under subsection (b).
->   - **(2)** *Comprehensive plan* The term comprehensive plan means—
->     - **(A)** the comprehensive conservation and management plan approved under section 320 for the San Francisco Bay estuary; and
->     - **(B)** any amendments to that plan.
->   - **(3)** *Estuary partnership* The term Estuary Partnership means the San Francisco Estuary Partnership, the entity that is designated as the management conference under section 320.
+>   - **(1)** *Estuary partnership* The term Estuary Partnership means the San Francisco Estuary Partnership, designated as the management conference for the San Francisco Bay under section 320.
+>   - **(2)** *San Francisco Bay Plan* The term “San Francisco Bay Plan” means—
+>     - **(A)** until the date of the completion of the plan developed by the Director under subsection (d), the comprehensive conservation and management plan approved under section 320 for the San Francisco Bay estuary; and
+>     - **(B)** on and after the date of the completion of the plan developed by the Director under subsection (d), the plan developed by the Director under subsection (d).
 > - **(b)** *Program office*
->   - **(1)** *Establishment* The Administrator shall establish in the Environmental Protection Agency a San Francisco Bay Program Office. The Office shall be located at the headquarters of region 9 of the Environmental Protection Agency.
->   - **(2)** *Appointment of Director* The Administrator shall appoint a Director of the Office, who, by reason of management experience and technical expertise relating to the San Francisco Bay, shall be highly qualified to support the development and implementation of projects, programs, and studies necessary to implement the comprehensive plan.
+>   - **(1)** *Establishment* The Administrator shall establish in the Environmental Protection Agency a San Francisco Bay Program Office. The Office shall be located at the headquarters of Region 9 of the Environmental Protection Agency.
+>   - **(2)** *Appointment of Director* The Administrator shall appoint a Director of the Office, who shall have management experience and technical expertise relating to the San Francisco Bay and be highly qualified to direct the development and implementation of projects, activities, and studies necessary to implement the San Francisco Bay Plan.
 >   - **(3)** *Delegation of authority; staffing* The Administrator shall delegate to the Director such authority and provide such staff as may be necessary to carry out this section.
 > - **(c)** *Annual priority list*
->   - **(1)** *In general* After providing public notice, the Administrator shall annually compile a priority list identifying and prioritizing the activities, projects, and studies intended to be funded with the amounts made available under subsection (c).
+>   - **(1)** *In general* After providing public notice, the Director shall annually compile a priority list, consistent with the San Francisco Bay Plan, identifying and prioritizing the projects, activities, and studies to be carried out with amounts made available under subsection (e).
 >   - **(2)** *Inclusions* The annual priority list compiled under paragraph (1) shall include the following:
->     - **(A)** Activities, projects, or studies, including restoration projects and habitat improvement for fish, waterfowl, and wildlife, that advance the goals and objectives of the approved comprehensive plan for—
->       - **(i)** water quality improvement;
+>     - **(A)** Projects, activities, and studies, including restoration projects and habitat improvement for fish, waterfowl, and wildlife, that advance the goals and objectives of the San Francisco Bay Plan, for—
+>       - **(i)** water quality improvement, including the reduction of marine litter;
 >       - **(ii)** wetland, riverine, and estuary restoration and protection;
 >       - **(iii)** nearshore and endangered species recovery; and
 >       - **(iv)** adaptation to climate change.
->     - **(B)** Information on the activities, projects, programs, or studies specified under subparagraph (A), including a description of—
->       - **(i)** the identities of the financial assistance recipients; and
->       - **(ii)** the communities to be served.
->     - **(C)** The criteria and methods established by the Administrator for selection of activities, projects, and studies.
->   - **(3)** *Consultation* In developing the priority list under paragraph (1), the Administrator shall consult with and consider the recommendations of—
+>     - **(B)** Information on the projects, activities, and studies specified under subparagraph (A), including—
+>       - **(i)** the identity of each entity receiving assistance pursuant to subsection (e); and
+>       - **(ii)** a description of the communities to be served.
+>     - **(C)** The criteria and methods established by the Director for identification of projects, activities, and studies to be included on the annual priority list.
+>   - **(3)** *Consultation* In compiling the annual priority list under paragraph (1), the Director shall consult with, and consider the recommendations of—
 >     - **(A)** the Estuary Partnership;
 >     - **(B)** the State of California and affected local governments in the San Francisco Bay estuary watershed;
 >     - **(C)** the San Francisco Bay Restoration Authority; and
->     - **(D)** any other relevant stakeholder involved with the protection and restoration of the San Francisco Bay estuary that the Administrator determines to be appropriate.
-> - **(d)** *Grant program*
->   - **(1)** *In general* Pursuant to section 320, the Administrator may provide funding through cooperative agreements, grants, or other means to State and local agencies, special districts, and public or nonprofit agencies, institutions, and organizations, including the Estuary Partnership, for activities, studies, or projects identified on the annual priority list.
+>     - **(D)** any other relevant stakeholder involved with the protection and restoration of the San Francisco Bay estuary that the Director determines to be appropriate.
+> - **(d)** *San Francisco Bay Plan*
+>   - **(1)** *In general* Not later than 5 years after the date of enactment of this section, the Director, in conjunction with the Estuary Partnership, shall review and revise the comprehensive conservation and management plan approved under section 320 for the San Francisco Bay estuary to develop a plan to guide the projects, activities, and studies of the Office to address the restoration and protection of the San Francisco Bay.
+>   - **(2)** *Revision of San Francisco Bay Plan* Not less often than once every 5 years after the date of the completion of the plan described in paragraph (1), the Director shall review, and revise as appropriate, the San Francisco Bay Plan.
+>   - **(3)** *Outreach* In carrying out this subsection, the Director shall consult with the Estuary Partnership and Indian tribes and solicit input from other non-Federal stakeholders.
+> - **(e)** *Grant program*
+>   - **(1)** *In general* The Director may provide funding through cooperative agreements, grants, or other means to State and local agencies, special districts, and public or nonprofit agencies, institutions, and organizations, including the Estuary Partnership, for projects, activities, and studies identified on the annual priority list compiled under subsection (c).
 >   - **(2)** *Maximum amount of grants; non-Federal share*
->     - **(A)** *Maximum amount of grants* Amounts provided to any individual or entity under this section for a fiscal year shall not exceed an amount equal to 75 percent of the total cost of any eligible activities that are to be carried out using those amounts.
->     - **(B)** *Non-Federal share* The non-Federal share of the total cost of any eligible activities that are carried out using amounts provided under this section shall be—
->       - **(i)** not less than 25 percent; and
->       - **(ii)** provided from non-Federal sources.
-> - **(e)** *Funding*
->   - **(1)** *Authorization of appropriations* There are authorized to be appropriated to the Administrator to carry out this section $25,000,000 for each of fiscal years 2020 through 2024.
->   - **(2)** *Administrative expenses* Of the amount made available to carry out this section for a fiscal year, the Administrator shall use not more than 5 percent to pay administrative expenses incurred in carrying out this section.
->   - **(3)** *Relationship to other funding* Nothing in this section limits the eligibility of the Estuary Partnership to receive funding under section 320(g).
->   - **(4)** *Prohibition* No amounts made available under subsection (c) may be used for the administration of a management conference under section 320.
-> - **(f)** *Annual budget plan* The President, as part of the annual budget submission of the President under section 1105 of title 31, United States Code, shall submit information regarding each Federal department and agency involved in San Francisco Bay protection and restoration, including—
+>     - **(A)** *Maximum amount of grants* Amounts provided to any entity under this section for a fiscal year shall not exceed an amount equal to 75 percent of the total cost of any projects, activities, and studies that are to be carried out using those amounts.
+>     - **(B)** *Non-Federal share* Not less than 25 percent of the cost of any project, activity, or study carried out using amounts provided under this section shall be provided from non-Federal sources.
+> - **(f)** *Funding*
+>   - **(1)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2020 through 2024.
+>   - **(2)** *Administrative expenses* Of the amount made available to carry out this section for a fiscal year, the Director may not use more than 5 percent to pay administrative expenses incurred in carrying out this section.
+>   - **(3)** *Prohibition* No amounts made available under this section may be used for the administration of a management conference under section 320.
+> - **(g)** *Annual budget plan* The President, as part of the annual budget submission of the President to Congress under section 1105(a) of title 31, United States Code, shall submit information regarding each Federal department and agency involved in San Francisco Bay protection and restoration, including—
 >   - **(1)** a report that displays for each Federal agency—
->     - **(A)** the amounts obligated in the preceding fiscal year for protection and restoration projects, programs, and studies relating to the San Francisco Bay; and
->     - **(B)** the proposed budget for protection and restoration projects, programs, and studies relating to the San Francisco Bay; and
->   - **(2)** a description and assessment of the Federal role in the implementation of the comprehensive plan and the specific role of each Federal department and agency involved in San Francisco Bay protection and restoration, including specific projects, programs, and studies conducted or planned to achieve the identified goals and objectives of the comprehensive plan.
+>     - **(A)** the amounts obligated in the preceding fiscal year for protection and restoration projects, activities, and studies relating to the San Francisco Bay; and
+>     - **(B)** the proposed budget for protection and restoration projects, activities, and studies relating to the San Francisco Bay; and
+>   - **(2)** a description and assessment of the Federal role in the implementation of the San Francisco Bay Plan and the specific role of each Federal department and agency involved in San Francisco Bay protection and restoration, including specific projects, activities, and studies conducted or planned to achieve the identified goals and objectives of the San Francisco Bay Plan.
