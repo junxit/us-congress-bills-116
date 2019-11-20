@@ -1,7 +1,7 @@
 ---
 measure: H.R. 925
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 925
@@ -70,3 +70,9 @@ The Heroes Act
 - 2019-11-13 — Placed on the Union Calendar, Calendar No. 229.
 - 2019-11-13 — Reported by the Committee on Natural Resources. H. Rept. 116-284.
 - 2019-11-13 — Reported by the Committee on Natural Resources. H. Rept. 116-284.
+- 2019-11-20 — Considered under suspension of the rules. (consideration: CR H9083-9084)
+- 2019-11-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 925.
+- 2019-11-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-11-20 — Mr. Sablan moved to suspend the rules and pass the bill.
+- 2019-11-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9083)
+- 2019-11-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9083)
