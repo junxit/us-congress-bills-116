@@ -1,7 +1,7 @@
 ---
 measure: H.R. 263
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 263
@@ -61,3 +61,9 @@ To rename the Oyster Bay National Wildlife Refuge as the Congressman Lester Wolf
 - 2019-10-11 — Placed on the House Calendar, Calendar No. 45.
 - 2019-10-11 — Reported by the Committee on Natural Resources. H. Rept. 116-228.
 - 2019-10-11 — Reported by the Committee on Natural Resources. H. Rept. 116-228.
+- 2019-11-20 — Considered under suspension of the rules. (consideration: CR H9075-9076)
+- 2019-11-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 263.
+- 2019-11-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-11-20 — Mr. Huffman moved to suspend the rules and pass the bill.
+- 2019-11-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9075-9076)
+- 2019-11-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9075-9076)
