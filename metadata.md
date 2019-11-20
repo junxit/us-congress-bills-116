@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5084
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5084
@@ -23,9 +23,10 @@ Improving Corporate Governance Through Diversity Act of 2019
 - Rep. Scott, David [D-GA-13] (S001157)
 - Rep. Cisneros, Gilbert Ray, Jr. [D-CA-39] (C001123)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Improving Corporate Governance Through Diversity Act of 2019
 - 2019-11-19 — Motion to reconsider laid on the table Agreed to without objection.
 - 2019-11-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 281 - 135 (Roll no. 630). (text: CR 11/18/2019 H8927-8928)
 - 2019-11-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 281 - 135 (Roll no. 630).(text: CR 11/18/2019 H8927-8928)
+- 2019-11-20 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
