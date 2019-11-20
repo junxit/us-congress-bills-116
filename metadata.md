@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1132
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1132
@@ -42,3 +42,11 @@ San Francisco Bay Restoration Act
 - 2019-02-08 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-02-08 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-02-08 — Referred to the Subcommittee on Water Resources and Environment.
+- 2019-09-19 — Committee Consideration and Mark-up Session Held.
+- 2019-09-19 — Ordered to be Reported (Amended) by Voice Vote.
+- 2019-09-19 — Subcommittee on Water Resources and Environment Discharged.
+- 2019-11-20 — Committee on the Budget discharged.
+- 2019-11-20 — Committee on the Budget discharged.
+- 2019-11-20 — Placed on the Union Calendar, Calendar No. 245.
+- 2019-11-20 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 116-304, Part I.
+- 2019-11-20 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 116-304, Part I.
