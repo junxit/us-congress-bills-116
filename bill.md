@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1088
 
-> To authorize the Society of the First Infantry Division to make modifications to the First Division Monument located on Federal land in Presidential Park in District of Columbia, and for other purposes.
+> To authorize the Society of the First Infantry Division to make modifications to the First Division Monument located on Federal Land in President’s Park in the District of Columbia, and for other purposes.
 
 ## § 1. Short title
 
