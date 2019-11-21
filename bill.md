@@ -31,7 +31,7 @@ Congress finds the following:
 - **(12)** Studies have consistently found that African American and Latino households tend, on average, to have lower credit scores than White households. The growing use of credit checks, therefore, may disproportionately screen otherwise qualified racial and ethnic minorities out of jobs, leading to discriminatory hiring practices, and further exacerbating the trend where unemployment for African American and Latino communities is elevated well above the rate of Whites.
 - **(13)** A 2012 Demos survey found that 65 percent of White respondents reported having good or excellent credit scores while over half of African American households reported only having fair or bad credit.
 
-## § 3. Bans the use of credit information for most employment decisions
+## § 3. Prohibition on the use of credit information for most employment decisions
 
 - **(a)** *In general* Section 604 of the Fair Credit Reporting Act (15 U.S.C. 1681b) is amended—
   - **(1)** in subsection (a)(3)(B), by inserting “, subject to the requirements of subsection (b)” after “purposes”; and
@@ -52,7 +52,7 @@ Congress finds the following:
       > - **(5)** *Requirements for consumer reports bearing on the consumer’s creditworthiness, credit standing, or credit capacity*
       >   - **(A)** *In general* A person may use a consumer report with respect to any consumer in which any information contained in the report bears on the consumer’s creditworthiness, credit standing, or credit capacity only if—
       >     - **(i)** either—
-      >       - **(I)** the person is required to obtain the report by a Federal, State, or local law; or
+      >       - **(I)** the person is required to obtain the report by a Federal, State, or local law or regulation; or
       >       - **(II)** the information contained in the report is being used with respect to a national security investigation (as defined in paragraph (4)(D));
       >     - **(ii)** none of the cost associated with obtaining the consumer report will be passed on to the consumer to whom the report relates; and
       >     - **(iii)** the information contained in the consumer report will not be disclosed to any other person other than—
@@ -72,5 +72,6 @@ Congress finds the following:
       > - **(6)** *Rule of construction* Nothing in this subsection shall be construed to require a consumer reporting agency to prevent a Federal, State, or local law enforcement agency from accessing information in a consumer report to which the law enforcement agency could otherwise obtain access.
 
 - **(b)** *Technical amendment* The Fair Credit Reporting Act (15 U.S.C. 1681 et seq.) is amended by striking “section 604(b)(4)(E)(i)” each place such term appears and inserting “section 604(b)(4)(D)(i)”.
-- **(c)** *Rulemaking* Not later than the end of the 2-year period beginning on the date of the enactment of this Act, the Bureau of Consumer Financial Protection shall issue final rules to implement the amendments made by this Act.
-- **(d)** *Effective date* The amendments made by this section shall take effect 2 years after the date of the enactment of this Act.
+- **(c)** *Rule of construction* The amendments made by this Act may not be construed as limiting the ability of a person to use non-financial or non-credit related consumer report information.
+- **(d)** *Rulemaking* Not later than the end of the 2-year period beginning on the date of the enactment of this Act, the Bureau of Consumer Financial Protection shall issue final rules to implement the amendments made by this Act.
+- **(e)** *Effective date* The amendments made by this section shall take effect 2 years after the date of the enactment of this Act.
