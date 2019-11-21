@@ -21,19 +21,19 @@ Congress finds the following:
 - **(2)** The Bureau of Consumer Financial Protection found that one of the most common barriers for people in reviewing their own credit reports and shopping for the best credit terms was a lack of understanding of the differences between “soft” and “hard” inquiries and whether requesting a copy of their own report would adversely impact their credit standing.
 - **(3)** The Bureau of Consumer Financial Protection revealed that consumers with accurate perceptions of their creditworthiness may be better equipped to shop for favorable credit terms.
 
-## § 3. CFPB oversight of credit scoring models
+## § 3. Consumer Bureau oversight of credit scoring models
 
-- **(a)** *In general* The Fair Credit Reporting Act (15 U.S.C. 1681 et seq.) is amended—
-  - **(1)** by adding at the end the following new section:
-    > ## § 630. Credit scoring models
-    >
-    > - **(a)** *Validated credit scoring models* Not later than 1 year after the date of the enactment of this section, the Bureau shall issue final regulations applicable to any person that creates, maintains, or purchases credit scoring models used in making credit decisions to establish standards for validating the accuracy and predictive value of all such credit scoring models, both before release for initial use and at regular intervals thereafter, for as long as such credit scoring models are made available for purchase or use by such person.
-    > - **(b)** *Prohibition* At least once every 2 years, the Bureau shall conduct a review of credit scoring models to determine whether the use of any particular factors, or the weight or consideration given to certain factors by credit scoring models, is inappropriate, including if such factors do not enhance or contribute to the accuracy and predictive value of the models. Upon the conclusion of its review, the Bureau may prohibit a person described in subsection (a) from weighing, considering, or including certain factors in, or making available for purchase or use, certain credit scoring models or versions, as the Bureau determines appropriate.
+The Fair Credit Reporting Act (15 U.S.C. 1681 et seq.) is amended—
 
-  - **(2)** in the table of contents for such Act, by adding at the end the following new item:
-- **(b)** *Rulemaking* Not later than the end of the 2-year period beginning on the date of the enactment of this Act, the Bureau of Consumer Financial Protection shall issue final rules to implement the amendments made by this section.
+- **(1)** by adding at the end the following new section:
+  > ## § 630. Credit scoring models
+  >
+  > - **(a)** *Validated credit scoring models* Not later than 1 year after the date of the enactment of this section, the Bureau shall (in consultation with the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Board of Directors of the Federal Deposit Insurance Corporation, and the National Credit Union Administration Board) issue final regulations applicable to any person that creates, maintains, utilizes, or purchases credit scoring models used in making credit decisions to establish standards for validating the accuracy and predictive value of all such credit scoring models, both before release for initial use and at regular intervals thereafter, for as long as such credit scoring models are made available for purchase or use by such person.
+  > - **(b)** *Prohibition* At least once every 2 years, the Bureau shall conduct a review of credit scoring models to determine whether the use of any particular factors, or the weight or consideration given to certain factors by credit scoring models, is inappropriate, including if such factors do not enhance or contribute to the accuracy and predictive value of the models. Upon the conclusion of its review, the Bureau may prohibit a person described in subsection (a) from weighing, considering, or including certain factors in, or making available for purchase or use, certain credit scoring models or versions, as the Bureau determines appropriate.
 
-## § 4. CFPB study and report to Congress on the impact of non-traditional data
+- **(2)** in the table of contents for such Act, by adding at the end the following new item:
+
+## § 4. Consumer Bureau study and report to Congress on the impact of non-traditional data
 
 - **(a)** *Study* The Bureau of Consumer Financial Protection shall carry out a study to assess the impact (including the availability and affordability of credit and other noncredit decisions, the potential positive and negative impacts on consumer credit scores, and any unintended consequences) of using traditional modeling techniques or alternative modeling techniques to analyze non-traditional data from a consumer report and of including non-traditional data on consumer reports on the following:
   - **(1)** Consumers with no or minimal traditional credit history.
@@ -51,8 +51,11 @@ Congress finds the following:
   - **(3)** the understanding of consumers of how such information may be used or considered and the ease with which a consumer may decide to restrict or prohibit such use or consideration of such information;
   - **(4)** potential discriminatory effects; and
   - **(5)** disparate outcomes the use or consideration of such information may cause.
-- **(c)** *Report* Not later than 1 year after the date of the enactment of this Act, the Bureau of Consumer Financial Protection shall issue a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate containing all findings and determinations, including any recommendations for any legislative or regulatory changes, made in carrying out the study required under subsection (a).
-- **(d)** *Definitions* In this section:
+- **(c)** *Consideration of recent Government studies* In assessing impacts under subsection (a), the Bureau of Consumer Financial Protection shall also consider recent Government studies on alternative data, including—
+  - **(1)** the report of the Bureau of Consumer Financial Protection titled “CFPB Data Point: Becoming Credit Visible” (published June 2017); and
+  - **(2)** the report of the Comptroller General of the United States titled “Financial Technology: Agencies Should Provide Clarification on Lenders’ Use of Alternative Data” (published December 2018).
+- **(d)** *Report* Not later than 1 year after the date of the enactment of this Act, the Bureau of Consumer Financial Protection shall issue a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate containing all findings and determinations, including any recommendations for any legislative or regulatory changes, made in carrying out the study required under subsection (a).
+- **(e)** *Definitions* In this section:
   - **(1)** *Alternative modeling techniques* The term alternative modeling techniques means statistical and mathematical techniques that are not traditional modeling techniques, including decision trees, random forests, artificial neutral networks, nearest neighbor, genetic programming, and boosting algorithms.
   - **(2)** *Consumer report* The term consumer report has the meaning given such term in section 603 of the Fair Credit Reporting Act (15 U.S.C. 1681a).
   - **(3)** *Non-traditional data* The term non-traditional data means data related to telecommunications, utility payments, rent payments, remittances, wire transfers, data not otherwise regularly included in consumer reports issued by consumer reporting agencies described under section 603(p), and such other items as the Bureau of Consumer Financial Protection deems appropriate.
