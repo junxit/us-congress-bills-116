@@ -26,7 +26,7 @@ Congress finds the following:
 - **(7)** A February 2015 Consumer Bureau report titled “Consumer Voices on Credit Reports and Scores” found that consumers had questions about what actions to take to improve their scores once they had seen them, suggesting that additional disclosures and educational content would be helpful to consumers. The Consumer Bureau found that consumers were confused by conflicting advice on how to improve their scores.
 - **(8)** That report also noted that consumers found the process for obtaining consumer reports and credit scores confusing. Consumers also were uncertain about whether, and under what circumstances, they could obtain a consumer report for free.
 
-## § 3. Credit score and educational credit score definitions
+## § 3. Definitions
 
 - **(a)** *In general* Section 603 of the Fair Credit Reporting Act (15 U.S.C. 1681a) is amended by adding at the end the following new subsection:
   > - **(bb)** *Credit score and educational credit score definitions*
@@ -39,7 +39,7 @@ Congress finds the following:
   - **(1)** in section 605(d)(2), by striking “(as defined in section 609(f)(2)(B))”; and
   - **(2)** in section 615—
     - **(A)** by striking “as defined in section 609(f)(2)(A)” each place that term appears; and
-    - **(B)** in subsection (a)(2)(B), by striking “set forth in subparagraphs (B) through (E) of section 609(f)(1)” and inserting “with respect to a credit score described in section 609(f)(2), if available” each place that term appears.
+    - **(B)** by striking “set forth in subparagraphs (B) through (E) of section 609(f)(1)” and inserting “with respect to a credit score described in section 609(f)(2), if available” each place that term appears.
 
 ## § 4. Expands explanatory information given to consumers about how scores are calculated
 
@@ -102,7 +102,7 @@ Section 609(f) of the Fair Credit Reporting Act (15 U.S.C. 1681g(f)), as amended
     - **(A)** in paragraph (1)—
       - **(i)** in subparagraph (A), by inserting after “section 609” the following: “(including the disclosure of a credit score or educational credit score under subsection (f) of such section)”; and
       - **(ii)** in subparagraph (C)—
-        - **(I)** by striking “Commission” and inserting “Bureau”; and
+        - **(I)** by striking “Commission” each place such term appears and inserting “Bureau”; and
         - **(II)** by inserting “, credit scores, and educational credit scores (as applicable)” after “consumer reports” each place that term appears;
     - **(B)** in paragraph (2)—
       - **(i)** by striking “15 days” and inserting “3 business days”; and
