@@ -1,7 +1,7 @@
 ---
 measure: S. 1430
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -44,12 +44,12 @@ complete account of the bill's effect, which it is not.
 | `5 U.S.C. § 8345` | insert | by inserting “(1)” after “(e)”; | the bill quotes the text inserted but describes where it goes |
 | `5 U.S.C. § 8345` | insert | in the first sentence, by inserting “(including an organization)” after “person”; | the bill quotes the text inserted but describes where it goes |
 | `5 U.S.C. § 8345` | insert | by inserting “(including an organization)” after “any person”; and | the bill quotes the text inserted but describes where it goes |
-| `5 U.S.C. § 8345` | insert | by inserting “and may appropriately receive such payments on behalf of the claimant” after “claimant” the second place it appears; and | the bill quotes the text inserted but describes where it goes |
+| `5 U.S.C. § 8345` | insert | by inserting “and may appropriately receive such payments on behalf of the claimant” after “claimant”the second place it appears; and | the bill quotes the text inserted but describes where it goes |
 | `5 U.S.C. § 8345` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 8345` | insert | by inserting “(1)” after “(c)”; | the bill quotes the text inserted but describes where it goes |
 | `5 U.S.C. § 8345` | insert | in the first sentence, by inserting “(including an organization)” after “person”; | the bill quotes the text inserted but describes where it goes |
 | `5 U.S.C. § 8345` | insert | by inserting “(including an organization)” after “any person”; and | the bill quotes the text inserted but describes where it goes |
-| `5 U.S.C. § 8345` | insert | by inserting “and may appropriately receive such payments on behalf of the claimant” after “claimant” the second place it appears; and | the bill quotes the text inserted but describes where it goes |
+| `5 U.S.C. § 8345` | insert | by inserting “and may appropriately receive such payments on behalf of the claimant” after “claimant”the second place it appears; and | the bill quotes the text inserted but describes where it goes |
 | `5 U.S.C. § 8345` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 408` | insert | Section 8345 of title 5, United States Code, is amended by inserting after subsection (e) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 408` | add-at-end | Section 8466 of title 5, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
