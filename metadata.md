@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1309
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1309
@@ -247,11 +247,12 @@ Workplace Violence Prevention for Health Care and Social Service Workers Act
 - Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
 - Rep. Casten, Sean [D-IL-6] (C001117)
 
-## Committees (3)
+## Committees (4)
 
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -271,3 +272,108 @@ Workplace Violence Prevention for Health Care and Social Service Workers Act
 - 2019-11-18 — Placed on the Union Calendar, Calendar No. 239.
 - 2019-11-18 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 116-296, Part I.
 - 2019-11-18 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 116-296, Part I.
+- 2019-11-19 — Rules Committee Resolution H. Res. 713 Reported to House. Rule provides for consideration of H.R. 1309 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. Also provides for proceedings during the period from November 22, 2019 through December 2, 2019 and for consideration of motions to suspend the rules.
+- 2019-11-20 — Rule H. Res. 713 passed House.
+- 2019-11-21 — Amendment (A001) offered by Mr. Hastings. (consideration: CR H9138-9139; text: CR H9138)
+- 2019-11-21 — Amendment (A002) offered by Mr. DeSaulnier. (consideration: CR H9139; text: CR H9139)
+- 2019-11-21 — Amendment (A003) offered by Mr. Byrne. (consideration: CR H9140-9143, H9149-9150; text: CR H9140-9142)
+- 2019-11-21 — Amendment (A004) offered by Mr. Harder (CA). (consideration: CR H9143-9144, H9150-9151; text: CR H9143)
+- 2019-11-21 — Amendment (A005) offered by Mr. Levin (MI). (consideration: CR H9144-9145; text: CR H9144)
+- 2019-11-21 — Amendment (A006) offered by Mr. Green, Al (TX). (consideration: CR H9145-9146; text: CR H9145)
+- 2019-11-21 — Amendment (A007) offered by Mr. Brown (MD). (consideration: CR H9146-9147; text: CR H9146)
+- 2019-11-21 — Amendment (A008) offered by Ms. Garcia (TX). (consideration: CR H9147-9148; text: CR H9147)
+- 2019-11-21 — Amendment (A009) offered by Ms. Wexton. (consideration: CR H9148-9151; text: CR H9148)
+- 2019-11-21 — Amendment (A010) offered by Mr. Delgado. (consideration: CR H9148-9149, H9151-9152; text: CR H9148)
+- 2019-11-21 — Amendment agreed to Committee of the Whole
+- 2019-11-21 — Amendment agreed to Committee of the Whole
+- 2019-11-21 — Amendment agreed to Committee of the Whole
+- 2019-11-21 — Amendment agreed to Committee of the Whole
+- 2019-11-21 — Amendment agreed to Committee of the Whole
+- 2019-11-21 — Amendment agreed to Committee of the Whole
+- 2019-11-21 — Amendment agreed to Committee of the Whole
+- 2019-11-21 — Amendment agreed to Committee of the Whole
+- 2019-11-21 — Amendment agreed to Committee of the Whole
+- 2019-11-21 — Amendment failed in Committee of the Whole
+- 2019-11-21 — Committee of the Whole House on the state of the Union rises leaving H.R. 1309 as unfinished business.
+- 2019-11-21 — Considered as unfinished business. (consideration: CR H9145-9154)
+- 2019-11-21 — Considered under the provisions of rule H. Res. 713. (consideration: CR H9127-9145; text: CR H9135-9138)
+- 2019-11-21 — DEBATE - Pursuant to the provisions of H. Res. 713, the Committee of the Whole proceeded with 10 minutes of debate on the Delgado amendment No. 10.
+- 2019-11-21 — DEBATE - Pursuant to the provisions of H. Res. 713, the Committee of the Whole proceeded with 10 minutes of debate on the Garcia (TX) amendment No. 8.
+- 2019-11-21 — DEBATE - Pursuant to the provisions of H. Res. 713, the Committee of the Whole proceeded with 10 minutes of debate on the Wexton amendment No. 9.
+- 2019-11-21 — DEBATE - Pursuant to the provisions of H.Res. 713, the Committee of the Whole proceeded with 10 minutes of debate on the Brown (MD) amendment No. 7.
+- 2019-11-21 — DEBATE - Pursuant to the provisions of H.Res. 713, the Committee of the Whole proceeded with 10 minutes of debate on the Byrne amendment No. 3.
+- 2019-11-21 — DEBATE - Pursuant to the provisions of H.Res. 713, the Committee of the Whole proceeded with 10 minutes of debate on the DeSaulnier amendment No. 2.
+- 2019-11-21 — DEBATE - Pursuant to the provisions of H.Res. 713, the Committee of the Whole proceeded with 10 minutes of debate on the Green (TX) amendment No. 6.
+- 2019-11-21 — DEBATE - Pursuant to the provisions of H.Res. 713, the Committee of the Whole proceeded with 10 minutes of debate on the Harder amendment No. 4.
+- 2019-11-21 — DEBATE - Pursuant to the provisions of H.Res. 713, the Committee of the Whole proceeded with 10 minutes of debate on the Hastings amendment No. 1.
+- 2019-11-21 — DEBATE - Pursuant to the provisions of H.Res. 713, the Committee of the Whole proceeded with 10 minutes of debate on the Levin (MI) amendment No. 5.
+- 2019-11-21 — DEBATE - The House proceeded with 10 minutes of debate on the Kelly (PA) motion to recommit with instructions, pending the reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add a new section at the end of the bill entitled "Sense of Congress".
+- 2019-11-21 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1309.
+- 2019-11-21 — House amendment agreed to: On agreeing to the Brown (MD) amendment (A007) Agreed to by voice vote.
+- 2019-11-21 — House amendment agreed to: On agreeing to the DeSaulnier amendment (A002) Agreed to by voice vote.
+- 2019-11-21 — House amendment agreed to: On agreeing to the Delgado amendment (A010) Agreed to by recorded vote: 242 - 176 (Roll no. 640).
+- 2019-11-21 — House amendment agreed to: On agreeing to the Garcia (TX) amendment (A008) Agreed to by voice vote.
+- 2019-11-21 — House amendment agreed to: On agreeing to the Green, Al (TX) amendment (A006) Agreed to by voice vote.
+- 2019-11-21 — House amendment agreed to: On agreeing to the Harder (CA) amendment (A004) Agreed to by recorded vote: 414 - 1 (Roll no. 638).
+- 2019-11-21 — House amendment agreed to: On agreeing to the Hastings amendment (A001) Agreed to by voice vote.
+- 2019-11-21 — House amendment agreed to: On agreeing to the Levin (MI) amendment (A005) Agreed to by voice vote.
+- 2019-11-21 — House amendment agreed to: On agreeing to the Wexton amendment (A009) Agreed to by recorded vote: 415 - 1 (Roll no. 639).
+- 2019-11-21 — House amendment not agreed to: On agreeing to the Byrne amendment (A003) Failed by recorded vote: 177 - 238 (Roll no. 637).
+- 2019-11-21 — House amendment offered
+- 2019-11-21 — House amendment offered
+- 2019-11-21 — House amendment offered
+- 2019-11-21 — House amendment offered
+- 2019-11-21 — House amendment offered
+- 2019-11-21 — House amendment offered
+- 2019-11-21 — House amendment offered
+- 2019-11-21 — House amendment offered
+- 2019-11-21 — House amendment offered
+- 2019-11-21 — House amendment offered
+- 2019-11-21 — House amendment offered/reported by: Amendment (A001) offered by Mr. Hastings.
+- 2019-11-21 — House amendment offered/reported by: Amendment (A002) offered by Mr. DeSaulnier.
+- 2019-11-21 — House amendment offered/reported by: Amendment (A003) offered by Mr. Byrne.
+- 2019-11-21 — House amendment offered/reported by: Amendment (A004) offered by Mr. Harder (CA).
+- 2019-11-21 — House amendment offered/reported by: Amendment (A005) offered by Mr. Levin (MI).
+- 2019-11-21 — House amendment offered/reported by: Amendment (A006) offered by Mr. Green, Al (TX).
+- 2019-11-21 — House amendment offered/reported by: Amendment (A007) offered by Mr. Brown (MD).
+- 2019-11-21 — House amendment offered/reported by: Amendment (A008) offered by Ms. Garcia (TX).
+- 2019-11-21 — House amendment offered/reported by: Amendment (A009) offered by Ms. Wexton.
+- 2019-11-21 — House amendment offered/reported by: Amendment (A010) offered by Mr. Delgado.
+- 2019-11-21 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 713 and Rule XVIII.
+- 2019-11-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-11-21 — Mr. Courtney moved that the committee rise.
+- 2019-11-21 — Mr. Courtney raised a point of order against the motion to recommit with instructions. Mr. Courtney stated that the point of order violated clause 7 of Rule XVI related to the germaneness of the amendment. Sustained by the Chair.
+- 2019-11-21 — Mr. Hoyer moved to table the motion to appeal the ruling of the chair
+- 2019-11-21 — Mr. Kelly (PA) appealed the ruling of the chair. The question was then put on sustaining the ruling of the chair.
+- 2019-11-21 — Mr. Kelly (PA) moved to recommit with instructions to the Committee on Education and Labor. (text: CR H9152)
+- 2019-11-21 — On agreeing to the Brown (MD) amendment (A007) Agreed to by voice vote.
+- 2019-11-21 — On agreeing to the Byrne amendment (A003) Failed by recorded vote: 177 - 238 (Roll no. 637).
+- 2019-11-21 — On agreeing to the DeSaulnier amendment (A002) Agreed to by voice vote.
+- 2019-11-21 — On agreeing to the Delgado amendment (A010) Agreed to by recorded vote: 242 - 176 (Roll no. 640).
+- 2019-11-21 — On agreeing to the Garcia (TX) amendment (A008) Agreed to by voice vote.
+- 2019-11-21 — On agreeing to the Green, Al (TX) amendment (A006) Agreed to by voice vote.
+- 2019-11-21 — On agreeing to the Harder (CA) amendment (A004) Agreed to by recorded vote: 414 - 1 (Roll no. 638).
+- 2019-11-21 — On agreeing to the Hastings amendment (A001) Agreed to by voice vote.
+- 2019-11-21 — On agreeing to the Levin (MI) amendment (A005) Agreed to by voice vote.
+- 2019-11-21 — On agreeing to the Wexton amendment (A009) Agreed to by recorded vote: 415 - 1 (Roll no. 639).
+- 2019-11-21 — On motion that the committee rise Agreed to by voice vote.
+- 2019-11-21 — On motion to table the motion to appeal the ruling of the chair Agreed to by recorded vote: 222 - 188 (Roll no. 641).
+- 2019-11-21 — On passage Passed by recorded vote: 251 - 158 (Roll no. 642).
+- 2019-11-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Byrne amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. Byrne demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2019-11-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Delgado amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the ayes had prevailed. Mr. Delgado demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced
+- 2019-11-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Harder amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the ayes had prevailed. Mr. Harder demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2019-11-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Wexton amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the ayes had prevailed. Mrs. Wexton demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2019-11-21 — Passed/agreed to in House: On passage Passed by recorded vote: 251 - 158 (Roll no. 642).
+- 2019-11-21 — Point of order sustained against the motion to recommit with instructions.
+- 2019-11-21 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2019-11-21 — Roll call votes on amendments in House
+- 2019-11-21 — Roll call votes on amendments in House
+- 2019-11-21 — Roll call votes on amendments in House
+- 2019-11-21 — Roll call votes on amendments in House
+- 2019-11-21 — Rule provides for consideration of H.R. 1309 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. Also provides for proceedings during the period from November 22, 2019 through December 2, 2019 and for consideration of motions to suspend the rules.
+- 2019-11-21 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2019-11-21 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2019-11-21 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1309.
+- 2019-11-21 — The Speaker designated the Honorable Sheila Jackson Lee to act as Chairwoman of the Committee.
+- 2019-11-21 — The previous question was ordered pursuant to the rule.
+- 2019-11-21 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was question on adoption of amendments, which had been debated earlier and on which further proceedings had been postponed.
