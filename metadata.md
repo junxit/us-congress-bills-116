@@ -1,7 +1,7 @@
 ---
 measure: S. 333
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 333
@@ -34,3 +34,5 @@ National Cybersecurity Preparedness Consortium Act of 2019
 - 2019-03-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-5.
 - 2019-03-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-5.
 - 2019-03-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 36.
+- 2019-11-21 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6768; text: CR S6768)
+- 2019-11-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6768; text: CR S6768)
