@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 5235
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5235
+
+> To amend the Food and Nutrition Act of 2008 to require States to include a photograph on electronic benefit cards issued to provide supplemental nutrition assistance program benefits.
+
+## § 1. Amendments
+
+Section 7(h)(9) of the Food and Nutrition Act of 2008 (7 U.S.C. 2016(h)(9)) is amended—
+
+- **(1)** in the heading by striking “Optional” and inserting “Mandatory”;
+- **(2)** in subparagraph (A) by striking “may” and inserting “shall”; and
+- **(3)** in subparagraph (B) by striking “If” and all that follows through “(A), the” and inserting “The”.
+
+## § 2. Effective date
+
+This Act and the amendments made by this Act shall take effect 180 days after the date of the enactment of this Act.
