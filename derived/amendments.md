@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3618
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,7 +26,7 @@ to guess them.
 
 ### 15 U.S.C. § 1681
 
-> in subsection (a)(2)(B), by striking “set forth in subparagraphs (B) through (E) of section 609(f)(1)” and inserting “with respect to a credit score described in section 609(f)(2), if available” each place that term appears.
+> by striking “set forth in subparagraphs (B) through (E) of section 609(f)(1)” and inserting “with respect to a credit score described in section 609(f)(2), if available” each place that term appears.
 
 | | |
 |---|---|
@@ -35,7 +35,7 @@ to guess them.
 
 ### 15 U.S.C. § 1681j
 
-> by striking “Commission” and inserting “Bureau”; and
+> by striking “Commission” each place such term appears and inserting “Bureau”; and
 
 | | |
 |---|---|
