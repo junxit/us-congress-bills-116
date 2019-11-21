@@ -1,7 +1,7 @@
 ---
 measure: S. 900
 congress: 116
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 900
@@ -28,3 +28,7 @@ A bill to designate the community-based outpatient clinic of the Department of V
 
 - 2019-03-27 — Introduced in Senate
 - 2019-03-27 — Read twice and referred to the Committee on Veterans' Affairs. (text: CR S2048-2049)
+- 2019-11-21 — Passed Senate without amendment by Unanimous Consent. (text: CR S6767)
+- 2019-11-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S6767)
+- 2019-11-21 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S6766-6767)
+- 2019-11-21 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S6766-6767)
