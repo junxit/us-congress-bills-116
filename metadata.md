@@ -1,7 +1,7 @@
 ---
 measure: H.R. 925
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 925
@@ -76,3 +76,4 @@ The Heroes Act
 - 2019-11-20 — Mr. Sablan moved to suspend the rules and pass the bill.
 - 2019-11-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9083)
 - 2019-11-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9083)
+- 2019-11-21 — Received in the Senate, read twice.
