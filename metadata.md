@@ -1,7 +1,7 @@
 ---
 measure: S. 1882
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1882
@@ -24,3 +24,8 @@ A bill to make available the continued use of Pick-Sloan Missouri Basin Program 
 
 - 2019-06-18 — Introduced in Senate
 - 2019-06-18 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2019-06-26 — Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 116-310.
+- 2019-09-25 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2019-11-21 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 116-161.
+- 2019-11-21 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 116-161.
+- 2019-11-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 310.
