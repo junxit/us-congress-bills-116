@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1472
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1472
@@ -47,3 +47,15 @@ To rename the Homestead National Monument of America near Beatrice, Nebraska, as
 - 2019-11-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9087)
 - 2019-11-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9087)
 - 2019-11-21 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2020-03-04 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 116-367.
+- 2020-12-31 — Message on Senate action sent to the House.
+- 2020-12-31 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7993)
+- 2020-12-31 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7993)
+- 2020-12-31 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2020-12-31 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2021-01-01 — Presented to President.
+- 2021-01-01 — Presented to President.
+- 2021-01-13 — Became Public Law No: 116-328.
+- 2021-01-13 — Became Public Law No: 116-328.
+- 2021-01-13 — Signed by President.
+- 2021-01-13 — Signed by President.
