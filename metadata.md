@@ -1,7 +1,7 @@
 ---
 measure: S. 2712
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2712
@@ -32,3 +32,5 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2019-11-07 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
 - 2019-11-07 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
 - 2019-11-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 293.
+- 2019-11-21 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6767)
+- 2019-11-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6767)
