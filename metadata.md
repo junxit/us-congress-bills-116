@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1472
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1472
@@ -21,9 +21,10 @@ To rename the Homestead National Monument of America near Beatrice, Nebraska, as
 - Rep. Fortenberry, Jeff [R-NE-1] (F000449)
 - Rep. Bacon, Don [R-NE-2] (B001298)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ To rename the Homestead National Monument of America near Beatrice, Nebraska, as
 - 2019-11-20 — Mr. Huffman moved to suspend the rules and pass the bill.
 - 2019-11-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9087)
 - 2019-11-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9087)
+- 2019-11-21 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
