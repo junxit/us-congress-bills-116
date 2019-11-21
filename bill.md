@@ -26,6 +26,7 @@ Section 9105(b) of the Omnibus Public Land Management Act of 2009 (Public Law 11
   - **(C)** in subparagraph (B)—
     - **(i)** in the matter preceding clause (i), by striking “Secretary shall recover reimbursable expenses” and inserting “District shall pay the Project costs for which the District is liable”; and
     - **(ii)** in clause (ii), by striking “15” and inserting “not more than 40”; and
+  - **(C)** in subparagraph (B), in the matter preceding clause (i), by striking “Secretary shall recover reimbursable expenses” and inserting “District shall pay the Project costs for which the District is liable”; and
   - **(D)** by striking subparagraph (C) and inserting the following:
     > - **(C)** *Credit* In determining the exact amount for which the District is liable under this paragraph, the Secretary shall—
     >   - **(i)** review and approve all final costs associated with the completion of the Project; and
