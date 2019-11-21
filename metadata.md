@@ -1,7 +1,7 @@
 ---
 measure: H.R. 737
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 737
@@ -306,9 +306,10 @@ Shark Fin Sales Elimination Act of 2019
 - Rep. Riggleman, Denver [R-VA-5] (R000611)
 - Rep. Tlaib, Rashida [D-MI-13] (T000481)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -331,3 +332,4 @@ Shark Fin Sales Elimination Act of 2019
 - 2019-11-20 — Mr. Huffman moved to suspend the rules and pass the bill, as amended.
 - 2019-11-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 310 - 107 (Roll no. 634). (text: CR H9077)
 - 2019-11-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 310 - 107 (Roll no. 634).(text: CR H9077)
+- 2019-11-21 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
