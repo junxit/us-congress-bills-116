@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4432
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4432
@@ -29,3 +29,8 @@ Protecting Critical Infrastructure Against Drones and Emerging Threats Act
 - 2019-09-20 — Introduced in House
 - 2019-09-20 — Introduced in House
 - 2019-09-20 — Referred to the House Committee on Homeland Security.
+- 2019-09-25 — Committee Consideration and Mark-up Session Held.
+- 2019-09-25 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2019-11-22 — Placed on the Union Calendar, Calendar No. 250.
+- 2019-11-22 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-309.
+- 2019-11-22 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-309.
