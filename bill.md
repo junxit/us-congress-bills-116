@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 5253
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5253
+
+> To provide entrepreneurship as a well-rounded educational opportunity, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “21st Century Youth Entrepreneurship Act”.
+
+## § 2. Activities to support well-rounded educational opportunities
+
+- **(a)** *Elementary and Secondary Education Act* Section 4107(a)(3) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7117(a)(3)) is amended—
+  - **(1)** in subparagraph (I), by striking “or” at the end;
+  - **(2)** by redesignating subparagraph (J) as subparagraph (K); and
+  - **(3)** by inserting after subparagraph (I) the following:
+    > - **(J)** programs and activities that promote innovation, such as leadership, financial literacy, and entrepreneurship; or
+
+- **(b)** *Carl D. Perkins Career and Technical Education Act* Section 135(b)(5) of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2355(b)(5)) is amended—
+  - **(1)** in subparagraph (S), by striking “or” at the end;
+  - **(2)** by redesignating subparagraph (T) as subparagraph (U); and
+  - **(3)** by inserting after subparagraph (S) the following:
+    > - **(T)** expanding opportunities for students to participate in entrepreneurship education programs; or
