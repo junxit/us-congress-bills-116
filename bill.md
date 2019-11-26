@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 5272
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5272
+
+> To amend the Small Business Act to require lenders to refer certain borrowers to a small business development center, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Supporting Entrepreneurs and Economic Development Act” or the “SEED Act”.
+
+## § 2. Small business development center referrals
+
+Section 7(a) of the Small Business Act (15 U.S.C. 636(a)) is amended by adding at the end the following new paragraph:
+
+> - **(36)** *Small business development center referrals* If a lender determines that a borrower is not eligible for a loan under this subsection, such lender shall refer the borrower to a small business development center. Such referral shall include—
+>   - **(A)** the address, phone number, and website (if available) of such center; and
+>   - **(B)** a description of the services offered by such center.
