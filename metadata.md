@@ -1,7 +1,7 @@
 ---
 measure: S. 2193
 congress: 116
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2193
@@ -38,3 +38,17 @@ CHARGE Act
 - 2019-11-25 — Message on Senate action sent to the House.
 - 2019-11-26 — Received in the House.
 - 2019-11-26 — Referred to the House Committee on Oversight and Reform.
+- 2020-09-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2020-09-14 — Considered as unfinished business. (consideration: CR H4370-4371)
+- 2020-09-14 — Considered under suspension of the rules. (consideration: CR H4350-4351)
+- 2020-09-14 — DEBATE - The House proceeded with forty minutes of debate on S. 2193.
+- 2020-09-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-14 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
+- 2020-09-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 2 (Roll no. 184). (text: CR H4350)
+- 2020-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 2 (Roll no. 184).
+- 2020-09-21 — Presented to President.
+- 2020-09-21 — Presented to President.
+- 2020-10-01 — Became Public Law No: 116-160.
+- 2020-10-01 — Became Public Law No: 116-160.
+- 2020-10-01 — Signed by President.
+- 2020-10-01 — Signed by President.
