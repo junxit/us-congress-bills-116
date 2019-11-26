@@ -31,7 +31,7 @@ This Act may be cited as the “Living Shorelines Act of 2019”.
       - **(i)** mitigating the effects of erosion;
       - **(ii)** attenuating the impact of coastal storms and storm surge;
       - **(iii)** mitigating shoreline flooding;
-      - **(iv)** mitigating the effects of sea level rise and extreme tides;
+      - **(iv)** mitigating the effects of sea level rise, accelerated land loss, and extreme tides;
       - **(v)** sustaining, protecting, or restoring the functions and habitats of coastal ecosystems; or
       - **(vi)** such other forms of coastal protection as the Administrator considers appropriate.
   - **(3)** *Priority* In selecting living shoreline projects to receive grants under this section, the Administrator shall give priority consideration to a proposed project to be conducted in an area—
