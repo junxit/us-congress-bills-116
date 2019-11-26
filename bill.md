@@ -92,4 +92,3 @@ In this Act:
       - **(ii)** the expenses described in subparagraph (B).
   - **(3)** *Survey and mapping* Contracts entered into under paragraph (1)(B) shall be considered “surveying and mapping” services as such term is used in and as such contracts are awarded by the Secretary in accordance with the selection procedures in chapter 11 of title 40, United States Code.
 - **(f)** *Ocean economy* The Secretary may establish publically available tools that track ocean and Great Lakes economy data for each coastal State.
-- **(g)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary $4,000,000 for each fiscal year 2020 through 2024 to carry out the program.
