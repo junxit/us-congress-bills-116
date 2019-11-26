@@ -1,7 +1,7 @@
 ---
 measure: S. 2193
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2193
@@ -20,9 +20,10 @@ CHARGE Act
 
 - Sen. Portman, Rob [R-OH] (P000449)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ CHARGE Act
 - 2019-09-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 199.
 - 2019-11-21 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S6764; text: CR S6764)
 - 2019-11-21 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S6764; text: CR S6764)
+- 2019-11-25 — Message on Senate action sent to the House.
+- 2019-11-26 — Received in the House.
+- 2019-11-26 — Referred to the House Committee on Oversight and Reform.
