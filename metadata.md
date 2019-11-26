@@ -1,7 +1,7 @@
 ---
 measure: S. 333
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 333
@@ -22,9 +22,10 @@ National Cybersecurity Preparedness Consortium Act of 2019
 - Sen. Cruz, Ted [R-TX] (C001098)
 - Sen. Boozman, John [R-AR] (B001236)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Homeland Security Committee
 
 ## Actions
 
@@ -36,3 +37,6 @@ National Cybersecurity Preparedness Consortium Act of 2019
 - 2019-03-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 36.
 - 2019-11-21 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6768; text: CR S6768)
 - 2019-11-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6768; text: CR S6768)
+- 2019-11-25 — Message on Senate action sent to the House.
+- 2019-11-26 — Received in the House.
+- 2019-11-26 — Referred to the House Committee on Homeland Security.
