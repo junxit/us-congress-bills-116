@@ -54,7 +54,7 @@ In this Act:
   - **(B)** the Gulf States Marine Fisheries Commission; and
   - **(C)** the Pacific States Marine Commission.
 - **(10)** *Secretary* The term Secretary means the Secretary of the Interior.
-- **(11)** *State* The term State means each of the several States.
+- **(11)** *State* The term State means each of the several States, Puerto Rico, American Samoa, Guam, the Northern Mariana Islands, the United States Virgin Islands, and the District of Columbia.
 - **(12)** *State agency* The term State agency means—
   - **(A)** the fish and wildlife agency of a State; and
   - **(B)** any department or division of a department or agency of a State that manages in the public trust the inland or marine fishery resources of the State or sustains the habitat for those fishery resources pursuant to State law or the constitution of the State.
