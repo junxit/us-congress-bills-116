@@ -1,7 +1,7 @@
 ---
 measure: S. 2712
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2712
@@ -20,9 +20,10 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - Sen. Johnson, Ron [R-WI] (J000293)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2019-11-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 293.
 - 2019-11-21 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6767)
 - 2019-11-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6767)
+- 2019-11-25 — Message on Senate action sent to the House.
+- 2019-11-26 — Received in the House.
+- 2019-11-26 — Referred to the House Committee on Oversight and Reform.
