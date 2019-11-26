@@ -1,7 +1,7 @@
 ---
 measure: S. 1430
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 derived: true
 ---
 

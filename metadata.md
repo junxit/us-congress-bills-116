@@ -1,7 +1,7 @@
 ---
 measure: S. 1430
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1430
@@ -22,9 +22,10 @@ Representative Payee Fraud Prevention Act of 2019
 - Sen. Sinema, Kyrsten [D-AZ] (S001191)
 - Sen. Peters, Gary C. [D-MI] (P000595)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -42,3 +43,6 @@ Representative Payee Fraud Prevention Act of 2019
 - 2019-11-21 — Senate amendment agreed to: Amendment SA 1251 agreed to in Senate by Unanimous Consent.
 - 2019-11-21 — Senate amendment proposed (on the floor): Amendment SA 1251 proposed by Senator Fischer for Senator Lankford.
 - 2019-11-21 — Senate amendment submitted
+- 2019-11-25 — Message on Senate action sent to the House.
+- 2019-11-26 — Received in the House.
+- 2019-11-26 — Referred to the House Committee on Oversight and Reform.
