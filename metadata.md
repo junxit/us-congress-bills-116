@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2051
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2051
@@ -16,9 +16,25 @@ Sustainable Chemistry Research and Development Act of 2019
 
 - Rep. Lipinski, Daniel [D-IL-3] (L000563)
 
-## Cosponsors (1)
+## Cosponsors (17)
 
 - Rep. Moolenaar, John R. [R-MI-4] (M001194)
+- Rep. Balderson, Troy [R-OH-12] (B001306)
+- Rep. Casten, Sean [D-IL-6] (C001117)
+- Rep. Tonko, Paul [D-NY-20] (T000469)
+- Rep. Stevens, Haley M. [D-MI-11] (S001215)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Foster, Bill [D-IL-11] (F000454)
+- Rep. Van Drew, Jefferson [D-NJ-2] (V000133)
+- Rep. Cox, TJ [D-CA-21] (C001124)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+- Rep. Sherrill, Mikie [D-NJ-11] (S001207)
+- Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
+- Rep. Horn, Kendra S. [D-OK-5] (H001083)
+- Rep. Dingell, Debbie [D-MI-12] (D000624)
+- Rep. Byrne, Bradley [R-AL-1] (B001289)
+- Rep. Slotkin, Elissa [D-MI-8] (S001208)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
 
 ## Committees (2)
 
@@ -31,3 +47,10 @@ Sustainable Chemistry Research and Development Act of 2019
 - 2019-04-03 — Introduced in House
 - 2019-04-03 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-04-03 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-10-17 — Committee Consideration and Mark-up Session Held.
+- 2019-10-17 — Ordered to be Reported (Amended) by Voice Vote.
+- 2019-11-26 — Committee on the Budget discharged.
+- 2019-11-26 — Committee on the Budget discharged.
+- 2019-11-26 — Placed on the Union Calendar, Calendar No. 253.
+- 2019-11-26 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 116-312, Part I.
+- 2019-11-26 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 116-312, Part I.

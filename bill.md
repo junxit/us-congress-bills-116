@@ -27,28 +27,30 @@ Congress finds that—
 
 - **(a)** *Establishment* Not later than 180 days after the date of enactment of this Act, the Director of the Office of Science and Technology Policy shall convene an interagency entity (referred to in this Act as the “Entity”) under the National Science and Technology Council with the responsibility to coordinate Federal programs and activities in support of sustainable chemistry, including those described in sections 5 and 6.
 - **(b)** *Coordination with existing groups* In convening the Entity, the Director of the Office of Science and Technology Policy shall consider overlap and possible coordination with existing committees, subcommittees, or other groups of the National Science and Technology Council, such as—
-  - **(1)** the Committee on Environment, Natural Resources, and Sustainability;
+  - **(1)** the Committee on Environment;
   - **(2)** the Committee on Technology;
   - **(3)** the Committee on Science; or
   - **(4)** related groups or subcommittees.
-- **(c)** *Co-chairs* The Entity shall be co-chaired by representatives from the Environmental Protection Agency, the National Institute of Standards and Technology, and the National Science Foundation.
+- **(c)** *Co-chairs* The Entity shall be co-chaired by the Office of Science and Technology Policy and a representative from the Environmental Protection Agency, the National Institute of Standards and Technology, the National Science Foundation, or the Department of Energy, as selected by the Director of the Office of Science and Technology Policy.
 - **(d)** *Agency participation* The Entity shall include representatives, including subject matter experts, from the Environmental Protection Agency, the National Institute of Standards and Technology, the National Science Foundation, the Department of Energy, the Department of Agriculture, the Department of Defense, the National Institutes of Health, the Centers for Disease Control and Prevention, the Food and Drug Administration, and other related Federal agencies, as appropriate.
+- **(e)** *Termination* The Entity shall terminate on the date that is 10 years after the date of enactment of this Act.
 
 ## § 4. Roadmap for sustainable chemistry
 
 - **(a)** *Roadmap* Not later than 2 years after the date of enactment of this Act, the Entity shall—
-  - **(1)** develop a working framework of attributes characterizing sustainable chemistry, as described in subsection (b);
-  - **(2)** assess the state of sustainable chemistry in the United States as a key benchmark from which progress under the activities described in this Act can be measured, including assessing key sectors of the United States economy, key technology platforms, and barriers to innovation;
-  - **(3)** coordinate and support Federal research, development, demonstration, technology transfer, commercialization, education, and training efforts in sustainable chemistry, including budget coordination and support for public-private partnerships, as appropriate;
-  - **(4)** identify methods by which the Federal agencies can facilitate the development of incentives for development, consideration and use of sustainable chemistry processes and products, including innovative financing mechanisms;
-  - **(5)** identify major scientific challenges, roadblocks, or hurdles to transformational progress in improving the sustainability of the chemical sciences; and
-  - **(6)** identify other opportunities for expanding Federal efforts in support of sustainable chemistry.
-- **(b)** *Attributes characterizing sustainable chemistry* The Entity shall develop a working framework of attributes characterizing sustainable chemistry for the purposes of carrying out the Act. In developing this framework, the Entity shall—
+  - **(1)** consult with relevant stakeholders including representatives from industry, academia, the Federal Government, and international entities to develop and update as needed a consensus definition of “sustainable chemistry” to guide the activities under this Act;
+  - **(2)** develop a working framework of attributes characterizing and metrics for assessing sustainable chemistry, as described in subsection (b);
+  - **(3)** assess the state of sustainable chemistry in the United States as a key benchmark from which progress under the activities described in this Act can be measured, including assessing key sectors of the United States economy, key technology platforms, commercial priorities, and barriers to innovation;
+  - **(4)** coordinate and support Federal research, development, demonstration, technology transfer, commercialization, education, and training efforts in sustainable chemistry, including budget coordination and support for public-private partnerships, as appropriate;
+  - **(5)** identify methods by which the Federal agencies can facilitate the development of incentives for development, consideration and use of sustainable chemistry processes and products, including innovative financing mechanisms;
+  - **(6)** identify major scientific challenges, roadblocks, or hurdles to transformational progress in improving the sustainability of the chemical sciences; and
+  - **(7)** identify other opportunities for expanding Federal efforts in support of sustainable chemistry.
+- **(b)** *Characterizing and assessing sustainable chemistry* The Entity shall develop a working framework of attributes characterizing and metrics for assessing sustainable chemistry for the purposes of carrying out the Act. In developing this framework, the Entity shall—
   - **(1)** seek advice and input from stakeholders as described in subsection (c);
-  - **(2)** consider existing definitions of or frameworks characterizing sustainable or green chemistry already in use at Federal agencies;
-  - **(3)** consider existing definitions of or frameworks characterizing sustainable or green chemistry already in use by international organizations of which the United States is a member, such as the Organisation for Economic Co-operation and Development; and
-  - **(4)** consider any other appropriate existing definitions of or frameworks characterizing sustainable or green chemistry.
-- **(c)** *Consultation* In carrying out the duties described in subsections (a) and (b), the Entity shall consult and coordinate with stakeholders qualified to provide advice and information to guide Federal activities related to sustainable chemistry through workshops, requests for information, and other mechanisms as necessary. The stakeholders shall include representatives from—
+  - **(2)** consider existing definitions of or frameworks characterizing and metrics for assessing sustainable chemistry already in use at Federal agencies;
+  - **(3)** consider existing definitions of or frameworks characterizing and metrics for assessing sustainable chemistry already in use by international organizations of which the United States is a member, such as the Organisation for Economic Co-operation and Development; and
+  - **(4)** consider any other appropriate existing definitions of or frameworks characterizing and metrics for assessing sustainable chemistry.
+- **(c)** *Consultation* In carrying out the duties described in subsections (a) and (b), the Entity shall consult with stakeholders qualified to provide advice and information to guide Federal activities related to sustainable chemistry through workshops, requests for information, and other mechanisms as necessary. The stakeholders shall include representatives from—
   - **(1)** business and industry (including trade associations and small- and medium-sized enterprises from across the value chain);
   - **(2)** the scientific community (including the National Academies of Sciences, Engineering, and Medicine, scientific professional societies, and academia);
   - **(3)** the defense community;
@@ -61,7 +63,7 @@ Congress finds that—
     - **(B)** a summary of the financial resources allocated to sustainable chemistry initiatives;
     - **(C)** an assessment of the current state of sustainable chemistry in the United States, including the role that Federal agencies are playing in supporting it;
     - **(D)** an analysis of the progress made toward achieving the goals and priorities of this Act, and recommendations for future program activities;
-    - **(E)** an assessment of the benefits of expanding existing, federally supported, regional innovation and manufacturing hubs to include sustainable chemistry and the value of directing the creation of 1 or more dedicated sustainable chemistry centers of excellence or hubs; and
+    - **(E)** an assessment of the benefits of expanding existing, federally supported, regional innovation and manufacturing hubs, centers, and institutes to include sustainable chemistry and the value of directing the creation of 1 or more dedicated sustainable chemistry centers of excellence, hubs, or institutes; and
     - **(F)** an evaluation of steps taken and future strategies to avoid duplication of efforts, streamline interagency coordination, facilitate information sharing, and spread best practices among participating agencies.
   - **(2)** *Submission to GAO* The Entity shall also submit the report described in paragraph (1) to the Comptroller General of the United States for consideration in future Congressional inquiries.
 
@@ -76,20 +78,20 @@ Congress finds that—
     - **(D)** incentive prize competitions and challenges in coordination with such existing Federal agency programs; and
     - **(E)** grants, loans, and loan guarantees to aid in the technology transfer and commercialization of sustainable chemicals, materials, processes, and products;
   - **(2)** collect and disseminate information on sustainable chemistry research, development, technology transfer, and commercialization, including information on accomplishments and best practices;
-  - **(3)** within education and training programs, expand the education and training of undergraduate and graduate students and professional scientists and engineers, and other professionals involved in materials specification in sustainable chemistry and engineering, including through partnerships with industry as described in section 6;
-  - **(4)** as relevant to an agency’s programs, examine methods by which the Federal agencies, in collaboration and consultation with the National Institute of Standards and Technology, can facilitate the development or recognition of validated, standardized tools for performing sustainability assessments of chemistry processes or products;
-  - **(5)** through programs identified by an agency, support (including through technical assistance, participation, financial support, communications tools, awards, or other forms of support) outreach and dissemination of sustainable chemistry advances such as non-Federal symposia, forums, conferences, and publications in collaboration with, as appropriate, industry, academia, scientific and professional societies, and other relevant groups;
-  - **(6)** provide for public input and outreach to be integrated into the activities described in this section by the convening of public discussions, through mechanisms such as public meetings, consensus conferences, and educational events, as appropriate;
-  - **(7)** within each agency, develop metrics to track the outputs and outcomes of the programs supported by that agency; and
-  - **(8)** incentivize or recognize actions that advance sustainable chemistry products, processes, or initiatives, including through the establishment of a nationally recognized awards program through the Environmental Protection Agency to identify, publicize, and celebrate innovations in sustainable chemistry and chemical technologies.
+  - **(3)** raise awareness of sustainable chemistry concepts through public outreach activities;
+  - **(4)** expand the education and training of students at all levels of education, professional scientists and engineers, and other professionals involved in all aspects of sustainable chemistry and engineering appropriate to that level of education and training, including through—
+    - **(A)** partnerships with industry as described in section 6;
+    - **(B)** support for the integration of sustainable chemistry principles into elementary, secondary, undergraduate, and graduate chemistry and chemical engineering curriculum and research training, as appropriate to that level of education and training; and
+    - **(C)** support for integration of sustainable chemistry principles into existing or new professional development opportunities for professionals including teachers, faculty, and individuals involved in laboratory research, (product development, materials specification and testing, life cycle analysis, and management);
+  - **(5)** as relevant to an agency’s programs, examine methods by which the Federal agencies, in collaboration and consultation with the National Institute of Standards and Technology, may facilitate the development or recognition of validated, standardized tools for performing sustainability assessments of chemistry processes or products;
+  - **(6)** through programs identified by an agency, support (including through technical assistance, participation, financial support, communications tools, awards, or other forms of support) outreach and dissemination of sustainable chemistry advances such as non-Federal symposia, forums, conferences, and publications in collaboration with, as appropriate, industry, academia, scientific and professional societies, and other relevant groups;
+  - **(7)** provide for public input and outreach to be integrated into the activities described in this section by the convening of public discussions, through mechanisms such as public meetings, consensus conferences, and educational events, as appropriate;
+  - **(8)** within each agency, develop metrics to track the outputs and outcomes of the programs supported by that agency; and
+  - **(9)** incentivize or recognize actions that advance sustainable chemistry products, processes, or initiatives, including through the establishment of a nationally recognized awards program through the Environmental Protection Agency to identify, publicize, and celebrate innovations in sustainable chemistry and chemical technologies.
 - **(c)** *Limitations* Financial support provided under this section shall—
   - **(1)** be available only for pre-competitive activities; and
   - **(2)** not be used to promote the sale of a specific product, process, or technology, or to disparage a specific product, process, or technology.
-- **(d)** *Agency budget requests*
-  - **(1)** *In general* Each Federal agency and department participating in the activities described in this section shall, as part of its annual request for appropriations to the Office of Management and Budget, submit a report to the Office of Management and Budget that—
-    - **(A)** identifies the activities of the agency or department that contribute directly to these activities; and
-    - **(B)** estimates the portion of the agency or department’s request for appropriations that is intended to be allocated to those activities.
-  - **(2)** *Annual budget request to Congress* The President shall include in the annual budget request to Congress a statement of the portion of the annual budget request for each agency or department that will be allocated to activities undertaken pursuant to this section.
+- **(d)** *Agency budget report* For each of fiscal years 2021 through 2030, not later than 90 days after submission of the President’s annual budget request, the Entity shall prepare and submit to the Committee on Environment and Public Works, the Committee on Commerce, Science, and Transportation, and the Committee on Appropriations of the Senate, and the Committee on Science, Space, and Technology, the Committee on Energy and Commerce, and the Committee on Appropriations of the House of Representatives a report that includes a summarized agency budget in support of the activities under this Act for the fiscal year to which such budget request applies, and for the then current fiscal year, including a breakout of spending for each agency participating in such activities.
 
 ## § 6. Partnerships in sustainable chemistry
 
@@ -111,4 +113,4 @@ In carrying out this Act, the Entity shall focus its support for sustainable che
 
 ## § 8. Rule of construction
 
-Nothing in this Act shall be construed to alter or amend any State law or action with regard to sustainable chemistry or green chemistry, as defined by the State.
+Nothing in this Act shall be construed to alter or amend any State law or action with regard to sustainable chemistry, as defined by the State.
