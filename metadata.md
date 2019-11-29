@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4
@@ -16,7 +16,7 @@ Voting Rights Advancement Act of 2019
 
 - Rep. Sewell, Terri A. [D-AL-7] (S001185)
 
-## Cosponsors (207)
+## Cosponsors (229)
 
 - Rep. Lewis, John [D-GA-5] (L000287)
 - Rep. Pelosi, Nancy [D-CA-12] (P000197)
@@ -225,6 +225,28 @@ Voting Rights Advancement Act of 2019
 - Rep. Nadler, Jerrold [D-NY-10] (N000002)
 - Rep. Kennedy, Joseph P., III [D-MA-4] (K000379)
 - Rep. Houlahan, Chrissy [D-PA-6] (H001085)
+- Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Lee, Susie [D-NV-3] (L000590)
+- Rep. Kim, Andy [D-NJ-3] (K000394)
+- Rep. Garcia, Sylvia R. [D-TX-29] (G000587)
+- Rep. Carbajal, Salud O. [D-CA-24] (C001112)
+- Rep. DeFazio, Peter A. [D-OR-4] (D000191)
+- Rep. O'Halleran, Tom [D-AZ-1] (O000171)
+- Rep. Rose, Max [D-NY-11] (R000613)
+- Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
+- Rep. Luria, Elaine G. [D-VA-2] (L000591)
+- Rep. Axne, Cynthia [D-IA-3] (A000378)
+- Rep. Neal, Richard E. [D-MA-1] (N000015)
+- Rep. Malinowski, Tom [D-NJ-7] (M001203)
+- Rep. Langevin, James R. [D-RI-2] (L000559)
+- Rep. Gabbard, Tulsi [D-HI-2] (G000571)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Visclosky, Peter J. [D-IN-1] (V000108)
+- Rep. Correa, J. Luis [D-CA-46] (C001110)
+- Rep. Schrader, Kurt [D-OR-5] (S001180)
+- Rep. Torres Small, Xochitl [D-NM-2] (T000484)
+- Rep. Golden, Jared F. [D-ME-2] (G000592)
+- Rep. Cunningham, Joe [D-SC-1] (C001122)
 
 ## Committees (1)
 
@@ -235,3 +257,10 @@ Voting Rights Advancement Act of 2019
 - 2019-02-26 — Introduced in House
 - 2019-02-26 — Introduced in House
 - 2019-02-26 — Referred to the House Committee on the Judiciary.
+- 2019-03-25 — Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.
+- 2019-10-22 — Subcommittee on the Constitution, Civil Rights, and Civil Liberties Discharged.
+- 2019-10-23 — Committee Consideration and Mark-up Session Held.
+- 2019-10-23 — Ordered to be Reported (Amended) by the Yeas and Nays: 19 - 6.
+- 2019-11-29 — Placed on the Union Calendar, Calendar No. 258.
+- 2019-11-29 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-317.
+- 2019-11-29 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-317.

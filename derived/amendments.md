@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-33 amendatory instructions. 13 executed, 20 stated and not applied.
+34 amendatory instructions. 13 executed, 21 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -162,11 +162,12 @@ complete account of the bill's effect, which it is not.
 | `52 U.S.C. § 10301` | insert | The Voting Rights Act of 1965 (52 U.S.C. 10301 et seq.) is amended by inserting after section 5 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 10302` | strike | Section 3(a) of such Act (52 U.S.C. 10302(a)) is amended by striking “in accordance with section 6”. | the bill quotes the text struck but describes what replaces it |
 | `52 U.S.C. § 10305` | amend | Section 8(a)(2)(B) of the Voting Rights Act of 1965 (52 U.S.C. 10305(a)(2)(B)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `52 U.S.C. § 10305` | strike | by striking “or” at the end of paragraph (2); and | the bill quotes the text struck but describes what replaces it |
-| `52 U.S.C. § 10305` | amend | by adding after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 10305` | strike | by striking “or” at the end of paragraph (1); | the bill quotes the text struck but describes what replaces it |
+| `52 U.S.C. § 10305` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 10308` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `52 U.S.C. § 10308` | add-at-end | Section 12(d) of such Act (52 U.S.C. 10308(d)) is amended by adding at the end the following: “A jurisdiction’s inability to enforce its voting or election laws, regulations, policies, or redistricting plans, standing alone, shall not be… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 10308` | add-at-end | Section 12(d) of such Act (52 U.S.C. 10308(d)) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 10301` | add-at-end | Title I of the Voting Rights Act of 1965 (52 U.S.C. 10301) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 10310` | add-at-end | Section 14(c) of the Voting Rights Act of 1965 (52 U.S.C. 10310(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 10303` | strike | in paragraph (1), by striking the second sentence; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 10303` | strike | by striking paragraphs (3) and (4). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 10304` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
