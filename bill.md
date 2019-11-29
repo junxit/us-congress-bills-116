@@ -134,12 +134,12 @@ The Voting Rights Act of 1965 (52 U.S.C. 10301 et seq.) is further amended by in
     >     - **(D)**
     >       - **(i)** If the change applies to a State, the actual number of votes, or (if it is not reasonably practicable for the State to ascertain the actual number of votes) the estimated number of votes received by each candidate in each statewide election held during the 5-year period which ends on the date the change involved is made; and
     >       - **(ii)** if the change applies to only one political subdivision, the actual number of votes, or (if it is not reasonably practicable for the political subdivision to ascertain the actual number of votes) in each subdivision-wide election held during the 5-year period which ends on the date the change involved is made.
-    >   - **(4)** *Voluntary Compliance by Smaller Jurisdictions* Compliance with this subsection shall be voluntary for a political subdivision of a State unless the subdivision is one of the following:
+    >   - **(4)** *Voluntary Compliance by smaller jurisdictions* Compliance with this subsection shall be voluntary for a political subdivision of a State unless the subdivision is one of the following:
     >     - **(A)** A county or parish.
     >     - **(B)** A municipality with a population greater than 10,000, as determined by the Bureau of the Census under the most recent decennial census.
     >     - **(C)** A school district with a population greater than 10,000, as determined by the Bureau of the Census under the most recent decennial census. For purposes of this subparagraph, the term school district means the geographic area under the jurisdiction of a local educational agency (as defined in section 9101 of the Elementary and Secondary Education Act of 1965).
     > - **(d)** *Rules Regarding Format of Information* The Attorney General may issue rules specifying a reasonably convenient and accessible format that States and political subdivisions shall use to provide public notice of information under this section.
-    > - **(e)** *No denial of right To vote* The right to vote of any person shall not be denied or abridged because the person failed to comply with any change made by a State or political subdivision if the State or political subdivision involved did not meet the applicable requirements of this section with respect to the change.
+    > - **(e)** *No denial of right to vote* The right to vote of any person shall not be denied or abridged because the person failed to comply with any change made by a State or political subdivision to a voting qualification, standard, practice, or procedure if the State or political subdivision involved did not meet the applicable requirements of this section with respect to the change.
     > - **(f)** *Definitions* In this section—
     >   - **(1)** the term demographic group means each group which section 2 protects from the denial or abridgement of the right to vote on account of race or color, or in contravention of the guarantees set forth in section 4(f)(2);
     >   - **(2)** the term election for Federal office means any general, special, primary, or runoff election held solely or in part for the purpose of electing any candidate for the office of President, Vice President, Presidential elector, Senator, Member of the House of Representatives, or Delegate or Resident Commissioner to the Congress; and
@@ -151,14 +151,16 @@ The Voting Rights Act of 1965 (52 U.S.C. 10301 et seq.) is further amended by in
 ## § 6. Authority to assign observers
 
 - **(a)** *Clarification of Authority in Political Subdivisions Subject to Preclearance* Section 8(a)(2)(B) of the Voting Rights Act of 1965 (52 U.S.C. 10305(a)(2)(B)) is amended to read as follows:
-  > - **(B)** in the Attorney General's judgment, the assignment of observers is otherwise necessary to enforce the guarantees of the 14th or 15th Amendment or any provision of this Act or any other Federal law protecting the right of citizens of the United States to vote;
+  > - **(B)** in the Attorney General's judgment, the assignment of observers is otherwise necessary to enforce the guarantees of the 14th or 15th Amendment or any provision of this Act or any other Federal law protecting the right of citizens of the United States to vote; or
 
 - **(b)** *Assignment of Observers To Enforce Bilingual Election Requirements* Section 8(a) of such Act (52 U.S.C. 10305(a)) is amended—
-  - **(1)** by striking “or” at the end of paragraph (2); and
-  - **(2)** by adding after paragraph (2) the following:
+  - **(1)** by striking “or” at the end of paragraph (1);
+  - **(2)** by inserting after paragraph (2) the following:
     > - **(3)** the Attorney General certifies with respect to a political subdivision that—
     >   - **(A)** the Attorney General has received written meritorious complaints from residents, elected officials, or civic participation organizations that efforts to violate section 203 are likely to occur; or
-    >   - **(B)** in the Attorney General’s judgment, the assignment of observers is necessary to enforce the guarantees of section 203.
+    >   - **(B)** in the Attorney General’s judgment, the assignment of observers is necessary to enforce the guarantees of section 203;
+
+  - **(3)** by moving the margin for the continuation text following paragraph (3), as added by paragraph (2) of this subsection, two ems to the left.
 
 ## § 7. Preliminary Injunctive relief
 
@@ -184,7 +186,8 @@ The Voting Rights Act of 1965 (52 U.S.C. 10301 et seq.) is further amended by in
     >     - **(iii)** Whether the change was adopted fewer than 180 days before the date of the election with respect to which the change is to take effect.
     >     - **(iv)** Whether the defendant has failed to provide timely or complete notice of the adoption of the change as required by applicable Federal or State law.
 
-- **(c)** *Grounds for stay or interlocutory appeal* Section 12(d) of such Act (52 U.S.C. 10308(d)) is amended by adding at the end the following: “A jurisdiction’s inability to enforce its voting or election laws, regulations, policies, or redistricting plans, standing alone, shall not be deemed to constitute irreparable harm to the public interest or to the interests of a defendant in a lawsuit under the U.S. Constitution or any Federal law that prohibits discrimination on the basis of race, color, or membership in a language minority group in the voting process, for the purposes of determining whether a stay of a court’s order or an interlocutory appeal under section 1253 of title 28, United States Code, is warranted.”
+- **(c)** *Grounds for stay or interlocutory appeal* Section 12(d) of such Act (52 U.S.C. 10308(d)) is further amended by adding at the end the following:
+  > - **(3)** A jurisdiction’s inability to enforce its voting or election laws, regulations, policies, or redistricting plans, standing alone, shall not be deemed to constitute irreparable harm to the public interest or to the interests of a defendant in an action arising under the U.S. Constitution or any Federal law that prohibits discrimination on the basis of race, color, or membership in a language minority group in the voting process, for the purposes of determining whether a stay of a court’s order or an interlocutory appeal under section 1253 of title 28, United States Code, is warranted.
 
 ## § 8. Definitions
 
@@ -204,7 +207,13 @@ Title I of the Voting Rights Act of 1965 (52 U.S.C. 10301) is amended by adding 
 > - **(4)** *Tribal Government* The term Tribal Government means the recognized governing body of an Indian Tribe.
 > - **(5)** *Voting-age population* The term voting-age population means the numerical size of the population within a State, within a political subdivision, or within a political subdivision that contains Indian lands, as the case may be, that consists of persons age 18 or older, as calculated by the Bureau of the Census under the most recent decennial census.
 
-## § 9. Other technical and conforming amendments
+## § 9. Attorneys’ fees
+
+Section 14(c) of the Voting Rights Act of 1965 (52 U.S.C. 10310(c)) is amended by adding at the end the following:
+
+> - **(4)** The term prevailing party means a party to an action that receives at least some of the benefit sought by such action, states a colorable claim, and can establish that the action was a significant cause of a change to the status quo.
+
+## § 10. Other technical and conforming amendments
 
 - **(a)** *Actions Covered Under Section 3* Section 3(c) of the Voting Rights Act of 1965 (52 U.S.C. 10302(c)) is amended—
   - **(1)** by striking “any proceeding instituted by the Attorney General or an aggrieved person under any statute to enforce” and inserting “any action under any statute in which a party (including the Attorney General) seeks to enforce”; and
@@ -217,5 +226,5 @@ Title I of the Voting Rights Act of 1965 (52 U.S.C. 10301) is amended by adding 
   - **(2)** in subsection (a), by striking “November 1, 1964” and all that follows through “November 1, 1972” and inserting “the applicable date of coverage”; and
   - **(3)** by adding at the end the following new subsection:
     > - **(e)** The term applicable date of coverage means, with respect to a State or political subdivision—
-    >   - **(1)** June 25, 2013, if the most recent determination for such State or subdivision under section 4(b) was made on or before December 31, 2015; or
-    >   - **(2)** the date on which the most recent determination for such State or subdivision under section 4(b) was made, if such determination was made after December 31, 2015.
+    >   - **(1)** June 25, 2013, if the most recent determination for such State or subdivision under section 4(b) was made on or before December 31, 2019; or
+    >   - **(2)** the date on which the most recent determination for such State or subdivision under section 4(b) was made, if such determination was made after December 31, 2019.
