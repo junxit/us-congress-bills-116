@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 442
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 442
@@ -34,3 +34,7 @@ A resolution designating November 2019 as "National Runaway Prevention Month".
 
 - 2019-11-21 — Introduced in Senate
 - 2019-11-21 — Referred to the Committee on the Judiciary.
+- 2019-12-02 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.(consideration: CR S6791; text: 11/21/2019 CR S6761)
+- 2019-12-02 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (consideration: CR S6791; text: 11/21/2019 CR S6761)
+- 2019-12-02 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2019-12-02 — Senate Committee on the Judiciary discharged by Unanimous Consent.
