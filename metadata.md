@@ -1,7 +1,7 @@
 ---
 measure: S. 1349
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1349
@@ -16,9 +16,10 @@ Secure Traveler Act
 
 - Sen. Thune, John [R-SD] (T000250)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Secure Traveler Act
 
 - 2019-05-07 — Introduced in Senate
 - 2019-05-07 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2019-07-24 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2019-12-02 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-163.
+- 2019-12-02 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-163.
+- 2019-12-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 312.
