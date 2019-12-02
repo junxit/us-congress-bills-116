@@ -24,7 +24,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas the Global Fund has called on donors to support its Sixth Replenishment by mobilizing a minimum of $14,000,000,000 in donor commitments for 2021–2023;
 - Whereas Canada, the European Union, Germany, India, Ireland, Italy, Luxembourg, Japan, Portugal, Switzerland, and the United Kingdom have responded to the call by significantly increasing their respective pledges for the Sixth Replenishment;
 - Whereas recipient countries also are expected to increase their co-financing by 48 percent, growing to $46,000,000,000 in 2021–2023; and
-- Whereas, with these resources secured, the Global Fund projects it will reduce the number of deaths due to AIDS, TB, and malaria by nearly 50 percent, avert 234,000,000 infections or disease cases, and save an additional 16,000,000 lives; Now, therefore, be it
+- Whereas, with these resources secured, the Global Fund projects it will reduce the number of deaths due to AIDS, TB, and malaria by nearly 50 percent, avert 234,000,000 infections or disease cases, and save an additional 16,000,000 lives: Now, therefore, be it
 
 That the Senate—
 

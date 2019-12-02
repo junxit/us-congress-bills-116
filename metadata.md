@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 318
 congress: 116
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 318
@@ -16,7 +16,7 @@ A resolution to support the Global Fund to fight AIDS, Tuberculosis and Malaria,
 
 - Sen. Risch, James E. [R-ID] (R000584)
 
-## Cosponsors (11)
+## Cosponsors (20)
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Isakson, Johnny [R-GA] (I000055)
@@ -29,6 +29,15 @@ A resolution to support the Global Fund to fight AIDS, Tuberculosis and Malaria,
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
 - Sen. Manchin, Joe, III [D-WV] (M001183)
 - Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Peters, Gary C. [D-MI] (P000595)
 
 ## Committees (1)
 
@@ -42,3 +51,5 @@ A resolution to support the Global Fund to fight AIDS, Tuberculosis and Malaria,
 - 2019-09-26 — Committee on Foreign Relations. Reported by Senator Risch with amendments and with a preamble. Without written report.
 - 2019-09-26 — Committee on Foreign Relations. Reported by Senator Risch with amendments and with a preamble. Without written report.
 - 2019-09-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 236.
+- 2019-12-02 — Passed/agreed to in Senate: Resolution agreed to in Senate with amendments and with a preamble by Unanimous Consent.(consideration: CR S6790-6791; text: 12/10/2019 CR S6955)
+- 2019-12-02 — Resolution agreed to in Senate with amendments and with a preamble by Unanimous Consent. (consideration: CR S6790-6791; text: 12/10/2019 CR S6955)
