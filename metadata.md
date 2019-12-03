@@ -1,7 +1,7 @@
 ---
 measure: S. 2877
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2877
@@ -42,3 +42,7 @@ Terrorism Risk Insurance Program Reauthorization Act of 2019
 
 - 2019-11-14 — Introduced in Senate
 - 2019-11-14 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2019-11-20 — Committee on Banking, Housing, and Urban Affairs. Ordered to be reported without amendment favorably.
+- 2019-12-03 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Crapo without amendment. Without written report.
+- 2019-12-03 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Crapo without amendment. Without written report.
+- 2019-12-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 313.
