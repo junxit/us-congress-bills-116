@@ -1,7 +1,7 @@
 ---
 measure: S. 178
 congress: 116
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 178
@@ -85,3 +85,13 @@ UIGHUR Act of 2019
 - 2019-09-12 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on Intelligence (Permanent Select), and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-09-12 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on Intelligence (Permanent Select), and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-09-12 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on Intelligence (Permanent Select), and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-10-30 — Committee Consideration and Mark-up Session Held.
+- 2019-10-30 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2019-12-03 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2019-12-03 — Considered as unfinished business. (consideration: CR H9209)
+- 2019-12-03 — Considered under suspension of the rules. (consideration: CR H9201-9208)
+- 2019-12-03 — DEBATE - The House proceeded with forty minutes of debate on S. 178.
+- 2019-12-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-12-03 — Mr. Sires moved to suspend the rules and pass the bill, as amended.
+- 2019-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 1 (Roll no. 644). (text: CR H9201-9203)
+- 2019-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 1 (Roll no. 644).(text: CR H9201-9203)
