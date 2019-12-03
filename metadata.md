@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4018
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4018
@@ -47,3 +47,9 @@ To provide that the amount of time that an elderly offender must serve before be
 - 2019-11-26 — Placed on the Union Calendar, Calendar No. 252.
 - 2019-11-26 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-311.
 - 2019-11-26 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-311.
+- 2019-12-03 — Considered under suspension of the rules. (consideration: CR H9191-9192)
+- 2019-12-03 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4018.
+- 2019-12-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-12-03 — Mr. Deutch moved to suspend the rules and pass the bill, as amended.
+- 2019-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9191)
+- 2019-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9191)
