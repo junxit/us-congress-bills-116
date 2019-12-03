@@ -1,7 +1,7 @@
 ---
 measure: S. 2877
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
