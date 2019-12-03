@@ -15,6 +15,8 @@ This Act may be cited as the “End Neglected Tropical Diseases Act”.
 
 ## § 2. Table of contents
 
+The table of contents for this Act is as follows:
+
 ## § 3. Statement of policy
 
 It is the policy of the United States to support a broad range of implementation and research and development activities that work toward the achievement of cost-effective and sustainable treatment, control, and, where possible, elimination of neglected tropical diseases for the economic and social well-being of all people.
