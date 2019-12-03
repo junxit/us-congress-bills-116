@@ -30,3 +30,7 @@ This Act may be cited as the “Citizenship for Children of Military Members and
     >     - **(B)** authorized to accompany such member and reside abroad with the member pursuant to the member's official orders, and is so accompanying and residing with the member.
 
 - **(b)** *Conforming amendment* The table of contents for the Immigration and Nationality Act is amended by striking the item relating to section 320 and inserting the following:
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
