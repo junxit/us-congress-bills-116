@@ -1,7 +1,7 @@
 ---
 measure: S. 760
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 760
@@ -43,3 +43,17 @@ Support for Veterans in Effective Apprenticeships Act of 2019
 - 2019-12-04 — Senate amendment agreed to: Amendment SA 1254 agreed to in Senate by Unanimous Consent.
 - 2019-12-04 — Senate amendment proposed (on the floor): Amendment SA 1254 proposed by Senator Peters.
 - 2019-12-04 — Senate amendment submitted
+- 2020-03-10 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2020-03-10 — Considered under suspension of the rules. (consideration: CR H1574-1575)
+- 2020-03-10 — DEBATE - The House proceeded with forty minutes of debate on S. 760.
+- 2020-03-10 — Mrs. Lee (NV) moved to suspend the rules and pass the bill.
+- 2020-03-11 — Considered as unfinished business. (consideration: CR H1613-1614)
+- 2020-03-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-03-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 97). (text: 03/10/2020 CR H1574)
+- 2020-03-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 97).
+- 2020-03-16 — Presented to President.
+- 2020-03-16 — Presented to President.
+- 2020-03-26 — Became Public Law No: 116-134.
+- 2020-03-26 — Became Public Law No: 116-134.
+- 2020-03-26 — Signed by President.
+- 2020-03-26 — Signed by President.
