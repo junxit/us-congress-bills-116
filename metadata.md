@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4803
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4803
@@ -50,3 +50,14 @@ Citizenship for Children of Military Members and Civil Servants Act
 - 2019-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9188)
 - 2019-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9188)
 - 2019-12-04 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2020-03-05 — Passed Senate without amendment by Unanimous Consent.
+- 2020-03-05 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-03-05 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2020-03-05 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S1612)
+- 2020-03-09 — Message on Senate action sent to the House.
+- 2020-03-16 — Presented to President.
+- 2020-03-16 — Presented to President.
+- 2020-03-26 — Became Public Law No: 116-133.
+- 2020-03-26 — Became Public Law No: 116-133.
+- 2020-03-26 — Signed by President.
+- 2020-03-26 — Signed by President.
