@@ -15,18 +15,17 @@ This Act may be cited as the “Support for Veterans in Effective Apprenticeship
 
 ## § 2. Improved apprenticeship program coordination between the Department of Labor and the Department of Veterans Affairs
 
-- **(a)** *Definition of registered apprenticeship program* In this Act, the term registered apprenticeship program means an apprenticeship program registered under the Act of August 16, 1937 (50 Stat. 664; commonly referred to as the “National Apprenticeship Act”).
-- **(b)** *Additional registered apprenticeship program requirements* The Secretary of Labor shall amend the rules and procedures regarding registered apprenticeship programs to include the following requirements:
-  - **(1)** Each sponsor of a program applying to be a registered apprenticeship program shall provide a written assurance to the Secretary that, upon the program's approval as a registered apprenticeship program, the sponsor will—
-    - **(A)** complete, for each program location, all enrollment requirements to obtain approval under chapters 30 through 36 of title 38, United States Code, to allow individuals eligible for educational assistance available under such chapters to use such assistance for the registered apprenticeship program, including the requirement of designating a Certifying Official; and
-    - **(B)** agree to record and maintain the records concerning the registered apprenticeship program required in order for individuals eligible for educational assistance under title 38, United States Code, to use such assistance for enrollment in the registered apprenticeship program.
-  - **(2)**
-    - **(A)** To the extent practicable, a registered apprenticeship program shall grant advanced standing or credit, and provide increased wages commensurate to such standing or credit, for any individual eligible for educational assistance under title 38, United States Code, who—
-      - **(i)** is enrolled in the registered apprenticeship program; and
-      - **(ii)**
-        - **(I)** has a demonstrated competency applicable to the apprenticeship occupation; or
-        - **(II)** has acquired experience, training or skills through military service that is applicable to the apprenticeship occupation.
-    - **(B)** Notwithstanding subparagraph (A), in the case of a registered apprenticeship program that has preferential language for veterans already in the program's apprenticeship policies and standards as of the date of enactment of this Act, the registered apprenticeship program may continue awarding advanced standing or credit for veterans in accordance with such existing apprenticeship program policies and standards.
-  - **(3)** When the Secretary of Labor initially approves a registered apprenticeship program, the Secretary shall provide a copy of the certificate of registration to—
-    - **(A)** the State approving agency designated under chapter 36 of title 38, United States Code, for the State where the headquarters of the registered apprenticeship program's sponsor are located; and
-    - **(B)** the State approving agency, as determined under the rules and procedures implementing the Act of August 16, 1937 (50 Stat. 664; commonly referred to as the National Apprenticeship Act), where the registered apprenticeship program is located.
+- **(a)** *Definitions* In this Act:
+  - **(1)** *Registered apprenticeship program* The term registered apprenticeship program means an apprenticeship program registered under the Act of August 16, 1937 (50 Stat. 664; commonly referred to as the “National Apprenticeship Act”).
+  - **(2)** *Secretary* The term Secretary means the Secretary of Labor.
+- **(b)** *Additional registered apprenticeship program requirements* Notwithstanding any other provision of law, for any program applying to become a registered apprenticeship program on or after the date that is 180 days after the date of enactment of this Act, the Secretary shall—
+  - **(1)** acquire from the program sponsor a written assurance that the sponsor—
+    - **(A)** is aware of the availability of educational assistance for a veteran or other individual eligible under chapters 30 through 36 of title 38, United States Code, for use in connection with a registered apprenticeship program;
+    - **(B)** will make a good faith effort to obtain approval for educational assistance described in subparagraph (A) for, at a minimum, each program location that employs or recruits a veteran or other individual eligible for educational assistance under chapters 30 through 36 of title 38, United States Code; and
+    - **(C)** will not deny the application of a qualified candidate who is a veteran or other individual eligible for educational assistance described in subparagraph (A) for the purpose of avoiding making a good faith effort to obtain approval as described in subparagraph (B);
+  - **(2)** in accordance with paragraphs (5) and (12) of section 29.5(b) of title 29, Code of Federal Regulations (as in effect on the day before the date of enactment of this Act), require the program sponsor, to the extent practicable, to provide standards that contain provisions to grant advanced standing or credit, and provide increased wages commensurate to such standing or credit, for any veteran or other individual eligible for educational assistance under chapters 30 through 36 of title 38, United States Code, who—
+    - **(A)** is enrolled in the registered apprenticeship program; and
+    - **(B)**
+      - **(i)** has a demonstrated competence applicable to the apprenticeship occupation; or
+      - **(ii)** has acquired experience, training, or skills through military service that is applicable to the apprenticeship occupation; and
+  - **(3)** when the Secretary approves the registered apprenticeship program, provide a copy of the program's certificate of registration to the State approving agency designated under chapter 36 of title 38, United States Code, in the State where the program is located.
