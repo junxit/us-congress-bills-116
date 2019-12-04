@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4803
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4803
@@ -32,9 +32,10 @@ Citizenship for Children of Military Members and Civil Servants Act
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Citizenship for Children of Military Members and Civil Servants Act
 - 2019-12-03 — Mr. Nadler moved to suspend the rules and pass the bill, as amended.
 - 2019-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9188)
 - 2019-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9188)
+- 2019-12-04 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
