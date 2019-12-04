@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5277
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5277
@@ -38,3 +38,10 @@ To amend section 442 of title 18, United States Code, to exempt certain interest
 - 2019-12-03 — Referred to the House Committee on the Judiciary.
 - 2019-12-04 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S6861)
 - 2019-12-04 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S6861)
+- 2019-12-05 — Became Public Law No: 116-78.
+- 2019-12-05 — Became Public Law No: 116-78.
+- 2019-12-05 — Message on Senate action sent to the House.
+- 2019-12-05 — Presented to President.
+- 2019-12-05 — Presented to President.
+- 2019-12-05 — Signed by President.
+- 2019-12-05 — Signed by President.
