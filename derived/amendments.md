@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4803
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 
