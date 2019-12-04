@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3460
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3460
@@ -26,9 +26,10 @@ End Neglected Tropical Diseases Act
 - Rep. Lee, Barbara [D-CA-13] (L000551)
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ End Neglected Tropical Diseases Act
 - 2019-12-03 — Mr. Sires moved to suspend the rules and pass the bill.
 - 2019-12-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9194-9195)
 - 2019-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9194-9195)
+- 2019-12-04 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
