@@ -1,7 +1,7 @@
 ---
 measure: H.R. 565
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 565
@@ -27,9 +27,10 @@ AMIGOS Act
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ AMIGOS Act
 - 2019-12-03 — Mr. Cicilline moved to suspend the rules and pass the bill, as amended.
 - 2019-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9189)
 - 2019-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9189)
+- 2019-12-04 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
