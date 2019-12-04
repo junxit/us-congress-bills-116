@@ -1,7 +1,7 @@
 ---
 measure: S. 151
 congress: 116
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 151
@@ -138,3 +138,14 @@ Pallone-Thune Telephone Robocall Abuse Criminal Enforcement and Deterrence Act
 - 2019-12-04 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
 - 2019-12-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 3 (Roll no. 647). (text: CR H9235-9239)
 - 2019-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 3 (Roll no. 647).(text: CR H9235-9239)
+- 2019-12-05 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2019-12-19 — Measure laid before Senate by unanimous consent. (consideration: CR S7177)
+- 2019-12-19 — Message on Senate action sent to the House.
+- 2019-12-19 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 151 by Voice Vote.
+- 2019-12-19 — Senate agreed to the House amendment to S. 151 by Voice Vote.
+- 2019-12-20 — Presented to President.
+- 2019-12-20 — Presented to President.
+- 2019-12-30 — Became Public Law No: 116-105.
+- 2019-12-30 — Became Public Law No: 116-105.
+- 2019-12-30 — Signed by President.
+- 2019-12-30 — Signed by President.
