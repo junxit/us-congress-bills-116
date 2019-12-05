@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2486
 congress: 116
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 2 executed, 7 stated and not applied.
+9 amendatory instructions. 3 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,21 +26,30 @@ to guess them.
 
 ### 20 U.S.C. § 1067q
 
-> in the first sentence, by striking “through 2019” and inserting “through 2021”; and
+> Section 371(b)(1)(A) (20 U.S.C. 1067q(b)(1)(A)) is amended by striking “for each of the fiscal years 2008 through 2019.” and all that follows through the end of the subparagraph and inserting “for fiscal year 2020 and each fiscal year thereafter.”.
 
 | | |
 |---|---|
-| Removed | `through 2019` |
-| Inserted | `through 2021` |
+| Removed | `for each of the fiscal years 2008 through 2019.` |
+| Inserted | `for fiscal year 2020 and each fiscal year thereafter.` |
 
-### 20 U.S.C. § 1067q
+### 20 U.S.C. § 1070a
 
-> in the second sentence, by striking “2019” and inserting “2021”.
+> in subclause (X), by striking “$1,430,000,000” and inserting “$1,455,000,000”; and
 
 | | |
 |---|---|
-| Removed | `2019` |
-| Inserted | `2021` |
+| Removed | `$1,430,000,000` |
+| Inserted | `$1,455,000,000` |
+
+### 20 U.S.C. § 1070a
+
+> in subclause (XI), by striking “$1,145,000,000” and insert “$1,170,000,000”.
+
+| | |
+|---|---|
+| Removed | `$1,145,000,000` |
+| Inserted | `$1,170,000,000` |
 
 ## Stated, not applied
 
@@ -51,10 +60,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `20 U.S.C. § 1087h` | strike | by striking paragraphs (1), (4), and (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1087h` | redesignate | by redesignating paragraphs (3), (6), (7), and (8) as paragraphs (1), (2), (3), and (4), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1087h` | strike | by striking subsection (b); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1087h` | redesignate | by redesignating subsection (c) as subsection (b). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1072b` | strike | by striking paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1072b` | redesignate | by redesignating paragraphs (4) through (6) as paragraphs (3) through (5), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1070a` | replace | Section 401(b)(7)(A)(iv) of the Higher Education Act of 1965 (20 U.S.C. 1070a(b)(7)(A)(iv)) is amended by striking subclauses (X) and (XI) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6103` | amend | Paragraph (13) of section 6103(l) of the Internal Revenue Code of 1986 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6103` | insert | Section 6103(a)(3) of such Code is amended by inserting “, (13)(A), (13)(B)” after “(12)”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 6103` | insert | by inserting “(A), (13)(B)” after “(13)” each place it occurs, and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 6103` | insert | by inserting “, (13)(A), (13)(B)” after “(l)(10)” each place it occurs. | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1088` | add-at-end | Part G of title IV (20 U.S.C. 1088 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1091` | amend | Section 484(q) (20 U.S.C. 1091(q)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

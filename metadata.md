@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2486
 congress: 116
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2486
@@ -16,7 +16,7 @@ Fostering Undergraduate Talent by Unlocking Resources for Education Act
 
 - Rep. Adams, Alma S. [D-NC-12] (A000370)
 
-## Cosponsors (28)
+## Cosponsors (33)
 
 - Rep. Walker, Mark [R-NC-6] (W000819)
 - Rep. Torres Small, Xochitl [D-NM-2] (T000484)
@@ -46,6 +46,11 @@ Fostering Undergraduate Talent by Unlocking Resources for Education Act
 - Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
 - Rep. Haaland, Debra A. [D-NM-1] (H001080)
 - Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -65,3 +70,11 @@ Fostering Undergraduate Talent by Unlocking Resources for Education Act
 - 2019-09-18 — Received in the Senate.
 - 2019-09-19 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2019-09-23 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 212.
+- 2019-12-05 — Amendment SA 1255 agreed to in Senate by Unanimous Consent.
+- 2019-12-05 — Amendment SA 1255 proposed by Senator Scott SC for Senator Alexander. (consideration: CR S6865; text: CR S6894-6895) In the nature of a substitute.
+- 2019-12-05 — Measure laid before Senate by unanimous consent. (consideration: CR S6865)
+- 2019-12-05 — Passed Senate with an amendment by Voice Vote.
+- 2019-12-05 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2019-12-05 — Senate amendment agreed to: Amendment SA 1255 agreed to in Senate by Unanimous Consent.
+- 2019-12-05 — Senate amendment proposed (on the floor): Amendment SA 1255 proposed by Senator Scott SC for Senator Alexander.(consideration: CR S6865; text: CR S6894-6895)
+- 2019-12-05 — Senate amendment submitted
