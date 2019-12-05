@@ -1,0 +1,25 @@
+---
+legis-num: S. 2984
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2984
+
+> To amend the Internal Revenue Code of 1986 to allow for certain residential rental property to be depreciated over a 30-year period.
+
+## § 1. Short title
+
+This Act may be cited as the “Multifamily Depreciation Parity Act of 2019”.
+
+## § 2. Depreciation of certain residential rental property over 30-year period
+
+Section 13204(b) of Public Law 115–97 is amended—
+
+- **(1)** in paragraph (1), by striking “paragraph (2)” and inserting “paragraphs (2) and (3)”; and
+- **(2)** by adding at the end the following:
+  > - **(3)** *Certain residential rental property* In the case of any residential rental property—
+  >   - **(A)** which was placed in service before January 1, 2018,
+  >   - **(B)** which is held by an electing real property trade or business (as defined in section 163(j)(7)(B) of the Internal Revenue Code of 1986), and
+  >   - **(C)** for which subparagraph (A), (B), (C), (D), (E), or (G) of section 168(g)(1) of the Internal Revenue Code of 1986 did not apply prior to such date,
