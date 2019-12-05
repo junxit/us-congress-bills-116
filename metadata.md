@@ -1,7 +1,7 @@
 ---
 measure: S. 906
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 906
@@ -16,9 +16,12 @@ Driftnet Modernization and Bycatch Reduction Act
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
 
 ## Committees (1)
 
@@ -28,3 +31,7 @@ Driftnet Modernization and Bycatch Reduction Act
 
 - 2019-03-27 — Introduced in Senate
 - 2019-03-27 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2019-04-03 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment favorably.
+- 2019-12-05 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment. With written report No. 116-166.
+- 2019-12-05 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment. With written report No. 116-166.
+- 2019-12-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 316.

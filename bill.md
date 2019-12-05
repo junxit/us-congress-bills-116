@@ -49,3 +49,12 @@ Section 307(1)(M) of the Magnuson-Stevens Fishery Conservation and Management Ac
 
 > - **(i)** deploys, within the exclusive economic zone, a net with a total length of less than two and one-half kilometers and a mesh size of 14 inches or greater; and
 > - **(ii)** is conducted within 5 years of the date of enactment of the Driftnet Modernization and Bycatch Reduction Act
+
+## § 6. Fees
+
+- **(a)** *In general* The North Pacific Fishery Management Council may recommend, and the Secretary of Commerce may approve, regulations necessary for the collection of fees from charter vessel operators who guide recreational anglers who harvest Pacific halibut in International Pacific Halibut Commission regulatory areas 2C and 3A as those terms are defined in part 300 of title 50, Code of Federal Regulations (or any successor regulations).
+- **(b)** *Use of fees* Any fees collected under this section shall be available, without appropriation or fiscal year limitation, for the purposes of—
+  - **(1)** financing administrative costs of the Recreational Quota Entity program;
+  - **(2)** the purchase of halibut quota shares in International Pacific Halibut Commission regulatory areas 2C and 3A by the recreational quota entity authorized in part 679 of title 50, Code of Federal Regulations (or any successor regulations);
+  - **(3)** halibut conservation and research; and
+  - **(4)** promotion of the halibut resource by the recreational quota entity authorized in part 679 of title 50, Code of Federal Regulations (or any successor regulations).
