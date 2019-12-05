@@ -1,7 +1,7 @@
 ---
 measure: S. 1148
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | Section 44506(f)(1)(B)(i) of title 49, United States Code, is amended by striking “referring” and all that follows through “10 percent.” and inserting “giving further preferential consideration, within each qualification category based u… | the bill names no machine-readable US Code section |
+| — | insert | Section 44506(f)(1)(A)(ii) of title 49, United States Code, is amended by inserting “(including a facility of the National Guard)” after “Department of Defense”. | the bill names no machine-readable US Code section |
