@@ -1,7 +1,7 @@
 ---
 measure: S. 914
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -53,12 +53,12 @@ to guess them.
 
 ### 33 U.S.C. § 3603
 
-> in paragraph (1), by striking “or the Interagency Ocean Observing Committee.” and inserting “or the Council under this subtitle”; and
+> in paragraph (1), by striking “or the Interagency Ocean Observing Committee.” and inserting “or the Council under this subtitle.”; and
 
 | | |
 |---|---|
 | Removed | `or the Interagency Ocean Observing Committee.` |
-| Inserted | `or the Council under this subtitle` |
+| Inserted | `or the Council under this subtitle.` |
 
 ### 33 U.S.C. § 3603
 
