@@ -1,7 +1,7 @@
 ---
 measure: S. 908
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 908
@@ -28,3 +28,7 @@ Fluke Fairness Act of 2019
 
 - 2019-03-27 — Introduced in Senate
 - 2019-03-27 — Read twice and referred to the Committee on Commerce, Science, and Transportation. (text: CR S2049-2050)
+- 2019-04-03 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2019-12-05 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-167.
+- 2019-12-05 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-167.
+- 2019-12-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 317.
