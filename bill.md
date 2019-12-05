@@ -73,7 +73,7 @@ Section 209(b)(2) (33 U.S.C. 1128(b)(2)) is amended—
 
 ## § 7. Modification of elements of National Sea Grant College Program
 
-Section 204(b) (33 U.S.C. 1123(b)) is amended, in the matter preceding paragraph (1), by inserting “for research, education, extension, training, technology transfer, and public service” after “financial assistance”.
+Section 204(b) (33 U.S.C. 1123(b)) is amended, in the matter preceding paragraph (1), by inserting “for research, education, extension, training, technology transfer, public service,” after “financial assistance”.
 
 ## § 8. Direct hire authority; Dean John A. Knauss Marine Policy Fellowship
 
@@ -101,8 +101,8 @@ Section 204(b) (33 U.S.C. 1123(b)) is amended, in the matter preceding paragraph
     >   - **(B)** University research on oyster diseases, oyster restoration, and oyster-related human health risks.
     >   - **(C)** University research on the biology, prevention, and forecasting of harmful algal blooms.
     >   - **(D)** University research, education, training, and extension services and activities focused on coastal resilience and United States working waterfronts and other regional or national priority issues identified in the strategic plan under section 204(c)(1).
-    >   - **(E)** University research on sustainable aquaculture techniques and technologies.
-    >   - **(F)** Fishery extension activities conducted by sea grant colleges or sea grant institutes to enhance, and not supplant, existing core program funding.
+    >   - **(E)** University research and extension on sustainable aquaculture techniques and technologies.
+    >   - **(F)** Fishery research and extension activities conducted by sea grant colleges or sea grant institutes to enhance, and not supplant, existing core program funding.
 
 - **(b)** *Modification of limitations on amounts for administration* Paragraph (1) of section 212(b) (33 U.S.C. 1131(b)) is amended to read as follows:
   > - **(1)** *Administration*

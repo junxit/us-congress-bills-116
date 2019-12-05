@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2405
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -82,7 +82,7 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 1127` | replace | in paragraph (1), as designated by paragraph (1) of this section, in the second sentence, by striking “A fellowship” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 1123` | amend | Section 204(c)(4)(E) (33 U.S.C. 1123(c)(4)(E)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 857-20` | repeal | Section 9 of the National Sea Grant College Program Act Amendments of 2002 (33 U.S.C. 857–20) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1123` | insert | Section 204(b) (33 U.S.C. 1123(b)) is amended, in the matter preceding paragraph (1), by inserting “for research, education, extension, training, technology transfer, and public service” after “financial assistance”. | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 1123` | insert | Section 204(b) (33 U.S.C. 1123(b)) is amended, in the matter preceding paragraph (1), by inserting “for research, education, extension, training, technology transfer, public service,” after “financial assistance”. | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 1131` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1131` | amend | by amending paragraph (2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1131` | amend | Paragraph (1) of section 212(b) (33 U.S.C. 1131(b)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
