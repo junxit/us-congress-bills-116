@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 741
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 741
@@ -16,6 +16,15 @@ Providing for consideration of the bill (H.R. 4) to amend the Voting Rights Act 
 
 - Rep. Raskin, Jamie [D-MD-8] (R000606)
 
+## Committees (1)
+
+- House — Rules Committee
+
+## Recorded votes (2)
+
+- 2019-12-05 — [House 116-1-650](votes/house-116-1-0650.md) — On Ordering the Previous Question — **Passed** (228–196)
+- 2019-12-05 — [House 116-1-651](votes/house-116-1-0651.md) — On Agreeing to the Resolution — **Passed** (226–196)
+
 ## Actions
 
 - 2019-12-04 — Introduced in House
@@ -23,3 +32,11 @@ Providing for consideration of the bill (H.R. 4) to amend the Voting Rights Act 
 - 2019-12-04 — The House Committee on Rules reported an original measure, H. Rept. 116-322, by Mr. Raskin.
 - 2019-12-04 — The House Committee on Rules reported an original measure, H. Rept. 116-322, by Mr. Raskin.
 - 2019-12-04 — The resolution provides for consideration of H.R. 4 under a closed rule with one hour of general debate. Also, the resolution provides for consideration of H. Res. 326 under a closed rule with one hour of general debate. The rule provides that the amendments to H. Res. 326 and preamble, modified by the amendments in Part B of the report are considered as adopted.
+- 2019-12-05 — Considered as privileged matter. (consideration: CR H9265-9271)
+- 2019-12-05 — Considered as unfinished business. (consideration: CR H9279-9280)
+- 2019-12-05 — DEBATE - The House proceeded with one hour of debate on H. Res. 741.
+- 2019-12-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-12-05 — On agreeing to the resolution Agreed to by the Yeas and Nays: 226 - 196 (Roll no. 651). (text: CR H9265)
+- 2019-12-05 — On ordering the previous question Agreed to by the Yeas and Nays: 228 - 196 (Roll no. 650). (consideration: CR H9279-9280)
+- 2019-12-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 741, the Chair put the question on ordering the previous question and by voice vote, announced the ayes had prevailed. Mrs. Lesko demanded the yeas and nays and the Chair postponed further proceedings on ordering the previous question on H. Res. 741 until later in the legislative day.
+- 2019-12-05 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 226 - 196 (Roll no. 651).(text: CR H9265)
