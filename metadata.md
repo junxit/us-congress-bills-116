@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 326
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 326
@@ -215,6 +215,10 @@ Expressing the sense of the House of Representatives regarding United States eff
 
 - House — Foreign Affairs Committee
 
+## Recorded votes (1)
+
+- 2019-12-06 — [House 116-1-652](votes/house-116-1-0652.md) — On Agreeing to the Resolution — **Passed** (226–188)
+
 ## Actions
 
 - 2019-04-25 — Introduced in House
@@ -226,3 +230,18 @@ Expressing the sense of the House of Representatives regarding United States eff
 - 2019-10-17 — Placed on the House Calendar, Calendar No. 47.
 - 2019-10-17 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 116-242.
 - 2019-10-17 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 116-242.
+- 2019-12-04 — Rules Committee Resolution H. Res. 741 Reported to House. The resolution provides for consideration of H.R. 4 under a closed rule with one hour of general debate. Also, the resolution provides for consideration of H. Res. 326 under a closed rule with one hour of general debate. The rule provides that the amendments to H. Res. 326 and preamble, modified by the amendments in Part B of the report are considered as adopted.
+- 2019-12-05 — Rule H. Res. 741 passed House.
+- 2019-12-06 — Amendment reported by the House Committee on Rules.
+- 2019-12-06 — Considered as unfinished business. (consideration: CR H9330-9331)
+- 2019-12-06 — Considered under the provisions of rule H. Res. 741. (consideration: CR H9298-9308)
+- 2019-12-06 — DEBATE - The House proceeded with one hour of debate on H. Res. 326.
+- 2019-12-06 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2019-12-06 — House amendment offered
+- 2019-12-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-12-06 — On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2019-12-06 — On agreeing to the resolution Agreed to by the Yeas and Nays: 226 - 188, 2 Present (Roll no. 652). (text: CR H9298-9299)
+- 2019-12-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 326, the Chair put the question on agreeing to the resolution and by voice vote, announced that the ayes had prevailed. Mr. Zeldin demanded the yeas and nays and the Chair postponed further proceedings on the question of agreeing to the resolution until a time to be announced.
+- 2019-12-06 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 226 - 188, 2 Present (Roll no. 652).(text: CR H9298-9299)
+- 2019-12-06 — The previous question on the preamble as amended and the resolution was ordered pursuant to the rule.
+- 2019-12-06 — The resolution provides for consideration of H.R. 4 under a closed rule with one hour of general debate. Also, the resolution provides for consideration of H. Res. 326 under a closed rule with one hour of general debate. The rule provides that the amendments to H. Res. 326 and preamble, modified by the amendments in Part B of the report are considered as adopted.
