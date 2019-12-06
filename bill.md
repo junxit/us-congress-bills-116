@@ -2,7 +2,7 @@
 legis-num: H. RES. 326
 congress: 116th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 326
@@ -12,16 +12,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## Preamble
 
 - Whereas the special relationship between the United States and Israel is rooted in shared national security interests and shared values of democracy, human rights, and the rule of law;
-- Whereas the United States has worked for decades to strengthen Israel’s security through assistance and cooperation on defense and intelligence matters in order to enhance the safety of United States and Israeli citizens;
-- Whereas the United States remains unwavering in its commitment to help Israel address the myriad challenges it faces, including threats from anti-Israel terrorist organizations, regional instability, horrifying violence in neighboring states, and hostile regimes that call for its destruction;
-- Whereas the United States has long sought a just and stable future for Palestinians, and an end to the occupation, including opposing settlement activity and moves toward unilateral annexation in Palestinian territory;
-- Whereas for more than 20 years, Presidents of the United States from both political parties and Israeli Prime Ministers had supported reaching a two-state solution that establishes a Palestinian state coexisting side by side with Israel in peace and security;
-- Whereas United States administrations from both political parties have put forward proposals to provide a framework for negotiations toward a two-state solution, including the parameters put forward by President Bill Clinton in December 2000, the Road Map proposed by President George W. Bush in April 2003, and the principles set forth by President Barack Obama and Secretary of State John Kerry in December 2016;
-- Whereas ending the Israeli-Palestinian conflict is vital to the interests of both parties; and
-- Whereas delays to a political solution to the conflict between Israelis and Palestinians pose a threat to the ability to maintain a Jewish and democratic state of Israel: Now, therefore, be it
-- Whereas the special relationship between the United States and Israel is rooted in shared national security interests and shared values of democracy, human rights, and the rule of law;
-- Whereas the United States has worked for decades to strengthen Israel’s security through assistance and cooperation on defense and intelligence matters in order to enhance the safety of United States and Israeli citizens;
+- Whereas the United States has worked for decades to strengthen Israel’s security through assistance and cooperation on defense and intelligence matters in order to enhance the safety of United States and Israeli citizens, including by finalizing in 2016 under the Obama Administration, a 10-year Memorandum of Understanding, reaffirming the United States’ commitment to annual military assistance and cooperative missile defense programs, which is in the national interests of both countries;
 - Whereas the United States remains unwavering in its commitment to help Israel address the myriad challenges it faces, including terrorism, regional instability, horrifying violence in neighboring states, and hostile regimes that call for its destruction;
+- Whereas the United States, under Presidents of both parties, has provided bilateral and multilateral foreign assistance to promote the security, stability, and the humanitarian well-being of Palestinians;
 - Whereas the United States has long sought a just, stable, and lasting solution to the Israeli-Palestinian conflict that recognizes the Palestinian right to self-determination and offers Israel long-term security and full normalization with its neighbors;
 - Whereas for more than 20 years, Presidents of the United States from both political parties and Israeli Prime Ministers have supported reaching a two-state solution that establishes a Palestinian state coexisting side by side with Israel in peace and security;
 - Whereas for more than 20 years, Presidents of the United States from both political parties have opposed settlement expansion, moves toward unilateral annexation of territory, and efforts to achieve Palestinian statehood status outside the framework of negotiations with Israel;
@@ -31,16 +24,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 That it is the sense of the House of Representatives that—
 
-- **(1)** only the achievement of a two-state solution that enhances stability and security in the Middle East can both—
-  - **(A)** ensure the State of Israel’s survival as a secure Jewish and democratic state; and
-  - **(B)** fulfill the legitimate aspirations of the Palestinian people for a state of their own;
-- **(2)** while the United States remains indispensable to any viable effort to achieve that goal, only the Israelis and the Palestinians can make the difficult choices necessary to end their conflict;
-- **(3)** the United States, with the support of regional and international partners, can play a constructive role toward ending the Israeli-Palestinian conflict by putting forward a proposal for achieving a two-state solution that is consistent with the broadly held consensus positions for resolving the conflict’s final status issues as reflected in previous United States proposals; and
-- **(4)** a United States proposal that fails to expressly endorse a two-state solution as its objective, that expressly or tacitly encourages unilateral annexation of territory, or is otherwise inconsistent with the broadly held consensus positions for resolving the conflict’s final status issues as reflected in previous United States proposals is likely to put a peaceful end to the conflict further out of reach.
-
-That it is the sense of the House of Representatives that—
-
 - **(1)** only the outcome of a two-state solution that enhances stability and security for Israel, Palestinians, and their neighbors can both ensure the state of Israel’s survival as a Jewish and democratic state and fulfill the legitimate aspirations of the Palestinian people for a state of their own;
 - **(2)** while the United States remains indispensable to any viable effort to achieve that goal, only the Israelis and the Palestinians can make the difficult choices necessary to end their conflict;
-- **(3)** the United States, with the support of regional and international partners, can play a constructive role toward ending the Israeli-Palestinian conflict by putting forward a proposal for achieving a two-state solution that is consistent with previous United States proposals to resolve the conflict’s final status issues in ways that recognize the Palestinian right to self-determination and enhance Israel’s long-term security and normalization with its neighbors; and
-- **(4)** a United States proposal to achieve a just, stable, and lasting solution to the Israeli-Palestinian conflict should expressly endorse a two-state solution as its objective and discourage steps by either side that would put a peaceful end to the conflict further out of reach, including unilateral annexation of territory or efforts to achieve Palestinian statehood status outside the framework of negotiations with Israel.
+- **(3)** it is in the enduring United States’ national interest to continue to stand by its ironclad commitments under the 2016 United States-Israel Memorandum of Understanding, which seeks to help Israel defend itself against a wide range of threats;
+- **(4)** the United States, with the support of regional and international partners, can play a constructive role toward ending the Israeli-Palestinian conflict by putting forward a proposal for achieving a two-state solution that is consistent with previous United States proposals to resolve the conflict’s final status issues in ways that recognize the Palestinian right to self-determination and enhance Israel’s long-term security and normalization with its neighbors;
+- **(5)** it is in the United States’ interest to continue promoting the security, stability, and humanitarian well-being of Palestinians and their neighbors by resuming the provision of foreign assistance pursuant to United States law; and
+- **(6)** a United States proposal to achieve a just, stable, and lasting solution to the Israeli-Palestinian conflict should expressly endorse a two-state solution as its objective and discourage steps by either side that would put a peaceful end to the conflict further out of reach, including unilateral annexation of territory or efforts to achieve Palestinian statehood status outside the framework of negotiations with Israel.
