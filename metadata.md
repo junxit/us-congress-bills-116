@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4
@@ -252,6 +252,11 @@ Voting Rights Advancement Act of 2019
 
 - House — Judiciary Committee
 
+## Recorded votes (2)
+
+- 2019-12-06 — [House 116-1-653](votes/house-116-1-0653.md) — On Motion to Recommit with Instructions — **Failed** (200–215)
+- 2019-12-06 — [House 116-1-654](votes/house-116-1-0654.md) — On Passage — **Passed** (228–187)
+
 ## Actions
 
 - 2019-02-26 — Introduced in House
@@ -264,3 +269,21 @@ Voting Rights Advancement Act of 2019
 - 2019-11-29 — Placed on the Union Calendar, Calendar No. 258.
 - 2019-11-29 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-317.
 - 2019-11-29 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-317.
+- 2019-12-04 — Rules Committee Resolution H. Res. 741 Reported to House. The resolution provides for consideration of H.R. 4 under a closed rule with one hour of general debate. Also, the resolution provides for consideration of H. Res. 326 under a closed rule with one hour of general debate. The rule provides that the amendments to H. Res. 326 and preamble, modified by the amendments in Part B of the report are considered as adopted.
+- 2019-12-06 — Amendment reported by the House Committee on Rules.
+- 2019-12-06 — Considered under the provisions of rule H. Res. 741. (consideration: CR H9308-9330)
+- 2019-12-06 — DEBATE - The House proceeded with 10 minutes of debate on the Rodney Davis (IL) motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment inserting a new section entitled rule of construction which states that nothing in this Act may be construed to allow fines or other amounts paid to the United States in connection with a violation of title I of the Voting Rights Act of 1965 including any amount paid pursuant to a settlement agreement, to be used to make a payment in support of a campaign for election for the office of Senator or Representative in, or Delegate or Resident Commissioner to, the Congress.
+- 2019-12-06 — DEBATE - The House proceeded with one hour of debate on H.R. 4.
+- 2019-12-06 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2019-12-06 — House amendment offered
+- 2019-12-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-12-06 — Mr. Davis, Rodney moved to recommit with instructions to the Committee on the Judiciary. (text: CR H9331)
+- 2019-12-06 — On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2019-12-06 — On motion to recommit with instructions Failed by recorded vote: 200 - 215 (Roll no. 653).
+- 2019-12-06 — On passage Passed by recorded vote: 228 - 187 (Roll no. 654). (text: CR H9308-9312)
+- 2019-12-06 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of rule XIX, the Chair postponed further proceedings on H.R. 4.
+- 2019-12-06 — Passed/agreed to in House: On passage Passed by recorded vote: 228 - 187 (Roll no. 654).(text: CR H9308-9312)
+- 2019-12-06 — Pursuant to clause 1(c) of Rule XIX proceedings on H.R. 4 resumed. (consideration: CR H9331-9334)
+- 2019-12-06 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2019-12-06 — The previous question was ordered without objection.
+- 2019-12-06 — The resolution provides for consideration of H.R. 4 under a closed rule with one hour of general debate. Also, the resolution provides for consideration of H. Res. 326 under a closed rule with one hour of general debate. The rule provides that the amendments to H. Res. 326 and preamble, modified by the amendments in Part B of the report are considered as adopted.
