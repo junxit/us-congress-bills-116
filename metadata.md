@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4739
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4739
@@ -47,3 +47,11 @@ Synthetic Opioid Exposure Prevention and Training Act
 - 2019-12-03 — Placed on the Union Calendar, Calendar No. 259.
 - 2019-12-03 — Reported by the Committee on Homeland Security. H. Rept. 116-318, Part I.
 - 2019-12-03 — Reported by the Committee on Homeland Security. H. Rept. 116-318, Part I.
+- 2019-12-09 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2019-12-09 — Considered as unfinished business. (consideration: CR H9381-9382)
+- 2019-12-09 — Considered under suspension of the rules. (consideration: CR H9369-9370)
+- 2019-12-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4739.
+- 2019-12-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-12-09 — Ms. Clarke (NY) moved to suspend the rules and pass the bill.
+- 2019-12-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 0 (Roll no. 656). (text: CR H9369)
+- 2019-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 0 (Roll no. 656).(text: CR H9369)

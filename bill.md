@@ -27,6 +27,6 @@ This Act may be cited as the “Synthetic Opioid Exposure Prevention and Trainin
   > - **(c)** *Personal protective equipment and opioid receptor antagonists* Together with the issuance of the policy described in subsection (a), the Commissioner of U.S. Customs and Border Protection shall ensure the availability of personal protective equipment and opioid receptor antagonists, including naloxone, to all U.S. Customs and Border Protection officers, agents, other personnel, and canines at risk of accidental exposure to synthetic opioids.
   > - **(d)** *Oversight* To ensure effectiveness of the policy described in subsection (a)—
   >   - **(1)** the Commissioner of U.S. Customs and Border Protection shall regularly monitor the efficacy of the implementation of such policy and adjust protocols and procedures, as necessary; and
-  >   - **(2)** the Inspector General of the Department shall audit compliance with the requirements of this section not less than once each year for the five years after the date of the enactment of this section.
+  >   - **(2)** the Inspector General of the Department shall audit compliance with the requirements of this section not less than once each year for the 5 years after the date of the enactment of this section.
 
 - **(b)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 415 the following new item:
