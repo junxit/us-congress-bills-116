@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Department of Homeland Security Office of Civil Rights and Civil Liberties Authorization Act”.
 
-## § 2. Officer for Civil Rights and Civil Liberties
+## § 2. Officer for civil rights and civil liberties
 
 - **(a)** *In general* Section 705 of the Homeland Security Act of 2002 (6 U.S.C. 345) is amended—
   - **(1)** in the section heading, by striking “Establishment of”; and
@@ -22,32 +22,33 @@ This Act may be cited as the “Department of Homeland Security Office of Civil 
     > - **(b)** *Responsibilities* The Officer for Civil Rights and Civil Liberties shall carry out the following responsibilities:
     >   - **(1)** Oversee compliance with constitutional, statutory, regulatory, policy, and other requirements relating to the civil rights and civil liberties of individuals affected by the programs and activities of the Department.
     >   - **(2)** Integrate civil rights and civil liberties protections into all programs and activities of the Department.
-    >   - **(3)** Conduct civil rights and civil liberties impact assessments, as appropriate.
+    >   - **(3)** Conduct civil rights and civil liberties impact assessments, as appropriate, including prior to the implementation of new Department regulations, initiatives, programs, or policies.
     >   - **(4)** Conduct periodic reviews of policies, procedures, and activities of the Department relating to civil rights and civil liberties.
     >   - **(5)** Provide policy advice, recommendations, and other technical assistance relating to civil rights and civil liberties to the Secretary and to heads of components, directorates, and offices and other personnel within the Department.
-    >   - **(6)** Review, assess, and investigate complaints, including complaints filed by members of the public, and information indicating possible abuses of civil rights or civil liberties at the Department, unless the Inspector General of the Department determines that any such complaint or information should be investigated by the Inspector General.
-    >   - **(7)** Initiate reviews, assessments, inspections, and investigations of the administration of the programs and activities by the Department relating to civil rights and civil liberties, as the Officer determines necessary.
+    >   - **(6)** Review, assess, and investigate complaints, including complaints filed by members of the public, and information indicating possible abuses of civil rights or civil liberties at the Department, unless the Inspector General of the Department determines that any such complaint should be investigated by the Inspector General.
+    >   - **(7)** Initiate reviews, investigations, and assessments of the administration of the programs and activities by the Department relating to civil rights and civil liberties, as the Officer determines necessary.
     >   - **(8)** Coordinate with the Privacy Officer to ensure that—
     >     - **(A)** programs, policies, and procedures involving civil rights, civil liberties, and privacy considerations are addressed in an integrated and comprehensive manner; and
     >     - **(B)** Congress receives appropriate reports regarding such programs, policies, and procedures.
-    >   - **(9)** Lead the equal employment opportunity programs of the Department, including complaint management and adjudication, and promote workforce diversity and merit system principles.
+    >   - **(9)** Lead the equal employment opportunity programs of the Department, including complaint management and adjudication, workforce diversity, and promotion of the merit system principles.
     >   - **(10)** Make publicly available through accessible communications channels, including the website of the Department—
-    >     - **(A)** information on the responsibilities and functions of, and how to contact, the Officer; and
-    >     - **(B)** reports that are issued by the Officer upon completion of investigations carried out pursuant to paragraph (6) or (7).
-    >   - **(11)** Engage with individuals and communities whose civil rights and civil liberties may be affected by programs and activities of the Department, including by informing such individuals and communities about report and redress processes and advising the Secretary and heads of components, directorates, offices, and other personnel within the Department of any concerns raised by such individuals and communities.
-    > - **(c)** *Coordination with Inspector General*
+    >     - **(A)** information on the responsibilities and functions of, and how to contact, the Office;
+    >     - **(B)** summary of reports of investigations that result in final recommendations that are issued by the Officer upon completion of investigations carried out pursuant to paragraph (6); and
+    >     - **(C)** summaries of impact assessments issued by the Officer and carried out pursuant to paragraph (3) or (7).
+    >   - **(11)** Engage with individuals and communities whose civil rights and civil liberties may be affected by programs and activities of the Department, including by informing such individuals and communities about report and redress processes and advising the Secretary and heads of components, directorates, offices, and other personnel within the Department of concerns raised by such individuals and communities.
+    > - **(c)** *Coordination with inspector general*
     >   - **(1)** *Authority to investigate possible abuses* The Officer for Civil Rights and Civil Liberties may investigate any matter referred to in paragraph (6) or (7) of subsection (b) after fulfilling the coordination requirements under paragraph (2) with respect to such matter.
     >   - **(2)** *Coordination requirements*
-    >     - **(A)** *Referral of matters to Inspector General* Before initiating any investigation described under paragraph (1), the Officer for Civil Rights and Civil Liberties shall refer the matter and all related complaints, allegations, and information to the Inspector General of the Department.
-    >     - **(B)** *Inspector General responsibilities*
-    >       - **(i)** *Determination and notification* Not later than 30 days after the receipt of a matter referred under subparagraph (A), the Inspector General shall—
+    >     - **(A)** *Referral of matters to inspector general* Before initiating any investigation described under paragraph (1), the Officer for Civil Rights and Civil Liberties shall refer the matter and all related complaints to the Inspector General of the Department.
+    >     - **(B)** *Inspector general responsibilities*
+    >       - **(i)** *Determination and notification* Not later than 5 business days after the receipt of a matter referred under subparagraph (A), the Inspector General shall—
     >         - **(I)** make a determination regarding whether the Inspector General intends to initiate an audit or investigation of the matter referred under subparagraph (A); and
     >         - **(II)** notify the Officer of such determination.
     >       - **(ii)** *Audits and investigations* If the Inspector General notifies the Officer for Civil Rights and Civil Liberties that the Inspector General intends to initiate an audit or investigation, the Inspector General shall—
     >         - **(I)** initiate such audit or investigate by not later than 90 days after providing such notification; or
-    >         - **(II)** not later than three days after the end of the 90-day period specified in subclause (I), notify the Officer that such audit or investigation was not initiated.
+    >         - **(II)** not later than 3 days after the end of the 90-day period specified in subclause (I), notify the Officer that such audit or investigation was not initiated.
     >     - **(C)** *Provision of assistance* At the request of the Inspector General, the Officer for Civil Rights and Civil Liberties may provide assistance to the Inspector General on any investigation or audit initiated by the Inspector General based on a referral under subparagraph (A).
-    >     - **(D)** *Investigation by Officer* The Officer for Civil Rights and Civil Liberties may investigate a matter referred to the Inspector General under subparagraph (A) only if—
+    >     - **(D)** *Investigation by officer* The Officer for Civil Rights and Civil Liberties may investigate a matter referred to the Inspector General under subparagraph (A) only if—
     >       - **(i)** the Inspector General notifies the Officer for Civil Rights and Civil Liberties that the Inspector General does not intend to initiate an audit or investigation relating to that matter; or
     >       - **(ii)** the Inspector General provides notification under subparagraph (B)(ii)(II) that an audit or investigation was not initiated.
     > - **(d)** *Transparency*
@@ -56,11 +57,11 @@ This Act may be cited as the “Department of Homeland Security Office of Civil 
     >     - **(B)** inform the complainant of the determination of the Officer regarding the initiation of a review, assessment, or investigation within the Office, a referral to the Inspector General of the Department, or any other action taken.
     >   - **(2)** *Investigations* In the case of an investigation initiated by the Officer pursuant to paragraph (6) or (7) of subsection (b), upon the conclusion of the investigation, the Officer shall produce a report on the investigation which—
     >     - **(A)** shall include the findings and recommendations of the Officer;
-    >     - **(B)** shall be made publicly available;
+    >     - **(B)** a summary of which shall be made publicly available;
     >     - **(C)** shall not include any personally identifiable information related to any individual involved in such investigation; and
     >     - **(D)** may include a classified appendix, as the Officer determines appropriate.
     >   - **(3)** *Submittal to heads of operational components* The Officer shall transmit a copy of each report produced under paragraph (2) to the Secretary and to the relevant head of each relevant operational component of the Department.
-    >   - **(4)** *Reports to Congress* Upon the conclusion of any investigation conducted by the Officer for Civil Rights and Civil Liberties under paragraph (6) or (7) of subsection (b), the Officer shall submit to Congress a report on the investigation, which shall be prepared and submitted without any prior comment or amendment by the Secretary, Deputy Secretary, or any other officer or employee of the Department, unless the Officer seeks such comment.
+    >   - **(4)** *Reports to congress* Upon the conclusion of any investigation conducted by the Officer for Civil Rights and Civil Liberties under paragraph (6) or (7) of subsection (b), the Officer shall submit to Congress a report on the investigation, which shall be prepared and submitted without any prior comment or amendment by the Secretary, Deputy Secretary, or any other officer or employee of the Department, unless the Officer seeks such comment.
     > - **(e)** *Component civil rights and civil liberties officer* The head of each of the operational components of the Department shall designate a career appointee (as such term is defined in section 3132 of title 5, United States Code) from such component as the Officer for Civil Rights and Civil Liberties of that component. The Officer for Civil Rights and Civil Liberties of each such component shall coordinate with and provide information to the Officer for Civil Rights and Civil Liberties of the Department on matters related to civil rights and civil liberties within the components.
     > - **(f)** *Access to information* The Officer for Civil Rights and Civil Liberties of the Department—
     >   - **(1)** shall have access to all records, reports, audits, reviews, documents, papers, recommendations, and other materials available to the Department that relate to programs and operations with respect to the responsibilities of the Officer under subsection (b); and
@@ -78,7 +79,8 @@ This Act may be cited as the “Department of Homeland Security Office of Civil 
     >     - **(B)** information on the number of employees whose primary responsibilities include supporting the Officer in carrying out paragraph (9) of subsection (b).
 
 - **(b)** *Clerical amendment* The item relating to section 705 in section 1(b) of the Homeland Security Act of 2002 is amended to read as follows:
+  > ## § 705. Officer for civil rights and civil liberties
 
-## § 3. Comptroller General review
+## § 3. Comptroller general review
 
 Not later than 180 days after the date of the enactment of this Act, the Comptroller General of the United States shall submit to Congress a report on subsection (b)(11) of section 705 of the Homeland Security Act of 2002 (6 U.S.C. 345), as amended by section 2.
