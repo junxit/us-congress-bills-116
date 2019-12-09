@@ -1,7 +1,7 @@
 ---
 measure: S. 743
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 743
@@ -95,9 +95,11 @@ Merrill's Marauders Congressional Gold Medal Act
 - Sen. Gardner, Cory [R-CO] (G000562)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Banking, Housing, and Urban Affairs Committee
+- House — Committee on House Administration
+- House — Financial Services Committee
 
 ## Actions
 
@@ -107,3 +109,7 @@ Merrill's Marauders Congressional Gold Medal Act
 - 2019-12-05 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S6895-6896)
 - 2019-12-05 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S6895-6896)
 - 2019-12-05 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S6895-6896)
+- 2019-12-09 — Message on Senate action sent to the House.
+- 2019-12-09 — Received in the House.
+- 2019-12-09 — Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-12-09 — Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
