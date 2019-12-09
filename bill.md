@@ -35,7 +35,7 @@ This Act may be cited as the “Department of Homeland Security Mentor-Protégé
   >   - **(2)** With respect to an award of a contract that requires a subcontracting plan, a mentor firm may receive credit for a protégé firm performing as a first tier subcontractor or a subcontractor at any tier in an amount equal to the total dollar value of any subcontracts awarded to such protégé firm.
   >   - **(3)** A protégé firm may receive technical, managerial, financial, or any other mutually agreed upon benefit from a mentor firm, including a subcontract award.
   >   - **(4)** Any other benefits identified by the Secretary.
-  > - **(f)** *Reporting* Not later than one year after the date of the enactment of this Act, and annually thereafter, the head of the Office of Small and Disadvantaged Business Utilization shall submit to the Committees on Homeland Security and Small Business of the House of Representatives a report that—
+  > - **(f)** *Reporting* Not later than 1 year after the date of the enactment of this Act, and annually thereafter, the head of the Office of Small and Disadvantaged Business Utilization shall submit to the Committees on Homeland Security and Small Business of the House of Representatives a report that—
   >   - **(1)** identifies each agreement between a mentor firm and a protégé firm entered into under this section, including number of protégé firm participants that are—
   >     - **(A)** small business concerns;
   >     - **(B)** small business concerns owned and controlled by veterans;
