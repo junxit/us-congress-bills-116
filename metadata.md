@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5038
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5038
@@ -16,7 +16,7 @@ Farm Workforce Modernization Act of 2019
 
 - Rep. Lofgren, Zoe [D-CA-19] (L000397)
 
-## Cosponsors (49)
+## Cosponsors (62)
 
 - Rep. Newhouse, Dan [R-WA-4] (N000189)
 - Rep. Peterson, Collin C. [D-MN-7] (P000258)
@@ -67,6 +67,19 @@ Farm Workforce Modernization Act of 2019
 - Rep. Peters, Scott H. [D-CA-52] (P000608)
 - Rep. Tipton, Scott  R. [R-CO-3] (T000470)
 - Rep. Crow, Jason [D-CO-6] (C001121)
+- Rep. Stewart, Chris [R-UT-2] (S001192)
+- Rep. Garamendi, John [D-CA-3] (G000559)
+- Rep. King, Peter T. [R-NY-2] (K000210)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
+- Rep. Delgado, Antonio [D-NY-19] (D000630)
+- Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Rep. Thompson, Mike [D-CA-5] (T000460)
+- Rep. Ruiz, Raul [D-CA-36] (R000599)
+- Rep. Escobar, Veronica [D-TX-16] (E000299)
+- Rep. Bass, Karen [D-CA-37] (B001270)
+- Rep. O'Halleran, Tom [D-AZ-1] (O000171)
 
 ## Committees (4)
 
@@ -83,3 +96,16 @@ Farm Workforce Modernization Act of 2019
 - 2019-11-12 — Referred to the Committee on the Judiciary, and in addition to the Committees on Ways and Means, Education and Labor, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-11-12 — Referred to the Committee on the Judiciary, and in addition to the Committees on Ways and Means, Education and Labor, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-11-12 — Referred to the Committee on the Judiciary, and in addition to the Committees on Ways and Means, Education and Labor, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-11-13 — Referred to the Subcommittee on Immigration and Citizenship.
+- 2019-11-19 — Subcommittee on Immigration and Citizenship Discharged.
+- 2019-11-21 — Committee Consideration and Mark-up Session Held.
+- 2019-11-21 — Ordered to be Reported (Amended).
+- 2019-12-09 — Committee on Education and Labor discharged.
+- 2019-12-09 — Committee on Education and Labor discharged.
+- 2019-12-09 — Committee on Financial Services discharged.
+- 2019-12-09 — Committee on Financial Services discharged.
+- 2019-12-09 — Committee on Ways and Means discharged.
+- 2019-12-09 — Committee on Ways and Means discharged.
+- 2019-12-09 — Placed on the Union Calendar, Calendar No. 263.
+- 2019-12-09 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-328, Part I.
+- 2019-12-09 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-328, Part I.
