@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4566
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4566
@@ -36,3 +36,9 @@ Virginia Beach Strong Act
 - 2019-09-27 — Introduced in House
 - 2019-09-27 — Introduced in House
 - 2019-09-27 — Referred to the House Committee on Ways and Means.
+- 2019-12-09 — Considered under suspension of the rules. (consideration: CR H9364-9366)
+- 2019-12-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4566.
+- 2019-12-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-12-09 — Ms. Sewell (AL) moved to suspend the rules and pass the bill.
+- 2019-12-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9365)
+- 2019-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9365)
