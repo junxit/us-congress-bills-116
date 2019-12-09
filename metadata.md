@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2051
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2051
@@ -54,3 +54,9 @@ Sustainable Chemistry Research and Development Act of 2019
 - 2019-11-26 — Placed on the Union Calendar, Calendar No. 253.
 - 2019-11-26 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 116-312, Part I.
 - 2019-11-26 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 116-312, Part I.
+- 2019-12-09 — Considered under suspension of the rules. (consideration: CR H9359-9362)
+- 2019-12-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2051.
+- 2019-12-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-12-09 — Ms. Johnson (TX) moved to suspend the rules and pass the bill, as amended.
+- 2019-12-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9359-9361)
+- 2019-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9359-9361)

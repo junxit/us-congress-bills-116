@@ -31,8 +31,8 @@ Congress finds that—
   - **(2)** the Committee on Technology;
   - **(3)** the Committee on Science; or
   - **(4)** related groups or subcommittees.
-- **(c)** *Co-chairs* The Entity shall be co-chaired by the Office of Science and Technology Policy and a representative from the Environmental Protection Agency, the National Institute of Standards and Technology, the National Science Foundation, or the Department of Energy, as selected by the Director of the Office of Science and Technology Policy.
-- **(d)** *Agency participation* The Entity shall include representatives, including subject matter experts, from the Environmental Protection Agency, the National Institute of Standards and Technology, the National Science Foundation, the Department of Energy, the Department of Agriculture, the Department of Defense, the National Institutes of Health, the Centers for Disease Control and Prevention, the Food and Drug Administration, and other related Federal agencies, as appropriate.
+- **(c)** *Co-Chairs* The Entity shall be co-chaired by the Office of Science and Technology Policy and a representative from the Environmental Protection Agency, the National Institute of Standards and Technology, the National Science Foundation, or the Department of Energy, as selected by the Director of the Office of Science and Technology Policy.
+- **(d)** *Agency participation* The Entity shall include representatives, including subject matter experts, from the Environmental Protection Agency, the National Institute of Standards and Technology, the National Science Foundation, the Department of Energy, the Department of Agriculture, the Department of Defense, the National Institutes of Health, the Centers for Disease Control and Prevention, the Food and Drug Administration, the Office of Management and Budget, and other related Federal agencies, as appropriate.
 - **(e)** *Termination* The Entity shall terminate on the date that is 10 years after the date of enactment of this Act.
 
 ## § 4. Roadmap for sustainable chemistry
@@ -63,7 +63,7 @@ Congress finds that—
     - **(B)** a summary of the financial resources allocated to sustainable chemistry initiatives;
     - **(C)** an assessment of the current state of sustainable chemistry in the United States, including the role that Federal agencies are playing in supporting it;
     - **(D)** an analysis of the progress made toward achieving the goals and priorities of this Act, and recommendations for future program activities;
-    - **(E)** an assessment of the benefits of expanding existing, federally supported, regional innovation and manufacturing hubs, centers, and institutes to include sustainable chemistry and the value of directing the creation of 1 or more dedicated sustainable chemistry centers of excellence, hubs, or institutes; and
+    - **(E)** an assessment of the benefits of expanding existing, federally supported, regional innovation and manufacturing hubs, centers, and institutes to include sustainable chemistry and the value of directing the creation of one or more dedicated sustainable chemistry centers of excellence, hubs, or institutes; and
     - **(F)** an evaluation of steps taken and future strategies to avoid duplication of efforts, streamline interagency coordination, facilitate information sharing, and spread best practices among participating agencies.
   - **(2)** *Submission to GAO* The Entity shall also submit the report described in paragraph (1) to the Comptroller General of the United States for consideration in future Congressional inquiries.
 
