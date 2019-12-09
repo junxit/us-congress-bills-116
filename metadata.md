@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4372
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4372
@@ -45,3 +45,9 @@ MSI STEM Achievement Act
 - 2019-11-05 — Placed on the Union Calendar, Calendar No. 214.
 - 2019-11-05 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 116-269.
 - 2019-11-05 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 116-269.
+- 2019-12-09 — Considered under suspension of the rules. (consideration: CR H9353-9356)
+- 2019-12-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4372.
+- 2019-12-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-12-09 — Ms. Johnson (TX) moved to suspend the rules and pass the bill, as amended.
+- 2019-12-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9353-9355)
+- 2019-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9353-9355)
