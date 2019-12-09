@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4402
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4402
@@ -41,3 +41,9 @@ Inland Waters Security Review Act
 - 2019-11-19 — Placed on the Union Calendar, Calendar No. 241.
 - 2019-11-19 — Reported by the Committee on Homeland Security. H. Rept. 116-299.
 - 2019-11-19 — Reported by the Committee on Homeland Security. H. Rept. 116-299.
+- 2019-12-09 — Considered under suspension of the rules. (consideration: CR H9376-9377)
+- 2019-12-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4402.
+- 2019-12-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-12-09 — Ms. Slotkin moved to suspend the rules and pass the bill.
+- 2019-12-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9376)
+- 2019-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9376)
