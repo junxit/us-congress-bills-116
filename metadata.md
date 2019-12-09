@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4
@@ -248,9 +248,10 @@ Voting Rights Advancement Act of 2019
 - Rep. Golden, Jared F. [D-ME-2] (G000592)
 - Rep. Cunningham, Joe [D-SC-1] (C001122)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (2)
 
@@ -287,3 +288,4 @@ Voting Rights Advancement Act of 2019
 - 2019-12-06 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-12-06 — The previous question was ordered without objection.
 - 2019-12-06 — The resolution provides for consideration of H.R. 4 under a closed rule with one hour of general debate. Also, the resolution provides for consideration of H. Res. 326 under a closed rule with one hour of general debate. The rule provides that the amendments to H. Res. 326 and preamble, modified by the amendments in Part B of the report are considered as adopted.
+- 2019-12-09 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
