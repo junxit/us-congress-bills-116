@@ -42,7 +42,7 @@ The Director of the National Science Foundation, in consultation with other rele
 
 ## § 5. Report on feasibility of public-private partnership to detect manipulated or synthesized content
 
-Not later than one year after the date of the enactment of this Act, the Director of the National Science Foundation and the Director of the National Institute of Standards and Technology shall jointly submit to the Committee on Space, Science, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation a report containing—
+Not later than 1 year after the date of the enactment of this Act, the Director of the National Science Foundation and the Director of the National Institute of Standards and Technology shall jointly submit to the Committee on Space, Science, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation a report containing—
 
 - **(1)** the Directors’ findings with respect to the feasibility for research opportunities with the private sector, including digital media companies to detect the function and outputs of generative adversarial networks or other technologies that synthesize or manipulate content; and
 - **(2)** any policy recommendations of the Directors that could facilitate and improve communication and coordination between the private sector, the National Science Foundation, and relevant Federal agencies through the implementation of innovative approaches to detect digital content produced by generative adversarial networks or other technologies that synthesize or manipulate content.
