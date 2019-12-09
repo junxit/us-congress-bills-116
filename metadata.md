@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3469
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3469
@@ -59,3 +59,9 @@ Covert Testing and Risk Mitigation Improvement Act of 2019
 - 2019-11-19 — Placed on the Union Calendar, Calendar No. 240.
 - 2019-11-19 — Reported by the Committee on Homeland Security. H. Rept. 116-298.
 - 2019-11-19 — Reported by the Committee on Homeland Security. H. Rept. 116-298.
+- 2019-12-09 — Considered under suspension of the rules. (consideration: CR H9366-9367)
+- 2019-12-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3469.
+- 2019-12-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-12-09 — Ms. Clarke (NY) moved to suspend the rules and pass the bill.
+- 2019-12-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9366)
+- 2019-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9366)
