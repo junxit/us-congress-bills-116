@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5035
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5035
@@ -26,3 +26,11 @@ Television Viewer Protection Act of 2019
 - 2019-11-12 — Introduced in House
 - 2019-11-12 — Introduced in House
 - 2019-11-12 — Referred to the House Committee on Energy and Commerce.
+- 2019-11-13 — Referred to the Subcommittee on Communications and Technology.
+- 2019-11-14 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2019-11-14 — Subcommittee Consideration and Mark-up Session Held.
+- 2019-11-20 — Committee Consideration and Mark-up Session Held.
+- 2019-11-20 — Ordered to be Reported (Amended) by Voice Vote.
+- 2019-12-09 — Placed on the Union Calendar, Calendar No. 265.
+- 2019-12-09 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-329.
+- 2019-12-09 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-329.

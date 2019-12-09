@@ -18,7 +18,7 @@ This Act may be cited as the “Television Viewer Protection Act of 2019”.
 Section 325(b) of the Communications Act of 1934 (47 U.S.C. 325(b)) is amended—
 
 - **(1)** in paragraph (2)(C), by striking “December 31, 2019” and inserting “the expiration date, if any, described in section 119(h) of title 17, United States Code”; and
-- **(2)** in paragraph (3)(C), by striking “January 1, 2020” each place it appears and inserting “January 1, 2025”.
+- **(2)** in paragraph (3)(C), by striking “until January 1, 2020,” each place it appears.
 
 ## § 3. Satisfaction of good faith negotiation requirement by multichannel video programming distributors
 
@@ -26,70 +26,57 @@ Section 325(b) of the Communications Act of 1934 (47 U.S.C. 325(b)) is amended�
   - **(1)** in clause (iv), by striking “; and” and inserting a semicolon;
   - **(2)** in clause (v), by striking the period at the end and inserting “; and”; and
   - **(3)** by adding at the end the following:
-    > - **(vi)** not later than 90 days after the date of the enactment of the Television Viewer Protection Act of 2019, specify that a multichannel video programming distributor may satisfy its obligation to negotiate in good faith under clause (iii) with respect to a negotiation for retransmission consent under this section with a large station group or a television broadcast station by designating a qualified MVPD buying group to negotiate on its behalf, so long as the qualified MVPD buying group itself negotiates in good faith in accordance with such clause.
+    > - **(vi)** not later than 90 days after the date of the enactment of the Television Viewer Protection Act of 2019, specify that—
+    >   - **(I)** a multichannel video programming distributor may satisfy its obligation to negotiate in good faith under clause (iii) with respect to a negotiation for retransmission consent under this section with a large station group by designating a qualified MVPD buying group to negotiate on its behalf, so long as the qualified MVPD buying group itself negotiates in good faith in accordance with such clause;
+    >   - **(II)** it is a violation of the obligation to negotiate in good faith under clause (iii) for the qualified MVPD buying group to disclose the prices, terms, or conditions of an ongoing negotiation or the final terms of a negotiation to a member of the qualified MVPD buying group that is not intending, or is unlikely, to enter into the final terms negotiated by the qualified MVPD buying group; and
+    >   - **(III)** a large station group has an obligation to negotiate in good faith under clause (ii) with respect to a negotiation for retransmission consent under this section with a qualified MVPD buying group.
 
 - **(b)** *Definitions* Section 325(b)(7) of the Communications Act of 1934 (47 U.S.C. 325(b)(7)) is amended—
   - **(1)** in subparagraph (A), by striking “; and” and inserting a semicolon;
   - **(2)** in subparagraph (B), by striking the period at the end and inserting a semicolon; and
   - **(3)** by adding at the end the following:
-    > - **(C)** “qualified MVPD buying group” means an entity that, with respect to a negotiation with a large station group or television broadcast station for retransmission consent under this section—
+    > - **(C)** “qualified MVPD buying group” means an entity that, with respect to a negotiation with a large station group for retransmission consent under this section—
     >   - **(i)** negotiates on behalf of two or more multichannel video programming distributors—
-    >     - **(I)** none of which is a multichannel video programming distributor that serves more than 1,000,000 subscribers nationally; and
-    >     - **(II)** that do not collectively serve more than 35 percent of all households served by a multichannel video programming distributor in any single local market in which the applicable large station group or television broadcast station operates; and
+    >     - **(I)** none of which is a multichannel video programming distributor that serves more than 500,000 subscribers nationally; and
+    >     - **(II)** that do not collectively serve more than 25 percent of all households served by a multichannel video programming distributor in any single local market in which the applicable large station group operates; and
     >   - **(ii)** negotiates agreements for such retransmission consent—
     >     - **(I)** that contain standardized contract provisions, including billing structures and technical quality standards, for each multichannel video programming distributor on behalf of which the entity negotiates; and
-    >     - **(II)** under which the entity assumes liability to remit to the applicable large station group or television broadcast station all fees received from the multichannel video programming distributors on behalf of which the entity negotiates;
+    >     - **(II)** under which the entity assumes liability to remit to the applicable large station group all fees received from the multichannel video programming distributors on behalf of which the entity negotiates;
     > - **(D)** “large station group” means a group of television broadcast stations that—
     >   - **(i)** are directly or indirectly under common de jure control permitted by the regulations of the Commission;
     >   - **(ii)** generally negotiate agreements for retransmission consent under this section as a single entity; and
-    >   - **(iii)** include, with respect to at least five different local markets, at least one television broadcast station ranked among the top four stations, based on audience share, as measured by Nielsen Media Research or by any comparable professional, accepted audience ratings service;
+    >   - **(iii)** include only television broadcast stations that have a national audience reach of more than 20 percent;
     > - **(E)** “local market” has the meaning given such term in section 122(j) of title 17, United States Code; and
-    > - **(F)** “multichannel video programing distributor” has the meaning given such term in section 602.
+    > - **(F)** “multichannel video programming distributor” has the meaning given such term in section 602.
 
 - **(c)** *Conforming amendments* Section 325(b) of the Communications Act of 1934 (47 U.S.C. 325(b)) is amended—
   - **(1)** in paragraph (2)—
     - **(A)** by inserting “and” after “1992,”; and
     - **(B)** by striking “, and the term “local market” has the meaning given that term in section 122(j) of such title”; and
   - **(2)** in paragraph (3)(C), by striking “(as defined in section 122(j) of title 17, United States Code)” each place it appears.
+- **(d)** *Effective date* The amendments made by this section, and the regulations promulgated by the Federal Communications Commission under such amendments, shall not take effect before January 1 of the calendar year after the calendar year in which this Act is enacted.
 
 ## § 4. Requirements relating to charges for covered services
 
-- **(a)** *In general* Title VII of the Communications Act of 1934 (47 U.S.C. 601 et seq.) is amended by adding at the end the following:
-  > ## § 723. Requirements relating to charges for covered services
+- **(a)** *In general* Part IV of title VI of the Communications Act of 1934 (47 U.S.C. 551 et seq.) is amended by adding at the end the following:
+  > ## § 642. Requirements relating to charges for covered services
   >
-  > - **(a)** *Transparency in advertising*
-  >   - **(1)** *In general* A provider of a covered service may not advertise the price of the covered service unless the advertised price is the total amount that the provider will charge for or relating to the provision of the covered service, including any related taxes, administrative fees, equipment rental fees, or other charges, to a consumer who accepts the offer made in the advertisement.
-  >   - **(2)** *Exception* Paragraph (1) does not require a provider of a covered service to include in the advertised price of the covered service any tax, fee, or other charge that—
-  >     - **(A)** the provider is required to charge under any provision of Federal law or of the law of a State or political subdivision of a State; and
-  >     - **(B)** is not uniform throughout the United States.
-  > - **(b)** *Transparency in E-Billing* If a provider of a covered service provides a bill to a consumer in an electronic format, the provider shall include in the bill and in any notification that the bill is available—
-  >   - **(1)** an itemized statement that breaks down the total amount charged for or relating to the provision of the covered service by the amount charged for the provision of the service itself and the amount of any related taxes, administrative fees, equipment rental fees, or other charges, in the same level of detail as would be provided in a paper bill; and
-  >   - **(2)** the termination date of the contract for the provision of the covered service entered into between the consumer and the provider.
-  > - **(c)** *Requirements for increases in charges*
-  >   - **(1)** *In general* In the case of a provider of a covered service that enters into a contract with a consumer for the provision of a covered service, if the provider increases the total amount charged for or relating to the provision of the service under the contract, regardless of the amount of the increase or whether the increase is in the amount charged for the provision of the service itself or in any related taxes, administrative fees, equipment rental fees, or other charges, the provider shall—
-  >     - **(A)** provide the consumer with clear notice of the increase not later than 21 days before the increase takes effect, in the same manner in which the provider provides to the consumer a notification that the consumer’s bill is available (or, if no separate notification is provided, in the same manner as the provider provides the consumer’s bill to the consumer); and
-  >     - **(B)** unless the increase is the result of an increase in a tax, fee, or other charge that the provider is required to charge under any provision of Federal law or of the law of a State or political subdivision of a State, or an additional such tax, fee, or other charge, permit the consumer to terminate the contract without paying any early termination fee or other penalty.
-  >   - **(2)** *Exception for additional or upgraded service requested by consumer* Paragraph (1) does not apply with respect to an increase resulting from the provision, at the request of the consumer, of a service that is in addition to, or an upgrade of, a service covered by the contract.
-  > - **(d)** *Equipment charges* A provider of a covered service may not charge a consumer for—
+  > - **(a)** *Consumer rights in sales*
+  >   - **(1)** *Right to transparency* Before entering into a contract with a consumer for the provision of a covered service, a provider of a covered service shall provide the consumer, by phone, in person, online, or by other reasonable means, the total monthly charge for the covered service, whether offered individually or as part of a bundled service, selected by the consumer (explicitly noting the amount of any applicable promotional discount reflected in such charge and when such discount will expire), including any related administrative fees, equipment fees, or other charges, a good faith estimate of any tax, fee, or charge imposed by the Federal Government or a State or local government (whether imposed on the provider or imposed on the consumer but collected by the provider), and a good faith estimate of any fee or charge that is used to recover any other assessment imposed on the provider by the Federal Government or a State or local government.
+  >   - **(2)** *Right to formal notice* A provider of a covered service that enters into a contract described in paragraph (1) shall, not later than 24 hours after entering into the contract, send the consumer, by email, online link, or other reasonably comparable means, a copy of the information described in such paragraph.
+  >   - **(3)** *Right to cancel* A provider of a covered service that enters into a contract described in paragraph (1) shall permit the consumer to cancel the contract, without paying early cancellation fees or other disconnection fees or penalties, during the 24-hour period beginning when the provider of the covered service sends the copy required by paragraph (2).
+  > - **(b)** *Consumer rights in e-billing* If a provider of a covered service provides a bill to a consumer in an electronic format, the provider shall include in the bill—
+  >   - **(1)** an itemized statement that breaks down the total amount charged for or relating to the provision of the covered service by the amount charged for the provision of the service itself and the amount of all related taxes, administrative fees, equipment fees, or other charges;
+  >   - **(2)** the termination date of the contract for the provision of the covered service entered into between the consumer and the provider; and
+  >   - **(3)** the termination date of any applicable promotional discount.
+  > - **(c)** *Consumer rights to accurate equipment charges* A provider of a covered service or fixed broadband internet access service may not charge a consumer for—
   >   - **(1)** using covered equipment provided by the consumer; or
   >   - **(2)** renting, leasing, or otherwise providing to the consumer covered equipment if—
   >     - **(A)** the provider has not provided the equipment to the consumer; or
   >     - **(B)** the consumer has returned the equipment to the provider, except to the extent that the charge relates to the period beginning on the date when the provider provided the equipment to the consumer and ending on the date when the consumer returned the equipment to the provider.
-  > - **(e)** *Definitions* In this section:
-  >   - **(1)** *Covered equipment* The term “covered equipment” means equipment (such as a router) employed on the premises of a person (other than a provider of a covered service) to provide a covered service.
-  >   - **(2)** *Covered service* The term “covered service”—
-  >     - **(A)** means—
-  >       - **(i)** internet access service;
-  >       - **(ii)** voice service (as defined in section 227(e)(8));
-  >       - **(iii)** commercial mobile service (as defined in section 332);
-  >       - **(iv)** commercial mobile data service (as defined in section 6001 of the Middle Class Tax Relief and Job Creation Act of 2012 (47 U.S.C. 1401)); and
-  >       - **(v)** service provided by a multichannel video programming distributer (as defined in section 602), to the extent such distributor is acting as a multichannel video programming distributor; and
-  >     - **(B)** includes any other service offered or provided as part of a bundle or package with any service referred to in subparagraph (A).
-  >   - **(3)** *Internet access service* The term “internet access service”—
-  >     - **(A)** means a mass-market retail service by wire or radio that provides the capability to transmit data to and receive data from all or substantially all internet endpoints, including any capabilities that are incidental to and enable the operation of the communications service; and
-  >     - **(B)** also includes any service that—
-  >       - **(i)** the Commission finds to be providing a functional equivalent of the service described in subparagraph (A); or
-  >       - **(ii)** is used to evade the protections set forth in this section.
+  > - **(d)** *Definitions* In this section:
+  >   - **(1)** *Broadband internet access service* The term “broadband internet access service” has the meaning given such term in section 8.1(b) of title 47, Code of Federal Regulations, or any successor regulation.
+  >   - **(2)** *Covered equipment* The term “covered equipment” means equipment (such as a router) employed on the premises of a person (other than a provider of a covered service or fixed broadband internet access service) to provide a covered service or to provide fixed broadband internet access service.
+  >   - **(3)** *Covered service* The term “covered service” means service provided by a multichannel video programming distributer, to the extent such distributor is acting as a multichannel video programming distributor.
 
-- **(b)** *Transitional rule relating to definition of voice service* Subsection (e)(2)(A)(ii) of section 723 of the Communications Act of 1934, as added by subsection (a) of this section, shall apply before the effective date of the amendment made to subsection (e)(8) of section 227 of such Act (47 U.S.C. 227) by subparagraph (C) of section 503(a)(2) of division P of the Consolidated Appropriations Act, 2018 (Public Law 115–141) as if such amendment was already in effect.
-- **(c)** *Effective date* Section 723 of the Communications Act of 1934, as added by subsection (a) of this section, shall apply beginning on the date that is 180 days after the date of the enactment of this Act, except that subsection (c) of such section 723 shall not apply with respect to a contract entered into, and as in effect, before the date that is 180 days after the date of the enactment of this Act.
+- **(b)** *Effective date* Section 642 of the Communications Act of 1934, as added by subsection (a) of this section, shall apply beginning on the date that is 6 months after the date of the enactment of this Act. The Federal Communications Commission may grant an additional 6-month extension if the Commission finds that good cause exists for such an additional extension.
