@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2534
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2534
@@ -21,9 +21,10 @@ Insider Trading Prohibition Act
 - Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
 - Rep. Heck, Denny [D-WA-10] (H001064)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (2)
 
@@ -65,3 +66,4 @@ Insider Trading Prohibition Act
 - 2019-12-05 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2534.
 - 2019-12-05 — The Speaker designated the Honorable Terri A. Sewell to act as Chairwoman of the Committee.
 - 2019-12-05 — The previous question was ordered pursuant to the rule.
+- 2019-12-09 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
