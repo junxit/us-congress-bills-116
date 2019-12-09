@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3621
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,6 +32,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `15 U.S.C. § 1681` | insert | The Fair Credit Reporting Act (15 U.S.C. 1681 et seq.) is amended by inserting after section 605B the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 1681s-2` | strike | Section 623(a)(1) of the Fair Credit Reporting Act (15 U.S.C. 1681s–2(a)(1)) is amended by striking subparagraph (E). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1681s-2` | strike | Section 623(a)(1) of the Fair Credit Reporting Act (15 U.S.C. 1681s-2(a)(1)) is amended by striking subparagraph (E). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1681` | insert | The table of contents of the Fair Credit Reporting Act is amended by inserting after the item relating to section 605B the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1681a` | add-at-end | Section 603 of the Fair Credit Reporting Act (15 U.S.C. 1681a) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
