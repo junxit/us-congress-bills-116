@@ -1,7 +1,7 @@
 ---
 measure: S. 743
 congress: 116
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 743
@@ -113,3 +113,18 @@ Merrill's Marauders Congressional Gold Medal Act
 - 2019-12-09 — Received in the House.
 - 2019-12-09 — Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-12-09 — Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2020-09-22 — Committee on Financial Services discharged.
+- 2020-09-22 — Committee on Financial Services discharged.
+- 2020-09-22 — Committee on House Administration discharged.
+- 2020-09-22 — Committee on House Administration discharged.
+- 2020-09-22 — Considered by unanimous consent. (consideration: CR H4712)
+- 2020-09-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-22 — Mr. Cleaver asked unanimous consent to discharge from committee and consider.
+- 2020-09-22 — On passage Passed without objection. (text: CR H4712)
+- 2020-09-22 — Passed/agreed to in House: On passage Passed without objection.
+- 2020-10-06 — Presented to President.
+- 2020-10-06 — Presented to President.
+- 2020-10-17 — Became Public Law No: 116-170.
+- 2020-10-17 — Became Public Law No: 116-170.
+- 2020-10-17 — Signed by President.
+- 2020-10-17 — Signed by President.
