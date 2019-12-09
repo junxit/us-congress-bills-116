@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4373
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4373
@@ -43,3 +43,9 @@ Engineering Biology Research and Development Act of 2019
 - 2019-11-05 — Placed on the Union Calendar, Calendar No. 215.
 - 2019-11-05 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 116-270.
 - 2019-11-05 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 116-270.
+- 2019-12-09 — Considered under suspension of the rules. (consideration: CR H9356-9359)
+- 2019-12-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4373.
+- 2019-12-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-12-09 — Ms. Johnson (TX) moved to suspend the rules and pass the bill, as amended.
+- 2019-12-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9356-9358)
+- 2019-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9356-9358)

@@ -22,8 +22,8 @@ The Congress makes the following findings:
 - **(3)** Long-term research and development is necessary to create breakthroughs in engineering biology. Such research and development requires government investment as many of the benefits are too distant or uncertain for industry to support alone.
 - **(4)** Research is necessary to inform evidence-based governance of engineering biology and to support the growth of the engineering biology industry.
 - **(5)** The Federal Government can play an important role by facilitating the development of tools and technologies to further advance engineering biology, including user facilities, by facilitating public-private partnerships, by supporting risk research, and by facilitating the commercial application in the United States of research funded by the Federal Government.
-- **(5)** The United States led the development of the science and engineering techniques that created the field of engineering biology, but due to increasing international competition, the United States is at risk of losing its competitive advantage if does not invest the necessary resources and have a national strategy.
-- **(6)** A National Engineering Biology Initiative can serve to establish new research directions and technology goals, improve interagency coordination and planning processes, drive technology transfer to the private sector, and help ensure optimal returns on the Federal investment.
+- **(6)** The United States led the development of the science and engineering techniques that created the field of engineering biology, but due to increasing international competition, the United States is at risk of losing its competitive advantage if does not invest the necessary resources and have a national strategy.
+- **(7)** A National Engineering Biology Initiative can serve to establish new research directions and technology goals, improve interagency coordination and planning processes, drive technology transfer to the private sector, and help ensure optimal returns on the Federal investment.
 
 ## § 3. Definitions
 
@@ -52,7 +52,7 @@ In this Act:
     - **(C)** interdisciplinary research centers that are organized to investigate basic research questions, carry out technology development and demonstration activities, and increase understanding of how to scale up engineering biology processes, including biomanufacturing;
   - **(2)** sustained support for databases and related tools, including—
     - **(A)** support for curated genomics, epigenomics, and all other relevant omics databases, including plant and microbial databases, that are available to researchers to carry out engineering biology research;
-    - **(B)** development of standards for such databases, including for curation, interoperability, and protection of privacy and security; and
+    - **(B)** development of standards for such databases, including for curation, interoperability, and protection of privacy and security;
     - **(C)** support for the development of computational tools, including artificial intelligence tools, that can accelerate research and innovation using such databases; and
     - **(D)** an inventory and assessment of all Federal government omics databases to identify opportunities for consolidation and inform investment in such databases as critical infrastructure for the engineering biology research enterprise;
   - **(3)** sustained support for the development, optimization, and validation of novel tools and technologies to enable the dynamic study of molecular processes in situ, including through grants to investigators at institutions of higher education and other nonprofit research institutions, and through the Small Business Innovation Research Program and the Small Business Technology Transfer Program, as described in section 9 of the Small Business Act (15 U.S.C. 638);
@@ -92,12 +92,15 @@ In this Act:
 - **(b)** *Annual report* Beginning with fiscal year 2020, not later than 90 days after submission of the President’s annual budget request and each fiscal year thereafter, the interagency committee shall prepare and submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that includes—
   - **(1)** a summarized agency budget in support of the Initiative for the fiscal year to which such budget request applies, and for the then current fiscal year, including a breakout of spending for each agency participating in the Program and for the development and acquisition of any research facilities and instrumentation; and
   - **(2)** an assessment of how Federal agencies are implementing the plan described in subsection (a)(3), and a description of the amount and number of awards made under the Small Business Innovation Research Program and the Small Business Technology Transfer Program (as described in section 9 of the Small Business Act (15 U.S.C. 638)) in support of the Initiative.
-- **(c)** *Initiative staffing* The President shall ensure adequate staffing for the Initiative, including full-time staff within the Office of Science and Technology Policy, who shall—
-  - **(1)** provide technical and administrative support to the interagency committee and the advisory committee established under section 6;
-  - **(2)** serve as the point of contact on Federal engineering biology activities for government organizations, academia, industry, professional societies, State governments, interested citizen groups, and others to exchange technical and programmatic information;
-  - **(3)** oversee interagency coordination of the Initiative, including by encouraging and supporting joint agency solicitation and selection of applications for funding of activities under the Initiative;
-  - **(4)** conduct public outreach, including dissemination of findings and recommendations of the advisory committee established under section 6, as appropriate; and
-  - **(5)** promote access to, and early application of, the technologies, innovations, and expertise derived from Initiative activities to agency missions and systems across the Federal Government, and to United States industry, including startup companies.
+- **(c)** *Initiative office*
+  - **(1)** *In general* The President shall establish an Initiative Coordination Office, with a Director and full-time staff, which shall—
+    - **(A)** provide technical and administrative support to the interagency committee and the advisory committee established under section 6;
+    - **(B)** serve as the point of contact on Federal engineering biology activities for government organizations, academia, industry, professional societies, State governments, interested citizen groups, and others to exchange technical and programmatic information;
+    - **(C)** oversee interagency coordination of the Initiative, including by encouraging and supporting joint agency solicitation and selection of applications for funding of activities under the Initiative;
+    - **(D)** conduct public outreach, including dissemination of findings and recommendations of the advisory committee established under section 6, as appropriate; and
+    - **(E)** promote access to, and early application of, the technologies, innovations, and expertise derived from Initiative activities to agency missions and systems across the Federal Government, and to United States industry, including startup companies.
+  - **(2)** *Funding* The Director of the Office of Science and Technology Policy shall develop an estimate of the funds necessary to carry out the activities of the Initiative Coordination Office, including an estimate of how much each participating agency described in subsection (a) will contribute to such funds, and submit such estimate to Congress no later than 90 days after the enactment of this Act.
+  - **(3)** *Termination* The Initiative Coordination Office established under this subsection shall terminate on the date that is 10 years after the date of the enactment of this Act, unless a determination is made by the President that such Office is necessary to meet the economic or national security goals of the Program.
 
 ## § 6. Advisory committee
 
