@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5038
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-51 amendatory instructions. 12 executed, 39 stated and not applied.
+53 amendatory instructions. 12 executed, 41 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -116,12 +116,12 @@ to guess them.
 
 ### 8 U.S.C. § 1324a
 
-> in paragraph (1)(B)(ii) of subsection (a), by striking “subsection (b).” and inserting “section 274B”; and
+> in paragraph (1)(B)(ii) of subsection (a), by striking “subsection (b).” and inserting “section 274B.”; and
 
 | | |
 |---|---|
 | Removed | `subsection (b).` |
-| Inserted | `section 274B` |
+| Inserted | `section 274B.` |
 
 ### 8 U.S.C. § 1324a
 
@@ -147,23 +147,25 @@ complete account of the bill's effect, which it is not.
 | `8 U.S.C. § 1188` | amend | Section 218 of the Immigration and Nationality Act (8 U.S.C. 1188) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1811` | add-at-end | Section 101 of the Migrant and Seasonal Agricultural Worker Protection Act (29 U.S.C. 1811), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1813` | strike | in paragraph (4), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
-| `29 U.S.C. § 1813` | replace | in paragraph (5)(B), by striking the period at the end and inserting “;”; and | the bill quotes the text inserted but describes where it goes |
+| `29 U.S.C. § 1813` | strike | in paragraph (5)(B), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
+| `29 U.S.C. § 1813` | replace | in paragraph (6), by striking the period at the end and inserting “;” ; and | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 1813` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1812` | strike | in paragraph (4), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `29 U.S.C. § 1812` | replace | in paragraph (5), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 1812` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 1813` | insert | Section 103 of the Migrant and Seasonal Agricultural Worker Protection Act (29 U.S.C. 1813), as amended by this Act, is further amended by inserting after subsection (a) the following new subsection (and renumbering the remaining subsect… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1813` | redesignate | Section 103 of the Migrant and Seasonal Agricultural Worker Protection Act (29 U.S.C. 1813), as amended by this Act, is further amended by inserting after subsection (a) the following new subsection (and by redesignating the subsequent s… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1153` | amend | by amending clause (iii) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1153` | amend | by amending subparagraph (B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1154` | insert | Section 204(a)(1)(E) of the Immigration and Nationality Act (8 U.S.C. 1154(a)(1)(E)) is amended by inserting “or 203(b)(3)(A)(iii)(II)” after “203(b)(1)(A)”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1471` | add-at-end | Title V of the Housing Act of 1949 (42 U.S.C. 1471 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1490r` | add-at-end | Section 542 of the Housing Act of 1949 (42 U.S.C. 1490r) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1490a` | insert | in paragraph (1), by inserting after subparagraph (A) the following new subparagraph (and renumbering the remaining subparagraphs accordingly): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1490a` | redesignate | in paragraph (1), by inserting after subparagraph (A) the following new subparagraph (and by redesignating the subsequent subparagraphs accordingly): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1490a` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 12491` | strike | in subparagraph (I), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `34 U.S.C. § 12491` | redesignate | by redesignating subparagraph (J) as subparagraph (K); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1490r` | insert | by inserting after subparagraph (I) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1483` | add-at-end | Section 513 of the Housing Act of 1949 (42 U.S.C. 1483) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1484` | add-at-end | Section 514 of the Housing Act of 1949 (42 U.S.C. 1484) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1490a` | insert | in subparagraph (A) by inserting “or domestic farm labor legally admitted to the United States and authorized to work in agriculture” after “migrant farmworkers”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1490a` | replace | by striking “Amount.—In any fiscal year” and inserting | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1490a` | insert | by inserting “providing housing for migrant farmworkers” after “any project”; and | the bill quotes the text inserted but describes where it goes |
