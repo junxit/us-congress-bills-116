@@ -1,7 +1,7 @@
 ---
 measure: S. 2740
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2740
@@ -16,14 +16,21 @@ Over-the-Counter Monograph Safety, Innovation, and Reform Act of 2019
 
 - Sen. Isakson, Johnny [R-GA] (I000055)
 
-## Cosponsors (2)
+## Cosponsors (5)
 
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 - Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
 
 ## Committees (1)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+
+## Recorded votes (1)
+
+- 2019-12-10 — [Senate 116-1-389](votes/senate-116-1-0389.md) — On Passage of the Bill — **Bill Passed** (91–2)
 
 ## Actions
 
@@ -33,3 +40,5 @@ Over-the-Counter Monograph Safety, Innovation, and Reform Act of 2019
 - 2019-11-05 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander without amendment. Without written report.
 - 2019-11-05 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander without amendment. Without written report.
 - 2019-11-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 290.
+- 2019-12-10 — Passed Senate without amendment by Yea-Nay Vote. 91 - 2. Record Vote Number: 389. (consideration: CR S6921-6930; text: CR S6921-6930)
+- 2019-12-10 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 91 - 2. Record Vote Number: 389.(consideration: CR S6921-6930; text: CR S6921-6930)
