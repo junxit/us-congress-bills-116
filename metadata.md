@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3318
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3318
@@ -21,9 +21,10 @@ Emerging Transportation Security Threats Act of 2019
 - Rep. Rogers, Mike D. [R-AL-3] (R000575)
 - Rep. Hagedorn, Jim [R-MN-1] (H001088)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Emerging Transportation Security Threats Act of 2019
 - 2019-12-09 — Ms. Slotkin moved to suspend the rules and pass the bill, as amended.
 - 2019-12-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9371-9372)
 - 2019-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9371-9372)
+- 2019-12-10 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
