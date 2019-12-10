@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3669
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3669
@@ -28,9 +28,10 @@ Weatherizing Infrastructure in the North and Terrorism Emergency Readiness Act o
 - Rep. Taylor, Van [R-TX-3] (T000479)
 - Rep. Craig, Angie [D-MN-2] (C001119)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Weatherizing Infrastructure in the North and Terrorism Emergency Readiness Act o
 - 2019-12-09 — Ms. Slotkin moved to suspend the rules and pass the bill.
 - 2019-12-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9377)
 - 2019-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9377)
+- 2019-12-10 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
