@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4739
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4739
@@ -28,10 +28,11 @@ Synthetic Opioid Exposure Prevention and Training Act
 - Rep. Rogers, Mike D. [R-AL-3] (R000575)
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ Synthetic Opioid Exposure Prevention and Training Act
 - 2019-12-09 — Ms. Clarke (NY) moved to suspend the rules and pass the bill.
 - 2019-12-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 0 (Roll no. 656). (text: CR H9369)
 - 2019-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 0 (Roll no. 656).(text: CR H9369)
+- 2019-12-10 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
