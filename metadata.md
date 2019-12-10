@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3469
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3469
@@ -43,9 +43,10 @@ Covert Testing and Risk Mitigation Improvement Act of 2019
 - Rep. Pressley, Ayanna [D-MA-7] (P000617)
 - Rep. Tlaib, Rashida [D-MI-13] (T000481)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -65,3 +66,4 @@ Covert Testing and Risk Mitigation Improvement Act of 2019
 - 2019-12-09 — Ms. Clarke (NY) moved to suspend the rules and pass the bill.
 - 2019-12-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9366)
 - 2019-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9366)
+- 2019-12-10 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
