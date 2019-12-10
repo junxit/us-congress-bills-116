@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4566
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4566
@@ -42,3 +42,5 @@ Virginia Beach Strong Act
 - 2019-12-09 — Ms. Sewell (AL) moved to suspend the rules and pass the bill.
 - 2019-12-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9365)
 - 2019-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9365)
+- 2019-12-10 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.(consideration: CR S6956)
+- 2019-12-10 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote. (consideration: CR S6956)
