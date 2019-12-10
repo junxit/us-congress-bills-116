@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4727
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4727
@@ -21,9 +21,10 @@ Department of Homeland Security Mentor-Protégé Program Act of 2019
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Department of Homeland Security Mentor-Protégé Program Act of 2019
 - 2019-12-09 — Ms. Slotkin moved to suspend the rules and pass the bill.
 - 2019-12-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9370-9371)
 - 2019-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9370-9371)
+- 2019-12-10 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
