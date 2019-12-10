@@ -1,7 +1,7 @@
 ---
 measure: S. 1342
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1342
@@ -28,3 +28,7 @@ Great Lakes Environmental Sensitivity Index Act of 2020
 
 - 2019-05-07 — Introduced in Senate
 - 2019-05-07 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2019-07-10 — Committee on Commerce, Science, and Transportation. Ordered to be reported with amendments favorably.
+- 2019-12-10 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment. With written report No. 116-170.
+- 2019-12-10 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment. With written report No. 116-170.
+- 2019-12-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 320.

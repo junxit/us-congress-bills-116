@@ -28,3 +28,4 @@ This Act may be cited as the “Great Lakes Environmental Sensitivity Index Act 
 - **(e)** *Authorization of appropriations*
   - **(1)** *In general* There is authorized to be appropriated to the Under Secretary $7,500,000 to carry out subsection (a).
   - **(2)** *Availability* Amounts appropriated or otherwise made available pursuant to paragraph (1) shall be available to the Under Secretary for the purposes set forth in such paragraph until expended.
+- **(e)** *Funding* Amounts for activities under this section shall be derived from amounts otherwise authorized to be appropriated or made available for the Under Secretary.
