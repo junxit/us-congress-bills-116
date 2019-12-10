@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4355
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4355
@@ -28,9 +28,10 @@ IOGAN Act
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
 - Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ IOGAN Act
 - 2019-12-09 — Ms. Johnson (TX) moved to suspend the rules and pass the bill, as amended.
 - 2019-12-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9363-9364)
 - 2019-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9363-9364)
+- 2019-12-10 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
