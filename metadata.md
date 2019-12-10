@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4566
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4566
@@ -44,3 +44,10 @@ Virginia Beach Strong Act
 - 2019-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9365)
 - 2019-12-10 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.(consideration: CR S6956)
 - 2019-12-10 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote. (consideration: CR S6956)
+- 2019-12-11 — Message on Senate action sent to the House.
+- 2019-12-19 — Presented to President.
+- 2019-12-19 — Presented to President.
+- 2019-12-20 — Became Public Law No: 116-98.
+- 2019-12-20 — Became Public Law No: 116-98.
+- 2019-12-20 — Signed by President.
+- 2019-12-20 — Signed by President.
