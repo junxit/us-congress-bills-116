@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4373
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4373
@@ -29,9 +29,10 @@ Engineering Biology Research and Development Act of 2019
 - Rep. Horn, Kendra S. [D-OK-5] (H001083)
 - Rep. Casten, Sean [D-IL-6] (C001117)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ Engineering Biology Research and Development Act of 2019
 - 2019-12-09 — Ms. Johnson (TX) moved to suspend the rules and pass the bill, as amended.
 - 2019-12-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9356-9358)
 - 2019-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9356-9358)
+- 2019-12-10 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.

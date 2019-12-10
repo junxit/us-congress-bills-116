@@ -2,7 +2,7 @@
 legis-num: H.R. 4373
 congress: 116th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 4373
@@ -149,4 +149,4 @@ In this Act:
 - **(d)** *National Aeronautics and Space Administration* As part of the Initiative, the National Aeronautics and Space Administration shall—
   - **(1)** conduct and support basic and applied research in engineering biology, including in synthetic biology, and related to Earth and space sciences, aeronautics, space technology, and space exploration and experimentation, consistent with the priorities established in the National Academies’ decadal surveys; and
   - **(2)** award grants, on a competitive basis, that enable institutions to support graduate students and postdoctoral fellows who perform some of their engineering biology research in an industry setting.
-- **(e)** *Environmental Protection Agency* As part of the Initiative, the Environmental Protection Agency shall support research on how products, processes, and systems of engineering biology will affect or can protect the environment.
+- **(e)** *Environmental Protection Agency* As part of the Initiative, the Environmental Protection Agency shall support research on how products, processes, andsystems of engineering biology will affect or can protect the environment.
