@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5363
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5363
@@ -41,3 +41,10 @@ FUTURE Act
 - 2019-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 319 - 96 (Roll no. 659).(text: CR H9961-9963)
 - 2019-12-10 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.(consideration: CR S6956)
 - 2019-12-10 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote. (consideration: CR S6956)
+- 2019-12-11 — Message on Senate action sent to the House.
+- 2019-12-17 — Presented to President.
+- 2019-12-17 — Presented to President.
+- 2019-12-19 — Became Public Law No: 116-91.
+- 2019-12-19 — Became Public Law No: 116-91.
+- 2019-12-19 — Signed by President.
+- 2019-12-19 — Signed by President.
