@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2051
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2051
@@ -36,10 +36,11 @@ Sustainable Chemistry Research and Development Act of 2019
 - Rep. Slotkin, Elissa [D-MI-8] (S001208)
 - Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
 
-## Committees (2)
+## Committees (3)
 
 - House — Budget Committee
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -60,3 +61,4 @@ Sustainable Chemistry Research and Development Act of 2019
 - 2019-12-09 — Ms. Johnson (TX) moved to suspend the rules and pass the bill, as amended.
 - 2019-12-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9359-9361)
 - 2019-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9359-9361)
+- 2019-12-10 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
