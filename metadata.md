@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4761
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4761
@@ -27,10 +27,11 @@ DHS Opioid Detection Resilience Act of 2019
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Walker, Mark [R-NC-6] (W000819)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -58,3 +59,4 @@ DHS Opioid Detection Resilience Act of 2019
 - 2019-12-09 — Ms. Clarke (NY) moved to suspend the rules and pass the bill.
 - 2019-12-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 1 (Roll no. 655). (text: CR H9367)
 - 2019-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 1 (Roll no. 655).(text: CR H9367)
+- 2019-12-10 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
