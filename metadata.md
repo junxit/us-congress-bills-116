@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4372
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4372
@@ -31,9 +31,10 @@ MSI STEM Achievement Act
 - Rep. Swalwell, Eric [D-CA-15] (S001193)
 - Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ MSI STEM Achievement Act
 - 2019-12-09 — Ms. Johnson (TX) moved to suspend the rules and pass the bill, as amended.
 - 2019-12-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9353-9355)
 - 2019-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9353-9355)
+- 2019-12-10 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
