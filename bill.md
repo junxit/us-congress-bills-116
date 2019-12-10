@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 5381
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5381
+
+> To amend the Federal Food, Drug, and Cosmetic Act to require the label of a drug to list the country of origin of each of the drug’s active ingredients.
+
+## § 1. Short title
+
+This Act may be cited as the “International Pharmaceutical Transparency Act of 2019”.
+
+## § 2. Country-of-origin labeling for active ingredients in drugs
+
+- **(a)** *Misbranding* Section 502 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 352) is amended by adding at the end the following:
+  > - **(ee)** If it is a drug and its label fails to list the country of origin of each of its active ingredients.
+
+- **(b)** *Applicability* Section 502(ee) of the Federal Food, Drug, and Cosmetic Act, as added by subsection (a), applies beginning on the day that is 6 months after the date of enactment of this Act.
