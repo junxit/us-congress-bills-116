@@ -1,7 +1,7 @@
 ---
 measure: S. 2740
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2740
@@ -38,3 +38,6 @@ Over-the-Counter Monograph Safety, Innovation, and Reform Act of 2019
 - 2019-11-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 290.
 - 2019-12-10 — Passed Senate without amendment by Yea-Nay Vote. 91 - 2. Record Vote Number: 389. (consideration: CR S6921-6930; text: CR S6921-6930)
 - 2019-12-10 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 91 - 2. Record Vote Number: 389.(consideration: CR S6921-6930; text: CR S6921-6930)
+- 2019-12-11 — Message on Senate action sent to the House.
+- 2019-12-11 — Received in the House.
+- 2019-12-11 — Referred to the House Committee on Energy and Commerce.
