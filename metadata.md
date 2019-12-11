@@ -1,7 +1,7 @@
 ---
 measure: S. 881
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 881
@@ -28,3 +28,7 @@ PROSWIFT Act
 
 - 2019-03-26 — Introduced in Senate
 - 2019-03-26 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2019-04-03 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2019-12-11 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-171.
+- 2019-12-11 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-171.
+- 2019-12-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 322.
