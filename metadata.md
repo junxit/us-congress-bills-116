@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5035
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5035
@@ -16,9 +16,10 @@ Television Viewer Protection Act of 2019
 
 - Rep. Doyle, Michael F. [D-PA-18] (D000482)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Television Viewer Protection Act of 2019
 - 2019-12-10 — Mr. Doyle, Michael F. moved to suspend the rules and pass the bill, as amended.
 - 2019-12-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9960-9961)
 - 2019-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9960-9961)
+- 2019-12-11 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
