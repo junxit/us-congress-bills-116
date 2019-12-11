@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Greater Accountability in Pay Act of 2019”.
+This Act may be cited as the “Greater Accountability in Pay Act”.
 
 ## § 2. Pay raise disclosures
 
