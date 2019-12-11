@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5038
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-53 amendatory instructions. 12 executed, 41 stated and not applied.
+56 amendatory instructions. 12 executed, 44 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -144,6 +144,9 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 408` | strike | in subparagraph (B)(ii), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 408` | insert | in subparagraph (C), by inserting “or” at the end; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 408` | insert | by inserting after subparagraph (C) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 410` | insert | Section 210(a)(1) of the Social Security Act (42 U.S.C. 410(a)(1)) is amended by inserting before the semicolon the following: “(other than aliens granted certified agricultural worker status or certified agricultural dependent status un… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3121` | insert | Section 3121(b)(1) of the Internal Revenue Code of 1986 is amended by inserting before the semicolon the following: “(other than aliens granted certified agricultural worker status or certified agricultural dependent status under title I… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 405` | add-at-end | Section 205(c)(2)(B) of the Social Security Act (42 U.S.C. 405(c)(2)(B)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1188` | amend | Section 218 of the Immigration and Nationality Act (8 U.S.C. 1188) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1811` | add-at-end | Section 101 of the Migrant and Seasonal Agricultural Worker Protection Act (29 U.S.C. 1811), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1813` | strike | in paragraph (4), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
