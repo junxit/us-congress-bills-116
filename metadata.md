@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5038
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5038
@@ -109,3 +109,23 @@ Farm Workforce Modernization Act of 2019
 - 2019-12-09 — Placed on the Union Calendar, Calendar No. 263.
 - 2019-12-09 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-328, Part I.
 - 2019-12-09 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-328, Part I.
+- 2019-12-10 — Rules Committee Resolution H. Res. 758 Reported to House. The rule provides for consideration of H.R. 3, under a structured rule, with 4 hours of general debate. The rule provides for consideration of H.R. 5038 under a closed rule, with 1 hour of general debate. The rule provides for consideration of the conference report to accompany S. 1790 with 1 hour of debate.
+- 2019-12-11 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2019-12-11 — Considered as unfinished business. (consideration: CR H10093-10096)
+- 2019-12-11 — Considered under the provisions of rule H. Res. 758. (consideration: CR H10044-10082)
+- 2019-12-11 — DEBATE - The House proceeded with 10 minutes of debate on the Biggs motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to strike sections 204(a) and (b) from the bill.
+- 2019-12-11 — DEBATE - The House proceeded with one hour of debate on H.R. 5038.
+- 2019-12-11 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2019-12-11 — House amendment offered
+- 2019-12-11 — Motion to reconsider laid on the table. Objection was heard.
+- 2019-12-11 — Mr. Biggs moved to recommit with instructions to the Committee on the Judiciary. (text: CR H10093)
+- 2019-12-11 — Mr. McGovern moved to table the motion to reconsider
+- 2019-12-11 — Ms. Lofgren moved to reconsider the vote.
+- 2019-12-11 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2019-12-11 — On motion to recommit with instructions Failed by recorded vote: 193 - 230 (Roll no. 673).
+- 2019-12-11 — On passage Passed by recorded vote: 260 - 165, 1 Present (Roll no. 674). (text: CR H10045-10066)
+- 2019-12-11 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of rule XIX, the Chair postponed further proceedings on H.R. 5038.
+- 2019-12-11 — Passed/agreed to in House: On passage Passed by recorded vote: 260 - 165, 1 Present (Roll no. 674).(text: CR H10045-10066)
+- 2019-12-11 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2019-12-11 — The previous question was ordered pursuant to the rule.
+- 2019-12-11 — The rule provides for consideration of H.R. 3, under a structured rule, with 4 hours of general debate. The rule provides for consideration of H.R. 5038 under a closed rule, with 1 hour of general debate. The rule provides for consideration of the conference report to accompany S. 1790 with 1 hour of debate.
