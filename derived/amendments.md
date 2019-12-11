@@ -1,7 +1,7 @@
 ---
 measure: S. 919
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -180,7 +180,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “(b) Authorization of appropriations.—” before “There” and indenting appropriately; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting before subsection (b), the following: | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding subparagraph (A), by striking “6” and inserting “7”; and | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (A), by inserting “Assistant Secretary for Commercial Space Transportation,” after “Assistant Secretary for Research and Technology,”. | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (A), by inserting “an Assistant Secretary for Commercial Space Transportation,” after “Assistant Secretary for Research and Technology,”. | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (1) to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “Procedures for safety approvals.—” before “In carrying out”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “software,” after “services,”; and | the bill names no machine-readable US Code section |
