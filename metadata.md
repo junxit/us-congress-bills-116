@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 23
 congress: 116
-version: Engrossed in Senate
+version: Reported to Senate
 ---
 
 # S.Con.Res. 23
