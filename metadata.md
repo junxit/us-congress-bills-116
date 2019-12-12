@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 150
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 150
@@ -16,7 +16,7 @@ A resolution expressing the sense of the Senate that it is the policy of the Uni
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (15)
+## Cosponsors (28)
 
 - Sen. Cruz, Ted [R-TX] (C001098)
 - Sen. Van Hollen, Chris [D-MD] (V000128)
@@ -33,6 +33,19 @@ A resolution expressing the sense of the Senate that it is the policy of the Uni
 - Sen. Gardner, Cory [R-CO] (G000562)
 - Sen. Udall, Tom [D-NM] (U000039)
 - Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Portman, Rob [R-OH] (P000449)
 
 ## Committees (1)
 
@@ -42,3 +55,7 @@ A resolution expressing the sense of the Senate that it is the policy of the Uni
 
 - 2019-04-09 — Introduced in Senate
 - 2019-04-09 — Referred to the Committee on Foreign Relations.
+- 2019-12-12 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 4/9/2019 CR S2333)
+- 2019-12-12 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 4/9/2019 CR S2333)
+- 2019-12-12 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S7010)
+- 2019-12-12 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S7010)
