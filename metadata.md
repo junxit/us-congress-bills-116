@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3
@@ -156,3 +156,120 @@ Elijah E. Cummings Lower Drug Costs Now Act
 - 2019-12-09 — Placed on the Union Calendar, Calendar No. 264.
 - 2019-12-09 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 116-324, Part III.
 - 2019-12-09 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 116-324, Part III.
+- 2019-12-10 — Rules Committee Resolution H. Res. 758 Reported to House. The rule provides for consideration of H.R. 3, under a structured rule, with 4 hours of general debate. The rule provides for consideration of H.R. 5038 under a closed rule, with 1 hour of general debate. The rule provides for consideration of the conference report to accompany S. 1790 with 1 hour of debate.
+- 2019-12-11 — Committee of the Whole House on the state of the Union rises leaving H.R. 3 as unfinished business.
+- 2019-12-11 — Considered under the provisions of rule H. Res. 758. (consideration: CR H10096-10117)
+- 2019-12-11 — GENERAL DEBATE - The Committee of the Whole proceeded with four hours of general debate on H.R. 3.
+- 2019-12-11 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 758 and Rule XVIII.
+- 2019-12-11 — Mr. Scott (VA) moved that the Committee rise.
+- 2019-12-11 — On motion that the Committee rise Agreed to by voice vote.
+- 2019-12-11 — The Speaker designated the Honorable Donald M. Payne, Jr. to act as Chairman of the Committee.
+- 2019-12-11 — The rule provides for consideration of H.R. 3, under a structured rule, with 4 hours of general debate. The rule provides for consideration of H.R. 5038 under a closed rule, with 1 hour of general debate. The rule provides for consideration of the conference report to accompany S. 1790 with 1 hour of debate.
+- 2019-12-12 — Amendment (A001) offered by Mr. Walden. (consideration: CR H10167-10202, H10219-10220; text: CR H10167-10201)
+- 2019-12-12 — Amendment (A002) offered by Mr. Tonko. (consideration: CR H10202-10204; text: CR H10202-10203)
+- 2019-12-12 — Amendment (A003) offered by Mr. Peters. (consideration: CR H10204-10205; text: CR H10204)
+- 2019-12-12 — Amendment (A004) offered by Mr. Kennedy. (consideration: CR H10205-10206; text: CR H10205)
+- 2019-12-12 — Amendment (A005) offered by Mr. O'Halleran. (consideration: CR H10206-10208, H10220-10221; text: CR H10207)
+- 2019-12-12 — Amendment (A006) offered by Mr. Kennedy. (consideration: CR H10208-10210; text: CR H10208)
+- 2019-12-12 — Amendment (A007) offered by Mr. Gottheimer. (consideration: CR H10210-10211, H10221; text: CR H10210)
+- 2019-12-12 — Amendment (A008) offered by Mrs. Axne. (consideration: CR H10211-10214; text: CR H10211-10213)
+- 2019-12-12 — Amendment (A009) offered by Ms. Finkenauer. (consideration: CR H10214-10215; text: CR H10214)
+- 2019-12-12 — Amendment (A010) offered by Mrs. Luria. (consideration: CR H10215-10216, H10221-10222; text: CR H10215)
+- 2019-12-12 — Amendment (A011) offered by Mr. Cunningham. (consideration: CR H10216-10217, H10222; text: CR H10216)
+- 2019-12-12 — Amendment (A012) offered by Ms. Houlahan. (consideration: CR H10217-10219; text: CR H10217-10218)
+- 2019-12-12 — Amendment agreed to Committee of the Whole
+- 2019-12-12 — Amendment agreed to Committee of the Whole
+- 2019-12-12 — Amendment agreed to Committee of the Whole
+- 2019-12-12 — Amendment agreed to Committee of the Whole
+- 2019-12-12 — Amendment agreed to Committee of the Whole
+- 2019-12-12 — Amendment agreed to Committee of the Whole
+- 2019-12-12 — Amendment agreed to Committee of the Whole
+- 2019-12-12 — Amendment agreed to Committee of the Whole
+- 2019-12-12 — Amendment agreed to Committee of the Whole
+- 2019-12-12 — Amendment agreed to Committee of the Whole
+- 2019-12-12 — Amendment agreed to Committee of the Whole
+- 2019-12-12 — Amendment failed in Committee of the Whole
+- 2019-12-12 — Considered as unfinished business. (consideration: CR H10129-10225; text: CR H10141-10167)
+- 2019-12-12 — DEBATE - Pursuant to the provisions of H. Res. 758, the Committee of the Whole proceeded with 10 minutes of debate on the Axne amendment No. 8.
+- 2019-12-12 — DEBATE - Pursuant to the provisions of H. Res. 758, the Committee of the Whole proceeded with 10 minutes of debate on the Cunningham amendment No. 11.
+- 2019-12-12 — DEBATE - Pursuant to the provisions of H. Res. 758, the Committee of the Whole proceeded with 10 minutes of debate on the Finkenauer amendment No. 9.
+- 2019-12-12 — DEBATE - Pursuant to the provisions of H. Res. 758, the Committee of the Whole proceeded with 10 minutes of debate on the Gottheimer amendment No. 7.
+- 2019-12-12 — DEBATE - Pursuant to the provisions of H. Res. 758, the Committee of the Whole proceeded with 10 minutes of debate on the Houlahan amendment No. 12.
+- 2019-12-12 — DEBATE - Pursuant to the provisions of H. Res. 758, the Committee of the Whole proceeded with 10 minutes of debate on the Kennedy amendment No. 4.
+- 2019-12-12 — DEBATE - Pursuant to the provisions of H. Res. 758, the Committee of the Whole proceeded with 10 minutes of debate on the Kennedy amendment No. 6.
+- 2019-12-12 — DEBATE - Pursuant to the provisions of H. Res. 758, the Committee of the Whole proceeded with 10 minutes of debate on the Luria amendment No. 10.
+- 2019-12-12 — DEBATE - Pursuant to the provisions of H. Res. 758, the Committee of the Whole proceeded with 10 minutes of debate on the O'Halleran amendment No. 5.
+- 2019-12-12 — DEBATE - Pursuant to the provisions of H. Res. 758, the Committee of the Whole proceeded with 10 minutes of debate on the Peters amendment No. 3.
+- 2019-12-12 — DEBATE - Pursuant to the provisions of H. Res. 758, the Committee of the Whole proceeded with 10 minutes of debate on the Tonko amendment No. 2.
+- 2019-12-12 — DEBATE - Pursuant to the provisions of H.Res. 758, the Committee of the Whole proceeded with 10 minutes of debate on the Walden amendment No. 1.
+- 2019-12-12 — DEBATE - The House proceeded with 10 minutes of debate on the Upton motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to change the effective date of the Act until the Secretary of Health and Human Services certifies that the implementation of the provisions in the bill are not projected to result in fewer new drug applications with respect to unmet medical needs and life saving cures.
+- 2019-12-12 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of further debate on H.R. 3.
+- 2019-12-12 — House amendment agreed to: On agreeing to the Axne amendment (A008) Agreed to by voice vote.
+- 2019-12-12 — House amendment agreed to: On agreeing to the Cunningham amendment (A011) Agreed to by recorded vote: 234 - 192 (Roll no. 680).
+- 2019-12-12 — House amendment agreed to: On agreeing to the Finkenauer amendment (A009) Agreed to by voice vote.
+- 2019-12-12 — House amendment agreed to: On agreeing to the Gottheimer amendment (A007) Agreed to by recorded vote: 380 - 45 (Roll no. 678).
+- 2019-12-12 — House amendment agreed to: On agreeing to the Houlahan amendment (A012) Agreed to by voice vote.
+- 2019-12-12 — House amendment agreed to: On agreeing to the Kennedy amendment (A004) Agreed to by voice vote.
+- 2019-12-12 — House amendment agreed to: On agreeing to the Kennedy amendment (A006) Agreed to by voice vote.
+- 2019-12-12 — House amendment agreed to: On agreeing to the Luria amendment (A010) Agreed to by recorded vote: 231 - 192 (Roll no. 679).
+- 2019-12-12 — House amendment agreed to: On agreeing to the O'Halleran amendment (A005) Agreed to by recorded vote: 351 - 73 (Roll no. 677).
+- 2019-12-12 — House amendment agreed to: On agreeing to the Peters amendment (A003) Agreed to by voice vote.
+- 2019-12-12 — House amendment agreed to: On agreeing to the Tonko amendment (A002) Agreed to by voice vote.
+- 2019-12-12 — House amendment not agreed to: On agreeing to the Walden amendment (A001) Failed by recorded vote: 201 - 223 (Roll no. 676).
+- 2019-12-12 — House amendment offered
+- 2019-12-12 — House amendment offered
+- 2019-12-12 — House amendment offered
+- 2019-12-12 — House amendment offered
+- 2019-12-12 — House amendment offered
+- 2019-12-12 — House amendment offered
+- 2019-12-12 — House amendment offered
+- 2019-12-12 — House amendment offered
+- 2019-12-12 — House amendment offered
+- 2019-12-12 — House amendment offered
+- 2019-12-12 — House amendment offered
+- 2019-12-12 — House amendment offered
+- 2019-12-12 — House amendment offered/reported by: Amendment (A001) offered by Mr. Walden.
+- 2019-12-12 — House amendment offered/reported by: Amendment (A002) offered by Mr. Tonko.
+- 2019-12-12 — House amendment offered/reported by: Amendment (A003) offered by Mr. Peters.
+- 2019-12-12 — House amendment offered/reported by: Amendment (A004) offered by Mr. Kennedy.
+- 2019-12-12 — House amendment offered/reported by: Amendment (A005) offered by Mr. O'Halleran.
+- 2019-12-12 — House amendment offered/reported by: Amendment (A006) offered by Mr. Kennedy.
+- 2019-12-12 — House amendment offered/reported by: Amendment (A007) offered by Mr. Gottheimer.
+- 2019-12-12 — House amendment offered/reported by: Amendment (A008) offered by Mrs. Axne.
+- 2019-12-12 — House amendment offered/reported by: Amendment (A009) offered by Ms. Finkenauer.
+- 2019-12-12 — House amendment offered/reported by: Amendment (A010) offered by Mrs. Luria.
+- 2019-12-12 — House amendment offered/reported by: Amendment (A011) offered by Mr. Cunningham.
+- 2019-12-12 — House amendment offered/reported by: Amendment (A012) offered by Ms. Houlahan.
+- 2019-12-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-12-12 — Mr. Upton moved to recommit with instructions to the Committee on Energy and Commerce. (text: CR H10223)
+- 2019-12-12 — On agreeing to the Axne amendment (A008) Agreed to by voice vote.
+- 2019-12-12 — On agreeing to the Cunningham amendment (A011) Agreed to by recorded vote: 234 - 192 (Roll no. 680).
+- 2019-12-12 — On agreeing to the Finkenauer amendment (A009) Agreed to by voice vote.
+- 2019-12-12 — On agreeing to the Gottheimer amendment (A007) Agreed to by recorded vote: 380 - 45 (Roll no. 678).
+- 2019-12-12 — On agreeing to the Houlahan amendment (A012) Agreed to by voice vote.
+- 2019-12-12 — On agreeing to the Kennedy amendment (A004) Agreed to by voice vote.
+- 2019-12-12 — On agreeing to the Kennedy amendment (A006) Agreed to by voice vote.
+- 2019-12-12 — On agreeing to the Luria amendment (A010) Agreed to by recorded vote: 231 - 192 (Roll no. 679).
+- 2019-12-12 — On agreeing to the O'Halleran amendment (A005) Agreed to by recorded vote: 351 - 73 (Roll no. 677).
+- 2019-12-12 — On agreeing to the Peters amendment (A003) Agreed to by voice vote.
+- 2019-12-12 — On agreeing to the Tonko amendment (A002) Agreed to by voice vote.
+- 2019-12-12 — On agreeing to the Walden amendment (A001) Failed by recorded vote: 201 - 223 (Roll no. 676).
+- 2019-12-12 — On motion to recommit with instructions Failed by the Yeas and Nays: 196 - 226 (Roll no. 681).
+- 2019-12-12 — On passage Passed by the Yeas and Nays: 230 - 192 (Roll no. 682).
+- 2019-12-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cunningham amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Roe (TN) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-12-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gottheimer amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Gottheimer demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-12-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Luria amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Walden demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-12-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the O'Halleran amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. O'Halleran demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-12-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Walden amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Walden demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2019-12-12 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 230 - 192 (Roll no. 682).
+- 2019-12-12 — Roll call votes on amendments in House
+- 2019-12-12 — Roll call votes on amendments in House
+- 2019-12-12 — Roll call votes on amendments in House
+- 2019-12-12 — Roll call votes on amendments in House
+- 2019-12-12 — Roll call votes on amendments in House
+- 2019-12-12 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2019-12-12 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2019-12-12 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3.
+- 2019-12-12 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2019-12-12 — The previous question was ordered pursuant to the rule.
+- 2019-12-12 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which were debated earlier and on which further proceedings had been postponed.
