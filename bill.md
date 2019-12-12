@@ -11,5 +11,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *In general* This Act may be cited as the “Lower Drug Costs Now Act of 2019”.
+- **(a)** *Short title* This Act may be cited as the “Elijah E. Cummings Lower Drug Costs Now Act”.
 - **(b)** *Table of contents* The table of contents is as follows:
