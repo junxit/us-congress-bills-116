@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5038
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5038
@@ -81,12 +81,13 @@ Farm Workforce Modernization Act of 2019
 - Rep. Bass, Karen [D-CA-37] (B001270)
 - Rep. O'Halleran, Tom [D-AZ-1] (O000171)
 
-## Committees (4)
+## Committees (5)
 
 - House — Financial Services Committee
 - House — Education and the Workforce Committee
 - House — Ways and Means Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -129,3 +130,4 @@ Farm Workforce Modernization Act of 2019
 - 2019-12-11 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-12-11 — The previous question was ordered pursuant to the rule.
 - 2019-12-11 — The rule provides for consideration of H.R. 3, under a structured rule, with 4 hours of general debate. The rule provides for consideration of H.R. 5038 under a closed rule, with 1 hour of general debate. The rule provides for consideration of the conference report to accompany S. 1790 with 1 hour of debate.
+- 2019-12-12 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
