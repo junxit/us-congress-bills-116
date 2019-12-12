@@ -1,7 +1,7 @@
 ---
 measure: H.R. 729
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 729
@@ -33,9 +33,10 @@ Coastal and Great Lakes Communities Enhancement Act
 - Rep. Larsen, Rick [D-WA-2] (L000560)
 - Rep. Case, Ed [D-HI-1] (C001055)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (8)
 
@@ -163,3 +164,5 @@ Coastal and Great Lakes Communities Enhancement Act
 - 2019-12-10 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 729.
 - 2019-12-10 — The Speaker designated the Honorable Chellie Pingree to act as Chairwoman of the Committee.
 - 2019-12-10 — The previous question was ordered pursuant to the rule.
+- 2019-12-11 — Considered as unfinished business. (consideration: CR H10043-10044)
+- 2019-12-12 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
