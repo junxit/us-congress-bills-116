@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 23
 congress: 116
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 23
@@ -16,7 +16,7 @@ A concurrent resolution honoring the 75th Anniversary of the Battle of the Bulge
 
 - Sen. Cramer, Kevin [R-ND] (C001096)
 
-## Cosponsors (42)
+## Cosponsors (45)
 
 - Sen. Manchin, Joe, III [D-WV] (M001183)
 - Sen. Sullivan, Dan [R-AK] (S001198)
@@ -60,6 +60,9 @@ A concurrent resolution honoring the 75th Anniversary of the Battle of the Bulge
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Rosen, Jacky [D-NV] (R000608)
 - Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
 ## Committees (1)
 
@@ -69,3 +72,15 @@ A concurrent resolution honoring the 75th Anniversary of the Battle of the Bulge
 
 - 2019-07-31 — Introduced in Senate
 - 2019-07-31 — Referred to the Committee on Foreign Relations. (text: CR S5259-5260)
+- 2019-12-11 — Committee on Foreign Relations. Ordered to be reported with an amendment favorably.
+- 2019-12-12 — Amendment SA 1256 agreed to in Senate by Unanimous Consent.
+- 2019-12-12 — Amendment SA 1256 proposed by Senator McConnell for Senator Cramer. (consideration: CR S7034; text: CR S7034) To add language to the preamble.
+- 2019-12-12 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with an amended preamble. Without written report.
+- 2019-12-12 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with an amended preamble. Without written report.
+- 2019-12-12 — Measure laid before Senate by unanimous consent. (consideration: CR S7033-7034)
+- 2019-12-12 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.(text: CR S7034)
+- 2019-12-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 326.
+- 2019-12-12 — Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (text: CR S7034)
+- 2019-12-12 — Senate amendment agreed to: Amendment SA 1256 agreed to in Senate by Unanimous Consent.
+- 2019-12-12 — Senate amendment proposed (on the floor): Amendment SA 1256 proposed by Senator McConnell for Senator Cramer.
+- 2019-12-12 — Senate amendment submitted
