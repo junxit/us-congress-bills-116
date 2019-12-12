@@ -27,6 +27,7 @@ Congress finds the following:
 - **(a)** The Director of the National Science Foundation, in consultation with the Director of the National Institutes of Health and the Director of the National Institute on Mental Health where appropriate, shall award grants on a competitive, merit-reviewed basis to institutions of higher education (or consortia of such institutions) to support multidisciplinary, fundamental research with potential relevance to suicide, including potential relevance to prevention and treatment, including but not limited to—
   - **(1)** basic understanding of human social behavior;
   - **(2)** the neural basis of human cognition;
-  - **(3)** basic understanding of cognitive, linguistic, social, cultural, and biological processes related to human development across the lifespan; and
-  - **(4)** basic understanding of perceptual, motor, and cognitive processes, and their interaction, in typical human behavior.
+  - **(3)** basic understanding of cognitive, linguistic, social, cultural and biological processes related to human development across the lifespan;
+  - **(4)** basic understanding of perceptual, motor, and cognitive processes, and their interaction, in typical human behavior; and
+  - **(5)** basic understanding of the relevance of drug and alcohol abuse.
 - **(b)** To promote the development of early career researchers, in awarding funds under subsection (a) the National Science Foundation shall encourage applications submitted by early career researchers, including doctoral students or postdoctoral researchers.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4704
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4704
@@ -16,11 +16,24 @@ Advancing Research to Prevent Suicide Act
 
 - Rep. McAdams, Ben [D-UT-4] (M001209)
 
-## Cosponsors (3)
+## Cosponsors (16)
 
 - Rep. Gonzalez, Anthony [R-OH-16] (G000588)
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 - Rep. Balderson, Troy [R-OH-12] (B001306)
+- Rep. Stevens, Haley M. [D-MI-11] (S001215)
+- Rep. Harder, Josh [D-CA-10] (H001090)
+- Rep. Trone, David J. [D-MD-6] (T000483)
+- Rep. Sherrill, Mikie [D-NJ-11] (S001207)
+- Rep. Wexton, Jennifer [D-VA-10] (W000825)
+- Rep. Lamb, Conor [D-PA-17] (L000588)
+- Rep. Horn, Kendra S. [D-OK-5] (H001083)
+- Rep. Perlmutter, Ed [D-CO-7] (P000593)
+- Rep. Lofgren, Zoe [D-CA-19] (L000397)
+- Rep. Lipinski, Daniel [D-IL-3] (L000563)
+- Rep. Rice, Kathleen M. [D-NY-4] (R000602)
+- Rep. Panetta, Jimmy [D-CA-20] (P000613)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
 
 ## Committees (1)
 
@@ -31,3 +44,8 @@ Advancing Research to Prevent Suicide Act
 - 2019-10-16 — Introduced in House
 - 2019-10-16 — Introduced in House
 - 2019-10-16 — Referred to the House Committee on Science, Space, and Technology.
+- 2019-11-14 — Committee Consideration and Mark-up Session Held.
+- 2019-11-14 — Ordered to be Reported (Amended) by Voice Vote.
+- 2019-12-12 — Placed on the Union Calendar, Calendar No. 272.
+- 2019-12-12 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 116-342.
+- 2019-12-12 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 116-342.
