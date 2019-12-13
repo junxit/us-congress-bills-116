@@ -24,34 +24,56 @@ This Act may be cited as the “Restoring Tax Fairness for States and Localities
 
 - **(a)** *In general* Section 164(b)(6)(B) of the Internal Revenue Code of 1986 is amended by inserting “in the case of a taxable year beginning before January 1, 2020, or after December 31, 2021,” before “the aggregate amount of taxes”.
 - **(b)** *Conforming amendments* Section 164(b)(6) of the Internal Revenue Code of 1986 is amended—
-  - **(1)** by striking “For purposes of subparagraph (B)” and inserting “For purposes of this section”;
-  - **(2)** by striking “January 1, 2018” and inserting “January 1, 2022”;
-  - **(3)** by striking “December 31, 2017, shall” and inserting “December 31, 2021, shall”; and
+  - **(1)** by striking “For purposes of subparagraph (B)” and inserting “For purposes of this section”,
+  - **(2)** by striking “January 1, 2018” and inserting “January 1, 2022”,
+  - **(3)** by striking “December 31, 2017, shall” and inserting “December 31, 2021, shall”, and
   - **(4)** by adding at the end the following: “For purposes of this section, in the case of State or local taxes with respect to any real or personal property paid during a taxable year beginning in 2020 or 2021, the Secretary shall prescribe rules which treat all or a portion of such taxes as paid in a taxable year or years other than the taxable year in which actually paid as necessary or appropriate to prevent the avoidance of the limitations of this subsection.”.
-- **(c)** *Effective date* The amendments made by this section shall apply to taxable years beginning after December 31, 2019.
+- **(c)** *Effective date* The amendments made by this section shall apply to taxes paid or accrued in taxable years beginning after December 31, 2019.
 
-## § 4. Increase of top marginal individual income tax rate under temporary rules
+## § 4. Increase in deduction for certain expenses of elementary and secondary school teachers
+
+- **(a)** *Increase* Section 62(a)(2)(D) of the Internal Revenue Code of 1986 is amended by striking “$250” and inserting “$500”.
+- **(b)** *Conforming amendments* Section 62(d)(3) of the Internal Revenue Code of 1986 is amended—
+  - **(1)** by striking “2015” and inserting “2019”,
+  - **(2)** by striking “$250” and inserting “$500”, and
+  - **(3)** in subparagraph (B), by striking “2014” and inserting “2018”.
+- **(c)** *Effective date* The amendments made by this section shall apply to taxable years beginning after December 31, 2018.
+
+## § 5. Above-the-line deduction allowed for certain expenses of first responders
+
+- **(a)** *In general* Section 62(a)(2) of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph:
+  > - **(F)** *Certain expenses of first responders* The deductions allowed by section 162 which consist of expenses, not in excess of $500, paid or incurred by a first responder—
+  >   - **(i)** as tuition or fees for the participation of the first responder in professional development courses related to service as a first responder, or
+  >   - **(ii)** for uniforms used by the first responder in service as a first responder.
+
+- **(b)** *First responder defined* Section 62(d) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:
+  > - **(4)** *First responder* For purposes of subsection (a)(2)(F), the term “first responder” means, with respect to any taxable year, any individual who is employed as a law enforcement officer, firefighter, paramedic, or emergency medical technician for at least 1000 hours during such taxable year.
+
+- **(c)** *Inflation adjustment* Section 62(d)(3) of the Internal Revenue Code of 1986, as amended by section 4, is further amended by striking “the $500 amount in subsection (a)(2)(D)” and inserting “the $500 amount in each of subparagraphs (D) and (F) of subsection (a)(2)”.
+- **(d)** *Effective date* The amendments made by this section shall apply to taxable years beginning after December 31, 2019.
+
+## § 6. Increase of top marginal individual income tax rate under temporary rules
 
 - **(a)** *In general* The tables contained in subparagraphs (A), (B), (C), (D), and (E) of section 1(j)(2) of the Internal Revenue Code of 1986 are each amended by striking “37%” and inserting “39.6%” and—
   - **(1)** in subparagraph (A)—
-    - **(A)** by striking “$600,00” each place such term appears and inserting “$479,000”; and
-    - **(B)** by striking “$161,379” and inserting “$119,029”;
+    - **(A)** by striking “$600,000” each place such term appears and inserting “$479,000”, and
+    - **(B)** by striking “$161,379” and inserting “$119,029”,
   - **(2)** in subparagraph (B)—
-    - **(A)** by striking “$500,000” each place such term appears and inserting “$452,400”; and
-    - **(B)** by striking “$149,298” and inserting “$132,638”;
+    - **(A)** by striking “$500,000” each place such term appears and inserting “$452,400”, and
+    - **(B)** by striking “$149,298” and inserting “$132,638”,
   - **(3)** in subparagraph (C)—
-    - **(A)** by striking “$500,000” each place such term appears and inserting “$425,800”; and
-    - **(B)** by striking “$150,689.50” and inserting “$124,719.50”; and
+    - **(A)** by striking “$500,000” each place such term appears and inserting “$425,800”, and
+    - **(B)** by striking “$150,689.50” and inserting “$124,719.50”, and
   - **(4)** in subparagraph (D)—
-    - **(A)** by striking “$300,000” each place such term appears and inserting “$239,500”; and
+    - **(A)** by striking “$300,000” each place such term appears and inserting “$239,500”, and
     - **(B)** by striking “$80,689.50” and inserting “$59,514.50”.
 - **(b)** *Conforming amendments*
   - **(1)** Section 1(j)(4)(B)(iii) of the Internal Revenue Code of 1986 is amended—
-    - **(A)** in the matter preceding subclause (I), by striking “37 percent” and inserting “39.6 percent”;
-    - **(B)** in subclause (II), by striking “37-percent bracket” and inserting “39.6-percent bracket”; and
+    - **(A)** in the matter preceding subclause (I), by striking “37 percent” and inserting “39.6 percent”,
+    - **(B)** in subclause (II), by striking “37-percent bracket” and inserting “39.6-percent bracket”, and
     - **(C)** in the heading, by striking “37-percent bracket” and inserting “39.6-percent bracket”.
   - **(2)** Section 1(j)(4)(C) of such Code is amended—
-    - **(A)** in clause (i)(II), by striking “paragraph (5)(B)(i)(IV)” and inserting “paragraph (5)(B)(iv)”; and
+    - **(A)** in clause (i)(II), by striking “paragraph (5)(B)(i)(IV)” and inserting “paragraph (5)(B)(iv)”, and
     - **(B)** by amending clause (ii) to read as follows:
       > - **(ii)** the amount which would (without regard to this paragraph) be taxed at a rate below 39.6 percent shall not be more than the sum of—
       >   - **(I)** the earned taxable income of such child, plus
@@ -67,5 +89,5 @@ This Act may be cited as the “Restoring Tax Fairness for States and Localities
     >   - **(iv)** in the case of an estate or trust, $2,600.
 
   - **(5)** Section 1(j)(5)(C) of such Code is amended by striking “clauses (i) and (ii) of”.
-- **(c)** *Effective date* The amendments made by this subsection shall apply to taxable years beginning after December 31, 2019.
-- **(d)** *Section 15 not To apply* Section 15 of the Internal Revenue Code of 1986 shall not apply to any change in a rate of tax by reason of any amendment made by this section.
+- **(c)** *Effective date* The amendments made by this section shall apply to taxable years beginning after December 31, 2019.
+- **(d)** *Section 15 not to apply* Section 15 of the Internal Revenue Code of 1986 shall not apply to any change in a rate of tax by reason of any amendment made by this section.

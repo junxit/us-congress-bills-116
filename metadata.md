@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5377
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5377
@@ -16,7 +16,7 @@ Restoring Tax Fairness for States and Localities Act
 
 - Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
 
-## Cosponsors (39)
+## Cosponsors (52)
 
 - Rep. Thompson, Mike [D-CA-5] (T000460)
 - Rep. Pascrell, Bill, Jr. [D-NJ-9] (P000096)
@@ -57,6 +57,19 @@ Restoring Tax Fairness for States and Localities Act
 - Rep. Courtney, Joe [D-CT-2] (C001069)
 - Rep. Espaillat, Adriano [D-NY-13] (E000297)
 - Rep. Harder, Josh [D-CA-10] (H001090)
+- Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
+- Rep. Krishnamoorthi, Raja [D-IL-8] (K000391)
+- Rep. Huffman, Jared [D-CA-2] (H001068)
+- Rep. Gonzalez, Vicente [D-TX-15] (G000581)
+- Rep. Gomez, Jimmy [D-CA-34] (G000585)
+- Rep. Wexton, Jennifer [D-VA-10] (W000825)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Lieu, Ted [D-CA-33] (L000582)
+- Rep. Brown, Anthony G. [D-MD-4] (B001304)
+- Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
+- Rep. Speier, Jackie [D-CA-14] (S001175)
 
 ## Committees (1)
 
@@ -67,3 +80,8 @@ Restoring Tax Fairness for States and Localities Act
 - 2019-12-10 — Introduced in House
 - 2019-12-10 — Introduced in House
 - 2019-12-10 — Referred to the House Committee on Ways and Means.
+- 2019-12-11 — Committee Consideration and Mark-up Session Held.
+- 2019-12-11 — Ordered to be Reported (Amended) by the Yeas and Nays: 24 - 17.
+- 2019-12-13 — Placed on the Union Calendar, Calendar No. 275.
+- 2019-12-13 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 116-345.
+- 2019-12-13 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 116-345.
