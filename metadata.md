@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 755
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 755
@@ -25,3 +25,10 @@ Impeaching Donald John Trump, President of the United States, for high crimes an
 - 2019-12-10 — Introduced in House
 - 2019-12-10 — Introduced in House
 - 2019-12-10 — Referred to the House Committee on the Judiciary.
+- 2019-12-11 — Committee Consideration and Mark-up Session Held.
+- 2019-12-12 — Committee Consideration and Mark-up Session Held.
+- 2019-12-13 — Committee Consideration and Mark-up Session Held.
+- 2019-12-13 — Ordered to be Reported (Amended).
+- 2019-12-15 — Placed on the House Calendar, Calendar No. 61.
+- 2019-12-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-346.
+- 2019-12-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-346.
