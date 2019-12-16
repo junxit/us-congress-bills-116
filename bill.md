@@ -87,3 +87,7 @@ For the purposes of this Act, the term lands subject to this Act means lands and
 ## § 7. Gaming Prohibition
 
 No class II or class III gaming, as defined in the Indian Gaming Regulatory Act (25 U.S.C. 2701 et seq.), shall be conducted on lands subject to this Act.
+
+## § 8. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
