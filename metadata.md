@@ -1,7 +1,7 @@
 ---
 measure: S. 2824
 congress: 116
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 2824
@@ -28,3 +28,7 @@ Artistic Recognition for Talented Students Act
 
 - 2019-11-07 — Introduced in Senate
 - 2019-11-07 — Read twice and referred to the Committee on the Judiciary.
+- 2019-12-16 — Passed Senate without amendment by Unanimous Consent.
+- 2019-12-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2019-12-16 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S7058; text: CR S7058)
+- 2019-12-16 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S7058; text: CR S7058)
