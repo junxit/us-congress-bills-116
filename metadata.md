@@ -1,7 +1,7 @@
 ---
 measure: H.R. 135
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 135
@@ -46,3 +46,7 @@ Elijah E. Cummings Federal Employee Antidiscrimination Act of 2019
 - 2019-01-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 33). (text: CR H558-560)
 - 2019-01-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 33).(text: CR H558-560)
 - 2019-01-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2019-11-06 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2019-12-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-176.
+- 2019-12-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-176.
+- 2019-12-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 330.
