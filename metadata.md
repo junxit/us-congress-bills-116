@@ -1,7 +1,7 @@
 ---
 measure: S. 2513
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2513
@@ -28,3 +28,7 @@ Reporting Efficiently to Proper Officials in Response to Terrorism Act of 2019
 
 - 2019-09-19 — Introduced in Senate
 - 2019-09-19 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2019-11-06 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2019-12-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment. With written report No. 116-175.
+- 2019-12-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment. With written report No. 116-175.
+- 2019-12-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 329.
