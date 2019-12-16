@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3172
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3172
@@ -55,3 +55,10 @@ Safe Sleep for Babies Act of 2019
 - 2019-09-13 — Placed on the Union Calendar, Calendar No. 163.
 - 2019-09-13 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-206.
 - 2019-09-13 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-206.
+- 2019-12-16 — Considered under suspension of the rules. (consideration: CR H10294-10295)
+- 2019-12-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3172.
+- 2019-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-12-16 — Ms. Schakowsky moved to suspend the rules and pass the bill, as amended.
+- 2019-12-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H10294)
+- 2019-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10294)
+- 2019-12-16 — The title of the measure was amended. Agreed to without objection.

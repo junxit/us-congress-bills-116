@@ -7,14 +7,21 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3172
 
-> To prohibit the manufacture for sale, offer for sale, distribution in commerce, or importation into the United States of any inclined sleeper for infants, and for other purposes.
+> To provide that inclined sleepers for infants and crib bumpers shall be considered banned hazardous products under section 8 of the Consumer Product Safety Act, and for other purposes.
 
 ## § 1. Short title
 
 This Act may be cited as the “Safe Sleep for Babies Act of 2019”.
 
-## § 2. Prohibition on sale of inclined sleepers for infants
+## § 2. Banning of inclined sleepers for infants
 
-- **(a)** *Prohibition on the sale of inclined sleepers for infants* Beginning on the date that is 180 days after the date of enactment of this Act, it shall be unlawful for any person to manufacture for sale, offer for sale, distribute in commerce, or import into the United States any inclined sleeper for infants.
-- **(b)** *Treatment of violation* A violation of subsection (a) shall be treated as a violation of section 19(a)(1) of the Consumer Product Safety Act (15 U.S.C. 2068(a)(1)).
-- **(c)** *Inclined sleeper for infants defined* In this section, the term inclined sleeper for infants means a product with an inclined sleep surface greater than ten degrees that is intended, marketed, or designed to provide sleeping accommodations for an infant up to one year old.
+- **(a)** *In General* Not later than 180 days after the date of enactment of this Act, inclined sleepers for infants, regardless of the date of manufacture, shall be considered a banned hazardous product under section 8 of the Consumer Product Safety Act (15 U.S.C. 2057).
+- **(b)** *Inclined Sleeper for Infants Defined* In this section, the term “inclined sleeper for infants” means a product with an inclined sleep surface greater than ten degrees that is intended, marketed, or designed to provide sleeping accommodations for an infant up to 1 year old.
+
+## § 3. Banning of crib bumpers
+
+- **(a)** *In general* Not later than 180 days after the date of enactment of this Act, crib bumpers, regardless of the date of manufacture, shall be considered a banned hazardous product under section 8 of the Consumer Product Safety Act (15 U.S.C. 2057).
+- **(b)** *Crib bumper defined* In this section, the term “crib bumper”—
+  - **(1)** means any material that is intended to cover the sides of a crib to prevent injury to any crib occupant from impacts against the side of a crib or to prevent partial or complete access to any openings in the sides of a crib to prevent a crib occupant from getting any part of the body entrapped in any opening;
+  - **(2)** includes a padded crib bumper, a supported and unsupported vinyl bumper guard, and vertical crib slat covers; and
+  - **(3)** does not include a non-padded mesh crib liner.
