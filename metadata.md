@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4998
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4998
@@ -31,3 +31,18 @@ Secure and Trusted Communications Networks Act of 2019
 - 2019-11-08 — Introduced in House
 - 2019-11-08 — Introduced in House
 - 2019-11-08 — Referred to the House Committee on Energy and Commerce.
+- 2019-11-12 — Referred to the Subcommittee on Communications and Technology.
+- 2019-11-14 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2019-11-14 — Subcommittee Consideration and Mark-up Session Held.
+- 2019-11-20 — Committee Consideration and Mark-up Session Held.
+- 2019-11-20 — Ordered to be Reported (Amended) by Voice Vote.
+- 2019-12-16 — Considered under suspension of the rules. (consideration: CR H10282-10286)
+- 2019-12-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4998.
+- 2019-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-12-16 — Mr. Doyle, Michael F. moved to suspend the rules and pass the bill, as amended.
+- 2019-12-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H10282-10285)
+- 2019-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10282-10285)
+- 2019-12-16 — Placed on the Union Calendar, Calendar No. 281.
+- 2019-12-16 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-352.
+- 2019-12-16 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-352.
+- 2019-12-16 — The title of the measure was amended. Agreed to without objection.
