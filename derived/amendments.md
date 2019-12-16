@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2474
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-51 amendatory instructions. 18 executed, 33 stated and not applied.
+56 amendatory instructions. 19 executed, 37 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,15 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 31 U.S.C. § 1113
+
+> by striking “The Board” and inserting “(1) The Board”; and
+
+| | |
+|---|---|
+| Removed | `The Board` |
+| Inserted | `(1) The Board` |
 
 ### 29 U.S.C. § 158
 
@@ -200,14 +209,18 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 152` | insert | by inserting “and for a majority of the individual’s worktime” after “interest of the employer”; | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 152` | strike | by striking “assign,”; and | the bill quotes the text struck but describes what replaces it |
 | `29 U.S.C. § 152` | strike | by striking “or responsibly to direct them,”. | the bill quotes the text struck but describes what replaces it |
+| `31 U.S.C. § 1113` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 154` | strike | Section 4(a) of the National Labor Relations Act (29 U.S.C. 154(a)) is amended by striking “, or for economic analysis”. | the bill quotes the text struck but describes what replaces it |
-| `29 U.S.C. § 142` | replace | in paragraph (5), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `29 U.S.C. § 142` | replace | in paragraph (5), by striking the period and inserting “;”; and | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 142` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 158` | strike | by striking paragraphs (4) and (7); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 158` | redesignate | by redesignating paragraphs (5) and (6) as paragraphs (4) and (5), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 158` | redesignate | in paragraph (5), as so redesignated, by striking “; and” and inserting a period; | the bill quotes the text struck but describes what replaces it |
 | `29 U.S.C. § 433` | replace | in subsection (c), by striking the period at the end and inserting the following: “: Provided, That it shall be an unfair labor practice under subsection (a)(1) for any employer to require or coerce an employee to attend or participate i… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 158` | redesignate | by redesignating paragraphs (1) through (4) as subparagraphs (A) through (D), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 158` | insert | by inserting “and to maintain current wages, hours, and working conditions pending an agreement” after “arising thereunder”; | the bill quotes the text inserted but describes where it goes |
+| `29 U.S.C. § 158` | insert | by inserting “: Provided, That an employer’s duty to collectively bargain shall continue absent decertification of the labor organization following an election conducted pursuant to section 9” after “making of a concession:”; | the bill quotes the text inserted but describes where it goes |
+| `29 U.S.C. § 158` | insert | by inserting “further” before “, That where there is in effect”; | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 158` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 158` | amend | by amending subsection (e) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 158` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
