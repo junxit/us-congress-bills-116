@@ -1,7 +1,7 @@
 ---
 measure: S. 457
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 457
@@ -105,3 +105,18 @@ President George H.W. Bush and First Spouse Barbara Bush Coin Act
 - 2019-12-16 — Senate amendment agreed to: Amendment SA 1257 agreed to in Senate by Unanimous Consent.
 - 2019-12-16 — Senate amendment proposed (on the floor): Amendment SA 1257 proposed by Senator McConnell for Senator Cornyn.
 - 2019-12-16 — Senate amendment submitted
+- 2019-12-17 — Held at the desk.
+- 2019-12-17 — Message on Senate action sent to the House.
+- 2019-12-17 — Received in the House.
+- 2020-01-13 — Considered under suspension of the rules. (consideration: CR H198-201)
+- 2020-01-13 — DEBATE - The House proceeded with forty minutes of debate on S. 457.
+- 2020-01-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-01-13 — Ms. Waters moved to suspend the rules and pass the bill.
+- 2020-01-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H198)
+- 2020-01-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H198)
+- 2020-01-16 — Presented to President.
+- 2020-01-16 — Presented to President.
+- 2020-01-27 — Became Public Law No: 116-112.
+- 2020-01-27 — Became Public Law No: 116-112.
+- 2020-01-27 — Signed by President.
+- 2020-01-27 — Signed by President.
