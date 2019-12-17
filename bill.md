@@ -25,6 +25,20 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas the heroic actions of the Polish underground resistance during World War II and the brave citizenry of Poland provide a valuable lesson in perseverance and patriotism;
 - Whereas the legacy of the Warsaw Uprising serves as one of the most poignant reminders of the human cost of the Allied war effort during World War II to defeat Adolf Hitler and the German Nazis; and
 - Whereas the bravery demonstrated by the citizens of Poland during the Warsaw Uprising continues to inspire people throughout the world who are subjected to tyranny and oppression and who join the fight for freedom, democracy, and the pursuit of liberty: Now, therefore, be it
+- Whereas, October 2, 2019, marks the 75th anniversary of the tragic conclusion to the Warsaw Uprising, a landmark event during World War II, in which brave citizens of Poland revolted against the German Nazi occupation of the city of Warsaw in the face of daunting and seemingly insurmountable odds;
+- Whereas the Warsaw Uprising, which was part of a nationwide resistance against the German Nazi occupation of Poland and lasted for 63 days, was started by the Polish Home Army, the underground resistance effort that included many young and brave individuals;
+- Whereas the Warsaw Uprising occurred just over a year after the Warsaw Ghetto Uprising in April 1943, which was the single largest act of Jewish resistance against forces of Nazi Germany;
+- Whereas, after the Warsaw Ghetto Uprising, the remaining Jewish Poles from Warsaw were sent to the Treblinka extermination camp, the Majdanek labor camp, or other forced-labor camps;
+- Whereas, beginning August 1, 1944, the Polish Home Army fought against the German Nazi occupation of Warsaw, using mostly homemade weapons and far outnumbered by the overwhelming German Nazi force, at a cost of approximately 200,000 citizens of Poland killed, wounded, or missing;
+- Whereas Adolf Hitler ordered the annihilation of the city of Warsaw and the extermination of its citizens as punishment for the uprising, decimating 80 percent of Warsaw with no regard for the lives of the citizens of Warsaw or for the rich heritage of historic architecture in Warsaw;
+- Whereas a Soviet-led army halted its march toward the city of Berlin at the banks of the Vistula River on the specific orders of Stalin to allow the German Nazis to decimate the Poles;
+- Whereas, throughout the Warsaw Uprising, many people fled the city of Warsaw, remained in hiding, or were wounded or killed, and the surviving population of Warsaw, which once totaled more than 1,300,000 people, was then sent to prisoner of war camps and endured harsh conditions;
+- Whereas, after World War II, thousands of Polish refugees fled from Poland due to persecution and came to the United States for safety, security, and new opportunities;
+- Whereas the deep, rich history and traditions of immigrants from Poland who settled in the United States, particularly in the States of Ohio, New York, Pennsylvania, Michigan, Illinois, and Wisconsin, have undeniably shaped the social fabric and foundation of the United States;
+- Whereas, in the 20th century, Cleveland, Ohio; Buffalo, New York; Pittsburgh, Pennsylvania; Milwaukee, Wisconsin; Detroit, Michigan; and Chicago, Illinois; served as the major epicenters for immigrants and workers from Poland whose remarkable contributions to industry led to the incorporation of new towns and the subsequent growth of those towns;
+- Whereas the heroic actions of the Polish underground resistance during World War II and the brave citizenry of Poland provide a valuable lesson in perseverance and patriotism;
+- Whereas the legacy of the Warsaw Uprising serves as one of the most poignant reminders of the human cost of the Allied war effort during World War II to defeat Adolf Hitler and the German Nazis; and
+- Whereas the bravery demonstrated by the citizens of Poland during the Warsaw Uprising continues to inspire people throughout the world who are subjected to tyranny and oppression and who join the fight for freedom, democracy, and the pursuit of liberty: Now, therefore, be it
 
 That the Senate—
 
