@@ -1,7 +1,7 @@
 ---
 measure: H.R. 617
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 617
@@ -65,3 +65,7 @@ Department of Energy Veterans’ Health Initiative Act
 - 2019-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7179-7180)
 - 2019-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7179-7180)
 - 2019-07-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2019-12-12 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2019-12-17 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. Without written report.
+- 2019-12-17 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. Without written report.
+- 2019-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 344.
