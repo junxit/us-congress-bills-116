@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3362
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3362
@@ -49,3 +49,4 @@ Small Airport Mothers' Rooms Act of 2019
 - 2019-12-16 — Mrs. Fletcher moved to suspend the rules and pass the bill, as amended.
 - 2019-12-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H10280)
 - 2019-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10280)
+- 2019-12-17 — Received in the Senate.
