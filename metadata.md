@@ -1,7 +1,7 @@
 ---
 measure: H.R. 133
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 133
@@ -40,3 +40,7 @@ Consolidated Appropriations Act, 2021
 - 2019-01-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H430-431)
 - 2019-01-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H430-431)
 - 2019-01-11 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2019-12-11 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2019-12-17 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2019-12-17 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2019-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 336.
