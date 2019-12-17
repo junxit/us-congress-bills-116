@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 761
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 761
@@ -29,3 +29,5 @@ Permitting individuals to be admitted to the Hall of the House in order to obtai
 - 2019-12-11 — Introduced in House
 - 2019-12-11 — Introduced in House
 - 2019-12-11 — Referred to the House Committee on Rules.
+- 2019-12-17 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 765, H. Res. 761 is considered passed House.(consideration: CR H10316; text: CR H10316)
+- 2019-12-17 — Pursuant to the provisions of H. Res. 765, H. Res. 761 is considered passed House. (consideration: CR H10316; text: CR H10316)
