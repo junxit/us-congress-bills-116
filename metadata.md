@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 385
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 385
@@ -16,11 +16,14 @@ A resolution celebrating the 30th anniversary of the fall of the Berlin Wall, th
 
 - Sen. Risch, James E. [R-ID] (R000584)
 
-## Cosponsors (3)
+## Cosponsors (6)
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Johnson, Ron [R-WI] (J000293)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Markey, Edward J. [D-MA] (M000133)
 
 ## Committees (1)
 
@@ -30,3 +33,7 @@ A resolution celebrating the 30th anniversary of the fall of the Berlin Wall, th
 
 - 2019-10-24 — Introduced in Senate
 - 2019-10-24 — Referred to the Committee on Foreign Relations.
+- 2019-12-11 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2019-12-17 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with an amended preamble. Without written report.
+- 2019-12-17 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with an amended preamble. Without written report.
+- 2019-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 340.

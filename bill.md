@@ -37,6 +37,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas, since its reunification, Germany has become the world’s fourth largest economy, has served as a leading voice in the European Union (EU), the Group of 7, and the United Nations, and has been consistently rated by Freedom House as one of the world’s freest countries;
 - Whereas the United States and Germany share a close and multidimensional relationship, including security cooperation and an economic and trade partnership;
 - Whereas the United States and Germany share values of freedom, democracy, and human rights and work in tandem to support and uphold these three pillars globally;
+- Whereas Germany demonstrated unconditional solidarity with the United States following the September 11, 2001, attacks and leadership within NATO during the invocation of Article V of the North Atlantic Treaty in recognition that an attack on one is an attack on all;
 - Whereas the 30th anniversary of the fall of the Berlin Wall coincides with the 70th anniversary of the North Atlantic Treaty Organization (NATO) and the 15th anniversary of the European Union “Big Bang”, when 10 mostly post-communist countries joined the EU’s community of democracies;
 - Whereas many former Soviet and communist countries are prospering as a result of their democratic and economic reforms, reflected in their memberships in the EU and NATO; and
 - Whereas the fall of the Berlin Wall signified the end of the division of Europe and, ultimately, the triumph of democracy over communism: Now, therefore, be it
