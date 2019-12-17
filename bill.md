@@ -114,7 +114,7 @@ Section 4502 of title 46, United States Code, is amended—
   - **(1)** Section 4680 of the Revised Statutes of the United States (33 U.S.C. 725).
   - **(2)** Section 4661 of the Revised Statutes of the United States (33 U.S.C. 727).
   - **(3)** Section 4662 of the Revised Statutes of the United States (33 U.S.C. 728).
-  - **(4)** The final paragraph in the account “For Life-Saving and Life-Boat Stations” under the heading Treasury Department in the first section of chapter 130 of the Act of May 3, 1875 (33 U.S.C. 730a).
+  - **(4)** The final paragraph in the account “For Life-Saving and Life-Boat Stations” under the heading Treasury Department in the first section of chapter 130 of the Act of March 3, 1875 (33 U.S.C. 730a).
   - **(5)** Section 11 of chapter 301 of the Act of June 17, 1910 (33 U.S.C. 743).
   - **(6)** Section 3 of chapter 371 of the Act of May 22, 1926 (33 U.S.C. 747a).
   - **(7)** The first section of chapter 313 of the Act of February 25, 1929 (33 U.S.C. 747b).
