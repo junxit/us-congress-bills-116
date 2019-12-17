@@ -1,7 +1,7 @@
 ---
 measure: S. 2668
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 1 executed, 11 stated and not applied.
+30 amendatory instructions. 3 executed, 27 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,6 +33,24 @@ to guess them.
 | Removed | `photovoltaics, and solar thermal energy` |
 | Inserted | `alcohol from biomass, and other technologies` |
 
+### 42 U.S.C. § 12003
+
+> in the section heading, by striking “photovoltaics, and solar thermal” and inserting “alcohol from biomass, and other technology”;
+
+| | |
+|---|---|
+| Removed | `photovoltaics, and solar thermal` |
+| Inserted | `alcohol from biomass, and other technology` |
+
+### 42 U.S.C. § 12003
+
+> in the matter preceding paragraph (1), by striking “photovoltaics, and solar thermal energy” and inserting “alcohol from biomass, and other energy technology”;
+
+| | |
+|---|---|
+| Removed | `photovoltaics, and solar thermal energy` |
+| Inserted | `alcohol from biomass, and other energy technology` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -48,6 +66,22 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5581` | repeal | The Solar Photovoltaic Energy Research, Development, and Demonstration Act of 1978 (42 U.S.C. 5581 et seq.) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 12003` | strike | by striking paragraphs (2) and (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 12003` | redesignate | by redesignating paragraphs (4) and (5) as paragraphs (2) and (3), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16231` | strike | by striking subparagraph (A); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16231` | redesignate | by redesignating subparagraphs (B) through (E) as subparagraphs (A) through (D), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16231` | strike | by striking subsection (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16231` | redesignate | by redesignating subsections (e) through (g) as subsections (d) through (f), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 17174` | repeal | Sections 606 and 607 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17174, 17175) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5551` | repeal | The Solar Energy Research, Development, and Demonstration Act of 1974 (42 U.S.C. 5551 et seq.) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5905` | strike | by striking subparagraph (L); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5905` | redesignate | by redesignating subparagraphs (M) through (S) as subparagraphs (L) through (R), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5581` | repeal | The Solar Photovoltaic Energy Research, Development, and Demonstration Act of 1978 (42 U.S.C. 5581 et seq.) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12003` | strike | by striking paragraphs (2) and (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12003` | redesignate | by redesignating paragraphs (4) and (5) as paragraphs (2) and (3), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12003` | strike | in the matter preceding paragraph (1), by striking “the Photovoltaic Energy Systems Program, the Solar Thermal Energy Systems Program,”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 12003` | strike | by striking subparagraph (A); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12003` | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (A) and (B), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12003` | strike | by striking subparagraph (A); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12003` | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (A) and (B), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16231` | strike | by striking subparagraph (A); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16231` | redesignate | by redesignating subparagraphs (B) through (E) as subparagraphs (A) through (D), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16231` | strike | by striking subsection (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
