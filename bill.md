@@ -1,0 +1,30 @@
+---
+legis-num: S. 3069
+congress: 116th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3069
+
+> To authorize the Secretary of the Interior to correct a land ownership error within the boundary of Rocky Mountain National Park, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Rocky Mountain National Park Ownership Correction Act”.
+
+## § 2. Definitions
+
+In this Act:
+
+- **(1)** *Federal land* The term Federal land means the approximately 0.18 acres of land depicted as “TR04–168–1” on the map.
+- **(2)** *Map* The term map means the map entitled “Rocky Mountain National Park Proposed Forsyth Family Land Exchange”, numbered 121/154,326, and dated June 2019.
+- **(3)** *Non-Federal land* The term non-Federal land means the approximately 0.18 acres of land depicted as “TR04–169” on the map.
+- **(4)** *Secretary* The term Secretary means the Secretary of the Interior.
+
+## § 3. Rocky Mountain National Park land exchange
+
+- **(a)** *Authorization of exchange* To correct a longstanding land ownership error, if the owner of the non-Federal land offers to convey to the Secretary all right, title, and interest of the owner in and to the non-Federal land, the Secretary shall convey to the owner of the non-Federal land, subject to valid existing rights, all right, title, and interest of the United States in and to the Federal land.
+- **(b)** *Valuation* The value of the Federal land and the non-Federal land to be exchanged under this Act shall be considered to be of equal value.
+- **(c)** *Administration* The non-Federal land acquired by the Secretary under this section shall be administered by the Secretary as part of Rocky Mountain National Park
+- **(d)** *Availability of map* The map shall be on file and available for inspection in the appropriate offices of the National Park Service.
