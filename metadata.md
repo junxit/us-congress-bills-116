@@ -1,7 +1,7 @@
 ---
 measure: S. 434
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 434
@@ -16,6 +16,11 @@ A bill to require the collection of certain data relating to Bureau of Land Mana
 
 - Sen. Braun, Mike [R-IN] (B001310)
 
+## Cosponsors (2)
+
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. McSally, Martha [R-AZ] (M001197)
+
 ## Committees (1)
 
 - Senate — Energy and Natural Resources Committee
@@ -24,3 +29,8 @@ A bill to require the collection of certain data relating to Bureau of Land Mana
 
 - 2019-02-11 — Introduced in Senate
 - 2019-02-11 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2019-05-14 — Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 116-323.
+- 2019-12-12 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2019-12-17 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2019-12-17 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2019-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 349.
