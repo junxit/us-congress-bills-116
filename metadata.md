@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4779
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4779
@@ -50,3 +50,14 @@ To extend the Undertaking Spam, Spyware, And Fraud Enforcement With Enforcers be
 - 2019-12-16 — Reported by the Committee on Energy and Commerce. H. Rept. 116-351.
 - 2019-12-16 — Reported by the Committee on Energy and Commerce. H. Rept. 116-351.
 - 2019-12-17 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2020-09-24 — Passed Senate without amendment by Voice Vote.
+- 2020-09-24 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2020-09-24 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2020-09-24 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S5851-5852)
+- 2020-09-29 — Message on Senate action sent to the House.
+- 2020-10-09 — Presented to President.
+- 2020-10-09 — Presented to President.
+- 2020-10-20 — Became Public Law No: 116-173.
+- 2020-10-20 — Became Public Law No: 116-173.
+- 2020-10-20 — Signed by President.
+- 2020-10-20 — Signed by President.

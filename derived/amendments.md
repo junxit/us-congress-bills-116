@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4779
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 
