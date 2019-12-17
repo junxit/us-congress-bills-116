@@ -28,12 +28,13 @@ This Act may be cited as the “Blockchain Promotion Act of 2019”.
     - **(B)** *Representatives of nongovernmental stakeholders*
       - **(i)** *In general* The Secretary shall appoint representatives of nongovernmental stakeholders with respect to blockchain technology to serve as members of the Blockchain Working Group.
       - **(ii)** *Representation of certain stakeholders required* The members of the Blockchain Working Group appointed under clause (i) shall include representatives of—
-        - **(I)** information and communications technology manufacturers, suppliers, software providers, service providers, and vendors;
+        - **(I)** representatives of information and communications technology manufacturers, suppliers, software providers, service providers, and vendors;
         - **(II)** subject matter experts representing industrial sectors, other than the technology sector, that the Secretary determines could use, or benefit from, blockchain technology;
-        - **(III)** small, medium, and large businesses;
-        - **(IV)** individuals and institutions engaged in academic research relating to blockchain technology;
-        - **(V)** nonprofit organizations and consumer advocacy groups engaged in activities relating to blockchain technology; and
-        - **(VI)** rural and urban stakeholders.
+        - **(III)** representatives of small, medium, and large businesses;
+        - **(IV)** individuals and representatives of institutions engaged in academic research relating to blockchain technology;
+        - **(V)** representatives of nonprofit organizations and consumer advocacy groups engaged in activities relating to blockchain technology; and
+        - **(VI)** representatives of rural and urban stakeholders.
+    - **(C)** *No pay for members* A member of the Blockchain Working Group shall serve without pay.
 - **(d)** *Report to Congress*
   - **(1)** *In general* Not later than 1 year after the date of enactment of this Act, the Blockchain Working Group shall submit to Congress a report that contains—
     - **(A)** a recommended definition of the distributed ledger technology commonly known as “blockchain technology”; and
@@ -42,3 +43,4 @@ This Act may be cited as the “Blockchain Promotion Act of 2019”.
       - **(ii)** a study to examine a range of potential applications, including nonfinancial applications, for blockchain technology; and
       - **(iii)** opportunities for Federal agencies to use blockchain technology.
   - **(2)** *Consideration of recommendations in NIST Internal Report 8202* In making recommendations under paragraph (1), the Blockchain Working Group may consider any recommendations contained in National Institute of Standards and Technology Internal Report 8202, entitled “Blockchain Technology Overview” and published in October 2018.
+- **(e)** *Termination* The Blockchain Working Group shall terminate on the date on which the Blockchain Working Group submits to Congress the report under subsection (d)(1).
