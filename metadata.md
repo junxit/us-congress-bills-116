@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4920
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4920
@@ -37,9 +37,10 @@ Department of Veterans Affairs Contracting Preference Consistency Act of 2020
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 - Rep. Brownley, Julia [D-CA-26] (B001285)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ Department of Veterans Affairs Contracting Preference Consistency Act of 2020
 - 2019-12-16 — Mr. Takano moved to suspend the rules and pass the bill.
 - 2019-12-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10270)
 - 2019-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10270)
+- 2019-12-17 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
