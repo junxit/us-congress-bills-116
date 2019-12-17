@@ -2,7 +2,7 @@
 legis-num: H.R. 4779
 congress: 116th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 4779
@@ -21,3 +21,7 @@ Not later than 3 years after the date of the enactment of this Act, the Federal 
 - **(2)** identification of the foreign agencies with which the Commission has cooperated and the results of such cooperation, including any foreign agency enforcement action or lack thereof;
 - **(3)** a description of Commission litigation brought in foreign courts and the results of such litigation; and
 - **(4)** any recommendations for legislation that may advance the mission of the Commission in carrying out the U.S. SAFE WEB Act of 2006 and the amendments made by such Act.
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
