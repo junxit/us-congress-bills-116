@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1865
 congress: 116
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 1865
@@ -327,9 +327,12 @@ Further Consolidated Appropriations Act, 2020
 
 - House — Financial Services Committee
 
-## Recorded votes (1)
+## Recorded votes (4)
 
 - 2019-12-17 — [House 116-1-689](votes/house-116-1-0689.md) — On Motion to Concur in the Senate Amendment with an Amendment — **Passed** (297–120)
+- 2019-12-19 — [Senate 116-1-413](votes/senate-116-1-0413.md) — On the Cloture Motion — **Cloture Motion Agreed to** (71–21)
+- 2019-12-19 — [Senate 116-1-414](votes/senate-116-1-0414.md) — On the Motion — **Motion Agreed to** (64–30)
+- 2019-12-19 — [Senate 116-1-415](votes/senate-116-1-0415.md) — On the Motion — **Motion Agreed to** (71–23)
 
 ## Actions
 
@@ -382,3 +385,28 @@ Further Consolidated Appropriations Act, 2020
 - 2019-12-17 — Senate amendment submitted
 - 2019-12-17 — Senate amendment submitted
 - 2019-12-17 — The previous question was ordered pursuant to the rule.
+- 2019-12-19 — Cloture on the motion to concur in the House amendment to the Senate amendment to H.R.1865 invoked in Senate by Yea-Nay Vote. 71 - 21. Record Vote Number: 413. (CR S7175)
+- 2019-12-19 — Considered by Senate. (consideration: CR S7167, S7171-7178, S7181-7186)
+- 2019-12-19 — Considered by Senate. (consideration: CR S7167, S7186)
+- 2019-12-19 — Considered by Senate. (consideration: CR S7167, S7186)
+- 2019-12-19 — Considered by Senate. (consideration: CR S7167, S7186)
+- 2019-12-19 — Considered by Senate. (consideration: CR S7167, S7186)
+- 2019-12-19 — Considered by Senate. (consideration: CR S7167, S7186)
+- 2019-12-19 — Message on Senate action sent to the House.
+- 2019-12-19 — Motion by Senator McConnell to concur in the House amendment to the Senate amendment to H.R. 1865 with an amendment (SA 1258) withdrawn in Senate by Unanimous Consent.
+- 2019-12-19 — Motion by Senator McConnell to refer to Senate Committee on Appropriations the House message to accompany H.R. 1865 with instructions to report back forthwith with the following amendment (SA 1260) fell when cloture invoked on the motion to concur in the House amendment to the Senate amendment to H.R. 1865 in Senate.
+- 2019-12-19 — Motion to waive all applicable budgetary discipline with respect to the measure (the motion to concur in the House amendment to the Senate amendment to H.R. 1865) agreed to in Senate by Yea-Nay Vote. 64 - 30. Record Vote Number: 414. (CR S7186)
+- 2019-12-19 — Point of order that the motion to concur in the House amendment to the Senate amendment to H.R. 1865 violates section 3101(b) of S.Con.Res. 11, 114th Congress, raised in Senate.
+- 2019-12-19 — Proposed amendment SA 1258 withdrawn in Senate.
+- 2019-12-19 — Resolving differences -- Senate actions: Senate agreed to the House amendment to the Senate amendment to H.R. 1865 by Yea-Nay Vote. 71 - 23. Record Vote Number: 415.
+- 2019-12-19 — SA 1259 fell when SA 1258 withdrawn.
+- 2019-12-19 — SA 1260 (the instructions of the motion to refer) fell when cloture invoked on the motion to concur in the House amendment to the Senate amendment to H.R. 1865.
+- 2019-12-19 — SA 1261 fell when SA 1260 fell.
+- 2019-12-19 — SA 1262 fell when SA 1261 fell.
+- 2019-12-19 — Senate agreed to the House amendment to the Senate amendment to H.R. 1865 by Yea-Nay Vote. 71 - 23. Record Vote Number: 415.
+- 2019-12-20 — Became Public Law No: 116-94.
+- 2019-12-20 — Became Public Law No: 116-94.
+- 2019-12-20 — Presented to President.
+- 2019-12-20 — Presented to President.
+- 2019-12-20 — Signed by President.
+- 2019-12-20 — Signed by President.
