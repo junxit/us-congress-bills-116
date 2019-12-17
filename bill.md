@@ -24,7 +24,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 That the Senate—
 
-- **(1)** commends the Inter-American Foundation on the occasion of the 50th anniversary of its establishment for its significant contributions to strengthening democracy, peace, and economic and social development in Latin American and the Caribbean;
+- **(1)** commends the Inter-American Foundation on the occasion of the 50th anniversary of its establishment for its significant contributions to strengthening democracy, peace, and economic and social development in Latin America and the Caribbean;
 - **(2)** recognizes that the bottom-up approach of the Inter-American Foundation empowers individuals in marginalized and underserved communities to be leaders, entrepreneurs, innovators, and changemakers in development processes;
 - **(3)** recognizes that the Inter-American Foundation advances the foreign policy of the United States Government and contributes directly to the national interests of the United States; and
 - **(4)** commits to continue to support the vital work of the Inter-American Foundation as an independent agency.
