@@ -30,6 +30,7 @@ Section 1001 of the Energy Policy Act of 2005 (42 U.S.C. 16391) is amended—
   >       - **(ii)** Ensuring economic competitiveness.
   >       - **(iii)** Enhancement of domestic energy security and national security.
   >       - **(iv)** Enhancement of domestic jobs.
+  >       - **(v)** Any other missions of the Department, as determined by the Secretary.
   >   - **(4)** *Chief Commercialization Officer*
   >     - **(A)** *In general* The Office shall be headed by an officer, who shall be known as the “Chief Commercialization Officer”, and who shall report directly to, and be appointed by, the Secretary.
   >     - **(B)** *Principal advisor* The Chief Commercialization Officer shall be the principal advisor to the Secretary on all matters relating to technology transfer and commercialization.
@@ -42,7 +43,7 @@ Section 1001 of the Energy Policy Act of 2005 (42 U.S.C. 16391) is amended—
     > - **(D)** *Duties* The Chief Commercialization Officer
 
 - **(3)** by adding at the end of subsection (a) (as amended by paragraph (2)(C)) the following:
-  > - **(5)** *Coordination* In carrying out the mission and activities of the Office, the Chief Commercialization Officer shall coordinate with the senior leadership of the Department, other relevant offices of the Department, National Laboratories, the Technology Transfer Working Group established under subsection (b), the Technology Transfer Policy Board, and other stakeholders (including private industry).
+  > - **(5)** *Coordination* In carrying out the mission and activities of the Office, the Chief Commercialization Officer shall coordinate with the senior leadership of the Department, other relevant program offices of the Department, National Laboratories, the Technology Transfer Working Group established under subsection (b), the Technology Transfer Policy Board, and other stakeholders (including private industry).
 
 - **(4)** by redesignating subsections (d) through (h) as subsections (b) through (f), respectively; and
 - **(5)** in subsection (f) (as so redesignated), by striking “subsection (e)” and inserting “subsection (c)”.
@@ -55,3 +56,19 @@ Not later than 1 year after the date of enactment of this Act, the Secretary of 
 - **(2)** to examine the extent to which the programs identified under paragraph (1) overlap or are duplicative;
 - **(3)** to identify the technologies available to reduce emissions that are not covered by any of the programs identified under paragraph (1); and
 - **(4)** to develop recommendations as to how overlapping or duplicative programs under paragraph (2) may be combined or restructured to be more efficient.
+
+## § 3. Review of applied energy programs
+
+- **(a)** *In general* Not later than 1 year after the date of enactment of this Act, the Secretary of Energy (referred to in this section as the “Secretary”) shall conduct a review of all applied energy research and development programs under the Department of Energy (referred to in this section as the “Department”) that focus on researching and developing technologies that reduce emissions.
+- **(b)** *Requirements* In conducting the review under subsection (a), the Secretary shall—
+  - **(1)** identify each program described in that subsection the mission of which is to research and develop technologies that reduce emissions;
+  - **(2)** determine the type of services provided by each program identified under paragraph (1), such as grants and technical assistance;
+  - **(3)** determine whether there are written program goals for each program identified under paragraph (1);
+  - **(4)** examine the extent to which the programs identified under paragraph (1) overlap or are duplicative; and
+  - **(5)** develop recommendations—
+    - **(A)** as to how any overlapping or duplicative programs identified under paragraph (4) should be restructured or consolidated, including by any necessary legislation;
+    - **(B)** as to how to identify technologies described in paragraph (1) that—
+      - **(i)** are not served by a single program office at the Department; or
+      - **(ii)** the research and development of which may require collaboration with other Federal agencies; and
+    - **(C)** for methods to improve the programs identified under paragraph (1), including by establishing program goals, assessing workforce considerations and technical skills, or increasing collaboration with other Federal agencies and stakeholders (including private industry).
+- **(c)** *Report* Not later than 60 days after the Secretary completes the review under subsection (a), the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committees on Science, Space, and Technology and Energy and Commerce of the House of Representatives a report describing the results of and the recommendations developed under the review.
