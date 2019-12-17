@@ -1,7 +1,7 @@
 ---
 measure: H.R. 759
 congress: 116
-version: Received in Senate
+version: Referred in Senate
 derived: true
 ---
 

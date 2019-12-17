@@ -1,7 +1,7 @@
 ---
 measure: H.R. 759
 congress: 116
-version: Received in Senate
+version: Referred in Senate
 ---
 
 # H.R. 759
@@ -44,9 +44,10 @@ Ysleta del Sur Pueblo and Alabama-Coushatta Tribes of Texas Equal and Fair Oppor
 - Rep. Allred, Colin Z. [D-TX-32] (A000376)
 - Rep. Veasey, Marc A. [D-TX-33] (V000131)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -67,3 +68,4 @@ Ysleta del Sur Pueblo and Alabama-Coushatta Tribes of Texas Equal and Fair Oppor
 - 2019-07-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7361)
 - 2019-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7361)
 - 2019-07-25 — Received in the Senate.
+- 2019-12-17 — Read twice and referred to the Committee on Indian Affairs.
