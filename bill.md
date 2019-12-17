@@ -25,7 +25,14 @@ This Act may be cited as the “ARPA–E Reauthorization Act of 2019”.
 
   - **(2)** in paragraph (2), in the matter preceding subparagraph (A), by striking “energy” and inserting “advanced”.
 - **(b)** *Responsibilities* Section 5012(e)(3)(A) of the America COMPETES Act (42 U.S.C. 16538(e)(3)(A)) is amended by striking “energy”.
-- **(c)** *Reports and roadmaps* Section 5012(h) of the America COMPETES Act (42 U.S.C. 16538(h)) is amended—
+- **(c)** *Awards* Section 5012(f) of the America COMPETES Act (42 U.S.C. 16538(f)) is amended—
+  - **(1)** by striking “In carrying” and inserting the following:
+    > - **(1)** *In general* In carrying
+
+  - **(2)** by adding at the end the following:
+    > - **(2)** *Consideration of prior grants* In awarding a grant under paragraph (1), the Director shall take into account the success or failure of any project carried out by the entity applying for the grant using any prior grant funds awarded to that entity by the Director.
+
+- **(c)(d)** *Reports and roadmaps* Section 5012(h) of the America COMPETES Act (42 U.S.C. 16538(h)) is amended—
   - **(1)** in paragraph (1)—
     - **(A)** by striking “describing projects” and inserting the following:
       > describing—
@@ -39,7 +46,7 @@ This Act may be cited as the “ARPA–E Reauthorization Act of 2019”.
   - **(2)** in paragraph (2)—
     - **(A)** by striking “October 1, 2010, and October 1, 2013” and inserting “October 1, 2021, and every 4 years thereafter”; and
     - **(B)** by striking “3” and inserting “4”.
-- **(d)** *Coordination and nonduplication* Section 5012(i)(1) of the America COMPETES Act (42 U.S.C. 16538(i)(1)) is amended—
+- **(d)(e)** *Coordination and nonduplication* Section 5012(i)(1) of the America COMPETES Act (42 U.S.C. 16538(i)(1)) is amended—
   - **(1)** by striking “that the activities” and inserting the following:
     > that—
     > - **(A)** the activities
@@ -50,12 +57,12 @@ This Act may be cited as the “ARPA–E Reauthorization Act of 2019”.
     >   - **(i)** the prospective award recipient has made a sufficient attempt to secure private financing, as determined by the Director; or
     >   - **(ii)** the project is not independently commercially viable.
 
-- **(e)** *Evaluation* Section 5012(l) of the America COMPETES Act (42 U.S.C. 16538(l)) is amended—
+- **(e)(f)** *Evaluation* Section 5012(l) of the America COMPETES Act (42 U.S.C. 16538(l)) is amended—
   - **(1)** in paragraph (1), by striking “After” and all that follows through “years” and inserting “Not later than 3 years after the date of enactment of the ARPA–E Reauthorization Act of 2019”; and
   - **(2)** in paragraph (2)—
     - **(A)** in the matter preceding subparagraph (A), by striking “shall” and inserting “may”; and
     - **(B)** in subparagraph (A), by striking “the recommendation of the National Academy of Sciences” and inserting “a recommendation”.
-- **(f)** *Authorization of appropriations* Section 5012(o)(2) of the America COMPETES Act (42 U.S.C. 16538(o)(2)) is amended—
+- **(f)(g)** *Authorization of appropriations* Section 5012(o)(2) of the America COMPETES Act (42 U.S.C. 16538(o)(2)) is amended—
   - **(1)** in the matter preceding subparagraph (A), by striking “paragraphs (4) and (5)” and inserting “paragraph (4)”; and
   - **(2)** by striking subparagraphs (A) through (E) and inserting the following:
     > - **(A)** $428,000,000 for fiscal year 2020;
@@ -64,6 +71,6 @@ This Act may be cited as the “ARPA–E Reauthorization Act of 2019”.
     > - **(D)** $651,000,000 for fiscal year 2023; and
     > - **(E)** $750,000,000 for fiscal year 2024.
 
-- **(g)** *Technical amendments* Section 5012 of the America COMPETES Act (42 U.S.C. 16538) is amended—
+- **(g)(h)** *Technical amendments* Section 5012 of the America COMPETES Act (42 U.S.C. 16538) is amended—
   - **(1)** in subsection (g)(3)(A)(iii), by striking “subpart” each place it appears and inserting “subparagraph”; and
   - **(2)** in subsection (o)(4)(B), by striking “(c)(2)(D)” and inserting “(c)(2)(C)”.

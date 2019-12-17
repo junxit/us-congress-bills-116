@@ -1,7 +1,7 @@
 ---
 measure: S. 2714
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-18 amendatory instructions. 9 executed, 9 stated and not applied.
+20 amendatory instructions. 9 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -116,6 +116,8 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `42 U.S.C. § 16538` | replace | in paragraph (1), by striking subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16538` | strike | Section 5012(e)(3)(A) of the America COMPETES Act (42 U.S.C. 16538(e)(3)(A)) is amended by striking “energy”. | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 16538` | replace | by striking “In carrying” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 16538` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16538` | replace | by striking “describing projects” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 16538` | replace | in subparagraph (A) (as so designated), by striking the period at the end and inserting “, including projects that examine topics and technologies closely relating to other activities funded by the Department;” and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 16538` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
