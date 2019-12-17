@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1158
 congress: 116
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 1158
@@ -29,9 +29,11 @@ Consolidated Appropriations Act, 2020
 
 - House — Homeland Security Committee
 
-## Recorded votes (1)
+## Recorded votes (3)
 
 - 2019-12-17 — [House 116-1-690](votes/house-116-1-0690.md) — On Motion to Concur in the Senate Amendment with an Amendment — **Passed** (280–138)
+- 2019-12-19 — [Senate 116-1-427](votes/senate-116-1-0427.md) — On the Cloture Motion — **Cloture Motion Agreed to** (77–16)
+- 2019-12-19 — [Senate 116-1-428](votes/senate-116-1-0428.md) — On the Motion — **Motion Agreed to** (81–11)
 
 ## Actions
 
@@ -90,3 +92,26 @@ Consolidated Appropriations Act, 2020
 - 2019-12-17 — Senate amendment submitted
 - 2019-12-17 — Senate amendment submitted
 - 2019-12-17 — The previous question was ordered pursuant to the rule.
+- 2019-12-19 — Cloture on the motion to concur in the House amendment to the Senate amendment to H.R. 1158 invoked in Senate by Yea-Nay Vote. 77 - 16. Record Vote Number: 427. (CR S7192)
+- 2019-12-19 — Considered by Senate. (consideration: CR S7192)
+- 2019-12-19 — Considered by Senate. (consideration: CR S7192)
+- 2019-12-19 — Considered by Senate. (consideration: CR S7192)
+- 2019-12-19 — Considered by Senate. (consideration: CR S7192)
+- 2019-12-19 — Considered by Senate. (consideration: CR S7192)
+- 2019-12-19 — Considered by Senate. (consideration: CR S7192-7193)
+- 2019-12-19 — Message on Senate action sent to the House.
+- 2019-12-19 — Motion by Senator McConnell to concur in the House amendment to the Senate amendment to H.R. 1158 with an amendment (SA 1263) withdrawn in Senate by Unanimous Consent.
+- 2019-12-19 — Motion by Senator McConnell to refer to Senate Committee on Appropriations the House message to accompany H.R. 1158 with instructions to report back forthwith with the following amendment (SA 1265) fell when cloture invoked on the motion to concur in the House amendment to the Senate amendment to H.R. 1158 in Senate.
+- 2019-12-19 — Proposed amendment SA 1263 withdrawn in Senate.
+- 2019-12-19 — Resolving differences -- Senate actions: Senate agreed to the House amendment to the Senate amendment to H.R. 1185 by Yea-Nay Vote. 81 - 11. Record Vote Number: 428.
+- 2019-12-19 — SA 1264 fell when SA 1263 withdrawn.
+- 2019-12-19 — SA 1265 (the instructions of the motion to refer) fell when cloture invoked on the motion to concur in the House amendment to the Senate amendment to H.R. 1158.
+- 2019-12-19 — SA 1266 fell when SA 1265 fell.
+- 2019-12-19 — SA 1267 fell when SA 1266 fell.
+- 2019-12-19 — Senate agreed to the House amendment to the Senate amendment to H.R. 1185 by Yea-Nay Vote. 81 - 11. Record Vote Number: 428.
+- 2019-12-20 — Became Public Law No: 116-93.
+- 2019-12-20 — Became Public Law No: 116-93.
+- 2019-12-20 — Presented to President.
+- 2019-12-20 — Presented to President.
+- 2019-12-20 — Signed by President.
+- 2019-12-20 — Signed by President.
