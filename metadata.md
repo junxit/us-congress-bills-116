@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2647
 congress: 116
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 2647
@@ -52,3 +52,4 @@ SOFFA Act
 - 2019-12-16 — Placed on the Union Calendar, Calendar No. 277.
 - 2019-12-16 — Reported by the Committee on Energy and Commerce. H. Rept. 116-348.
 - 2019-12-16 — Reported by the Committee on Energy and Commerce. H. Rept. 116-348.
+- 2019-12-17 — Received in the Senate.
