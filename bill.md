@@ -30,6 +30,7 @@ This Act may be cited as the “Promoting American Energy Jobs Act of 2019”.
   - **(1)** *In general* The Council shall—
     - **(A)** conduct a survey of employers in the energy, energy efficiency, and motor vehicle sectors of the economy of the United States; and
     - **(B)** perform an analysis of the employment figures and demographics in those sectors.
+    - **(B)** perform an analysis of the employment figures and demographics in those sectors, including the number of personnel in each sector who devote a substantial portion of working hours, as determined by the Secretary, to compliance matters.
   - **(2)** *Methodology* In conducting the survey and analysis under paragraph (1), the Council shall employ a methodology that—
     - **(A)** was approved in 2016 by the Office of Management and Budget for use in the document entitled “OMB Control Number 1910–5179”;
     - **(B)** uses a representative, stratified sampling of businesses in the United States; and
