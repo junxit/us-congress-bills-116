@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2548
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2548
@@ -41,6 +41,10 @@ Hazard Eligibility and Local Projects Act
 - House — Financial Services Committee
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2019-12-17 — [House 116-1-688](votes/house-116-1-0688.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (409–7)
+
 ## Actions
 
 - 2019-05-07 — Introduced in House
@@ -56,3 +60,11 @@ Hazard Eligibility and Local Projects Act
 - 2019-12-12 — Placed on the Union Calendar, Calendar No. 270.
 - 2019-12-12 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 116-339, Part I.
 - 2019-12-12 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 116-339, Part I.
+- 2019-12-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2019-12-16 — Considered under suspension of the rules. (consideration: CR H10276-10277)
+- 2019-12-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2548.
+- 2019-12-16 — Mrs. Fletcher moved to suspend the rules and pass the bill, as amended.
+- 2019-12-17 — Considered as unfinished business. (consideration: CR H10600)
+- 2019-12-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-12-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 7 (Roll no. 688). (text: 12/16/2019 CR H10276)
+- 2019-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 7 (Roll no. 688).(text: 12/16/2019 CR H10276)
