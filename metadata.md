@@ -1,7 +1,7 @@
 ---
 measure: S. 1228
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1228
@@ -28,3 +28,7 @@ PIRATE Act
 
 - 2019-04-29 — Introduced in Senate
 - 2019-04-29 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2019-05-15 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2019-12-17 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-178.
+- 2019-12-17 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-178.
+- 2019-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 374.
