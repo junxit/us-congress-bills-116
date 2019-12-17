@@ -120,5 +120,6 @@ This Act may be cited as the “Nexus of Energy and Water for Sustainability Act
   >       - **(ii)** a description of any best practices identified by the Secretary as a result of those evaluations.
   >     - **(E)** *Report to congress* The Secretary shall submit to Congress a report containing the results of each evaluation carried out under subparagraph (B).
   > - **(c)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $15,000,000, to remain available until expended.
+  > - **(c)** *Funding* The Secretary shall use funds made available to the Secretary and not otherwise obligated to carry out this section.
 
 - **(b)** *Conforming amendment* The table of contents of the Energy Policy Act of 2005 (Public Law 109–58; 119 Stat. 594) is amended by inserting after the item relating to section 917 the following:

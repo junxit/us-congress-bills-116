@@ -1,7 +1,7 @@
 ---
 measure: S. 2799
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2799
@@ -24,3 +24,7 @@ NEWS Act of 2019
 
 - 2019-11-06 — Introduced in Senate
 - 2019-11-06 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2019-11-19 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2019-12-17 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment. Without written report.
+- 2019-12-17 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment. Without written report.
+- 2019-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 362.
