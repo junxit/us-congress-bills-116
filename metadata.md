@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4229
 congress: 116
-version: Reported in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4229
@@ -110,3 +110,4 @@ Broadband DATA Act
 - 2019-12-16 — Placed on the Union Calendar, Calendar No. 279.
 - 2019-12-16 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-350.
 - 2019-12-16 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-350.
+- 2019-12-17 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 345.
