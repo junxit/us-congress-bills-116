@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4719
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4719
@@ -38,3 +38,11 @@ Funding Instruction for Safety, Health, and Security Avoids Fishing Emergencies 
 - 2019-12-12 — Placed on the Union Calendar, Calendar No. 271.
 - 2019-12-12 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 116-340.
 - 2019-12-12 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 116-340.
+- 2019-12-16 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mrs. Fletcher objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2019-12-16 — Considered under suspension of the rules. (consideration: CR H10278-10280)
+- 2019-12-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4719.
+- 2019-12-16 — Mrs. Fletcher moved to suspend the rules and pass the bill, as amended.
+- 2019-12-17 — Considered as unfinished business. (consideration: CR H10602)
+- 2019-12-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-12-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 12/16/2019 CR H10278-10279)
+- 2019-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: 12/16/2019 CR H10278-10279)
