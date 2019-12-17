@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5140
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-22 amendatory instructions. 0 executed, 22 stated and not applied.
+24 amendatory instructions. 0 executed, 24 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,9 +31,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | by striking “signals, and” and inserting “signals,”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “signals, and” and inserting “signals,”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “, and the carrier provides local-into-local service to all DMAs” after “receiving the secondary transmission”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new sentence: “Failure to reach an agreement with network stations to retransmit their signals shall not be construed to affect compliance with providing local-into-local service to all DMAs if the sate… | the bill names no machine-readable US Code section |
 | — | strike | by striking clauses (ii) and (iii); and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraphs (3), (6)(E), (9), (10), and (13); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (4), (5), (6), (7), (8), (11), (12), and (14) as paragraphs (3) through (10), respectively; | the bill names no machine-readable US Code section |
