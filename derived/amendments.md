@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4229
 congress: 116
-version: Reported in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
