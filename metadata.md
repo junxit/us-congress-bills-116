@@ -1,7 +1,7 @@
 ---
 measure: S. 2368
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2368
@@ -28,3 +28,8 @@ Nuclear Energy Renewal Act of 2019
 
 - 2019-07-31 — Introduced in Senate
 - 2019-07-31 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2019-09-11 — Committee on Energy and Natural Resources Subcommittee on Energy. Hearings held. With printed Hearing: S.Hrg. 116-335.
+- 2019-11-19 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2019-12-17 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2019-12-17 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2019-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 353.

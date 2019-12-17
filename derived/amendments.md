@@ -1,7 +1,7 @@
 ---
 measure: S. 2368
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 2 executed, 7 stated and not applied.
+35 amendatory instructions. 10 executed, 25 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -42,6 +42,78 @@ to guess them.
 | Removed | `Exclusion` |
 | Inserted | `Exclusions` |
 
+### 42 U.S.C. § 16273
+
+> by striking “this section” and inserting “this subsection”;
+
+| | |
+|---|---|
+| Removed | `this section` |
+| Inserted | `this subsection` |
+
+### 42 U.S.C. § 16273
+
+> by striking “minimize environmental” and inserting “improve fuel cycle performance while minimizing the cost and complexity of processing, environmental impacts,”; and
+
+| | |
+|---|---|
+| Removed | `minimize environmental` |
+| Inserted | `improve fuel cycle performance while minimizing the cost and complexity of processing, environmental impacts,` |
+
+### 42 U.S.C. § 16274
+
+> in the section heading, by striking “University nuclear” and inserting “Nuclear”;
+
+| | |
+|---|---|
+| Removed | `University nuclear` |
+| Inserted | `Nuclear` |
+
+### 42 U.S.C. § 16274
+
+> in the matter preceding paragraph (1), by striking “this section” and inserting “this subsection”; and
+
+| | |
+|---|---|
+| Removed | `this section` |
+| Inserted | `this subsection` |
+
+### 42 U.S.C. § 16274
+
+> in the matter preceding paragraph (1), by striking “this section” and inserting “this subsection”; and
+
+| | |
+|---|---|
+| Removed | `this section` |
+| Inserted | `this subsection` |
+
+### 42 U.S.C. § 16274
+
+> in subsection (e), by striking “this section” and inserting “this subsection”;
+
+| | |
+|---|---|
+| Removed | `this section` |
+| Inserted | `this subsection` |
+
+### 42 U.S.C. § 16274
+
+> by striking “this section” and inserting “this subsection”; and
+
+| | |
+|---|---|
+| Removed | `this section` |
+| Inserted | `this subsection` |
+
+### 42 U.S.C. § 16274
+
+> by striking “subsection (b)(2)” and inserting “paragraph (2)(B)”;
+
+| | |
+|---|---|
+| Removed | `subsection (b)(2)` |
+| Inserted | `paragraph (2)(B)` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -58,3 +130,21 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 16352` | replace | by striking “apply to” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 16352` | replace | in subparagraph (A) (as so designated), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 16352` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16272` | replace | Section 952 of the Energy Policy Act of 2005 (42 U.S.C. 16272) is amended by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16272` | add-at-end | Section 952 of the Energy Policy Act of 2005 (42 U.S.C. 16272) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16273` | redesignate | by redesignating subsections (a) through (d) as paragraphs (1), (3), (4), and (5), respectively, and indenting appropriately; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16273` | strike | by striking “the Generation IV”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 16273` | redesignate | by inserting after paragraph (1) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16273` | redesignate | by inserting after paragraph (5) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16273` | redesignate | by inserting before paragraph (1) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16273` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16274` | redesignate | by redesignating paragraphs (1) through (5) as subparagraphs (A) through (E), respectively, and indenting appropriately; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16274` | redesignate | in subsection (c), by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, and indenting appropriately; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16274` | redesignate | by redesignating paragraphs (1) through (4) as subparagraphs (A) through (D), respectively, and indenting appropriately; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16274` | redesignate | by redesignating subsections (a) through (f) as paragraphs (1), (2), (3), (4), (6), and (7), respectively, and indenting appropriately; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16274` | redesignate | by inserting after paragraph (4) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16274` | redesignate | by inserting before paragraph (1) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16274` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16274` | replace | The table of contents of the Energy Policy Act of 2005 (Public Law 109–58; 119 Stat. 600) is amended by striking the item relating to section 954 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16341` | add-at-end | Subtitle H of Title IX of the Energy Policy Act of 2005 (42 U.S.C. 16341 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16341` | insert | The table of contents of the Energy Policy Act of 2005 (Public Law 109–58; 119 Stat. 600) is amended by inserting after the item relating to section 986A the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
