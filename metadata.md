@@ -1,7 +1,7 @@
 ---
 measure: S. 2824
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2824
@@ -20,9 +20,10 @@ Artistic Recognition for Talented Students Act
 
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -32,3 +33,6 @@ Artistic Recognition for Talented Students Act
 - 2019-12-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
 - 2019-12-16 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S7058; text: CR S7058)
 - 2019-12-16 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S7058; text: CR S7058)
+- 2019-12-17 — Message on Senate action sent to the House.
+- 2019-12-17 — Received in the House.
+- 2019-12-17 — Referred to the House Committee on the Judiciary.
