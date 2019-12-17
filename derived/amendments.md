@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1158
 congress: 116
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,13 +14,69 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+10 amendatory instructions. 6 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 28 U.S.C. § 133
+
+> in the second sentence (relating to the District of Kansas), by striking “28 years and 6 months” and inserting “29 years and 6 months”; and
+
+| | |
+|---|---|
+| Removed | `28 years and 6 months` |
+| Inserted | `29 years and 6 months` |
+
+### 28 U.S.C. § 133
+
+> in the sixth sentence (relating to the District of Hawaii), by striking “25 years and 6 months” and inserting “26 years and 6 months”.
+
+| | |
+|---|---|
+| Removed | `25 years and 6 months` |
+| Inserted | `26 years and 6 months` |
+
+### 28 U.S.C. § 133
+
+> Section 406 of the Transportation, Treasury, Housing and Urban Development, the Judiciary, the District of Columbia, and Independent Agencies Appropriations Act, 2006 (Public Law 109–115; 119 Stat. 2470; 28 U.S.C. 133 note) is amended in the second sentence (relating to the eastern District of Missouri) by striking “26 years and 6 months” and inserting “27 years and 6 months”.
+
+| | |
+|---|---|
+| Removed | `26 years and 6 months` |
+| Inserted | `27 years and 6 months` |
+
+### 28 U.S.C. § 133
+
+> in the first sentence by striking “17 years” and inserting “18 years”;
+
+| | |
+|---|---|
+| Removed | `17 years` |
+| Inserted | `18 years` |
+
+### 28 U.S.C. § 133
+
+> in the second sentence (relating to the central District of California), by striking “16 years and 6 months” and inserting “17 years and 6 months”; and
+
+| | |
+|---|---|
+| Removed | `16 years and 6 months` |
+| Inserted | `17 years and 6 months` |
+
+### 28 U.S.C. § 133
+
+> in the third sentence (relating to the western district of North Carolina), by striking “15 years” and inserting “16 years”.
+
+| | |
+|---|---|
+| Removed | `15 years` |
+| Inserted | `16 years` |
 
 ## Stated, not applied
 
@@ -31,8 +87,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `6 U.S.C. § 659` | insert | in subsection (d)(1)(B)(iv), by inserting “, including cybersecurity specialists” after “entities”; | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 659` | redesignate | by redesignating subsections (f) through (m) as subsections (g) through (n), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 659` | insert | by inserting after subsection (e) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 659` | insert | in paragraph (1), by inserting “, or any team or activity of the Center,” after “Center”; and | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 659` | insert | in paragraph (2), by inserting “, or any team or activity of the Center,” after “Center”. | the bill quotes the text inserted but describes where it goes |
+| — | replace | Section 302 of the Universal Service Antideficiency Temporary Suspension Act is amended by striking “December 31, 2019” each place it appears and inserting “December 31, 2020”. | the bill names no machine-readable US Code section |
+| — | amend | Subtitle A of title IV of the Homeland Security Act of 2002 is amended by adding the following new section: | the bill names no machine-readable US Code section |
+| — | amend | The table of contents of the Homeland Security Act of 2002 is amended by adding the following new item after “Sec. 404. Surface Transportation Security Advisory Committee.”: | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (2) by inserting “business” after “fifth”. | the bill names no machine-readable US Code section |
