@@ -78,4 +78,11 @@ Title XI of the Energy Policy Act of 2005 (42 U.S.C. 16411 et seq.) is amended b
 >   - **(2)** *Allocation of funding*
 >     - **(A)** *In general* Subject to subparagraph (B), the Secretary shall allocate to each facility of the Department of Defense participating in the program an amount based on a percentage of how many participants enroll in courses at the facility.
 >     - **(B)** *Applications* A facility of the Department of Defense participating in the program and desiring funding under subparagraph (A) shall annually submit an application for such funding.
-> - **(h)** *Report* Not later than 1 year after the date on which the program is established, and annually thereafter, the Secretary shall submit to Congress a report describing the activities carried out under, and accomplishments of, the program.
+> - **(f)** *Establishment of industry-Recognized certification and training programs* For purposes of subsection (d), if an appropriate industry-recognized certification and training program does not exist, the Secretary shall establish a grant program to assist the industry in developing such an industry-recognized certification and training program.
+> - **(h)(g)** *Report* Not later than 1 year after the date on which the program is established, and annually thereafter, the Secretary shall submit to Congress a report describing the activities carried out under, and accomplishments of, the program.program, including—
+>   - **(1)** the number of veterans enrolled in the program;
+>   - **(2)** the regional distribution of those veterans;
+>   - **(3)** the cost of certification under the program;
+>   - **(4)** the rate of job placement;
+>   - **(5)** the rate of job retention; and
+>   - **(6)** the average salaries of veterans who were enrolled in the program.
