@@ -1,7 +1,7 @@
 ---
 measure: S. 1310
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1310
@@ -29,3 +29,7 @@ Organization of American States Legislative Engagement Act of 2020
 
 - 2019-05-02 — Introduced in Senate
 - 2019-05-02 — Read twice and referred to the Committee on Foreign Relations.
+- 2019-12-11 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2019-12-17 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2019-12-17 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2019-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 333.
