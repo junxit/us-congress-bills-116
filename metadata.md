@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4779
 congress: 116
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4779
@@ -25,9 +25,10 @@ To extend the Undertaking Spam, Spyware, And Fraud Enforcement With Enforcers be
 - Rep. Joyce, John [R-PA-13] (J000302)
 - Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ To extend the Undertaking Spam, Spyware, And Fraud Enforcement With Enforcers be
 - 2019-12-16 — Placed on the Union Calendar, Calendar No. 280.
 - 2019-12-16 — Reported by the Committee on Energy and Commerce. H. Rept. 116-351.
 - 2019-12-16 — Reported by the Committee on Energy and Commerce. H. Rept. 116-351.
+- 2019-12-17 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
