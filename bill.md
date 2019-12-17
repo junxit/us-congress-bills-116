@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 1865
-congress: 116th CONGRESS
-session: 1st Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Sixteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 1865
 
-That the House agree to the amendment of the Senate to the bill (H.R. 1865) entitled “An Act to require the Secretary of the Treasury to mint a coin in commemoration of the opening of the National Law Enforcement Museum in the District of Columbia, and for other purposes.”, with the following
-
-*At the end of the Senate amendment, add the following:*
+> Making further consolidated appropriations for the fiscal year ending September 30, 2020, and for other purposes.
 
 ## § 1. Short Title
 
