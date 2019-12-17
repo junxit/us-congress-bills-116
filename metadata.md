@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4227
 congress: 116
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4227
@@ -67,9 +67,10 @@ Mapping Accuracy Promotes Services Act
 - Rep. Hurd, Will [R-TX-23] (H001073)
 - Rep. O'Halleran, Tom [D-AZ-1] (O000171)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -91,3 +92,4 @@ Mapping Accuracy Promotes Services Act
 - 2019-12-16 — Placed on the Union Calendar, Calendar No. 278.
 - 2019-12-16 — Reported by the Committee on Energy and Commerce. H. Rept. 116-349.
 - 2019-12-16 — Reported by the Committee on Energy and Commerce. H. Rept. 116-349.
+- 2019-12-17 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
