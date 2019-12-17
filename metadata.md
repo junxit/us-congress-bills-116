@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3172
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3172
@@ -37,9 +37,10 @@ Safe Sleep for Babies Act of 2019
 - Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
 - Rep. Garcia, Jesus G. "Chuy" [D-IL-4] (G000586)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -62,3 +63,4 @@ Safe Sleep for Babies Act of 2019
 - 2019-12-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H10294)
 - 2019-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10294)
 - 2019-12-16 — The title of the measure was amended. Agreed to without objection.
+- 2019-12-17 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
