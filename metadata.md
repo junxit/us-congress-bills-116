@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2744
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2744
@@ -48,3 +48,7 @@ USAID Branding Modernization Act
 - 2019-07-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 1 (Roll no. 475). (text: CR H5786)
 - 2019-07-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 1 (Roll no. 475).(text: CR H5786)
 - 2019-07-16 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2019-12-11 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2019-12-17 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2019-12-17 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2019-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 369.
