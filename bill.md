@@ -112,7 +112,8 @@ In this Act:
     - **(A)** *In general* The steering committee shall set the agenda of the steering committee in carrying out the duties of the steering committee under paragraph (2).
     - **(B)** *Suggestions* The working group may suggest topics or items for the steering committee to study, and the steering committee shall take those suggestions into consideration in carrying out the duties of the steering committee.
     - **(C)** *Report* The steering committee shall ensure that the report submitted under paragraph (4) is the result of the independent judgment of the steering committee.
-  - **(6)** *Termination* The steering committee shall terminate on the date on which the working group submits the report under subsection (f) unless, on or before that date, the Secretary files a new charter for the steering committee under section 9(c) of the Federal Advisory Committee Act (5 U.S.C. App.).
+  - **(6)** *No compensation for members* A member of the steering committee shall serve without compensation.
+  - **(6) (7)** *Termination* The steering committee shall terminate on the date on which the working group submits the report under subsection (f) unless, on or before that date, the Secretary files a new charter for the steering committee under section 9(c) of the Federal Advisory Committee Act (5 U.S.C. App.).
 - **(f)** *Report to Congress*
   - **(1)** *In general* Not later than 18 months after the date of enactment of this Act, the working group shall submit to Congress a report that includes—
     - **(A)** the findings and recommendations of the working group with respect to the duties of the working group under subsection (b);
