@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1865
 congress: 116
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 1865
@@ -327,6 +327,10 @@ Further Consolidated Appropriations Act, 2020
 
 - House — Financial Services Committee
 
+## Recorded votes (1)
+
+- 2019-12-17 — [House 116-1-689](votes/house-116-1-0689.md) — On Motion to Concur in the Senate Amendment with an Amendment — **Passed** (297–120)
+
 ## Actions
 
 - 2019-03-25 — Introduced in House
@@ -347,3 +351,34 @@ Further Consolidated Appropriations Act, 2020
 - 2019-11-12 — Senate amendment agreed to: Amendment SA 1244 agreed to in Senate by Unanimous Consent.
 - 2019-11-12 — Senate amendment proposed (on the floor): Amendment SA 1244 proposed by Senator Inhofe for Senator Blunt.
 - 2019-11-12 — Senate amendment submitted
+- 2019-11-13 — Message on Senate action sent to the House.
+- 2019-11-19 — ORDER OF BUSINESS - Mr. McGovern asked unanimous consent that it be in order at any time to take from the Speaker's table the bill H.R. 1865, with the Senate amendment thereto, and to consider in the House, without intervention of any point of order, a motion offered by the chair of the Committee on Appropriations or her designee that the House concur in the Senate amendment submitted for printing by Representative Lowey of New York in the portion of the Congressional Record designated for that purpose in clause 8 of rule XVIII; that the Senate amendment and the motion be considered as read; that the motion be debatable for one hour equally divided and controlled by the chair and ranking minority member of the Committee on Appropriations; that the previous question be considered as ordered on the motion to adoption without intervening motion or demand for division of the question; and that House Resolution 708 be laid on the table. Objection was                heard.
+- 2019-12-17 — Amendment SA 1258 proposed by Senator McConnell. (consideration: CR S7087; text: CR S7087) To change the enactment date.
+- 2019-12-17 — Amendment SA 1259 proposed by Senator McConnell to Amendment SA 1258. (consideration: CR S7087-7088; text: CR S7087-7088) Of a perfecting nature.
+- 2019-12-17 — Amendment SA 1260 proposed by Senator McConnell. (consideration: CR S7088; text: CR S7088) To change the enactment date.
+- 2019-12-17 — Amendment SA 1261 proposed by Senator McConnell to Amendment SA 1260 (the instructions of the motion to refer). (consideration: CR S7088; text: CR S7088) Of a perfecting nature.
+- 2019-12-17 — Amendment SA 1262 proposed by Senator McConnell to Amendment SA 1261. (consideration: CR S7088; text: CR S7088) Of a perfecting nature.
+- 2019-12-17 — Cloture motion on the motion to concur in the House amendment to the Senate amendment to H.R. 1865 presented in Senate. (CR S7087)
+- 2019-12-17 — DEBATE - The House proceeded with one hour of debate on the motion that the House agree to the Senate amendment, with an amendment to the bill H.R. 1865.
+- 2019-12-17 — Measure laid before Senate by unanimous consent. (consideration: CR S7087-7088)
+- 2019-12-17 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2019-12-17 — Motion by Senator McConnell to concur in the House amendment to the Senate amendment to H.R. 1865 made in Senate. (CR S7087)
+- 2019-12-17 — Motion by Senator McConnell to concur in the House amendment to the Senate amendment to H.R. 1865 with an amendment (SA 1258) made in Senate. (CR S7087)
+- 2019-12-17 — Motion by Senator McConnell to refer to Senate Committee on Appropriations the House message to accompany H.R. 1865 with instructions to report back forthwith with the following amendment (SA 1260) made in Senate. (CR S7088)
+- 2019-12-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-12-17 — Mrs. Lowey moved that the House agree with an amendment to the Senate amendment. (consideration: CR H10386-10600, H10600-10601)
+- 2019-12-17 — On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 297 - 120 (Roll No. 689). (text: CR H10387-10587)
+- 2019-12-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the motion to agree to the Senate amendment with an amendment, the Chair put the question on the motion and by voice vote, announced that the ayes had prevailed. Mrs. Granger demanded the yeas and nays and the Chair postponed further proceedings on the motion until a time to be announced.
+- 2019-12-17 — Pursuant to the provisions of H. Res. 765, Mrs. Lowey moved to agree in the Senate amendment to H.R. 1865 with an amendment consisting of the text of Rules Committee Print 116-44.
+- 2019-12-17 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 297 - 120 (Roll No. 689).(text: CR H10387-10587)
+- 2019-12-17 — Senate amendment proposed (on the floor): Amendment SA 1258 proposed by Senator McConnell.(consideration: CR S7087; text: CR S7087)
+- 2019-12-17 — Senate amendment proposed (on the floor): Amendment SA 1259 proposed by Senator McConnell to Amendment SA 1258.(consideration: CR S7087-7088; text: CR S7087-7088)
+- 2019-12-17 — Senate amendment proposed (on the floor): Amendment SA 1260 proposed by Senator McConnell.
+- 2019-12-17 — Senate amendment proposed (on the floor): Amendment SA 1261 proposed by Senator McConnell to Amendment SA 1260 (the instructions of the motion to refer).
+- 2019-12-17 — Senate amendment proposed (on the floor): Amendment SA 1262 proposed by Senator McConnell to Amendment SA 1261.
+- 2019-12-17 — Senate amendment submitted
+- 2019-12-17 — Senate amendment submitted
+- 2019-12-17 — Senate amendment submitted
+- 2019-12-17 — Senate amendment submitted
+- 2019-12-17 — Senate amendment submitted
+- 2019-12-17 — The previous question was ordered pursuant to the rule.
