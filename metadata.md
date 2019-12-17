@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 447
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 447
@@ -16,13 +16,15 @@ A resolution expressing serious concern about widespread irregularities in Boliv
 
 - Sen. Risch, James E. [R-ID] (R000584)
 
-## Cosponsors (5)
+## Cosponsors (7)
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Gardner, Cory [R-CO] (G000562)
 
 ## Committees (1)
 
@@ -32,3 +34,7 @@ A resolution expressing serious concern about widespread irregularities in Boliv
 
 - 2019-12-04 — Introduced in Senate
 - 2019-12-04 — Referred to the Committee on Foreign Relations. (text: CR S6860)
+- 2019-12-11 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2019-12-17 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2019-12-17 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2019-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 341.
