@@ -20,8 +20,7 @@ This Act may be cited as the “Hazard Eligibility and Local Projects Act”.
     - **(A)** complies with all other eligibility requirements of the hazard mitigation assistance program for acquisition or relocation projects, including extinguishing all incompatible encumbrances; and
     - **(B)** complies with all Federal requirements for the project.
   - **(2)** *Costs incurred* An entity seeking assistance under a hazard mitigation assistance program shall be responsible for any project costs incurred by the entity for a covered project if the covered project is not awarded, or is determined to be ineligible for, assistance.
-- **(b)** *Applicability* This section shall apply to any application for assistance for a covered project submitted on or after January 1, 2016.
-- **(c)** *Definitions* In this section, the following definitions apply:
+- **(b)** *Definitions* In this section, the following definitions apply:
   - **(1)** *Covered project* The term “covered project” means—
     - **(A)** an acquisition or relocation project for which an entity began implementation prior to grant award under a hazard mitigation assistance program; and
     - **(B)** a project for which an entity initiated planning or construction before or after requesting assistance for the project under a hazard mitigation assistance program qualifying for a categorical exemption under the National Environmental Policy Act.
@@ -29,3 +28,4 @@ This Act may be cited as the “Hazard Eligibility and Local Projects Act”.
     - **(A)** the predisaster hazard mitigation grant program authorized under section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133);
     - **(B)** the hazard mitigation grant program authorized under section 404 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170c); and
     - **(C)** the flood mitigation assistance program authorized under section 1366 of the National Flood Insurance Act of 1968 (42 U.S.C. 4104c).
+- **(c)** *Applicability* This section shall apply to funds appropriated on or after the date of enactment of this Act.
