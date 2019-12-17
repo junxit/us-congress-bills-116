@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4998
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4998
@@ -47,3 +47,12 @@ Secure and Trusted Communications Networks Act of 2019
 - 2019-12-16 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-352.
 - 2019-12-16 — The title of the measure was amended. Agreed to without objection.
 - 2019-12-17 — Received in the Senate, read twice.
+- 2020-02-27 — Message on Senate action sent to the House.
+- 2020-02-27 — Passed Senate without amendment by Voice Vote. (consideration: CR S1236)
+- 2020-02-27 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2020-03-03 — Presented to President.
+- 2020-03-03 — Presented to President.
+- 2020-03-12 — Became Public Law No: 116-124.
+- 2020-03-12 — Became Public Law No: 116-124.
+- 2020-03-12 — Signed by President.
+- 2020-03-12 — Signed by President.
