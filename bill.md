@@ -17,7 +17,7 @@ This Act may be cited as the “Identifying Barriers and Best Practices Study Ac
 
 - **(a)** *In general* Not later than 36 months after the date of the enactment of this Act, the Comptroller General of the United States shall complete a study on disability and pension benefits provided to members of the National Guard and members of reserve components of the Armed Forces by the Department of Veterans Affairs. In conducting such study, the Comptroller General shall review, for the period beginning on January 1, 2008, and ending on December 31, 2018, each of the following:
   - **(1)** The number of members of the National Guard and the number of members of reserve components of the Armed Forces who received disability compensation or pension provided by the Department of Veterans Affairs.
-  - **(2)** A comparison of each of the following between veterans who served in the National Guard or reserve components and veterans who served in the regular components of the Armed Forces:
+  - **(2)** A comparison of each of the following between veterans who served only in the National Guard or reserve components and veterans who served in the regular components of the Armed Forces:
     - **(A)** The percentage of each group of such veterans with service-connected disabilities.
     - **(B)** The number of veterans in each group with each disability rating.
     - **(C)** The number of veterans in each group with a service-connected disability, including the number of each of the following types of such veterans in each group:
