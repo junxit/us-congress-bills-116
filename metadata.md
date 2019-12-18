@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2726
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2726
@@ -21,9 +21,10 @@ Banning Smoking on Amtrak Act of 2019
 - Rep. Moore, Gwen [D-WI-4] (M001160)
 - Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Banning Smoking on Amtrak Act of 2019
 - 2019-12-17 — Motion to reconsider laid on the table Agreed to without objection.
 - 2019-12-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 12/16/2019 CR H10275)
 - 2019-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: 12/16/2019 CR H10275)
+- 2019-12-18 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
