@@ -1,7 +1,7 @@
 ---
 measure: S. 2399
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,5 +32,8 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 16511` | add-at-end | Section 1701 of the Energy Policy Act of 2005 (42 U.S.C. 16511) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16512` | insert | in subsection (a), by inserting “, including projects receiving financial support or credit enhancements from a State energy financing institution,” after “for projects”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 16512` | insert | in subsection (d)(1), by inserting “, including a guarantee for a project receiving financial support or credit enhancements from a State energy financing institution,” after “No guarantee”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 16512` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16512` | insert | in subsection (a), by inserting “or to a State energy financing institution” after “for projects”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 16512` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

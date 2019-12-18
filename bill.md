@@ -20,10 +20,15 @@ chamber: IN THE SENATE OF THE UNITED STATES
   >   - **(B)** *Inclusion* The term State energy financing institution includes an entity or organization established to achieve the purposes described in clauses (i) and (ii) of subparagraph (A) by an Indian Tribal entity or an Alaska Native Corporation.
 
 - **(b)** *Terms and conditions* Section 1702 of the Energy Policy Act of 2005 (42 U.S.C. 16512) is amended—
+  - **(1)** in subsection (a), by inserting “, including projects receiving financial support or credit enhancements from a State energy financing institution,” after “for projects”;
+  - **(2)** in subsection (d)(1), by inserting “, including a guarantee for a project receiving financial support or credit enhancements from a State energy financing institution,” after “No guarantee”; and
+  - **(3)** by adding at the end the following:
   - **(1)** in subsection (a), by inserting “or to a State energy financing institution” after “for projects”; and
   - **(2)** by adding at the end the following:
     > - **(l)** *State energy financing institutions*
     >   - **(1)** *Eligibility* To be eligible for a guarantee under this title, a State energy financing institution—
+    > - **(l)** *State energy financing institutions*
+    >   - **(1)** *Eligibility* To be eligible for a guarantee under this title, a project receiving financial support or credit enhancements from a State energy financing institution—
     >     - **(A)** shall meet the requirements of section 1703(a)(1); and
     >     - **(B)** shall not be required to meet the requirements of section 1703(a)(2).
     >   - **(2)** *Partnerships authorized* In carrying out a project receiving a loan guarantee under this title, State energy financing institutions may enter into partnerships with private entities, Tribal entities, and Alaska Native corporations.
