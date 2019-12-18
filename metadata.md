@@ -1,7 +1,7 @@
 ---
 measure: S. 2660
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2660
@@ -28,3 +28,8 @@ Wind Energy Research and Development Act of 2019
 
 - 2019-10-22 — Introduced in Senate
 - 2019-10-22 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2019-11-06 — Committee on Energy and Natural Resources Subcommittee on Energy. Hearings held. With printed Hearing: S.Hrg. 116-344.
+- 2019-12-12 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2019-12-18 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments and an amendment to the title. Without written report.
+- 2019-12-18 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments and an amendment to the title. Without written report.
+- 2019-12-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 387.
