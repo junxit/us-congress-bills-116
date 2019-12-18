@@ -33,11 +33,20 @@ Congress finds that—
 ## § 3. Boundary adjustment; land acquisition; administration
 
 - **(a)** *Boundary adjustment* Section 507(c)(1) of the National Parks and Recreation Act of 1978 (16 U.S.C. 460kk(c)(1)) is amended, in the first sentence, by striking ““Santa Monica Mountains National Recreation Area and Santa Monica Mountains Zone, California, Boundary Map”, numbered 80,047–C and dated August 2001” and inserting ““Rim of the Valley Unit—Santa Monica Mountains National Recreation Area” and dated October 2017”.
+
+## § 2. Boundary adjustment; land acquisition; administration
+
+- **(a)** *Boundary adjustment*
+  - **(1)** *Maps* Section 507(c)(1) of the National Parks and Recreation Act of 1978 (16 U.S.C. 460kk(c)(1)) is amended, in the first sentence, by striking “and dated August 2001, which shall” and inserting “, and dated August 2001 (referred to in this section as the “2001 map”) and the areas generally depicted as the “Rim of the Valley Unit Proposed Addition” on the map entitled “Rim of the Valley Unit, Santa Monica Mountain National Recreation Area”, numbered 638/147,723, and dated September 2018 (referred to in this section as the “2018 map”). The 2001 map and the 2018 map shall”.
+  - **(2)** *Conforming amendments* Section 507 of the National Parks and Recreation Act of 1978 (16 U.S.C. 460kk) is amended—
+    - **(A)** in subsection (c)(2)(A), in the fourth sentence, by striking “boundary map referred to in paragraph (1)” and inserting “2001 map”;
+    - **(B)** in subsection (n)(1), by striking “map referred to in subsection (c) of this section” and inserting “2001 map”; and
+    - **(C)** in subsection (o), by striking “map referred to in subsection (c) of this section” and inserting “2001 map”.
 - **(b)** *Rim of the valley unit* Section 507 of the National Parks and Recreation Act of 1978 (16 U.S.C. 460kk) is amended by adding at the end the following:
   > - **(u)** *Rim of the valley unit*
   >   - **(1)** *Definitions* In this subsection:
   >     - **(A)** *State* The term “State” means the State of California.
-  >     - **(B)** *Unit* The term “Unit” means the Rim of the Valley Unit included within the boundaries of the recreation area, as depicted on the map described in subsection (c)(1).
+  >     - **(B)** *Unit* The term “Unit” means the Rim of the Valley Unit included within the boundaries of the recreation area, as depicted on the map described in subsection (c)(1)2018 map.
   >     - **(C)** *Utility facility* The term utility facility means—
   >       - **(i)** electric substations, communication facilities, towers, poles, and lines;
   >       - **(ii)** ground wires;
@@ -60,7 +69,7 @@ Congress finds that—
   >       - **(xiii)** hydropower projects;
   >       - **(xiv)** transmission facilities; and
   >       - **(xv)** other ancillary facilities, groundwater recharge facilities, water conservation, water filtration plants, and other water diversion, conservation, groundwater recharge, storage, and carriage structures.
-  >   - **(2)** *Boundaries* Not later than 3 years after the date of enactment of this subsection, the Secretary shall update the general management plan for the recreation area developed under subsection (t) to reflect the boundaries designated on the map referred to in subsection (c)(1) to include the area known as the “Rim of the Valley Unit”.
+  >   - **(2)** *Boundaries* Not later than 3 years after the date of enactment of this subsection, the Secretary shall update the general management plan for the recreation area developed under subsection (t) to reflect the boundaries designated on the map referred to in subsection (c)(1)2018 map to include the area known as the “Rim of the Valley Unit”.
   >   - **(3)** *Administration* Subject to valid existing rights, the Secretary shall administer the Unit and any land or interest in land acquired by the United States located within the boundaries of the Unit—
   >     - **(A)** as part of the recreation area; and
   >     - **(B)** in accordance with—
