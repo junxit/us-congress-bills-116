@@ -1,7 +1,7 @@
 ---
 measure: S. 774
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 774
@@ -28,3 +28,8 @@ Rim of the Valley Corridor Preservation Act
 
 - 2019-03-13 — Introduced in Senate
 - 2019-03-13 — Read twice and referred to the Committee on Energy and Natural Resources. (Sponsor introductory remarks on measure: CR S1849)
+- 2019-06-19 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 116-308.
+- 2019-12-12 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2019-12-18 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments. Without written report.
+- 2019-12-18 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments. Without written report.
+- 2019-12-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 380.

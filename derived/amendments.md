@@ -1,7 +1,7 @@
 ---
 measure: S. 774
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 1 executed, 1 stated and not applied.
+6 amendatory instructions. 5 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,6 +32,42 @@ to guess them.
 |---|---|
 | Removed | `Santa Monica Mountains National Recreation Area and Santa Monica Mountains Zone, California, Boundary Map, numbered 80,047–C and dated August 2001` |
 | Inserted | `Rim of the Valley Unit—Santa Monica Mountains National Recreation Area and dated October 2017` |
+
+### 16 U.S.C. § 460kk
+
+> Section 507(c)(1) of the National Parks and Recreation Act of 1978 (16 U.S.C. 460kk(c)(1)) is amended, in the first sentence, by striking “and dated August 2001, which shall” and inserting “, and dated August 2001 (referred to in this section as the 2001 map) and the areas generally depicted as the Rim of the Valley Unit Proposed Addition on the map entitled Rim of the Valley Unit, Santa Monica Mountain National Recreation Area, numbered 638/147,723, and dated September 2018 (referred to in this section as the 2018 map). The 2001 map and the 2018 map shall”.
+
+| | |
+|---|---|
+| Removed | `and dated August 2001, which shall` |
+| Inserted | `, and dated August 2001 (referred to in this section as the 2001 map) and the areas generally depicted as the Rim of the Valley Unit Proposed Addition on the map entitled Rim of the Valley Unit, Santa Monica Mountain National Recreation Area, numbered 638/147,723, and dated September 2018 (referred to in this section as the 2018 map). The 2001 map and the 2018 map shall` |
+
+### 16 U.S.C. § 460kk
+
+> in subsection (c)(2)(A), in the fourth sentence, by striking “boundary map referred to in paragraph (1)” and inserting “2001 map”;
+
+| | |
+|---|---|
+| Removed | `boundary map referred to in paragraph (1)` |
+| Inserted | `2001 map` |
+
+### 16 U.S.C. § 460kk
+
+> in subsection (n)(1), by striking “map referred to in subsection (c) of this section” and inserting “2001 map”; and
+
+| | |
+|---|---|
+| Removed | `map referred to in subsection (c) of this section` |
+| Inserted | `2001 map` |
+
+### 16 U.S.C. § 460kk
+
+> in subsection (o), by striking “map referred to in subsection (c) of this section” and inserting “2001 map”.
+
+| | |
+|---|---|
+| Removed | `map referred to in subsection (c) of this section` |
+| Inserted | `2001 map` |
 
 ## Stated, not applied
 
