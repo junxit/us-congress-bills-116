@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1768
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1768
@@ -30,9 +30,10 @@ Diesel Emissions Reduction Act of 2019
 - Rep. Calvert, Ken [R-CA-42] (C000059)
 - Rep. McNerney, Jerry [D-CA-9] (M001166)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -48,3 +49,5 @@ Diesel Emissions Reduction Act of 2019
 - 2019-09-09 — Mr. Rush moved to suspend the rules and pass the bill.
 - 2019-09-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 295 - 114 (Roll no. 516). (text: CR H7541)
 - 2019-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 295 - 114 (Roll no. 516).(text: CR H7541)
+- 2019-09-10 — Received in the Senate.
+- 2019-12-18 — Read twice and referred to the Committee on Environment and Public Works.
