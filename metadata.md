@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4183
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4183
@@ -29,9 +29,10 @@ Identifying Barriers and Best Practices Study Act
 - Rep. Lee, Susie [D-NV-3] (L000590)
 - Rep. Massie, Thomas [R-KY-4] (M001184)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Identifying Barriers and Best Practices Study Act
 - 2019-12-17 — Motion to reconsider laid on the table Agreed to without objection.
 - 2019-12-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 1 (Roll no. 685). (text: 12/16/2019 CR H10271)
 - 2019-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 1 (Roll no. 685).(text: 12/16/2019 CR H10271)
+- 2019-12-18 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
