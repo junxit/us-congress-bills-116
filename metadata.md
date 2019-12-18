@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2548
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2548
@@ -36,10 +36,11 @@ Hazard Eligibility and Local Projects Act
 - Rep. Crenshaw, Dan [R-TX-2] (C001120)
 - Rep. Rouda, Harley [D-CA-48] (R000616)
 
-## Committees (2)
+## Committees (3)
 
 - House — Financial Services Committee
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -64,3 +65,4 @@ Hazard Eligibility and Local Projects Act
 - 2019-12-17 — Motion to reconsider laid on the table Agreed to without objection.
 - 2019-12-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 7 (Roll no. 688). (text: 12/16/2019 CR H10276)
 - 2019-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 7 (Roll no. 688).(text: 12/16/2019 CR H10276)
+- 2019-12-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
