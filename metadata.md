@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4183
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4183
@@ -53,3 +53,14 @@ Identifying Barriers and Best Practices Study Act
 - 2019-12-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 1 (Roll no. 685). (text: 12/16/2019 CR H10271)
 - 2019-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 1 (Roll no. 685).(text: 12/16/2019 CR H10271)
 - 2019-12-18 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2020-10-01 — Passed Senate without amendment by Unanimous Consent.
+- 2020-10-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-10-01 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2020-10-01 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S6031)
+- 2020-10-06 — Message on Senate action sent to the House.
+- 2020-10-20 — Presented to President.
+- 2020-10-20 — Presented to President.
+- 2020-10-30 — Became Public Law No: 116-187.
+- 2020-10-30 — Became Public Law No: 116-187.
+- 2020-10-30 — Signed by President.
+- 2020-10-30 — Signed by President.
