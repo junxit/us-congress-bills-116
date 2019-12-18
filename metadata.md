@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 260
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 260
@@ -16,7 +16,7 @@ A resolution recognizing the importance of sustained United States leadership to
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 
-## Cosponsors (27)
+## Cosponsors (41)
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Boozman, John [R-AR] (B001236)
@@ -45,6 +45,20 @@ A resolution recognizing the importance of sustained United States leadership to
 - Sen. Jones, Doug [D-AL] (J000300)
 - Sen. Merkley, Jeff [D-OR] (M001176)
 - Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
 
 ## Committees (1)
 
@@ -54,3 +68,7 @@ A resolution recognizing the importance of sustained United States leadership to
 
 - 2019-06-24 — Introduced in Senate
 - 2019-06-24 — Referred to the Committee on Foreign Relations. (text: CR S4460)
+- 2019-12-11 — Committee on Foreign Relations. Ordered to be reported with amendments favorably.
+- 2019-12-18 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
+- 2019-12-18 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
+- 2019-12-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 379.
