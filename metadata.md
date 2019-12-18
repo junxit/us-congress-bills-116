@@ -1,7 +1,7 @@
 ---
 measure: S. 153
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 153
@@ -16,7 +16,7 @@ Supporting Veterans in STEM Careers Act
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 
-## Cosponsors (11)
+## Cosponsors (12)
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Daines, Steve [R-MT] (D000618)
@@ -29,6 +29,7 @@ Supporting Veterans in STEM Careers Act
 - Sen. Peters, Gary C. [D-MI] (P000595)
 - Sen. Cramer, Kevin [R-ND] (C001096)
 - Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
 
 ## Committees (1)
 
@@ -42,3 +43,5 @@ Supporting Veterans in STEM Careers Act
 - 2019-12-05 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-164.
 - 2019-12-05 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-164.
 - 2019-12-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 314.
+- 2019-12-18 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7164-7165)
+- 2019-12-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S7164-7165)

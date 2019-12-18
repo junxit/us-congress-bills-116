@@ -57,18 +57,26 @@ In this Act:
 
 - **(g)** *Graduate traineeships in computer and network security research update* Section 5(c)(6)(C) of the Cyber Security Research and Development Act (15 U.S.C. 7404(c)(6)(C)) is amended by inserting “or veterans” after “disciplines”.
 - **(h)** *Veterans and military families STEM education interagency working group*
-  - **(1)** *In general* The Director of the Office of Science and Technology Policy shall establish an interagency working group to coordinate Federal programs and policies for transitioning and training veterans and military spouses for STEM careers.
-  - **(2)** *Duties of interagency working group* The interagency working group established under paragraph (1) shall—
-    - **(A)** coordinate any Federal agency STEM outreach activities and programs for veterans and military spouses; and
-    - **(B)** develop and facilitate the implementation by participating agencies of a strategic plan, which shall—
-      - **(i)** specify and prioritize short- and long-term objectives;
-      - **(ii)** specify the common metrics that will be used by Federal agencies to assess progress toward achieving such objectives;
-      - **(iii)** identify barriers veterans face in reentering the workforce, including a lack of formal STEM education, career guidance, and the process of transferring military credits and skills to college credits;
-      - **(iv)** identify barriers military spouses face in establishing careers in STEM fields;
-      - **(v)** describe the approaches that each participating agency will take to address administratively the barriers described in clauses (iii) and (iv); and
-      - **(vi)** identify any barriers that require Federal or State legislative or regulatory changes in order to be addressed.
-  - **(3)** *Duties of OSTP* The Director of the Office of Science and Technology Policy shall encourage and monitor the efforts of the Federal agencies participating in the interagency working group to ensure that the strategic plan required under paragraph (2)(B) is developed and executed effectively and that the objectives of such strategic plan are met.
-  - **(4)** *Report* The Director of the Office of Science and Technology Policy shall—
-    - **(A)** not later than 1 year after the date of enactment of this Act, submit to Congress the strategic plan required under paragraph (2)(B); and
-    - **(B)** include in the annual report required by section 101(d) of the America COMPETES Reauthorization Act of 2010 (42 U.S.C. 6621(d)) a description of any progress made in carrying out the activities described in paragraph (2)(B) of this subsection.
-  - **(5)** *Sunset* The interagency working group established under paragraph (1) shall terminate on the date that is 5 years after the date that it is established.
+  - **(1)** *In general* The Director of the Office of Science and Technology Policy shall establish, or designate, an interagency working group to improve veteran and military spouse equity and representation in STEM fields.
+  - **(2)** *Duties of interagency working group* An interagency working group established under paragraph (1) shall develop and facilitate the implementation by participating agencies of a strategic plan, which shall—
+    - **(A)** specify and prioritize short- and long-term objectives;
+    - **(B)** specify the common metrics that will be used by Federal agencies to assess progress toward achieving such objectives;
+    - **(C)** identify barriers veterans face in reentering the workforce, including a lack of formal STEM education, career guidance, and the process of transferring military credits and skills to college credits;
+    - **(D)** identify barriers military spouses face in establishing careers in STEM fields;
+    - **(E)** describe the approaches that each participating agency will take to address administratively the barriers described in subparagraphs (C) and (D); and
+    - **(F)** identify any barriers that require Federal or State legislative or regulatory changes in order to be addressed.
+  - **(3)** *Report* The Director of the Office of Science and Technology Policy shall—
+    - **(A)** not later than 1 year after the date of enactment of this Act, submit to Congress the strategic plan required under paragraph (2); and
+    - **(B)** include in the annual report required by section 101(d) of the America COMPETES Reauthorization Act of 2010 (42 U.S.C. 6621(d)) a description of any progress made in carrying out the activities described in paragraph (2) of this subsection.
+  - **(4)** *Sunset* An interagency working group established under paragraph (1) shall terminate on the date that is 3 years after the date that it is established.
+
+## § 4. Comptroller General of the United States study and report on barriers faced by student veterans pursuing degrees in science, technology, engineering, or math
+
+- **(a)** *Study* Not later than August 1, 2022, the Comptroller General of the United States shall complete a study on academic success rates of student veterans pursuing covered degrees and barriers faced by such students in pursuing such degrees.
+- **(b)** *Elements* The study required by subsection (a) shall include the following:
+  - **(1)** Assessment of available information on the percentage or number of student veterans pursuing a covered degree with educational assistance furnished under chapter 33 of title 38, United States Code.
+  - **(2)** Assessment of available information on the percentage or number of such students who pursue a covered degree and do not obtain such degree in four or fewer academic years.
+  - **(3)** Identification of the reasons that such students do not obtain such degree in four or fewer academic years and whether such reasons are barriers to obtaining such degrees.
+  - **(4)** Development of recommendations for legislative or administrative action to better align the educational assistance furnished under chapter 33 of title 38, United States Code, with the needs of such students and address the reasons identified under paragraph (3).
+- **(c)** *Report* Not later than August 1, 2022, the Comptroller General shall submit to Congress a report on the findings of the Comptroller General with respect to the study completed under subsection (a), along with recommendations for such legislative or administrative action as the Comptroller General considers appropriate.
+- **(d)** *Definition of covered degree* In this section, the term covered degree means a standard, undergraduate college degree in a field listed under section 3320(b)(4)(A)(i) of title 38, United States Code.
