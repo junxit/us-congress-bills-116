@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4719
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4719
@@ -22,9 +22,10 @@ Funding Instruction for Safety, Health, and Security Avoids Fishing Emergencies 
 - Rep. Pappas, Chris [D-NH-1] (P000614)
 - Rep. Pingree, Chellie [D-ME-1] (P000597)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Funding Instruction for Safety, Health, and Security Avoids Fishing Emergencies 
 - 2019-12-17 — Motion to reconsider laid on the table Agreed to without objection.
 - 2019-12-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 12/16/2019 CR H10278-10279)
 - 2019-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: 12/16/2019 CR H10278-10279)
+- 2019-12-18 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
