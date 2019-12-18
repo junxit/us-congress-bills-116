@@ -1,7 +1,7 @@
 ---
 measure: S. 1890
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1890
@@ -16,12 +16,13 @@ Renew America’s Schools Act of 2019
 
 - Sen. Cortez Masto, Catherine [D-NV] (C001113)
 
-## Cosponsors (4)
+## Cosponsors (5)
 
 - Sen. Merkley, Jeff [D-OR] (M001176)
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 - Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Heinrich, Martin [D-NM] (H001046)
 
 ## Committees (1)
 
@@ -31,3 +32,8 @@ Renew America’s Schools Act of 2019
 
 - 2019-06-18 — Introduced in Senate
 - 2019-06-18 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2019-11-06 — Committee on Energy and Natural Resources Subcommittee on Energy. Hearings held. With printed Hearing: S.Hrg. 116-344.
+- 2019-12-12 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2019-12-18 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. Without written report.
+- 2019-12-18 — Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. Without written report.
+- 2019-12-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 383.
