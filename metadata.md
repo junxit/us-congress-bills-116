@@ -1,7 +1,7 @@
 ---
 measure: S. 2399
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2399
@@ -24,3 +24,7 @@ A bill to amend the Energy Policy Act of 2005 to improve State loan eligibility 
 
 - 2019-07-31 — Introduced in Senate
 - 2019-07-31 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2019-12-12 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2019-12-18 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments. Without written report.
+- 2019-12-18 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with amendments. Without written report.
+- 2019-12-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 386.
