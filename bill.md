@@ -2,7 +2,7 @@
 legis-num: H.R. 3530
 congress: 116th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 3530
@@ -72,4 +72,4 @@ This Act may be cited as the “Improving Confidence in Veterans’ Care Act”.
   - **(2)** *Reports* Not later than 1 year after the date of the enactment of this Act, and annually thereafter for 5 years, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report on the audits conducted under paragraph (1). Each such report shall include a summary of the compliance by each medical center with the matters required by such section 7414.
   - **(3)** *Initial report* The Secretary shall include in the first report submitted under paragraph (2) the following:
     - **(A)** A description of the progress made by the Secretary in implementing such section 7414, including any matters under such section that the Secretary has not fully implemented.
-    - **(B)** An analysis of the feasibility, advisability, and cost of requiring credentialing employees of the Department to be trained by an outside entity and to maintain a credentialing certification.
+    - **(B)** An analysis of the feasibility, advisability, and cost of requiring credentialing employees of the Department to be trained by anoutside entity and to maintain a credentialing certification.
