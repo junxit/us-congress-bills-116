@@ -25,7 +25,7 @@ In this Act:
 ## § 3. Rogue Canyon and Molalla Recreation Areas, Oregon
 
 - **(a)** *Designation of rogue canyon and molalla recreation areas* For the purposes of protecting, conserving, and enhancing the unique and nationally important recreational, ecological, scenic, cultural, watershed, and fish and wildlife values of the areas, the following areas in the State are designated as recreation areas for management by the Secretary in accordance with subsection (c):
-  - **(1)** *Rogue canyon recreation area* The approximately 98,150 acres of Bureau of Land Management land within the boundary generally depicted as the “Rogue Canyon Recreation Area” on the map entitled “Rogue Canyon Recreation Area Wild Rogue Wilderness Additions” and dated October 10, 2018, which is designated as the “Rogue Canyon Recreation Area”.
+  - **(1)** *Rogue canyon recreation area* The approximately 98,150 acres of Bureau of Land Management land within the boundary generally depicted as the “Rogue Canyon Recreation Area” on the map entitled “Rogue Canyon Recreation Area Wild Rogue Wilderness Additions” and dated October 10, 2018dated November 19, 2019, which is designated as the “Rogue Canyon Recreation Area”.
   - **(2)** *Molalla recreation area* The approximately 29,884 acres of Bureau of Land Management land within the boundary generally depicted on the map entitled “Molalla Recreation Area” and dated September 26, 2018, which is designated as the “Molalla Recreation Area”.
 - **(b)** *Maps and legal descriptions*
   - **(1)** *In general* As soon as practicable after the date of enactment of this Act, the Secretary shall prepare a map and legal description of each recreation area designated by subsection (a).
@@ -48,12 +48,35 @@ In this Act:
     - **(A)** entry, appropriation, or disposal under the public land laws;
     - **(B)** location, entry, and patent under the mining laws; and
     - **(C)** disposition under all laws pertaining to mineral leasing, geothermal leasing, or mineral materials.
+  - **(3)** *Wildfire risk assessment* Not later than 280 days after the date of enactment of this Act, the Secretary, in consultation with the Oregon Governor’s Council on Wildfire Response, shall conduct a wildfire risk assessment that covers—
+    - **(A)** the recreation areas designated by subsection (a);
+    - **(B)** the Wild Rogue Wilderness; and
+    - **(C)** any Federal land adjacent to an area described in subparagraph (A) or (B).
+  - **(4)** *Wildfire mitigation plan*
+    - **(A)** *In general* Not later than 1 year after the date on which the wildfire risk assessment is conducted under paragraph (3), the Secretary shall develop a wildfire mitigation plan, based on the wildfire risk assessment, that identifies, evaluates, and prioritizes treatments and other management activities that can be implemented on the Federal land covered by the wildfire risk assessment (other than Federal land designated as a unit of the National Wilderness Preservation System) to mitigate wildfire risk to communities located near the applicable Federal land.
+    - **(B)** *Plan components* The wildfire mitigation plan developed under subparagraph (A) shall include—
+      - **(i)** vegetation management projects (including mechanical treatments to reduce hazardous fuels and improve forest health and resiliency);
+      - **(ii)** evacuation routes for communities located near the applicable Federal land, which shall be developed in consultation with State and local fire agencies; and
+      - **(iii)** strategies for public dissemination of emergency evacuation plans and routes.
+    - **(C)** *Applicable law* The wildfire mitigation plan under subparagraph (A) shall be developed in accordance with—
+      - **(i)** this section; and
+      - **(ii)** any other applicable law.
+  - **(5)** *Road construction*
+    - **(A)** *In general* Except as provided in subparagraph (B) or as the Secretary determines necessary for public safety, no new permanent or temporary roads shall be constructed (other than the repair and maintenance of existing roads) within a recreation area designated by subsection (a).
+    - **(B)** *Temporary roads* Consistent with the purposes of this Act, the Secretary may construct temporary roads within a recreation area designated by subsection (a) to implement the wildfire mitigation plan developed under paragraph (4), unless the temporary road would be within an area designated as a unit of the National Wilderness Preservation System.
+    - **(C)** *Effect* Nothing in this paragraph affects the administration by the Secretary of the Molalla Forest Road in accordance with applicable resource management plans.
+  - **(6)** *Effect on wildfire management* Nothing in this section alters the authority of the Secretary (in cooperation with other Federal, State, and local agencies, as appropriate) to conduct wildland fire operations within a recreation area designated by subsection (a), consistent with the purposes of this Act.
+  - **(7)** *Withdrawal* Subject to valid existing rights, all Federal surface and subsurface land within a recreation area designated by subsection (a) is withdrawn from all forms of—
+    - **(A)** entry, appropriation, or disposal under the public land laws;
+    - **(B)** location, entry, and patent under the mining laws; and
+    - **(C)** disposition under all laws pertaining to mineral leasing, geothermal leasing, or mineral materials.
+  - **(8)** *No effect on wilderness areas* Any wilderness area located within a recreation area designated by subsection (a) shall be administered in accordance with the Wilderness Act (16 U.S.C. 1131 et seq.).
 - **(d)** *Adjacent management* Nothing in this section creates any protective perimeter or buffer zone around a recreation area designated by subsection (a).
 
 ## § 4. Expansion of Wild Rogue Wilderness Area
 
 - **(a)** *Definitions* In this section:
-  - **(1)** *Map* The term map means the map entitled “Rogue Canyon Recreation Area Wild Rogue Wilderness Additions” and dated October 10, 2018.
+  - **(1)** *Map* The term map means the map entitled “Rogue Canyon Recreation Area Wild Rogue Wilderness Additions” and dated October 10, 2018dated November 19, 2019.
   - **(2)** *Wilderness additions* The term Wilderness additions means the land added to the Wild Rogue Wilderness under subsection (b)(1).
 - **(b)** *Expansion of wild rogue wilderness area*
   - **(1)** *Expansion* The approximately 59,512 acres of Federal land in the State generally depicted on the map as “Proposed Wilderness” shall be added to and administered as part of the Wild Rogue Wilderness in accordance with the Endangered American Wilderness Act of 1978 (16 U.S.C. 1132 note; Public Law 95–237), except that—
@@ -63,7 +86,7 @@ In this Act:
     - **(A)** *In general* As soon as practicable after the date of enactment of this Act, the Secretary shall prepare a map and legal description of the wilderness area designated by paragraph (1).
     - **(B)** *Force of law* The map and legal description filed under subparagraph (A) shall have the same force and effect as if included in this section, except that the Secretary may correct typographical errors in the map and legal description.
     - **(C)** *Public availability* The map and legal description filed under subparagraph (A) shall be on file and available for public inspection in the appropriate offices of the Bureau of Land Management and Forest Service.
-  - **(3)** *Fire, insects, and disease* The Secretary may take such measures within the Wilderness additions as the Secretary determines to be necessary for the control of fire, insects, and disease, in accordance with section 4(d)(1) of the Wilderness Act (16 U.S.C. 1131(d)(1)).
+  - **(3)** *Fire, insects, and disease* The Secretary may take such measures within the Wilderness additions as the Secretary determines to be necessary for the control of fire, insects, and disease, in accordance with section 4(d)(1) of the Wilderness Act (16 U.S.C. 1131(d)(1)16 U.S.C. 1133(d)(1)).
   - **(4)** *Withdrawal* Subject to valid existing rights, the Wilderness additions are withdrawn from all forms of—
     - **(A)** entry, appropriation, or disposal under the public land laws;
     - **(B)** location, entry, and patent under the mining laws; and
