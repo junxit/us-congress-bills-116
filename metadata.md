@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5377
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5377
@@ -85,3 +85,24 @@ Restoring Tax Fairness for States and Localities Act
 - 2019-12-13 — Placed on the Union Calendar, Calendar No. 275.
 - 2019-12-13 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 116-345.
 - 2019-12-13 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 116-345.
+- 2019-12-19 — Amendment (A002) offered by Mr. Thompson (CA). (consideration: CR H12283; text: CR H12283)
+- 2019-12-19 — Amendment agreed to by House: On agreeing to the Thompson (CA) amendment (A002) Agreed to by voice vote.
+- 2019-12-19 — Amendment reported by the House Committee on Rules.
+- 2019-12-19 — Considered under the provisions of rule H. Res. 772. (consideration: CR H12270-12284; text: CR H12270-12271)
+- 2019-12-19 — DEBATE - The House proceeded with 10 minutes of debate on the Rice (SC) motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to strike and amend language in sections 2(a), 3(a), 4(a), 4(b)(2), 5(a), and 5(c) of the bill.
+- 2019-12-19 — DEBATE - The House proceeded with further debate on H.R. 5377.
+- 2019-12-19 — DEBATE - The House proceeded with one hour of debate on H.R. 5377.
+- 2019-12-19 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2019-12-19 — House amendment agreed to: On agreeing to the Thompson (CA) amendment (A002) Agreed to by voice vote.
+- 2019-12-19 — House amendment offered
+- 2019-12-19 — House amendment offered
+- 2019-12-19 — House amendment offered/reported by: Amendment (A002) offered by Mr. Thompson (CA).(consideration: CR H12283; text: CR H12283)
+- 2019-12-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2019-12-19 — Mr. Rice (SC) moved to recommit with instructions to the Committee on Ways and Means. (text: CR H12281)
+- 2019-12-19 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2019-12-19 — On agreeing to the Thompson (CA) amendment (A002) Agreed to by voice vote.
+- 2019-12-19 — On motion to recommit with instructions Agreed to by the Yeas and Nays: 388 - 36 (Roll no. 699).
+- 2019-12-19 — On passage Passed by recorded vote: 218 - 206 (Roll no. 700).
+- 2019-12-19 — Passed/agreed to in House: On passage Passed by recorded vote: 218 - 206 (Roll no. 700).
+- 2019-12-19 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2019-12-19 — The previous question was ordered pursuant to the rule.
