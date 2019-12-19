@@ -1,7 +1,7 @@
 ---
 measure: S. 886
 congress: 116
-version: Reference Change Senate
+version: Reported to Senate
 ---
 
 # S. 886
@@ -33,3 +33,7 @@ Indian Water Rights Settlement Extension Act
 - 2019-05-23 — Referred to the Committee on Indian Affairs.
 - 2019-05-23 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
 - 2019-05-23 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2019-07-17 — Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2019-12-19 — Committee on Indian Affairs. Reported by Senator Hoeven with an amendment in the nature of a substitute. With written report No. 116-189.
+- 2019-12-19 — Committee on Indian Affairs. Reported by Senator Hoeven with an amendment in the nature of a substitute. With written report No. 116-189.
+- 2019-12-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 397.
