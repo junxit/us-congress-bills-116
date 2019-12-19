@@ -1,7 +1,7 @@
 ---
 measure: S. 153
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 153
@@ -31,9 +31,11 @@ Supporting Veterans in STEM Careers Act
 - Sen. Hoeven, John [R-ND] (H001061)
 - Sen. Warren, Elizabeth [D-MA] (W000817)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Veterans' Affairs Committee
+- House — Science, Space, and Technology Committee
 
 ## Actions
 
@@ -45,3 +47,7 @@ Supporting Veterans in STEM Careers Act
 - 2019-12-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 314.
 - 2019-12-18 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7164-7165)
 - 2019-12-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S7164-7165)
+- 2019-12-19 — Message on Senate action sent to the House.
+- 2019-12-19 — Received in the House.
+- 2019-12-19 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-12-19 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
