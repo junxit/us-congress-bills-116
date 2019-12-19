@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Dogs as Witness Guardians Act” or the “DAWG Act”.
+This Act may be cited as the “Courthouse Dogs Act”.
 
 ## § 2. Use of certified facility dog for testimony in criminal proceedings
 
