@@ -1,7 +1,7 @@
 ---
 measure: S. 1822
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1822
@@ -97,3 +97,15 @@ Broadband DATA Act
 - 2019-12-12 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-174.
 - 2019-12-12 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-174.
 - 2019-12-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 328.
+- 2019-12-19 — Amendment SA 1268 agreed to in Senate by Unanimous Consent.
+- 2019-12-19 — Amendment SA 1268 proposed by Senator Wicker. (consideration: CR S7180; text: CR S7215-7218) In the nature of a substitute.
+- 2019-12-19 — Held at the desk.
+- 2019-12-19 — Measure laid before Senate by unanimous consent. (consideration: CR S7178-7180)
+- 2019-12-19 — Message on Senate action sent to the House.
+- 2019-12-19 — Passed Senate with an amendment by Unanimous Consent.
+- 2019-12-19 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2019-12-19 — Received in the House.
+- 2019-12-19 — Senate amendment agreed to: Amendment SA 1268 agreed to in Senate by Unanimous Consent.
+- 2019-12-19 — Senate amendment proposed (on the floor): Amendment SA 1268 proposed by Senator Wicker.
+- 2019-12-19 — Senate amendment submitted
+- 2019-12-19 — The committee substitute withdrawn by Unanimous Consent.
