@@ -11,11 +11,15 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Training of State veterans cemetery personnel by National Cemetery Administration
 
-- **(a)** *In general* Section 2408(b)(1) of title 38, United States Code, is amended—
-  - **(1)** in subparagraph (A)—
-    - **(A)** by striking “and (ii) the cost” and inserting “(ii) the cost”; and
-    - **(B)** by inserting “; and (iii) training costs, including travel expenses, associated with attendance at training provided by the National Cemetery Administration” before the semicolon; and
-  - **(2)** in subparagraph (B)—
-    - **(A)** by striking “and (ii) the cost” and inserting “(ii) the cost”; and
-    - **(B)** by inserting “; and (iii) training costs, including travel expenses, associated with attendance at training provided by the National Cemetery Administration” before the period.
-- **(b)** *Applicability* The amendments made by subsection (a) shall apply with respect to a grant awarded under section 2408 of such title on, before, or after the date of the enactment of this Act.
+Section 2408 of title 38, United States Code, is amended—
+
+- **(1)** in subsection (b)(1)—
+  - **(A)** in subparagraph (A)—
+    - **(i)** by striking “and (ii) the cost” and inserting “(ii) the cost”; and
+    - **(ii)** by inserting “; and (iii) training costs, including travel expenses, associated with attendance at training provided by the National Cemetery Administration” before the semicolon; and
+  - **(B)** in subparagraph (B)—
+    - **(i)** by striking “and (ii) the cost” and inserting “(ii) the cost”; and
+    - **(ii)** by inserting “; and (iii) training costs, including travel expenses, associated with attendance at training provided by the National Cemetery Administration” before the period;
+- **(2)** by redesignating subsections (c) through (f) as subsections (d) through (g), respectively; and
+- **(3)** by inserting after subsection (b) the following new subsection (c):
+  > - **(c)** A grant under this section for a purpose described in subparagraph (A) or (B) of subsection (a)(1) may be used, solely or in part, for training costs, including travel expenses, associated with attendance at training provided by the National Cemetery Administration.
