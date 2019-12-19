@@ -27,4 +27,4 @@ This Act may be cited as the “Construction Consensus Procurement Improvement A
     - **(F)** construction or substantial alteration of public buildings or public works.
   - **(2)** The term reverse auction means, with respect to any procurement by an executive agency—
     - **(A)** a real-time auction conducted through an electronic medium among 2 or more offerors who compete by submitting bids for a supply or service contract, or a delivery order, task order, or purchase order under the contract, with the ability to submit revised lower bids at any time before the closing of the auction; and
-    - **(B)** the award of the contract, delivery order, task order, or purchase order to the offeror, in whole or in part, based on the price obtained through the auction process.
+    - **(B)** the award of the contract, delivery order, task order, or purchase order to the offeror is solely based on the price obtained through the auction process.
