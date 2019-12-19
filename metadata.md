@@ -1,7 +1,7 @@
 ---
 measure: S. 1608
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1608
@@ -16,12 +16,13 @@ Promoting Physical Activity for Americans Act
 
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 
-## Cosponsors (4)
+## Cosponsors (5)
 
 - Sen. Brown, Sherrod [D-OH] (B000944)
 - Sen. Sinema, Kyrsten [D-AZ] (S001191)
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
 - Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Murray, Patty [D-WA] (M001111)
 
 ## Committees (1)
 
@@ -35,3 +36,5 @@ Promoting Physical Activity for Americans Act
 - 2019-11-05 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
 - 2019-11-05 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
 - 2019-11-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 286.
+- 2019-12-19 — Passed Senate with an amendment by Voice Vote. (consideration: CR S7239-7240)
+- 2019-12-19 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S7239-7240)
