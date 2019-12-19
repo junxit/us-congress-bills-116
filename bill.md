@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “End Plush Retirements Act”.
+This Act may be cited as the “Members of Congress Pension Opt Out Clarification Act ”.
 
 ## § 2. Making FERS optional for Members
 
