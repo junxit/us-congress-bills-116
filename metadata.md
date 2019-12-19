@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 772
 congress: 116
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.Res. 772
