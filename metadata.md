@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 31
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 31
@@ -61,8 +61,15 @@ A concurrent resolution recognizing the importance and significance of the 2020 
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 - Sen. Murphy, Christopher [D-CT] (M001169)
 
+## Committees (1)
+
+- House — Oversight and Accountability Committee
+
 ## Actions
 
 - 2019-12-18 — Introduced in Senate
 - 2019-12-18 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S7165; text: CR S7163)
 - 2019-12-18 — Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S7165; text: CR S7163)
+- 2019-12-19 — Message on Senate action sent to the House.
+- 2019-12-19 — Received in the House.
+- 2019-12-19 — Referred to the House Committee on Oversight and Reform.
