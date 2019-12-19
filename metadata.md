@@ -1,7 +1,7 @@
 ---
 measure: S. 893
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 893
@@ -16,7 +16,7 @@ Secure 5G and Beyond Act of 2020
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Cosponsors (7)
+## Cosponsors (10)
 
 - Sen. Burr, Richard [R-NC] (B001135)
 - Sen. Warner, Mark R. [D-VA] (W000805)
@@ -25,6 +25,9 @@ Secure 5G and Beyond Act of 2020
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 - Sen. Cotton, Tom [R-AR] (C001095)
 - Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Sullivan, Dan [R-AK] (S001198)
 
 ## Committees (1)
 
@@ -34,3 +37,7 @@ Secure 5G and Beyond Act of 2020
 
 - 2019-03-27 — Introduced in Senate
 - 2019-03-27 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2019-07-24 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2019-12-19 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-184.
+- 2019-12-19 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-184.
+- 2019-12-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 395.
