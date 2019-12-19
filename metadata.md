@@ -1,7 +1,7 @@
 ---
 measure: H.R. 550
 congress: 116
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 550
@@ -16,7 +16,7 @@ No War Against Iran Act
 
 - Rep. Garamendi, John [D-CA-3] (G000559)
 
-## Cosponsors (302)
+## Cosponsors (303)
 
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 - Rep. Brooks, Susan W. [R-IN-5] (B001284)
@@ -320,6 +320,7 @@ No War Against Iran Act
 - Rep. McHenry, Patrick T. [R-NC-10] (M001156)
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 - Rep. Cline, Ben [R-VA-6] (C001118)
+- Sen. Cruz, Ted [R-TX] (C001098)
 
 ## Committees (2)
 
@@ -339,3 +340,13 @@ No War Against Iran Act
 - 2019-09-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7807-7808)
 - 2019-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7807-7808)
 - 2019-09-23 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2019-12-19 — Amendment SA 1273 agreed to in Senate by Unanimous Consent.
+- 2019-12-19 — Amendment SA 1273 proposed by Senator McConnell for Senator Murkowski. (consideration: CR S7232-7233; text: CR S7232-7233) In the nature of a substitute.
+- 2019-12-19 — Measure laid before Senate by unanimous consent. (consideration: CR S7232-7233)
+- 2019-12-19 — Passed Senate with an amendment by Unanimous Consent.
+- 2019-12-19 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2019-12-19 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2019-12-19 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2019-12-19 — Senate amendment agreed to: Amendment SA 1273 agreed to in Senate by Unanimous Consent.
+- 2019-12-19 — Senate amendment proposed (on the floor): Amendment SA 1273 proposed by Senator McConnell for Senator Murkowski.
+- 2019-12-19 — Senate amendment submitted
