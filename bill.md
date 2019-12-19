@@ -9,96 +9,95 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 > To identify and combat corruption in countries, to establish a tiered system of countries with respect to levels of corruption by their governments and their efforts to combat such corruption, and to assess United States assistance to designated countries in order to advance anti-corruption efforts in those countries and better serve United States taxpayers.
 
-## § 1. Short title
+## § 1. Sense of Congress
 
-This Act may be cited as the “Combating Global Corruption Act of 2019”.
+It is the sense of Congress that—
 
-## § 2. Definitions
+- **(1)** it is in the foreign policy interest of the United States to help foreign countries promote good governance and combat public corruption;
+- **(2)** multiple Federal departments and agencies operate programs that promote good governance in foreign countries and enhance such countries’ ability to combat public corruption; and
+- **(3)** the Department of State should—
+  - **(A)** promote coordination among the Federal departments and agencies implementing programs to promote good governance and combat public corruption in foreign countries in order to improve effectiveness and efficiency; and
+  - **(B)** identify areas in which United States efforts to help other countries promote good governance and combat public corruption could be enhanced.
+
+## § 2. Annual assessment
+
+- **(a)** *In general* For each of the fiscal years 2020 through 2026, the Secretary of State shall assess the capacity and commitment of foreign governments to which the United States provides foreign assistance under the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) or the Arms Export Control Act (22 U.S.C. 2751 et seq.) to combat public corruption. Each such assessment shall—
+  - **(1)** utilize independent, third party indicators that measure transparency, accountability, and corruption in the public sector in such countries, including the extent to which public power is exercised for private gain, to identify those countries that are most vulnerable to public corruption;
+  - **(2)** consider, to the extent reliable information is available, whether the government of a country identified under paragraph (1)—
+    - **(A)** has adopted measures to prevent public corruption, such as measures to inform and educate the public, including potential victims, about the causes and consequences of public corruption;
+    - **(B)** has enacted laws and established government structures, policies, and practices that prohibit public corruption;
+    - **(C)** enforces such laws through a fair judicial process;
+    - **(D)** vigorously investigates, prosecutes, convicts, and sentences public officials who participate in or facilitate public corruption, including nationals of such country who are deployed in foreign military assignments, trade delegations abroad, or other similar missions who engage in or facilitate public corruption;
+    - **(E)** prescribes appropriate punishment for serious, significant corruption that is commensurate with the punishment prescribed for serious crimes;
+    - **(F)** prescribes appropriate punishment for significant corruption that provides a sufficiently stringent deterrent and adequately reflects the nature of the offense;
+    - **(G)** convicts and sentences persons responsible for such acts that take place wholly or partly within the country of such government, including, as appropriate, requiring the incarceration of individuals convicted of such acts;
+    - **(H)** holds private sector representatives accountable for their role in public corruption; and
+    - **(I)** addresses threats for civil society to monitor anti-corruption efforts; and
+  - **(3)** further consider—
+    - **(A)** verifiable measures taken by the government of a country identified under paragraph (1) to prohibit government officials from participating in, facilitating, or condoning public corruption, including the investigation, prosecution, and conviction of such officials;
+    - **(B)** the extent to which such government provides access, or, as appropriate, makes adequate resources available, to civil society organizations and other institutions to combat public corruption, including reporting, investigating, and monitoring;
+    - **(C)** the extent to which an independent judiciary or judicial body in such country is responsible for, and effectively capable of, deciding public corruption cases impartially, on the basis of facts and in accordance with law, without any improper restrictions, influences, inducements, pressures, threats, or interferences, whether direct or indirect, from any source or for any reason;
+    - **(D)** the extent to which such government cooperates meaningfully with the United States to strengthen government and judicial institutions and the rule of law to prevent, prohibit, and punish public corruption;
+    - **(E)** the extent to which such government—
+      - **(i)** is assisting in international investigations of transnational public corruption networks and in other cooperative efforts to combat serious, significant corruption, including cooperating with the governments of other countries to extradite corrupt actors;
+      - **(ii)** recognizes the rights of victims of public corruption, ensures their access to justice, and takes steps to prevent such victims from being further victimized or persecuted by corrupt actors, government officials, or others; and
+      - **(iii)** refrains from prosecuting legitimate victims of public corruption or whistleblowers due to such persons having assisted in exposing public corruption, and refrains from other discriminatory treatment of such persons; and
+    - **(F)** contain such other information relating to public corruption as the Secretary of State considers appropriate.
+- **(b)** *Identification* After conducting each assessment under subsection (a), the Secretary of State shall identify, of the countries described in subsection (a)(1)—
+  - **(1)** which countries are meeting minimum standards to combat public corruption;
+  - **(2)** which countries are not meeting such minimum standards, but are making significant efforts to do so; and
+  - **(3)** which countries are not meeting such minimum standards and are not making significant efforts to do so.
+- **(c)** *Report* Except as provided in subsection (d), not later than 180 days after the date of the enactment of this Act, and annually thereafter through fiscal year 2026, the Secretary of State shall submit a report to the appropriate congressional committees, and make such report publicly available. Such report shall—
+  - **(1)** identify the countries described in subsection (a)(1) and paragraphs (2) and (3) of subsection (b);
+  - **(2)** describe the methodology and data utilized in the assessments under subsection (a); and
+  - **(3)** identify the reasons for the identifications referred to in paragraph (1).
+- **(d)** *Briefing in lieu of report* The Secretary of State may waive the requirement to submit and make publicly available a written report under subsection (c) if the Secretary—
+  - **(1)** determines that publication of such report would—
+    - **(A)** undermine existing United States anti-corruption efforts in 1 or more countries; or
+    - **(B)** threaten the national interests of the United States; and
+  - **(2)** provides a briefing to the appropriate congressional committees that—
+    - **(A)** identifies the countries described in subsection (a)(1) and paragraphs (2) and (3) of subsection (b);
+    - **(B)** describes the methodology and data utilized in the assessment under subsection (a); and
+    - **(C)** identifies the reasons for such identifications.
+- **(e)** *Appropriate congressional committee defined* In this section, the term appropriate congressional committees means—
+  - **(1)** the Committee on Foreign Relations of the Senate;
+  - **(2)** the Committee on Appropriations of the Senate;
+  - **(3)** the Committee on Foreign Affairs of the House of Representatives; and
+  - **(4)** the Committee on Appropriations of the House of Representatives.
+
+## § 3. Transparency and accountability
+
+For each country identified under paragraphs (2) and (3) of section 2(b), the Secretary of State, in coordination with the Administrator of the United States Agency for International Development, as appropriate, shall—
+
+- **(1)** ensure that a corruption risk assessment and mitigation strategy is included in the integrated country strategy for such country; and
+- **(2)** utilize appropriate mechanisms to combat corruption in such countries, including by ensuring—
+  - **(A)** the inclusion of anti-corruption clauses in contracts, grants, and cooperative agreements entered into by the Department of State or the United States Agency for International Development for or in such countries, which allow for the termination of such contracts, grants, or cooperative agreements, as the case may be, without penalty if credible indicators of public corruption are discovered;
+  - **(B)** the inclusion of appropriate clawback or flowdown clauses within the procurement instruments of the Department of State and the United States Agency for International Development that provide for the recovery of funds misappropriated through corruption;
+  - **(C)** the appropriate disclosure to the United States Government, in confidential form, if necessary, of the beneficial ownership of contractors, subcontractors, grantees, cooperative agreement participants, and other organizations implementing programs on behalf of the Department of State or the United States Agency for International Development; and
+  - **(D)** the establishment of mechanisms for investigating allegations of misappropriated resources and equipment.
+
+## § 4. Designation of embassy anti-corruption points of contact
+
+- **(a)** *In general* The Secretary of State shall annually designate an anti-corruption point of contact at the United States diplomatic post to each country identified under paragraphs (2) and (3) of section 2(b), or which the Secretary otherwise determines is in need of such a point of contact. The point of contact shall be the chief of mission or the chief of mission's designee.
+- **(b)** *Responsibilities* Each anti-corruption point of contact designated under subsection (a) shall be responsible for coordinating and overseeing the implementation of a whole-of-government approach among the relevant Federal departments and agencies operating programs that—
+  - **(1)** promote good governance in foreign countries; and
+  - **(2)** enhance the ability of such countries—
+    - **(A)** to combat public corruption; and
+    - **(B)** to develop and implement corruption risk assessment tools and mitigation strategies.
+- **(c)** *Training* The Secretary of State shall implement appropriate training for anti-corruption points of contact designated under subsection (a).
+
+## § 5. Definitions
 
 In this Act:
 
-- **(1)** *Appropriate congressional committees* The term appropriate congressional committees means—
-  - **(A)** the Committee on Foreign Relations of the Senate;
-  - **(B)** the Committee on Armed Services of the Senate;
-  - **(C)** the Committee on Appropriations of the Senate;
-  - **(D)** the Committee on Foreign Affairs of the House of Representatives;
-  - **(E)** the Committee on Armed Services of the House of Representatives; and
-  - **(F)** the Committee on Appropriations of the House of Representatives.
-- **(2)** *Corrupt actor* The term corrupt actor means—
-  - **(A)** any foreign person or entity that is a government official or government entity responsible for, or complicit in, an act of corruption; and
-  - **(B)** any company, in which a person or entity described in subparagraph (A) has a significant stake, which is responsible for, or complicit in, an act of corruption.
-- **(3)** *Corruption* The term corruption means the exercise of public power for private gain, including by bribery, nepotism, fraud, or embezzlement.
-- **(4)** *Foreign assistance* The term foreign assistance means assistance made available under—
-  - **(A)** the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.);
-  - **(B)** the Arms Export Control Act (22 U.S.C. 2751 et seq.); or
-  - **(C)** title 10, United States Code.
-- **(5)** *Grand corruption* The term grand corruption means corruption committed at a high level of government that—
+- **(1)** *Corrupt actor* The term corrupt actor means—
+  - **(A)** any foreign person or entity that is a government official or government entity responsible for, or complicit in, an act of public corruption; and
+  - **(B)** any company, in which a person or entity described in subparagraph (A) has a significant stake, which is responsible for, or complicit in, an act of public corruption.
+- **(2)** *Foreign assistance* The term foreign assistance means assistance made available under—
+  - **(A)** the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.); or
+  - **(B)** the Arms Export Control Act (22 U.S.C. 2751 et seq.).
+- **(3)** *Grand corruption* The term grand corruption means public corruption committed at a high level of government that—
   - **(A)** distorts policies or the central functioning of the country; and
   - **(B)** enables leaders to benefit at the expense of the public good.
-- **(6)** *Petty corruption* The term petty corruption means the abuse of entrusted power by low- or mid-level public officials in their interactions with ordinary citizens.
-
-## § 3. Publication of tiered ranking list
-
-- **(a)** *In general* The Secretary of State shall annually publish, on a publicly accessible website, a tiered ranking of all foreign countries.
-- **(b)** *Tier 1 countries* A country shall be ranked as a tier 1 country in the ranking published under subsection (a) if the government of such country is complying with the minimum standards set forth in section 4.
-- **(c)** *Tier 2 countries* A country shall be ranked as a tier 2 country in the ranking published under subsection (a) if the government of such country is making efforts to comply with the minimum standards set forth in section 4, but is not achieving the requisite level of compliance to be ranked as a tier 1 country.
-- **(d)** *Tier 3 countries* A country shall be ranked as a tier 3 country in the ranking published under subsection (a) if the government of such country is making de minimis or no efforts to comply with the minimum standards set forth in section 4.
-
-## § 4. Minimum standards for the elimination of corruption and assessment of efforts to combat corruption
-
-- **(a)** *In general* The government of a country is complying with the minimum standards for the elimination of corruption if the government—
-  - **(1)** has enacted laws and established government structures, policies, and practices that prohibit corruption, including grand corruption and petty corruption;
-  - **(2)** enforces the laws described in paragraph (1) by punishing any person who is found, through a fair judicial process, to have violated such laws;
-  - **(3)** prescribes punishment for grand corruption that is commensurate with the punishment prescribed for serious crimes;
-  - **(4)** prescribes punishment for petty corruption that—
-    - **(A)** provides a sufficiently stringent deterrent; and
-    - **(B)** adequately reflects the nature of the offense; and
-  - **(5)** is making serious and sustained efforts to eliminate corruption.
-- **(b)** *Factors for assessing government efforts To combat corruption* In determining whether a government is making serious and sustained efforts to eliminate corruption, the Secretary of State shall consider—
-  - **(1)** whether the government of the country vigorously investigates and prosecutes acts of corruption and convicts and sentences persons responsible for such acts that take place wholly or partly within such country, including, as appropriate, requiring incarceration of individuals convicted of such acts;
-  - **(2)** whether the government of the country vigorously investigates, prosecutes, convicts, and sentences public officials who participate in or facilitate corruption, including nationals of the country who are deployed in foreign military assignments, trade delegations abroad, or other similar missions, who engage in or facilitate severe forms of corruption;
-  - **(3)** whether the government of the country has adopted measures to prevent corruption, such as measures to inform and educate the public, including potential victims, about the causes and consequences of corruption;
-  - **(4)** what steps the government of the country has taken to prohibit government officials from participating in, facilitating, or condoning corruption, including the investigation, prosecution, and conviction of such officials;
-  - **(5)** the extent to which the country provides access, or, as appropriate, makes adequate resources available, to civil society organizations and other institutions to combat corruption, including reporting, investigating, and monitoring;
-  - **(6)** whether an independent judiciary or judicial body in the country responsible for, and effectively capable of, deciding corruption cases impartially, on the basis of facts and in accordance with the law, without any restrictions, improper influences, inducements, pressures, threats, or interferences (direct or indirect) from any quarter or for any reason;
-  - **(7)** whether the government of the country is assisting in international investigations of transnational corruption networks and in other cooperative efforts to combat grand corruption, including cooperating with the governments of other countries to extradite corrupt actors;
-  - **(8)** whether the government of the country recognizes the rights of victims of corruption, ensures their access to justice, and takes steps to prevent victims from being further victimized or persecuted by corrupt actors, government officials, or others;
-  - **(9)** whether the government of the country refrains from prosecuting victims of corruption or whistleblowers due to such persons having assisted in exposing corruption, and refrains from other discriminatory treatment of such persons; and
-  - **(10)** such other information relating to corruption as the Secretary of State considers appropriate.
-
-## § 5. Transparency and accountability
-
-- **(a)** *In general* Not later than 60 days after publishing the report required under section 3(a), and prior to obligation by any United States agency of foreign assistance to the government of a country ranked as a tier 3 country under section 3(d), the Secretary of State, in coordination with the Administrator of the United States Agency for International Development (referred to in this Act as the “USAID Administrator”) and the Secretary of Defense, as appropriate, shall—
-  - **(1)** conduct a corruption risk assessment and create a corruption mitigation strategy for all United States foreign assistance programs to that country;
-  - **(2)** require the inclusion of anti-corruption clauses for all foreign assistance contracts, grants, and cooperative agreements, which allow for the termination of the contract, grant, or cooperative agreement without penalty if credible indicators of corruption are discovered;
-  - **(3)** require the inclusion of appropriate clawback clauses for all foreign assistance contracts, grants, and cooperative agreements to recover United States taxpayer funds that have been misappropriated from the prime contractor, grantee, or cooperative agreement participant through corruption;
-  - **(4)** require the disclosure of the beneficial ownership of all contractors, subcontractors, grantees, cooperative agreement participants, and other organizations receiving funding from the United States Government for foreign assistance programs; and
-  - **(5)** establish a mechanism for investigating allegations of misappropriated foreign assistance funds or equipment.
-- **(b)** *Exceptions and waiver*
-  - **(1)** *Exceptions* Subsection (a) shall not apply to humanitarian assistance, disaster assistance, or assistance to combat corruption.
-  - **(2)** *Waiver* The Secretary of State, on a program-by-program basis, may waive the requirement to delay foreign assistance under subsection (a) if the Secretary of State certifies to the appropriate congressional committees that such waiver is important to the national security interests of the United States.
-
-## § 6. Resources and reporting requirements
-
-- **(a)** *Annual report*
-  - **(1)** *In general* The Secretary of State shall submit an annual report to the appropriate congressional committees that outlines the resources needed to meet the objectives and reports under sections 3 through 5, including—
-    - **(A)** intelligence data collection needs;
-    - **(B)** personnel needs;
-    - **(C)** information technology requirements; and
-    - **(D)** a description of the bureaucratic structure of the offices within the Department of State and the United States Agency for International Development (“USAID”) that are engaged in anti-corruption activities.
-  - **(2)** *Form* The report submitted under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
-- **(b)** *Online platform* The Secretary of State and the USAID Administrator shall consolidate existing reports with anti-corruption components into one online, public platform, which shall—
-  - **(1)** include—
-    - **(A)** the Human Rights Report;
-    - **(B)** the Fiscal Transparency Report;
-    - **(C)** the Investment Climate Statement reports;
-    - **(D)** the International Narcotics Control Strategy Report; and
-    - **(E)** any other relevant public reports; and
-  - **(2)** link to third-party indicators used by the United States Government to inform policy and programming, such as—
-    - **(A)** the World Bank’s Control of Corruption Indicator;
-    - **(B)** the World Bank’s Actionable Governance Index Data Portal;
-    - **(C)** the International Finance Corporation’s Doing Business surveys;
-    - **(D)** the International Budget Partnership’s Open Budget Index;
-    - **(E)** the Global Integrity Index; and
-    - **(F)** multilateral peer review anti-corruption compliance mechanisms, such as the Organisation for Economic Co-operation and Development’s Working Group on Bribery in International Business Transactions and the United Nations Convention Against Corruption, done at New York October 31, 2003, to further highlight expert international views on country challenges and country efforts.
-- **(c)** *Training* To increase the ability of Department of State and USAID personnel to support anti-corruption as a foreign policy and development priority, and strengthen their ability to design, implement, and evaluate more effective anti-corruption programming around the world, including enhancing skills to better evaluate and mitigate corruption risks in assistance programs, the Secretary of State and the USAID Administrator shall incorporate anti-corruption components into existing Foreign Service and Civil Service training courses.
+- **(4)** *Petty corruption* The term petty corruption means the unlawful exercise of entrusted public power for private gain by low- or mid-level public officials in their interactions with ordinary citizens, including by bribery, nepotism, fraud, or embezzlement.
+- **(5)** *Public corruption* The term public corruption means the unlawful exercise of entrusted public power for private gain, including by bribery, nepotism, fraud, or embezzlement.
