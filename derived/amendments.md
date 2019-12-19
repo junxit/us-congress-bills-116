@@ -1,7 +1,7 @@
 ---
 measure: H.R. 397
 congress: 116
-version: Received in Senate
+version: Placed on Calendar Senate
 derived: true
 ---
 
