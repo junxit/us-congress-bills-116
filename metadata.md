@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5146
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5146
@@ -29,3 +29,8 @@ Unlocking Opportunities for Small Businesses Act of 2019
 - 2019-11-18 — Introduced in House
 - 2019-11-18 — Introduced in House
 - 2019-11-18 — Referred to the House Committee on Small Business.
+- 2019-11-20 — Committee Consideration and Mark-up Session Held.
+- 2019-11-20 — Ordered to be Reported by Voice Vote.
+- 2019-12-19 — Placed on the Union Calendar, Calendar No. 286.
+- 2019-12-19 — Reported by the Committee on Small Business. H. Rept. 116-361.
+- 2019-12-19 — Reported by the Committee on Small Business. H. Rept. 116-361.
