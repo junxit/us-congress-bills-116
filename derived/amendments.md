@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5377
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,7 +26,7 @@ to guess them.
 
 ### 26 U.S.C. § 164
 
-> by striking “For purposes of subparagraph (B)” and inserting “For purposes of this section”,
+> by striking “For purposes of subparagraph (B)” and inserting “For purposes of this section”;
 
 | | |
 |---|---|
@@ -35,7 +35,7 @@ to guess them.
 
 ### 26 U.S.C. § 164
 
-> by striking “January 1, 2018” and inserting “January 1, 2022”,
+> by striking “January 1, 2018” and inserting “January 1, 2022”;
 
 | | |
 |---|---|
@@ -44,7 +44,7 @@ to guess them.
 
 ### 26 U.S.C. § 164
 
-> by striking “December 31, 2017, shall” and inserting “December 31, 2021, shall”, and
+> by striking “December 31, 2017, shall” and inserting “December 31, 2021, shall”; and
 
 | | |
 |---|---|
@@ -53,16 +53,16 @@ to guess them.
 
 ### 26 U.S.C. § 62
 
-> Section 62(a)(2)(D) of the Internal Revenue Code of 1986 is amended by striking “$250” and inserting “$500”.
+> Section 62(a)(2)(D) of the Internal Revenue Code of 1986 is amended by striking “$250” and inserting “$1,000”.
 
 | | |
 |---|---|
 | Removed | `$250` |
-| Inserted | `$500` |
+| Inserted | `$1,000` |
 
 ### 26 U.S.C. § 62
 
-> by striking “2015” and inserting “2019”,
+> by striking “2015” and inserting “2019”;
 
 | | |
 |---|---|
@@ -71,12 +71,12 @@ to guess them.
 
 ### 26 U.S.C. § 62
 
-> by striking “$250” and inserting “$500”, and
+> by striking “$250” and inserting “$1,000”; and
 
 | | |
 |---|---|
 | Removed | `$250` |
-| Inserted | `$500` |
+| Inserted | `$1,000` |
 
 ### 26 U.S.C. § 62
 
@@ -89,12 +89,12 @@ to guess them.
 
 ### 26 U.S.C. § 62
 
-> Section 62(d)(3) of the Internal Revenue Code of 1986, as amended by section 4, is further amended by striking “the $500 amount in subsection (a)(2)(D)” and inserting “the $500 amount in each of subparagraphs (D) and (F) of subsection (a)(2)”.
+> Section 62(d)(3) of the Internal Revenue Code of 1986, as amended by section 4, is further amended by striking “the $1,000 amount in subsection (a)(2)(D)” and inserting “the $1,000 amount in each of subparagraphs (D) and (F) of subsection (a)(2)”.
 
 | | |
 |---|---|
-| Removed | `the $500 amount in subsection (a)(2)(D)` |
-| Inserted | `the $500 amount in each of subparagraphs (D) and (F) of subsection (a)(2)` |
+| Removed | `the $1,000 amount in subsection (a)(2)(D)` |
+| Inserted | `the $1,000 amount in each of subparagraphs (D) and (F) of subsection (a)(2)` |
 
 ### 26 U.S.C. § 1
 
@@ -107,7 +107,7 @@ to guess them.
 
 ### 26 U.S.C. § 1
 
-> by striking “$600,000” each place such term appears and inserting “$479,000”, and
+> by striking “$600,000” each place such term appears and inserting “$479,000”; and
 
 | | |
 |---|---|
@@ -116,7 +116,7 @@ to guess them.
 
 ### 26 U.S.C. § 1
 
-> by striking “$161,379” and inserting “$119,029”,
+> by striking “$161,379” and inserting “$119,029”;
 
 | | |
 |---|---|
@@ -125,7 +125,7 @@ to guess them.
 
 ### 26 U.S.C. § 1
 
-> by striking “$500,000” each place such term appears and inserting “$452,400”, and
+> by striking “$500,000” each place such term appears and inserting “$452,400”; and
 
 | | |
 |---|---|
@@ -134,7 +134,7 @@ to guess them.
 
 ### 26 U.S.C. § 1
 
-> by striking “$149,298” and inserting “$132,638”,
+> by striking “$149,298” and inserting “$132,638”;
 
 | | |
 |---|---|
@@ -143,7 +143,7 @@ to guess them.
 
 ### 26 U.S.C. § 1
 
-> by striking “$500,000” each place such term appears and inserting “$425,800”, and
+> by striking “$500,000” each place such term appears and inserting “$425,800”; and
 
 | | |
 |---|---|
@@ -152,7 +152,7 @@ to guess them.
 
 ### 26 U.S.C. § 1
 
-> by striking “$150,689.50” and inserting “$124,719.50”, and
+> by striking “$150,689.50” and inserting “$124,719.50”; and
 
 | | |
 |---|---|
@@ -161,7 +161,7 @@ to guess them.
 
 ### 26 U.S.C. § 1
 
-> by striking “$300,000” each place such term appears and inserting “$239,500”, and
+> by striking “$300,000” each place such term appears and inserting “$239,500”; and
 
 | | |
 |---|---|
@@ -179,7 +179,7 @@ to guess them.
 
 ### 26 U.S.C. § 1
 
-> in the matter preceding subclause (I), by striking “37 percent” and inserting “39.6 percent”,
+> in the matter preceding subclause (I), by striking “37 percent” and inserting “39.6 percent”;
 
 | | |
 |---|---|
@@ -188,7 +188,7 @@ to guess them.
 
 ### 26 U.S.C. § 1
 
-> in subclause (II), by striking “37-percent bracket” and inserting “39.6-percent bracket”, and
+> in subclause (II), by striking “37-percent bracket” and inserting “39.6-percent bracket”; and
 
 | | |
 |---|---|
@@ -206,7 +206,7 @@ to guess them.
 
 ### 26 U.S.C. § 1
 
-> in clause (i)(II), by striking “paragraph (5)(B)(i)(IV)” and inserting “paragraph (5)(B)(iv)”, and
+> in clause (i)(II), by striking “paragraph (5)(B)(i)(IV)” and inserting “paragraph (5)(B)(iv)”; and
 
 | | |
 |---|---|
@@ -223,7 +223,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `26 U.S.C. § 164` | add-at-end | Section 164(b) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 164` | insert | Section 164(b)(6)(B) of the Internal Revenue Code of 1986 is amended by inserting “in the case of a taxable year beginning before January 1, 2020, or after December 31, 2021,” before “the aggregate amount of taxes”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 164` | add-at-end | Section 164(b) of the Internal Revenue Code of 1986, as amended by section 2, is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 164` | add-at-end | by adding at the end the following: “For purposes of this section, in the case of State or local taxes with respect to any real or personal property paid during a taxable year beginning in 2020 or 2021, the Secretary shall prescribe rule… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 62` | add-at-end | Section 62(a)(2) of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 62` | add-at-end | Section 62(d) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
