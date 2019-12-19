@@ -1,7 +1,7 @@
 ---
 measure: S. 153
 congress: 116
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 153
@@ -51,3 +51,16 @@ Supporting Veterans in STEM Careers Act
 - 2019-12-19 — Received in the House.
 - 2019-12-19 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-12-19 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2020-01-14 — Referred to the Subcommittee on Economic Opportunity.
+- 2020-01-27 — Considered under suspension of the rules. (consideration: CR H550-554)
+- 2020-01-27 — DEBATE - The House proceeded with forty minutes of debate on S. 153.
+- 2020-01-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-01-27 — Mr. McAdams moved to suspend the rules and pass the bill.
+- 2020-01-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H550-551)
+- 2020-01-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H550-551)
+- 2020-02-03 — Presented to President.
+- 2020-02-03 — Presented to President.
+- 2020-02-11 — Became Public Law No: 116-115.
+- 2020-02-11 — Became Public Law No: 116-115.
+- 2020-02-11 — Signed by President.
+- 2020-02-11 — Signed by President.
