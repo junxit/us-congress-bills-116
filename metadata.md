@@ -1,7 +1,7 @@
 ---
 measure: S. 149
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 149
@@ -16,9 +16,10 @@ Stop Senior Scams Act
 
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Tester, Jon [D-MT] (T000464)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Stop Senior Scams Act
 
 - 2019-01-16 — Introduced in Senate
 - 2019-01-16 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2019-07-10 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2019-12-19 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-182.
+- 2019-12-19 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-182.
+- 2019-12-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 393.
