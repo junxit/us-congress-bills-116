@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3642
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -152,7 +152,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `15 U.S.C. § 1681i` | amend | Section 611(a) of the Fair Credit Reporting Act (15 U.S.C. 1681i(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1681i` | insert | Section 611(d) of the Fair Credit Reporting Act (15 U.S.C. 1681i(d)) is amended by inserting “and without charge” after “request of the consumer”. | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 1681i` | insert | Section 611(e) of the Fair Credit Reporting Act (15 U.S.C. 1681i(e)) is amended by inserting “or 603(x)” after “section 603(p)”. | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 1681i` | insert | Section 611(e) of the Fair Credit Reporting Act (15 U.S.C. 1681i(e)) is amended by inserting “or 603(x)” after “section 603(p)” each place such term appears. | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 1681i` | strike | in subsection (c), by striking “unless there is reasonable grounds to believe that it is frivolous or irrevelant,”; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 1681i` | strike | in subparagraph (B), by striking “in the manner required under paragraph (8)(A)”; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 1681i` | strike | in section 623(b)(1)(B), by striking “relevant” before “information”. | the bill quotes the text struck but describes what replaces it |
@@ -174,7 +174,7 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 1681g` | insert | in clause (iii), by inserting “or section 623” after “section 611”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 1681g` | strike | by striking clauses (iv) and (vi); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1681g` | insert | by inserting after clause (iii) the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 1681g` | add-at-end | by adding at the end the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1681g` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1681g` | insert | in subparagraph (C) (as amended by subparagraph (A)) by inserting “and the Commission” after “Bureau”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 1681g` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1681g` | insert | in subsection (d), by inserting “Bureau and the” before “Commission”. | the bill quotes the text inserted but describes where it goes |
