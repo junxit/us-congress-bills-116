@@ -1,7 +1,7 @@
 ---
 measure: S. 3147
 congress: 116
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3147
@@ -24,6 +24,10 @@ Improving Safety and Security for Veterans Act of 2019
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2020-11-16 — [House 116-2-220](votes/house-116-2-0220.md) — On Motion to Suspend the Rules and Pass — **Passed** (394–0)
+
 ## Actions
 
 - 2019-12-19 — Introduced in Senate
@@ -32,3 +36,18 @@ Improving Safety and Security for Veterans Act of 2019
 - 2019-12-23 — Message on Senate action sent to the House.
 - 2019-12-23 — Received in the House.
 - 2019-12-23 — Referred to the House Committee on Veterans' Affairs.
+- 2020-01-14 — Referred to the Subcommittee on Health.
+- 2020-11-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2020-11-16 — Considered as unfinished business. (consideration: CR H5749-5750)
+- 2020-11-16 — Considered under suspension of the rules. (consideration: CR H5746-5748)
+- 2020-11-16 — DEBATE - The House proceeded with forty minutes of debate on S. 3147.
+- 2020-11-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-11-16 — Mrs. Luria moved to suspend the rules and pass the bill.
+- 2020-11-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 394 - 0 (Roll no. 220). (text: CR H5746-5747)
+- 2020-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 394 - 0 (Roll no. 220).(text: CR H5746-5747)
+- 2020-11-24 — Presented to President.
+- 2020-11-24 — Presented to President.
+- 2020-12-04 — Became Public Law No: 116-212.
+- 2020-12-04 — Became Public Law No: 116-212.
+- 2020-12-04 — Signed by President.
+- 2020-12-04 — Signed by President.
