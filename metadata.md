@@ -1,7 +1,7 @@
 ---
 measure: S. 1309
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1309
@@ -28,9 +28,10 @@ Combating Global Corruption Act of 2019
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Wyden, Ron [D-OR] (W000779)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -49,3 +50,6 @@ Combating Global Corruption Act of 2019
 - 2019-12-19 — Senate amendment proposed (on the floor): Amendment SA 1275 proposed by Senator McConnell for Senator Cardin.
 - 2019-12-19 — Senate amendment submitted
 - 2019-12-19 — The committee substitute withdrawn by Unanimous Consent.
+- 2019-12-23 — Message on Senate action sent to the House.
+- 2019-12-23 — Received in the House.
+- 2019-12-23 — Referred to the House Committee on Foreign Affairs.
