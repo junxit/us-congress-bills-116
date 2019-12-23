@@ -1,7 +1,7 @@
 ---
 measure: S. 439
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 439
@@ -20,9 +20,11 @@ Members of Congress Pension Opt Out Clarification Act
 
 - Sen. Scott, Rick [R-FL] (S001217)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
+- House — Committee on House Administration
 
 ## Actions
 
@@ -40,3 +42,7 @@ Members of Congress Pension Opt Out Clarification Act
 - 2019-12-19 — Senate amendment agreed to: Amendment SA 1270 agreed to in Senate by Unanimous Consent.
 - 2019-12-19 — Senate amendment proposed (on the floor): Amendment SA 1270 proposed by Senator McConnell for Senator Cardin.
 - 2019-12-19 — Senate amendment submitted
+- 2019-12-23 — Message on Senate action sent to the House.
+- 2019-12-23 — Received in the House.
+- 2019-12-23 — Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-12-23 — Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
