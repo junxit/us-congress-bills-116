@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3622
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -233,7 +233,7 @@ to guess them.
 
 ### 15 U.S.C. § 1681c-1
 
-> in subparagraph (E), by striking “Upon receiving” and all that follows through “subparagraph (C),” and inserting “Upon receiving a direct request from a consumer for a temporary removal of a security freeze, a consumer reporting agency shall”;
+> in paragraph (3)(E), by striking “Upon receiving” and all that follows through “subparagraph (C),” and inserting “Upon receiving a direct request from a consumer for a temporary removal of a security freeze, a consumer reporting agency shall”; and
 
 | | |
 |---|---|
@@ -242,7 +242,7 @@ to guess them.
 
 ### 15 U.S.C. § 1681c-1
 
-> in clause (i), by striking “initial fraud alert” and inserting “1-year fraud alert”;
+> in clause (ii), by striking “initial fraud alert” and inserting “1-year fraud alert”;
 
 | | |
 |---|---|
@@ -314,7 +314,7 @@ to guess them.
 
 ### 15 U.S.C. § 1681g
 
-> in paragraph (3), by striking “identity theft” and inserting “fraudulent activity”;
+> in paragraph (3)(C), by striking “identity theft” and inserting “fraudulent activity”;
 
 | | |
 |---|---|
@@ -446,7 +446,7 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 1681s` | insert | by inserting after “identity theft” the following: “, fraud, or a related crime, or otherwise are harmed by the unauthorized disclosure of the consumer’s financial or personally identifiable information,”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1681c-1` | strike | Subsection (k) of section 605A (15 U.S.C. 1681c–1(a)) is amended by striking paragraph (4). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1681c-1` | amend | Subsection (k) of section 605A (15 U.S.C. 1681c–1), is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 1681c` | add-at-end | Section 605(a) of the Fair Credit Reporting Act (15 U.S.C. 1681c(a)), as amended by section 102, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1681c` | add-at-end | Section 605(a) of the Fair Credit Reporting Act (15 U.S.C. 1681c(a)), as amended by section 103, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1681a` | add-at-end | Section 603 of the Fair Credit Reporting Act (15 U.S.C. 1681a) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1681` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1681` | insert | in paragraph (4), by inserting after “agencies” the following: “, furnishers, and credit scoring developers”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
