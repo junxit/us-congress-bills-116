@@ -1,7 +1,7 @@
 ---
 measure: S. 2096
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2096
@@ -20,9 +20,10 @@ A bill to amend title 38, United States Code, to authorize States and tribal org
 
 - Sen. Tester, Jon [D-MT] (T000464)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Veterans' Affairs Committee
+- House — Veterans' Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,6 @@ A bill to amend title 38, United States Code, to authorize States and tribal org
 - 2019-12-19 — Senate amendment agreed to: Amendment SA 1272 agreed to in Senate by Unanimous Consent.
 - 2019-12-19 — Senate amendment proposed (on the floor): Amendment SA 1272 proposed by Senator McConnell for Senator Boozman.
 - 2019-12-19 — Senate amendment submitted
+- 2019-12-23 — Message on Senate action sent to the House.
+- 2019-12-23 — Received in the House.
+- 2019-12-23 — Referred to the House Committee on Veterans' Affairs.
