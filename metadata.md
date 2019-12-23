@@ -1,7 +1,7 @@
 ---
 measure: S. 1434
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1434
@@ -20,9 +20,10 @@ Construction Consensus Procurement Improvement Act of 2019
 
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -40,3 +41,6 @@ Construction Consensus Procurement Improvement Act of 2019
 - 2019-12-19 — Senate amendment agreed to: Amendment SA 1269 agreed to in Senate by Unanimous Consent.
 - 2019-12-19 — Senate amendment proposed (on the floor): Amendment SA 1269 proposed by Senator McConnell for Senator Portman.
 - 2019-12-19 — Senate amendment submitted
+- 2019-12-23 — Message on Senate action sent to the House.
+- 2019-12-23 — Received in the House.
+- 2019-12-23 — Referred to the House Committee on Oversight and Reform.
