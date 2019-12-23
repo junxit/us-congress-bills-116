@@ -1,7 +1,7 @@
 ---
 measure: S. 221
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 221
@@ -25,9 +25,10 @@ Department of Veterans Affairs Provider Accountability Act
 - Sen. Daines, Steve [R-MT] (D000618)
 - Sen. Manchin, Joe, III [D-WV] (M001183)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Veterans' Affairs Committee
+- House — Veterans' Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,6 @@ Department of Veterans Affairs Provider Accountability Act
 - 2019-12-19 — Senate amendment agreed to: Amendment SA 1271 agreed to in Senate by Unanimous Consent.
 - 2019-12-19 — Senate amendment proposed (on the floor): Amendment SA 1271 proposed by Senator McConnell for Senator Gardner.
 - 2019-12-19 — Senate amendment submitted
+- 2019-12-23 — Message on Senate action sent to the House.
+- 2019-12-23 — Received in the House.
+- 2019-12-23 — Referred to the House Committee on Veterans' Affairs.
