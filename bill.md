@@ -70,6 +70,6 @@ Congress finds the following:
 
 The amendments made by this Act shall take effect 2 years after the date of the enactment of this Act.
 
-## § 4. General Bureau rulemaking
+## § 4. Consumer Bureau rulemaking
 
 Except as otherwise provided, not later than the end of the 2-year period beginning on the date of the enactment of this Act, the Bureau of Consumer Financial Protection shall issue final rules to implement the amendments made by this Act.
