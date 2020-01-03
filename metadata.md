@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5377
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5377
@@ -71,9 +71,10 @@ Restoring Tax Fairness for States and Localities Act
 - Rep. Davis, Susan A. [D-CA-53] (D000598)
 - Rep. Speier, Jackie [D-CA-14] (S001175)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (2)
 
@@ -111,3 +112,4 @@ Restoring Tax Fairness for States and Localities Act
 - 2019-12-19 — Passed/agreed to in House: On passage Passed by recorded vote: 218 - 206 (Roll no. 700).
 - 2019-12-19 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-12-19 — The previous question was ordered pursuant to the rule.
+- 2020-01-03 — Received in the Senate and Read twice and referred to the Committee on Finance.
