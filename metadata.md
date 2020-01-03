@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5430
 congress: 116
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5430
@@ -20,7 +20,7 @@ United States-Mexico-Canada Agreement Implementation Act
 
 - Rep. McCarthy, Kevin [R-CA-23] (M001165)
 
-## Committees (11)
+## Committees (18)
 
 - House — Oversight and Accountability Committee
 - House — Energy and Commerce Committee
@@ -33,6 +33,13 @@ United States-Mexico-Canada Agreement Implementation Act
 - House — Natural Resources Committee
 - House — Education and the Workforce Committee
 - House — Ways and Means Committee
+- Senate — Foreign Relations Committee
+- Senate — Commerce, Science, and Transportation Committee
+- Senate — Environment and Public Works Committee
+- Senate — Finance Committee
+- Senate — Health, Education, Labor, and Pensions Committee
+- Senate — Budget Committee
+- Senate — Appropriations Committee
 
 ## Recorded votes (1)
 
@@ -95,3 +102,4 @@ United States-Mexico-Canada Agreement Implementation Act
 - 2019-12-19 — Reported by the Committee on Ways and Means. H. Rept. 116-358, Part I.
 - 2019-12-19 — Reported by the Committee on Ways and Means. H. Rept. 116-358, Part I.
 - 2019-12-19 — The previous question was ordered pursuant to a previous  order of the House.
+- 2020-01-03 — Received in the Senate and Read twice and referred jointly to the Committee on Finance; Health, Education, Labor, and Pensions; Environment and Public Works; Appropriations; Foreign Relations; Commerce, Science, and Transportation; the Budget pursuant to section 151(e)(2) of the Trade Act of 1974.
