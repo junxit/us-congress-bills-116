@@ -1,7 +1,7 @@
 ---
 measure: H.R. 317
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 317
@@ -40,3 +40,7 @@ Santa Ynez Band of Chumash Indians Land Affirmation Act of 2019
 - 2019-04-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3292)
 - 2019-04-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3292)
 - 2019-04-30 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2019-11-06 — Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2020-01-06 — Committee on Indian Affairs. Reported by Senator Hoeven with an amendment in the nature of a substitute. With written report No. 116-191.
+- 2020-01-06 — Committee on Indian Affairs. Reported by Senator Hoeven with an amendment in the nature of a substitute. With written report No. 116-191.
+- 2020-01-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 400.
