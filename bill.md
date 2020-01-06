@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2749
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -21,7 +21,7 @@ Congress finds that—
 - **(2)** the .gov internet domain is a unique resource of the United States that reflects the history of innovation and global leadership of the United States;
 - **(3)** when online public services and official communications from any level and branch of government use the .gov domain, they are easily recognized as official and difficult to impersonate;
 - **(4)** the citizens of the United States deserve online public services that are safe, recognizable, and trustworthy;
-- **(5)** the .gov internet domain should be available to any Federal, State, local, or territorial government-operated or publicly controlled entity, including any Tribal government recognized by the Federal Government or a State government, for use in their official services, operations, and communications;
+- **(5)** the .gov internet domain should be available at no cost or a negligible cost to any Federal, State, local, or territorial government-operated or publicly controlled entity, including any Tribal government recognized by the Federal Government or a State government, for use in their official services, operations, and communications;
 - **(6)** the .gov internet domain provides a critical service to those Federal, State, local, Tribal, and territorial governments; and
 - **(7)** the .gov internet domain should be operated transparently and in the spirit of public accessibility, privacy, and security.
 
@@ -54,8 +54,8 @@ In this Act—
       > ## § 2215. Duties and authorities relating to .gov domain
       >
       > - **(a)** *Availability of .gov domain* The Director shall make .gov domain name registration services, as well as any supporting services described in subsection (c), generally available—
-      >   - **(1)** to any Federal, State, local, or territorial government entity, or other publicly controlled entity, including any Tribal government recognized by the Federal Government or a State government, that complies with the policies for registration developed by the Director as described in subsection (b);
-      >   - **(2)** without conditioning registration on the sharing of any information with the Director or any other Federal entity, other than the information required to meet the policies described in subsection (b); and
+      >   - **(1)** to any Federal, State, local, or territorial government entity, or other publicly controlled entity, including any Tribal government recognized by the Federal Government or a State government, that complies with the policiesrequirements for registration developed by the Director as described in subsection (b);
+      >   - **(2)** without conditioning registration on the sharing of any information with the Director or any other Federal entity, other than the information required to meet the policiesrequirements described in subsection (b); and
       >   - **(3)** without conditioning registration on participation in any separate service offered by the Director or any other Federal entity.
       > - **(b)** *Requirements* The Director, in consultation with the Director of the Office of Management and Budget, shall establish and publish on a publicly available website requirements for the registration and operation of .gov domains sufficient to—
       >   - **(1)** minimize the risk of .gov domains whose names could mislead or confuse users;
@@ -68,7 +68,10 @@ In this Act—
       >     - **(A)** limit other authorities of the Director to provide services or technical assistance to an entity described in subsection (a)(1); or
       >     - **(B)** establish new authority for services other than those the purpose of which expressly supports the operation of .gov domains and the needs of .gov domain registrants.
       > - **(d)** *Fees* The Director may provide any service relating to the availability of the .gov internet domain program, including .gov domain name registration services and supporting services described in subsection (c), to entities described in subsection (a)(1) with or without reimbursement.
-      > - **(e)** *Consultation* The Director shall consult with the Director of the Office of Management and Budget, the Administrator of General Services, other civilian Federal agencies as appropriate, and entities representing State, local, Tribal, or territorial governments in developing the strategic direction of the .gov domain and in developing the policies required under subsection (b), in particular on matters of privacy, accessibility, transparency, and technology modernization.
+      > - **(d)** *Fees*
+      >   - **(1)** *In general* The Director may provide any service relating to the availability of the .gov internet domain program, including .gov domain name registration services described in subsection (a) and supporting services described in subsection (c), to entities described in subsection (a)(1) with or without reimbursement.
+      >   - **(2)** *Limitation* The total fees collected for new .gov domain registrants or annual renewals of .gov domains shall not exceed the direct operational expenses of maintaining the .gov internet domain.
+      > - **(e)** *Consultation* The Director shall consult with the Director of the Office of Management and Budget, the Administrator of General Services, other civilian Federal agencies as appropriate, and entities representing State, local, Tribal, or territorial governments in developing the strategic direction of the .gov domain and in developing the policies requiredestablishing requirements under subsection (b), in particular on matters of privacy, accessibility, transparency, and technology modernization.
       > - **(f)** *.gov inventory*
       >   - **(1)** *In general* The Director shall, on a continuous basis—
       >     - **(A)** inventory all hostnames and services in active use within the .gov domain; and
@@ -83,7 +86,7 @@ In this Act—
       >       - **(i)** collect information on the use of non-.gov domain suffixes by Federal agencies for their official online services;
       >       - **(ii)** collect information on the use of non-.gov domain suffixes by State, local, Tribal, and territorial governments; and
       >       - **(iii)** publish the information collected under clause (i) on a publicly available website.
-      >   - **(3)** *Strategy* Not later than 180 days after the date of enactment of this Act, the Director shall develop and submit to the Committee on Homeland Security and Governmental Affairs and the Committee on Rules and Administration of the Senate and the Committee on Homeland Security and the Committee on House Administration of the House of Representatives a strategy to utilize the information collected under this subsection for countering malicious cyber activity.
+      >   - **(3)** *Strategy* Not later than 180 days after the date of enactment of this Actsection, the Director shall develop and submit to the Committee on Homeland Security and Governmental Affairs and the Committee on Rules and Administration of the Senate and the Committee on Homeland Security and the Committee on House Administration of the House of Representatives a strategy to utilize the information collected under this subsection for countering malicious cyber activity.
 
   - **(2)** *Additional duties*
     - **(A)** *Outreach strategy* Not later than 1 year after the date of enactment of this Act, the Director, in consultation with the Administrator and entities representing State, local, Tribal, or territorial governments, shall develop and submit to the Committee on Homeland Security and Governmental Affairs and the Committee on Rules and Administration of the Senate and the Committee on Homeland Security and the Committee on House Administration of the House of Representatives an outreach strategy to local, Tribal, and territorial governments and other publicly controlled entities as determined by the Director to inform and support migration to the .gov domain, which shall include—
@@ -111,11 +114,13 @@ Not later than 1 year after the date of enactment of this Act, and every 2 years
 - **(1)** the outreach strategy described in section 4(b)(2)(A);
 - **(2)** the security enhancement strategy and implementation plan described in section 4(b)(2)(C);
 - **(3)** the inventory described in 2215(f) of the Homeland Security Act of 2002, as added by section 4(b) of this Act; and
-- **(4)** the supporting services described in section 2215(c)(1) of the Homeland Security Act of 2002, as added by section 4(b) of this Act.
+- **(4)** the supporting services described in section 2215(c)(1) of the Homeland Security Act of 2002, as added by section 4(b) of this Act.; and
+- **(5)** the development, assessment, and determination of the amount of any fees imposed on new .gov domain registrants or annual renewals of .gov domains in accordance with section 2215(d) of the Homeland Security Act of 2002, as added by section 4(b) of this Act.
 
 ## § 6. Transition
 
 - **(a)** There shall be transferred to the Director the .gov internet domain program, as operated by the General Services Administration under title 41, Code of Federal Regulations, on the date of enactment of this Act.
 - **(b)** Not later than 30 days after the date of enactment of this Act, the Director shall submit a plan for the operational and contractual transition of the .gov internet domain program to the Committee on Homeland Security and Governmental Affairs and the Committee on Rules and Administration of the Senate and the Committee on Homeland Security and the Committee on House Administration of the House of Representatives.
 - **(c)** Not later than 120 days after the date of enactment of this Act, the Director shall begin operationally administering the .gov internet domain program, and shall publish on a publicly available website the requirements for domain registrants as described in section 2215(b) of the Homeland Security Act of 2002, as added by section 4(b) of this Act.
-- **(d)** On the date of publication for the requirements in subsection (c), the Administrator shall rescind the requirements in part 102–173 of title 41, Code of Federal Regulations.
+- **(d)** On the date of publication for the requirements in subsection (c)of the requirements for domain registrants under subsection (c), the Administrator shall rescind the requirements in part 102–173 of title 41, Code of Federal Regulations.
+- **(e)** During the 5-year period beginning on the date of enactment of this Act, any fee charged for new .gov domain registrants or annual renewals of .gov domains shall be not more than the amount of the fee charged for such registration or renewal as of October 1, 2019.
