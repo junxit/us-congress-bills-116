@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2779
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -30,14 +30,20 @@ This Act may be cited as the “Luke and Alex School Safety Act of 2019”.
   > - **(b)** *Clearinghouse contents*
   >   - **(1)** *Consultation* In identifying the best practices and recommendations for the Clearinghouse, the Secretary may consult with appropriate Federal, State, local, Tribal, private sector, and nongovernmental organizations.
   >   - **(2)** *Criteria for best practices and recommendations* The best practices and recommendations of the Clearinghouse shall, at a minimum—
-  >     - **(A)** involve comprehensive school safety measures, including threat prevention, preparedness, protection, mitigation, incident response, and recovery to improve the safety posture of a school upon implementation; and
-  >     - **(B)** include information on Federal grant programs for which implementation of each best practice or recommendation is an eligible use for the program.
-  >   - **(3)** *Past Commission recommendations* To the greatest extent practicable, the Clearinghouse shall present, as appropriate, Federal, State, local, Tribal, private sector, and nongovernmental organization issued best practices and recommendations and identify any best practice or recommendation of the Clearinghouse that was previously issued by any such organization.
+  >     - **(A)** involve comprehensive school safety measures, including threat prevention, preparedness, protection, mitigation, incident response, and recoveryand recovery to improve the safety posture of a school upon implementation; and
+  >     - **(B)** include any evidence or research rationale supporting the determination of the Clearinghouse that the best practice or recommendation has been shown to have a significant effect on improving the health, safety, and welfare of persons in school settings, including—
+  >       - **(i)** evidence from an experimental or quasi-experimental study;
+  >       - **(ii)** high-quality research findings or a positive evaluation that such activity, strategy, or intervention is likely to improve the health, safety, and welfare of persons in school settings;
+  >       - **(iii)** findings and data from previous Federal or State commissions relating to school climate, health, safety, and welfare; or
+  >       - **(iv)** any other supporting evidence or findings relied upon by the Clearinghouse in determining best practices and recommendations; and
+  >     - **(B)(C)** include information on Federal grant programs for which implementation of each best practice or recommendation is an eligible use for the program.
+  >   - **(3)** *Past Commission recommendations* To the greatest extent practicable, the Clearinghouse shall present, as appropriate, Federal, State, local, Tribal, private sector, and nongovernmental organization issued best practices and recommendations and identify any best practice or recommendation of the Clearinghouse that was previously issued by any such organization or commission.
   > - **(c)** *Assistance and training* The Secretary may produce and publish materials on the Clearinghouse to assist and train educational agencies and law enforcement agencies on the implementation of the best practices and recommendations.
   > - **(d)** *Continuous improvement* The Secretary shall—
   >   - **(1)** collect for the purpose of continuous improvement of the Clearinghouse—
   >     - **(A)** Clearinghouse data analytics; and
   >     - **(B)** user feedback on the implementation of resources, best practices, and recommendations identified by the Clearinghouse; and
+  >     - **(C)** any evaluations conducted on the best practices and recommendations of the Clearinghouse; and
   >   - **(2)** in coordination with the Secretary of Education, the Secretary of Health and Human Services, and the Attorney General—
   >     - **(A)** regularly assess and identify Clearinghouse best practices and recommendations for which there are no resources provided by Federal Government programs for implementation; and
   >     - **(B)** establish an external advisory board, which shall be comprised of appropriate State, local, private sector, and nongovernmental organizations, including organizations representing parents of elementary and secondary school students, to—
@@ -73,3 +79,13 @@ This Act may be cited as the “Luke and Alex School Safety Act of 2019”.
   - **(1)** each agency responsible for school safety in the State, or any State that does not have such an agency designated;
   - **(2)** any grant program that may be used to award grants for the purposes of implementing best practices and recommendations of the Clearinghouse; and
   - **(3)** any resources other than grant programs that may be used to assist in implementation of best practices and recommendations of the Clearinghouse.
+
+## § 5. Rule of construction
+
+Nothing in this Act or the amendments made by this Act shall be construed to create, satisfy, or waive any requirement under—
+
+- **(1)** title II of the Americans With Disabilities Act of 1990 (42 U.S.C. 12131 et seq.);
+- **(2)** the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.);
+- **(3)** title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.);
+- **(4)** title IX of the Education Amendments of 1972 (20 U.S.C. 1681 et seq.); or
+- **(5)** the Age Discrimination Act of 1975 (42 U.S.C. 6101 et seq.).
