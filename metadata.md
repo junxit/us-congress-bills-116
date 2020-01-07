@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4329
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4329
@@ -29,3 +29,10 @@ ESG Disclosure Simplification Act of 2019
 - 2019-09-13 — Introduced in House
 - 2019-09-13 — Introduced in House
 - 2019-09-13 — Referred to the House Committee on Financial Services.
+- 2019-09-18 — Committee Consideration and Mark-up Session Held.
+- 2019-09-19 — Committee Consideration and Mark-up Session Held.
+- 2019-09-20 — Committee Consideration and Mark-up Session Held.
+- 2019-09-20 — Ordered to be Reported (Amended) by the Yeas and Nays: 31 - 22.
+- 2020-01-07 — Placed on the Union Calendar, Calendar No. 290.
+- 2020-01-07 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-365.
+- 2020-01-07 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-365.
