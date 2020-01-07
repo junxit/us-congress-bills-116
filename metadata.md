@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4500
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4500
@@ -16,10 +16,12 @@ Promoting United States Wireless Leadership Act of 2019
 
 - Rep. Walberg, Tim [R-MI-7] (W000798)
 
-## Cosponsors (2)
+## Cosponsors (4)
 
 - Rep. Dingell, Debbie [D-MI-12] (D000624)
 - Rep. Brooks, Susan W. [R-IN-5] (B001284)
+- Rep. Clarke, Yvette D. [D-NY-9] (C001067)
+- Rep. Taylor, Van [R-TX-3] (T000479)
 
 ## Committees (2)
 
@@ -32,3 +34,14 @@ Promoting United States Wireless Leadership Act of 2019
 - 2019-09-26 — Introduced in House
 - 2019-09-26 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-09-26 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-09-27 — Referred to the Subcommittee on Communications and Technology.
+- 2019-09-27 — Subcommittee Hearings Held.
+- 2019-11-14 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2019-11-14 — Subcommittee Consideration and Mark-up Session Held.
+- 2019-11-20 — Committee Consideration and Mark-up Session Held.
+- 2019-11-20 — Ordered to be Reported (Amended) by Voice Vote.
+- 2020-01-07 — Committee on Foreign Affairs discharged.
+- 2020-01-07 — Committee on Foreign Affairs discharged.
+- 2020-01-07 — Placed on the Union Calendar, Calendar No. 291.
+- 2020-01-07 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-367, Part I.
+- 2020-01-07 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-367, Part I.
