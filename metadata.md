@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 575
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 575
@@ -31,3 +31,14 @@ Expressing the sense of the House of Representatives that all stakeholders in th
 - 2019-09-24 — Introduced in House
 - 2019-09-24 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-09-24 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-09-25 — Referred to the Subcommittee on Communications and Technology.
+- 2019-09-27 — Subcommittee Hearings Held.
+- 2019-11-14 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2019-11-14 — Subcommittee Consideration and Mark-up Session Held.
+- 2019-11-20 — Committee Consideration and Mark-up Session Held.
+- 2019-11-20 — Ordered to be Reported (Amended) by Voice Vote.
+- 2020-01-07 — Committee on Foreign Affairs discharged.
+- 2020-01-07 — Committee on Foreign Affairs discharged.
+- 2020-01-07 — Placed on the House Calendar, Calendar No. 67.
+- 2020-01-07 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-368, Part I.
+- 2020-01-07 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-368, Part I.

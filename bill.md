@@ -1,7 +1,7 @@
 ---
 legis-num: H. RES. 575
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -19,15 +19,15 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the security of 5G networks is crucial for national security, economic security, and other United States national interests and global stability;
 - Whereas operators of communications infrastructure depend on a complex supply chain of technology from a global market of suppliers and service providers;
 - Whereas government security officials and experts from 32 countries came together in Prague in May of 2019 to work out guidelines for the deployment and security of 5G networks;
-- Whereas representatives agreed that “[m]ajor security risks emanate from the cross-border complexities of an increasingly global supply chain which provides ICT equipment. These risks should be considered as part of the risk assessment based on relevant information and should seek to prevent proliferation of compromised devices and the use of malicious code and functions.”; and
+- Whereas representatives agreed that “[m]ajor security risks emanate from the cross-border complexities of an increasingly global supply chain which provides [information and communications technology] equipment. These risks should be considered as part of the risk assessment based on relevant information and should seek to prevent proliferation of compromised devices and the use of malicious code and functions.”; and
 - Whereas the Prague 5G Security Conference adopted security recommendations, which have come to be known as “The Prague Proposals”: Now, therefore, be it
 
 ## § 1. Sense of the House of Representatives
 
 The House of Representatives—
 
-- **(1)** urges all stakeholders in the deployment of 5G communications infrastructure to carefully consider adherence to the recommendations of “The Prague Principles” (as described in section 2) as they procure products and services across their supply chain; and
-- **(2)** encourages the President and Federal agencies to promote global trade and security policies that are consistent with “The Prague Proposals” and urge our allies to embrace the recommendations of “The Prague Proposals” for their public 5G infrastructure.
+- **(1)** urges all stakeholders in the deployment of 5G communications infrastructure to carefully consider adherence to the recommendations of “The Prague Proposals” (as described in section 2) as they procure products and services across their supply chain; and
+- **(2)** encourages the President and Federal agencies to promote global trade and security policies that are consistent with “The Prague Proposals” and urge our allies to embrace the recommendations of “The Prague Proposals” for their 5G infrastructure.
 
 ## § 2. Prague Proposals
 
