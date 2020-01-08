@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4500
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4500
@@ -45,3 +45,9 @@ Promoting United States Wireless Leadership Act of 2019
 - 2020-01-07 — Placed on the Union Calendar, Calendar No. 291.
 - 2020-01-07 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-367, Part I.
 - 2020-01-07 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-367, Part I.
+- 2020-01-08 — Considered under suspension of the rules. (consideration: CR H46-49)
+- 2020-01-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4500.
+- 2020-01-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-01-08 — Mr. Doyle, Michael F. moved to suspend the rules and pass the bill, as amended.
+- 2020-01-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H46-47)
+- 2020-01-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H46-47)
