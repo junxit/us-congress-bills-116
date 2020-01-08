@@ -1,7 +1,7 @@
 ---
 legis-num: S. RES. 447
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,23 +11,6 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## Preamble
 
-- Whereas Evo Morales was elected as the first indigenous president of Bolivia in 2005;
-- Whereas, in 2009, Bolivians approved by a vote of more than 60 percent in a nationwide referendum a new constitution that established a limit of two 5-year presidential terms;
-- Whereas, in 2009 and 2014, President Morales won re-election to a second and third term in office with more than 60 percent of the vote;
-- Whereas, in 2016, 51.3 percent of Bolivian voters rejected a national referendum on the proposal by the Administration of President Morales to lift presidential term limits;
-- Whereas, in 2017, despite the results of the 2016 national referendum, President Morales’ political allies in the Bolivian Constitutional Tribunal removed presidential term limits;
-- Whereas, on October 20, 2019, amid existing concerns over the politicization of Bolivia’s electoral commission, Bolivian voters went to the polls for general elections to choose a new president, members of the Senate, and members of the Chamber of Deputies;
-- Whereas, at the invitation of Morales Administration, the Organization of American States (OAS) General Secretariat sent an Electoral Observation Mission to Bolivia that was comprised of 92 experts and observers from 24 different nationalities deployed in the country’s nine departments and in three countries in which Bolivian expatriates could cast their votes abroad;
-- Whereas, on October 20, 2019, Bolivian electoral authorities stopped reporting the preliminary vote count for a period of 20 hours, subsequently announced preliminary results that negated the need for a second-round election, and Evo Morales proclaimed himself the winner of the presidential election;
-- Whereas, on October 21, 2019, the OAS Electoral Observation Mission in Bolivia expressed “deep concern and surprise at the drastic and hard-to-explain change in the trend of the preliminary results revealed after the closing of the polls”;
-- Whereas, in the aftermath of the October 20, 2019, general elections, violent protests occurred throughout Bolivia in response to electoral irregularities and the findings of the OAS Electoral Observation Mission;
-- Whereas, on October 30, 2019, the Morales Administration and the OAS General Secretariat signed an agreement to have the OAS conduct an audit of the integrity of the October 20, 2019, general elections;
-- Whereas, on November 10, 2019, an OAS technical mission issued a report on its audit of the integrity of the October 20, 2019, general elections, which included findings that— (1)the preliminary and final election results were transmitted via a flawed computer transmission system that was accessed by unauthorized outside computer servers; (2)there was a deficient chain of custody for and significant irregularities in the electoral tally sheets and other electoral records; and (3)the audit team could not validate the results of the election and therefore recommended a new electoral process;
-- Whereas, on November 10, 2019, President Morales acknowledged the results of the OAS technical mission, announced that he would call new elections, and stated that, “new national elections will allow the Bolivian people to democratically choose new authorities with their vote”;
-- Whereas, in the face of widespread public protests and a deteriorating security environment, President Morales departed Bolivia on November 12, 2019, and was granted asylum by the Government of Mexico;
-- Whereas, on November 12, 2019, the Bolivian Constitutional Tribunal recognized an interim president of Bolivia;
-- Whereas the transitional government in Bolivia has committed to hold new elections by January 22, 2020; and
-- Whereas the Inter-American Commission on Human Rights stated that protests occurring in Bolivia since the October 20, 2019, general election have left 23 people dead and more than 700 people injured: Now, therefore, be it
 - Whereas Evo Morales was elected as the first indigenous president of Bolivia in 2005;
 - Whereas, in 2009, Bolivians approved by a vote of more than 60 percent in a nationwide referendum a new constitution that established a limit of two 5-year presidential terms and declared the country a plurinational state in order to better reflect Bolivia’s dozens of ethnic groups;
 - Whereas, in 2009 and 2014, President Morales won re-election to a second and third term in office with more than 60 percent of the vote;
@@ -53,6 +36,7 @@ That the Senate—
 - **(2)** commends the efforts of the OAS Electoral Observation Mission in Bolivia and supports the findings of the OAS electoral audit mission, which documented numerous irregularities during the October 2019 general elections in Bolivia;
 - **(3)** deplores the acts of violence that have occurred in Bolivia in the aftermath of the October 20, 2019, general elections and urges all Bolivians to repudiate violence and to peacefully exercise their rights of freedom of expression and assembly;
 - **(4)** urges Bolivia’s transitional government to work expeditiously to establish the conditions for an inclusive, credible, transparent, and democratic elections as soon as possible in accordance with their laws and constitution;
-- **(5)** encourages the Department of State and the U.S. Mission to the Organization of American States to provide all appropriate support to facilitate the convening of free, fair, and transparent democratic elections in Bolivia as soon as possible in accordance with their laws and constitution;
-- **(6)** encourages the Organization of American States to take all necessary steps, in accordance with the principles of the Inter-American Democratic Charter, to ensure respect for the will of Bolivian voters and the integrity of the new democratic elections in Bolivia as soon as possible in accordance with their laws and constitution; and
-- **(7)** supports the call by the Permanent Council of the Organization of American States for Bolivian authorities to ensure full respect and protection of human rights and accountability for any violation thereof.
+- **(5)** encourages the Bolivian state to protect the human rights of all persons, including indigenous groups, regardless of political affiliation, ethnicity, religion, or sex;
+- **(6)** encourages the Department of State and the U.S. Mission to the Organization of American States to provide all appropriate support to facilitate the convening of free, fair, and transparent democratic elections in Bolivia as soon as possible in accordance with their laws and constitution;
+- **(7)** encourages the Organization of American States to take all necessary steps, in accordance with the principles of the Inter-American Democratic Charter, to ensure respect for the will of Bolivian voters and the integrity of the new democratic elections in Bolivia as soon as possible in accordance with their laws and constitution; and
+- **(8)** supports the call by the Permanent Council of the Organization of American States for Bolivian authorities to ensure full respect and protection of human rights and accountability for any violation thereof.
