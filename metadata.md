@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 385
 congress: 116
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 385
@@ -37,3 +37,5 @@ A resolution celebrating the 30th anniversary of the fall of the Berlin Wall, th
 - 2019-12-17 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with an amended preamble. Without written report.
 - 2019-12-17 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with an amended preamble. Without written report.
 - 2019-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 340.
+- 2020-01-08 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.(consideration: CR S77; text: CR S77)
+- 2020-01-08 — Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (consideration: CR S77; text: CR S77)
