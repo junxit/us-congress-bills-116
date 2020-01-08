@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5065
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5065
@@ -37,3 +37,9 @@ Prison to Proprietorship for Formerly Incarcerated Act
 - 2019-12-12 — Placed on the Union Calendar, Calendar No. 273.
 - 2019-12-12 — Reported by the Committee on Small Business. H. Rept. 116-343.
 - 2019-12-12 — Reported by the Committee on Small Business. H. Rept. 116-343.
+- 2020-01-08 — Considered under suspension of the rules. (consideration: CR H35-37)
+- 2020-01-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5065.
+- 2020-01-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-01-08 — Ms. Velazquez moved to suspend the rules and pass the bill.
+- 2020-01-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H35)
+- 2020-01-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H35)
