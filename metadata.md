@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 575
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 575
@@ -42,3 +42,9 @@ Expressing the sense of the House of Representatives that all stakeholders in th
 - 2020-01-07 — Placed on the House Calendar, Calendar No. 67.
 - 2020-01-07 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-368, Part I.
 - 2020-01-07 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-368, Part I.
+- 2020-01-08 — Considered under suspension of the rules. (consideration: CR H41-43)
+- 2020-01-08 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 575.
+- 2020-01-08 — Mr. Doyle, Michael F. moved to suspend the rules and agree to the resolution, as amended.
+- 2020-01-08 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H41)
+- 2020-01-08 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H41)
+- 2020-01-08 — The title of the measure was amended. Agreed to without objection.
