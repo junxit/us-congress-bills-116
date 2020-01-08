@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5146
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,20 +15,25 @@ This Act may be cited as the “Unlocking Opportunities for Small Businesses Act
 
 ## § 2. Past performance ratings of joint ventures for small business concerns
 
-- **(a)** *In general* Section 15(e) of the Small Business Act (15 U.S.C. 644(e)) is amended by adding at the end the following:
-  > - **(5)** *Past performance ratings of joint ventures for small business concerns* With respect to evaluating an offer for a prime contract made by a small business concern that previously participated in a joint venture with another business concern (whether or not such other business concern was itself a small business concern), the Administrator shall establish regulations—
-  >   - **(A)** requiring contracting officers to consider the record of past performance of the joint venture when evaluating the past performance of the small business concern; and
-  >   - **(B)** requiring the small business concern to inform the contracting officer what duties and responsibilities the small business concern carried out as part of the joint venture.
+Section 15(e) of the Small Business Act (15 U.S.C. 644(e)) is amended by adding at the end the following:
+
+> - **(5)** *Past performance ratings of joint ventures for small business concerns* With respect to evaluating an offer for a prime contract made by a small business concern that previously participated in a joint venture with another business concern (whether or not such other business concern was itself a small business concern), the Administrator shall establish regulations—
+>   - **(A)** requiring contracting officers to consider the record of past performance of the joint venture when evaluating the past performance of the small business concern; and
+>   - **(B)** requiring the small business concern to inform the contracting officer what duties and responsibilities the small business concern carried out as part of the joint venture.
 
 ## § 3. Past performance ratings of first-tier small business subcontractors
 
 Section 8(d)(17) of the Small Business Act (15 U.S.C. 637(d)(17)) is amended to read as follows:
 
 > - **(17)** *Past performance ratings for certain small business subcontractors*
->   - **(A)** *In general* Upon request by a small business concern that performed as a first-tier subcontractor on a covered contract (as defined in paragraph 13(A)) that is submitting an offer for a solicitation, the prime contractor for such covered contract shall submit to the contracting agency issuing the solicitation or to such small business concern a record of past performance for such small business concern with respect to such covered contract.
+>   - **(A)** *In general* Upon request by a small business concern that performed as a first tier subcontractor on a covered contract (as defined in paragraph 13(A)) that is submitting an offer for a solicitation, the prime contractor for such covered contract shall submit to the contracting agency issuing the solicitation or to such small business concern a record of past performance for such small business concern with respect to such covered contract.
 >   - **(B)** *Consideration* A contracting officer shall consider the record of past performance of a small business concern provided under subparagraph (A) when evaluating an offer for a prime contract made by such small business concern.
 
 ## § 4. Rulemaking
 
 - **(a)** *SBA rules* Not later than the end of the 120-day period beginning on the date of enactment of this Act, the Administrator of the Small Business Administration shall issue rules to carry out this Act and the amendments made by this Act.
-- **(b)** *Federal Acquisition Regulation* Not later than the end of the 120-day period beginning on the date that rules are issued under paragraph (1), the Federal Acquisition Regulation shall be revised to reflect such rules.
+- **(b)** *Federal Acquisition Regulation* Not later than the end of the 120-day period beginning on the date that rules are issued under subsection (a), the Federal Acquisition Regulation shall be revised to reflect such rules.
+
+## § 5. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
