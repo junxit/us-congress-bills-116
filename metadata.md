@@ -1,7 +1,7 @@
 ---
 measure: S. 1611
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1611
@@ -34,3 +34,5 @@ DIGIT Act
 - 2019-12-17 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with amendments. With written report No. 116-179.
 - 2019-12-17 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with amendments. With written report No. 116-179.
 - 2019-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 375.
+- 2020-01-08 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S81-84; text: CR S83-84)
+- 2020-01-08 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S81-84; text: CR S83-84)
