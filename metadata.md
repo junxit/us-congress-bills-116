@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 343
 congress: 116
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 343
@@ -41,3 +41,5 @@ A resolution congratulating the people of the Czech Republic and the people of t
 - 2019-12-17 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with a preamble. Without written report.
 - 2019-12-17 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with a preamble. Without written report.
 - 2019-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 337.
+- 2020-01-08 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S76; text: CR 9/26/2019 S5752)
+- 2020-01-08 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S76; text: CR 9/26/2019 S5752)
