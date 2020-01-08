@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 779
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 779
@@ -16,6 +16,10 @@ Providing for consideration of the bill (H.R. 535) to require the Administrator 
 
 - Rep. Scanlon, Mary Gay [D-PA-5] (S001205)
 
+## Committees (1)
+
+- House — Rules Committee
+
 ## Actions
 
 - 2020-01-07 — Introduced in House
@@ -23,3 +27,11 @@ Providing for consideration of the bill (H.R. 535) to require the Administrator 
 - 2020-01-07 — Rule provides for consideration of H.R. 535 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
 - 2020-01-07 — The House Committee on Rules reported an original measure, H. Rept. 116-366, by Ms. Scanlon.
 - 2020-01-07 — The House Committee on Rules reported an original measure, H. Rept. 116-366, by Ms. Scanlon.
+- 2020-01-08 — Considered as privileged matter. (consideration: CR H23-30)
+- 2020-01-08 — Considered as unfinished business. (consideration: CR H49-50)
+- 2020-01-08 — DEBATE - The House proceeded with one hour of debate on H. Res. 779.
+- 2020-01-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-01-08 — On agreeing to the resolution Agreed to by the Yeas and Nays: 217 - 199 (Roll no. 3). (text: CR H23)
+- 2020-01-08 — On ordering the previous question Agreed to by the Yeas and Nays: 225 - 193 (Roll no. 2). (consideration: CR H49-50)
+- 2020-01-08 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 779, the Chair put the question on ordering the previous question and by voice vote, announced the ayes had prevailed. Mrs. Lesko demanded the yeas and nays and the Chair postponed further proceedings until later in the legislative day.
+- 2020-01-08 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 217 - 199 (Roll no. 3).(text: CR H23)
