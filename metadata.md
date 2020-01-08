@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 142
 congress: 116
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 142
@@ -42,3 +42,5 @@ A resolution condemning the Government of the Philippines for its continued dete
 - 2019-12-17 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2019-12-17 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2019-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 365.
+- 2020-01-08 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Voice Vote.(consideration: CR S79-80; text: CR S79-80)
+- 2020-01-08 — Resolution agreed to in Senate with an amendment and an amended preamble by Voice Vote. (consideration: CR S79-80; text: CR S79-80)
