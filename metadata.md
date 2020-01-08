@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 395
 congress: 116
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 395
@@ -45,3 +45,5 @@ A resolution recognizing the 40th anniversary of the Iran Hostage Crisis, and fo
 - 2019-12-17 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with a preamble. Without written report.
 - 2019-12-17 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with a preamble. Without written report.
 - 2019-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 368.
+- 2020-01-08 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S80-81; text: CR 10/31/2019 S6340)
+- 2020-01-08 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S80-81; text: CR 10/31/2019 S6340)
