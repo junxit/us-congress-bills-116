@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2932
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2932
@@ -16,9 +16,11 @@ Homeland Security for Children Act
 
 - Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. King, Peter T. [R-NY-2] (K000210)
+- Rep. Taylor, Van [R-TX-3] (T000479)
 
 ## Committees (2)
 
@@ -31,3 +33,13 @@ Homeland Security for Children Act
 - 2019-05-22 — Introduced in House
 - 2019-05-22 — Referred to the Committee on Homeland Security, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-05-22 — Referred to the Committee on Homeland Security, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-05-23 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- 2019-06-11 — Referred to the Subcommittee on Emergency Preparedness, Response, and Recovery.
+- 2019-10-23 — Committee Consideration and Mark-up Session Held.
+- 2019-10-23 — Ordered to be Reported.
+- 2019-10-23 — Subcommittee on Emergency Preparedness, Response, and Recovery Discharged.
+- 2020-01-08 — Committee on Transportation discharged.
+- 2020-01-08 — Committee on Transportation discharged.
+- 2020-01-08 — Placed on the Union Calendar, Calendar No. 294.
+- 2020-01-08 — Reported by the Committee on Homeland Security. H. Rept. 116-370, Part I.
+- 2020-01-08 — Reported by the Committee on Homeland Security. H. Rept. 116-370, Part I.
