@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5146
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5146
@@ -34,3 +34,9 @@ Unlocking Opportunities for Small Businesses Act of 2019
 - 2019-12-19 — Placed on the Union Calendar, Calendar No. 286.
 - 2019-12-19 — Reported by the Committee on Small Business. H. Rept. 116-361.
 - 2019-12-19 — Reported by the Committee on Small Business. H. Rept. 116-361.
+- 2020-01-08 — Considered under suspension of the rules. (consideration: CR H39-41)
+- 2020-01-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5146.
+- 2020-01-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-01-08 — Ms. Velazquez moved to suspend the rules and pass the bill, as amended.
+- 2020-01-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H39)
+- 2020-01-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H39)
