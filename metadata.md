@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2881
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2881
@@ -51,6 +51,10 @@ Secure 5G and Beyond Act of 2020
 - House — Foreign Affairs Committee
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2020-01-08 — [House 116-2-4](votes/house-116-2-0004.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (413–3)
+
 ## Actions
 
 - 2019-05-21 — Introduced in House
@@ -70,3 +74,11 @@ Secure 5G and Beyond Act of 2020
 - 2020-01-07 — Placed on the Union Calendar, Calendar No. 292.
 - 2020-01-07 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-369, Part I.
 - 2020-01-07 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-369, Part I.
+- 2020-01-08 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2020-01-08 — Considered as unfinished business. (consideration: CR H50-51)
+- 2020-01-08 — Considered under suspension of the rules. (consideration: CR H43-46)
+- 2020-01-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2881.
+- 2020-01-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-01-08 — Mr. Doyle, Michael F. moved to suspend the rules and pass the bill, as amended.
+- 2020-01-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 3 (Roll no. 4). (text: CR H44)
+- 2020-01-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 3 (Roll no. 4).(text: CR H44)
