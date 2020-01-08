@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5130
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -20,4 +20,4 @@ This Act may be cited as the “Capturing All Small Businesses Act of 2019”.
   - **(2)** in subparagraph (C)—
     - **(A)** by inserting “(including the Administration when acting pursuant to subparagraph (A))” after “no Federal department or agency”; and
     - **(B)** in clause (ii)(I) by striking “12 months” and inserting “24 months”.
-- **(b)** *Effective date* This Act and the amendments made by this Act shall take effect one year after the date of the enactment of this Act.
+- **(b)** *Effective date* This Act and the amendments made by this Act shall take effect 1 year after the date of the enactment of this Act.
