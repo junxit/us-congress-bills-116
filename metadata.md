@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5065
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5065
@@ -23,9 +23,10 @@ Prison to Proprietorship for Formerly Incarcerated Act
 - Rep. Spano, Ross [R-FL-15] (S001210)
 - Rep. Horn, Kendra S. [D-OK-5] (H001083)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Prison to Proprietorship for Formerly Incarcerated Act
 - 2020-01-08 — Ms. Velazquez moved to suspend the rules and pass the bill.
 - 2020-01-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H35)
 - 2020-01-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H35)
+- 2020-01-09 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
