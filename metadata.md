@@ -1,7 +1,7 @@
 ---
 measure: S. 1611
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1611
@@ -22,9 +22,10 @@ DIGIT Act
 - Sen. Gardner, Cory [R-CO] (G000562)
 - Sen. Booker, Cory A. [D-NJ] (B001288)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -36,3 +37,6 @@ DIGIT Act
 - 2019-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 375.
 - 2020-01-08 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S81-84; text: CR S83-84)
 - 2020-01-08 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S81-84; text: CR S83-84)
+- 2020-01-09 — Message on Senate action sent to the House.
+- 2020-01-09 — Received in the House.
+- 2020-01-09 — Referred to the House Committee on Energy and Commerce.
