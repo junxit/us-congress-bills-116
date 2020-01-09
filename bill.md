@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 5567
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5567
+
+> To amend the Communications Act of 1934 to require the Federal Communications Commission to consider market entry barriers for socially disadvantaged individuals in the communications marketplace report under section 13 of such Act.
+
+## § 1. Short title
+
+This Act may be cited as the “Measuring the Economics Driving Investments and Access for Diversity Act of 2020” or the “MEDIA Diversity Act of 2020”.
+
+## § 2. Considering market entry barriers for socially disadvantaged individuals
+
+Section 13(d) of the Communications Act of 1934 (47 U.S.C. 163(d)) is amended by adding at the end the following:
+
+> - **(4)** *Considering socially disadvantaged individuals* In assessing the state of competition under subsection (b)(1) and regulatory barriers under subsection (b)(3), the Commission, with the input of the Office of Communications Business Opportunities of the Commission, shall consider market entry barriers for socially disadvantaged individuals in the communications marketplace in accordance with the national policy under section 257(b).
