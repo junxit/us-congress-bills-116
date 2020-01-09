@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4500
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4500
@@ -23,10 +23,11 @@ Promoting United States Wireless Leadership Act of 2019
 - Rep. Clarke, Yvette D. [D-NY-9] (C001067)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Promoting United States Wireless Leadership Act of 2019
 - 2020-01-08 — Mr. Doyle, Michael F. moved to suspend the rules and pass the bill, as amended.
 - 2020-01-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H46-47)
 - 2020-01-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H46-47)
+- 2020-01-09 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
