@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2629
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -29,8 +29,8 @@ This Act may be cited as the “United States Public Health Service Modernizatio
 
 - **(b)** *Deployment readiness* Section 203A(a)(1)(B) of the Public Health Service Act (42 U.S.C. 204a(a)(1)(B)) is amended by striking “Active Reserves” and inserting “Ready Reserve Corps”.
 - **(c)** *Retirement of commissioned officers* Section 211 of the Public Health Service Act (42 U.S.C. 212) is amended—
-  - **(1)** by striking “(in the case of an officer in the Reserve Corps)” each place it appears;
-  - **(2)** by striking “the Service” each place it appears and inserting “the Regular Corps”;
+  - **(1)** by striking “the Service” each place it appears and inserting “the Regular Corps”;
+  - **(2)** in subsection (a)(4), by striking “(in the case of an officer in the Reserve Corps)”;
   - **(3)** in subsection (c)—
     - **(A)** in paragraph (1)—
       - **(i)** by striking “or an officer of the Reserve Corps”; and
@@ -56,5 +56,6 @@ This Act may be cited as the “United States Public Health Service Modernizatio
       > - **(3)** For purposes of paragraph (19) of subsection (a), the terms Military department, Secretary concerned, and Armed forces in such title 10 shall be deemed to include, respectively, the Department of Health and Human Services, the Secretary of Health and Human Services, and the Commissioned Corps.
 
 - **(e)** *Technical amendments* Title II of the Public Health Service Act (42 U.S.C. 202 et seq.) is amended—
-  - **(1)** in sections 204, 207(c), and 208(a), by striking “Regular or Reserve Corps” and inserting “Regular Corps or Ready Reserve Corps”; and
-  - **(2)** in section 205(c), 206(c), 210, and 219, and in subsections (a), (b), and (d) of section 207, by striking “Reserve Corps” each place it appears and inserting “Ready Reserve Corps”.
+  - **(1)** in sections 204 and 207(c), by striking “Regular or Reserve Corps” each place it appears and inserting “Regular Corps or Ready Reserve Corps”;
+  - **(2)** in section 208(a), by striking “Regular and Reserve Corps” each place it appears and inserting “Regular Corps and Ready Reserve Corps”; and
+  - **(3)** in section 205(c), 206(c), 210, and 219, and in subsections (a), (b), and (d) of section 207, by striking “Reserve Corps” each place it appears and inserting “Ready Reserve Corps”.
