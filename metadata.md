@@ -1,7 +1,7 @@
 ---
 measure: S. 1982
 congress: 116
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1982
@@ -16,7 +16,7 @@ Save Our Seas 2.0 Act
 
 - Sen. Sullivan, Dan [R-AK] (S001198)
 
-## Cosponsors (8)
+## Cosponsors (21)
 
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Menendez, Robert [D-NJ] (M000639)
@@ -26,6 +26,19 @@ Save Our Seas 2.0 Act
 - Sen. Murphy, Christopher [D-CT] (M001169)
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 - Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Menendez, Robert [D-NJ] (M000639)
 
 ## Committees (1)
 
@@ -35,3 +48,14 @@ Save Our Seas 2.0 Act
 
 - 2019-06-26 — Introduced in Senate
 - 2019-06-26 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2019-11-13 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2020-01-09 — Amendment SA 1278 agreed to in Senate by Unanimous Consent.
+- 2020-01-09 — Amendment SA 1278 proposed by Senator McConnell for Senator Sullivan. (consideration: CR S148-149; text: CR S139-147) In the nature of a substitute.
+- 2020-01-09 — Measure laid before Senate by unanimous consent. (consideration: CR S148-149)
+- 2020-01-09 — Passed Senate with an amendment by Voice Vote.
+- 2020-01-09 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2020-01-09 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2020-01-09 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2020-01-09 — Senate amendment agreed to: Amendment SA 1278 agreed to in Senate by Unanimous Consent.
+- 2020-01-09 — Senate amendment proposed (on the floor): Amendment SA 1278 proposed by Senator McConnell for Senator Sullivan.
+- 2020-01-09 — Senate amendment submitted
