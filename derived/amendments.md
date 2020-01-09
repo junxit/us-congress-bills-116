@@ -1,7 +1,7 @@
 ---
 measure: S. 1982
 congress: 116
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 3 executed, 2 stated and not applied.
+3 amendatory instructions. 3 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -50,15 +50,3 @@ to guess them.
 |---|---|
 | Removed | `Notwithstanding subparagraph (A)` |
 | Inserted | `Notwithstanding subparagraph (A) and except as provided in subparagraph (B)` |
-
-## Stated, not applied
-
-Each of these is reproduced as the bill writes it, with the reason
-it was not executed. They are listed rather than dropped: an
-instruction that vanished would leave this file reading as a
-complete account of the bill's effect, which it is not.
-
-| Target | Operation | Instruction | Why not applied |
-|---|---|---|---|
-| — | add-at-end | Subchapter A of chapter 98 of the Internal Revenue Code of 1986 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of sections for subchapter A of chapter 98 of such Code is amended by adding at the end the following: | the bill names no machine-readable US Code section |
