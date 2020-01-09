@@ -19,7 +19,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(A)** combating terrorists, including the Islamic State of Iraq and Syria (ISIS);
     - **(B)** preventing Iran from achieving a nuclear weapons capability; and
     - **(C)** supporting the people of Iraq, Iran, and other countries throughout the Middle East who demand an end to government corruption and violations of basic human rights.
-  - **(5)** Over the past eight months, in response to rising tensions with Iran, the United States has introduced over 15,000 additional forces into the Middle East. The killing of Iranian General Qassem Soleimani, as well as Iran’s ballistic missile attack on Iraqi bases, risks significant escalation in hostilities between the United States and Iran.
+  - **(5)** Over the past eight months, in response to rising tensions with Iran, the United States has introduced over 15,000 additional forces into the Middle East.
   - **(6)** When the United States uses military force, the American people and members of the United States Armed Forces deserve a credible explanation regarding such use of military force.
   - **(7)** The War Powers Resolution (50 U.S.C. 1541 et seq.) requires the President to consult with Congress “in every possible instance” before introducing United States Armed Forces into hostilities.
   - **(8)** Congress has not authorized the President to use military force against Iran.
