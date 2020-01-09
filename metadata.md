@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5146
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5146
@@ -20,9 +20,10 @@ Unlocking Opportunities for Small Businesses Act of 2019
 
 - Rep. Evans, Dwight [D-PA-3] (E000296)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Unlocking Opportunities for Small Businesses Act of 2019
 - 2020-01-08 — Ms. Velazquez moved to suspend the rules and pass the bill, as amended.
 - 2020-01-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H39)
 - 2020-01-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H39)
+- 2020-01-09 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
