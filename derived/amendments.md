@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1230
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -64,4 +64,4 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 12203` | replace | by striking “The remedies” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 12203` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 12117` | add-at-end | Section 107 of such Act (42 U.S.C. 12117) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 791` | amend | Sections 501(f), 503(d), and 504(d) of the Rehabilitation Act of 1973 (29 U.S.C. 791(f), 793(d), and 794(d)), are each amended by adding after the words “title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.)” t… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 791` | amend | Sections 501(f), 503(d), and 504(d) of the Rehabilitation Act of 1973 (29 U.S.C. 791(f), 793(d), and 794(d)), are each amended by adding after “title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.)” the followi… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1230
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,21 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Protecting Older Workers Against Discrimination Act”.
 
-## § 2. Findings and purposes
-
-- **(a)** *Findings* Congress finds the following:
-  - **(1)** In enacting section 107 of the Civil Rights Act of 1991 (adding section 703(m) of the Civil Rights Act of 1964), Congress reaffirmed its understanding that unlawful discrimination is often difficult to detect and prove because those who discriminate do not usually admit their discrimination and often try to conceal their true motives. Section 703(m) of the Civil Rights Act of 1964 expressly approved so-called “mixed motive” claims, providing that an unlawful employment practice is established when a protected characteristic was a motivating factor for any employment practice, even though other factors also motivated the practice.
-  - **(2)** Congress enacted amendments to other civil rights statutes, including the Age Discrimination in Employment Act of 1967 (referred to in this section as the ADEA), the Americans with Disabilities Act of 1990, and the Rehabilitation Act of 1973, but Congress did not expressly amend those statutes to address mixed motive discrimination.
-  - **(3)** In the case of Gross v. FBL Financial Services, Inc., 557 U.S. 167 (2009), the Supreme Court held that, because Congress did not expressly amend the ADEA to address mixed motive claims, such claims were unavailable under the ADEA, and instead the complainant bears the burden of proving that a protected characteristic or protected activity was the “but for” cause of an unlawful employment practice. This decision has significantly narrowed the scope of protections afforded by the statutes that were not expressly amended in 1991 to address mixed motive claims.
-- **(b)** *Purposes* The purposes of this Act are—
-  - **(1)** to clarify congressional intent that mixed motive claims shall be available, and that a complaining party need not prove that a protected characteristic or protected activity was the “but for” cause of an unlawful employment practice, under the ADEA and similar civil rights provisions;
-  - **(2)** to reject the Supreme Court’s reasoning in the Gross decision that Congress’ failure to amend any statute other than title VII of the Civil Rights Act of 1964 (with respect to discrimination claims), in enacting section 107 of the Civil Rights Act of 1991, suggests that Congress intended to disallow mixed motive claims under other statutes; and
-  - **(3)** to clarify that complaining parties—
-    - **(A)** may rely on any type or form of admissible evidence to establish their claims of an unlawful employment practice;
-    - **(B)** are not required to demonstrate that the protected characteristic or activity was the sole cause of the employment practice; and
-    - **(C)** may demonstrate an unlawful employment practice through any available method of proof or analytical framework.
-
-## § 3. Standards of proof
+## § 2. Standards of proof
 
 - **(a)** *Age discrimination in employment Act of 1967*
   - **(1)** *Clarifying prohibition against impermissible consideration of age in employment practices* Section 4 of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 623) is amended by inserting after subsection (f) the following:
@@ -60,7 +46,7 @@ This Act may be cited as the “Protecting Older Workers Against Discrimination 
 
 - **(b)** *Title VII of the Civil Rights Act of 1964*
   - **(1)** *Clarifying prohibition against impermissible consideration of race, color, religion, sex, or national origin in employment practices* Section 703 of the Civil Rights Act of 1964 (42 U.S.C. 2000e–2) is amended by striking subsection (m) and inserting the following:
-    > - **(m)** Except as otherwise provided in this title, an unlawful employment practice is established under this title when the complaining party demonstrates that race, color, religion, sex, or national origin or an activity protected by section 704(a) was a motivating factor for any employment practice, even though other factors also motivated the practice.
+    > - **(m)** Except as otherwise provided in this title, an unlawful employment practice is established when the complaining party demonstrates that race, color, religion, sex, or national origin or an activity protected by section 704(a) was a motivating factor for any employment practice, even though other factors also motivated the practice.
 
   - **(2)** *Federal employees* Section 717 of such Act (42 U.S.C. 2000e–16) is amended by adding at the end the following:
     > - **(g)** Sections 703(m) and 706(g)(2)(B) shall apply to mixed motive cases (involving practices described in section 703(m)) under this section.
@@ -89,9 +75,13 @@ This Act may be cited as the “Protecting Older Workers Against Discrimination 
     >   - **(2)** shall not award damages or issue an order requiring any admission, reinstatement, hiring, promotion, or payment.
 
 - **(d)** *Rehabilitation Act of 1973*
-  - **(1)** *In general* Sections 501(f), 503(d), and 504(d) of the Rehabilitation Act of 1973 (29 U.S.C. 791(f), 793(d), and 794(d)), are each amended by adding after the words “title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.)” the following: “, including the standards of causation or methods of proof applied under section 102(e) of that Act (42 U.S.C. 12112(e)),”.
+  - **(1)** *In general* Sections 501(f), 503(d), and 504(d) of the Rehabilitation Act of 1973 (29 U.S.C. 791(f), 793(d), and 794(d)), are each amended by adding after “title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.)” the following: “, including the standards of causation or methods of proof applied under section 102(e) of that Act (42 U.S.C. 12112(e)),”.
   - **(2)** *Federal employees* The amendment made by paragraph (1) to section 501(f) shall be construed to apply to all employees covered by section 501.
 
-## § 4. Application
+## § 3. Application
 
 This Act, and the amendments made by this Act, shall apply to all claims pending on or after the date of enactment of this Act.
+
+## § 4. Severability
+
+If any provision or portion of a provision of this Act, an amendment or portion of an amendment made by this Act, or the application of any provision or portion thereof or amendment or portion thereof to particular persons or circumstances is held invalid or found to be unconstitutional, the remainder of this Act, the amendments made by this Act, or the application of that provision or portion thereof or amendment or portion thereof to other persons or circumstances shall not be affected.
