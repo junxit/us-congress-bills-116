@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 83
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 83
@@ -16,7 +16,7 @@ Directing the President pursuant to section 5(c) of the War Powers Resolution to
 
 - Rep. Slotkin, Elissa [D-MI-8] (S001208)
 
-## Cosponsors (134)
+## Cosponsors (162)
 
 - Rep. Green, Al [D-TX-9] (G000553)
 - Rep. Cisneros, Gilbert Ray, Jr. [D-CA-39] (C001123)
@@ -152,6 +152,38 @@ Directing the President pursuant to section 5(c) of the War Powers Resolution to
 - Rep. Boyle, Brendan F. [D-PA-2] (B001296)
 - Rep. Lowey, Nita M. [D-NY-17] (L000480)
 - Rep. Jayapal, Pramila [D-WA-7] (J000298)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. McNerney, Jerry [D-CA-9] (M001166)
+- Rep. Foster, Bill [D-IL-11] (F000454)
+- Rep. Mucarsel-Powell, Debbie [D-FL-26] (M001207)
+- Rep. Lofgren, Zoe [D-CA-19] (L000397)
+- Rep. Ocasio-Cortez, Alexandria [D-NY-14] (O000172)
+- Rep. Clarke, Yvette D. [D-NY-9] (C001067)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Rep. Loebsack, David [D-IA-2] (L000565)
+- Rep. Bonamici, Suzanne [D-OR-1] (B001278)
+- Rep. DeSaulnier, Mark [D-CA-11] (D000623)
+- Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. Lynch, Stephen F. [D-MA-8] (L000562)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Levin, Andy [D-MI-9] (L000592)
+- Rep. Tlaib, Rashida [D-MI-13] (T000481)
+- Rep. Doyle, Michael F. [D-PA-18] (D000482)
+- Rep. Kirkpatrick, Ann [D-AZ-2] (K000368)
+- Rep. Evans, Dwight [D-PA-3] (E000296)
+- Rep. Kim, Andy [D-NJ-3] (K000394)
+- Rep. Raskin, Jamie [D-MD-8] (R000606)
+- Rep. McGovern, James P. [D-MA-2] (M000312)
+- Rep. Beatty, Joyce [D-OH-3] (B001281)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Dean, Madeleine [D-PA-4] (D000631)
+- Rep. Clark, Katherine M. [D-MA-5] (C001101)
+
+## Committees (1)
+
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -159,3 +191,15 @@ Directing the President pursuant to section 5(c) of the War Powers Resolution to
 - 2020-01-08 — Introduced in House
 - 2020-01-08 — Referred to the House Committee on Foreign Affairs.
 - 2020-01-08 — Rules Committee Resolution H. Res. 781 Reported to House. Rule provides for consideration of H. Con. Res. 83 with 2 hours of general debate.
+- 2020-01-09 — Amendment reported by the House Committee on Rules.
+- 2020-01-09 — Considered under the provisions of rule H. Res. 781. (consideration: CR H92-116)
+- 2020-01-09 — DEBATE - The House proceeded with two hours of debate on H. Con. Res. 83.
+- 2020-01-09 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2020-01-09 — House amendment offered
+- 2020-01-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-01-09 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2020-01-09 — On agreeing to the resolution Agreed to by the Yeas and Nays: 224 - 194 (Roll no. 7). (text: CR H92)
+- 2020-01-09 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 224 - 194 (Roll no. 7).(text: CR H92)
+- 2020-01-09 — Rule H. Res. 781 passed House.
+- 2020-01-09 — Rule provides for consideration of H. Con. Res. 83 with 2 hours of general debate.
+- 2020-01-09 — The previous question was ordered pursuant to the rule.
