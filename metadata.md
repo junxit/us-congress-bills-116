@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2881
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2881
@@ -78,3 +78,4 @@ Secure 5G and Beyond Act of 2020
 - 2020-01-08 — Mr. Doyle, Michael F. moved to suspend the rules and pass the bill, as amended.
 - 2020-01-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 3 (Roll no. 4). (text: CR H44)
 - 2020-01-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 3 (Roll no. 4).(text: CR H44)
+- 2020-01-09 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 403.
