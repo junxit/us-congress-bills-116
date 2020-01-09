@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5078
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -40,7 +40,7 @@ The Small Business Act (15 U.S.C. 631 et seq.) is amended—
   >   - **(5)** upon completion of the counseling and training, a presentation of a certificate.
   > - **(e)** *Priority* The Administrator shall, to the extent practicable, ensure that women’s business centers and small business development centers prioritize providing entrepreneurship counseling and training services to covered individuals who will be released from Federal custody not later than 18 months after the date on which such a covered individual begins to receive such services.
   > - **(f)** *Continuation of services* A covered individual receiving services under this section may continue to receive such services after release from Federal custody.
-  > - **(g)** *Grant authority* In carrying out this section, the Administrator may award a grant to an association formed to pursue matters of common concern to women’s business centers or small business development centers to coordinate the services described under this section, including to develop curriculum, train mentors and instructors, and establish public-private partnerships to support covered individuals and identify opportunities to access capital.
+  > - **(g)** *Grant authority* In carrying out this section, the Administrator may, subject to appropriation, award a grant to an association formed to pursue matters of common concern to women’s business centers or small business development centers to coordinate the services described under this section, including to develop curriculum, train mentors and instructors, and establish public-private partnerships to support covered individuals and identify opportunities to access capital.
   > - **(h)** *Curriculum* The Administration shall print and make available to women’s business centers, small business development centers, an association of women’s business centers, or an association of small business development centers any curriculum or course materials developed pursuant to this section.
   > - **(i)** *Survey* Each women’s business center or small business development center that provided services under this section shall survey covered individuals who received such services to assess the satisfaction of such covered individuals with such services.
   > - **(j)** *Report* Not later than 1 year after the date of the enactment of this section and annually thereafter, the Administrator shall submit to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate a report on the performance and effectiveness of the services provided under this section, which may be included as part of another report submitted to such committees by the Administrator, and which shall include—
