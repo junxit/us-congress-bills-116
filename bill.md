@@ -1,0 +1,21 @@
+---
+legis-num: S. 3173
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3173
+
+> To amend the Internal Revenue Code of 1986 to provide that amounts paid for an abortion are not taken into account for purposes of the deduction for medical expenses.
+
+## § 1. Short title
+
+This Act may be cited as the “Abortion Is Not Health Care Act of 2020”.
+
+## § 2. Amounts paid for abortion not taken into account in determining deduction for medical expenses
+
+- **(a)** *In general* Section 213 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:
+  > - **(g)** *Amounts paid for abortion not taken into account* An amount paid during the taxable year for an abortion shall not be taken into account under subsection (a).
+
+- **(b)** *Effective date* The amendment made by this section shall apply to taxable years beginning after the date of the enactment of this Act.
