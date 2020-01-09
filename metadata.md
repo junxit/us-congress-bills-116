@@ -1,7 +1,7 @@
 ---
 measure: H.R. 925
 congress: 116
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 925
@@ -77,3 +77,16 @@ The Heroes Act
 - 2019-11-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9083)
 - 2019-11-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9083)
 - 2019-11-21 — Received in the Senate, read twice.
+- 2020-01-09 — Amendment SA 1276 agreed to in Senate by Unanimous Consent.
+- 2020-01-09 — Amendment SA 1276 proposed by Senator McConnell for Senator Barrasso. (consideration: CR S148; text: CR S129-139) In the nature of a substitute.
+- 2020-01-09 — Amendment SA 1277 agreed to in Senate by Unanimous Consent.
+- 2020-01-09 — Amendment SA 1277 proposed by Senator McConnell for Senator Barrasso. (consideration: CR S148; text: CR S148) To amend the title.
+- 2020-01-09 — Measure laid before Senate by unanimous consent. (consideration: CR S148)
+- 2020-01-09 — Passed Senate with an amendment and an amendment to the Title by Voice Vote. (text: CR S148)
+- 2020-01-09 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Voice Vote.(text: CR S148)
+- 2020-01-09 — Senate amendment agreed to: Amendment SA 1276 agreed to in Senate by Unanimous Consent.
+- 2020-01-09 — Senate amendment agreed to: Amendment SA 1277 agreed to in Senate by Unanimous Consent.
+- 2020-01-09 — Senate amendment proposed (on the floor): Amendment SA 1276 proposed by Senator McConnell for Senator Barrasso.
+- 2020-01-09 — Senate amendment proposed (on the floor): Amendment SA 1277 proposed by Senator McConnell for Senator Barrasso.
+- 2020-01-09 — Senate amendment submitted
+- 2020-01-09 — Senate amendment submitted
