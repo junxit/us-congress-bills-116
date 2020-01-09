@@ -1,0 +1,12 @@
+---
+legis-num: S.J. RES. 67
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S.J. RES. 67
+
+> Providing for the reappointment of Risa Lavizzo-Mourey as a citizen regent of the Board of Regents of the Smithsonian Institution.
+
+That, in accordance with section 5581 of the Revised Statutes (20 U.S.C. 43), the vacancy on the Board of Regents of the Smithsonian Institution, in the class other than Members of Congress, occurring by reason of the expiration of the term of Risa Lavizzo-Mourey of Pennsylvania on February 21, 2020, is filled by the reappointment of the incumbent. The reappointment is for a term of six years, beginning on the later of February 21, 2020, or the date of enactment of this joint resolution.
