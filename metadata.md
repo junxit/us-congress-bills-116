@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3763
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3763
@@ -31,9 +31,10 @@ Promoting United States International Leadership in 5G Act of 2019
 - Rep. Moulton, Seth [D-MA-6] (M001196)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ Promoting United States International Leadership in 5G Act of 2019
 - 2020-01-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H30)
 - 2020-01-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H30)
 - 2020-01-08 — The title of the measure was amended. Agreed to without objection.
+- 2020-01-09 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
