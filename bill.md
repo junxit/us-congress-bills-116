@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4737
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -18,12 +18,12 @@ This Act may be cited as the “Department of Homeland Security Climate Change R
 - **(a)** *In general* Title III of the Homeland Security Act of 2002 is amended by adding at the end the following new section:
   > ## § 321. Climate change research and development
   >
-  > - **(a)** *In general* The Under Secretary for Science and Technology shall—
-  >   - **(1)** research and evaluate existing Federal research regarding approaches to mitigate the consequence of climate change on homeland security to identify areas for additional research and development pursuant to paragraph (2) with respect to—
+  > - **(a)** *In general* The Under Secretary for Science and Technology—
+  >   - **(1)** shall evaluate existing Federal research regarding approaches to mitigate the consequence of climate change on homeland security to identify areas for additional research and development pursuant to paragraph (2) with respect to—
   >     - **(A)** any connection between climate change and homeland security, including how the resulting competition for resources, economic distress, and social discontent has contributed to, among other outcomes, acts of terrorism;
   >     - **(B)** the degree to which climate change is reflected in terrorism preparedness and emergency planning and policies, including with respect to preparedness, response to, and recovery from natural disasters; and
   >     - **(C)** the degree to which the Federal funding structure to respond to major disaster declarations and emergency declarations is adequately structured to meet the demands of responding to and recovering from acts of terrorism and natural disasters that are aggravated by climate change; and
-  >   - **(2)** shall conduct research and development on approaches to mitigate the consequences of climate change on homeland security in response to finding pursuant to paragraph (1).
+  >   - **(2)** shall, to the extent practicable, conduct research and development on approaches to mitigate the consequences of climate change on homeland security in response to finding pursuant to paragraph (1).
   > - **(b)** *Scope* The scope of the research and development under subsection (a)(2) shall include the following:
   >   - **(1)** Any connection between climate change and homeland security, including how the resulting competition for resources, economic distress, and social discontent can contribute to, among other outcomes, acts of terrorism.
   >   - **(2)** The degree to which climate change is reflected in terrorism preparedness and emergency planning and policies, including with respect to preparedness, response to, and recovery from natural disasters.
@@ -32,6 +32,9 @@ This Act may be cited as the “Department of Homeland Security Climate Change R
   > - **(d)** *Climate change defined* The term “climate change” refers to detectable changes in one or more climate system components that is directly or indirectly attributed to—
   >   - **(1)** human activity; and
   >   - **(2)** altering the composition of the global atmosphere.
-  > - **(e)** *Report to Congress* On an annual basis, the Under Secretary for Science and Technology shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on research and development activities under subsection (a), including completed and ongoing research projects.
 
 - **(b)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 320 the following new item:
+
+## § 3. Report to Congress
+
+Not later than one year after the date of the enactment of this Act and annually thereafter for three years, the Under Secretary for Science and Technology of the Department of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on any research and development activities carried out pursuant to section 321 of the Homeland Security Act of 2002, as added by this Act.
