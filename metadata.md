@@ -1,7 +1,7 @@
 ---
 measure: H.R. 535
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 535
@@ -90,6 +90,14 @@ PFAS Action Act of 2019
 - House — Transportation and Infrastructure Committee
 - House — Energy and Commerce Committee
 
+## Recorded votes (5)
+
+- 2020-01-10 — [House 116-2-9](votes/house-116-2-0009.md) — On Agreeing to the Amendment — **Failed** (161–247)
+- 2020-01-10 — [House 116-2-10](votes/house-116-2-0010.md) — On Agreeing to the Amendment — **Failed** (170–239)
+- 2020-01-10 — [House 116-2-11](votes/house-116-2-0011.md) — On Agreeing to the Amendment — **Agreed to** (242–168)
+- 2020-01-10 — [House 116-2-12](votes/house-116-2-0012.md) — On Motion to Recommit with Instructions — **Failed** (187–219)
+- 2020-01-10 — [House 116-2-13](votes/house-116-2-0013.md) — On Passage — **Passed** (247–159)
+
 ## Actions
 
 - 2019-01-14 — Introduced in House
@@ -107,3 +115,180 @@ PFAS Action Act of 2019
 - 2020-01-02 — Placed on the Union Calendar, Calendar No. 289.
 - 2020-01-02 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-364, Part I.
 - 2020-01-02 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-364, Part I.
+- 2020-01-07 — Rules Committee Resolution H. Res. 779 Reported to House. Rule provides for consideration of H.R. 535 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2020-01-08 — Rule H. Res. 779 passed House.
+- 2020-01-09 — Amendment (A001) offered by Mr. Woodall. (consideration: CR H127-128; text: CR H127)
+- 2020-01-09 — Amendment (A002) offered by Mr. Burgess. (consideration: CR H128-129; text: CR H128)
+- 2020-01-09 — Amendment (A003) offered by Mr. Hudson. (consideration: CR H129-130; text: CR H129)
+- 2020-01-09 — Amendment (A004) offered by Mr. Hudson. (consideration: CR H130-131; text: CR H130)
+- 2020-01-09 — Amendment (A005) offered by Mr. Balderson. (consideration: CR H131-132; text: CR H131)
+- 2020-01-09 — Amendment (A006) offered by Mr. Delgado. (consideration: CR H132-133; text: CR H132)
+- 2020-01-09 — Amendment (A007) offered by Ms. Pingree. (consideration: CR H133-134; text: CR H133)
+- 2020-01-09 — Amendment (A008) offered by Mr. Kildee. (consideration: CR H134-135; text: CR H134)
+- 2020-01-09 — Amendment (A009) offered by Mr. Tonko. (consideration: CR H135-136; text: CR H135)
+- 2020-01-09 — Amendment (A010) offered by Miss Rice (NY). (consideration: CR H136; text: CR H136)
+- 2020-01-09 — Amendment (A011) offered by Mr. Brown (MD). (consideration: CR H136-137; text: CR H136)
+- 2020-01-09 — Amendment (A012) offered by Mr. Pappas. (consideration: CR H137-139; text: CR H137-138)
+- 2020-01-09 — Amendment (A013) offered by Ms. Plaskett. (consideration: CR H139; text: CR H139)
+- 2020-01-09 — Amendment (A014) offered by Mr. Brindisi. (consideration: CR H139-140; text: CR H139)
+- 2020-01-09 — Amendment (A015) offered by Mr. Brindisi. (consideration: CR H140-141; text: CR H140)
+- 2020-01-09 — Amendment (A016) offered by Mr. Golden. (consideration: CR H141; text: CR H141)
+- 2020-01-09 — Amendment (A017) offered by Mrs. Axne. (consideration: CR H141-142; text: CR H141)
+- 2020-01-09 — Amendment agreed to Committee of the Whole
+- 2020-01-09 — Amendment agreed to Committee of the Whole
+- 2020-01-09 — Amendment agreed to Committee of the Whole
+- 2020-01-09 — Amendment agreed to Committee of the Whole
+- 2020-01-09 — Amendment agreed to Committee of the Whole
+- 2020-01-09 — Amendment agreed to Committee of the Whole
+- 2020-01-09 — Amendment agreed to Committee of the Whole
+- 2020-01-09 — Amendment agreed to Committee of the Whole
+- 2020-01-09 — Amendment agreed to Committee of the Whole
+- 2020-01-09 — Amendment agreed to Committee of the Whole
+- 2020-01-09 — Amendment agreed to Committee of the Whole
+- 2020-01-09 — Amendment agreed to Committee of the Whole
+- 2020-01-09 — Amendment agreed to Committee of the Whole
+- 2020-01-09 — Amendment agreed to Committee of the Whole
+- 2020-01-09 — Axne amendment (A017) modified by unanimous consent. (text as modified: CR H141-142)
+- 2020-01-09 — Committee of the Whole House on the state of the Union rises leaving H.R. 535 as unfinished business.
+- 2020-01-09 — Considered under the provisions of rule H. Res. 779. (consideration: CR H116-142; text: CR H125-127)
+- 2020-01-09 — DEBATE - Pursuant to the provisions of H. Res. 779, the Committee of the Whole proceeded with 10 minutes of debate on the Axne amendment No. 18, as modified.
+- 2020-01-09 — DEBATE - Pursuant to the provisions of H. Res. 779, the Committee of the Whole proceeded with 10 minutes of debate on the Balderson amendment No. 6.
+- 2020-01-09 — DEBATE - Pursuant to the provisions of H. Res. 779, the Committee of the Whole proceeded with 10 minutes of debate on the Brindisi amendment No. 15.
+- 2020-01-09 — DEBATE - Pursuant to the provisions of H. Res. 779, the Committee of the Whole proceeded with 10 minutes of debate on the Brindisi amendment No. 16.
+- 2020-01-09 — DEBATE - Pursuant to the provisions of H. Res. 779, the Committee of the Whole proceeded with 10 minutes of debate on the Brown (MD) amendment No. 12.
+- 2020-01-09 — DEBATE - Pursuant to the provisions of H. Res. 779, the Committee of the Whole proceeded with 10 minutes of debate on the Burgess amendment No. 2.
+- 2020-01-09 — DEBATE - Pursuant to the provisions of H. Res. 779, the Committee of the Whole proceeded with 10 minutes of debate on the Delgado amendment No. 7
+- 2020-01-09 — DEBATE - Pursuant to the provisions of H. Res. 779, the Committee of the Whole proceeded with 10 minutes of debate on the Golden amendment No. 17.
+- 2020-01-09 — DEBATE - Pursuant to the provisions of H. Res. 779, the Committee of the Whole proceeded with 10 minutes of debate on the Hudson amendment No. 4.
+- 2020-01-09 — DEBATE - Pursuant to the provisions of H. Res. 779, the Committee of the Whole proceeded with 10 minutes of debate on the Hudson amendment No. 5.
+- 2020-01-09 — DEBATE - Pursuant to the provisions of H. Res. 779, the Committee of the Whole proceeded with 10 minutes of debate on the Kildee amendment No. 9
+- 2020-01-09 — DEBATE - Pursuant to the provisions of H. Res. 779, the Committee of the Whole proceeded with 10 minutes of debate on the Pappas amendment No. 13.
+- 2020-01-09 — DEBATE - Pursuant to the provisions of H. Res. 779, the Committee of the Whole proceeded with 10 minutes of debate on the Pingree amendment No. 8.
+- 2020-01-09 — DEBATE - Pursuant to the provisions of H. Res. 779, the Committee of the Whole proceeded with 10 minutes of debate on the Plaskett amendment No. 14.
+- 2020-01-09 — DEBATE - Pursuant to the provisions of H. Res. 779, the Committee of the Whole proceeded with 10 minutes of debate on the Rice (NY) amendment No. 11.
+- 2020-01-09 — DEBATE - Pursuant to the provisions of H. Res. 779, the Committee of the Whole proceeded with 10 minutes of debate on the Tonko amendment No. 10.
+- 2020-01-09 — DEBATE - Pursuant to the provisions of H. Res. 779, the Committee of the Whole proceeded with 10 minutes of debate on the Woodall amendment No. 1.
+- 2020-01-09 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 535.
+- 2020-01-09 — House amendment agreed to: On agreeing to the Axne amendment (A017) as modified Agreed to by voice vote.
+- 2020-01-09 — House amendment agreed to: On agreeing to the Brindisi amendment (A014) Agreed to by voice vote.
+- 2020-01-09 — House amendment agreed to: On agreeing to the Brindisi amendment (A015) Agreed to by voice vote.
+- 2020-01-09 — House amendment agreed to: On agreeing to the Brown (MD) amendment (A011) Agreed to by voice vote.
+- 2020-01-09 — House amendment agreed to: On agreeing to the Delgado amendment (A006) Agreed to by voice vote.
+- 2020-01-09 — House amendment agreed to: On agreeing to the Golden amendment (A016) Agreed to by voice vote.
+- 2020-01-09 — House amendment agreed to: On agreeing to the Hudson amendment (A003) Agreed to by voice vote.
+- 2020-01-09 — House amendment agreed to: On agreeing to the Hudson amendment (A004) Agreed to by voice vote.
+- 2020-01-09 — House amendment agreed to: On agreeing to the Kildee amendment (A008) Agreed to by voice vote.
+- 2020-01-09 — House amendment agreed to: On agreeing to the Pingree amendment (A007) Agreed to by voice vote.
+- 2020-01-09 — House amendment agreed to: On agreeing to the Plaskett amendment (A013) Agreed to by voice vote.
+- 2020-01-09 — House amendment agreed to: On agreeing to the Rice (NY) amendment (A010) Agreed to by voice vote.
+- 2020-01-09 — House amendment agreed to: On agreeing to the Tonko amendment (A009) Agreed to by voice vote.
+- 2020-01-09 — House amendment agreed to: On agreeing to the Woodall amendment (A001) Agreed to by voice vote.
+- 2020-01-09 — House amendment offered
+- 2020-01-09 — House amendment offered
+- 2020-01-09 — House amendment offered
+- 2020-01-09 — House amendment offered
+- 2020-01-09 — House amendment offered
+- 2020-01-09 — House amendment offered
+- 2020-01-09 — House amendment offered
+- 2020-01-09 — House amendment offered
+- 2020-01-09 — House amendment offered
+- 2020-01-09 — House amendment offered
+- 2020-01-09 — House amendment offered
+- 2020-01-09 — House amendment offered
+- 2020-01-09 — House amendment offered
+- 2020-01-09 — House amendment offered
+- 2020-01-09 — House amendment offered
+- 2020-01-09 — House amendment offered
+- 2020-01-09 — House amendment offered
+- 2020-01-09 — House amendment offered/reported by: Amendment (A001) offered by Mr. Woodall.
+- 2020-01-09 — House amendment offered/reported by: Amendment (A002) offered by Mr. Burgess.(consideration: CR H128-129; text: CR H128)
+- 2020-01-09 — House amendment offered/reported by: Amendment (A003) offered by Mr. Hudson.
+- 2020-01-09 — House amendment offered/reported by: Amendment (A004) offered by Mr. Hudson.
+- 2020-01-09 — House amendment offered/reported by: Amendment (A005) offered by Mr. Balderson.(consideration: CR H131-132; text: CR H131)
+- 2020-01-09 — House amendment offered/reported by: Amendment (A006) offered by Mr. Delgado.
+- 2020-01-09 — House amendment offered/reported by: Amendment (A007) offered by Ms. Pingree.
+- 2020-01-09 — House amendment offered/reported by: Amendment (A008) offered by Mr. Kildee.
+- 2020-01-09 — House amendment offered/reported by: Amendment (A009) offered by Mr. Tonko.
+- 2020-01-09 — House amendment offered/reported by: Amendment (A010) offered by Miss Rice (NY).
+- 2020-01-09 — House amendment offered/reported by: Amendment (A011) offered by Mr. Brown (MD).
+- 2020-01-09 — House amendment offered/reported by: Amendment (A012) offered by Mr. Pappas.(consideration: CR H137-139; text: CR H137-138)
+- 2020-01-09 — House amendment offered/reported by: Amendment (A013) offered by Ms. Plaskett.
+- 2020-01-09 — House amendment offered/reported by: Amendment (A014) offered by Mr. Brindisi.
+- 2020-01-09 — House amendment offered/reported by: Amendment (A015) offered by Mr. Brindisi.
+- 2020-01-09 — House amendment offered/reported by: Amendment (A016) offered by Mr. Golden.
+- 2020-01-09 — House amendment offered/reported by: Amendment (A017) offered by Mrs. Axne.
+- 2020-01-09 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 779 and Rule XVIII.
+- 2020-01-09 — Mr. Tonko moved that the Committee rise.
+- 2020-01-09 — On agreeing to the Axne amendment (A017) as modified Agreed to by voice vote.
+- 2020-01-09 — On agreeing to the Brindisi amendment (A014) Agreed to by voice vote.
+- 2020-01-09 — On agreeing to the Brindisi amendment (A015) Agreed to by voice vote.
+- 2020-01-09 — On agreeing to the Brown (MD) amendment (A011) Agreed to by voice vote.
+- 2020-01-09 — On agreeing to the Delgado amendment (A006) Agreed to by voice vote.
+- 2020-01-09 — On agreeing to the Golden amendment (A016) Agreed to by voice vote.
+- 2020-01-09 — On agreeing to the Hudson amendment (A003) Agreed to by voice vote.
+- 2020-01-09 — On agreeing to the Hudson amendment (A004) Agreed to by voice vote.
+- 2020-01-09 — On agreeing to the Kildee amendment (A008) Agreed to by voice vote.
+- 2020-01-09 — On agreeing to the Pingree amendment (A007) Agreed to by voice vote.
+- 2020-01-09 — On agreeing to the Plaskett amendment (A013) Agreed to by voice vote.
+- 2020-01-09 — On agreeing to the Rice (NY) amendment (A010) Agreed to by voice vote.
+- 2020-01-09 — On agreeing to the Tonko amendment (A009) Agreed to by voice vote.
+- 2020-01-09 — On agreeing to the Woodall amendment (A001) Agreed to by voice vote.
+- 2020-01-09 — On motion that the Committee rise Agreed to by voice vote.
+- 2020-01-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Balderson amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. Tonko demanded a recorded vote and the Chair postponed further proceedings on the Balderson amendment until a time to be announced.
+- 2020-01-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Burgess amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. Burgess demanded a recorded vote and the Chair postponed further proceedings on the Burgess amendment until a time to be announced.
+- 2020-01-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pappas amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the ayes had prevailed. Mr. Tonko demanded a recorded vote and the Chair postponed further proceedings on the Pappas amendment until a time to be announced.
+- 2020-01-09 — Rule provides for consideration of H.R. 535 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2020-01-09 — The Speaker designated the Honorable Daniel T. Kildee to act as Chairman of the Committee.
+- 2020-01-10 — Amendment (A018) offered by Ms. Tlaib. (consideration: CR H153-155; text: CR H153-154)
+- 2020-01-10 — Amendment (A019) offered by Mr. Malinowski. (consideration: CR H155-156; text: CR H155)
+- 2020-01-10 — Amendment (A020) offered by Mr. Levin (MI). (consideration: CR H156-158; text: CR H156-157)
+- 2020-01-10 — Amendment (A021) offered by Ms. Slotkin. (consideration: CR H158-160; text: CR H158)
+- 2020-01-10 — Amendment agreed to Committee of the Whole
+- 2020-01-10 — Amendment agreed to Committee of the Whole
+- 2020-01-10 — Amendment agreed to Committee of the Whole
+- 2020-01-10 — Amendment agreed to Committee of the Whole
+- 2020-01-10 — Amendment agreed to Committee of the Whole
+- 2020-01-10 — Amendment failed in Committee of the Whole
+- 2020-01-10 — Amendment failed in Committee of the Whole
+- 2020-01-10 — Considered as unfinished business. (consideration: CR H153-164)
+- 2020-01-10 — DEBATE - Pursuant to the provisions of H. Res. 779, the Committee of the Whole proceeded with 10 minutes of debate on the Levin (MI) amendment No. 21.
+- 2020-01-10 — DEBATE - Pursuant to the provisions of H. Res. 779, the Committee of the Whole proceeded with 10 minutes of debate on the Malinowski amendment No. 20, as modified.
+- 2020-01-10 — DEBATE - Pursuant to the provisions of H. Res. 779, the Committee of the Whole proceeded with 10 minutes of debate on the Slotkin amendment No. 22.
+- 2020-01-10 — DEBATE - Pursuant to the provisions of H. Res. 779, the Committee of the Whole proceeded with 10 minutes of debate on the Tlaib amendment No. 19.
+- 2020-01-10 — DEBATE - The House proceeded with 10 minutes of debate on the Rodgers (WA) motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment including language "unborn child" to the testing procedure described in such national primary drinking water regulation by publishing the procedure or method in the Federal Register in accordance with section 1401 (1)(D).
+- 2020-01-10 — House amendment agreed to: On agreeing to the Levin (MI) amendment (A020) Agreed to by voice vote.
+- 2020-01-10 — House amendment agreed to: On agreeing to the Malinowski amendment (A019) as modified Agreed to by voice vote.
+- 2020-01-10 — House amendment agreed to: On agreeing to the Pappas amendment (A012) Agreed to by recorded vote: 242 - 168 (Roll no. 11).
+- 2020-01-10 — House amendment agreed to: On agreeing to the Slotkin amendment (A021) Agreed to by voice vote.
+- 2020-01-10 — House amendment agreed to: On agreeing to the Tlaib amendment (A018) Agreed to by voice vote.
+- 2020-01-10 — House amendment not agreed to: On agreeing to the Balderson amendment (A005) Failed by recorded vote: 170 - 239 (Roll no. 10).
+- 2020-01-10 — House amendment not agreed to: On agreeing to the Burgess amendment (A002) Failed by recorded vote: 161 - 247 (Roll no. 9).
+- 2020-01-10 — House amendment offered
+- 2020-01-10 — House amendment offered
+- 2020-01-10 — House amendment offered
+- 2020-01-10 — House amendment offered
+- 2020-01-10 — House amendment offered/reported by: Amendment (A018) offered by Ms. Tlaib.
+- 2020-01-10 — House amendment offered/reported by: Amendment (A019) offered by Mr. Malinowski.(consideration: CR H155-156 ; text: CR H155)
+- 2020-01-10 — House amendment offered/reported by: Amendment (A020) offered by Mr. Levin (MI).(consideration: CR H156-158; text: CR H156-157)
+- 2020-01-10 — House amendment offered/reported by: Amendment (A021) offered by Ms. Slotkin.(consideration: CR H158-160 ; text: CR H158)
+- 2020-01-10 — Malinowski amendment (A019) modified by unanimous consent. (text as modified: CR H155)
+- 2020-01-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-01-10 — Mrs. Rodgers (WA) moved to recommit with instructions to the Committee on Energy and Commerce. (text: CR H162)
+- 2020-01-10 — On agreeing to the Balderson amendment (A005) Failed by recorded vote: 170 - 239 (Roll no. 10). (consideration: CR H160-161)
+- 2020-01-10 — On agreeing to the Burgess amendment (A002) Failed by recorded vote: 161 - 247 (Roll no. 9). (consideration: CR H160)
+- 2020-01-10 — On agreeing to the Levin (MI) amendment (A020) Agreed to by voice vote.
+- 2020-01-10 — On agreeing to the Malinowski amendment (A019) as modified Agreed to by voice vote.
+- 2020-01-10 — On agreeing to the Pappas amendment (A012) Agreed to by recorded vote: 242 - 168 (Roll no. 11). (consideration: CR H161-162)
+- 2020-01-10 — On agreeing to the Slotkin amendment (A021) Agreed to by voice vote.
+- 2020-01-10 — On agreeing to the Tlaib amendment (A018) Agreed to by voice vote.
+- 2020-01-10 — On motion to recommit with instructions Failed by recorded vote: 187 - 219 (Roll no. 12).
+- 2020-01-10 — On passage Passed by the Yeas and Nays: 247 - 159 (Roll no. 13).
+- 2020-01-10 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 247 - 159 (Roll no. 13).
+- 2020-01-10 — Roll call votes on amendments in House
+- 2020-01-10 — Roll call votes on amendments in House
+- 2020-01-10 — Roll call votes on amendments in House
+- 2020-01-10 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2020-01-10 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2020-01-10 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 535.
+- 2020-01-10 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2020-01-10 — The previous question was ordered pursuant to the rule.
