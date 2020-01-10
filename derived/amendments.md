@@ -1,7 +1,7 @@
 ---
 measure: H.R. 560
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,4 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `48 U.S.C. § 1806` | add-at-end | Section 6(e) of the Joint Resolution entitled “A Joint Resolution to approve the Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, and for other purposes”, approved… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `48 U.S.C. § 1806` | insert | in clause (iii), by inserting “except in the case of an alien who meets the requirements of subclause (VI) of clause (v),” before “resided continuously and lawfully”; and | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1101` | replace | in subclause (IV), by striking “; or” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `8 U.S.C. § 1101` | replace | in subclause (V), by striking the period at the end and inserting “;”; and | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
