@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1492
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1492
@@ -25,3 +25,11 @@ Yucca House National Monument Expansion Act
 - 2019-03-04 — Introduced in House
 - 2019-03-04 — Introduced in House
 - 2019-03-04 — Referred to the House Committee on Natural Resources.
+- 2019-03-25 — Referred to the Subcommittee on National Parks, Forests, and Public Lands.
+- 2019-07-18 — Subcommittee Hearings Held.
+- 2019-09-25 — Committee Consideration and Mark-up Session Held.
+- 2019-09-25 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2019-09-25 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2020-01-10 — Placed on the Union Calendar, Calendar No. 297.
+- 2020-01-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-374.
+- 2020-01-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-374.

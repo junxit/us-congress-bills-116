@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1492
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,10 +11,18 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Yucca House National Monument Boundary Revision Act”.
+This Act may be cited as the “Yucca House National Monument Expansion Act”.
 
-## § 2. Yucca House National Monument Amendments
+## § 2. Definitions
 
-- **(a)** *Boundary adjustment* The boundaries of Yucca House National Monument are revised to include the approximately 160 acres of land generally depicted as “Proposed Expansion Tract” on the map entitled “Yucca House National Monument Proposed Boundary Revision”, numbered 318/105,085, and dated August 2010.
-- **(b)** *Map* The map referred to in subsection (a) shall be on file and available for public inspection in appropriate offices of the National Park Service of the Department of the Interior.
-- **(c)** *Acquisition* Within the lands described in subsection (a), the Secretary of the Interior may acquire lands and interests in lands by donation. The Secretary of the Interior may pay administrative costs of such donations with appropriated funds.
+In this Act:
+
+- **(1)** *National monument* The term “National Monument” means the Yucca House National Monument in Cortez, Colorado, established by Presidential Proclamation 1549.
+- **(2)** *Map* The term “map” means the map entitled “Yucca House National Monument Proposed Boundary Addition”, numbered 318/105,085A, and dated February 27, 2019.
+- **(3)** *Secretary* The term “Secretary” means the Secretary of the Interior.
+
+## § 3. Yucca House National Monument land acquisition
+
+- **(a)** *Acquisition* The Secretary may acquire by donation the approximately 160 acres of land and any interests in the land that is identified on the map.
+- **(b)** *Boundary* On the acquisition of the land authorized under subsection (a), the Secretary shall adjust the boundaries of the National Monument to include the acquired land.
+- **(c)** *Administration* The land and any interests in land acquired under subsection (a) shall be administered as part of the National Monument.
