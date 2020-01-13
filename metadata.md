@@ -1,7 +1,7 @@
 ---
 measure: H.R. 535
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 535
@@ -85,10 +85,11 @@ PFAS Action Act of 2019
 - Rep. Cárdenas, Tony [D-CA-29] (C001097)
 - Rep. Stevens, Haley M. [D-MI-11] (S001215)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Energy and Commerce Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -284,3 +285,4 @@ PFAS Action Act of 2019
 - 2020-01-10 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 535.
 - 2020-01-10 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2020-01-10 — The previous question was ordered pursuant to the rule.
+- 2020-01-13 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
