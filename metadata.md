@@ -1,7 +1,7 @@
 ---
 measure: S. 1982
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1982
@@ -40,9 +40,15 @@ Save Our Seas 2.0 Act
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Committees (1)
+## Committees (7)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Agriculture Committee
+- House — Natural Resources Committee
+- House — Energy and Commerce Committee
+- House — Transportation and Infrastructure Committee
+- House — Science, Space, and Technology Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -59,3 +65,11 @@ Save Our Seas 2.0 Act
 - 2020-01-09 — Senate amendment agreed to: Amendment SA 1278 agreed to in Senate by Unanimous Consent.
 - 2020-01-09 — Senate amendment proposed (on the floor): Amendment SA 1278 proposed by Senator McConnell for Senator Sullivan.
 - 2020-01-09 — Senate amendment submitted
+- 2020-01-13 — Message on Senate action sent to the House.
+- 2020-01-13 — Received in the House.
+- 2020-01-13 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Natural Resources, Foreign Affairs, Energy and Commerce, Science, Space, and Technology, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2020-01-13 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Natural Resources, Foreign Affairs, Energy and Commerce, Science, Space, and Technology, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2020-01-13 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Natural Resources, Foreign Affairs, Energy and Commerce, Science, Space, and Technology, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2020-01-13 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Natural Resources, Foreign Affairs, Energy and Commerce, Science, Space, and Technology, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2020-01-13 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Natural Resources, Foreign Affairs, Energy and Commerce, Science, Space, and Technology, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2020-01-13 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Natural Resources, Foreign Affairs, Energy and Commerce, Science, Space, and Technology, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
