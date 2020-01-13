@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 66
 congress: 116
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S.J.Res. 66
@@ -33,3 +33,15 @@ A joint resolution providing for the appointment of Denise O'Leary as a citizen 
 - 2020-01-13 — Message on Senate action sent to the House.
 - 2020-01-13 — Received in the House.
 - 2020-01-13 — Referred to the House Committee on House Administration.
+- 2020-03-31 — Committee on House Administration discharged.
+- 2020-03-31 — Committee on House Administration discharged.
+- 2020-03-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-03-31 — On passage Passed without objection. (text: CR H1870)
+- 2020-03-31 — Passed/agreed to in House: On passage Passed without objection.(text: CR H1870)
+- 2020-03-31 — Without objection, the Chair laid before the House S.J. Res. 66. (consideration: CR H1870)
+- 2020-04-03 — Presented to President.
+- 2020-04-03 — Presented to President.
+- 2020-04-10 — Became Public Law No: 116-138.
+- 2020-04-10 — Became Public Law No: 116-138.
+- 2020-04-10 — Signed by President.
+- 2020-04-10 — Signed by President.
