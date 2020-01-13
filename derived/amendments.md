@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3851
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 3 executed, 0 stated and not applied.
+16 amendatory instructions. 6 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,12 +26,39 @@ to guess them.
 
 ### 22 U.S.C. § 2131
 
-> in paragraph (2)(B), by striking “2020” and inserting “2027”; and
+> in paragraph (7)(C), by striking “3 days” and inserting “5 days”.
+
+| | |
+|---|---|
+| Removed | `3 days` |
+| Inserted | `5 days` |
+
+### 22 U.S.C. § 2131
+
+> in paragraph (2), by striking “$500,000” and inserting “$450,000”; and
+
+| | |
+|---|---|
+| Removed | `$500,000` |
+| Inserted | `$450,000` |
+
+### 22 U.S.C. § 2131
+
+> in paragraph (2)(B), by striking “2020” and inserting “2027”;
 
 | | |
 |---|---|
 | Removed | `2020` |
 | Inserted | `2027` |
+
+### 22 U.S.C. § 2131
+
+> in paragraph (3)(B)(ii), by striking “70 percent” and inserting “50 percent”; and
+
+| | |
+|---|---|
+| Removed | `70 percent` |
+| Inserted | `50 percent` |
 
 ### 22 U.S.C. § 2131
 
@@ -50,3 +77,23 @@ to guess them.
 |---|---|
 | Removed | `$10` |
 | Inserted | `$17` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `22 U.S.C. § 2131` | insert | in clause (ii), by inserting “or foodservice” after “restaurant”; | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 2131` | insert | in clause (v), by inserting “, such as outdoor recreation” before the semicolon at the end; and | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 2131` | insert | in clause (viii), by inserting “commercial or private” before “passenger air sector”; | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 2131` | insert | in clause (iii), by inserting “speaking conventions, sales missions,” after “trade shows,”; | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 2131` | strike | in clause (iv), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 2131` | replace | in clause (v), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 2131` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2131` | redesignate | by redesignating subparagraph (I) as subparagraph (K); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2131` | strike | in subparagraph (H)(iii), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 2131` | insert | by inserting after subparagraph (H)(iii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
