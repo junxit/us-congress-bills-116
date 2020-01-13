@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 83
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 83
@@ -181,9 +181,10 @@ Directing the President pursuant to section 5(c) of the War Powers Resolution to
 - Rep. Dean, Madeleine [D-PA-4] (D000631)
 - Rep. Clark, Katherine M. [D-MA-5] (C001101)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -203,3 +204,4 @@ Directing the President pursuant to section 5(c) of the War Powers Resolution to
 - 2020-01-09 — Rule H. Res. 781 passed House.
 - 2020-01-09 — Rule provides for consideration of H. Con. Res. 83 with 2 hours of general debate.
 - 2020-01-09 — The previous question was ordered pursuant to the rule.
+- 2020-01-13 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
