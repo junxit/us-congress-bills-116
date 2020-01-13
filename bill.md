@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4335
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -30,7 +30,7 @@ The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by insert
 >   - **(1)** may exempt certain transactions that the Commission determines is appropriate, including those that—
 >     - **(A)** occur automatically;
 >     - **(B)** are made pursuant to an advance election; or
->     - **(C)** except as provided in paragraph (2), involve a purchase or sale of equity securities that satisfies the conditions under section 240.10b5–1(c) of title 17, Code of Federal Regulations; and
+>     - **(C)** except as provided in paragraph (2), involve a purchase or sale of equity securities that satisfies the conditions under section 240.10b5–1(c) of title 17, Code of Federal Regulations;
 >   - **(2)** may not exempt from those rules a transaction made by an executive officer or director of an issuer under a plan that—
 >     - **(A)** is described in section 240.10b5–1(c)(1)(i)(A)(3) of title 17, Code of Federal Regulations; and
 >     - **(B)** was adopted—
@@ -39,4 +39,7 @@ The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by insert
 >         - **(II)** the filing or furnishing of a current report on Form 8–K with respect to such event; and
 >       - **(ii)** with respect to an event described in section 7 or 8 of Form 8–K, between—
 >         - **(I)** the date on which the issuer determines that it will disclose such event; and
->         - **(II)** the filing or furnishing of a current report on Form 8–K with respect to such event.
+>         - **(II)** the filing or furnishing of a current report on Form 8–K with respect to such event; and
+>   - **(3)** shall exempt from those rules—
+>     - **(A)** issuers required to adopt and administer a code of ethics pursuant section 270.17j–1 of title 17, Code of Federal Regulations, and any other issuers registered under the Investment Company Act of 1940 whose investment advisers are required to adopt and administer a code of ethics pursuant to section 275.204A–1 of title 17, Code of Federal Regulations; and
+>     - **(B)** any event where such event is described in sections 1 through 6 of Form 8–K and the issuer has announced such event in a press release or other method of dissemination that complies with the requirements of section 101(e)(2) of Regulation FD (17 CFR Part 243.101(e)(2)).
