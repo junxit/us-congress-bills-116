@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 67
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.J.Res. 67
@@ -21,8 +21,15 @@ A joint resolution providing for the reappointment of Risa Lavizzo-Mourey as a c
 - Sen. Boozman, John [R-AR] (B001236)
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 
+## Committees (1)
+
+- House — Committee on House Administration
+
 ## Actions
 
 - 2020-01-09 — Introduced in Senate
 - 2020-01-09 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S148; text: CR S148)
 - 2020-01-09 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S148; text: CR S148)
+- 2020-01-13 — Message on Senate action sent to the House.
+- 2020-01-13 — Received in the House.
+- 2020-01-13 — Referred to the House Committee on House Administration.
