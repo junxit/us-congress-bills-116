@@ -1,7 +1,7 @@
 ---
 legis-num: H.J. RES. 80
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
