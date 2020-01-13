@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5078
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5078
@@ -22,9 +22,10 @@ Prison to Proprietorship Act
 - Rep. Spano, Ross [R-FL-15] (S001210)
 - Rep. Horn, Kendra S. [D-OK-5] (H001083)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ Prison to Proprietorship Act
 - 2020-01-09 — Motion to reconsider laid on the table Agreed to without objection.
 - 2020-01-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 370 - 41 (Roll no. 8). (text: 01/08/2020 CR H33)
 - 2020-01-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 370 - 41 (Roll no. 8).(text: 01/08/2020 CR H33)
+- 2020-01-13 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
