@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 65
 congress: 116
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S.J.Res. 65
@@ -33,3 +33,16 @@ A joint resolution providing for the reappointment of John Fahey as a citizen re
 - 2020-01-13 — Message on Senate action sent to the House.
 - 2020-01-13 — Received in the House.
 - 2020-01-13 — Referred to the House Committee on House Administration.
+- 2020-02-05 — Committee on House Administration discharged.
+- 2020-02-05 — Committee on House Administration discharged.
+- 2020-02-05 — Considered by unanimous consent. (consideration: CR H835)
+- 2020-02-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-02-05 — Ms. Lofgren asked unanimous consent to discharge from committee and consider.
+- 2020-02-05 — On passage Passed without objection. (text: CR H835)
+- 2020-02-05 — Passed/agreed to in House: On passage Passed without objection.
+- 2020-02-20 — Presented to President.
+- 2020-02-20 — Presented to President.
+- 2020-03-02 — Became Public Law No: 116-118.
+- 2020-03-02 — Became Public Law No: 116-118.
+- 2020-03-02 — Signed by President.
+- 2020-03-02 — Signed by President.
