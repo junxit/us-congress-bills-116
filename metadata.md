@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 260
 congress: 116
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 260
@@ -72,3 +72,5 @@ A resolution recognizing the importance of sustained United States leadership to
 - 2019-12-18 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
 - 2019-12-18 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
 - 2019-12-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 379.
+- 2020-01-14 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amendment to the Title and an amended preamble by Unanimous Consent.(consideration: CR S198-199)
+- 2020-01-14 — Resolution agreed to in Senate with an amendment and an amendment to the Title and an amended preamble by Unanimous Consent. (consideration: CR S198-199)

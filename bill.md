@@ -1,32 +1,16 @@
 ---
 legis-num: S. RES. 260
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. RES. 260
 
-> Recognizing the importance of sustained United States leadership to accelerating global progress against maternal and child malnutrition and supporting the commitment of the United States Agency for International Development to global nutrition through the Multi-Sectoral Nutrition Strategy.
+> Recognizing the importance of sustained United States leadership to accelerating global progress against maternal and child malnutrition and supporting the commitment of the United States Agency for International Development to reducing global malnutrition through the Multi-Sectoral Nutrition Strategy.
 
 ## Preamble
 
-- Whereas, of all children under 5 years of age worldwide— (1)149,000,000, or 21.9 percent, are stunted or chronically undernourished; (2)an estimated 7.3 percent, or nearly 49,000,000, experience life-threatening acute malnutrition (also known as “wasting”); and (3)more than 40,000,000 are overweight;
-- Whereas, in countries highly affected by undernutrition, stunting affects 1 in every 3 children;
-- Whereas malnutrition directly or indirectly causes 45 percent of all deaths of children under 5 years of age, a total of 2,600,000 deaths annually;
-- Whereas children who experience malnutrition— (1)may experience impaired brain development, lower IQ, and weakened immune systems; and (2)are at a greater risk of contracting serious diseases;
-- Whereas undernourished adolescent girls have impaired cognitive ability and productivity, and the future children of those girls are at increased risk for low birth weight and death;
-- Whereas iron deficiency anemia, associated with undernutrition, contributes to 1 in 5 maternal deaths, or 20 percent of maternal mortality;
-- Whereas poor maternal nutrition contributes to poor fetal development and low birth weight, and an estimated 60 to 80 percent of neonatal deaths occur in low-birth-weight babies;
-- Whereas a large body of scientific evidence supports the benefits of improved breastfeeding practices on the short-term and long-term health and development of children and their mothers;
-- Whereas a growing body of evidence indicates that reducing maternal and child malnutrition, especially in the critical 1,000-day period between the beginning of pregnancy and the second birthday of the child, is imperative to— (1)ending preventable child and maternal deaths; (2)improving cognitive and physical development; and (3)strengthening the immune systems of children to bolster resistance to disease;
-- Whereas leading economists and Nobel Laureates have identified improving child nutrition as the most cost-effective way to improve global health outcomes and enhance development;
-- Whereas the approach of the Multi-Sectoral Nutrition Strategy of the United States Agency for International Development addresses the direct and underlying causes of malnutrition;
-- Whereas the focus of the Multi-Sectoral Nutrition Strategy on linking humanitarian assistance with development programming helps build resilience to shocks in vulnerable communities;
-- Whereas malnutrition is a universal issue that no country can afford to overlook;
-- Whereas countries with populations that experience high burdens of malnutrition, including stunting, wasting, anemia, and micronutrient deficiency, will struggle to achieve sustainable and equitable economic growth;
-- Whereas the United States plays a leading role supporting the goals of Scaling Up Nutrition, a global movement of 60 countries to prioritize nutrition through effective policy and dedicated national resources, particularly during the 1,000-day window of opportunity between the beginning of pregnancy and the second birthday of the child; and
-- Whereas, although the world has reduced undernutrition since 1990, global progress has been too slow— (1)to ensure that each child can attain a full and prosperous future regardless of where that child was born; and (2)for the global community to reach the global nutrition targets set for 2025: Now, therefore, be it
 - Whereas of all children under 5 worldwide— (1)149,000,000, or 21.9 percent, are stunted or chronically undernourished; (2)an estimated 7.3 percent, or nearly 49,000,000, experience life-threatening acute malnutrition (also known as “wasting”); and (3)more than 40,000,000 are overweight;
 - Whereas, in countries highly affected by undernutrition, stunting affects 1 in every 3 children;
 - Whereas malnutrition directly or indirectly causes 45 percent of all deaths of children under 5 years of age, a total of 2,600,000 deaths annually;
@@ -46,40 +30,25 @@ chamber: IN THE SENATE OF THE UNITED STATES
 That the Senate—
 
 - **(1)** recognizes that—
-  - **(A)** food security and good nutrition in early childhood saves lives and lays the foundation for healthy physical and cognitive growth and development;
-  - **(B)** the potential benefits of good nutrition in early childhood are life-long and influence the entire future of the child, with entire communities and nations ultimately prospering;
-  - **(C)** the right nutrition—
-    - **(i)** helps children learn;
-    - **(ii)** helps protect children from illness;
-    - **(iii)** increases the productivity and earning potential of children later in life; and
-    - **(iv)** supports the well-being and health of the future offspring of those children who receive that nutrition;
-  - **(D)** women who are well-nourished and do not suffer from anemia are less likely to die in childbirth or give birth to children who are malnourished, breaking the intergenerational cycle of malnutrition;
-  - **(E)** good nutrition is an economic issue that is central to reducing poverty and putting countries on a path to economic development;
-  - **(F)** adults who were well-nourished as children earn up to 46 percent more than adults who were malnourished as children;
-  - **(G)** countries with a very high burden of early childhood malnutrition have lower economic growth rates due to lost income and productivity; and
-  - **(H)** the cost of childhood malnutrition to countries is substantial, with—
-    - **(i)** estimated losses in Gross Domestic Product of 3 to 16 percent; and
-    - **(ii)** potential impacts to the global economy as high as $3,500,000,000,000 per year;
-- **(2)** applauds the leadership of the United States in helping developing countries meet the nutritional needs of women and children;
-- **(3)** supports continued efforts by the United States to help developing countries meet the nutritional needs of women and children;
-- **(4)** commends the United States Agency for International Development (referred to in this resolution as “USAID”) for recognizing that nutrition interventions are among the highest-impact evidence-based interventions that—
-  - **(A)** are lifesaving; and
-  - **(B)** support the goal of ending preventable child and maternal deaths;
-- **(5)** recognizes the Multi-Sectoral Nutrition Strategy, the U.S. Government Global Nutrition Coordination Plan, and the Global Food Security Strategy as platforms through which to reach, by 2025, the global nutrition targets agreed to at the World Health Assembly in 2012;
-- **(6)** recognizes the vision and goals of the Scaling Up Nutrition movement, a global partnership supporting country-led efforts to improve maternal and child nutrition through the involvement of—
-  - **(A)** governments;
-  - **(B)** civil society;
-  - **(C)** the United Nations;
-  - **(D)** donors;
-  - **(E)** businesses; and
-  - **(F)** researchers;
-- **(7)** recognizes that progress against global malnutrition must be accelerated using innovative, scaled up approaches to improve the systems that affect the health and nutritional status of women and children; and
-- **(8)** calls for transformative efforts across sectors at USAID to accelerate progress to end maternal and child malnutrition, including through—
+  - **(A)** malnutrition is a universal issue that no country can afford to overlook;
+  - **(B)** food security and good nutrition in early childhood saves lives and lays the foundation for healthy physical and cognitive growth and development; and
+  - **(C)** the potential life-long health and economic benefits of early childhood nutrition influence the future of individual children and families, as well as entire communities and countries;
+- **(2)** acknowledges that effective programs to reduce malnutrition are not only lifesaving, but also critical to the success of United States foreign assistance programs to improve global health, end preventable child and maternal death, achieve an AIDS-free generation, reach starving children during an emergency, strengthen food security, and accelerate inclusive economic growth;
+- **(3)** affirms that it is in the national interest of the United States to help developing countries build their own capacity to reduce malnutrition, address the direct and indirect causes of malnutrition, and meet the nutritional needs of women and children;
+- **(4)** recognizes the effectiveness of the Multi-Sectoral Nutrition Strategy of USAID, the U.S. Government Global Nutrition Coordination Plan, and the U.S. Government Global Food Security Strategy to address the direct and indirect causes of malnutrition and reach, by 2025, the global nutrition targets agreed to at the World Health Assembly in 2012;
+- **(5)** supports the goals and principles of the Scaling Up Nutrition movement to end global malnutrition through—
+  - **(A)** greater collaboration between governments, civil society, international organizations, donors, the private sector, and researchers on multi-sectoral approaches;
+  - **(B)** cost-effective and inclusive approaches; and
+  - **(C)** improved transparency and accountability for results;
+- **(6)** recognizes the significant progress made in the fight against global malnutrition,
+- **(7)** recommends accelerating improvements to the systems affecting the health and nutritional status of women and children through innovative, scaled-up approaches;
+- **(8)** applauds the efforts of USAID to integrate effective nutrition programming across relevant development sectors; and
+- **(9)** calls for additional transformative efforts across relevant sectors at USAID to accelerate progress toward ending maternal and child malnutrition, including through—
   - **(A)** country development cooperation strategies that align with national nutrition plans; and
   - **(B)** improved and clear methods to track nutrition funding and outcomes across all global nutrition programs of the United States Government, especially those relating to—
     - **(i)** global health;
     - **(ii)** food security;
-    - **(iii)** agriculture;
+    - **(iii)** agricultural development;
     - **(iv)** basic education;
     - **(v)** food assistance; and
     - **(vi)** water, sanitation, and hygiene (also known as “WASH”).
