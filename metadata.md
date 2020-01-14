@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 375
 congress: 116
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 375
@@ -33,3 +33,5 @@ A resolution recognizing the 75th anniversary of the Warsaw Uprising.
 - 2019-12-17 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with an amended preamble. Without written report.
 - 2019-12-17 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with an amended preamble. Without written report.
 - 2019-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 339.
+- 2020-01-14 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.(consideration: CR S198)
+- 2020-01-14 — Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (consideration: CR S198)
