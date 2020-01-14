@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5315
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5315
@@ -24,9 +24,10 @@ Expanding Opportunity for MDIs Act
 - Rep. Cleaver, Emanuel [D-MO-5] (C001061)
 - Rep. Scott, David [D-GA-13] (S001157)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Expanding Opportunity for MDIs Act
 - 2020-01-13 — Ms. Waters moved to suspend the rules and pass the bill, as amended.
 - 2020-01-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H192)
 - 2020-01-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H192)
+- 2020-01-14 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
