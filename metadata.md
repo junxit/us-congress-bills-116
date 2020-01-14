@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2398
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2398
@@ -43,10 +43,11 @@ Veteran HOUSE Act of 2020
 - Rep. Lawson, Al, Jr. [D-FL-5] (L000586)
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 
-## Committees (2)
+## Committees (3)
 
 - House — Financial Services Committee
 - House — Veterans' Affairs Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -69,3 +70,4 @@ Veteran HOUSE Act of 2020
 - 2020-01-13 — Ms. Waters moved to suspend the rules and pass the bill, as amended.
 - 2020-01-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 362 - 31 (Roll no. 15). (text: CR H194)
 - 2020-01-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 362 - 31 (Roll no. 15).(text: CR H194)
+- 2020-01-14 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
