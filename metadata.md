@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4841
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4841
@@ -24,9 +24,10 @@ Prudential Regulator Oversight Act
 - Rep. Davidson, Warren [R-OH-8] (D000626)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Prudential Regulator Oversight Act
 - 2020-01-13 — Ms. Waters moved to suspend the rules and pass the bill, as amended.
 - 2020-01-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H189-190)
 - 2020-01-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H189-190)
+- 2020-01-14 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
