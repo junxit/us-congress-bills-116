@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4458
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4458
@@ -26,9 +26,10 @@ Cybersecurity and Financial System Resilience Act of 2019
 - Rep. Steil, Bryan [R-WI-1] (S001213)
 - Rep. Riggleman, Denver [R-VA-5] (R000611)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Cybersecurity and Financial System Resilience Act of 2019
 - 2020-01-13 — Ms. Waters moved to suspend the rules and pass the bill, as amended.
 - 2020-01-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H195-196)
 - 2020-01-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H195-196)
+- 2020-01-14 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
