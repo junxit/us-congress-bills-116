@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4335
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4335
@@ -21,9 +21,10 @@ version: Engrossed in House
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 - Rep. Cleaver, Emanuel [D-MO-5] (C001061)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ version: Engrossed in House
 - 2020-01-13 — Mr. San Nicolas moved to suspend the rules and pass the bill, as amended.
 - 2020-01-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 7 (Roll no. 14). (text: CR H188)
 - 2020-01-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 7 (Roll no. 14).(text: CR H188)
+- 2020-01-14 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
