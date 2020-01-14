@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 80
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.J.Res. 80
@@ -16,9 +16,10 @@ Approving the request of the Secretary of Veterans Affairs for a waiver under se
 
 - Rep. Roe, David P. [R-TN-1] (R000582)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -35,3 +36,4 @@ Approving the request of the Secretary of Veterans Affairs for a waiver under se
 - 2020-01-13 — Mr. Takano moved to suspend the rules and pass the resolution.
 - 2020-01-13 — On motion to suspend the rules and pass the resolution Agreed to by voice vote. (text: CR H185)
 - 2020-01-13 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution Agreed to by voice vote.(text: CR H185)
+- 2020-01-14 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
