@@ -1,7 +1,7 @@
 ---
 measure: H.R. 133
 congress: 116
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 133
@@ -44,3 +44,5 @@ Consolidated Appropriations Act, 2021
 - 2019-12-17 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
 - 2019-12-17 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
 - 2019-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 336.
+- 2020-01-15 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S250-251; text of amendment in the nature of a substitute: CR S250-251)
+- 2020-01-15 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S250-251; text of amendment in the nature of a substitute: CR S250-251)
