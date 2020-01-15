@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5430
 congress: 116
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5430
@@ -41,9 +41,11 @@ United States-Mexico-Canada Agreement Implementation Act
 - Senate — Budget Committee
 - Senate — Appropriations Committee
 
-## Recorded votes (1)
+## Recorded votes (3)
 
 - 2019-12-19 — [House 116-1-701](votes/house-116-1-0701.md) — On Passage — **Passed** (385–41)
+- 2020-01-16 — [Senate 116-2-13](votes/senate-116-2-0013.md) — On the Motion — **Motion Agreed to** (78–21)
+- 2020-01-16 — [Senate 116-2-14](votes/senate-116-2-0014.md) — On Passage of the Bill — **Bill Passed** (89–10)
 
 ## Actions
 
@@ -116,3 +118,17 @@ United States-Mexico-Canada Agreement Implementation Act
 - 2020-01-15 — Measure laid before Senate by motion. (consideration: CR S220, S224-234)
 - 2020-01-15 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote. (CR S220)
 - 2020-01-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 406.
+- 2020-01-16 — Considered by Senate. (consideration: CR S256-261, S262-266)
+- 2020-01-16 — Message on Senate action sent to the House.
+- 2020-01-16 — Motion to waive all applicable budgetary discipline with respect to the measure agreed to in Senate by Yea-Nay Vote. 78 - 21. Record Vote Number: 13. (CR S265)
+- 2020-01-16 — Passed Senate without amendment by Yea-Nay Vote. 89 - 10. Record Vote Number: 14.
+- 2020-01-16 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 89 - 10. Record Vote Number: 14.
+- 2020-01-16 — Point of order that an emergency designation within the measure violates the CBA raised in Senate.
+- 2020-01-22 — Presented to President.
+- 2020-01-22 — Presented to President.
+- 2020-01-29 — Became Public Law No: 116-113.
+- 2020-01-29 — Became Public Law No: 116-113.
+- 2020-01-29 — Signed by President.
+- 2020-01-29 — Signed by President.
+- 2020-10-21 — By Senator Grassley from Committee on Finance filed written report. Report No. 116-283. Additional views filed.
+- 2020-10-21 — By Senator Grassley from Committee on Finance filed written report. Report No. 116-283. Additional views filed.
