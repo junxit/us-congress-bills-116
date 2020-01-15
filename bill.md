@@ -85,3 +85,27 @@ This Act, and the amendments made by this Act, shall apply to all claims pending
 ## § 4. Severability
 
 If any provision or portion of a provision of this Act, an amendment or portion of an amendment made by this Act, or the application of any provision or portion thereof or amendment or portion thereof to particular persons or circumstances is held invalid or found to be unconstitutional, the remainder of this Act, the amendments made by this Act, or the application of that provision or portion thereof or amendment or portion thereof to other persons or circumstances shall not be affected.
+
+## § 5. Report by Government Accountability Office
+
+Not later than 2 years after the date of the enactment of this Act, the Government Accountability Office shall submit to the Congress a report analyzing how the Equal Employment Opportunity Commission investigates mixed motive age discrimination claims arising under the Acts amended by this Act, focusing on—
+
+- **(1)** the ability of the Commission to meet the demands of its workload under such Acts;
+- **(2)** the plans of the Commission for investigating systemic age discrimination in violation of such Acts;
+- **(3)** the plans of the Commission for litigation under such Acts; and
+- **(4)** the options for improving the ability of the Commission to respond to allegations of age discrimination in violation of such Acts.
+
+## § 6. Study and report to Congress
+
+Not later than 1 year after the date of the enactment of this Act, the Secretary of Labor and the Equal Opportunity Employment Commission shall jointly conduct a study to determine the number of claims pending or filed, in addition to cases closed, by women who may have been adversely impacted by age discrimination as a motivating factor in workplace discrimination or employment termination. The Secretary of Labor and Chairman of the Commission shall jointly submit to the Congress, and make available to the public, a report that contains the results of the study, including recommendations for best practices to prevent and to combat gender and age discrimination as it relates to women in the workplace.
+
+## § 7. Reports
+
+For the 5-year period beginning on the date of the enactment of this Act, the Chairman of Equal Employment Opportunity Commission shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report at 1-year intervals on the number of age discrimination in employment claims brought under this Act with the Equal Employment Opportunity Commission in the period for which such report is submitted.
+
+## § 8. Report by the United States Commission on Civil Rights
+
+- **(a)** *Report* With funds appropriated in advance to carry out this section, and consistent with the operational and procedural requirements of the United States Commission on Civil Rights, the Commission shall submit to the appropriate committees of the Congress a report containing an analysis of the status of Federal mixed motive age discrimination in employment claims made against Federal agencies, including—
+  - **(1)** the number of such claims, specified by the Federal agency against which such claims are made; and
+  - **(2)** other related information the Commission determines to be appropriate.
+- **(b)** *Submission of report* The report required by subsection (a) shall be submitted not later that 5 years after the date of the enactment of this Act.
