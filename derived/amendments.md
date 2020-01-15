@@ -1,7 +1,7 @@
 ---
 measure: S. 227
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+10 amendatory instructions. 0 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,3 +34,10 @@ complete account of the bill's effect, which it is not.
 | `34 U.S.C. § 20126` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 20126` | replace | in paragraph (3), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 20126` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 20126` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 20126` | replace | in paragraph (3), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `34 U.S.C. § 20126` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 10461` | add-at-end | Section 2101(b) of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10461(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 10452` | strike | in paragraph (9), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `34 U.S.C. § 10452` | replace | in paragraph (10), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 10452` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

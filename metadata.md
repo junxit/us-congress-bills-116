@@ -1,7 +1,7 @@
 ---
 measure: S. 227
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 227
@@ -16,7 +16,7 @@ Savanna's Act
 
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 
-## Cosponsors (11)
+## Cosponsors (28)
 
 - Sen. Cortez Masto, Catherine [D-NV] (C001113)
 - Sen. Cantwell, Maria [D-WA] (C000127)
@@ -29,6 +29,23 @@ Savanna's Act
 - Sen. Tillis, Thomas [R-NC] (T000476)
 - Sen. Merkley, Jeff [D-OR] (M001176)
 - Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. McSally, Martha [R-AZ] (M001197)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Sanders, Bernard [I-VT] (S000033)
 
 ## Committees (1)
 
@@ -38,3 +55,8 @@ Savanna's Act
 
 - 2019-01-25 — Introduced in Senate
 - 2019-01-25 — Read twice and referred to the Committee on Indian Affairs.
+- 2019-06-19 — Committee on Indian Affairs. Hearings held.
+- 2019-11-20 — Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2020-01-15 — Committee on Indian Affairs. Reported by Senator Hoeven with an amendment in the nature of a substitute. With written report No. 116-206.
+- 2020-01-15 — Committee on Indian Affairs. Reported by Senator Hoeven with an amendment in the nature of a substitute. With written report No. 116-206.
+- 2020-01-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 407.
