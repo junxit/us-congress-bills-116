@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5430
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 5430
@@ -99,3 +99,16 @@ United States-Mexico-Canada Agreement Implementation Act
 - 2019-12-19 — Reported by the Committee on Ways and Means. H. Rept. 116-358, Part I.
 - 2019-12-19 — The previous question was ordered pursuant to a previous  order of the House.
 - 2020-01-03 — Received in the Senate and Read twice and referred jointly to the Committee on Finance; Health, Education, Labor, and Pensions; Environment and Public Works; Appropriations; Foreign Relations; Commerce, Science, and Transportation; the Budget pursuant to section 151(e)(2) of the Trade Act of 1974.
+- 2020-01-07 — Committee on Finance. Ordered to be reported without amendment favorably.
+- 2020-01-14 — Committee on Environment and Public Works. Committee consideration held. Business Meeting printed. S.Hrg. 116-226.
+- 2020-01-14 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2020-01-14 — Committee on the Budget. Ordered to be reported without amendment favorably.
+- 2020-01-15 — Committee on Appropriations. Ordered to be reported without amendment favorably.
+- 2020-01-15 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2020-01-15 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2020-01-15 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported without amendment favorably.
+- 2020-01-15 — Committees on Finance; Health, Education, Labor, and Pensions; Environment and Public Works; Appropriations; Foreign Relations; Commerce, Science, and Transportation; the Budget. Jointly reported to Senate by Senator Grassley without amendment. Without written report.
+- 2020-01-15 — Committees on Finance; Health, Education, Labor, and Pensions; Environment and Public Works; Appropriations; Foreign Relations; Commerce, Science, and Transportation; the Budget. Jointly reported to Senate by Senator Grassley without amendment. Without written report.
+- 2020-01-15 — Measure laid before Senate by motion. (consideration: CR S220, S224-234)
+- 2020-01-15 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote. (CR S220)
+- 2020-01-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 406.
