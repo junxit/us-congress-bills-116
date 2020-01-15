@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1230
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1230
@@ -124,3 +124,61 @@ Protecting Older Workers Against Discrimination Act
 - 2020-01-09 — Placed on the Union Calendar, Calendar No. 295.
 - 2020-01-09 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 116-372.
 - 2020-01-09 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 116-372.
+- 2020-01-13 — Rules Committee Resolution H. Res. 790 Reported to House. Rule provides for consideration of H.R. 1230 and H.J. Res. 76 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2020-01-15 — Amendment (A001) offered by Mr. DeSaulnier. (consideration: CR H265-266; text: CR H265)
+- 2020-01-15 — Amendment (A002) offered by Mr. Davis, Rodney. (consideration: CR H266-267; text: CR H266)
+- 2020-01-15 — Amendment (A003) offered by Mr. Allen. (consideration: CR H267-268; text: CR H267)
+- 2020-01-15 — Amendment (A004) offered by Mr. Brown (MD). (consideration: CR H268-269; text: CR H268)
+- 2020-01-15 — Amendment (A005) offered by Ms. Tlaib. (consideration: CR H269-270; text: CR H269)
+- 2020-01-15 — Amendment agreed to Committee of the Whole
+- 2020-01-15 — Amendment agreed to Committee of the Whole
+- 2020-01-15 — Amendment agreed to Committee of the Whole
+- 2020-01-15 — Amendment agreed to Committee of the Whole
+- 2020-01-15 — Amendment failed in Committee of the Whole
+- 2020-01-15 — Committee of the Whole House on the state of the Union rises leaving H.R. 1230 as unfinished business.
+- 2020-01-15 — Considered as unfinished business. (consideration: CR H270-274)
+- 2020-01-15 — Considered under the provisions of rule H. Res. 790. (consideration: CR H258-270; text: CR H264-265)
+- 2020-01-15 — DEBATE - Pursuant to the provisions of H. Res. 790, the Committee of the Whole proceeded with 10 minutes of debate on the Tlaib amendment No. 5.
+- 2020-01-15 — DEBATE - Pursuant to the provisions of H.Res. 790, the Committee of the Whole proceeded with 10 minutes of debate on the Allen amendment No. 3.
+- 2020-01-15 — DEBATE - Pursuant to the provisions of H.Res. 790, the Committee of the Whole proceeded with 10 minutes of debate on the Brown (MD) amendment No. 4.
+- 2020-01-15 — DEBATE - Pursuant to the provisions of H.Res. 790, the Committee of the Whole proceeded with 10 minutes of debate on the DeSaulnier amendment No. 1.
+- 2020-01-15 — DEBATE - Pursuant to the provisions of H.Res. 790, the Committee of the Whole proceeded with 10 minutes of debate on the Rodney Davis (IL) amendment No. 2.
+- 2020-01-15 — Floor summary: DEBATE - The House proceeded wiht 10 minutes of debate on the Smucker motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment adding at the end of the bill a new section pertaining to Rule of Construction which states nothing in the Act shall be construed to alter the status of a truck driver as an independent contractor if the truck driver is currently considered to be an independent contractor under Federal law.
+- 2020-01-15 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1230.
+- 2020-01-15 — House amendment agreed to: On agreeing to the Brown (MD) amendment (A004) Agreed to by voice vote.
+- 2020-01-15 — House amendment agreed to: On agreeing to the Davis, Rodney amendment (A002) Agreed to by voice vote.
+- 2020-01-15 — House amendment agreed to: On agreeing to the DeSaulnier amendment (A001) Agreed to by voice vote.
+- 2020-01-15 — House amendment agreed to: On agreeing to the Tlaib amendment (A005) Agreed to by voice vote.
+- 2020-01-15 — House amendment not agreed to: On agreeing to the Allen amendment (A003) Failed by recorded vote: 163 - 257 (Roll no. 19).
+- 2020-01-15 — House amendment offered
+- 2020-01-15 — House amendment offered
+- 2020-01-15 — House amendment offered
+- 2020-01-15 — House amendment offered
+- 2020-01-15 — House amendment offered
+- 2020-01-15 — House amendment offered/reported by: Amendment (A001) offered by Mr. DeSaulnier.
+- 2020-01-15 — House amendment offered/reported by: Amendment (A002) offered by Mr. Davis, Rodney.
+- 2020-01-15 — House amendment offered/reported by: Amendment (A003) offered by Mr. Allen.
+- 2020-01-15 — House amendment offered/reported by: Amendment (A004) offered by Mr. Brown (MD).
+- 2020-01-15 — House amendment offered/reported by: Amendment (A005) offered by Ms. Tlaib.
+- 2020-01-15 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 790 and Rule XVIII.
+- 2020-01-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-01-15 — Mr. Scott (VA) moved that the committee rise.
+- 2020-01-15 — Mr. Smucker moved to recommit with instructions to the Committee on Education and Labor. (text: CR H271)
+- 2020-01-15 — On agreeing to the Allen amendment (A003) Failed by recorded vote: 163 - 257 (Roll no. 19).
+- 2020-01-15 — On agreeing to the Brown (MD) amendment (A004) Agreed to by voice vote.
+- 2020-01-15 — On agreeing to the Davis, Rodney amendment (A002) Agreed to by voice vote.
+- 2020-01-15 — On agreeing to the DeSaulnier amendment (A001) Agreed to by voice vote.
+- 2020-01-15 — On agreeing to the Tlaib amendment (A005) Agreed to by voice vote.
+- 2020-01-15 — On motion that the committee rise Agreed to by voice vote.
+- 2020-01-15 — On motion to recommit with instructions Failed by recorded vote: 196 - 220 (Roll no. 20).
+- 2020-01-15 — On passage Passed by recorded vote: 261 - 155 (Roll no. 21).
+- 2020-01-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Allen amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. Allen demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2020-01-15 — Passed/agreed to in House: On passage Passed by recorded vote: 261 - 155 (Roll no. 21).
+- 2020-01-15 — Roll call votes on amendments in House
+- 2020-01-15 — Rule provides for consideration of H.R. 1230 and H.J. Res. 76 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2020-01-15 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2020-01-15 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2020-01-15 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1230.
+- 2020-01-15 — The Speaker designated the Honorable Henry Cuellar to act as Chairman of the Committee.
+- 2020-01-15 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2020-01-15 — The previous question was ordered pursuant to the rule.
