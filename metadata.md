@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 371
 congress: 116
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 371
@@ -16,7 +16,7 @@ A resolution reaffirming the support of the United States for the people of the 
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 
-## Cosponsors (9)
+## Cosponsors (10)
 
 - Sen. Isakson, Johnny [R-GA] (I000055)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
@@ -27,6 +27,7 @@ A resolution reaffirming the support of the United States for the people of the 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Cruz, Ted [R-TX] (C001098)
 - Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Boozman, John [R-AR] (B001236)
 
 ## Committees (1)
 
@@ -40,3 +41,5 @@ A resolution reaffirming the support of the United States for the people of the 
 - 2019-12-17 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2019-12-17 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2019-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 338.
+- 2020-01-15 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Voice Vote.(consideration: CR S251-252)
+- 2020-01-15 — Resolution agreed to in Senate with an amendment and an amended preamble by Voice Vote. (consideration: CR S251-252)
