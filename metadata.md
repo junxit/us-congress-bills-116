@@ -1,7 +1,7 @@
 ---
 measure: S. 2547
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2547
@@ -24,9 +24,10 @@ Indo-Pacific Cooperation Act of 2019
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Cruz, Ted [R-TX] (C001098)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,6 @@ Indo-Pacific Cooperation Act of 2019
 - 2020-01-14 — Senate amendment proposed (on the floor): Amendment SA 1282 proposed by Senator McConnell for Senator Romney.
 - 2020-01-14 — Senate amendment submitted
 - 2020-01-14 — The committee substitute as amended agreed to by Unanimous Consent. (text: CR S199-200)
+- 2020-01-15 — Message on Senate action sent to the House.
+- 2020-01-15 — Received in the House.
+- 2020-01-15 — Referred to the House Committee on Foreign Affairs.
