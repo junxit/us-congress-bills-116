@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 886
-congress: 116th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Sixteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 886
 
-That the bill from the House of Representatives (H.R. 886) entitled “An Act to direct the Attorney General to establish and carry out a Veteran Treatment Court Program.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To direct the Attorney General to establish and carry out a Veteran Treatment Court Program.
 
 ## § 1. Short title
 

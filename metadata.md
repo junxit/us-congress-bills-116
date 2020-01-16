@@ -1,7 +1,7 @@
 ---
 measure: H.R. 886
 congress: 116
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 886
@@ -192,3 +192,13 @@ Veteran Treatment Court Coordination Act of 2019
 - 2020-01-16 — Senate amendment agreed to: Amendment SA 1283 agreed to in Senate by Unanimous Consent.
 - 2020-01-16 — Senate amendment proposed (on the floor): Amendment SA 1283 proposed by Senator Moran for Senator McSally.
 - 2020-01-16 — Senate amendment submitted
+- 2020-07-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-07-20 — Mr. Cicilline asked unanimous consent to take from the Speaker's table the bill, H.R. 886, and agree to the Senate amendment. (consideration: CR H3110)
+- 2020-07-20 — On motion that the House agree to the Senate amendment Agreed to without objection. (text: CR H3110)
+- 2020-07-20 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.
+- 2020-07-28 — Presented to President.
+- 2020-07-28 — Presented to President.
+- 2020-08-08 — Became Public Law No: 116-153.
+- 2020-08-08 — Became Public Law No: 116-153.
+- 2020-08-08 — Signed by President.
+- 2020-08-08 — Signed by President.
