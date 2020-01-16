@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1230
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1230
@@ -110,9 +110,10 @@ Protecting Older Workers Against Discrimination Act
 - Rep. Wilson, Frederica S. [D-FL-24] (W000808)
 - Rep. Casten, Sean [D-IL-6] (C001117)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (3)
 
@@ -188,3 +189,4 @@ Protecting Older Workers Against Discrimination Act
 - 2020-01-15 — The Speaker designated the Honorable Henry Cuellar to act as Chairman of the Committee.
 - 2020-01-15 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2020-01-15 — The previous question was ordered pursuant to the rule.
+- 2020-01-16 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
