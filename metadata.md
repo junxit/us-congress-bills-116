@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 76
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 76
@@ -16,7 +16,7 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - Rep. Lee, Susie [D-NV-3] (L000590)
 
-## Cosponsors (63)
+## Cosponsors (162)
 
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 - Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
@@ -81,6 +81,105 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - Rep. Garcia, Jesus G. "Chuy" [D-IL-4] (G000586)
 - Rep. Axne, Cynthia [D-IA-3] (A000378)
 - Rep. Harder, Josh [D-CA-10] (H001090)
+- Rep. Lofgren, Zoe [D-CA-19] (L000397)
+- Rep. McNerney, Jerry [D-CA-9] (M001166)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. Mucarsel-Powell, Debbie [D-FL-26] (M001207)
+- Rep. Morelle, Joseph D. [D-NY-25] (M001206)
+- Rep. Kennedy, Joseph P., III [D-MA-4] (K000379)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Serrano, Jose E. [D-NY-15] (S000248)
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Rep. DeFazio, Peter A. [D-OR-4] (D000191)
+- Rep. Khanna, Ro [D-CA-17] (K000389)
+- Rep. Raskin, Jamie [D-MD-8] (R000606)
+- Rep. Vargas, Juan [D-CA-51] (V000130)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Slotkin, Elissa [D-MI-8] (S001208)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. Thompson, Mike [D-CA-5] (T000460)
+- Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
+- Rep. Langevin, James R. [D-RI-2] (L000559)
+- Rep. Lowey, Nita M. [D-NY-17] (L000480)
+- Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Haaland, Debra A. [D-NM-1] (H001080)
+- Rep. Krishnamoorthi, Raja [D-IL-8] (K000391)
+- Rep. Casten, Sean [D-IL-6] (C001117)
+- Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
+- Rep. Soto, Darren [D-FL-9] (S001200)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+- Rep. Ryan, Tim [D-OH-13] (R000577)
+- Rep. Cisneros, Gilbert Ray, Jr. [D-CA-39] (C001123)
+- Rep. Engel, Eliot L. [D-NY-16] (E000179)
+- Rep. Swalwell, Eric [D-CA-15] (S001193)
+- Rep. Higgins, Brian [D-NY-26] (H001038)
+- Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Lynch, Stephen F. [D-MA-8] (L000562)
+- Rep. Carson, Andre [D-IN-7] (C001072)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Dean, Madeleine [D-PA-4] (D000631)
+- Rep. Kilmer, Derek [D-WA-6] (K000381)
+- Rep. Escobar, Veronica [D-TX-16] (E000299)
+- Rep. Napolitano, Grace F. [D-CA-32] (N000179)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Kirkpatrick, Ann [D-AZ-2] (K000368)
+- Rep. Lawrence, Brenda L. [D-MI-14] (L000581)
+- Rep. McGovern, James P. [D-MA-2] (M000312)
+- Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
+- Rep. Crist, Charlie [D-FL-13] (C001111)
+- Rep. Kelly, Robin L. [D-IL-2] (K000385)
+- Rep. Quigley, Mike [D-IL-5] (Q000023)
+- Rep. Demings, Val Butler [D-FL-10] (D000627)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Speier, Jackie [D-CA-14] (S001175)
+- Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Gomez, Jimmy [D-CA-34] (G000585)
+- Rep. Sánchez, Linda T. [D-CA-38] (S001156)
+- Rep. Kuster, Ann M. [D-NH-2] (K000382)
+- Rep. Foster, Bill [D-IL-11] (F000454)
+- Rep. Kildee, Daniel T. [D-MI-5] (K000380)
+- Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. DelBene, Suzan K. [D-WA-1] (D000617)
+- Rep. Carbajal, Salud O. [D-CA-24] (C001112)
+- Rep. Cox, TJ [D-CA-21] (C001124)
+- Rep. Pappas, Chris [D-NH-1] (P000614)
+- Rep. Fletcher, Lizzie [D-TX-7] (F000468)
+- Rep. O'Halleran, Tom [D-AZ-1] (O000171)
+- Rep. Heck, Denny [D-WA-10] (H001064)
+- Rep. Levin, Mike [D-CA-49] (L000593)
+- Rep. Wexton, Jennifer [D-VA-10] (W000825)
+- Rep. Garamendi, John [D-CA-3] (G000559)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Crow, Jason [D-CO-6] (C001121)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Clark, Katherine M. [D-MA-5] (C001101)
+- Rep. Panetta, Jimmy [D-CA-20] (P000613)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
+- Rep. Cooper, Jim [D-TN-5] (C000754)
+- Rep. Bass, Karen [D-CA-37] (B001270)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
+- Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
+- Rep. Torres Small, Xochitl [D-NM-2] (T000484)
+- Rep. Boyle, Brendan F. [D-PA-2] (B001296)
+- Rep. Horn, Kendra S. [D-OK-5] (H001083)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
+- Rep. Wasserman Schultz, Debbie [D-FL-23] (W000797)
+- Rep. Rice, Kathleen M. [D-NY-4] (R000602)
+- Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Rouda, Harley [D-CA-48] (R000616)
+- Rep. Kim, Andy [D-NJ-3] (K000394)
+- Rep. Cárdenas, Tony [D-CA-29] (C001097)
+- Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
 
 ## Committees (1)
 
@@ -91,3 +190,13 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2019-09-26 — Introduced in House
 - 2019-09-26 — Introduced in House
 - 2019-09-26 — Referred to the House Committee on Education and Labor.
+- 2020-01-13 — Rules Committee Resolution H. Res. 790 Reported to House. Rule provides for consideration of H.R. 1230 and H.J. Res. 76 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2020-01-14 — Rule H. Res. 790 passed House.
+- 2020-01-16 — Considered under the provisions of rule H. Res. 790. (consideration: CR H305-315)
+- 2020-01-16 — DEBATE - The House continued with debate on H.J. Res. 76.
+- 2020-01-16 — DEBATE - The House proceeded with one hour of debate on H.J. Res. 76.
+- 2020-01-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-01-16 — On passage Passed by the Yeas and Nays: 231 - 180 (Roll no. 22). (text: CR H305)
+- 2020-01-16 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 231 - 180 (Roll no. 22).
+- 2020-01-16 — Rule provides for consideration of H.R. 1230 and H.J. Res. 76 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2020-01-16 — The previous question was ordered pursuant to the rule.
