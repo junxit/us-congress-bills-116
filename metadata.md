@@ -1,7 +1,7 @@
 ---
 measure: H.R. 886
 congress: 116
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 886
@@ -16,7 +16,7 @@ Veteran Treatment Court Coordination Act of 2019
 
 - Rep. Crist, Charlie [D-FL-13] (C001111)
 
-## Cosponsors (135)
+## Cosponsors (138)
 
 - Rep. Stefanik, Elise M. [R-NY-21] (S001196)
 - Rep. Aguilar, Pete [D-CA-31] (A000371)
@@ -153,6 +153,9 @@ Veteran Treatment Court Coordination Act of 2019
 - Rep. Bass, Karen [D-CA-37] (B001270)
 - Rep. Morelle, Joseph D. [D-NY-25] (M001206)
 - Rep. Stauber, Pete [R-MN-8] (S001212)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Smith, Tina [D-MN] (S001203)
 
 ## Committees (2)
 
@@ -178,3 +181,14 @@ Veteran Treatment Court Coordination Act of 2019
 - 2019-10-28 — Reported by the Committee on Judiciary. H. Rept. 116-259.
 - 2019-10-28 — Reported by the Committee on Judiciary. H. Rept. 116-259.
 - 2019-10-29 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2020-01-16 — Amendment SA 1283 agreed to in Senate by Unanimous Consent.
+- 2020-01-16 — Amendment SA 1283 proposed by Senator Moran for Senator McSally. (consideration: CR S262; text: CR S262) In the nature of a substitute.
+- 2020-01-16 — Measure laid before Senate by unanimous consent. (consideration: CR S262)
+- 2020-01-16 — Message on Senate action sent to the House.
+- 2020-01-16 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S262)
+- 2020-01-16 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2020-01-16 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2020-01-16 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2020-01-16 — Senate amendment agreed to: Amendment SA 1283 agreed to in Senate by Unanimous Consent.
+- 2020-01-16 — Senate amendment proposed (on the floor): Amendment SA 1283 proposed by Senator Moran for Senator McSally.
+- 2020-01-16 — Senate amendment submitted

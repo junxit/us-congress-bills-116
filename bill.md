@@ -1,13 +1,15 @@
 ---
 legis-num: H.R. 886
 congress: 116th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+session: 2d Session
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 886
 
-> To direct the Attorney General to establish and carry out a Veteran Treatment Court Program.
+That the bill from the House of Representatives (H.R. 886) entitled “An Act to direct the Attorney General to establish and carry out a Veteran Treatment Court Program.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
@@ -15,7 +17,7 @@ This Act may be cited as the “Veteran Treatment Court Coordination Act of 2019
 
 ## § 2. Sense of Congress
 
-It is the sense of Congress that veterans treatment courts are a successful program aimed at helping veterans charged with non-violent crimes receive the help and the benefits for which the veterans are entitled.
+It is the sense of Congress that veterans treatment courts are a successful program aimed at helping veterans charged with nonviolent crimes receive the help and the benefits for which the veterans are entitled.
 
 ## § 3. Veteran Treatment Court Program
 
@@ -23,5 +25,5 @@ It is the sense of Congress that veterans treatment courts are a successful prog
   - **(1)** have adopted a Veterans Treatment Court Program; or
   - **(2)** have filed a notice of intent to establish a Veterans Treatment Court Program with the Secretary.
 - **(b)** *Purpose* The purpose of the Veterans Treatment Court Program established under subsection (a) is to ensure the Department of Justice has a single office to coordinate the provision of grants, training, and technical assistance to help State, local, and Tribal governments to develop and maintain veteran treatment courts.
-- **(c)** *Programs included* The Veterans Treatment Court Program established under subsection (a) shall include the grant programs relating to veterans treatment courts carried out by the Attorney General pursuant to sections 2901, 2991, and 3021 of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10581, 10651, and 10701) or any other provision of law.
+- **(c)** *Programs included* The Veterans Treatment Court Program established under subsection (a) shall include the grant programs relating to veterans treatment courts carried out by the Attorney General pursuant to sections 2991 and 3021 of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10651, 10701) or any other provision of law.
 - **(d)** *Regulations* The Attorney General shall promulgate regulations to carry out this section.
