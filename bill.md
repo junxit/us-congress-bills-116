@@ -1,7 +1,7 @@
 ---
 legis-num: H.J. RES. 79
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,4 +9,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > Removing the deadline for the ratification of the equal rights amendment.
 
-That notwithstanding any time limit contained in House Joint Resolution 208, 92nd Congress, as agreed to in the Senate on March 22, 1972, the article of amendment proposed to the States in that joint resolution shall be valid to all intents and purposes as part of the Constitution whenever ratified by the legislatures of three-fourths of the several States.
+That notwithstanding any time limit contained in House Joint Resolution 208, 92d Congress, as agreed to in the Senate on March 22, 1972, the article of amendment proposed to the States in that joint resolution shall be valid to all intents and purposes as part of the United States Constitution whenever ratified by the legislatures of three-fourths of the several States.

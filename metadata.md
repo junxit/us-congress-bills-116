@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 79
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.J.Res. 79
@@ -16,7 +16,7 @@ Removing the deadline for the ratification of the equal rights amendment.
 
 - Rep. Speier, Jackie [D-CA-14] (S001175)
 
-## Cosponsors (214)
+## Cosponsors (224)
 
 - Rep. Nadler, Jerrold [D-NY-10] (N000002)
 - Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
@@ -232,6 +232,16 @@ Removing the deadline for the ratification of the equal rights amendment.
 - Rep. Heck, Denny [D-WA-10] (H001064)
 - Rep. Scott, David [D-GA-13] (S001157)
 - Rep. Harder, Josh [D-CA-10] (H001090)
+- Rep. Panetta, Jimmy [D-CA-20] (P000613)
+- Rep. Allred, Colin Z. [D-TX-32] (A000376)
+- Rep. Correa, J. Luis [D-CA-46] (C001110)
+- Rep. Pappas, Chris [D-NH-1] (P000614)
+- Rep. Horn, Kendra S. [D-OK-5] (H001083)
+- Rep. Brindisi, Anthony [D-NY-22] (B001308)
+- Rep. Finkenauer, Abby [D-IA-1] (F000467)
+- Rep. Delgado, Antonio [D-NY-19] (D000630)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Davids, Sharice [D-KS-3] (D000629)
 
 ## Committees (1)
 
@@ -242,3 +252,10 @@ Removing the deadline for the ratification of the equal rights amendment.
 - 2019-11-08 — Introduced in House
 - 2019-11-08 — Introduced in House
 - 2019-11-08 — Referred to the House Committee on the Judiciary.
+- 2019-11-09 — Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.
+- 2019-11-12 — Subcommittee on the Constitution, Civil Rights, and Civil Liberties Discharged.
+- 2019-11-13 — Committee Consideration and Mark-up Session Held.
+- 2019-11-13 — Ordered to be Reported (Amended).
+- 2020-01-16 — Placed on the House Calendar, Calendar No. 70.
+- 2020-01-16 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-378.
+- 2020-01-16 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-378.
