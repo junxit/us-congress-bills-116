@@ -1,7 +1,7 @@
 ---
 measure: S. 3084
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3084
@@ -20,9 +20,10 @@ A bill to amend title 38, United States Code, to modify the limitation on pay fo
 
 - Sen. Tester, Jon [D-MT] (T000464)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Veterans' Affairs Committee
+- House — Veterans' Affairs Committee
 
 ## Actions
 
@@ -33,3 +34,5 @@ A bill to amend title 38, United States Code, to modify the limitation on pay fo
 - 2020-01-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
 - 2020-01-16 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
 - 2020-01-16 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S262)
+- 2020-01-17 — Received in the House.
+- 2020-01-17 — Referred to the House Committee on Veterans' Affairs.
