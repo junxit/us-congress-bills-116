@@ -1,7 +1,7 @@
 ---
 measure: S. 3201
 congress: 116
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3201
@@ -31,6 +31,10 @@ Temporary Reauthorization and Study of the Emergency Scheduling of Fentanyl Anal
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2020-01-29 — [House 116-2-32](votes/house-116-2-0032.md) — On Motion to Suspend the Rules and Pass — **Passed** (320–88)
+
 ## Actions
 
 - 2020-01-16 — Introduced in Senate
@@ -41,3 +45,19 @@ Temporary Reauthorization and Study of the Emergency Scheduling of Fentanyl Anal
 - 2020-01-17 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on the Judiciary, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2020-01-17 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on the Judiciary, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2020-01-17 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on the Judiciary, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2020-01-21 — Referred to the Subcommittee on Health.
+- 2020-01-28 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2020-01-29 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2020-01-29 — Considered as unfinished business. (consideration: CR H701-702)
+- 2020-01-29 — Considered under suspension of the rules. (consideration: CR H647-653)
+- 2020-01-29 — DEBATE - The House proceeded with forty minutes of debate on S. 3201.
+- 2020-01-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-01-29 — Ms. Kuster (NH) moved to suspend the rules and pass the bill.
+- 2020-01-29 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 320 - 88 (Roll no. 32). (text: CR H647)
+- 2020-01-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 320 - 88 (Roll no. 32).
+- 2020-02-03 — Presented to President.
+- 2020-02-03 — Presented to President.
+- 2020-02-06 — Became Public Law No: 116-114.
+- 2020-02-06 — Became Public Law No: 116-114.
+- 2020-02-06 — Signed by President.
+- 2020-02-06 — Signed by President.
