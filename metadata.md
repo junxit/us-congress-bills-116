@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 76
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 76
@@ -200,3 +200,4 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2020-01-16 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 231 - 180 (Roll no. 22).
 - 2020-01-16 — Rule provides for consideration of H.R. 1230 and H.J. Res. 76 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
 - 2020-01-16 — The previous question was ordered pursuant to the rule.
+- 2020-01-21 — Received in the Senate, read twice.
