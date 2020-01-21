@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 76
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 76
@@ -201,3 +201,20 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2020-01-16 — Rule provides for consideration of H.R. 1230 and H.J. Res. 76 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
 - 2020-01-16 — The previous question was ordered pursuant to the rule.
 - 2020-01-21 — Received in the Senate, read twice.
+- 2020-03-11 — Message on Senate action sent to the House.
+- 2020-03-11 — Passed Senate without amendment by Yea-Nay Vote. 53 - 42. Record Vote Number: 70. (consideration: CR S1685)
+- 2020-03-11 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 53 - 42. Record Vote Number: 70.
+- 2020-05-19 — Presented to President.
+- 2020-05-19 — Presented to President.
+- 2020-05-22 — Without objection, if a veto message on H.J. Res. 76 is laid before the House, then after the message is read and the objections of the President are spread at large upon the Journal, further consideration of the veto message and the joint resolution shall be postponed until the legislative day of Thursday May 28, 2020; and that on that legislative day, the House shall proceed to the constitutional question of reconsideration and dispose of such question without intervening motion.
+- 2020-05-29 — Vetoed by President.
+- 2020-05-29 — Vetoed by President.
+- 2020-06-01 — The Chair announced that the objections of the President to H.J. Res. 76 would be spread at large upon the Journal and the veto message would be printed as a House document (116-131).
+- 2020-06-01 — The Chair announced that without objection, further consideration of the veto message and the joint resolution, H.J. Res. 76, would be postponed until the legislative day of July 1, 2020.
+- 2020-06-01 — The Chair laid before the House the veto message from the President. (text: CR H2361-2362)
+- 2020-06-18 — The Chair announced that without objection, nothwithstanding section 3 of H.Res. 981, further consideration of the veto message and the joint resolution, H.J. Res. 76, is postponed until legislative day of June 26, 2020, and on that legislative day, the House shall proceed to the constitutional question of reconsideration and dispose of such question without intervening motion.
+- 2020-06-26 — DEBATE - The House proceeded with one hour of debate on the question of passage of H.J. Res. 76, the objections of the President to the contrary, notwithstanding.
+- 2020-06-26 — Failed of passage in House over veto: On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 238 - 173 (Roll no. 120).
+- 2020-06-26 — On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 238 - 173 (Roll no. 120).
+- 2020-06-26 — Pursuant to the order of the House of June 18, 2020, the Chair announced that the unfinished business was the further consideration of the veto message of the President on H.J. Res. 76. (consideration: CR H2548-2555)
+- 2020-06-26 — The Chair announced that the bill and accompanying veto message were referred to the Committee on Education and Labor. The Chair directed the Clerk to notify the Senate of the action of the House.
