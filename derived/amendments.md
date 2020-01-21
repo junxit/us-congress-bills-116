@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3301
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -422,7 +422,7 @@ to guess them.
 
 ### 26 U.S.C. § 5001
 
-> Section 5001(c)(3) is amended by striking “December 31, 2019” and inserting “December 31, 2020”.
+> Section 5001(c)(4) is amended by striking “December 31, 2019” and inserting “December 31, 2020”.
 
 | | |
 |---|---|
