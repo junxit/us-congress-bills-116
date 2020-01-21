@@ -1,0 +1,27 @@
+---
+legis-num: S. 3220
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3220
+
+> To amend title XIX of the Social Security Act to clarify that the provision of home and community-based services is not prohibited in an acute care hospital, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Ensuring Access to Direct Support Professionals Act”.
+
+## § 2. Providing home and community-based services in acute care hospitals
+
+Section 1902(h) of the Social Security Act (42 U.S.C. 1396a(h)) is amended—
+
+- **(1)** by inserting “(1)” after “(h)”;
+- **(2)** by inserting “, home and community-based services provided under subsection (c), (d), or (i) of section 1915 or under a waiver under section 1115, self-directed personal assistance services provided pursuant to a written plan of care under section 1915(j), and home and community-based attendant services and supports under section 1915(k)” before the period; and
+- **(3)** by adding at the end the following:
+  > - **(2)** Nothing in this title, title XVIII, or title XI shall be construed as prohibiting receipt of any care or services specified in paragraph (1) in an acute care hospital that are—
+  >   - **(A)** identified in an individual’s person-centered plan of services and supports (or comparable plan of care);
+  >   - **(B)** provided to meet needs of the individual that are not met through the provision of hospital services;
+  >   - **(C)** not a substitute for services that the hospital is obligated to provide through its conditions of participation or under Federal or State law; and
+  >   - **(D)** designed to ensure smooth transitions between acute care settings and home and community-based settings, and to preserve the individual’s functions.
