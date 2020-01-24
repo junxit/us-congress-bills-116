@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4665
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -55,7 +55,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1395w-4` | add-at-end | by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395m` | add-at-end | Section 1834(h) of the Social Security Act (42 U.S.C. 1395m(h)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395m` | insert | in the header by inserting “, eyeglasses, and contact lenses” after “orthotics”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395m` | insert | by inserting “and of eyeglasses and contact lenses described in paragraph (2)(D) of such section,” after “2009,”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395m` | insert | by inserting “and of eyeglasses and contact lenses described in paragraph (2)(D) of such section,” after “2009,” ; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395m` | insert | in clause (i), by inserting “or such eyeglasses and contact lenses” after “orthotics”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395w-3` | add-at-end | Section 1847(a)(2) of the Social Security Act (42 U.S.C. 1395w–3(a)(2)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-3` | add-at-end | Section 1847(a)(7) of the Social Security Act (42 U.S.C. 1395w–3(a)(7)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
