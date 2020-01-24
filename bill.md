@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4650
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Medicare Dental Act of 2019”.
+This Act may be cited as the “Medicare Dental Coverage Act of 2019”.
 
 ## § 2. Dental and oral health care
 
