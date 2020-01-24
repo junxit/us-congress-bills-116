@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4665
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -23,8 +23,8 @@ This Act may be cited as the “Medicare Vision Act of 2019”.
 
 - **(b)** *Vision services defined* Section 1861 of the Social Security Act (42 U.S.C. 1395x) is amended by adding at the end the following new subsection:
   > - **(kkk)** *Vision services* The term vision services means—
-  >   - **(1)** routine eye examinations, including procedures performed during the course of such examination to determine the refractive state of the eyes; and
-  >   - **(2)** contact lens fitting services,
+  >   - **(1)** routine eye examinations to determine the refractive state of the eyes, including procedures performed during the course of such examination; and
+  >   - **(2)** contact lens fitting services;
 
 - **(c)** *Payment; coinsurance; and limitations*
   - **(1)** *In general* Section 1833(a)(1) of the Social Security Act (42 U.S.C. 1395l(a)(1)) is amended—
@@ -44,18 +44,21 @@ This Act may be cited as the “Medicare Vision Act of 2019”.
 - **(e)** *Coverage of conventional eyeglasses and contact lenses* Section 1861(s)(8) of the Social Security Act (42 U.S.C. 1395x(s)(8)) is amended by striking “, and including one pair of conventional eyeglasses or contact lenses furnished subsequent to each cataract surgery with insertion of an intraocular lens” and inserting “, including one pair of conventional eyeglasses or contact lenses furnished subsequent to each cataract surgery with insertion of an intraocular lens, if furnished before January 1, 2022, and including conventional eyeglasses or contact lenses, whether or not furnished subsequent to such a surgery, if furnished on or after January 1, 2022”.
 - **(f)** *Special payment rules for eyeglasses and contact lenses*
   - **(1)** *Limitations* Section 1834(h) of the Social Security Act (42 U.S.C. 1395m(h)) is amended by adding at the end the following new paragraph:
-    > - **(6)** *Payment limitations for eyeglasses and contact lenses* With respect to eyeglasses and contact lenses furnished to an individual on or after January 1, 2022, payment may be made under this part only—
-    >   - **(A)** during any 2-year period, for either 1 pair of eyeglasses (including lenses and frames) or a 2-year supply that is provided in not more than 180-day increments of contact lenses;
-    >   - **(B)** with respect to amounts attributable to the frames of such a pair of eyeglasses and amounts attributable to contact lenses furnished during a year, in an amount not greater than—
-    >     - **(i)** for 2022, $100; and
-    >     - **(ii)** for a subsequent year, the amount specified under this subparagraph for the previous year, increased by the percentage change in the Consumer Price Index for All Urban Consumers during such previous year;
-    >   - **(C)** for types of eyeglass lenses, and for types of contact lenses, as determined appropriate by the Secretary; and
-    >   - **(D)** if furnished pursuant to a written order of a physician described in section 1861(kkk).
+    > - **(6)** *Payment limitations for eyeglasses and contact lenses*
+    >   - **(A)** *In general* With respect to eyeglasses and contact lenses furnished to an individual on or after January 1, 2022, subject to subparagraph (B), payment may be made under this part only—
+    >     - **(i)** during a 2-year period, for either 1 pair of eyeglasses (including lenses and frames) or a 2-year supply that is provided in not more than 180-day increments of contact lenses;
+    >     - **(ii)** with respect to amounts attributable to the frames of such a pair of eyeglasses and amounts attributable to contact lenses furnished during a year, in an amount not greater than—
+    >       - **(I)** for 2022, $100; and
+    >       - **(II)** for a subsequent year, the amount specified under this subparagraph for the previous year, increased by the percentage change in the consumer price index for all urban consumers during such previous year;
+    >     - **(iii)** for types of eyeglass lenses, and for types of contact lenses, as determined appropriate by the Secretary;
+    >     - **(iv)** if furnished pursuant to a written order of a physician described in section 1861(kkk); and
+    >     - **(v)** if during the 2-year period described in clause (i), the individual did not already receive (as described in subparagraph (B)) one pair of conventional eyeglasses or contact lenses subsequent to a cataract surgery with insertion of an intraocular lens furnished during such period.
+    >   - **(B)** *Exception* With respect to a 2-year period described in subparagraph (A)(i), in the case of an individual who receives cataract surgery with insertion of an intraocular lens, notwithstanding subparagraph (A), payment may be made under this part for one pair of conventional eyeglasses or contact lenses furnished subsequent to such cataract surgery during such period.
 
   - **(2)** *Application of competitive acquisition*
     - **(A)** *In general* Section 1834(h)(1)(H) of the Social Security Act (42 U.S.C. 1395m(h)(1)(H)) is amended—
       - **(i)** in the header by inserting “, eyeglasses, and contact lenses” after “orthotics”;
-      - **(ii)** by inserting “and of eyeglasses and contact lenses described in paragraph (2)(D) of such section,” after “2009,”; and
+      - **(ii)** by inserting “and of eyeglasses and contact lenses described in paragraph (2)(D) of such section,” after “2009,” ; and
       - **(iii)** in clause (i), by inserting “or such eyeglasses and contact lenses” after “orthotics”.
     - **(B)** *Conforming amendment*
       - **(i)** *In general* Section 1847(a)(2) of the Social Security Act (42 U.S.C. 1395w–3(a)(2)) is amended by adding at the end the following new subparagraph:
