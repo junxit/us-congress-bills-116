@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1076
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -157,3 +157,7 @@ This Act may be cited as the “Fair Chance to Compete for Jobs Act of 2019” o
     - **(B)** the Committee on Health, Education, Labor, and Pensions of the Senate;
     - **(C)** the Committee on Oversight and Reform of the House of Representatives; and
     - **(D)** the Committee on Education and Labor of the House of Representatives.
+
+## § 5. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
