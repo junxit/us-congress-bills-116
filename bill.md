@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4704
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -24,7 +24,7 @@ Congress finds the following:
 
 ## § 3. National Science Foundation research
 
-- **(a)** The Director of the National Science Foundation, in consultation with the Director of the National Institutes of Health and the Director of the National Institute on Mental Health where appropriate, shall award grants on a competitive, merit-reviewed basis to institutions of higher education (or consortia of such institutions) to support multidisciplinary, fundamental research with potential relevance to suicide, including potential relevance to prevention and treatment, including but not limited to—
+- **(a)** The Director of the National Science Foundation, in consultation with the Director of the National Institutes of Health and the Director of the National Institute on Mental Health where appropriate, shall, subject to the availability of appropriations, award grants on a competitive, merit-reviewed basis to institutions of higher education (or consortia of such institutions) to support multidisciplinary, fundamental research with potential relevance to suicide, including potential relevance to prevention and treatment, including but not limited to—
   - **(1)** basic understanding of human social behavior;
   - **(2)** the neural basis of human cognition;
   - **(3)** basic understanding of cognitive, linguistic, social, cultural and biological processes related to human development across the lifespan;
