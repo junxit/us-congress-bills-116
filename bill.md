@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 964
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -17,10 +17,8 @@ This Act may be cited as the “Transition Team Ethics Improvement Act”.
 
 The Presidential Transition Act of 1963 (3 U.S.C. 102 note) is amended—
 
-- **(1)** in section 3(f), by adding at the end the following new paragraph:
-  > - **(3)** The President-elect shall submit to the Committee on Oversight and Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report with a list of—
-  >   - **(A)** any individual for whom an application for a security clearance was submitted, not later than 10 days after the date on which the application was submitted; and
-  >   - **(B)** any individual provided a security clearance, not later than 10 days after the date on which the security clearance was provided.
+- **(1)** in section 3(f), by adding at the end the following:
+  > - **(3)** Not later than 10 days after submitting an application for a security clearance for any individual, and not later than 10 days after any such individual is granted a security clearance (including an interim clearance), each eligible candidate (as that term is described in subsection (h)(4)(A)) or the President-elect (as the case may be) shall submit a report containing the name of such individual to the Committee on Oversight and Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
 
 - **(2)** in section 4—
   - **(A)** in subsection (a)—
@@ -52,7 +50,7 @@ The Presidential Transition Act of 1963 (3 U.S.C. 102 note) is amended—
       >       - **(II)** keep confidential any nonpublic information provided in the course of the duties of the member with the transition and exclusively use such information for the purposes of the transition; and
       >       - **(III)** not use any nonpublic information provided in the course of transition duties, in any manner, for personal or private gain for the member or any other party at any time during or after the transition; and
       >     - **(iv)** a description of how the transition team will enforce the Code of Ethical Conduct, including the names of the transition team members responsible for enforcement, oversight, and compliance.
-      >   - **(C)** *Publicly available* The transition team shall make the ethics plan described in this paragraph publicly available on the Internet website of the General Services Administration the earlier of—
+      >   - **(C)** *Publicly available* The transition team shall make the ethics plan described in this paragraph publicly available on the website of the General Services Administration the earlier of—
       >     - **(i)** the day on which the memorandum of understanding is completed; or
       >     - **(ii)** October 1.
 
@@ -70,7 +68,3 @@ The Presidential Transition Act of 1963 (3 U.S.C. 102 note) is amended—
   - **(B)** in paragraph (2), by inserting “not later than 2 business days” after “public”; and
   - **(C)** by adding at the end the following:
     > - **(3)** The head of a Federal department or agency, or their designee, shall not permit access to the Federal department or agency, or employees of such department or agency, that would not be provided to a member of the public for any transition team member who does not make the disclosures listed under paragraph (1).
-
-## § 3. Severability
-
-If any provision of this Act or amendment made by this Act, or the application of a provision or amendment to any person or circumstance, is held to be unconstitutional, the remainder of this Act and amendments made by this Act, and the application of the provisions and amendment to any person or circumstance, shall not be affected by the holding.
