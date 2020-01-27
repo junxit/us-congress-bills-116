@@ -1,7 +1,7 @@
 ---
 measure: H.R. 964
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -42,7 +42,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `3 U.S.C. § 102` | add-at-end | in section 3(f), by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `3 U.S.C. § 102` | add-at-end | in section 3(f), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1601` | strike | in paragraph (3), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `2 U.S.C. § 1601` | redesignate | by redesignating paragraph (4) as paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1601` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

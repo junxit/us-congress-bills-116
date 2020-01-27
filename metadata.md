@@ -1,7 +1,7 @@
 ---
 measure: H.R. 964
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 964
@@ -46,3 +46,8 @@ Transition Team Ethics Improvement Act
 - 2019-02-05 — Introduced in House
 - 2019-02-05 — Introduced in House
 - 2019-02-05 — Referred to the House Committee on Oversight and Reform.
+- 2019-03-26 — Committee Consideration and Mark-up Session Held.
+- 2019-03-26 — Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 12.
+- 2020-01-27 — Placed on the Union Calendar, Calendar No. 306.
+- 2020-01-27 — Reported (Amended) by the Committee on Oversight and Reform. H. Rept. 116-382.
+- 2020-01-27 — Reported (Amended) by the Committee on Oversight and Reform. H. Rept. 116-382.
