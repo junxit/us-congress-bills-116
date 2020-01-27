@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4704
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4704
@@ -49,3 +49,11 @@ Advancing Research to Prevent Suicide Act
 - 2019-12-12 — Placed on the Union Calendar, Calendar No. 272.
 - 2019-12-12 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 116-342.
 - 2019-12-12 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 116-342.
+- 2020-01-27 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2020-01-27 — Considered as unfinished business. (consideration: CR H554-555)
+- 2020-01-27 — Considered under suspension of the rules. (consideration: CR H549-550)
+- 2020-01-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4704.
+- 2020-01-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-01-27 — Mr. McAdams moved to suspend the rules and pass the bill, as amended.
+- 2020-01-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 385 - 8 (Roll no. 24). (text: CR H549)
+- 2020-01-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 385 - 8 (Roll no. 24).(text: CR H549)
