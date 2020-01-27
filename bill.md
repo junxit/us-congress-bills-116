@@ -32,7 +32,7 @@ Congress finds the following:
 - **(13)** The United States will be forever grateful and indebted to these merchant mariners for their effective, reliable, and courageous transport of goods and resources in enemy territory throughout theaters of every variety in World War II.
 - **(14)** The goods and resources transported by the Merchant Marine saved thousands of lives and enabled the Allied Powers to claim victory in World War II.
 - **(15)** The Congressional Gold Medal would be an appropriate way to shed further light on the service of the merchant mariners in World War II and the instrumental role they played in winning that war.
-- **(16)** Many students of the Merchant Marine Academy lost their lives as they sailed through enemy-controlled waters or unloaded cargo in overseas combat areas, and, as a result, the United States Merchant Marine Academy is the only institution among the 5 Federal academies to be authorized to carry a battle standard as part of its color guard.
+- **(16)** Many students of the Merchant Marine Academy lost their lives as they sailed through enemy-controlled waters or unloaded cargo in overseas combat areas, and, as a result, the United States Merchant Marine Academy is the only institution among the five Federal academies to be authorized to carry a battle standard as part of its color guard.
 
 ## § 3. Congressional gold medal
 

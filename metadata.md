@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5671
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5671
@@ -16,6 +16,11 @@ Merchant Mariners of World War II Congressional Gold Medal Act of 2020
 
 - Rep. Garamendi, John [D-CA-3] (G000559)
 
+## Cosponsors (2)
+
+- Rep. Brooks, Susan W. [R-IN-5] (B001284)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+
 ## Committees (1)
 
 - House — Financial Services Committee
@@ -25,3 +30,9 @@ Merchant Mariners of World War II Congressional Gold Medal Act of 2020
 - 2020-01-24 — Introduced in House
 - 2020-01-24 — Introduced in House
 - 2020-01-24 — Referred to the House Committee on Financial Services.
+- 2020-01-27 — Considered under suspension of the rules. (consideration: CR H547-549)
+- 2020-01-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5671.
+- 2020-01-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-01-27 — Mr. San Nicolas moved to suspend the rules and pass the bill.
+- 2020-01-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H547-548)
+- 2020-01-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H547-548)
