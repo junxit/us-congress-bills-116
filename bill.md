@@ -1,0 +1,22 @@
+---
+legis-num: S. 3228
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3228
+
+> To amend section 249 of title 18, United States Code, relating to hate crimes, to clarify the motive requirement.
+
+## § 1. Short title
+
+This Act may be cited as the “Justice for Victims of Hate Crimes Act”.
+
+## § 2. Motive requirement for hate crimes
+
+Section 249(c) of title 18, United States Code, is amended—
+
+- **(1)** by redesignating paragraphs (1) through (5) as paragraphs (2) through (6), respectively; and
+- **(2)** by inserting before paragraph (2), as so redesignated, the following:
+  > - **(1)** the term because of means that the actual or perceived protected characteristic of the victim was a substantial motivating factor in the offense;
