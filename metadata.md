@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4704
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4704
@@ -35,9 +35,10 @@ Advancing Research to Prevent Suicide Act
 - Rep. Panetta, Jimmy [D-CA-20] (P000613)
 - Rep. LaMalfa, Doug [R-CA-1] (L000578)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -61,3 +62,4 @@ Advancing Research to Prevent Suicide Act
 - 2020-01-27 — Mr. McAdams moved to suspend the rules and pass the bill, as amended.
 - 2020-01-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 385 - 8 (Roll no. 24). (text: CR H549)
 - 2020-01-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 385 - 8 (Roll no. 24).(text: CR H549)
+- 2020-01-28 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
