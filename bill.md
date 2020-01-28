@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2153
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -92,12 +92,12 @@ It is the sense of Congress that—
 
 ## § 6. Global strategy requirement
 
-- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, and every 5 years thereafter, the Ambassador-at-Large for Global Women’s Issues at the Department of State, in consultation with the Senior Coordinator for Gender Equality and Women’s Empowerment and the Senior Coordinator for International Basic Education Assistance at the United States Agency for International Development, shall—
+- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, and every 5 years thereafter for not less than 10 years, the Ambassador-at-Large for Global Women’s Issues at the Department of State, in consultation with the Senior Coordinator for Gender Equality and Women’s Empowerment and the Senior Coordinator for International Basic Education Assistance at the United States Agency for International Development, shall—
   - **(1)** review and update a United States global strategy to empower adolescent girls;
   - **(2)** provide a meaningful opportunity for public review and consultation on the strategy; and
   - **(3)** submit the strategy to the appropriate congressional committees.
 - **(b)** *Initial strategy* For the purposes of this section, the “United States Global Strategy to Empower Adolescent Girls”, published in March 2016, shall be deemed to fulfill the initial requirement under subsection (a).
-- **(c)** *Consultation required* In reviewing and updating the strategy under subsection (a), the Ambassador-at-Large for Global Women’s Issues, the Senior Coordinator for Gender Equality and Women’s Empowerment, and the Senior Coordinator for International Basic Education Assistance shall consult with—
+- **(c)** *Consultation required* In reviewing and updating the strategy under subsection (a), the Ambassador-at-Large for Global Women’s Issues, the Senior Coordinator for Gender Equality and Women’s Empowerment, and the Senior Coordinator for International Basic Education Assistance shall, as appropriate, consult with—
   - **(1)** the heads of relevant Federal departments and agencies their designees, as well as experts on adolescent girls, gender equality, and empowerment issues throughout the Federal Government;
   - **(2)** the appropriate congressional committees;
   - **(3)** representatives of United States civil society and multilateral organizations with demonstrated experience and expertise in empowering adolescent girls or promoting gender equality, including local civil society organizations and beneficiaries where possible; and
@@ -105,7 +105,7 @@ It is the sense of Congress that—
 
 ## § 7. Transparency and reporting to Congress
 
-- **(a)** *In general* Not later than one year after the date of the enactment of this Act, and every 180 days thereafter until each activity initiated pursuant to the authorities under this Act has concluded, the Administrator of the United States Agency for International Development, in coordination with the Secretary of State, shall submit to the appropriate congressional committees a report describing—
+- **(a)** *In general* Not later than 1 year after the date of the enactment of this Act, and biennially thereafter for 10 years until each activity initiated pursuant to the authorities under this Act has concluded, the Administrator of the United States Agency for International Development, in coordination with the Secretary of State, shall submit to the appropriate congressional committees a report describing—
   - **(1)** the activities initiated under the authorities provided in this Act; and
   - **(2)** the manner and extent to which such activities are monitored and evaluated, in accordance with section 5(e).
 - **(b)** *Availability* The report required by subsection (a) shall be made available on a text-based, searchable, and publicly available website of the United States Agency for International Development.
