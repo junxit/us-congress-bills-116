@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5338
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -17,7 +17,7 @@ This Act may be cited as the “Global Hope Act of 2019”.
 
 Congress finds the following:
 
-- **(1)** Cancer is a leading cause of death for children and adolescents around the world, and approximately 300,000 children aged 0 to 19 years old are diagnosed with cancer each year.
+- **(1)** Approximately 300,000 children aged 0 to 19 years old are diagnosed with cancer each year.
 - **(2)** The most common categories of childhood cancers include leukemia, brain cancer, lymphoma, and solid tumors, such as neuroblastoma and Wilms tumor.
 - **(3)** Most childhood cancers can be cured with generic medicines and can be cost-effective for all income levels.
 - **(4)** In the United States, the survival rate for children diagnosed with cancer is over 80 percent. In many developing countries, the mortality rate of children diagnosed with cancer is around 80 percent. In some parts of Africa, the mortality rate reaches 90 percent.
@@ -40,8 +40,8 @@ The United States shall seek to—
 - **(3)** support efforts to train medical personnel and develop the capabilities of other existing health­care infrastructure to diagnose, treat, and care for childhood cancer;
 - **(4)** improve access to affordable and essential medicines and technologies that treat childhood cancer;
 - **(5)** elevate and prioritize efforts to reduce the mortality rate of childhood cancer in international organizations such as the United Nations;
-- **(6)** pursue research and research partnerships with international institutions to identify low-cost interventions and best practices to diagnose, treat, and care for childhood cancer globally; and
-- **(7)** improve partnerships with international health ministries and pharmaceutical companies to facilitate efforts for broader, global clinical trials for medicines to treat or care for childhood cancer.
+- **(6)** pursue research and research partnerships with international institutions to identify low-cost interventions and best practices to diagnose, treat, and care for childhood cancer in the United States and globally; and
+- **(7)** improve partnerships with international health ministries and pharmaceutical companies to facilitate efforts for broader, global clinical trials for medicines to treat or care for childhood cancer in the United States and globally.
 
 ## § 5. Authorization
 
