@@ -1,7 +1,7 @@
 ---
 measure: H.R. 943
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 943
@@ -340,3 +340,14 @@ Never Again Education Act
 - 2020-01-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 5 (Roll no. 23). (text: CR H540-541)
 - 2020-01-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 5 (Roll no. 23).(text: CR H540-541)
 - 2020-01-28 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2020-05-13 — Passed Senate without amendment by Voice Vote.
+- 2020-05-13 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2020-05-13 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2020-05-13 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent. (consideration: CR S2429-2430)
+- 2020-05-14 — Message on Senate action sent to the House.
+- 2020-05-19 — Presented to President.
+- 2020-05-19 — Presented to President.
+- 2020-05-29 — Became Public Law No: 116-141.
+- 2020-05-29 — Became Public Law No: 116-141.
+- 2020-05-29 — Signed by President.
+- 2020-05-29 — Signed by President.
