@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5671
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5671
@@ -21,9 +21,10 @@ Merchant Mariners of World War II Congressional Gold Medal Act of 2020
 - Rep. Brooks, Susan W. [R-IN-5] (B001284)
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Merchant Mariners of World War II Congressional Gold Medal Act of 2020
 - 2020-01-27 — Mr. San Nicolas moved to suspend the rules and pass the bill.
 - 2020-01-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H547-548)
 - 2020-01-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H547-548)
+- 2020-01-28 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
