@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 811
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 811
@@ -16,6 +16,10 @@ Providing for consideration of the bill (H.R. 3621) to amend the Fair Credit Rep
 
 - Rep. Raskin, Jamie [D-MD-8] (R000606)
 
+## Committees (1)
+
+- House — Rules Committee
+
 ## Actions
 
 - 2020-01-27 — Introduced in House
@@ -23,3 +27,11 @@ Providing for consideration of the bill (H.R. 3621) to amend the Fair Credit Rep
 - 2020-01-27 — The House Committee on Rules reported an original measure, H. Rept. 116-383, by Mr. Raskin.
 - 2020-01-27 — The House Committee on Rules reported an original measure, H. Rept. 116-383, by Mr. Raskin.
 - 2020-01-27 — The resolution makes in order a motion that the House concur in the Senate amendment with amendments to H.R. 550. The resolution provides for H.R. 3621 under a structured rule.
+- 2020-01-28 — Considered as privileged matter. (consideration: CR H579-588)
+- 2020-01-28 — Considered as unfinished business. (consideration: CR H605-606)
+- 2020-01-28 — DEBATE - The House proceeded with one hour of debate on H. Res. 811.
+- 2020-01-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-01-28 — On agreeing to the resolution Agreed to by the Yeas and Nays: 223 - 189 (Roll no. 26). (text: CR H579)
+- 2020-01-28 — On ordering the previous question Agreed to by the Yeas and Nays: 227 - 184 (Roll no. 25). (consideration: CR H605-606)
+- 2020-01-28 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 811, the Chair put the question on ordering the previous question and by voice vote, announced that the ayes had prevailed. Mr. Woodall demanded the yeas and nays and the Chair postponed further proceedings on the question on ordering the previous question until a time to be announced.
+- 2020-01-28 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 223 - 189 (Roll no. 26).(text: CR H579)
