@@ -1,0 +1,19 @@
+---
+legis-num: S. 3239
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3239
+
+> To designate the headquarters building of the Department of Transportation located at 1200 New Jersey Avenue, SE, in Washington, DC, as the “William T. Coleman, Jr., Federal Building”.
+
+## § 1. Short title
+
+This Act may be cited as the “William T. Coleman, Jr., Department of Transportation Headquarters Act”.
+
+## § 2. William T. Coleman, Jr., Federal Building
+
+- **(a)** *In general* The headquarters building of the Department of Transportation located at 1200 New Jersey Avenue, SE, in Washington, DC, shall be known and designated as the “William T. Coleman, Jr., Federal Building”.
+- **(b)** *References* Any reference in law, map, regulation, document, paper, or other record of the United States to the building referred to in subsection (a) shall be deemed to be a reference to the “William T. Coleman, Jr., Federal Building”.
