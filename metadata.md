@@ -1,7 +1,7 @@
 ---
 measure: H.R. 943
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 943
@@ -321,9 +321,10 @@ Never Again Education Act
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 - Rep. Chabot, Steve [R-OH-1] (C000266)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -342,3 +343,4 @@ Never Again Education Act
 - 2020-01-27 — Mr. Norcross moved to suspend the rules and pass the bill, as amended.
 - 2020-01-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 5 (Roll no. 23). (text: CR H540-541)
 - 2020-01-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 5 (Roll no. 23).(text: CR H540-541)
+- 2020-01-28 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
