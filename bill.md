@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 5693
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5693
+
+> To amend title XVIII of the Social Security Act to expand Medicare Rural Health Clinic Services and Federally Qualified Health Center Services to include physical therapy services.
+
+## § 1. Short title
+
+This Act may be cited as the “Primary Health Services Enhancement Act”.
+
+## § 2. Expanding Medicare Rural Health Clinic Services and Federally Qualified Health Center Services to include physical therapy services
+
+- **(a)** *In general* Section 1861(aa) of the Social Security Act (42 U.S.C. 1395x(aa)) is amended—
+  - **(1)** in paragraph (1)—
+    - **(A)** in subparagraph (B), by striking at the end “and”;
+    - **(B)** by redesignating subparagraph (C) as subparagraph (D); and
+    - **(C)** by inserting after subparagraph (B) the following new subparagraph:
+      > - **(C)** such physical therapy services (as defined in subsection (p)) furnished by a physical therapist, and
+
+  - **(2)** in paragraph (2)(A), by striking “subparagraphs (A) and (B)” and inserting “subparagraphs (A) through (C)”; and
+  - **(3)** in paragraph (3)(A), by striking “subparagraphs (A) through (C)” and inserting “subparagraphs (A) through (D)”.
+- **(b)** *Effective date* The amendments made by subsection (a) shall apply with respect to services furnished on or after January 1, 2021.
