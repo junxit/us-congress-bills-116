@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5338
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5338
@@ -56,3 +56,4 @@ Global Hope Act of 2019
 - 2020-01-28 — Mr. Phillips moved to suspend the rules and pass the bill, as amended.
 - 2020-01-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H588-589)
 - 2020-01-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H588-589)
+- 2020-01-30 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
