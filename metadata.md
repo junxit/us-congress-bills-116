@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2153
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2153
@@ -152,3 +152,4 @@ Keeping Girls in School Act
 - 2020-01-28 — Mr. Phillips moved to suspend the rules and pass the bill, as amended.
 - 2020-01-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H601-602)
 - 2020-01-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H601-602)
+- 2020-01-30 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
