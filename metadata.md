@@ -1,7 +1,7 @@
 ---
 measure: H.R. 550
 congress: 116
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 550
@@ -327,6 +327,11 @@ No War Against Iran Act
 - House — Financial Services Committee
 - Senate — Banking, Housing, and Urban Affairs Committee
 
+## Recorded votes (2)
+
+- 2020-01-30 — [House 116-2-33](votes/house-116-2-0033.md) — On Concurring in the Senate Amdt with Amdt Specified in Section 4(a) of H. Res. 811 — **Passed** (228–175)
+- 2020-01-30 — [House 116-2-34](votes/house-116-2-0034.md) — On Concurring in the Senate Amdt with Amdt Specified in Section 4(b) of H. Res. 811 — **Passed** (236–166)
+
 ## Actions
 
 - 2019-01-15 — Introduced in House
@@ -350,3 +355,17 @@ No War Against Iran Act
 - 2019-12-19 — Senate amendment agreed to: Amendment SA 1273 agreed to in Senate by Unanimous Consent.
 - 2019-12-19 — Senate amendment proposed (on the floor): Amendment SA 1273 proposed by Senator McConnell for Senator Murkowski.
 - 2019-12-19 — Senate amendment submitted
+- 2019-12-23 — Message on Senate action sent to the House.
+- 2020-01-30 — DEBATE - Pursuant to H.Res. 811, the question shall be divided among the two House amendments. Pursuant to section 3(a) of H.Res. 811, the portion of the divided question comprising the amendments specified in section 4(a) of H.Res. 811 shall be considered first. Each amendment specified in section 4 shall be debatable for one hour.
+- 2020-01-30 — Message on House action received in Senate and at desk: House amendments to Senate amendment.
+- 2020-01-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-01-30 — On motion to concur in the Senate amendment with amendment specified in section 4(a) of H.Res. 811 Agreed to by the Yeas and Nays: 228 - 175 (Roll no. 33). (text: CR H717-718)
+- 2020-01-30 — On motion to concur in the Senate amendment with amendment specified in section 4(b) of H.Res. 811 Agreed to by the Yeas and Nays: 236 - 166 (Roll no. 34). (text: CR H726-727)
+- 2020-01-30 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Engel motion that the House concur in the Senate amendment with an amendment specified in section 4(a) of H.Res. 811, the Chair put the question on adoption of the motion and announced that the ayes had prevailed. Mr. Engel demanded the yeas and nays and the Chair postponed further proceedings on the motion until a time to be announced.
+- 2020-01-30 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Engel motion that the House concur in the Senate amendment with an amendment specified in section 4(b) of H. Res. 811, the Chair put the question on adoption of the motion and announced that the ayes had prevailed. Mr. Engel demanded the yeas and nays and the Chair postponed further proceedings on the motion until a time to be announced.
+- 2020-01-30 — Pursuant to H.Res. 811, Mr. Engel was recognized to move that the House concur in the Senate amendment to H.R. 550 with amendments specified in section 4 of H.Res. 811. (consideration: CR H717-726, H737-738)
+- 2020-01-30 — Pursuant to H.Res. 811, the House proceeded with one hour of debate on the motion that the House concur in the Senate amendment with an amendment specified in section 4(b). (consideration: CR H726-737, H738-739)
+- 2020-01-30 — Resolving differences -- House actions: On motion to concur in the Senate amendment with amendment specified in section 4(a) of H.Res. 811 Agreed to by the Yeas and Nays: 228 - 175 (Roll no. 33).(text: CR H717-718)
+- 2020-01-30 — Resolving differences -- House actions: On motion to concur in the Senate amendment with amendment specified in section 4(b) of H.Res. 811 Agreed to by the Yeas and Nays: 236 - 166 (Roll no. 34).(text: CR H726-727)
+- 2020-01-30 — The previous question was ordered pursuant to the rule.
+- 2020-01-30 — The previous question was ordered pursuant to the rule.
