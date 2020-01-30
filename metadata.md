@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3621
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3621
@@ -165,3 +165,4 @@ Comprehensive CREDIT Act of 2020
 - 2020-01-29 — The Speaker designated the Honorable Gregorio Kilili Camacho Sablan to act as Chairman of the Committee.
 - 2020-01-29 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2020-01-29 — The previous question was ordered pursuant to the rule.
+- 2020-01-30 — Received in the Senate.
