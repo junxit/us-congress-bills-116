@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3300
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-19 amendatory instructions. 2 executed, 17 stated and not applied.
+20 amendatory instructions. 2 executed, 18 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,11 +26,11 @@ to guess them.
 
 ### 26 U.S.C. § 32
 
-> Section 32(j)(1) of such Code is amended by striking “subsection (b)(2) and (i)(1)” and inserting “subsection (b)(2)”.
+> Section 32(j)(1) of such Code is amended by striking “subsections (b)(2) and (i)(1)” and inserting “subsection (b)(2)”.
 
 | | |
 |---|---|
-| Removed | `subsection (b)(2) and (i)(1)` |
+| Removed | `subsections (b)(2) and (i)(1)` |
 | Inserted | `subsection (b)(2)` |
 
 ### 26 U.S.C. § 32
@@ -59,11 +59,12 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 32` | strike | Section 32(c)(1)(E)(ii) of such Code is amended by striking “(within the meaning of section 7703)”. | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 32` | strike | Section 32(d)(1) of such Code, as amended by subsection (a), is amended by striking “(within the meaning of section 7703)”. | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 32` | strike | Section 32 of the Internal Revenue Code of 1986 is amended by striking subsection (i). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 32` | strike | by striking subparagraph (B); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 32` | strike | by striking subparagraph (B), and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 32` | replace | by striking “Rounding.—” and all that follows through “If any dollar amount” and inserting the following: “Rounding.—If any dollar amount”. | the bill quotes the text struck but describes what replaces it |
 | — | add-at-end | Chapter 77 of the Internal Revenue Code of 1986 is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections for chapter 77 of such Code is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
 | `26 U.S.C. § 24` | add-at-end | Section 24(h) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 24` | amend | Section 24(h)(2) is amended to read to as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 21` | add-at-end | Section 21 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 21` | insert | Section 1324(b)(2) of title 31, United States Code, is amended by inserting “21 (by reason of subsection (g) thereof),” before “25A”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 129` | add-at-end | Section 129(a)(2) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
