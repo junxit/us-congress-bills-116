@@ -1,7 +1,7 @@
 ---
 measure: S. 2750
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2750
@@ -16,9 +16,10 @@ Operation Stonegarden Authorization Act
 
 - Sen. McSally, Martha [R-AZ] (M001197)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Tester, Jon [D-MT] (T000464)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Operation Stonegarden Authorization Act
 
 - 2019-10-30 — Introduced in Senate
 - 2019-10-30 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2019-11-06 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2020-02-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-212.
+- 2020-02-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-212.
+- 2020-02-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 410.
