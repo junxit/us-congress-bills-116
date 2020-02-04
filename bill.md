@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2250
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -18,7 +18,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 In this Act:
 
-- **(1)** *Secretary* The term Secretary means—
+- **(1)** *Secretary* The term “Secretary” means—
   - **(A)** with respect to land under the jurisdiction of the Secretary of Agriculture, the Secretary of Agriculture; and
   - **(B)** with respect to land under the jurisdiction of the Secretary of the Interior, the Secretary of the Interior.
-- **(2)** *State* The term State means the State of California.
+- **(2)** *State* The term “State” means the State of California.
