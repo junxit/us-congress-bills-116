@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1708
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1708
@@ -16,7 +16,7 @@ Rim of the Valley Corridor Preservation Act
 
 - Rep. Schiff, Adam B. [D-CA-28] (S001150)
 
-## Cosponsors (10)
+## Cosponsors (17)
 
 - Rep. Brownley, Julia [D-CA-26] (B001285)
 - Rep. Cárdenas, Tony [D-CA-29] (C001097)
@@ -28,6 +28,13 @@ Rim of the Valley Corridor Preservation Act
 - Rep. Barragan, Nanette Diaz [D-CA-44] (B001300)
 - Rep. Hill, Katie [D-CA-25] (H001087)
 - Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
+- Rep. DeSaulnier, Mark [D-CA-11] (D000623)
+- Rep. Bass, Karen [D-CA-37] (B001270)
+- Rep. Eshoo, Anna G. [D-CA-18] (E000215)
+- Rep. Rouda, Harley [D-CA-48] (R000616)
+- Rep. Cisneros, Gilbert Ray, Jr. [D-CA-39] (C001123)
+- Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
+- Rep. Sánchez, Linda T. [D-CA-38] (S001156)
 
 ## Committees (1)
 
@@ -38,3 +45,11 @@ Rim of the Valley Corridor Preservation Act
 - 2019-03-13 — Introduced in House
 - 2019-03-13 — Introduced in House
 - 2019-03-13 — Referred to the House Committee on Natural Resources.
+- 2019-04-01 — Referred to the Subcommittee on National Parks, Forests, and Public Lands.
+- 2019-04-02 — Subcommittee Hearings Held.
+- 2019-11-20 — Committee Consideration and Mark-up Session Held.
+- 2019-11-20 — Ordered to be Reported by the Yeas and Nays: 20 - 13.
+- 2019-11-20 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2020-02-04 — Placed on the Union Calendar, Calendar No. 309.
+- 2020-02-04 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-386.
+- 2020-02-04 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-386.
