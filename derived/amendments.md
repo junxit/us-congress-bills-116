@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2546
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `16 U.S.C. § 1132` | add-at-end | by adding at the end the following paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1132` | add-at-end | Section 2(a) of the Colorado Wilderness Act of 1993 (Public Law 103–77; 107 Stat. 756; 16 U.S.C. 1132 note) is amended by adding at the end the following paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
