@@ -1,7 +1,7 @@
 ---
 measure: H.R. 495
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 495
@@ -35,3 +35,7 @@ FIRST State and Local Law Enforcement Act
 - 2019-01-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1256)
 - 2019-01-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1256)
 - 2019-01-29 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2019-11-06 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2020-02-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 116-213.
+- 2020-02-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 116-213.
+- 2020-02-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 411.
