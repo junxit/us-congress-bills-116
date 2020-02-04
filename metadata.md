@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2642
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2642
@@ -25,3 +25,11 @@ Wild Olympics Wilderness and Wild and Scenic Rivers Act
 - 2019-05-09 — Introduced in House
 - 2019-05-09 — Introduced in House
 - 2019-05-09 — Referred to the House Committee on Natural Resources.
+- 2019-05-28 — Referred to the Subcommittee on National Parks, Forests, and Public Lands.
+- 2019-07-10 — Subcommittee Hearings Held.
+- 2019-12-05 — Committee Consideration and Mark-up Session Held.
+- 2019-12-05 — Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 11.
+- 2019-12-05 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2020-02-04 — Placed on the Union Calendar, Calendar No. 311.
+- 2020-02-04 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-388.
+- 2020-02-04 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-388.
