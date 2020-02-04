@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2199
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -18,23 +18,23 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 In this Act:
 
-- **(1)** *Scenic areas* The term scenic area means a scenic area designated by section 8(a).
-- **(2)** *Secretary* The term Secretary means—
+- **(1)** *Scenic areas* The term “scenic area” means a scenic area designated by section 8(a).
+- **(2)** *Secretary* The term “Secretary” means—
   - **(A)** with respect to land managed by the Bureau of Land Management, the Secretary of the Interior; and
   - **(B)** with respect to land managed by the Forest Service, the Secretary of Agriculture.
-- **(3)** *State* The term State means the State of California.
-- **(4)** *Wilderness area* The term wilderness area means a wilderness area or wilderness addition designated by section 3(a).
+- **(3)** *State* The term “State” means the State of California.
+- **(4)** *Wilderness area* The term “wilderness area” means a wilderness area or wilderness addition designated by section 3(a).
 
 ## § 3. Designation of wilderness
 
 - **(a)** *In general* In accordance with the Wilderness Act (16 U.S.C. 1131 et seq.), the following areas in the State are designated as wilderness areas and as components of the National Wilderness Preservation System:
-  - **(1)** Certain land in the Bakersfield Field Office of the Bureau of Land Management comprising approximately 35,619 acres, as generally depicted on the map entitled “Caliente Mountain Wilderness Area—Proposed” and dated March 29, 2019, which shall be known as the “Caliente Mountain Wilderness”.
-  - **(2)** Certain land in the Bakersfield Field Office of the Bureau of Land Management comprising approximately 13,332 acres, as generally depicted on the map entitled “Soda Lake Wilderness Area—Proposed” and dated March 29, 2019, which shall be known as the “Soda Lake Wilderness”.
-  - **(3)** Certain land in the Bakersfield Field Office of the Bureau of Land Management comprising approximately 12,585 acres, as generally depicted on the map entitled “Temblor Range Wilderness Area—Proposed” and dated March 29, 2019, which shall be known as the “Temblor Range Wilderness”.
+  - **(1)** Certain land in the Bakersfield Field Office of the Bureau of Land Management comprising approximately 35,116 acres, as generally depicted on the map entitled “Proposed Caliente Mountain Wilderness” and dated November 13, 2019, which shall be known as the “Caliente Mountain Wilderness”.
+  - **(2)** Certain land in the Bakersfield Field Office of the Bureau of Land Management comprising approximately 13,332 acres, as generally depicted on the map entitled “Proposed Soda Lake Wilderness” and dated June 25, 2019, which shall be known as the “Soda Lake Wilderness”.
+  - **(3)** Certain land in the Bakersfield Field Office of the Bureau of Land Management comprising approximately 12,585 acres, as generally depicted on the map entitled “Proposed Temblor Range Wilderness” and dated June 25, 2019, which shall be known as the “Temblor Range Wilderness”.
   - **(4)** Certain land in the Los Padres National Forest comprising approximately 23,670 acres, as generally depicted on the map entitled “Chumash Wilderness Area Additions—Proposed” and dated March 29, 2019, which shall be incorporated into and managed as part of the Chumash Wilderness as designated by the Los Padres Condor Range and River Protection Act (Public Law 102–301; 106 Stat. 242).
-  - **(5)** Certain land in the Los Padres National Forest comprising approximately 54,053 acres, as generally depicted on the maps entitled “Dick Smith Wilderness Area Additions—Proposed Map 1 of 2 (Bear Canyon and Cuyama Peak Units)” and “Dick Smith Wilderness Area Additions—Proposed Map 2 of 2 (Buckhorn and Mono Units)” and dated March 29, 2019, which shall be incorporated into and managed as part of the Dick Smith Wilderness as designated by the California Wilderness Act of 1984 (Public Law 98–425; 16 U.S.C. 1132 note).
+  - **(5)** Certain land in the Los Padres National Forest comprising approximately 54,036 acres, as generally depicted on the maps entitled “Dick Smith Wilderness Area Additions—Proposed Map 1 of 2 (Bear Canyon and Cuyama Peak Units)” and “Dick Smith Wilderness Area Additions—Proposed Map 2 of 2 (Buckhorn and Mono Units)” and dated November 14, 2019, which shall be incorporated into and managed as part of the Dick Smith Wilderness as designated by the California Wilderness Act of 1984 (Public Law 98–425; 16 U.S.C. 1132 note).
   - **(6)** Certain land in the Los Padres National Forest and the Bakersfield Field Office of the Bureau of Land Management comprising approximately 7,289 acres, as generally depicted on the map entitled “Garcia Wilderness Area Additions—Proposed” and dated March 29, 2019, which shall be incorporated into and managed as part of the Garcia Wilderness as designated by the Los Padres Condor Range and River Protection Act (Public Law 102–301; 106 Stat. 242).
-  - **(7)** Certain land in the Los Padres National Forest and the Bakersfield Field Office of the Bureau of Land Management comprising approximately 8,671 acres, as generally depicted on the map entitled “Machesna Mountain Wilderness Area Additions—Proposed” and dated March 29, 2019, which shall be incorporated into and managed as part of the Machesna Mountain Wilderness as designated by the California Wilderness Act of 1984 (Public Law 98–425; 16 U.S.C. 1132 note).
+  - **(7)** Certain land in the Los Padres National Forest and the Bakersfield Field Office of the Bureau of Land Management comprising approximately 8,774 acres, as generally depicted on the map entitled “Machesna Mountain Wilderness—Proposed Additions” and dated October 30, 2019, which shall be incorporated into and managed as part of the Machesna Mountain Wilderness as designated by the California Wilderness Act of 1984 (Public Law 98–425; 16 U.S.C. 1132 note).
   - **(8)** Certain land in the Los Padres National Forest comprising approximately 30,184 acres, as generally depicted on the map entitled “Matilija Wilderness Area Additions—Proposed” and dated March 29, 2019, which shall be incorporated into and managed as part of the Matilija Wilderness as designated by the Los Padres Condor Range and River Protection Act (Public Law 102–301; 106 Stat. 242).
   - **(9)** Certain land in the Los Padres National Forest comprising approximately 23,969 acres, as generally depicted on the map entitled “San Rafael Wilderness Area Additions—Proposed” and dated March 29, 2019, which shall be incorporated into and managed as part of the San Rafael Wilderness as designated by Public Law 90–271 (82 Stat. 51), the California Wilderness Act of 1984 (Public Law 98–425; 16 U.S.C. 1132 note), and the Los Padres Condor Range and River Protection Act (Public Law 102–301; 106 Stat. 242).
   - **(10)** Certain land in the Los Padres National Forest comprising approximately 2,921 acres, as generally depicted on the map entitled “Santa Lucia Wilderness Area Additions—Proposed” and dated March 29, 2019, which shall be incorporated into and managed as part of the Santa Lucia Wilderness as designated by the Endangered American Wilderness Act of 1978 (Public Law 95–237; 16 U.S.C. 1132 note).
@@ -49,7 +49,7 @@ In this Act:
 
 ## § 4. Designation of the Machesna Mountain Potential Wilderness
 
-- **(a)** *Designation* In furtherance of the purposes of the Wilderness Act (16 U.S.C. 1131 et seq.), certain land in the Los Padres National Forest comprising approximately 2,359 acres, as generally depicted on the map entitled “Machesna Mountain Potential Wilderness Area” and dated March 29, 2019, is designated as the Machesna Mountain Potential Wilderness Area.
+- **(a)** *Designation* In furtherance of the purposes of the Wilderness Act (16 U.S.C. 1131 et seq.), certain land in the Los Padres National Forest comprising approximately 2,359 acres, as generally depicted on the map entitled “Machesna Mountain Potential Wilderness” and dated March 29, 2019, is designated as the Machesna Mountain Potential Wilderness Area.
 - **(b)** *Map and legal description*
   - **(1)** *In general* As soon as practicable after the date of enactment of this Act, the Secretary shall file a map and legal description of the Machesna Mountain Potential Wilderness Area (referred to in this section as the “potential wilderness area”) with—
     - **(A)** the Committee on Energy and Natural Resources of the Senate; and
@@ -72,7 +72,7 @@ In this Act:
 - **(g)** *Boundaries* The Secretary shall modify the boundary of the potential wilderness area to exclude any area within 150 feet of the centerline of the new location of any trail that has been reconstructed, realigned, or rerouted under subsection (d).
 - **(h)** *Wilderness designation*
   - **(1)** *In general* The potential wilderness area, as modified under subsection (g), shall be designated as wilderness and as a component of the National Wilderness Preservation System on the earlier of—
-    - **(A)** the date on which the Secretary publishes in the Federal Register notice that the trail reconstruction, realignment, or rerouting authorized by subsection (d) has been completed; and
+    - **(A)** the date on which the Secretary publishes in the Federal Register notice that the trail reconstruction, realignment, or rerouting authorized by subsection (d) has been completed; or
     - **(B)** the date that is 20 years after the date of enactment of this Act.
   - **(2)** *Administration of wilderness* On designation as wilderness under this section, the potential wilderness area shall be—
     - **(A)** incorporated into the Machesna Mountain Wilderness Area, as designated by the California Wilderness Act of 1984 (Public Law 98–425; 16 U.S.C. 1132 note) and expanded by section 3; and
@@ -119,7 +119,7 @@ In this Act:
     - **(A)** this section;
     - **(B)** the Wilderness Act (16 U.S.C. 1131 et seq.); and
     - **(C)** any other applicable law.
-- **(j)** *Treatment of existing water diversions in the San Rafael Wilderness Additions*
+- **(j)** *Treatment of existing water diversions in the san rafael wilderness additions*
   - **(1)** *Authorization for continued use* The Secretary of Agriculture may issue a special use authorization to the owners of the 2 existing water transport or diversion facilities, including administrative access roads (in this subsection referred to as a “facility”), located on National Forest System land in the San Rafael Wilderness Additions in the Moon Canyon unit (T. 11 N., R. 30 W., secs. 13 and 14) and the Peak Mountain unit (T. 10 N., R. 28 W., secs. 23 and 26) for the continued operation, maintenance, and reconstruction of the facility if the Secretary determines that—
     - **(A)** the facility was in existence on the date on which the land on which the facility is located was designated as part of the National Wilderness Preservation System (in this subsection referred to as “the date of designation”);
     - **(B)** the facility has been in substantially continuous use to deliver water for the beneficial use on the non-Federal land of the owner since the date of designation;
@@ -132,7 +132,7 @@ In this Act:
         - **(II)** the use of nonmotorized equipment and nonmechanized transport is impracticable or infeasible; and
       - **(ii)** preclude use of the facility for the diversion or transport of water in excess of the water right recognized by the State on the date of designation.
     - **(B)** *Discretionary terms and conditions* In a special use authorization issued under paragraph (1), the Secretary may require or allow modification or relocation of the facility in the wilderness, as the Secretary determines necessary, to reduce impacts to wilderness values set forth in section 2 of the Wilderness Act (16 U.S.C. 1131) if the beneficial use of water on the non-Federal land is not diminished.
-- **(k)** *Treatment of Existing Electrical Distribution Line in the San Rafael Wilderness Additions*
+- **(k)** *Treatment of existing electrical distribution line in the san rafael wilderness additions*
   - **(1)** *Authorization for continued use* The Secretary of Agriculture may issue a special use authorization to the owners of the existing electrical distribution line to the Plowshare Peak communication site (in this subsection referred to as a “facility”) located on National Forest System land in the San Rafael Wilderness Additions in the Moon Canyon unit (T. 11 N., R. 30 W., secs. 2, 3 and 4) for the continued operation, maintenance, and reconstruction of the facility if the Secretary determines that—
     - **(A)** the facility was in existence on the date on which the land on which the facility is located was designated as part of the National Wilderness Preservation System (in this subsection referred to as “the date of designation”);
     - **(B)** the facility has been in substantially continuous use to deliver electricity to the communication site; and
@@ -142,31 +142,31 @@ In this Act:
     - **(B)** *Discretionary terms and conditions* In a special use authorization issued under paragraph (1), the Secretary may require or allow modification or relocation of the facility in the wilderness, as the Secretary determines necessary, to reduce impacts to wilderness values set forth in section 2 of the Wilderness Act (16 U.S.C. 1131).
 - **(l)** *Climatological data collection* In accordance with the Wilderness Act (16 U.S.C. 1131 et seq.) and subject to terms and conditions as the Secretary may prescribe, the Secretary may authorize the installation and maintenance of hydrologic, meteorologic, or climatological collection devices in the wilderness areas if the Secretary determines that the facilities and access to the facilities are essential to flood warning, flood control, or water reservoir operation activities.
 
-## § 6. Designation of wild and scenic rivers
+## § 6. Designation of Wild and Scenic Rivers
 
-- **(a)** *Indian Creek, Mono Creek, and Matilija Creek, California* Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by adding at the end the following:
-  > - **(213)** *Indian Creek, California* The following segments of Indian Creek in the State of California, to be administered by the Secretary of Agriculture:
+- **(a)** *Indian creek, mono creek, and matilija creek, california* Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by adding at the end the following:
+  > - **(231)** *Indian creek, california* The following segments of Indian Creek in the State of California, to be administered by the Secretary of Agriculture:
   >   - **(A)** The 9.5-mile segment of Indian Creek from its source in sec. 19, T. 7 N., R. 26 W., to the Dick Smith Wilderness boundary, as a wild river.
   >   - **(B)** The 1-mile segment of Indian Creek from the Dick Smith Wilderness boundary to 0.25 miles downstream of Road 6N24, as a scenic river.
   >   - **(C)** The 3.9-mile segment of Indian Creek from 0.25 miles downstream of Road 6N24 to the southern boundary of sec. 32, T. 6 N., R. 26 W., as a wild river.
-  > - **(214)** *Mono Creek, California* The following segments of Mono Creek in the State of California, to be administered by the Secretary of Agriculture:
+  > - **(232)** *Mono creek, california* The following segments of Mono Creek in the State of California, to be administered by the Secretary of Agriculture:
   >   - **(A)** The 4.2-mile segment of Mono Creek from its source in sec. 1, T. 7 N., R. 26 W., to 0.25 miles upstream of Don Victor Fire Road in sec. 28, T. 7 N., R. 25 W., as a wild river.
-  >   - **(B)** The 2.1-mile segment of Mono Creek from 0.25 miles upstream of the Don Victor Fire Road in sec. 28, T. 7 N., R. 25 W., to 0.25 miles downstream of Don Victor Fire Road in sec. 34, T7N, R25W, as a recreational river.
-  >   - **(C)** The 14.7-mile segment of Mono Creek from 0.25 miles downstream of Don Victor Fire Road in sec. 34, T. 7 N., R. 25 W., to the Ogilvy Ranch private property boundary in sec. 22, R. 26 W., T. 6 N., as a wild river.
-  >   - **(D)** The 3.5-mile segment of Mono Creek from the Ogilvy Ranch private property boundary to the southern boundary of sec. 33, T. 6 N., R. 26 N., as a recreational river.
-  > - **(215)** *Matilija Creek, California* The following segments of Matilija Creek in the State of California, to be administered by the Secretary of Agriculture:
+  >   - **(B)** The 2.1-mile segment of Mono Creek from 0.25 miles upstream of the Don Victor Fire Road in sec. 28, T. 7 N., R. 25 W., to 0.25 miles downstream of Don Victor Fire Road in sec. 34, T. 7 N., R. 25 W., as a recreational river.
+  >   - **(C)** The 14.7-mile segment of Mono Creek from 0.25 miles downstream of Don Victor Fire Road in sec. 34, T. 7 N., R. 25 W., to the Ogilvy Ranch private property boundary in sec. 22, T. 6 N., R. 26 W., as a wild river.
+  >   - **(D)** The 3.5-mile segment of Mono Creek from the Ogilvy Ranch private property boundary to the southern boundary of sec. 33, T. 6 N., R. 26 W., as a recreational river.
+  > - **(233)** *Matilija creek, california* The following segments of Matilija Creek in the State of California, to be administered by the Secretary of Agriculture:
   >   - **(A)** The 7.2-mile segment of the Matilija Creek from its source in sec. 25, T. 6 N., R. 25 W., to the private property boundary in sec. 9, T. 5 N., R. 24 W., as a wild river.
   >   - **(B)** The 7.25-mile segment of the Upper North Fork Matilija Creek from its source in sec. 36, T. 6 N., R. 24 W., to the Matilija Wilderness boundary, as a wild river.
 
-- **(b)** *Sespe Creek, California* Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by striking paragraph (142) and inserting the following:
-  > - **(142)** *Sespe Creek, California* The following segments of Sespe Creek in the State of California, to be administered by the Secretary of Agriculture:
+- **(b)** *Sespe creek, california* Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by striking paragraph (142) and inserting the following:
+  > - **(142)** *Sespe creek, california* The following segments of Sespe Creek in the State of California, to be administered by the Secretary of Agriculture:
   >   - **(A)** The 2.7-mile segment of Sespe Creek from the private property boundary in sec. 10, T. 6 N., R. 24 W., to the Hartman Ranch private property boundary in sec. 14, T. 6 N., R. 24 W., as a wild river.
   >   - **(B)** The 15-mile segment of Sespe Creek from the Hartman Ranch private property boundary in sec. 14, T. 6 N., R. 24 W., to the western boundary of sec. 6, T. 5 N., R. 22 W., as a recreational river.
   >   - **(C)** The 6.1-mile segment of Sespe Creek from the western boundary of sec. 6, T. 5 N., R. 22 W., to the confluence with Trout Creek, as a scenic river.
   >   - **(D)** The 28.6-mile segment of Sespe Creek from the confluence with Trout Creek to the southern boundary of sec. 35, T. 5 N., R. 20 W., as a wild river.
 
-- **(c)** *Sisquoc River, California* Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by striking paragraph (143) and inserting the following:
-  > - **(143)** *Sisquoc River, California* The following segments of the Sisquoc River and its tributaries in the State of California, to be administered by the Secretary of Agriculture:
+- **(c)** *Sisquoc river, california* Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by striking paragraph (143) and inserting the following:
+  > - **(143)** *Sisquoc river, california* The following segments of the Sisquoc River and its tributaries in the State of California, to be administered by the Secretary of Agriculture:
   >   - **(A)** The 33-mile segment of the main stem of the Sisquoc River extending from its origin downstream to the Los Padres Forest boundary, as a wild river.
   >   - **(B)** The 4.2-mile segment of the South Fork Sisquoc River from its source northeast of San Rafael Mountain in sec. 2, T. 7 N., R. 28 W., to its confluence with the Sisquoc River, as a wild river.
   >   - **(C)** The 10.4-mile segment of Manzana Creek from its source west of San Rafael Peak in sec. 4, T. 7 N., R. 28 W., to the San Rafael Wilderness boundary upstream of Nira Campground, as a wild river.
@@ -180,8 +180,8 @@ In this Act:
   >   - **(K)** The 2.6-mile segment of Fish Creek from 500 feet downstream of Sunset Valley Road to its confluence with Manzana Creek, as a wild river.
   >   - **(L)** The 1.5-mile segment of East Fork Fish Creek from its source in sec. 26, T. 8 N., R. 29 W., to its confluence with Fish Creek, as a wild river.
 
-- **(d)** *Piru Creek, California* Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by striking paragraph (199) and inserting the following:
-  > - **(199)** *Piru Creek, California* The following segments of Piru Creek in the State of California, to be administered by the Secretary of Agriculture:
+- **(d)** *Piru creek, california* Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by striking paragraph (199) and inserting the following:
+  > - **(199)** *Piru creek, california* The following segments of Piru Creek in the State of California, to be administered by the Secretary of Agriculture:
   >   - **(A)** The 9.1-mile segment of Piru Creek from its source in sec. 3, T. 6 N., R. 22 W., to the private property boundary in sec. 4, T. 6 N., R. 21 W., as a wild river.
   >   - **(B)** The 17.2-mile segment of Piru Creek from the private property boundary in sec. 4, T. 6 N., R. 21 W., to 0.25 miles downstream of the Gold Hill Road, as a scenic river.
   >   - **(C)** The 4.1-mile segment of Piru Creek from 0.25 miles downstream of Gold Hill Road to the confluence with Trail Canyon, as a wild river.
@@ -195,7 +195,7 @@ In this Act:
 
 ## § 7. Designation of the Fox Mountain Potential Wilderness
 
-- **(a)** *Designation* In furtherance of the purposes of the Wilderness Act (16 U.S.C. 1131 et seq.), certain land in the Los Padres National Forest comprising approximately 41,837 acres, as generally depicted on the map entitled “Fox Mountain Potential Wilderness Area” and dated March 29, 2019, is designated as the Fox Mountain Potential Wilderness Area.
+- **(a)** *Designation* In furtherance of the purposes of the Wilderness Act (16 U.S.C. 1131 et seq.), certain land in the Los Padres National Forest comprising approximately 41,082 acres, as generally depicted on the map entitled “Fox Mountain Potential Wilderness Area” and dated November 14, 2019, is designated as the Fox Mountain Potential Wilderness Area.
 - **(b)** *Map and legal description*
   - **(1)** *In general* As soon as practicable after the date of enactment of this Act, the Secretary of Agriculture shall file a map and a legal description of the Fox Mountain Potential Wilderness Area (referred to in this section as the “potential wilderness area”) with—
     - **(A)** the Committee on Energy and Natural Resources of the Senate; and
@@ -222,7 +222,7 @@ In this Act:
 - **(g)** *Boundaries* The Secretary shall modify the boundary of the potential wilderness area to exclude any area within 50 feet of the centerline of the new location of any trail that has been constructed, reconstructed, or realigned under subsection (d).
 - **(h)** *Wilderness designation*
   - **(1)** *In general* The potential wilderness area, as modified under subsection (g), shall be designated as wilderness and as a component of the National Wilderness Preservation System on the earlier of—
-    - **(A)** the date on which the Secretary publishes in the Federal Register notice that the trail construction, reconstruction, or alignment authorized by subsection (d) has been completed; and
+    - **(A)** the date on which the Secretary publishes in the Federal Register notice that the trail construction, reconstruction, or alignment authorized by subsection (d) has been completed; or
     - **(B)** the date that is 20 years after the date of enactment of this Act.
   - **(2)** *Administration of wilderness* On designation as wilderness under this section, the potential wilderness area shall be—
     - **(A)** incorporated into the San Rafael Wilderness, as designated by Public Law 90–271 (82 Stat. 51), the California Wilderness Act of 1984 (Public Law 98–425; 16 U.S.C. 1132 note), and the Los Padres Condor Range and River Protection Act (Public Law 102–301; 106 Stat. 242), and section 3; and
@@ -231,8 +231,8 @@ In this Act:
 ## § 8. Designation of scenic areas
 
 - **(a)** *In general* Subject to valid existing rights, there are established the following scenic areas:
-  - **(1)** *Condor Ridge Scenic Area* Certain land in the Los Padres National Forest comprising approximately 18,666 acres, as generally depicted on the map entitled “Condor Ridge Scenic Area—Proposed” and dated March 29, 2019, which shall be known as the “Condor Ridge Scenic Area”.
-  - **(2)** *Black Mountain Scenic Area* Certain land in the Los Padres National Forest and the Bakersfield Field Office of the Bureau of Land Management comprising approximately 16,216 acres, as generally depicted on the map entitled “Black Mountain Scenic Area—Proposed” and dated March 29, 2019, which shall be known as the “Black Mountain Scenic Area”.
+  - **(1)** *Condor ridge scenic area* Certain land in the Los Padres National Forest comprising approximately 18,666 acres, as generally depicted on the map entitled “Condor Ridge Scenic Area—Proposed” and dated March 29, 2019, which shall be known as the “Condor Ridge Scenic Area”.
+  - **(2)** *Black mountain scenic area* Certain land in the Los Padres National Forest and the Bakersfield Field Office of the Bureau of Land Management comprising approximately 16,216 acres, as generally depicted on the map entitled “Black Mountain Scenic Area—Proposed” and dated March 29, 2019, which shall be known as the “Black Mountain Scenic Area”.
 - **(b)** *Maps and legal descriptions*
   - **(1)** *In general* As soon as practicable after the date of enactment of this Act, the Secretary of Agriculture shall file a map and legal description of the Condor Ridge Scenic Area and Black Mountain Scenic Area with—
     - **(A)** the Committee on Energy and Natural Resources of the Senate; and
@@ -267,42 +267,50 @@ In this Act:
 
 ## § 9. Condor National Scenic Trail
 
-- **(a)** *Findings* Congress finds that—
-  - **(1)** the Condor National Scenic Trail is named after the California Condor, a critically endangered bird species which lives along the extent of the Condor National Recreation Scenic Trail within the Los Padres National Forest; and
-  - **(2)** the Condor National Scenic Trail will traverse a diversity of geography and communities through the southern and northern sections of the Los Padres National Forest.
-- **(b)** *Purpose* The purpose of the Condor National Scenic Trail is to provide a continual extended hiking corridor spanning the entire length of the Los Padres National Forest along the coastal mountains of Southern and Central California, and for the conservation and enjoyment of the nationally significant scenic, historic, natural, and cultural qualities of the Los Padres National Forest.
+- **(a)** *In general* The contiguous trail established pursuant to this section shall be known as the “Condor National Scenic Trail” named after the California condor, a critically endangered bird species that lives along the extent of the trail corridor.
+- **(b)** *Purpose* The purposes of the Condor National Scenic Trail are to—
+  - **(1)** provide a continual extended hiking corridor that connects the southern and northern portions of the Los Padres National Forest, spanning the entire length of the forest along the coastal mountains of southern and central California; and
+  - **(2)** provide for the public enjoyment of the nationally significant scenic, historic, natural, and cultural qualities of the Los Padres National Forest.
 - **(c)** *Amendment* Section 5(a) of the National Trails System Act (16 U.S.C. 1244(a)) is amended by adding at the end the following:
-  > - **(31)** *Condor national recreation trail*
-  >   - **(A)** *In general* After completion of the study under subparagraph (E), the Secretary shall designate the Condor National Scenic Trail, extending from Lake Piru to the Botchers Gap Campground in the Monterey County corridor.
-  >   - **(B)** *Administration* The Condor National Scenic Trail (referred to in this paragraph as the “trail”) shall be administered by the Secretary of Agriculture, in consultation with—
+  > - **(31)** *Condor national scenic trail*
+  >   - **(A)** *In general* The Condor National Scenic Trail, a trail extending approximately 400 miles from Lake Piru in the southern portion of the Los Padres National Forest to the Bottchers Gap Campground in northern portion of the Los Padres National Forest.
+  >   - **(B)** *Administration* The trail shall be administered by the Secretary of Agriculture, in consultation with—
   >     - **(i)** other Federal, State, Tribal, regional, and local agencies;
   >     - **(ii)** private landowners; and
   >     - **(iii)** other interested organizations.
-  >   - **(C)** *Continual route* In building new connectors, and realigning existing trails, the Secretary shall—
-  >     - **(i)** provide for a continual route through the southern and northern Los Padres National Forest;
-  >     - **(ii)** promote recreational, scenic, wilderness and cultural values;
-  >     - **(iii)** enhance connectivity with the overall National Forest trail system;
-  >     - **(iv)** emphasize safe and continuous public access, dispersal from high-use areas, and suitable water sources; and
-  >     - **(v)** to the extent practicable, provide all-year use.
+  >   - **(C)** *Recreational uses* Notwithstanding section 7(c), the use of motorized vehicles on roads or trails included in the Condor National Scenic Trail on which motorized vehicles are permitted as of the date of enactment of this paragraph may be permitted.
   >   - **(D)** *Private property rights*
-  >     - **(i)** *In general* No portions of the trail may be located on non-Federal land without the written consent of the landowner and without obtaining a permanent easement or right-of-way.
-  >     - **(ii)** *Prohibition* The Secretary shall not acquire for the trail any land or interest in land outside the exterior boundary of any federally managed area without the consent of the owner of land or interest in land.
-  >     - **(iii)** *Effect* Nothing in this paragraph—
+  >     - **(i)** *Prohibition* The Secretary shall not acquire for the trail any land or interest in land outside the exterior boundary of any federally managed area without the consent of the owner of land or interest in land.
+  >     - **(ii)** *Effect* Nothing in this paragraph—
   >       - **(I)** requires any private property owner to allow public access (including Federal, State, or local government access) to private property; or
   >       - **(II)** modifies any provision of Federal, State, or local law with respect to public access to or use of private land.
-  >   - **(E)** *Study*
-  >     - **(i)** *Study required* Not later than 3 years after the date of enactment of this paragraph, the Secretary of Article shall submit a study pursuant to subsection (b), including a detailed map, that describes the entire route, and specifically addresses the feasibility of, and alternatives for, connecting the northern and southern portions of the Los Padres National Forest using a trail corridor across the applicable portions of the Northern and Southern Santa Lucia Mountains of the Southern California Coastal Range to—
-  >       - **(I)** the Committee on Energy and Natural Resources of the Senate; and
-  >       - **(II)** the Committee on Natural Resources of the House of Representatives.
-  >     - **(ii)** *Additional requirement* In completing the study required by clause (i), the Secretary of Agriculture shall consult with—
-  >       - **(I)** appropriate Federal, State, Tribal, regional, and local agencies;
-  >       - **(II)** private landowners;
-  >       - **(III)** nongovernmental organizations; and
-  >       - **(IV)** members of the public.
+  >   - **(E)** *Realignment* The Secretary of Agriculture may realign segments of the Condor National Scenic Trail as necessary to fulfill the purposes of the trail.
+  >   - **(F)** *Map* The map referred to in subparagraph (A) shall be on file and available for public inspection in the appropriate offices of the Forest Service.
 
-  > - **(F)** *Map* The map referred to in subparagraph (E)(i) shall be on file and available for public inspection in the appropriate offices of the Forest Service.
-
-- **(d)** *Cooperative agreements* In carrying out this section (including the amendments made by this section), the Secretary of Agriculture may enter into cooperative agreements with State, Tribal, and local government entities and private entities to complete needed trail construction, reconstruction, and realignment projects authorized by this section (including the amendments made by this section).
+- **(d)** *Study*
+  - **(1)** *Study required* Not later than 3 years after the date of enactment of this Act, in accordance with this section, the Secretary of Agriculture shall conduct a study that—
+    - **(A)** addresses the feasibility of, and alternatives for, connecting the northern and southern portions of the Los Padres National Forest by establishing a trail across the applicable portions of the northern and southern Santa Lucia Mountains of the southern California Coastal Range; and
+    - **(B)** considers realignment of the trail or construction of new trail segments to avoid existing trail segments that currently allow motorized vehicles.
+  - **(2)** *Contents* In carrying out the study required by paragraph (1), the Secretary of Agriculture shall—
+    - **(A)** conform to the requirements for national scenic trail studies described in section 5(b) of the National Trails System Act (16 U.S.C. 1244(b));
+    - **(B)** provide for a continual hiking route through and connecting the southern and northern sections of the Los Padres National Forest;
+    - **(C)** promote recreational, scenic, wilderness and cultural values;
+    - **(D)** enhance connectivity with the overall National Forest trail system;
+    - **(E)** consider new connectors and realignment of existing trails;
+    - **(F)** emphasize safe and continuous public access, dispersal from high-use areas, and suitable water sources; and
+    - **(G)** to the extent practicable, provide all-year use.
+  - **(3)** *Additional requirement* In completing the study required by paragraph (1), the Secretary of Agriculture shall consult with—
+    - **(A)** appropriate Federal, State, Tribal, regional, and local agencies;
+    - **(B)** private landowners;
+    - **(C)** nongovernmental organizations; and
+    - **(D)** members of the public.
+  - **(4)** *Submission* The Secretary of Agriculture shall submit the study required by paragraph (1) to—
+    - **(A)** the Committee on Natural Resources of the House of Representatives; and
+    - **(B)** the Committee on Energy and Natural Resources of the Senate.
+  - **(5)** *Additions and alterations to the condor national scenic trail*
+    - **(A)** *In general* Upon completion of the study required by paragraph (1), if the Secretary of Agriculture determines that additional or alternative trail segments are feasible for inclusion in the Condor National Scenic Trail, the Secretary of Agriculture shall include those segments in the Condor National Scenic Trail.
+    - **(B)** *Effective date* Additions or alternations to the Condor National Scenic Trail shall be effective on the date the Secretary of Agriculture publishes in the Federal Register notice that the additional or alternative segments are included in the Condor National Scenic Trail.
+- **(e)** *Cooperative agreements* In carrying out this section (including the amendments made by this section), the Secretary of Agriculture may enter into cooperative agreements with State, Tribal, and local government entities and private entities to complete needed trail construction, reconstruction, and realignment projects authorized by this section (including the amendments made by this section).
 
 ## § 10. Forest service study
 
