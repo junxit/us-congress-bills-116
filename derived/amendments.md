@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1708
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 16 U.S.C. § 460kk
 
-> Section 507(c)(1) of the National Parks and Recreation Act of 1978 (16 U.S.C. 460kk(c)(1)) is amended by striking “Santa Monica Mountains National Recreation Area and Santa Monica Mountains Zone, California, Boundary Map, numbered 80,047–C and dated August 2001” and inserting “Rim of the Valley Unit_Santa Monica Mountains National Recreation Area and dated October 2017”.
+> Section 507(c)(1) of the National Parks and Recreation Act of 1978 (16 U.S.C. 460kk(c)(1)) is amended in the first sentence by striking “, which shall” and inserting “and generally depicted as Rim of the Valley Unit Proposed Addition on the map entitled Rim of the Valley Unit—Santa Monica Mountains National Recreation Area, numbered 638/147,723, and dated September 2018. Both maps shall”.
 
 | | |
 |---|---|
-| Removed | `Santa Monica Mountains National Recreation Area and Santa Monica Mountains Zone, California, Boundary Map, numbered 80,047–C and dated August 2001` |
-| Inserted | `Rim of the Valley Unit_Santa Monica Mountains National Recreation Area and dated October 2017` |
+| Removed | `, which shall` |
+| Inserted | `and generally depicted as Rim of the Valley Unit Proposed Addition on the map entitled Rim of the Valley Unit—Santa Monica Mountains National Recreation Area, numbered 638/147,723, and dated September 2018. Both maps shall` |
 
 ## Stated, not applied
 
