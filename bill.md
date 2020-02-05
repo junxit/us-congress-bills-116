@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4305
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -27,8 +27,8 @@ Congress makes the following findings:
 
 ## § 3. Department of Veterans Affairs pilot program on dog training therapy
 
-- **(a)** *In general* Commencing not later than 120 days after the date of the enactment of the Act, the Secretary of Veterans Affairs shall carry out a pilot program under which the Secretary shall make grants to one or more appropriate non-government entities for the purpose of assessing the effectiveness of addressing post-deployment mental health and post-traumatic stress disorder (in this section referred to as “PTSD”) symptoms through a therapeutic medium of training service dogs for veterans with disabilities.
-- **(b)** *Duration of pilot program* The pilot program required by subsection (a) shall be carried out during the five-year period beginning on the date of the commencement of the pilot program.
+- **(a)** *In general* Commencing not later than 120 days after the date of the enactment of the Act, subject to the availability of appropriations, the Secretary of Veterans Affairs shall carry out a pilot program under which the Secretary shall make grants to one or more appropriate non-government entities for the purpose of assessing the effectiveness of addressing post-deployment mental health and post-traumatic stress disorder (in this section referred to as “PTSD”) symptoms through a therapeutic medium of training service dogs for veterans with disabilities.
+- **(b)** *Duration of pilot program* The pilot program required by subsection (a) shall be carried out during the 5-year period beginning on the date of the commencement of the pilot program.
 - **(c)** *Conditions on receipt of grants* As a condition of receiving a grant under this section, a non-government entity shall—
   - **(1)** submit to the Secretary certification that the entity is an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 that—
     - **(A)** provides service dogs to veterans with PTSD; and
@@ -54,13 +54,13 @@ Congress makes the following findings:
     - **(B)** has been recommended for the pilot program under this section by a qualified health care provider or clinical team based on the medical judgment that the veteran may potentially benefit from participating; and
     - **(C)** agrees to successfully complete training provided by an eligible organization that receives a grant under this section.
   - **(2)** *Relationship to participation in other program* Veterans may participate in the pilot program in conjunction with the compensated work therapy program of the Department of Veterans Affairs.
-  - **(3)** *Continuing eligibility requirement* To remain eligible to participate in the program, a veteran shall see the health care provider or clinical team of the Department of Veterans Affairs treating the veteran for PTSD at least once every six months to determine, based on a clinical evaluation of efficacy, whether the veteran continues to benefit from the program.
+  - **(3)** *Continuing eligibility requirement* To remain eligible to participate in the program, a veteran shall see the health care provider or clinical team of the Department of Veterans Affairs treating the veteran for PTSD at least once every 6 months to determine, based on a clinical evaluation of efficacy, whether the veteran continues to benefit from the program.
 - **(e)** *Collection of data* In carrying out this section, the Secretary shall—
   - **(1)** develop metrics and other appropriate means to measure, with respect to veterans participation in the program, the improvement in psychosocial function and therapeutic compliance of such veterans and changes with respect to the dependence on prescription narcotics and psychotropic medication of such veterans;
   - **(2)** establish processes to document and track the progress of such veterans under the program in terms of the benefits and improvements noted as a result of the program; and
-  - **(3)** in addition, the Secretary shall continue to collect these data over the course of five years for each veteran who has continued with the dog he or she has personally trained.
+  - **(3)** in addition, the Secretary shall continue to collect these data over the course of 5 years for each veteran who has continued with the dog he or she has personally trained.
 - **(f)** *GAO briefing and study*
-  - **(1)** *Briefing* Not later than one year after the date of the commencement of the pilot program under subsection (a), the Comptroller General of the United States shall provide to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a briefing on the methodology established for the program.
+  - **(1)** *Briefing* Not later than 1 year after the date of the commencement of the pilot program under subsection (a), the Comptroller General of the United States shall provide to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a briefing on the methodology established for the program.
   - **(2)** *Report* Not later than 270 days after the date on which the program terminates, the Comptroller General shall submit to the committees specified in paragraph (1) a report on the program. Such report shall include an evaluation of the approach and methodology used for the program with respect to—
     - **(A)** helping veterans with severe PTSD return to civilian life;
     - **(B)** relevant metrics, including reduction in metrics such as reduction in scores under the PTSD check-list (PCL–5), improvement in psychosocial function, and therapeutic compliance; and
