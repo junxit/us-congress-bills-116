@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4044
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -35,12 +35,12 @@ to guess them.
 
 ### 33 U.S.C. § 1330
 
-> Section 320(i)(1) of the Federal Water Pollution Control Act (33 U.S.C. 1330(i)(1)) is amended by striking “$26,500,000 for each of fiscal years 2017 through 2021” and inserting “$50,000,000 for each of fiscal years 2022 through 2026”.
+> by striking “coastal areas” and inserting “the estuaries selected by the Administrator under subsection (a)(2), or that relate to the coastal resiliency of such estuaries”;
 
 | | |
 |---|---|
-| Removed | `$26,500,000 for each of fiscal years 2017 through 2021` |
-| Inserted | `$50,000,000 for each of fiscal years 2022 through 2026` |
+| Removed | `coastal areas` |
+| Inserted | `the estuaries selected by the Administrator under subsection (a)(2), or that relate to the coastal resiliency of such estuaries` |
 
 ## Stated, not applied
 
@@ -55,6 +55,6 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 1330` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1330` | insert | Section 320(c)(5) of the Federal Water Pollution Control Act (33 U.S.C. 1330(c)(5)) is amended by inserting “nonprofit organizations,” after “educational institutions,”. | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 1330` | insert | by inserting “, emerging,” after “urgent”; and | the bill quotes the text inserted but describes where it goes |
-| `33 U.S.C. § 1330` | insert | by inserting “or that relate to coastal resiliency” after “coastal areas”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 1330` | redesignate | by redesignating clauses (vi) and (vii) as clauses (viii) and (ix), respectively, and inserting after clause (v) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1330` | redesignate | in clause (viii), as so redesignated, by inserting “, extreme weather,” after “sea level rise”. | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 1330` | insert | Section 320(i)(1) of the Federal Water Pollution Control Act (33 U.S.C. 1330(i)(1)) is amended by inserting “, and $50,000,000 for each of fiscal years 2022 through 2026,” after “2021”. | the bill quotes the text inserted but describes where it goes |

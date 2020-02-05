@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4044
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4044
@@ -49,6 +49,10 @@ Protect and Restore America's Estuaries Act
 
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2020-02-05 — [House 116-2-35](votes/house-116-2-0035.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (355–62)
+
 ## Actions
 
 - 2019-07-25 — Introduced in House
@@ -61,3 +65,11 @@ Protect and Restore America's Estuaries Act
 - 2019-11-13 — Placed on the Union Calendar, Calendar No. 232.
 - 2019-11-13 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-288.
 - 2019-11-13 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-288.
+- 2020-02-05 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2020-02-05 — Considered as unfinished business. (consideration: CR H833)
+- 2020-02-05 — Considered under suspension of the rules. (consideration: CR H780-785)
+- 2020-02-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4044.
+- 2020-02-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-02-05 — Mr. Malinowski moved to suspend the rules and pass the bill, as amended.
+- 2020-02-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 355 - 62 (Roll no. 35). (text: CR H780)
+- 2020-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 355 - 62 (Roll no. 35).

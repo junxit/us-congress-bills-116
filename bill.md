@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4044
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -25,7 +25,7 @@ Section 320(b)(4) of the Federal Water Pollution Control Act (33 U.S.C. 1330(b)(
   > - **(A)** recommends
 
 - **(2)** by adding at the end the following:
-  > - **(B)** addresses the effects of recurring extreme weather events on the estuary, including the identification and assessment of vul­ner­a­bil­i­ties in the estuary and the development and implementation of adaptation strategies; and
+  > - **(B)** addresses the effects of recurring extreme weather events on the estuary, including the identification and assessment of vulnerabilities in the estuary and the development and implementation of adaptation strategies; and
   > - **(C)** increases public education and awareness of the ecological health and water quality conditions of the estuary;
 
 ## § 4. Members of conference
@@ -38,7 +38,7 @@ Section 320(g)(4)(C) of the Federal Water Pollution Control Act (33 U.S.C. 1330(
 
 - **(1)** in the matter preceding clause (i)—
   - **(A)** by inserting “, emerging,” after “urgent”; and
-  - **(B)** by inserting “or that relate to coastal resiliency” after “coastal areas”;
+  - **(B)** by striking “coastal areas” and inserting “the estuaries selected by the Administrator under subsection (a)(2), or that relate to the coastal resiliency of such estuaries”;
 - **(2)** by redesignating clauses (vi) and (vii) as clauses (viii) and (ix), respectively, and inserting after clause (v) the following:
   > - **(vi)** stormwater runoff;
   > - **(vii)** accelerated land loss;
@@ -47,4 +47,4 @@ Section 320(g)(4)(C) of the Federal Water Pollution Control Act (33 U.S.C. 1330(
 
 ## § 6. Authorization of appropriations
 
-Section 320(i)(1) of the Federal Water Pollution Control Act (33 U.S.C. 1330(i)(1)) is amended by striking “$26,500,000 for each of fiscal years 2017 through 2021” and inserting “$50,000,000 for each of fiscal years 2022 through 2026”.
+Section 320(i)(1) of the Federal Water Pollution Control Act (33 U.S.C. 1330(i)(1)) is amended by inserting “, and $50,000,000 for each of fiscal years 2022 through 2026,” after “2021”.
