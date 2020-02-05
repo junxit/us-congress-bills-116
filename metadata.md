@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3976
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3976
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 12711 E
 
 - Rep. Lawrence, Brenda L. [D-MI-14] (L000581)
 
-## Cosponsors (13)
+## Cosponsors (15)
 
 - Rep. Bergman, Jack [R-MI-1] (B001301)
 - Rep. Huizenga, Bill [R-MI-2] (H001058)
@@ -31,6 +31,8 @@ To designate the facility of the United States Postal Service located at 12711 E
 - Rep. Stevens, Haley M. [D-MI-11] (S001215)
 - Rep. Dingell, Debbie [D-MI-12] (D000624)
 - Rep. Tlaib, Rashida [D-MI-13] (T000481)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Taylor, Van [R-TX-3] (T000479)
 
 ## Committees (1)
 
@@ -41,3 +43,10 @@ To designate the facility of the United States Postal Service located at 12711 E
 - 2019-07-25 — Introduced in House
 - 2019-07-25 — Introduced in House
 - 2019-07-25 — Referred to the House Committee on Oversight and Reform.
+- 2019-12-19 — Committee Consideration and Mark-up Session Held.
+- 2020-02-05 — Considered under suspension of the rules. (consideration: CR H827-828)
+- 2020-02-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3976.
+- 2020-02-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-02-05 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
+- 2020-02-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H827)
+- 2020-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
