@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4794
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
