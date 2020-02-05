@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4275
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -16,11 +16,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(A)** in paragraph (5), by striking “; and” and inserting a semicolon;
     - **(B)** in paragraph (6), by striking the period and inserting “; and”; and
     - **(C)** by adding at the end the following:
-      > - **(7)** ensure that the comprehensive conservation and management plan approved for the Basin under section 320 is reviewed and revised in accordance with section 320 not less often than once every five years, beginning on the date of enactment of this paragraph.
+      > - **(7)** ensure that the comprehensive conservation and management plan approved for the Basin under section 320 is reviewed and revised in accordance with section 320 not less often than once every 5 years, beginning on the date of enactment of this paragraph.
 
   - **(2)** in subsection (d), by striking “recommended by a management conference convened for the Basin under section 320” and inserting “identified in the comprehensive conservation and management plan approved for the Basin under section 320”.
 - **(b)** *Definitions* Section 121(e)(1) of the Federal Water Pollution Control Act (33 U.S.C. 1273(e)(1)) is amended by striking “, a 5,000 square mile”.
 - **(c)** *Authorization of appropriations* Section 121(f) of the Federal Water Pollution Control Act (33 U.S.C. 1273(f)) is amended—
-  - **(1)** in paragraph (1), by striking “2001 through 2012 and the amount appropriated for fiscal year 2009 for each of fiscal years 2013 through 2017” and inserting “2020 through 2024”; and
+  - **(1)** in paragraph (1), by striking “2001 through 2012 and the amount appropriated for fiscal year 2009 for each of fiscal years 2013 through 2017” and inserting “2021 through 2025”; and
   - **(2)** by adding at the end the following:
     > - **(3)** *Administrative expenses* The Administrator may use for administrative expenses not more than 5 percent of the amounts appropriated to carry out this section.
