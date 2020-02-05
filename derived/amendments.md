@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3830
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-23 amendatory instructions. 10 executed, 13 stated and not applied.
+21 amendatory instructions. 9 executed, 12 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,21 +35,12 @@ to guess them.
 
 ### 31 U.S.C. § 6101
 
-> in the matter preceding subparagraph (A), by striking “described under paragraph (1) shall include” and inserting “identified in the program inventory required under paragraph (2)(B) shall include, for each program activity that is a part of a program”;
+> in the matter preceding subparagraph (A), by striking “described under paragraph (1) shall include” and inserting “identified in the program inventory required under paragraph (2)(B) shall include”;
 
 | | |
 |---|---|
 | Removed | `described under paragraph (1) shall include` |
-| Inserted | `identified in the program inventory required under paragraph (2)(B) shall include, for each program activity that is a part of a program` |
-
-### 31 U.S.C. § 6101
-
-> by striking “program” each place it appears and inserting “program activity”; and
-
-| | |
-|---|---|
-| Removed | `program` |
-| Inserted | `program activity` |
+| Inserted | `identified in the program inventory required under paragraph (2)(B) shall include` |
 
 ### 31 U.S.C. § 1115
 
@@ -127,12 +118,11 @@ complete account of the bill's effect, which it is not.
 | `31 U.S.C. § 6101` | redesignate | by inserting before paragraph (2), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 6101` | insert | in subparagraph (A), by inserting “that includes the information required under subsections (b) and (c)” after “a single website”; and | the bill quotes the text inserted but describes where it goes |
 | `31 U.S.C. § 6101` | replace | by striking subparagraphs (B) and (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `31 U.S.C. § 6101` | strike | by striking subparagraphs (A) and (C); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `31 U.S.C. § 6101` | redesignate | by redesignating subparagraph (B) as subparagraph (A); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `31 U.S.C. § 6101` | strike | by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
+| `31 U.S.C. § 6101` | strike | in subparagraph (B), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `31 U.S.C. § 6101` | replace | in subparagraph (C), by striking the period at the end and inserting “and,”; and | the bill quotes the text inserted but describes where it goes |
 | `31 U.S.C. § 6101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 6101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 1115` | insert | in subsection (b), in the matter preceding paragraph (1), by inserting “described in subsection (a)(2)(A)” after “the website” each place it appears; | the bill quotes the text inserted but describes where it goes |
 | `31 U.S.C. § 1115` | insert | in subsection (c), in the matter preceding paragraph (1), by inserting “described in subsection (a)(2)(A)” after “the website”; and | the bill quotes the text inserted but describes where it goes |
-| `31 U.S.C. § 1115` | strike | in the subsection heading, by striking “on Website”; and | the bill quotes the text struck but describes what replaces it |
+| `31 U.S.C. § 1115` | strike | in the subsection heading, by striking “on website”; and | the bill quotes the text struck but describes what replaces it |
 | `31 U.S.C. § 1115` | strike | in the first sentence, by striking “on the website”. | the bill quotes the text struck but describes what replaces it |
