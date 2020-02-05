@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2247
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2247
@@ -41,3 +41,9 @@ PUGET SOS Act
 - 2019-11-14 — Placed on the Union Calendar, Calendar No. 233.
 - 2019-11-14 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 116-290.
 - 2019-11-14 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 116-290.
+- 2020-02-05 — Considered under suspension of the rules. (consideration: CR H788-796)
+- 2020-02-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2247.
+- 2020-02-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-02-05 — Mrs. Napolitano moved to suspend the rules and pass the bill, as amended.
+- 2020-02-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H788-791)
+- 2020-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.

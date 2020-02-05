@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2247
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -22,29 +22,28 @@ Title I of the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.) is a
 > - **(a)** *Definitions* In this section, the following definitions apply:
 >   - **(1)** *Coastal nonpoint pollution control program* The term Coastal Nonpoint Pollution Control Program means the State of Washington’s Coastal Nonpoint Pollution Control Program approved by the Secretary of Commerce as required under section 6217 of the Coastal Zone Act Reauthorization Amendments of 1990.
 >   - **(2)** *Director* The term Director means the Director of the Program Office.
->   - **(3)** *International Joint Commission* The term International Joint Commission means the International Joint Commission established by the United States and Canada under the International Boundary Waters Treaty of 1909 (36 Stat. 2448).
->   - **(4)** *Pacific Salmon Commission* The term Pacific Salmon Commission means the Pacific Salmon Commission established by the United States and Canada under the Treaty between the Government of the United States of America and the Government of Canada Concerning Pacific Salmon, signed at Ottawa, January 28, 1985 (commonly known as the “Pacific Salmon Treaty”).
->   - **(5)** *Program Office* The term Program Office means the Puget Sound Recovery National Program Office established by subsection (c).
->   - **(6)** *Puget Sound Action Agenda; Action Agenda* The term Puget Sound Action Agenda or Action Agenda means the most recent plan developed by the Puget Sound National Estuary Program Management Conference, in consultation with the Tribal Management Conference, and approved by the Administrator as the comprehensive conservation and management plan for Puget Sound under section 320.
->   - **(7)** *Puget Sound Federal Leadership Task Force* The term Puget Sound Federal Leadership Task Force means the Puget Sound Federal Leadership Task Force established by subsection (d).
->   - **(8)** *Puget Sound Federal Task Force* The term Puget Sound Federal Task Force means the Puget Sound Federal Task Force established in 2016 under a memorandum of understanding among 9 Federal agencies.
->   - **(9)** *Puget Sound National Estuary Program Management Conference; Management Conference* The term Puget Sound National Estuary Program Management Conference or Management Conference means the management conference for Puget Sound convened pursuant to section 320.
->   - **(10)** *Puget Sound Partnership* The term Puget Sound Partnership means the State agency that is established under the laws of the State of Washington (section 90.71.210 of the Revised Code of Washington), or its successor agency, that has been designated by the Administrator as the lead entity to support the Puget Sound National Estuary Program Management Conference.
->   - **(11)** *Puget Sound region*
+>   - **(3)** *Federal Action Plan* The term “Federal Action Plan” means the plan developed under subsection (d)(2)(B).
+>   - **(4)** *International Joint Commission* The term International Joint Commission means the International Joint Commission established by the United States and Canada under the International Boundary Waters Treaty of 1909 (36 Stat. 2448).
+>   - **(5)** *Pacific Salmon Commission* The term Pacific Salmon Commission means the Pacific Salmon Commission established by the United States and Canada under the Treaty between the Government of the United States of America and the Government of Canada Concerning Pacific Salmon, signed at Ottawa, January 28, 1985 (commonly known as the “Pacific Salmon Treaty”).
+>   - **(6)** *Program Office* The term Program Office means the Puget Sound Recovery National Program Office established by subsection (c).
+>   - **(7)** *Puget Sound Action Agenda; Action Agenda* The term Puget Sound Action Agenda or Action Agenda means the most recent plan developed by the Puget Sound National Estuary Program Management Conference, in consultation with the Puget Sound Tribal Management Conference, and approved by the Administrator as the comprehensive conservation and management plan for Puget Sound under section 320.
+>   - **(8)** *Puget Sound Federal Leadership Task Force* The term Puget Sound Federal Leadership Task Force means the Puget Sound Federal Leadership Task Force established under subsection (d).
+>   - **(9)** *Puget Sound Federal Task Force* The term “Puget Sound Federal Task Force” means the Puget Sound Federal Task Force established in 2016 under a memorandum of understanding among 9 Federal agencies.
+>   - **(10)** *Puget Sound National Estuary Program Management Conference; Management Conference* The term Puget Sound National Estuary Program Management Conference or Management Conference means the management conference for Puget Sound convened pursuant to section 320.
+>   - **(11)** *Puget Sound Partnership* The term Puget Sound Partnership means the State agency that is established under the laws of the State of Washington (section 90.71.210 of the Revised Code of Washington), or its successor agency, that has been designated by the Administrator as the lead entity to support the Puget Sound National Estuary Program Management Conference.
+>   - **(12)** *Puget Sound region*
 >     - **(A)** *In general* The term Puget Sound region means the land and waters in the northwest corner of the State of Washington from the Canadian border to the north to the Pacific Ocean on the west, including Hood Canal and the Strait of Juan de Fuca.
 >     - **(B)** *Inclusion* The term Puget Sound region includes all of the water that falls on the Olympic and Cascade Mountains and flows to meet Puget Sound’s marine waters.
->   - **(12)** *Puget Sound Tribal Management Conference* The term Puget Sound Tribal Management Conference means the 20 treaty Indian tribes of western Washington and the Northwest Indian Fisheries Commission.
->   - **(13)** *Salish Sea* The term Salish Sea means the network of coastal waterways on the west coast of North America that includes the Puget Sound, the Strait of Georgia, and the Strait of Juan de Fuca.
->   - **(14)** *Salmon recovery plans* The term Salmon Recovery Plans means the recovery plans for salmon and steelhead species approved by the Secretary of the Interior under section 4(f) of the Endangered Species Act of 1973.
->   - **(15)** *State Advisory Committee* The term State Advisory Committee means the advisory committee established by subsection (e).
->   - **(16)** *Treaty rights at risk initiative* The term Treaty Rights at Risk Initiative means the report from the treaty Indian tribes of western Washington entitled “Treaty Rights at Risk: Ongoing Habitat Loss, the Decline of the Salmon Resource, and Recommendations for Change” and dated July 14, 2011, or its successor report, which outlines issues and offers solutions for the protection of Tribal treaty rights, recovery of salmon habitat, and management of sustainable treaty and non-treaty salmon fisheries, including through tribal salmon hatchery programs.
-> - **(b)** *Consistency*
->   - **(1)** *In general* All Federal agencies represented on the Puget Sound Federal Leadership Task Force shall act consistently with the protection of Tribal, treaty-reserved rights and, to the greatest extent practicable given such agencies’ existing obligations under Federal law, act consistently with the objectives and priorities of the Action Agenda, Salmon Recovery Plans, the Treaty Rights at Risk Initiative, and the Coastal Nonpoint Pollution Control Program, when—
->     - **(A)** conducting Federal agency activities within or outside Puget Sound that affect any land or water use or natural resources of Puget Sound and its tributary waters, including activities performed by a contractor for the benefit of a Federal agency;
->     - **(B)** interpreting and enforcing regulations that impact the restoration and protection of Puget Sound;
->     - **(C)** issuing Federal licenses or permits that impact the restoration and protection of Puget Sound; and
->     - **(D)** granting Federal assistance to State, local, and Tribal governments for activities related to the restoration and protection of Puget Sound.
->   - **(2)** *Exemptions* Any Federal agency activity necessary for national security, determined by the President to be in the paramount interest of the United States, or determined by the Puget Sound Federal Leadership Task Force, in consultation with the State Advisory Committee and the Puget Sound Tribal Management Conference, to be necessary to complete a project that was approved prior to the date of enactment of this section shall be exempt from the consistency requirements established in paragraph (1).
+>   - **(13)** *Puget Sound Tribal Management Conference* The term Puget Sound Tribal Management Conference means the 20 treaty Indian tribes of western Washington and the Northwest Indian Fisheries Commission.
+>   - **(14)** *Salish Sea* The term Salish Sea means the network of coastal waterways on the west coast of North America that includes the Puget Sound, the Strait of Georgia, and the Strait of Juan de Fuca.
+>   - **(15)** *Salmon recovery plans* The term Salmon Recovery Plans means the recovery plans for salmon and steelhead species approved by the Secretary of the Interior under section 4(f) of the Endangered Species Act of 1973.
+>   - **(16)** *State Advisory Committee* The term State Advisory Committee means the advisory committee established by subsection (e).
+>   - **(17)** *Treaty rights at risk initiative* The term Treaty Rights at Risk Initiative means the report from the treaty Indian tribes of western Washington entitled “Treaty Rights at Risk: Ongoing Habitat Loss, the Decline of the Salmon Resource, and Recommendations for Change” and dated July 14, 2011, or its successor report, which outlines issues and offers solutions for the protection of Tribal treaty rights, recovery of salmon habitat, and management of sustainable treaty and nontreaty salmon fisheries, including through tribal salmon hatchery programs.
+> - **(b)** *Consistency* All Federal agencies represented on the Puget Sound Federal Leadership Task Force shall act consistently with the protection of Tribal, treaty-reserved rights and, to the greatest extent practicable given such agencies’ existing obligations under Federal law, act consistently with the objectives and priorities of the Action Agenda, Salmon Recovery Plans, the Treaty Rights at Risk Initiative, and the Coastal Nonpoint Pollution Control Program, when—
+>   - **(1)** conducting Federal agency activities within or outside Puget Sound that affect any land or water use or natural resources of Puget Sound and its tributary waters, including activities performed by a contractor for the benefit of a Federal agency;
+>   - **(2)** interpreting and enforcing regulations that impact the restoration and protection of Puget Sound;
+>   - **(3)** issuing Federal licenses or permits that impact the restoration and protection of Puget Sound; and
+>   - **(4)** granting Federal assistance to State, local, and Tribal governments for activities related to the restoration and protection of Puget Sound.
 > - **(c)** *Puget Sound Recovery National Program Office*
 >   - **(1)** *Establishment* There is established in the Environmental Protection Agency a Puget Sound Recovery National Program Office to be located in the State of Washington.
 >   - **(2)** *Director*
@@ -52,7 +51,7 @@ Title I of the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.) is a
 >     - **(B)** *Qualifications* The Director of the Program Office shall have leadership and project management experience and shall be highly qualified to—
 >       - **(i)** direct the integration of multiple project planning efforts and programs from different agencies and jurisdictions; and
 >       - **(ii)** align numerous, and often conflicting, needs toward implementing a shared Action Agenda with visible and measurable outcomes.
->   - **(3)** *Delegation of authority; staffing* The Administrator shall delegate to the Director such authority and provide such staff as may be necessary to carry out this section.
+>   - **(3)** *Delegation of authority; staffing* Using amounts made available pursuant to subsection (i), the Administrator shall delegate to the Director such authority and provide such staff as may be necessary to carry out this section.
 >   - **(4)** *Duties* The Director shall—
 >     - **(A)** coordinate and manage the timely execution of the requirements of this section, including the formation and meetings of the Puget Sound Federal Leadership Task Force;
 >     - **(B)** coordinate activities related to the restoration and protection of Puget Sound across the Environmental Protection Agency;
@@ -60,7 +59,7 @@ Title I of the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.) is a
 >     - **(D)** promote the efficient use of Environmental Protection Agency resources in pursuit of Puget Sound restoration and protection;
 >     - **(E)** serve on the Puget Sound Federal Leadership Task Force and collaborate with, help coordinate, and implement activities with other Federal agencies that have responsibilities involving Puget Sound restoration and protection;
 >     - **(F)** provide or procure such other advice, technical assistance, research, assessments, monitoring, or other support as is determined by the Director to be necessary or prudent to most efficiently and effectively fulfill the objectives and priorities of the Action Agenda, Salmon Recovery Plans, the Treaty Rights at Risk Initiative, and the Coastal Nonpoint Pollution Control Program consistent with the best available science and to ensure the health of the Puget Sound ecosystem;
->     - **(G)** track the progress of the Environmental Protection Agency toward meeting the Agency’s specified objectives and priorities within the Action Agenda;
+>     - **(G)** track the progress of the Environmental Protection Agency towards meeting the Agency’s specified objectives and priorities within the Action Agenda and the Federal Action Plan;
 >     - **(H)** implement the recommendations of the Comptroller General, set forth in the report entitled “Puget Sound Restoration: Additional Actions Could Improve Assessments of Progress” and dated July 19, 2018;
 >     - **(I)** serve as liaison and coordinate activities for the restoration and protection of the Salish Sea, with Canadian authorities, the Pacific Salmon Commission, and the International Joint Commission; and
 >     - **(J)** carry out such additional duties as the Administrator determines necessary and appropriate.
@@ -68,14 +67,14 @@ Title I of the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.) is a
 >   - **(1)** *Establishment* There is established a Puget Sound Federal Leadership Task Force.
 >   - **(2)** *Duties*
 >     - **(A)** *General duties* The Puget Sound Federal Leadership Task Force shall—
->       - **(i)** uphold Federal trust responsibilities to restore and protect resources crucial to Tribal treaty rights, including by carrying out government-to-government consultation;
+>       - **(i)** uphold Federal trust responsibilities to restore and protect resources crucial to Tribal treaty rights, including by carrying out government-to-government consultation with Indian tribes when requested by such tribes;
 >       - **(ii)** provide a venue for dialogue and coordination across all Federal agencies on the Puget Sound Federal Leadership Task Force to align Federal resources for the purposes of carrying out the requirements of this section and all other Federal laws that contribute to the restoration and protection of Puget Sound, including by—
 >         - **(I)** enabling and encouraging the Federal agencies represented on the Puget Sound Federal Leadership Task Force to act consistently with the objectives and priorities of the Action Agenda, Salmon Recovery Plans, the Treaty Rights at Risk Initiative, and the Coastal Nonpoint Pollution Control Program;
 >         - **(II)** facilitating the coordination of Federal activities that impact the restoration and protection of Puget Sound;
->         - **(III)** facilitating the delivery of feedback given by Federal agencies to the Puget Sound Partnership during the development of the Federal Action Plan;
->         - **(IV)** facilitating the resolution of (and, if necessary, seek to mediate in cooperation with the Executive Office of the President) interagency conflicts associated with the restoration and protection of Puget Sound among the agencies represented on the Puget Sound Federal Leadership Task Force;
+>         - **(III)** facilitating the delivery of feedback given by Federal agencies to the Puget Sound Partnership during the development of the Action Agenda;
+>         - **(IV)** facilitating the resolution of interagency conflicts associated with the restoration and protection of Puget Sound among the agencies represented on the Puget Sound Federal Leadership Task Force;
 >         - **(V)** providing a forum for exchanging information among agencies regarding activities being conducted, including obstacles or efficiencies found, during Puget Sound restoration and protection activities; and
->         - **(VI)** promoting the efficient use of government resources in pursuit of Puget Sound restoration and protection through coordination and collaboration, including by ensuring that the Federal efforts relating to the science necessary for restoration and protection of Puget Sound is consistent, and not duplicative, across the Federal Government;
+>         - **(VI)** promoting the efficient use of government resources in pursuit of Puget Sound restoration and protection through coordination and collaboration, including by ensuring that the Federal efforts relating to the science necessary for restoration and protection of Puget Sound are consistent, and not duplicative, across the Federal Government;
 >       - **(iii)** catalyze public leaders at all levels to work together toward shared goals by demonstrating interagency best practices coming from the members of the Puget Sound Federal Leadership Task Force;
 >       - **(iv)** provide advice and support on scientific and technical issues and act as a forum for the exchange of scientific information about Puget Sound;
 >       - **(v)** identify and inventory Federal environmental research and monitoring programs related to Puget Sound, and provide such inventory to the Puget Sound National Estuary Program Management Conference;
@@ -83,10 +82,10 @@ Title I of the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.) is a
 >       - **(vii)** establish any necessary working groups or advisory committees necessary to assist the Puget Sound Federal Leadership Task Force in its duties, including public policy and scientific issues;
 >       - **(viii)** raise national awareness of the significance of Puget Sound;
 >       - **(ix)** work with the Office of Management and Budget to give input on the crosscut budget under subsection (h); and
->       - **(x)** submit a biennial report under subsection (g) on the progress made towards carrying out the Federal Action Plan.
+>       - **(x)** submit a biennial report under subsection (g) on the progress made toward carrying out the Federal Action Plan.
 >     - **(B)** *Puget Sound Federal Action Plan*
->       - **(i)** *In general* Not later than 5 years after the date of enactment of this section and every 5 years thereafter, the Puget Sound Federal Leadership Task Force shall develop and approve a Federal Action Plan that leverages Federal programs across agencies and serves to coordinate diverse programs on a specific suite of priorities on Puget Sound recovery.
->       - **(ii)** *Revision of Puget Sound Federal Action Plan* Not less often than once every 5 years after the date of completion of the Federal Action Plan described in clause (i), the Puget Sound Leadership Task Force shall review, and revise as appropriate, the Federal Action Plan.
+>       - **(i)** *In general* Not later than 5 years after the date of enactment of this section, the Puget Sound Federal Leadership Task Force shall develop and approve a Federal Action Plan that leverages Federal programs across agencies and serves to coordinate diverse programs on a specific suite of priorities on Puget Sound recovery.
+>       - **(ii)** *Revision of Puget Sound Federal Action Plan* Not less often than once every 5 years after the date of completion of the Federal Action Plan described in clause (i), the Puget Sound Federal Leadership Task Force shall review, and revise as appropriate, the Federal Action Plan.
 >     - **(C)** *Feedback by Federal agencies* In facilitating feedback under subparagraph (A)(ii)(III), the Puget Sound Federal Leadership Task Force shall request Federal agencies to consider, at a minimum, possible Federal actions designed to—
 >       - **(i)** further the goals, targets, and actions of the Action Agenda, Salmon Recovery Plans, the Treaty Rights at Risk Initiative, and the Coastal Nonpoint Pollution Control Program;
 >       - **(ii)** implement and enforce this Act, the Endangered Species Act of 1973, and all other Federal laws that contribute to the restoration and protection of Puget Sound, including those that protect Tribal treaty rights;
@@ -102,8 +101,7 @@ Title I of the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.) is a
 >   - **(3)** *Participation of State Advisory Committee and Puget Sound Tribal Management Conference*
 >     - **(A)** *In general* The Puget Sound Federal Leadership Task Force shall carry out its duties with input from, and in collaboration with, the State Advisory Committee and Puget Sound Tribal Management Conference.
 >     - **(B)** *Specific advice and recommendations* The Puget Sound Federal Leadership Task Force shall seek the advice and recommendations of the State Advisory Committee and Puget Sound Tribal Management Conference on the actions, progress, and issues pertaining to restoration and protection of Puget Sound.
->   - **(4)** *Use of previous work* The Puget Sound Federal Leadership Task Force shall, to the extent practicable, use the work product produced, relied upon, and analyzed by the Puget Sound Federal Task Force in order to avoid duplicating the efforts of the Puget Sound Federal Task Force.
->   - **(5)** *Membership*
+>   - **(4)** *Membership*
 >     - **(A)** *Qualifications* Members appointed under this paragraph shall have experience and expertise in matters of restoration and protection of large watersheds and bodies of water or related experience that will benefit the restoration and protection effort of Puget Sound.
 >     - **(B)** *Composition* The Puget Sound Federal Leadership Task Force shall be composed of the following members:
 >       - **(i)** *Secretary of Agriculture* The following individuals appointed by the Secretary of Agriculture:
@@ -127,12 +125,12 @@ Title I of the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.) is a
 >         - **(I)** A representative of the Federal Highway Administration.
 >         - **(II)** A representative of the Federal Transit Administration.
 >       - **(viii)** *Additional members* Representatives of such other agencies, programs, and initiatives as the Puget Sound Federal Leadership Task Force determines necessary.
->   - **(6)** *Leadership* The Co-Chairs shall ensure the Puget Sound Federal Leadership Task Force completes its duties through robust discussion of all relevant issues. The Co-Chairs shall share leadership responsibilities equally.
->   - **(7)** *Co-Chairs* The following members of the Puget Sound Federal Leadership Task Force appointed under paragraph (5) shall serve as Co-Chairs of the Puget Sound Federal Leadership Task Force:
+>   - **(5)** *Leadership* The Co-Chairs shall ensure the Puget Sound Federal Leadership Task Force completes its duties through robust discussion of all relevant issues. The Co-Chairs shall share leadership responsibilities equally.
+>   - **(6)** *Co-Chairs* The following members of the Puget Sound Federal Leadership Task Force appointed under paragraph (5) shall serve as Co-Chairs of the Puget Sound Federal Leadership Task Force:
 >     - **(A)** The representative of the National Oceanic and Atmospheric Administration.
 >     - **(B)** The representative of the Puget Sound Recovery National Program Office.
 >     - **(C)** The representative of the Corps of Engineers.
->   - **(8)** *Meetings*
+>   - **(7)** *Meetings*
 >     - **(A)** *Initial meeting* The Puget Sound Federal Leadership Task Force shall meet not later than 180 days after the date of enactment of this section—
 >       - **(i)** to determine if all Federal agencies are properly represented;
 >       - **(ii)** to establish the bylaws of the Puget Sound Federal Leadership Task Force;
@@ -143,36 +141,37 @@ Title I of the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.) is a
 >     - **(D)** *Joint meetings* The Puget Sound Federal Leadership Task Force shall offer to meet jointly with the Puget Sound National Estuary Program Management Conference and the Puget Sound Tribal Management Conference, at a minimum, once per year. A joint meeting under this subparagraph may be considered a biannual meeting of the Puget Sound Federal Leadership Task Force for purposes of subparagraph (B), if agreed upon.
 >     - **(E)** *Quorum* A majority number of the members of the Puget Sound Federal Leadership Task Force shall constitute a quorum.
 >     - **(F)** *Voting* For the Puget Sound Federal Leadership Task Force to pass a measure, a two-thirds percentage of the quorum must vote in the affirmative.
->   - **(9)** *Puget Sound Federal Leadership Task Force procedures and advice*
+>   - **(8)** *Puget Sound Federal Leadership Task Force procedures and advice*
 >     - **(A)** *Advisors* The Puget Sound Federal Leadership Task Force, and any working group of the Puget Sound Federal Leadership Task Force, may seek advice and input from any interested, knowledgeable, or affected party as the Puget Sound Federal Leadership Task Force or working group, respectively, determines necessary to perform its duties.
 >     - **(B)** *Compensation* A member of the Puget Sound Federal Leadership Task Force shall receive no additional compensation for service as a member on the Puget Sound Federal Leadership Task Force.
 >     - **(C)** *Travel expenses* Travel expenses incurred by a member of the Puget Sound Federal Leadership Task Force in the performance of service on the Puget Sound Federal Leadership Task Force may be paid by the agency or department that the member represents.
+>   - **(9)** *Puget Sound Federal Task Force*
+>     - **(A)** *In general* On the date of enactment of this section, the 2016 memorandum of understanding establishing the Puget Sound Federal Task Force shall cease to be effective.
+>     - **(B)** *Use of previous work* The Puget Sound Federal Leadership Task Force shall, to the extent practicable, use the work product produced, relied upon, and analyzed by the Puget Sound Federal Task Force in order to avoid duplicating the efforts of the Puget Sound Federal Task Force.
 > - **(e)** *State Advisory Committee*
 >   - **(1)** *Establishment* There is established a State Advisory Committee.
->   - **(2)** *Membership* The committee shall consist of up to 7 members designated by the governing body of the Puget Sound Partnership, in consultation with the Governor of Washington, who will represent Washington State agencies that have significant roles and responsibilities related to Puget Sound recovery.
+>   - **(2)** *Membership* The committee shall consist of up to seven members designated by the governing body of the Puget Sound Partnership, in consultation with the Governor of Washington, who will represent Washington State agencies that have significant roles and responsibilities related to Puget Sound recovery.
 > - **(f)** *Federal Advisory Committee Act* The Puget Sound Federal Leadership Task Force, State Advisory Committee, and any working group of the Puget Sound Federal Leadership Task Force, shall not be considered an advisory committee under the Federal Advisory Committee Act (5 U.S.C. App.).
 > - **(g)** *Puget Sound Federal Leadership Task Force biennial report on Puget Sound recovery activities*
->   - **(1)** *In general* Not later than 1 year after the date of enactment of this section, and biennially thereafter, the Puget Sound Federal Leadership Task Force, in collaboration with the Puget Sound Tribal Management Conference and the State Advisory Committee, shall submit to the President, Congress, and the Governor of Washington a report that summarizes the progress, challenges, and milestones of the Puget Sound Federal Leadership Task Force on the restoration and protection of Puget Sound.
+>   - **(1)** *In general* Not later than 1 year after the date of enactment of this section, and biennially thereafter, the Puget Sound Federal Leadership Task Force, in collaboration with the Puget Sound Tribal Management Conference and the State Advisory Committee, shall submit to the President, Congress, the Governor of Washington, and the governing body of the Puget Sound Partnership a report that summarizes the progress, challenges, and milestones of the Puget Sound Federal Leadership Task Force on the restoration and protection of Puget Sound.
 >   - **(2)** *Contents* The report under paragraph (1) shall include a description of the following:
->     - **(A)** The roles of each State and local government entity that has jurisdiction and each Federal agency carrying out restoration and preservation in the Puget Sound region and the progress made toward meeting the identified objectives and priorities of the Action Agenda, Salmon Recovery Plans, the Treaty Rights at Risk Initiative, and the Coastal Nonpoint Pollution Control Program.
+>     - **(A)** The roles and progress of each State, local government entity, and Federal agency that has jurisdiction in the Puget Sound region toward meeting the identified objectives and priorities of the Action Agenda, Salmon Recovery Plans, the Treaty Rights at Risk Initiative, and the Coastal Nonpoint Pollution Control Program.
 >     - **(B)** If available, the roles and progress of Tribal governments that have jurisdiction in the Puget Sound region toward meeting the identified objectives and priorities of the Action Agenda, Salmon Recovery Plans, the Treaty Rights at Risk Initiative, and the Coastal Nonpoint Pollution Control Program.
->     - **(C)** A summary of the progress each Federal agency has made in implementing their specific responsibilities under the Action Agenda, Salmon Recovery Plans, the Treaty Rights at Risk Initiative, and the Coastal Nonpoint Pollution Control Program.
->     - **(D)** The role of each Federal agency in protecting Tribal treaty rights, including by carrying out its tribal trust responsibilities, and a summary of the progress each agency has made in protecting those rights.
->     - **(E)** A summary of specific recommendations concerning implementation of the Action Agenda, including challenges, barriers, and anticipated milestones, targets, and timelines.
->     - **(F)** A summary of progress made by Federal agencies toward the priorities identified in the Federal Action Plan.
+>     - **(C)** A summary of specific recommendations concerning implementation of the Action Agenda and Federal Action Plan, including challenges, barriers, and anticipated milestones, targets, and timelines.
+>     - **(D)** A summary of progress made by Federal agencies toward the priorities identified in the Federal Action Plan.
 > - **(h)** *Crosscut budget report*
->   - **(1)** *Financial report* Not later than 1 year after the date of enactment of this section, and every 5 years thereafter, the Director of the Office of Management and Budget, in consultation with the Puget Sound Federal Leadership Task Force, shall submit to Congress and make available to the public, including on the internet, a financial report that is certified by the head of each agency represented by the Puget Sound Federal Leadership Task Force.
+>   - **(1)** *Financial report* Not later than 1 year after the date of enactment of this section, and every 5 years thereafter, the Director of the Office of Management and Budget, in consultation with the Puget Sound Federal Leadership Task Force, shall, in conjunction with the annual budget submission of the President to Congress for the year under section 1105(a) of title 31, United States Code, submit to Congress and make available to the public, including on the internet, a financial report that is certified by the head of each agency represented by the Puget Sound Federal Leadership Task Force.
 >   - **(2)** *Contents* The report shall contain an interagency crosscut budget relating to Puget Sound restoration and protection activities that displays—
 >     - **(A)** the proposed funding for any Federal restoration and protection activity to be carried out in the succeeding fiscal year, including any planned interagency or intra-agency transfer, for each of the Federal agencies that carry out restoration and protection activities;
 >     - **(B)** the estimated expenditures for Federal restoration and protection activities from the preceding 2 fiscal years, the current fiscal year, and the succeeding fiscal year; and
 >     - **(C)** the estimated expenditures for Federal environmental research and monitoring programs from the preceding 2 fiscal years, the current fiscal year, and the succeeding fiscal year.
->   - **(3)** *Included recovery activities* With respect to activities described in the report, the report shall only describe activities that have funding amounts not less than $100,000.
+>   - **(3)** *Included recovery activities* With respect to activities described in the report, the report shall only describe activities that have funding amounts more than $100,000.
 >   - **(4)** *Submission to Congress* The Director of the Office of Management and Budget shall submit the report to—
 >     - **(A)** the Committee on Appropriations, the Committee on Natural Resources, the Committee on Energy and Commerce, and the Committee on Transportation and Infrastructure of the House of Representatives; and
 >     - **(B)** the Committee on Appropriations, the Committee on Environment and Public Works, and the Committee on Commerce, Science, and Transportation of the Senate.
-> - **(i)** *Authorization of appropriations* In addition to any other funds authorized to be appropriated for activities related to Puget Sound, there is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2020 through 2024.
+> - **(i)** *Authorization of appropriations* In addition to any other funds authorized to be appropriated for activities related to Puget Sound, there is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2021 through 2025.
 > - **(j)** *Preservation of Treaty Obligations and Existing Federal Status*
->   - **(1)** *Tribal Treaty Rights* Nothing in this section affects any right reserved by treaty between the United States and 1 or more Indian Tribes.
+>   - **(1)** *Tribal Treaty Rights* Nothing in this section affects, or is intended to affect, any right reserved by treaty between the United States and one or more Indian tribes.
 >   - **(2)** *Other federal law* Nothing in this section affects the requirements and procedures of other Federal law.
 > - **(k)** *Consistency* Actions authorized or implemented under this section shall be consistent with—
 >   - **(1)** the Endangered Species Act of 1973 and the Salmon Recovery Plans of the State of Washington;
