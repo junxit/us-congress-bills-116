@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1620
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,9 +26,9 @@ to guess them.
 
 ### 33 U.S.C. § 1267
 
-> Section 117(j) of the Federal Water Pollution Control Act (33 U.S.C. 1267(j)) is amended by striking “$40,000,000 for each of fiscal years 2001 through 2005” and inserting “$90,000,000 for fiscal year 2020, $90,500,000 for fiscal year 2021, $91,000,000 for fiscal year 2022, $91,500,000 for fiscal year 2023, and $92,000,000 for fiscal year 2024”.
+> Section 117(j) of the Federal Water Pollution Control Act (33 U.S.C. 1267(j)) is amended by striking “$40,000,000 for each of fiscal years 2001 through 2005” and inserting “$90,000,000 for fiscal year 2021, $90,500,000 for fiscal year 2022, $91,000,000 for fiscal year 2023, $91,500,000 for fiscal year 2024, and $92,000,000 for fiscal year 2025”.
 
 | | |
 |---|---|
 | Removed | `$40,000,000 for each of fiscal years 2001 through 2005` |
-| Inserted | `$90,000,000 for fiscal year 2020, $90,500,000 for fiscal year 2021, $91,000,000 for fiscal year 2022, $91,500,000 for fiscal year 2023, and $92,000,000 for fiscal year 2024` |
+| Inserted | `$90,000,000 for fiscal year 2021, $90,500,000 for fiscal year 2022, $91,000,000 for fiscal year 2023, $91,500,000 for fiscal year 2024, and $92,000,000 for fiscal year 2025` |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1620
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1620
@@ -54,3 +54,9 @@ Chesapeake Bay Program Reauthorization Act
 - 2019-12-12 — Placed on the Union Calendar, Calendar No. 269.
 - 2019-12-12 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-338.
 - 2019-12-12 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-338.
+- 2020-02-05 — Considered under suspension of the rules. (consideration: CR H796-799)
+- 2020-02-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1620.
+- 2020-02-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-02-05 — Mrs. Napolitano moved to suspend the rules and pass the bill, as amended.
+- 2020-02-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H796)
+- 2020-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
