@@ -1,7 +1,7 @@
 ---
 measure: S. 3182
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3182
@@ -28,3 +28,7 @@ HEALTH Act
 
 - 2020-01-13 — Introduced in Senate
 - 2020-01-13 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2020-01-29 — Committee on Veterans' Affairs. Ordered to be reported with an amendment favorably.
+- 2020-02-05 — Committee on Veterans' Affairs. Reported by Senator Moran with an amendment and an amendment to the title. Without written report.
+- 2020-02-05 — Committee on Veterans' Affairs. Reported by Senator Moran with an amendment and an amendment to the title. Without written report.
+- 2020-02-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 415.
