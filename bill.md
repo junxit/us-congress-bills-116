@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3830
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Taxpayers Right-To-Know Act ”.
+This Act may be cited as the “Taxpayers Right-To-Know Act”.
 
 ## § 2. Inventory of government programs
 
@@ -20,10 +20,10 @@ Section 1122(a) of title 31, United States Code, is amended—
 - **(1)** by redesignating paragraphs (1) and (2) as paragraphs (2) and (3), respectively;
 - **(2)** by inserting before paragraph (2), as so redesignated, the following:
   > - **(1)** *Definitions* For purposes of this subsection—
-  >   - **(A)** the term Federal financial assistance has the meaning given that term under section 7501;
-  >   - **(B)** the term open Government data asset has the meaning given that term under section 3502 of title 44;
-  >   - **(C)** the term program means a single program activity or an organized set of aggregated, disaggregated, or consolidated program activities by 1 or more agencies directed toward a common purpose or goal; and
-  >   - **(D)** the term program activity has the meaning given that term in section 1115(h).
+  >   - **(A)** the term “Federal financial assistance” has the meaning given that term under section 7501;
+  >   - **(B)** the term “open Government data asset” has the meaning given that term under section 3502 of title 44;
+  >   - **(C)** the term “program” means a single program activity or an organized set of aggregated, disaggregated, or consolidated program activities by one or more agencies directed toward a common purpose or goal; and
+  >   - **(D)** the term “program activity” has the meaning given that term in section 1115(h).
 
 - **(3)** in paragraph (2), as so redesignated—
   - **(A)** by striking “In general.—Not later than October 1, 2012, the Office of Management and Budget shall” and inserting “Website and program inventory.—The Director of the Office of Management and Budget shall”;
@@ -38,42 +38,43 @@ Section 1122(a) of title 31, United States Code, is amended—
     >   - **(ii)** update the program inventory required under subparagraph (B) on an annual basis.
 
 - **(4)** in paragraph (3), as so redesignated—
-  - **(A)** in the matter preceding subparagraph (A), by striking “described under paragraph (1) shall include” and inserting “identified in the program inventory required under paragraph (2)(B) shall include, for each program activity that is a part of a program”;
-  - **(B)** by striking subparagraphs (A) and (C);
-  - **(C)** by redesignating subparagraph (B) as subparagraph (A);
-  - **(D)** in subparagraph (A), as so redesignated—
-    - **(i)** by striking “program” each place it appears and inserting “program activity”; and
-    - **(ii)** by striking “and” at the end; and
-  - **(E)** by adding at the end the following:
-    > - **(B)** a consolidated view for the current fiscal year and each of the 2 fiscal years before the current fiscal year of—
-    >   - **(i)** the amount appropriated;
-    >   - **(ii)** the amount obligated; and
-    >   - **(iii)** the amount outlayed;
-    > - **(C)** to the extent practicable and permitted by law, links to any related evaluation, assessment, or program performance review by the agency, an inspector general, or the Government Accountability Office (including program performance reports required under section 1116), and other related evidence assembled in response to implementation of the Foundations for Evidence-Based Policymaking Act of 2018 (Public Law 115–435; 132 Stat. 5529);
-    > - **(D)** an identification of the statutes that authorize the program activity or the authority under which the program activity was created or operates;
-    > - **(E)** an identification of any major regulations specific to the program activity;
-    > - **(F)** any other information that the Director of the Office of Management and Budget determines relevant relating to program activity data in priority areas most relevant to Congress or the public to increase transparency and accountability; and
-    > - **(G)** for assistance listings under which Federal financial assistance is provided, for the current fiscal year and each of the 2 fiscal years before the current fiscal year and consistent with existing law relating to the protection of personally identifiable information—
-    >   - **(i)** a linkage to the relevant program activities that fund Federal financial assistance by assistance listing;
-    >   - **(ii)** information on the population intended to be served by the assistance listing based on the language of the solicitation, as required under section 6102;
-    >   - **(iii)** to the extent practicable based on data reported to the agency providing the Federal financial assistance, the results of the Federal financial assistance awards provided by assistance listing;
-    >   - **(iv)** to the extent practicable, the percentage of the amount appropriated for the assistance listing that is used for management and administration;
-    >   - **(v)** the identification of each award of Federal financial assistance and, to the extent practicable, the name of each direct or indirect recipient of the award; and
-    >   - **(vi)** any information relating to the award of Federal financial assistance that is required to be included on the website established under section 2(b) of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note).
+  - **(A)** in the matter preceding subparagraph (A), by striking “described under paragraph (1) shall include” and inserting “identified in the program inventory required under paragraph (2)(B) shall include”;
+  - **(B)** in subparagraph (B), by striking “and” at the end;
+  - **(C)** in subparagraph (C), by striking the period at the end and inserting “and,”; and
+  - **(D)** by adding at the end the following:
+    > - **(D)** for each program activity that is part of a program—
+    >   - **(i)** a description of the purposes of the program activity and the contribution of the program activity to the mission and goals of the agency;
+    >   - **(ii)** a consolidated view for the current fiscal year and each of the 2 fiscal years before the current fiscal year of—
+    >     - **(I)** the amount appropriated;
+    >     - **(II)** the amount obligated; and
+    >     - **(III)** the amount outlayed;
+    >   - **(iii)** to the extent practicable and permitted by law, links to any related evaluation, assessment, or program performance review by the agency, an inspector general, or the Government Accountability Office (including program performance reports required under section 1116), and other related evidence assembled in response to implementation of the Foundations for Evidence-Based Policymaking Act of 2018 (Public Law 115–435; 132 Stat. 5529);
+    >   - **(iv)** an identification of the statutes that authorize the program activity or the authority under which the program activity was created or operates;
+    >   - **(v)** an identification of any major regulations specific to the program activity;
+    >   - **(vi)** any other information that the Director of the Office of Management and Budget determines relevant relating to program activity data in priority areas most relevant to Congress or the public to increase transparency and accountability; and
+    >   - **(vii)** for each assistance listing under which Federal financial assistance is provided, for the current fiscal year and each of the 2 fiscal years before the current fiscal year and consistent with existing law relating to the protection of personally identifiable information—
+    >     - **(I)** a linkage to the relevant program activities that fund Federal financial assistance by assistance listing;
+    >     - **(II)** information on the population intended to be served by the assistance listing based on the language of the solicitation, as required under section 6102;
+    >     - **(III)** to the extent practicable and based on data reported to the agency providing the Federal financial assistance, the results of the Federal financial assistance awards provided by the assistance listing;
+    >     - **(IV)** to the extent practicable, the percentage of the amount appropriated for the assistance listing that is used for management and administration;
+    >     - **(V)** the identification of each award of Federal financial assistance and, to the extent practicable, the name of each direct or indirect recipient of the award; and
+    >     - **(VI)** any information relating to the award of Federal financial assistance that is required to be included on the website established under section 2(b) of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note).
 
 - **(5)** by adding at the end the following:
   > - **(4)** *Archiving* The Director of the Office of Management and Budget shall—
-  >   - **(A)** archive and preserve the information included in the program inventory required under paragraph (2)(B) after the end of the period during which such information is required to be made available under paragraph (3); and
-  >   - **(B)** make information archived in accordance with subparagraph (A) available for research via an archiving process that results in self-service of data access.
+  >   - **(A)** archive and preserve the information included in the program inventory required under paragraph (2)(B) after the end of the period during which such information is made available under paragraph (3); and
+  >   - **(B)** make information archived in accordance with subparagraph (A) publicly available as an open Government data asset.
 
 ## § 3. Guidance, implementation, reporting, and review
 
 - **(a)** *Definitions* In this section—
-  - **(1)** the term Director means the Director of the Office of Management and Budget;
-  - **(2)** the term program has the meaning given that term in section 1122(a)(1) of title 31, United States Code, as amended by section 2 of this Act; and
-  - **(3)** the term program activity has the meaning given that term in section 1115(h) of title 31, United States Code.
-- **(b)** *Plan for implementation and reconciling program definitions* Not later than 180 days after the date of enactment of this Act, the Director shall submit to Congress a report that—
-  - **(1)** includes plan that—
+  - **(1)** the term “appropriate congressional committees” means the Committee on Oversight and Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate;
+  - **(2)** the term “Director” means the Director of the Office of Management and Budget;
+  - **(3)** the term “program” has the meaning given that term in section 1122(a)(1) of title 31, United States Code, as amended by section 2 of this Act;
+  - **(4)** the term “program activity” has the meaning given that term in section 1115(h) of title 31, United States Code; and
+  - **(5)** the term “Secretary” means the Secretary of the Treasury.
+- **(b)** *Plan for implementation and reconciling program definitions* Not later than 180 days after the date of enactment of this Act, the Director, in consultation with the Secretary, shall submit to the appropriate congressional committees a report that—
+  - **(1)** includes a plan that—
     - **(A)** discusses how making available on a website the information required under subsection (a) of section 1122 of title 31, United States Code, as amended by section 2, will leverage existing data sources while avoiding duplicative or overlapping information in presenting information relating to program activities and programs;
     - **(B)** indicates how any gaps in data will be assessed and addressed;
     - **(C)** indicates how the Director will display such data; and
@@ -85,15 +86,15 @@ Section 1122(a) of title 31, United States Code, is amended—
     - **(A)** gathering and building program activity information;
     - **(B)** developing and implementing the pilot program;
     - **(C)** seeking and responding to stakeholder comments;
-    - **(D)** developing and presenting findings from the pilot program to Congress;
-    - **(E)** notifying Congress regarding how program activities will be aggregated, disaggregated, or consolidated as part of identifying programs; and
+    - **(D)** developing and presenting findings from the pilot program to the appropriate congressional committees;
+    - **(E)** notifying the appropriate congressional committees regarding how program activities will be aggregated, disaggregated, or consolidated as part of identifying programs; and
     - **(F)** implementing a Governmentwide program inventory through an iterative approach; and
-  - **(4)** including recommendations, if any, to reconcile the conflicting definitions of the term “program” in relevant Federal statutes, as it relates to the purpose of this Act.
+  - **(4)** includes recommendations, if any, to reconcile the conflicting definitions of the term “program” in relevant Federal statutes, as it relates to the purpose of this Act.
 - **(c)** *Implementation*
   - **(1)** *In general* Not later than 3 years after the date of enactment of this Act, the Director shall make available online all information required under the amendments made by section 2 with respect to all programs.
-  - **(2)** *Extensions* The Director may, based on an analysis of the costs of implementation, and after submitting to Congress a notification of the action by the Director, extend the deadline for implementation under paragraph (1) by not more than a total of 1 year.
-- **(d)** *Reporting* Not later than 2 years after the date on which the Director makes available online all information required under the amendments made by section 2 with respect to all programs, the Comptroller General of the United States shall submit to Congress a report regarding the implementation of this Act and the amendments made by this Act, which shall—
-  - **(1)** review how the Director and agencies determined how to aggregate, disaggregate, or consolidate program activities to provide the most useful information for an inventory of Government investments;
+  - **(2)** *Extensions* The Director may, based on an analysis of the costs of implementation, and after submitting to the appropriate congressional committees a notification of the action by the Director, extend the deadline for implementation under paragraph (1) by not more than a total of 1 year.
+- **(d)** *Reporting* Not later than 2 years after the date on which the Director makes available online all information required under the amendments made by section 2 with respect to all programs, the Comptroller General of the United States shall submit to the appropriate congressional committees a report regarding the implementation of this Act and the amendments made by this Act, which shall—
+  - **(1)** review how the Director and agencies determined how to aggregate, disaggregate, or consolidate program activities to provide the most useful information for an inventory of Government programs;
   - **(2)** evaluate the extent to which the program inventory required under section 1122 of title 31, United States Code, as amended by this Act, provides useful information for transparency, decision-making, and oversight;
   - **(3)** evaluate the extent to which the program inventory provides a coherent picture of the scope of Federal investments in particular areas; and
   - **(4)** include the recommendations of the Comptroller General, if any, for improving implementation of this Act and the amendments made by this Act.
@@ -104,7 +105,7 @@ Section 1122(a) of title 31, United States Code, is amended—
   - **(1)** in subsection (b), in the matter preceding paragraph (1), by inserting “described in subsection (a)(2)(A)” after “the website” each place it appears;
   - **(2)** in subsection (c), in the matter preceding paragraph (1), by inserting “described in subsection (a)(2)(A)” after “the website”; and
   - **(3)** in subsection (d)—
-    - **(A)** in the subsection heading, by striking “on Website”; and
+    - **(A)** in the subsection heading, by striking “on website”; and
     - **(B)** in the first sentence, by striking “on the website”.
 - **(b)** *Other amendments*
   - **(1)** Section 1115(a) of title 31, United States Code, is amended in the matter preceding paragraph (1) by striking “the website provided under” and inserting “a website described in”.
@@ -116,3 +117,7 @@ Section 1122(a) of title 31, United States Code, is amended—
   - **(3)** Section 1120(a)(5) of title 31, United States Code, is amended by striking “the website described under” and inserting “a website described in”.
   - **(4)** Section 1126(b)(2)(E) of title 31, United States Code, is amended by striking “the website of the Office of Management and Budget pursuant to” and inserting “a website described in”.
   - **(5)** Section 3512(a)(1) of title 31, United States Code, is amended by striking “the website described under” and inserting “a website described in”.
+
+## § 5. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
