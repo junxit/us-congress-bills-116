@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1132
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1132
@@ -50,3 +50,9 @@ San Francisco Bay Restoration Act
 - 2019-11-20 — Placed on the Union Calendar, Calendar No. 245.
 - 2019-11-20 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 116-304, Part I.
 - 2019-11-20 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 116-304, Part I.
+- 2020-02-05 — Considered under suspension of the rules. (consideration: CR H785-788)
+- 2020-02-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1132.
+- 2020-02-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-02-05 — Mrs. Napolitano moved to suspend the rules and pass the bill, as amended.
+- 2020-02-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H785-786)
+- 2020-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.

@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1132
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -55,10 +55,10 @@ Title I of the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.) is a
 >     - **(A)** *Maximum amount of grants* Amounts provided to any entity under this section for a fiscal year shall not exceed an amount equal to 75 percent of the total cost of any projects, activities, and studies that are to be carried out using those amounts.
 >     - **(B)** *Non-Federal share* Not less than 25 percent of the cost of any project, activity, or study carried out using amounts provided under this section shall be provided from non-Federal sources.
 > - **(f)** *Funding*
->   - **(1)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2020 through 2024.
+>   - **(1)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2021 through 2025.
 >   - **(2)** *Administrative expenses* Of the amount made available to carry out this section for a fiscal year, the Director may not use more than 5 percent to pay administrative expenses incurred in carrying out this section.
 >   - **(3)** *Prohibition* No amounts made available under this section may be used for the administration of a management conference under section 320.
-> - **(g)** *Annual budget plan* The President, as part of the annual budget submission of the President to Congress under section 1105(a) of title 31, United States Code, shall submit information regarding each Federal department and agency involved in San Francisco Bay protection and restoration, including—
+> - **(g)** *Annual budget plan* In each of fiscal years 2021 through 2025, the President, as part of the annual budget submission of the President to Congress under section 1105(a) of title 31, United States Code, shall submit information regarding each Federal department and agency involved in San Francisco Bay protection and restoration, including—
 >   - **(1)** a report that displays for each Federal agency—
 >     - **(A)** the amounts obligated in the preceding fiscal year for protection and restoration projects, activities, and studies relating to the San Francisco Bay; and
 >     - **(B)** the proposed budget for protection and restoration projects, activities, and studies relating to the San Francisco Bay; and
