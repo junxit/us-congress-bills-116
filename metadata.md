@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5037
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5037
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 3703 No
 
 - Rep. Murphy, Gregory [R-NC-3] (M001210)
 
-## Cosponsors (12)
+## Cosponsors (16)
 
 - Rep. Butterfield, G. K. [D-NC-1] (B001251)
 - Rep. Holding, George [R-NC-2] (H001065)
@@ -30,6 +30,10 @@ To designate the facility of the United States Postal Service located at 3703 No
 - Rep. Meadows, Mark [R-NC-11] (M001187)
 - Rep. Adams, Alma S. [D-NC-12] (A000370)
 - Rep. Budd, Ted [R-NC-13] (B001305)
+- Rep. Speier, Jackie [D-CA-14] (S001175)
+- Rep. Welch, Peter [D-VT-At Large] (W000800)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Taylor, Van [R-TX-3] (T000479)
 
 ## Committees (1)
 
@@ -40,3 +44,10 @@ To designate the facility of the United States Postal Service located at 3703 No
 - 2019-11-12 — Introduced in House
 - 2019-11-12 — Introduced in House
 - 2019-11-12 — Referred to the House Committee on Oversight and Reform.
+- 2019-12-19 — Committee Consideration and Mark-up Session Held.
+- 2020-02-05 — Considered under suspension of the rules. (consideration: CR H830-831)
+- 2020-02-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5037.
+- 2020-02-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-02-05 — Mrs. Lawrence moved to suspend the rules and pass the bill.
+- 2020-02-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H830)
+- 2020-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
