@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4981
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4981
@@ -40,3 +40,10 @@ To designate the facility of the United States Postal Service located at 2505 De
 - 2019-11-05 — Introduced in House
 - 2019-11-05 — Introduced in House
 - 2019-11-05 — Referred to the House Committee on Oversight and Reform.
+- 2019-12-19 — Committee Consideration and Mark-up Session Held.
+- 2020-02-05 — Considered under suspension of the rules. (consideration: CR H829-830)
+- 2020-02-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4981.
+- 2020-02-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-02-05 — Mrs. Lawrence moved to suspend the rules and pass the bill.
+- 2020-02-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H829)
+- 2020-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
