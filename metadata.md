@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1494
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1494
@@ -16,7 +16,7 @@ Historically Black Colleges and Universities (HBCUs) Homeland Security Partnersh
 
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Cosponsors (19)
+## Cosponsors (20)
 
 - Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
@@ -37,6 +37,7 @@ Historically Black Colleges and Universities (HBCUs) Homeland Security Partnersh
 - Rep. Bass, Karen [D-CA-37] (B001270)
 - Rep. Clyburn, James E. [D-SC-6] (C000537)
 - Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Underwood, Lauren [D-IL-14] (U000040)
 
 ## Committees (2)
 
@@ -49,3 +50,12 @@ Historically Black Colleges and Universities (HBCUs) Homeland Security Partnersh
 - 2019-03-05 — Introduced in House
 - 2019-03-05 — Referred to the Committee on Homeland Security, and in addition to the Committee on Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-03-05 — Referred to the Committee on Homeland Security, and in addition to the Committee on Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-03-25 — Referred to the Subcommittee on Oversight, Management, and Accountability.
+- 2020-01-29 — Committee Consideration and Mark-up Session Held.
+- 2020-01-29 — Ordered to be Reported (Amended).
+- 2020-01-29 — Subcommittee on Oversight, Management, and Accountability Discharged.
+- 2020-02-06 — Committee on Small Business discharged.
+- 2020-02-06 — Committee on Small Business discharged.
+- 2020-02-06 — Placed on the Union Calendar, Calendar No. 316.
+- 2020-02-06 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-393, Part I.
+- 2020-02-06 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-393, Part I.

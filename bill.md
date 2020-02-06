@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1494
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -17,7 +17,7 @@ This Act may be cited as the “Historically Black Colleges and Universities (HB
 
 Not later than 90 days after the date of the enactment of this Act, the Secretary, acting through the Under Secretary for Strategy, Policy, and Plans of the Department, shall—
 
-- **(1)** issue a Department-wide strategy to enhance partnerships with historically Black colleges and universities and minority-serving institutions that includes yearly goals through fiscal year 2024; and
+- **(1)** issue a Department-wide strategy to enhance partnerships with historically Black colleges and universities and minority-serving institutions that includes yearly goals, including goals related to improving recruitment and hiring, research and development, and acquisition opportunities at such institutions, through fiscal year 2025; and
 - **(2)** require the head of each component of the Department to—
   - **(A)** not later than 150 days after the date of the issuance under paragraph (1) of the Department-wide strategy, develop a component-specific action plan to implement such strategy;
   - **(B)** monitor progress on such implementation; and
@@ -25,11 +25,11 @@ Not later than 90 days after the date of the enactment of this Act, the Secretar
 
 ## § 3. Enhancement of research and development partnerships
 
-The Under Secretary for Science and Technology of the Department shall seek to enhance partnerships with historically Black colleges and universities and minority-serving institutions with respect to administering the primary research and development activities of the Department by, among other things—
+The Secretary shall seek to enhance partnerships with historically Black colleges and universities and minority-serving institutions with respect to administering the research and development activities of the Department by, among other things—
 
 - **(1)** encouraging the participation of such colleges, universities, and institutions in the research, development, testing, and evaluation programs and activities of the Department;
-- **(2)** facilitating partnerships between such colleges, universities, and institutions and private sector stakeholders, national laboratories, and other academic institutions in areas important to homeland security; and
-- **(3)** distributing funds through Science and Technology Directorate grants, cooperative agreements, and contracts to such colleges, universities, and institutions for enhancements in areas important to homeland security.
+- **(2)** facilitating partnerships between such colleges, universities, and institutions and private sector stakeholders, national laboratories, and other academic institutions in areas important to homeland security, including cybersecurity, emergency management, and counterterrorism; and
+- **(3)** distributing funds through Science and Technology Directorate grants, cooperative agreements, and contracts to such colleges, universities, and institutions for enhancements in areas important to homeland security, including cybersecurity, emergency management, and counterterrorism.
 
 ## § 4. Career opportunities partnerships
 
@@ -52,6 +52,7 @@ Not later than 120 days after the date of the enactment of this Act, the Secreta
   - **(4)** A description of the status of efforts made by the Department pursuant to sections 2 and 4, including—
     - **(A)** for section 2, Department-wide goals pursuant to the Department-wide strategy to enhance partnerships with historically Black colleges and universities and minority-serving institutions under such section, and the status of efforts to implement action plans throughout the Department to carry out such strategy; and
     - **(B)** for section 4, participation rates in each internship, fellowship, scholarship, and recruitment opportunity referred to in such section, listed by historically Black college and university and minority-serving institution so participating.
+  - **(5)** A list of memoranda of understanding entered into by the Department with historically Black colleges and universities and minority-serving institutions and information on the parties and scope of each such memorandum of understanding.
 
 ## § 7. Definitions
 
