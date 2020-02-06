@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2474
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2474
@@ -251,3 +251,147 @@ Protecting the Right to Organize Act of 2019
 - 2019-12-16 — Placed on the Union Calendar, Calendar No. 276.
 - 2019-12-16 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 116-347.
 - 2019-12-16 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 116-347.
+- 2020-02-05 — Rules Committee Resolution H. Res. 833 Reported to House. Rule provides for consideration of H. Res. 826, H.R. 2474 and H.R. 5687. The resolution provides for consideration of H.Res. 826 under a closed rule with one hour of debate. Also, the resolution provides for consideration of H.R. 2474, under a structured rule and consideration of H.R. 5687, under a structured rule. Each bill shall be debated for one hour.
+- 2020-02-06 — Amendment (A001) offered by Ms. Stevens. (consideration: CR H898-899, H920; text: CR H898)
+- 2020-02-06 — Amendment (A002) offered by Ms. Foxx (NC). (consideration: CR H899-900, H920-921; text: CR H899)
+- 2020-02-06 — Amendment (A003) offered by Mr. Norcross. (consideration: CR H900; text: CR H900)
+- 2020-02-06 — Amendment (A004) offered by Mr. Roe, David P.. (consideration: CR H900-902, H921-922; text: CR H900-901)
+- 2020-02-06 — Amendment (A005) offered by Ms. Wild. (consideration: CR H902-903, H922; text: CR H902)
+- 2020-02-06 — Amendment (A006) offered by Mr. Allen. (consideration: CR H903-904, H922-923; text: CR H903)
+- 2020-02-06 — Amendment (A007) offered by Mrs. Hayes. (consideration: CR H904-905; text: CR H904)
+- 2020-02-06 — Amendment (A008) offered by Mr. Keller. (consideration: CR H905-907; text: CR H905)
+- 2020-02-06 — Amendment (A009) offered by Ms. Stevens. (consideration: CR H907-908; text: CR H907)
+- 2020-02-06 — Amendment (A010) offered by Mr. Meadows. (consideration: CR H908-910, H923-924; text: CR H908)
+- 2020-02-06 — Amendment (A011) offered by Ms. Jackson Lee. (consideration: CR H910-913, H924; text: CR H910-911)
+- 2020-02-06 — Amendment (A012) offered by Mr. Rooney (FL). (consideration: CR H913-914; text: CR H913)
+- 2020-02-06 — Amendment (A013) offered by Mr. Vargas. (consideration: CR H914-915; text: CR H914)
+- 2020-02-06 — Amendment (A014) offered by Ms. Tlaib. (consideration: CR H915-917; text: CR H916)
+- 2020-02-06 — Amendment (A015) offered by Mrs. Lawrence. (consideration: CR H917-918; text: CR H917)
+- 2020-02-06 — Amendment (A016) offered by Mr. Rouda. (consideration: CR H918-920, H924-925; text: CR H918)
+- 2020-02-06 — Amendment agreed to Committee of the Whole
+- 2020-02-06 — Amendment agreed to Committee of the Whole
+- 2020-02-06 — Amendment agreed to Committee of the Whole
+- 2020-02-06 — Amendment agreed to Committee of the Whole
+- 2020-02-06 — Amendment agreed to Committee of the Whole
+- 2020-02-06 — Amendment agreed to Committee of the Whole
+- 2020-02-06 — Amendment agreed to Committee of the Whole
+- 2020-02-06 — Amendment agreed to Committee of the Whole
+- 2020-02-06 — Amendment agreed to Committee of the Whole
+- 2020-02-06 — Amendment agreed to Committee of the Whole
+- 2020-02-06 — Amendment failed in Committee of the Whole
+- 2020-02-06 — Amendment failed in Committee of the Whole
+- 2020-02-06 — Amendment failed in Committee of the Whole
+- 2020-02-06 — Amendment failed in Committee of the Whole
+- 2020-02-06 — Amendment failed in Committee of the Whole
+- 2020-02-06 — Amendment failed in Committee of the Whole
+- 2020-02-06 — Considered under the provisions of rule H. Res. 833. (consideration: CR H879-928; text: CR H895-898)
+- 2020-02-06 — DEBATE - Pursuant to the provisions of H. Res. 833, the Committee of the Whole proceeded with 10 minutes on the Allen amendment No. 6.
+- 2020-02-06 — DEBATE - Pursuant to the provisions of H. Res. 833, the Committee of the Whole proceeded with 10 minutes on the Foxx amendment No. 2.
+- 2020-02-06 — DEBATE - Pursuant to the provisions of H. Res. 833, the Committee of the Whole proceeded with 10 minutes on the Hayes amendment No. 7.
+- 2020-02-06 — DEBATE - Pursuant to the provisions of H. Res. 833, the Committee of the Whole proceeded with 10 minutes on the Jackson Lee amendment No. 11.
+- 2020-02-06 — DEBATE - Pursuant to the provisions of H. Res. 833, the Committee of the Whole proceeded with 10 minutes on the Keller amendment No. 8.
+- 2020-02-06 — DEBATE - Pursuant to the provisions of H. Res. 833, the Committee of the Whole proceeded with 10 minutes on the Lawrence amendment No. 15.
+- 2020-02-06 — DEBATE - Pursuant to the provisions of H. Res. 833, the Committee of the Whole proceeded with 10 minutes on the Meadows amendment No. 10.
+- 2020-02-06 — DEBATE - Pursuant to the provisions of H. Res. 833, the Committee of the Whole proceeded with 10 minutes on the Norcross amendment No. 3.
+- 2020-02-06 — DEBATE - Pursuant to the provisions of H. Res. 833, the Committee of the Whole proceeded with 10 minutes on the Roe (TN) amendment No. 4.
+- 2020-02-06 — DEBATE - Pursuant to the provisions of H. Res. 833, the Committee of the Whole proceeded with 10 minutes on the Rooney (FL) amendment No. 12.
+- 2020-02-06 — DEBATE - Pursuant to the provisions of H. Res. 833, the Committee of the Whole proceeded with 10 minutes on the Rouda amendment No. 16.
+- 2020-02-06 — DEBATE - Pursuant to the provisions of H. Res. 833, the Committee of the Whole proceeded with 10 minutes on the Stevens amendment No. 1.
+- 2020-02-06 — DEBATE - Pursuant to the provisions of H. Res. 833, the Committee of the Whole proceeded with 10 minutes on the Stevens amendment No. 9.
+- 2020-02-06 — DEBATE - Pursuant to the provisions of H. Res. 833, the Committee of the Whole proceeded with 10 minutes on the Tlaib amendment No. 14
+- 2020-02-06 — DEBATE - Pursuant to the provisions of H. Res. 833, the Committee of the Whole proceeded with 10 minutes on the Vargas amendment No. 13.
+- 2020-02-06 — DEBATE - Pursuant to the provisions of H. Res. 833, the Committee of the Whole proceeded with 10 minutes on the Wild amendment No. 5.
+- 2020-02-06 — DEBATE - The House proceeded with 10 minutes of debate on the Hern, Kevin (OK) motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to forbid a labor organization from communicating with an employee regarding joining or supporting the labor organization if the employee is not authorized to work in the United States.
+- 2020-02-06 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2474.
+- 2020-02-06 — House amendment agreed to: On agreeing to the Hayes amendment (A007) Agreed to by voice vote.
+- 2020-02-06 — House amendment agreed to: On agreeing to the Jackson Lee amendment (A011) Agreed to by recorded vote: 404 - 18 (Roll no. 47).
+- 2020-02-06 — House amendment agreed to: On agreeing to the Lawrence amendment (A015) Agreed to by voice vote.
+- 2020-02-06 — House amendment agreed to: On agreeing to the Norcross amendment (A003) Agreed to by voice vote.
+- 2020-02-06 — House amendment agreed to: On agreeing to the Rouda amendment (A016) Agreed to by recorded vote: 249 - 173 (Roll no. 48).
+- 2020-02-06 — House amendment agreed to: On agreeing to the Stevens amendment (A001) Agreed to by recorded vote: 241 - 178 (Roll no. 41).
+- 2020-02-06 — House amendment agreed to: On agreeing to the Stevens amendment (A009) Agreed to by voice vote.
+- 2020-02-06 — House amendment agreed to: On agreeing to the Tlaib amendment (A014) Agreed to by voice vote.
+- 2020-02-06 — House amendment agreed to: On agreeing to the Vargas amendment (A013) Agreed to by voice vote.
+- 2020-02-06 — House amendment agreed to: On agreeing to the Wild amendment (A005) Agreed to by recorded vote: 242 - 178 (Roll no. 44).
+- 2020-02-06 — House amendment not agreed to: On agreeing to the Allen amendment (A006) Failed by recorded vote: 187 - 232 (Roll no. 45).
+- 2020-02-06 — House amendment not agreed to: On agreeing to the Foxx (NC) amendment (A002) Failed by recorded vote: 190 - 229 (Roll no. 42).
+- 2020-02-06 — House amendment not agreed to: On agreeing to the Keller amendment (A008) Failed by voice vote.
+- 2020-02-06 — House amendment not agreed to: On agreeing to the Meadows amendment (A010) Failed by recorded vote: 186 - 235 (Roll no. 46).
+- 2020-02-06 — House amendment not agreed to: On agreeing to the Roe, David P. amendment (A004) Failed by recorded vote: 187 - 235 (Roll no. 43).
+- 2020-02-06 — House amendment not agreed to: On agreeing to the Rooney (FL) amendment (A012) Failed by voice vote.
+- 2020-02-06 — House amendment offered
+- 2020-02-06 — House amendment offered
+- 2020-02-06 — House amendment offered
+- 2020-02-06 — House amendment offered
+- 2020-02-06 — House amendment offered
+- 2020-02-06 — House amendment offered
+- 2020-02-06 — House amendment offered
+- 2020-02-06 — House amendment offered
+- 2020-02-06 — House amendment offered
+- 2020-02-06 — House amendment offered
+- 2020-02-06 — House amendment offered
+- 2020-02-06 — House amendment offered
+- 2020-02-06 — House amendment offered
+- 2020-02-06 — House amendment offered
+- 2020-02-06 — House amendment offered
+- 2020-02-06 — House amendment offered
+- 2020-02-06 — House amendment offered/reported by: Amendment (A001) offered by Ms. Stevens.
+- 2020-02-06 — House amendment offered/reported by: Amendment (A002) offered by Ms. Foxx (NC).
+- 2020-02-06 — House amendment offered/reported by: Amendment (A003) offered by Mr. Norcross.
+- 2020-02-06 — House amendment offered/reported by: Amendment (A004) offered by Mr. Roe, David P..
+- 2020-02-06 — House amendment offered/reported by: Amendment (A005) offered by Ms. Wild.
+- 2020-02-06 — House amendment offered/reported by: Amendment (A006) offered by Mr. Allen.
+- 2020-02-06 — House amendment offered/reported by: Amendment (A007) offered by Mrs. Hayes.
+- 2020-02-06 — House amendment offered/reported by: Amendment (A008) offered by Mr. Keller.
+- 2020-02-06 — House amendment offered/reported by: Amendment (A009) offered by Ms. Stevens.
+- 2020-02-06 — House amendment offered/reported by: Amendment (A010) offered by Mr. Meadows.
+- 2020-02-06 — House amendment offered/reported by: Amendment (A011) offered by Ms. Jackson Lee.
+- 2020-02-06 — House amendment offered/reported by: Amendment (A012) offered by Mr. Rooney (FL).
+- 2020-02-06 — House amendment offered/reported by: Amendment (A013) offered by Mr. Vargas.
+- 2020-02-06 — House amendment offered/reported by: Amendment (A014) offered by Ms. Tlaib.
+- 2020-02-06 — House amendment offered/reported by: Amendment (A015) offered by Mrs. Lawrence.
+- 2020-02-06 — House amendment offered/reported by: Amendment (A016) offered by Mr. Rouda.
+- 2020-02-06 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 833 and Rule XVIII.
+- 2020-02-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-02-06 — Mr. Hern, Kevin moved to recommit with instructions to the Committee on Education and Labor. (text: CR H925)
+- 2020-02-06 — On agreeing to the Allen amendment (A006) Failed by recorded vote: 187 - 232 (Roll no. 45).
+- 2020-02-06 — On agreeing to the Foxx (NC) amendment (A002) Failed by recorded vote: 190 - 229 (Roll no. 42).
+- 2020-02-06 — On agreeing to the Hayes amendment (A007) Agreed to by voice vote.
+- 2020-02-06 — On agreeing to the Jackson Lee amendment (A011) Agreed to by recorded vote: 404 - 18 (Roll no. 47).
+- 2020-02-06 — On agreeing to the Keller amendment (A008) Failed by voice vote.
+- 2020-02-06 — On agreeing to the Lawrence amendment (A015) Agreed to by voice vote.
+- 2020-02-06 — On agreeing to the Meadows amendment (A010) Failed by recorded vote: 186 - 235 (Roll no. 46).
+- 2020-02-06 — On agreeing to the Norcross amendment (A003) Agreed to by voice vote.
+- 2020-02-06 — On agreeing to the Roe, David P. amendment (A004) Failed by recorded vote: 187 - 235 (Roll no. 43).
+- 2020-02-06 — On agreeing to the Rooney (FL) amendment (A012) Failed by voice vote.
+- 2020-02-06 — On agreeing to the Rouda amendment (A016) Agreed to by recorded vote: 249 - 173 (Roll no. 48).
+- 2020-02-06 — On agreeing to the Stevens amendment (A001) Agreed to by recorded vote: 241 - 178 (Roll no. 41).
+- 2020-02-06 — On agreeing to the Stevens amendment (A009) Agreed to by voice vote.
+- 2020-02-06 — On agreeing to the Tlaib amendment (A014) Agreed to by voice vote.
+- 2020-02-06 — On agreeing to the Vargas amendment (A013) Agreed to by voice vote.
+- 2020-02-06 — On agreeing to the Wild amendment (A005) Agreed to by recorded vote: 242 - 178 (Roll no. 44).
+- 2020-02-06 — On motion to recommit with instructions Failed by recorded vote: 195 - 223 (Roll no. 49).
+- 2020-02-06 — On passage Passed by recorded vote: 224 - 194 (Roll no. 50).
+- 2020-02-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Allen amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. Allen demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2020-02-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Foxx amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Ms. Foxx demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2020-02-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the ayes had prevailed. Ms. Jackson Lee demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2020-02-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Meadows amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. Meadows demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2020-02-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Roe (TN) amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. Roe (TN) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2020-02-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rouda amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the ayes had prevailed. Mr. Rouda demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2020-02-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Stevens amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the ayes had prevailed. Ms. Stevens demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2020-02-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Wild amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the ayes had prevailed. Ms. Wild demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2020-02-06 — Passed/agreed to in House: On passage Passed by recorded vote: 224 - 194 (Roll no. 50).
+- 2020-02-06 — Roll call votes on amendments in House
+- 2020-02-06 — Roll call votes on amendments in House
+- 2020-02-06 — Roll call votes on amendments in House
+- 2020-02-06 — Roll call votes on amendments in House
+- 2020-02-06 — Roll call votes on amendments in House
+- 2020-02-06 — Roll call votes on amendments in House
+- 2020-02-06 — Roll call votes on amendments in House
+- 2020-02-06 — Roll call votes on amendments in House
+- 2020-02-06 — Rule provides for consideration of H. Res. 826, H.R. 2474 and H.R. 5687. The resolution provides for consideration of H.Res. 826 under a closed rule with one hour of debate. Also, the resolution provides for consideration of H.R. 2474, under a structured rule and consideration of H.R. 5687, under a structured rule. Each bill shall be debated for one hour.
+- 2020-02-06 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2020-02-06 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2474.
+- 2020-02-06 — The Speaker designated the Honorable Earl Blumenauer to act as Chairman of the Committee.
+- 2020-02-06 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2020-02-06 — The previous question was ordered pursuant to the rule.
