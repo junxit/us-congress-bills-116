@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2474
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-56 amendatory instructions. 19 executed, 37 stated and not applied.
+59 amendatory instructions. 19 executed, 40 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -116,7 +116,7 @@ to guess them.
 
 ### 29 U.S.C. § 159
 
-> in subsection (d), by striking “(e) or” and inserting “(d) or”.
+> in subsection (d), by striking “(e) or” and inserting “(d) or”; and
 
 | | |
 |---|---|
@@ -228,6 +228,7 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 159` | redesignate | by redesignating paragraphs (4) and (5) as paragraphs (6) and (7), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 159` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 159` | redesignate | by inserting after paragraph (7), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 159` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 160` | strike | by striking subsection (e); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 160` | redesignate | by redesignating subsection (d) as subsection (e); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 160` | insert | by inserting after subsection (c) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -241,3 +242,5 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 164` | replace | Section 14(b) of the National Labor Relations Act (29 U.S.C. 164(b)) is amended by striking the period at the end and inserting the following: “: Provided, That collective bargaining agreements providing that all employees in a bargainin… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 187` | repeal | by repealing section 303 (29 U.S.C. 187). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 433` | replace | Section 203(c) of the Labor-Management Reporting and Disclosure Act of 1959 (29 U.S.C. 433(c)) is amended by striking the period at the end and inserting the following “: Provided, That this subsection shall not exempt from the requireme… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 531` | redesignate | by redesignating section 611 (29 U.S.C. 531) as section 612; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 530` | insert | by inserting after section 610 (29 U.S.C. 530), the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
