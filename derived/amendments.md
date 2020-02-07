@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5687
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -24,14 +24,14 @@ to guess them.
 
 ## Executed
 
-### 42 U.S.C. § 5122
+### 42 U.S.C. § 5121
 
-> Section 20601 of the Bipartisan Budget Act of 2018 (Public Law 115–123) is amended by striking “and DR–4335–USVI” and inserting “DR–4335–USVI, and for all major disasters declared under the Robert T. Stafford Disaster Relief and Recovery Act (42 U.S.C. 5122) for Puerto Rico or the United States Virgin Islands during calendar year 2020”.
+> Section 20601 of the Bipartisan Budget Act of 2018 (Public Law 115–123) is amended by striking “and DR–4335–USVI” and inserting “DR–4335–USVI, and for all major disasters declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) for Puerto Rico or the United States Virgin Islands during calendar year 2020”.
 
 | | |
 |---|---|
 | Removed | `and DR–4335–USVI` |
-| Inserted | `DR–4335–USVI, and for all major disasters declared under the Robert T. Stafford Disaster Relief and Recovery Act (42 U.S.C. 5122) for Puerto Rico or the United States Virgin Islands during calendar year 2020` |
+| Inserted | `DR–4335–USVI, and for all major disasters declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) for Puerto Rico or the United States Virgin Islands during calendar year 2020` |
 
 ### 26 U.S.C. § 7652
 
