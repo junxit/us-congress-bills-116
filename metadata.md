@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2474
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2474
@@ -237,9 +237,10 @@ Protecting the Right to Organize Act of 2019
 - Rep. Lawson, Al, Jr. [D-FL-5] (L000586)
 - Rep. Sewell, Terri A. [D-AL-7] (S001185)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (10)
 
@@ -408,3 +409,4 @@ Protecting the Right to Organize Act of 2019
 - 2020-02-06 — The Speaker designated the Honorable Earl Blumenauer to act as Chairman of the Committee.
 - 2020-02-06 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2020-02-06 — The previous question was ordered pursuant to the rule.
+- 2020-02-10 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
