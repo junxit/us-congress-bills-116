@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4305
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4305
@@ -343,9 +343,10 @@ PAWS for Veterans Therapy Act
 - Rep. Panetta, Jimmy [D-CA-20] (P000613)
 - Rep. Ruiz, Raul [D-CA-36] (R000599)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -360,3 +361,4 @@ PAWS for Veterans Therapy Act
 - 2020-02-05 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
 - 2020-02-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H777)
 - 2020-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-02-10 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
