@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4044
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4044
@@ -74,3 +74,12 @@ Protect and Restore America's Estuaries Act
 - 2020-02-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 355 - 62 (Roll no. 35). (text: CR H780)
 - 2020-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 355 - 62 (Roll no. 35).
 - 2020-02-10 — Received in the Senate, read twice.
+- 2020-12-31 — Message on Senate action sent to the House.
+- 2020-12-31 — Passed Senate without amendment by Voice Vote. (consideration: CR S7993)
+- 2020-12-31 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S7993)
+- 2021-01-01 — Presented to President.
+- 2021-01-01 — Presented to President.
+- 2021-01-13 — Became Public Law No: 116-337.
+- 2021-01-13 — Became Public Law No: 116-337.
+- 2021-01-13 — Signed by President.
+- 2021-01-13 — Signed by President.
