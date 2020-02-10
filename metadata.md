@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4031
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4031
@@ -98,3 +98,14 @@ GLRI Act of 2019
 - 2020-02-05 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 373 - 45 (Roll no. 36). (text: CR H799)
 - 2020-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 373 - 45 (Roll no. 36).
 - 2020-02-10 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2020-12-20 — Passed Senate without amendment by Unanimous Consent.
+- 2020-12-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-12-20 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S7865)
+- 2020-12-20 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S7865)
+- 2020-12-21 — Message on Senate action sent to the House.
+- 2020-12-24 — Presented to President.
+- 2020-12-24 — Presented to President.
+- 2021-01-05 — Became Public Law No: 116-294.
+- 2021-01-05 — Became Public Law No: 116-294.
+- 2021-01-05 — Signed by President.
+- 2021-01-05 — Signed by President.
