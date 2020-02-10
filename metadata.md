@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4794
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4794
@@ -45,9 +45,10 @@ To designate the facility of the United States Postal Service located at 8320 13
 - Rep. Stefanik, Elise M. [R-NY-21] (S001196)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -61,3 +62,4 @@ To designate the facility of the United States Postal Service located at 8320 13
 - 2020-02-05 — Mrs. Lawrence moved to suspend the rules and pass the bill.
 - 2020-02-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H828)
 - 2020-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-02-10 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
