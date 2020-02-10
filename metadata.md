@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3830
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3830
@@ -41,3 +41,4 @@ Taxpayers Right-To-Know Act
 - 2020-02-05 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill, as amended.
 - 2020-02-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H808-810)
 - 2020-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-02-10 — Received in the Senate.
