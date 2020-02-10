@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Historically Black Colleges and Universities (HBCUs) Homeland Security Partnerships Act”.
 
-## § 2. Department-wide strategy for enhanced partnerships with historically Black colleges and universities and minority-serving institutions
+## § 2. Department-wide strategy for enhanced partnerships with historically black colleges and universities and minority-serving institutions
 
 Not later than 90 days after the date of the enactment of this Act, the Secretary, acting through the Under Secretary for Strategy, Policy, and Plans of the Department, shall—
 
@@ -21,7 +21,7 @@ Not later than 90 days after the date of the enactment of this Act, the Secretar
 - **(2)** require the head of each component of the Department to—
   - **(A)** not later than 150 days after the date of the issuance under paragraph (1) of the Department-wide strategy, develop a component-specific action plan to implement such strategy;
   - **(B)** monitor progress on such implementation; and
-  - **(C)** not later than one year after the date of such issuance, report to the Secretary regarding progress on such implementation.
+  - **(C)** not later than 1 year after the date of such issuance, report to the Secretary regarding progress on such implementation.
 
 ## § 3. Enhancement of research and development partnerships
 
@@ -35,12 +35,14 @@ The Secretary shall seek to enhance partnerships with historically Black college
 
 Not later than 120 days after the date of the enactment of this Act, the Secretary, acting through the Chief Human Capitol Officer of the Department, shall make available to historically Black colleges and universities and minority-serving institutions a current list of internship, fellowship, scholarship, and recruitment opportunities within the Department for students and recent graduates of such colleges, universities, and institutions.
 
-## § 5. Opportunities for 8(a) program partnerships
+## § 5. Acquisition partnerships
 
-- **(a)** *In general* Not later than 90 days after the date of the enactment of this Act, the Administrator of the Small Business Administration shall publish eligibility criteria on how historically Black colleges and universities and minority-serving institutions may qualify to participate in Federal acquisitions authorized pursuant to section 8(a) of the Small Business Act (15 U.S.C. 637(a); Public Law 85–536).
-- **(b)** *Department actions* Upon publication of eligibility criteria in accordance with subsection (a), the Secretary shall disseminate information to historically Black colleges and universities and minority-serving institutions regarding—
-  - **(1)** how to establish such eligibility; and
-  - **(2)** current and future opportunities to participate in Federal acquisitions authorized pursuant to section 8(a) of the Small Business Act.
+Not later than 120 days after the date of the enactment of this Act, the Secretary, acting through the Chief Procurement Officer of the Department, shall—
+
+- **(1)** identify how to increase the participation of historically Black colleges and universities and minority-serving institutions in Department acquisitions, including identifying existing opportunities for historically Black colleges and universities and minority-serving institutions to participate in the contracting program of the Small Business Administration for minorities; and
+- **(2)** disseminate to such colleges, universities, and institutions—
+  - **(A)** information identified in accordance with paragraph (1); and
+  - **(B)** current and future opportunities to participate in Department acquisitions.
 
 ## § 6. Annual report
 
@@ -59,7 +61,7 @@ Not later than 120 days after the date of the enactment of this Act, the Secreta
 In this Act:
 
 - **(1)** *Department* The term “Department” means the Department of Homeland Security.
-- **(2)** *Historically Black colleges and universities* The term “historically Black colleges and universities” means a part B institution described in section 322(2) of the Higher Education Act of 1965 (20 U.S.C. 1061(2)).
+- **(2)** *Historically black colleges and universities* The term “historically Black colleges and universities” means a part B institution described in section 322(2) of the Higher Education Act of 1965 (20 U.S.C. 1061(2)).
 - **(3)** *Institution of higher education* The term “institution of higher education” has the meaning given such term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
 - **(4)** *Minority-serving institutions* The term “minority-serving institutions” means an institution of higher education described in section 371(a) of the Higher Education Act of 1965 (20 U.S.C. 1067q(a)).
 - **(5)** *Secretary* The term “Secretary” means Secretary of Homeland Security.
