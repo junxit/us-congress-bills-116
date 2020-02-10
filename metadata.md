@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5273
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5273
@@ -45,3 +45,9 @@ Securing America's Ports Act
 - 2020-02-06 — Placed on the Union Calendar, Calendar No. 317.
 - 2020-02-06 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-394.
 - 2020-02-06 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-394.
+- 2020-02-10 — Considered under suspension of the rules. (consideration: CR H986-988)
+- 2020-02-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5273.
+- 2020-02-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-02-10 — Ms. Torres Small (NM) moved to suspend the rules and pass the bill, as amended.
+- 2020-02-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H987)
+- 2020-02-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
