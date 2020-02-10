@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5214
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5214
@@ -38,3 +38,12 @@ Representative Payee Fraud Prevention Act of 2019
 - 2020-02-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H806-807)
 - 2020-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
 - 2020-02-10 — Received in the Senate, read twice.
+- 2020-03-03 — Passed Senate without amendment by Voice Vote. (consideration: CR S1444)
+- 2020-03-03 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2020-03-04 — Message on Senate action sent to the House.
+- 2020-03-09 — Presented to President.
+- 2020-03-09 — Presented to President.
+- 2020-03-18 — Became Public Law No: 116-126.
+- 2020-03-18 — Became Public Law No: 116-126.
+- 2020-03-18 — Signed by President.
+- 2020-03-18 — Signed by President.
