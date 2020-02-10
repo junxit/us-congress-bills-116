@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3413
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -33,7 +33,7 @@ Section 701 of the Homeland Security Act of 2002 (6 U.S.C. 341) is amended by—
   >     - **(I)** Overseeing the Component Acquisition Executive organizational structure to ensure Component Acquisition Executives have sufficient capabilities and comply with Department acquisition policies.
   >   - **(3)** *Delegation of certain acquisition decision authority*
   >     - **(A)** *Level 3 acquisitions* The Under Secretary for Management may delegate acquisition decision authority to the relevant Component Acquisition Executive for an acquisition program that has a life cycle cost estimate of less than $300,000,000.
-  >     - **(B)** *Level 2 acquisitions* The Under Secretary for Management may delegate acquisition decision authority in writing to the relevant Component Acquisition Executive for a major acquisition program that has a life cycle cost estimate of at least $300,000 but not more than $1,000,000,000 if all of the following requirements are met:
+  >     - **(B)** *Level 2 acquisitions* The Under Secretary for Management may delegate acquisition decision authority in writing to the relevant Component Acquisition Executive for a major acquisition program that has a life cycle cost estimate of at least $300,000,000 but not more than $1,000,000,000 if all of the following requirements are met:
   >       - **(i)** The component concerned possesses working policies, processes, and procedures that are consistent with Department-level acquisition policy.
   >       - **(ii)** The Component Acquisition Executive concerned has adequate, experienced, and dedicated professional employees with program management training, as applicable, commensurate with the size of the acquisition programs and related activities delegated to such Component Acquisition Executive by the Under Secretary for Management.
   >       - **(iii)** Each major acquisition program concerned has written documentation showing that it has a Department-approved acquisition program baseline and it is meeting agreed-upon cost, schedule, and performance thresholds.
