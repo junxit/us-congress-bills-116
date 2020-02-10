@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2382
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2382
@@ -343,3 +343,4 @@ USPS Fairness Act
 - 2020-02-05 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
 - 2020-02-05 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 309 - 106 (Roll no. 37). (text: CR H811)
 - 2020-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 309 - 106 (Roll no. 37).
+- 2020-02-10 — Received in the Senate.
