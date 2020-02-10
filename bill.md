@@ -37,4 +37,4 @@ This Act may be cited as the “Department of Homeland Security Climate Change R
 
 ## § 3. Report to Congress
 
-Not later than one year after the date of the enactment of this Act and annually thereafter for three years, the Under Secretary for Science and Technology of the Department of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on any research and development activities carried out pursuant to section 321 of the Homeland Security Act of 2002, as added by this Act.
+Not later than 1 year after the date of the enactment of this Act and annually thereafter for 3 years, the Under Secretary for Science and Technology of the Department of Homeland Security shall submit to the Committee on Homeland Security and the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on any research and development activities carried out pursuant to section 321 of the Homeland Security Act of 2002, as added by this Act.
