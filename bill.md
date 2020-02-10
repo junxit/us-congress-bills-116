@@ -2,7 +2,7 @@
 legis-num: H.R. 3941
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 3941
@@ -80,7 +80,7 @@ This Act may be cited as the “Federal Risk and Authorization Management Progra
   >   - **(4)** to the extent practicable, for any cloud computing product or service the agency seeks to authorize that has received either a provisional authorization to operate by the Joint Authorization Board or a FedRAMP authorization by the FedRAMP Program Management Office, use the existing assessments of security controls and materials within the authorization package; and
   >   - **(5)** provide data and information required to the Director pursuant to section 3612 to determine how agencies are meeting metrics as defined by the FedRAMP Program Management Office.
   > - **(b)** *Submission of policies required* Not later than 6 months after the date of the enactment of this section, the head of each agency shall submit to the Director the policies created pursuant to subsection (a)(1) for review and approval.
-  > - **(c)** *Submission of authorizations to operate required* Upon issuance of an authorization to operate or a provisional authorization to operate issued by an agency, the head of each agency shall provide a copy of the authorization to operate letter and any supplementary information required pursuant to section 3608(b) to the FedRAMP Program Management Office.
+  > - **(c)** *Submission of authorizations To operate required* Upon issuance of an authorization to operate or a provisional authorization to operate issued by an agency, the head of each agency shall provide a copy of the authorization to operate letter and any supplementary information required pursuant to section 3608(b) to the FedRAMP Program Management Office.
   > - **(d)** *Presumption of adequacy*
   >   - **(1)** *In general* The assessment of security controls and materials within the authorization package for provisional authorizations to operate issued by the Joint Authorization Board and agency authorizations to operate that receive FedRAMP authorization from the FedRAMP Program Management Office shall be presumed adequate for use in agency authorizations of cloud computing products and services.
   >   - **(2)** *Information security requirements* The presumption under paragraph (1) does not modify or alter the responsibility of any agency to ensure compliance with subchapter II of chapter 35 for any cloud computing products or services used by the agency.
@@ -129,18 +129,18 @@ This Act may be cited as the “Federal Risk and Authorization Management Progra
   > - **(b)** *Members*
   >   - **(1)** *Composition* The Committee shall be comprised of not more than 15 members who are qualified representatives from the public and private sectors, appointed by the Administrator, in consultation with the Administrator of the Office of Electronic Government, as follows:
   >     - **(A)** The Administrator or the Administrator’s designee, who shall be the Chair of the Committee.
-  >     - **(B)** At least 1 representative each from the Cybersecurity and Infrastructure Security Agency and the National Institute of Standards and Technology.
-  >     - **(C)** At least 2 officials who serve as the Chief Information Security Officer within an agency, who shall be required to maintain such a position throughout the duration of their service on the Committee.
-  >     - **(D)** At least 1 official serving as Chief Procurement Officer (or equivalent) in an agency, who shall be required to maintain such a position throughout the duration of their service on the Committee.
-  >     - **(E)** At least 1 individual representing an independent assessment organization.
-  >     - **(F)** No fewer than 5 representatives from unique businesses that primarily provide cloud computing services or products, including at least 2 representatives from a small business (as defined by section 3(a) of the Small Business Act (15 U.S.C. 632(a))).
-  >     - **(G)** At least 2 other government representatives as the Administrator determines to be necessary to provide sufficient balance, insights, or expertise to the Committee.
+  >     - **(B)** At least one representative each from the Cybersecurity and Infrastructure Security Agency and the National Institute of Standards and Technology.
+  >     - **(C)** At least two officials who serve as the Chief Information Security Officer within an agency, who shall be required to maintain such a position throughout the duration of their service on the Committee.
+  >     - **(D)** At least one official serving as Chief Procurement Officer (or equivalent) in an agency, who shall be required to maintain such a position throughout the duration of their service on the Committee.
+  >     - **(E)** At least one individual representing an independent assessment organization.
+  >     - **(F)** No fewer than five representatives from unique businesses that primarily provide cloud computing services or products, including at least two representatives from a small business (as defined by section 3(a) of the Small Business Act (15 U.S.C. 632(a))).
+  >     - **(G)** At least two other government representatives as the Administrator determines to be necessary to provide sufficient balance, insights, or expertise to the Committee.
   >   - **(2)** *Deadline for appointment* Each member of the Committee shall be appointed not later than 30 days after the date of the enactment of this Act.
   >   - **(3)** *Period of appointment; vacancies*
   >     - **(A)** *In general* Each non-Federal member of the Committee shall be appointed for a term of 3 years, except that the initial terms for members may be staggered 1, 2, or 3 year terms to establish a rotation in which one-third of the members are selected each year. Any such member may be appointed for not more than 2 consecutive terms.
   >     - **(B)** *Vacancies* Any vacancy in the Committee shall not affect its powers, but shall be filled in the same manner in which the original appointment was made. Any member appointed to fill a vacancy occurring before the expiration of the term for which the member’s predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member’s term until a successor has taken office.
   > - **(c)** *Meetings and rules of procedures*
-  >   - **(1)** *Meetings* The Committee shall hold not fewer than 3 meetings in a calendar year, at such time and place as determined by the Chair.
+  >   - **(1)** *Meetings* The Committee shall hold not fewer than three meetings in a calendar year, at such time and place as determined by the Chair.
   >   - **(2)** *Initial meeting* Not later than 120 days after the date of the enactment of this section, the Committee shall meet and begin the operations of the Committee.
   >   - **(3)** *Rules of procedure* The Committee may establish rules for the conduct of the business of the Committee, if such rules are not inconsistent with this section or other applicable law.
   > - **(d)** *Employee status*
@@ -152,9 +152,7 @@ This Act may be cited as the “Federal Risk and Authorization Management Progra
   > - **(h)** *Information from federal agencies*
   >   - **(1)** *In general* The Committee is authorized to secure directly from any executive department, bureau, agency, board, commission, office, independent establishment, or instrumentality of the Government, information, suggestions, estimates, and statistics for the purposes of the Committee. Each department, bureau, agency, board, commission, office, independent establishment, or instrumentality shall, to the extent authorized by law, furnish such information, suggestions, estimates, and statistics directly to the Committee, upon request made by the Chair, the Chair of any subcommittee created by a majority of the Committee, or any member designated by a majority of the Committee.
   >   - **(2)** *Receipt, handling, storage, and dissemination* Information may only be received, handled, stored, and disseminated by members of the Committee and its staff consistent with all applicable statutes, regulations, and Executive orders.
-  > - **(i)** *Assistance from agencies*
-  >   - **(1)** *Other departments and agencies* In addition to the administration of the Committee by the General Services Administration, other agencies may provide to the Committee such services, funds, facilities, staff, and other support services as the head of the agency determines to be advisable and as is authorized by law.
-  >   - **(2)** *Detail of employees* Any Federal Government employee may be detailed to the Committee without reimbursement from the Committee, and such detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.
+  > - **(i)** *Detail of employees* Any Federal Government employee may be detailed to the Committee without reimbursement from the Committee, and such detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.
   > - **(j)** *Postal services* The Committee may use the United States mails in the same manner and under the same conditions as agencies.
   > - **(k)** *Expert and consultant services* The Committee is authorized to procure the services of experts and consultants in accordance with section 3109 of title 5, but at rates not to exceed the daily rate paid a person occupying a position at Level IV of the Executive Schedule under section 5315 of title 5.
   > - **(l)** *Reports*

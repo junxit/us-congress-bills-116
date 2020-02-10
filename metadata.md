@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3941
 congress: 116
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3941
@@ -21,9 +21,10 @@ FedRAMP Authorization Act
 - Rep. Meadows, Mark [R-NC-11] (M001187)
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ FedRAMP Authorization Act
 - 2020-02-05 — Placed on the Union Calendar, Calendar No. 315.
 - 2020-02-05 — Reported (Amended) by the Committee on Oversight and Reform. H. Rept. 116-391.
 - 2020-02-05 — Reported (Amended) by the Committee on Oversight and Reform. H. Rept. 116-391.
+- 2020-02-10 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
