@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4275
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4275
@@ -20,9 +20,10 @@ To amend the Federal Water Pollution Control Act to reauthorize the Lake Pontcha
 
 - Rep. Richmond, Cedric L. [D-LA-2] (R000588)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ To amend the Federal Water Pollution Control Act to reauthorize the Lake Pontcha
 - 2020-02-05 — Mrs. Napolitano moved to suspend the rules and pass the bill, as amended.
 - 2020-02-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H805)
 - 2020-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-02-10 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
