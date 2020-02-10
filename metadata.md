@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1132
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1132
@@ -56,3 +56,4 @@ San Francisco Bay Restoration Act
 - 2020-02-05 — Mrs. Napolitano moved to suspend the rules and pass the bill, as amended.
 - 2020-02-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H785-786)
 - 2020-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-02-10 — Received in the Senate.
