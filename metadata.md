@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2247
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2247
@@ -25,9 +25,10 @@ PUGET SOS Act
 - Rep. Jayapal, Pramila [D-WA-7] (J000298)
 - Rep. Schrier, Kim [D-WA-8] (S001216)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ PUGET SOS Act
 - 2020-02-05 — Mrs. Napolitano moved to suspend the rules and pass the bill, as amended.
 - 2020-02-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H788-791)
 - 2020-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-02-10 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
