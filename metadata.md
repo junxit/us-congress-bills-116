@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4432
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4432
@@ -34,3 +34,9 @@ Protecting Critical Infrastructure Against Drones and Emerging Threats Act
 - 2019-11-22 — Placed on the Union Calendar, Calendar No. 250.
 - 2019-11-22 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-309.
 - 2019-11-22 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-309.
+- 2020-02-10 — Considered under suspension of the rules. (consideration: CR H993-994)
+- 2020-02-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4432.
+- 2020-02-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-02-10 — Ms. Torres Small (NM) moved to suspend the rules and pass the bill, as amended.
+- 2020-02-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H993)
+- 2020-02-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.

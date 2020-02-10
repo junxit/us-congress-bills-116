@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4432
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -19,7 +19,7 @@ This Act may be cited as the “Protecting Critical Infrastructure Against Drone
   - **(1)** in consultation with other relevant officials of the Department, request additional information from other agencies of the Federal Government, State and local government agencies, and the private sector relating to threats of unmanned aircraft systems and other emerging threats associated with such new technologies;
   - **(2)** in consultation with relevant officials of the Department and other appropriate agencies of the Federal Government, develop and disseminate a security threat assessment regarding unmanned aircraft systems and other emerging threats associated with such new technologies; and
   - **(3)** establish and utilize, in conjunction with the Chief Information Officer of the Department and other relevant entities, a secure communications and information technology infrastructure, including data-mining and other advanced analytical tools, in order to access, receive, and analyze data and information in furtherance of the responsibilities under this section, including by establishing a voluntary mechanism whereby critical infrastructure owners and operators may report information on emerging threats, such as the threat posed by unmanned aircraft systems.
-- **(b)** *Report* Not later than one year after the date of the enactment of this Act, the Under Secretary for Intelligence and Analysis of the Department of Homeland Security shall prepare a threat assessment and report to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate on the threat posed by unmanned aircraft systems, including information collected from critical infrastructure owners and operators and Federal, State, and local government agencies. Such assessment and report shall also include a classified plan to mitigate such threat, as appropriate.
+- **(b)** *Report* Not later than 1 year after the date of the enactment of this Act, the Under Secretary for Intelligence and Analysis of the Department of Homeland Security shall prepare a threat assessment and report to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate on the threat posed by unmanned aircraft systems, including information collected from critical infrastructure owners and operators and Federal, State, and local government agencies. Such assessment and report shall also include a classified plan to mitigate such threat, as appropriate.
 - **(c)** *Definitions*
   - **(1)** *Critical infrastructure* The term “critical infrastructure” has the meaning given such term in section 1016(e) of Public Law 107–56 (42 U.S.C. 5195c(e)).
   - **(2)** *Unmanned aircraft system* The term “unmanned aircraft system” has the meaning given such term in section 331 of the FAA Modernization and Reform Act of 2012 (49 U.S.C. 40101 note; Public Law 112–95).
