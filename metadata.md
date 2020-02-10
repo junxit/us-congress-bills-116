@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3317
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3317
@@ -22,9 +22,10 @@ To permit the Scipio A. Jones Post Office in Little Rock, Arkansas, to accept an
 - Rep. Westerman, Bruce [R-AR-4] (W000821)
 - Rep. Womack, Steve [R-AR-3] (W000809)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ To permit the Scipio A. Jones Post Office in Little Rock, Arkansas, to accept an
 - 2020-02-05 — Mrs. Lawrence moved to suspend the rules and pass the bill.
 - 2020-02-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H831)
 - 2020-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-02-10 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
