@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1620
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1620
@@ -38,9 +38,10 @@ Chesapeake Bay Program Reauthorization Act
 - Rep. Wexton, Jennifer [D-VA-10] (W000825)
 - Rep. Beyer, Donald S., Jr. [D-VA-8] (B001292)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -60,3 +61,4 @@ Chesapeake Bay Program Reauthorization Act
 - 2020-02-05 — Mrs. Napolitano moved to suspend the rules and pass the bill, as amended.
 - 2020-02-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H796)
 - 2020-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-02-10 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
