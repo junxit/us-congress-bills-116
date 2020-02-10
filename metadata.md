@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4031
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4031
@@ -68,9 +68,10 @@ GLRI Act of 2019
 - Rep. Craig, Angie [D-MN-2] (C001119)
 - Rep. Johnson, Bill [R-OH-6] (J000292)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -96,3 +97,4 @@ GLRI Act of 2019
 - 2020-02-05 — Mrs. Napolitano moved to suspend the rules and pass the bill.
 - 2020-02-05 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 373 - 45 (Roll no. 36). (text: CR H799)
 - 2020-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 373 - 45 (Roll no. 36).
+- 2020-02-10 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
