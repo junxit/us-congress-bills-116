@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5214
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5214
@@ -37,3 +37,4 @@ Representative Payee Fraud Prevention Act of 2019
 - 2020-02-05 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
 - 2020-02-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H806-807)
 - 2020-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-02-10 — Received in the Senate, read twice.
