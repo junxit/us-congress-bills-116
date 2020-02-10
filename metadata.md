@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3413
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3413
@@ -25,6 +25,10 @@ DHS Acquisition Reform Act of 2019
 
 - House — Homeland Security Committee
 
+## Recorded votes (1)
+
+- 2020-02-10 — [House 116-2-56](votes/house-116-2-0056.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (380–4)
+
 ## Actions
 
 - 2019-06-21 — Introduced in House
@@ -37,3 +41,11 @@ DHS Acquisition Reform Act of 2019
 - 2019-08-30 — Placed on the Union Calendar, Calendar No. 148.
 - 2019-08-30 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-190.
 - 2019-08-30 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-190.
+- 2020-02-10 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2020-02-10 — Considered as unfinished business. (consideration: CR H1000)
+- 2020-02-10 — Considered under suspension of the rules. (consideration: CR H995-997)
+- 2020-02-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3413.
+- 2020-02-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-02-10 — Ms. Torres Small (NM) moved to suspend the rules and pass the bill, as amended.
+- 2020-02-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 380 - 4 (Roll no. 56). (text: CR H995-997)
+- 2020-02-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 380 - 4 (Roll no. 56).
