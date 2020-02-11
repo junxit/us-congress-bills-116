@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5687
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5687
@@ -92,3 +92,5 @@ Emergency Supplemental Appropriations for Disaster Relief and Puerto Rico Disast
 - 2020-02-07 — The previous question on the motion to recommit was ordered without objection.
 - 2020-02-07 — The previous question was ordered pursuant to the rule.
 - 2020-02-07 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier and on which further proceedings had been postponed.
+- 2020-02-10 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2020-02-11 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 416.
