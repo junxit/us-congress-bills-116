@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4753
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4753
@@ -25,9 +25,10 @@ Drone Origin Security Enhancement Act
 - Rep. Mast, Brian J. [R-FL-18] (M001199)
 - Rep. Johnson, Mike [R-LA-4] (J000299)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Drone Origin Security Enhancement Act
 - 2020-02-10 — Ms. Torres Small (NM) moved to suspend the rules and pass the bill.
 - 2020-02-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H994)
 - 2020-02-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-02-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
