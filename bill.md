@@ -1,0 +1,24 @@
+---
+legis-num: S. 3268
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3268
+
+> To direct the Comptroller General of the United States to conduct a study to evaluate the failures and total system breakdown of the 2020 Iowa caucuses, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Determining Election Blunders And Correcting Logical Errors Act”.
+
+## § 2. GAO study on the failures and total system breakdown of the 2020 Iowa caucuses
+
+- **(a)** *In general* Not later than 60 days after the date of enactment of this Act, the Comptroller General of the United States (in this section referred to as the “Comptroller General”) shall initiate a study of—
+  - **(1)** mismanagement by State party leaders overseeing the 2020 Iowa caucuses;
+  - **(2)** the degree to which top-down decision making by the Democratic National Committee contributed to the failures of the 2020 Iowa caucuses;
+  - **(3)** whether actions by State party leaders and the Democratic National Committee contributed to cyber vulnerabilities in the technology employed for the 2020 Iowa caucuses;
+  - **(4)** the extent to which the 2020 Iowa caucuses have shaken the public’s faith and confidence in the Iowa election system; and
+  - **(5)** the potential dangers in changing election technology and methods from existing approaches.
+- **(b)** *Report* Not later than 6 months after initiating the study required by subsection (a), the Comptroller General shall submit to the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives a report on the results of the study that sets forth the findings, conclusions, and recommendations, if any, of the study.
