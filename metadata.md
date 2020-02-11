@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4432
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4432
@@ -20,9 +20,10 @@ Protecting Critical Infrastructure Against Drones and Emerging Threats Act
 
 - Rep. Katko, John [R-NY-24] (K000386)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Protecting Critical Infrastructure Against Drones and Emerging Threats Act
 - 2020-02-10 — Ms. Torres Small (NM) moved to suspend the rules and pass the bill, as amended.
 - 2020-02-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H993)
 - 2020-02-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-02-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
