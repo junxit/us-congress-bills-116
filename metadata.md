@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1494
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1494
@@ -39,10 +39,11 @@ Historically Black Colleges and Universities (HBCUs) Homeland Security Partnersh
 - Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
 - Rep. Underwood, Lauren [D-IL-14] (U000040)
 
-## Committees (2)
+## Committees (3)
 
 - House — Small Business Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -65,3 +66,4 @@ Historically Black Colleges and Universities (HBCUs) Homeland Security Partnersh
 - 2020-02-10 — Ms. Torres Small (NM) moved to suspend the rules and pass the bill, as amended.
 - 2020-02-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H981)
 - 2020-02-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-02-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
