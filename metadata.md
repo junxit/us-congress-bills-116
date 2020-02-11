@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3413
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3413
@@ -21,9 +21,10 @@ DHS Acquisition Reform Act of 2019
 - Rep. Rogers, Mike D. [R-AL-3] (R000575)
 - Rep. Hagedorn, Jim [R-MN-1] (H001088)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ DHS Acquisition Reform Act of 2019
 - 2020-02-10 — Ms. Torres Small (NM) moved to suspend the rules and pass the bill, as amended.
 - 2020-02-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 380 - 4 (Roll no. 56). (text: CR H995-997)
 - 2020-02-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 380 - 4 (Roll no. 56).
+- 2020-02-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
