@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 842
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 842
@@ -25,3 +25,5 @@ Requiring an affirmative vote of a majority of the Members present and voting, a
 - 2020-02-10 — Introduced in House
 - 2020-02-10 — Introduced in House
 - 2020-02-10 — Referred to the House Committee on Rules.
+- 2020-02-11 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 844, H. Res. 842 is considered passed House.(consideration: CR H1044; text: CR H1044)
+- 2020-02-11 — Pursuant to the provisions of H. Res. 844, H. Res. 842 is considered passed House. (consideration: CR H1044; text: CR H1044)
