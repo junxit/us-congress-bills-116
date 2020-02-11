@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4737
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4737
@@ -21,9 +21,10 @@ Department of Homeland Security Climate Change Research Act
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. Underwood, Lauren [D-IL-14] (U000040)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Department of Homeland Security Climate Change Research Act
 - 2020-02-10 — Ms. Torres Small (NM) moved to suspend the rules and pass the bill, as amended.
 - 2020-02-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H991-992)
 - 2020-02-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-02-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
