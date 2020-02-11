@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2932
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2932
@@ -22,10 +22,11 @@ Homeland Security for Children Act
 - Rep. King, Peter T. [R-NY-2] (K000210)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -55,3 +56,4 @@ Homeland Security for Children Act
 - 2020-02-10 — Ms. Torres Small (NM) moved to suspend the rules and pass the bill, as amended.
 - 2020-02-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 374 - 11 (Roll no. 55). (text: CR H990)
 - 2020-02-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 374 - 11 (Roll no. 55).
+- 2020-02-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
