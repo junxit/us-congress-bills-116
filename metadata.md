@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1980
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1980
@@ -337,3 +337,11 @@ Smithsonian Women's History Museum Act
 - 2019-11-13 — Placed on the Union Calendar, Calendar No. 230.
 - 2019-11-13 — Reported (Amended) by the Committee on House Administration. H. Rept. 116-286, Part I.
 - 2019-11-13 — Reported (Amended) by the Committee on House Administration. H. Rept. 116-286, Part I.
+- 2020-02-11 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2020-02-11 — Considered as unfinished business. (consideration: CR H1037)
+- 2020-02-11 — Considered under suspension of the rules. (consideration: CR H1029-1035)
+- 2020-02-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1980.
+- 2020-02-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-02-11 — Ms. Lofgren moved to suspend the rules and pass the bill, as amended.
+- 2020-02-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 374 - 37 (Roll no. 59). (text: CR H1029-1031)
+- 2020-02-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 374 - 37 (Roll no. 59).
