@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5273
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5273
@@ -28,9 +28,10 @@ Securing America's Ports Act
 - Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
 - Rep. Lesko, Debbie [R-AZ-8] (L000589)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Securing America's Ports Act
 - 2020-02-10 — Ms. Torres Small (NM) moved to suspend the rules and pass the bill, as amended.
 - 2020-02-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H987)
 - 2020-02-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-02-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
