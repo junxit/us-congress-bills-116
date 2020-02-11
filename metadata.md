@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 491
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 491
@@ -42,3 +42,7 @@ A resolution designating the week beginning February 2, 2020, as "National Triba
 
 - 2020-02-05 — Introduced in Senate
 - 2020-02-05 — Referred to the Committee on the Judiciary.
+- 2020-02-11 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.(text: 02/05/2020 CR S943-944)
+- 2020-02-11 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (text: 02/05/2020 CR S943-944)
+- 2020-02-11 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2020-02-11 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S997)
