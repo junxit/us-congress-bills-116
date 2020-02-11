@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1980
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -59,7 +59,7 @@ Congress finds the following:
   - **(2)** *Voting members* The council shall include the following voting members:
     - **(A)** The Secretary of the Smithsonian Institution.
     - **(B)** One member of the Board of Regents, appointed by the Board of Regents.
-    - **(C)** 23 individuals appointed by the Board of Regents. In appointing members under this subparagraph, the Board of Regents should give special consideration to appointing—
+    - **(C)** 23 individuals appointed by the Board or Regents. In appointing members under this subparagraph, the Board of Regents should give special consideration to appointing—
       - **(i)** members of the Congressional Commission;
       - **(ii)** board members of the National Women’s History Museum, a nonprofit, educational organization described in section 501(c)(3) of the Internal Revenue Code of 1986 that was incorporated in 1996 in the District of Columbia and that is dedicated for the purpose of establishing a women’s history museum; and
       - **(iii)** scholars and representatives of organizations that are committed to the study of women’s history.
@@ -104,8 +104,8 @@ Congress finds the following:
   - **(1)** *Location*
     - **(A)** *In general* Not later than 6 months after the date of the enactment of this Act, the Board of Regents shall designate a site for the museum established under section 3.
     - **(B)** *Sites for consideration* In designating a site under subparagraph (A), the Board of Regents shall select from among the following sites in the District of Columbia:
-      - **(i)** The site known as the “South Monument site”, located on the National Mall and bordered by 14th Street Northwest, Jefferson Drive Southwest, Raoul Wallenberg Place Southwest, and Independence Avenue Southwest.
-      - **(ii)** The Northwest United States Capitol site, bordered by 3rd Street Northwest, Constitution Avenue Northwest, 1st Street Northwest, and Pennsylvania Avenue Northwest.
+      - **(i)** The site known as the “South Monument site”, located on the National Mall and bordered by 14th Street Northwest, Jefferson Drive Southwest, Raoul Wallenberg Place Southwest, and Independence Ave Southwest.
+      - **(ii)** The Northwest United States Capitol site, bordered by 3rd Street Northwest, Constitution Avenue Northwest, 1st Street Northwest, and Pennsylvania Ave Northwest.
       - **(iii)** Any other appropriate location as identified by the Board of Regents in consultation with the council established under section 4.
     - **(C)** *Availability of site*
       - **(i)** *In general* The sites described in clauses (i) and (ii) of subparagraph (B) shall remain available until the date on which the Board of Regents designates a site for the museum under subparagraph (A).
@@ -137,6 +137,6 @@ In this Act, the following definitions apply:
 
 ## § 9. Authorization of appropriations
 
-- **(a)** *In general* There are authorized to be appropriated to the Smithsonian Institution to carry out this Act, including the planning, design, construction, and operation of the museum established under section 3, such sums as may be necessary for fiscal year 2020 and each succeeding fiscal year.
+- **(a)** *In general* There are authorized to be appropriated to the Smithsonian Institution to carry out this Act, including the planning, design, construction, and operation of the museum established under section 3, such sums as may be necessary for fiscal year 2021 and each succeeding fiscal year.
 - **(b)** *Availability* Amounts appropriated pursuant to the authorization under this section shall remain available until expended.
 - **(c)** *Use of funds for fundraising* Amounts appropriated pursuant to the authorization under this section may be used to conduct fundraising in support of the museum established under section 3 from private sources.
