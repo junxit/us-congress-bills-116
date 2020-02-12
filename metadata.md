@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1365
 congress: 116
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1365
@@ -47,3 +47,13 @@ To make technical corrections to the Guam World War II Loyalty Recognition Act.
 - 2019-07-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7351)
 - 2019-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7351)
 - 2019-07-25 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2020-02-12 — Amendment SA 1323 agreed to in Senate by Unanimous Consent.
+- 2020-02-12 — Amendment SA 1323 proposed by Senator Cramer for Senator Graham. (consideration: CR S1045; text: CR S1045) In the nature of a substitute.
+- 2020-02-12 — Measure laid before Senate by unanimous consent. (consideration: CR S1045)
+- 2020-02-12 — Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: CR S1045)
+- 2020-02-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2020-02-12 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2020-02-12 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2020-02-12 — Senate amendment agreed to: Amendment SA 1323 agreed to in Senate by Unanimous Consent.
+- 2020-02-12 — Senate amendment proposed (on the floor): Amendment SA 1323 proposed by Senator Cramer for Senator Graham.
+- 2020-02-12 — Senate amendment submitted
