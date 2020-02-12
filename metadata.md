@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1980
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1980
@@ -312,11 +312,12 @@ Smithsonian Women's History Museum Act
 - Rep. Guthrie, Brett [R-KY-2] (G000558)
 - Rep. Gonzalez, Anthony [R-OH-16] (G000588)
 
-## Committees (3)
+## Committees (4)
 
 - House — Transportation and Infrastructure Committee
 - House — Natural Resources Committee
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -345,3 +346,4 @@ Smithsonian Women's History Museum Act
 - 2020-02-11 — Ms. Lofgren moved to suspend the rules and pass the bill, as amended.
 - 2020-02-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 374 - 37 (Roll no. 59). (text: CR H1029-1031)
 - 2020-02-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 374 - 37 (Roll no. 59).
+- 2020-02-12 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
