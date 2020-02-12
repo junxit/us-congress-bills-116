@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 68
 congress: 116
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 68
@@ -16,11 +16,41 @@ A joint resolution to direct the removal of United States Armed Forces from host
 
 - Sen. Kaine, Tim [D-VA] (K000384)
 
-## Cosponsors (3)
+## Cosponsors (33)
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Lee, Mike [R-UT] (L000577)
 - Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Perdue, David [R-GA] (P000612)
 
 ## Committees (1)
 
@@ -30,3 +60,65 @@ A joint resolution to direct the removal of United States Armed Forces from host
 
 - 2020-01-09 — Introduced in Senate
 - 2020-01-09 — Read twice and referred to the Committee on Foreign Relations.
+- 2020-02-11 — Referred to the Committee on Foreign Relations.
+- 2020-02-11 — Referred to the Committee on Foreign Relations.
+- 2020-02-11 — Referred to the Committee on Foreign Relations.
+- 2020-02-11 — Referred to the Committee on Foreign Relations.
+- 2020-02-11 — Referred to the Committee on Foreign Relations.
+- 2020-02-11 — Referred to the Committee on Foreign Relations.
+- 2020-02-11 — Referred to the Committee on Foreign Relations.
+- 2020-02-11 — Referred to the Committee on Foreign Relations.
+- 2020-02-11 — Referred to the Committee on Foreign Relations.
+- 2020-02-11 — Referred to the Committee on Foreign Relations.
+- 2020-02-11 — Referred to the Committee on Foreign Relations.
+- 2020-02-11 — Referred to the Committee on Foreign Relations.
+- 2020-02-11 — Referred to the Committee on Foreign Relations.
+- 2020-02-11 — Referred to the Committee on Foreign Relations.
+- 2020-02-11 — Referred to the Committee on Foreign Relations.
+- 2020-02-11 — Senate amendment submitted
+- 2020-02-11 — Senate amendment submitted
+- 2020-02-11 — Senate amendment submitted
+- 2020-02-11 — Senate amendment submitted
+- 2020-02-11 — Senate amendment submitted
+- 2020-02-11 — Senate amendment submitted
+- 2020-02-11 — Senate amendment submitted
+- 2020-02-11 — Senate amendment submitted
+- 2020-02-11 — Senate amendment submitted
+- 2020-02-11 — Senate amendment submitted
+- 2020-02-11 — Senate amendment submitted
+- 2020-02-11 — Senate amendment submitted
+- 2020-02-11 — Senate amendment submitted
+- 2020-02-11 — Senate amendment submitted
+- 2020-02-11 — Senate amendment submitted
+- 2020-02-12 — Amendment SA 1301 proposed by Senator Cramer for Senator Cruz. (consideration: CR S1036; text: CR S1036) To amend the findings.
+- 2020-02-12 — Amendment SA 1305 proposed by Senator Cramer for Senator Cotton. (consideration: CR S1036; text: CR S1036) To exempt from the termination requirement United States Armed Forces engaged in operations directed at designated terrorist organizations.
+- 2020-02-12 — Amendment SA 1314 proposed by Senator Cramer for Senator Risch. (consideration: CR S1036; text: CR S1036) To amend the findings.
+- 2020-02-12 — Amendment SA 1319 proposed by Senator Cramer for Senator Sullivan. (consideration: CR S1036; text: CR S1036) To amend the rule of construction.
+- 2020-02-12 — Amendment SA 1320 proposed by Senator Cramer for Senator Rubio. (consideration: CR S1036; text: CR S1036) To amend the findings.
+- 2020-02-12 — Amendment SA 1322 proposed by Senator Cramer for Senator Reed. (consideration: CR S1036; text: CR S1036) To amend the findings.
+- 2020-02-12 — Measure laid before Senate by motion. (consideration: CR S1012-1015, S1018, S1021-1030, S1033-1036)
+- 2020-02-12 — Motion to discharge Senate Committee on Foreign Relations made.
+- 2020-02-12 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 51 - 45. Record Vote Number: 45. (consideration: CR S1006-1012)
+- 2020-02-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 421.
+- 2020-02-12 — Referred to the Committee on Foreign Relations.
+- 2020-02-12 — Referred to the Committee on Foreign Relations.
+- 2020-02-12 — Referred to the Committee on Foreign Relations.
+- 2020-02-12 — Referred to the Committee on Foreign Relations.
+- 2020-02-12 — Referred to the Committee on Foreign Relations.
+- 2020-02-12 — Senate Committee on Foreign Relations discharged by Voice Vote. (Pursuant to 50 U.S.C. 1546a).
+- 2020-02-12 — Senate Committee on Foreign Relations discharged by Voice Vote. (Pursuant to 50 U.S.C. 1546a).
+- 2020-02-12 — Senate amendment proposed (on the floor): Amendment SA 1301 proposed by Senator Cramer for Senator Cruz.
+- 2020-02-12 — Senate amendment proposed (on the floor): Amendment SA 1305 proposed by Senator Cramer for Senator Cotton.
+- 2020-02-12 — Senate amendment proposed (on the floor): Amendment SA 1314 proposed by Senator Cramer for Senator Risch.
+- 2020-02-12 — Senate amendment proposed (on the floor): Amendment SA 1319 proposed by Senator Cramer for Senator Sullivan.
+- 2020-02-12 — Senate amendment proposed (on the floor): Amendment SA 1320 proposed by Senator Cramer for Senator Rubio.
+- 2020-02-12 — Senate amendment proposed (on the floor): Amendment SA 1322 proposed by Senator Cramer for Senator Reed.
+- 2020-02-12 — Senate amendment submitted
+- 2020-02-12 — Senate amendment submitted
+- 2020-02-12 — Senate amendment submitted
+- 2020-02-12 — Senate amendment submitted
+- 2020-02-12 — Senate amendment submitted
+- 2020-02-12 — Senate amendment submitted
+- 2020-02-12 — Senate amendment submitted
+- 2020-02-12 — Senate amendment submitted
+- 2020-02-12 — Senate amendment submitted
