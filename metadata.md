@@ -1,7 +1,7 @@
 ---
 measure: S. 490
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 490
@@ -33,3 +33,5 @@ B-47 Ridge Designation Act
 - 2019-12-17 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. Without written report.
 - 2019-12-17 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. Without written report.
 - 2019-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 343.
+- 2020-02-12 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S1045; text: CR S1045)
+- 2020-02-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.

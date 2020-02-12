@@ -1,7 +1,7 @@
 ---
 legis-num: S. 490
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -16,8 +16,11 @@ This Act may be cited as the “B–47 Ridge Designation Act”.
 ## § 2. Designation of B–47 Ridge, Montana
 
 - **(a)** *Designation*
-  - **(1)** *In general* The unnamed mountain ridge located at 45°14′40.89″N, 110°43′38.75″W that runs south and west of Emigrant Peak in the Absaroka Range in the State of Montana, which is the approximate site of a crash of a B–47, shall be known and designated as “B–47 Ridge”.
+  - **(1)** *In general* The unnamed mountain ridge located at 45°14′40.89″ N., 110°43′38.75″ W. that runs south and west of Emigrant Peak in the Absaroka Range in the State of Montana, which is the approximate site of a crash of a B–47, shall be known and designated as “B–47 Ridge”.
   - **(2)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the ridge described in paragraph (1) shall be deemed to be a reference to “B–47 Ridge”.
 - **(b)** *Authorization for plaque*
-  - **(1)** *In general* A plaque that memorializes the crash of the B–47 (including denoting the names of the victims of the crash) may be installed on B–47 Ridge.
-  - **(2)** *Funding* No Federal funds may be used to design, procure, install, or maintain the plaque authorized under paragraph (1).
+  - **(1)** *In general* The Secretary of Agriculture may authorize the installation and maintenance of a plaque on B–47 Ridge that—
+    - **(A)** memorializes the 1962 crash of the B–47 aircraft at the site; and
+    - **(B)** may include the names of the victims of the crash.
+  - **(2)** *Authorized terms and conditions* The Secretary of Agriculture may include any terms and conditions in the authorization for a plaque under paragraph (1) that the Secretary of Agriculture determines to be necessary.
+  - **(3)** *Funding* No Federal funds may be used to design, procure, install, or maintain the plaque authorized under paragraph (1).
