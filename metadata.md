@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 79
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.J.Res. 79
