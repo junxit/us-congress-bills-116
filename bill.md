@@ -1,0 +1,27 @@
+---
+legis-num: S. 3295
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3295
+
+> To amend the Act of August 18, 1941 (commonly known as the “Flood Control Act of 1941”), to authorize the Secretary to provide reimbursement to non-Federal sponsors for emergency response repair and restoration work, and for other purposes.
+
+## § 1. Reimbursement for non-Federal sponsor work
+
+Section 5(a) of the Act of August 18, 1941 (commonly known as the “Flood Control Act of 1941”) (55 Stat. 650, chapter 377; 33 U.S.C. 701n(a)), is amended by adding at the end the following:
+
+> - **(5)** *Work carried out by a non-Federal sponsor*
+>   - **(A)** *In general* The Secretary may authorize a non-Federal sponsor to plan, design, or construct repair or restoration work described in paragraph (1).
+>   - **(B)** *Requirements* To be eligible for reimbursement under subparagraph (C), the non-Federal sponsor shall—
+>     - **(i)** enter into a written agreement with the Secretary prior to carrying out the work; and
+>     - **(ii)** carry out all activities in compliance with—
+>       - **(I)** subchapter IV of chapter 31 of title 40, United States Code (commonly known as the “Davis–Bacon Act”);
+>       - **(II)** chapter 37 of title 40, United States Code (commonly known as the “Contract Work Hours and Safety Standards Act”); and
+>       - **(III)** any other terms and conditions as the Secretary may require.
+>   - **(C)** *Reimbursement*
+>     - **(i)** *In general* After the Secretary determines that activities carried out by a non-Federal sponsor pursuant to an agreement under subparagraph (B) are complete, the Secretary shall reimburse the non-Federal sponsor for the Federal share of the cost of any planning, design, or construction activities for the repair or restoration work carried out.
+>     - **(ii)** *Additional amounts* If the Federal share of the cost of the activities exceeds the amount obligated by the Secretary under the agreement under subparagraph (B), reimbursement of any additional amounts shall be at the discretion of the Secretary.
+>   - **(D)** *Annual limit on reimbursements not applicable* Section 102 of the Energy and Water Development Appropriations Act, 2006 (33 U.S.C. 2221), shall not apply to an agreement under subparagraph (B).
