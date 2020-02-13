@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 5907
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5907
+
+> To amend title 31, United States Code, to prohibit administrative offsets of social security benefit payments and social security disability insurance benefit payments with respect to claims arising from Federal student loans, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “No Garnishing of Social Security for Student Debt Act”.
+
+## § 2. Prohibition of certain administrative offsets
+
+- **(a)** *In general* Section 3716(c)(3)(A) of title 31, United States Code, is amended—
+  - **(1)** in clause (i), by striking “as provided in clause (ii)” and inserting “as provided in clauses (ii) and (iii)”; and
+  - **(2)** by adding at the end the following new clause:
+    > - **(iii)** No claim arising from a loan made, insured, or guaranteed under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) may be collected by administrative offset of any payment described in clause (i).
+
+- **(b)** *Applicability* The amendments made by this Act shall apply only with respect to payments that become due to an individual after the date of enactment of this Act.
