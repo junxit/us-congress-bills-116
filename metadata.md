@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2744
 congress: 116
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2744
@@ -54,3 +54,14 @@ USAID Branding Modernization Act
 - 2019-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 369.
 - 2020-02-13 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S1082; text of amendment in the nature of a substitute: CR S1082)
 - 2020-02-13 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2020-02-20 — Message on Senate action sent to the House.
+- 2020-12-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-31 — Mrs. Dingell asked unanimous consent to take the bill, H.R. 2744, from the Speaker's Table and agree to the Senate amendment. (consideration: CR H9170)
+- 2020-12-31 — On motion that the House agree to the Senate amendment Agreed to without objection. (text: CR H9170)
+- 2020-12-31 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text: CR H9170)
+- 2021-01-01 — Presented to President.
+- 2021-01-01 — Presented to President.
+- 2021-01-13 — Became Public Law No: 116-334.
+- 2021-01-13 — Became Public Law No: 116-334.
+- 2021-01-13 — Signed by President.
+- 2021-01-13 — Signed by President.
