@@ -1,7 +1,7 @@
 ---
 measure: S. 3239
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3239
@@ -41,3 +41,5 @@ William T. Coleman, Jr., Department of Transportation Headquarters Act
 - 2020-02-11 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.
 - 2020-02-11 — Committee on Environment and Public Works. Reported by Senator Barrasso without amendment. Without written report.
 - 2020-02-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 419.
+- 2020-02-13 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1082-1083; text: CR S1083)
+- 2020-02-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1082-1083; text: CR S1083)
