@@ -1,7 +1,7 @@
 ---
 measure: S. 3110
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3110
@@ -24,3 +24,7 @@ Identifying Barriers and Best Practices Study Act of 2019
 
 - 2019-12-19 — Introduced in Senate
 - 2019-12-19 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2020-01-29 — Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.
+- 2020-02-13 — Committee on Veterans' Affairs. Reported by Senator Moran without amendment. Without written report.
+- 2020-02-13 — Committee on Veterans' Affairs. Reported by Senator Moran without amendment. Without written report.
+- 2020-02-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 425.
