@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2546
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2546
@@ -20,9 +20,10 @@ Protecting America's Wilderness Act
 
 - Rep. Neguse, Joe [D-CO-2] (N000191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -159,3 +160,4 @@ Protecting America's Wilderness Act
 - 2020-02-12 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2020-02-12 — The previous question was ordered pursuant to the rule.
 - 2020-02-12 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier and on which further proceedings had been postponed.
+- 2020-02-13 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
