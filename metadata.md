@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 79
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 79
@@ -243,9 +243,10 @@ Removing the deadline for the ratification of the equal rights amendment.
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 - Rep. Davids, Sharice [D-KS-3] (D000629)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -259,3 +260,18 @@ Removing the deadline for the ratification of the equal rights amendment.
 - 2020-01-16 — Placed on the House Calendar, Calendar No. 70.
 - 2020-01-16 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-378.
 - 2020-01-16 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-378.
+- 2020-02-10 — Rules Committee Resolution H. Res. 844 Reported to House. Rule provides for consideration of H.R. 2546 and H.J. Res. 79. The resolution provides for one hour of debate on each measure. The resolution provides for consideration of H.R. 2546 under a structured rule and consideration of H.J.Res. 79 under a closed rule with a motion to recommit with or without instructions for each measure.
+- 2020-02-11 — Rule H. Res. 844 passed House.
+- 2020-02-13 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2020-02-13 — Considered under the provisions of rule H. Res. 844. (consideration: CR H1129-1143)
+- 2020-02-13 — DEBATE - The House proceeded with one hour of debate on H.J. Res. 79.
+- 2020-02-13 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2020-02-13 — House amendment offered
+- 2020-02-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-02-13 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2020-02-13 — On passage Passed by the Yeas and Nays: 232 - 183 (Roll no. 70). (text: CR H1129)
+- 2020-02-13 — POINT OF ORDER - Mr. Sensenbrenner raised a point of order against the vote on passage of the joint resolution, stating that the vote required a two-thirds vote to amend the Constitution. The Chair overruled the point of order, pursuant to H.Res. 842, an affirmative vote of a majority of Members present and voting, is required on final passage of H.J. Res. 79. Mr. Sensenbrenner appealed the ruling of the Chair, and the Chair advised that she had not issued an appealable ruling and thus put the question on passage of the joint resolution.
+- 2020-02-13 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 232 - 183 (Roll no. 70).
+- 2020-02-13 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2020-02-13 — Rule provides for consideration of H.R. 2546 and H.J. Res. 79. The resolution provides for one hour of debate on each measure. The resolution provides for consideration of H.R. 2546 under a structured rule and consideration of H.J.Res. 79 under a closed rule with a motion to recommit with or without instructions for each measure.
+- 2020-02-13 — The previous question was ordered pursuant to the rule.
