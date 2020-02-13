@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 68
 congress: 116
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 68
@@ -16,7 +16,7 @@ A joint resolution to direct the removal of United States Armed Forces from host
 
 - Sen. Kaine, Tim [D-VA] (K000384)
 
-## Cosponsors (33)
+## Cosponsors (39)
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Lee, Mike [R-UT] (L000577)
@@ -46,19 +46,32 @@ A joint resolution to direct the removal of United States Armed Forces from host
 - Sen. Murray, Patty [D-WA] (M001111)
 - Sen. Smith, Tina [D-MN] (S001203)
 - Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Lee, Mike [R-UT] (L000577)
 - Sen. Risch, James E. [R-ID] (R000584)
 - Sen. McConnell, Mitch [R-KY] (M000355)
 - Sen. Cruz, Ted [R-TX] (C001098)
 - Sen. Rounds, Mike [R-SD] (R000605)
 - Sen. Perdue, David [R-GA] (P000612)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
 
 ## Committees (1)
 
 - Senate — Foreign Relations Committee
 
-## Recorded votes (1)
+## Recorded votes (8)
 
 - 2020-02-12 — [Senate 116-2-45](votes/senate-116-2-0045.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (51–45)
+- 2020-02-13 — [Senate 116-2-46](votes/senate-116-2-0046.md) — On the Amendment — **Amendment Agreed to** (64–34)
+- 2020-02-13 — [Senate 116-2-47](votes/senate-116-2-0047.md) — On the Amendment — **Amendment Agreed to** (99–0)
+- 2020-02-13 — [Senate 116-2-48](votes/senate-116-2-0048.md) — On the Motion to Table — **Motion to Table Agreed to** (54–46)
+- 2020-02-13 — [Senate 116-2-49](votes/senate-116-2-0049.md) — On the Amendment — **Amendment Agreed to** (93–7)
+- 2020-02-13 — [Senate 116-2-50](votes/senate-116-2-0050.md) — On the Motion to Table — **Motion to Table Agreed to** (54–46)
+- 2020-02-13 — [Senate 116-2-51](votes/senate-116-2-0051.md) — On the Motion to Table — **Motion to Table Agreed to** (51–49)
+- 2020-02-13 — [Senate 116-2-52](votes/senate-116-2-0052.md) — On the Joint Resolution — **Joint Resolution Passed** (55–45)
 
 ## Actions
 
@@ -126,3 +139,29 @@ A joint resolution to direct the removal of United States Armed Forces from host
 - 2020-02-12 — Senate amendment submitted
 - 2020-02-12 — Senate amendment submitted
 - 2020-02-12 — Senate amendment submitted
+- 2020-02-13 — Amendment SA 1301 agreed to in Senate by Yea-Nay Vote. 64 - 34. Record Vote Number: 46.
+- 2020-02-13 — Amendment SA 1314 agreed to in Senate by Yea-Nay Vote. 93 - 7. Record Vote Number: 49.
+- 2020-02-13 — Amendment SA 1322 agreed to in Senate by Yea-Nay Vote. 99 - 0. Record Vote Number: 47.
+- 2020-02-13 — Considered by Senate. (consideration: CR S1051-1062)
+- 2020-02-13 — Considered by Senate. (consideration: CR S1055-1056)
+- 2020-02-13 — Considered by Senate. (consideration: CR S1056)
+- 2020-02-13 — Considered by Senate. (consideration: CR S1056-1057)
+- 2020-02-13 — Considered by Senate. (consideration: CR S1057)
+- 2020-02-13 — Considered by Senate. (consideration: CR S1057-1058)
+- 2020-02-13 — Considered by Senate. (consideration: CR S1058)
+- 2020-02-13 — Message on Senate action sent to the House.
+- 2020-02-13 — Motion to table amendment SA 1305 agreed to in Senate by Yea-Nay Vote. 54 - 46. Record Vote Number: 48.
+- 2020-02-13 — Motion to table amendment SA 1319 agreed to in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 51.
+- 2020-02-13 — Motion to table amendment SA 1320 agreed to in Senate by Yea-Nay Vote. 54 - 46. Record Vote Number: 50.
+- 2020-02-13 — Passed Senate with amendments by Yea-Nay Vote. 55 - 45. Record Vote Number: 52. (text: CR S1061-1062)
+- 2020-02-13 — Passed/agreed to in Senate: Passed Senate with amendments by Yea-Nay Vote. 55 - 45. Record Vote Number: 52.
+- 2020-02-13 — Roll call votes on amendments in Senate: Amendment SA 1301 agreed to in Senate by Yea-Nay Vote. 64 - 34. Record Vote Number: 46.
+- 2020-02-13 — Roll call votes on amendments in Senate: Amendment SA 1314 agreed to in Senate by Yea-Nay Vote. 93 - 7. Record Vote Number: 49.
+- 2020-02-13 — Roll call votes on amendments in Senate: Amendment SA 1322 agreed to in Senate by Yea-Nay Vote. 99 - 0. Record Vote Number: 47.
+- 2020-02-13 — Roll call votes on amendments in Senate: Motion to table amendment SA 1305 agreed to in Senate by Yea-Nay Vote. 54 - 46. Record Vote Number: 48.
+- 2020-02-13 — Roll call votes on amendments in Senate: Motion to table amendment SA 1319 agreed to in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 51.
+- 2020-02-13 — Roll call votes on amendments in Senate: Motion to table amendment SA 1320 agreed to in Senate by Yea-Nay Vote. 54 - 46. Record Vote Number: 50.
+- 2020-02-13 — Senate amendment agreed to: Amendment SA 1301 agreed to in Senate by Yea-Nay Vote. 64 - 34. Record Vote Number: 46.
+- 2020-02-13 — Senate amendment agreed to: Amendment SA 1314 agreed to in Senate by Yea-Nay Vote. 93 - 7. Record Vote Number: 49.
+- 2020-02-13 — Senate amendment agreed to: Amendment SA 1322 agreed to in Senate by Yea-Nay Vote. 99 - 0. Record Vote Number: 47.
+- 2020-02-13 — Senate amendment submitted
