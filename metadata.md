@@ -1,7 +1,7 @@
 ---
 measure: S. 123
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 123
@@ -16,11 +16,12 @@ Ensuring Quality Care for Our Veterans Act
 
 - Sen. Ernst, Joni [R-IA] (E000295)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Boozman, John [R-AR] (B001236)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
 
 ## Committees (1)
 
@@ -30,3 +31,8 @@ Ensuring Quality Care for Our Veterans Act
 
 - 2019-01-15 — Introduced in Senate
 - 2019-01-15 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2019-05-22 — Committee on Veterans' Affairs. Hearings held.
+- 2020-01-29 — Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.
+- 2020-02-13 — Committee on Veterans' Affairs. Reported by Senator Moran without amendment. Without written report.
+- 2020-02-13 — Committee on Veterans' Affairs. Reported by Senator Moran without amendment. Without written report.
+- 2020-02-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 422.
