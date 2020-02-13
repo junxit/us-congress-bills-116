@@ -7,12 +7,13 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. RES. 490
 
-> Congratulating the Kansas City Chiefs on their victory in Super Bowl LIV.
+> Congratulating the Kansas City Chiefs on their victory in Super Bowl LIV in the successful 100th season of the National Football League.
 
 ## Preamble
 
 - Whereas, on Sunday, February 2, 2020, the Kansas City Chiefs (in this preamble referred to as the “Chiefs”) defeated the San Francisco 49ers by a score of 31 to 20 to win Super Bowl LIV in Miami, Florida;
 - Whereas the Chiefs, established on August 14, 1959, playing in their 60th season in the National Football League (referred to in this preamble as the “NFL”), made their third Super Bowl appearance and their first Super Bowl appearance since Super Bowl IV;
+- Whereas Super Bowl LIV was the culmination of the 100th season of the NFL, a season in which the league has promoted stars both past and present, served the community, and looked toward the next 100 years of football;
 - Whereas the Chiefs overcame a 10-point deficit in the fourth quarter and scored 21 straight points in the final 6 minutes and 13 seconds of gameplay to earn the victory;
 - Whereas the victory in Super Bowl LIV earned the Chiefs their second Super Bowl victory, ending their 50-year Super Bowl drought that had lasted since the team last won Super Bowl IV on January 11, 1970;
 - Whereas the Chiefs were participants in the first ever Super Bowl and are now champions of the centennial season of the NFL;
