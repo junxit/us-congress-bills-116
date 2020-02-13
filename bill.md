@@ -1,19 +1,12 @@
 ---
 legis-num: H.R. 2744
 congress: 116th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+session: 2d Session
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 2744
 
-> To authorize the Administrator of the United States Agency for International Development to prescribe the manner in which programs of the agency are identified overseas, and for other purposes.
+That the bill from the House of Representatives (H.R. 2744) entitled “An Act to authorize the Administrator of the United States Agency for International Development to prescribe the manner in which programs of the agency are identified overseas, and for other purposes.”, do pass with the following
 
-## § 1. Short title
-
-This Act may be cited as the “USAID Branding Modernization Act”.
-
-## § 2. Authorization for branding
-
-- **(a)** *In general* The Administrator of the United States Agency for International Development (USAID) is authorized to prescribe, as appropriate, the use of logos or other insignia of the USAID Identity, or the use of additional or substitute markings including the United States flag, to appropriately identify, including as required by section 641 of the Foreign Assistance Act of 1961 (22 U.S.C. 2401), overseas programs administered by the Agency.
-- **(b)** *Audit* Not later than 1 year after the date of the enactment of this Act, the Inspector General of the United States Agency for International Development shall submit to Congress an audit of compliance with relevant branding and marketing requirements of the Agency by implementing partners funded by the USAID, including any requirements prescribed pursuant to the authorization under subsection (a).
+*Strike out all after the enacting clause and insert:*

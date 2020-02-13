@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2744
 congress: 116
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2744
@@ -48,3 +48,5 @@ USAID Branding Modernization Act
 - 2019-12-17 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
 - 2019-12-17 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
 - 2019-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 369.
+- 2020-02-13 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S1082; text of amendment in the nature of a substitute: CR S1082)
+- 2020-02-13 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
