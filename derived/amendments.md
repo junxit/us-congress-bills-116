@@ -1,7 +1,7 @@
 ---
 measure: S. 2594
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 0 executed, 8 stated and not applied.
+9 amendatory instructions. 0 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -37,5 +37,6 @@ complete account of the bill's effect, which it is not.
 | — | strike | in subparagraph (G)(ii), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | amend | in subparagraph (H), by adding “and” at the end; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (H) the following: | the bill names no machine-readable US Code section |
+| — | amend | in the undesignated matter following subparagraph (I), as added by subparagraph (D) of this paragraph, by adding “and” at the end; | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (4); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (5) as paragraph (4). | the bill names no machine-readable US Code section |

@@ -1,7 +1,7 @@
 ---
 measure: S. 2594
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2594
@@ -28,3 +28,7 @@ Veterans’ Preference Parity Act
 
 - 2019-09-26 — Introduced in Senate
 - 2019-09-26 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2020-01-29 — Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.
+- 2020-02-13 — Committee on Veterans' Affairs. Reported by Senator Moran with amendments. Without written report.
+- 2020-02-13 — Committee on Veterans' Affairs. Reported by Senator Moran with amendments. Without written report.
+- 2020-02-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 424.

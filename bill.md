@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2594
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -27,5 +27,6 @@ Section 2108 of title 5, United States Code, is amended—
   - **(D)** by inserting after subparagraph (H) the following:
     > - **(I)** a retired member of the armed forces;
 
+  - **(E)** in the undesignated matter following subparagraph (I), as added by subparagraph (D) of this paragraph, by adding “and” at the end;
 - **(3)** by striking paragraph (4); and
 - **(4)** by redesignating paragraph (5) as paragraph (4).
