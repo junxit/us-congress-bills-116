@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4990
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4990
@@ -16,11 +16,20 @@ Election Technology Research Act of 2020
 
 - Rep. Sherrill, Mikie [D-NJ-11] (S001207)
 
-## Cosponsors (3)
+## Cosponsors (12)
 
 - Rep. Gonzalez, Anthony [R-OH-16] (G000588)
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
+- Rep. Balderson, Troy [R-OH-12] (B001306)
+- Rep. Horn, Kendra S. [D-OK-5] (H001083)
+- Rep. Perlmutter, Ed [D-CO-7] (P000593)
+- Rep. Lipinski, Daniel [D-IL-3] (L000563)
+- Rep. Van Drew, Jefferson [D-NJ-2] (V000133)
+- Rep. Case, Ed [D-HI-1] (C001055)
+- Rep. Harder, Josh [D-CA-10] (H001090)
+- Rep. Slotkin, Elissa [D-MI-8] (S001208)
+- Rep. Kuster, Ann M. [D-NH-2] (K000382)
 
 ## Committees (2)
 
@@ -33,3 +42,10 @@ Election Technology Research Act of 2020
 - 2019-11-08 — Introduced in House
 - 2019-11-08 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-11-08 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-11-14 — Committee Consideration and Mark-up Session Held.
+- 2019-11-14 — Ordered to be Reported (Amended) by Voice Vote.
+- 2020-02-13 — Committee on House Administration discharged.
+- 2020-02-13 — Committee on House Administration discharged.
+- 2020-02-13 — Placed on the Union Calendar, Calendar No. 318.
+- 2020-02-13 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 116-396, Part I.
+- 2020-02-13 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 116-396, Part I.
