@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 5923
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5923
+
+> To amend title 38, United States Code, to improve and make permanent the Department of Veterans Affairs loan guarantee for the purchase of residential cooperative housing units, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Fair Access to Co-ops for Veterans Act”.
+
+## § 2. Improvement of Department of Veterans Affairs loan guarantee for purchase of residential cooperative housing units
+
+- **(a)** *In general* Section 3710 of title 38, United States Code, is amended—
+  - **(1)** in subsection (a)(12), by striking “and before the date that is five years after that date,”; and
+  - **(2)** in subsection (h)—
+    - **(A)** by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively; and
+    - **(B)** by inserting after paragraph (1) the following new paragraph (2):
+      > - **(2)** In prescribing regulations to carry out subsection (a)(12) the Secretary shall ensure that a loan for the purchase of stock or membership in a cooperative housing corporation that has been reviewed and approved by a lender approved by the Federal National Mortgage Association is not denied.
+
+- **(b)** *Authority To advertise* The Secretary of Veterans Affairs shall use the authority of the Secretary under section 532 of title 38, United States Code, to advertise the availability of loan guarantees for housing cooperative share loans under section 3710(a)(12) of such title and shall take such other appropriate actions as may be necessary to notify eligible veterans, participating lenders, and interested realtors of the availability of such loan guarantees and the procedures and requirements that apply to the obtaining of such guarantees.
