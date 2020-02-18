@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 5921
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5921
+
+> To designate the facility of the United States Postal Service located at 305 Highway 15 North in Pontotoc, Mississippi, as the “Lance Corporal Marc Lucas Tucker Post Office Building”.
+
+## § 1. Lance Corporal Marc Lucas Tucker Post Office Building
+
+- **(a)** *Designation* The facility of the United States Postal Service located at 305 Highway 15 North in Pontotoc, Mississippi, shall be known and designated as the “Lance Corporal Marc Lucas Tucker Post Office Building”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Lance Corporal Marc Lucas Tucker Post Office Building”.
