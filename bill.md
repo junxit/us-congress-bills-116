@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3701
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,7 +9,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To establish a statute of limitations for certain actions of the Securities and Exchange Commission, and for other purposes.
 
-## § 1. Statute of limitations for Commission actions
+## § 1. Short title
+
+This Act may be cited as the “Strengthening Fraud Protection Provisions for SEC Enforcement Act of 2019”
+
+## § 2. Statute of limitations for Commission actions
 
 - **(a)** *In general* Section 21 of the Securities Exchange Act of 1934 (15 U.S.C. 78u) is amended by adding at the end the following:
   > - **(j)** *Statute of limitations*
@@ -17,8 +21,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >     - **(A)** *In general* An action or proceeding brought or instituted by the Commission under any provision of the securities laws for a civil monetary penalty may be brought not later than 10 years after the alleged violation.
   >     - **(B)** *Exclusion* The period of limitations in subparagraph (A) does not run during any time when an alleged violator is absent from the United States or has no reasonably ascertainable place of abode or work within the United States.
   >   - **(2)** *Definition* For purposes of this subsection, the term civil monetary penalty means relief sought by the Commission under—
-  >     - **(A)** subsection (d)(3), section 10A(d), section 21A(a), section 21B(a), or subsection (b), (c)(1)(B), or (c)(2)(B) of section 32 (15 U.S.C. 78j–1(d), 78u–2(a), 78ff(b), 78ff(c)(1)(B), or 78ff(c)(2)(B));
-  >     - **(B)** section 8A(g)(2) or section 20(d)(2) of the Securities Act of 1933 (15 U.S.C. 77h–1(g)(2), 77t(d)(2));
+  >     - **(A)** subsection (d)(3), section 10A(d), section 21A(a), section 21B(a), or subsection (b), (c)(1)(B), or (c)(2)(B) of section 32 (15 U.S.C. 78j-1(d), 78u–2(a), 78ff(b), 78ff(c)(1)(B), or 78ff(c)(2)(B));
+  >     - **(B)** section 8A(g)(2) or section 20(d)(2) of the Securities Act of 1933 (15 U.S.C. 77h-1(g)(2), 77t(d)(2));
   >     - **(C)** section 9(d)(1) or 42(e)(1) of the Investment Company Act of 1940 (15 U.S.C. 80a–9(d)(1), 80a–41(e)(1));
   >     - **(D)** section 203(i)(1) or 209(e)(1) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–3(i)(1), 80b–9(e)(1)); or
   >     - **(E)** section 304(a) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7243(a)).
