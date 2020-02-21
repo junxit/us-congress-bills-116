@@ -1,7 +1,7 @@
 ---
 measure: S. 3239
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3239
@@ -29,9 +29,10 @@ William T. Coleman, Jr., Department of Transportation Headquarters Act
 - Sen. Inhofe, James M. [R-OK] (I000024)
 - Sen. Sullivan, Dan [R-AK] (S001198)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Environment and Public Works Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -43,3 +44,6 @@ William T. Coleman, Jr., Department of Transportation Headquarters Act
 - 2020-02-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 419.
 - 2020-02-13 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1082-1083; text: CR S1083)
 - 2020-02-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1082-1083; text: CR S1083)
+- 2020-02-20 — Message on Senate action sent to the House.
+- 2020-02-21 — Received in the House.
+- 2020-02-21 — Referred to the House Committee on Transportation and Infrastructure.
