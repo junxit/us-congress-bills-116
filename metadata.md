@@ -1,0 +1,41 @@
+---
+measure: H.R. 5929
+congress: 116
+version: Introduced in House
+---
+
+# H.R. 5929
+
+Shareholder Political Transparency Act of 2020
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Foster, Bill [D-IL-11] (F000454)
+
+## Cosponsors (11)
+
+- Rep. Welch, Peter [D-VT-At Large] (W000800)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
+- Rep. DeFazio, Peter A. [D-OR-4] (D000191)
+- Rep. Carbajal, Salud O. [D-CA-24] (C001112)
+- Rep. Meng, Grace [D-NY-6] (M001188)
+- Rep. Malinowski, Tom [D-NJ-7] (M001203)
+- Rep. Nadler, Jerrold [D-NY-10] (N000002)
+- Rep. Phillips, Dean [D-MN-3] (P000616)
+- Rep. Crow, Jason [D-CO-6] (C001121)
+
+## Committees (1)
+
+- House — Financial Services Committee
+
+## Actions
+
+- 2020-02-21 — Introduced in House
+- 2020-02-21 — Introduced in House
+- 2020-02-21 — Referred to the House Committee on Financial Services.
