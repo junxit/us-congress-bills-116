@@ -1,7 +1,7 @@
 ---
 measure: H.R. 745
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 745
@@ -32,3 +32,11 @@ Executive Branch Comprehensive Ethics Enforcement Act of 2019
 - 2019-01-24 — Introduced in House
 - 2019-01-24 — Referred to the Committee on Oversight and Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-01-24 — Referred to the Committee on Oversight and Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-03-04 — Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.
+- 2019-03-26 — Committee Consideration and Mark-up Session Held.
+- 2019-03-26 — Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 15.
+- 2020-02-21 — Committee on the Judiciary discharged.
+- 2020-02-21 — Committee on the Judiciary discharged.
+- 2020-02-21 — Placed on the Union Calendar, Calendar No. 325.
+- 2020-02-21 — Reported (Amended) by the Committee on Oversight and Reform. H. Rept. 116-403, Part I.
+- 2020-02-21 — Reported (Amended) by the Committee on Oversight and Reform. H. Rept. 116-403, Part I.
