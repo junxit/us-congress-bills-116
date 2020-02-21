@@ -1,0 +1,32 @@
+---
+legis-num: H.R. 5950
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5950
+
+> To amend the Richard B. Russell National School Lunch Act and the Child Nutrition Act of 1966 to grant eligibility to the Federated States of Micronesia, Republic of the Marshall Islands, and the Republic of Palau for certain programs, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “FAS School Meals Improvement Act”.
+
+## § 2. Amendments to grant eligibility for certain programs
+
+- **(a)** *The Richard B. Russell National School Lunch Act* The Richard B. Russell National School Lunch Act (42 U.S.C. 1760 et seq.) is amended as follows:
+  - **(1)** Section 12 (42 U.S.C. 1760) is amended—
+    - **(A)** in subsection (d)(8), by striking “or the Commonwealth of the Northern Mariana Islands” and inserting “the Commonwealth of the Northern Mariana Islands, Federated States of Micronesia, Republic of the Marshall Islands, or the Republic of Palau”; and
+    - **(B)** in subsection (f), by striking “and the Commonwealth of the Northern Mariana Islands” and inserting “the Commonwealth of the Northern Mariana Islands, Federated States of Micronesia, Republic of the Marshall Islands, and the Republic of Palau”.
+  - **(2)** Section 13(a)(1)(E) (42 U.S.C. 1761(a)(1)(E))—
+    - **(A)** in clause (vi), by striking “; and” and inserting a semicolon;
+    - **(B)** in clause (vii), by striking the period and inserting a semicolon; and
+    - **(C)** by adding at the end the following:
+      > - **(viii)** Federated States of Micronesia;
+      > - **(ix)** Republic of the Marshall Islands; and
+      > - **(x)** the Republic of Palau.
+
+- **(b)** *The Child Nutrition Act of 1966* The Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) is amended—
+  - **(1)** in section 3(a)(3) (42 U.S.C. 1772(a)(3)), by striking “and the District of Columbia” and inserting “the District of Columbia, Federated States of Micronesia, Republic of the Marshall Islands, and the Republic of Palau”; and
+  - **(2)** in section 15(1) (42 U.S.C. 1784(1)), by striking “or the Commonwealth of the Northern Mariana Islands” and inserting “the Commonwealth of the Northern Mariana Islands, Federated States of Micronesia, Republic of the Marshall Islands, or the Republic of Palau”.
