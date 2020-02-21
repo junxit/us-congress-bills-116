@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4716
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Inhaler Coverage and Access Now Act ” or as the “I CAN Act”.
+This Act may be cited as the “Inhaler Coverage and Access Now Act” or as the “I CAN Act”.
 
 ## § 2. Safe harbor for high deductible health plans without deductible for certain inhalers
 
@@ -24,4 +24,4 @@ This Act may be cited as the “Inhaler Coverage and Access Now Act ” or as th
     > - **(ii)** Inhalers for treatment of any chronic lung disease (and any medicine or drug which is delivered through such inhaler for treatment of such disease).
 
 - **(b)** *Conforming amendment* The heading for section 223(c)(2)(C) of such Code is amended by striking “preventive care deductible” and inserting “certain deductibles”.
-- **(c)** *Effective date* The amendments made by this subsection shall apply to months beginning after the date of the enactment of this Act.
+- **(c)** *Effective date* The amendments made by this section shall apply to months beginning after the date of the enactment of this Act.
