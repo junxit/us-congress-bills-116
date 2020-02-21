@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2339
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 3 executed, 8 stated and not applied.
+22 amendatory instructions. 2 executed, 20 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,21 +26,12 @@ to guess them.
 
 ### 15 U.S.C. § 1333
 
-> Section 4(d) of the Federal Cigarette Labeling and Advertising Act (15 U.S.C. 1333(d)) is amended by striking “Not later than 24 months after the date of enactment of the Family Smoking Prevention and Tobacco Control Act, the Secretary” and inserting “The Secretary”.
+> The first section 4(d) of the Federal Cigarette Labeling and Advertising Act (15 U.S.C. 1333(d)) (relating to graphic labeling statements) is amended by striking “Not later than 24 months after the date of enactment of the Family Smoking Prevention and Tobacco Control Act, the Secretary” and inserting “The Secretary”.
 
 | | |
 |---|---|
 | Removed | `Not later than 24 months after the date of enactment of the Family Smoking Prevention and Tobacco Control Act, the Secretary` |
 | Inserted | `The Secretary` |
-
-### 21 U.S.C. § 387s
-
-> Section 919(b)(1)(K) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 387s(b)(1)(K)) is amended by striking “$712,000,000” and inserting “$812,000,000”.
-
-| | |
-|---|---|
-| Removed | `$712,000,000` |
-| Inserted | `$812,000,000` |
 
 ### 21 U.S.C. § 387s
 
@@ -62,9 +53,21 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `21 U.S.C. § 387a` | amend | Subsection (b) of section 901 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 387a) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 387f` | replace | Section 906(d) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 387f(d)) is amended by striking paragraph (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 387f` | amend | Paragraph (4) of section 906(d) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 387f(d)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 387g` | amend | Subparagraph (A) of section 907(a)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 387g(a)(1)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 387g` | add-at-end | Paragraph (1) of section 907(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 387g(a)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 387s` | amend | Paragraph (2) of section 919(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 387s(b)(2)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 387s` | strike | by striking paragraphs (5) and (7); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 387s` | redesignate | by redesignating paragraph (6) as paragraph (5). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 387j` | insert | Section 910 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 387j) is amended by inserting at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 387` | redesignate | by redesignating paragraphs (8) through (22) as paragraphs (9) through (23), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 387` | insert | by inserting after paragraph (7) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 387f` | amend | Paragraph (4) of section 906(d) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 387f(d)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 387s` | replace | Section 919(b)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 387s(b)(1)) is amended by striking subparagraph (K) and inserting the following subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 387s` | amend | Subparagraph (A) of section 919(b)(2) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 387s(b)(2)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 387s` | add-at-end | Section 919(b)(2) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 387s(b)(2)), as amended by paragraph (1), is further amended by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 331` | insert | Section 301(q)(1)(B) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 331(q)(1)(B)) is amended by inserting “919(b)(2)(D),” before “or 920”. | the bill quotes the text inserted but describes where it goes |
+| `21 U.S.C. § 387s` | strike | by striking paragraph (5); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 387s` | redesignate | by redesignating paragraphs (6) and (7) as paragraphs (5) and (6), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 387s` | redesignate | by amending paragraph (6), as redesignated, to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 387j` | strike | in clause (i)(II), by striking “or”; | the bill quotes the text struck but describes what replaces it |
+| `21 U.S.C. § 387j` | replace | in clause (ii), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `21 U.S.C. § 387j` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 387j` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 387f` | add-at-end | Section 906 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 387f) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 333` | amend | Subparagraph (A) of section 103(q)(2) of the Family Smoking Prevention and Tobacco Control Act (21 U.S.C. 333 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
