@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4742
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,7 +9,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the Internal Revenue Code of 1986 to impose a tax on nicotine used in vaping, etc.
 
-## § 1. Imposition of tax on nicotine for use in vaping, etc
+## § 1. Short title
+
+This Act may be cited as the “Protecting American Lungs Act of 2019”.
+
+## § 2. Imposition of tax on nicotine for use in vaping, etc
 
 - **(a)** *In general* Section 5701 of the Internal Revenue Code of 1986 is amended by redesignating subsection (h) as subsection (i) and by inserting after subsection (g) the following new subsection:
   > - **(h)** *Nicotine* On taxable nicotine, manufactured in or imported into the United States, there shall be imposed a tax equal to the dollar amount specified in section 5701(b)(1) (or, if greater, $50.33) per 1,810 milligrams of nicotine (and a proportionate tax at the like rate on any fractional part thereof).
@@ -26,4 +30,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >   - **(1)** *In general* Any person who extracts, concentrates, or synthesizes nicotine shall be treated as a manufacturer of taxable nicotine (and as manufacturing such taxable nicotine).
   >   - **(2)** *Application of rules related to manufacturers of tobacco products* Any reference to a manufacturer of tobacco products, or to manufacturing tobacco products, shall be treated as including a reference to a manufacturer of taxable nicotine, or to manufacturing taxable nicotine, respectively.
 
-- **(e)** *Effective date* The amendments made by this subsection shall apply to articles manufactured or imported in calendar quarters beginning more than 90 days after the date of the enactment of this Act.
+- **(e)** *Effective date* The amendments made by this section shall apply to articles manufactured or imported in calendar quarters beginning more than 90 days after the date of the enactment of this Act.
