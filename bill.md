@@ -1,0 +1,25 @@
+---
+legis-num: S. 3324
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3324
+
+> To permit the Miami Nation of Indiana to apply for acknowledgment as a federally recognized Indian tribe, and for other purposes.
+
+## § 1. Definitions
+
+In this Act:
+
+- **(1)** *Acknowledgment* The term acknowledgment means acknowledgment as a federally recognized Indian tribe.
+- **(2)** *Secretary* The term Secretary means the Secretary of the Interior.
+
+## § 2. Miami Nation of Indiana permitted to petition for acknowledgment
+
+- **(a)** *In general* Notwithstanding any other provision of law (including regulations) that denies acknowledgment to an entity that previously petitioned for and was denied acknowledgment, the Miami Nation of Indiana may submit a petition to the Secretary, under part 83 of title 25, Code of Federal Regulations (as in effect on the date of enactment of this Act), for acknowledgment.
+- **(b)** *Effect on determination* In reviewing and making a determination on a petition for acknowledgment that the Miami Nation of Indiana submitted, the Secretary shall not use, as a reason to deny the petition for acknowledgment that the Miami Nation of Indiana submitted, any previous denial of a petition for acknowledgment that the Miami Nation of Indiana submitted, including—
+  - **(1)** a denial by the Secretary of a petition;
+  - **(2)** a court decision affirming a denial of a petition; and
+  - **(3)** any other denial of a petition.
