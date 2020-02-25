@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3399
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3399
@@ -16,11 +16,15 @@ To amend the Nutria Eradication and Control Act of 2003 to include California in
 
 - Rep. Harder, Josh [D-CA-10] (H001090)
 
-## Cosponsors (3)
+## Cosponsors (7)
 
 - Rep. Costa, Jim [D-CA-16] (C001059)
 - Rep. Cox, TJ [D-CA-21] (C001124)
 - Rep. Garamendi, John [D-CA-3] (G000559)
+- Rep. Lee, Barbara [D-CA-13] (L000551)
+- Rep. Panetta, Jimmy [D-CA-20] (P000613)
+- Rep. Graves, Garret [R-LA-6] (G000577)
+- Rep. Bera, Ami [D-CA-7] (B001287)
 
 ## Committees (1)
 
@@ -31,3 +35,11 @@ To amend the Nutria Eradication and Control Act of 2003 to include California in
 - 2019-06-21 — Introduced in House
 - 2019-06-21 — Introduced in House
 - 2019-06-21 — Referred to the House Committee on Natural Resources.
+- 2019-07-02 — Referred to the Subcommittee on Water, Oceans, and Wildlife.
+- 2019-09-24 — Subcommittee Hearings Held.
+- 2020-01-29 — Committee Consideration and Mark-up Session Held.
+- 2020-01-29 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2020-01-29 — Subcommittee on Water, Oceans, and Wildlife Discharged.
+- 2020-02-25 — Placed on the Union Calendar, Calendar No. 327.
+- 2020-02-25 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-405.
+- 2020-02-25 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-405.
