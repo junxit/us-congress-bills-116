@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 5970
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5970
+
+> To amend titles II and XVI of the Social Security Act to direct the Commissioner of Social Security to consider linguistic limitations in disability determinations, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Language Equity in Social Security Act of 2020”.
+
+## § 2. Consideration of linguistic limitations in disability determinations
+
+- **(a)** *Amendment to title II* Section 223(d)(2) of the Social Security Act (42 U.S.C. 423(d)(2)) is amended—
+  - **(1)** by redesignating subparagraph (C) as subparagraph (D); and
+  - **(2)** by inserting after subparagraph (B) the following:
+    > - **(C)** In considering an individual’s education for purposes of subparagraph (A), the Commissioner of Social Security shall specifically take into account as an adverse factor any linguistic limitation such individual may have (including any lack of facility with the English language).
+
+- **(b)** *Amendment to title XVI* Section 1614(a)(3)(B) of the Social Security Act (42 U.S.C. 1382c(a)(3)(B)) is amended by striking “For purposes of the preceding sentence” and all that follows through the end and inserting
+  > For purposes of the preceding sentence (with respect to any individual)—
+  > - **(i)** “work which exists in the national economy” means work which exists in significant numbers either in the region where such individual lives or in several regions of the country; and
+  > - **(ii)** in considering an individual’s education, the Commissioner of Social Security shall specifically take into account as an adverse factor any linguistic limitation such individual may have (including any lack of facility with the English language).
+
+- **(c)** *Effective date* The amendments made by this section shall apply with respect to determinations of disability occurring after the date of enactment of this Act.
