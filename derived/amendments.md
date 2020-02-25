@@ -1,7 +1,7 @@
 ---
 measure: S. 2418
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-14 amendatory instructions. 6 executed, 8 stated and not applied.
+23 amendatory instructions. 10 executed, 13 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -78,6 +78,42 @@ to guess them.
 | Removed | `2055` |
 | Inserted | `2019` |
 
+### 30 U.S.C. § 191
+
+> in subsection (b)(3)(B)(ii) (as so redesignated), by striking “subsection (d)” and inserting “subsection (c)”; and
+
+| | |
+|---|---|
+| Removed | `subsection (d)` |
+| Inserted | `subsection (c)` |
+
+### 30 U.S.C. § 191
+
+> in subsection (c)(3)(A)(ii) (as so redesignated), by striking “subsection (c)(2)(B)” and inserting “subsection (b)(2)(B)”.
+
+| | |
+|---|---|
+| Removed | `subsection (c)(2)(B)` |
+| Inserted | `subsection (b)(2)(B)` |
+
+### 30 U.S.C. § 191
+
+> in the first sentence, by striking “Subject to the provisions of section 35(b) of the Mineral Leasing Act (30 U.S.C. 191(b)), all” and inserting “All”; and
+
+| | |
+|---|---|
+| Removed | `Subject to the provisions of section 35(b) of the Mineral Leasing Act (30 U.S.C. 191(b)), all` |
+| Inserted | `All` |
+
+### 30 U.S.C. § 191
+
+> in the second sentence, by striking “of the Act of February 25, 1920 (41 Stat. 450; 30 U.S.C. 191)” and inserting “of the Mineral Leasing Act (30 U.S.C. 191)”.
+
+| | |
+|---|---|
+| Removed | `of the Act of February 25, 1920 (41 Stat. 450; 30 U.S.C. 191)` |
+| Inserted | `of the Mineral Leasing Act (30 U.S.C. 191)` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -95,3 +131,8 @@ complete account of the bill's effect, which it is not.
 | `43 U.S.C. § 1331` | replace | in subparagraph (A), by striking the semicolon at the end and inserting a period; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1331` | replace | beginning in the matter preceding subparagraph (A), by striking “exceed—” and all that follows through “for each” in subparagraph (A) and inserting the following: “exceed $500,000,000 for each”; and | the bill quotes the text struck but describes what replaces it |
 | `2 U.S.C. § 905` | insert | Section 255(g)(1)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 905(g)(1)(A)) is amended by inserting after “Payments to Social Security Trust Funds (28–0404–0–1–651).” the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 191` | strike | in subsection (a), in the first sentence, by striking “, subject to the provisions of subsection (b),”; | the bill quotes the text struck but describes what replaces it |
+| `30 U.S.C. § 191` | strike | by striking subsection (b); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 191` | redesignate | by redesignating subsections (c) and (d) as subsections (b) and (c), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 1019` | strike | Section 20(a) of the Geothermal Steam Act of 1970 (30 U.S.C. 1019(a)) is amended in the matter preceding paragraph (1), in the second sentence, by striking “the provisions of subsection (b) of section 35 of the Mineral Leasing Act (30 U.… | the bill quotes the text struck but describes what replaces it |
+| `30 U.S.C. § 1735` | strike | Section 205(f) of the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1735(f)) is amended by striking the fourth, fifth, and sixth sentences. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
