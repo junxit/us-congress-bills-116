@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3399
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,23 +9,26 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the Nutria Eradication and Control Act of 2003 to include California in the program, and for other purposes.
 
-## § 1. Nutria eradication in California
+## § 1. Nutria eradication
 
 The Nutria Eradication and Control Act of 2003 (Public Law 108–16) is amended—
 
 - **(1)** in section 2—
   - **(A)** in subsection (a)—
-    - **(i)** in paragraph (2), by striking “Maryland and Louisiana” and inserting “Maryland, Louisiana, and California”; and
-    - **(ii)** in paragraph (3), by striking “Louisiana. Consequently, marsh loss is accelerating.” and inserting “Louisiana and California. Consequently, marsh loss, loss of public and private wetlands, and loss of agricultural lands are accelerating.”; and
-  - **(B)** in subsection (b), by striking “the State of Maryland and the State of Louisiana” and inserting “Maryland, Louisiana, and California”; and
+    - **(i)** in paragraph (1), by striking “Wetlands and tidal marshes of the Chesapeake Bay and in Louisiana” and inserting “Wetlands, tidal marshes, and agricultural lands”;
+    - **(ii)** in paragraph (2), by striking “in Maryland and Louisiana”; and
+    - **(iii)** by amending paragraph (3) to read as follows:
+      > - **(3)** Traditional harvest methods to control or eradicate nutria have failed. Consequently, marsh loss, loss of public and private wetlands, and loss of agricultural lands are accelerating.
+
+  - **(B)** in subsection (b), by striking “the State of Maryland and the State of Louisiana” and inserting “any State that has demonstrated the need”; and
 - **(2)** in section 3—
   - **(A)** by amending subsection (a) to read as follows:
-    > - **(a)** *Grant authority* The Secretary of the Interior (referred to in this Act as the “Secretary”), subject to the availability of appropriations, may provide financial assistance to Maryland, Louisiana, and California for a program to implement measures to eradicate or control nutria and restore marshland, public and private wetlands, and agricultural lands damaged by nutria.
+    > - **(a)** *Grant authority* The Secretary of the Interior (referred to in this Act as the “Secretary”), may provide financial assistance to a State, in an amount that is in proportion to the total impacted area of such State affected by nutria, that has demonstrated to the Secretary sufficient need for a program to implement measures to eradicate or control nutria and restore marshland, public and private wetlands, and agricultural lands damaged by nutria.
 
-  - **(B)** by amending subsection (b) to read as follows:
-    > - **(b)** *Goals* The goals of the program shall be to—
-    >   - **(1)** eradicate nutria in Maryland and California;
-    >   - **(2)** eradicate or control nutria in Louisiana; and
-    >   - **(3)** restore marshland, public and private wetlands, and agricultural lands damaged by nutria.
-
-  - **(C)** in subsection (f), by striking “State of Maryland” and all that follows and inserting “Maryland program, $2,000,000 for the Louisiana program, and $7,000,000 for the California program for each of fiscal years 2020 through 2025.”
+  - **(B)** by striking subsection (b);
+  - **(C)** in subsection (d)—
+    - **(i)** in paragraph (1), by striking “the program may” and inserting “a State program referred to in subsection (a) may”; and
+    - **(ii)** in paragraph (2), by striking “the program may” and inserting “a State program referred to in subsection (a) may”;
+  - **(D)** in subsection (e), by inserting “to a State” after “provided”;
+  - **(E)** in subsection (f), by striking “$4,000,000” and all that follows and inserting “$12,000,000 for each of fiscal years 2021 through 2025.”; and
+  - **(F)** by redesignating subsections (c) through (f) as subsections (b) through (e).
