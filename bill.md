@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4613
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -16,7 +16,7 @@ This Act may be cited as the “VA Reporting Transparency Act”.
 ## § 2. Requiring public access through Department of Veterans Affairs website to legislatively requested reports of the Department
 
 - **(a)** *Requirement To allow access online*
-  - **(1)** *In general* Not later than one year after the date of enactment of this Act, the Secretary shall establish and maintain a website of the Department that allows the public to obtain electronic copies of all legislatively requested reports.
+  - **(1)** *In general* Not later than 1 year after the date of enactment of this Act, the Secretary shall establish and maintain a website of the Department that allows the public to obtain electronic copies of all legislatively requested reports required to be submitted after the date of the enactment of this Act.
   - **(2)** *Existing resources* To the extent possible, the Secretary shall carry out paragraph (1) by using existing online resources administered by the Secretary.
 - **(b)** *Content and function* The Secretary shall ensure that the website includes the following:
   - **(1)** With respect to each legislatively requested report, each of the following:
@@ -42,8 +42,8 @@ This Act may be cited as the “VA Reporting Transparency Act”.
     - **(A)** reports submitted within the required time;
     - **(B)** reports submitted after the date on which such reports were required to be submitted; and
     - **(C)** reports not submitted.
-- **(c)** *Deadline* The Secretary shall ensure that information required to be published on the website under this Act with respect to a legislatively requested report submitted after the period under subsection (a)(1) is published not later than three calendar days after the report is submitted.
-- **(d)** *Notice on website of withheld reports* If a report is withheld from submission to or publication on the website at the request of a recipient committee or subcommittee, the Secretary shall post on the website a statement that the report is withheld at the request of such committee or subcommittee.
+- **(c)** *Deadline* The Secretary shall ensure that information required to be published on the website under this Act with respect to a legislatively requested report submitted after the period under subsection (a)(1) is published not earlier than 30 days after the report is submitted and not later than 45 days after the report is submitted.
+- **(d)** *Notice on website of withheld reports* If, at the time a requirement or request for a legislatively requested report is made pursuant to an Act of Congress or a conference report, Congress includes in such Act or conference report, as the case may be, specific language exempting the report from publication on a website under this section, the Secretary shall publish on such website the title of the report and notice that Congress exempted the report from publication.
 - **(e)** *Free access* The Secretary may not charge a fee, require registration, or impose any other limitation in exchange for access to the website.
 
 ## § 3. Relationship to the Freedom of Information Act
@@ -61,7 +61,7 @@ This Act may be cited as the “VA Reporting Transparency Act”.
 
 - **(a)** *Recurring reports that the Secretary recommends discontinuing* The Secretary shall submit to Congress a report regarding recurring legislatively requested reports that the Secretary recommends discontinuing not later than—
   - **(1)** 180 days after the date of the enactment of this Act; and
-  - **(2)** two years after the date of the enactment of this Act.
+  - **(2)** 2 years after the date of the enactment of this Act.
 - **(b)** *Compliance of VA website with Federal statutes, regulations, rules, and guidance* Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to Congress a report regarding the compliance of the website of the Department with Federal statutes, regulations, rules, and guidance regarding transparency for and access by the public and Congress, including requirements for links and information subject to section 552 of title 5, United States Code, and the Inspector General Act of 1978 (Public Law 95–452).
 
 ## § 5. Definitions
@@ -69,8 +69,8 @@ This Act may be cited as the “VA Reporting Transparency Act”.
 In this Act:
 
 - **(1)** *Legislatively requested report* The term “legislatively requested report” means a report to be submitted by the Secretary to either house of Congress or any committee of Congress or subcommittee thereof pursuant to—
-  - **(A)** an Act of Congress enacted not more than eight years before the date of the enactment of this Act; or
-  - **(B)** a conference report adopted not more than eight years before the date of the enactment of this Act.
+  - **(A)** an Act of Congress enacted not more than 8 years before the date of the enactment of this Act; or
+  - **(B)** a conference report adopted not more than 8 years before the date of the enactment of this Act.
 - **(2)** *Open format* The term “open format” means a file format for storing digital data based on an underlying open standard that—
   - **(A)** is not encumbered by any restrictions that would impede reuse; and
   - **(B)** is based on an underlying open data standard that is maintained by a standards organization.
