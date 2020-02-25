@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2227
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 50 U.S.C. § 3955
 
-> Paragraph (3) of such subsection is amended by striking “in subsection (b)(1)” and inserting “in subsection (b)”.
+> Paragraph (3) of such section is amended by striking “The spouse of the lessee” and inserting “The spouse or dependent of the lessee”.
 
 | | |
 |---|---|
-| Removed | `in subsection (b)(1)` |
-| Inserted | `in subsection (b)` |
+| Removed | `The spouse of the lessee` |
+| Inserted | `The spouse or dependent of the lessee` |
 
 ## Stated, not applied
 
@@ -42,4 +42,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `50 U.S.C. § 3955` | add-at-end | Subsection (a) of section 305 of the Servicemembers Civil Relief Act (50 U.S.C. 3955), as amended by section 301 of the Veterans Benefits and Transition Act of 2018 (Public Law 115–407), is further amended by adding at the end the follow… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3955` | amend | Paragraph (4) of section 305(a) of the Servicemembers Civil Relief Act (50 U.S.C. 3955(a)), as added by section 545 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92), is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
