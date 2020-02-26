@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4852
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -36,4 +36,4 @@ This Act may be cited as the “G.I. and Veterans Education Empowerment Act” o
   >   - **(F)** An Alaska Native-serving institution or Native Hawaiian-serving institution, as such terms are defined in section 317(b) of such Act (20 U.S.C. 1059d(b)).
   >   - **(G)** An Asian American and Native American Pacific Islander-serving institution, as such term is defined in section 320(b) of such Act (20 U.S.C. 1059g(b)).
 
-- **(c)** *Application* The amendments made by this section shall apply with respect to the information provided under section 3698 of title 38, United States Code, beginning on the date that is two years after the date of the enactment of this Act.
+- **(c)** *Application* The amendments made by this section shall apply with respect to the information provided under section 3698 of title 38, United States Code, beginning on the date that is 2 years after the date of the enactment of this Act.
