@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 473
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Authorization to establish commemorative work
 
-- **(a)** *In General* The Every Word We Utter Monument may establish a commemorative work on Federal land in the District of Columbia and its environs to commemorate the passage of the 19th Amendment to the Constitution, which gave women the right to vote.
+- **(a)** *In General* The Every Word We Utter Monument may establish a commemorative work on Federal land in the District of Columbia and its environs to commemorate the women's suffrage movement and the passage of the 19th Amendment to the Constitution, which gave women the right to vote.
 - **(b)** *Compliance With Standards For Commemorative Works* The establishment of the commemorative work under this section shall be in accordance with chapter 89 of title 40, United States Code (commonly known as the “Commemorative Works Act”).
 - **(c)** *Prohibition on the use of federal funds*
   - **(1)** *In general* Federal funds may not be used to pay any expense of the establishment of the commemorative work under this section.
@@ -19,3 +19,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(d)** *Deposit of excess funds*
   - **(1)** *In general* If upon payment of all expenses for the establishment of the memorial (including the maintenance and preservation amount required by section 8906(b)(1) of title 40, United States Code), there remains a balance of funds received for the establishment of the commemorative work, the Every Word We Utter Monument shall transmit the amount of the balance to the Secretary of the Interior for deposit in the account provided for in section 8906(b)(3) of title 40, United States Code.
   - **(2)** *On expiration of authority* If upon expiration of the authority for the commemorative work under section 8903(e) of title 40, United States Code, there remains a balance of funds received for the establishment of the commemorative work, the Every Word We Utter Monument shall transmit the amount of the balance to a separate account with the National Park Foundation for memorials, to be available to the Secretary of the Interior or Administrator (as appropriate) following the process provided in section 8906(b)(4) of title 40, United States Code, for accounts established under 8906(b)(2) or (3) of title 40, United States Code.
+
+## § 2. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
