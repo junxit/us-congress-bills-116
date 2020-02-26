@@ -24,3 +24,7 @@ Section 6(e)(6)(B) of the Joint Resolution entitled “A Joint Resolution to app
   - **(C)** by adding at the end the following:
     > - **(VI)** was admitted to the Commonwealth as a Commonwealth Only Transitional Worker during fiscal year 2015, and during every subsequent fiscal year beginning before the date of the enactment of the Northern Mariana Islands U.S. Workforce Act of 2018 (Public Law 115–218); or
     > - **(VII)** resided in the Northern Mariana Islands as an investor under Commonwealth immigration law, and is presently a resident classified as a CNMI-only nonimmigrant under section 101(a)(15)(E)(ii) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(E)(ii)).
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
