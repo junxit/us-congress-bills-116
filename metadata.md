@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2490
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2490
@@ -33,3 +33,11 @@ To amend the National Trails System Act to direct the Secretary of the Interior 
 - 2019-10-11 — Placed on the Union Calendar, Calendar No. 184.
 - 2019-10-11 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-232.
 - 2019-10-11 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-232.
+- 2020-02-26 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2020-02-26 — Considered as unfinished business. (consideration: CR H1212-1213)
+- 2020-02-26 — Considered under suspension of the rules. (consideration: CR H1206-1207)
+- 2020-02-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2490.
+- 2020-02-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-02-26 — Mr. Neguse moved to suspend the rules and pass the bill, as amended.
+- 2020-02-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 10 (Roll no. 73). (text: CR H1206)
+- 2020-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 10 (Roll no. 73).
