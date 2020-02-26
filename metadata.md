@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3399
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3399
@@ -43,3 +43,9 @@ To amend the Nutria Eradication and Control Act of 2003 to include California in
 - 2020-02-25 — Placed on the Union Calendar, Calendar No. 327.
 - 2020-02-25 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-405.
 - 2020-02-25 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-405.
+- 2020-02-26 — Considered under suspension of the rules. (consideration: CR H1208-1210)
+- 2020-02-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3399.
+- 2020-02-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-02-26 — Mr. Neguse moved to suspend the rules and pass the bill, as amended.
+- 2020-02-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1208)
+- 2020-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
