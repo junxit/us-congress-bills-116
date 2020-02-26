@@ -1,13 +1,13 @@
 ---
 legis-num: H.R. 35
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 35
 
-> To amend section 249 of title 18, United States Code, to specify lynching as a hate crime act.
+> To amend title 18, United States Code, to specify lynching as a deprivation of civil rights, and for other purposes.
 
 ## § 1. Short title
 
@@ -17,26 +17,38 @@ This Act may be cited as the “Emmett Till Antilynching Act”.
 
 Congress finds the following:
 
-- **(1)** In the 20th century lynching occurred mostly in southern States by White southerners against Black southerners.
-- **(2)** In 1892, the Tuskegee Institute began to record statistics of lynchings and reported that 4,742 reported lynchings had taken place by 1968, of which 3,445 of the victims were Black.
-- **(3)** Most of the lynchings that occurred in the South were mass moblike lynchings.
-- **(4)** Mass moblike lynchings were barbaric by nature characterized by members of the mob, mostly White southerners, shooting, burning, and mutilating the victim’s body, alive.
-- **(5)** In “Anatomy of a Lynching: The Killing of Claude Neal”, community papers readily advertised mob lynchings, as evidenced by a Florida local paper headline: “Florida to Burn Negro at Stake: Sex Criminal Seized from Brewton Jail, Will be Mutilated, Set Afire in Extra-Legal Vengeance for Deed.”
-- **(6)** Civil rights groups documented and presented Congress evidence of vigilante moblike lynchings.
-- **(7)** Evidence by NAACP investigator Howard Kester documented the extreme brutality of these lynchings. An excerpt from “Anatomy of a Lynching” further illustrates this point: “After taking the nigger to the woods about four miles from Greenwood, they cut off his penis. He was made to eat it. Then they cut off his testicles and made him eat them and say he liked it.”
-- **(8)** Many civil rights groups, notably the Anti-Lynching Crusaders, also known as the ALC, operating under the umbrella of the NAACP, made numerous requests to Congress to make lynching a Federal crime.
-- **(9)** Congressman George Henry White, an African American, introduced the first Federal an­ti­lynch­ing bill and subsequently nearly 200 an­ti­lynch­ing bills were introduced in the Congress during the first half of the 20th century.
-- **(10)** Between 1890 and 1952, seven Presidents petitioned Congress to end lynching.
-- **(11)** Between 1920 and 1940, the House of Representatives passed three strong antilynching measures, of which Congress came closest to enacting antilynching legislation sponsored by Congressman Leonidas C. Dyer in 1922.
-- **(12)** On all three occasions, opponents of antilynching legislation, argued States’ rights and used the filibuster, or the threat of it, to block the Senate from voting on the measures.
-- **(13)** The enactment of the Civil Rights Act of 1968 was the closest Congress ever came in the post-Reconstruction era to enacting antilynching legislation.
-- **(14)** In 2005, the Senate passed a resolution, sponsored by Senators Mary Landrieu and George Allen, apologizing for the Senate’s failure to enact antilynching legislation as a Federal crime, with Senator Landrieu saying, “There may be no other injustice in American history for which the Senate so uniquely bears responsibility.”
-- **(15)** To heal past and present racial injustice, Congress must make lynching a Federal crime so our Nation can begin reconciliation.
+- **(1)** The crime of lynching succeeded slavery as the ultimate expression of racism in the United States following Reconstruction.
+- **(2)** Lynching was a widely acknowledged practice in the United States until the middle of the 20th century.
+- **(3)** Lynching was a crime that occurred throughout the United States, with documented incidents in all but four States.
+- **(4)** At least 4,742 people, predominantly African Americans, were reported lynched in the United States between 1882 and 1968.
+- **(5)** Ninety-nine percent of all perpetrators of lynching escaped from punishment by State or local officials.
+- **(6)** Lynching prompted African Americans to form the National Association for the Advancement of Colored People (referred to in this section as the “NAACP”) and prompted members of B'nai B'rith to found the Anti-Defamation League.
+- **(7)** Mr. Walter White, as a member of the NAACP and later as the executive secretary of the NAACP from 1931 to 1955, meticulously investigated lynchings in the United States and worked tirelessly to end segregation and racialized terror.
+- **(8)** Nearly 200 anti-lynching bills were introduced in Congress during the first half of the 20th century.
+- **(9)** Between 1890 and 1952, seven Presidents petitioned Congress to end lynching.
+- **(10)** Between 1920 and 1940, the House of Representatives passed three strong anti-lynching measures.
+- **(11)** Protection against lynching was the minimum and most basic of Federal responsibilities, and the Senate considered but failed to enact anti-lynching legislation despite repeated requests by civil rights groups, Presidents, and the House of Representatives to do so.
+- **(12)** The publication of “Without Sanctuary: Lynching Photography in America” helped bring greater awareness and proper recognition of the victims of lynching.
+- **(13)** Only by coming to terms with history can the United States effectively champion human rights abroad.
+- **(14)** An apology offered in the spirit of true repentance moves the United States toward reconciliation and may become central to a new understanding, on which improved racial relations can be forged.
+- **(15)** Having concluded that a reckoning with our own history is the only way the country can effectively champion human rights abroad, 90 Members of the United States Senate agreed to Senate Resolution 39, 109th Congress, on June 13, 2005, to apologize to the victims of lynching and the descendants of those victims for the failure of the Senate to enact anti-lynching legislation.
+- **(16)** The National Memorial for Peace and Justice, which opened to the public in Montgomery, Alabama, on April 26, 2018, is the Nation’s first memorial dedicated to the legacy of enslaved Black people, people terrorized by lynching, African Americans humiliated by racial segregation and Jim Crow, and people of color burdened with contemporary presumptions of guilt and police violence.
+- **(17)** Notwithstanding the Senate’s apology and the heightened awareness and education about the Nation’s legacy with lynching, it is wholly necessary and appropriate for the Congress to enact legislation, after 100 years of unsuccessful legislative efforts, finally to make lynching a Federal crime.
+- **(18)** Further, it is the sense of Congress that criminal action by a group increases the likelihood that the criminal object of that group will be successfully attained and decreases the probability that the individuals involved will depart from their path of criminality. Therefore, it is appropriate to specify criminal penalties for the crime of lynching, or any attempt or conspiracy to commit lynching.
+- **(19)** The United States Senate agreed to unanimously Senate Resolution 118, 115th Congress, on April 5, 2017, “[c]ondemning hate crime and any other form of racism, religious or ethnic bias, discrimination, incitement to violence, or animus targeting a minority in the United States” and taking notice specifically of Federal Bureau of Investigation statistics demonstrating that “among single-bias hate crime incidents in the United States, 59.2 percent of victims were targeted due to racial, ethnic, or ancestral bias, and among those victims, 52.2 percent were victims of crimes motivated by the offenders’ anti-Black or anti-African American bias”.
+- **(20)** On September 14, 2017, President Donald J. Trump signed into law Senate Joint Resolution 49 (Public Law 115–58; 131 Stat. 1149), wherein Congress “condemn[ed] the racist violence and domestic terrorist attack that took place between August 11 and August 12, 2017, in Charlottesville, Virginia” and “urg[ed] the President and his administration to speak out against hate groups that espouse racism, extremism, xenophobia, anti-Semitism, and White supremacy; and use all resources available to the President and the President’s Cabinet to address the growing prevalence of those hate groups in the United States”.
+- **(21)** Senate Joint Resolution 49 (Public Law 115–58; 131 Stat. 1149) specifically took notice of “hundreds of torch-bearing White nationalists, White supremacists, Klansmen, and neo-Nazis [who] chanted racist, anti-Semitic, and anti-immigrant slogans and violently engaged with counter-demonstrators on and around the grounds of the University of Virginia in Charlottesville” and that these groups “reportedly are organizing similar events in other cities in the United States and communities everywhere are concerned about the growing and open display of hate and violence being perpetrated by those groups”.
+- **(22)** Lynching was a pernicious and pervasive tool that was used to interfere with multiple aspects of life—including the exercise of Federally protected rights, as enumerated in section 245 of title 18, United States Code, housing rights, as enumerated in section 901 of the Civil Rights Act of 1968 (42 U.S.C. 3631), and the free exercise of religion, as enumerated in section 247 of title 18, United States Code. Interference with these rights was often effectuated by multiple offenders and groups, rather than isolated individuals. Therefore, prohibiting conspiracies to violate each of these rights recognizes the history of lynching in the United States and serves to prohibit its use in the future.
 
-## § 3. Specifying lynching as a hate crime act
+## § 3. Lynching
 
-Section 249(a) of title 18, United States Code, is amended—
+- **(a)** *Offense* Chapter 13 of title 18, United States Code, is amended by adding at the end the following:
+  > ## § 250. Lynching
+  >
+  > Whoever conspires with another person to violate section 245, 247, or 249 of this title or section 901 of the Civil Rights Act of 1968 (42 U.S.C. 3631) shall be punished in the same manner as a completed violation of such section, except that if the maximum term of imprisonment for such completed violation is less than 10 years, the person may be imprisoned for not more than 10 years.
 
-- **(1)** by redesignating paragraph (4) as paragraph (5); and
-- **(2)** by inserting after paragraph (3) the following:
-  > - **(4)** *Offenses involving lynching* Whoever, whether or not acting under color of law, willfully, acting as part of any collection of people, assembled for the purpose and with the intention of committing an act of violence upon any person, causes death to any person, shall be imprisoned for any term of years or for life, fined under this title, or both.
+- **(b)** *Table of sections amendment* The table of sections for chapter 13 of title 18, United States Code, is amended by inserting after the item relating to section 249 the following:
+
+## § 4. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.

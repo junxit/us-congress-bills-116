@@ -1,7 +1,7 @@
 ---
 measure: H.R. 35
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | redesignate | by redesignating paragraph (4) as paragraph (5); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph (3) the following: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 3631` | add-at-end | Chapter 13 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 249` | insert | The table of sections for chapter 13 of title 18, United States Code, is amended by inserting after the item relating to section 249 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

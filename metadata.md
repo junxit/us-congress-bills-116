@@ -1,7 +1,7 @@
 ---
 measure: H.R. 35
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 35
@@ -171,6 +171,10 @@ Emmett Till Antilynching Act
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2020-02-26 — [House 116-2-71](votes/house-116-2-0071.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (410–4)
+
 ## Actions
 
 - 2019-01-03 — Introduced in House
@@ -182,3 +186,12 @@ Emmett Till Antilynching Act
 - 2019-10-31 — Placed on the Union Calendar, Calendar No. 212.
 - 2019-10-31 — Reported by the Committee on Judiciary. H. Rept. 116-267.
 - 2019-10-31 — Reported by the Committee on Judiciary. H. Rept. 116-267.
+- 2020-02-26 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2020-02-26 — Considered as unfinished business. (consideration: CR H1211-1212)
+- 2020-02-26 — Considered under suspension of the rules. (consideration: CR H1197-1203)
+- 2020-02-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 35.
+- 2020-02-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-02-26 — Mr. Nadler moved to suspend the rules and pass the bill, as amended.
+- 2020-02-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 4 (Roll no. 71). (text: CR H1197-1198)
+- 2020-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 4 (Roll no. 71).
+- 2020-02-26 — The title of the measure was amended. Agreed to without objection.
