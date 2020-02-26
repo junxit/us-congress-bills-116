@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1492
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1492
@@ -33,3 +33,9 @@ Yucca House National Monument Expansion Act
 - 2020-01-10 — Placed on the Union Calendar, Calendar No. 297.
 - 2020-01-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-374.
 - 2020-01-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-374.
+- 2020-02-26 — Considered under suspension of the rules. (consideration: CR H1210-1211)
+- 2020-02-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1492.
+- 2020-02-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-02-26 — Mr. Neguse moved to suspend the rules and pass the bill, as amended.
+- 2020-02-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1210)
+- 2020-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
