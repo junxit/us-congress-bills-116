@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4852
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4852
@@ -16,9 +16,10 @@ GIVE Act
 
 - Rep. Torres, Norma J. [D-CA-35] (T000474)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -40,3 +41,4 @@ GIVE Act
 - 2020-02-26 — Motion to reconsider laid on the table Agreed to without objection.
 - 2020-02-26 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 72). (text: 02/25/2020 CR H1175-1176)
 - 2020-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 72).
+- 2020-02-27 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
