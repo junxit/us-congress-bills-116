@@ -1,7 +1,7 @@
 ---
 measure: H.R. 473
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 473
@@ -75,3 +75,14 @@ To authorize the Every Word We Utter Monument to establish a commemorative work 
 - 2020-02-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1204-1205)
 - 2020-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2020-02-27 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2020-12-03 — Passed Senate without amendment by Unanimous Consent.
+- 2020-12-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-12-03 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent. (consideration: CR S7222)
+- 2020-12-03 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.(consideration: CR S7222)
+- 2020-12-07 — Message on Senate action sent to the House.
+- 2020-12-11 — Presented to President.
+- 2020-12-11 — Presented to President.
+- 2020-12-17 — Became Public Law No: 116-217.
+- 2020-12-17 — Became Public Law No: 116-217.
+- 2020-12-17 — Signed by President.
+- 2020-12-17 — Signed by President.
