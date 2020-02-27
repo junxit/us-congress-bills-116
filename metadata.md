@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3749
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3749
@@ -62,9 +62,10 @@ Legal Services for Homeless Veterans Act
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 - Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -80,3 +81,4 @@ Legal Services for Homeless Veterans Act
 - 2020-02-25 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
 - 2020-02-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1177)
 - 2020-02-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-02-27 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
