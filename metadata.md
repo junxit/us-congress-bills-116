@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3399
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3399
@@ -51,3 +51,14 @@ To amend the Nutria Eradication and Control Act of 2003 to include California in
 - 2020-02-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1208)
 - 2020-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2020-02-27 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2020-09-30 — Passed Senate without amendment by Voice Vote.
+- 2020-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2020-09-30 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
+- 2020-09-30 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S6000)
+- 2020-10-01 — Message on Senate action sent to the House.
+- 2020-10-20 — Presented to President.
+- 2020-10-20 — Presented to President.
+- 2020-10-30 — Became Public Law No: 116-186.
+- 2020-10-30 — Became Public Law No: 116-186.
+- 2020-10-30 — Signed by President.
+- 2020-10-30 — Signed by President.
