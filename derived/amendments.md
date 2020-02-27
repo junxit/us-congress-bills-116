@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3399
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 
