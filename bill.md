@@ -2,7 +2,7 @@
 legis-num: H.R. 2227
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 2227
@@ -22,6 +22,6 @@ This Act may be cited as the “Gold Star Spouses and Spouses of Injured Service
   >     - **(ii)** in the case of a lessee who lacks the mental capacity to contract or to manage his or her own affairs (including disbursement of funds without limitation) due to such injury or illness, the spouse or dependent of the lessee may terminate the lease.
   >   - **(B)** *Definitions* In this paragraph:
   >     - **(i)** The term catastrophic injury or illness has the meaning given that term in section 439(g) of title 37, United States Code.
-  >     - **(ii)** The term covered service means full-time National Guard duty, active Guard and Reserve duty, or inactive-duty training (as such terms are defined in section 101(d) of title 10, United States Code)
+  >     - **(ii)** The term covered service means full-time National Guard duty, active Guard and Reserve duty, or inactive-duty training (as such terms are defined in section 101(d) of title 10, United States Code).
 
 - **(b)** *Deaths* Paragraph (3) of such section is amended by striking “The spouse of the lessee” and inserting “The spouse or dependent of the lessee”.

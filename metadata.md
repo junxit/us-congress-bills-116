@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2227
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2227
@@ -30,9 +30,10 @@ Gold Star Spouses and Spouses of Injured Servicemembers Leasing Relief Expansion
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 - Rep. Phillips, Dean [D-MN-3] (P000616)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Gold Star Spouses and Spouses of Injured Servicemembers Leasing Relief Expansion
 - 2020-02-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1174)
 - 2020-02-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2020-02-25 — The title of the measure was amended. Agreed to without objection.
+- 2020-02-27 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
