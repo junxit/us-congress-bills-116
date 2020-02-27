@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 6001
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6001
+
+> To reauthorize a pilot program to evaluate the effectiveness of the implementation of certain water-related projects carried out by non-Federal interests.
+
+## § 1. Non-federal implementation of water-related projects
+
+Section 1043(b) of the Water Resources Reform and Development Act of 2014 (33 U.S.C. 2201 note) is amended—
+
+- **(1)** in paragraph (5)(B) by inserting “and every 5 years thereafter until the termination of authority of the pilot program,” after “enactment of this Act,”;
+- **(2)** in paragraph (7) by striking “on the date that is 5 years after the date of enactment of this Act” and inserting “at the end of the fiscal year period described in paragraph (8)”; and
+- **(3)** in paragraph (8) by striking “fiscal years 2019 through 2023” and inserting “fiscal years 2021 through 2025”.
