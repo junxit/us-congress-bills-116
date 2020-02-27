@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3399
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3399
@@ -26,9 +26,10 @@ To amend the Nutria Eradication and Control Act of 2003 to include California in
 - Rep. Graves, Garret [R-LA-6] (G000577)
 - Rep. Bera, Ami [D-CA-7] (B001287)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ To amend the Nutria Eradication and Control Act of 2003 to include California in
 - 2020-02-26 — Mr. Neguse moved to suspend the rules and pass the bill, as amended.
 - 2020-02-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1208)
 - 2020-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-02-27 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
