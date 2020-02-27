@@ -1,7 +1,7 @@
 ---
 measure: H.R. 35
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 35
@@ -191,3 +191,4 @@ Emmett Till Antilynching Act
 - 2020-02-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 4 (Roll no. 71). (text: CR H1197-1198)
 - 2020-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 4 (Roll no. 71).
 - 2020-02-26 — The title of the measure was amended. Agreed to without objection.
+- 2020-02-27 — Received in the Senate.
