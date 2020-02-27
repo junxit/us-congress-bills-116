@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3641
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -199,7 +199,7 @@ This Act may be cited as the “Stronger Enforcement of Civil Penalties Act of 2
   - **(1)** *Ineligibility of certain underwriters and affiliates* Section 9(d)(2) of the Investment Company Act of 1940 (15 U.S.C. 80a–9(d)(2)) is amended by adding at the end the following:
     > - **(D)** *Fourth tier* Notwithstanding subparagraphs (A), (B), and (C), the maximum amount of penalty for each such act or omission shall be 3 times the otherwise applicable amount in such subparagraphs if, within the 5-year period preceding such act or omission, the person who committed the act or omission was criminally convicted for securities fraud or became subject to a judgment or order imposing monetary, equitable, or administrative relief in any Commission action alleging fraud by that person.
 
-  - **(2)** *Enforcement* Section 42(e)(2) of the Investment Company Act of 1940 (15 U.S.C. 80a–41(e)(2)) is amended by adding at the end the following:
+  - **(2)** *Enforcement of certain actions* Section 42(e)(2) of the Investment Company Act of 1940 (15 U.S.C. 80a–41(e)(2)) is amended by adding at the end the following:
     > - **(D)** *Fourth tier* Notwithstanding subparagraphs (A), (B), and (C), the maximum amount of penalty for each such violation shall be 3 times the otherwise applicable amount in such subparagraphs if, within the 5-year period preceding such violation, the defendant was criminally convicted for securities fraud or became subject to a judgment or order imposing monetary, equitable, or administrative relief in any Commission action alleging fraud by that defendant.
 
 - **(d)** *Investment advisers Act of 1940* The Investment Advisers Act of 1940 (15 U.S.C. 80b–1 et seq.) is amended—
