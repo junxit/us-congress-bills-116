@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2490
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2490
@@ -16,9 +16,10 @@ To amend the National Trails System Act to direct the Secretary of the Interior 
 
 - Rep. Fortenberry, Jeff [R-NE-1] (F000449)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ To amend the National Trails System Act to direct the Secretary of the Interior 
 - 2020-02-26 — Mr. Neguse moved to suspend the rules and pass the bill, as amended.
 - 2020-02-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 10 (Roll no. 73). (text: CR H1206)
 - 2020-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 10 (Roll no. 73).
+- 2020-02-27 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
