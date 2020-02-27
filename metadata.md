@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1492
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1492
@@ -39,3 +39,4 @@ Yucca House National Monument Expansion Act
 - 2020-02-26 — Mr. Neguse moved to suspend the rules and pass the bill, as amended.
 - 2020-02-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1210)
 - 2020-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-02-27 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 432.
