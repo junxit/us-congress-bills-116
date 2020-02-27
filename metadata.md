@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3641
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3641
@@ -25,3 +25,8 @@ Stronger Enforcement of Civil Penalties Act of 2019
 - 2019-07-09 — Introduced in House
 - 2019-07-09 — Introduced in House
 - 2019-07-09 — Referred to the House Committee on Financial Services.
+- 2019-07-16 — Committee Consideration and Mark-up Session Held.
+- 2019-07-16 — Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 25.
+- 2020-02-27 — Placed on the Union Calendar, Calendar No. 331.
+- 2020-02-27 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-410.
+- 2020-02-27 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-410.
