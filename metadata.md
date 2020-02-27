@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4613
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4613
@@ -22,9 +22,10 @@ VA Reporting Transparency Act
 - Rep. Steube, W. Gregory [R-FL-17] (S001214)
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ VA Reporting Transparency Act
 - 2020-02-25 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
 - 2020-02-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1179)
 - 2020-02-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-02-27 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
