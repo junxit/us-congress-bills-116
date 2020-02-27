@@ -1,7 +1,7 @@
 ---
 legis-num: S. RES. 315
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -13,12 +13,12 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 - Whereas, from 1525 to 1866, the transatlantic slave trade resulted in more than 12,000,000 individuals being taken from their homes in Africa and made to endure the horrors of the Middle Passage to the Americas, where those individuals were forced into enslavement;
 - Whereas, on March 2, 1807, Congress enacted legislation banning the importation of enslaved people, which went into effect on January 1, 1808;
-- Whereas, in contravention of that ban, the last enslaved Africans forced to endure the voyage to the United States came aboard the Clotilda, which— (1)left from Whydah, modern-day Benin, in May of 1860; (2)arrived in Port of Pines in Grand Bay, Mississippi, on July 9, 1860; and (3)was ultimately brought to Mobile Bay, Alabama, on July 14, 1860, carrying 110 individuals, including men, women, and children;
+- Whereas, in contravention of that ban, the last enslaved Africans forced to endure the voyage to the United States came aboard the Clotilda, which—(1)left from Whydah, modern-day Benin, in May of 1860;(2)arrived in Port of Pines in Grand Bay, Mississippi, on July 9, 1860; and(3)was ultimately brought to Mobile Bay, Alabama, on July 14, 1860, carrying 110 individuals, including men, women, and children;
 - Whereas, shortly after arrival in Mobile Bay, Alabama, the Captain of the Clotilda scuttled and burned the ship to the waterline in order to conceal the evidence of his crime;
 - Whereas, following the end of the Civil War and the emancipation of enslaved Africans, some of the captives brought to the United States aboard the Clotilda settled in the area now known as Africatown, Alabama;
 - Whereas, on May 22, 2019, the Alabama Historical Commission and a team of scientists confirmed that a wreckage found in the Twelve Mile Island section of the Mobile River was the Clotilda;
 - Whereas, in the 160 years since the Clotilda was brought to Mobile Bay, the residents of Africatown, Alabama, have played a critical role in preserving the unique and important heritage and traditions of their community;
-- Whereas the Africatown Historic District was listed on the National Register of Historic Places on December 4, 2012, and is home to a number of important historic sites, including— (1)the Mobile County Training School; (2)the Old Landmark Baptist Church, now known as the Union Baptist Church; and (3)the Africatown Cemetery, where many of the individuals who survived the forced migration to the United States in 1860 are buried: Now, therefore, be it
+- Whereas the Africatown Historic District was listed on the National Register of Historic Places on December 4, 2012, and is home to a number of important historic sites, including—(1)the Mobile County Training School;(2)the Old Landmark Baptist Church, now known as the Union Baptist Church; and(3)the Africatown Cemetery, where many of the individuals who survived the forced migration to the United States in 1860 are buried: Now, therefore, be it
 
 That it is the sense of the Senate that—
 
