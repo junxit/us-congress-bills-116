@@ -1,7 +1,7 @@
 ---
 measure: H.R. 561
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 561
@@ -59,3 +59,14 @@ Protecting Business Opportunities for Veterans Act of 2019
 - 2020-02-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1180-1181)
 - 2020-02-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2020-02-27 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2020-09-30 — Passed Senate without amendment by Unanimous Consent.
+- 2020-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-09-30 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2020-09-30 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S6001-6002)
+- 2020-10-01 — Message on Senate action sent to the House.
+- 2020-10-20 — Presented to President.
+- 2020-10-20 — Presented to President.
+- 2020-10-30 — Became Public Law No: 116-183.
+- 2020-10-30 — Became Public Law No: 116-183.
+- 2020-10-30 — Signed by President.
+- 2020-10-30 — Signed by President.
