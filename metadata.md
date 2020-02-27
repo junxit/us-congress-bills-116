@@ -1,7 +1,7 @@
 ---
 measure: H.R. 560
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 560
@@ -24,10 +24,11 @@ Northern Mariana Islands Residents Relief Act
 - Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
 - Rep. Bishop, Rob [R-UT-1] (B001250)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Northern Mariana Islands Residents Relief Act
 - 2020-02-26 — Mr. Neguse moved to suspend the rules and pass the bill, as amended.
 - 2020-02-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1203)
 - 2020-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-02-27 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
