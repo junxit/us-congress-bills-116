@@ -1,7 +1,7 @@
 ---
 measure: S. 2964
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2964
@@ -28,3 +28,7 @@ War Risk Insurance Extension Act of 2019
 
 - 2019-12-03 — Introduced in Senate
 - 2019-12-03 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2019-12-11 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2020-02-27 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-219.
+- 2020-02-27 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-219.
+- 2020-02-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 434.
