@@ -1,7 +1,7 @@
 ---
 measure: H.R. 473
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 473
@@ -50,9 +50,10 @@ To authorize the Every Word We Utter Monument to establish a commemorative work 
 - Rep. Harder, Josh [D-CA-10] (H001090)
 - Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -73,3 +74,4 @@ To authorize the Every Word We Utter Monument to establish a commemorative work 
 - 2020-02-26 — Mr. Neguse moved to suspend the rules and pass the bill, as amended.
 - 2020-02-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1204-1205)
 - 2020-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-02-27 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
