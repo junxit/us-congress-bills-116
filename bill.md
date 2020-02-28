@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 6029
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6029
+
+> To designate the facility of the United States Postal Service located at 215 1st Avenue in Amory, Mississippi, as the “Command Sergeant Major Lawrence E. “Rabbit” Kennedy Post Office Building”.
+
+## § 1. Command Sergeant Major Lawrence E. “Rabbit” Kennedy Post Office Building
+
+- **(a)** *Designation* The facility of the United States Postal Service located at 215 1st Avenue in Amory, Mississippi, shall be known and designated as the “Command Sergeant Major Lawrence E. “Rabbit” Kennedy Post Office Building”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Command Sergeant Major Lawrence E. “Rabbit” Kennedy Post Office Building” .
