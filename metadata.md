@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2819
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2819
@@ -42,6 +42,10 @@ Gold Star Mothers Families National Monument Extension Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2020-02-28 — [House 116-2-76](votes/house-116-2-0076.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (407–0)
+
 ## Actions
 
 - 2019-05-17 — Introduced in House
@@ -55,3 +59,12 @@ Gold Star Mothers Families National Monument Extension Act
 - 2019-10-18 — Placed on the Union Calendar, Calendar No. 193.
 - 2019-10-18 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-243.
 - 2019-10-18 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-243.
+- 2020-02-26 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2020-02-26 — Considered under suspension of the rules. (consideration: CR H1207-1208; text: CR H1207)
+- 2020-02-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2819.
+- 2020-02-26 — Mr. Neguse moved to suspend the rules and pass the bill, as amended.
+- 2020-02-28 — Considered as unfinished business. (consideration: CR H1286)
+- 2020-02-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-02-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 76).
+- 2020-02-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 76).
+- 2020-02-28 — The title of the measure was amended. Agreed to without objection.
