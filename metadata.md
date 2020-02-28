@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2339
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2339
@@ -163,3 +163,22 @@ Protecting American Lungs and Reversing the Youth Tobacco Epidemic Act of 2020
 - 2020-02-21 — Placed on the Union Calendar, Calendar No. 324.
 - 2020-02-21 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-402.
 - 2020-02-21 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-402.
+- 2020-02-26 — Rules Committee Resolution H. Res. 866 Reported to House. Rule provides for consideration of H.R. 2339 with 1 hour and 30 minutes of general debate. Motion to recommit with or without instructions allowed.
+- 2020-02-27 — Rule H. Res. 866 passed House.
+- 2020-02-28 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2020-02-28 — Considered as unfinished business. (consideration: CR H1286-1289)
+- 2020-02-28 — Considered under the provisions of rule H. Res. 866. (consideration: CR H1257-1286)
+- 2020-02-28 — DEBATE - The House proceeded with 90 minutes of debate on H.R. 2339.
+- 2020-02-28 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Walden motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to insert a new title at the end of the bill, "Born-Alive Abortion Survivors Protection."
+- 2020-02-28 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2020-02-28 — House amendment offered
+- 2020-02-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-02-28 — Mr. Walden moved to recommit with instructions to the Committee on Energy and Commerce. (text: CR H1286-1287)
+- 2020-02-28 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2020-02-28 — On motion to recommit with instructions Failed by the Yeas and Nays: 187 - 220 (Roll no. 77).
+- 2020-02-28 — On passage Passed by the Yeas and Nays: 213 - 195 (Roll no. 78). (text: CR H1257-1262)
+- 2020-02-28 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of Rule XIX, further proceedings on H.R. 2339 were postponed.
+- 2020-02-28 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 213 - 195 (Roll no. 78).
+- 2020-02-28 — Rule provides for consideration of H.R. 2339 with 1 hour and 30 minutes of general debate. Motion to recommit with or without instructions allowed.
+- 2020-02-28 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2020-02-28 — The previous question was ordered pursuant to the rule.
