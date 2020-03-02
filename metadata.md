@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2339
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2339
@@ -145,9 +145,10 @@ Protecting American Lungs and Reversing the Youth Tobacco Epidemic Act of 2020
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 - Rep. Phillips, Dean [D-MN-3] (P000616)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Recorded votes (2)
 
@@ -187,3 +188,4 @@ Protecting American Lungs and Reversing the Youth Tobacco Epidemic Act of 2020
 - 2020-02-28 — Rule provides for consideration of H.R. 2339 with 1 hour and 30 minutes of general debate. Motion to recommit with or without instructions allowed.
 - 2020-02-28 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2020-02-28 — The previous question was ordered pursuant to the rule.
+- 2020-03-02 — Received in the Senate and Read twice and referred to the Committee on Finance.
