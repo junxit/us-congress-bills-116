@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1589
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1589
@@ -42,3 +42,7 @@ CBRN Intelligence and Information Sharing Act of 2019
 - 2019-04-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2931-2932)
 - 2019-04-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2931-2932)
 - 2019-04-02 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2019-11-06 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2020-03-02 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-222.
+- 2020-03-02 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-222.
+- 2020-03-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 437.
