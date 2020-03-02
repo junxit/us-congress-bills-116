@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5931
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5931
@@ -16,9 +16,13 @@ Improving FHA Support for Small Dollar Mortgages Act of 2020
 
 - Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
 
-## Cosponsors (1)
+## Cosponsors (5)
 
 - Rep. Stivers, Steve [R-OH-15] (S001187)
+- Rep. Tlaib, Rashida [D-MI-13] (T000481)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Axne, Cynthia [D-IA-3] (A000378)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
 
 ## Committees (1)
 
@@ -29,3 +33,12 @@ Improving FHA Support for Small Dollar Mortgages Act of 2020
 - 2020-02-21 — Introduced in House
 - 2020-02-21 — Introduced in House
 - 2020-02-21 — Referred to the House Committee on Financial Services.
+- 2020-02-27 — Committee Consideration and Mark-up Session Held.
+- 2020-02-28 — Committee Consideration and Mark-up Session Held.
+- 2020-02-28 — Ordered to be Reported (Amended) by the Yeas and Nays: 48 - 0.
+- 2020-03-02 — Considered under suspension of the rules. (consideration: CR H1426-1428)
+- 2020-03-02 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5931.
+- 2020-03-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-03-02 — Mr. San Nicolas moved to suspend the rules and pass the bill, as amended.
+- 2020-03-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1426-1427)
+- 2020-03-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
