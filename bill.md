@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4351
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -33,7 +33,7 @@ The purpose of this Act is to discourage the use of discriminatory land use poli
   >     - **(E)** Allowing multifamily development in retail, office, and light manufacturing zones.
   >     - **(F)** Allowing single-room occupancy development wherever multifamily housing is allowed.
   >     - **(G)** Reducing minimum lot size.
-  >     - **(H)** Reducing the impact of historic preservation on housing production and affordability.
+  >     - **(H)** Ensuring historic preservation requirements and other land use policies or requirements are coordinated to encourage creation of housing in historic buildings and historic districts.
   >     - **(I)** Increasing the allowable floor area ratio in multifamily housing areas.
   >     - **(J)** Creating transit-oriented development zones.
   >     - **(K)** Streamlining or shortening permitting processes and timelines, including through one-stop and parallel-process permitting.
@@ -44,6 +44,10 @@ The purpose of this Act is to discourage the use of discriminatory land use poli
   >     - **(P)** Allowing the conversion of office units to apartments.
   >     - **(Q)** Allowing the subdivision of single-family homes into duplexes.
   >     - **(R)** Allowing accessory dwelling units, including detached accessory dwelling units, on all lots with single-family homes.
+  >     - **(S)** Establishing density bonuses.
+  >     - **(T)** Eliminating or relaxing residential property height limitations.
+  >     - **(U)** Using property tax abatements to enable higher density and mixed-income communities.
+  >     - **(V)** Donating vacant land for affordable housing development.
   >   - **(3)** *Effect of submission* A submission under this subsection shall not be binding with respect to the use or distribution of amounts received under section 106.
   >   - **(4)** *Acceptance or nonacceptance of plan* The acceptance or nonacceptance of any plan submitted under this subsection in which the information required under this subsection is provided is not an endorsement or approval of the plan, policies, or methodologies, or lack thereof.
 
