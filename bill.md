@@ -1,0 +1,45 @@
+---
+legis-num: S. 3373
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3373
+
+> To clarify low or no emission vehicle project eligibility for bus and bus facility competitive grants.
+
+## § 1. Short title
+
+This Act may be cited as the “Low or No Emission Bus Access Act of 2020”.
+
+## § 2. Competitive grants for buses and bus facilities
+
+- **(a)** *In general* Section 5339(b)(1) of title 49, United States Code, is amended—
+  - **(1)** in subparagraph (A), by striking “and” at the end;
+  - **(2)** in subparagraph (B), by striking the period at the end and inserting “; and”; and
+  - **(3)** by adding at the end the following:
+    > - **(C)** any eligible project (as defined in subsection (c)(1)).
+
+- **(b)** *Competitive process* Section 5339(b) of title 49, United States Code, is amended by adding at the end the following:
+  > - **(9)** *Competitive process*
+  >   - **(A)** *Solicitation of applications* Not later than 30 days after the date on which amounts are made available for obligation under this subsection for a full fiscal year, the Secretary shall solicit grant applications for projects under this subsection on a competitive basis.
+  >   - **(B)** *Grant awards* The Secretary shall award a grant under this subsection based on a solicitation under subparagraph (A) of this paragraph not later than the earlier of—
+  >     - **(i)** 75 days after the date on which the solicitation expires; or
+  >     - **(ii)** the end of the fiscal year in which the Secretary solicited the grant applications.
+
+## § 3. Low or no emission vehicle program
+
+Section 5338(a) of title 49, United States Code, is amended—
+
+- **(1)** in paragraph (1)—
+  - **(A)** in subparagraph (D), by striking “and” at the end;
+  - **(B)** in subparagraph (E), by striking the period at the end and inserting “; and”; and
+  - **(C)** by adding at the end the following:
+    > - **(F)** $165,000,000 for each of fiscal years 2021 through 2025.
+
+- **(2)** in paragraph (2)(M)—
+  - **(A)** by inserting “(i)” after “(M)”;
+  - **(B)** by striking “no or low” and inserting “low or no”; and
+  - **(C)** by adding at the end the following:
+    > - **(ii)** $165,000,000 for each of fiscal years 2021 through 2025 shall be available for low or no emission grants under section 5339(c); and
