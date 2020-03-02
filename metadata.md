@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2819
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2819
@@ -38,9 +38,10 @@ Gold Star Mothers Families National Monument Extension Act
 - Rep. McGovern, James P. [D-MA-2] (M000312)
 - Rep. King, Peter T. [R-NY-2] (K000210)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -64,3 +65,4 @@ Gold Star Mothers Families National Monument Extension Act
 - 2020-02-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 76).
 - 2020-02-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 76).
 - 2020-02-28 — The title of the measure was amended. Agreed to without objection.
+- 2020-03-02 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
