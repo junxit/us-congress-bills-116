@@ -1,7 +1,7 @@
 ---
 measure: S. 1822
 congress: 116
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 1822
@@ -16,7 +16,7 @@ Broadband DATA Act
 
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 
-## Cosponsors (68)
+## Cosponsors (69)
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
 - Sen. Thune, John [R-SD] (T000250)
@@ -86,6 +86,7 @@ Broadband DATA Act
 - Sen. Enzi, Michael B. [R-WY] (E000285)
 - Sen. Inhofe, James M. [R-OK] (I000024)
 - Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Hawley, Josh [R-MO] (H001089)
 
 ## Committees (1)
 
@@ -122,3 +123,14 @@ Broadband DATA Act
 - 2020-03-03 — On agreeing to the Pallone amendment (A001) Agreed to without objection.
 - 2020-03-03 — On passage Passed without objection. (text of amendment in the nature of a substitute: CR H1461-1464)
 - 2020-03-03 — Passed/agreed to in House: On passage Passed without objection.
+- 2020-03-04 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2020-03-10 — Measure laid before Senate by unanimous consent. (consideration: CR S1660)
+- 2020-03-10 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S.1822 by Unanimous Consent.
+- 2020-03-10 — Senate agreed to the House amendment to S.1822 by Unanimous Consent.
+- 2020-03-11 — Message on Senate action sent to the House.
+- 2020-03-12 — Presented to President.
+- 2020-03-12 — Presented to President.
+- 2020-03-23 — Became Public Law No: 116-130.
+- 2020-03-23 — Became Public Law No: 116-130.
+- 2020-03-23 — Signed by President.
+- 2020-03-23 — Signed by President.
