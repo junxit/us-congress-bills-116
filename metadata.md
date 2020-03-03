@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4334
 congress: 116
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4334
@@ -97,3 +97,14 @@ Supporting Older Americans Act of 2020
 - 2020-03-03 — Senate amendment agreed to: Amendment SA 1461 agreed to in Senate by Unanimous Consent.
 - 2020-03-03 — Senate amendment proposed (on the floor): Amendment SA 1461 proposed by Senator Murkowski for Senator Collins.
 - 2020-03-03 — Senate amendment submitted
+- 2020-03-04 — Message on Senate action sent to the House.
+- 2020-03-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-03-11 — Ms. Bonamici asked unanimous consent to take from the Speaker's table and agree to the Senate amendment. (consideration: CR H1640-1648)
+- 2020-03-11 — On motion that the House agree to the Senate amendment Agreed to without objection. (text: CR H1640-1648)
+- 2020-03-11 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.
+- 2020-03-16 — Presented to President.
+- 2020-03-16 — Presented to President.
+- 2020-03-25 — Became Public Law No: 116-131.
+- 2020-03-25 — Became Public Law No: 116-131.
+- 2020-03-25 — Signed by President.
+- 2020-03-25 — Signed by President.

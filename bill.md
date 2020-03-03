@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 4334
-congress: 116th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Sixteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 4334
 
-That the bill from the House of Representatives (H.R. 4334) entitled “An Act to amend the Older Americans Act of 1965 to authorize appropriations for fiscal years 2020 through 2024, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend the Older Americans Act of 1965 to authorize appropriations for fiscal years 2020 through 2024, and for other purposes.
 
 ## § 1. Short title
 
