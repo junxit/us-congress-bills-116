@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4334
 congress: 116
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
