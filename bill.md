@@ -1,8 +1,8 @@
 ---
 legis-num: H. RES. 230
 congress: 116th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 230
@@ -32,15 +32,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas decades of behavioral and social science research have demonstrated that building adaptive capacities, known as resilience, through stable and committed relationships with a supportive caregiver or other adult can lessen the harmful developmental effects of violence in children and youth;
 - Whereas, according to the Organization for Economic Co-operation and Development, the United States invests 0.5 percent of official development assistance in programs that are designed to prevent and address violence against children and youth;
 - Whereas the United States, in coordination with public-private partnerships and other organizations, has endorsed the technical package called “INSPIRE: Seven Strategies for Ending Violence against Children” (referred to in this preamble as “INSPIRE”) put forth by the World Health Organization with substantial technical input from the United States Government, including from the Centers for Disease Control and Prevention and United States Agency for International Development;
-- Whereas INSPIRE contains 7 evidence-based strategies to end violence against children that include— (1)implementing and enforcing relevant laws; (2)addressing harmful gender and other social norms; (3)creating and sustaining safe communities; (4)supporting parents and caregivers; (5)improving household economic security to reduce violence in the home; (6)improving access to health services, social welfare, and criminal justice support; and (7)ensuring safe school environments that provide gender-equitable education and social-emotional learning and life skills training; and
+- Whereas INSPIRE contains seven evidence-based strategies to end violence against children that include— (1)implementing and enforcing relevant laws; (2)addressing harmful gender and other social norms; (3)creating and sustaining safe communities; (4)supporting parents and caregivers; (5)improving household economic security to reduce violence in the home; (6)improving access to health services, social welfare, and criminal justice support; and (7)ensuring safe school environments that provide gender-equitable education and social-emotional learning and life skills training; and
 - Whereas the United States Agency for International Development, the Department of State, the Department of Labor, the Department of Homeland Security, and the Department of Health and Human Services each play a critical role in preventing and responding to violence against children and youth: Now, therefore, be it
 
 That it is the sense of the House of Representatives that the United States—
 
-- **(1)** condemns all forms of violence against children and youth globally, including physical, mental, and sexual violence, neglect, abuse, maltreatment, and exploitation;
-- **(2)** recognizes—
-  - **(A)** the harmful impact that violence against children and youth has on the healthy development of children; and
-  - **(B)** the harmful economic impact of violence against children and youth; and
-- **(3)** should—
+- **(1)** condemns all forms of violence against children and youth globally, including physical, mental, and sexual violence, neglect, abuse, maltreatment, and exploitation; and
+- **(2)** should—
   - **(A)** develop and implement a comprehensive and coordinated strategy built on evidence-based practices, including the technical package called “INSPIRE: Seven Strategies for Ending Violence against Children” put forth by the World Health Organization; and
-  - **(B)** adopt common metrics and indicators to monitor progress across Federal agencies to prevent, address, and end violence against children and youth globally.
+  - **(B)** adopt common metrics and indicators to monitor progress across Federal agencies to prevent, address, and end violence against children and youth globally, including harmful impacts of violence on the healthy development of children and the harmful economic impact of violence against children and youth globally.
