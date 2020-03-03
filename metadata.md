@@ -1,7 +1,7 @@
 ---
 measure: S. 1869
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1869
@@ -16,8 +16,9 @@ Secure Federal LEASEs Act
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
+- Sen. Portman, Rob [R-OH] (P000449)
 - Sen. Portman, Rob [R-OH] (P000449)
 
 ## Committees (1)
@@ -32,3 +33,12 @@ Secure Federal LEASEs Act
 - 2019-09-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-92.
 - 2019-09-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-92.
 - 2019-09-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 196.
+- 2020-03-03 — Amendment SA 1459 agreed to in Senate by Unanimous Consent.
+- 2020-03-03 — Amendment SA 1459 proposed by Senator Murkowski for Senator Peters. (consideration: CR S1444; text: CR S1428-1430) In the nature of a substitute.
+- 2020-03-03 — Measure laid before Senate by unanimous consent. (consideration: CR S1443-1444)
+- 2020-03-03 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S1428-1430)
+- 2020-03-03 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2020-03-03 — Senate amendment agreed to: Amendment SA 1459 agreed to in Senate by Unanimous Consent.
+- 2020-03-03 — Senate amendment proposed (on the floor): Amendment SA 1459 proposed by Senator Murkowski for Senator Peters.
+- 2020-03-03 — Senate amendment submitted
+- 2020-03-03 — The committee substitute withdrawn by Unanimous Consent.
