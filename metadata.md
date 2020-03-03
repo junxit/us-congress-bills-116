@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5932
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5932
@@ -21,9 +21,10 @@ Ensuring Chinese Debt Transparency Act of 2020
 - Rep. Cleaver, Emanuel [D-MO-5] (C001061)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ Ensuring Chinese Debt Transparency Act of 2020
 - 2020-03-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 356 - 0 (Roll no. 80). (text: CR H1429)
 - 2020-03-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 356 - 0 (Roll no. 80).
 - 2020-03-02 — The title of the measure was amended. Agreed to without objection.
+- 2020-03-03 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
