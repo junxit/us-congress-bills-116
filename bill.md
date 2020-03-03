@@ -12,14 +12,14 @@ chamber: IN THE SENATE OF THE UNITED STATES
 ## Preamble
 
 - Whereas Dr. Li Wenliang was a 34-year-old ophthalmologist working in Wuhan, China;
-- Whereas research indicates that the first patient infected with the 2019 novel coronavirus (2019–nCoV) exhibited symptoms on December 1, 2019;
+- Whereas research indicates that the first patient infected with the 2019 novel coronavirus (2019–nCoV) exhibited symptoms in early December 2019;
 - Whereas, in December 2019, Dr. Li notified his associates in the medical community in China about the outbreak of 2019–nCoV;
 - Whereas, after raising concerns about the spread of 2019–nCoV, Dr. Li was summoned by Chinese officials and forced to sign a statement retracting his warnings about the virus and confessing that he had spread illegal rumors;
 - Whereas Chinese government authorities played down dangers to the public for weeks as 2019–nCoV continued to spread, with more than 42,000 confirmed cases in China alone and at least 1,000 deaths reported as of February 11, 2020;
 - Whereas Dr. Li continued to work as an ophthalmologist at Wuhan Central Hospital despite his knowledge of the outbreak, and appears to have been infected himself with 2019–nCoV after coming in contact with a patient he was treating for glaucoma;
 - Whereas, on the morning of February 7, 2020, in the hospital where he worked, Dr. Li Wenliang died after contracting 2019–nCoV;
 - Whereas, before he passed away, Dr. Li stated, “If the officials had disclosed information about the epidemic earlier, I think it would have been a lot better. There should be more openness and transparency.”;
-- Whereas the people of China expressed their grief and anger on social media after the death of Dr. Li, with the phrase “I want freedom of speech” emerging as a top trending topic on the Weibo platform;
+- Whereas the people of China expressed their grief and anger on social media after the death of Dr. Li with the phrase “I want freedom of speech,” which was swiftly censored by the Government of the People's Republic of China;
 - Whereas the Government of the People's Republic of China continues to limit free expression, and stepped up censorship after online criticism and investigative reports by Chinese journalists suggesting that officials underestimated and underplayed the threat of 2019–nCoV;
 - Whereas Freedom House has listed China as the “worst abuser of internet freedom” in the world for the fourth year in a row, and in the aftermath of the outbreak of 2019–nCoV, there are numerous and well-documented instances of the “Great Firewall” of China suppressing the free flow of critical and medically important information about the pandemic;
 - Whereas the Government of the People's Republic of China has endangered the people of Taiwan and people around the world by using its influence to limit Taiwan’s access to the benefits of membership in the World Health Organization and the International Civil Aviation Organization, particularly during the current outbreak; and
