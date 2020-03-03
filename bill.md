@@ -1,8 +1,8 @@
 ---
 legis-num: H. RES. 387
 congress: 116th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 387
@@ -33,7 +33,7 @@ That the House of Representatives—
   - **(B)** support the efforts of local communities, nongovernmental organizations, and the Government of the Central African Republic to prevent atrocities along religious and ethnic lines, including through programs that focus on peacebuilding, reconciliation, human rights, good and inclusive governance, justice, security sector reform, and the implementation of the Khartoum Agreement;
   - **(C)** work with the United Nations, African Union, and regional governments and organizations to enforce existing sanctions related to the Central African Republic and address cross-border flows of illicit arms, natural resources, and armed groups;
   - **(D)** ensure that United States assistance is well-coordinated among agencies and with other donors to maximize diplomatic, development, and defense resources to support peace, stability, and the Central African Republic’s journey to self-reliance;
-  - **(E)** undertake efforts to prioritize mutual interests between the United States and the Central African Republic and take steps to position the United States as a leader working with the Government of the Central African Republic in the areas of reconstruction, post­con­flict remediation, and institution building, as well as taking steps to combat Russian influence in the country and region;
+  - **(E)** undertake efforts to prioritize mutual interests between the United States and the Central African Republic and take steps to position the United States as a leader working with the Government of the Central African Republic in the areas of reconstruction, postconflict remediation, and institution building, as well as taking steps to combat Russian influence in the country and region;
   - **(F)** support rehabilitation and reintegration programs led by the Central African Republic Government, nongovernmental organizations, and regional government partners for children, youth, and adults that have demobilized from armed groups, including the Lord’s Resistance Army;
   - **(G)** ensure that the United States Embassy in Bangui, including USAID presence, and the Department of State Africa Bureau have adequate staffing and funding to carry out their programs and objectives; and
-  - **(H)** ensure that the United Nations Multidimensional Integrated Stabilization Mission in the Central African Republic has adequate resources, including personnel and force enabling equipment, and full funding to carry out its mandate.
+  - **(H)** ensure that the United Nations Multidimensional Integrated Stabilization Mission in the Central African Republic has adequate resources, including personnel, temporary forward operating bases, and force enabling equipment, to carry out its civilian protection mandate and more effectively project the presence of the United Nations.
