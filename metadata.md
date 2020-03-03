@@ -1,7 +1,7 @@
 ---
 measure: S. 1822
 congress: 116
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 1822
@@ -16,7 +16,7 @@ Broadband DATA Act
 
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 
-## Cosponsors (66)
+## Cosponsors (68)
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
 - Sen. Thune, John [R-SD] (T000250)
@@ -84,6 +84,8 @@ Broadband DATA Act
 - Sen. Scott, Tim [R-SC] (S001184)
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Grassley, Chuck [R-IA] (G000386)
 
 ## Committees (1)
 
@@ -109,3 +111,14 @@ Broadband DATA Act
 - 2019-12-19 — Senate amendment proposed (on the floor): Amendment SA 1268 proposed by Senator Wicker.
 - 2019-12-19 — Senate amendment submitted
 - 2019-12-19 — The committee substitute withdrawn by Unanimous Consent.
+- 2020-03-03 — Amendment (A001) in the nature of a substitute offered by Mr. Pallone. (consideration: CR H1461-1464; text: CR H1461-1464)
+- 2020-03-03 — Amendment agreed to by House: On agreeing to the Pallone amendment (A001) Agreed to without objection.
+- 2020-03-03 — Considered by unanimous consent. (consideration: CR H1458-1464)
+- 2020-03-03 — House amendment agreed to: On agreeing to the Pallone amendment (A001) Agreed to without objection.
+- 2020-03-03 — House amendment offered
+- 2020-03-03 — House amendment offered/reported by: Amendment (A001) in the nature of a substitute offered by Mr. Pallone.
+- 2020-03-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-03-03 — Mr. Pallone asked unanimous consent to take from the Speaker's table and consider.
+- 2020-03-03 — On agreeing to the Pallone amendment (A001) Agreed to without objection.
+- 2020-03-03 — On passage Passed without objection. (text of amendment in the nature of a substitute: CR H1461-1464)
+- 2020-03-03 — Passed/agreed to in House: On passage Passed without objection.

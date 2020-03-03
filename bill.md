@@ -1,13 +1,15 @@
 ---
 legis-num: S. 1822
 congress: 116th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 1822
 
-> To require the Federal Communications Commission to issue rules relating to the collection of data with respect to the availability of broadband services, and for other purposes.
+That the bill from the Senate (S. 1822) entitled “An Act to require the Federal Communications Commission to issue rules relating to the collection of data with respect to the availability of broadband services, and for other purposes.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title
 
