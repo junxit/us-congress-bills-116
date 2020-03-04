@@ -1,7 +1,7 @@
 ---
 measure: S. 893
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 893
@@ -41,3 +41,12 @@ Secure 5G and Beyond Act of 2020
 - 2019-12-19 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-184.
 - 2019-12-19 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-184.
 - 2019-12-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 395.
+- 2020-03-04 — Amendment SA 1510 agreed to in Senate by Unanimous Consent.
+- 2020-03-04 — Amendment SA 1510 proposed by Senator McConnell for Senator Cornyn. (consideration: CR S1507; text: CR S1501-1502) In the nature of a substitute.
+- 2020-03-04 — Measure laid before Senate by unanimous consent. (consideration: CR S1506-1507)
+- 2020-03-04 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S1501-1502)
+- 2020-03-04 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2020-03-04 — Senate amendment agreed to: Amendment SA 1510 agreed to in Senate by Unanimous Consent.
+- 2020-03-04 — Senate amendment proposed (on the floor): Amendment SA 1510 proposed by Senator McConnell for Senator Cornyn.
+- 2020-03-04 — Senate amendment submitted
+- 2020-03-04 — The committee substitute withdrawn by Unanimous Consent.

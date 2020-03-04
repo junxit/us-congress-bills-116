@@ -1,7 +1,7 @@
 ---
 legis-num: S. 893
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,37 +11,65 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Secure 5G and Beyond Act of 2019”.
+This Act may be cited as the “Secure 5G and Beyond Act of 2020”.
 
-## § 2. Strategy to ensure security of next generation mobile telecommunications systems and infrastructure
+## § 2. Appropriate committees of Congress defined
 
-- **(a)** *Appropriate committees of Congress defined* In this section, the term appropriate committees of Congress means—
-  - **(1)** the Select Committee on Intelligence, the Committee on Commerce, Science, and Transportation, the Committee on Foreign Relations, the Committee on Armed Services, and the Committee on Homeland Security and Governmental Affairs of the Senate; and
-  - **(2)** the Permanent Select Committee on Intelligence, the Committee on Energy and Commerce, the Committee on Foreign Affairs, the Committee on Armed Services, and the Committee on Homeland Security of the House of Representatives.
-- **(b)** *Strategy required* Not later than 180 days after the date of the enactment of this Act, the President, in consultation with the Chairman of the Federal Communications Commission, the Administrator of the National Telecommunications and Information Administration, the Secretary of Homeland Security, the Director of National Intelligence, the Attorney General, and the Secretary of Defense, shall develop and submit to the appropriate committees of Congress a strategy—
-  - **(1)** to ensure the security of 5th and future generations mobile telecommunications systems and infrastructure within the United States;
-  - **(2)** to assist mutual defense treaty allies of the United States, strategic partners of the United States, and other countries, when in the security interests of the United States, in maximizing the security of 5th and future generations mobile telecommunications systems and infrastructure inside their countries; and
-  - **(3)** to protect the competitiveness of United States companies, privacy of United States consumers, and integrity of standards setting bodies against political influence.
-- **(c)** *Designation* The strategy developed under subsection (b) shall be known as the “Secure Next Generation Mobile Communications Strategy”.
-- **(d)** *Elements* The strategy required by subsection (b) shall represent a whole-of-government approach and shall include the following:
-  - **(1)** A description of United States national and economic security interests pertaining to the deployment of 5th and future generations mobile telecommunications systems and infrastructure.
-  - **(2)** An identification and assessment of potential security threats and vulnerabilities to the infrastructure, equipment, systems, software, and virtually defined networks that support 5th and future generations mobile telecommunications systems and infrastructure.
-  - **(3)** A list of available domestic suppliers of 5th and future generations telecommunications equipment and other suppliers in countries that are mutual defense allies or strategic partners of the United States and a strategy to assess their ability to produce and supply 5th generation and future generations telecommunications systems and infrastructure.
-  - **(4)** Identification of trusted supplier entities from both inside and outside the United States that are capable of producing and supplying to private industry infrastructure and systems equipment supporting 5th and future generations mobile telecommunications systems and infrastructure.
-  - **(5)** Identification of where security gaps exist in the United States domestic or mutual defense treaty allies and strategic partners telecommunications equipment supply chain for 5th and future generations infrastructure and systems equipment.
-  - **(6)** Identification of incentives and policy options to help close or narrow such security gaps in the United States domestic industrial base, including research and development in critical technologies and workforce development in new generation technologies.
-  - **(7)** Identification of incentives and policy options for leveraging the telecommunications equipment suppliers from mutual defense treaty allies, strategic partners, and other countries to ensure that private industry in the United States has adequate sources for secure, effective, and reliable 5th and future generations mobile telecommunications systems and infrastructure equipment.
-  - **(8)** A strategy for diplomatic engagement with mutual defense treaty allies, strategic partners, and other countries to share security risk information and findings pertaining to 5th and future generations mobile telecommunications systems and infrastructure equipment and cooperation on mitigating those risks.
-  - **(9)** A strategy for engagements with private sector telecommunications infrastructure and systems equipment developers to share information and findings on 5th and future generations mobile telecommunication systems and infrastructure equipment standards to secure platforms.
-  - **(10)** A strategy for diplomatic engagements with mutual defense treaty allies, strategic partners, and other countries to share information and findings on 5th and future generations mobile telecommunication systems and infrastructure equipment standards and standards setting bodies to promote maximum interoperability, competitiveness, openness, and secure platforms.
-  - **(11)** A strategy for joint testing environments with mutual defense treaty allies, strategic partners, and other countries to ensure a trusted marketplace for 5th and future generations mobile telecommunication systems and infrastructure equipment.
-  - **(12)** A strategy for research and development by the Federal Government, in close partnership with trusted supplier entities, mutual defense treaty allies, strategic partners, and other countries to reach and maintain United States leadership in 5th and future generations communications security, including the development of an ongoing monitoring capability of 5th and future generations telecommunications systems for security vulnerabilities.
-  - **(13)** Options for identifying and helping to mitigate the security risks of 5th and future generations telecommunications systems and infrastructure equipment with security flaws or vulnerabilities or equipment sourced from countries of concern that have already been put in place within mutual defense treaty allies, strategic partners, and other countries, when in the security interests of the United States.
-  - **(14)** A description of the appropriate roles and missions of the Federal Communications Commission, the National Telecommunications and Information Administration, the Department of Homeland Security, the intelligence community, the Department of Justice, and the Department of Defense in executing the strategy.
-  - **(15)** Development of a plan that includes interagency mechanisms for the National Telecommunications and Information Administration to act as the executive agent to coordinate implementation of the strategy.
-  - **(16)** An identification of the key diplomatic, development, intelligence, military, and economic resources necessary to implement the strategy, including specific budgetary requests.
-  - **(17)** A description of such legislative or administrative action as may be necessary to carry out the strategy.
-- **(e)** *Limitation* The strategy required by subsection (b) shall not include a recommendation or a proposal to Federalize 5th or future generations mobile telecommunications systems or infrastructure.
-- **(f)** *Briefing* Not later than 14 days after the date on which the strategy required by subsection (b) is completed, the President’s designee shall provide to the appropriate committees of Congress a briefing on the implementation of the strategy.
-- **(g)** *Implementation* The National Telecommunications and Information Administration shall act as the executive agent to coordinate implementation of the strategy, and keep congressional committees apprised of progress on implementation.
-- **(h)** *Form* The strategy submitted under subsection (b) shall be submitted in unclassified form, but may include a classified annex.
+In this Act, the term appropriate committees of Congress means—
+
+- **(1)** the Select Committee on Intelligence, the Committee on Commerce, Science, and Transportation, the Committee on Foreign Relations, the Committee on Armed Services, and the Committee on Homeland Security and Governmental Affairs of the Senate; and
+- **(2)** the Permanent Select Committee on Intelligence, the Committee on Energy and Commerce, the Committee on Foreign Affairs, the Committee on Armed Services, and the Committee on Homeland Security of the House of Representatives.
+
+## § 3. Strategy to ensure security of next generation wireless communications systems and infrastructure
+
+- **(a)** *Strategy required* Not later than 180 days after the date of enactment of this Act, the President, in consultation with the Chairman of the Federal Communications Commission, the Secretary of Commerce, the Assistant Secretary of Commerce for Communications and Information, the Secretary of Homeland Security, the Director of National Intelligence, the Attorney General, the Secretary of State, the Secretary of Energy, and the Secretary of Defense, and consistent with the protection of national security information, shall develop and submit to the appropriate committees of Congress a strategy—
+  - **(1)** to ensure the security of 5th and future generations wireless communications systems and infrastructure within the United States;
+  - **(2)** to provide technical assistance to mutual defense treaty allies of the United States, strategic partners of the United States, and other countries, when in the security and strategic interests of the United States, to maximize the security of 5th and future generations wireless communications systems and infrastructure inside their countries; and
+  - **(3)** to protect the competitiveness of United States companies, privacy of United States consumers, and integrity and impartiality of standards-setting bodies and processes related to 5th and future generations wireless communications systems and infrastructure.
+- **(b)** *Designation* The strategy developed under subsection (a) shall be known as the “National Strategy to Secure 5G and Next Generation Wireless Communications” (referred to in this Act as the Strategy).
+- **(c)** *Elements* The Strategy shall represent a whole-of-government approach and shall include the following:
+  - **(1)** A description of efforts to facilitate domestic 5th and future generations wireless communications rollout.
+  - **(2)** A description of efforts to assess the risks to and identify core security principles of 5th and future generations wireless communications infrastructure.
+  - **(3)** A description of efforts to address risks to the national security of the United States during development and deployment of 5th and future generations wireless communications infrastructure worldwide.
+  - **(4)** A description of efforts to promote responsible global development and deployment of 5th and future generations wireless communications, including through robust international engagement, leadership in the development of international standards, and incentivizing market competitiveness of secure 5th and future generation wireless communications infrastructure options.
+- **(d)** *Public consultation* In developing the Strategy, the President shall consult with relevant groups that represent consumers or the public interest, private sector communications providers, and communications infrastructure and systems equipment developers.
+
+## § 4. Strategy implementation plan
+
+Not later than 180 days after the date of enactment of this Act, the President shall develop and submit to the appropriate committees of Congress an implementation plan for the Strategy (referred to in this Act as the Implementation Plan), which shall include, at a minimum, the following:
+
+- **(1)** A description of United States national and economic security interests pertaining to the deployment of 5th and future generations wireless communications systems and infrastructure.
+- **(2)** An identification and assessment of potential security threats and vulnerabilities to the infrastructure, equipment, systems, software, and virtualized networks that support 5th and future generations wireless communications systems, infrastructure, and enabling technologies, which shall, as practicable, include a comprehensive evaluation of the full range of threats to, and unique security challenges posed by, 5th and future generations wireless communications systems and infrastructure, as well as steps that public and private sector entities can take to mitigate those threats.
+- **(3)** An identification and assessment of the global competitiveness and vulnerabilities of United States manufacturers and suppliers of 5th and future generations wireless communications equipment.
+- **(4)** An evaluation of available domestic suppliers of 5th and future generations wireless communications equipment and other suppliers in countries that are mutual defense allies or strategic partners of the United States and a strategy to assess their ability to produce and supply 5th generation and future generations wireless communications systems and infrastructure.
+- **(5)** Identification of where security gaps exist in the United States domestic or mutual defense treaty allies and strategic partners communications equipment supply chain for 5th and future generations wireless communications systems and infrastructure.
+- **(6)** Identification of incentives and policy options to help close or narrow any security gaps identified under paragraph (5) in, and ensure the economic viability of, the United States domestic industrial base, including research and development in critical technologies and workforce development in 5th and future generations wireless communications systems and infrastructure.
+- **(7)** Identification of incentives and policy options for leveraging the communications equipment suppliers from mutual defense treaty allies, strategic partners, and other countries to ensure that private industry in the United States has adequate sources for secure, effective, and reliable 5th and future generations wireless communications systems and infrastructure equipment.
+- **(8)** A plan for diplomatic engagement with mutual defense treaty allies, strategic partners, and other countries to share security risk information and findings pertaining to 5th and future generations wireless communications systems and infrastructure equipment and cooperation on mitigating those risks.
+- **(9)** A plan for engagement with private sector communications infrastructure and systems equipment developers and critical infrastructure owners and operators who have a critical dependency on communications infrastructure to share information and findings on 5th and future generations wireless communications systems and infrastructure equipment standards to secure platforms.
+- **(10)** A plan for engagement with private sector communications infrastructure and systems equipment developers to encourage the maximum participation possible on standards-setting bodies related to such systems and infrastructure equipment standards by public and private sector entities from the United States.
+- **(11)** A plan for diplomatic engagement with mutual defense treaty allies, strategic partners, and other countries to share information and findings on 5th and future generations wireless communications systems and infrastructure equipment standards to promote maximum interoperability, competitiveness, openness, and secure platforms.
+- **(12)** A plan for diplomatic engagement with mutual defense treaty allies, strategic partners, and other countries to share information and findings on 5th and future generations wireless communications infrastructure and systems equipment concerning the standards-setting bodies related to such systems and infrastructure equipment to promote maximum transparency, openness, impartiality, integrity, and neutrality.
+- **(13)** A plan for joint testing environments with mutual defense treaty allies, strategic partners, and other countries to ensure a trusted marketplace for 5th and future generations wireless communications systems and infrastructure equipment.
+- **(14)** A plan for research and development by the Federal Government, in close partnership with trusted supplier entities, mutual defense treaty allies, strategic partners, and other countries to reach and maintain United States leadership in 5th and future generations wireless communications systems and infrastructure security, including the development of an ongoing capability to identify security vulnerabilities in 5th and future generations wireless communications systems.
+- **(15)** Options for identifying and helping to mitigate the security risks of 5th and future generations wireless communications systems and infrastructure that have security flaws or vulnerabilities, or are utilizing equipment sourced from countries of concern, and that have already been put in place within the systems and infrastructure of mutual defense treaty allies, strategic partners, and other countries, when in the security interests of the United States.
+- **(16)** A description of the roles and responsibilities of the appropriate executive branch agencies and interagency mechanisms to coordinate implementation of the Strategy, as provided in section 5(d).
+- **(17)** An identification of the key diplomatic, development, intelligence, military, and economic resources necessary to implement the Strategy, including specific budgetary requests.
+- **(18)** As necessary, a description of such legislative or administrative action needed to carry out the Strategy.
+
+## § 5. Limitations and briefings
+
+- **(a)** *Limitations*
+  - **(1)** *In general* The Strategy and the Implementation Plan shall not include a recommendation or a proposal to nationalize 5th or future generations wireless communications systems or infrastructure.
+  - **(2)** *Federal agency authority* Nothing in this Act shall be construed to limit any authority or ability of any Federal agency.
+- **(b)** *Public comment* Not later than 60 days after the date of enactment of this Act, the President shall seek public comment regarding the development and implementation of the Implementation Plan.
+- **(c)** *Briefing*
+  - **(1)** *In general* Not later than 21 days after the date on which the Implementation Plan is completed, the President shall direct appropriate representatives from the departments and agencies involved in the formulation of the Strategy to provide the appropriate committees of Congress a briefing on the implementation of the Strategy.
+  - **(2)** *Unclassified setting* The briefing under paragraph (1) shall be held in an unclassified setting to the maximum extent possible.
+- **(d)** *Implementation*
+  - **(1)** *In general* The President and the National Telecommunications and Information Administration, in conjunction, shall—
+    - **(A)** implement the Strategy;
+    - **(B)** keep congressional committees apprised of progress on implementation; and
+    - **(C)** not implement any proposal or recommendation involving non-Federal spectrum administered by the Federal Communications Commission unless the implementation of such proposal or recommendation is first approved by the Commission.
+  - **(2)** *Rule of construction* Nothing in this subsection shall be construed to affect the authority or jurisdiction of the Federal Communications Commission or confer upon the President or any other executive branch agency the power to direct the actions of the Commission, whether directly or indirectly.
+- **(e)** *Form* The Strategy and Implementation Plan shall be submitted to the appropriate committees of Congress in unclassified form, but may include a classified annex.
