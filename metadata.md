@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6074
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6074
@@ -21,9 +21,11 @@ Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020
 - House — Budget Committee
 - House — Appropriations Committee
 
-## Recorded votes (1)
+## Recorded votes (3)
 
 - 2020-03-04 — [House 116-2-86](votes/house-116-2-0086.md) — On Motion to Suspend the Rules and Pass — **Passed** (415–2)
+- 2020-03-05 — [Senate 116-2-65](votes/senate-116-2-0065.md) — On the Motion to Table — **Motion to Table Agreed to** (81–15)
+- 2020-03-05 — [Senate 116-2-66](votes/senate-116-2-0066.md) — On Passage of the Bill — **Bill Passed** (96–1)
 
 ## Actions
 
@@ -41,3 +43,17 @@ Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020
 - 2020-03-04 — Referred to the Committee on Appropriations, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2020-03-04 — Referred to the Committee on Appropriations, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2020-03-04 — Senate amendment submitted
+- 2020-03-05 — Amendment SA 1506 proposed by Senator Paul. (consideration: CR S1516-1518; text: CR S1516) To rescind unobligated balances for certain international programs to offset the amounts appropriated in this bill to respond to the coronavirus outbreak.
+- 2020-03-05 — Measure laid before Senate by unanimous consent. (consideration: CR S1514-1522)
+- 2020-03-05 — Message on Senate action sent to the House.
+- 2020-03-05 — Motion to table amendment SA 1506 agreed to in Senate by Yea-Nay Vote. 81 - 15. Record Vote Number: 65.
+- 2020-03-05 — Passed Senate, under the order of 3/4/20, having achieved 60 votes in the affirmative, without amendment by Yea-Nay Vote. 96 - 1. Record Vote Number: 66.
+- 2020-03-05 — Passed/agreed to in Senate: Passed Senate, under the order of 3/4/20, having achieved 60 votes in the affirmative, without amendment by Yea-Nay Vote. 96 - 1. Record Vote Number: 66.
+- 2020-03-05 — Presented to President.
+- 2020-03-05 — Presented to President.
+- 2020-03-05 — Roll call votes on amendments in Senate: Motion to table amendment SA 1506 agreed to in Senate by Yea-Nay Vote. 81 - 15. Record Vote Number: 65.
+- 2020-03-05 — Senate amendment proposed (on the floor): Amendment SA 1506 proposed by Senator Paul.
+- 2020-03-06 — Became Public Law No: 116-123.
+- 2020-03-06 — Became Public Law No: 116-123.
+- 2020-03-06 — Signed by President.
+- 2020-03-06 — Signed by President.
