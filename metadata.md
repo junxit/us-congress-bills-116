@@ -1,7 +1,7 @@
 ---
 measure: S. 1678
 congress: 116
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 1678
@@ -32,6 +32,10 @@ Taiwan Allies International Protection and Enhancement Initiative (TAIPEI) Act o
 - House — Ways and Means Committee
 - House — Foreign Affairs Committee
 
+## Recorded votes (1)
+
+- 2020-03-04 — [House 116-2-85](votes/house-116-2-0085.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (415–0)
+
 ## Actions
 
 - 2019-05-23 — Introduced in Senate
@@ -46,3 +50,11 @@ Taiwan Allies International Protection and Enhancement Initiative (TAIPEI) Act o
 - 2019-10-31 — Received in the House.
 - 2019-10-31 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-10-31 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2020-03-03 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2020-03-03 — Considered under suspension of the rules. (consideration: CR H1452-1454)
+- 2020-03-03 — DEBATE - The House proceeded with forty minutes of debate on S. 1678.
+- 2020-03-03 — Mr. Cicilline moved to suspend the rules and pass the bill, as amended.
+- 2020-03-04 — Considered as unfinished business. (consideration: CR H1494-1495)
+- 2020-03-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-03-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 85). (text: 03/03/2020 CR H1452-1453)
+- 2020-03-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 85).
