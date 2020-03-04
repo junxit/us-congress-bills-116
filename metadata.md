@@ -1,7 +1,7 @@
 ---
 measure: S. 893
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 893
@@ -50,3 +50,17 @@ Secure 5G and Beyond Act of 2020
 - 2020-03-04 — Senate amendment proposed (on the floor): Amendment SA 1510 proposed by Senator McConnell for Senator Cornyn.
 - 2020-03-04 — Senate amendment submitted
 - 2020-03-04 — The committee substitute withdrawn by Unanimous Consent.
+- 2020-03-05 — Message on Senate action sent to the House.
+- 2020-03-09 — Held at the desk.
+- 2020-03-09 — Received in the House.
+- 2020-03-11 — Considered by unanimous consent. (consideration: CR H1614-1615)
+- 2020-03-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-03-11 — Mr. Pallone asked unanimous consent to take from the Speaker's table and consider.
+- 2020-03-11 — On passage Passed without objection. (text: CR H1614-1615)
+- 2020-03-11 — Passed/agreed to in House: On passage Passed without objection.
+- 2020-03-16 — Presented to President.
+- 2020-03-16 — Presented to President.
+- 2020-03-23 — Became Public Law No: 116-129.
+- 2020-03-23 — Became Public Law No: 116-129.
+- 2020-03-23 — Signed by President.
+- 2020-03-23 — Signed by President.
