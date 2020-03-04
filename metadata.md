@@ -1,7 +1,7 @@
 ---
 measure: S. 1869
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1869
@@ -21,9 +21,10 @@ Secure Federal LEASEs Act
 - Sen. Portman, Rob [R-OH] (P000449)
 - Sen. Portman, Rob [R-OH] (P000449)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -42,3 +43,6 @@ Secure Federal LEASEs Act
 - 2020-03-03 — Senate amendment proposed (on the floor): Amendment SA 1459 proposed by Senator Murkowski for Senator Peters.
 - 2020-03-03 — Senate amendment submitted
 - 2020-03-03 — The committee substitute withdrawn by Unanimous Consent.
+- 2020-03-04 — Message on Senate action sent to the House.
+- 2020-03-04 — Received in the House.
+- 2020-03-04 — Referred to the House Committee on Transportation and Infrastructure.
