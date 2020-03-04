@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4508
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4508
@@ -51,9 +51,10 @@ Malala Yousafzai Scholarship Act
 - Rep. Waltz, Michael [R-FL-6] (W000823)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -70,3 +71,4 @@ Malala Yousafzai Scholarship Act
 - 2020-03-03 — Mr. Cicilline moved to suspend the rules and pass the bill, as amended.
 - 2020-03-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 374 - 16 (Roll no. 82). (text: CR H1450-1451)
 - 2020-03-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 374 - 16 (Roll no. 82).
+- 2020-03-04 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
