@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6074
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6074
