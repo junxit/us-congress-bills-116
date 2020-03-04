@@ -1,7 +1,7 @@
 ---
 measure: S. 1678
 congress: 116
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 1678
@@ -58,3 +58,14 @@ Taiwan Allies International Protection and Enhancement Initiative (TAIPEI) Act o
 - 2020-03-04 — Motion to reconsider laid on the table Agreed to without objection.
 - 2020-03-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 85). (text: 03/03/2020 CR H1452-1453)
 - 2020-03-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 85).
+- 2020-03-05 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2020-03-11 — Measure laid before Senate by unanimous consent. (consideration: CR S1710)
+- 2020-03-11 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 1678 by Unanimous Consent.
+- 2020-03-11 — Senate agreed to the House amendment to S. 1678 by Unanimous Consent.
+- 2020-03-12 — Message on Senate action sent to the House.
+- 2020-03-16 — Presented to President.
+- 2020-03-16 — Presented to President.
+- 2020-03-26 — Became Public Law No: 116-135.
+- 2020-03-26 — Became Public Law No: 116-135.
+- 2020-03-26 — Signed by President.
+- 2020-03-26 — Signed by President.
