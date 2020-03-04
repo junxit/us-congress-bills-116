@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4508
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4508
@@ -76,3 +76,14 @@ Malala Yousafzai Scholarship Act
 - 2020-03-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 374 - 16 (Roll no. 82). (text: CR H1450-1451)
 - 2020-03-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 374 - 16 (Roll no. 82).
 - 2020-03-04 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2021-01-01 — Passed Senate without amendment by Voice Vote. (consideration: CR S8015 - 8016)
+- 2021-01-01 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S8015 - 8016)
+- 2021-01-01 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2021-01-01 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2021-01-02 — Message on Senate action sent to the House.
+- 2021-01-03 — Presented to President.
+- 2021-01-03 — Presented to President.
+- 2021-01-13 — Became Public Law No: 116-338.
+- 2021-01-13 — Became Public Law No: 116-338.
+- 2021-01-13 — Signed by President.
+- 2021-01-13 — Signed by President.
