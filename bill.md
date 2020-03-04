@@ -1,0 +1,75 @@
+---
+legis-num: H.R. 6072
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6072
+
+> To amend title 10, United States Code, to include the Coast Guard in the Department of Defense Military Retirement Fund, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Coast Guard Retirement Parity Act”.
+
+## § 2. Establishment and purpose of Fund; definition
+
+Section 1461(a) of title 10, United States Code, is amended by inserting “and the Coast Guard” after “liabilities of the Department of Defense”.
+
+## § 3. Payments from the Fund
+
+Section 1463(a) of title 10, United States Code, is amended—
+
+- **(1)** in paragraph (1) by striking “and Marine Corps” and inserting “Marine Corps, and Coast Guard”;
+- **(2)** in paragraph (2) by striking “(other than retired pay payable by the Secretary of Homeland Security)”; and
+- **(3)** in paragraph (4) by inserting “and the Department of Homeland Security that” after “Department of Defense”.
+
+## § 4. Determination of contributions to the Fund
+
+Section 1465 of title 10, United States Code, is amended—
+
+- **(1)** in subsection (a)—
+  - **(A)** by striking “(a) Not” and inserting the following:
+    > - **(a)**
+    >   - **(1)** Not
+
+  - **(B)** by adding at the end the following:
+    > - **(2)** Not later than October 1, 2022, the Board of Actuaries shall determine the amount that is the present value (as of September 30, 2022) of future benefits payable from the Fund that are attributable to service in the Coast Guard performed before October 1, 2022. That amount is the original Coast Guard unfunded liability of the Fund. The Board shall determine the period of time over which the original Coast Guard unfunded liability should be liquidated and shall determine an amortization schedule for the liquidation of such liability over that period. Contributions to the Fund for the liquidation of the original Coast Guard unfunded liability in accordance with such schedule shall be made as provided in section 1466(b) of this title.
+
+- **(2)** in subsection (b)—
+  - **(A)** in paragraph (1)—
+    - **(i)** in the matter preceding subparagraph (A)—
+      - **(I)** by inserting “, in consultation with the Secretary of the department in which the Coast Guard is operating,” after “Secretary of Defense”; and
+      - **(II)** by inserting “and Coast Guard” after “Department of Defense”;
+    - **(ii)** in subparagraph (A)(ii) by striking “(other than the Coast Guard)” and inserting “members of the Armed Forces”; and
+    - **(iii)** in subparagraph (B)(ii) by striking “(other than the Coast Guard)”;
+  - **(B)** in paragraph (2) by inserting “the Coast Guard Retired Pay account and the” after “appropriated to”; and
+  - **(C)** in paragraph (3) by inserting “and Coast Guard” after “Department of Defense”;
+- **(3)** in subsection (c)—
+  - **(A)** in paragraph (1)—
+    - **(i)** in the matter preceding subparagraph (A) by inserting “, in consultation with the Secretary of the department in which the Coast Guard is operating,” after “Secretary of Defense”;
+    - **(ii)** in subparagraph (A) by striking “(other than the Coast Guard)” and inserting “members of the Armed Forces”;
+    - **(iii)** in subparagraph (B) by striking “(other than the Coast Guard)”;
+  - **(B)** in paragraph (2) by inserting “, in consultation with the Secretary of the department in which the Coast Guard is operating,” after “Secretary of Defense”;
+  - **(C)** in paragraph (3) by inserting “, in consultation with the Secretary of the department in which the Coast Guard is operating,” after “Secretary of Defense”;
+- **(4)** in subsection (e) by striking “Secretary of Defense shall” and inserting “Secretary of Defense and, with regard to the Coast Guard, the Secretary of the department in which the Coast Guard is operating”.
+
+## § 5. Payments into the Fund
+
+Section 1466 of title 10, United States Code, is amended—
+
+- **(1)** in subsection (a)—
+  - **(A)** in the matter preceding paragraph (1)—
+    - **(i)** by striking “Secretary of Defense shall” and inserting “Secretary of Defense and the Secretary of the department in which the Coast Guard is operating, with respect to the Coast guard, shall”; and
+    - **(ii)** by striking “each month as the Department of Defense contribution” and inserting “each month the respective pro rata share contribution of the Secretary of Defense and the Secretary of the department in which the Coast Guard is operating”; and
+  - **(B)** in paragraph (1)(B) by striking “(other than the Coast Guard)”; and
+  - **(C)** by striking the flush language following paragraph (1)(B) and inserting the following new subsection:
+    > - **(b)** Amounts paid into the Fund under this subsection shall be paid from funds available for as appropriate—
+    >   - **(1)** the pay of members of the armed forces under the jurisdiction of the Secretary of a military department; or
+    >   - **(2)** the Retired Pay appropriation for the Coast Guard.
+
+- **(2)** by redesignating subsections (b) and (c) as subsections (c) and (d), respectively; and
+- **(3)** in subsection (c) (as so redesignated)—
+  - **(A)** in paragraph (2)(A) by striking “liability of the Fund.” and inserting “liabilities of the Fund for the Department of Defense and the Coast Guard.”; and
+  - **(B)** in paragraph (3) by inserting “and the Secretary of the Department in which the Coast Guard is operating” before “shall promptly”.
