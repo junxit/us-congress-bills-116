@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 6098
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6098
+
+> To amend title XXI of the Social Security Act to allow States to expand income eligibility standards under the Children’s Health Insurance Program, and for other purposes.
+
+## § 1. State option to expand income eligibility standards under Children’s Health Insurance Program
+
+Section 2110(b)(1)(B)(ii) of the Social Security Act (42 U.S.C. 1397jj(b)(1)(B)(ii)) is amended—
+
+- **(1)** in subclause (II), by striking “or” at the end;
+- **(2)** in subclause (III), by striking “and” at the end and inserting “or”; and
+- **(3)** by inserting after subclause (III) the following new subclause:
+  > - **(IV)** at the option of the State, whose family income exceeds the maximum income level otherwise established for children under the State child health plan as of the date of the enactment of this subclause; and
