@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1140
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1140
@@ -261,10 +261,18 @@ Rights for Transportation Security Officers Act of 2020
 - Rep. Casten, Sean [D-IL-6] (C001117)
 - Rep. Visclosky, Peter J. [D-IN-1] (V000108)
 
-## Committees (2)
+## Committees (3)
 
 - House — Homeland Security Committee
 - House — Oversight and Accountability Committee
+- Senate — Commerce, Science, and Transportation Committee
+
+## Recorded votes (4)
+
+- 2020-03-05 — [House 116-2-87](votes/house-116-2-0087.md) — On Agreeing to the Amendment — **Agreed to** (399–1)
+- 2020-03-05 — [House 116-2-88](votes/house-116-2-0088.md) — On Agreeing to the Amendment — **Agreed to** (403–0)
+- 2020-03-05 — [House 116-2-89](votes/house-116-2-0089.md) — On Motion to Recommit with Instructions — **Passed** (227–175)
+- 2020-03-05 — [House 116-2-90](votes/house-116-2-0090.md) — On Passage — **Passed** (230–171)
 
 ## Actions
 
@@ -281,3 +289,100 @@ Rights for Transportation Security Officers Act of 2020
 - 2020-02-21 — Placed on the Union Calendar, Calendar No. 320.
 - 2020-02-21 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-398, Part I.
 - 2020-02-21 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-398, Part I.
+- 2020-02-26 — SUPPLEMENTAL FILING AUTHORITY - Ms. Underwood asked unamious consent that the Committee on Homeland Security be authorized to file a supplemental report on H.R. 1140. Agreed to without objection.
+- 2020-02-26 — Supplemental report filed by the Committee on Homeland Security, H. Rept. 116-398, Part II.
+- 2020-02-26 — Supplemental report filed by the Committee on Homeland Security, H. Rept. 116-398, Part II.
+- 2020-03-02 — Rules Committee Resolution H. Res. 877 Reported to House. Rule provides for consideration of H.R. 1140 with 1 hour of general debate. Motion to recommit with or without instructions allowed. The resolution provides that is shall be in order at any time on the legislative day of March 5, 2020, for the Speaker to entertain motions that the House suspend the rules as though under clause 1 of rule XV, relating to a measure making supplemental appropriations for fiscal year ending Sept. 30, 2020.
+- 2020-03-04 — Committee of the Whole House on the state of the Union rises leaving H.R. 1140 as unfinished business.
+- 2020-03-04 — Considered under the provisions of rule H. Res. 877. (consideration: CR H1485-1489)
+- 2020-03-04 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1140.
+- 2020-03-04 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 877 and Rule XVIII.
+- 2020-03-04 — Mr. Thompson (MS) moved that the Committee rise.
+- 2020-03-04 — On motion that the Committee rise Agreed to by voice vote.
+- 2020-03-04 — Rule H. Res. 877 passed House.
+- 2020-03-04 — Rule provides for consideration of H.R. 1140 with 1 hour of general debate. Motion to recommit with or without instructions allowed. The resolution provides that is shall be in order at any time on the legislative day of March 5, 2020, for the Speaker to entertain motions that the House suspend the rules as though under clause 1 of rule XV, relating to a measure making supplemental appropriations for fiscal year ending Sept. 30, 2020.
+- 2020-03-04 — The Speaker designated the Honorable Henry Cuellar to act as Chairman of the Committee.
+- 2020-03-05 — Amendment (A001) offered by Mr. Rogers (AL). (consideration: CR H1509-1510; text: CR H1509-1510)
+- 2020-03-05 — Amendment (A002) offered by Mr. Rose (NY). (consideration: CR H1510; text: CR H1510)
+- 2020-03-05 — Amendment (A003) offered by Mr. Peters. (consideration: CR H1510-1511; text: CR H1510)
+- 2020-03-05 — Amendment (A004) offered by Mr. Brown (MD). (consideration: CR H1511-1512; text: CR H1511)
+- 2020-03-05 — Amendment (A005) offered by Mr. Kim. (consideration: CR H1512-1513; text: CR H1512)
+- 2020-03-05 — Amendment (A006) offered by Mr. Cisneros. (consideration: CR H1513, H1515-1516; text: CR H1513)
+- 2020-03-05 — Amendment (A007) offered by Ms. Spanberger. (consideration: CR H1513-1514; text: CR H1513)
+- 2020-03-05 — Amendment (A008) offered by Ms. Mucarsel-Powell. (consideration: CR H1514, H1516-1517; text: CR H1514)
+- 2020-03-05 — Amendment (A009) offered by Mr. Thompson (MS). (consideration: CR H1518; text: CR H1518)
+- 2020-03-05 — Amendment agreed to Committee of the Whole
+- 2020-03-05 — Amendment agreed to Committee of the Whole
+- 2020-03-05 — Amendment agreed to Committee of the Whole
+- 2020-03-05 — Amendment agreed to Committee of the Whole
+- 2020-03-05 — Amendment agreed to Committee of the Whole
+- 2020-03-05 — Amendment agreed to Committee of the Whole
+- 2020-03-05 — Amendment agreed to Committee of the Whole
+- 2020-03-05 — Amendment agreed to Committee of the Whole
+- 2020-03-05 — Amendment agreed to by House: On agreeing to the Thompson (MS) amendment (A009) Agreed to by voice vote.
+- 2020-03-05 — Committee of the Whole House on the state of the Union rises leaving H.R. 1140 as unfinished business.
+- 2020-03-05 — Considered as unfinished business. (consideration: CR H1508-1514; text: CR H1509)
+- 2020-03-05 — Considered as unfinished business. (consideration: CR H1515-1519)
+- 2020-03-05 — DEBATE - Pursuant to the provisions of H. Res. 877, the Committee of the Whole proceeded with 10 minutes of debate on the Brown (MD) amendment No. 5.
+- 2020-03-05 — DEBATE - Pursuant to the provisions of H. Res. 877, the Committee of the Whole proceeded with 10 minutes of debate on the Cisneros amendment No. 7.
+- 2020-03-05 — DEBATE - Pursuant to the provisions of H. Res. 877, the Committee of the Whole proceeded with 10 minutes of debate on the Kim amendment No. 6.
+- 2020-03-05 — DEBATE - Pursuant to the provisions of H. Res. 877, the Committee of the Whole proceeded with 10 minutes of debate on the Mucarsel-Powell amendment No. 9.
+- 2020-03-05 — DEBATE - Pursuant to the provisions of H. Res. 877, the Committee of the Whole proceeded with 10 minutes of debate on the Peters amendment No. 4.
+- 2020-03-05 — DEBATE - Pursuant to the provisions of H. Res. 877, the Committee of the Whole proceeded with 10 minutes of debate on the Rose (NY) amendment No. 2.
+- 2020-03-05 — DEBATE - Pursuant to the provisions of H. Res. 877, the Committee of the Whole proceeded with 10 minutes of debate on the Spanberger amendment No. 8.
+- 2020-03-05 — DEBATE - Pursuant to the provisions of H.Res. 877, the Committee of the Whole proceeded with 10 minutes of debate on the Rogers (AL) amendment No. 1.
+- 2020-03-05 — DEBATE - The House proceeded with 10 minutes of debate on the Lesko motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment adding at the end of section 4 the rule of construction which states the Secretary shall ensure that the Transportation Security Administration continues to prevent the hiring of individuals who have been convicted of a sex crime, and offense involving a minor, a crime of violence, or terrorism.
+- 2020-03-05 — House amendment agreed to: On agreeing to the Brown (MD) amendment (A004) Agreed to by voice vote.
+- 2020-03-05 — House amendment agreed to: On agreeing to the Cisneros amendment (A006) Agreed to by recorded vote: 399 - 1 (Roll no. 87).
+- 2020-03-05 — House amendment agreed to: On agreeing to the Kim amendment (A005) Agreed to by voice vote.
+- 2020-03-05 — House amendment agreed to: On agreeing to the Mucarsel-Powell amendment (A008) Agreed to by recorded vote: 403 - 0 (Roll no. 88).
+- 2020-03-05 — House amendment agreed to: On agreeing to the Peters amendment (A003) Agreed to by voice vote.
+- 2020-03-05 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A001) Agreed to by voice vote.
+- 2020-03-05 — House amendment agreed to: On agreeing to the Rose (NY) amendment (A002) Agreed to by voice vote.
+- 2020-03-05 — House amendment agreed to: On agreeing to the Spanberger amendment (A007) Agreed to by voice vote.
+- 2020-03-05 — House amendment agreed to: On agreeing to the Thompson (MS) amendment (A009) Agreed to by voice vote.
+- 2020-03-05 — House amendment offered
+- 2020-03-05 — House amendment offered
+- 2020-03-05 — House amendment offered
+- 2020-03-05 — House amendment offered
+- 2020-03-05 — House amendment offered
+- 2020-03-05 — House amendment offered
+- 2020-03-05 — House amendment offered
+- 2020-03-05 — House amendment offered
+- 2020-03-05 — House amendment offered
+- 2020-03-05 — House amendment offered/reported by: Amendment (A001) offered by Mr. Rogers (AL).
+- 2020-03-05 — House amendment offered/reported by: Amendment (A002) offered by Mr. Rose (NY).
+- 2020-03-05 — House amendment offered/reported by: Amendment (A003) offered by Mr. Peters.
+- 2020-03-05 — House amendment offered/reported by: Amendment (A004) offered by Mr. Brown (MD).
+- 2020-03-05 — House amendment offered/reported by: Amendment (A005) offered by Mr. Kim.
+- 2020-03-05 — House amendment offered/reported by: Amendment (A006) offered by Mr. Cisneros.
+- 2020-03-05 — House amendment offered/reported by: Amendment (A007) offered by Ms. Spanberger.
+- 2020-03-05 — House amendment offered/reported by: Amendment (A008) offered by Ms. Mucarsel-Powell.
+- 2020-03-05 — House amendment offered/reported by: Amendment (A009) offered by Mr. Thompson (MS).
+- 2020-03-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-03-05 — Mr. Thompson (MS) moved that the Committee rise.
+- 2020-03-05 — Mrs. Lesko moved to recommit with instructions to the Committee on Homeland Security. (text: CR H1517)
+- 2020-03-05 — On agreeing to the Brown (MD) amendment (A004) Agreed to by voice vote.
+- 2020-03-05 — On agreeing to the Cisneros amendment (A006) Agreed to by recorded vote: 399 - 1 (Roll no. 87).
+- 2020-03-05 — On agreeing to the Kim amendment (A005) Agreed to by voice vote.
+- 2020-03-05 — On agreeing to the Mucarsel-Powell amendment (A008) Agreed to by recorded vote: 403 - 0 (Roll no. 88).
+- 2020-03-05 — On agreeing to the Peters amendment (A003) Agreed to by voice vote.
+- 2020-03-05 — On agreeing to the Rogers (AL) amendment (A001) Agreed to by voice vote.
+- 2020-03-05 — On agreeing to the Rose (NY) amendment (A002) Agreed to by voice vote.
+- 2020-03-05 — On agreeing to the Spanberger amendment (A007) Agreed to by voice vote.
+- 2020-03-05 — On agreeing to the Thompson (MS) amendment (A009) Agreed to by voice vote.
+- 2020-03-05 — On motion that the Committee rise Agreed to by voice vote.
+- 2020-03-05 — On motion to recommit with instructions Agreed to by the Yeas and Nays: 227 - 175 (Roll no. 89).
+- 2020-03-05 — On passage Passed by the Yeas and Nays: 230 - 171 (Roll no. 90).
+- 2020-03-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cisneros amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the ayes had prevailed. Mr. Thompson (MS) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2020-03-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mucarsel-Powell amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the ayes had prevailed. Mr. Thompson (MS) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2020-03-05 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 230 - 171 (Roll no. 90).
+- 2020-03-05 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2020-03-05 — Roll call votes on amendments in House
+- 2020-03-05 — Roll call votes on amendments in House
+- 2020-03-05 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2020-03-05 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2020-03-05 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2020-03-05 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1140.
+- 2020-03-05 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2020-03-05 — The previous question was ordered pursuant to the rule.
