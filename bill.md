@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2214
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -17,59 +17,56 @@ This Act may be cited as the “National Origin-Based Antidiscrimination for Non
 
 Section 202(a)(1)(A) of the Immigration and Nationality Act (8 U.S.C. 1152(a)(1)(A)) is amended—
 
-- **(1)** by inserting “or a nonimmigrant visa, entry into the United States, or the approval or revocation of any immigration benefit” after “immigrant visa”;
+- **(1)** by inserting “or a nonimmigrant visa, admission or other entry into the United States, or the approval or revocation of any immigration benefit” after “immigrant visa”;
 - **(2)** by inserting “religion,” after “sex,”; and
 - **(3)** by inserting “, except if expressly required by statute, or if a statutorily authorized benefit takes into consideration such factors” before the period at the end.
 
 ## § 3. Transfer and limitations on authority to suspend or restrict the entry of a class of aliens
 
-Section 212(f) of the Immigration and Nationality Act (8 U.S.C. 1182(f)) is amended—
+Section 212(f) of the Immigration and Nationality Act (8 U.S.C. 1182(f)) is amended to read as follows:
 
-- **(1)** in the subsection heading, by striking “by President”; and
-- **(2)** by striking “Whenever the President” and all that follows through “appropriate.” and inserting the following:
-  > - **(1)** *In general* Subject to paragraph (2), if the Secretary of State, after consultation with the Secretary of Homeland Security, determines, based on credible facts, that the entry of any aliens or of any class of aliens into the United States should be suspended or restricted to address specific acts that undermine the security or public safety of the United States; human rights; democratic processes or institutions; or international stability, the President may temporarily—
-  >   - **(A)** suspend the entry of any aliens or any class of aliens as immigrants or nonimmigrants; or
-  >   - **(B)** impose any restrictions on the entry of aliens that the President considers to be appropriate.
-  > - **(2)** *Limitations* In carrying out paragraph (1), the President, the Secretary of State, and the Secretary of Homeland Security—
-  >   - **(A)** shall provide specific evidence supporting the determination;
-  >   - **(B)** shall comply with all provisions of this Act, including section 202(a)(1)(A);
-  >   - **(C)** shall narrowly tailor the suspension or restriction to meet a compelling governmental interest;
-  >   - **(D)** shall specify the duration of the suspension or restriction and set forth evidence justifying such duration;
-  >   - **(E)** shall use the least restrictive means possible to achieve the specified governmental interest; and
-  >   - **(F)** shall consider waivers to any class-based restriction or suspension and apply a rebuttable presumption in favor of granting family-based and humanitarian waivers.
-  > - **(3)** *Consultation* The President, the Secretary of State, and the Secretary of Homeland Security shall consult with Congress before exercising the authority under paragraph (1).
-  > - **(4)** *Congressional notification* Not later than 48 hours after the President exercises the authority under paragraph (1), the Secretary of State and the Secretary of Homeland Security shall provide a briefing and submit a written report to the Committee on Foreign Relations of the Senate, the Committee on the Judiciary of the Senate, the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Foreign Affairs of the House of Representatives, the Committee on the Judiciary of the House of Representatives, and the Committee on Homeland Security of the House of Representatives that describes—
-  >   - **(A)** the actions taken pursuant to paragraph (1) and the number of individuals to which such actions apply;
-  >   - **(B)** the constitutional and legislative authority under which such actions took place; and
-  >   - **(C)** the circumstances necessitating the actions taken pursuant to paragraph (1), including how such actions comply with the limitations described in paragraph (2).
-  > - **(5)** *Periodic reporting* If the briefing required under paragraph (4) is not provided by the Secretary of State and the Secretary of Homeland Security within 48 hours after exercising the authority under paragraph (1), and updated every 30 days thereafter, such emergency suspension or action shall immediately terminate absent intervening congressional action.
-  > - **(6)** *Publication* The Secretary of State and the Secretary of Homeland Security shall publicly announce and publish in the Federal Register—
-  >   - **(A)** the nature of the actions taken pursuant to paragraph (1);
-  >   - **(B)** the estimated number of individuals impacted by such actions;
-  >   - **(C)** the specified objective of each such action; and
-  >   - **(D)** the circumstances necessitating such actions.
-  > - **(7)** *Judicial review*
-  >   - **(A)** *In general* Notwithstanding any other provision of law, an individual or entity who is present in the United States and has been harmed by a violation of this subsection may file an action in an appropriate district court of the United States to seek declaratory or injunctive relief.
-  >   - **(B)** *Class action* Nothing in this Act may be construed to preclude an action filed pursuant to subparagraph (A) from proceeding as a class action.
-  > - **(8)**
+> - **(f)** *Authority to suspend or restrict the entry of a class of aliens*
+>   - **(1)** *In general* Subject to paragraph (2), if the Secretary of State, in consultation with the Secretary of Homeland Security, determines, based on specific and credible facts, that the entry of any aliens or any class of aliens into the United States would undermine the security or public safety of the United States or the preservation of human rights, democratic processes or institutions, or international stability, the President may temporarily—
+>     - **(A)** suspend the entry of such aliens or class of aliens as immigrants or nonimmigrants; or
+>     - **(B)** impose any restrictions on the entry of such aliens that the President deems appropriate.
+>   - **(2)** *Limitations* In carrying out paragraph (1), the President, the Secretary of State, and the Secretary of Homeland Security shall—
+>     - **(A)** only issue a suspension or restriction when required to address specific acts implicating a compelling government interest in a factor identified in paragraph (1);
+>     - **(B)** narrowly tailor the suspension or restriction, using the least restrictive means, to achieve such compelling government interest;
+>     - **(C)** specify the duration of the suspension or restriction; and
+>     - **(D)** consider waivers to any class-based restriction or suspension and apply a rebuttable presumption in favor of granting family-based and humanitarian waivers.
+>   - **(3)** *Congressional notification*
+>     - **(A)** *In general* Prior to the President exercising the authority under paragraph (1), the Secretary of State and the Secretary of Homeland Security shall consult Congress and provide Congress with specific evidence supporting the need for the suspension or restriction and its proposed duration.
+>     - **(B)** *Briefing and report* Not later than 48 hours after the President exercises the authority under paragraph (1), the Secretary of State and the Secretary of Homeland Security shall provide a briefing and submit a written report to Congress that describes—
+>       - **(i)** the action taken pursuant to paragraph (1) and the specified objective of such action;
+>       - **(ii)** the estimated number of individuals who will be impacted by such action;
+>       - **(iii)** the constitutional and legislative authority under which such action took place; and
+>       - **(iv)** the circumstances necessitating such action, including how such action complies with paragraph (2), as well as any intelligence informing such actions.
+>     - **(C)** *Termination* If the briefing and report described in subparagraph (B) are not provided to Congress during the 48 hours that begin when the President exercises the authority under paragraph (1), the suspension or restriction shall immediately terminate absent intervening congressional action.
+>     - **(D)** *Congressional committees* The term “Congress”, as used in this paragraph, refers to the Select Committee on Intelligence of the Senate, the Committee on Foreign Relations of the Senate, the Committee on the Judiciary of the Senate, the Committee on Homeland Security and Governmental Affairs of the Senate, the Permanent Select Committee on Intelligence of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, the Committee on the Judiciary of the House of Representatives, and the Committee on Homeland Security of the House of Representatives.
+>   - **(4)** *Publication* The Secretary of State and the Secretary of Homeland Security shall publicly announce and publish an unclassified version of the report described in paragraph (3)(B) in the Federal Register.
+>   - **(5)** *Judicial review*
+>     - **(A)** *In general* Notwithstanding any other provision of law, an individual or entity who is present in the United States and has been harmed by a violation of this subsection may file an action in an appropriate district court of the United States to seek declaratory or injunctive relief.
+>     - **(B)** *Class action* Nothing in this Act may be construed to preclude an action filed pursuant to subparagraph (A) from proceeding as a class action.
+>   - **(6)** *Treatment of commercial airlines* Whenever the Secretary of Homeland Security finds that a commercial airline has failed to comply with regulations of the Secretary of Homeland Security relating to requirements of airlines for the detection of fraudulent documents used by passengers traveling to the United States (including the training of personnel in such detection), the Secretary of Homeland Security may suspend the entry of some or all aliens transported to the United States by such airline.
+>   - **(7)** *Rule of construction* Nothing in this section may be construed as authorizing the President, the Secretary of State, or the Secretary of Homeland Security to act in a manner inconsistent with the policy decisions expressed in the immigration laws.
 
 ## § 4. Termination of certain executive actions
 
-- **(a)** *Termination* Presidential Proclamations 9645 and 9822 and Executive Orders 13769, 13780, and 13815 shall be void beginning on the date of the enactment of this Act.
-- **(b)** *Effect* All actions made pursuant to any proclamation or executive order terminated under subsection (a) shall cease on the date of the enactment of this Act.
+- **(a)** *Termination* Presidential Proclamations 9645, 9822, and 9983 and Executive Orders 13769, 13780, and 13815 shall be void beginning on the date of the enactment of this Act.
+- **(b)** *Effect* All actions taken pursuant to any proclamation or executive order terminated under subsection (a) shall cease on the date of the enactment of this Act.
 
 ## § 5. Visa applicants report
 
-- **(a)** *Initial reports* Not later than 90 days after the date of the enactment of this Act, the Secretary of State, in coordination with the relevant heads of other Federal agencies, shall submit a report to the appropriate congressional committees that describes the implementation of each of the presidential proclamations and executive orders referred to in section 4. The report submitted with respect to Presidential Proclamation 9645 (“Presidential Proclamation Enhancing Vetting Capabilities and Processes for Detecting Attempted Entry Into the United States by Terrorists or Other Public-Safety Threats”), issued on September 24, 2017, should include, for each country listed in Presidential Proclamation 9645 or in any subsequent amendment to such proclamation—
-  - **(1)** the total number of new visa applicants, disaggregated by country and visa category;
-  - **(2)** the total number of visa applicants approved, disaggregated by country and visa category;
-  - **(3)** the total number of visa applicants rejected, disaggregated by country and visa category, and the reasons they were rejected;
-  - **(4)** the total number of pending visa applicants, disaggregated by country and visa category;
-  - **(5)** the total number of visa applicants granted a waiver, disaggregated by country and visa category;
-  - **(6)** the total number of visa applicants denied a waiver under such section, disaggregated by country and visa category, and the reasons such waiver requests were denied;
-  - **(7)** the total number of refugees admitted, disaggregated by country; and
-  - **(8)** the complete reports that have been submitted to the President every 180 days in accordance with section 4 of Presidential Proclamation 9645.
-- **(b)** *Additional reports* Not later than 30 days after the President exercises authority under section 212(f) of the Immigration and Nationality Act, as amended by section 3, and every 30 days thereafter, the Secretary of State, in coordination with the heads of other relevant Federal agencies, shall submit a report to the appropriate congressional committees that identifies, with respect to visa applications affected by a suspension or restriction authorized under such subsection, the information described in paragraphs (1) through (7) of subsection (a).
-- **(c)** *Form; availability* The reports required under subsections (a) and (b)—
-  - **(1)** shall be submitted in unclassified form; and
-  - **(2)** shall be made publicly available online.
+- **(a)** *Initial reports*
+  - **(1)** *In general* Not later than 90 days after the date of the enactment of this Act, the Secretary of State, in coordination with the Secretary of Homeland Security and the heads of other relevant Federal agencies, shall submit a report to the congressional committees referred to in section 212(f)(3)(D) of the Immigration and Nationality Act, as amended by section 3 of this Act, that describes the implementation of each of the presidential proclamations and executive orders referred to in section 4.
+  - **(2)** *Presidential proclamation 9645 and 9983* In addition to the content described in paragraph (1), the report submitted with respect to Presidential Proclamation 9645, issued on September 24, 2017, and Presidential Proclamation 9983, issued on January 31, 2020, shall include, for each country listed in such proclamation—
+    - **(A)** the total number of individuals who applied for a visa during the time period the proclamation was in effect, disaggregated by country and visa category;
+    - **(B)** the total number of visa applicants described in subparagraph (A) who were approved, disaggregated by country and visa category;
+    - **(C)** the total number of visa applicants described in subparagraph (A) who were refused, disaggregated by country and visa category, and the reasons they were refused;
+    - **(D)** the total number of visa applicants described in subparagraph (A) whose applications remain pending, disaggregated by country and visa category;
+    - **(E)** the total number of visa applicants described in subparagraph (A) who were granted a waiver, disaggregated by country and visa category;
+    - **(F)** the total number of visa applicants described in subparagraph (A) who were denied a waiver, disaggregated by country and visa category, and the reasons such waiver requests were denied;
+    - **(G)** the total number of refugees admitted, disaggregated by country; and
+    - **(H)** the complete reports that have been submitted to the President every 180 days in accordance with section 4 of Presidential Proclamation 9645 in its original form, and as amended by Presidential Proclamation 9983.
+- **(b)** *Additional reports* Not later than 30 days after the date on which the President exercises the authority under section 212(f) of the Immigration and Nationality Act (8 U.S.C. 1182(f)), as amended by section 3 of this Act, and every 30 days thereafter, the Secretary of State, in coordination with the Secretary of Homeland Security and heads of other relevant Federal agencies, shall submit a report to the congressional committees referred to in paragraph (3)(D) of such section 212(f) that identifies, with respect to countries affected by a suspension or restriction, the information described in subparagraphs (A) through (H) of subsection (a)(2) of this section and specific evidence supporting the need for the continued exercise of presidential authority under such section 212(f), including the information described in paragraph (3)(B) of such section 212(f). If the report described in this subsection is not provided to Congress in the time specified, the suspension or restriction shall immediately terminate absent intervening congressional action. A final report with such information shall be prepared and submitted to such congressional committees not later than 30 days after the suspension or restriction is lifted.
+- **(c)** *Form; availability* The reports required under subsections (a) and (b) shall be made publicly available online in unclassified form.
