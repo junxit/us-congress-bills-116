@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2321
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -50,22 +50,22 @@ The Congress finds the following:
     - **(A)** weigh 26.73 grams;
     - **(B)** have a diameter of 1.500 inches; and
     - **(C)** contain not less than 90 percent silver.
-  - **(3)** *Half-dollar clad coins* Not more than 750,000 half-dollar coins which shall—
+  - **(3)** *Half-dollar clad coins* Not more than 400,000 half-dollar coins which shall—
     - **(A)** weigh 11.34 grams;
     - **(B)** have a diameter of 1.205 inches; and
     - **(C)** be minted to the specifications for half-dollar coins contained in section 5112(b) of title 31, United States Code.
 - **(b)** *Legal tender* The coins minted under this Act shall be legal tender, as provided in section 5103 of title 31, United States Code.
 - **(c)** *Numismatic items* For purposes of section 5134 of title 31, United States Code, all coins minted under this Act shall be considered to be numismatic items.
 
-## § 4. Design of coins
+## § 4. Designs of coins
 
 - **(a)** *Design requirements*
-  - **(1)** *In general* The design of the coins minted under this Act shall be emblematic of the Negro Leagues Baseball Museum and its mission to promote tolerance, diversity, and inclusion.
+  - **(1)** *In general* The designs of the coins minted under this Act shall be emblematic of the Negro Leagues Baseball Museum and its mission to promote tolerance, diversity, and inclusion.
   - **(2)** *Designation and inscriptions* On each coin minted under this Act there shall be—
     - **(A)** a designation of the value of the coin;
-    - **(B)** an inscription of the year “2021”; and
+    - **(B)** an inscription of the year “2022”; and
     - **(C)** inscriptions of the words “Liberty”, “In God We Trust”, “United States of America”, and “E Pluribus Unum”.
-- **(b)** *Selection* The design for the coins minted under this Act shall be—
+- **(b)** *Selection* The designs for the coins minted under this Act shall be—
   - **(1)** selected by the Secretary after consultation with the Negro Leagues Baseball Museum and the Commission of Fine Arts; and
   - **(2)** reviewed by the Citizens Coinage Advisory Committee.
 
@@ -73,7 +73,7 @@ The Congress finds the following:
 
 - **(a)** *Quality of coins* Coins minted under this Act shall be issued in uncirculated and proof qualities.
 - **(b)** *Mint facilities* Only 1 facility of the United States Mint may be used to strike any particular quality of the coins minted under this Act.
-- **(c)** *Period for issuance* The Secretary may issue coins minted under this Act only during the 1-year period beginning on January 1, 2021.
+- **(c)** *Period for issuance* The Secretary may issue coins minted under this Act only during the 1-year period beginning on January 1, 2022.
 
 ## § 6. Sale of coins
 
@@ -102,3 +102,7 @@ The Secretary shall take such actions as may be necessary to ensure that—
 
 - **(1)** minting and issuing coins under this Act will not result in any net cost to the United States Government; and
 - **(2)** no funds, including applicable surcharges, are disbursed to any recipient designated in section 7 until the total cost of designing and issuing all of the coins authorized by this Act (including labor, materials, dies, use of machinery, overhead expenses, marketing, and shipping) is recovered by the United States Treasury, consistent with sections 5112(m) and 5134(f) of title 31, United States Code.
+
+## § 9. Marketing and educational campaign
+
+The Secretary shall develop and execute a marketing, advertising, promotional, and educational program to promote the collecting of the coins authorized under this subsection.
