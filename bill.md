@@ -13,24 +13,36 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Access to Counsel Act of 2020”.
 
-## § 2. Clarification of right to counsel
+## § 2. Access to counsel and other assistance at ports of entry and deferred inspection
 
-- **(a)** *Right to counsel in immigration proceedings* Section 292 of the Immigration and Nationality Act (8 U.S.C. 1362) is amended to read as follows:
-  > ## § 292. Right to counsel
-  >
-  > - **(a)** *In general* In any removal, exclusion, deportation proceeding, or inspection under section 235(a), 235(b), 236, 238, 240, or 241, the person subject to such proceeding shall be entitled to representation (at no expense to the Government) by such authorized counsel as the person may choose.
-  > - **(b)** *Redress options* If counsel cannot personally meet with a person subject to holding, detention, or inspection at a port of entry, U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcement, as appropriate, shall provide redress options through which counsel may communicate remotely with the held or detained person during the first hour and thereafter of such holding or detention, regardless of the day or time when such holding or detention began.
-  > - **(c)** *Record of abandonment of lawful permanent resident status or withdrawal of application for admission* A person held or detained at a port of entry may not submit a valid Record of Abandonment of Lawful Permanent Resident Status or Withdrawal of Application for Admission if such person has been denied access to counsel in accordance with this section.
-  > - **(d)** *Definitions* In this section:
-  >   - **(1)** *Inspection* The term “inspection” does not include primary inspection (as defined in the policies of the Department of Homeland Security).
-  >   - **(2)** *Person* The term “person” has the meaning given the term in section 101(b)(3).
+- **(a)** *Access to counsel and other assistance during inspection* Section 235 of the Immigration and Nationality Act (8 U.S.C. 1225) is amended by adding at the end the following:
+  > - **(e)** *Access to counsel and other assistance during inspection*
+  >   - **(1)** *In general* The Secretary of Homeland Security shall ensure that a covered individual has a meaningful opportunity to consult with counsel and an interested party during the inspection process.
+  >   - **(2)** *Scope of assistance* The Secretary of Homeland Security shall—
+  >     - **(A)** provide the covered individual a meaningful opportunity to consult with counsel and an interested party not later than one hour after the secondary inspection process commences and as necessary throughout the inspection process, including, as applicable, during deferred inspection;
+  >     - **(B)** allow counsel and an interested party to advocate on behalf of the covered individual, including by providing to the examining immigration officer information, documentation, and other evidence in support of the covered individual; and
+  >     - **(C)** to the greatest extent practicable, accommodate a request by the covered individual for counsel or an interested party to appear in-person at the secondary or deferred inspection site.
+  >   - **(3)** *Special rule for lawful permanent residents*
+  >     - **(A)** *In general* The Secretary of Homeland Security may not accept Form I-407 Record of Abandonment of Lawful Permanent Resident Status (or a successor form) from a lawful permanent resident subject to secondary or deferred inspection without providing such lawful permanent resident a reasonable opportunity to seek advice from counsel prior to the submission of the form.
+  >     - **(B)** *Exception* The Secretary of Homeland Security may accept Form I-407 Record of Abandonment of Lawful Permanent Resident Status (or a successor form) from a lawful permanent resident subject to secondary or deferred inspection if such lawful permanent resident knowingly, intelligently, and voluntarily waives, in writing, the opportunity to seek advice from counsel.
+  >   - **(4)** *Definitions* In this section:
+  >     - **(A)** *Counsel* The term “counsel” means—
+  >       - **(i)** an attorney who is a member in good standing of the bar of any State, the District of Columbia, or a territory or a possession of the United States and is not under an order suspending, enjoining, restraining, disbarring, or otherwise restricting the attorney in the practice of law; or
+  >       - **(ii)** an individual accredited by the Attorney General, acting as a representative of an organization recognized by the Executive Office for Immigration Review, to represent a covered individual in immigration matters.
+  >     - **(B)** *Covered individual* The term “covered individual” means an individual subject to secondary or deferred inspection who is—
+  >       - **(i)** a national of the United States;
+  >       - **(ii)** an immigrant, lawfully admitted for permanent residence, who is returning from a temporary visit abroad;
+  >       - **(iii)** an alien seeking admission as an immigrant in possession of a valid unexpired immigrant visa;
+  >       - **(iv)** an alien seeking admission as a non-immigrant in possession of a valid unexpired non-immigrant visa;
+  >       - **(v)** a refugee; or
+  >       - **(vi)** an alien who has been approved for parole under section 212(d)(5)(A), including an alien who is returning to the United States in possession of a valid advance parole document.
+  >     - **(C)** *Interested party* The term “interested party” means—
+  >       - **(i)** a relative of the covered individual;
+  >       - **(ii)** in the case of a covered individual to whom an immigrant or non-immigrant visa has been issued, the petitioner or sponsor thereof (including an agent of such petitioner or sponsor); or
+  >       - **(iii)** a person, organization, or entity in the United States with a bona fide connection to the covered individual.
 
-- **(b)** *Right to counsel or representation* Section 555(b) of title 5, United States Code, is amended by adding at the end the following: “The right to be accompanied, represented, and advised by counsel or other qualified representative under this subsection shall extend to any person subject to a proceeding, examination, holding, or detention described in section 292 of the Immigration and Nationality Act (8 U.S.C. 1362).”.
-- **(c)** *Savings provision* Nothing in this section, or in any amendment made by this section, may be construed to limit any preexisting right to counsel under section 292 of the Immigration and Nationality Act (8 U.S.C. 1362), as in effect on the day before the date of the enactment of this Act, or under any other law.
-
-## § 3. Treatment of individuals held or detained at ports of entry or any CBP or ICE detention facility
-
-- **(a)** *In general* The holding or detention of individuals at a port of entry or at any holding or detention facility overseen by U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcement—
-  - **(1)** shall be limited to the briefest term and the least restrictive conditions practicable and consistent with the rationale for such holding or detention; and
-  - **(2)** shall include access to food, water, and restroom facilities.
-- **(b)** *Savings provision* Nothing in this Section may be construed to limit agencies from complying with other legal authorities, policies, or standards with respect to treatment of individuals held or detained at ports of entry or at any holding or detention facility overseen by U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcement.
+- **(b)** *Effective date* The amendment made by subsection (a) shall take effect 180 days after the date of the enactment of this Act.
+- **(c)** *Savings provision* Nothing in this Act, or in any amendment made by this Act, may be construed to limit a right to counsel or any right to appointed counsel under—
+  - **(1)** section 240(b)(4)(A) (8 U.S.C. 1229a(b)(4)(A)),
+  - **(2)** section 292 of the Immigration and Nationality Act (8 U.S.C. 1362), or
+  - **(3)** any other provision of law, including any final court order securing such rights,
