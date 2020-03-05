@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 87
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 87
@@ -39,3 +39,4 @@ Authorizing the use of Emancipation Hall for a ceremony as part of the commemora
 - 2020-03-04 — Ms. Lofgren asked unanimous consent to discharge from committee and consider.
 - 2020-03-04 — On agreeing to the resolution Agreed to without objection. (text: CR H1485)
 - 2020-03-04 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.
+- 2020-03-05 — Received in the Senate.
