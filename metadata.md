@@ -1,7 +1,7 @@
 ---
 measure: S. 2683
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2683
@@ -36,3 +36,12 @@ Child Care Protection Improvement Act of 2020
 - 2019-12-17 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
 - 2019-12-17 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.
 - 2019-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 370.
+- 2020-03-05 — Amendment SA 1522 agreed to in Senate by Unanimous Consent.
+- 2020-03-05 — Amendment SA 1522 proposed by Senator McConnell for Senator Alexander. (consideration: CR S1611-1612; text: CR S1612) In the nature of a substitute.
+- 2020-03-05 — Measure laid before Senate by unanimous consent. (consideration: CR S1611-1612)
+- 2020-03-05 — Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: CR S1612)
+- 2020-03-05 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(text of amendment in the nature of a substitute: CR S1612)
+- 2020-03-05 — Senate amendment agreed to: Amendment SA 1522 agreed to in Senate by Unanimous Consent.
+- 2020-03-05 — Senate amendment proposed (on the floor): Amendment SA 1522 proposed by Senator McConnell for Senator Alexander.
+- 2020-03-05 — Senate amendment submitted
+- 2020-03-05 — The committee substitute withdrawn by Unanimous Consent.
