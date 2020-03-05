@@ -1,0 +1,25 @@
+---
+legis-num: S. 3394
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3394
+
+> To amend the Bipartisan Congressional Trade Priorities and Accountability Act of 2015 to include a trade negotiating objective relating to addressing the security of the global communications infrastructure.
+
+## § 1. Short title
+
+This Act may be cited as the “Network Security Trade Act of 2020”.
+
+## § 2. Trade negotiating objective relating to security of communications networks
+
+Section 102(a) of the Bipartisan Congressional Trade Priorities and Accountability Act of 2015 (19 U.S.C. 4201(a)) is amended—
+
+- **(1)** in paragraph (14), by striking “; and” and inserting a semicolon;
+- **(2)** in paragraph (15), by striking the period at the end and inserting “; and”; and
+- **(3)** by adding at the end the following:
+  > - **(16)** to ensure that the equipment and technology that create the global communications infrastructure are not compromised by addressing—
+  >   - **(A)** barriers to the security of communications networks and supply chains; and
+  >   - **(B)** unfair trade practices of suppliers of communications equipment that are owned, controlled, or supported by a foreign government.
