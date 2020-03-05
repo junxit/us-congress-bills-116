@@ -51,6 +51,10 @@ For purposes of this Act—
 - **(b)** *Preservation of other rights* In the case of each covered employee as of the conversion date, the Secretary shall take any actions necessary to ensure that—
   - **(1)** any annual leave, sick leave, or other paid leave accrued, accumulated, or otherwise available to a covered employee immediately before the conversion date shall remain available to the employee until used; and
   - **(2)** the Government share of any premiums or other periodic charges under chapter 89 of title 5, United States Code, governing group health insurance shall remain at least the same as was the case immediately before the conversion date.
+- **(c)** *GAO study on TSA pay rates* Not later than the date that is 9 months after the date of enactment of this Act, the Comptroller General shall submit a report to Congress on the differences in rates of pay, classified by pay system, between Transportation Security Administration employees—
+  - **(1)** with duty stations in the contiguous 48 States; and
+  - **(2)** with duty stations outside of such States, including those employees located in any territory or possession of the United States.
+- **(d)** *Rule of construction* During the transition period and after the conversion date, the Secretary shall ensure that the Transportation Security Administration continues to prevent the hiring of individuals who have been convicted of a sex crime, an offense involving a minor, a crime of violence, or terrorism.
 
 ## § 5. Consultation requirement
 
@@ -69,3 +73,40 @@ Nothing in this Act shall be considered—
   - **(A)** section 1918 of title 18, United States Code (relating to disloyalty and asserting the right to strike against the Government); or
   - **(B)** section 7311 of title 5, United States Code (relating to loyalty and striking); or
 - **(2)** to otherwise authorize any activity which is not permitted under either provision of law cited in paragraph (1).
+
+## § 7. Rule of construction with respect to certain crimes relating to terrorism
+
+Nothing in this Act may be construed to contradict chapter 113B of title 18, United States Code, including with respect to—
+
+- **(1)** section 2332b (relating to acts of terrorism transcending national boundaries);
+- **(2)** section 2339 (relating to harboring or concealing terrorists); and
+- **(3)** section 2339A (relating to providing material support to terrorists).
+
+## § 8. Report by GAO regarding TSA recruitment
+
+Not later than 1 year after the date of the enactment of this Act, the Comptroller General of the United States shall submit to Congress a report on the efforts of the Transportation Security Administration regarding recruitment, including recruitment efforts relating to veterans and the dependents of veterans and members of the Armed Forces and the dependents of such members. Such report shall also include recommendations regarding how the Administration may improve such recruitment efforts.
+
+## § 9. Sense of Congress
+
+It is the sense of Congress that the Transportation Security Administration’s personnel system provides insufficient benefits and workplace protections to the workforce that secures the nation’s transportation systems and that the Transportation Security Administration’s workforce should be provided protections and benefits under title 5, United States Code.
+
+## § 10. Assistance for Federal Air Marshal Service
+
+The Administrator of the Transportation Security Administration shall engage and consult with public and private entities associated with the Federal Air Marshal Service to address concerns regarding Federal Air Marshals related to the following:
+
+- **(1)** Mental health.
+- **(2)** Suicide rates.
+- **(3)** Morale and recruitment.
+- **(4)** Any other personnel issues the Administrator determines appropriate.
+
+## § 11. Prohibition on certain social media application
+
+Beginning on the date of the enactment of this Act, covered employees may not use or have installed on United States Government-issued mobile devices the social media video application known as “TikTok” or any successor application.
+
+## § 12. Veterans hiring
+
+The Secretary shall prioritize the hiring of veterans, including disabled veterans, and other preference eligible individuals, including widows and widowers of veterans, as defined in section 2108 of title 5, United States Code, for covered positions.
+
+## § 13. Prevention and protection against certain illness
+
+The Administrator of the Transportation Security Administration, in coordination with the Director of Centers for Disease Control and Prevention and the Director of the National Institute of Allergy and Infectious Diseases, shall ensure that covered employees are provided proper guidance regarding prevention and protections against coronavirus, including appropriate resources.
