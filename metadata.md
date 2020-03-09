@@ -1,7 +1,7 @@
 ---
 measure: S. 2683
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2683
@@ -24,9 +24,10 @@ Child Care Protection Improvement Act of 2020
 - Sen. Braun, Mike [R-IN] (B001310)
 - Sen. Jones, Doug [D-AL] (J000300)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- House — Education and the Workforce Committee
 
 ## Actions
 
@@ -45,3 +46,6 @@ Child Care Protection Improvement Act of 2020
 - 2020-03-05 — Senate amendment proposed (on the floor): Amendment SA 1522 proposed by Senator McConnell for Senator Alexander.
 - 2020-03-05 — Senate amendment submitted
 - 2020-03-05 — The committee substitute withdrawn by Unanimous Consent.
+- 2020-03-09 — Message on Senate action sent to the House.
+- 2020-03-09 — Received in the House.
+- 2020-03-09 — Referred to the House Committee on Education and Labor.
