@@ -1,7 +1,7 @@
 ---
 measure: S. 1757
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1757
@@ -89,9 +89,11 @@ United States Army Rangers Veterans of World War II Congressional Gold Medal Act
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Toomey, Patrick [R-PA] (T000461)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Banking, Housing, and Urban Affairs Committee
+- House — Committee on House Administration
+- House — Financial Services Committee
 
 ## Actions
 
@@ -107,3 +109,7 @@ United States Army Rangers Veterans of World War II Congressional Gold Medal Act
 - 2020-03-05 — Senate amendment agreed to: Amendment SA 1524 agreed to in Senate by Unanimous Consent.
 - 2020-03-05 — Senate amendment proposed (on the floor): Amendment SA 1524 proposed by Senator McConnell for Senator Ernst.
 - 2020-03-05 — Senate amendment submitted
+- 2020-03-09 — Message on Senate action sent to the House.
+- 2020-03-09 — Received in the House.
+- 2020-03-09 — Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2020-03-09 — Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
