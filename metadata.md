@@ -1,7 +1,7 @@
 ---
 measure: S. 3414
 congress: 116
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3414
@@ -32,3 +32,15 @@ Major Medical Facility Authorization Act of 2020
 - 2020-03-09 — Message on Senate action sent to the House.
 - 2020-03-09 — Received in the House.
 - 2020-03-09 — Referred to the House Committee on Veterans' Affairs.
+- 2020-05-28 — Considered under suspension of the rules. (consideration: CR H2328-2329)
+- 2020-05-28 — DEBATE - The House proceeded with forty minutes of debate on S. 3414.
+- 2020-05-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-05-28 — Mr. Takano moved to suspend the rules and pass the bill.
+- 2020-05-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2328)
+- 2020-05-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2328)
+- 2020-06-08 — Presented to President.
+- 2020-06-08 — Presented to President.
+- 2020-06-16 — Became Public Law No: 116-144.
+- 2020-06-16 — Became Public Law No: 116-144.
+- 2020-06-16 — Signed by President.
+- 2020-06-16 — Signed by President.
