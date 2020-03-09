@@ -1,8 +1,8 @@
 ---
 legis-num: H. RES. 410
 congress: 116th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 410
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## Preamble
 
-- Whereas the Republic of Korea (in this resolution referred to as “South Korea”) and the Democratic People’s Republic of Korea (in this resolution referred to as “North Korea”) remain divided since the armistice agreement was signed on July 27, 1953;
+- Whereas the Korean Peninsula, with the Republic of Korea (in this resolution referred to as “South Korea”) in the South and the Democratic People’s Republic of Korea (in this resolution referred to as “North Korea”) in the North, remains divided following the signing of the Korean War Armistice Agreement on July 27, 1953;
 - Whereas the division of the Korean Peninsula separated more than 10,000,000 Korean family members, including some who are now citizens of the United States;
 - Whereas there have been 21 rounds of family reunions between South Koreans and North Koreans along the border since 2000;
 - Whereas Congress signaled its support for family reunions between United States citizens and their relatives in North Korea in section 1265 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181), signed into law by President George W. Bush on January 28, 2008;
@@ -22,9 +22,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 That the House of Representatives—
 
-- **(1)** calls on the United States and North Korea to begin the process of reuniting Korean-American divided family members with their immediate relatives within 60 days of the adoption of this resolution through ways such as—
-  - **(A)** exchanging information of divided family members in the United States and North Korea who are willing and able to participate in a pilot program for family reunions;
-  - **(B)** finding matches for members on the divided family member registry through organizations such as the Red Cross; and
+- **(1)** calls on the United States and North Korea to begin the process of reuniting Korean-American divided family members with their immediate relatives through ways such as—
+  - **(A)** identifying divided families in the United States and North Korea who are willing and able to participate in a pilot program for family reunions;
+  - **(B)** finding matches for members of such families through organizations such as the Red Cross; and
   - **(C)** working with the Government of South Korea to include American citizens in inter-Korean video reunions;
 - **(2)** reconfirms the institution of family as inalienable and, accordingly, urges the restoration of contact between divided families physically, literarily, or virtually; and
-- **(3)** calls on the United States and North Korea to pursue reunions as a humanitarian priority of immediate concern, delinked as much as possible from conflict, before attempts at or achievement of normalized relations are made.
+- **(3)** calls on the United States and North Korea to pursue reunions as a humanitarian priority of immediate concern.
