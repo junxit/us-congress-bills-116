@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 754
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 754
@@ -16,7 +16,7 @@ Expressing the sense of the House of Representatives that the United States shou
 
 - Rep. Sires, Albio [D-NJ-8] (S001165)
 
-## Cosponsors (13)
+## Cosponsors (28)
 
 - Rep. Rooney, Francis [R-FL-19] (R000607)
 - Rep. Mucarsel-Powell, Debbie [D-FL-26] (M001207)
@@ -31,6 +31,21 @@ Expressing the sense of the House of Representatives that the United States shou
 - Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
 - Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Shalala, Donna E. [D-FL-27] (S001206)
+- Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Vargas, Juan [D-CA-51] (V000130)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Vela, Filemon [D-TX-34] (V000132)
+- Rep. Bera, Ami [D-CA-7] (B001287)
+- Rep. Meeks, Gregory W. [D-NY-5] (M001137)
+- Rep. Espaillat, Adriano [D-NY-13] (E000297)
+- Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
+- Rep. Cicilline, David N. [D-RI-1] (C001084)
+- Rep. Keating, William R. [D-MA-9] (K000375)
+- Rep. Deutch, Theodore E. [D-FL-22] (D000610)
+- Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. Taylor, Van [R-TX-3] (T000479)
 
 ## Committees (1)
 
@@ -41,3 +56,11 @@ Expressing the sense of the House of Representatives that the United States shou
 - 2019-12-09 — Introduced in House
 - 2019-12-09 — Introduced in House
 - 2019-12-09 — Referred to the House Committee on Foreign Affairs.
+- 2019-12-18 — Committee Consideration and Mark-up Session Held.
+- 2019-12-18 — Ordered to be Reported by Unanimous Consent.
+- 2020-03-09 — Considered under suspension of the rules. (consideration: CR H1543-1545)
+- 2020-03-09 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 754.
+- 2020-03-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-03-09 — Mr. Sires moved to suspend the rules and agree to the resolution, as amended.
+- 2020-03-09 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H1543-1544)
+- 2020-03-09 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.

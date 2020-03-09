@@ -1,8 +1,8 @@
 ---
 legis-num: H. RES. 754
 congress: 116th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 754
@@ -16,12 +16,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Nicaraguan security forces, parapolice, and other actors working under the direction of the Ortega regime committed gross violations of human rights and acts of repression, resulting in more than 325 deaths, over 2,000 injuries, and at least 800 arbitrary detentions during the peaceful protests that took place in 2018, according to the Organization of American States;
 - Whereas a report by the Interdisciplinary Group of Independent Experts, appointed by the Organization of American States Inter-American Commission on Human Rights, determined that the Ortega regime used deliberate, lethal force against protesters and committed acts of torture that meet the international legal standard of crimes against humanity;
 - Whereas an estimated 62,000 Nicaraguans fled the country between April 2018 and April 2019, according to the United Nations High Commissioner for Refugees;
-- Whereas the Ortega government reneged on its commitment to release all political prisoners by releasing just 392 people, of which 286 were released to house arrest with charges still pending, while the Civic Alliance for Justice and Democracy alleges that there remain over 150 political prisoners as of November 29, 2019;
+- Whereas the Ortega government reneged on its commitment in 2019 to release all political prisoners by releasing just 392 people, of which 286 were released to house arrest with charges still pending, while the Blue and White National Unity coalition alleges that there remain at least 56 political prisoners as of February 15, 2020;
 - Whereas a United States citizen and Navy veteran, 57-year-old Eddy Montes, was shot and killed while in the custody of the Nicaraguan police at La Modelo Prison on May 16, 2019;
 - Whereas the government of Daniel Ortega has severely restricted freedom of the press by closing five local television stations, attacking independent radio stations, arbitrarily detaining journalists, and illegally restricting print supplies from entering the country;
 - Whereas the Ortega regime has violated the economic and political rights protections of indigenous communities, rural campesinos, land rights defenders, and those living in the Caribbean Autonomous Regions of Nicaragua;
-- Whereas, on November 27, 2018, Executive Order 13851 was issued, which blocks the property of certain persons contributing to the situation in Nicaragua, and its application was expanded on September 4, 2019;
-- Whereas the Departments of State and the Treasury have imposed targeted sanctions on nine Nicaraguan officials, including First Lady and Vice President Rosario Murillo and Daniel Ortega’s son, Laureano Ortega, as well as Nicaragua’s Banco Corporativo (Bancorp);
+- Whereas, on November 27, 2018, Executive Order No. 13851 was issued, which blocks the property of certain persons contributing to the situation in Nicaragua, and its application was expanded on September 4, 2019;
+- Whereas the Departments of State and the Treasury have imposed targeted sanctions on over 20 Nicaraguan individuals and entities, including First Lady and Vice President Rosario Murillo and Daniel Ortega’s son, Laureano Ortega, as well as Nicaragua’s Banco Corporativo (Bancorp);
 - Whereas the bipartisan Nicaraguan Investment Conditionality Act (NICA Act), was signed into law on December 20, 2018, allowing the Department of the Treasury to sanction non-United States persons implicated in egregious human rights abuses and corruption in Nicaragua;
 - Whereas, in June 2019, Canada imposed sanctions on 12 members of the Nicaraguan Government engaged in gross and systemic human rights violations;
 - Whereas the Ortega government has not complied with efforts of the commission appointed by the Permanent Council of the Organization of American States seeking a peaceful resolution to the social and political crisis;
