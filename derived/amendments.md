@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2877
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
