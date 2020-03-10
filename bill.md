@@ -1,0 +1,25 @@
+---
+legis-num: H. RES. 893
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 893
+
+> Expressing support for designation of March 21, 2020, as “National Rosie the Riveter Day”.
+
+## Preamble
+
+- Whereas “National Rosie the Riveter Day” is a collective national effort to raise awareness of the 16,000,000 women working during World War II;
+- Whereas Americans have chosen to honor female workers who contributed on the home front during World War II;
+- Whereas these women left their homes to work or volunteer full-time in factories, farms, shipyards, airplane factories, banks, and other institutions in support of the military overseas;
+- Whereas these women worked with the United Service Organizations and American Red Cross, drove trucks, riveted airplane parts, collected critical materials, rolled bandages, and served on rationing boards;
+- Whereas it is fitting and proper to recognize and preserve the history and legacy of working women, including volunteer women, during World War II to promote cooperation and fellowship among such women and their descendants;
+- Whereas these women and their descendants wish to further the advancement of patriotic ideas, excellence in the workplace, and loyalty to the United States of America; and
+- Whereas March 21, 2020, during Women’s History Month, would be an appropriate date to designate as “National Rosie the Riveter Day”: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** supports the designation of “National Rosie the Riveter Day”; and
+- **(2)** acknowledges the important role played by women in World War II.
