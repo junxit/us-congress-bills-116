@@ -21,7 +21,7 @@ Congress finds that—
 - **(6)** Minor League Baseball is the first touchpoint of the national pastime for millions of youth and the only touch­point for those located in communities far from Major League cities;
 - **(7)** Congress has enacted numerous statutory exemptions and immunities to preserve and sustain a system for Minor League Baseball and its relationship with Major League Baseball;
 - **(8)** an abandonment of 42 Minor League Baseball clubs by Major League Baseball would devastate communities, bond purchasers, and other stakeholders that rely on the economic stimulus these clubs provide;
-- **(9)** Minor League Baseball clubs enrich the lives of millions of Americans each year through special economic, social, cultural, and charitable contributions; and
+- **(9)** Minor League Baseball clubs enrich the lives of millions of Americans each year through special economic, cultural, social, and charitable contributions; and
 - **(10)** preservation of Minor League Baseball in 160 communities is in the public interest, as it will continue to provide affordable, family friendly entertainment to those communities.
 
 ## § 2. GAO Evaluation
