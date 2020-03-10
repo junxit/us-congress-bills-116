@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2444
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2444
@@ -44,3 +44,14 @@ Eastern European Security Act
 - 2020-03-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1546)
 - 2020-03-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2020-03-10 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2021-01-01 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8011-8012)
+- 2021-01-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8011-8012)
+- 2021-01-01 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2021-01-01 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2021-01-02 — Message on Senate action sent to the House.
+- 2021-01-03 — Presented to President.
+- 2021-01-03 — Presented to President.
+- 2021-01-13 — Became Public Law No: 116-332.
+- 2021-01-13 — Became Public Law No: 116-332.
+- 2021-01-13 — Signed by President.
+- 2021-01-13 — Signed by President.
