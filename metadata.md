@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 756
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 756
@@ -43,3 +43,12 @@ Moving Our Democracy and Congressional Operations Towards Modernization Resoluti
 - 2019-12-10 — Referred to the Committee on House Administration, and in addition to the Committees on Transportation and Infrastructure, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-12-10 — Referred to the Committee on House Administration, and in addition to the Committees on Transportation and Infrastructure, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-12-10 — Referred to the Committee on House Administration, and in addition to the Committees on Transportation and Infrastructure, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-12-11 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- 2020-03-10 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2020-03-10 — Considered as unfinished business. (consideration: CR H1577-1578)
+- 2020-03-10 — Considered under suspension of the rules. (consideration: CR H1567-1574)
+- 2020-03-10 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 756.
+- 2020-03-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-03-10 — Ms. Lofgren moved to suspend the rules and agree to the resolution, as amended.
+- 2020-03-10 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 13 (Roll no. 93). (text: CR H1567-1571)
+- 2020-03-10 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 13 (Roll no. 93).
