@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 56
 congress: 116
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 56
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 
-## Cosponsors (36)
+## Cosponsors (42)
 
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Murray, Patty [D-WA] (M001111)
@@ -54,12 +54,27 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Smith, Tina [D-MN] (S001203)
 - Sen. Peters, Gary C. [D-MI] (P000595)
 - Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
 ## Committees (1)
 
 - Senate — Health, Education, Labor, and Pensions Committee
 
+## Recorded votes (1)
+
+- 2020-03-10 — [Senate 116-2-69](votes/senate-116-2-0069.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (55–41)
+
 ## Actions
 
 - 2019-09-26 — Introduced in Senate
 - 2019-09-26 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S5752)
+- 2020-03-10 — Measure laid before Senate by motion. (consideration: CR S1660-1661)
+- 2020-03-10 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 55 - 41. Record Vote Number: 69.
+- 2020-03-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 439.
+- 2020-03-10 — Senate Committee on Health, Education, Labor, and Pensions discharged by petition pursuant to 5 U.S.C. 802(c).
+- 2020-03-10 — Senate Committee on Health, Education, Labor, and Pensions discharged by petition pursuant to 5 U.S.C. 802(c).
