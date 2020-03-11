@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6020
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6020
@@ -43,9 +43,10 @@ To require an evaluation by the Government Accountability Office of the social, 
 - Rep. Roy, Chip [R-TX-21] (R000614)
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -60,3 +61,4 @@ To require an evaluation by the Government Accountability Office of the social, 
 - 2020-03-10 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill, as amended.
 - 2020-03-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1564-1565)
 - 2020-03-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-03-11 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
