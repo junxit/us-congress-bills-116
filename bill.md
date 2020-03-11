@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 6206
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6206
+
+> To provide that the President may provide additional Federal assistance for an emergency related to a public health emergency, including a pandemic or virus threat, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Pandemic Response and Emergency Preparedness Act of 2020” or the “PREP Act of 2020”.
+
+## § 2. Assistance for public health emergency
+
+In any emergency declared by the President under section 501 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5191) related to a public health emergency, including a pandemic or virus threat, that occurs between the date of enactment of this Act and September 30, 2021, in addition to the assistance authorized by section 502 of such Act, the President may provide assistance under—
+
+- **(1)** section 410 of such Act for unemployment and lost wages; and
+- **(2)** sections 412, 415, 416, and 426 of such Act.
