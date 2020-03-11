@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3598
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3598
@@ -88,9 +88,10 @@ FREED Vets Act
 - Rep. Lieu, Ted [D-CA-33] (L000582)
 - Rep. Kinzinger, Adam [R-IL-16] (K000378)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -103,3 +104,4 @@ FREED Vets Act
 - 2020-03-10 — Mrs. Lee (NV) moved to suspend the rules and pass the bill, as amended.
 - 2020-03-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1575-1576)
 - 2020-03-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-03-11 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
