@@ -1,7 +1,7 @@
 ---
 measure: S. 227
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 227
@@ -16,7 +16,7 @@ Savanna's Act
 
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 
-## Cosponsors (28)
+## Cosponsors (29)
 
 - Sen. Cortez Masto, Catherine [D-NV] (C001113)
 - Sen. Cantwell, Maria [D-WA] (C000127)
@@ -46,6 +46,7 @@ Savanna's Act
 - Sen. Crapo, Mike [R-ID] (C000880)
 - Sen. Warren, Elizabeth [D-MA] (W000817)
 - Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
 
 ## Committees (1)
 
@@ -60,3 +61,5 @@ Savanna's Act
 - 2020-01-15 — Committee on Indian Affairs. Reported by Senator Hoeven with an amendment in the nature of a substitute. With written report No. 116-206.
 - 2020-01-15 — Committee on Indian Affairs. Reported by Senator Hoeven with an amendment in the nature of a substitute. With written report No. 116-206.
 - 2020-01-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 407.
+- 2020-03-11 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S1708-1709; text of amendment in the nature of a substitute: CR S1708-1709)
+- 2020-03-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
