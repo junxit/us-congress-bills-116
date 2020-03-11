@@ -1,7 +1,7 @@
 ---
 measure: S. 982
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 982
@@ -40,3 +40,5 @@ Not Invisible Act of 2019
 - 2020-02-11 — Committee on Indian Affairs. Reported by Senator Hoeven with an amendment in the nature of a substitute. With written report No. 116-214.
 - 2020-02-11 — Committee on Indian Affairs. Reported by Senator Hoeven with an amendment in the nature of a substitute. With written report No. 116-214.
 - 2020-02-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 417.
+- 2020-03-11 — Passed Senate with an amendment by Voice Vote. (consideration: CR S1709-1710; text of amendment in the nature of a substitute: CR S1709-1710)
+- 2020-03-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
