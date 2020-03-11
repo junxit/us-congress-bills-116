@@ -1,7 +1,7 @@
 ---
 measure: S. 982
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 982
@@ -42,3 +42,18 @@ Not Invisible Act of 2019
 - 2020-02-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 417.
 - 2020-03-11 — Passed Senate with an amendment by Voice Vote. (consideration: CR S1709-1710; text of amendment in the nature of a substitute: CR S1709-1710)
 - 2020-03-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2020-03-12 — Held at the desk.
+- 2020-03-12 — Message on Senate action sent to the House.
+- 2020-03-12 — Received in the House.
+- 2020-09-21 — Considered under suspension of the rules. (consideration: CR H4579-4581)
+- 2020-09-21 — DEBATE - The House proceeded with forty minutes of debate on S. 982.
+- 2020-09-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-21 — Ms. Scanlon moved to suspend the rules and pass the bill.
+- 2020-09-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4579-4580)
+- 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-09-30 — Presented to President.
+- 2020-09-30 — Presented to President.
+- 2020-10-10 — Became Public Law No: 116-166.
+- 2020-10-10 — Became Public Law No: 116-166.
+- 2020-10-10 — Signed by President.
+- 2020-10-10 — Signed by President.
