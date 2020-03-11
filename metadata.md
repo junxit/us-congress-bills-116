@@ -1,7 +1,7 @@
 ---
 measure: S. 227
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 227
@@ -63,3 +63,18 @@ Savanna's Act
 - 2020-01-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 407.
 - 2020-03-11 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S1708-1709; text of amendment in the nature of a substitute: CR S1708-1709)
 - 2020-03-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2020-03-12 — Held at the desk.
+- 2020-03-12 — Message on Senate action sent to the House.
+- 2020-03-12 — Received in the House.
+- 2020-09-21 — Considered under suspension of the rules. (consideration: CR H4573-4576)
+- 2020-09-21 — DEBATE - The House proceeded with forty minutes of debate on S. 227.
+- 2020-09-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-21 — Ms. Scanlon moved to suspend the rules and pass the bill.
+- 2020-09-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4573-4574)
+- 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-09-30 — Presented to President.
+- 2020-09-30 — Presented to President.
+- 2020-10-10 — Became Public Law No: 116-165.
+- 2020-10-10 — Became Public Law No: 116-165.
+- 2020-10-10 — Signed by President.
+- 2020-10-10 — Signed by President.
