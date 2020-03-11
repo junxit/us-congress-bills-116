@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 891
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 891
@@ -27,3 +27,9 @@ Providing for consideration of the joint resolution (S.J. Res. 68) to direct the
 - 2020-03-10 — Resolution provides for consideration of S.J. Res. 68, the Senate amendment to H.R. 2486, and H.R. 6172. For S.J. Res. 68, the resolution provides for 1 hour of debate and 1 motion to commit. For the Senate amendment to H.R. 2486, the question will be divided and each portion will have 1 hour of debate. H.R. 6172 will have 1 hour ofdebate and 1 motion to recommit with or without instructions.
 - 2020-03-10 — The House Committee on Rules reported an original measure, H. Rept. 116-415, by Mr. McGovern.
 - 2020-03-10 — The House Committee on Rules reported an original measure, H. Rept. 116-415, by Mr. McGovern.
+- 2020-03-11 — Considered as privileged matter. (consideration: CR H1599-1613)
+- 2020-03-11 — DEBATE - The House proceeded with one hour of debate on H. Res. 891.
+- 2020-03-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-03-11 — On agreeing to the resolution Agreed to by the Yeas and Nays: 223 - 188 (Roll no. 96). (text: CR H1599-1600)
+- 2020-03-11 — On ordering the previous question Agreed to by the Yeas and Nays: 226 - 186 (Roll no. 95). (consideration: CR H1612-1613)
+- 2020-03-11 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 223 - 188 (Roll no. 96).
