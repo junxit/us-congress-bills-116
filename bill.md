@@ -2,7 +2,7 @@
 legis-num: H. RES. 891
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 891
@@ -24,8 +24,8 @@ Upon adoption of this resolution it shall be in order to take from the Speaker's
 
 The amendments referred to in the second and third sections of this resolution are as follows:
 
-- **(a)** An amendment consisting of the text of Rules Committee Print 116-52.
-- **(b)** An amendment consisting of the text of Rules Committee Print 116-53.
+- **(a)** An amendment consisting of the text of Rules Committee Print 116–52.
+- **(b)** An amendment consisting of the text of Rules Committee Print 116–53.
 
 ## § 5.
 
