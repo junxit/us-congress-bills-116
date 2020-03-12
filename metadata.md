@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4920
 congress: 116
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4920
@@ -68,3 +68,14 @@ Department of Veterans Affairs Contracting Preference Consistency Act of 2020
 - 2020-03-12 — Senate amendment agreed to: Amendment SA 1555 agreed to in Senate by Unanimous Consent.
 - 2020-03-12 — Senate amendment proposed (on the floor): Amendment SA 1555 proposed by Senator Murkowski for Senator Tester.
 - 2020-03-12 — Senate amendment submitted
+- 2020-03-16 — Message on Senate action sent to the House.
+- 2020-07-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-07-20 — Mr. Takano asked unanimous consent to take from the Speaker's table the bill, H.R. 4920, and agree to the Senate amendment. (consideration: CR H3110-3111)
+- 2020-07-20 — On motion that the House agree to the Senate amendment Agreed to without objection. (text: CR H3110)
+- 2020-07-20 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text: CR H3110)
+- 2020-07-28 — Presented to President.
+- 2020-07-28 — Presented to President.
+- 2020-08-08 — Became Public Law No: 116-155.
+- 2020-08-08 — Became Public Law No: 116-155.
+- 2020-08-08 — Signed by President.
+- 2020-08-08 — Signed by President.
