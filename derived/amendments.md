@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4920
 congress: 116
-version: Referred in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
