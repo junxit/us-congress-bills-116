@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6172
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 6172
@@ -63,3 +63,6 @@ USA FREEDOM Reauthorization Act of 2020
 - 2020-03-11 — Rule H. Res. 891 passed House.
 - 2020-03-11 — Rule provides for consideration of S.J. Res. 68, H.R. 2486 and H.R. 6172. Resolution provides for consideration of S.J. Res. 68, the Senate amendment to H.R. 2486, and H.R. 6172. For S.J. Res. 68, the resolution provides for 1 hour of debate and 1 motion to commit. For the Senate amendment to H.R. 2486, the question will be divided and each portion will have 1 hour of debate. H.R. 6172 will have 1 hour ofdebate and 1 motion to recommit with or without instructions.
 - 2020-03-11 — The previous question was ordered pursuant to the rule.
+- 2020-03-12 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S1735)
+- 2020-03-12 — Motion to proceed to consideration of measure made in Senate. (CR S1735)
+- 2020-03-12 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 440.
