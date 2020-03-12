@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 4920
-congress: 116th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Sixteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 4920
 
-That the bill from the House of Representatives (H.R. 4920) entitled “An Act to amend title 38, United States Code, to provide for an exception to certain small business contracting requirements applicable to the Department of Veterans Affairs procurement of certain goods and services covered under the Ability One program, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend title 38, United States Code, to provide for an exception to certain small business contracting requirements applicable to the Department of Veterans Affairs procurement of certain goods and services covered under the Ability One program, and for other purposes.
 
 ## § 1. Short title
 
