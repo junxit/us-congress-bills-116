@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5332
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -32,7 +32,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >   - **(iii)** *No advertising or solicitations* A portal established under this subparagraph may not contain any advertising, marketing offers, or other solicitations.
   >   - **(iv)** *Extension* The Bureau may allow the consumer reporting agencies an extension of 1 year to develop the online consumer portal landing page required under clause (i).
   >   - **(v)** *Rule of construction* Nothing in this subparagraph may be construed as requiring a consumer reporting agency to disclose confidential proprietary information through the online consumer portal landing page.
-  > - **(E)** *Opt-out options*
+  > - **(E)** *Opt-out option*
   >   - **(i)** *In general* If a consumer reporting agency sells consumer information in a manner that is not included in a consumer report, the consumer reporting agency shall provide each consumer with a method (through a website, by phone, or in writing) by which the consumer may elect, free of charge, to not have the information of the consumer so sold.
   >   - **(ii)** *No expiration* An election made by a consumer under clause (i) shall expire on the date on which the consumer expressly revokes the election through a website, by phone, or in writing.
 
@@ -49,7 +49,7 @@ Section 607(b) of the Fair Credit Reporting Act (15 U.S.C. 1681e) is amended to 
 >     - **(B)** if a consumer does not have a social security number, matches information that includes the full legal name, date of birth, current address, and at least one former address of the consumer.
 >   - **(3)** *Periodic audits* Each consumer reporting agency shall perform periodic audits, on a schedule determined by the Bureau, on a representative sample of consumer reports of the agency to check for accuracy.
 
-## § 4. Improved Dispute Process for Consumer Reporting Agencies
+## § 4. Improved dispute process for consumer reporting agencies
 
 - **(a)** *Responsibilities of furnishers of information to consumer reporting agencies* Section 623 of the Fair Credit Reporting Act (15 U.S.C. 1681s–2) is amended—
   - **(1)** in subsection (a)(8)—
@@ -99,27 +99,26 @@ Section 607(b) of the Fair Credit Reporting Act (15 U.S.C. 1681e) is amended to 
 
 ## § 5. Injunctive relief
 
-The Fair Credit Reporting Act (15 U.S.C. 1681 et seq.) is amended—
+- **(a)** *In general* The Fair Credit Reporting Act (15 U.S.C. 1681 et seq.) is amended—
+  - **(1)** in section 616 (15 U.S.C. 1681n)—
+    - **(A)** in subsection (a), by amending the subsection heading to read as follows: “Damages”;
+    - **(B)** by redesignating subsections (c) and (d) as subsections (d) and (e), respectively; and
+    - **(C)** by inserting after subsection (b) the following:
+      > - **(c)** *Injunctive relief*
+      >   - **(1)** *In general* In addition to any other remedy under this section, a court may award injunctive relief to require compliance with the requirements imposed under this title with respect to any consumer.
+      >   - **(2)** *Attorney’s fees* In the event of any successful action for injunctive relief under this subsection, a court may award to the prevailing party reasonable attorney’s fees (as determined by the court) incurred by the prevailing party during the action.
 
-- **(1)** in section 616 (15 U.S.C. 1681n)—
-  - **(A)** in subsection (a), by amending the subsection heading to read as follows: “Damages”;
-  - **(B)** by redesignating subsections (c) and (d) as subsections (d) and (e), respectively; and
-  - **(C)** by inserting after subsection (b) the following:
-    > - **(c)** *Injunctive relief*
-    >   - **(1)** *In general* In addition to any other remedy under this section, a court may award injunctive relief to require compliance with the requirements imposed under this title with respect to any consumer.
-    >   - **(2)** *Costs and attorney’s fees* In the event of any successful action for injunctive relief under this subsection, a court may award to the prevailing party costs and reasonable attorney’s fees (as determined by the court) incurred by the prevailing party during the action.
+  - **(2)** in section 617 (15 U.S.C. 1681o)—
+    - **(A)** in subsection (a), in the subsection heading, by striking “(a) In General.—” and inserting “(a) Damages.—”;
+    - **(B)** by redesignating subsection (b) as subsection (c); and
+    - **(C)** by inserting after subsection (a) the following:
+      > - **(b)** *Injunctive relief*
+      >   - **(1)** *In general* In addition to any other remedy under this section, a court may award injunctive relief to require compliance with the requirements imposed under this title with respect to any consumer.
+      >   - **(2)** *Attorney’s fees* In the event of any successful action for injunctive relief under this subsection, a court may award to the prevailing party reasonable attorney’s fees (as determined by the court) incurred by the prevailing party during the action.
 
-- **(2)** in section 617 (15 U.S.C. 1681o)—
-  - **(A)** in subsection (a), in the subsection heading, by striking “(a) In General.—” and inserting “(a) Damages.—”;
-  - **(B)** by redesignating subsection (b) as subsection (c); and
-  - **(C)** by inserting after subsection (a) the following:
-    > - **(b)** *Injunctive relief*
-    >   - **(1)** *In general* In addition to any other remedy under this section, a court may award injunctive relief to require compliance with the requirements imposed under this title with respect to any consumer.
-    >   - **(2)** *Costs and attorney’s fees* In the event of any successful action for injunctive relief under this subsection, a court may award to the prevailing party costs and reasonable attorney’s fees (as determined by the court) incurred by the prevailing party during the action.
-
-- **(3)** *Enforcement* Section 615(h)(8) of the Fair Credit Reporting Act (15 U.S.C. 1681m(h)(8)) is amended—
-  - **(A)** in subparagraph (A), by striking “section” and inserting “subsection”; and
-  - **(B)** in subparagraph (B), by striking “This section” and inserting “This subsection”.
+- **(b)** *Enforcement* Section 615(h)(8) of the Fair Credit Reporting Act (15 U.S.C. 1681m(h)(8)) is amended—
+  - **(1)** in subparagraph (A), by striking “section” and inserting “subsection”; and
+  - **(2)** in subparagraph (B), by striking “This section” and inserting “This subsection”.
 
 ## § 6. Increased transparency
 
