@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1833
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1833
@@ -64,3 +64,7 @@ To designate the facility of the United States Postal Service located at 35 Tuli
 - 2019-10-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8170)
 - 2019-10-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8170)
 - 2019-10-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2020-03-11 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2020-03-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2020-03-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
+- 2020-03-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 445.
