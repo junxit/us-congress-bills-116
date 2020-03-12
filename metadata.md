@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3317
 congress: 116
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3317
@@ -44,3 +44,12 @@ To permit the Scipio A. Jones Post Office in Little Rock, Arkansas, to accept an
 - 2020-03-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
 - 2020-03-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
 - 2020-03-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 447.
+- 2020-11-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7081)
+- 2020-11-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7081)
+- 2020-11-19 — Message on Senate action sent to the House.
+- 2020-11-24 — Presented to President.
+- 2020-11-24 — Presented to President.
+- 2020-12-03 — Became Public Law No: 116-198.
+- 2020-12-03 — Became Public Law No: 116-198.
+- 2020-12-03 — Signed by President.
+- 2020-12-03 — Signed by President.
