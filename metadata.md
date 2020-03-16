@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6160
 congress: 116
-version: Introduced in House
+version: Received in Senate
 ---
 
 # H.R. 6160
@@ -33,3 +33,16 @@ To extend the chemical facility anti-terrorism standards program of the Departme
 - 2020-03-09 — Introduced in House
 - 2020-03-09 — Referred to the Committee on Homeland Security, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2020-03-09 — Referred to the Committee on Homeland Security, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2020-03-10 — Referred to the Subcommittee on Environment and Climate Change.
+- 2020-03-12 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2020-03-12 — Subcommittee Consideration and Mark-up Session Held.
+- 2020-03-14 — Committee on Energy and Commerce discharged.
+- 2020-03-14 — Committee on Energy and Commerce discharged.
+- 2020-03-14 — Committee on Homeland Security discharged.
+- 2020-03-14 — Committee on Homeland Security discharged.
+- 2020-03-14 — Considered by unanimous consent. (consideration: CR H1692)
+- 2020-03-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-03-14 — Mr. Thompson (MS) asked unanimous consent to discharge from committee and consider.
+- 2020-03-14 — On passage Passed without objection. (text: CR H1692)
+- 2020-03-14 — Passed/agreed to in House: On passage Passed without objection.
+- 2020-03-16 — Received in the Senate.
