@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6160
 congress: 116
-version: Introduced in House
+version: Received in Senate
 derived: true
 ---
 
