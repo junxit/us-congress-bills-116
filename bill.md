@@ -1,0 +1,22 @@
+---
+legis-num: S. 3501
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3501
+
+> To provide a 77-day extension of certain authorities for foreign intelligence and international terrorism investigations, and for other purposes.
+
+## § 1. Seventy-seven-day extension of authority to access certain business records for foreign intelligence and international terrorism investigations and for roving surveillance
+
+Section 102(b)(1) of the USA PATRIOT Improvement and Reauthorization Act of 2005 (Public Law 109–177; 50 U.S.C. 1805 note) is amended by striking “March 15, 2020” and inserting “May 30, 2020”.
+
+## § 2. Seventy-seven-day extension of authority for individual terrorists to be treated as agents of foreign powers under the Foreign Intelligence Surveillance Act of 1978
+
+Section 6001(b)(1) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 50 U.S.C. 1801 note) is amended by striking “March 15, 2020” and inserting “May 30, 2020”.
+
+## § 3. Effective date
+
+This Act and the amendments made by this Act take effect on March 14, 2020.
