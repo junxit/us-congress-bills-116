@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6201
 congress: 116
-version: Introduced in House
+version: Received in Senate
 ---
 
 # H.R. 6201
@@ -31,6 +31,10 @@ Families First Coronavirus Response Act
 - House — Budget Committee
 - House — Appropriations Committee
 
+## Recorded votes (1)
+
+- 2020-03-14 — [House 116-2-102](votes/house-116-2-0102.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (363–40)
+
 ## Actions
 
 - 2020-03-11 — Introduced in House
@@ -38,3 +42,11 @@ Families First Coronavirus Response Act
 - 2020-03-11 — Referred to the Committee on Appropriations, and in addition to the Committees on the Budget, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2020-03-11 — Referred to the Committee on Appropriations, and in addition to the Committees on the Budget, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2020-03-11 — Referred to the Committee on Appropriations, and in addition to the Committees on the Budget, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2020-03-14 — Considered under suspension of the rules. (consideration: CR H1675-1691)
+- 2020-03-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6201.
+- 2020-03-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-03-14 — Mrs. Lowey moved to suspend the rules and pass the bill, as amended.
+- 2020-03-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 363 - 40, 1 Present (Roll no. 102). (text: CR H1675-1687)
+- 2020-03-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 363 - 40, 1 Present (Roll no. 102).
+- 2020-03-14 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 6201.
+- 2020-03-17 — Received in the Senate, read twice.

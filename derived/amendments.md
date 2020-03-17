@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6201
 congress: 116
-version: Introduced in House
+version: Received in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-57 amendatory instructions. 13 executed, 44 stated and not applied.
+52 amendatory instructions. 12 executed, 40 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,14 +24,14 @@ to guess them.
 
 ## Executed
 
-### 42 U.S.C. § 1395cc
+### 29 U.S.C. § 2612
 
-> by striking “(a)(1)(U)” and inserting “(a)(1)(V)”; and
+> Section 102(c) of the Family and Medical Leave Act of 1993 (29 U.S.C. 2612(c)) is amended by striking “under subsection (a)” and inserting “under subsection (a) (other than certain periods of leave under subsection (a)(1)(F))”.
 
 | | |
 |---|---|
-| Removed | `(a)(1)(U)` |
-| Inserted | `(a)(1)(V)` |
+| Removed | `under subsection (a)` |
+| Inserted | `under subsection (a) (other than certain periods of leave under subsection (a)(1)(F))` |
 
 ### 42 U.S.C. § 1322
 
@@ -71,75 +71,66 @@ to guess them.
 
 ### 42 U.S.C. § 1397cc
 
-> by striking “category of services described in subsection (c)(1)(D) or” and inserting “categories of services described in subsection (c)(1)(D), in vitro diagnostic products described in subsection (c)(9) (and administration of such products), visits described in section 1916(a)(2)(G), or”.
+> by striking “category of services described in subsection (c)(1)(D) or” and inserting “categories of services described in subsection (c)(1)(D), in vitro diagnostic products described in subsection (c)(10) (and administration of such products), visits described in section 1916(a)(2)(G), or”.
 
 | | |
 |---|---|
 | Removed | `category of services described in subsection (c)(1)(D) or` |
-| Inserted | `categories of services described in subsection (c)(1)(D), in vitro diagnostic products described in subsection (c)(9) (and administration of such products), visits described in section 1916(a)(2)(G), or` |
-
-### 42 U.S.C. § 1396d
-
-> Section 1905(cc) of the Social Security Act (42 U.S.C. 1396d(cc)) is amended by striking “American Recovery and Reinvestment Act of 2009.” and inserting “and section 109 of the Families First Coronavirus Response Act, except that in applying such treatments to the increases in the Federal medical assistance percentage under section 109 of the Families First Coronavirus Response Act, the reference to December 31, 2009 shall be deemed to be a reference to March 11, 2020.”.
-
-| | |
-|---|---|
-| Removed | `American Recovery and Reinvestment Act of 2009.` |
-| Inserted | `and section 109 of the Families First Coronavirus Response Act, except that in applying such treatments to the increases in the Federal medical assistance percentage under section 109 of the Families First Coronavirus Response Act, the reference to December 31, 2009 shall be deemed to be a reference to March 11, 2020.` |
+| Inserted | `categories of services described in subsection (c)(1)(D), in vitro diagnostic products described in subsection (c)(10) (and administration of such products), visits described in section 1916(a)(2)(G), or` |
 
 ### 42 U.S.C. § 1308
 
-> in clause (ii), by striking “for each of fiscal years 2020 through 2021, $126,000,000;” and inserting “for fiscal year 2020, $129,500,000; and”; and
+> in clause (ii), by striking “for each of fiscal years 2020 through 2021, $126,000,000;” and inserting “for fiscal year 2020, $128,712,500; and”; and
 
 | | |
 |---|---|
 | Removed | `for each of fiscal years 2020 through 2021, $126,000,000;` |
-| Inserted | `for fiscal year 2020, $129,500,000; and` |
+| Inserted | `for fiscal year 2020, $128,712,500; and` |
 
 ### 42 U.S.C. § 1308
 
-> in clause (ii), by striking “for each of fiscal years 2020 through 2021, $127,000,000;” and inserting “for fiscal year 2020, $132,000,000; and”; and
+> in clause (ii), by striking “for each of fiscal years 2020 through 2021, $127,000,000;” and inserting “for fiscal year 2020, $130,875,000; and”; and
 
 | | |
 |---|---|
 | Removed | `for each of fiscal years 2020 through 2021, $127,000,000;` |
-| Inserted | `for fiscal year 2020, $132,000,000; and` |
+| Inserted | `for fiscal year 2020, $130,875,000; and` |
 
 ### 42 U.S.C. § 1308
 
-> in clause (ii), by striking “for each of fiscal years 2020 through 2021, $60,000,000; and” and inserting “for fiscal year 2020, $64,000,000; and”; and
+> in clause (ii), by striking “for each of fiscal years 2020 through 2021, $60,000,000; and” and inserting “for fiscal year 2020, $63,100,000; and”; and
 
 | | |
 |---|---|
 | Removed | `for each of fiscal years 2020 through 2021, $60,000,000; and` |
-| Inserted | `for fiscal year 2020, $64,000,000; and` |
+| Inserted | `for fiscal year 2020, $63,100,000; and` |
 
 ### 42 U.S.C. § 1308
 
-> in clause (ii), by striking “for each of fiscal years 2020 through 2021, $84,000,000.” and inserting “for fiscal year 2020, $87,000,000; and”; and
+> in clause (ii), by striking “for each of fiscal years 2020 through 2021, $84,000,000.” and inserting “for fiscal year 2020, $86,325,000; and”; and
 
 | | |
 |---|---|
 | Removed | `for each of fiscal years 2020 through 2021, $84,000,000.` |
-| Inserted | `for fiscal year 2020, $87,000,000; and` |
+| Inserted | `for fiscal year 2020, $86,325,000; and` |
 
 ### 42 U.S.C. § 1308
 
-> in clause (i), by striking “$2,623,188,000” and inserting “$2,743,188,000”; and
+> in clause (i), by striking “$2,623,188,000” and inserting “$2,716,188,000”; and
 
 | | |
 |---|---|
 | Removed | `$2,623,188,000` |
-| Inserted | `$2,743,188,000` |
+| Inserted | `$2,716,188,000` |
 
 ### 42 U.S.C. § 1308
 
-> in clause (ii), by striking “$2,719,072,000” and inserting “$2,804,072,000”.
+> in clause (ii), by striking “$2,719,072,000” and inserting “$2,809,063,000”.
 
 | | |
 |---|---|
 | Removed | `$2,719,072,000` |
-| Inserted | `$2,804,072,000` |
+| Inserted | `$2,809,063,000` |
 
 ## Stated, not applied
 
@@ -150,12 +141,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 1395cc` | strike | in subparagraph (X), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395cc` | replace | in subparagraph (Y), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395cc` | insert | by inserting after subparagraph (Y) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395cc` | insert | in subparagraph (A), by inserting “and a hospital or skilled nursing facility that fails to comply with the requirement of subsection (a)(1)(Z) (relating to the standards promulgated under section 101 of the Covid–19 Health Care Worker P… | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395cc` | insert | by inserting “(or, in the case of a failure to comply with the requirement of subsection (a)(1)(Z), for a violation of the standards referred to in such subsection by a hospital or skilled nursing facility, as applicable, that is subject… | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 1402` | insert | The Social Security Act is amended by inserting after title V the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 2612` | add-at-end | Section 102(a)(1) of the Family and Medical Leave Act of 1993 (29 U.S.C. 2612(a)(1)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 2611` | add-at-end | Title I of the Family and Medical Leave Act of 1993 (29 U.S.C. 2611 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1103` | add-at-end | Section 903 of the Social Security Act (42 U.S.C. 1103) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -179,13 +164,14 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1396a` | add-at-end | by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396a` | insert | by inserting after “instead of through subclause (VIII)” the following: “, and (XVIII) the medical assistance made available to an uninsured individual (as defined in subsection (ss)) who is eligible for medical assistance only because o… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396a` | add-at-end | Section 1902 of the Social Security Act (42 U.S.C. 1396a) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396d` | add-at-end | Section 1905(b) of the Social Security Act (42 U.S.C. 1396d(b)) is amended by adding at the end the following new sentence: “Notwithstanding the first sentence of this section, the Federal medical assistance percentage shall be 100 per c… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396d` | add-at-end | Section 1905(b) of the Social Security Act (42 U.S.C. 1396d(b)) is amended by adding at the end the following new sentence: “Notwithstanding the first sentence of this subsection, the Federal medical assistance percentage shall be 100 pe… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1397cc` | add-at-end | Section 2103(c) of the Social Security Act (42 U.S.C. 1397cc(c)) is amended by adding at the end the following paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1397ll` | insert | Section 2112(b)(4) of the Social Security Act (42 U.S.C. 1397ll(b)(4)) is amended by inserting “under section 2103(c)” after “same requirements”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1397cc` | insert | in the paragraph header, by inserting “, COVID–19 testing,” before “or pregnancy-related assistance”; and | the bill quotes the text inserted but describes where it goes |
 | — | strike | in subparagraph (B), by striking “or” at the end; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (C), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 1396d` | replace | Section 1905(cc) of the Social Security Act (42 U.S.C. 1396d(cc)) is amended by striking the period at the end of the subsection and inserting “and section 6008 of the Families First Coronavirus Response Act, except that in applying such… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1308` | strike | in clause (i), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1308` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1308` | strike | in clause (i), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
@@ -194,3 +180,4 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1308` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1308` | strike | in clause (i), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1308` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1320b-5` | amend | Paragraph (3)(A) of section 1135(g) of the Social Security Act (42 U.S.C. 1320b–5(g)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
