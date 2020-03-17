@@ -1,0 +1,22 @@
+---
+legis-num: S. 3514
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3514
+
+> To ensure that facilities of the Indian Health Service, facilities operated by an Indian tribe, tribal organization, or inter-tribal consortium, and facilities operated by an urban Indian organization receive items from the strategic national stockpile and qualified pandemic or epidemic products directly from the Department of Health and Human Services.
+
+## § 1. Short title
+
+This Act may be cited as the “Tribal Medical Supplies Stockpile Access Act of 2020”.
+
+## § 2. Provision of items to Indian programs and facilities
+
+- **(a)** *Strategic national stockpile* Section 319F–2(a)(3)(G) of the Public Health Service Act (42 U.S.C. 247d–6b(a)(3)(G)) is amended by inserting “, and, in the case that the Secretary deploys the stockpile under this subparagraph, ensure, in coordination with the applicable States and programs and facilities, that appropriate drugs, vaccines and other biological products, medical devices, and other supplies are deployed by the Secretary directly to health programs or facilities operated by the Indian Health Service, an Indian tribe, a tribal organization (as those terms are defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304)), or an inter-tribal consortium (as defined in section 501 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5381)) or through an urban Indian organization (as defined in section 4 of the Indian Health Care Improvement Act), while avoiding duplicative distributions to such programs or facilities” before the semicolon.
+- **(b)** *Distribution of qualified pandemic or epidemic products to IHS facilities* Title III of the Public Health Service Act (42 U.S.C. 241 et seq.) is amended by inserting after section 319F–4 the following:
+  > ## § 319F–5. Distribution of qualified pandemic or epidemic products to Indian programs and facilities
+  >
+  > In the case that the Secretary distributes qualified pandemic or epidemic products (as defined in section 319F–3(i)(7)) to States or other entities, the Secretary shall ensure, in coordination with the applicable States and programs and facilities, that, as appropriate, such products are distributed directly to health programs or facilities operated by the Indian Health Service, an Indian tribe, a tribal organization (as those terms are defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304)), or an inter-tribal consortium (as defined in section 501 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5381)) or through an urban Indian organization (as defined in section 4 of the Indian Health Care Improvement Act), while avoiding duplicative distributions to such programs or facilities.
