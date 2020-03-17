@@ -2,7 +2,7 @@
 legis-num: H.R. 6160
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 6160
