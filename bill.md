@@ -1,0 +1,33 @@
+---
+legis-num: S. 3527
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3527
+
+> To waive required minimum distribution rules for retirement plans in 2020.
+
+## § 1. Temporary waiver of required minimum distribution rules for certain retirement plans and accounts
+
+- **(a)** *In general* Section 401(a)(9) of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph:
+  > - **(I)** *Temporary waiver of minimum required distribution*
+  >   - **(i)** *In general* The requirements of this paragraph shall not apply for calendar year 2020 to—
+  >     - **(I)** a defined contribution plan which is described in this subsection or in section 403(a) or 403(b),
+  >     - **(II)** a defined contribution plan which is an eligible deferred compensation plan described in section 457(b) but only if such plan is maintained by an employer described in section 457(e)(1)(A), or
+  >     - **(III)** an individual retirement plan.
+  >   - **(ii)** *Special rules regarding waiver period* For purposes of this paragraph—
+  >     - **(I)** the required beginning date with respect to any individual shall be determined without regard to this subparagraph for purposes of applying this paragraph for calendar years after 2020, and
+  >     - **(II)** if clause (ii) of subparagraph (B) applies, the 5-year period described in such clause shall be determined without regard to calendar year 2020.
+
+- **(b)** *Eligible rollover distributions* Section 402(c)(4) of the Internal Revenue Code of 1986 (defining eligible rollover distribution) is amended by adding at the end the following new flush sentence:
+- **(c)** *Effective dates*
+  - **(1)** *In general* The amendments made by this section shall apply for calendar years beginning after December 31, 2019.
+  - **(2)** *Provisions relating to plan or contract amendments*
+    - **(A)** *In general* If this paragraph applies to any pension plan or contract amendment, such pension plan or contract shall not fail to be treated as being operated in accordance with the terms of the plan during the period described in subparagraph (B)(ii) solely because the plan operates in accordance with this section.
+    - **(B)** *Amendments to which paragraph applies*
+      - **(i)** *In general* This paragraph shall apply to any amendment to any pension plan or annuity contract which—
+        - **(I)** is made pursuant to the amendments made by this section, and
+        - **(II)** is made on or before the last day of the first plan year beginning on or after January 1, 2022.
+      - **(ii)** *Conditions* This paragraph shall not apply to any amendment unless during the period beginning on the effective date of the amendment and ending on December 31, 2020, the plan or contract is operated as if such plan or contract amendment were in effect.
