@@ -1,0 +1,32 @@
+---
+legis-num: S. 3531
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3531
+
+> To amend the Small Business Act to ensure small businesses affected by the onset of communicable diseases are eligible for disaster relief.
+
+## § 1. Short title
+
+This Act may be cited as the “Small Business Relief From Communicable Disease Induced Economic Hardship Act of 2020”.
+
+## § 2. Economic injury loans for communicable diseases
+
+- **(a)** *Definition of a disaster* Section 3(k)(2) of the Small Business Act (15 U.S.C. 632(k)(2)) is amended—
+  - **(1)** in subparagraph (B), by striking “and” at the end;
+  - **(2)** in subparagraph (C), striking the period and inserting “; and”; and
+  - **(3)** by adding at the end the following:
+    > - **(D)** a communicable disease for which the Federal Government has issued a travel alert or travel warning.
+
+- **(b)** *Terms* Section 7(b)(2) of the Small Business Act (15 U.S.C. 636(b)(2)) is amended—
+  - **(1)** in subparagraph (D), by striking the period at the end and inserting “; or”;
+  - **(2)** by inserting after subparagraph (D) the following:
+    > - **(E)** a disaster described in section 3(k)(2)(D) for which the Federal Government has issued a public health emergency.
+
+  - **(3)** by adding at the end the following: “A loan made pursuant to a disaster described in subparagraph (E) shall not require the payment of interest.”.
+- **(c)** *Applicability* The amendments made by this section shall apply to a communicable disease—
+  - **(1)** for which the Federal Government issues a travel alert or travel warning before, on, or after the date of enactment of this Act; and
+  - **(2)** the effects of which are experienced on or after the date of enactment of this Act.
