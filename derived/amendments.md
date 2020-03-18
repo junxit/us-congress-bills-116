@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6201
 congress: 116
-version: Engrossed in House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -168,7 +168,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1397cc` | add-at-end | Section 2103(c) of the Social Security Act (42 U.S.C. 1397cc(c)) is amended by adding at the end the following paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1397ll` | insert | Section 2112(b)(4) of the Social Security Act (42 U.S.C. 1397ll(b)(4)) is amended by inserting “under section 2103(c)” after “same requirements”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1397cc` | insert | in the paragraph header, by inserting “, COVID–19 testing,” before “or pregnancy-related assistance”; and | the bill quotes the text inserted but describes where it goes |
-| — | strike | in subparagraph (B), by striking “or” at the end; and | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (B), by striking “or” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (C), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 1396d` | replace | Section 1905(cc) of the Social Security Act (42 U.S.C. 1396d(cc)) is amended by striking the period at the end of the subsection and inserting “and section 6008 of the Families First Coronavirus Response Act, except that in applying such… | the bill quotes the text inserted but describes where it goes |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6201
 congress: 116
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 6201
@@ -97,3 +97,4 @@ Families First Coronavirus Response Act
 - 2020-03-18 — Senate amendment submitted
 - 2020-03-18 — Signed by President.
 - 2020-03-18 — Signed by President.
+- 2020-03-19 — Engrossment Correction
