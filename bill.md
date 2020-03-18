@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 6201
-congress: 116th CONGRESS
-session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+congress: One Hundred Sixteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 6201
