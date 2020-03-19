@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5021
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -31,7 +31,7 @@ This Act may be cited as the “Ending Debt Collection Harassment Act of 2019”
   > - **(7)** Contacting the consumer electronically, including by email or text message, without consent of the consumer, after such consent has been withdrawn, or more frequently than the consumer consents to be contacted.
 
 - **(d)** *Ensuring consumers receive notice of debt collection protections* Section 809(a) of the Fair Debt Collection Practices Act (15 U.S.C. 1692g(a)) is amended in the matter preceding paragraph (1) by striking “Within five days” and all that follows through “debt,” and inserting the following: “Notice of debt; contents.—Within five days after the initial communication with a consumer in connection with the collection of any debt,”.
-- **(e)** *Limitations on debt collection rules* Section 814(d) of the Fair Debt Collection Practices Act (15 U.S.C. 1692l(d)) is amended by adding at the end the following:
+- **(e)** *Improved limitations on debt collection rules* Section 814(d) of the Fair Debt Collection Practices Act (15 U.S.C. 1692l(d)) is amended by adding at the end the following:
   > Such rules—
   > - **(1)** may not allow a debt collector to send unlimited electronic communications to a consumer;
   > - **(2)** shall require debt collectors to obtain consent directly from consumers before contacting them using a method other than by postal mail or by phone;
