@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 6289
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6289
+
+> To amend the Mineral Leasing Act to repeal a provision relating to the suspension, waiver, or reduction of rents or royalties by the Secretary of the Interior to promote development or operation, to amend the Outer Continental Shelf Lands Act to limit the authority of the Secretary to reduce or eliminate certain royalties and net profit shares, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Stop Trump’s Oil Payoff Act of 2020” or “STOP Act of 2020”.
+
+## § 2. Repeal of provision of the Mineral Leasing Act relating to the suspension, waiver, or reduction of rents or royalties by the Secretary of the Interior to promote development or operation
+
+- **(a)** *Repeal* Section 39 of the Mineral Leasing Act (30 U.S.C. 209) is repealed.
+- **(b)** *Conforming amendments*
+  - **(1)** Section 8721(b) of title 10, United States Code, is amended by striking “202–209” and inserting “202–208”.
+  - **(2)** Section 8735(a) of title 10, United States Code, is amended by striking “202–209” and inserting “202–208”.
+  - **(3)** Section 31(h) of the Mineral Leasing Act (30 U.S.C. 188(h)) is amended by striking “and the provisions of section 39 of this Act”.
+
+## § 3. Limitation on the authority of the Secretary to reduce or eliminate certain royalties and net profit shares under the outer Continental Shelf Lands Act
+
+Section 8(a) of the Outer Continental Shelf Lands Act (43 U.S.C. 1337(a)) is amended by striking paragraph (3) and inserting the following:
+
+> - **(3)** *Limitation on authority of Secretary to reduce or eliminate certain royalties or net profit shares* Notwithstanding any other provision of this Act, the Secretary may not reduce or eliminate any royalty or net profit share established under a lease.
