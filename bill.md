@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 6309
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6309
+
+> To require the Administrator of the Federal Emergency Management Agency to encourage States and localities to adopt policies pertaining to the safe relocation of prisoners during major disasters and emergencies.
+
+## § 1. Short title
+
+This Act may be cited as the “Natural Disaster Safe Inmate Relocation Act”.
+
+## § 2. Safe Inmate Relocation
+
+The Administrator of the Federal Emergency Management Agency shall encourage States and localities that receive assistance under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) to adopt policies regarding the safe relocation of prisoners before, during, and after major disasters and emergencies, as appropriate.
