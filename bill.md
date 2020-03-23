@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 6373
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6373
+
+> To increase the amount available under the Defense Production Act of 1950 to respond to the coronavirus epidemic, and for other purposes.
+
+## § 1. Increase in authorizations
+
+- **(a)** *Authorizations* In addition to amounts otherwise authorized to be appropriated, there is authorized to be appropriated in the aggregate $3,000,000,000 for fiscal year 2020 and 2021 to carry out titles I and III of the Defense Production Act of 1950 to produce medical ventilators, personal protection equipment, and other critically needed medical supplies and to carry out any other actions necessary to respond to the COVID–19 emergency.
+- **(b)** *Carryover funds* Section 304(e) of the Defense Production Act of 1950 shall not apply at the close of fiscal year 2020.
+- **(c)** *COVID–19 emergency* In this Act, the term “COVID–19 emergency” means the emergency declared on March 13, 2020, by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 4121 et seq.) relating to the Coronavirus Disease 2019 (COVID-19) pandemic.
+
+## § 2. Strengthening congressional oversight; public portal
+
+- **(a)** *In general* Not later than three months after the date of enactment of this Act, and every three months thereafter, the Secretary of Commerce, in coordination with the Secretary of Health and Human Services, the Secretary of Defense, and any other Federal department or agency that has utilized authority under title I or title III of the Defense Production Act of 1950 to respond to the COVID–19 emergency, shall submit a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate—
+  - **(1)** on the use of such authority and the expenditure of any funds in connection with such authority; and
+  - **(2)** that includes details of each purchase order made using such authorities, including the product and amount of product ordered and the entity that fulfilled the contract.
+- **(b)** *Public availability* The Secretary of Commerce shall place all reports submitted under subsection (a) on an appropriate website available to the public, in an easily searchable format.
+- **(c)** *Sunset* The requirements under this section shall terminate after the expenditure of all funds appropriated pursuant to the authorizations under section 1.
