@@ -1,0 +1,16 @@
+---
+legis-num: H.R. 6376
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6376
+
+> To amend the State Department Basic Authorities Act of 1956 to exempt the reimbursement for certain travel to return to the United States, and for other purposes.
+
+## § 1. Exemption of reimbursement for certain travel to return to the United States
+
+Section 4 of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2671) is amended by adding at the end the following new subsection:
+
+> - **(e)** In the case of a communicable disease for which the Federal Government has issued a travel alert or travel warning, the reimbursement requirements under subsections (b)(2)(A)(ii) and (d) shall not apply.
