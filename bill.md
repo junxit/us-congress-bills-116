@@ -1,0 +1,38 @@
+---
+legis-num: H.R. 6382
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6382
+
+> To provide assistance for fair housing enforcement activities associated with the COVID-19 pandemic, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Fair Housing Enforcement Emergency Act of 2020”.
+
+## § 2. Definition of COVID-19 emergency period
+
+For purposes of this Act, the term “COVID-19 emergency period” means the period that begins upon the date of the enactment of this Act and ends upon the date of the termination by the Federal Emergency Management Agency of the emergency declared on March 13, 2020, by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 4121 et seq.) relating to the Coronavirus Disease 2019 (COVID-19) pandemic.
+
+## § 3. Fair housing activities
+
+- **(a)** *FHIP; FHAP*
+  - **(1)** *Authorization of appropriations* To ensure that fair housing organizations and State and local civil rights agencies have sufficient resources to deal with expected increases in fair housing complaints, to investigate housing discrimination, including financial scams that target protected classes, associated with or resulting from the COVID-19 pandemic, and during such pandemic, there is authorized to be appropriated for contracts, grants, and other assistance—
+    - **(A)** $55,000,000 for the Fair Housing Initiatives Program under section 561 of the Housing and Community Development Act of 1987 (42 U.S.C. 3616a); and
+    - **(B)** $35,000,000 for the Fair Housing Assistance Program under the Fair Housing Act (42 U.S.C. 3601 et seq.).
+  - **(2)** *Private enforcement initiative* In entering into contracts for private enforcement initiatives under 561(b) of the Housing and Community Development Act of 1987 (42 U.S.C. 3616a(b)) using amounts made available pursuant to paragraph (1)(A) of this subsection, the Secretary of Housing and Urban Development shall give priority to applications from qualified fair housing enforcement organizations that have at least 2 years of fair housing testing experience.
+  - **(3)** *3-year availability* Any amounts made available pursuant paragraph (1) that are allocated for a grantee and remain unexpended upon the expiration of the 3-year period beginning upon such allocation shall be recaptured by the Secretary.
+- **(b)** *Office of Fair Housing and Equal Opportunity* There is authorized to be appropriated $200,000,000 for the Office of Fair Housing and Equal Opportunity of the Department of Housing and Urban Development for costs of fully staffing such Office to ensure robust enforcement of the Fair Housing Act during the COVID-19 pandemic, including ensuring that—
+  - **(1)** assistance provided under this Act is provided and administered in a manner that affirmatively furthers fair housing in accordance with the Fair Housing Act;
+  - **(2)** such Office has sufficient capacity for intake of housing discrimination complaints by telephone and online mechanisms, including for individuals with limited English proficiency and individuals with a disability in accordance with requirements under the Americans With Disabilities Act of 1990 and section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794); and
+  - **(3)** such Office has the capacity to respond to all housing discrimination complaints made during the COVID-19 pandemic within time limitations required under law.
+
+## § 4. Fair housing guidance and education
+
+- **(a)** *Prohibition of showings* Not later than the expiration of the 30-day period beginning on the date of the enactment of this Act, the Secretary of Housing and Urban Development shall issue guidance for owners of dwelling units assisted under housing assistance programs of the Department prohibiting, during the COVID-19 emergency period, of any showings of occupied assisted dwelling units to prospective tenants.
+- **(b)** *Education* There is authorized to be appropriated $10,000,000 for the Office of Fair Housing and Equal Opportunity of the Department of Housing and Urban Development to carry out a national media campaign to educate the public of increased housing rights during COVID-19 emergency period, that provides that information and materials used in such campaign are available—
+  - **(1)** in the languages used by communities with limited English proficiency; and
+  - **(2)** to persons with disabilities.
