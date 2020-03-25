@@ -1,7 +1,7 @@
 ---
 measure: H.R. 748
 congress: 116
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -1765,9 +1765,9 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1395g` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 6008 of the Families First Coronavirus Response Act is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 1395b-3` | replace | Subsection (a)(1)(B) of section 119 of the Medicare Improvements for Patients and Providers Act of 2008 (42 U.S.C. 1395b–3 note), as amended by section 3306 of the Patient Protection and Affordable Care Act (Public Law 111–148), section … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 119` | replace | Subsection (b)(1)(B) of such section 119, as so amended, is amended by striking clauses (x) through (xii) and inserting the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 119` | replace | Subsection (c)(1)(B) of such section 119, as so amended, is amended by striking clauses (x) through (xii) and inserting the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 119` | replace | Subsection (d)(2) of such section 119, as so amended, is amended by striking clauses (x) through (xii) and inserting the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395b-3` | replace | Subsection (b)(1)(B) of such section 119, as so amended, is amended by striking clauses (x) through (xii) and inserting the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395b-3` | replace | Subsection (c)(1)(B) of such section 119, as so amended, is amended by striking clauses (x) through (xii) and inserting the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395b-3` | replace | Subsection (d)(2) of such section 119, as so amended, is amended by striking clauses (x) through (xii) and inserting the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396a` | replace | in paragraph (1), by striking subparagraph (G) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396a` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396a` | add-at-end | in subparagraph (C), by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
