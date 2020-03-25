@@ -1,7 +1,7 @@
 ---
 measure: H.R. 748
 congress: 116
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 748
@@ -16,7 +16,7 @@ CARES Act
 
 - Rep. Courtney, Joe [D-CT-2] (C001069)
 
-## Cosponsors (369)
+## Cosponsors (393)
 
 - Rep. Kelly, Mike [R-PA-16] (K000376)
 - Rep. DelBene, Suzan K. [D-WA-1] (D000617)
@@ -387,6 +387,30 @@ CARES Act
 - Rep. Steube, W. Gregory [R-FL-17] (S001214)
 - Rep. Horn, Kendra S. [D-OK-5] (H001083)
 - Rep. Keller, Fred [R-PA-12] (K000395)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. McSally, Martha [R-AZ] (M001197)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Tillis, Thomas [R-NC] (T000476)
 
 ## Committees (1)
 
@@ -410,3 +434,44 @@ CARES Act
 - 2019-07-17 — The Chair announced the Speaker's designation, pursuant to clause 7(a)(1) of rule 15, of H.R. 748 as the measure on the Consensus Calendar to be considered this week.
 - 2019-07-18 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2019-07-22 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 157.
+- 2020-03-20 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S1876)
+- 2020-03-20 — Motion to proceed to consideration of measure made in Senate. (CR S1876)
+- 2020-03-21 — Motion to proceed to measure considered in Senate. (CR S1882)
+- 2020-03-22 — Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 47 - 47. Record Vote Number: 77. (CR S1901)
+- 2020-03-22 — Motion by Senator McConnell to reconsider the vote by which cloture on the motion to proceed to the measure was not invoked (Record Vote No. 77) entered in Senate.
+- 2020-03-22 — Motion to proceed to measure considered in Senate. (CR S1895, S1897, S1913)
+- 2020-03-22 — Senate amendment submitted
+- 2020-03-22 — Senate amendment submitted
+- 2020-03-22 — Senate amendment submitted
+- 2020-03-22 — Senate amendment submitted
+- 2020-03-22 — Senate amendment submitted
+- 2020-03-23 — Motion by Senator McConnell to reconsider the vote by which cloture on the motion to proceed to the measure was not invoked (Record Vote No. 77) agreed to in Senate by Voice Vote.
+- 2020-03-23 — Motion to proceed to consideration of the motion to reconsider the vote by which cloture on the motion to proceed to the measure was not invoked (Record Vote No. 77) agreed to in Senate by Voice Vote. (CR S1921)
+- 2020-03-23 — Motion to proceed to measure considered in Senate. (CR S1929)
+- 2020-03-23 — Second cloture motion on the motion to proceed to the measure presented in Senate. (CR S1957)
+- 2020-03-23 — Senate amendment submitted
+- 2020-03-23 — Senate amendment submitted
+- 2020-03-23 — Senate amendment submitted
+- 2020-03-23 — Senate amendment submitted
+- 2020-03-23 — Senate amendment submitted
+- 2020-03-23 — Upon reconsideration, cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 49 - 46. Record Vote Number: 78. (CR S1928)
+- 2020-03-24 — Motion to proceed to measure considered in Senate. (CR S1976)
+- 2020-03-24 — Senate amendment submitted
+- 2020-03-24 — Senate amendment submitted
+- 2020-03-24 — Senate amendment submitted
+- 2020-03-25 — Amendment SA 1577 proposed by Senator Sasse to Amendment SA 1578. (consideration: CR S2059-2060; text: CR S2060) To ensure that additional unemployment benefits do not result in an individual receiving unemployment compensation that is more than the amount of wages the individual was earning prior to becoming unemployed.
+- 2020-03-25 — Amendment SA 1577, under the order of 3/25/20, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 48. Record Vote Number: 79.
+- 2020-03-25 — Amendment SA 1578 agreed to in Senate by Unanimous Consent.
+- 2020-03-25 — Amendment SA 1578 proposed by Senator McConnell. (consideration: CR S2059, S2060; text: CR S2063-2156) Providing emergency assistance and health care response for individuals, families, and businesses affected by the 2020 coronavirus pandemic.
+- 2020-03-25 — Measure laid before Senate by unanimous consent. (consideration: CR S2059-2060)
+- 2020-03-25 — Motion to proceed to measure considered in Senate. (CR S2022)
+- 2020-03-25 — Passed Senate, under the order of 3/25/20, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 96 - 0. Record Vote Number: 80.
+- 2020-03-25 — Passed/agreed to in Senate: Passed Senate, under the order of 3/25/20, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 96 - 0. Record Vote Number: 80.
+- 2020-03-25 — Roll call votes on amendments in Senate: Amendment SA 1577, under the order of 3/25/20, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 48. Record Vote Number: 79.
+- 2020-03-25 — Second cloture motion on the motion to proceed to the measure withdrawn by unanimous consent in Senate. (CR S2059)
+- 2020-03-25 — Senate amendment agreed to: Amendment SA 1578 agreed to in Senate by Unanimous Consent.
+- 2020-03-25 — Senate amendment not agreed to: Amendment SA 1577, under the order of 3/25/20, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 48. Record Vote Number: 79.
+- 2020-03-25 — Senate amendment proposed (on the floor): Amendment SA 1577 proposed by Senator Sasse to Amendment SA 1578.
+- 2020-03-25 — Senate amendment proposed (on the floor): Amendment SA 1578 proposed by Senator McConnell.
+- 2020-03-25 — Senate amendment submitted
+- 2020-03-25 — Senate amendment submitted
