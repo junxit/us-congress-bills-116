@@ -1,7 +1,7 @@
 ---
 measure: H.R. 748
 congress: 116
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 748
@@ -412,9 +412,10 @@ CARES Act
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Tillis, Thomas [R-NC] (T000476)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -475,3 +476,19 @@ CARES Act
 - 2020-03-25 — Senate amendment proposed (on the floor): Amendment SA 1578 proposed by Senator McConnell.
 - 2020-03-25 — Senate amendment submitted
 - 2020-03-25 — Senate amendment submitted
+- 2020-03-26 — Message on Senate action sent to the House.
+- 2020-03-27 — Became Public Law No: 116-136.
+- 2020-03-27 — Became Public Law No: 116-136.
+- 2020-03-27 — DEBATE - Pursuant to the provisions of H. Res. 911, the House proceeded with 3 hours of debate on the motion that the House concur in the Senate amendment to H.R. 748.
+- 2020-03-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-03-27 — OBJECTION TO VOTE - At the conclusion of debate on the motion to concur in the Senate amendment to H.R. 748, the Chair put the question on the motion and by voice vote, announced that the ayes had prevailed. Mr. Massie demanded a recorded vote, and the Chair determined that an insufficient number of Members having arisen, the demand for a recorded vote was refused. Mr. Massie made a point of order that a quorum was not present and the Chair counted for a quorum. Subsequently, the Chair announced that a quorum was present.
+- 2020-03-27 — On motion that the House agree to the Senate amendment Agreed to by voice vote. (text: CR H1732-1818)
+- 2020-03-27 — Presented to President.
+- 2020-03-27 — Presented to President.
+- 2020-03-27 — Pursuant to the provisions of H. Res. 911, Mr. Hoyer moved that the House concur in the Senate amendment to H.R. 748. (consideration: CR H1732-1864)
+- 2020-03-27 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to by voice vote.
+- 2020-03-27 — Signed by President.
+- 2020-03-27 — Signed by President.
+- 2020-03-27 — The previous question was ordered pursuant to H.Res. 911.
+- 2020-03-31 — POSITION STATEMENTS FOR THE RECORD - The Chair announced that all Members may have five legislative days in which to include their stated position on the voice vote on the motion to concur in the Senate amendment to H.R. 748, and those statements will appear in the appropriate point in the Record. Agreed to without objection.
+- 2020-07-23 — Committee on Small Business and Entrepreneurship. Hearings held.
