@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3504
 congress: 116
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3504
@@ -50,3 +50,13 @@ Ryan Kules and Paul Benne Specially Adaptive Housing Improvement Act of 2019
 - 2020-03-26 — Senate amendment agreed to: Amendment SA 1579 agreed to in Senate by Unanimous Consent.
 - 2020-03-26 — Senate amendment proposed (on the floor): Amendment SA 1579 proposed by Senator McConnell for Senator Moran.
 - 2020-03-26 — Senate amendment submitted
+- 2020-07-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-07-20 — Mr. Takano asked unanimous consent to take from the Speaker's table the bill, H.R. 3504, and agree to the Senate amendment. (consideration: CR H3111-3113)
+- 2020-07-20 — On motion that the House agree to the Senate amendment Agreed to without objection. (text: CR H3111-3113)
+- 2020-07-20 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.
+- 2020-07-28 — Presented to President.
+- 2020-07-28 — Presented to President.
+- 2020-08-08 — Became Public Law No: 116-154.
+- 2020-08-08 — Became Public Law No: 116-154.
+- 2020-08-08 — Signed by President.
+- 2020-08-08 — Signed by President.

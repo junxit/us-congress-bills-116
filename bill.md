@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 3504
-congress: 116th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Sixteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 3504
 
-That the bill from the House of Representatives (H.R. 3504) entitled “An Act to amend title 38, United States Code, to provide for improvements to the specially adapted housing program and educational assistance programs of the Department of Veterans Affairs, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend title 38, United States Code, to provide for improvements to the specially adapted housing program and educational assistance programs of the Department of Veterans Affairs, and for other purposes.
 
 ## § 1. Short title
 
