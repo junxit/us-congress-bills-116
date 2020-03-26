@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3504
 congress: 116
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
