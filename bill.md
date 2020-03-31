@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 6420
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6420
+
+> To allow 2020 recovery rebates with respect to qualifying children over the age of 16.
+
+## § 1. Short title
+
+This Act may be cited as the “All Dependent Children Count Act”.
+
+## § 2. 2020 recovery rebates with respect to qualifying children over the age of 16
+
+- **(a)** *In general* Section 6428(a)(2) of the Internal Revenue Code of 1986, as added by Public Law 116–136, is amended by striking “section 24(c)” and inserting “section 152(c)”.
+- **(b)** *Effective date* The amendment made by this section shall take effect as if included in section 2201 of division A of Public Law 116–136.
