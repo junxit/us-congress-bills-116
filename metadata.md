@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6322
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6322
@@ -16,7 +16,7 @@ Student Veteran Coronavirus Response Act of 2020
 
 - Rep. Takano, Mark [D-CA-41] (T000472)
 
-## Cosponsors (27)
+## Cosponsors (49)
 
 - Rep. Roe, David P. [R-TN-1] (R000582)
 - Rep. Castro, Joaquin [D-TX-20] (C001091)
@@ -45,6 +45,28 @@ Student Veteran Coronavirus Response Act of 2020
 - Rep. Cunningham, Joe [D-SC-1] (C001122)
 - Rep. Rice, Kathleen M. [D-NY-4] (R000602)
 - Rep. Levin, Mike [D-CA-49] (L000593)
+- Rep. Kilmer, Derek [D-WA-6] (K000381)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Castor, Kathy [D-FL-14] (C001066)
+- Rep. Sewell, Terri A. [D-AL-7] (S001185)
+- Rep. Steube, W. Gregory [R-FL-17] (S001214)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. DeFazio, Peter A. [D-OR-4] (D000191)
+- Rep. Banks, Jim [R-IN-3] (B001299)
+- Rep. Kennedy, Joseph P., III [D-MA-4] (K000379)
+- Rep. Kim, Andy [D-NJ-3] (K000394)
+- Rep. Barragan, Nanette Diaz [D-CA-44] (B001300)
+- Rep. Heck, Denny [D-WA-10] (H001064)
+- Rep. Trone, David J. [D-MD-6] (T000483)
+- Rep. Underwood, Lauren [D-IL-14] (U000040)
+- Rep. Lamb, Conor [D-PA-17] (L000588)
+- Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
+- Rep. Case, Ed [D-HI-1] (C001055)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Horn, Kendra S. [D-OK-5] (H001083)
+- Rep. Barr, Andy [R-KY-6] (B001282)
+- Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
+- Rep. Slotkin, Elissa [D-MI-8] (S001208)
 
 ## Committees (2)
 
@@ -57,3 +79,11 @@ Student Veteran Coronavirus Response Act of 2020
 - 2020-03-23 — Introduced in House
 - 2020-03-23 — Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2020-03-23 — Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2020-03-31 — Committee on Armed Services discharged.
+- 2020-03-31 — Committee on Armed Services discharged.
+- 2020-03-31 — Committee on Veterans' Affairs discharged.
+- 2020-03-31 — Committee on Veterans' Affairs discharged.
+- 2020-03-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-03-31 — On passage, as amended Passed without objection. (text of amendment in the nature of a substitute: CR H1869-1870)
+- 2020-03-31 — Passed/agreed to in House: On passage, as amended Passed without objection.(text of amendment in the nature of a substitute: CR H1869-1870)
+- 2020-03-31 — Without objection, the Chair laid before the House H.R. 6322 with an amendment. The reading of the amendment was dispensed with and the amendment was agreed to without objection. (consideration: CR H1868-1870)

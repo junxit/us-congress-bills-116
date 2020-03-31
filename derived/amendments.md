@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6322
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-20 amendatory instructions. 0 executed, 20 stated and not applied.
+17 amendatory instructions. 0 executed, 17 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,14 +31,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 3485 of title 38, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A), by striking “12-month” and inserting “six-month”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “or following” and inserting “during periods following”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after “section 3699(b)(1)(B) of this title,” the following: “, or during periods when a course of study or program of education is temporarily closed or terminated by reason of an emergency situation,”. | the bill names no machine-readable US Code section |
+| — | add-at-end | During the covered period, the Secretary of Veterans Affairs shall apply section 3485 of title 38, United States Code, as if it were amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (A), by striking “or” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B)(ii), by striking “and” at the end and inserting “or” ; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 3031 of title 38, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | During the covered period, the Secretary of Veterans Affairs shall apply section 3031 of title 38, United States Code, as if it were amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(A)” before “Subsections”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “and (d)” and inserting “(d), and (i)”; and by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (A) by inserting “or (C)” after “subparagraph (B)”; and | the bill names no machine-readable US Code section |
@@ -47,7 +44,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “paragraph (2)” and inserting “paragraphs (2) and (3)”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 16133(b) of title 10, United States Code, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | replace | Section 3699 of title 38, United States Code, is amended by striking “chapter 30,” each time it appears and inserting “chapter 30, 31,”. | the bill names no machine-readable US Code section |
+| — | add-at-end | During the covered period, the Secretary concerned shall apply section 16133(b) of title 10, United States Code, as if it were amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | replace | During the covered period, the Secretary of Veterans Affairs shall apply section 3699 of title 38, United States Code, as if it were amended by striking “chapter 30,” each time it appears and inserting “chapter 30, 31,”. | the bill names no machine-readable US Code section |
 | — | insert | by inserting “or a subsistence allowance described in section 3108” before “, during”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “or allowance” after “such a stipend”. | the bill names no machine-readable US Code section |
