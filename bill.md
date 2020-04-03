@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 6432
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6432
+
+> To direct the Secretary of Health and Human Services to establish a task force to conduct a study on physician shortages, including barriers to physicians trained abroad practicing in the United States, and for other purposes.
+
+## § 1. Task force To study physician shortages
+
+- **(a)** *In general* The Secretary of Health and Human Services shall establish a task force to conduct a study—
+  - **(1)** evaluating and quantifying—
+    - **(A)** the impact of physician shortages in the United States; and
+    - **(B)** the costs incurred by Federal Government and State and local governments due to such shortages;
+  - **(2)** quantifying the number of individuals who—
+    - **(A)** completed training outside the United States to practice as a physician;
+    - **(B)** reside in the United States; and
+    - **(C)** do not practice as a physician; and
+  - **(3)** determining the reasons why individuals described in paragraph (2) are not practicing as a physician, including identification of regulatory and other barriers to such practice.
+- **(b)** *Report* The Secretary of Health and Human Services shall require the task force established under subsection (a) to submit to the Congress not later than 2 years after the date of enactment of this Act a report—
+  - **(1)** summarizing the results of the study under subsection (a); and
+  - **(2)** making recommendations to ease barriers to individuals described in subsection (a)(2) practicing as physicians in the United States.
