@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 6444
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6444
+
+> To amend the Foreign Sovereign Immunities Act to establish an exception to jurisdictional immunity for a foreign state that discharges a biological weapon, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Stop China-Originated Viral Infectious Diseases Act of 2020” or the “Stop COVID Act of 2020”.
+
+## § 2. Exception to jurisdictional immunity of a foreign state
+
+- **(a)** *Exception to jurisdictional immunity* Section 1605 of title 28, United States Code, is amended—
+  - **(1)** by redesignating subsections (g) and (h) as subsections (h) and (i), respectively; and
+  - **(2)** by inserting after subsection (f) the following new subsection:
+    > - **(g)** A foreign state shall not be immune from the jurisdiction of the courts of the United States in any case where such foreign state is found, whether intentionally or unintentionally, to have discharged a biological weapon, as defined in section 2280(d)(3) of title 18, United States Code, in the United States or such discharge results in the bodily injury of an United States citizen.
+
+- **(b)** *Effective date* The amendment made by subsection (a) shall take effect on the date of the enactment of this Act.
