@@ -1,0 +1,30 @@
+---
+legis-num: H.R. 6427
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6427
+
+> To preclude the transfer of Federal prisoners during the emergency period described in section 1135(g)(1)(B) of the Social Security Act, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Pausing All New Detention and Ending Movement of Inmates for Coronavirus Act of 2020” or as the “PANDEMIC Act of 2020”.
+
+## § 2. Prohibition on prisoner transfer
+
+During the emergency period described in section 1135(g)(1)(B) of the Social Security Act—
+
+- **(1)** notwithstanding section 3621 of title 18, United States Code, no prisoner may be transferred between correctional facilities;
+- **(2)** no individuals in the custody of the U.S. Marshals Service shall be transferred to the custody of the Bureau of Prisons for placement in a facility operated by the Bureau of Prisons; and
+- **(3)** in the case of any person in the custody of a State, pending transfer to the custody of the Bureau of Prisons, the Attorney General may take such actions as may be necessary to provide for the service of any term of imprisonment by that person in a correctional facility of that State.
+
+## § 3. Authority for expansion
+
+The Director of the Bureau of Prisons may take such actions as may be necessary to expand capacity in any correctional facility.
+
+## § 4. Waiver of power
+
+The Attorney General may, on a case by case basis, waive the application of section 2. The authority under this section may not be delegated.
