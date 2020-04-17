@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 6517
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6517
+
+> To amend the Public Health Service Act to authorize the transfer to any Federal department or agency, on a reimbursable basis, any drugs, vaccines and other biological products, medical devices, and other supplies in the Strategic National Stockpile, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Stockpile Inventory Modernization Act of 2020”.
+
+## § 2. Reimbursable transfers from Strategic National Stockpile
+
+Section 319F–2(a) of the Public Health Service Act (42 U.S.C. 247d–6b(a)) is amended by adding at the end the following:
+
+> - **(6)** *Transfers and reimbursements*
+>   - **(A)** *In general* Without regard to chapter 5 of title 40, United States Code, the Secretary may transfer to any Federal department or agency, on a reimbursable basis, any drugs, vaccines and other biological products, medical devices, and other supplies in the stockpile if—
+>     - **(i)** the transferred supplies are less than six months from expiry;
+>     - **(ii)** the stockpile is able to replenish the supplies, as appropriate; and
+>     - **(iii)** the Secretary decides the transfer is in the best interest of the United States Government.
+>   - **(B)** *Use of reimbursement* Reimbursement derived from the transfer of supplies pursuant to subparagraph (A) may be used by the Secretary, without further appropriation and without fiscal year limitation, to carry out this section.
+>   - **(C)** *Report* Not later than September 30, 2022, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on each transfer made under this paragraph and the amount received by the Secretary in exchange for that transfer.
+>   - **(D)** *Sunset* The authority to make transfers under this paragraph shall cease to be effective on September 30, 2023.
