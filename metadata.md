@@ -1,7 +1,7 @@
 ---
 measure: H.R. 266
 congress: 116
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 266
@@ -24,10 +24,11 @@ Paycheck Protection Program and Health Care Enhancement Act
 
 - House — Appropriations Committee
 
-## Recorded votes (2)
+## Recorded votes (3)
 
 - 2019-01-11 — [House 116-1-26](votes/house-116-1-0026.md) — On Motion to Recommit with Instructions — **Failed** (190–229)
 - 2019-01-11 — [House 116-1-27](votes/house-116-1-0027.md) — On Passage — **Passed** (240–179)
+- 2020-04-23 — [House 116-2-104](votes/house-116-2-0104.md) — On Motion to Suspend the Rules and Concur in the Senate Amendment — **Passed** (388–5)
 
 ## Actions
 
@@ -58,3 +59,16 @@ Paycheck Protection Program and Health Care Enhancement Act
 - 2020-04-21 — Senate amendment agreed to: Amendment SA 1580 agreed to in Senate by Unanimous Consent.
 - 2020-04-21 — Senate amendment proposed (on the floor): Amendment SA 1580 proposed by Senator McConnell.
 - 2020-04-21 — Senate amendment submitted
+- 2020-04-22 — Message on Senate action sent to the House.
+- 2020-04-23 — DEBATE - Pursuant to the order of the House of April 23, 2020, the House proceeded with 2 hours of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 266.
+- 2020-04-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-04-23 — Mr. Neal moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H1920-1952, H1954-1955)
+- 2020-04-23 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 388 - 5, 1 Present (Roll no. 104). (text of Senate amendment: CR H1920-1923)
+- 2020-04-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 266, the Chair put the question on the motion, and by voice vote, announced that the ayes had prevailed. Mr. Brady demanded the yeas and nays, and the Chair postponed further proceedings on the motion until a time to be announced.
+- 2020-04-23 — Presented to President.
+- 2020-04-23 — Presented to President.
+- 2020-04-23 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 388 - 5, 1 Present (Roll no. 104).(text of Senate amendment: CR H1920-1923)
+- 2020-04-24 — Became Public Law No: 116-139.
+- 2020-04-24 — Became Public Law No: 116-139.
+- 2020-04-24 — Signed by President.
+- 2020-04-24 — Signed by President.
