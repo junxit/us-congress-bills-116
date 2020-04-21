@@ -1,7 +1,7 @@
 ---
 measure: H.R. 266
 congress: 116
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 266
@@ -15,6 +15,10 @@ Paycheck Protection Program and Health Care Enhancement Act
 ## Sponsor
 
 - Rep. McCollum, Betty [D-MN-4] (M001143)
+
+## Cosponsors (1)
+
+- Sen. Schumer, Charles E. [D-NY] (S000148)
 
 ## Committees (1)
 
@@ -46,3 +50,11 @@ Paycheck Protection Program and Health Care Enhancement Act
 - 2019-01-11 — The previous question was ordered pursuant to the rule.
 - 2019-01-14 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2019-01-15 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 12.
+- 2020-04-21 — Amendment SA 1580 agreed to in Senate by Unanimous Consent.
+- 2020-04-21 — Amendment SA 1580 proposed by Senator McConnell. (consideration: CR S2183-2186; text: CR S2184-2186) To increase amounts authorized and appropriated for commitments for the Paycheck Protection Program authorized under section 7(a) of the Small Business Act, economic injury disaster loans and emergency grants under the CARES Act, to fund hospital and provider recovery and testing, and for other purposes.
+- 2020-04-21 — Measure laid before Senate by unanimous consent. (consideration: CR S2183-2186)
+- 2020-04-21 — Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: CR S2184-2186)
+- 2020-04-21 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2020-04-21 — Senate amendment agreed to: Amendment SA 1580 agreed to in Senate by Unanimous Consent.
+- 2020-04-21 — Senate amendment proposed (on the floor): Amendment SA 1580 proposed by Senator McConnell.
+- 2020-04-21 — Senate amendment submitted
