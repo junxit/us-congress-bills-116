@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6322
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6322
@@ -87,3 +87,6 @@ Student Veteran Coronavirus Response Act of 2020
 - 2020-03-31 — On passage, as amended Passed without objection. (text of amendment in the nature of a substitute: CR H1869-1870)
 - 2020-03-31 — Passed/agreed to in House: On passage, as amended Passed without objection.(text of amendment in the nature of a substitute: CR H1869-1870)
 - 2020-03-31 — Without objection, the Chair laid before the House H.R. 6322 with an amendment. The reading of the amendment was dispensed with and the amendment was agreed to without objection. (consideration: CR H1868-1870)
+- 2020-04-21 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2187; text: CR S2187)
+- 2020-04-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-04-21 — Received in the Senate under the order of 4/21/2020.
