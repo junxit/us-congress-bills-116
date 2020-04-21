@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6322
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6322
@@ -90,3 +90,10 @@ Student Veteran Coronavirus Response Act of 2020
 - 2020-04-21 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2187; text: CR S2187)
 - 2020-04-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
 - 2020-04-21 — Received in the Senate under the order of 4/21/2020.
+- 2020-04-22 — Message on Senate action sent to the House.
+- 2020-04-23 — Presented to President.
+- 2020-04-23 — Presented to President.
+- 2020-04-28 — Became Public Law No: 116-140.
+- 2020-04-28 — Became Public Law No: 116-140.
+- 2020-04-28 — Signed by President.
+- 2020-04-28 — Signed by President.
