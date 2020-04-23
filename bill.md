@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 6608
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6608
+
+> To provide for the availability of menstrual hygiene products for homeless individuals under the Federal Emergency Management Agency emergency food and shelter grant program, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “ Menstrual Equity For The Homeless Act”.
+
+## § 2. Menstrual hygiene products availability for homeless individuals under emergency food and shelter grant program
+
+Subsection (a) of section 316 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11346(a)) is amended—
+
+- **(1)** in paragraph (5), by striking “and” at the end;
+- **(2)** in paragraph (6), by striking the period at the end and inserting “; and”; and
+- **(3)** by adding at the end the following new paragraph:
+  > - **(7)** guidelines that ensure that amounts provided under the program to private nonprofit organizations and local governments may be used to provide sanitary napkins and tampons, except that all items provided shall conform to applicable industry standards.
