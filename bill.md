@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 6623
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6623
+
+> To require all Federal agencies to translate COVID–19 materials into multiple languages, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “COVID–19 Language Access Act”.
+
+## § 2. Translation of materials
+
+- **(a)** *In general* Each Federal agency that receives Federal assistance related to the COVID–19 pandemic shall translate any English language written material prepared for the general public relating to such pandemic into the languages described in subsection (b) not later than 7 days after any such material is made available in English.
+- **(b)** *Languages covered* The material described in subsection (a) shall be translated, at a minimum, into Spanish, Arabic, Cambodian, Chinese, Haitian Creole, French, Hindi, Italian, Japanese, Korean, Laotian, Russian, Tagalog, Urdu, Vietnamese, Greek, Polish, Thai, and Portuguese.
+- **(c)** *Definition of COVID–19 pandemic* In this section, the term “COVID–19 pandemic” means the public health emergency declared by the Secretary pursuant to section 319 of the Public Health Service Act on January 31, 2020, entitled “Determination that a Public Health Emergency Exists Nationwide as the Result of the 2019 Novel Coronavirus”.
