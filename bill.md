@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 6682
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6682
+
+> To provide for a waiver of the matching funds requirement for the farmers market and local food promotion program and value added producer grant program.
+
+## § 1. Waiver of matching funds requirement for the farmers market and local food promotion program and value added producer grant program
+
+The matching funds requirement under paragraph (5)(E) or (6)(E) of section 210A(d) of the Agricultural Marketing Act of 1946 (7 U.S.C. 1627c(d)) shall not apply with respect to grants awarded under such section during the period beginning on January 1, 2019, and ending on December 31, 2021.
