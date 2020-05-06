@@ -1,0 +1,22 @@
+---
+legis-num: S. 3638
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3638
+
+> To allow Coronavirus Relief Fund payments to be used to replace revenue shortfalls resulting from COVID–19.
+
+## § 1. Short title
+
+This Act may be cited as the “Coronavirus Relief Fund Flexibility Act”.
+
+## § 2. Use of Coronavirus Relief Fund payments to replace lost revenue
+
+Effective as if included in the enactment of the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136), subsection (d) of section 601 of the Social Security Act, as added by section 5001(a) of the Coronavirus Aid, Relief, and Economic Security Act, is amended to read as follows:
+
+> - **(d)** *Use of funds* A State, Tribal government, and unit of local government shall use the funds provided under a payment made under this section to cover only those costs of the State, Tribal government, or unit of local government that—
+>   - **(1)** are necessary expenditures incurred due to the public health emergency with respect to the Coronavirus Disease 2019 (COVID–19) during the period that begins on March 1, 2020, and ends on December 31, 2020; or
+>   - **(2)** are necessary to replace State or government revenue shortfalls resulting from the Coronavirus Disease 2019 (COVID–19) during the period that begins on March 1, 2020, and ends on December 31, 2020.
