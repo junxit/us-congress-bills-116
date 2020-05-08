@@ -1,0 +1,23 @@
+---
+legis-num: H. RES. 959
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 959
+
+> Recognizing the roles and contributions of the teachers of the United States in building and enhancing the civic, cultural, and economic well-being of the United States.
+
+## Preamble
+
+- Whereas education and knowledge are the foundation of the current and future strength of the United States;
+- Whereas teachers and other education staff have earned and deserve the respect of their students and communities for their selfless dedication to community service and the futures of the children of the United States;
+- Whereas during these extraordinarily challenging times, teachers and other education staff have stepped up in new ways and new roles to support their communities and their students;
+- Whereas the purposes of National Teacher Appreciation Week, celebrated from May 4, 2020, through May 8, 2020, are—(1)to raise public awareness of the unquantifiable contributions of teachers; and(2)to promote greater respect and understanding for the teaching profession; and
+- Whereas students, schools, communities, and a number of organizations representing educators are recognizing the importance of teachers during National Teacher Appreciation Week: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** thanks the teachers of the United States; and
+- **(2)** promotes the profession of teaching and the contributions of educators during this time of crisis by encouraging students, parents, school administrators, and public officials to recognize National Teacher Appreciation Week.
