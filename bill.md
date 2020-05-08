@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 6735
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6735
+
+> To establish the Consumer and Investor Fraud Working Group to help protect consumers and investors from fraud during the COVID–19 pandemic, to assist consumers and investors affected by such fraud, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “COVID–19 Fraud Prevention Act”.
+
+## § 2. Consumer and Investor Fraud Working Group
+
+- **(a)** *Establishment* Not later than the end of the 30-day period beginning on the date of enactment of this Act, the Director of the Bureau of Consumer Financial Protection and the Securities and Exchange Commission shall, jointly, establish a working group to be known as the “Consumer and Investor Fraud Working Group” (the “Working Group”).
+- **(b)** *Duties* The Working Group shall facilitate collaboration between the Bureau of Consumer Financial Protection and the Securities and Exchange Commission on—
+  - **(1)** providing resources to consumers and investors to avoid fraud during the COVID–19 pandemic;
+  - **(2)** providing resources, including information on the availability of legal aid resources, to consumers and investors who have been adversely impacted by such fraud; and
+  - **(3)** such other topics as the Working Group determines appropriate.
+- **(c)** *Reports* The Working Group shall issue a monthly report to the Congress summarizing—
+  - **(1)** the resources made publicly available to consumers by the Working Group;
+  - **(2)** any public enforcement action taken jointly or individually by any member of the Working Group;
+  - **(3)** the number and description of consumer complaints received by the Bureau of Consumer Financial Protection and the Securities and Exchange Commission regarding fraud related to the COVID–19 pandemic; and
+  - **(4)** any other actions of the Working Group.
+- **(d)** *Reports* The Working Group shall issue a monthly report to the Congress on the progress of the Working Group, and the actions taken by the Working Group.
+- **(e)** *Sunset* This section shall cease to have any force or effect on and after December 31, 2021.
