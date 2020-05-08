@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 6772
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6772
+
+> To waive the cost share requirement for Indian Tribes receiving disaster assistance relating to COVID–19, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Tribal COVID–19 Disaster Assistance Cost Share Relief Act”.
+
+## § 2. Disaster assistance
+
+- **(a)** *In general* Notwithstanding any other provision of law, including any agreement, the Federal share of assistance, including direct Federal assistance, provided to an Indian tribal government in connection with COVID–19 under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) shall be 100 percent of the eligible costs under such Act, regardless of whether the Indian tribal government was the recipient or subrecipient of the assistance.
+- **(b)** *Applicability* The Federal share provided by subsection (a) shall apply to disaster assistance described in subsection (a) applied for before, on, or after the date of enactment of this Act.
