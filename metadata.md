@@ -1,7 +1,7 @@
 ---
 measure: S. 3591
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3591
@@ -30,3 +30,7 @@ America's Water Infrastructure Act of 2020
 
 - 2020-05-04 — Introduced in Senate
 - 2020-05-04 — Read twice and referred to the Committee on Environment and Public Works.
+- 2020-05-06 — Committee on Environment and Public Works. Committee consideration held. Business Meeting printed. S.Hrg. 116-201.
+- 2020-05-11 — Committee on Environment and Public Works. Reported by Senator Barrasso with an amendment in the nature of a substitute. Without written report.
+- 2020-05-11 — Committee on Environment and Public Works. Reported by Senator Barrasso with an amendment in the nature of a substitute. Without written report.
+- 2020-05-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 453.
