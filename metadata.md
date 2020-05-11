@@ -1,7 +1,7 @@
 ---
 measure: S. 249
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 249
@@ -16,7 +16,7 @@ A bill to direct the Secretary of State to develop a strategy to regain observer
 
 - Sen. Inhofe, James M. [R-OK] (I000024)
 
-## Cosponsors (18)
+## Cosponsors (22)
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Menendez, Robert [D-NJ] (M000639)
@@ -36,6 +36,10 @@ A bill to direct the Secretary of State to develop a strategy to regain observer
 - Sen. Scott, Rick [R-FL] (S001217)
 - Sen. Young, Todd [R-IN] (Y000064)
 - Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Loeffler, Kelly [R-GA] (L000594)
 
 ## Committees (1)
 
@@ -49,3 +53,12 @@ A bill to direct the Secretary of State to develop a strategy to regain observer
 - 2019-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
 - 2019-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
 - 2019-06-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 100.
+- 2020-05-11 — Amendment SA 1582 agreed to in Senate by Unanimous Consent.
+- 2020-05-11 — Amendment SA 1582 proposed by Senator McConnell for Senator Inhofe. (consideration: CR S2346-2347; text: CR S2346-2347) In the nature of a substitute.
+- 2020-05-11 — Measure laid before Senate by unanimous consent. (consideration: CR S2345-2347)
+- 2020-05-11 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S2346-2347)
+- 2020-05-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2020-05-11 — Senate amendment agreed to: Amendment SA 1582 agreed to in Senate by Unanimous Consent.
+- 2020-05-11 — Senate amendment proposed (on the floor): Amendment SA 1582 proposed by Senator McConnell for Senator Inhofe.
+- 2020-05-11 — Senate amendment submitted
+- 2020-05-11 — The committee substitute withdrawn by Unanimous Consent. (CR S2346)
