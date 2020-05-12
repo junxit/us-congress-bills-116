@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 6845
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6845
+
+> To prohibit the Secretary of Veterans Affairs from charging veterans copayments for preventive services relating to COVID–19.
+
+## § 1. Short title
+
+This Act may be cited as the “No Coronavirus Copays for Veterans Act”.
+
+## § 2. Prohibition on copayments and cost sharing for veterans receiving preventive services relating to COVID–19
+
+- **(a)** *Prohibition* The Secretary of Veterans Affairs may not require any copayment or other cost sharing under chapter 17 of title 38, United States Code, for qualifying coronavirus preventive services. The requirement described in this subsection shall take effect with respect to a qualifying coronavirus preventive service on the specified date.
+- **(b)** *Definitions* In this section, the terms qualifying coronavirus preventive service and specified date have the meaning given those terms in section 3203 of the CARES Act (Public Law 116–136).
