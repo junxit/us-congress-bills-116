@@ -1,0 +1,17 @@
+---
+legis-num: H.R. 6830
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6830
+
+> To amend the Riegle Community Development and Regulatory Improvement Act of 1994 to establish minimum issuance amounts under the CDFI Bond Guarantee Program, and for other purposes.
+
+## § 1. Minimum issuance amounts under the CDFI Bond Guarantee Program
+
+- **(a)** *Reduction for fiscal year 2020*
+  - **(1)** *In general* Section 114A(e)(2)(B) of the Riegle Community Development and Regulatory Improvement Act of 1994 (12 U.S.C. 4713a(e)(2)(B)) is amended by striking “$100,000,000” and inserting “$25,000,000”.
+  - **(2)** *Rule of application* The Notice of Guarantee Availability issued for the Bond Guarantee Program in fiscal year 2019 (CFDA 21.011) shall apply for purposes of carrying out the Program (as defined under section 114A(a) of the Riegle Community Development and Regulatory Improvement Act of 1994) with regard to commitments to guarantee bonds and notes during fiscal year 2020.
+- **(b)** *Permanent adjustment* Effective October 1, 2020, section 114A(e)(2)(B) of the Riegle Community Development and Regulatory Improvement Act of 1994 (12 U.S.C. 4713a(e)(2)(B)) is amended by striking “$25,000,000” and inserting “$50,000,000”.
