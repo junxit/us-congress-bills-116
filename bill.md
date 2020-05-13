@@ -1,0 +1,37 @@
+---
+legis-num: S. 3726
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3726
+
+> To recruit qualified foreign nationals residing in the United States to provide healthcare during a public health emergency at healthcare facilities operated by the Department of Health and Human Services, the Department of Defense, or the Department of Veterans Affairs.
+
+## § 1. Short title
+
+This Act may be cited as the “Allowing All to Serve Act”.
+
+## § 2. Public Health Emergency Healthcare Program
+
+- **(a)** *Establishment* The Secretary of Health and Human Services, in consultation with the Secretary of Homeland Security, the Secretary of Defense, and the Secretary of Veterans Affairs, shall establish a program for recruiting aliens who are lawfully present in the United States and have medical training to provide healthcare during the COVID–19 public health emergency at healthcare facilities owned, operated, or managed by—
+  - **(1)** the Department of Health and Human Services;
+  - **(2)** the Department of Defense; or
+  - **(3)** the Department of Veterans Affairs.
+- **(b)** *Eligible aliens* An alien may participate in the program established pursuant to subsection (a) if the alien—
+  - **(1)** was admitted to the United States, and has been lawfully residing in the United States continuously during the most recent 2-year period—
+    - **(A)** as a refugee under section 207 of the Immigration and Nationality Act (8 U.S.C. 1157);
+    - **(B)** as an asylee under section 208 of such Act (8 U.S.C. 1158); or
+    - **(C)** in temporary protected status under section 244 of such Act (8 U.S.C. 1254a);
+  - **(2)** is a qualified healthcare provider, whose healthcare services are needed at a facility referred to in subsection (a) to meet increased staffing needs to respond to the COVID–19 pandemic;
+  - **(3)** possesses medical training or skills that are relevant to the diagnosis, treatment, or prevention of COVID–19; and
+  - **(4)** meets all other qualification criteria considered necessary by the Federal Department to which the alien is assigned.
+- **(c)** *Maximum participants* Not more than 10,000 eligible aliens may participate in the program established pursuant to subsection (a).
+- **(d)** *Length of participation* Eligible aliens selected to participate in the program—
+  - **(1)** shall commit to remain in the program until the earlier of—
+    - **(A)** 6 months after the date on which the alien began such participation; or
+    - **(B)** the date set forth in paragraph (2); and
+  - **(2)** may participate in the program established pursuant to subsection (a) until the date on which the national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.) with respect to COVID–19 is terminated.
+- **(e)** *Supervision* Program participants shall be directly supervised by medical professionals who have a current license to practice medicine in the United States, in accordance with guidelines promulgated by the Secretary of Health and Human Services, the Secretary of Defense, or the Secretary of Veterans Affairs, as applicable.
+- **(f)** *Non-Preference* Nothing in this section may be construed to authorize the Department of Health and Human Services, the Department of Defense, or the Department of Veterans Affairs to give preference to the recruitment of healthcare providers described in subsection (b) over the recruitment of healthcare providers otherwise authorized to work in the United States who are not described in such subsection.
