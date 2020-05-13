@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2661
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “National Suicide Hotline Designation Act of 2019”.
+This Act may be cited as the “National Suicide Hotline Designation Act of 2020”.
 
 ## § 2. Findings
 
@@ -37,11 +37,13 @@ Congress finds the following:
 ## § 4. State authority over fees
 
 - **(a)** *Authority*
-  - **(1)** *In general* Nothing in this Act, any amendment made by this Act, the Communications Act of 1934 (47 U.S.C. 151 et seq.), or any Commission regulation or order may prevent the imposition and collection of a fee or charge applicable to a commercial mobile service or an IP-enabled voice service specifically designated by a State, a political subdivision of a State, an Indian Tribe, or village or regional corporation serving a region established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) for the support or implementation of 9–8–8 services, if the fee or charge is held in a sequestered account to be obligated or expended only in support of 9–8–8 services, or enhancements of such services, as specified in the provision of State or local law adopting the fee or charge.
-  - **(2)** *Limit on fee or charge* For each class of subscribers to IP-enabled voice services, the fee or charge may not exceed the amount of any such fee or charge applicable to the same class of subscribers to telecommunications services.
+  - **(1)** *In general* Nothing in this Act, any amendment made by this Act, the Communications Act of 1934 (47 U.S.C. 151 et seq.), or any Commission regulation or order may prevent the imposition and collection of a fee or charge applicable to a commercial mobile service or an IP-enabled voice service specifically designated by a State, a political subdivision of a State, an Indian Tribe, or village or regional corporation serving a region established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) for 9–8–8 related services, if the fee or charge is held in a sequestered account to be obligated or expended only in support of 9–8–8 services, or enhancements of such services, as specified in the provision of State or local law adopting the fee or charge.
+  - **(2)** *Use of 9–8–8 funds* A fee or charge collected under this subsection shall only be imposed, collected, and used to pay expenses that a State, a political subdivision of a State, an Indian Tribe, or village or regional corporation serving a region established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) is expected to incur that are reasonably attributed to—
+    - **(A)** ensuring the efficient and effective routing of calls made to the 9–8–8 national suicide prevention and mental health crisis hotline to an appropriate crisis center; and
+    - **(B)** personnel and the provision of acute mental health, crisis outreach and stabilization services by directly responding to the 9–8–8 national suicide prevention and mental health crisis hotline.
 - **(b)** *Fee accountability report* To ensure efficiency, transparency, and accountability in the collection and expenditure of a fee or charge for the support or implementation of 9–8–8 services, not later than 2 years after the date of the enactment of this Act, and annually thereafter, the Commission shall submit to the Committees on Commerce, Science, and Transportation and Appropriations of the Senate and the Committees on Energy and Commerce and Appropriations of the House of Representatives a report that—
-  - **(1)** details the status in each State of the collection and distribution of such fees or charges; and
-  - **(2)** includes findings on the amount of revenues obligated or expended by each State or political subdivision thereof for any purpose other than the purpose for which any such fees or charges are specified.
+  - **(1)** details the status in each State, political subdivision of a State, Indian Tribe, or village or regional corporation serving a region established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) of the collection and distribution of such fees or charges; and
+  - **(2)** includes findings on the amount of revenues obligated or expended by each State, political subdivision of a State, Indian Tribe, or village or regional corporation serving a region established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) for any purpose other than the purpose for which any such fees or charges are specified.
 - **(c)** *Definitions* In this section:
   - **(1)** *Commercial mobile service* The term commercial mobile service has the meaning given that term under section 332(d) of the Communications Act of 1934 (47 U.S.C. 332(d)).
   - **(2)** *Commission* The term Commission means the Federal Communications Commission.
@@ -49,7 +51,6 @@ Congress finds the following:
     - **(A)** an interconnected VoIP service, as defined in section 9.3 of the title 47 of the Code of Federal Regulations, or any successor thereto; and
     - **(B)** a one-way interconnected VoIP service.
   - **(4)** *State* The term State has the meaning given that term in section 7 of the Wireless Communications and Public Safety Act of 1999 (47 U.S.C. 615b).
-  - **(5)** *Telecommunications service* The term telecommunications service has the meaning given that term in section 3 of the Communications Act of 1934 (47 U.S.C. 153).
 
 ## § 5. Location identification report
 
@@ -60,3 +61,16 @@ Congress finds the following:
     - **(B)** The Committee on Health, Education, Labor, and Pensions of the Senate.
     - **(C)** The Committee on Energy and Commerce of the House of Representatives.
   - **(2)** *Dispatchable location* The term dispatchable location means the street address of the calling party and additional information such as room number, floor number, or similar information necessary to adequately identify the location of the calling party.
+
+## § 6. Report on certain training programs
+
+- **(a)** *Sense of Congress* It is the sense of Congress that—
+  - **(1)** youth who are lesbian, gay, bisexual, transgender, or queer (referred to in this section as “LGBTQ”) are more than 4 times more likely to contemplate suicide than their peers, with 1 in 5 LGBTQ youth and more than 1 in 3 transgender youth reporting attempting suicide;
+  - **(2)** American Indian and Alaska Natives have the highest rate of suicide of any racial or ethnic group in the United States with a suicide rate over 3.5 times higher than the racial or ethnic group with the lowest rate, with the suicide rate increasing, since 1999, by 139 percent for American Indian women and 71 percent for men;
+  - **(3)** between 2001 and 2015, the suicide death rate in rural counties in the United States was 17.32 per 100,000 individuals, which is significantly greater than the national average, and the data shows that between that same time period, suicide rates increased for all age groups across all counties in the United States, with the highest rates and the greatest increases being in more rural counties; and
+  - **(4)** the Substance Abuse and Mental Health Services Administration must be equipped to provide specialized resources to these and other high-risk populations.
+- **(b)** *Report* Not later than 180 days after the date of enactment of this Act, the Assistant Secretary for Mental Health and Substance Use shall submit to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives a report that—
+  - **(1)** details a strategy, to be developed in consultation with the Centers for Disease Control and Prevention, the National Institute of Mental Health, and organizations capable of providing nationwide suicide prevention and crisis services for LGBTQ youth, minorities, rural individuals, or other high-risk populations, for the Substance Abuse and Mental Health Services Administration to offer, support, or provide technical assistance to training programs for National Suicide Prevention Lifeline counselors to increase competency in serving high-risk populations; and
+  - **(2)** includes recommendations regarding—
+    - **(A)** the facilitation of access to services that are provided to specially trained staff and partner organizations for LGBTQ youth, minorities, rural individuals, and other high-risk populations; and
+    - **(B)** a strategy for optimally implementing an Integrated Voice Response, or other equally effective mechanism, to allow National Suicide Prevention Lifeline callers who are LGBTQ youth, minorities, rural individuals, or members of other high-risk populations to access specialized services.
