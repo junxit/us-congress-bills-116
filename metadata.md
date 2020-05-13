@@ -1,7 +1,7 @@
 ---
 measure: S. 2661
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2661
@@ -72,3 +72,18 @@ National Suicide Hotline Designation Act of 2020
 - 2020-05-13 — Senate amendment agreed to: Amendment SA 1585 agreed to in Senate by Unanimous Consent.
 - 2020-05-13 — Senate amendment proposed (on the floor): Amendment SA 1585 proposed by Senator Gardner.
 - 2020-05-13 — Senate amendment submitted
+- 2020-05-14 — Held at the desk.
+- 2020-05-14 — Message on Senate action sent to the House.
+- 2020-05-14 — Received in the House.
+- 2020-09-21 — Considered under suspension of the rules. (consideration: CR H4608-4611)
+- 2020-09-21 — DEBATE - The House proceeded with forty minutes of debate on S. 2661.
+- 2020-09-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-21 — Mr. McNerney moved to suspend the rules and pass the bill.
+- 2020-09-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4608-4609)
+- 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-10-06 — Presented to President.
+- 2020-10-06 — Presented to President.
+- 2020-10-17 — Became Public Law No: 116-172.
+- 2020-10-17 — Became Public Law No: 116-172.
+- 2020-10-17 — Signed by President.
+- 2020-10-17 — Signed by President.
