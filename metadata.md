@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 965
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 965
@@ -25,3 +25,7 @@ Authorizing remote voting by proxy in the House of Representatives and providing
 - 2020-05-13 — Introduced in House
 - 2020-05-13 — Introduced in House
 - 2020-05-13 — Referred to the House Committee on Rules.
+- 2020-05-14 — Placed on the House Calendar, Calendar No. 78.
+- 2020-05-14 — Reported by the Committee on Rules. H. Rept. 116-420.
+- 2020-05-14 — Reported by the Committee on Rules. H. Rept. 116-420.
+- 2020-05-14 — Rules Committee Resolution H. Res. 967 Reported to House. Rule provides for consideration of H. Res. 965 and H.R. 6800. Measure will be considered read. Bill is closed to amendments. Rule provides for one hour of debate on H. Res. 965 and two hours of debate on H.R. 6800.
