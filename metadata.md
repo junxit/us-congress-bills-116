@@ -1,7 +1,7 @@
 ---
 measure: S. 3607
 congress: 116
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3607
@@ -16,7 +16,7 @@ Safeguarding America's First Responders Act of 2020
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 
-## Cosponsors (14)
+## Cosponsors (23)
 
 - Sen. Booker, Cory A. [D-NJ] (B001288)
 - Sen. Cruz, Ted [R-TX] (C001098)
@@ -32,6 +32,15 @@ Safeguarding America's First Responders Act of 2020
 - Sen. Moran, Jerry [R-KS] (M000934)
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. McSally, Martha [R-AZ] (M001197)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
 
 ## Committees (1)
 
@@ -41,3 +50,13 @@ Safeguarding America's First Responders Act of 2020
 
 - 2020-05-05 — Introduced in Senate
 - 2020-05-05 — Read twice and referred to the Committee on the Judiciary.
+- 2020-05-14 — Amendment SA 1587 agreed to in Senate by Unanimous Consent.
+- 2020-05-14 — Amendment SA 1587 proposed by Senator Cornyn for Senator Grassley. (consideration: CR S2464; text: CR S2464) To improve the bill.
+- 2020-05-14 — Measure laid before Senate by unanimous consent.
+- 2020-05-14 — Passed Senate with amendments by Voice Vote. (text: CR S2464)
+- 2020-05-14 — Passed/agreed to in Senate: Passed Senate with amendments by Voice Vote.(text: CR S2464)
+- 2020-05-14 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2020-05-14 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2464)
+- 2020-05-14 — Senate amendment agreed to: Amendment SA 1587 agreed to in Senate by Unanimous Consent.
+- 2020-05-14 — Senate amendment proposed (on the floor): Amendment SA 1587 proposed by Senator Cornyn for Senator Grassley.
+- 2020-05-14 — Senate amendment submitted
