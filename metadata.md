@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 555
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 555
@@ -31,3 +31,7 @@ A resolution recognizing and supporting the advocates, counselors, volunteers, a
 
 - 2020-05-04 — Introduced in Senate
 - 2020-05-04 — Referred to the Committee on the Judiciary.
+- 2020-05-14 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 5/4/2020 CR S2216)
+- 2020-05-14 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 5/4/2020 CR S2216)
+- 2020-05-14 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2466)
+- 2020-05-14 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S2466)
