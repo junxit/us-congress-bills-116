@@ -1,7 +1,7 @@
 ---
 measure: S. 3744
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3744
@@ -90,3 +90,20 @@ Uyghur Human Rights Policy Act of 2020
 - 2020-05-14 — Introduced in Senate
 - 2020-05-14 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S2458-2461; text: CR S2459-2461)
 - 2020-05-14 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.
+- 2020-05-15 — Held at the desk.
+- 2020-05-15 — Message on Senate action sent to the House.
+- 2020-05-15 — Received in the House.
+- 2020-05-27 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2020-05-27 — Considered as unfinished business. (consideration: CR H2311-2312)
+- 2020-05-27 — Considered under suspension of the rules. (consideration: CR H2293-2300)
+- 2020-05-27 — DEBATE - The House proceeded with forty minutes of debate on S. 3744.
+- 2020-05-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-05-27 — Mr. Sherman moved to suspend the rules and pass the bill.
+- 2020-05-27 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 1 (Roll no. 110). (text: CR H2293-2295)
+- 2020-05-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 1 (Roll no. 110).(text: CR H2293-2295)
+- 2020-06-08 — Presented to President.
+- 2020-06-08 — Presented to President.
+- 2020-06-17 — Became Public Law No: 116-145.
+- 2020-06-17 — Became Public Law No: 116-145.
+- 2020-06-17 — Signed by President.
+- 2020-06-17 — Signed by President.
