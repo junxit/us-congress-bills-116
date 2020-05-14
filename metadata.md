@@ -1,7 +1,7 @@
 ---
 measure: S. 3607
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3607
@@ -60,3 +60,17 @@ Safeguarding America's First Responders Act of 2020
 - 2020-05-14 — Senate amendment agreed to: Amendment SA 1587 agreed to in Senate by Unanimous Consent.
 - 2020-05-14 — Senate amendment proposed (on the floor): Amendment SA 1587 proposed by Senator Cornyn for Senator Grassley.
 - 2020-05-14 — Senate amendment submitted
+- 2020-05-15 — Held at the desk.
+- 2020-05-15 — Message on Senate action sent to the House.
+- 2020-05-15 — Received in the House.
+- 2020-07-20 — Considered by unanimous consent. (consideration: CR H3109-3110)
+- 2020-07-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-07-20 — Mr. Cicilline asked unanimous consent to take from the Speaker's table and consider.
+- 2020-07-20 — On passage Passed without objection. (text: CR H3109-3110)
+- 2020-07-20 — Passed/agreed to in House: On passage Passed without objection.
+- 2020-08-04 — Presented to President.
+- 2020-08-04 — Presented to President.
+- 2020-08-14 — Became Public Law No: 116-157.
+- 2020-08-14 — Became Public Law No: 116-157.
+- 2020-08-14 — Signed by President.
+- 2020-08-14 — Signed by President.
