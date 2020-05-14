@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6172
 congress: 116
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 6172
@@ -16,9 +16,44 @@ USA FREEDOM Reauthorization Act of 2020
 
 - Rep. Nadler, Jerrold [D-NY-10] (N000002)
 
-## Cosponsors (1)
+## Cosponsors (36)
 
 - Rep. Schiff, Adam B. [D-CA-28] (S001150)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. McSally, Martha [R-AZ] (M001197)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
 
 ## Committees (4)
 
@@ -61,3 +96,28 @@ USA FREEDOM Reauthorization Act of 2020
 - 2020-03-12 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S1735)
 - 2020-03-12 — Motion to proceed to consideration of measure made in Senate. (CR S1735)
 - 2020-03-12 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 440.
+- 2020-03-16 — Cloture motion on the motion to proceed to the measure withdrawn by unanimous consent in Senate. (CR S1753)
+- 2020-03-16 — Motion to proceed to measure considered in Senate. (CR S1748)
+- 2020-05-13 — Amendment SA 1583 proposed by Senator Wyden. (consideration: CR S2397-2400; text: CR S2397) To remove internet website browsing information and search history from scope of authority to access certain business records for foreign intelligence and international terrorism investigations.
+- 2020-05-13 — Amendment SA 1583, under the order of 5/12/20, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 59 - 37. Record Vote Number: 89.
+- 2020-05-13 — Amendment SA 1584 proposed by Senator Lee. (consideration: CR S2410-2412; text: CR S2427-2428) To improve the amicus provisions and require the disclosure of relevant information.
+- 2020-05-13 — Amendment SA 1584, under the order of 5/12/20, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 77 - 19. Record Vote Number: 90.
+- 2020-05-13 — Measure laid before Senate by unanimous consent. (consideration: CR S2388, S2396-2400, S2409-2412, S2414)
+- 2020-05-13 — Roll call votes on amendments in Senate: Amendment SA 1583, under the order of 5/12/20, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 59 - 37. Record Vote Number: 89.
+- 2020-05-13 — Roll call votes on amendments in Senate: Amendment SA 1584, under the order of 5/12/20, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 77 - 19. Record Vote Number: 90.
+- 2020-05-13 — Senate amendment agreed to: Amendment SA 1584, under the order of 5/12/20, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 77 - 19. Record Vote Number: 90.
+- 2020-05-13 — Senate amendment not agreed to: Amendment SA 1583, under the order of 5/12/20, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 59 - 37. Record Vote Number: 89.
+- 2020-05-13 — Senate amendment proposed (on the floor): Amendment SA 1583 proposed by Senator Wyden.
+- 2020-05-13 — Senate amendment proposed (on the floor): Amendment SA 1584 proposed by Senator Lee.
+- 2020-05-13 — Senate amendment submitted
+- 2020-05-13 — Senate amendment submitted
+- 2020-05-14 — Amendment SA 1586 proposed by Senator Paul. (consideration: CR S2438-2439; text: CR S2438-2439) To amend the Foreign Intelligence Surveillance Act of 1978 to prohibit the use of authorities under such Act to surveil United States persons and to prohibit the use of information acquired under such Act in any criminal, civil, or administrative proceeding or as part of any criminal, civil, or administrative investigation, and for other purposes.
+- 2020-05-14 — Amendment SA 1586, under the order of 5/12/20, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 11 - 85. Record Vote Number: 91.
+- 2020-05-14 — Considered by Senate. (consideration: CR S2432-2441)
+- 2020-05-14 — Message on Senate action sent to the House.
+- 2020-05-14 — Passed Senate, under the order of 5/12/20, having achieved 60 votes in the affirmative, with amendments by Yea-Nay Vote. 80 - 16. Record Vote Number: 92.
+- 2020-05-14 — Passed/agreed to in Senate: Passed Senate, under the order of 5/12/20, having achieved 60 votes in the affirmative, with amendments by Yea-Nay Vote. 80 - 16. Record Vote Number: 92.
+- 2020-05-14 — Roll call votes on amendments in Senate: Amendment SA 1586, under the order of 5/12/20, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 11 - 85. Record Vote Number: 91.
+- 2020-05-14 — Senate amendment not agreed to: Amendment SA 1586, under the order of 5/12/20, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 11 - 85. Record Vote Number: 91.
+- 2020-05-14 — Senate amendment proposed (on the floor): Amendment SA 1586 proposed by Senator Paul.
+- 2020-05-14 — Senate amendment submitted
