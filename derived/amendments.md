@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6800
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-906 amendatory instructions. 167 executed, 739 stated and not applied.
+916 amendatory instructions. 164 executed, 752 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -314,12 +314,12 @@ to guess them.
 
 ### 42 U.S.C. § 1397cc
 
-> by striking “visits described in section 1916(a)(2)(G), or” and inserting “services described in section 1916(a)(2)(G), vaccines described in section 1916(a)(2)(H) administered during the portion of the emergency period described in paragraph (1)(B) of section 1135(g) beginning on the date of the enactment of the HEROES Act, items or services described in section 1916(a)(2)(I) furnished during such emergency period, or”.
+> by striking “visits described in section 1916(a)(2)(G), or” and inserting “services described in section 1916(a)(2)(G), vaccines described in section 1916(a)(2)(H) administered during the portion of the emergency period described in paragraph (1)(B) of section 1135(g) beginning on the date of the enactment of The Heroes Act, items or services described in section 1916(a)(2)(I) furnished during such emergency period, or”.
 
 | | |
 |---|---|
 | Removed | `visits described in section 1916(a)(2)(G), or` |
-| Inserted | `services described in section 1916(a)(2)(G), vaccines described in section 1916(a)(2)(H) administered during the portion of the emergency period described in paragraph (1)(B) of section 1135(g) beginning on the date of the enactment of the HEROES Act, items or services described in section 1916(a)(2)(I) furnished during such emergency period, or` |
+| Inserted | `services described in section 1916(a)(2)(G), vaccines described in section 1916(a)(2)(H) administered during the portion of the emergency period described in paragraph (1)(B) of section 1135(g) beginning on the date of the enactment of The Heroes Act, items or services described in section 1916(a)(2)(I) furnished during such emergency period, or` |
 
 ### 42 U.S.C. § 1308
 
@@ -383,60 +383,6 @@ to guess them.
 |---|---|
 | Removed | `The total amount` |
 | Inserted | `Subject to clause (vii), the total amount` |
-
-### 42 U.S.C. § 1395ww
-
-> in the matter preceding subclause (I), by striking “In this paragraph” and inserting “Subject to clause (ii), in this paragraph”;
-
-| | |
-|---|---|
-| Removed | `In this paragraph` |
-| Inserted | `Subject to clause (ii), in this paragraph` |
-
-### 42 U.S.C. § 1395ww
-
-> in subclause (I), by striking “clause (iii)” and inserting “clause (iv)”; and
-
-| | |
-|---|---|
-| Removed | `clause (iii)` |
-| Inserted | `clause (iv)` |
-
-### 42 U.S.C. § 1395ww
-
-> in subclause (II), by striking “clause (ii)” and inserting “clause (iii)”;
-
-| | |
-|---|---|
-| Removed | `clause (ii)` |
-| Inserted | `clause (iii)` |
-
-### 42 U.S.C. § 1395ww
-
-> in clause (ii), in the matter preceding subclause (I), by striking “clause (iv)” and inserting “clause (v)”;
-
-| | |
-|---|---|
-| Removed | `clause (iv)` |
-| Inserted | `clause (v)` |
-
-### 42 U.S.C. § 1395ww
-
-> in clause (iii)(I), by striking “clause (ii)” and inserting “clause (iii)”;
-
-| | |
-|---|---|
-| Removed | `clause (ii)` |
-| Inserted | `clause (iii)` |
-
-### 42 U.S.C. § 1395ww
-
-> in clause (iv), by striking “clause (ii)(I)” and inserting “clause (iii)(I)”;
-
-| | |
-|---|---|
-| Removed | `clause (ii)(I)` |
-| Inserted | `clause (iii)(I)` |
 
 ### 42 U.S.C. § 1395w-102
 
@@ -773,12 +719,12 @@ to guess them.
 
 ### 29 U.S.C. § 1021
 
-> in clause (i) by striking “and the Bipartisan Budget Act of 2015” both places it appears and inserting “, the Bipartisan Budget Act of 2015, and the Emergency Pension Plan Relief Act of 2020”, and
+> in clause (i) by striking “and the Bipartisan Budget Act of 2015” both places it appears and inserting “, the Bipartisan Budget Act of 2015, and the Inspector General Independence Act”, and
 
 | | |
 |---|---|
 | Removed | `and the Bipartisan Budget Act of 2015` |
-| Inserted | `, the Bipartisan Budget Act of 2015, and the Emergency Pension Plan Relief Act of 2020` |
+| Inserted | `, the Bipartisan Budget Act of 2015, and the Inspector General Independence Act` |
 
 ### 29 U.S.C. § 1021
 
@@ -897,15 +843,6 @@ to guess them.
 | Removed | `The spouse of the lessee` |
 | Inserted | `The spouse or dependent of the lessee` |
 
-### 38 U.S.C. § 1701
-
-> Section 6006(b) of the Families First Coronavirus Response Act (Public Law 116–127; 38 U.S.C. 1701 note) is amended by striking “or visits described in paragraph (2) of such section” and inserting “, visits described in paragraph (2) of such section, or hospital care or medical services to treat COVID–19”.
-
-| | |
-|---|---|
-| Removed | `or visits described in paragraph (2) of such section` |
-| Inserted | `, visits described in paragraph (2) of such section, or hospital care or medical services to treat COVID–19` |
-
 ### 42 U.S.C. § 247d
 
 > by striking “clauses (i) through (iv)” both places it appears and inserting “clauses (i) through (v)”;
@@ -933,14 +870,32 @@ to guess them.
 | Removed | `June 30, 2020` |
 | Inserted | `December 31, 2020` |
 
-### 15 U.S.C. § 636
+### 26 U.S.C. § 216
 
-> in subparagraph (A)(vii), by striking “section 501(c)(3)” and inserting “section 501(c)”; and
+> in clause (vii), by striking “section 501(c)(3)” and inserting “section 501(c)”;
 
 | | |
 |---|---|
 | Removed | `section 501(c)(3)` |
 | Inserted | `section 501(c)` |
+
+### 26 U.S.C. § 501
+
+> by striking “nonprofit organization,” each place it appears and inserting “housing cooperative,”;
+
+| | |
+|---|---|
+| Removed | `nonprofit organization,` |
+| Inserted | `housing cooperative,` |
+
+### 26 U.S.C. § 501
+
+> in clause (vi), by striking “nonprofit organization” and inserting “housing cooperative”.
+
+| | |
+|---|---|
+| Removed | `nonprofit organization` |
+| Inserted | `housing cooperative` |
 
 ### 15 U.S.C. § 636
 
@@ -1466,12 +1421,12 @@ to guess them.
 
 ### 45 U.S.C. § 352
 
-> by striking “July 31, 2020” and inserting “December 31, 2020, and for any registration periods during a period of continuing unemployment which began on or before December 31, 2020”; and
+> by striking “July 31, 2020” and inserting “January 31, 2021, and for any registration periods during a period of continuing unemployment which began on or before January 31, 2021”; and
 
 | | |
 |---|---|
 | Removed | `July 31, 2020` |
-| Inserted | `December 31, 2020, and for any registration periods during a period of continuing unemployment which began on or before December 31, 2020` |
+| Inserted | `January 31, 2021, and for any registration periods during a period of continuing unemployment which began on or before January 31, 2021` |
 
 ### 45 U.S.C. § 352
 
@@ -1481,6 +1436,24 @@ to guess them.
 |---|---|
 | Removed | `July 1, 2019` |
 | Inserted | `July 15, 2019` |
+
+### 45 U.S.C. § 352
+
+> by striking “June 30, 2020” and inserting “June 30, 2021”; and
+
+| | |
+|---|---|
+| Removed | `June 30, 2020` |
+| Inserted | `June 30, 2021` |
+
+### 45 U.S.C. § 352
+
+> by striking “no extended benefit period under this paragraph shall begin after December 31, 2020” and inserting “the provisions of clauses (i) and (ii) shall not apply to any employee whose extended benefit period under subparagraph (B) begins on or after February 1, 2021, and shall not apply to any employee with respect to any registration period beginning on or after April 1, 2021”.
+
+| | |
+|---|---|
+| Removed | `no extended benefit period under this paragraph shall begin after December 31, 2020` |
+| Inserted | `the provisions of clauses (i) and (ii) shall not apply to any employee whose extended benefit period under subparagraph (B) begins on or after February 1, 2021, and shall not apply to any employee with respect to any registration period beginning on or after April 1, 2021` |
 
 ### 34 U.S.C. § 60541
 
@@ -1536,14 +1509,15 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | insert | Section 11004 of the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136) is amended by inserting after the 4th proviso the following: “Provided further, That the condition set forth in section 9003(f) of the Farm Secu… | the bill names no machine-readable US Code section |
 | — | replace | The first proviso under the heading “Election Assistance Commission—Election Security Grants” in the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136) is amended by striking “within 20 days of each election in the 2… | the bill names no machine-readable US Code section |
 | — | replace | The fourth proviso under the heading “Election Assistance Commission—Election Security Grants” in the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136) is amended by striking “December 31, 2020” and inserting “Septe… | the bill names no machine-readable US Code section |
-| — | replace | The third proviso under the heading “Small Business Administration—Business Loans Program Account” the Financial Services and General Government Appropriations Act, 2020 (division C of Public Law 116–93) is amended by striking “$30,000,0… | the bill names no machine-readable US Code section |
-| — | replace | The sixth proviso under the heading “Small Business Administration—Business Loans Program Account” the Financial Services and General Government Appropriations Act, 2020 (division C of Public Law 116–93) is amended by striking “$12,000,0… | the bill names no machine-readable US Code section |
+| — | replace | The third proviso under the heading “Small Business Administration—Business Loans Program Account” in the Financial Services and General Government Appropriations Act, 2020 (division C of Public Law 116–93) is amended by striking “$30,00… | the bill names no machine-readable US Code section |
+| — | replace | The sixth proviso under the heading “Small Business Administration—Business Loans Program Account” in the Financial Services and General Government Appropriations Act, 2020 (division C of Public Law 116–93) is amended by striking “$12,00… | the bill names no machine-readable US Code section |
 | — | insert | Title V of division B of the CARES Act (Public Law 116–136) is amended in the first proviso under the heading “Independent Agencies—Pandemic Response Accountability Committee” by inserting “or any other Act (including Acts other than app… | the bill names no machine-readable US Code section |
 | — | strike | Title V of division B of the CARES Act (Public Law 116–136) is amended by striking the fifth proviso under the heading “General Services Administration—Real Property Activities—Federal Buildings Fund”: Provided, That the amounts repurpos… | the bill names no machine-readable US Code section |
-| — | strike | The Coronavirus Aid, Relief, and Economic Security Act (P.L. 116–136) is amended by striking section 18001(a)(3): Provided , That amounts repurposed by this section that were previously designated by the Congress as an emergency requirem… | the bill names no machine-readable US Code section |
-| — | insert | Section 18005(a) of the Coronavirus Aid, Relief, and Economic Security Act (P.L. 116–136) is amended by inserting “with these funds only for children identified under section 1115(c) of the ESEA in the school district served by a local e… | the bill names no machine-readable US Code section |
+| — | strike | The Coronavirus Aid, Relief, and Economic Security Act (P.L. 116–136) is amended by striking section 18001(a)(3): Provided , That amounts repurposed pursuant to the amendment made by this section that were previously designated by the Co… | the bill names no machine-readable US Code section |
+| — | insert | Section 18005(a) of the Coronavirus Aid, Relief, and Economic Security Act (P.L. 116–136) is amended by inserting “including subsections (a)(4)(A)(i) and (c) of such section” after “section 1117” and by inserting “Such equitable services… | the bill names no machine-readable US Code section |
 | — | replace | Section 18004(c) of the Coronavirus Aid, Relief, and Economic Security Act (P.L. 116–136) is amended by striking “to cover any costs associated with significant changes to the delivery of instruction due to the coronavirus” and inserting… | the bill names no machine-readable US Code section |
 | — | replace | Section 21005 of the Emergency Appropriations for Coronavirus Health Response and Agency Operations (division B of Public Law 116–136) is amended by inserting at the end before the period “and is further amended by striking $5,563,619 in… | the bill names no machine-readable US Code section |
 | — | replace | Section 21009 of the Emergency Appropriations for Coronavirus Health Response and Agency Operations (division B of Public Law 116–136) is amended by striking “fiscal year 2020” and inserting in lieu thereof “fiscal years 2020 and 2021”: … | the bill names no machine-readable US Code section |
@@ -1573,7 +1547,7 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 24` | insert | Chapter 77 of such Code is amended by inserting after section 7527 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 24` | add-at-end | Section 24(i) of such Code, as amended by subsection (a), is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 24` | insert | The table of sections for chapter 77 of such Code is amended by inserting after the item relating to section 7527 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 24` | add-at-end | Section 24 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 24` | add-at-end | Section 24 of the Internal Revenue Code of 1986, as amended by the preceding provisions of this Act, is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 21` | add-at-end | Section 21 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 21` | insert | Section 1324(b)(2) of title 31, United States Code, is amended by inserting “21 (by reason of subsection (g) thereof),” before “25A”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 129` | add-at-end | Section 129(a)(2) of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1594,10 +1568,14 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 4980H` | insert | Section 2301(h)(2) of the CARES Act is amended by inserting “45B or” before “45S”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 501` | amend | Section 2301(f) of the CARES Act is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 3121` | add-at-end | Section 2301(c)(5)(A) of the CARES Act, as amended by the preceding provisions of this Act, is amended by adding at the end the following: “For purposes of the preceding sentence (other than for purposes of subsection (b)(2)), wages as d… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 4980H` | add-at-end | Section 2301(c)(2) of the CARES Act, as amended by the preceding provisions of this Act, is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 4980H` | replace | by striking “shall not be taken into account for purposes of” and inserting | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 4980H` | replace | by striking the period at the end and inserting “, and” , and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 4980H` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Sections 7001(g), 7002(e), 7003(g), and 7004(e) of the Families First Coronavirus Response Act are each amended by striking “2020” and inserting “2021”. | the bill names no machine-readable US Code section |
-| — | insert | Section 7001(b) of the Families First Coronavirus Response Act is amended by inserting “or any day on or after the date of the enactment of the COVID–19 Tax Relief Act of 2020” after “in the case of any day any portion of which is paid s… | the bill names no machine-readable US Code section |
-| — | insert | Clauses (i) and (ii) of section 7002(c)(1)(B) of the Families First Coronavirus Response Act are each amended by inserting inserting “or any day on or after the date of the enactment of the COVID–19 Tax Relief Act of 2020” after “in the … | the bill names no machine-readable US Code section |
-| — | insert | Section 7002(d)(3) of the Families First Coronavirus Response Act is amended by inserting inserting “or any day on or after the date of the enactment of the COVID–19 Tax Relief Act of 2020” after “in the case of any day any portion of wh… | the bill names no machine-readable US Code section |
+| — | insert | Section 7001(b) of the Families First Coronavirus Response Act is amended by inserting “or any day on or after the date of the enactment of the Worker Health Coverage Protection Act” after “in the case of any day any portion of which is … | the bill names no machine-readable US Code section |
+| — | insert | Clauses (i) and (ii) of section 7002(c)(1)(B) of the Families First Coronavirus Response Act are each amended by inserting inserting “or any day on or after the date of the enactment of the Worker Health Coverage Protection Act” after “i… | the bill names no machine-readable US Code section |
+| — | insert | Section 7002(d)(3) of the Families First Coronavirus Response Act is amended by inserting inserting “or any day on or after the date of the enactment of the Worker Health Coverage Protection Act” after “in the case of any day any portion… | the bill names no machine-readable US Code section |
 | — | replace | Section 7003(b)(1)(B) of the Families First Coronavirus Response Act is amended by striking “$10,000” and inserting “$12,000”. | the bill names no machine-readable US Code section |
 | — | replace | Section 7004(d)(3) of the Families First Coronavirus Response Act is amended by striking “$10,000” and inserting “$12,000”. | the bill names no machine-readable US Code section |
 | — | replace | Section 7004(c)(1)(A) of the Families First Coronavirus Response Act is amended by striking “50” and inserting “60”. | the bill names no machine-readable US Code section |
@@ -1610,6 +1588,7 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 3221` | insert | by inserting “and without regard to section 7005(a) of this Act” after “which begins Such term does not include remuneration”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 3221` | add-at-end | Sections 7001(e) and 7003(e) of the Families First Coronavirus Response Act, as amended by the preceding provisions of this Act, are each amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 3221` | amend | Section 7005(a) of the Families First Coronavirus Response Act is amended by adding the following sentence at the end of such subsection: “Any reference in this subsection to the tax imposed by section 3221(a) of such Code shall be treat… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3111` | amend | Section 7005(b)(1) of the Families First Coronavirus Response Act is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 7001(a) of the Families First Coronavirus Response Act is amended by striking “In the case of an employer” and inserting “In the case of an eligible employer”. | the bill names no machine-readable US Code section |
 | — | replace | Section 7001(c) of the Families First Coronavirus Response Act, as amended by the preceding provisions of this Act, is amended by striking “For purposes of this section, the term” and all that precedes it and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 7003(a) of the Families First Coronavirus Response Act is amended by striking “In the case of an employer” and inserting “In the case of an eligible employer”. | the bill names no machine-readable US Code section |
@@ -1624,20 +1603,20 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 172` | add-at-end | Section 172(b)(1)(D) of such Code, as amended by the preceding provisions of this Act, is amended by adding at the end the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396d` | insert | by inserting “(or, if later, June 30, 2021)” after “last day of such emergency period occurs”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1320b-5` | add-at-end | by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396d` | replace | by striking the semicolon at the end and inserting “; (E) during the portion of the emergency period described in paragraph (1)(B) of section 1135(g) beginning on the date of the enactment of the HEROES Act, a COVID–19 vaccine licensed u… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396d` | replace | by striking the semicolon at the end and inserting “; (E) during the portion of the emergency period described in paragraph (1)(B) of section 1135(g) beginning on the date of the enactment of The Heroes Act, a COVID–19 vaccine licensed u… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1396o` | strike | in subparagraph (F), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1396o` | add-at-end | by adding at the end the following subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396o-1` | add-at-end | by adding at the end the following clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396s` | replace | in subparagraph (A), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1396s` | replace | in subparagraph (B), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1396s` | add-at-end | by adding at the end the following subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396s` | insert | in subparagraph (C)(ii), by inserting “, but, during the portion of the emergency period described in paragraph (1)(B) of section 1135(g) beginning on the date of the enactment of the HEROES Act, may not impose a fee for the administrati… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396s` | insert | in subparagraph (C)(ii), by inserting “, but, during the portion of the emergency period described in paragraph (1)(B) of section 1135(g) beginning on the date of the enactment of The Heroes Act, may not impose a fee for the administrati… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1396s` | add-at-end | by adding at the end the following subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396s` | insert | in subsection (d)(1), in the first sentence, by inserting “, including, during the portion of the emergency period described in paragraph (1)(B) of section 1135(g) beginning on the date of the enactment of the HEROES Act, with respect to… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396s` | insert | in subsection (d)(1), in the first sentence, by inserting “, including, during the portion of the emergency period described in paragraph (1)(B) of section 1135(g) beginning on the date of the enactment of The Heroes Act, with respect to… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1397cc` | add-at-end | Section 2103(c) of the Social Security Act (42 U.S.C. 1397cc(c)) is amended by adding at the end the following paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1397cc` | insert | in the paragraph header, by inserting “a COVID–19 vaccine, COVID–19 treatment,” before “or pregnancy-related assistance”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1396u-7` | insert | in subsection (a)(1)(B), by inserting “, under subclause (XXIII) of section 1902(a)(10)(A)(ii),” after “section 1902(a)(10)(A)(i)”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1396u-7` | amend | in subsection (b)(5), by adding before the period the following: “, and, effective on the date of the enactment of the HEROES Act, must comply with subparagraphs (F) through (I) of subsections (a)(2) and (b)(2) of section 1916 and subsec… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396u-7` | amend | in subsection (b)(5), by adding before the period the following: “, and, effective on the date of the enactment of The Heroes Act, must comply with subparagraphs (F) through (I) of subsections (a)(2) and (b)(2) of section 1916 and subsec… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396a` | replace | Section 1902(a)(10) of the Social Security Act (42 U.S.C. 1396a(a)(10) is amended, in the matter following subparagraph (G), by striking “and any visit described in section 1916(a)(2)(G)” and inserting the following: “, any COVID–19 vacc… | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1396a` | amend | Subsection (ss) of section 1902 of the Social Security Act (42 U.S.C. 1396a) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396b` | add-at-end | Section 1903(v)(2) of the Social Security Act (42 U.S.C. 1396b(v)(2)) is amended by adding at the end the following flush sentence: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1669,8 +1648,6 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1395ww` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395ww` | strike | clause (ii) was amended by striking “plus a fixed dollar amount determined by the Secretary”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1395ww` | insert | Section 1886(d)(3)(B) of the Social Security Act (42 U.S.C. 1395ww(d)(3)(B)) is amended by inserting before the period the following: “, other than additional payments described in clause (vii) of such paragraph”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395ww` | redesignate | by redesignating clauses (ii) through (iv) as clauses (iii) through (v), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395ww` | insert | by inserting after clause (i) the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-22` | add-at-end | Section 1852(a)(1)(B) of the Social Security Act (42 U.S.C. 1395w–22(a)(1)(B)) is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-104` | add-at-end | Section 1860D–4(b)(3) of the Social Security Act (42 U.S.C. 1395w–104(b)(3)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-102` | insert | in subparagraph (A), by inserting after “Subject to subparagraphs (C) and (D)” the following: “and paragraph (8)”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1691,7 +1668,10 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1395yy` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395y` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395ww` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395ww` | insert | by inserting “, and the amendments made by section 30212 of the HEROES Act” after “Care Act”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395ww` | insert | by inserting “, and the amendments made by section 30212 of The Heroes Act” after “Care Act”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395w-23` | add-at-end | Section 1853 of the Social Security Act (42 U.S.C. 1395w–23) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395ww` | add-at-end | Section 1886(d)(5) of the Social Security Act (42 U.S.C. 1395ww(d)(5)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395ww` | add-at-end | Section 1886(d)(10) of the Social Security Act (42 U.S.C. 1395ww(d)(10)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 18031` | strike | in subparagraph (C), by striking at the end “and”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 18031` | replace | in subparagraph (D), by striking at the end the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 18031` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1768,11 +1748,6 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 247d-3a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 5304` | insert | Section 319F–2(a)(3)(G) of the Public Health Service Act (42 U.S.C. 247d–6b(a)(3)(G)) is amended by inserting “, and, in the case that the Secretary deploys the stockpile under this subparagraph, ensure, in coordination with the applicab… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 241` | insert | Title III of the Public Health Service Act (42 U.S.C. 241 et seq.) is amended by inserting after section 319F–4 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 1645` | insert | in subsection (a)(1), by inserting “urban Indian organizations,” before “and tribal organizations”; and | the bill quotes the text inserted but describes where it goes |
-| `25 U.S.C. § 1645` | insert | by inserting “urban Indian organization,” before “or tribal organization”; and | the bill quotes the text inserted but describes where it goes |
-| `25 U.S.C. § 1645` | insert | by inserting “an urban Indian organization,” before “or a tribal organization”. | the bill quotes the text inserted but describes where it goes |
-| `25 U.S.C. § 1645` | insert | Section 405(c) of the Indian Health Care Improvement Act (25 U.S.C. 1645(c)) is amended by inserting before the period at the end the following: “, regardless of whether such services are provided directly by the Service, an Indian tribe… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 1647b` | insert | Section 409 of the Indian Health Care Improvement Act (25 U.S.C. 1647b) is amended by inserting “or the Tribally Controlled Schools Act of 1988 (25 U.S.C. 2501 et seq.)” after “(25 U.S.C. 450 et seq.)”. | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 1305` | add-at-end | Section 4005 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1305) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1001` | insert | The Employee Retirement Income Security Act of 1974 (29 U.S.C. 1001 et seq.) is amended by inserting after section 4233 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 432` | repeal | Paragraph (9) of section 432(e) of the Internal Revenue Code of 1986 is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1880,11 +1855,16 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 247d` | add-at-end | in subsection (h), by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 636` | strike | Section 7(a)(36)(D) of the Small Business Act (15 U.S.C. 636(a)(36)(D)) is amended by striking “described in section 31(b)(2)(C)” each place it appears. | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 636` | add-at-end | Section 7(a)(36)(D) of the Small Business Act (15 U.S.C. 636(a)(36)(D)) is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 636` | strike | by striking “nonprofit organization,” each place it appears; | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 636` | strike | in subclause (II), by striking “ and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 636` | replace | in subclause (III), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 636` | add-at-end | by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 636` | strike | in clause (vi), by striking “a nonprofit organization and”. | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 216` | strike | in item (dd), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 216` | insert | in item (ee), by inserting “or”; and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 216` | add-at-end | by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 216` | strike | in clause (xi)(IV), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 216` | replace | in clause (xii), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 216` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 501` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 501` | strike | in subclause (II), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 501` | replace | in subclause (III), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 501` | add-at-end | by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 636` | replace | by striking “business concern that employs” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 636` | replace | in subclause (I), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 636` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1896,11 +1876,11 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 636` | insert | Section 7(a)(36)(L) of the Small Business Act (15 U.S.C. 636(a)(36)(L)) is amended by inserting “, calculated on a non-compounding, non-adjustable basis” after “4 percent”. | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 636` | amend | Section 7(a)(36)(S) of the Small Business Act (15 U.S.C. 636(a)(36)(S)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 636` | add-at-end | Section 7(a)(36) of the Small Business Act (15 U.S.C. 636(a)(36)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 636` | add-at-end | Section 7(a)(36) of the Small Business Act (15 U.S.C. 636(a)(36)), as amended by subsection (h), is further amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 636` | add-at-end | Section 7(a)(36) of the Small Business Act (15 U.S.C. 636(a)(36)), as amended by subsection (i), is further amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 636` | add-at-end | Section 7(a)(36) of the Small Business Act (15 U.S.C. 636(a)(36)), as amended by subsection (i), is further amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 636` | redesignate | by redesignating subclauses (I) through (IV) as clauses (i) through (iv), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 1102(b) of the CARES Act (Public Law 116–136) is amended by striking “June 30, 2020” and all that follows through the period at the end and inserting “December 31, 2020, the amount authorized for commitments for loans made under … | the bill names no machine-readable US Code section |
-| — | strike | in subparagraph (A), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (A), by striking “and” at the end; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subparagraphs: | the bill names no machine-readable US Code section |
 | — | replace | by striking “$240,000,000” and inserting “$220,000,000”; | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end; and | the bill names no machine-readable US Code section |
@@ -1918,13 +1898,17 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating paragraph (4) as paragraph (6); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (3) the following new paragraphs: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1106(d) of the CARES Act (Public Law 116–136) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 1106(d) of the CARES Act (Public Law 116–136), as amended by subsection (c), is further amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | replace | Section 1106(h) of the CARES Act (Public Law 116–136), is amended by striking “If a lender” and all that follows through “during covered period” inserting the following: “If a lender has received any documentation required under this Act… | the bill names no machine-readable US Code section |
-| — | insert | Section 1106(a)(8) of the Cares Act is amended by inserting “, except that such costs shall not include qualified wages taken into account in determining the credit allowed under section 2301 of this Act” before the period at the end. | the bill names no machine-readable US Code section |
-| — | amend | Section 2301(g) of the CARES Act is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | strike | Section 2301 of the CARES Act is amended by striking subsection (j). | the bill names no machine-readable US Code section |
-| — | redesignate | Section 2301(l) of the CARES Act is amended by striking paragraph (3) and by redesignating paragraphs (4) and (5) as paragraphs (3) and (4), respectively. | the bill names no machine-readable US Code section |
-| — | insert | Section 1112 of the CARES Act (Public Law 116–136) is amended by inserting at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1106(d) of the CARES Act (Public Law 116–136), as amended by subsection (d), is further amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | replace | Section 1106(h) of the CARES Act (Public Law 116–136), as amended by subsection (b)(3)(B), is further amended by striking “If a lender” and all that follows through “during covered period” inserting the following: “If a lender has receiv… | the bill names no machine-readable US Code section |
+| — | insert | Section 1106(a)(8) of the CARES Act (Public Law 116–136) is amended by inserting “, except that such costs shall not include qualified wages taken into account in determining the credit allowed under section 2301 of this Act” before the … | the bill names no machine-readable US Code section |
+| — | amend | Section 2301(g) of the CARES Act (Public Law 116–136) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | strike | Section 2301 of the CARES Act (Public Law 116–136) is amended by striking subsection (j). | the bill names no machine-readable US Code section |
+| — | redesignate | Section 2301(l) of the CARES Act (Public Law 116–136) is amended by striking paragraph (3) and by redesignating paragraphs (4) and (5) as paragraphs (3) and (4), respectively. | the bill names no machine-readable US Code section |
+| `15 U.S.C. § 636` | strike | in subclause (VI), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 636` | replace | in subclause (VII), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 636` | add-at-end | by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 636` | add-at-end | Section 1106(a)(7) of the CARES Act (Public Law 116–136), as amended by section 90004(b)(1), is further amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 636` | add-at-end | Section 1106(b) of the CARES Act (Public Law 116–136), as amended by section 90004(b)(2), is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 636` | add-at-end | in subsection (a), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 636` | insert | by inserting “or provisions relating to small business assistance” after “this subtitle”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 636` | insert | by inserting “or for any small business assistance” before the period at the end; and | the bill quotes the text inserted but describes where it goes |
@@ -1967,7 +1951,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1475` | replace | in subsection (a), by striking the section designation and all that follows through “During any” and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1475` | redesignate | by redesignating subsection (b) as subsection (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1475` | insert | by inserting after subsection (a) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 9057` | amend | in subparagraph (A), by adding “and” at the end; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 9057` | amend | in subparagraph (A), by adding “and” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 9057` | replace | by striking subparagraphs (B) and (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 9057` | redesignate | by redesignating subsection (f) as subsection (g); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 9057` | insert | by inserting after subsection (e) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2003,8 +1987,8 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 1692` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1692` | add-at-end | Section 812B(h) of the Fair Debt Collection Practices Act (15 U.S.C. 1692 et seq.), as added by section 110602, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 9042` | replace | by striking “Nothing in this subparagraph shall limit the discretion of the Board of Governors of the Federal Reserve System to” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 636` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 9042` | add-at-end | Section (c)(3)(D)(ii)(II) of the CARES Act (15 U.S.C. 9042(c)(3)(D)(ii)(II)), as added by section 110604, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1001` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 9042` | add-at-end | Section 4003(c)(3)(D)(ii)(II) of the CARES Act (15 U.S.C. 9042(c)(3)(D)(ii)(II)), as added by section 110604, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 802` | add-at-end | Section 5318(g) of title 31, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1463` | redesignate | by redesignating subparagraphs (A), (B), and (C) as clauses (i), (ii), and (iii), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1463` | replace | by striking “means any” and inserting the following: | the bill quotes the text struck but describes what replaces it |
@@ -2012,7 +1996,7 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 1463` | insert | by inserting at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1463` | add-at-end | Section 308(b) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1463 note) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1831f` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1463` | add-at-end | in subsection (b), as amended by section 6(g), by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1463` | add-at-end | in subsection (b), as amended by subsection (f)(7), by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1811` | amend | Section 1204 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1811 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1817` | amend | Section 7(j)(8)(B) of the Federal Deposit Insurance Act (12 U.S.C. 1817(j)(8)(B)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1827` | strike | in subparagraph (E), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
@@ -2151,7 +2135,7 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1087e` | replace | in paragraph (1)(D), by striking the period and inserting a semicolon; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087e` | amend | by amending subparagraph (B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087e` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Section 3513 of division A of the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136), as amended by this part, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `20 U.S.C. § 1087e` | add-at-end | Section 3513 of division A of the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136), as amended by this part, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 3513 of division A of the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136), as amended by this part, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `20 U.S.C. § 1001` | replace | Section 3512(c) of the CARES Act (Public Law 116–136) is amended by striking the period at the end and inserting “, the terms of the loans deferred, and the schedule for repayment of the deferred loan amount.” | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1001` | replace | Section 3517(c) of the CARES Act (Public Law 116–136) is amended by striking the period at the end and inserting “, identifies the statutory provision waived or modified, and describes the terms of the waiver or modification received by … | the bill quotes the text inserted but describes where it goes |
@@ -2231,16 +2215,17 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “to be injurious to human beings, to the interests of agriculture” and inserting “to be injurious to or to transmit a pathogen that can cause disease in humans, to be injurious to the interests of agriculture”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (b) to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | Section 4114(a)(1) of the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136) is amended by striking “September 30, 2020” and inserting “the date on which such financial assistance is fully exhausted by the air carrie… | the bill names no machine-readable US Code section |
+| — | replace | Section 4114(a)(1) of the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136) is amended by striking “September 30, 2020” and inserting “September 30, 2020, or the date on which such financial assistance is fully exha… | the bill names no machine-readable US Code section |
 | — | strike | in subsection (a) by striking “(a) In General.—”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (b). | the bill names no machine-readable US Code section |
-| `45 U.S.C. § 352` | add-at-end | by adding at the end “No recovery benefit under this section shall be payable for any registration period beginning on or after July 1, 2021.” | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `45 U.S.C. § 352` | add-at-end | by adding at the end “No recovery benefit under this section shall be payable for any registration period beginning on or after April 1, 2021. For registration periods beginning on or after August 1, 2020, but before February 1, 2021, a … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `45 U.S.C. § 352` | add-at-end | Section 2(a)(5)(B) of the Railroad Unemployment Insurance Act (45 U.S.C. 352(a)(5)(B) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `45 U.S.C. § 352` | add-at-end | Section 2(a)(5) of the Railroad Unemployment Insurance Act (45 U.S.C. 352(a)(5)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 906` | strike | in subparagraph (B), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `2 U.S.C. § 906` | insert | in subparagraph (C), by inserting “and” at the end; and | the bill quotes the text inserted but describes where it goes |
 | `2 U.S.C. § 906` | insert | by inserting after subparagraph (C) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 22002 of Public Law 116–136 is amended by striking “Railway Retirement Act of 1974” and inserting “Railroad Retirement Act of 1974”. | the bill names no machine-readable US Code section |
+| — | replace | Section 2112(a) of the Relief for Workers Affected by Coronavirus Act (subtitle A of title II of division A of Public Law 116–136), is amended by striking “December 31, 2020” and inserting “January 31, 2021”. | the bill names no machine-readable US Code section |
 | `34 U.S.C. § 10281` | add-at-end | Section 1201 of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10281) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 20101` | strike | in paragraph (4), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `34 U.S.C. § 20101` | replace | in paragraph (5), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
@@ -2264,6 +2249,7 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 2394c` | strike | in subparagraph (C), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 2394c` | replace | in subparagraph (D), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 2394c` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6620` | replace | Section 1009 of the America COMPETES Act (42 U.S.C. 6620) is amended by striking subsections (a) and (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3211` | replace | by striking “(2) Release.—” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 3211` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3191` | add-at-end | Title V of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3191 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
