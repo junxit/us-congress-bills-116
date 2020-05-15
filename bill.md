@@ -11,11 +11,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short Title
 
-This Act may be cited as the “Health and Economic Recovery Omnibus Emergency Solutions Act” or the “HEROES Act”.
+This Act may be cited as “The Heroes Act”.
 
 ## § 2. Table of Contents
 
-The table of contents is as follows:
+The table of contents for this Act is as follows:
 
 ## § 3. References
 
