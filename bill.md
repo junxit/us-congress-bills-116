@@ -2,12 +2,12 @@
 legis-num: H. RES. 967
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 967
 
-> Providing for consideration of the resolution (H. RES. 965) authorizing remote voting by proxy in the House of Representatives and providing for official remote committee proceedings during a public health emergency due to a novel coronavirus, and for other purposes; providing for consideration of the bill (H.R. 6800) making emergency supplemental appropriations for the fiscal year ending September 30, 2020, and for other purposes; providing for proceedings during the period from May 19, 2020, through July 21, 2020; and for other purposes.
+> Providing for consideration of the resolution (H. Res. 965) authorizing remote voting by proxy in the House of Representatives and providing for official remote committee proceedings during a public health emergency due to a novel coronavirus, and for other purposes; providing for consideration of the bill (H.R. 6800) making emergency supplemental appropriations for the fiscal year ending September 30, 2020, and for other purposes; providing for proceedings during the period from May 19, 2020, through July 21, 2020; and for other purposes.
 
 That upon adoption of this resolution it shall be in order without intervention of any point of order to consider in the House the resolution (H. Res. 965) authorizing remote voting by proxy in the House of Representatives and providing for official remote committee proceedings during a public health emergency due to a novel coronavirus, and for other purposes. The resolution shall be considered as read. The previous question shall be considered as ordered on the resolution to adoption without intervening motion or demand for division of the question except one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Rules.
 
