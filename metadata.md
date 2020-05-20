@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 72
 congress: 116
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 72
@@ -29,3 +29,7 @@ A joint resolution providing for the reappointment of Michael M. Lynton as a cit
 
 - 2020-05-11 — Introduced in Senate
 - 2020-05-11 — Read twice and referred to the Committee on Rules and Administration.
+- 2020-05-20 — Passed Senate without amendment by Unanimous Consent. (text: CR S2560)
+- 2020-05-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S2560)
+- 2020-05-20 — Senate Committee on Rules and Administration discharged by Unanimous Consent.
+- 2020-05-20 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S2559-2560)
