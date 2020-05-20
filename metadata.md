@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 571
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 571
@@ -54,3 +54,7 @@ A resolution congratulating the students, parents, teachers, and leaders of char
 
 - 2020-05-12 — Introduced in Senate
 - 2020-05-12 — Referred to the Committee on Health, Education, Labor, and Pensions.
+- 2020-05-20 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 05/12/2020 CR S2382-2383)
+- 2020-05-20 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 05/12/2020 CR S2382-2383)
+- 2020-05-20 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S2559)
+- 2020-05-20 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S2559)
