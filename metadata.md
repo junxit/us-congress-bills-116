@@ -1,7 +1,7 @@
 ---
 measure: S. 2927
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2927
@@ -32,3 +32,5 @@ NIMHD Research Endowment Revitalization Act of 2019
 - 2019-12-17 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander without amendment. Without written report.
 - 2019-12-17 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander without amendment. Without written report.
 - 2019-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 371.
+- 2020-05-20 — Passed Senate without amendment by Voice Vote. (consideration: CR S2562; text: CR S2562)
+- 2020-05-20 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S2562; text: CR S2562)
