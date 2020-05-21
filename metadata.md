@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 556
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 556
@@ -39,3 +39,7 @@ A resolution designating May 1, 2020, as the "United States Foreign Service Day"
 
 - 2020-05-04 — Introduced in Senate
 - 2020-05-04 — Referred to the Committee on the Judiciary.
+- 2020-05-21 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 05/04/2020 CR S2216-2217)
+- 2020-05-21 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 05/04/2020 CR S2216-2217)
+- 2020-05-21 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2609-2610)
+- 2020-05-21 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S2609-2610)
