@@ -1,0 +1,26 @@
+---
+legis-num: S. 3804
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3804
+
+> To clarify that the “one-touch make-ready” rules of the Federal Communication Commission for utility pole attachments do not supersede the National Labor Relations Act or collective bargaining agreements.
+
+## § 1. Short title
+
+This Act may be cited as the “Protecting Collective Bargaining Agreements Under One-Touch Make-Ready Act”.
+
+## § 2. Application of labor laws and collective bargaining agreements to “one-touch make-ready” rules
+
+- **(a)** *Definitions* In this section—
+  - **(1)** the term existing attacher has the meaning given the term in section 1.1411 of title 47, Code of Federal Regulations; and
+  - **(2)** the term one-touch make-ready rules means—
+    - **(A)** the final rule promulgated by the Federal Communications Commission entitled “Accelerating Wireline and Wireless Broadband Deployment by Removing Barriers to Infrastructure Investment” (83 Fed. Reg. 46812 (September 14, 2018)); and
+    - **(B)** the Third Report and Order and Declaratory Ruling in the matter of Accelerating Wireline Broadband Deployment by Removing Barriers to Infrastructure Investment and Accelerating Wireless Broadband Deployment by Removing Barriers to Infrastructure Investment, adopted by the Federal Communications Commission on August 2, 2018 (FCC 18–111).
+- **(b)** *Relation to other laws and agreements*
+  - **(1)** *National Labor Relations Act* To the extent that any provision of the one-touch make-ready rules conflicts with the National Labor Relations Act (29 U.S.C. 151 et seq.), or substantially impairs the purposes and policies of that Act, the provision shall not apply.
+  - **(2)** *Collective bargaining agreements* To the extent that any provision of the one-touch make-ready rules conflicts with a collective bargaining agreement between an existing attacher and a labor organization that exclusively represents the employees of the existing attacher, the provision shall not apply.
+  - **(3)** *Determination of conflict or substantial impairment* If a dispute arises as to whether a conflict or substantial impairment described in paragraph (1) or (2) exists, the parties to the dispute shall submit the issue for non-binding arbitration.
