@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1548
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1548
@@ -25,3 +25,10 @@ For the relief of Maria Carmen Castro Ramirez and J. Refugio Carreno Rojas.
 - 2019-03-05 — Introduced in House
 - 2019-03-05 — Introduced in House
 - 2019-03-05 — Referred to the House Committee on the Judiciary.
+- 2019-03-25 — Referred to the Subcommittee on Immigration and Citizenship.
+- 2020-03-10 — Subcommittee on Immigration and Citizenship Discharged.
+- 2020-03-11 — Committee Consideration and Mark-up Session Held.
+- 2020-03-11 — Ordered to be Reported by Voice Vote.
+- 2020-05-22 — Placed on the Private Calendar, Calendar No. 1.
+- 2020-05-22 — Reported by the Committee on Judiciary. H. Rept. 116-423.
+- 2020-05-22 — Reported by the Committee on Judiciary. H. Rept. 116-423.
