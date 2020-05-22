@@ -1,7 +1,7 @@
 ---
 measure: S. 209
 congress: 116
-version: Reported in House
+version: Enrolled Bill
 derived: true
 ---
 
