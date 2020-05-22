@@ -1,7 +1,7 @@
 ---
 measure: S. 209
 congress: 116
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 209
@@ -42,3 +42,10 @@ PROGRESS for Indian Tribes Act
 - 2019-06-28 — Message on Senate action sent to the House.
 - 2019-06-28 — Received in the House.
 - 2019-06-28 — Referred to the House Committee on Natural Resources.
+- 2019-07-03 — Referred to the Subcommittee for Indigenous Peoples of the United States.
+- 2019-12-05 — Committee Consideration and Mark-up Session Held.
+- 2019-12-05 — Ordered to be Reported by the Yeas and Nays: 22 - 10.
+- 2019-12-05 — Subcommittee for Indigenous Peoples of the United States Discharged.
+- 2020-05-22 — Placed on the Union Calendar, Calendar No. 338.
+- 2020-05-22 — Reported by the Committee on Natural Resources. H. Rept. 116-422.
+- 2020-05-22 — Reported by the Committee on Natural Resources. H. Rept. 116-422.

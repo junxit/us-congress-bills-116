@@ -1,7 +1,7 @@
 ---
 measure: S. 209
 congress: 116
-version: Referred in House
+version: Reported in House
 derived: true
 ---
 
