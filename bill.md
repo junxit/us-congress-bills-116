@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3349
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,18 +13,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Republic of Texas Legation Memorial Act”.
 
-## § 2. Definitions
+## § 2. Authorization to establish commemorative work
 
-For the purposes of this Act:
-
-- **(1)** *Association* The term “Association” means the Daughters of the Republic of Texas, a corporation organized under the laws of the State of Texas and described in section 501(c)(3) and exempt from taxation under section 501(a) of the Internal Revenue Code of 1986.
-- **(2)** *Memorial* The term “memorial” means the Republic of Texas Legation Memorial authorized to be established under section 3.
-
-## § 3. Memorial to commemorate
-
-- **(a)** *Authorization To establish commemorative work* The Association may establish the Republic of Texas Legation Memorial as a commemorative work, on Federal land in the District of Columbia to commemorate and honor those who, as representatives of the Republic of Texas, served in the District of Columbia as diplomats to the United States and made possible the annexation of Texas as the twenty-eighth State of the United States.
-- **(b)** *Compliance with standards for Commemorative Works Act* The establishment of the commemorative work shall be in accordance with chapter 89 of title 40, United States Code (commonly known as the “Commemorative Works Act”).
-- **(c)** *Use of Federal funds prohibited* Federal funds may not be used to pay any expense of the establishment of the memorial. The Association shall be solely responsible for acceptance of contributions for, and payment of the expenses of, the establishment of the memorial.
+- **(a)** *In general* The Daughters of the Republic of Texas may establish a commemorative work on Federal land in the District of Columbia and its environs to commemorate and honor those who, as representatives of the Republic of Texas, served in the District of Columbia as diplomats to the United States and made possible the annexation of Texas as the twenty-eighth State of the United States.
+- **(b)** *Compliance with standards for commemorative works* The establishment of the commemorative work under this section shall be in accordance with chapter 89 of title 40, United States Code (commonly known as the “Commemorative Works Act”).
+- **(c)** *Prohibition on the use of federal funds*
+  - **(1)** *In general* Federal funds may not be used to pay any expense of the establishment of the commemorative work under this section.
+  - **(2)** *Responsibility of the daughters of the republic of Texas* The Daughters of the Republic of Texas shall be solely responsible for acceptance of contributions for, and payment of the expenses of, the establishment of the commemorative work under this section.
 - **(d)** *Deposit of excess funds*
-  - **(1)** If upon payment of all expenses for the establishment of the memorial (including the maintenance and preservation amount required by section 8906(b)(1) of title 40, United States Code), there remains a balance of funds received for the establishment of the commemorative work, the Association shall transmit the amount of the balance to the Secretary of the Interior for deposit in the account provided for in section 8906(b)(3) of title 40, United States Code.
-  - **(2)** If upon expiration of the authority for the commemorative work under section 8903(e) of title 40, United States Code, there remains a balance of funds received for the establishment of the commemorative work, the Association shall transmit the balance to a separate account with the National Park Foundation for memorials, to be available to the Secretary of the Interior or the Administrator (as appropriate) following the process provided in section 8906(b)(4) of title 40, United States Code, for accounts established under section 8906(b)(2) or (3) of title 40, United States Code.
+  - **(1)** *In general* If upon payment of all expenses for the establishment of the memorial (including the maintenance and preservation amount required by section 8906(b)(1) of title 40, United States Code), there remains a balance of funds received for the establishment of the commemorative work, the Daughters of the Republic of Texas shall transmit the amount of the balance to the Secretary of the Interior for deposit in the account provided for in section 8906(b)(3) of title 40, United States Code.
+  - **(2)** *On expiration of authority* If upon expiration of the authority for the commemorative work under section 8903(e) of title 40, United States Code, there remains a balance of funds received for the establishment of the commemorative work, the Daughters of the Republic of Texas shall transmit the balance to a separate account with the National Park Foundation for memorials, to be available to the Secretary of the Interior or the Administrator (as appropriate) following the process provided in section 8906(b)(4) of title 40, United States Code, for accounts established under section 8906(b)(2) or (3) of title 40, United States Code.
