@@ -1,0 +1,30 @@
+---
+legis-num: H.R. 7035
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7035
+
+> To amend the Agricultural Marketing Act of 1946 to provide for emergency supplemental funding under local agriculture market program for COVID–19 losses, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Farm to Fridge Act”.
+
+## § 2. Emergency supplemental funding under local agriculture market program for COVID–19 losses
+
+- **(a)** *In general* Section 210A(d) of the Agricultural Marketing Act of 1946 (7 U.S.C. 1627c(d)) is amended by adding at the end the following:
+  > - **(7)** *Payments for COVID–19 losses*
+  >   - **(A)** *In general* The Secretary may make payments to entities eligible to receive a grant under this paragraph (5) or (6) who submit to the Secretary an application at such time, in such manner, and containing—
+  >     - **(i)** a description of how the applicant’s business has been impacted by COVID–19;
+  >     - **(ii)** a narrative explaining how the applicant proposes to use such payments to expand the capacity of their sales in order to properly package and sell agricultural products to consumers either through grocery stores or direct sale; and
+  >     - **(iii)** such other information as the Secretary may require.
+  >   - **(B)** *Applicability of limitations* A payment under this paragraph shall not be subject to the limitations specified under subparagraphs (D) and (E) of paragraphs (5) and (6).
+  >   - **(C)** *Buy American* Chapter 83 of title 41, United States Code, shall apply with respect to purchases made using payments received under this paragraph.
+
+- **(b)** *Authorization of appropriations* Section 210A(i)(3)(A) of the Agricultural Marketing Act of 1946 (7 U.S.C. 1627c(i)(3)(A)) is amended by adding at the end the following:
+  > - **(iii)** *Payments for COVID–19 losses* There are authorized to be appropriated, in addition to the amounts made available under paragraph (2), to provide payments under subsection (d)(7)—
+  >   - **(I)** $20,000,000 for payments to entities eligible to receive a grant under subsection (d)(5); and
+  >   - **(II)** $14,000,000 for payments to entities eligible to receive a grant under subsection (d)(6).
