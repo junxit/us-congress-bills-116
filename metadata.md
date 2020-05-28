@@ -1,7 +1,7 @@
 ---
 measure: S. 3084
 congress: 116
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 3084
@@ -36,3 +36,11 @@ A bill to amend title 38, United States Code, to modify the limitation on pay fo
 - 2020-01-16 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S262)
 - 2020-01-17 — Received in the House.
 - 2020-01-17 — Referred to the House Committee on Veterans' Affairs.
+- 2020-03-12 — Committee Consideration and Mark-up Session Held.
+- 2020-03-12 — Ordered to be Reported by Voice Vote.
+- 2020-05-28 — Considered under suspension of the rules. (consideration: CR H2329-2330)
+- 2020-05-28 — DEBATE - The House proceeded with forty minutes of debate on S. 3084.
+- 2020-05-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-05-28 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
+- 2020-05-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2329)
+- 2020-05-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2329)
