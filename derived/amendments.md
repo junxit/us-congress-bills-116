@@ -1,7 +1,7 @@
 ---
 measure: S. 3084
 congress: 116
-version: Referred in House
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Section 7404(d) of title 38, United States Code, is amended by inserting “and except for individuals appointed under 7401(4) and 7306 of this title,” after “section 7457 of this title,”. | the bill names no machine-readable US Code section |
+| — | insert | Section 7404(d) of title 38, United States Code, is amended by inserting “and except for individuals appointed under sections 7401(4) and 7306 of this title,” after “section 7457 of this title,”. | the bill names no machine-readable US Code section |

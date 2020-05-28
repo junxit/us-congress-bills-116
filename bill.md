@@ -2,16 +2,18 @@
 legis-num: S. 3084
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 3084
 
-> To amend title 38, United States Code, to modify the limitation on pay for certain high-level employees and officers of the Department of Veterans Affairs.
+That the bill from the Senate (S. 3084) entitled “An Act to amend title 38, United States Code, to modify the limitation on pay for certain high-level employees and officers of the Department of Veterans Affairs.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Modification of pay limitation for certain high-level employees and officers of the Department of Veterans Affairs
 
-- **(a)** *Modification* Section 7404(d) of title 38, United States Code, is amended by inserting “and except for individuals appointed under 7401(4) and 7306 of this title,” after “section 7457 of this title,”.
+- **(a)** *Modification* Section 7404(d) of title 38, United States Code, is amended by inserting “and except for individuals appointed under sections 7401(4) and 7306 of this title,” after “section 7457 of this title,”.
 - **(b)** *Waivers*
   - **(1)** *In general* The Secretary of Veterans Affairs may waive the limitation described in section 7404(d) of such title, as in effect on the day before the date of the enactment of this Act, on the amount of basic pay payable to individuals appointed under section 7401(4) or 7306 of such title for basic pay payable during the period—
     - **(A)** beginning on November 1, 2010; and
