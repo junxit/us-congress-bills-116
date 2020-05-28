@@ -1,7 +1,7 @@
 ---
 measure: S. 3084
 congress: 116
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 3084
@@ -44,3 +44,16 @@ A bill to amend title 38, United States Code, to modify the limitation on pay fo
 - 2020-05-28 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
 - 2020-05-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2329)
 - 2020-05-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2329)
+- 2020-06-01 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2020-06-04 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 3084 by Unanimous Consent.(consideration: CR S2745)
+- 2020-06-04 — Senate agreed to the House amendment to S. 3084 by Unanimous Consent. (consideration: CR S2745)
+- 2020-06-04 — Senate vitiated previous action of 06/04/2020 by Unanimous Consent. (CR S2745)
+- 2020-06-08 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 3084 by Unanimous Consent.(consideration: CR S2769)
+- 2020-06-08 — Senate agreed to the House amendment to S. 3084 by Unanimous Consent. (consideration: CR S2769)
+- 2020-06-11 — Message on Senate action sent to the House.
+- 2020-06-22 — Presented to President.
+- 2020-06-22 — Presented to President.
+- 2020-07-02 — Became Public Law No: 116-146.
+- 2020-07-02 — Became Public Law No: 116-146.
+- 2020-07-02 — Signed by President.
+- 2020-07-02 — Signed by President.
