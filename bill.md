@@ -15,7 +15,8 @@ This Act may be cited as the “Paycheck Protection Program Flexibility Act of 2
 
 ## § 2. Maturity for loans with remaining balance after application of forgiveness
 
-Section 7(a)(36)(K)(ii) of the Small Business Act (15 U.S.C. 636(a)(36)) is amended by inserting “minimum maturity of 5 years and a” before “maximum maturity”.
+- **(a)** *In general* Section 7(a)(36)(K)(ii) of the Small Business Act (15 U.S.C. 636(a)(36)) is amended by inserting “minimum maturity of 5 years and a” before “maximum maturity”.
+- **(b)** *Effective date; applicability* The amendment made by this section shall take effect on the date of the enactment of this Act and shall apply to any loan made pursuant to section 7(a)(36) of the Small Business Act (15 U.S.C. 636(a)(36)) on or after such date. Nothing in this Act, the CARES Act (Public Law 116–136), or the Paycheck Protection Program and Health Care Enhancement Act (Public Law 116–139) shall be construed to prohibit lenders and borrowers from mutually agreeing to modify the maturity terms of a covered loan described in subparagraph (K) of such section to conform with requirements of this section.
 
 ## § 3. Amendments to paycheck protection program loan forgiveness
 
@@ -29,19 +30,30 @@ Section 7(a)(36)(K)(ii) of the Small Business Act (15 U.S.C. 636(a)(36)) is amen
   - **(2)** in subsection (d)—
     - **(A)** in paragraph (5)(B), by striking “June 30, 2020” each place it appears and inserting “December 31, 2020”; and
     - **(B)** by adding at the end the following new paragraphs:
-      > - **(7)** *Exemption based on employee availability* During the period beginning on February 15, 2020, and ending on December 31, 2020, the amount of loan forgiveness under this section shall be determined without regard to a reduction in the number of full-time equivalent employees if an eligible recipient—
-      >   - **(A)** is unable to rehire an individual who was an employee of the eligible recipient on or before February 15, 2020;
-      >   - **(B)** is able to demonstrate an inability to hire similarly qualified employees on or before December 31, 2020; or
-      >   - **(C)** is able to demonstrate an inability to return to the same level of business activity as such business was operating at prior to February 15, 2020.
-      > - **(8)** *No limitations* In carrying out this section, the Administrator may not limit the non-payroll portion of a forgivable covered loan amount.
+      > - **(7)** *Exemption based on employee availability* During the period beginning on February 15, 2020, and ending on December 31, 2020, the amount of loan forgiveness under this section shall be determined without regard to a proportional reduction in the number of full-time equivalent employees if an eligible recipient, in good faith—
+      >   - **(A)** is able to document—
+      >     - **(i)** an inability to rehire individuals who were employees of the eligible recipient on February 15, 2020; and
+      >     - **(ii)** an inability to hire similarly qualified employees for unfilled positions on or before December 31, 2020; or
+      >   - **(B)** is able to document an inability to return to the same level of business activity as such business was operating at before February 15, 2020, due to compliance with requirements established or guidance issued by the Secretary of Health and Human Services, the Director of the Centers for Disease Control and Prevention, or the Occupational Safety and Health Administration during the period beginning on March 1, 2020, and ending December 31, 2020, related to the maintenance of standards for sanitation, social distancing, or any other worker or customer safety requirement related to COVID–19.
+      > - **(8)** *Limitation on forgiveness* To receive loan forgiveness under this section, an eligible recipient shall use at least 60 percent of the covered loan amount for payroll costs, and may use up to 40 percent of such amount for any payment of interest on any covered mortgage obligation (which shall not include any prepayment of or payment of principal on a covered mortgage obligation), any payment on any covered rent obligation, or any covered utility payment.
 
   - **(3)** by adding at the end the following new subsection:
     > - **(l)** *Application to certain eligible recipients* An eligible recipient that received a covered loan before the date of enactment of this subsection may elect for the covered period applicable to such covered loan to end on the date that is 8 weeks after the date of the origination of such covered loan.
 
+- **(c)** *Extension of deferral period* Section 7(a)(36)(M) of the Small Business Act (15 U.S.C. 636(a)(36)(M)) is amended—
+  - **(1)** in clause (ii)(II), by striking “for a period of not less than 6 months, including payment of principal, interest, and fees, and not more than 1 year.” and inserting the following: “, including payment of principal, interest, and fees, until the date on which the amount of forgiveness determined under section 1106 of the CARES Act is remitted to the lender.”;
+  - **(2)** in clause (iii), by striking “for a period of not less than 6 months, including payment of principal, interest, and fees, and not more than 1 year.” and inserting the following: “, including payment of principal, interest, and fees, until the date on which the amount of forgiveness determined under section 1106 of the CARES Act is remitted to the lender.”; and
+  - **(3)** by adding at the end the following new clause:
+    > - **(v)** *Rule of construction* If an eligible recipient fails to apply for forgiveness of a covered loan within 10 months after the last day of the covered period defined in section 1106(a) of the CARES Act, such eligible recipient shall make payments of principal, interest, and fees on such covered loan beginning on the day that is not earlier than the date that is 10 months after the last day of such covered period.
+
+- **(d)** *Effective date; applicability* The amendments made by this section shall be effective as if included in the CARES Act (Public Law 116–136) and shall apply to any loan made pursuant to section 7(a)(36) of the Small Business Act (15 U.S.C. 636(a)(36)) or section 1109 of the CARES Act.
+
 ## § 4. Delay of payment of employer payroll taxes
 
-Section 2302(a) of the CARES Act (Public Law 116–136) is amended by striking paragraph (3).
+- **(a)** *In general* Section 2302(a) of the CARES Act (Public Law 116–136) is amended by striking paragraph (3).
+- **(b)** *Effective date; applicability* The amendments made by this section shall be effective as if included in the CARES Act (Public Law 116–136) and shall apply to any loan made pursuant to section 7(a)(36) of the Small Business Act (15 U.S.C. 636(a)(36)) or section 1109 of the CARES Act.
 
-## § 5. Effective date; applicability
+## § 5. Emergency designation
 
-The amendments made by this Act shall be effective as if included in the CARES Act (Public Law 116–136) and shall apply to any loan made pursuant to section 7(a)(36) of the Small Business Act (15 U.S.C. 636(a)(36)) or section 1109 of the CARES Act.
+- **(a)** *In general* This Act is designated as an emergency requirement pursuant to section 4(g) of the Statutory Pay-As-You-Go Act of 2010 (2 U.S.C. 933(g)).
+- **(b)** *Designation in Senate* In the Senate, this Act is designated as an emergency requirement pursuant to section 4112(a) of H. Con. Res. 71 (115th Congress), the concurrent resolution on the budget for fiscal year 2018.
