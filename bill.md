@@ -1,15 +1,13 @@
 ---
 legis-num: S. 3084
-congress: 116th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Sixteenth Congress of the United States of America
+session: 2d Sess.
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 3084
 
-That the bill from the Senate (S. 3084) entitled “An Act to amend title 38, United States Code, to modify the limitation on pay for certain high-level employees and officers of the Department of Veterans Affairs.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To amend title 38, United States Code, to modify the limitation on pay for certain high-level employees and officers of the Department of Veterans Affairs.
 
 ## § 1. Modification of pay limitation for certain high-level employees and officers of the Department of Veterans Affairs
 
