@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6168
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6168
@@ -23,9 +23,10 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2020
 - Rep. Haaland, Debra A. [D-NM-1] (H001080)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2020
 - 2020-05-28 — Mr. Takano moved to suspend the rules and pass the bill.
 - 2020-05-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2327)
 - 2020-05-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2327)
+- 2020-06-01 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
