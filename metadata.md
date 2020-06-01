@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6800
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 6800
@@ -62,3 +62,6 @@ The Heroes Act
 - 2020-05-15 — Rule provides for consideration of H. Res. 965 and H.R. 6800. Measures will be considered read. Bills are closed to amendments. Rule provides for one hour of debate on H. Res. 965 and two hours of debate on H.R. 6800.
 - 2020-05-15 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2020-05-15 — The previous question was ordered pursuant to the rule.
+- 2020-05-20 — Received in the Senate.
+- 2020-05-21 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2020-06-01 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 455.
