@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6168
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6168
@@ -42,3 +42,14 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2020
 - 2020-05-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2327)
 - 2020-05-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2327)
 - 2020-06-01 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2020-09-24 — Passed Senate without amendment by Unanimous Consent.
+- 2020-09-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-09-24 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2020-09-24 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S5882)
+- 2020-09-29 — Message on Senate action sent to the House.
+- 2020-10-09 — Presented to President.
+- 2020-10-09 — Presented to President.
+- 2020-10-20 — Became Public Law No: 116-178.
+- 2020-10-20 — Became Public Law No: 116-178.
+- 2020-10-20 — Signed by President.
+- 2020-10-20 — Signed by President.
