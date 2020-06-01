@@ -1,0 +1,43 @@
+---
+legis-num: H.R. 7081
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7081
+
+> To direct the Comptroller General of the United States to submit to Congress a report on lapses in coverage under the TRICARE program for certain members of the National Guard and reserve components.
+
+## § 1. Short title
+
+This Act may be cited as the “Protecting Our Servicemembers’ Care Act of 2020”.
+
+## § 2. Report on lapses in TRICARE coverage for members of the National Guard and reserve components
+
+- **(a)** *Report* Not later than one year after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the appropriate congressional committees a report containing an analysis of each of the following:
+  - **(1)** Any lapses in coverage under the TRICARE program for a member of a reserve component that occurred during the eight year period ending on the date of the enactment of this Act and were caused by a change in the duty status of such member, including an identification of the total number of such lapses.
+  - **(2)** The factors contributing to any such lapses, including—
+    - **(A)** technological factors, including factors relating to outdated systems;
+    - **(B)** human errors in processing changes in duty status; and
+    - **(C)** shortages in the level of administrative staffing of the National Guard.
+  - **(3)** How factors contributing to any such lapses were identified under paragraph (2) and whether actions have been taken to address the factors.
+  - **(4)** The effect of any such lapses on—
+    - **(A)** the delivery of health care benefits to members of the reserve components and the eligible dependents of such members; or
+    - **(B)** force readiness and force retention.
+  - **(5)** The parties responsible for identifying and communicating to a member of a reserve component issues relating to eligibility under the TRICARE program.
+  - **(6)** The methods by which a member of a reserve component, an eligible dependent of such member, or the Secretary of Defense may verify the status of enrollment in the TRICARE program regarding the member before, during, and after a deployment of the member.
+  - **(7)** The comparative effectiveness, with respect to the delivery of health care benefits to a member of a reserve component and eligible dependents of such member, of—
+    - **(A)** continuing the current process by which a previously eligible member must transition from coverage under TRICARE Reserve Select to coverage under TRICARE Prime after a change to active service in the duty status of such member; and
+    - **(B)** establishing a new process by which a previously eligible member may remain covered by TRICARE Reserve Select after a change to active service in the duty status of such member (whether by allowing a previously eligible member to pay a premium for such coverage or by requiring the Federal Government to provide for such coverage).
+  - **(8)** Whether the current process referred to in paragraph (7)(A) negatively affects the delivery of health care benefits as a result of transitions between network providers.
+  - **(9)** The actions necessary to prevent future occurrences of such lapses, including legislative actions.
+- **(b)** *Definitions* In this section:
+  - **(1)** The term “active service” has the meaning given that term in section 101(d) of title 10, United States Code.
+  - **(2)** The term “appropriate congressional committees” means the congressional defense committees (as defined in section 101(a) of title 10, United States Code) and the Committees on Veterans’ Affairs of the House of Representatives and the Senate.
+  - **(3)** The term “eligible dependent” means a dependent of a member of a reserve component—
+    - **(A)** described in subparagraph (A), (D), or (I) of section 1072(2) of title 10, United States Code; and
+    - **(B)** eligible for coverage under the TRICARE Program.
+  - **(4)** The term “previously eligible member” means a member of a reserve component who was eligible for coverage under TRICARE Reserve Select pursuant to section 1076d of title 10, United States Code, prior to a change to active service in the duty status of such member.
+  - **(5)** The terms “TRICARE Prime” and “TRICARE program” have the meanings given those terms in section 1072 of title 10, United States Code.
+  - **(6)** The term “TRICARE Reserve Select” has the meaning given that term in section 1076d(f) of title 10, United States Code.
