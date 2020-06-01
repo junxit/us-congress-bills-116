@@ -1,7 +1,7 @@
 ---
 measure: S. 2769
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 19 U.S.C. § 1671l
+### 19 U.S.C. § 167
 
 > by striking “preceding fiscal year” and inserting “most recently completed fiscal year”; and
 
@@ -33,7 +33,7 @@ to guess them.
 | Removed | `preceding fiscal year` |
 | Inserted | `most recently completed fiscal year` |
 
-### 19 U.S.C. § 1671l
+### 19 U.S.C. § 167
 
 > Paragraph (2) under the heading “Disaster relief fund (including transfer of funds)” under the heading “Federal Emergency Management Agency” in title I of the Department of Homeland Security Appropriations Act, 2015 (Public Law 114–4; 129 Stat. 55) is amended, in the matter preceding subparagraph (A), by striking “fifth day of each month” and inserting “fifth business day of each month”.
 
@@ -96,13 +96,13 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `19 U.S.C. § 1671l` | replace | by striking the subsection heading and inserting the following: “Report on antidumping and countervailing duty collections and other related matters”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 1671l` | replace | by striking “The” and inserting the following: “(1) In general.—Not later than April 30 each year, the”; | the bill quotes the text struck but describes what replaces it |
-| `19 U.S.C. § 1671l` | strike | by striking “before the 60th day of each fiscal year after fiscal year 1994”; and | the bill quotes the text struck but describes what replaces it |
-| `19 U.S.C. § 1671l` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 167` | replace | by striking the subsection heading and inserting the following: “Report on antidumping and countervailing duty collections and other related matters”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 167` | replace | by striking “The” and inserting the following: “(1) In general.—Not later than April 30 each year, the”; | the bill quotes the text struck but describes what replaces it |
+| `19 U.S.C. § 167` | strike | by striking “before the 60th day of each fiscal year after fiscal year 1994”; and | the bill quotes the text struck but describes what replaces it |
+| `19 U.S.C. § 167` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 469a` | strike | Section 554 of the Department of Homeland Security Appropriations Act, 2010 (6 U.S.C. 469a) is amended by striking “: Provided further” and all that follows through “prior fiscal year”. | the bill quotes the text struck but describes what replaces it |
-| `19 U.S.C. § 1671l` | strike | Title III of division F of the joint explanatory statement of the committee of conference accompanying the Consolidated Appropriations Act, 2017 (Public Law 115–31) is amended, under the heading “Federal Protection Service” under the hea… | the bill quotes the text struck but describes what replaces it |
-| `19 U.S.C. § 1671l` | strike | Title I of division F of the joint explanatory statement of the committee of conference accompanying the Department of Homeland Security Appropriations Act, 2017 (Public Law 115–31) is amended, under the heading “Office of the Chief Fina… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 167` | strike | Title III of division F of the joint explanatory statement of the committee of conference accompanying the Consolidated Appropriations Act, 2017 (Public Law 115–31) is amended, under the heading “Federal Protection Service” under the hea… | the bill quotes the text struck but describes what replaces it |
+| `19 U.S.C. § 167` | strike | Title I of division F of the joint explanatory statement of the committee of conference accompanying the Department of Homeland Security Appropriations Act, 2017 (Public Law 115–31) is amended, under the heading “Office of the Chief Fina… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 44945` | repeal | Section 515(b) of the Department of Homeland Security Appropriations Act, 2005 (Public Law 108–334; 49 U.S.C. 44945 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1356` | strike | by striking paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1356` | redesignate | by redesignating paragraph (3) as paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
