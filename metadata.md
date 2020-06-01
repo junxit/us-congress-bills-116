@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6509
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6509
@@ -42,9 +42,10 @@ Public Safety Officer Pandemic Response Act of 2020
 - Rep. McBath, Lucy [D-GA-6] (M001208)
 - Rep. Ryan, Tim [D-OH-13] (R000577)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -57,3 +58,4 @@ Public Safety Officer Pandemic Response Act of 2020
 - 2020-05-27 — Mr. Nadler moved to suspend the rules and pass the bill, as amended.
 - 2020-05-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2316)
 - 2020-05-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-06-01 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
