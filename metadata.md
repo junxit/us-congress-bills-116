@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4739
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4739
@@ -61,3 +61,7 @@ Synthetic Opioid Exposure Prevention and Training Act
 - 2019-12-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 0 (Roll no. 656). (text: CR H9369)
 - 2019-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 0 (Roll no. 656).(text: CR H9369)
 - 2019-12-10 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2020-03-11 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2020-06-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-229.
+- 2020-06-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-229.
+- 2020-06-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 460.
