@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2066
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2066
@@ -38,3 +38,7 @@ DHS Intelligence Rotational Assignment Program Act of 2019
 - 2019-05-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3762)
 - 2019-05-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3762)
 - 2019-05-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2019-11-06 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2020-06-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-228.
+- 2020-06-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-228.
+- 2020-06-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 459.
