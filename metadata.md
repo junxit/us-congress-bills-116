@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7010
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7010
@@ -129,3 +129,12 @@ Paycheck Protection Program Flexibility Act of 2020
 - 2020-05-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 1 (Roll no. 114). (text: CR H2332-2333)
 - 2020-05-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 1 (Roll no. 114).(text: CR H2332-2333)
 - 2020-06-01 — Received in the Senate, read twice.
+- 2020-06-03 — Passed Senate without amendment by Voice Vote. (consideration: CR S2690-2691)
+- 2020-06-03 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S2690-2691)
+- 2020-06-04 — Message on Senate action sent to the House.
+- 2020-06-05 — Became Public Law No: 116-142.
+- 2020-06-05 — Became Public Law No: 116-142.
+- 2020-06-05 — Presented to President.
+- 2020-06-05 — Presented to President.
+- 2020-06-05 — Signed by President.
+- 2020-06-05 — Signed by President.

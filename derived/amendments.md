@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7010
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 
