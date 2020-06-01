@@ -1,7 +1,7 @@
 ---
 measure: S. 2769
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2769
@@ -28,3 +28,7 @@ Congressional Reporting Burden Reduction Act
 
 - 2019-10-31 — Introduced in Senate
 - 2019-10-31 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2019-11-06 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2020-06-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 116-226.
+- 2020-06-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 116-226.
+- 2020-06-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 457.

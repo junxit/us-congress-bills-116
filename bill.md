@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2769
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -15,7 +15,7 @@ This Act may be cited as the “Congressional Reporting Burden Reduction Act”.
 
 ## § 2. Elimination of Department of Homeland Security reports
 
-- **(a)** *Consolidation of reports on antidumping and countervailing duties* Section 691(a) of the North American Free Trade Agreement Implementation Act (19 U.S.C. 1671l) is amended—
+- **(a)** *Consolidation of reports on antidumping and countervailing duties* Section 691(a) of the North American Free Trade Agreement Implementation Act (19 U.S.C. 16717l) is amended—
   - **(1)** by striking the subsection heading and inserting the following: “Report on antidumping and countervailing duty collections and other related matters”;
   - **(2)** by striking “The” and inserting the following: “(1) In general.—Not later than April 30 each year, the”;
   - **(3)** in paragraph (1), as designated by paragraph (2) of this section—
@@ -34,8 +34,8 @@ This Act may be cited as the “Congressional Reporting Burden Reduction Act”.
 - **(c)** *Department of Homeland Security collection of conference fees report* Section 554 of the Department of Homeland Security Appropriations Act, 2010 (6 U.S.C. 469a) is amended by striking “: Provided further” and all that follows through “prior fiscal year”.
 - **(d)** *Federal Protection Services fees certification* Title III of division F of the joint explanatory statement of the committee of conference accompanying the Consolidated Appropriations Act, 2017 (Public Law 115–31) is amended, under the heading “Federal Protection Service” under the heading “National Protection and Programs Directorate”, by striking “The Secretary and the Director of OMB shall certify in writing to the Committees, not later than 60 days after the date of enactment of this Act, that FPS operations will be fully funded in fiscal year 2017 through the collection of security fees. Should sufficient revenue not be collected to fully fund operations, an expenditure plan is required describing how security risks will be adequately addressed.”.
 - **(e)** *Under Secretary for Management quarterly staffing requirement* Title I of division F of the joint explanatory statement of the committee of conference accompanying the Department of Homeland Security Appropriations Act, 2017 (Public Law 115–31) is amended, under the heading “Office of the Chief Financial Officer” under the heading “Office of the Secretary and Executive Management” under the heading “Departmental Management, Operations, Intelligence, and Oversight”, by striking the following: “The Department shall continue submitting obligation plans to the Committees on a quarterly basis, with the first plan due with-in 45 days of enactment of this Act. These plans shall be consistent with direction provided in the explanatory statement accompanying Public Law 114–113, which required comparisons of planned and actual obligations, by PPA, of all salaries and benefits funding.”.
-- **(f)** *Transportation Security Administration report on unclaimed money at airports* Section 515(b) of the Department of Homeland Security Appropriations Act, 2005 (Public Law 108–334; 49 U.S.C. 44945 note) is repealed.
-- **(g)** *Genealogy Fee* Section 286(t) of the Immigration and Nationality Act (8 U.S.C. 1356(t)) is amended—
+- **(f)(e)** *Transportation Security Administration report on unclaimed money at airports* Section 515(b) of the Department of Homeland Security Appropriations Act, 2005 (Public Law 108–334; 49 U.S.C. 44945 note) is repealed.
+- **(g)(f)** *Genealogy Fee* Section 286(t) of the Immigration and Nationality Act (8 U.S.C. 1356(t)) is amended—
   - **(1)** by striking paragraph (2); and
   - **(2)** by redesignating paragraph (3) as paragraph (2).
 
