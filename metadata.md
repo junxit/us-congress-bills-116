@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 567
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 567
@@ -38,3 +38,7 @@ A resolution commending career professionals at the Department of State for thei
 
 - 2020-05-07 — Introduced in Senate
 - 2020-05-07 — Referred to the Committee on Foreign Relations. (Sponsor introductory remarks on measure: CR S2329)
+- 2020-05-21 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2020-06-03 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with a preamble. Without written report.
+- 2020-06-03 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with a preamble. Without written report.
+- 2020-06-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 474.
