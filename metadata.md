@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 406
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 406
@@ -30,3 +30,7 @@ A resolution recognizing that for 50 years, the Association of South East Asian 
 
 - 2019-11-05 — Introduced in Senate
 - 2019-11-05 — Referred to the Committee on Foreign Relations. (text: CR S6394-6396)
+- 2020-05-21 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2020-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2020-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2020-06-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 466.
