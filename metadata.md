@@ -1,7 +1,7 @@
 ---
 measure: H.R. 192
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 192
@@ -41,3 +41,7 @@ Trans-Sahara Counterterrorism Partnership Program Act of 2020
 - 2019-01-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H432-433)
 - 2019-01-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H432-433)
 - 2019-01-11 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2020-05-21 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2020-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2020-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2020-06-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 475.
