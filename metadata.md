@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 523
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 523
@@ -61,3 +61,7 @@ A resolution recognizing the 199th anniversary of the independence of Greece and
 
 - 2020-02-27 — Introduced in Senate
 - 2020-02-27 — Referred to the Committee on Foreign Relations.
+- 2020-05-21 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2020-06-03 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with a preamble. Without written report.
+- 2020-06-03 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with a preamble. Without written report.
+- 2020-06-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 470.
