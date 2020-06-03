@@ -1,7 +1,7 @@
 ---
 measure: S. 238
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 238
@@ -16,7 +16,7 @@ Special Envoy to Monitor and Combat Anti-Semitism Act
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 
-## Cosponsors (6)
+## Cosponsors (11)
 
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 - Sen. Graham, Lindsey [R-SC] (G000359)
@@ -24,6 +24,11 @@ Special Envoy to Monitor and Combat Anti-Semitism Act
 - Sen. Rosen, Jacky [D-NV] (R000608)
 - Sen. Warren, Elizabeth [D-MA] (W000817)
 - Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Markey, Edward J. [D-MA] (M000133)
 
 ## Committees (1)
 
@@ -33,3 +38,7 @@ Special Envoy to Monitor and Combat Anti-Semitism Act
 
 - 2019-01-28 — Introduced in Senate
 - 2019-01-28 — Read twice and referred to the Committee on Foreign Relations.
+- 2020-05-21 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2020-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2020-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2020-06-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 461.
