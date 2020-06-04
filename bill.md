@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 7101
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7101
+
+> To provide for the continuation of paid parental leave for members of the Armed Services in the event of the death of the child.
+
+## § 1. Short title
+
+This Act may be cited as the “Elaine M. Checketts Military Families Act of 2020”.
+
+## § 2. Continuation of paid parental leave upon death of child
+
+Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall amend the regulations prescribed pursuant to subsections (i) and (j) of section 701 of title 10, United States Code, to provide that the eligibility of primary and secondary caregivers for paid parental leave that has already been approved shall not terminate upon the death of the child for whom such leave is taken.
