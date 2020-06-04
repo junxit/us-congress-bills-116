@@ -1,7 +1,7 @@
 ---
 measure: H.R. 496
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 496
@@ -30,3 +30,11 @@ Sinkhole Mapping Act of 2019
 - 2019-01-11 — Introduced in House
 - 2019-01-11 — Introduced in House
 - 2019-01-11 — Referred to the House Committee on Natural Resources.
+- 2019-02-05 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2019-09-19 — Subcommittee Hearings Held.
+- 2020-01-15 — Committee Consideration and Mark-up Session Held.
+- 2020-01-15 — Ordered to be Reported by Unanimous Consent.
+- 2020-01-15 — Subcommittee on Energy and Mineral Resources Discharged.
+- 2020-06-04 — Placed on the Union Calendar, Calendar No. 341.
+- 2020-06-04 — Reported by the Committee on Natural Resources. H. Rept. 116-427.
+- 2020-06-04 — Reported by the Committee on Natural Resources. H. Rept. 116-427.
