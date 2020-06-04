@@ -1,7 +1,7 @@
 ---
 measure: S. 1853
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 0 executed, 8 stated and not applied.
+18 amendatory instructions. 0 executed, 18 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -39,3 +39,13 @@ complete account of the bill's effect, which it is not.
 | `34 U.S.C. § 41107` | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, and indenting appropriately; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 41107` | redesignate | in the matter preceding subparagraph (A) (as so redesignated), by striking “The Attorney General” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `34 U.S.C. § 41107` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 20961` | redesignate | by redesignating subsection (b) as subsection (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 20961` | insert | by inserting after subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 41107` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 41107` | strike | in paragraph (3), by striking “with criminal jurisdiction over Indian country”. | the bill quotes the text struck but describes what replaces it |
+| `34 U.S.C. § 20903` | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, and indenting appropriately; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 20903` | redesignate | in the matter preceding subparagraph (A) (as so redesignated), by striking “The Attorney General” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `34 U.S.C. § 20903` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 41101` | insert | by inserting “or Tribal” after “if authorized by State”; and | the bill quotes the text inserted but describes where it goes |
+| `34 U.S.C. § 41101` | insert | by inserting “, Tribal,” before “and local governments”. | the bill quotes the text inserted but describes where it goes |
+| `25 U.S.C. § 2802` | replace | Section 3(c)(16) of the Indian Law Enforcement Reform Act (25 U.S.C. 2802(c)(16)) is amended by striking subparagraph (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

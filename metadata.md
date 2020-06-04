@@ -1,7 +1,7 @@
 ---
 measure: S. 1853
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1853
@@ -32,3 +32,8 @@ BADGES for Native Communities Act
 
 - 2019-06-13 — Introduced in Senate
 - 2019-06-13 — Read twice and referred to the Committee on Indian Affairs.
+- 2019-06-19 — Committee on Indian Affairs. Hearings held.
+- 2019-12-11 — Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2020-06-04 — Committee on Indian Affairs. Reported by Senator Hoeven with an amendment in the nature of a substitute. With written report No. 116-230.
+- 2020-06-04 — Committee on Indian Affairs. Reported by Senator Hoeven with an amendment in the nature of a substitute. With written report No. 116-230.
+- 2020-06-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 476.
