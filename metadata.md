@@ -1,0 +1,142 @@
+---
+measure: H.Con.Res. 100
+congress: 116
+version: Introduced in House
+---
+
+# H.Con.Res. 100
+
+Urging the establishment of a United States Commission on Truth, Racial Healing, and Transformation.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Lee, Barbara [D-CA-13] (L000551)
+
+## Cosponsors (112)
+
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Hastings, Alcee L. [D-FL-20] (H000324)
+- Rep. Espaillat, Adriano [D-NY-13] (E000297)
+- Rep. Clarke, Yvette D. [D-NY-9] (C001067)
+- Rep. Brown, Anthony G. [D-MD-4] (B001304)
+- Rep. Tlaib, Rashida [D-MI-13] (T000481)
+- Rep. Bass, Karen [D-CA-37] (B001270)
+- Rep. Garcia, Jesus G. "Chuy" [D-IL-4] (G000586)
+- Rep. McGovern, James P. [D-MA-2] (M000312)
+- Rep. Omar, Ilhan [D-MN-5] (O000173)
+- Rep. Fudge, Marcia L. [D-OH-11] (F000455)
+- Rep. Jayapal, Pramila [D-WA-7] (J000298)
+- Rep. Barragan, Nanette Diaz [D-CA-44] (B001300)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
+- Rep. Meng, Grace [D-NY-6] (M001188)
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Rep. Hayes, Jahana [D-CT-5] (H001081)
+- Rep. Trone, David J. [D-MD-6] (T000483)
+- Rep. Khanna, Ro [D-CA-17] (K000389)
+- Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
+- Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
+- Rep. Sánchez, Linda T. [D-CA-38] (S001156)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. Haaland, Debra A. [D-NM-1] (H001080)
+- Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
+- Rep. Lewis, John [D-GA-5] (L000287)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+- Rep. Clark, Katherine M. [D-MA-5] (C001101)
+- Rep. DeSaulnier, Mark [D-CA-11] (D000623)
+- Rep. Sewell, Terri A. [D-AL-7] (S001185)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Pressley, Ayanna [D-MA-7] (P000617)
+- Rep. Raskin, Jamie [D-MD-8] (R000606)
+- Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. Ocasio-Cortez, Alexandria [D-NY-14] (O000172)
+- Rep. Meeks, Gregory W. [D-NY-5] (M001137)
+- Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
+- Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Cox, TJ [D-CA-21] (C001124)
+- Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Rep. McNerney, Jerry [D-CA-9] (M001166)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Beatty, Joyce [D-OH-3] (B001281)
+- Rep. Carson, Andre [D-IN-7] (C001072)
+- Rep. Horsford, Steven [D-NV-4] (H001066)
+- Rep. Casten, Sean [D-IL-6] (C001117)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Cooper, Jim [D-TN-5] (C000754)
+- Rep. Lowey, Nita M. [D-NY-17] (L000480)
+- Rep. Castro, Joaquin [D-TX-20] (C001091)
+- Rep. Adams, Alma S. [D-NC-12] (A000370)
+- Rep. Kennedy, Joseph P., III [D-MA-4] (K000379)
+- Rep. Davids, Sharice [D-KS-3] (D000629)
+- Rep. Ruiz, Raul [D-CA-36] (R000599)
+- Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Richmond, Cedric L. [D-LA-2] (R000588)
+- Rep. Trahan, Lori [D-MA-3] (T000482)
+- Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
+- Rep. Engel, Eliot L. [D-NY-16] (E000179)
+- Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
+- Rep. Evans, Dwight [D-PA-3] (E000296)
+- Rep. Takano, Mark [D-CA-41] (T000472)
+- Rep. Serrano, Jose E. [D-NY-15] (S000248)
+- Rep. Vela, Filemon [D-TX-34] (V000132)
+- Rep. Speier, Jackie [D-CA-14] (S001175)
+- Rep. Escobar, Veronica [D-TX-16] (E000299)
+- Rep. Gallego, Ruben [D-AZ-7] (G000574)
+- Rep. Napolitano, Grace F. [D-CA-32] (N000179)
+- Rep. Cárdenas, Tony [D-CA-29] (C001097)
+- Rep. Panetta, Jimmy [D-CA-20] (P000613)
+- Rep. Lieu, Ted [D-CA-33] (L000582)
+- Rep. Sires, Albio [D-NJ-8] (S001165)
+- Rep. Luria, Elaine G. [D-VA-2] (L000591)
+- Rep. Neguse, Joe [D-CO-2] (N000191)
+- Rep. Dingell, Debbie [D-MI-12] (D000624)
+- Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
+- Rep. McEachin, A. Donald [D-VA-4] (M001200)
+- Rep. Wilson, Frederica S. [D-FL-24] (W000808)
+- Rep. Kelly, Robin L. [D-IL-2] (K000385)
+- Rep. Lamb, Conor [D-PA-17] (L000588)
+- Rep. Ryan, Tim [D-OH-13] (R000577)
+- Rep. Levin, Andy [D-MI-9] (L000592)
+- Rep. Bonamici, Suzanne [D-OR-1] (B001278)
+- Rep. Welch, Peter [D-VT-At Large] (W000800)
+- Rep. Vargas, Juan [D-CA-51] (V000130)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Crist, Charlie [D-FL-13] (C001111)
+- Rep. Lofgren, Zoe [D-CA-19] (L000397)
+- Rep. Keating, William R. [D-MA-9] (K000375)
+- Rep. Wasserman Schultz, Debbie [D-FL-23] (W000797)
+- Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
+- Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
+- Rep. Thompson, Mike [D-CA-5] (T000460)
+- Rep. Eshoo, Anna G. [D-CA-18] (E000215)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Kirkpatrick, Ann [D-AZ-2] (K000368)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Swalwell, Eric [D-CA-15] (S001193)
+- Rep. Krishnamoorthi, Raja [D-IL-8] (K000391)
+- Rep. Neal, Richard E. [D-MA-1] (N000015)
+- Rep. Aguilar, Pete [D-CA-31] (A000371)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Pocan, Mark [D-WI-2] (P000607)
+- Rep. Cicilline, David N. [D-RI-1] (C001084)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
+
+## Committees (1)
+
+- House — Judiciary Committee
+
+## Actions
+
+- 2020-06-04 — Introduced in House
+- 2020-06-04 — Introduced in House
+- 2020-06-04 — Referred to the House Committee on the Judiciary.
