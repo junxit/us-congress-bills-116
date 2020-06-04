@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1218
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1218
@@ -29,3 +29,11 @@ American Fisheries Advisory Committee Act
 - 2019-02-13 — Introduced in House
 - 2019-02-13 — Introduced in House
 - 2019-02-13 — Referred to the House Committee on Natural Resources.
+- 2019-03-06 — Referred to the Subcommittee on Water, Oceans, and Wildlife.
+- 2019-05-08 — Subcommittee Hearings Held.
+- 2019-09-18 — Committee Consideration and Mark-up Session Held.
+- 2019-09-18 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2019-09-18 — Subcommittee on Water, Oceans, and Wildlife Discharged.
+- 2020-06-04 — Placed on the Union Calendar, Calendar No. 342.
+- 2020-06-04 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-428.
+- 2020-06-04 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-428.

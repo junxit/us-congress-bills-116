@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1218
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,5 +31,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 713c-3` | add-at-end | Section 2 of the Act of August 11, 1939 (15 U.S.C. 713c–3), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 713c-3` | redesignate | by redesignating subsection (e) as subsection (f); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1852` | insert | by inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 713c-3` | amend | Section 2(c)(3) of the Act of August 11, 1939 (15 U.S.C. 713c–3(c)(3)), is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 713c-3` | insert | Section 2(c)(1) of the Act of August 11, 1939 (15 U.S.C. 713c–3(c)(1)) is amended by inserting “fisheries science, recreational fishing,” before “harvesting,”. | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 713c-3` | add-at-end | Section 2(c) of the Act of August 11, 1939 (15 U.S.C. 713c–3(c)), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
