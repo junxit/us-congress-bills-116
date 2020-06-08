@@ -1,0 +1,26 @@
+---
+legis-num: S. 3916
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3916
+
+> To amend the Internal Revenue Code of 1986 to increase the exclusion for educational assistance programs.
+
+## § 1. Short title
+
+This Act may be cited as the “American Workforce Development Act”.
+
+## § 2. Increase in exclusion for educational assistance programs
+
+- **(a)** *In general* Paragraph (2) of section 127(a) of the Internal Revenue Code of 1986 is amended by striking “$5,250” each place it appears in the text and the heading and inserting “$11,500”.
+- **(b)** *Inflation adjustment* Section 127(c) of such Code is amended by adding at the end the following new paragraph:
+  > - **(8)** *Inflation adjustment*
+  >   - **(A)** *In general* In the case of any calendar year after 2019, each dollar amount in subsection (a)(2) shall be increased by an amount equal to—
+  >     - **(i)** such dollar amount, multiplied by
+  >     - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which such taxable year begins by substituting “calendar year 2017” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+  >   - **(B)** *Rounding* If any increase determined under subparagraph (A) is not a multiple of $50, such increase shall be rounded to the next lowest multiple of $50.
+
+- **(c)** *Effective date* The amendments made by this section shall apply to taxable years beginning after December 31, 2019.
