@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2618
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -37,7 +37,7 @@ This Act may be cited as the “Bonuses for Cost-Cutters Act of 2019”.
       - **(iii)** in the matter following paragraph (2), by inserting “or identification” after “disclosure”; and
     - **(B)** by adding at the end the following:
       > - **(c)**
-      >   - **(1)** The Inspector General of an agency or other agency employee designated under subsection (b) shall refer to the Chief Financial Officer of the agency any potential surplus salaries and expenses funds identified by an employee that the Inspector General or other agency employee determines meets the requirements under subparagraphs (B) and (D) of section 4511(a)(2), along with any recommendations of the Inspector General or other agency employee.
+      >   - **(1)** The Inspector General of an agency or other agency employee designated under subsection (b) shall refer to the Chief Financial Officer of the agency any potential surplus salaries and expenses funds identified by an employee that the Inspector General or other agency employee determines meetsmeet the requirements under subparagraphs (B) and (D) of section 4511(a)(2), along with any recommendations of the Inspector General or other agency employee.
       >   - **(2)**
       >     - **(A)** If the Chief Financial Officer of the agency determines that potential surplus salaries and expenses funds referred under paragraph (1) meet the requirements under section 4511(a)(2), except as provided in subsection (d), the head of the agency shall transfer the amount of the surplus salaries and expenses funds from the applicable appropriations account to the general fund of the Treasury.
       >     - **(B)** Any amounts transferred under subparagraph (A) shall be deposited in the Treasury and used for deficit reduction, except that in the case of a fiscal year for which there is no Federal budget deficit, such amounts shall be used to reduce the Federal debt (in such manner as the Secretary of the Treasury considers appropriate).
@@ -51,7 +51,7 @@ This Act may be cited as the “Bonuses for Cost-Cutters Act of 2019”.
       >   - **(1)** Not later than October 1 of each fiscal year, the head of each agency shall submit to the Secretary of the Treasury a report identifying the total savings achieved during the previous fiscal year through disclosures of possible fraud, waste, or mismanagement and identifications of surplus salaries and expenses funds by an employee.
       >   - **(2)** Not later than September 30 of each fiscal year, the head of each agency shall submit to the Secretary of the Treasury a report that, for the previous fiscal year—
       >     - **(A)** describes each disclosure of possible fraud, waste, or mismanagement or identification of potentially surplus salaries and expenses funds by an employee of the agency determined by the agency to have merit; and
-      >     - **(B)** provides the number and amount of cash awards by the agency under subsection (a).
+      >     - **(B)** provides the number and amount of cash awards paid by the agency under subsection (a).
       >   - **(3)** The head of each agency shall include the information described in paragraphs (1) and (2) in each budget request of the agency submitted to the Office of Management and Budget as part of the preparation of the budget of the President submitted to Congress under section 1105(a) of title 31.
       >   - **(4)** The Secretary of the Treasury shall submit to the Committee on Appropriations of the Senate, the Committee on Appropriations of the House of Representatives, and the Government Accountability Office an annual report on Federal cost saving and awards based on the reports submitted under paragraphs (1) and (2).
       > - **(f)** The Director of the Office of Personnel Management shall—
@@ -78,7 +78,7 @@ This Act may be cited as the “Bonuses for Cost-Cutters Act of 2019”.
   - **(1)** *In general* Section 4509 of title 5, United States Code, is amended to read as follows:
     > ## § 4509. Prohibition of cash award to certain officers
     >
-    > - **(a)** *Definitions* In this section, the term agency—
+    > - **(a)** *DefinitionsDefinition* In this section, the term agency—
     >   - **(1)** has the meaning given that term under section 551(1); and
     >   - **(2)** includes an entity described in section 4501(1).
     > - **(b)** *Prohibition* An officer may not receive a cash award under this subchapter if the officer—
@@ -86,4 +86,4 @@ This Act may be cited as the “Bonuses for Cost-Cutters Act of 2019”.
     >   - **(2)** is the head of an agency; or
     >   - **(3)** is a commissioner, board member, or other voting member of an independent establishment.
 
-  - **(2)** *Technical and conforming amendment* The table of sections for chapter 45 of title 5, United States Code, is amended by striking the item relating to section 4509 and inserting the following:
+  - **(2)** *Technical and conforming amendment* The table of sections for supchapter I of chapter 45 of title 5, United States Code, is amended by striking the item relating to section 4509 and inserting the following:
