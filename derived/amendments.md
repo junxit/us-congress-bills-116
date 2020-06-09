@@ -1,7 +1,7 @@
 ---
 measure: S. 2618
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -50,4 +50,4 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking subsections (c) through (g); and | the bill names no machine-readable US Code section |
 | — | replace | the table of sections for subchapter II of chapter 45 of title 5, United States Code, is amended by striking the item relating to section 4511 and inserting the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 4509 of title 5, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | The table of sections for chapter 45 of title 5, United States Code, is amended by striking the item relating to section 4509 and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | The table of sections for supchapter I of chapter 45 of title 5, United States Code, is amended by striking the item relating to section 4509 and inserting the following: | the bill names no machine-readable US Code section |
