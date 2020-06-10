@@ -1,0 +1,18 @@
+---
+legis-num: S. 3935
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3935
+
+> To amend title 10, United States Code, to prohibit the burial in Arlington National Cemetery, Virginia, of any President or Vice President who is not a member or veteran of the Armed Forces.
+
+## § 1. Prohibition on burial in Arlington National Cemetery, Virginia, of any President or Vice President who is not a member or veteran of the Armed Forces
+
+Section 7722(a) of title 10, United States Code, is amended by adding at the end the following new paragraph:
+
+> - **(3)**
+>   - **(A)** In carrying out paragraphs (1) and (2), the Secretary of Defense shall not approve a determination of eligibility for interment or inurnment in Arlington National Cemetery made by the Secretary of the Army that permits the interment or inurnment in Arlington National Cemetery of an individual who is not a member of the armed forces or a veteran (as that term is defined in section 101(2) of title 38), but served as President of the United States or Vice President of the United States.
+>   - **(B)** For purposes of subparagraph (A), a President shall not be considered a member of the armed forces or a veteran by virtue of service under the Constitution as the Commander-in-Chief, and a Vice President shall not be considered a member of the armed forces or a veteran by virtue of service under the Constitution as Vice President.
