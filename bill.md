@@ -1,0 +1,25 @@
+---
+legis-num: S. 3937
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3937
+
+> To amend section 330C of the Public Health Service Act to reauthorize special programs for Indians for providing services for the prevention and treatment of diabetes, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Special Diabetes Programs for Indians Reauthorization Act of 2020”.
+
+## § 2. Reauthorization of special diabetes programs for Indians for diabetes services
+
+- **(a)** *Funding* Section 330C(c)(2)(D) of the Public Health Service Act (42 U.S.C. 254c–3(c)(2)(D)) is amended by striking “$25,068,493 for the period beginning on October 1, 2020, and ending on November 30, 2020” and inserting “$200,000,000 for each of fiscal years 2021 through 2025”.
+- **(b)** *Delivery of funds* Section 330C(b) of the Public Health Service Act (42 U.S.C. 254c–3(b)) is amended—
+  - **(1)** by redesignating paragraphs (1) through (3) as subparagraphs (A) through (C), respectively, and indenting appropriately;
+  - **(2)** in the matter preceding subparagraph (A) (as so redesignated), by striking “For purposes of” and inserting the following:
+    > - **(1)** *Eligible entities* For purposes of
+
+  - **(3)** by adding at the end the following:
+    > - **(2)** *Delivery of funds* On request from an Indian tribe or tribal organization, the Secretary shall award a grant under this section pursuant to a contract, cooperative agreement, or compact under, as applicable, title I or V of the Indian Self-Determination and Education Assistance Act.
