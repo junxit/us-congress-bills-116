@@ -1,7 +1,7 @@
 ---
 measure: S. 2638
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2638
@@ -16,9 +16,12 @@ Friendly Airports for Mothers Improvement Act
 
 - Sen. Duckworth, Tammy [D-IL] (D000622)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Peters, Gary C. [D-MI] (P000595)
 
 ## Committees (1)
 
@@ -28,3 +31,7 @@ Friendly Airports for Mothers Improvement Act
 
 - 2019-10-17 — Introduced in Senate
 - 2019-10-17 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2019-12-11 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2020-06-10 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-232.
+- 2020-06-10 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-232.
+- 2020-06-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 479.
