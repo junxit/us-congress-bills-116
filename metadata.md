@@ -1,7 +1,7 @@
 ---
 measure: S. 3637
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3637
@@ -47,3 +47,17 @@ A bill to amend the Servicemembers Civil Relief Act to extend lease protections 
 - 2020-06-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
 - 2020-06-10 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
 - 2020-06-10 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S2898-2899)
+- 2020-06-15 — Held at the desk.
+- 2020-06-15 — Message on Senate action sent to the House.
+- 2020-06-15 — Received in the House.
+- 2020-07-20 — Considered by unanimous consent. (consideration: CR H3113)
+- 2020-07-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-07-20 — Mr. Takano asked unanimous consent to take from the Speaker's table and consider.
+- 2020-07-20 — On passage Passed without objection. (text: CR H3113)
+- 2020-07-20 — Passed/agreed to in House: On passage Passed without objection.
+- 2020-08-04 — Presented to President.
+- 2020-08-04 — Presented to President.
+- 2020-08-14 — Became Public Law No: 116-158.
+- 2020-08-14 — Became Public Law No: 116-158.
+- 2020-08-14 — Signed by President.
+- 2020-08-14 — Signed by President.
