@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 454
 congress: 116
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 454
@@ -37,3 +37,5 @@ A resolution calling for the immediate release of Cuban democracy activist Jose 
 - 2020-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2020-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2020-06-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 467.
+- 2020-06-11 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(consideration: CR S2921-2922; text of amendment in the nature of a substitute: CR S2922)
+- 2020-06-11 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (consideration: CR S2921-2922; text of amendment in the nature of a substitute: CR S2922)
