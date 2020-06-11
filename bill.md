@@ -1,0 +1,48 @@
+---
+legis-num: S. 3943
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3943
+
+> To amend the Domestic Volunteer Service Act of 1973 to establish an online service platform for volunteers in the National Senior Service Corps.
+
+## § 1. Short title
+
+This Act may be cited as the “Senior Corps Distance Volunteering Act”.
+
+## § 2. Online service platform
+
+Title IV of the Domestic Volunteer Service Act of 1973 is amended—
+
+- **(1)** by redesignating section 421 (42 U.S.C. 5061) as section 401;
+- **(2)** by moving that section 401 so as to follow the title heading for title IV; and
+- **(3)** by inserting after section 420 (42 U.S.C. 5059) the following:
+  > ## § 421. Online service platform
+  >
+  > - **(a)** *Definition* In this section, the term COVID–19 public health emergency period means the period of the public health emergency declared by the Secretary of Health and Human Services under section 319 of the Public Health Service Act (42 U.S.C. 247d) on January 31, 2020, with respect to COVID–19.
+  > - **(b)** *Establishment* Not later than 30 days after the date of enactment of the Senior Corps Distance Volunteering Act, the Chief Executive Officer of the Corporation shall establish an online service platform to connect volunteers in the National Senior Service Corps with service projects, and enable the volunteers to carry out distance volunteering on an online network. The platform shall be linked to and placed prominently on the website of the Corporation. The Corporation may enter into a contract with a public entity to create the platform.
+  > - **(c)** *Information and guidance*
+  >   - **(1)** *Information* The Corporation shall provide information to regional offices of the Corporation about how to get volunteers in the National Senior Service Corps connected to the platform.
+  >   - **(2)** *Guidance* The Corporation shall issue guidance for the regional offices about how to transfer the programs of the National Senior Service Corps to the platform.
+  > - **(d)** *Outreach* The Corporation shall provide outreach services to promote the platform, including outreach to institutions of higher education, the Department of Veterans Affairs for mentorship projects, and State and local governments for community engagement projects.
+  > - **(e)** *Report on impact of online service platform*
+  >   - **(1)** *Definition* In this subsection, the term appropriate committees of Congress means—
+  >     - **(A)** the Committee on Energy and Commerce of the House of Representatives;
+  >     - **(B)** the Special Committee on Aging of the Senate;
+  >     - **(C)** the Committee on Health, Education, Labor, and Pensions of the Senate; and
+  >     - **(D)** the Committee on Commerce, Science, and Transportation of the Senate.
+  >   - **(2)** *Report*
+  >     - **(A)** *Preparation* The Corporation shall prepare a report that—
+  >       - **(i)** describes the use of funds appropriated to carry out this section, concerning the online service platform described in subsection (b);
+  >       - **(ii)** describes the ways in which the platform has enabled volunteers in the National Senior Service Corps, many of whom are at higher risk for severe illness from COVID–19, to apply their skills, knowledge, and expertise to directly serve the community through distance volunteering by providing assistance during the COVID–19 public health emergency period;
+  >       - **(iii)** measures the number of volunteers in the National Senior Service Corps volunteers who do, and the number of such volunteers who do not, serve through the online service platform, during the COVID–19 public health emergency period; and
+  >       - **(iv)** assesses the impact of volunteers in the National Senior Service Corps who do, and the number of such volunteers who do not, serve through the online service platform, during the COVID–19 public health emergency period.
+  >     - **(B)** *Submission* Not later than 1 year after the end of the COVID–19 public health emergency period, the Corporation shall submit the report to the appropriate committees of Congress.
+  > - **(f)** *Recommendation* Not later than 6 months after the end of the COVID–19 public health emergency period, the Chief Executive Officer of the Corporation shall submit a recommendation to Congress regarding whether the Corporation should continue to use the platform as a main resource for connecting volunteers in the National Senior Service Corps with service projects and enabling the volunteers to carry out distance volunteering.
+
+## § 3. Emergency appropriation
+
+The following sums are hereby appropriated, out of any money in the Treasury not otherwise appropriated, for the fiscal year ending September 30, 2020, and for other purposes, namely:
