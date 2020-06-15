@@ -1,7 +1,7 @@
 ---
 measure: S. 712
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 712
@@ -35,3 +35,5 @@ Robert Levinson Hostage Recovery and Hostage-Taking Accountability Act
 - 2020-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2020-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2020-06-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 462.
+- 2020-06-15 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S2977-2979; text of amendment in the nature of a substitute: CR S2977-2979)
+- 2020-06-15 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(consideration: CR S2977-2979; text of amendment in the nature of a substitute: CR S2977-2979)
