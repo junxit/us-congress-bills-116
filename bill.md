@@ -1,0 +1,39 @@
+---
+legis-num: S. 3966
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3966
+
+> To provide a tax credit to businesses that provide testing for COVID–19 to their employees.
+
+## § 1. Short title
+
+This Act may be cited as the “Work Safe Act”.
+
+## § 2. Establishment of tax credit for employee testing for COVID–19
+
+- **(a)** *In general* For purposes of section 38 of the Internal Revenue Code of 1986, the COVID–19 employee testing credit shall be treated as a credit listed at the end of subsection (b) of such section. For purposes of this subsection, the COVID–19 employee testing credit is an amount equal to the product of—
+  - **(1)** the number of qualified COVID–19 tests administered to any employee of the taxpayer after the date of enactment of this Act and before January 1, 2021; and
+  - **(2)** the applicable amount.
+- **(b)** *Limitation* For purposes of paragraph (1) of subsection (a), the credit allowed under such subsection shall not include any tests which are in excess of one qualified COVID–19 test for each employee for every 2 calendar weeks during calendar year 2020.
+- **(c)** *Applicable amount* For purposes of paragraph (2) of subsection (a), the applicable amount shall be—
+  - **(1)** for any qualified COVID–19 test administered to an employee during the month which includes the date of enactment of this Act, $300;
+  - **(2)** for any such test administered to an employee during the month subsequent to the month described in paragraph (1), $250;
+  - **(3)** for any such test administered to an employee during the month subsequent to the month described in paragraph (2), $200; and
+  - **(4)** for any such test administered to an employee during any month subsequent to the month described in paragraph (3), $150.
+- **(d)** *Qualified COVID–19 test*
+  - **(1)** *In general* For purposes of this section, the term qualified COVID–19 test means—
+    - **(A)** any diagnostic test for the detection of the virus SARS–CoV–2 or coronavirus disease 2019 (COVID–19); or
+    - **(B)** any serology test for the detection of antibodies to such virus,
+  - **(2)** *Additional requirements* The requirements described in this paragraph are that any test described in paragraph (1)—
+    - **(A)** is not provided to an employee after the date on which such employee has tested positive for the virus described in subparagraph (A) of such paragraph or the antibodies described in subparagraph (B) of such paragraph; and
+    - **(B)** is provided to an employee who works within a State for which the Centers for Disease Control and Prevention has determined (pursuant to paragraph (3)) that the weekly positive case rate in such State is higher than the weekly positive case rate for the United States for the calendar week preceding the week which includes the date on which such test was administered to the employee.
+  - **(3)** *Information provided by CDC*
+    - **(A)** *In general* The Director of the Centers for Disease Control and Prevention shall disclose to the public, in such manner as is determined appropriate by the Director for carrying out the purposes of this section, the weekly positive case rate for each State and for the United States for the most recently completed calendar week, as determined based on the most recent data which is available.
+    - **(B)** *Weekly positive case rate* For purposes of this subsection, the term weekly positive case rate means an amount equal to the quotient of—
+      - **(i)** the number of tests described in paragraph (1)(A) which were administered during any calendar week to individuals who tested positive for the virus described in such paragraph; and
+      - **(ii)** the total number of tests described in such paragraph which were administered during such week.
+- **(e)** *Allowance of deduction* Nothing in this section or the Internal Revenue Code of 1986 shall prohibit any deduction which is otherwise allowable with respect to any expense incurred by the taxpayer for the acquisition or purchase of any COVID–19 test which is taken into account under subsection (a).
