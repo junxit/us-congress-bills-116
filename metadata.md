@@ -1,7 +1,7 @@
 ---
 measure: S. 3731
 congress: 116
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3731
@@ -16,7 +16,7 @@ Improving Social Security's Service to Victims of Identity Theft Act
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 
-## Cosponsors (17)
+## Cosponsors (18)
 
 - Sen. Sinema, Kyrsten [D-AZ] (S001191)
 - Sen. Portman, Rob [R-OH] (P000449)
@@ -35,6 +35,7 @@ Improving Social Security's Service to Victims of Identity Theft Act
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Peters, Gary C. [D-MI] (P000595)
 - Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Barrasso, John [R-WY] (B001261)
 
 ## Committees (1)
 
@@ -44,3 +45,7 @@ Improving Social Security's Service to Victims of Identity Theft Act
 
 - 2020-05-14 — Introduced in Senate
 - 2020-05-14 — Read twice and referred to the Committee on Finance.
+- 2020-06-16 — Passed Senate without amendment by Unanimous Consent. (text: 06/29/20 CR S3977)
+- 2020-06-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-06-16 — Senate Committee on Finance discharged by Unanimous Consent. (consideration: CR S3024)
+- 2020-06-16 — Senate Committee on Finance discharged by Unanimous Consent.(consideration: CR S3024)
