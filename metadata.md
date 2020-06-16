@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 511
 congress: 116
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 511
@@ -16,7 +16,7 @@ A resolution supporting the role of the United States in helping save the lives 
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 
-## Cosponsors (7)
+## Cosponsors (8)
 
 - Sen. Kaine, Tim [D-VA] (K000384)
 - Sen. Collins, Susan M. [R-ME] (C001035)
@@ -25,6 +25,7 @@ A resolution supporting the role of the United States in helping save the lives 
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Merkley, Jeff [D-OR] (M001176)
 
 ## Committees (1)
 
@@ -38,3 +39,5 @@ A resolution supporting the role of the United States in helping save the lives 
 - 2020-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2020-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2020-06-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 469.
+- 2020-06-16 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Voice Vote.(consideration: CR S3016-3017; text: CR S3017)
+- 2020-06-16 — Resolution agreed to in Senate with an amendment and an amended preamble by Voice Vote. (consideration: CR S3016-3017; text: CR S3017)
