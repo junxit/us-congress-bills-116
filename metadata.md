@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 392
 congress: 116
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 392
@@ -36,3 +36,5 @@ A resolution recognizing the importance of the Young Southeast Asian Leaders Ini
 - 2020-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2020-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2020-06-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 465.
+- 2020-06-16 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(consideration: CR S3014-3015; text: CR S3015)
+- 2020-06-16 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (consideration: CR S3014-3015; text: CR S3015)
