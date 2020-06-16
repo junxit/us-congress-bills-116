@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 502
 congress: 116
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 502
@@ -16,7 +16,7 @@ A resolution recognizing the 75th anniversary of the amphibious landing on the J
 
 - Sen. Young, Todd [R-IN] (Y000064)
 
-## Cosponsors (38)
+## Cosponsors (39)
 
 - Sen. Warner, Mark R. [D-VA] (W000805)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
@@ -56,6 +56,7 @@ A resolution recognizing the 75th anniversary of the amphibious landing on the J
 - Sen. Cortez Masto, Catherine [D-NV] (C001113)
 - Sen. Reed, Jack [D-RI] (R000122)
 - Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Roberts, Pat [R-KS] (R000307)
 
 ## Committees (1)
 
@@ -69,3 +70,5 @@ A resolution recognizing the 75th anniversary of the amphibious landing on the J
 - 2020-06-03 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with a preamble. Without written report.
 - 2020-06-03 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with a preamble. Without written report.
 - 2020-06-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 468.
+- 2020-06-16 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S3016; text: 02/13/2020 CR S1079-1080)
+- 2020-06-16 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S3016; text: 02/13/2020 CR S1079-1080)
