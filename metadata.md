@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1957
 congress: 116
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1957
@@ -16,7 +16,7 @@ Great American Outdoors Act
 
 - Rep. Lewis, John [D-GA-5] (L000287)
 
-## Cosponsors (28)
+## Cosponsors (210)
 
 - Rep. Kelly, Mike [R-PA-16] (K000376)
 - Rep. Neal, Richard E. [D-MA-1] (N000015)
@@ -46,6 +46,188 @@ Great American Outdoors Act
 - Rep. Evans, Dwight [D-PA-3] (E000296)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 - Rep. Cisneros, Gilbert Ray, Jr. [D-CA-39] (C001123)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. McSally, Martha [R-AZ] (M001197)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
 ## Committees (2)
 
@@ -72,3 +254,161 @@ Great American Outdoors Act
 - 2019-04-10 — Received in the Senate.
 - 2019-04-11 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2019-04-29 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 75.
+- 2020-06-04 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S2743)
+- 2020-06-04 — Motion to proceed to consideration of measure made in Senate.
+- 2020-06-08 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 80 - 17. Record Vote Number: 114. (CR S2759)
+- 2020-06-08 — Motion to proceed to measure considered in Senate. (CR S2748)
+- 2020-06-08 — Senate amendment submitted
+- 2020-06-08 — Senate amendment submitted
+- 2020-06-08 — Senate amendment submitted
+- 2020-06-08 — Senate amendment submitted
+- 2020-06-08 — Senate amendment submitted
+- 2020-06-09 — Motion to proceed to measure considered in Senate. (CR S2774)
+- 2020-06-09 — Senate amendment submitted
+- 2020-06-09 — Senate amendment submitted
+- 2020-06-09 — Senate amendment submitted
+- 2020-06-09 — Senate amendment submitted
+- 2020-06-09 — Senate amendment submitted
+- 2020-06-09 — Senate amendment submitted
+- 2020-06-09 — Senate amendment submitted
+- 2020-06-09 — Senate amendment submitted
+- 2020-06-09 — Senate amendment submitted
+- 2020-06-09 — Senate amendment submitted
+- 2020-06-09 — Senate amendment submitted
+- 2020-06-09 — Senate amendment submitted
+- 2020-06-09 — Senate amendment submitted
+- 2020-06-09 — Senate amendment submitted
+- 2020-06-09 — Senate amendment submitted
+- 2020-06-09 — Senate amendment submitted
+- 2020-06-09 — Senate amendment submitted
+- 2020-06-09 — Senate amendment submitted
+- 2020-06-09 — Senate amendment submitted
+- 2020-06-09 — Senate amendment submitted
+- 2020-06-09 — Senate amendment submitted
+- 2020-06-09 — Senate amendment submitted
+- 2020-06-09 — Senate amendment submitted
+- 2020-06-09 — Senate amendment submitted
+- 2020-06-10 — Amendment SA 1617 proposed by Senator McConnell for Senator Gardner. (consideration: CR S2852) In the nature of a substitute.
+- 2020-06-10 — Amendment SA 1626 proposed by Senator McConnell to Amendment SA 1617. (consideration: CR S2852; text: CR S2852) To improve the bill.
+- 2020-06-10 — Amendment SA 1627 proposed by Senator McConnell to Amendment SA 1626. (consideration: CR S2852; text: CR S2852) To improve the bill.
+- 2020-06-10 — Amendment SA 1628 proposed by Senator McConnell to language proposed to be stricken by amendment no. 1617. (consideration: CR S2852-2853; text: CR S2852) To improve the bill.
+- 2020-06-10 — Amendment SA 1629 proposed by Senator McConnell to Amendment SA 1628. (consideration: CR S2853; text: CR S2853) To improve the bill.
+- 2020-06-10 — Amendment SA 1630 proposed by Senator McConnell. (consideration: CR S2853; text: CR S2853) To improve the bill.
+- 2020-06-10 — Amendment SA 1631 proposed by Senator McConnell to Amendment SA 1630 (the instructions of the motion to commit). (consideration: CR S2853; text: CR S2853) To improve the bill.
+- 2020-06-10 — Amendment SA 1632 proposed by Senator McConnell to Amendment SA 1631. (consideration: CR S2853; text: CR S2853) To improve the bill.
+- 2020-06-10 — Cloture motion on amendment SA 1617 presented in Senate. (CR S2852)
+- 2020-06-10 — Cloture motion on the measure presented in Senate. (CR S2853)
+- 2020-06-10 — Measure laid before Senate by motion. (consideration: CR S2852-2853)
+- 2020-06-10 — Motion by Senator McConnell to commit to Senate Committee on Energy and Natural Resources with instructions to report back forthwith with the following amendment (SA 1630) made in Senate. (CR S2853)
+- 2020-06-10 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 79 - 18. Record Vote Number: 116.
+- 2020-06-10 — Motion to proceed to measure considered in Senate. (CR S2841)
+- 2020-06-10 — Senate amendment proposed (on the floor): Amendment SA 1617 proposed by Senator McConnell for Senator Gardner.
+- 2020-06-10 — Senate amendment proposed (on the floor): Amendment SA 1626 proposed by Senator McConnell to Amendment SA 1617.
+- 2020-06-10 — Senate amendment proposed (on the floor): Amendment SA 1627 proposed by Senator McConnell to Amendment SA 1626.
+- 2020-06-10 — Senate amendment proposed (on the floor): Amendment SA 1628 proposed by Senator McConnell to language proposed to be stricken by amendment no. 1617.
+- 2020-06-10 — Senate amendment proposed (on the floor): Amendment SA 1629 proposed by Senator McConnell to Amendment SA 1628.
+- 2020-06-10 — Senate amendment proposed (on the floor): Amendment SA 1630 proposed by Senator McConnell.
+- 2020-06-10 — Senate amendment proposed (on the floor): Amendment SA 1631 proposed by Senator McConnell to Amendment SA 1630 (the instructions of the motion to commit).
+- 2020-06-10 — Senate amendment proposed (on the floor): Amendment SA 1632 proposed by Senator McConnell to Amendment SA 1631.
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-10 — Senate amendment submitted
+- 2020-06-11 — Considered by Senate. (consideration: CR S2903)
+- 2020-06-11 — Considered by Senate. (consideration: CR S2903)
+- 2020-06-11 — Considered by Senate. (consideration: CR S2903)
+- 2020-06-11 — Considered by Senate. (consideration: CR S2903)
+- 2020-06-11 — Considered by Senate. (consideration: CR S2903)
+- 2020-06-11 — Considered by Senate. (consideration: CR S2903)
+- 2020-06-11 — Considered by Senate. (consideration: CR S2903)
+- 2020-06-11 — Considered by Senate. (consideration: CR S2903)
+- 2020-06-11 — Considered by Senate. (consideration: CR S2903, S2911-2920, S2922-2928)
+- 2020-06-11 — Senate amendment submitted
+- 2020-06-11 — Senate amendment submitted
+- 2020-06-11 — Senate amendment submitted
+- 2020-06-11 — Senate amendment submitted
+- 2020-06-11 — Senate amendment submitted
+- 2020-06-11 — Senate amendment submitted
+- 2020-06-11 — Senate amendment submitted
+- 2020-06-11 — Senate amendment submitted
+- 2020-06-11 — Senate amendment submitted
+- 2020-06-11 — Senate amendment submitted
+- 2020-06-11 — Senate amendment submitted
+- 2020-06-11 — Senate amendment submitted
+- 2020-06-11 — Senate amendment submitted
+- 2020-06-11 — Senate amendment submitted
+- 2020-06-11 — Senate amendment submitted
+- 2020-06-11 — Senate amendment submitted
+- 2020-06-12 — Cloture on amendment SA 1617 invoked in Senate by Yea-Nay Vote. 65 - 19. Record Vote Number: 117. (CR S2956)
+- 2020-06-12 — Considered by Senate. (consideration: CR S2949)
+- 2020-06-12 — Considered by Senate. (consideration: CR S2949)
+- 2020-06-12 — Considered by Senate. (consideration: CR S2949)
+- 2020-06-12 — Considered by Senate. (consideration: CR S2949)
+- 2020-06-12 — Considered by Senate. (consideration: CR S2949)
+- 2020-06-12 — Considered by Senate. (consideration: CR S2949)
+- 2020-06-12 — Considered by Senate. (consideration: CR S2949)
+- 2020-06-12 — Considered by Senate. (consideration: CR S2949)
+- 2020-06-12 — Considered by Senate. (consideration: CR S2949-2956)
+- 2020-06-12 — Motion by Senator McConnell to commit to Senate Committee on Energy and Natural Resources with instructions to report back forthwith with the following amendment (SA 1630) fell when cloture was invoked on SA 1617.
+- 2020-06-12 — Roll call votes on amendments in Senate: Cloture on amendment SA 1617 invoked in Senate by Yea-Nay Vote. 65 - 19. Record Vote Number: 117.
+- 2020-06-12 — SA 1630 fell when cloture invoked on SA 1617.
+- 2020-06-12 — SA 1631 fell when SA 1630 fell.
+- 2020-06-12 — SA 1632 fell when SA 1631 fell.
+- 2020-06-15 — Amendment SA 1617 agreed to in Senate by Yea-Nay Vote. 73 - 24. Record Vote Number: 119.
+- 2020-06-15 — Cloture on the measure invoked in Senate by Yea-Nay Vote. 75 - 23. Record Vote Number: 120. (CR S2972)
+- 2020-06-15 — Considered by Senate. (consideration: CR S2960)
+- 2020-06-15 — Considered by Senate. (consideration: CR S2960)
+- 2020-06-15 — Considered by Senate. (consideration: CR S2960, S2963-2972)
+- 2020-06-15 — Considered by Senate. (consideration: CR S2960, S2970-2972)
+- 2020-06-15 — Considered by Senate. (consideration: CR S2960, S2972)
+- 2020-06-15 — Considered by Senate. (consideration: CR S2960, S2972)
+- 2020-06-15 — Motion to table amendment SA 1626 agreed to in Senate by Voice Vote.
+- 2020-06-15 — Motion to table amendment SA 1628 agreed to in Senate by Voice Vote.
+- 2020-06-15 — Motion to waive all applicable budgetary discipline with respect to amendment SA 1617 agreed to in Senate by Yea-Nay Vote. 68 - 30. Record Vote Number: 118. (CR S2971)
+- 2020-06-15 — Point of order that the amendment violates section 4106(a) of H. Con. Res. 71, 115th Congress, raised in Senate with respect to amendment SA 1617.
+- 2020-06-15 — Roll call votes on amendments in Senate: Amendment SA 1617 agreed to in Senate by Yea-Nay Vote. 73 - 24. Record Vote Number: 119.
+- 2020-06-15 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 1617 agreed to in Senate by Yea-Nay Vote. 68 - 30. Record Vote Number: 118.
+- 2020-06-15 — SA 1627 fell when SA 1626 was tabled.
+- 2020-06-15 — SA 1629 fell when SA 1628 was tabled.
+- 2020-06-15 — Senate amendment agreed to: Amendment SA 1617 agreed to in Senate by Yea-Nay Vote. 73 - 24. Record Vote Number: 119.
+- 2020-06-16 — Considered by Senate. (consideration: CR S2982, S2994-2996, S3006-3010)
+- 2020-06-17 — Amendment SA 1618 agreed to in Senate by Unanimous Consent.
+- 2020-06-17 — Amendment SA 1618 proposed by Senator McConnell for Senator Gardner. (consideration: CR S3038; text: CR S3038) To amend the title.
+- 2020-06-17 — Considered by Senate. (consideration: CR S3027, S3031-3038)
+- 2020-06-17 — Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 73 - 25. Record Vote Number: 121.
+- 2020-06-17 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 73 - 25. Record Vote Number: 121.
+- 2020-06-17 — Senate amendment agreed to: Amendment SA 1618 agreed to in Senate by Unanimous Consent.
+- 2020-06-17 — Senate amendment proposed (on the floor): Amendment SA 1618 proposed by Senator McConnell for Senator Gardner.
