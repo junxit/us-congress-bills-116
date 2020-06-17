@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 1957
-congress: 116th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Sixteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 1957
 
-That the bill from the House of Representatives (H.R. 1957) entitled “An Act to amend the Internal Revenue Code of 1986 to modernize and improve the Internal Revenue Service, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend title 54, United States Code, to establish, fund, and provide for the use of amounts in a National Parks and Public Land Legacy Restoration Fund to address the maintenance backlog of the National Park Service, the United States Fish and Wildlife Service, the Bureau of Land Management, the Forest Service, and the Bureau of Indian Education, and to provide permanent, dedicated funding for the Land and Water Conservation Fund, and for other purposes.
 
 ## § 1. Short title
 

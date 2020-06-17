@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1957
 congress: 116
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1957
@@ -234,7 +234,7 @@ Great American Outdoors Act
 - House — Financial Services Committee
 - House — Ways and Means Committee
 
-## Recorded votes (7)
+## Recorded votes (8)
 
 - 2020-06-08 — [Senate 116-2-114](votes/senate-116-2-0114.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (80–17)
 - 2020-06-10 — [Senate 116-2-116](votes/senate-116-2-0116.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (79–18)
@@ -243,6 +243,7 @@ Great American Outdoors Act
 - 2020-06-15 — [Senate 116-2-119](votes/senate-116-2-0119.md) — On the Amendment — **Amendment Agreed to** (73–24)
 - 2020-06-15 — [Senate 116-2-120](votes/senate-116-2-0120.md) — On the Cloture Motion — **Cloture Motion Agreed to** (75–23)
 - 2020-06-17 — [Senate 116-2-121](votes/senate-116-2-0121.md) — On Passage of the Bill — **Bill Passed** (73–25)
+- 2020-07-22 — [House 116-2-155](votes/house-116-2-0155.md) — On Motion to Concur in the Senate Amendments — **Passed** (310–107)
 
 ## Actions
 
@@ -422,3 +423,20 @@ Great American Outdoors Act
 - 2020-06-17 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 73 - 25. Record Vote Number: 121.
 - 2020-06-17 — Senate amendment agreed to: Amendment SA 1618 agreed to in Senate by Unanimous Consent.
 - 2020-06-17 — Senate amendment proposed (on the floor): Amendment SA 1618 proposed by Senator McConnell for Senator Gardner.
+- 2020-06-18 — Message on Senate action sent to the House.
+- 2020-07-20 — Rule H. Res. 1053 passed House.
+- 2020-07-20 — Rules Committee Resolution H. Res. 1053 Reported to House. Rule provides for consideration of H.R. 6395, H.R. 7027, H.R. 7327 and H.R. 1957. Provides for the consideration of H.R. 6395, H.R. 7027, H.R. 7327, and the Senate Amendments to H.R. 1957. Rule also provides that H.Res. 967, as amended by H.Res. 1017, is further amended by inserting a new date.
+- 2020-07-21 — ORDER OF PROCEDURE - Mr. McGovern asked unanimous consent that, notwithstanding H. Res. 1053, during consideration of the motion to concur in the Senate amendments to H.R. 1957 pursuant to such resolution, debate on such motion to concur shall not exceed 80 minutes, with one hour equally controlled by the chair and ranking minority member of the Committee on Natural Resources and 20 minutes equally divided and controlled by the Majority Leader and the Minority Leader or their respective designees.
+- 2020-07-22 — DEBATE - Pursuant to the provisions of H. Res. 1053 and the order of the House of July 21, 2020, the House proceeded with 80 minutes of debate on the motion to agree to the Senate amendments to H.R. 1957.
+- 2020-07-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-07-22 — On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 310 - 107 (Roll no. 155). (text: CR H3642-3644)
+- 2020-07-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Senate amendments to H.R. 1957, the Chair put the question on agreeing to the amendments and by voice vote, announced that the ayes had prevailed. Mr. Bishop (UT) demanded the yeas and nays and the Chair postponed further proceedings on agreeing to the Senate amendments until a time to be announced.
+- 2020-07-22 — Pursuant to H. Res. 1053, Mr. Grijalva moved to take H.R. 1957 from the Speaker's table, with the Senate amendments thereto and agree to the Senate amendments. (consideration: CR H3642-3657, H3667-3668)
+- 2020-07-22 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 310 - 107 (Roll no. 155).(text: CR H3642-3644)
+- 2020-07-22 — The previous question was ordered pursuant to the rule.
+- 2020-07-24 — Presented to President.
+- 2020-07-24 — Presented to President.
+- 2020-08-04 — Became Public Law No: 116-152.
+- 2020-08-04 — Became Public Law No: 116-152.
+- 2020-08-04 — Signed by President.
+- 2020-08-04 — Signed by President.
