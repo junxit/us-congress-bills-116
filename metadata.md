@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 616
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 616
@@ -30,3 +30,7 @@ A resolution designating June 12, 2020, as "Women Veterans Appreciation Day".
 
 - 2020-06-11 — Introduced in Senate
 - 2020-06-11 — Referred to the Committee on the Judiciary.
+- 2020-06-18 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 6/11/2020 CR S2937)
+- 2020-06-18 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 6/11/2020 CR S2937)
+- 2020-06-18 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S3110)
+- 2020-06-18 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S3110)
