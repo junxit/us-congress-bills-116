@@ -1,0 +1,15 @@
+---
+legis-num: S. 4017
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4017
+
+> To extend the period for obligations or expenditures for amounts obligated for the National Disaster Resilience competition.
+
+## § 1. Extension for use of amounts obligated for National Disaster Resilience competition
+
+- **(a)** *In general* Funds made available in title VIII of the Disaster Relief Appropriations Act, 2013 (division A of Public Law 113–2) under the heading “Community development fund” under the heading “Department of Housing and Urban Development” that were allocated pursuant to the National Disaster Resilience competition and that were available for obligation through fiscal year 2017 and for expenditure through fiscal year 2022 are to remain available through fiscal year 2025 for the liquidation of valid obligations incurred in fiscal years 2014 through 2017.
+- **(b)** *Emergency requirement* The amount described in subsection (a) is designated by Congress as being for an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901(b)(2)(A)(i)).
