@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4091
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -29,26 +29,32 @@ This Act may be cited as the “ARPA–E Reauthorization Act of 2019”.
 - **(c)** *Responsibilities* Section 5012(e)(3)(A) of the America COMPETES Act (42 U.S.C. 16538(e)(3)(A)) is amended by striking “energy”.
 - **(d)** *Reports and roadmaps* Section 5012(h) of the America COMPETES Act (42 U.S.C. 16538(h)) is amended to read as follows:
   > - **(h)** *Reports and roadmaps*
-  >   - **(1)** *Annual report* As part of the annual budget request submitted for each fiscal year, the Director shall provide to the relevant authorizing and appropriations committees of Congress a report describing—
-  >     - **(A)** projects supported by ARPA–E during the previous fiscal year; and
-  >     - **(B)** current, proposed, and planned projects to be carried out pursuant to subsection (e)(3)(D).
+  >   - **(1)** *Annual report* As part of the annual budget request submitted for each fiscal year, the Director shall provide to the relevant authorizing and appropriations committees of Congress a report that—
+  >     - **(A)** describes projects supported by ARPA–E during the previous fiscal year;
+  >     - **(B)** describes projects supported by ARPA–E during the previous fiscal year that examine topics and technologies closely related to other activities funded by the Department, and includes an analysis of whether in supporting such projects, the Director is in compliance with subsection (i)(1)(A); and
+  >     - **(C)** describes current, proposed, and planned projects to be carried out pursuant to subsection (e)(3)(D).
   >   - **(2)** *Strategic vision roadmap* Not later than October 1, 2021, and every four years thereafter, the Director shall provide to the relevant authorizing and appropriations committees of Congress a roadmap describing the strategic vision that ARPA–E will use to guide the choices of ARPA–E for future technology investments over the following 4 fiscal years.
 
-- **(e)** *Evaluation* Section 5012(l) of the America COMPETES Act (42 U.S.C. 16538(l)) is amended—
+- **(e)** *Coordination and nonduplication* Section 5012(i)(1) of the America COMPETES Act (42 U.S.C. 16538(i)(1)) is amended to read as follows:
+  > - **(1)** *In general* To the maximum extent practicable, the Director shall ensure that—
+  >   - **(A)** the activities of ARPA–E are coordinated with, and do not duplicate the efforts of, programs and laboratories within the Department and other relevant research agencies; and
+  >   - **(B)** ARPA–E does not provide funding for a project unless the prospective grantee demonstrates sufficient attempts to secure private financing or indicates that the project is not independently commercially viable.
+
+- **(f)** *Evaluation* Section 5012(l) of the America COMPETES Act (42 U.S.C. 16538(l)) is amended—
   - **(1)** by striking paragraph (1) and inserting the following:
     > - **(1)** *In general* Not later than 3 years after the date of enactment of the ARPA–E Reauthorization Act of 2019, the Secretary is authorized to enter into a contract with the National Academy of Sciences under which the National Academy shall conduct an evaluation of how well ARPA–E is achieving the goals and mission of ARPA–E.
 
   - **(2)** in paragraph (2)—
     - **(A)** in the matter preceding subparagraph (A), by striking “shall” and inserting “may”; and
     - **(B)** in subparagraph (A), by striking “the recommendation of the National Academy of Sciences” and inserting “a recommendation”.
-- **(f)** *Authorization of appropriations* Paragraph (2) of section 5012(o) of the America COMPETES Act (42 U.S.C. 16538(o)) is amended to read as follows:
+- **(g)** *Authorization of appropriations* Paragraph (2) of section 5012(o) of the America COMPETES Act (42 U.S.C. 16538(o)) is amended to read as follows:
   > - **(2)** *Authorization of appropriations* Subject to paragraph (4), there are authorized to be appropriated to the Director for deposit in the Fund, without fiscal year limitation—
   >   - **(A)** $428,000,000 for fiscal year 2020;
-  >   - **(B)** $550,000,000 for fiscal year 2021;
-  >   - **(C)** $675,000,000 for fiscal year 2022;
-  >   - **(D)** $825,000,000 for fiscal year 2023; and
-  >   - **(E)** $1,000,000,000 for fiscal year 2024.
+  >   - **(B)** $497,000,000 for fiscal year 2021;
+  >   - **(C)** $567,000,000 for fiscal year 2022;
+  >   - **(D)** $651,000,000 for fiscal year 2023; and
+  >   - **(E)** $750,000,000 for fiscal year 2024.
 
-- **(g)** *Technical amendments* Section 5012 of the America COMPETES Act (42 U.S.C. 16538) is amended—
+- **(h)** *Technical amendments* Section 5012 of the America COMPETES Act (42 U.S.C. 16538) is amended—
   - **(1)** in subsection (g)(3)(A)(iii), by striking “subpart” each place it appears and inserting “subparagraph”; and
   - **(2)** in subsection (o)(4)(B), by striking “(c)(2)(D)” and inserting “(c)(2)(C)”.
