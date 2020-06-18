@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4091
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 6 executed, 5 stated and not applied.
+12 amendatory instructions. 6 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -90,5 +90,6 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 16538` | replace | by striking paragraph (1)(A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16538` | strike | Section 5012(e)(3)(A) of the America COMPETES Act (42 U.S.C. 16538(e)(3)(A)) is amended by striking “energy”. | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 16538` | amend | Section 5012(h) of the America COMPETES Act (42 U.S.C. 16538(h)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16538` | amend | Section 5012(i)(1) of the America COMPETES Act (42 U.S.C. 16538(i)(1)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16538` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16538` | amend | Paragraph (2) of section 5012(o) of the America COMPETES Act (42 U.S.C. 16538(o)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
