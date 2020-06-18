@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5803
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5803
@@ -34,3 +34,16 @@ Washington, D.C. Admission Act
 - 2020-02-07 — Referred to the Committee on Oversight and Reform, and in addition to the Committees on Rules, Armed Services, the Judiciary, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2020-02-07 — Referred to the Committee on Oversight and Reform, and in addition to the Committees on Rules, Armed Services, the Judiciary, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2020-02-07 — Sponsor introductory remarks on measure. (CR E155)
+- 2020-02-11 — Committee Consideration and Mark-up Session Held.
+- 2020-02-11 — Ordered to be Reported (Amended) by the Yeas and Nays: 21 - 16.
+- 2020-06-18 — Committee on Armed Services discharged.
+- 2020-06-18 — Committee on Armed Services discharged.
+- 2020-06-18 — Committee on Energy and Commerce discharged.
+- 2020-06-18 — Committee on Energy and Commerce discharged.
+- 2020-06-18 — Committee on Rules discharged.
+- 2020-06-18 — Committee on Rules discharged.
+- 2020-06-18 — Committee on the Judiciary discharged.
+- 2020-06-18 — Committee on the Judiciary discharged.
+- 2020-06-18 — Placed on the Union Calendar, Calendar No. 347.
+- 2020-06-18 — Reported (Amended) by the Committee on Oversight and Reform. H. Rept. 116-433, Part I.
+- 2020-06-18 — Reported (Amended) by the Committee on Oversight and Reform. H. Rept. 116-433, Part I.

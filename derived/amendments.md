@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5803
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -80,7 +80,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | In section 771a(c), by striking “District of Columbia” and inserting “Capital”. | the bill names no machine-readable US Code section |
 | — | replace | in subsections (a) and (c)(1), by striking “with respect to the District of Columbia, the mayor of the District of Columbia” both places it appears and inserting “with respect to the Capital, the commanding general of the Capital Nationa… | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c)(2), by striking “District of Columbia” and inserting “Capital”. | the bill names no machine-readable US Code section |
-| — | replace | In subparagraph (2)(B) of section 2732, by striking “District of Columbia” and inserting “Capital”. | the bill names no machine-readable US Code section |
+| — | replace | In paragraph (2)(B) of section 2732, by striking “District of Columbia” and inserting “Capital”. | the bill names no machine-readable US Code section |
 | — | replace | In section 7401(c), by striking “District of Columbia” and inserting “Capital”. | the bill names no machine-readable US Code section |
 | — | replace | In section 9401(c), by striking “District of Columbia” and inserting “Capital”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “District of Columbia,” and inserting “Capital,”; and | the bill names no machine-readable US Code section |
@@ -110,7 +110,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the heading, by striking “District of Columbia” and inserting “Washington, Douglass Commonwealth and the Capital”; | the bill names no machine-readable US Code section |
 | — | amend | by amending the first paragraph to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in the second paragraph, by striking “Washington” and inserting “the Capital”. | the bill names no machine-readable US Code section |
-| — | amend | The item relating to section 88 in the table of sections of such title is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | The item relating to section 88 in the table of sections for chapter 5 of such title is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 44(a) of such title is amended in the first column by striking “District of Columbia” and inserting “Capital”. | the bill names no machine-readable US Code section |
 | — | replace | in the first column, by striking “District of Columbia” and inserting “Capital”; | the bill names no machine-readable US Code section |
 | — | replace | in the second column, by striking “Washington” and inserting “Capital” ; and | the bill names no machine-readable US Code section |
