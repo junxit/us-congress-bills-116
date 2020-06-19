@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Justice in Policing Act of 2020”.
+- **(a)** *Short title* This Act may be cited as the “George Floyd Justice in Policing Act of 2020”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Definitions
@@ -26,3 +26,14 @@ In this Act:
 - **(6)** *Local law enforcement officer* The term local law enforcement officer means any officer, agent, or employee of a State or unit of local government authorized by law or by a government agency to engage in or supervise the prevention, detection, or investigation of any violation of criminal law.
 - **(7)** *State* The term State has the meaning given the term in section 901 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10251).
 - **(8)** *Tribal law enforcement officer* The term tribal law enforcement officer means any officer, agent, or employee of an Indian tribe, or the Bureau of Indian Affairs, authorized by law or by a government agency to engage in or supervise the prevention, detection, or investigation of any violation of criminal law.
+- **(9)** *Unit of local government* The term “unit of local government” has the meaning given the term in section 901 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10251).
+- **(10)** *Deadly force* The term “deadly force” means that force which a reasonable person would consider likely to cause death or serious bodily harm, including—
+  - **(A)** the discharge of a firearm;
+  - **(B)** a maneuver that restricts blood or oxygen flow to the brain, including chokeholds, strangleholds, neck restraints, neckholds, and carotid artery restraints; and
+  - **(C)** multiple discharges of an electronic control weapon.
+- **(11)** *Use of force* The term use of force includes—
+  - **(A)** the use of a firearm, Taser, explosive device, chemical agent (such as pepper spray), baton, impact projectile, blunt instrument, hand, fist, foot, canine, or vehicle against an individual;
+  - **(B)** the use of a weapon, including a personal body weapon, chemical agent, impact weapon, extended range impact weapon, sonic weapon, sensory weapon, conducted energy device, or firearm, against an individual; or
+  - **(C)** any intentional pointing of a firearm at an individual.
+- **(12)** *Less lethal force* The term less lethal force means any degree of force that is not likely to cause death or serious bodily injury.
+- **(13)** *Facial recognition* The term “facial recognition” means an automated or semiautomated process that analyzes biometric data of an individual from video footage to identify or assist in identifying an individual.

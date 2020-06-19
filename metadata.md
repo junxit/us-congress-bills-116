@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7120
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7120
@@ -16,7 +16,7 @@ George Floyd Justice in Policing Act of 2020
 
 - Rep. Bass, Karen [D-CA-37] (B001270)
 
-## Cosponsors (165)
+## Cosponsors (230)
 
 - Rep. Nadler, Jerrold [D-NY-10] (N000002)
 - Rep. Pelosi, Nancy [D-CA-12] (P000197)
@@ -183,6 +183,71 @@ George Floyd Justice in Policing Act of 2020
 - Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
 - Rep. Tlaib, Rashida [D-MI-13] (T000481)
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Axne, Cynthia [D-IA-3] (A000378)
+- Rep. Case, Ed [D-HI-1] (C001055)
+- Rep. Casten, Sean [D-IL-6] (C001117)
+- Rep. Cooper, Jim [D-TN-5] (C000754)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Crist, Charlie [D-FL-13] (C001111)
+- Rep. Finkenauer, Abby [D-IA-1] (F000467)
+- Rep. Fletcher, Lizzie [D-TX-7] (F000468)
+- Rep. Foster, Bill [D-IL-11] (F000454)
+- Rep. Garamendi, John [D-CA-3] (G000559)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
+- Rep. Himes, James A. [D-CT-4] (H001047)
+- Rep. Horn, Kendra S. [D-OK-5] (H001083)
+- Rep. Kim, Andy [D-NJ-3] (K000394)
+- Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Kirkpatrick, Ann [D-AZ-2] (K000368)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Levin, Andy [D-MI-9] (L000592)
+- Rep. Loebsack, David [D-IA-2] (L000565)
+- Rep. Lujan, Ben Ray [D-NM-3] (L000570)
+- Rep. Luria, Elaine G. [D-VA-2] (L000591)
+- Rep. Malinowski, Tom [D-NJ-7] (M001203)
+- Rep. Matsui, Doris O. [D-CA-6] (M001163)
+- Rep. Morelle, Joseph D. [D-NY-25] (M001206)
+- Rep. Murphy, Stephanie N. [D-FL-7] (M001202)
+- Rep. O'Halleran, Tom [D-AZ-1] (O000171)
+- Rep. Pascrell, Bill, Jr. [D-NJ-9] (P000096)
+- Rep. Quigley, Mike [D-IL-5] (Q000023)
+- Rep. Rice, Kathleen M. [D-NY-4] (R000602)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Soto, Darren [D-FL-9] (S001200)
+- Rep. Vargas, Juan [D-CA-51] (V000130)
+- Rep. Visclosky, Peter J. [D-IN-1] (V000108)
+- Rep. Wexton, Jennifer [D-VA-10] (W000825)
+- Rep. Davids, Sharice [D-KS-3] (D000629)
+- Rep. Wild, Susan [D-PA-7] (W000826)
+- Rep. Houlahan, Chrissy [D-PA-6] (H001085)
+- Rep. Phillips, Dean [D-MN-3] (P000616)
+- Rep. Ocasio-Cortez, Alexandria [D-NY-14] (O000172)
+- Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
+- Rep. Schrier, Kim [D-WA-8] (S001216)
+- Rep. Harder, Josh [D-CA-10] (H001090)
+- Rep. Ruiz, Raul [D-CA-36] (R000599)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
+- Rep. Costa, Jim [D-CA-16] (C001059)
+- Rep. Cox, TJ [D-CA-21] (C001124)
+- Rep. Gabbard, Tulsi [D-HI-2] (G000571)
+- Rep. Levin, Mike [D-CA-49] (L000593)
+- Rep. Porter, Katie [D-CA-45] (P000618)
+- Rep. Stevens, Haley M. [D-MI-11] (S001215)
+- Rep. Slotkin, Elissa [D-MI-8] (S001208)
+- Rep. Lamb, Conor [D-PA-17] (L000588)
+- Rep. Pappas, Chris [D-NH-1] (P000614)
+- Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
+- Rep. Rouda, Harley [D-CA-48] (R000616)
+- Rep. Torres Small, Xochitl [D-NM-2] (T000484)
+- Rep. Cisneros, Gilbert Ray, Jr. [D-CA-39] (C001123)
+- Rep. Rose, Max [D-NY-11] (R000613)
+- Rep. Lee, Susie [D-NV-3] (L000590)
+- Rep. Cunningham, Joe [D-SC-1] (C001122)
+- Rep. Schrader, Kurt [D-OR-5] (S001180)
 
 ## Committees (3)
 
@@ -197,3 +262,10 @@ George Floyd Justice in Policing Act of 2020
 - 2020-06-08 — Referred to the Committee on the Judiciary, and in addition to the Committees on Armed Services, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2020-06-08 — Referred to the Committee on the Judiciary, and in addition to the Committees on Armed Services, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2020-06-08 — Referred to the Committee on the Judiciary, and in addition to the Committees on Armed Services, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2020-06-19 — Committee on Armed Services discharged.
+- 2020-06-19 — Committee on Armed Services discharged.
+- 2020-06-19 — Committee on Energy and Commerce discharged.
+- 2020-06-19 — Committee on Energy and Commerce discharged.
+- 2020-06-19 — Placed on the Union Calendar, Calendar No. 348.
+- 2020-06-19 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-434, Part I.
+- 2020-06-19 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-434, Part I.
