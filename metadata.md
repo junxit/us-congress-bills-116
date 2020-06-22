@@ -1,7 +1,7 @@
 ---
 measure: S. 327
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 327
@@ -16,10 +16,11 @@ Wounded Veterans Recreation Act
 
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Tester, Jon [D-MT] (T000464)
 
 ## Committees (1)
 
@@ -34,3 +35,5 @@ Wounded Veterans Recreation Act
 - 2019-12-17 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. Without written report.
 - 2019-12-17 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. Without written report.
 - 2019-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 342.
+- 2020-06-22 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S3129; text: CR S3129)
+- 2020-06-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S3129; text: CR S3129)

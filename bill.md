@@ -1,7 +1,7 @@
 ---
 legis-num: S. 327
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -18,5 +18,5 @@ This Act may be cited as the “Wounded Veterans Recreation Act ”.
 Section 805(b) of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6804(b)) is amended by striking paragraph (2) and inserting the following:
 
 > - **(2)** *Disability discount* The Secretary shall make the National Parks and Federal Recreational Lands Pass available, without charge and for the lifetime of the passholder, to the following:
->   - **(A)** Any United States citizen or person domiciled in the United States who has been medically determined to be permanently disabled for purposes of section 7(20)(A)(i) of the Rehabilitation Act of 1973 (29 U.S.C. 705(20)(A)(i)), if the citizen or person provides adequate proof of the disability and such citizenship or residency.
->   - **(B)** Any veteran who has been found to have a compensable or noncompensable service-connected disability under title 38, United States Code.
+>   - **(A)** Any United States citizen or person domiciled in the United States who has been medically determined to be permanently disabled, within the meaning of the term “disability” under section 3 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12102), if the citizen or person provides adequate proof of the disability and such citizenship or residency.
+>   - **(B)** Any veteran who has been found to have a service-connected disability under title 38, United States Code.
