@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 7297
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7297
+
+> To amend title 18, United States Code, to prohibit the use of an Armed Force under the jurisdiction of the Secretary of a military department as a posse comitatus or otherwise to execute the laws, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Strengthening the Posse Comitatus Act of 2020”.
+
+## § 2. Posse comitatus
+
+Section 1385 of title 18, United States Code, is amended—
+
+- **(1)** by striking “Whoever” and inserting “(a) Whoever”;
+- **(2)** by striking “the Army or the Air Force” and inserting “an Armed Force under the jurisdiction of the Secretary of a military department (as those terms are defined in section 101 of title 10)”; and
+- **(3)** by adding at the end the following:
+  > - **(b)** Notwithstanding any other provision of law, any evidence obtained by or with the assistance of a member of the Armed Forces in violation of subsection (a) shall not be received in evidence in any trial, hearing, or other proceeding in or before any court, grand jury, department, officer, agency, regulatory body, legislative committee, or other authority of the United States, a State, or a political subdivision thereof.
