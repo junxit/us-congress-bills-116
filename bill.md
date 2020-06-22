@@ -1,0 +1,20 @@
+---
+legis-num: S. 4029
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4029
+
+> To express the sense of Congress regarding the need for a nationwide moratorium on electric and natural gas utility disconnections during the nationwide emergency relating to the spread of the novel coronavirus.
+
+## § 1. Sense of Congress regarding the need for a nationwide moratorium on electric and natural gas utility disconnections during the nationwide emergency relating to the spread of the novel coronavirus
+
+It is the sense of Congress that, for the duration of the emergency involving Federal primary responsibility determined to exist by the President under section 501(b) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5191(b)) with respect to the Coronavirus Disease 2019 (COVID–19), each relevant State regulatory authority and each electric or natural gas utility that sells electric energy or natural gas to a consumer should ensure that—
+
+- **(1)** no electric or natural gas service to a consumer is terminated;
+- **(2)** reasonable efforts are made to safely reconnect electric and natural gas consumers that have lost service;
+- **(3)** no electric or natural gas consumer is charged for reconnection services;
+- **(4)** late fees and other penalties are waived for electric and natural gas consumers; and
+- **(5)** there are no increases in cost-of-service to electric and natural gas consumers.
