@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 621
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 621
@@ -33,3 +33,7 @@ A resolution designating June 15, 2020, as "World Elder Abuse Awareness Day".
 
 - 2020-06-15 — Introduced in Senate
 - 2020-06-15 — Referred to the Committee on the Judiciary.
+- 2020-06-23 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 06/15/2020 CR S2976-2977)
+- 2020-06-23 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 06/15/2020 CR S2976-2977)
+- 2020-06-23 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S3160)
+- 2020-06-23 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S3160)
