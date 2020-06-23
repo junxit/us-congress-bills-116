@@ -1,7 +1,7 @@
 ---
 measure: S. 1640
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1640
@@ -28,3 +28,7 @@ Portable Fuel Container Safety Act of 2019
 
 - 2019-05-23 — Introduced in Senate
 - 2019-05-23 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2019-11-13 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2020-06-23 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-235.
+- 2020-06-23 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-235.
+- 2020-06-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 482.
