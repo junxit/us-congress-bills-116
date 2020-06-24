@@ -1,0 +1,22 @@
+---
+legis-num: S. 4063
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4063
+
+> To provide that, due to the disruptions caused by COVID–19, applications for impact aid funding for fiscal year 2022 may use certain data submitted in the fiscal year 2021 application.
+
+## § 1. Short title
+
+This Act may be cited as the “Impact Aid Co­ro­na­vi­rus Relief Act”.
+
+## § 2. Use of prior application student count data for fiscal year 2022 impact aid applications
+
+Due to the public health emergency relating to COVID–19 and notwithstanding sections 7002(j) and 7003(c) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7702(j), 7703(c)), a local educational agency desiring to receive a payment under section 7002 or 7003 of such Act (20 U.S.C. 7702, 7703) for fiscal year 2022 that also submitted an application for such payment for fiscal year 2021 may, in the application submitted under section 7005 of such Act (20 U.S.C. 7705) for fiscal year 2022—
+
+- **(1)** with respect to a requested payment under section 7002 of such Act, use the Federal property valuation data relating to calculating such payment that was submitted by the local educational agency in the application for fiscal year 2021;
+- **(2)** with respect to a requested payment under section 7003 of such Act, use the student count data relating to calculating such payment that was submitted by the local educational agency in the application for fiscal year 2021, provided that for purposes of the calculation of payments for fiscal year 2022 under section 7003(b)(1) of such Act, such payments shall be based on utilizing fiscal year 2020 data (from academic year 2018–2019) to include total current expenditures, local contribution rates, and per pupil expenditures; or
+- **(3)** with respect to a requested payment under section 7002 or 7003 of such Act, use the student count or Federal property valuation data relating to calculating such payment for the fiscal year required under section 7002(j) or 7003(c) of such Act, as applicable.
