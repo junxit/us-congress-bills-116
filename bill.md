@@ -1,0 +1,18 @@
+---
+legis-num: S. 4057
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4057
+
+> To amend the Forest and Rangeland Renewable Resources Planning Act of 1974 and the Federal Land Policy and Management Act of 1976 to provide that the Secretary of Agriculture and the Secretary of the Interior are not required to reinitiate consultation on a land management plan or land use plan under certain circumstances, and for other purposes.
+
+## § 1. No additional consultation required
+
+- **(a)** *Forest Service plans* Section 6(d) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604(d)) is amended by adding at the end the following:
+  > - **(3)** *No additional consultation required after new information becomes available* Notwithstanding any other provision of law, the Secretary shall not be required to reinitiate consultation under section 7(a)(2) of the Endangered Species Act of 1973 (16 U.S.C. 1536(a)(2)) or section 402.16 of title 50, Code of Federal Regulations (or a successor regulation), on a land management plan approved, amended, or revised under this section on the basis of new information relating to a species listed as threatened or endangered or critical habitat designated under that Act (16 U.S.C. 1531 et seq.).
+
+- **(b)** *Bureau of Land Management plans* Section 202 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712) is amended by adding at the end the following:
+  > - **(g)** *No additional consultation required after new information becomes available* Notwithstanding any other provision of law, the Secretary shall not be required to reinitiate consultation under section 7(a)(2) of the Endangered Species Act of 1973 (16 U.S.C. 1536(a)(2)) or section 402.16 of title 50, Code of Federal Regulations (or a successor regulation), on a land use plan approved, amended, or revised under this section on the basis of new information relating to a species listed as threatened or endangered or critical habitat designated under that Act (16 U.S.C. 1531 et seq.).
