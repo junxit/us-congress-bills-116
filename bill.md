@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3094
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,7 +9,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To designate the National Pulse Memorial located at 1912 South Orange Avenue, Orlando, Florida, 32806, and for other purposes.
 
-## § 1. Designation of national pulse memorial
+## § 1. Designation of National Pulse Memorial
 
-- **(a)** *In general* The Pulse Memorial located at 1912 South Orange Avenue, Orlando, Florida, 32806, is hereby designated as the “National Pulse Memorial”.
-- **(b)** *Effect of designation* The national memorial designated by this section is not a unit of the National Park System and the designation of that national memorial shall not be construed to require Federal funds to be expended for any purpose related to the national memorial.
+- **(a)** *In general* The Pulse Memorial located at 1912 South Orange Avenue, Orlando, Florida, 32806, is designated as the “National Pulse Memorial”.
+- **(b)** *Effect of designation* The national memorial designated by this section is not a unit of the National Park System and the designation of the National Pulse Memorial shall not require or permit Federal funds to be expended for any purpose related to that national memorial.
