@@ -1,7 +1,7 @@
 ---
 measure: S. 2472
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2472
@@ -32,3 +32,5 @@ Neil A. Armstrong Test Facility Act
 - 2020-02-27 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-218.
 - 2020-02-27 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-218.
 - 2020-02-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 433.
+- 2020-06-24 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3273; text: CR S3273)
+- 2020-06-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3273; text: CR S3273)
