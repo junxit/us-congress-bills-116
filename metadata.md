@@ -1,7 +1,7 @@
 ---
 measure: S. 2472
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2472
@@ -34,3 +34,18 @@ Neil A. Armstrong Test Facility Act
 - 2020-02-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 433.
 - 2020-06-24 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3273; text: CR S3273)
 - 2020-06-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3273; text: CR S3273)
+- 2020-06-29 — Held at the desk.
+- 2020-06-29 — Message on Senate action sent to the House.
+- 2020-06-29 — Received in the House.
+- 2020-12-16 — Considered under suspension of the rules. (consideration: CR H7222-7224)
+- 2020-12-16 — DEBATE - The House proceeded with forty minutes of debate on S. 2472.
+- 2020-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-16 — Ms. Horn, Kendra S. moved to suspend the rules and pass the bill.
+- 2020-12-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7222-7223)
+- 2020-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7222-7223)
+- 2020-12-21 — Presented to President.
+- 2020-12-21 — Presented to President.
+- 2020-12-30 — Became Public Law No: 116-263.
+- 2020-12-30 — Became Public Law No: 116-263.
+- 2020-12-30 — Signed by President.
+- 2020-12-30 — Signed by President.
