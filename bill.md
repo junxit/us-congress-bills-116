@@ -1,0 +1,68 @@
+---
+legis-num: S. 4052
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4052
+
+> To make grants to support online training of residential contractors and rebates for the energy efficiency upgrades of homes, and for other purposes.
+
+## § 1. Short title; table of contents
+
+- **(a)** *Short title* This Act may be cited as the “HOPE for HOMES Act of 2020”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
+
+## § 2. Definitions
+
+In this Act:
+
+- **(1)** *Contractor certification* The term contractor certification means an industry-recognized certification that may be obtained by a residential contractor to advance the expertise and education of the contractor in energy efficiency retrofits of a residential building, including a certification provided by—
+  - **(A)** the Building Performance Institute;
+  - **(B)** the Air Conditioning Contractors of America;
+  - **(C)** the National Comfort Institute;
+  - **(D)** the North American Technician Excellence;
+  - **(E)** RESNET;
+  - **(F)** the United States Green Building Council;
+  - **(G)** Home Innovation Research Labs; or
+  - **(H)** any other certification body or organization the Secretary determines appropriate or needed to support the Home Energy Savings Retrofit Rebate Program in title II.
+- **(2)** *Contractor company* The term contractor company means a company—
+  - **(A)** that holds the licenses and insurance required by the State in which the company provides services;
+  - **(B)** the business of which is to provide services to residential building owners with respect to HVAC systems, insulation, air sealing, or other services that are approved by the Secretary; and
+  - **(C)** that provides services for which a partial system rebate, measured performance rebate, or modeled performance rebate may be provided pursuant to the Home Energy Savings Retrofit Rebate Program in title II.
+- **(3)** *Energy audit* The term energy audit means an inspection, survey, and analysis of the energy use of a building, including the building envelope and HVAC system.
+- **(4)** *Home* The term home means a residential dwelling unit in a building with no more than 4 dwelling units that—
+  - **(A)** is located in the United States;
+  - **(B)** was constructed before the date of enactment of this Act; and
+  - **(C)** is occupied at least 6 months out of the year.
+- **(5)** *Home Energy Savings Retrofit Rebate Program* The term Home Energy Savings Retrofit Rebate Program means the Home Energy Savings Retrofit Rebate Program established under section 201.
+- **(6)** *Homeowner* The term homeowner means the owner of an owner-occupied home or a tenant-occupied home.
+- **(7)** *Home valuation certification* The term home valuation certification means the following home assessments:
+  - **(A)** Home Energy Score.
+  - **(B)** PEARL Certification.
+  - **(C)** ICC700 National Green Building Standard.
+  - **(D)** LEED.
+  - **(E)** Any other assessment the Secretary determines to be appropriate.
+- **(8)** *HOPE qualification* The term HOPE qualification means the qualification described in section 103.
+- **(9)** *HOPE training credit* The term HOPE training credit means a HOPE training task credit or a HOPE training supplemental credit.
+- **(10)** *HOPE training task credit* The term HOPE training task credit means a credit described in section 102(a).
+- **(11)** *HOPE training supplemental credit* The term HOPE training supplemental credit means a credit described in section 102(b).
+- **(12)** *HVAC system* The term HVAC system means a system—
+  - **(A)** consisting of a heating component, a ventilation component, and an air-conditioning component; and
+  - **(B)** which components may include central air conditioning, a heat pump, a furnace, a boiler, a rooftop unit, or a window unit.
+- **(13)** *Measured performance rebate* The term measured performance rebate means a rebate provided in accordance with section 203 and described in subsection (e) of that section.
+- **(14)** *Modeled performance rebate* The term modeled performance rebate means a rebate provided in accordance with section 203 and described in subsection (d) of that section.
+- **(15)** *Moderate income* The term moderate income, with respect to a household, means a household with an annual income less than 80 percent of the area median income as determined annually by the Department of Housing and Urban Development.
+- **(16)** *Partial system rebate* The term partial system rebate means a rebate provided in accordance with section 202.
+- **(17)** *Secretary* The term Secretary means the Secretary of Energy.
+- **(18)** *State* The term State includes—
+  - **(A)** a State;
+  - **(B)** the District of Columbia;
+  - **(C)** the Commonwealth of Puerto Rico;
+  - **(D)** Guam;
+  - **(E)** American Samoa;
+  - **(F)** the Commonwealth of the Northern Mariana Islands;
+  - **(G)** the United States Virgin Islands; and
+  - **(H)** any other territory or possession of the United States.
+- **(19)** *State energy office* The term State energy office means the office or agency of a State responsible for developing the State energy conservation plan for the State under section 362 of the Energy Policy and Conservation Act (42 U.S.C. 6322).
