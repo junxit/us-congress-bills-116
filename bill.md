@@ -2,14 +2,14 @@
 legis-num: H. RES. 1017
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1017
 
 > Providing for consideration of the bill (H.R. 51) to provide for the admission of the State of Washington, D.C. into the Union; providing for consideration of the bill (H.R. 1425) to amend the Patient Protection and Affordable Care Act to provide for a Improve Health Insurance Affordability Fund to provide for certain reinsurance payments to lower premiums in the individual health insurance market; providing for consideration of the bill (H.R. 5332) to amend the Fair Credit Reporting Act to ensure that consumer reporting agencies are providing fair and accurate information reporting in consumer reports, and for other purposes; providing for consideration of the bill (H.R. 7120) to hold law enforcement accountable for misconduct in court, improve transparency through data collection, and reform police training and policies; providing for consideration of the bill (H.R. 7301) to prevent evictions, foreclosures, and unsafe housing conditions resulting from the COVID-19 pandemic, and for other purposes; providing for consideration of the joint resolution (H.J. Res. 90) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Office of the Comptroller of the Currency relating to “Community Reinvestment Act Regulations”; and for other purposes.
 
-That upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 51) to provide for the admission of the State of Washington, D.C. into the Union. All points of order against consideration of the bill are waived. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 116-55, modified by the amendment printed in part A of the report of the Committee on Rules accompanying this resolution, shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Oversight and Reform; and (2) one motion to recommit with or without instructions.
+That upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 51) to provide for the admission of the State of Washington, D.C. into the Union. All points of order against consideration of the bill are waived. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 116–55, modified by the amendment printed in part A of the report of the Committee on Rules accompanying this resolution, shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Oversight and Reform; and (2) one motion to recommit with or without instructions.
 
 ## § 2.
 
@@ -25,7 +25,7 @@ Upon adoption of this resolution it shall be in order to consider in the House t
 
 ## § 5.
 
-Upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 7301) to prevent evictions, foreclosures, and unsafe housing conditions resulting from the COVID-19 pandemic, and for other purposes. All points of order against consideration of the bill are waived. The bill shall be considered as read. All points of order against provisions in the bill are waived. The previous question shall be considered as ordered on the bill and on any amendment thereto to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Financial Services; and (2) one motion to recommit.
+Upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 7301) to prevent evictions, foreclosures, and unsafe housing conditions resulting from the COVID–19 pandemic, and for other purposes. All points of order against consideration of the bill are waived. The bill shall be considered as read. All points of order against provisions in the bill are waived. The previous question shall be considered as ordered on the bill and on any amendment thereto to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Financial Services; and (2) one motion to recommit.
 
 ## § 6.
 
