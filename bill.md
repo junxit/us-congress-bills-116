@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 7346
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7346
+
+> To amend the Internal Revenue Code of 1986 to provide 2020 recovery rebates to certain individuals, and for other purposes.
+
+## § 1. 2020 recovery rebate for certain individuals
+
+- **(a)** *In general* Section 6428(g) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:
+  > - **(5)** *Special rule for certain spouses*
+  >   - **(A)** *In general* Paragraph (1)(B) shall not apply in the case where at least 1 spouse satisfies paragraph (1)(A).
+  >   - **(B)** *Recovery rebate amount* In the case of individuals filing a joint return with respect to subparagraph (A), the amount of the credit allowed by subsection (a)(1) shall be equal to the sum of $1200.
+
+- **(b)** *Effective date* The amendment made under this section shall take effect as if included in the enactment of Public Law 116–136.
