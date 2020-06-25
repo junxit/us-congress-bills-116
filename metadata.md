@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 618
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 618
@@ -16,7 +16,7 @@ A resolution designating June 2020 as "National Post-Traumatic Stress Awareness 
 
 - Sen. Sullivan, Dan [R-AK] (S001198)
 
-## Cosponsors (27)
+## Cosponsors (28)
 
 - Sen. Baldwin, Tammy [D-WI] (B001230)
 - Sen. Tillis, Thomas [R-NC] (T000476)
@@ -45,6 +45,7 @@ A resolution designating June 2020 as "National Post-Traumatic Stress Awareness 
 - Sen. Portman, Rob [R-OH] (P000449)
 - Sen. Cruz, Ted [R-TX] (C001098)
 - Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Merkley, Jeff [D-OR] (M001176)
 
 ## Committees (1)
 
@@ -54,3 +55,7 @@ A resolution designating June 2020 as "National Post-Traumatic Stress Awareness 
 
 - 2020-06-15 — Introduced in Senate
 - 2020-06-15 — Referred to the Committee on the Judiciary.
+- 2020-06-25 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 06/15/2020 CR S2975-2976)
+- 2020-06-25 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 06/15/2020 CR S2975-2976)
+- 2020-06-25 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S3625)
+- 2020-06-25 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S3625)
