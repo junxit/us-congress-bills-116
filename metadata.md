@@ -1,7 +1,7 @@
 ---
 measure: S. 2163
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2163
@@ -36,6 +36,10 @@ Commission on the Social Status of Black Men and Boys Act
 
 - Senate — Health, Education, Labor, and Pensions Committee
 
+## Recorded votes (1)
+
+- 2020-07-27 — [House 116-2-167](votes/house-116-2-0167.md) — On Motion to Suspend the Rules and Pass — **Passed** (368–1)
+
 ## Actions
 
 - 2019-07-18 — Introduced in Senate
@@ -50,3 +54,18 @@ Commission on the Social Status of Black Men and Boys Act
 - 2020-06-25 — Senate amendment agreed to: Amendment SA 1809 agreed to in Senate by Unanimous Consent.
 - 2020-06-25 — Senate amendment proposed (on the floor): Amendment SA 1809 proposed by Senator Hawley for Senator Lankford.
 - 2020-06-25 — Senate amendment submitted
+- 2020-06-29 — Held at the desk.
+- 2020-06-29 — Message on Senate action sent to the House.
+- 2020-06-29 — Received in the House.
+- 2020-07-27 — Considered under suspension of the rules. (consideration: CR H3873-3878)
+- 2020-07-27 — DEBATE - The House proceeded with forty minutes of debate on S. 2163.
+- 2020-07-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-07-27 — Mrs. McBath moved to suspend the rules and pass the bill.
+- 2020-07-27 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 368 - 1 (Roll no. 167). (text: CR H3873)
+- 2020-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 368 - 1 (Roll no. 167).(text: CR H3873)
+- 2020-08-04 — Presented to President.
+- 2020-08-04 — Presented to President.
+- 2020-08-14 — Became Public Law No: 116-156.
+- 2020-08-14 — Became Public Law No: 116-156.
+- 2020-08-14 — Signed by President.
+- 2020-08-14 — Signed by President.
