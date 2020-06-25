@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 596
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 596
@@ -16,7 +16,7 @@ A resolution expressing the sense of the Senate that the Hong Kong national secu
 
 - Sen. Hawley, Josh [R-MO] (H001089)
 
-## Cosponsors (11)
+## Cosponsors (16)
 
 - Sen. Lee, Mike [R-UT] (L000577)
 - Sen. Cotton, Tom [R-AR] (C001095)
@@ -29,6 +29,11 @@ A resolution expressing the sense of the Senate that the Hong Kong national secu
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Inhofe, James M. [R-OK] (I000024)
 - Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Boozman, John [R-AR] (B001236)
 
 ## Committees (1)
 
@@ -38,3 +43,7 @@ A resolution expressing the sense of the Senate that the Hong Kong national secu
 
 - 2020-05-21 — Introduced in Senate
 - 2020-05-21 — Referred to the Committee on Foreign Relations.
+- 2020-06-25 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.(text: 05/21/2020 CR S2606-2607)
+- 2020-06-25 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (text: 05/21/2020 CR S2606-2607)
+- 2020-06-25 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S3285-3289)
+- 2020-06-25 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S3285-3289)
