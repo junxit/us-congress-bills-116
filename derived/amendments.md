@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7120
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-39 amendatory instructions. 3 executed, 36 stated and not applied.
+45 amendatory instructions. 3 executed, 42 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -94,5 +94,11 @@ complete account of the bill's effect, which it is not.
 | `34 U.S.C. § 10381` | insert | by inserting after paragraph (22) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 10153` | add-at-end | Section 502(a) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10153(a)), as amended by section 334, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 10101` | add-at-end | Title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10101 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 3631` | add-at-end | Chapter 13 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 249` | insert | The table of sections for chapter 13 of title 18, United States Code, is amended by inserting after the item relating to section 249 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | in the section heading, by adding at the end the following: “or by any person acting under color of law”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (c) and (d) as subsections (d) and (e), respectively; | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (b) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | in subsection (d), as so redesignated, by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (5), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (6), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (6) the following: | the bill names no machine-readable US Code section |
+| — | amend | The table of sections for chapter 109A of title 18, United States Code, is amended by amending the item related to section 2243 to read as follows: | the bill names no machine-readable US Code section |

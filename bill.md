@@ -32,7 +32,7 @@ In this Act:
   - **(B)** a maneuver that restricts blood or oxygen flow to the brain, including chokeholds, strangleholds, neck restraints, neckholds, and carotid artery restraints; and
   - **(C)** multiple discharges of an electronic control weapon.
 - **(11)** *Use of force* The term use of force includes—
-  - **(A)** the use of a firearm, Taser, explosive device, chemical agent (such as pepper spray), baton, impact projectile, blunt instrument, hand, fist, foot, canine, or vehicle against an individual;
+  - **(A)** the use of a firearm, electronic control weapon, explosive device, chemical agent (such as pepper spray), baton, impact projectile, blunt instrument, hand, fist, foot, canine, or vehicle against an individual;
   - **(B)** the use of a weapon, including a personal body weapon, chemical agent, impact weapon, extended range impact weapon, sonic weapon, sensory weapon, conducted energy device, or firearm, against an individual; or
   - **(C)** any intentional pointing of a firearm at an individual.
 - **(12)** *Less lethal force* The term less lethal force means any degree of force that is not likely to cause death or serious bodily injury.
