@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2163
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -35,6 +35,7 @@ This Act may be cited as the “Commission on the Social Status of Black Men and
   - **(11)** The Secretary of Housing and Urban Development shall appoint one member from within the Department of Housing and Urban Development who is an expert in housing and development in urban communities.
   - **(12)** The Secretary of Labor shall appoint one member from within the Department of Labor who is an expert in labor issues impacting Black men.
   - **(13)** The President of the United States shall appoint 2 members who are not employed by the Federal Government and are experts on issues affecting Black men and boys in America.
+- **(c)** *Membership by political party* If after the Commission is appointed there is a partisan imbalance of Commission members, the congressional leaders of the political party with fewer members on the Commission shall jointly name additional members to create partisan parity on the Commission.
 
 ## § 3. Other matters relating to appointment; removal
 
