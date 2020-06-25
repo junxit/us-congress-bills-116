@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1017
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1017
@@ -27,3 +27,9 @@ Providing for consideration of the bill (H.R. 51) to provide for the admission o
 - 2020-06-24 — The House Committee on Rules reported an original measure, H. Rept. 116-436, by Mr. Hastings.
 - 2020-06-24 — The House Committee on Rules reported an original measure, H. Rept. 116-436, by Mr. Hastings.
 - 2020-06-24 — The resolution provides that the provisions of section 125(c) of the Uruguay Round Agreements Act shall not apply during the remainder of the 116th Congress and the resolution amends H.Res. 967, agreed to on May 15, 2020.
+- 2020-06-25 — Considered as privileged matter. (consideration: CR H2430-2439)
+- 2020-06-25 — DEBATE - The House proceeded with one hour of debate on H. Res. 1017.
+- 2020-06-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-06-25 — On agreeing to the resolution Agreed to by the Yeas and Nays: 230 - 180 (Roll no. 117). (text: CR H2430-2431)
+- 2020-06-25 — On ordering the previous question Agreed to by the Yeas and Nays: 231 - 176 (Roll no. 116). (consideration: CR H2438)
+- 2020-06-25 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 230 - 180 (Roll no. 117).(text: CR H2430-2431)
