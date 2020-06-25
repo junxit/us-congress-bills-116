@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3675
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3675
@@ -44,3 +44,7 @@ Trusted Traveler Reconsideration and Restoration Act of 2019
 - 2019-09-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8020)
 - 2019-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8020)
 - 2019-10-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2020-03-11 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2020-06-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-237.
+- 2020-06-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-237.
+- 2020-06-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 485.
