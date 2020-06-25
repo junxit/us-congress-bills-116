@@ -1,7 +1,7 @@
 ---
 measure: S. 3377
 congress: 116
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3377
@@ -30,3 +30,7 @@ Antitrust Criminal Penalty Enhancement and Reform Permanent Extension Act
 
 - 2020-03-03 — Introduced in Senate
 - 2020-03-03 — Read twice and referred to the Committee on the Judiciary.
+- 2020-06-25 — Passed Senate without amendment by Voice Vote. (text: CR S3625-3626)
+- 2020-06-25 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(text: CR S3625-3626)
+- 2020-06-25 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S3625-3626)
+- 2020-06-25 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S3625-3626)
