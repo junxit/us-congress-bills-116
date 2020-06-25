@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 7365
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7365
+
+> To amend title 49, United States Code, with respect to grants for buses and bus facilities, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Green Buses for Every Community Act”.
+
+## § 2. Low income community grants
+
+Section 5339(c) of title 49, United States Code, is amended—
+
+- **(1)** in paragraph (1) by adding at the end the following:
+  > - **(H)** the term “low-income community” means any population census tract if—
+  >   - **(i)** the poverty rate for such tract is at least 20 percent; or
+  >   - **(ii)** in the case of a tract—
+  >     - **(I)** not located within a metropolitan area, the median family income for such tract does not exceed 80 percent of statewide median family income; or
+  >     - **(II)** located within a metropolitan area, the median family income for such tract does not exceed 80 percent of the greater statewide median family income or the metropolitan area median family income.
+
+- **(2)** by adding at the end the following:
+  > - **(6)** *Low and moderate community grants* Not less than 10 percent of the amounts made available under this subsection in a fiscal year shall be distributed to projects serving predominantly low-income communities.
