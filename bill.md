@@ -1,0 +1,24 @@
+---
+legis-num: S. 4069
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4069
+
+> To amend the Small Business Act to provide that Major League Baseball franchises will be prohibited from receiving loans under the Paycheck Protection Program under certain circumstances, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Support Baseball in Communities Act”.
+
+## § 2. Eligibility for certain assistance
+
+- **(a)** *Paycheck protection program* Section 7(a)(36)(D) of the Small Business Act (15 U.S.C. 636(a)(36)(D)) is amended by adding at the end the following:
+  > - **(vii)** *Limitation for Major League Baseball teams* Notwithstanding any other provision of this paragraph, if Major League Baseball reduces the number of Minor League Baseball teams that are affiliated with a Major League Baseball team, no Major League Baseball team shall be eligible to receive a covered loan.
+
+- **(b)** *CARES Act programs* Notwithstanding any other provision of law or regulation, if Major League Baseball reduces the number of Minor League Baseball teams that are affiliated with a Major League Baseball team, no Major League Baseball team shall be eligible to receive assistance under any program carried out under—
+  - **(1)** title IV of the CARES Act (Public Law 116–136); or
+  - **(2)** any of the amendments made by that title.
+- **(c)** *Retroactive effect* This section, and the amendments made by this section, shall take effect as if enacted on the date of enactment of the CARES Act (Public Law 116–136).
