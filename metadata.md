@@ -1,0 +1,30 @@
+---
+measure: S. 4072
+congress: 116
+version: Introduced in Senate
+---
+
+# S. 4072
+
+A bill to designate the clinic of the Department of Veterans Affairs in Bend, Oregon, as the "Robert D. Maxwell Department of Veterans Affairs Clinic".
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Sen. Merkley, Jeff [D-OR] (M001176)
+
+## Cosponsors (1)
+
+- Sen. Wyden, Ron [D-OR] (W000779)
+
+## Committees (1)
+
+- Senate — Veterans' Affairs Committee
+
+## Actions
+
+- 2020-06-25 — Introduced in Senate
+- 2020-06-25 — Read twice and referred to the Committee on Veterans' Affairs.
