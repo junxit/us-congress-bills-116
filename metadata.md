@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7120
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7120
@@ -269,3 +269,21 @@ George Floyd Justice in Policing Act of 2020
 - 2020-06-19 — Placed on the Union Calendar, Calendar No. 348.
 - 2020-06-19 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-434, Part I.
 - 2020-06-19 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-434, Part I.
+- 2020-06-24 — Rules Committee Resolution H. Res. 1017 Reported to House. Rule provides for consideration of H.R. 1425, H.R. 5332, H.R. 7120, H.R. 7301 and H.J. Res. 90. The resolution provides that the provisions of section 125(c) of the Uruguay Round Agreements Act shall not apply during the remainder of the 116th Congress and the resolution amends H.Res. 967, agreed to on May 15, 2020.
+- 2020-06-25 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2020-06-25 — Considered as unfinished business. (consideration: CR H2504-2506)
+- 2020-06-25 — Considered under the provisions of rule H. Res. 1017. (consideration: CR H2439-2503)
+- 2020-06-25 — DEBATE - The House proceeded with four hours of debate on H.R. 7120.
+- 2020-06-25 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Stauber motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to strike section 2 and all that follows of the bill and insert new text entitled, "George Floyd and Walter Scott Notification Act."
+- 2020-06-25 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2020-06-25 — House amendment offered
+- 2020-06-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-06-25 — Mr. Stauber moved to recommit with instructions to the Committee on the Judiciary. (text: CR H2491-2501)
+- 2020-06-25 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2020-06-25 — On motion to recommit with instructions Failed by the Yeas and Nays: 180 - 236 (Roll no. 118).
+- 2020-06-25 — On passage Passed by the Yeas and Nays: 236 - 181 (Roll no. 119). (text: CR H2440-2453)
+- 2020-06-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the motion to recommit with instructions, the Chair put the question on the motion and by voice vote, announced that the noes had prevailed. Mr. Stauber demanded the yeas and nays and the Chair postponed further consideration on the motion to recommit until a time to be announced.
+- 2020-06-25 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 236 - 181 (Roll no. 119).(text: CR H2440-2453)
+- 2020-06-25 — Rule provides for consideration of H.R. 1425, H.R. 5332, H.R. 7120, H.R. 7301 and H.J. Res. 90. The resolution provides that the provisions of section 125(c) of the Uruguay Round Agreements Act shall not apply during the remainder of the 116th Congress and the resolution amends H.Res. 967, agreed to on May 15, 2020.
+- 2020-06-25 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2020-06-25 — The previous question was ordered pursuant to the rule.
