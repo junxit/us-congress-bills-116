@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 7375
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7375
+
+> To require the Securities and Exchange Commission to revise rules to exclude business development companies from certain “Acquired Fund fees and expenses” reporting, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Access to Small Business Investor Capital Act”.
+
+## § 2. Excluding business development companies from certain “Acquired Fund fees and expenses” reporting
+
+- **(a)** *Revision to rules* Not later than the end of the 2-year period beginning on the date of enactment of this Act, the Securities and Exchange Commission shall revise any rule of the Commission relating to investment company registration statements to specify that, when calculating the fees and expenses of an Acquired Fund, the term “Acquired Fund” does not include a business development company.
+- **(b)** *Failure To issue rules* If the Commission does not make the revisions required under subsection (a) before the end of the 2-year period described in subsection (a), any reference to an Acquired Fund in a rule of the Commission relating to investment company registration statements (including in any item in or instruction to Forms N–1A, –2, –3, –4, and –6) shall, when used in the context of calculating the fees and expenses of an Acquired Fund, be deemed to not include a business development company.
+- **(c)** *Business development company defined* In this section, the term “business development company” has the meaning given that term under section 2(a) of the Investment Company Act of 1940 (15 U.S.C. 80a–2(a)).
+- **(d)** *Rules of construction* Any reference in this section to—
+  - **(1)** a form means such form and any successor form; and
+  - **(2)** the terms “Acquired Fund Fees and Expenses” and “Acquired Fund” defined or otherwise used in such a form shall mean any successor terms or provisions adopted by the Securities and Exchange Commission.
