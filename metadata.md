@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 579
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 579
@@ -16,7 +16,7 @@ A resolution encouraging the international community to remain committed to coll
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 
-## Cosponsors (39)
+## Cosponsors (43)
 
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Murray, Patty [D-WA] (M001111)
@@ -57,6 +57,10 @@ A resolution encouraging the international community to remain committed to coll
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Merkley, Jeff [D-OR] (M001176)
 - Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
 
 ## Committees (1)
 
@@ -66,3 +70,23 @@ A resolution encouraging the international community to remain committed to coll
 
 - 2020-05-14 — Introduced in Senate
 - 2020-05-14 — Referred to the Committee on Foreign Relations. (text: CR S2456-2457)
+- 2020-06-25 — Amendment SA 1810 agreed to in Senate by Unanimous Consent.
+- 2020-06-25 — Amendment SA 1810 proposed by Senator Toomey for Senator Lee. (consideration: CR S3282; text: CR S3282) In the nature of a substitute.
+- 2020-06-25 — Amendment SA 1811 agreed to in Senate by Unanimous Consent.
+- 2020-06-25 — Amendment SA 1811 proposed by Senator Toomey for Senator Lee. (consideration: CR S3282-3283; text: CR S3282-3283) To amend the preamble.
+- 2020-06-25 — Amendment SA 1812 agreed to in Senate by Unanimous Consent.
+- 2020-06-25 — Amendment SA 1812 proposed by Senator Toomey for Senator Lee. (consideration: CR S3283; text: CR S3283) To amend the title.
+- 2020-06-25 — Measure laid before Senate by unanimous consent. (consideration: CR S3282-3283)
+- 2020-06-25 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amendment to the Title and an amended preamble by Unanimous Consent.(text: CR S3283)
+- 2020-06-25 — Resolution agreed to in Senate with an amendment and an amendment to the Title and an amended preamble by Unanimous Consent. (text: CR S3283)
+- 2020-06-25 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2020-06-25 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2020-06-25 — Senate amendment agreed to: Amendment SA 1810 agreed to in Senate by Unanimous Consent.
+- 2020-06-25 — Senate amendment agreed to: Amendment SA 1811 agreed to in Senate by Unanimous Consent.
+- 2020-06-25 — Senate amendment agreed to: Amendment SA 1812 agreed to in Senate by Unanimous Consent.
+- 2020-06-25 — Senate amendment proposed (on the floor): Amendment SA 1810 proposed by Senator Toomey for Senator Lee.
+- 2020-06-25 — Senate amendment proposed (on the floor): Amendment SA 1811 proposed by Senator Toomey for Senator Lee.
+- 2020-06-25 — Senate amendment proposed (on the floor): Amendment SA 1812 proposed by Senator Toomey for Senator Lee.
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
