@@ -26,43 +26,11 @@ In this Act:
 - **(4)** *China* The term China means the People's Republic of China.
 - **(5)** *Entity* The term entity means a partnership, joint venture, association, corporation, organization, network, group, or subgroup, or any other form of business collaboration.
 - **(6)** *Financial institution* The term financial institution means a financial institution specified in section 5312(a)(2) of title 31, United States Code.
-- **(7)** *Foreign financial institution*
-  - **(A)** *In general* Except as provided in subparagraph (B), the term foreign financial institution means any foreign entity that is engaged in the business of accepting deposits, making, granting, transferring, holding, or brokering loans or credits, or purchasing or selling foreign exchange, securities, commodity futures or options, or procuring purchasers and sellers thereof, as principal or agent, including—
-    - **(i)** a depository institution;
-    - **(ii)** a bank;
-    - **(iii)** a savings bank;
-    - **(iv)** a money service business;
-    - **(v)** a trust company;
-    - **(vi)** a securities broker or dealer;
-    - **(vii)** a commodity futures and options broker or dealer;
-    - **(viii)** a forward contract or foreign exchange merchant;
-    - **(ix)** a securities or commodities exchange;
-    - **(x)** a clearing corporation;
-    - **(xi)** an investment company;
-    - **(xii)** an employee benefit plan;
-    - **(xiii)** a dealer in precious metals, stones, or jewels; and
-    - **(xiv)** any holding company, affiliate, or subsidiary of an entity specified in any of clauses (i) through (xiii).
-  - **(B)** *Exceptions* The term foreign financial institution does not include—
-    - **(i)** an international financial institution, as defined in section 1701(c) of the International Financial Institutions Act (22 U.S.C. 262r(c));
-    - **(ii)** the International Fund for Agricultural Development;
-    - **(iii)** the North American Development Bank; or
-    - **(iv)** any other international financial institution specified by the Office of Foreign Assets Control of the Department of the Treasury.
-- **(8)** *Foreign person* The term foreign person—
-  - **(A)** means—
-    - **(i)** any citizen or national of a foreign country; or
-    - **(ii)** any entity not organized under the laws of the United States or a jurisdiction within the United States; and
-  - **(B)** does not include the government of a foreign country.
-- **(9)** *Hong Kong* The term Hong Kong means the Hong Kong Special Administrative Region of the People's Republic of China.
-- **(10)** *Joint Declaration* The term Joint Declaration means the Joint Declaration of the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the People's Republic of China on the Question of Hong Kong, done at Beijing on December 19, 1984.
-- **(11)** *Knowingly* The term knowingly, with respect to conduct, a circumstance, or a result, means that a person has actual knowledge, or should have known, of the conduct, the circumstance, or the result.
-- **(12)** *Person* The term person means an individual or entity.
-- **(13)** *Significant transaction* The term significant transaction means a transaction determined by the Secretary of the Treasury to be significant on the basis of the following factors—
-  - **(A)** the size, number, and frequency of the transaction;
-  - **(B)** the nature of the transaction;
-  - **(C)** whether the transaction is part of a pattern of conduct;
-  - **(D)** the nexus between the transaction and a person subject to sanctions under this Act; and
-  - **(E)** the impact of the transaction on the objectives of this Act.
-- **(14)** *United States person* The term United States person means—
+- **(7)** *Hong Kong* The term Hong Kong means the Hong Kong Special Administrative Region of the People's Republic of China.
+- **(8)** *Joint Declaration* The term Joint Declaration means the Joint Declaration of the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the People's Republic of China on the Question of Hong Kong, done at Beijing on December 19, 1984.
+- **(9)** *Knowingly* The term knowingly, with respect to conduct, a circumstance, or a result, means that a person has actual knowledge of the conduct, the circumstance, or the result.
+- **(10)** *Person* The term person means an individual or entity.
+- **(11)** *United States person* The term United States person means—
   - **(A)** any citizen or national of the United States;
   - **(B)** any alien lawfully admitted for permanent residence in the United States;
   - **(C)** any entity organized under the laws of the United States or any jurisdiction within the United States (including a foreign branch of such an entity); or
@@ -123,39 +91,42 @@ It is the sense of Congress that—
   - **(A)** as set forth in section 101(1) of the United States-Hong Kong Policy Act of 1992 (22 U.S.C. 5711(1)), “The United States should play an active role, before, on, and after July 1, 1997, in maintaining Hong Kong's confidence and prosperity, Hong Kong's role as an international financial center, and the mutually beneficial ties between the people of the United States and the people of Hong Kong.”; and
   - **(B)** as set forth in section 2(5) of the United States-Hong Kong Policy Act of 1992 (22 U.S.C. 5701(5)), “Support for democratization is a fundamental principle of United States foreign policy. As such, it naturally applies to United States policy toward Hong Kong. This will remain equally true after June 30, 1997.”;
 - **(2)** although the United States recognizes that, under the Joint Declaration, the Government of China “resumed the exercise of sovereignty over Hong Kong with effect on 1 July 1997”, the United States supports the autonomy of Hong Kong in furtherance of the United States-Hong Kong Policy Act of 1992 and the Hong Kong Human Rights and Democracy Act of 2019 and advances the desire of the people of Hong Kong to continue the “one country, two systems” regime, in addition to other obligations promulgated by China under the Joint Declaration and the Basic Law;
-- **(3)** in order to support the benefits and protections that Hong Kong has been afforded by the Government of China under the Joint Declaration and the Basic Law, the United States should establish a clear and unambiguous set of penalties with respect to foreign persons determined by the Secretary of State to be involved in the contravention of the obligations of China under the Joint Declaration and the Basic Law and the financial institutions trans­act­ing with those foreign persons;
+- **(3)** in order to support the benefits and protections that Hong Kong has been afforded by the Government of China under the Joint Declaration and the Basic Law, the United States should establish a clear and unambiguous set of penalties with respect to foreign persons determined by the Secretary of State, in consultation with the Secretary of the Treasury, to be involved in the contravention of the obligations of China under the Joint Declaration and the Basic Law and the financial institutions transacting with those foreign persons;
 - **(4)** the Secretary of State should provide an unclassified assessment of the reason for imposition of certain economic penalties on entities, so as to permit a clear path for the removal of economic penalties if the sanctioned behavior is reversed and verified by the Secretary of State;
 - **(5)** relevant Federal agencies should establish a multilateral sanctions regime with respect to foreign persons involved in the contravention of the obligations of China under the Joint Declaration and the Basic Law; and
 - **(6)** in addition to the penalties on foreign persons, and financial institutions transacting with those foreign persons, for the contravention of the obligations of China under the Joint Declaration and the Basic Law, the United States should take steps, in a time of crisis, to assist permanent residents of Hong Kong who are persecuted or fear persecution as a result of the contravention by China of its obligations under the Joint Declaration and the Basic Law to become eligible to obtain lawful entry into the United States.
 
 ## § 5. Identification of foreign persons involved in the erosion of the obligations of China under the Joint Declaration or the Basic Law and foreign financial institutions that conduct significant transactions with those persons
 
-- **(a)** *In general* Not later than 90 days after the date of the enactment of this Act, and annually thereafter, if the Secretary of State determines that a foreign person is materially contributing to, has materially contributed to, or attempts to materially contribute to the failure of the Government of China to meet its obligations under the Joint Declaration or the Basic Law, the Secretary of State shall submit to the appropriate congressional committees and leadership a report that includes—
-  - **(1)** an identification of the foreign person;
-  - **(2)** a clear explanation for why the foreign person was identified and a description of the activity that resulted in the identification; and
-  - **(3)** an identification of any foreign financial institution that knowingly conducts a significant transactions with the foreign person.
-- **(b)** *Exclusion of certain information*
-  - **(1)** *Intelligence* The Secretary of State shall not disclose the identity of a person in a report submitted under subsection (a) if the Director of National Intelligence determines that such disclosure could compromise an intelligence operation, activity, source, or method of the United States.
-  - **(2)** *Law enforcement* The Secretary of State shall not disclose the identity of a person in a report submitted under subsection (a) if the Attorney General, in coordination, as appropriate, with the Director of the Federal Bureau of Investigation, the head of any other appropriate Federal law enforcement agency, and the Secretary of the Treasury, determines that such disclosure could reasonably be expected—
+- **(a)** *In general* Not later than 90 days after the date of the enactment of this Act, if the Secretary of State, in consultation with the Secretary of the Treasury, determines that a foreign person is materially contributing to, has materially contributed to, or attempts to materially contribute to the failure of the Government of China to meet its obligations under the Joint Declaration or the Basic Law, the Secretary of State shall submit to the appropriate congressional committees and leadership a report that includes—
+  - **(1)** an identification of the foreign person; and
+  - **(2)** a clear explanation for why the foreign person was identified and a description of the activity that resulted in the identification.
+- **(b)** *Identifying foreign financial institutions* Not earlier than 30 days and not later than 60 days after the Secretary of State submits to the appropriate congressional committees and leadership the report under subsection (a), the Secretary of the Treasury, in consultation with the Secretary of State, shall submit to the appropriate congressional committees and leadership a report that identifies any foreign financial institution that knowingly conducts a significant transaction with a foreign person identified in the report under subsection (a).
+- **(c)** *Exclusion of certain information*
+  - **(1)** *Intelligence* The Secretary of State shall not disclose the identity of a person in a report submitted under subsection (a) or (b), or an update under subsection (e), if the Director of National Intelligence determines that such disclosure could compromise an intelligence operation, activity, source, or method of the United States.
+  - **(2)** *Law enforcement* The Secretary of State shall not disclose the identity of a person in a report submitted under subsection (a) or (b), or an update under subsection (e), if the Attorney General, in coordination, as appropriate, with the Director of the Federal Bureau of Investigation, the head of any other appropriate Federal law enforcement agency, and the Secretary of the Treasury, determines that such disclosure could reasonably be expected—
     - **(A)** to compromise the identity of a confidential source, including a State, local, or foreign agency or authority or any private institution that furnished information on a confidential basis;
     - **(B)** to jeopardize the integrity or success of an ongoing criminal investigation or prosecution;
     - **(C)** to endanger the life or physical safety of any person; or
     - **(D)** to cause substantial harm to physical property.
   - **(3)** *Notification required* If the Director of National Intelligence makes a determination under paragraph (1) or the Attorney General makes a determination under paragraph (2), the Director or the Attorney General, as the case may be, shall notify the appropriate congressional committees and leadership of the determination and the reasons for the determination.
-- **(c)** *Exclusion of foreign persons and foreign financial institutions*
-  - **(1)** *Foreign persons* The President may exclude a foreign person from the report under subsection (a) if the material contribution (as described in subsection (d)) that merited inclusion in that report—
+- **(d)** *Exclusion or removal of foreign persons and foreign financial institutions*
+  - **(1)** *Foreign persons* The President may exclude a foreign person from the report under subsection (a), or an update under subsection (e), or remove a foreign person from the report or update prior to the imposition of sanctions under section 6(a) if the material contribution (as described in subsection (g)) that merited inclusion in that report or update—
     - **(A)** does not have a significant and lasting negative effect that contravenes the obligations of China under the Joint Declaration and the Basic Law;
     - **(B)** is not likely to be repeated in the future; and
     - **(C)** has been reversed or otherwise mitigated through positive countermeasures taken by that foreign person.
-  - **(2)** *Foreign financial institutions* The President may exclude a foreign financial institution from the report under subsection (a) if the significant transaction or significant transactions of the foreign financial institution that merited inclusion in that report—
+  - **(2)** *Foreign financial institutions* The President may exclude a foreign financial institution from the report under subsection (b), or an update under subsection (e), or remove a foreign financial institution from the report or update prior to the imposition of sanctions under section 7(a) if the significant transaction or significant transactions of the foreign financial institution that merited inclusion in that report or update—
     - **(A)** does not have a significant and lasting negative effect that contravenes the obligations of China under the Joint Declaration and the Basic Law;
     - **(B)** is not likely to be repeated in the future; and
     - **(C)** has been reversed or otherwise mitigated through positive countermeasures taken by that foreign financial institution.
-- **(d)** *Form of report* Each report under subsection (a) shall be submitted in unclassified form but may include a classified annex.
-- **(e)** *Timing of report*
-  - **(1)** *In general* Each report under subsection (a), to the extent practicable, shall be submitted with the annual report under section 301 of the United States-Hong Kong Policy Act of 1992 (22 U.S.C. 5731).
-  - **(2)** *Rule of construction* Nothing in this subsection shall be construed to terminate the requirement to submit the report under subsection (a) upon the termination of the requirement to submit the annual report under section 301 of the United States-Hong Kong Policy Act of 1992 (22 U.S.C. 5731).
-- **(f)** *Material contributions related to obligations of China described* For purposes of this section, a foreign person materially contributes to the failure of the Government of China to meet its obligations under the Joint Declaration or the Basic Law if the person—
+  - **(3)** *Notification required* If the President makes a determination under paragraph (1) or (2) to exclude or remove a foreign person or foreign financial institution from a report under subsection (a) or (b), as the case may be, the President shall notify the appropriate congressional committees and leadership of the determination and the reasons for the determination.
+- **(e)** *Update of reports*
+  - **(1)** *In general* Each report submitted under subsections (a) and (b) shall be updated in an ongoing manner and, to the extent practicable, updated reports shall be resubmitted with the annual report under section 301 of the United States-Hong Kong Policy Act of 1992 (22 U.S.C. 5731).
+  - **(2)** *Rule of construction* Nothing in this subsection shall be construed to terminate the requirement to update the reports under subsections (a) and (b) upon the termination of the requirement to submit the annual report under section 301 of the United States-Hong Kong Policy Act of 1992 (22 U.S.C. 5731).
+- **(f)** *Form of reports*
+  - **(1)** *In general* Each report under subsection (a) or (b) (including updates under subsection (e)) shall be submitted in unclassified form and made available to the public.
+  - **(2)** *Classified annex* The explanations and descriptions included in the report under subsection (a)(2) (including updates under subsection (e)) may be expanded on in a classified annex.
+- **(g)** *Material contributions related to obligations of China described* For purposes of this section, a foreign person materially contributes to the failure of the Government of China to meet its obligations under the Joint Declaration or the Basic Law if the person—
   - **(1)** took action that resulted in the inability of the people of Hong Kong—
     - **(A)** to enjoy freedom of assembly, speech, press, or independent rule of law; or
     - **(B)** to participate in democratic outcomes; or
@@ -164,8 +135,8 @@ It is the sense of Congress that—
 ## § 6. Sanctions with respect to foreign persons that contravene the obligations of China under the Joint Declaration or the Basic Law
 
 - **(a)** *Imposition of sanctions*
-  - **(1)** *In general* On and after the date on which a foreign person is included in a report under section 5(a)(1), the President may impose sanctions described in subsection (b) with respect to that foreign person.
-  - **(2)** *Mandatory sanctions* On and after the date on which a foreign person is included in 2 reports submitted under section 5(a)(1), the President shall impose sanctions described in subsection (b) with respect to that foreign person.
+  - **(1)** *In general* On and after the date on which a foreign person is included in the report under section 5(a) or an update to that report under section 5(e), the President may impose sanctions described in subsection (b) with respect to that foreign person.
+  - **(2)** *Mandatory sanctions* Not later than one year after the date on which a foreign person is included in the report under section 5(a) or an update to that report under section 5(e), the President shall impose sanctions described in subsection (b) with respect to that foreign person.
 - **(b)** *Sanctions described* The sanctions described in this subsection with respect to a foreign person are the following:
   - **(1)** *Property transactions* The President may, pursuant to such regulations as the President may prescribe, prohibit any person from—
     - **(A)** acquiring, holding, withholding, using, transferring, withdrawing, transporting, or exporting any property that is subject to the jurisdiction of the United States and with respect to which the foreign person has any interest;
@@ -173,48 +144,51 @@ It is the sense of Congress that—
     - **(C)** conducting any transaction involving such property.
   - **(2)** *Exclusion from the United States and revocation of visa or other documentation* In the case of a foreign person who is an individual, the President may direct the Secretary of State to deny a visa to, and the Secretary of Homeland Security to exclude from the United States, the foreign person, subject to regulatory exceptions to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or other applicable international obligations.
 
-## § 7. Sanctions with respect to foreign financial institutions that do business with foreign persons that contravene the obligations of China under the Joint Declaration or the Basic Law
+## § 7. Sanctions with respect to foreign financial institutions that conduct significant transactions with foreign persons that contravene the obligations of China under the Joint Declaration or the Basic Law
 
-- **(a)** *Imposition of sanctions* With respect to any financial institution included in a report under section 5(a)(3)—
-  - **(1)** not later than one year after the submittal of the report, the President shall impose not fewer than five of the sanctions described in subsection (b); and
-  - **(2)** not later than 2 years after the submittal of the report, the President shall impose each of the sanctions described in subsection (b).
-- **(b)** *Sanctions described* The sanctions that may imposed with respect to a foreign financial institution included in the report under section 5(a)(3) are the following:
+- **(a)** *Imposition of sanctions*
+  - **(1)** *Initial sanctions* Not later than one year after the date on which a foreign financial institution is included in the report under section 5(b) or an update to that report under section 5(e), the President shall impose not fewer than 5 of the sanctions described in subsection (b) with respect to that foreign financial institution.
+  - **(2)** *Expanded sanctions* Not later than two years after the date on which a foreign financial institution is included in the report under section 5(b) or an update to that report under section 5(e), the President shall impose each of the sanctions described in subsection (b).
+- **(b)** *Sanctions described* The sanctions described in this subsection with respect to a foreign financial institution are the following:
   - **(1)** *Loans from United States financial institutions* The United States Government may prohibit any United States financial institution from making loans or providing credits to the foreign financial institution.
   - **(2)** *Prohibition on designation as primary dealer* Neither the Board of Governors of the Federal Reserve System nor the Federal Reserve Bank of New York may designate, or permit the continuation of any prior designation of, the foreign financial institution as a primary dealer in United States Government debt instruments.
   - **(3)** *Prohibition on service as a repository of government funds* The foreign financial institution may not serve as agent of the United States Government or serve as repository for United States Government funds.
-  - **(4)** *Foreign exchange* The President may, pursuant to such regulations as the President may prescribe, prohibit any transactions in foreign exchange that are subject to the jurisdiction of the United States and in which the foreign financial institution has any interest.
-  - **(5)** *Banking transactions* The President may, pursuant to such regulations as the President may prescribe, prohibit any transfers of credit or payments between financial institutions or by, through, or to any financial institution, to the extent that such transfers or payments are subject to the jurisdiction of the United States and involve any interest of the foreign financial institution.
+  - **(4)** *Foreign exchange* The President may, pursuant to such regulations as the President may prescribe, prohibit any transactions in foreign exchange that are subject to the jurisdiction of the United States and involve the foreign financial institution.
+  - **(5)** *Banking transactions* The President may, pursuant to such regulations as the President may prescribe, prohibit any transfers of credit or payments between financial institutions or by, through, or to any financial institution, to the extent that such transfers or payments are subject to the jurisdiction of the United States and involve the foreign financial institution.
   - **(6)** *Property transactions* The President may, pursuant to such regulations as the President may prescribe, prohibit any person from—
     - **(A)** acquiring, holding, withholding, using, transferring, withdrawing, transporting, importing, or exporting any property that is subject to the jurisdiction of the United States and with respect to which the foreign financial institution has any interest;
     - **(B)** dealing in or exercising any right, power, or privilege with respect to such property; or
     - **(C)** conducting any transaction involving such property.
-  - **(7)** *Restriction on exports* The President may restrict or prohibit exports of goods, technology, or services, directly or indirectly, from the United States to the foreign financial institution.
+  - **(7)** *Restriction on exports, reexports, and transfers* The President, in consultation with the Secretary of Commerce, may restrict or prohibit exports, reexports, and transfers (in-country) of commodities, software, and technology subject to the jurisdiction of the United States directly or indirectly to the foreign financial institution.
   - **(8)** *Ban on investment in equity or debt* The President may, pursuant to such regulations or guidelines as the President may prescribe, prohibit any United States person from investing in or purchasing significant amounts of equity or debt instruments of the foreign financial institution.
-  - **(9)** *Exclusion of corporate officers* The President may direct the Secretary of State to deny a visa to, and the Secretary of Homeland Security to exclude from the United States, any alien that the President determines is a corporate officer or principal of, or a shareholder with a controlling interest in, the foreign financial institution.
+  - **(9)** *Exclusion of corporate officers* The President may direct the Secretary of State, in consultation with the Secretary of the Treasury and the Secretary of Homeland Security, to exclude from the United States any alien that is determined to be a corporate officer or principal of, or a shareholder with a controlling interest in, the foreign financial institution, subject to regulatory exceptions to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or other applicable international obligations.
   - **(10)** *Sanctions on principal executive officers* The President may impose on the principal executive officer or officers of the foreign financial institution, or on individuals performing similar functions and with similar authorities as such officer or officers, any of the sanctions described in paragraphs (1) through (8) that are applicable.
-- **(c)** *Timing of sanctions* The President may impose sanctions required under subsection (a) with respect to a financial institution included in a report under section 5(a)(3) beginning on the day on which the financial institution is included in that report.
+- **(c)** *Timing of sanctions* The President may impose sanctions required under subsection (a) with respect to a financial institution included in the report under section 5(b) or an update to that report under section 5(e) beginning on the day on which the financial institution is included in that report or update.
 
-## § 8. Waiver, termination, and congressional review process
+## § 8. Waiver, termination, exceptions, and congressional review process
 
-- **(a)** *National security waiver* Unless a disapproval resolution is enacted under subsection (d), the President may waive the application of sanctions under section 6 or 7 with respect to a foreign person or foreign financial institution if the President—
+- **(a)** *National security waiver* Unless a disapproval resolution is enacted under subsection (e), the President may waive the application of sanctions under section 6 or 7 with respect to a foreign person or foreign financial institution if the President—
   - **(1)** determines that the waiver is in the national security interest of the United States; and
   - **(2)** submits to the appropriate congressional committees and leadership a report on the determination and the reasons for the determination.
-- **(b)** *Termination of sanctions and removal from report* Unless a disapproval resolution is enacted under subsection (d), the President may terminate the application of sanctions under section 6 or 7 with respect to a foreign person or foreign financial institution and remove that foreign person or foreign financial institution from the report required under section 5(a) if the Secretary of State determines that the actions taken by the foreign person or foreign financial institution that led to the imposition of sanctions—
+- **(b)** *Termination of sanctions and removal from report* Unless a disapproval resolution is enacted under subsection (e), the President may terminate the application of sanctions under section 6 or 7 with respect to a foreign person or foreign financial institution and remove the foreign person from the report required under section 5(a) or the foreign financial institution from the report required under section 5(b), as the case may be, if the Secretary of State, in consultation with the Secretary of the Treasury, determines that the actions taken by the foreign person or foreign financial institution that led to the imposition of sanctions—
   - **(1)** do not have a significant and lasting negative effect that contravenes the obligations of China under the Joint Declaration and the Basic Law;
   - **(2)** are not likely to be repeated in the future; and
   - **(3)** have been reversed or otherwise mitigated through positive countermeasures taken by that foreign person or foreign financial institution.
 - **(c)** *Termination of Act*
   - **(1)** *Report*
     - **(A)** *In general* Not later than July 1, 2046, the President, in consultation with the Secretary of State, the Secretary of the Treasury, and the heads of such other Federal agencies as the President considers appropriate, shall submit to Congress a report evaluating the implementation of this Act and sanctions imposed pursuant to this Act.
-    - **(B)** *Elements* The President shall include in the report submitted under paragraph (1) an assessment of whether this Act and the sanctions imposed pursuant to this Act should be terminated.
-  - **(2)** *Termination* This Act and the sanctions imposed pursuant to this Act shall remain in effect unless a termination resolution is enacted under subsection (d) after July 1, 2047.
-- **(d)** *Congressional review*
+    - **(B)** *Elements* The President shall include in the report submitted under subparagraph (A) an assessment of whether this Act and the sanctions imposed pursuant to this Act should be terminated.
+  - **(2)** *Termination* This Act and the sanctions imposed pursuant to this Act shall remain in effect unless a termination resolution is enacted under subsection (e) after July 1, 2047.
+- **(d)** *Exception relating to importation of goods*
+  - **(1)** *In general* The authorities and requirements to impose sanctions under sections 6 and 7 shall not include the authority or requirement to impose sanctions on the importation of goods.
+  - **(2)** *Good defined* In this subsection, the term good means any article, natural or manmade substance, material, supply, or manufactured product, including inspection and test equipment, and excluding technical data.
+- **(e)** *Congressional review*
   - **(1)** *Resolutions*
     - **(A)** *Disapproval resolution* In this section, the term disapproval resolution means only a joint resolution of either House of Congress—
-      - **(i)** the title of which is as follows: “A joint resolution disapproving the waiver or termination of sanctions with respect to a foreign person that contravenes the obligations of China with respect to Hong Kong or a foreign financial institution that provides services to that person.”; and
-      - **(ii)** the sole matter after the resolving clause of which is the following: “Congress disapproves of the action under section 8 of the Hong Kong Autonomy Act relating to the application of sanctions imposed with respect to a foreign person that contravenes the obligations of China with respect to Hong Kong, or a foreign financial institution that provides services to that person, on _______ relating to ________.”, with the first blank space being filled with the appropriate date and the second blank space being filled with a short description of the proposed action.
+      - **(i)** the title of which is as follows: “A joint resolution disapproving the waiver or termination of sanctions with respect to a foreign person that contravenes the obligations of China with respect to Hong Kong or a foreign financial institution that conducts a significant transaction with that person.”; and
+      - **(ii)** the sole matter after the resolving clause of which is the following: “Congress disapproves of the action under section 8 of the Hong Kong Autonomy Act relating to the application of sanctions imposed with respect to a foreign person that contravenes the obligations of China with respect to Hong Kong, or a foreign financial institution that conducts a significant transaction with that person, on _______ relating to ________.”, with the first blank space being filled with the appropriate date and the second blank space being filled with a short description of the proposed action.
     - **(B)** *Termination resolution* In this section, the term termination resolution means only a joint resolution of either House of Congress—
-      - **(i)** the title of which is as follows: “A joint resolution terminating sanctions with respect to foreign persons that contravene the obligations of China with respect to Hong Kong and foreign financial institutions that provide services to those persons.”; and
+      - **(i)** the title of which is as follows: “A joint resolution terminating sanctions with respect to foreign persons that contravene the obligations of China with respect to Hong Kong and foreign financial institutions that conduct significant transactions with those persons.”; and
       - **(ii)** the sole matter after the resolving clause of which is the following: “The Hong Kong Autonomy Act and any sanctions imposed pursuant to that Act shall terminate on ____.”, with the blank space being filled with the termination date.
     - **(C)** *Covered resolution* In this subsection, the term covered resolution means a disapproval resolution or a termination resolution.
   - **(2)** *Introduction* A covered resolution may be introduced—
@@ -250,6 +224,11 @@ It is the sense of Congress that—
     - **(A)** as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such is deemed a part of the rules of each House, respectively, and supersedes other rules only to the extent that it is inconsistent with such rules; and
     - **(B)** with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
 
-## § 9. Rule of construction
+## § 9. Implementation; penalties
+
+- **(a)** *Implementation* The President may exercise all authorities provided under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) to the extent necessary to carry out this Act.
+- **(b)** *Penalties* A person that violates, attempts to violate, conspires to violate, or causes a violation of section 6 or 7 or any regulation, license, or order issued to carry out that section shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
+
+## § 10. Rule of construction
 
 Nothing in this Act shall be construed as an authorization of military force against China.
