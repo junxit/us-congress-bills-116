@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1,045 amendatory instructions. 113 executed, 932 stated and not applied.
+1,250 amendatory instructions. 132 executed, 1,118 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 42 U.S.C. § 21
+### 42 U.S.C. § 7545
 
 > in paragraph (1) by striking “Defense,” and inserting “Defense Highways,”;
 
@@ -33,7 +33,7 @@ to guess them.
 | Removed | `Defense,` |
 | Inserted | `Defense Highways,` |
 
-### 42 U.S.C. § 21
+### 42 U.S.C. § 7545
 
 > in subparagraph (A) by striking “Century” and inserting “century”;
 
@@ -42,7 +42,7 @@ to guess them.
 | Removed | `Century` |
 | Inserted | `century` |
 
-### 42 U.S.C. § 21
+### 42 U.S.C. § 7545
 
 > in subparagraph (H) by striking “Century.” and inserting “century;”; and
 
@@ -80,25 +80,43 @@ to guess them.
 
 ### 42 U.S.C. § 4321
 
-> in paragraph (8) by striking “as of the date of enactment of the MAP–21, before commencing any activity authorized” and inserting “, before commencing any activity authorized”; and
+> in paragraph (8) by striking “as of the date of enactment of the MAP–21, before commencing any activity authorized” and inserting “, before commencing any activity authorized”;
 
 | | |
 |---|---|
 | Removed | `as of the date of enactment of the MAP–21, before commencing any activity authorized` |
 | Inserted | `, before commencing any activity authorized` |
 
+### 42 U.S.C. § 4321
+
+> by striking “bus” and inserting “vehicle”; and
+
+| | |
+|---|---|
+| Removed | `bus` |
+| Inserted | `vehicle` |
+
+### 42 U.S.C. § 4321
+
+> by striking “buses” and inserting “vehicles”; and
+
+| | |
+|---|---|
+| Removed | `buses` |
+| Inserted | `vehicles` |
+
 ### 23 U.S.C. § 313
 
-> by striking “Notwithstanding” and inserting “In general—Notwithstanding”;
+> by striking “Notwithstanding” and inserting “In general.—Notwithstanding”;
 
 | | |
 |---|---|
 | Removed | `Notwithstanding` |
-| Inserted | `In general—Notwithstanding` |
+| Inserted | `In general.—Notwithstanding` |
 
 ### 23 U.S.C. § 313
 
-> by striking “Secretary of Transportation” and inserting “Secretary”; and
+> by striking “Secretary of Transportation” and inserting “Secretary”;
 
 | | |
 |---|---|
@@ -107,21 +125,30 @@ to guess them.
 
 ### 23 U.S.C. § 313
 
-> in subsection (c) by striking “For purposes” and inserting “Calculation—For purposes”;
+> by striking “and manufactured products” and inserting “manufactured products, and construction materials”;
+
+| | |
+|---|---|
+| Removed | `and manufactured products` |
+| Inserted | `manufactured products, and construction materials` |
+
+### 23 U.S.C. § 313
+
+> in subsection (c) by striking “For purposes” and inserting “Calculation.—For purposes”;
 
 | | |
 |---|---|
 | Removed | `For purposes` |
-| Inserted | `Calculation—For purposes` |
+| Inserted | `Calculation.—For purposes` |
 
 ### 23 U.S.C. § 313
 
-> by striking “The Secretary of Transportation” and inserting “Requirements—The Secretary”; and
+> by striking “The Secretary of Transportation” and inserting “Requirements.—The Secretary”; and
 
 | | |
 |---|---|
 | Removed | `The Secretary of Transportation` |
-| Inserted | `Requirements—The Secretary` |
+| Inserted | `Requirements.—The Secretary` |
 
 ### 42 U.S.C. § 5121
 
@@ -215,12 +242,12 @@ to guess them.
 
 ### 23 U.S.C. § 402
 
-> by striking “the percentage specified in paragraph (6) for a fiscal year” and inserting “55 percent”;
+> by striking “the percentage specified in paragraph (6) for a fiscal year” and inserting “57 percent for fiscal year 2022, 58 percent for fiscal year 2023, 59 percent for fiscal year 2024, and 60 percent for fiscal year 2025”;
 
 | | |
 |---|---|
 | Removed | `the percentage specified in paragraph (6) for a fiscal year` |
-| Inserted | `55 percent` |
+| Inserted | `57 percent for fiscal year 2022, 58 percent for fiscal year 2023, 59 percent for fiscal year 2024, and 60 percent for fiscal year 2025` |
 
 ### 23 U.S.C. § 402
 
@@ -420,6 +447,51 @@ to guess them.
 | Removed | `and the Secretary` |
 | Inserted | `or the Secretary` |
 
+### 34 U.S.C. § 20503
+
+> by striking “other motorist information systems to notify motorists” and inserting “other information systems to notify motorists, aircraft passengers, ship passengers, and travelers”; and
+
+| | |
+|---|---|
+| Removed | `other motorist information systems to notify motorists` |
+| Inserted | `other information systems to notify motorists, aircraft passengers, ship passengers, and travelers` |
+
+### 34 U.S.C. § 20503
+
+> in subparagraph (A), by striking “other motorist information systems to notify motorists” and inserting “other information systems to notify motorists, aircraft passengers, ship passengers, and travelers”;
+
+| | |
+|---|---|
+| Removed | `other motorist information systems to notify motorists` |
+| Inserted | `other information systems to notify motorists, aircraft passengers, ship passengers, and travelers` |
+
+### 34 U.S.C. § 20503
+
+> in subsection (c), by striking “other motorist information systems to notify motorists”, each place it appears, and inserting “other information systems to notify motorists, aircraft passengers, ship passengers, and travelers”;
+
+| | |
+|---|---|
+| Removed | `other motorist information systems to notify motorists` |
+| Inserted | `other information systems to notify motorists, aircraft passengers, ship passengers, and travelers` |
+
+### 34 U.S.C. § 20503
+
+> by striking “In this section” and inserting “In this subtitle”; and
+
+| | |
+|---|---|
+| Removed | `In this section` |
+| Inserted | `In this subtitle` |
+
+### 34 U.S.C. § 20503
+
+> by striking “or Puerto Rico” and inserting “American Samoa, Guam, Puerto Rico, the Northern Mariana Islands, the Virgin Islands of the United States, and any other territory of the United States”.
+
+| | |
+|---|---|
+| Removed | `or Puerto Rico` |
+| Inserted | `American Samoa, Guam, Puerto Rico, the Northern Mariana Islands, the Virgin Islands of the United States, and any other territory of the United States` |
+
 ### 42 U.S.C. § 12101
 
 > Section 5307(a)(2)(B)(ii) of title 49, United States Code, is amended by striking “service during peak” and inserting “service, during peak”.
@@ -602,7 +674,7 @@ to guess them.
 
 ### 42 U.S.C. § 4321
 
-> in subsection (k)(5) by striking “30 days” and inserting “3 days”;
+> in paragraph (5) by striking “30 days” and inserting “3 days”;
 
 | | |
 |---|---|
@@ -611,7 +683,7 @@ to guess them.
 
 ### 42 U.S.C. § 4321
 
-> by striking “an acceptable degree of” and inserting “a” each place it appears.
+> by striking “an acceptable degree of” and inserting “a” each place it appears; and
 
 | | |
 |---|---|
@@ -701,6 +773,24 @@ to guess them.
 
 ### 47 U.S.C. § 332
 
+> in subsection (c)(3)(E) by striking “5” and inserting “10”;
+
+| | |
+|---|---|
+| Removed | `5` |
+| Inserted | `10` |
+
+### 47 U.S.C. § 332
+
+> by striking “100 percent” and inserting “90 percent”; and
+
+| | |
+|---|---|
+| Removed | `100 percent` |
+| Inserted | `90 percent` |
+
+### 47 U.S.C. § 332
+
 > in paragraph (1) by striking “paragraphs (2) and (3)” and inserting “paragraph (2)”;
 
 | | |
@@ -735,6 +825,42 @@ to guess them.
 | Removed | `texting or using a cell phone while` |
 | Inserted | `distracted` |
 
+### 47 U.S.C. § 332
+
+> in paragraph (7) by striking “Of the amounts” and inserting “In addition to the amounts authorized under section 404 and of the amounts”;
+
+| | |
+|---|---|
+| Removed | `Of the amounts` |
+| Inserted | `In addition to the amounts authorized under section 404 and of the amounts` |
+
+### 47 U.S.C. § 332
+
+> in paragraph (4) by striking “such fiscal year” and inserting “fiscal year 2009”; and
+
+| | |
+|---|---|
+| Removed | `such fiscal year` |
+| Inserted | `fiscal year 2009` |
+
+### 47 U.S.C. § 332
+
+> by striking “accidents” and inserting “crashes” each place it appears; and
+
+| | |
+|---|---|
+| Removed | `accidents` |
+| Inserted | `crashes` |
+
+### 47 U.S.C. § 332
+
+> by striking “accident” and inserting “crash” each place it appears.
+
+| | |
+|---|---|
+| Removed | `accident` |
+| Inserted | `crash` |
+
 ### 23 U.S.C. § 405
 
 > Section 4010(2) of the FAST Act (23 U.S.C. 405 note) is amended by striking “deficiencies” and inserting “all deficiencies”.
@@ -743,6 +869,60 @@ to guess them.
 |---|---|
 | Removed | `deficiencies` |
 | Inserted | `all deficiencies` |
+
+### 49 U.S.C. § 30301
+
+> Section 202(a)(1) of the REAL ID Act of 2005 (49 U.S.C. 30301 note) is amended by striking “a driver's license or identification card ” and inserting “a physical or electronic driver's license or identification card”.
+
+| | |
+|---|---|
+| Removed | `a driver's license or identification card` |
+| Inserted | `a physical or electronic driver's license or identification card` |
+
+### 49 U.S.C. § 30301
+
+> Section 1028(d)(7)(A) of title 18, United States Code, is amended by striking “government issued driver's license” and inserting “government issued physical or electronic driver's license”.
+
+| | |
+|---|---|
+| Removed | `government issued driver's license` |
+| Inserted | `government issued physical or electronic driver's license` |
+
+### 49 U.S.C. § 31305
+
+> in paragraph (1) by striking “the next fiscal year” and inserting “the following 2 fiscal years”;
+
+| | |
+|---|---|
+| Removed | `the next fiscal year` |
+| Inserted | `the following 2 fiscal years` |
+
+### 49 U.S.C. § 31305
+
+> by striking “section 31102(l)(2)” and inserting “paragraphs (2) and (4) of section 31102(l)”;
+
+| | |
+|---|---|
+| Removed | `section 31102(l)(2)` |
+| Inserted | `paragraphs (2) and (4) of section 31102(l)` |
+
+### 49 U.S.C. § 31305
+
+> by striking “the next 2 fiscal years” and inserting “the following 3 fiscal years”; and
+
+| | |
+|---|---|
+| Removed | `the next 2 fiscal years` |
+| Inserted | `the following 3 fiscal years` |
+
+### 49 U.S.C. § 31305
+
+> in paragraph (3) by striking “the next 4 fiscal years” and inserting “the following 5 fiscal years”; and
+
+| | |
+|---|---|
+| Removed | `the next 4 fiscal years` |
+| Inserted | `the following 5 fiscal years` |
 
 ### 49 U.S.C. § 31100
 
@@ -962,15 +1142,6 @@ to guess them.
 
 ### 45 U.S.C. § 151
 
-> in subsection (g)(1) by striking “25 percent” and inserting “15 percent”;
-
-| | |
-|---|---|
-| Removed | `25 percent` |
-| Inserted | `15 percent` |
-
-### 45 U.S.C. § 151
-
 > in subsection (l) by striking “Secretary shall” and inserting “Secretary may”;
 
 | | |
@@ -998,15 +1169,6 @@ to guess them.
 
 ### 49 U.S.C. § 24101
 
-> in paragraph (3)(C) by striking “the vote” and inserting “the votes”;
-
-| | |
-|---|---|
-| Removed | `the vote` |
-| Inserted | `the votes` |
-
-### 49 U.S.C. § 24101
-
 > in paragraph (2) by striking “Not later than 2 years” and all that follows through “transmit the statement” and inserting “The Committee shall transmit, not later than March 31 of each year, the most recent annual update to the statement”; and
 
 | | |
@@ -1014,14 +1176,23 @@ to guess them.
 | Removed | `Not later than 2 years” and all that follows through “transmit the statement` |
 | Inserted | `The Committee shall transmit, not later than March 31 of each year, the most recent annual update to the statement` |
 
+### 49 U.S.C. § 24101
+
+> in subparagraph (A) by striking “section 24902(b) of this title; and” and inserting “section 24902(a) of this title;”; and
+
+| | |
+|---|---|
+| Removed | `section 24902(b) of this title; and` |
+| Inserted | `section 24902(a) of this title;` |
+
 ### 42 U.S.C. § 12102
 
-> in the matter preceding paragraph (1) by striking “for the following:” and inserting “of at least a 20 percent discount on full-price rail fares for, at a minimum—”;
+> in the matter preceding paragraph (1) by striking “for the following:” and inserting “of at least a 10 percent discount on full-price coach class rail fares for, at a minimum—”;
 
 | | |
 |---|---|
 | Removed | `for the following:` |
-| Inserted | `of at least a 20 percent discount on full-price rail fares for, at a minimum—` |
+| Inserted | `of at least a 10 percent discount on full-price coach class rail fares for, at a minimum—` |
 
 ### 45 U.S.C. § 836
 
@@ -1050,21 +1221,22 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 21` | redesignate | by redesignating paragraphs (1), (2), (3), (4), (5), (6), (7), (8), (9), (10), (11), (12), (13), (14), (15), (16), (17), (18), (19), (20), (21), (22), (23), (24), (25), (26), (27), (28), (29), (30), (31), (32), (33), and (34) as paragrap… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 21` | redesignate | by inserting before paragraph (2), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 21` | redesignate | by inserting after paragraph (4), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 21` | redesignate | paragraph (6)(A), as so redesignated, by inserting “assessing resilience,” after “surveying,”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 21` | redesignate | by inserting after paragraph (6), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 21` | redesignate | by inserting after paragraph (8), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 21` | redesignate | by inserting after paragraph (14), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 21` | redesignate | by inserting after paragraph (21), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 21` | redesignate | by inserting after paragraph (26), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7545` | redesignate | by redesignating paragraphs (1), (2), (3), (4), (5), (6), (7), (8), (9), (10), (11), (12), (13), (14), (15), (16), (17), (18), (19), (20), (21), (22), (23), (24), (25), (26), (27), (28), (29), (30), (31), (32), (33), and (34) as paragrap… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7545` | redesignate | by inserting before paragraph (2), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7545` | redesignate | by inserting after paragraph (4), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7545` | redesignate | in paragraph (6)(A), as so redesignated, by inserting “assessing resilience,” after “surveying,”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 7545` | redesignate | by inserting after paragraph (6), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7545` | redesignate | by inserting after paragraph (8), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7545` | redesignate | by inserting after paragraph (14), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7545` | redesignate | by inserting after paragraph (21), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7545` | redesignate | by inserting after paragraph (26), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5121` | redesignate | by inserting after paragraph (29), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 21` | redesignate | by inserting after paragraph (38), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 21` | replace | in subparagraph (G) by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 21` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 21` | insert | in paragraph (4)(A) by inserting “while ensuring that environmental protections are maintained” after “review process”. | the bill quotes the text inserted but describes where it goes |
-| — | replace | in subsection (a)(1) by striking subparagraphs (A) through (E) and inserting the following; | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 7545` | redesignate | by inserting after paragraph (38), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7545` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7545` | replace | in subparagraph (G) by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 7545` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7545` | insert | in paragraph (4)(A) by inserting “while ensuring that environmental protections are maintained” after “review process”. | the bill quotes the text inserted but describes where it goes |
+| — | replace | in subsection (a)(1) by striking subparagraphs (A) through (E) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking subsections (b) and (c) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in clause (i) by striking “paragraphs (5)(D) and (6) of subsection (b)” and inserting “subsection (b)(6)”; and | the bill names no machine-readable US Code section |
 | — | replace | in clause (ii) by striking “paragraphs (5)(D) and (6) of subsection (b)” and inserting “subsection (b)(6)”; and | the bill names no machine-readable US Code section |
@@ -1074,6 +1246,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 134(p) of title 23, United States Code, is amended by striking “paragraphs (5)(D) and (6) of section 104(b)” and inserting “section 104(b)(6)”. | the bill names no machine-readable US Code section |
 | — | replace | Section 135(i) of title 23, United States Code, is amended by striking “paragraphs (5)(D) and (6) of section 104(b)” and inserting “section 104(b)(6)”. | the bill names no machine-readable US Code section |
 | — | replace | Section 5303(p) of title 49, United States Code, is amended by striking “section 104(b)(5)” and inserting “section 104(b)(6)”. | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a) by striking “FAST Act” and inserting “INVEST in America Act”; | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (1)(A) by striking “to be appropriated” each place it appears; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “There is authorized” and inserting “For fiscal year 2022 and each fiscal year thereafter, there is authorized”; and | the bill names no machine-readable US Code section |
@@ -1092,13 +1265,13 @@ complete account of the bill's effect, which it is not.
 | `23 U.S.C. § 109` | replace | by striking subsection (o) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `23 U.S.C. § 109` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `23 U.S.C. § 109` | repeal | Section 1404(b) of the FAST Act (23 U.S.C. 109 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | by striking clause (i) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking clauses (i) and (ii) and inserting the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating clause (vi) as clause (vii); | the bill names no machine-readable US Code section |
 | — | strike | in clause (v) by striking “or” at the end; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after clause (v) the following: | the bill names no machine-readable US Code section |
 | — | strike | Section 107(a)(2) of title 23, United States Code, is amended by striking “subsection (c) of”. | the bill names no machine-readable US Code section |
-| — | insert | in the heading by inserting “and programs” after “set-asides”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1) by striking “and 133(d)(1)(A)” and inserting “, 130, 133(d)(1)(A), and 133(h)”; and | the bill names no machine-readable US Code section |
+| — | insert | in the heading by inserting “and programs” after “set-Asides”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1) by striking “and 133(d)(1)(A)” and inserting “, 130, 133(d)(1)(A), 133(h), 149, and 171”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 4321` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4321` | strike | in clause (iv) by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
@@ -1108,7 +1281,9 @@ complete account of the bill's effect, which it is not.
 | `23 U.S.C. § 129` | repeal | Section 1216 of the Transportation Equity Act for the 21st Century (23 U.S.C. 129 note), and the item related to such section in the table of contents in section 1(b) of such Act, are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `23 U.S.C. § 149` | add-at-end | Section 1012(b) of the Intermodal Surface Transportation Efficiency Act of 1991 (23 U.S.C. 149 note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | in paragraph (4)(C)(iii) by striking “transportation buses” and inserting “transportation vehicles”; and | the bill names no machine-readable US Code section |
-| — | redesignate | in paragraph (5) by striking subparagraph (B) and redesignating subparagraph (C) as subparagraph (B); | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (5)(B) by striking “2019” and inserting “2025”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (d)(2)(A)(i) by striking “45 miles per hour, in the case of a toll facility with a speed of 50 miles per hour or greater” and inserting “35 miles per hour, in the case of a toll facility with a speed limit of 45 miles per h… | the bill names no machine-readable US Code section |
+| — | replace | in subsection (d)(2)(B) by striking “morning or evening weekday peak hour periods (or both)” and inserting “peak hour periods”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “Not later than 180 days after the date of enactment of this section, the Administrator” and inserting “The Administrator”; | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (1) by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2) by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
@@ -1116,13 +1291,22 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking subparagraphs (C), (D), and (F); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraphs (E), (G), (H), and (I) as subparagraphs (C), (D), (E), and (F), respectively; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (6)(B)(i) by striking “public entity” and inserting “public transportation service that is a recipient or subrecipient of funds under chapter 53 of title 49”. | the bill names no machine-readable US Code section |
-| `23 U.S.C. § 313` | strike | by striking “the Surface Transportation Assistance Act of 1982 (96 Stat. 2097) or”; | the bill quotes the text struck but describes what replaces it |
+| `23 U.S.C. § 313` | strike | by striking “the Surface Transportation Assistance Act of 1982 (96 Stat. 2097) or”; and | the bill quotes the text struck but describes what replaces it |
 | `23 U.S.C. § 313` | insert | in subsection (b) by inserting “Determination.—” before “The provisions”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 313` | strike | by striking “the Surface Transportation Assistance Act of 1982 (96 Stat. 2097) or”; and | the bill quotes the text struck but describes what replaces it |
 | `23 U.S.C. § 313` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `23 U.S.C. § 313` | repeal | Section 123 of title I of division A of the Consolidated Appropriations Act, 2010 (23 U.S.C. 313 note; Public Law 111–117) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `23 U.S.C. § 313` | repeal | Section 122 of title I of division H of the Consolidated Appropriations Act, 2019 (23 U.S.C. 313 note; Public Law 116–94) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `23 U.S.C. § 313` | repeal | Section 117 of the SAFETEA–LU Technical Corrections Act of 2008 (23 U.S.C. 313 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | by striking subparagraph (A) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B) by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking paragraph (5) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (6) by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (C) by striking “annual”; | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (B) by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraph (C) as subparagraph (D); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (B) the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking subsection (b) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1)(A) by striking “or freight movement on the National Highway System” and inserting “freight movement, environmental sustainability, transportation system access, or combating climate change”; | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (1)(B) by striking “and” at the end; | the bill names no machine-readable US Code section |
@@ -1134,7 +1318,8 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in the heading by inserting “asset and” after “State”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (4)(D) by striking “analysis” and inserting “analyses, both of which shall take into consideration climate change adaptation and resilience;”; and | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (8) by striking “Not later than 18 months after the date of enactment of the MAP–21, the Secretary” and inserting “The Secretary”. | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (8) by striking “Not later than 18 months after the date of enactment of the MAP–21, the Secretary” and inserting “The Secretary”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | `23 U.S.C. § 123` | insert | Chapter 1 of title 23, United States Code, is amended by inserting after section 123 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `23 U.S.C. § 123` | insert | The analysis for chapter 1 of title 23, United States Code, is amended by inserting after the item relating to section 123 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5165` | add-at-end | Section 134(i)(2) of title 23, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1147,12 +1332,13 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5165` | add-at-end | Section 5304(g)(5)(B) of title 49, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5121` | insert | in subsection (a)(1) by inserting “wildfire,” after “severe storm,”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5121` | strike | by striking subsection (b); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5121` | redesignate | by redesignating paragraphs (3), (4), and (5) as paragraphs (4), (5), and (6), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5121` | redesignate | by redesignating paragraph (3) as paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5121` | replace | by striking paragraphs (1) and (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5121` | strike | by striking paragraph (1); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5121` | redesignate | by redesignating paragraphs (2) and (3), as amended, as paragraphs (1) and (2), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5121` | redesignate | by redesignating subsections (c) through (g), as amended, as subsections (b) through (f), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5121` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5121` | repeal | Section 668.105(h) of title 23, Code of Federal Regulations, is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | in the section heading by striking “Railway-highway crossings” and inserting “Railway crossings”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “Subject to section 120 and subsection (b) of this section, the entire” and inserting “In general.—The”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “then the entire” and inserting “the”; and | the bill names no machine-readable US Code section |
@@ -1172,7 +1358,7 @@ complete account of the bill's effect, which it is not.
 | `23 U.S.C. § 402` | strike | in the heading by striking “block grant”; | the bill quotes the text struck but describes what replaces it |
 | `23 U.S.C. § 402` | strike | in subsection (a) by striking “block grant”; | the bill quotes the text struck but describes what replaces it |
 | `23 U.S.C. § 402` | strike | by striking “block grant”; | the bill quotes the text struck but describes what replaces it |
-| `23 U.S.C. § 402` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 301` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `23 U.S.C. § 402` | replace | by striking paragraph (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `23 U.S.C. § 402` | redesignate | by redesignating paragraph (4) as paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `23 U.S.C. § 402` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1182,7 +1368,7 @@ complete account of the bill's effect, which it is not.
 | `23 U.S.C. § 402` | replace | by striking paragraph (6) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `23 U.S.C. § 402` | replace | by striking subsection (f) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `23 U.S.C. § 402` | insert | by inserting “rural” after “functionally classified as”; and | the bill quotes the text inserted but describes where it goes |
-| `23 U.S.C. § 402` | insert | by inserting “or on critical rural freight corridors designated under section 167(e)” after “minor collectors”. | the bill quotes the text inserted but describes where it goes |
+| `23 U.S.C. § 402` | insert | by inserting “or local roads, or on critical rural freight corridors designated under section 167(e)” after “minor collectors”. | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 402` | replace | The analysis for chapter 1 of title 23, United States Code, is amended by striking the item relating to section 133 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `23 U.S.C. § 402` | strike | in paragraph (2)(A) by striking “block grant”; and | the bill quotes the text struck but describes what replaces it |
 | `23 U.S.C. § 402` | strike | in paragraph (3) by striking “block grant”. | the bill quotes the text struck but describes what replaces it |
@@ -1191,7 +1377,7 @@ complete account of the bill's effect, which it is not.
 | `23 U.S.C. § 402` | strike | Section 143(b)(8) of title 23, United States Code, is amended in the heading by striking “block grant”. | the bill quotes the text struck but describes what replaces it |
 | `23 U.S.C. § 402` | strike | in paragraph (1)(B) by striking “block grant”; and | the bill quotes the text struck but describes what replaces it |
 | `23 U.S.C. § 402` | strike | in paragraph (2)(A) by striking “block grant”. | the bill quotes the text struck but describes what replaces it |
-| `23 U.S.C. § 402` | strike | in subsection (b)(2)(A)(ii) by striking “block grant”; and | the bill quotes the text struck but describes what replaces it |
+| `23 U.S.C. § 402` | strike | in subsection (b)(2)(A)(ii) by striking “block grant” each time such term appears; and | the bill quotes the text struck but describes what replaces it |
 | `23 U.S.C. § 402` | strike | in subsection (c)(6)(A)(i) by striking “block grant”. | the bill quotes the text struck but describes what replaces it |
 | `23 U.S.C. § 402` | strike | Section 322(h)(3) of title 23, United States Code, is amended by striking “block grant”. | the bill quotes the text struck but describes what replaces it |
 | `23 U.S.C. § 402` | strike | Section 504(a)(4) of title 23, United States Code, is amended by striking “block grant”. | the bill quotes the text struck but describes what replaces it |
@@ -1212,6 +1398,9 @@ complete account of the bill's effect, which it is not.
 | `23 U.S.C. § 148` | amend | by amending clause (xviii) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `23 U.S.C. § 148` | insert | in clause (xxvi) by inserting “or leading pedestrian intervals” after “hybrid beacons”; and | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 148` | replace | by striking clause (xxviii) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `23 U.S.C. § 148` | strike | in clause (ix) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `23 U.S.C. § 148` | redesignate | by redesignating clause (x) as clause (xi); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `23 U.S.C. § 148` | insert | by inserting after clause (ix) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `23 U.S.C. § 148` | insert | in subparagraph (E) by inserting “Tribal,” after “State,”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 148` | redesignate | by redesignating subparagraphs (G), (H), and (I) as subparagraphs (H), (I), and (J), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `23 U.S.C. § 148` | insert | by inserting after subparagraph (F) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1243,6 +1432,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking subsection (m) and inserting the following: | the bill names no machine-readable US Code section |
 | `23 U.S.C. § 154` | insert | Chapter 1 of title 23, United States Code, is amended by inserting after section 154 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `23 U.S.C. § 154` | insert | The analysis for chapter 1 of title 23, United States Code, is amended by inserting after the item relating to section 154 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `23 U.S.C. § 154` | add-at-end | Section 111 of title 23, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | in paragraph (6) by striking “; and” and inserting a semicolon; and | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (7) and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | in subsection (e) by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -1263,8 +1453,8 @@ complete account of the bill's effect, which it is not.
 | `23 U.S.C. § 210` | repeal | Section 1404 of SAFETEA–LU (Public Law 109–59; 119 Stat. 1228–1230), and the item relating to such section in the table of contents in section 1(b) of such Act, are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `23 U.S.C. § 210` | insert | The analysis for chapter 2 of title 23, United States Code, is amended by inserting after the item relating to section 210 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | by striking “104(b)(3)” and inserting “104(b)(4)”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “a position” and inserting “one or more positions”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (e) by striking “bicycles” and inserting “pedestrians and bicyclists” each place such term appears; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “a position” and inserting “at least one full-time positions”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (e) by striking “bicycles” and inserting “pedestrians or bicyclists” each place such term appears; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (j) by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 117 of title 23, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | The analysis for chapter 1 of title 23, United States Code, is amended by striking the item relating to section 117 and inserting the following: | the bill names no machine-readable US Code section |
@@ -1276,10 +1466,10 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 12101` | replace | by striking “by the end of fiscal year 2020.” and inserting a semicolon; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 12101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 12101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `23 U.S.C. § 171` | insert | Chapter 1 of title 23, United States Code, as amended by this title, is further amended by inserting after section 171 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 8101` | insert | Chapter 1 of title 23, United States Code, as amended by this title, is further amended by inserting after section 171 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `23 U.S.C. § 171` | insert | The analysis for chapter 1 of title 23, United States Code, is amended by inserting after the item relating to section 171 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `23 U.S.C. § 137` | insert | by inserting “and private providers of commercial motor vehicle parking” after “personnel”; and | the bill quotes the text inserted but describes where it goes |
-| — | replace | in subsection (a) by striking “resiliency needs while minimizing transportation-related fuel consumption and air pollution” and inserting “resiliency and climate change adaptation needs while reducing transportation-related fuel consumpt… | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a) by striking “resiliency needs while minimizing transportation-related fuel consumption and air pollution” and inserting “resilience and climate change adaptation needs while reducing transportation-related fuel consumpt… | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (6) and (7) as paragraphs (7) and (8), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (5) the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1) by striking “and transportation improvement programs” and inserting “and TIPs”; and | the bill names no machine-readable US Code section |
@@ -1296,7 +1486,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking subparagraph (E) and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “, sea level rise, extreme weather, and climate change” after “stormwater”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraph (J) as subparagraph (L); and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraph (J) as subparagraph (M); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (I) the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (h)(2) by striking subparagraph (A) and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (2)(D)(i) by inserting “reduce greenhouse gas emissions and” before “restore and maintain”; | the bill names no machine-readable US Code section |
@@ -1317,7 +1507,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “, including housing and land use patterns” after “economic development patterns”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “, sea level rise, extreme weather, and climate change” after “mitigate stormwater”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraph (J) as subparagraph (L); and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraph (J) as subparagraph (M); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (I) the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking subparagraph (A) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (D) by striking “statewide transportation improvement program” and inserting “STIP”; and | the bill names no machine-readable US Code section |
@@ -1341,7 +1531,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subparagraph (G)(ii) by striking “transportation improvement program” and inserting “STIP”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (H) by striking “transportation improvement program” and inserting “STIP”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “transportation improvement program” and inserting “STIP”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking “and projects carried out under the bridge program or the Interstate maintenance program under this title”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “and projects carried out under the bridge program or the Interstate maintenance program”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “or under the bridge program or the Interstate maintenance program”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “5310, 5311, 5316, and 5317” and inserting “5310 and 5311”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “statewide transportation improvement program” and inserting “STIP”; | the bill names no machine-readable US Code section |
@@ -1379,8 +1569,9 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1) by striking “$158,000,000” and inserting “$210,000,000”; and | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2) by striking “$42,000,000” and inserting “$100,000,000”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | in subsection (c)(2) by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2) by striking “$42,000,000” and inserting “$100,000,000”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c)(6)(A)(iii) by striking “in accordance with subsections (b) and (c) of section 129” and inserting “including such boats, facilities, and approaches that are privately or majority-privately owned, provided that such boats… | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1) by striking “improving deficient” and inserting “the construction and reconstruction of”; | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (A) by inserting “construct,” after “project to”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “deficient”; and | the bill names no machine-readable US Code section |
@@ -1406,6 +1597,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the heading by striking “Deputy Assistant Secretary for Tribal Government Affairs” and inserting “Office of Tribal Government Affairs”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 201 of title 23, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 1 of title 23, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The analysis for chapter 1 of title 23, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “fiscal years 2016 through 2020” and inserting “fiscal years 2022 through 2025”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “$3,500,000” and inserting “$4,000,000”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (b) and (c) as subsections (c) and (d), respectively; and | the bill names no machine-readable US Code section |
@@ -1415,6 +1608,20 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after subparagraph (E) the following: | the bill names no machine-readable US Code section |
 | — | insert | in subsection (e)(1) by inserting “and (8) through (9)” after “paragraphs (1) through (4)”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | in subsection (f) by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 118(d) of title 23, United States Code, is amended by striking “and the Commonwealth of Puerto Rico” and inserting “, the Commonwealth of Puerto Rico, and any other territory of the United States”. | the bill names no machine-readable US Code section |
+| `34 U.S.C. § 20503` | insert | in the section heading, by inserting “and major transportation routes” after “along highways”; | the bill quotes the text inserted but describes where it goes |
+| `34 U.S.C. § 20503` | insert | by inserting “(referred to in this section as the Secretary)” after “Secretary of Transportation”; and | the bill quotes the text inserted but describes where it goes |
+| `34 U.S.C. § 20503` | insert | by inserting “and at airports, maritime ports, border crossing areas and checkpoints, and ports of exit from the United States” after “along highways”; | the bill quotes the text inserted but describes where it goes |
+| `34 U.S.C. § 20503` | insert | by inserting “, aircraft passengers, ship passengers, and travelers” after “necessary to notify motorists”; and | the bill quotes the text inserted but describes where it goes |
+| `34 U.S.C. § 20503` | insert | in subparagraph (D), by inserting “, aircraft passengers, ship passengers, and travelers” after “support the notification of motorists”; | the bill quotes the text inserted but describes where it goes |
+| `34 U.S.C. § 20503` | insert | in subparagraph (E), by inserting “, aircraft passengers, ship passengers, and travelers” after “motorists”, each place it appears; | the bill quotes the text inserted but describes where it goes |
+| `34 U.S.C. § 20503` | insert | in subparagraph (F), by inserting “, aircraft passengers, ship passengers, and travelers” after “motorists”; and | the bill quotes the text inserted but describes where it goes |
+| `34 U.S.C. § 20503` | insert | in subparagraph (G), by inserting “, aircraft passengers, ship passengers, and travelers” after “motorists”; | the bill quotes the text inserted but describes where it goes |
+| `34 U.S.C. § 20503` | amend | by amending subsection (d) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 20503` | replace | The table of contents in section 1(b) of the PROTECT Act (Public Law 108–21) is amended by striking the item relating to section 303 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Subsection (s) of section 127 of title 23, United States Code is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1105(c) of the Intermodal Surface Transportation Efficiency Act of 1991 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 47135 of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 5338 of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 5311 of title 49, United States Code, is amended by striking “5338(a)(2)(F)” and inserting “5338(a)(2)(E)”. | the bill names no machine-readable US Code section |
 | — | replace | Section 5312(i)(1) of title 49, United States Code, is amended by striking “5338(a)(2)(G)(ii)” and inserting “5338(a)(2)(F)(iii)”. | the bill names no machine-readable US Code section |
@@ -1429,8 +1636,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “no emission” and inserting “zero emission”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “(as defined in section 5339(c))”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “urban area” and inserting “urbanized area”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “operator can provide” and inserting “operator provides”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1) by striking “urban area” and inserting “urbanized area”; | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | in paragraph (1) by adding “or” at the end; and | the bill names no machine-readable US Code section |
 | — | redesignate | by striking paragraph (2) and redesignating paragraph (3) as paragraph (2); | the bill names no machine-readable US Code section |
@@ -1440,15 +1646,14 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking the period at the end and inserting “; and”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “under this chapter may not deny” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | redesignate | by striking subsection (t) and redesignating subsections (u) and (v) as subsections (t) and (u), respectively. | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 12101` | add-at-end | Section 5337(e) of title 49, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 12101` | insert | Section 5340(a) of title 49, United States Code, is amended by inserting “and the District of Columbia” after “United States”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 12101` | replace | in clause (i) by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 12101` | replace | in clause (ii) by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 12101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 12101` | insert | in subsection (c)(4)(A) by inserting “, 5311” after “5307”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 12101` | add-at-end | Section 5334 of title 49, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 12101` | insert | Section 5335 of title 49, United States Code, is amended by inserting “and any information on each assault on a transit worker” after “by the recipient”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 12101` | insert | in subsection (a) by inserting “, including information on transit routes and ridership on those routes” after “public sector investment decision”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 12101` | insert | in subsection (c) by inserting “, any data on each assault on a transit worker, and pedestrian injuries and fatalities as a result of an impact with a bus. Each of the data sets shall be publicly reported without aggregating the data wit… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 12101` | strike | in clause (i) by striking “or” at the end; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 12101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 12101` | strike | in clause (i) by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
@@ -1457,9 +1662,110 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 12101` | strike | in paragraph (6) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 12101` | redesignate | by redesignating paragraph (7) as paragraph (8); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 12101` | insert | by inserting after paragraph (6) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12101` | add-at-end | Section 5324 of title 49, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12101` | replace | in subparagraph (D) by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 12101` | replace | in subparagraph (E) by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 12101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12101` | add-at-end | in subsection (f) by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12101` | replace | in subparagraph (B) by striking “; or” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 12101` | replace | in subparagraph (C) by striking the period and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 12101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12101` | replace | in clause (iv) by striking “; or” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 12101` | replace | in clause (v) by striking the period and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 12101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | in paragraph (7) by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (8) by striking the period and inserting a semicolon; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by amending subsection (a)(1) to read as follows: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (6) and (7) as paragraphs (7) and (8), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (5) the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1) by striking “and transportation improvement programs” and inserting “and TIPs”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2) by striking “Not later than 2 years after the date of enactment of the Federal Public Transportation Act of 2012, each” and inserting “Each”; | the bill names no machine-readable US Code section |
+| — | add-at-end | in paragraph (3) by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (6)(B) by striking “paragraph (2)” and inserting “paragraphs (2) or (3)(D)”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “an existing metropolitan planning area” and inserting “an urbanized area”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “the existing metropolitan planning area” and inserting “the area”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1) by striking “a metropolitan area” and inserting “an urbanized area”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2) by striking “MPOs” and inserting “Metropolitan planning areas” | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (3)(A) by inserting “emergency response and evacuation, climate change adaptation and resilience,” after “disaster risk reduction,”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking subparagraph (E) and inserting the following: | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (H) by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (I) by striking the period at the end and inserting “and reduce or mitigate stormwater, sea level rise, extreme weather, and climate change impacts of surface transportation;”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (I) the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (h)(2) by striking subparagraph (A) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1) by striking “(i) In general” and all that follows through “every 5 years” and inserting “The metropolitan planning organization shall prepare and update such plan every 4 years”; | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (2)(D)(i) by inserting “reduce greenhouse gas emissions and” before “restore and maintain”; | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (2)(G) by inserting “and climate change” after “infrastructure to natural disasters”; | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (2)(H) by inserting “greenhouse gas emissions,” after “pollution,”; | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (A) by inserting “air quality, public health, housing, transportation, resilience, hazard mitigation, emergency management,” after “conservation,”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking subparagraph (B) and inserting the following: | the bill names no machine-readable US Code section |
+| — | amend | by amending paragraph (6)(C) to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | by striking “transportation improvement program” and inserting “TIP” each place it appears; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “Performance target achievement” and inserting “Performance management”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “The TIP” and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “shall address congestion management” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in clause (i) by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | replace | in clause (ii) by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “5 years after the date of enactment of the Federal Public Transportation Act of 2012” and inserting “2 years after the date of enactment of the INVEST in America Act, and every 2 years thereafter,”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C) by striking “and whether metropolitan planning organizations are developing meaningful performance targets; and” and inserting a semicolon; and | the bill names no machine-readable US Code section |
+| — | replace | by striking subparagraph (D) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “Federally” each place it appears and inserting “federally”. | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1) by striking “statewide transportation improvement program” and inserting “STIP”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “The statewide transportation plan and the” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “transportation improvement program” and inserting “STIP”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3) by striking “transportation improvement program” and inserting “STIP”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “reduce greenhouse gas emissions,” after “promote energy conservation,”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “and public health” after “improve the quality of life”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “, including housing and land use patterns” after “economic development patterns”; | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (H) by striking “and”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (I) by striking the period at the end and inserting “and reduce or mitigate stormwater, sea level rise, extreme weather, and climate change impacts of surface transportation;”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking subparagraph (A) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (D) by striking “statewide transportation improvement program” and inserting “STIP”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3) by striking “statewide transportation improvement program” and inserting “STIP”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (e)(3) by striking “transportation improvement program” and inserting “STIP”; | the bill names no machine-readable US Code section |
+| — | insert | in clause (i) by inserting “air quality, public health, housing, transportation, resilience, hazard mitigation, emergency management,” after “conservation,”; and | the bill names no machine-readable US Code section |
+| — | amend | by amending clause (ii) to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | by striking “In carrying out” and inserting the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating clauses (i) through (iv) as subclauses (I) through (IV), respectively; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (4)(A) by inserting “reduce greenhouse gas emissions and” after “potential to”; and | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (8) by inserting “including consideration of the role that intercity buses may play in reducing congestion, pollution, greenhouse gas emissions, and energy consumption in a cost-effective manner and strategies and investment… | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1)(A) by striking “statewide transportation improvement program” and inserting “STIP”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “Performance target achievement” and inserting “Performance management”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “shall include, to the maximum extent practicable, a discussion” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end and inserting “; and”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “statewide transportation improvement program” and inserting “STIP” each place it appears; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A) by striking “transportation improvement program” and inserting “STIP”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B)(ii) by striking “metropolitan transportation improvement program” and inserting “TIP”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C) by striking “transportation improvement program” and inserting “STIP” each place it appears; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (E) by striking “transportation improvement program” and inserting “STIP”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (F)(i) by striking “transportation improvement program” and inserting “STIP” each place it appears; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (G)(ii) by striking “transportation improvement program” and inserting “STIP”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (H) by striking “transportation improvement program” and inserting “STIP”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “transportation improvement program” and inserting “STIP”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “and projects carried out under the bridge program or the Interstate maintenance program under title 23”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “or under the bridge program or the Interstate maintenance program”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “statewide transportation improvement program” and inserting “STIP”; | the bill names no machine-readable US Code section |
+| — | replace | in the heading by striking “Transportation improvement program” and inserting “STIP”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “transportation improvement program” and inserting “STIP”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (8) by striking “statewide transportation plans and programs” and inserting “statewide transportation plans and STIPs”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (9) by striking “transportation improvement program” and inserting “STIP”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (h)(2)(A) by striking “Not later than 5 years after the date of enactment of the Federal Public Transportation Act of 2012,” and inserting “Not less frequently than once every 4 years,”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (j) by striking “transportation improvement program” and inserting “STIP” each place it appears; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (l) by striking “transportation improvement programs” and inserting “STIPs”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 5324 of title 49, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 5323(r) of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | Section 5323 of title 49, United States Code, is amended by striking subsection (t) and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 5323 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `49 U.S.C. § 5307` | insert | Chapter 53 of title 49, United States Code, is amended by inserting after section 5307 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 5307` | insert | The analysis for chapter 53 of title 49, United States Code, is amended by inserting after the item relating to section 5307 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | in the matter preceding clause (i) by striking “95.61 percent” and inserting “95 percent”; | the bill names no machine-readable US Code section |
@@ -1495,8 +1801,10 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 4321` | insert | Chapter 53 of title 49, United States Code, is amended by inserting before section 5321 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4321` | insert | The analysis for chapter 53 of title 49, United States Code, is amended by inserting before the item relating to section 5321 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 5325` | insert | Section 5307(c)(1)(E) of title 49, United States Code, is amended by inserting “, 5320,” after “5323”. | the bill quotes the text inserted but describes where it goes |
-| — | add-at-end | Section 5323 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 5323 of title 49, United States Code, as is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 5318 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 5170` | add-at-end | Section 5323 of title 49, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 5323(u)(5)(A) of title 49, United States Code, (as redesignated by this Act) is amended by striking “made by a public transportation agency with a rail rolling stock manufacturer described in paragraph (1)” and inserting “as of D… | the bill names no machine-readable US Code section |
 | — | insert | by inserting “and subsection (d)” after “In this subsection”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A) by striking “term low or no emission vehicle has” and inserting “term zero emission vehicle has”; | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (B) by inserting “and the District of Columbia” after “United States”; and | the bill names no machine-readable US Code section |
@@ -1508,6 +1816,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “2016 through 2020” and inserting “2022 through 2025”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “$1,750,000” and inserting “$3,000,000”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “$500,000” and inserting “$750,000”; | the bill names no machine-readable US Code section |
+| — | add-at-end | in paragraph (7) by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (8) by striking “3 fiscal years” and inserting “4 fiscal years” each place such term appears; and | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (9). | the bill names no machine-readable US Code section |
 | — | replace | in the heading by striking “Buses and bus facilities competitive grants” and inserting “Bus facilities and fleet expansion competitive grants”; | the bill names no machine-readable US Code section |
@@ -1516,12 +1825,16 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subparagraph (A) by striking “buses or related equipment” and inserting “bus-related facilities”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking subparagraph (B) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (6) by striking subparagraph (B) and inserting the following: | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 7407` | strike | by striking clause (vi); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 7407` | redesignate | by redesignating clause (vii) as clause (vi); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 7407` | replace | by striking subparagraph (D) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 7407` | replace | by striking subparagraph (E) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7407` | strike | in subparagraph (F) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 7407` | replace | by striking subparagraph (G) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7407` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 7407` | replace | by striking paragraph (5) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7407` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 7501` | add-at-end | Section 5303(b) of title 49, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 5339 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1) by striking “75 percent” and inserting “50 percent”; | the bill names no machine-readable US Code section |
@@ -1543,10 +1856,17 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in subsection (e)(4)(A)(v) by inserting “, inspection,” after “has investigative”. | the bill names no machine-readable US Code section |
 | — | amend | Section 5329(d)(2) of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | insert | Chapter 53 of subtitle III of title 49, United States Code, is amended by inserting after section 5327 the following: | the bill names no machine-readable US Code section |
-| — | insert | The analysis for chapter 53 of subtitle III of title 49, United States Code, is amended by inserting after the item relating to section 5327 the following: | the bill names no machine-readable US Code section |
-| — | strike | by striking “(a) Amendment.—”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking subsection (b). | the bill names no machine-readable US Code section |
+| `29 U.S.C. § 3102` | add-at-end | Chapter 53 of title 49, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3102` | add-at-end | The analysis for chapter 53 of title 49, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | strike | in subparagraph (H) by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraph (I) as subparagraph (J); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (H) the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 5314(c)(4)(A) of title 49, United States Code, is amended by inserting “5311,” after “5307,”. | the bill names no machine-readable US Code section |
+| `49 U.S.C. § 5327` | insert | Chapter 53 of title 49, United States Code, is amended by inserting after section 5327 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 5327` | insert | The analysis for chapter 53 of title 49, United States Code, is amended by inserting after the item relating to section 5327 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 5327` | strike | by striking “(a) Amendment.—”; and | the bill quotes the text struck but describes what replaces it |
+| `49 U.S.C. § 5327` | strike | by striking subsection (b). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | amend | Section 5334(h)(1) of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 5303` | replace | in clause (i) by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5303` | replace | in clause (ii) by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
@@ -1588,17 +1908,21 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 4321` | replace | in paragraph (3) by striking “The Secretary shall” and all that follows through the end and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 4321` | replace | by striking paragraph (5) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4321` | replace | by striking paragraph (6) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 4321` | replace | in paragraph (5) by striking the period at the end and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4321` | insert | in paragraph (5) by inserting “, except that for a project for which a lower local cost share is elected under subsection (l)(1)(C), the Secretary shall enter into a grant agreement under this subsection for any such project that establi… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 4321` | replace | by striking subsection (i) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4321` | add-at-end | in paragraph (2)(D) by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4321` | replace | in paragraph (1) by striking subparagraph (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4321` | replace | by striking paragraph (5) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 4321` | strike | by striking paragraph (8); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4321` | replace | by striking paragraph (8) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4321` | add-at-end | in subsection (o) by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4321` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | redesignate | by redesignating paragraph (2) as paragraph (3); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 5334 of title 49, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 1396` | add-at-end | Section 5310 of title 49, United States Code, as amended by section 2205, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | in clause (ii) by striking “occupant protection devices (including the use of safety belts and child restraint systems)” and inserting “safety belts”; | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 5307(h) of title 49, United States Code, is amended by adding at the end the following paragraph: | the bill names no machine-readable US Code section |
+| — | insert | Section 5309(h)(4) of title 49, United States Code, is amended by inserting “, the extent to which the project improves transportation options to economically distressed areas, ” after “public transportation”. | the bill names no machine-readable US Code section |
+| — | replace | in clause (ii) by striking “occupant protection devices (including the use of safety belts and child restraint systems)” and inserting “seatbelts”; | the bill names no machine-readable US Code section |
 | — | replace | in clause (vii) by striking “; and” and inserting a semicolon; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after clause (viii) the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -1609,12 +1933,13 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 402 of title 23, United States Code, as amended by section 3002 of this Act, is further amended by inserting after subsection (k) the following: | the bill names no machine-readable US Code section |
 | — | insert | in subsection (b) by inserting “, training,” after “demonstration projects”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (f)(1) by striking “subsection 402(c) in each fiscal year ending before October 1, 2015, and $443,989 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the per… | the bill names no machine-readable US Code section |
+| — | replace | by striking “$2,500,000” and inserting “$3,500,000”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “subsection 402(c) in each fiscal year ending before October 1, 2015, and $443,989 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on Octo… | the bill names no machine-readable US Code section |
 | — | redesignate | by striking subsection (h) and redesignating subsections (i) and (j) as subsections (h) and (i), respectively. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 403 of title 23, United States Code, as amended by section 3004 of this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a) by striking “3 campaigns will be carried out in each of fiscal years 2016 through 2020” and inserting “6 campaigns will be carried out in each of fiscal years 2022 through 2025”; | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (1) by striking “or drug-impaired”; | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (2) by inserting “and child restraints” after “seatbelts”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2) by striking “Increase use of seatbelts” and inserting “Increase proper use of seatbelts and child restraints”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (2) as paragraph (3); | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -1623,9 +1948,11 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating paragraph (2) as paragraph (3); | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| `47 U.S.C. § 332` | insert | by inserting “to carry out any of the other activities described in such subsections, or the amount made available” before “under section 402”; | the bill quotes the text inserted but describes where it goes |
+| `47 U.S.C. § 332` | insert | by inserting “to carry out any of the other activities described in such subsections, or the amount made available” before “under section 402(c)(2)”; | the bill quotes the text inserted but describes where it goes |
 | `47 U.S.C. § 332` | redesignate | by redesignating paragraphs (8) and (9) as paragraphs (9) and (10), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 332` | insert | by inserting after paragraph (7) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 332` | replace | in subparagraph (A) by striking clause (v) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 332` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 332` | replace | by striking subsection (c)(4) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 332` | replace | by striking subsection (d)(6)(A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 332` | replace | in subparagraph (C) by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
@@ -1640,20 +1967,26 @@ complete account of the bill's effect, which it is not.
 | `47 U.S.C. § 332` | insert | in paragraph (1) by inserting “subparagraphs (A) and (B) of” before “paragraph (2)”; | the bill quotes the text inserted but describes where it goes |
 | `47 U.S.C. § 332` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 332` | insert | in subparagraph (A) by inserting “subparagraphs (A) and (B) of” before “paragraph (2)”; and | the bill quotes the text inserted but describes where it goes |
-| `47 U.S.C. § 332` | insert | in subparagraph (B) by inserting “subparagraphs (A) and (B) of” before “paragraph (2)” each place such term appears; and | the bill quotes the text inserted but describes where it goes |
+| `47 U.S.C. § 332` | insert | in subparagraph (B) by inserting “subparagraphs (A) and (B) of” before “paragraph (2)” each place such term appears; | the bill quotes the text inserted but describes where it goes |
 | `47 U.S.C. § 332` | replace | by striking paragraph (5) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 332` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | in subparagraph (A) by striking “alcohol-impaired” and inserting “alcohol or polysubstance-impaired”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “alcohol-impaired” and inserting “alcohol or polysubstance-impaired”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “or” and inserting a comma; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “, or driving while polysubstance-impaired” after “driving under the influence”. | the bill names no machine-readable US Code section |
-| — | replace | by striking subsection (a) and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking subsection (c) and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1) by striking “the next fiscal year” and inserting “the following 2 fiscal years”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2) by striking “the next 2 fiscal years” and inserting “the following 3 fiscal years”; and | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3) by striking “the next 4 fiscal years” and inserting “the following 5 fiscal years”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `23 U.S.C. § 153` | strike | in paragraph (1) by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
+| `23 U.S.C. § 153` | replace | in paragraph (2) by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `23 U.S.C. § 153` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 31305` | replace | by striking subsection (a) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 31305` | replace | by striking subsection (c) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 31305` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 31305` | replace | by striking the period at the end and inserting “; and” | the bill quotes the text inserted but describes where it goes |
+| `49 U.S.C. § 31305` | replace | by striking “A recipient” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `49 U.S.C. § 31305` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 31110 of title 49, United States Code, is amended by striking subsection (a) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1) by striking “and (3)” and inserting “, (3), and (4)”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 127 of title 23, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `49 U.S.C. § 31100` | insert | in subsection (b)(1) by inserting “, including small business motor carriers” after “industry”; and | the bill quotes the text inserted but describes where it goes |
 | `49 U.S.C. § 31100` | repeal | Section 5223 of the FAST Act (49 U.S.C. 31100 note), and the item related to such section in the table of contents in section 1(b) of such Act, are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | insert | in paragraph (4)(A) by inserting “, including data submission requirements,” after “terms and conditions”; and | the bill names no machine-readable US Code section |
@@ -1662,14 +1995,19 @@ complete account of the bill's effect, which it is not.
 | — | strike | in subparagraph (A) by striking “who the Secretary registers under section 13902 or 31134”; and | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (B) by inserting “to motor carriers of passengers and” after “apply”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (2) by striking “or” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3) by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 31301(4)(B) of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | Section 31306(c)(2) of title 49, United States Code, is amended by striking “, for urine testing,”. | the bill names no machine-readable US Code section |
-| — | replace | in subsection (c), by striking “This section does not” and inserting “Subsections (a) and (b) shall not”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c) by striking “This section does not” and inserting “Subsections (a) and (b) shall not”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (d) as subsection (e); | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (c) the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “A rail carrier” and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “this section” and inserting “subsection (a) or (b)”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “On learning” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “$750,000” and inserting “$2,000,000”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | `23 U.S.C. § 150` | replace | in clause (ii) by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `23 U.S.C. § 150` | replace | in clause (iii) by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 150` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1680,7 +2018,6 @@ complete account of the bill's effect, which it is not.
 | `23 U.S.C. § 150` | replace | in clause (iv) by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `23 U.S.C. § 150` | replace | in clause (v) by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 150` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `23 U.S.C. § 150` | insert | in paragraph (8)(A) by inserting “, ferry,” after “highway” each place it appears; and | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 150` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `23 U.S.C. § 150` | repeal | Section 6028 of the FAST Act (23 U.S.C. 150 note), and the item relating to such section in the table of contents in section 1(b) of such Act, are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1001` | add-at-end | Section 503 of title 23, United States Code, as amended by section 5101, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1699,11 +2036,16 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1067k` | replace | by striking subparagraph (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1067k` | redesignate | by redesignating subsection (f) as subsection (g); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1067k` | insert | by inserting after subsection (e) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 5505` | insert | Chapter 55 of title 49, United States Code, is amended by inserting after section 5505 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 5505` | add-at-end | Subchapter I of chapter 55 of title 49, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 5505` | insert | The analysis for chapter 55 of title 49, United States Code, is amended by inserting after the item relating to section 5505 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 7545` | add-at-end | Chapter 702 of title 49, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 7545` | add-at-end | The analysis for chapter 702 of title 49, United States Code, is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1531` | insert | in subparagraph (B) by inserting “, resilience,” after “safety”; | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1531` | strike | in subparagraph (D) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1531` | replace | in subparagraph (E) by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1531` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 330(g) of title 49, United States Code, is amended by striking “each of fiscal years 2016 through 2020” and inserting “each of fiscal years 2022 through 2025”. | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (A) by inserting “, while considering the impacts on jobs” after “transportation community”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (D) by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (E) by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -1725,19 +2067,19 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking clause (i) and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | in clause (iv) by inserting “bicyclist and” before “pedestrian”; | the bill names no machine-readable US Code section |
 | — | replace | in clause (vii) by striking “; or” and inserting a semicolon; | the bill names no machine-readable US Code section |
-| — | replace | by striking “accelerate” and inserting “prepare for”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “autonomous” and inserting “automated”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “accelerate” and inserting “prepare for”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking the period and inserting “; or”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | in clause (ii)(II)(aa) by striking “congestion, and costs” and inserting “congestion and delays, greenhouse gas emissions, and costs incurred by road users”; and | the bill names no machine-readable US Code section |
+| — | replace | in clause (ii)(II)(aa) by striking “congestion” and inserting “congestion and delays, greenhouse gas emissions”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | in subparagraph (D) by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “, vehicle-to-pedestrian,” after “vehicle-to-vehicle”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “automated vehicles, systems to improve vulnerable road user safety,” after “technologies associated with” ; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “systems to improve vulnerable road user safety,” before “technologies associated with” ; and | the bill names no machine-readable US Code section |
 | — | insert | in clause (ix) by inserting “, including activities under section 5316 of title 49” after “disabled individuals”; | the bill names no machine-readable US Code section |
 | — | replace | by striking subparagraph (G) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (I) by striking “(i) In general” and all that follows through “the Secretary may set aside” and inserting “Of the amounts made available to carry out this paragraph, the Secretary may set aside”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (J) by striking the period at the end and inserting “, except that the Federal share of the cost of a project for which a grant is awarded under this paragraph shall not exceed 80 percent.”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (K) by striking “amount described under subparagraph (I)” and inserting “funds made available to carry out this paragraph”; | the bill names no machine-readable US Code section |
 | — | replace | by striking subparagraph (M) and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | in clause (i) by inserting “an urbanized area with” before “a population of”; and | the bill names no machine-readable US Code section |
 | — | replace | in clause (iii) by striking “a any” and inserting “any”. | the bill names no machine-readable US Code section |
@@ -1761,8 +2103,8 @@ complete account of the bill's effect, which it is not.
 | — | insert | in paragraph (5) by inserting “, except that section 14 of such Act shall not apply” before the period at the end. | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (5), (6), and (7) as paragraphs (6), (7), and (8), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (4) the following: | the bill names no machine-readable US Code section |
-| `20 U.S.C. § 1001` | add-at-end | Chapter 55 of title 49, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1001` | add-at-end | The analysis for chapter 55 of title 49, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1001` | add-at-end | Subchapter I of chapter 55 of title 49, United States Code, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 5506` | insert | The analysis for chapter 55 of title 49, United States Code, is amended by inserting after the item relating to section 5506, as added by this Act, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Chapter 1 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The analysis for chapter 1 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `23 U.S.C. § 503` | replace | by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1776,7 +2118,8 @@ complete account of the bill's effect, which it is not.
 | — | strike | in subparagraph (B) by striking “or section 6314(b)”; and | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (C) by striking “or section 6314(b)”; and | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (2)(A) by striking “or section 6314(b)”. | the bill names no machine-readable US Code section |
-| — | insert | Section 308(e)(1) of title 49, United States Code, is amended by inserting “, including public ferry systems,” after “mass transportation systems”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter I of chapter 55 of title 49, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections for chapter 55 of subtitle III of title 49, United States Code, is further amended by inserting after the item relating to section 5507, as added by this Act, the following: | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (2) by inserting “in rural and urban areas” after “freight transportation”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B) by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (C) as subparagraph (D); and | the bill names no machine-readable US Code section |
@@ -1825,6 +2168,7 @@ complete account of the bill's effect, which it is not.
 | `49 U.S.C. § 24101` | amend | The item related to section 22906 in the analysis for chapter 229 of title 49, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `45 U.S.C. § 151` | add-at-end | in subsection (b) by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `45 U.S.C. § 151` | insert | in paragraph (1) by inserting “, maintenance, and upgrades” after “Deployment”; | the bill quotes the text inserted but describes where it goes |
+| `45 U.S.C. § 151` | strike | in paragraph (2) by striking “as defined in section 22901(2), except that a project shall not be required to be in a State rail plan developed under chapter 227”; | the bill quotes the text struck but describes what replaces it |
 | `45 U.S.C. § 151` | insert | in paragraph (3) by inserting “or safety” after “address congestion”; | the bill quotes the text inserted but describes where it goes |
 | `45 U.S.C. § 151` | insert | in paragraph (5) by inserting “or to establish new quiet zones” before the period at the end; and | the bill quotes the text inserted but describes where it goes |
 | `45 U.S.C. § 151` | insert | in paragraph (9) by inserting “or commuter rail passenger transportation (as such term is defined in section 24102)” after “between intercity rail passenger transportation”; | the bill quotes the text inserted but describes where it goes |
@@ -1835,6 +2179,7 @@ complete account of the bill's effect, which it is not.
 | `45 U.S.C. § 822` | insert | in subparagraph (D) by inserting “, permitting,” after “reimburse planning”; and | the bill quotes the text inserted but describes where it goes |
 | `45 U.S.C. § 822` | strike | by striking paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `45 U.S.C. § 822` | add-at-end | in paragraph (3) by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `45 U.S.C. § 822` | insert | by inserting “In the case of an applicant seeking a loan that is less than 50 percent of the total cost of the project, half of the credit risk premiums under this subsection shall be paid to the Secretary before the disbursement of loan… | the bill quotes the text inserted but describes where it goes |
 | `45 U.S.C. § 822` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `45 U.S.C. § 822` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4321` | amend | in subparagraph (B) by adding “or” at the end; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1847,11 +2192,12 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “between crowded urban areas and in other areas of” and inserting “throughout”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2) by striking the period and inserting “, thereby providing additional capacity for the traveling public and widespread air quality benefits.”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “greater” and inserting “high”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “to Amtrak to achieve a performance level sufficient to justify expending public money” and inserting “in order to meet the passenger rail needs of the United States”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “to Amtrak to achieve a performance level sufficient to justify expending public money” and inserting “in order to meet the intercity passenger rail needs of the United States”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “intercity and” after “efficient”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “the energy conservation and self-sufficiency” and inserting “addressing climate change, energy conservation, and self-sufficiency”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “the energy conservation and self-sufficiency” and inserting “addressing climate change, energy conservation, and self-sufficiency”; | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (6) by striking “through its subsidiary, Amtrak Commuter,”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (b) by striking “The” and all that follows through “consistent” and inserting “The mission of Amtrak is to provide a safe, efficient, and high-quality national passenger rail system, consistent”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b) by striking “The” and all that follows through “consistent” and inserting “The mission of Amtrak is to provide a safe, efficient, and high-quality national intercity passenger rail system that is trip-time competitive w… | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “minimize Government subsidies by encouraging” and inserting “work with”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking the semicolon and inserting “and improvements to service;”; | the bill names no machine-readable US Code section |
@@ -1894,6 +2240,8 @@ complete account of the bill's effect, which it is not.
 | `49 U.S.C. § 24101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 24101` | redesignate | by redesignating subsections (g) and (h) as subsections (j) and (k), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 24101` | insert | by inserting after subsection (f) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 24101` | redesignate | by redesignating subparagraph (B) as subparagraph (C); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 24101` | insert | by inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 24312` | amend | Section 24321 of title 49, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 24312` | amend | The item related to section 24321 in the analysis for chapter 243 of title 49, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 24312` | strike | Section 24305(c)(4) of title 49, United States Code, is amended by striking “only if revenues from the services each year at least equal the cost of providing the services”. | the bill quotes the text struck but describes what replaces it |
@@ -1902,9 +2250,18 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 24312 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 12102` | replace | in paragraph (1) by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 12102` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Chapter 243 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | The analysis for chapter 243 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 243 of title 49, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The analysis for chapter 243 of title 49, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 24315 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “If the on-time” and inserting “If either the on-time”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “, measured at each station on its route based upon the arrival times plus 15 minutes shown in schedules Amtrak and the host railroad have agreed to or have been determined by the Surface Transportation Board pursuant to sec… | the bill names no machine-readable US Code section |
+| — | replace | by striking “or the service quality of” and inserting “or the on-time performance of”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2) by striking “minimum standards investigated under paragraph (1)” and inserting “either performance standard under paragraph (1)”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (4) by striking “or failures to achieve minimum standards” and inserting “or failure to achieve either performance standard under paragraph (1)”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 243 of title 49, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The analysis for chapter 243 of title 49, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 243 of title 49, United States Code, is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | The analysis for chapter 243 of title 49, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A) by striking “members” and inserting “4 members”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B) by striking “members” and inserting “5 members”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (D) by striking “and commuter railroad carriers using the Northeast Corridor selected by the Secretary” and inserting “railroad carriers and commuter authorities using the Northeast Corridor, as determined by the Commissi… | the bill names no machine-readable US Code section |
