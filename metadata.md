@@ -1,7 +1,7 @@
 ---
 measure: H.R. 51
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 51
@@ -16,7 +16,7 @@ Washington, D.C. Admission Act
 
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
-## Cosponsors (155)
+## Cosponsors (228)
 
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 - Rep. Huffman, Jared [D-CA-2] (H001068)
@@ -173,11 +173,89 @@ Washington, D.C. Admission Act
 - Rep. Sires, Albio [D-NJ-8] (S001165)
 - Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
 - Rep. Kuster, Ann M. [D-NH-2] (K000382)
+- Rep. Trone, David J. [D-MD-6] (T000483)
+- Rep. Aguilar, Pete [D-CA-31] (A000371)
+- Rep. Tlaib, Rashida [D-MI-13] (T000481)
+- Rep. Hill, Katie [D-CA-25] (H001087)
+- Rep. Wexton, Jennifer [D-VA-10] (W000825)
+- Rep. Haaland, Debra A. [D-NM-1] (H001080)
+- Rep. Kennedy, Joseph P., III [D-MA-4] (K000379)
+- Rep. Cox, TJ [D-CA-21] (C001124)
+- Rep. Underwood, Lauren [D-IL-14] (U000040)
+- Rep. Garcia, Sylvia R. [D-TX-29] (G000587)
+- Rep. Levin, Andy [D-MI-9] (L000592)
+- Rep. Omar, Ilhan [D-MN-5] (O000173)
+- Del. Plaskett, Stacey E. [D-VI-At Large] (P000610)
+- Rep. Porter, Katie [D-CA-45] (P000618)
+- Rep. Neguse, Joe [D-CO-2] (N000191)
+- Rep. Pappas, Chris [D-NH-1] (P000614)
+- Rep. Ocasio-Cortez, Alexandria [D-NY-14] (O000172)
+- Rep. Garcia, Jesus G. [D-IL-4] (G000586)
+- Rep. Pressley, Ayanna [D-MA-7] (P000617)
+- Rep. Horsford, Steven [D-NV-4] (H001066)
+- Rep. Schrader, Kurt [D-OR-5] (S001180)
+- Rep. Case, Ed [D-HI-1] (C001055)
+- Rep. Malinowski, Tom [D-NJ-7] (M001203)
+- Rep. Crow, Jason [D-CO-6] (C001121)
+- Rep. Trahan, Lori [D-MA-3] (T000482)
+- Rep. Kim, Andy [D-NJ-3] (K000394)
+- Rep. Mucarsel-Powell, Debbie [D-FL-26] (M001207)
+- Rep. Gabbard, Tulsi [D-HI-2] (G000571)
+- Rep. Rouda, Harley [D-CA-48] (R000616)
+- Rep. Rose, Max [D-NY-11] (R000613)
+- Rep. Allred, Colin Z. [D-TX-32] (A000376)
+- Rep. Garamendi, John [D-CA-3] (G000559)
+- Rep. Lee, Susie [D-NV-3] (L000590)
+- Rep. Houlahan, Chrissy [D-PA-6] (H001085)
+- Rep. Dean, Madeleine [D-PA-4] (D000631)
+- Rep. Escobar, Veronica [D-TX-16] (E000299)
+- Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
+- Rep. Casten, Sean [D-IL-6] (C001117)
+- Rep. Kirkpatrick, Ann [D-AZ-2] (K000368)
+- Rep. Luria, Elaine G. [D-VA-2] (L000591)
+- Del. San Nicolas, Michael F. Q. [D-GU-At Large] (S001204)
+- Rep. Stevens, Haley M. [D-MI-11] (S001215)
+- Rep. Shalala, Donna E. [D-FL-27] (S001206)
+- Rep. Delgado, Antonio [D-NY-19] (D000630)
+- Rep. Levin, Mike [D-CA-49] (L000593)
+- Rep. Davids, Sharice [D-KS-3] (D000629)
+- Rep. Phillips, Dean [D-MN-3] (P000616)
+- Rep. Finkenauer, Abby [D-IA-1] (F000467)
+- Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
+- Rep. Hoyer, Steny H. [D-MD-5] (H000874)
+- Rep. Hayes, Jahana [D-CT-5] (H001081)
+- Rep. Sherrill, Mikie [D-NJ-11] (S001207)
+- Rep. McBath, Lucy [D-GA-6] (M001208)
+- Rep. Heck, Denny [D-WA-10] (H001064)
+- Rep. Gonzalez, Vicente [D-TX-15] (G000581)
+- Rep. Bera, Ami [D-CA-7] (B001287)
+- Rep. Ruiz, Raul [D-CA-36] (R000599)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
+- Rep. Van Drew, Jefferson [D-NJ-2] (V000133)
+- Rep. Harder, Josh [D-CA-10] (H001090)
+- Rep. Fletcher, Lizzie [D-TX-7] (F000468)
+- Rep. Cisneros, Gilbert Ray, Jr. [D-CA-39] (C001123)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Schrier, Kim [D-WA-8] (S001216)
+- Rep. Axne, Cynthia [D-IA-3] (A000378)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Costa, Jim [D-CA-16] (C001059)
+- Rep. Stanton, Greg [D-AZ-9] (S001211)
+- Rep. Lamb, Conor [D-PA-17] (L000588)
+- Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Mfume, Kweisi [D-MD-7] (M000687)
+- Rep. Morelle, Joseph D. [D-NY-25] (M001206)
+- Rep. Horn, Kendra S. [D-OK-5] (H001083)
 
 ## Committees (2)
 
 - House — Oversight and Accountability Committee
 - House — Rules Committee
+
+## Recorded votes (2)
+
+- 2020-06-26 — [House 116-2-121](votes/house-116-2-0121.md) — On Motion to Recommit with Instructions — **Failed** (182–227)
+- 2020-06-26 — [House 116-2-122](votes/house-116-2-0122.md) — On Passage — **Passed** (232–180)
 
 ## Actions
 
@@ -185,3 +263,21 @@ Washington, D.C. Admission Act
 - 2019-01-03 — Introduced in House
 - 2019-01-03 — Referred to the Committee on Oversight and Reform, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-01-03 — Referred to the Committee on Oversight and Reform, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-09-19 — Committee Hearings Held.
+- 2019-12-19 — Committee Hearings Held.
+- 2020-06-26 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2020-06-26 — Considered as unfinished business. (consideration: CR H2555-2557)
+- 2020-06-26 — Considered under the provisions of rule H. Res. 1017. (consideration: CR H2521-2544)
+- 2020-06-26 — DEBATE - The House proceeded with 10 minutes of debate on the Keller motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment requiring the President to make specified amendments to the State Constitution.
+- 2020-06-26 — DEBATE - The House proceeded with one hour of debate on H.R. 51.
+- 2020-06-26 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2020-06-26 — House amendment offered
+- 2020-06-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-06-26 — Mr. Keller moved to recommit with instructions to the Committee on Oversight and Reform. (text: CR H2542-2543)
+- 2020-06-26 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2020-06-26 — On motion to recommit with instructions Failed by the Yeas and Nays: 182 - 227 (Roll no. 121).
+- 2020-06-26 — On passage Passed by the Yeas and Nays: 232 - 180 (Roll no. 122). (text: CR H2521-2531)
+- 2020-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the motion to recommit with instructions, the Chair put the question on the motion and by voice vote, announced that the noes had prevailed. Mr. Keller demanded the yeas and nays and the Chair postponed further consideration on the motion to recommit until a time to be announced.
+- 2020-06-26 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 232 - 180 (Roll no. 122).(text: CR H2521-2531)
+- 2020-06-26 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2020-06-26 — The previous question was ordered pursuant to the rule.
