@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 7409
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7409
+
+> To temporarily extend participation in the 8(a) program of the Small Business Administration, and for other purposes.
+
+## § 1. Extension of participation in 8(a) program
+
+The Administrator of the Small Business Administration shall ensure that a small business concern participating in the program established under section 8(a) of the Small Business Act (15 U.S.C. 637) on or before March 13, 2020, may elect to extend such participation by a period of up to 2 years, regardless of whether such concern previously elected to suspend participation in such program pursuant to guidance of the Administrator.
