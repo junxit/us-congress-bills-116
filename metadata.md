@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7036
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 7036
@@ -40,3 +40,4 @@ Antitrust Criminal Penalty Enhancement and Reform Permanent Extension Act
 - 2020-06-25 — Mr. Nadler asked unanimous consent to discharge from committee and consider.
 - 2020-06-25 — On passage Passed without objection. (text: CR H2439)
 - 2020-06-25 — Passed/agreed to in House: On passage Passed without objection.(text: CR H2439)
+- 2020-06-29 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 486.
