@@ -1,7 +1,7 @@
 ---
 measure: S. 4091
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 derived: true
 ---
 

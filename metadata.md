@@ -1,7 +1,7 @@
 ---
 measure: S. 4091
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 4091
@@ -32,3 +32,9 @@ Emergency Aid for Returning Americans Affected by Coronavirus Act
 - 2020-06-29 — Passed/agreed to in House: On passage Passed without objection.(text: CR H2669)
 - 2020-06-29 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.(consideration: CR S3628; text: CR S3628)
 - 2020-06-29 — Received in the House.
+- 2020-07-01 — Presented to President.
+- 2020-07-01 — Presented to President.
+- 2020-07-13 — Became Public Law No: 116-148.
+- 2020-07-13 — Became Public Law No: 116-148.
+- 2020-07-13 — Signed by President.
+- 2020-07-13 — Signed by President.
