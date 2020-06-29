@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1425
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1425
@@ -97,3 +97,21 @@ Patient Protection and Affordable Care Enhancement Act
 - 2020-03-09 — Placed on the Union Calendar, Calendar No. 334.
 - 2020-03-09 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-414.
 - 2020-03-09 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-414.
+- 2020-06-24 — Rules Committee Resolution H. Res. 1017 Reported to House. Rule provides for consideration of H.R. 1425, H.R. 5332, H.R. 7120, H.R. 7301 and H.J. Res. 90. The resolution provides that the provisions of section 125(c) of the Uruguay Round Agreements Act shall not apply during the remainder of the 116th Congress and the resolution amends H.Res. 967, agreed to on May 15, 2020.
+- 2020-06-29 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2020-06-29 — Considered as unfinished business. (consideration: CR H2664-2665)
+- 2020-06-29 — Considered under the provisions of rule H. Res. 1017. (consideration: CR H2599-2644)
+- 2020-06-29 — DEBATE - The House proceeded with three hours of debate on H.R. 1425.
+- 2020-06-29 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Walden motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to prevent the bill from taking effect unless the Secretary of Health and Human Services certifies that no provision of the bill would adversely affect research related to any drug intended to treat or prevent the virus that causes COVID-19.
+- 2020-06-29 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2020-06-29 — House amendment offered
+- 2020-06-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-06-29 — Mr. Walden moved to recommit with instructions to the Committee on Energy and Commerce. (text: CR H2642-2643)
+- 2020-06-29 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2020-06-29 — On motion to recommit with instructions Failed by the Yeas and Nays: 187 - 223 (Roll no. 123).
+- 2020-06-29 — On passage Passed by the Yeas and Nays: 234 - 179 (Roll no. 124). (text: CR H2599-2614)
+- 2020-06-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the motion to recommit with instructions, the Chair put the question on the motion and by voice vote, announced that the noes had prevailed. Mr. Walden demanded the yeas and nays and the Chair postponed further consideration on the motion to recommit until a time to be announced.
+- 2020-06-29 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 234 - 179 (Roll no. 124).
+- 2020-06-29 — Rule provides for consideration of H.R. 1425, H.R. 5332, H.R. 7120, H.R. 7301 and H.J. Res. 90. The resolution provides that the provisions of section 125(c) of the Uruguay Round Agreements Act shall not apply during the remainder of the 116th Congress and the resolution amends H.Res. 967, agreed to on May 15, 2020.
+- 2020-06-29 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2020-06-29 — The previous question was ordered pursuant to the rule.

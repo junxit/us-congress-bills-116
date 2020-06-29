@@ -11,8 +11,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “State Health Care Premium Reduction Act”.
+This Act may be cited as the “Patient Protection and Affordable Care Enhancement Act”.
 
-## § 2. Improve Health Insurance Affordability Fund
+## § 2. Table of contents
 
-Subtitle D of title I of the Patient Protection and Affordable Care Act is amended by inserting after part 5 (42 U.S.C. 18061 et seq.) the following new part:
+The table of contents for this Act is as follows:
