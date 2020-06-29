@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3094
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3094
@@ -65,9 +65,10 @@ To designate the National Pulse Memorial located at 1912 South Orange Avenue, Or
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 - Rep. Meng, Grace [D-NY-6] (M001188)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -89,3 +90,4 @@ To designate the National Pulse Memorial located at 1912 South Orange Avenue, Or
 - 2020-06-26 — Mr. Soto moved to suspend the rules and pass the bill, as amended.
 - 2020-06-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2544)
 - 2020-06-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2544)
+- 2020-06-29 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
