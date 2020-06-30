@@ -1,6 +1,6 @@
 ---
 legis-num: S. 4116
-congress: 116th CONGRESS
+congress: One Hundred Sixteenth Congress of the United States of America
 session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
@@ -15,4 +15,4 @@ Section 1102(b) of title I of division A of the Coronavirus Aid, Relief, and Eco
 
 > - **(b)** *Commitments for PPP and other 7(a) loans*
 >   - **(1)** *PPP loans* During the period beginning on February 15, 2020 and ending on August 8, 2020, the amount authorized for commitments under paragraph (36) of section 7(a) of the Small Business Act (15 U.S.C. 636(a)) shall be $659,000,000,000.
->   - **(2)** *Other 7(a) loans* During fiscal year 2020, the amount authorized for commitments for section 7(a) of the Small Business Act (15 U.S.C. 636(a)) under the heading “Business loans program account” under the heading “Small business administration” under title V of the Consolidated Appropriations Act, 2020 (Public Law 116– 93; 133 Stat. 2475) shall apply with respect to any commitments under such section 7(a) other than under paragraph (36) of such section 7(a).
+>   - **(2)** *Other 7(a) loans* During fiscal year 2020, the amount authorized for commitments for section 7(a) of the Small Business Act (15 U.S.C. 636(a)) under the heading “Business loans program account” under the heading “Small business administration” under title V of the Consolidated Appro priations Act, 2020 (Public Law 116–93; 133 Stat. 2475) shall apply with respect to any commitments under such section 7(a) other than under paragraph (36) of such section 7(a).

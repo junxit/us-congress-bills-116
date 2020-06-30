@@ -1,7 +1,7 @@
 ---
 measure: S. 4116
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 4116
@@ -30,3 +30,16 @@ A bill to extend the authority for commitments for the paycheck protection progr
 - 2020-06-30 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S4024; text: CR S4024)
 - 2020-06-30 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S4024; text: CR S4024)
 - 2020-06-30 — Senate amendment submitted
+- 2020-07-01 — Considered by unanimous consent. (consideration: CR H3044)
+- 2020-07-01 — Message on Senate action sent to the House.
+- 2020-07-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-07-01 — Ms. Craig asked unanimous consent to take from the Speaker's table and consider.
+- 2020-07-01 — On passage Passed without objection. (text: CR H3044)
+- 2020-07-01 — Passed/agreed to in House: On passage Passed without objection.(text: CR H3044)
+- 2020-07-01 — Received in the House.
+- 2020-07-02 — Presented to President.
+- 2020-07-02 — Presented to President.
+- 2020-07-04 — Became Public Law No: 116-147.
+- 2020-07-04 — Became Public Law No: 116-147.
+- 2020-07-04 — Signed by President.
+- 2020-07-04 — Signed by President.
