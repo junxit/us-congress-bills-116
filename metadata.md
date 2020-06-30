@@ -1,7 +1,7 @@
 ---
 measure: S. 3758
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3758
@@ -38,3 +38,18 @@ A bill to amend the Klamath Basin Water Supply Enhancement Act of 2000 to make c
 - 2020-06-30 — Senate amendment agreed to: Amendment SA 2388 agreed to in Senate by Unanimous Consent.
 - 2020-06-30 — Senate amendment proposed (on the floor): Amendment SA 2388 proposed by Senator Perdue for Senator Merkley.
 - 2020-06-30 — Senate amendment submitted
+- 2020-07-01 — Held at the desk.
+- 2020-07-01 — Message on Senate action sent to the House.
+- 2020-07-01 — Received in the House.
+- 2020-10-01 — Considered under suspension of the rules. (consideration: CR H5180-5183)
+- 2020-10-01 — DEBATE - The House proceeded with forty minutes of debate on S. 3758.
+- 2020-10-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-10-01 — Mrs. Dingell moved to suspend the rules and pass the bill.
+- 2020-10-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5180)
+- 2020-10-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-10-20 — Presented to President.
+- 2020-10-20 — Presented to President.
+- 2020-10-30 — Became Public Law No: 116-191.
+- 2020-10-30 — Became Public Law No: 116-191.
+- 2020-10-30 — Signed by President.
+- 2020-10-30 — Signed by President.
