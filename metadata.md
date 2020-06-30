@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5332
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5332
@@ -55,3 +55,4 @@ Protecting Your Credit Score Act of 2020
 - 2020-06-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the motion to recommit with instructions, the Chair put the question on the motion and by voice vote, announced that the noes had prevailed. Mr. Riggleman demanded the yeas and nays and the Chair postponed further consideration on the motion to recommit until a time to be announced.
 - 2020-06-29 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 234 - 179 (Roll no. 126).
 - 2020-06-29 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2020-06-30 — Received in the Senate.
