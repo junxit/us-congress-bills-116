@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7301
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
