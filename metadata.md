@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7259
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 7259
@@ -37,3 +37,5 @@ Patents for Humanity Program Improvement Act
 - 2020-06-25 — Mr. Johnson (GA) moved to suspend the rules and pass the bill.
 - 2020-06-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2503)
 - 2020-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2503)
+- 2020-06-29 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2020-06-30 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 488.
