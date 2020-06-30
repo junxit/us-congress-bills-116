@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 90
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 90
@@ -125,3 +125,4 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2020-06-29 — Motion to reconsider laid on the table Agreed to without objection.
 - 2020-06-29 — On passage Passed by the Yeas and Nays: 230 - 179 (Roll no. 129). (text: 06/26/2020 CR H2571)
 - 2020-06-29 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 230 - 179 (Roll no. 129).(text: 06/26/2020 CR H2571)
+- 2020-06-30 — Received in the Senate.
