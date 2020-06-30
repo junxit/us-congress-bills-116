@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7259
 congress: 116
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7259
@@ -39,3 +39,12 @@ Patents for Humanity Program Improvement Act
 - 2020-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2503)
 - 2020-06-29 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2020-06-30 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 488.
+- 2020-12-15 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7507)
+- 2020-12-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7507)
+- 2020-12-16 — Message on Senate action sent to the House.
+- 2020-12-24 — Presented to President.
+- 2020-12-24 — Presented to President.
+- 2021-01-05 — Became Public Law No: 116-316.
+- 2021-01-05 — Became Public Law No: 116-316.
+- 2021-01-05 — Signed by President.
+- 2021-01-05 — Signed by President.
