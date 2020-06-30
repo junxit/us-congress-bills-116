@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 7424
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7424
+
+> To amend title 10, United States Code, to increase the amount which may be paid to members of the Selected Reserve under the education loan repayment program, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Selected Reserve Education Loan Repayment Program Enhancement Act”.
+
+## § 2. Modification of education loan repayment program for members of Selected Reserve
+
+- **(a)** *Modification of maximum repayment amount* Section 16301(b) of title 10, United States Code, is amended by striking “15 percent or $500” and inserting “20 percent or $1,000”.
+- **(b)** *Effective date and applicability* The amendment made by subsection (a) shall take effect on the date of the enactment of this Act and shall apply with respect to loan repayment under section 16301 of title 10, United States Code, for eligible years of service completed on or after the date of the enactment of this Act.
