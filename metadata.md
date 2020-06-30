@@ -1,7 +1,7 @@
 ---
 measure: S. 2864
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2864
@@ -16,13 +16,14 @@ Sergeant Daniel Somers Veterans Network of Support Act of 2019
 
 - Sen. Sinema, Kyrsten [D-AZ] (S001191)
 
-## Cosponsors (5)
+## Cosponsors (6)
 
 - Sen. Tillis, Thomas [R-NC] (T000476)
 - Sen. Blackburn, Marsha [R-TN] (B001243)
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 - Sen. Daines, Steve [R-MT] (D000618)
 - Sen. Loeffler, Kelly [R-GA] (L000594)
+- Sen. Ernst, Joni [R-IA] (E000295)
 
 ## Committees (1)
 
@@ -36,3 +37,5 @@ Sergeant Daniel Somers Veterans Network of Support Act of 2019
 - 2020-02-05 — Committee on Veterans' Affairs. Reported by Senator Moran with an amendment in the nature of a substitute. Without written report.
 - 2020-02-05 — Committee on Veterans' Affairs. Reported by Senator Moran with an amendment in the nature of a substitute. Without written report.
 - 2020-02-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 414.
+- 2020-06-30 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4080-4081; text of amendment in the nature of a substitute: CR S4080-4081)
+- 2020-06-30 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S4080-4081; text of amendment in the nature of a substitute: CR S4080-4081)

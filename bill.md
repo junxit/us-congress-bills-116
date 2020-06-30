@@ -20,7 +20,7 @@ This Act may be cited as the “Sergeant Daniel Somers Veterans Network of Suppo
     - **(A)** to encourage members of the Armed Forces who are transitioning from service in the Armed Forces to civilian life, before separating from such service, to designate up to 10 persons to whom information regarding the assistance and benefits available to the veterans under laws administered by the Secretary shall be disseminated using the contact information obtained under paragraph (7); and
     - **(B)** provides such persons, within 30 days after the date on which such persons are designated under subparagraph (A), the option to elect to receive such information.
   - **(2)** *Duration* The Secretary shall carry out the pilot program during a period beginning on the date of the commencement of the pilot program that is not less than two years.
-  - **(3)** *Dissemination* The Secretary shall disseminate information described in paragraph (1)(A) under the pilot program on a regular basis.
+  - **(3)** *Dissemination* The Secretary shall disseminate information described in paragraph (1)(A) under the pilot program no less frequently than quarterly.
   - **(4)** *Types of information* The types of information to be disseminated under the pilot program to persons who elect to receive such information shall include information regarding the following:
     - **(A)** Services and benefits offered to veterans and their family members by the Department of Veterans Affairs.
     - **(B)** Challenges and stresses that might accompany transitioning from service in the Armed Forces to civilian life.
