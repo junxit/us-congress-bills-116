@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1001
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1001
@@ -16,7 +16,7 @@ Recognizing June 19, 2020, as this year’s observance of the historical signifi
 
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 
-## Cosponsors (202)
+## Cosponsors (214)
 
 - Rep. Lewis, John [D-GA-5] (L000287)
 - Rep. Sewell, Terri A. [D-AL-7] (S001185)
@@ -220,6 +220,18 @@ Recognizing June 19, 2020, as this year’s observance of the historical signifi
 - Rep. Kim, Andy [D-NJ-3] (K000394)
 - Rep. Doggett, Lloyd [D-TX-35] (D000399)
 - Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. Amodei, Mark E. [R-NV-2] (A000369)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Rep. Stivers, Steve [R-OH-15] (S001187)
+- Rep. Kirkpatrick, Ann [D-AZ-2] (K000368)
+- Rep. Finkenauer, Abby [D-IA-1] (F000467)
+- Rep. Lawrence, Brenda L. [D-MI-14] (L000581)
+- Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
+- Rep. Lamb, Conor [D-PA-17] (L000588)
+- Rep. Heck, Denny [D-WA-10] (H001064)
+- Rep. Hill, J. French [R-AR-2] (H001072)
+- Rep. Pappas, Chris [D-NH-1] (P000614)
 
 ## Committees (1)
 
@@ -230,3 +242,10 @@ Recognizing June 19, 2020, as this year’s observance of the historical signifi
 - 2020-06-15 — Introduced in House
 - 2020-06-15 — Introduced in House
 - 2020-06-15 — Referred to the House Committee on Oversight and Reform.
+- 2020-06-30 — Committee on Oversight and Reform discharged.
+- 2020-06-30 — Committee on Oversight and Reform discharged.
+- 2020-06-30 — Considered by unanimous consent. (consideration: CR H2682)
+- 2020-06-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-06-30 — Ms. Jackson Lee asked unanimous consent to discharge from committee and consider.
+- 2020-06-30 — On agreeing to the resolution Agreed to without objection. (text: CR H2682)
+- 2020-06-30 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H2682)
