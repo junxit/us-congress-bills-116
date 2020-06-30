@@ -2,14 +2,14 @@
 legis-num: H. RES. 1028
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1028
 
 > Providing for consideration of the bill (H.R. 2) to authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes.
 
-That upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 2) to authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes. All points of order against consideration of the bill are waived. In lieu of the amendment in the nature of a substitute recommended by the Committee on Transportation and Infrastructure now printed in the bill, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 116-54, modified by the amendment printed in part A of the report of the Committee on Rules accompanying this resolution, shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) two hours of debate equally divided and controlled by the chair and ranking minority member of the Committee on Transportation and Infrastructure; (2) the amendments en bloc described in sections 2 through 7 of this resolution; (3) the further amendments described in sections 8 and 9 of this resolution; and (4) one motion to recommit with or without instructions.
+That upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 2) to authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes. All points of order against consideration of the bill are waived. In lieu of the amendment in the nature of a substitute recommended by the Committee on Transportation and Infrastructure now printed in the bill, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 116–54, modified by the amendment printed in part A of the report of the Committee on Rules accompanying this resolution, shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) two hours of debate equally divided and controlled by the chair and ranking minority member of the Committee on Transportation and Infrastructure; (2) the amendments en bloc described in sections 2 through 7 of this resolution; (3) the further amendments described in sections 8 and 9 of this resolution; and (4) one motion to recommit with or without instructions.
 
 ## § 2.
 
