@@ -1,0 +1,26 @@
+---
+legis-num: S. 4123
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4123
+
+> To direct the Secretary of Transportation to conduct research regarding and require the use of driver monitoring systems to minimize or eliminate motor vehicle driver distraction.
+
+## § 1. Short title
+
+This Act may be cited as the “Stay Aware For Everyone Act of 2020” or the “SAFE Act of 2020”.
+
+## § 2. Research regarding reduction or elimination of driver distraction
+
+- **(a)** *In general* Not later than 2 years after the date of enactment of this Act, the Secretary of Transportation shall conduct research regarding the installation and use on motor vehicles of driver monitoring systems to minimize or eliminate—
+  - **(1)** driver distraction;
+  - **(2)** driver disengagement;
+  - **(3)** automation complacency by drivers; and
+  - **(4)** foreseeable misuse of advanced driver-assist systems.
+- **(b)** *Report* Not later than 180 days after the date of completion of the research under subsection (a), the Secretary of Transportation shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a detailed report describing the findings of the research.
+- **(c)** *Rulemaking*
+  - **(1)** *In general* Not later than 4 years after the date of enactment of this Act, the Secretary of Transportation shall issue a final rule to establish performance standards for driver monitoring systems and require those systems to be installed on all new passenger motor vehicles, subject to paragraph (2).
+  - **(2)** *Compliance date* The compliance date of the performance standards and installation requirement prescribed under paragraph (1) shall be not later than 2 motor vehicle model years after the effective date of the final rule issued under that paragraph.
