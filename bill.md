@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 7467
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7467
+
+> To amend the Public Works and Economic Development Act of 1965 to allow a grantee of revolving loan funds to transfer certain funds to other eligible projects.
+
+## § 1. Short title
+
+This Act may be cited as the “Revolving Loan Fund Flexibility Act of 2020”.
+
+## § 2. Revolving loan fund flexibility
+
+Section 209(d) of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3149(d)) is amended—
+
+- **(1)** by redesignating paragraphs (3) and (4) as paragraphs (4) and (5); and
+- **(2)** by inserting after paragraph (2) the following:
+  > - **(3)** *Revolving loan fund repurposing*
+  >   - **(A)** *In general* A grantee of revolving loan funds may, upon request, transfer any funds that have been repaid to a revolving loan fund under this section to any other project eligible to receive funding under this section.
+  >   - **(B)** *Eligibility* To be eligible to transfer revolving loan funds under this paragraph, a grantee shall have more cash available for lending than the average cash available for lending in the EDA region in which such grantee is located.
+  >   - **(C)** *Discretion* The Secretary shall retain the discretion to approve or deny a transfer request under this paragraph.
+  >   - **(D)** *Cash available for lending defined* In this paragraph, the term “cash available for lending” means the revolving loan fund cash available for lending net of the committed revolving loan fund cash.
