@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2
@@ -166,3 +166,115 @@ Moving Forward Act
 - 2020-06-26 — Placed on the Union Calendar, Calendar No. 350.
 - 2020-06-26 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 116-437.
 - 2020-06-26 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 116-437.
+- 2020-06-29 — Rules Committee Resolution H. Res. 1028 Reported to House. Rule provides for consideration of H.R. 2 with 2 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2020-06-30 — Amendment agreed to by House: On agreeing to the DeFazio amendments (A002) Agreed to by the Yeas and Nays: 229 - 189 (Roll no. 132).
+- 2020-06-30 — Amendment agreed to by House: On agreeing to the Lipinski amendments (A003) Agreed to by voice vote.
+- 2020-06-30 — Amendment agreed to by House: On agreeing to the Pallone amendments (A004) Agreed to by the Yeas and Nays: 234 - 178 (Roll no. 133).
+- 2020-06-30 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2020-06-30 — Amendments en bloc (A002) offered by Mr. DeFazio. (consideration: CR H2939-2951, H2976-2977; text: CR H2939-2944)
+- 2020-06-30 — Amendments en bloc (A003) offered by Mr. Lipinski. (consideration: CR H2951-2963; text: CR H2951-2959)
+- 2020-06-30 — Amendments en bloc (A004) offered by Mr. Pallone. (consideration: CR H2963-2976, H2977-2978; text: CR H2963-2973)
+- 2020-06-30 — Considered under the provisions of rule H. Res. 1028. (consideration: CR H2694-2978; text: CR H2694-2918)
+- 2020-06-30 — DEBATE - Pursuant to the provisions of H. Res. 1028, the House proceeded with 30 minutes of debate on the Lipinski amendment en bloc No. 2.
+- 2020-06-30 — DEBATE - Pursuant to the provisions of H. Res. 1028, the House proceeded with 30 minutes of debate on the Pallone amendment en bloc No. 3.
+- 2020-06-30 — DEBATE - Pursuant to the provisions of H.Res. 1028, the House proceeded with one hour of debate on the DeFazio amendment en bloc No. 1.
+- 2020-06-30 — DEBATE - The House proceeded with two hours of debate on H.R. 2.
+- 2020-06-30 — House amendment agreed to: On agreeing to the DeFazio amendments (A002) Agreed to by the Yeas and Nays: 229 - 189 (Roll no. 132).
+- 2020-06-30 — House amendment agreed to: On agreeing to the Lipinski amendments (A003) Agreed to by voice vote.
+- 2020-06-30 — House amendment agreed to: On agreeing to the Pallone amendments (A004) Agreed to by the Yeas and Nays: 234 - 178 (Roll no. 133).
+- 2020-06-30 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2020-06-30 — House amendment offered
+- 2020-06-30 — House amendment offered
+- 2020-06-30 — House amendment offered
+- 2020-06-30 — House amendment offered
+- 2020-06-30 — House amendment offered/reported by: Amendments en bloc (A002) offered by Mr. DeFazio.
+- 2020-06-30 — House amendment offered/reported by: Amendments en bloc (A003) offered by Mr. Lipinski.
+- 2020-06-30 — House amendment offered/reported by: Amendments en bloc (A004) offered by Mr. Pallone.
+- 2020-06-30 — On agreeing to the DeFazio amendments (A002) Agreed to by the Yeas and Nays: 229 - 189 (Roll no. 132).
+- 2020-06-30 — On agreeing to the Lipinski amendments (A003) Agreed to by voice vote.
+- 2020-06-30 — On agreeing to the Pallone amendments (A004) Agreed to by the Yeas and Nays: 234 - 178 (Roll no. 133).
+- 2020-06-30 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2020-06-30 — POSTPONED PROCEEDINGS - At the conclusion of debate on the DeFazio amendment en bloc No. 1, the Chair put the question on adoption of the amendment, and by voice vote, announced that the ayes had prevailed. Mr. Graves (MO) demanded the yeas and nays and the Chair postponed further proceedings on the amendment until a time to be announced.
+- 2020-06-30 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pallone amendment en bloc No. 3, the Chair put the question on adoption of the amendment, and by voice vote, announced that the ayes had prevailed. Mr. Shimkus demanded the yeas and nays and the Chair postponed further proceedings on the amendment until a time to be announced.
+- 2020-06-30 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of Rule XIX, further proceedings on H.R. 2 were postponed.
+- 2020-06-30 — Roll call votes on amendments in House
+- 2020-06-30 — Roll call votes on amendments in House
+- 2020-06-30 — Rule H. Res. 1028 passed House.
+- 2020-06-30 — Rule provides for consideration of H.R. 2 with 2 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2020-06-30 — The motions to reconsider the votes on amendments en bloc numbers one, two, and three to H.R. 2 are laid on the table. Agreed to without objection.
+- 2020-06-30 — The previous question was ordered on the amendment (A002) pursuant to the rule.
+- 2020-06-30 — The previous question was ordered on the amendment (A003) pursuant to the rule.
+- 2020-06-30 — The previous question was ordered on the amendment (A004) pursuant to the rule.
+- 2020-07-01 — Amendment (A008) offered by Ms. Foxx (NC). (consideration: CR H3027-3031, H3034-3035; text: CR H3027)
+- 2020-07-01 — Amendment (A009) offered by Mr. Courtney. (consideration: CR H3031; text: CR H3031)
+- 2020-07-01 — Amendment (A010) offered by Ms. Tlaib. (consideration: CR H3031-3033, H3035-3036; text: CR H3031-3032)
+- 2020-07-01 — Amendment (A011) offered by Mr. DeFazio. (consideration: CR H3038; text: CR H3038)
+- 2020-07-01 — Amendment agreed to by House: On agreeing to the DeFazio amendment (A011) Agreed to by voice vote.
+- 2020-07-01 — Amendment agreed to by House: On agreeing to the DeFazio amendments (A005) Agreed to by voice vote.
+- 2020-07-01 — Amendment agreed to by House: On agreeing to the Tlaib amendment (A010) Agreed to by the Yeas and Nays: 240 - 181 (Roll no. 136).
+- 2020-07-01 — Amendment agreed to by House: On agreeing to the Waters amendments (A006) Agreed to by voice vote.
+- 2020-07-01 — Amendment failed by House: On agreeing to the Foxx (NC) amendment (A008) Failed by the Yeas and Nays: 147 - 274 (Roll no. 135).
+- 2020-07-01 — Amendment failed by House: On agreeing to the Graves (MO) amendments Failed by the Yeas and Nays: 179 - 241 (Roll no. 134).
+- 2020-07-01 — Amendments en bloc (A005) offered by Mr. DeFazio. (consideration: CR H2995-3010; text: CR H2995-3006)
+- 2020-07-01 — Amendments en bloc (A006) offered by Ms. Waters. (consideration: CR H3010-3022; text: CR H3010-3019)
+- 2020-07-01 — Amendments en bloc (A007) offered by Mr. Graves (MO). (consideration: CR H3022-3027, H3033-3034; text: CR H3022-3024)
+- 2020-07-01 — By unanimous consent, the Courtney amendment was withdrawn.
+- 2020-07-01 — Considered as unfinished business.
+- 2020-07-01 — Considered as unfinished business.
+- 2020-07-01 — Considered as unfinished business. (consideration: CR H2995-3039)
+- 2020-07-01 — DEBATE - Pursuant to the provisions of H. Res. 1028, the House proceeded with 10 minutes of debate on the Courtney amendment No. 2.
+- 2020-07-01 — DEBATE - Pursuant to the provisions of H. Res. 1028, the House proceeded with 10 minutes of debate on the Tlaib amendment No. 3.
+- 2020-07-01 — DEBATE - Pursuant to the provisions of H. Res. 1028, the House proceeded with 30 minutes of debate on the Foxx amendment No. 1.
+- 2020-07-01 — DEBATE - Pursuant to the provisions of H. Res. 1028, the House proceeded with 30 minutes of debate on the Graves(MO) amendment en bloc No. 6.
+- 2020-07-01 — DEBATE - Pursuant to the provisions of H. Res. 1028, the House proceeded with 30 minutes of debate on the Waters amendment en bloc No. 5.
+- 2020-07-01 — DEBATE - Pursuant to the provisions of H. Res. 1028, the House proceeded with one hour of debate on the DeFazio amendment en bloc No. 4.
+- 2020-07-01 — DEBATE - The House proceeded with 10 minutes of debate on the Crawford motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to prohibit the use of funds for any entities owned or controlled by a nonmarket country, those subject to certain other trade monitoring or those listed pursuant to section 9(b)(3) of the Uyghur Human Rights Policy Act.
+- 2020-07-01 — House amendment agreed to: On agreeing to the DeFazio amendment (A011) Agreed to by voice vote.
+- 2020-07-01 — House amendment agreed to: On agreeing to the DeFazio amendments (A005) Agreed to by voice vote.
+- 2020-07-01 — House amendment agreed to: On agreeing to the Tlaib amendment (A010) Agreed to by the Yeas and Nays: 240 - 181 (Roll no. 136).
+- 2020-07-01 — House amendment agreed to: On agreeing to the Waters amendments (A006) Agreed to by voice vote.
+- 2020-07-01 — House amendment not agreed to: On agreeing to the Foxx (NC) amendment (A008) Failed by the Yeas and Nays: 147 - 274 (Roll no. 135).
+- 2020-07-01 — House amendment not agreed to: On agreeing to the Graves (MO) amendments Failed by the Yeas and Nays: 179 - 241 (Roll no. 134).
+- 2020-07-01 — House amendment offered
+- 2020-07-01 — House amendment offered
+- 2020-07-01 — House amendment offered
+- 2020-07-01 — House amendment offered
+- 2020-07-01 — House amendment offered
+- 2020-07-01 — House amendment offered
+- 2020-07-01 — House amendment offered
+- 2020-07-01 — House amendment offered/reported by: Amendment (A008) offered by Ms. Foxx (NC).
+- 2020-07-01 — House amendment offered/reported by: Amendment (A009) offered by Mr. Courtney.
+- 2020-07-01 — House amendment offered/reported by: Amendment (A010) offered by Ms. Tlaib.
+- 2020-07-01 — House amendment offered/reported by: Amendment (A011) offered by Mr. DeFazio.(consideration: CR H3038; text: CR H3038)
+- 2020-07-01 — House amendment offered/reported by: Amendments en bloc (A005) offered by Mr. DeFazio.
+- 2020-07-01 — House amendment offered/reported by: Amendments en bloc (A006) offered by Ms. Waters.
+- 2020-07-01 — House amendment offered/reported by: Amendments en bloc (A007) offered by Mr. Graves (MO).
+- 2020-07-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-07-01 — Mr. Crawford moved to recommit with instructions to the Committee on Transportation and Infrastructure. (text: CR H3036)
+- 2020-07-01 — On agreeing to the DeFazio amendment (A011) Agreed to by voice vote.
+- 2020-07-01 — On agreeing to the DeFazio amendments (A005) Agreed to by voice vote.
+- 2020-07-01 — On agreeing to the Foxx (NC) amendment (A008) Failed by the Yeas and Nays: 147 - 274 (Roll no. 135).
+- 2020-07-01 — On agreeing to the Graves (MO) amendments Failed by the Yeas and Nays: 179 - 241 (Roll no. 134).
+- 2020-07-01 — On agreeing to the Tlaib amendment (A010) Agreed to by the Yeas and Nays: 240 - 181 (Roll no. 136).
+- 2020-07-01 — On agreeing to the Waters amendments (A006) Agreed to by voice vote.
+- 2020-07-01 — On motion to recommit with instructions Agreed to by the Yeas and Nays: 224 - 193 (Roll no. 137).
+- 2020-07-01 — On passage Passed by the Yeas and Nays: 233 - 188 (Roll no. 138).
+- 2020-07-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Foxx amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. DeFazio demanded the yeas and nays and the Chair postponed further proceedings on the amendment until a time to be announced.
+- 2020-07-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Graves (MO) amendment en bloc No. 6, the Chair put the question on adoption of the amendment, and by voice vote, announced that the noes had prevailed. Mr. Graves (MO) demanded the yeas and nays and the Chair postponed further proceedings on the amendment until a time to be announced.
+- 2020-07-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Tlaib amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Ms. Tlaib demanded the yeas and nays and the Chair postponed further proceedings on the amendment until a time to be announced.
+- 2020-07-01 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of Rule XIX, further proceedings on H.R. 2 were postponed.
+- 2020-07-01 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 233 - 188 (Roll no. 138).
+- 2020-07-01 — Pursuant to clause 1(c) of Rule XIX, the House resumed consideration of H.R. 2.
+- 2020-07-01 — Roll call votes on amendments in House
+- 2020-07-01 — Roll call votes on amendments in House
+- 2020-07-01 — Roll call votes on amendments in House
+- 2020-07-01 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 2.
+- 2020-07-01 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2020-07-01 — The previous question was ordered on the amendment (A005) pursuant to the rule.
+- 2020-07-01 — The previous question was ordered on the amendment (A006) pursuant to the rule.
+- 2020-07-01 — The previous question was ordered on the amendment (A007) pursuant to the rule.
+- 2020-07-01 — The previous question was ordered on the amendment (A008) pursuant to the rule.
+- 2020-07-01 — The previous question was ordered on the amendment (A010) pursuant to the rule.
+- 2020-07-01 — The previous question was ordered pursuant to the rule.
+- 2020-07-01 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of the Graves amendment en bloc No. 6, adoption of the Foxx amendment and adoption of the Tlaib amendment all of which had been debated earlier and on which further proceedings had been postponed.
+- 2020-07-01 — WORDS TAKEN DOWN - During the course of debate, exception was taken to certain words used and a demand was made to have the words taken down. Mr. Rose (NY) asked unanimous consent to withdraw the words. Without objection, the words were withdrawn. The House resumed with debate on the Foxx amendment.
