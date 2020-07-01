@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7440
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7440
@@ -69,3 +69,13 @@ Hong Kong Autonomy Act
 - 2020-07-01 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, Financial Services, Ways and Means, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2020-07-01 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, Financial Services, Ways and Means, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2020-07-01 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, Financial Services, Ways and Means, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2020-07-02 — Message on Senate action sent to the House.
+- 2020-07-02 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4180)
+- 2020-07-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4180)
+- 2020-07-02 — Presented to President.
+- 2020-07-02 — Presented to President.
+- 2020-07-14 — Became Public Law No: 116-149.
+- 2020-07-14 — Became Public Law No: 116-149.
+- 2020-07-14 — Referred to the Subcommittee on Trade.
+- 2020-07-14 — Signed by President.
+- 2020-07-14 — Signed by President.

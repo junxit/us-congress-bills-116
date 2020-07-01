@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 7440
-congress: 116th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Sixteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 7440
@@ -54,7 +54,7 @@ Congress makes the following findings:
   - **(C)** The Liaison Office of China in Hong Kong has, despite restrictions on interference in the affairs of Hong Kong as detailed in Article 22 of the Basic Law—
     - **(i)** openly expressed support for candidates in Hong Kong for Chief Executive and Legislative Council;
     - **(ii)** expressed views on various policies for the Government of Hong Kong and other internal matters relating to Hong Kong; and
-    - **(iii)** on April 17, 2020, asserted that both the Liaison Office of China in Hong Kong and the Hong Kong and Macau Affairs Office of the State Council “have the right to exercise supervision … on affairs regarding Hong Kong and the mainland, in order to ensure correct implementation of the Basic Law”.
+    - **(iii)** on April 17, 2020, asserted that both the Liaison Office of China in Hong Kong and the Hong Kong and Macau Affairs Office of the State Council “have the right to exercise supervision * * * on affairs regarding Hong Kong and the mainland, in order to ensure correct implementation of the Basic Law”.
   - **(D)** The National People’s Congress has passed laws requiring Hong Kong to pass laws banning disrespectful treatment of the national flag and national anthem of China.
   - **(E)** The State Council of China released a white paper on June 10, 2014, that stressed the “comprehensive jurisdiction” of the Government of China over Hong Kong and indicated that Hong Kong must be governed by “patriots”.
   - **(F)** The Government of China has directed operatives to kidnap and bring to the mainland, or is otherwise responsible for the kidnapping of, residents of Hong Kong, including businessman Xiao Jianhua and bookseller Gui Minhai.
