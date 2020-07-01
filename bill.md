@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 7475
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7475
+
+> To amend title 5, United States Code, to provide that the period of a nationwide pandemic is a special enrollment period under the Federal Employees Health Benefits Program, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Ensuring FEHBP Coverage During Pandemic Act”.
+
+## § 2. FEHBP special enrollment period during public health emergency
+
+- **(a)** *In general* Section 8905 of title 5, United States Code, is amended by adding at the end the following:
+  > - **(j)**
+  >   - **(1)** An unenrolled employee may, during the period that a nationwide pandemic is in effect (as determined by the Office of Personnel Management), enroll in a health benefits plan under this chapter.
+  >   - **(2)** An employee who is enrolled in such a plan may, during any period described in paragraph (1), change such enrollment.
+
+- **(b)** *Application* The amendment made by subsection (a) shall apply to any contract entered into under section 8902 of title 5, United States Code, before, on, or after the date of enactment of this Act.
