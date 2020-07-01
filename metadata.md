@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 634
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 634
@@ -45,3 +45,7 @@ A resolution designating July 30, 2020, as "National Whistleblower Appreciation 
 
 - 2020-06-22 — Introduced in Senate
 - 2020-06-22 — Referred to the Committee on the Judiciary.
+- 2020-07-01 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 06/22/20 CR S3128-3129)
+- 2020-07-01 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 06/22/20 CR S3128-3129)
+- 2020-07-01 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4163)
+- 2020-07-01 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4163)
