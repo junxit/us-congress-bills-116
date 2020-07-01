@@ -2,7 +2,7 @@
 legis-num: H.R. 7440
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 7440
@@ -201,7 +201,7 @@ It is the sense of Congress that—
         - **(I)** referred to the Committee on Banking, Housing, and Urban Affairs if the resolution relates to an action that is not intended to significantly alter United States foreign policy with regard to China; and
         - **(II)** referred to the Committee on Foreign Relations if the resolution relates to an action that is intended to significantly alter United States foreign policy with regard to China.
       - **(ii)** *Termination resolution* A termination resolution introduced in the Senate shall be referred to the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations.
-    - **(B)** *Reporting and discharge* If a committee to which a covered resolution was referred has not reported the resolution within 10 calendar days after the date of referral of the resolution, that committee shall be discharged from further consideration of the resolution and the resolution shall be placed on the appropriate calendar.
+    - **(B)** *Reporting and discharge* If a committee to which a covered resolution was referred has not reported the resolution within 10 legislative days after the date of referral of the resolution, that committee shall be discharged from further consideration of the resolution and the resolution shall be placed on the appropriate calendar.
     - **(C)** *Proceeding to consideration* Notwithstanding Rule XXII of the Standing Rules of the Senate, it is in order at any time after the Committee on Banking, Housing, and Urban Affairs or the Committee on Foreign Relations, as the case may be, reports a covered resolution to the Senate or has been discharged from consideration of such a resolution (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution, and all points of order against the resolution (and against consideration of the resolution) are waived. The motion to proceed is not debatable. The motion is not subject to a motion to postpone. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order.
     - **(D)** *Rulings of the Chair on procedure* Appeals from the decisions of the Chair relating to the application of the rules of the Senate, as the case may be, to the procedure relating to a covered resolution shall be decided without debate.
     - **(E)** *Consideration of veto messages* Debate in the Senate of any veto message with respect to a covered resolution, including all debatable motions and appeals in connection with the resolution, shall be limited to 10 hours, to be equally divided between, and controlled by, the majority leader and the minority leader or their designees.

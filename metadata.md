@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7440
 congress: 116
-version: Introduced in House
+version: Received in Senate
 ---
 
 # H.R. 7440
