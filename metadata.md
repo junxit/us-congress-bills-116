@@ -1,7 +1,7 @@
 ---
 measure: S. 4209
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 4209
@@ -51,3 +51,15 @@ Protecting Nonprofits from Catastrophic Cash Flow Strain Act of 2020
 - 2020-07-02 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S4240; text: CR S4240)
 - 2020-07-02 — Message on Senate action sent to the House.
 - 2020-07-02 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S4240; text: CR S4240)
+- 2020-07-06 — Held at the desk.
+- 2020-07-06 — Received in the House.
+- 2020-07-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-07-09 — On passage Passed without objection. (text: CR H3071)
+- 2020-07-09 — Passed/agreed to in House: On passage Passed without objection.
+- 2020-07-09 — Without objection, the Chair laid before the House S. 4209. (consideration: CR H3071)
+- 2020-07-22 — Presented to President.
+- 2020-07-22 — Presented to President.
+- 2020-08-03 — Became Public Law No: 116-151.
+- 2020-08-03 — Became Public Law No: 116-151.
+- 2020-08-03 — Signed by President.
+- 2020-08-03 — Signed by President.
