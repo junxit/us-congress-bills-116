@@ -1,0 +1,14 @@
+---
+legis-num: S. 4207
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4207
+
+> To amend the Foreign Agents Registration Act of 1938, as amended to require news outlets that are agents of a foreign principal to provide adequate disclosure of their status.
+
+## § 1. Disclosure of status by news outlets that are agents of a foreign principal
+
+Section 4(b) of the Foreign Agents Registration Act of 1938, as amended (22 U.S.C. 614(b)) is amended by inserting after the first sentence the following: “It shall be unlawful for any news or press service or association, newspaper, magazine, periodical, or other publication that is an agent of a foreign principal and required to register under the provisions of this Act to fail to include in any transmission in the United States mails or any transmission made by any means or instrumentality of interstate or foreign commerce (including a transmission by radio, television, or the internet) that is transmitted into the United States a conspicuous statement that the transmission is made by an agent of a foreign principal, and that additional information is on file with the Department of Justice, Washington, District of Columbia.”.
