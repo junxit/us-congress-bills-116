@@ -1,7 +1,7 @@
 ---
 legis-num: S. 832
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,6 +9,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To nullify the Supplemental Treaty Between the United States of America and the Confederated Tribes and Bands of Indians of Middle Oregon, concluded on November 15, 1865.
 
-## § 1. Nullification of treaty
+## § 1. Nullification of Treaty
 
 The Supplemental Treaty Between the United States of America and the Confederated Tribes and Bands of Indians of Middle Oregon, concluded on November 15, 1865, and entered into pursuant to the Senate resolution of ratification dated March 2, 1867 (14 Stat. 751), shall have no force or effect.

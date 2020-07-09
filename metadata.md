@@ -1,7 +1,7 @@
 ---
 measure: S. 832
 congress: 116
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 832
@@ -39,3 +39,10 @@ A bill to nullify the Supplemental Treaty Between the United States of America a
 - 2019-06-28 — Message on Senate action sent to the House.
 - 2019-06-28 — Received in the House.
 - 2019-06-28 — Referred to the House Committee on Natural Resources.
+- 2019-07-03 — Referred to the Subcommittee for Indigenous Peoples of the United States.
+- 2020-02-12 — Committee Consideration and Mark-up Session Held.
+- 2020-02-12 — Ordered to be Reported by Unanimous Consent.
+- 2020-02-12 — Subcommittee for Indigenous Peoples of the United States Discharged.
+- 2020-07-09 — Placed on the Union Calendar, Calendar No. 353.
+- 2020-07-09 — Reported by the Committee on Natural Resources. H. Rept. 116-441.
+- 2020-07-09 — Reported by the Committee on Natural Resources. H. Rept. 116-441.
