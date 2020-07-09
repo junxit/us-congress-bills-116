@@ -11,8 +11,19 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “National Defense Authorization Act for Fiscal Year 2021”.
+- **(a)** *Short title* This Act may be cited as the “William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021”.
+- **(b)** *References* Any reference in this or any other Act to the “National Defense Authorization Act for Fiscal Year 2021” shall be deemed to refer to the “William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021”.
 
-## § 2. Table of contents
+## § 2. Organization of Act into divisions; table of contents
 
-The table of contents for this Act is as follows:
+- **(a)** *Divisions* This Act is organized into four divisions as follows:
+  - **(1)** Division A—Department of Defense Authorizations.
+  - **(2)** Division B—Military Construction Authorizations.
+  - **(3)** Division C—Department of Energy National Security Authorizations and Other Authorizations.
+  - **(4)** Division D—Funding Tables.
+  - **(5)** Division E—National Artificial Intelligence Initiative Act of 2020.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
+
+## § 3. Congressional defense committees
+
+In this Act, the term “congressional defense committees” has the meaning given that term in section 101(a)(16) of title 10, United States Code.
