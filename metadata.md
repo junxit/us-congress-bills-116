@@ -1,7 +1,7 @@
 ---
 measure: S. 832
 congress: 116
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # S. 832
@@ -46,3 +46,15 @@ A bill to nullify the Supplemental Treaty Between the United States of America a
 - 2020-07-09 — Placed on the Union Calendar, Calendar No. 353.
 - 2020-07-09 — Reported by the Committee on Natural Resources. H. Rept. 116-441.
 - 2020-07-09 — Reported by the Committee on Natural Resources. H. Rept. 116-441.
+- 2020-09-21 — Considered under suspension of the rules. (consideration: CR H4565-4566)
+- 2020-09-21 — DEBATE - The House proceeded with forty minutes of debate on S. 832.
+- 2020-09-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-21 — Ms. Haaland moved to suspend the rules and pass the bill.
+- 2020-09-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4565)
+- 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-10-09 — Presented to President.
+- 2020-10-09 — Presented to President.
+- 2020-10-20 — Became Public Law No: 116-175.
+- 2020-10-20 — Became Public Law No: 116-175.
+- 2020-10-20 — Signed by President.
+- 2020-10-20 — Signed by President.
