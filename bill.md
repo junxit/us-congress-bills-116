@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1904
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -17,7 +17,7 @@ This Act may be cited as the “Indian Water Rights Settlement Extension Act”.
 
 Section 10501 of the Omnibus Public Land Management Act of 2009 (43 U.S.C. 407) is amended—
 
-- **(1)** in subsection (b)(1), by striking “For each of fiscal years 2020 through 2029” and inserting “For fiscal year 2020 and each fiscal year thereafter”;
+- **(1)** in subsection (b)(1), by inserting “and for fiscal year 2031 and each fiscal year thereafter” after “For each of fiscal years 2020 through 2029”;
 - **(2)** in subsection (c)—
   - **(A)** in paragraph (1)(A), by striking “for each of fiscal years 2020 through 2034” and inserting “for fiscal year 2020 and each fiscal year thereafter”; and
   - **(B)** in paragraph (3)(C), by striking “for any authorized use” and all that follows through the period at the end and inserting “for any use authorized under paragraph (2).”; and
