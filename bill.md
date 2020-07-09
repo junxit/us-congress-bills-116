@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 139
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,34 +11,22 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Springfield Race Riot National Historic Monument Act”.
+This Act may be cited as the “Springfield Race Riot Study Act”.
 
-## § 2. Definitions
+## § 2. Resource Study of Springfield Race Riot
 
-In this Act:
-
-- **(1)** *Historic Monument* The term Historic Monument means the Springfield Race Riot National Historic Monument established by section 3.
-- **(2)** *Map* The term Map means the map entitled “Springfield Race Riot National Memorial Proposed Boundary”, numbered 687/148588 and dated October 2018.
-- **(3)** *Secretary* The term Secretary means the Secretary of the Interior, acting through the Director of the National Park Service.
-
-## § 3. Establishment of Springfield Race Riot National Historic Monument
-
-- **(a)** *Establishment*
-  - **(1)** *In general* Subject to paragraph (2), there is established the Springfield Race Riot National Historic Monument in the State of Illinois as a unit of the National Park System, to preserve, protect, and interpret for the benefit of present and future generations, resources associated with the Springfield Race Riot of 1908 and its role in the formation of the National Association for the Advancement of Colored People.
-  - **(2)** *Conditions* The Historic Monument shall not be established until the date on which the Secretary acquires sufficient land within the boundary of the Historic Monument to constitute a manageable unit.
-- **(b)** *Boundaries* The boundaries of the Historic Monument shall be the boundaries generally depicted on the Map.
-- **(c)** *Availability of map* The Map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
-- **(d)** *Acquisition of authority* The Secretary may acquire any land or interest in land located within the boundary of the Historic Monument by—
-  - **(1)** donation;
-  - **(2)** purchase with donated funds or appropriated funds; or
-  - **(3)** exchange.
-- **(e)** *Agreements* The Secretary may enter into agreements with—
-  - **(1)** the city of Springfield, Illinois, for the purpose of establishing and operating outside of the Historic Monument boundary facilities for administration and visitor services; and
-  - **(2)** other public or private entities for the purposes of carrying out this Act.
-- **(f)** *Administration*
-  - **(1)** *In general* The Secretary shall administer the Historic Monument in accordance with—
-    - **(A)** this Act; and
-    - **(B)** the laws generally applicable to units of the National Park System.
-  - **(2)** *Management plan*
-    - **(A)** *Deadline for completion* Not later than 3 years after the date on which funds are first made available to the Secretary for this purpose, the Secretary shall prepare a general management plan for the Historic Monument in accordance with section 100502 of title 54, United States Code.
-    - **(B)** *Submission to Congress* On completion of the general management plan under subparagraph (A), the Secretary shall submit it to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
+- **(a)** *Definitions* In this section:
+  - **(1)** *Secretary* The term “Secretary” means the Secretary of the Interior.
+  - **(2)** *Study area* The term “study area” means areas identified in the Springfield Race Riot Reconnaissance Survey conducted by the National Park Service, dated August 2019.
+- **(b)** *Special resource study*
+  - **(1)** *Study* The Secretary shall conduct a special resource study of the study area.
+  - **(2)** *Contents* In conducting the study under paragraph (1), the Secretary shall—
+    - **(A)** evaluate the national significance of the study area;
+    - **(B)** determine the suitability and feasibility of designating the study area as a unit of the National Park System;
+    - **(C)** consider other alternatives for preservation, protection, and interpretation of the study area by the Federal Government, State or local government entities, or private and nonprofit organizations;
+    - **(D)** consult with interested Federal agencies, State or local governmental entities, private and nonprofit organizations, or any other interested individuals; and
+    - **(E)** identify cost estimates for any Federal acquisition, development, interpretation, operation, and maintenance associated with the alternatives.
+  - **(3)** *Applicable law* The study required under paragraph (1) shall be conducted in accordance with section 100507 of title 54, United States Code.
+  - **(4)** *Report* Not later than 3 years after the date on which funds are first made available for the study under paragraph (1), the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that describes—
+    - **(A)** the results of the study; and
+    - **(B)** any conclusions and recommendations of the Secretary.
