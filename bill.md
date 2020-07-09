@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 7542
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7542
+
+> To amend title 10, United States Code, to identify additional factors for the design of the counseling pathways of the Transition Assistance Program.
+
+## § 1. Additional factors for counseling pathways of the Transition Assistance Program
+
+- **(a)** *Medical or administrative discharge* Section 1142(c)(1) of title 10, United States Code, is amended—
+  - **(1)** in subparagraph (E), by striking “Disability” and inserting “Potential or confirmed medical discharge of the member”; and
+  - **(2)** in subparagraph (F), by striking “Character” and all that follows and inserting “Potential or confirmed involuntary separation of the member.”
+- **(b)** *Family dynamics* Section 1142(c)(1) of title 10, United States Code, as amended by section (a), is further amended—
+  - **(1)** by redesignating subparagraph (M) as subparagraph (R); and
+  - **(2)** by inserting after subparagraph (L) the following:
+    > - **(M)** Child care requirements of the member (including whether a dependent of the member is enrolled in the Exceptional Family Member Program).
+    > - **(N)** The employment status of other adults in the household of the member.
+    > - **(O)** The location of the duty station of the member (including whether the member was separated from family while on duty).
+    > - **(P)** The effects of operating tempo and personnel tempo on the member and the household of the member.
+    > - **(Q)** Whether the member is an Indian or urban Indian, as those terms are defined in section 4 of the Indian Health Care Improvement Act (Public Law 94–437; 25 U.S.C. 1603).
