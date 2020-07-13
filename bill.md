@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 7597
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7597
+
+> To direct the Secretary of Defense to submit to Congress a report on the research and studies being conducted or funded by the Department of Defense to assess the health effects of burn pits.
+
+## § 1. Report on research and studies on health effects of burn pits
+
+The Secretary of Defense shall submit to the congressional defense committees and the Committees on Veterans’ Affairs of the House of Representatives and the Senate a detailed report on the status, methodology, and culmination timeline of all the research and studies being conducted or funded by the Department of Defense to assess the health effects of burn pits. The report shall include an identification of any challenges and potential challenges with respect to completing such research and studies and recommendations to address such challenges.
