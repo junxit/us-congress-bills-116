@@ -1,0 +1,48 @@
+---
+measure: H.R. 7574
+congress: 116
+version: Introduced in House
+---
+
+# H.R. 7574
+
+Strengthening America's Strategic National Stockpile Act of 2020
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Slotkin, Elissa [D-MI-8] (S001208)
+
+## Cosponsors (18)
+
+- Rep. Brooks, Susan W. [R-IN-5] (B001284)
+- Rep. Eshoo, Anna G. [D-CA-18] (E000215)
+- Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
+- Rep. Dingell, Debbie [D-MI-12] (D000624)
+- Rep. Walorski, Jackie [R-IN-2] (W000813)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. McKinley, David B. [R-WV-1] (M001180)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
+- Rep. Soto, Darren [D-FL-9] (S001200)
+- Rep. Upton, Fred [R-MI-6] (U000031)
+- Rep. Malinowski, Tom [D-NJ-7] (M001203)
+- Rep. Hudson, Richard [R-NC-8] (H001067)
+- Rep. Schrier, Kim [D-WA-8] (S001216)
+- Rep. Gianforte, Greg [R-MT-At Large] (G000584)
+- Rep. Cisneros, Gilbert Ray, Jr. [D-CA-39] (C001123)
+- Rep. Neguse, Joe [D-CO-2] (N000191)
+- Rep. Burgess, Michael C. [R-TX-26] (B001248)
+
+## Committees (1)
+
+- House — Energy and Commerce Committee
+
+## Actions
+
+- 2020-07-13 — Introduced in House
+- 2020-07-13 — Introduced in House
+- 2020-07-13 — Referred to the House Committee on Energy and Commerce.
