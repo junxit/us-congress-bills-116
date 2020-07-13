@@ -1,0 +1,30 @@
+---
+legis-num: H.R. 7589
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7589
+
+> To amend the Homeland Security Act of 2002 to establish term limits for the Director of the Cybersecurity and Infrastructure Security Agency of Department of Homeland Security, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Cybersecurity and Infrastructure Security Agency Director and Assistant Directors Act”.
+
+## § 2. CISA Director term limitation
+
+- **(a)** *In general* Subsection (b) of section 2202 of the Homeland Security Act of 2002 (6 U.S.C. 652) is amended by—
+  - **(1)** redesignating paragraph (2) as paragraph (3); and
+  - **(2)** inserting after paragraph (1) the following new paragraph:
+    > - **(2)** *Term* Effective with respect to an individual appointed to be the Director by the President, by and with the advice and consent of the Senate, after the date of the enactment of this paragraph, the term of office of such an individual so appointed shall be five years, and such an individual may not serve more than two terms. The term of office of the individual serving as the Director as of such date of enactment shall be five years beginning on the date on which the Director began serving.
+
+- **(b)** *Amendment relating to qualifications for certain CISA Assistant Directors* The Homeland Security Act of 2002 is amended—
+  - **(1)** in subparagraph (B) of section 2203(a)(2) (6 U.S.C. 653(a)(2)), by striking “President without the advice and consent of the Senate” and inserting “Secretary”; and
+  - **(2)** in subparagraph (B) of section 2204(a)(2) (6 U.S.C. 654(a)(2)), by striking “President without the advice and consent of the Senate” and inserting “Secretary”.
+- **(c)** *Amendment to position level of CISA Director* Subchapter II of chapter 53 of title 5, United States Code, is amended—
+  - **(1)** in section 5313, by inserting after “Administrator of the Transportation Security Administration.” the following:
+    > -  Director, Cybersecurity and Infrastructure Security Agency.
+
+  - **(2)** in section 5314, by striking “Director, Cybersecurity and Infrastructure Security Agency.”.
