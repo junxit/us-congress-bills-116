@@ -1,0 +1,58 @@
+---
+legis-num: H.R. 7607
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7607
+
+> To condition the receipt of funds with respect to COVID–19 on requiring the use of face coverings in public, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Masks for All Act of 2020”.
+
+## § 2. Findings
+
+Congress finds the following:
+
+- **(1)** The widespread use of face coverings by the public is essential to help slow the spread of the virus that causes COVID–19 and help prevent the transmission of such virus by individuals who do not show symptoms.
+- **(2)** The Government has an interest in encouraging the use of face coverings in public and each place of business to protect the health of populations that are at a higher risk of developing severe illness from COVID–19, including—
+  - **(A)** the immunocompromised;
+  - **(B)** individuals who are 65 years of age or older; and
+  - **(C)** individuals living with chronic lung disease, moderate to severe asthma, serious heart conditions, diabetes, chronic kidney disease, severe obesity, or liver disease.
+- **(3)** Overwhelming scientific evidence has shown that face coverings block a high portion of respiratory droplets that spread the virus that causes COVID–19.
+- **(4)** Evidence from an international cross-disciplinary review of scientific research has shown that—
+  - **(A)** using a face covering in public is most effective at reducing the spread of COVID–19 when compliance is high; and
+  - **(B)** transmission in a community is substantially lower when individuals are required to use a face covering or where the use of a face covering is widespread.
+- **(5)** The widespread use of face coverings substantially reduces the number of fatalities, the cases of severe illness, and continued economic losses that result from transmission of the virus that causes COVID–19.
+- **(6)** The widespread use of face coverings is necessary (but not sufficient) to slow the spread of the virus that causes COVID–19 and should be promoted along with regular handwashing, social distancing, testing, and minimizing nonessential activities outside of the household.
+
+## § 3. Use of face coverings in public
+
+- **(a)** *Conditional funding with respect to face coverings* The Secretary of Health and Human Services (in this Act referred to as the “Secretary”), acting through the Director of the Centers for Disease Control and Prevention, shall require each State, territory, local government, and Tribal government to, as a condition on the receipt of COVID–19 funds and funds under a provision of a covered law, require, subject to the exceptions specified in subsection (b), the use of face coverings during the emergency period in public, including in each place of business, in the respective jurisdiction.
+- **(b)** *Exceptions* The exceptions specified in this subsection are that a requirement implemented pursuant to subsection (a) may not apply to—
+  - **(1)** outdoor spaces where individuals may maintain a distance of at least 6 feet from other individuals who are not members of the same household; and
+  - **(2)** any individual who—
+    - **(A)** is under 2 years of age;
+    - **(B)** has a medical condition in which wearing a face covering could obstruct the ability of the individual to breathe;
+    - **(C)** is unable to remove a face covering without assistance; and
+    - **(D)** is receiving a service that requires temporary removal of the face covering, including a service with respect to a food or beverage.
+- **(c)** *Grants To promote face coverings*
+  - **(1)** *In general* Not later than 30 days after the date of the enactment of this Act, the Secretary may award grants to States, territories, and Tribal governments to promote access to face coverings for the purpose of minimizing the risk of exposure to COVID–19, including installing face covering dispensers in public.
+  - **(2)** *Application* To be eligible for a grant under this section, a State, territory, and Tribal government shall submit to the Secretary an application at such time, in such form, and containing such information as the Secretary determines appropriate, including a certification that the State will meet the requirements under paragraph (3).
+  - **(3)** *Use of funds* A State, territory, and Tribal government that receives a grant under this section shall use grant funds to promote access to face coverings for the purpose of minimizing the risk of exposure to COVID–19 in accordance with—
+    - **(A)** guidelines determined necessary by the Secretary; and
+    - **(B)** guidelines provided by the Centers for Disease Control and Prevention with respect to the use of face coverings.
+- **(d)** *Definitions* In this Act:
+  - **(1)** *Covered law* The term covered law means each of the following:
+    - **(A)** The Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020 (Public Law 116–123), or an amendment made by that Act.
+    - **(B)** The Families First Coronavirus Response Act (Public Law 116–127), or an amendment made by that Act.
+    - **(C)** The CARES Act (Public Law 116–136), or an amendment made by that Act.
+    - **(D)** The Paycheck Protection Program and Health Care Enhancement Act (Public Law 116–139), or an amendment made by that Act.
+    - **(E)** Other laws with respect to relief from the COVID–19 pandemic.
+  - **(2)** *COVID–19 Funds* The term COVID–19 funds means funds provided to a State, territory, local government, and Tribal government through any grants or cooperative agreements for preparedness and response to the COVID–19 pandemic, including funds provided through cooperative agreements with the Centers for Disease Control and Prevention.
+  - **(3)** *Emergency period* The term emergency period has the meaning given that term in section 1135(g)(1)(B) of the Social Security Act (42 U.S.C. 1320b–5(g)(1)(B)).
+  - **(4)** *Face covering* The term face covering means any material that covers the nose and mouth of an individual.
+- **(e)** *Authorization of appropriations* There is authorized to be appropriated to carry out this Act $75,000,000 for the period of fiscal years 2021 through 2022.
