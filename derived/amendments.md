@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1053
 congress: 116
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in section 4, by striking “July 31, 2020” and inserting “September 21, 2020”; | the bill names no machine-readable US Code section |
-| — | replace | in section 11, by striking “legislative day of July 31, 2020” and inserting “calendar day of September 20, 2020”; and | the bill names no machine-readable US Code section |
-| — | replace | in section 12, by striking “July 31, 2020” and inserting “September 21, 2020”. | the bill names no machine-readable US Code section |
+| — | replace | in section 4, by striking "July 31, 2020" and inserting "September 21, 2020"; | the bill names no machine-readable US Code section |
+| — | replace | in section 11, by striking "legislative day of July 31, 2020" and inserting "calendar day of September 20, 2020"; and | the bill names no machine-readable US Code section |
+| — | replace | in section 12, by striking "July 31, 2020" and inserting "September 21, 2020". | the bill names no machine-readable US Code section |
