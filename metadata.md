@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2
@@ -278,3 +278,4 @@ Moving Forward Act
 - 2020-07-01 — The previous question was ordered pursuant to the rule.
 - 2020-07-01 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of the Graves amendment en bloc No. 6, adoption of the Foxx amendment and adoption of the Tlaib amendment all of which had been debated earlier and on which further proceedings had been postponed.
 - 2020-07-01 — WORDS TAKEN DOWN - During the course of debate, exception was taken to certain words used and a demand was made to have the words taken down. Mr. Rose (NY) asked unanimous consent to withdraw the words. Without objection, the words were withdrawn. The House resumed with debate on the Foxx amendment.
+- 2020-07-20 — Received in the Senate.
