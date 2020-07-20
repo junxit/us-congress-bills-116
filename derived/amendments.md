@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2,152 amendatory instructions. 430 executed, 1,722 stated and not applied.
+2,152 amendatory instructions. 433 executed, 1,719 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -51,7 +51,34 @@ to guess them.
 | Removed | `Century.` |
 | Inserted | `century;` |
 
-### 23 U.S.C. § 109
+### 26 U.S.C. § 5307
+
+> in subsection (a) by striking “FAST Act” and inserting “INVEST in America Act”;
+
+| | |
+|---|---|
+| Removed | `FAST Act` |
+| Inserted | `INVEST in America Act` |
+
+### 26 U.S.C. § 5307
+
+> by striking “There is authorized” and inserting “For fiscal year 2022 and each fiscal year thereafter, there is authorized”; and
+
+| | |
+|---|---|
+| Removed | `There is authorized` |
+| Inserted | `For fiscal year 2022 and each fiscal year thereafter, there is authorized` |
+
+### 26 U.S.C. § 5307
+
+> in subsection (f)(1) by striking “section 1102 or 3018 of the FAST Act” and inserting “any other provision of law”.
+
+| | |
+|---|---|
+| Removed | `section 1102 or 3018 of the FAST Act` |
+| Inserted | `any other provision of law` |
+
+### 26 U.S.C. § 106
 
 > in paragraph (1) by striking “planned future traffic of the highway in a manner that is conducive to” and inserting “future operational performance of the facility in a manner that enhances”; and
 
@@ -60,7 +87,7 @@ to guess them.
 | Removed | `planned future traffic of the highway in a manner that is conducive to` |
 | Inserted | `future operational performance of the facility in a manner that enhances` |
 
-### 23 U.S.C. § 109
+### 26 U.S.C. § 106
 
 > by striking “The geometric” and inserting “Design criteria for the Interstate system.—The geometric”; and
 
@@ -69,7 +96,7 @@ to guess them.
 | Removed | `The geometric` |
 | Inserted | `Design criteria for the Interstate system.—The geometric` |
 
-### 23 U.S.C. § 109
+### 26 U.S.C. § 106
 
 > by striking “the types and volumes of traffic anticipated for such project for the twenty-year period commencing on the date of approval by the Secretary, under section 106 of this title, of the plans, specifications, and estimates for actual construction of such project” and inserting “the existing and future operational performance of the facility”;
 
@@ -3936,25 +3963,22 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 134(p) of title 23, United States Code, is amended by striking “paragraphs (5)(D) and (6) of section 104(b)” and inserting “section 104(b)(6)”. | the bill names no machine-readable US Code section |
 | — | replace | Section 135(i) of title 23, United States Code, is amended by striking “paragraphs (5)(D) and (6) of section 104(b)” and inserting “section 104(b)(6)”. | the bill names no machine-readable US Code section |
 | — | replace | Section 5303(p) of title 49, United States Code, is amended by striking “section 104(b)(5)” and inserting “section 104(b)(6)”. | the bill names no machine-readable US Code section |
-| — | replace | in subsection (a) by striking “FAST Act” and inserting “INVEST in America Act”; | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (1)(A) by striking “to be appropriated” each place it appears; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | in subsection (d) by inserting “and section 5324 of title 49” after “section 125”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “There is authorized” and inserting “For fiscal year 2022 and each fiscal year thereafter, there is authorized”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking “for any of fiscal years 2017 through 2020”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (f)(1) by striking “section 1102 or 3018 of the FAST Act” and inserting “any other provision of law”. | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 5307` | strike | in paragraph (1)(A) by striking “to be appropriated” each place it appears; and | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 5307` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 5307` | insert | in subsection (d) by inserting “and section 5324 of title 49” after “section 125”; | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 5307` | strike | by striking “for any of fiscal years 2017 through 2020”; and | the bill quotes the text struck but describes what replaces it |
 | — | replace | Section 104 of title 23, United States Code, is amended by striking subsection (g) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (4) by striking subparagraph (B) and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (B) by striking “, as determined by the Secretary,”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (D) by striking “shall assess” and inserting “in the case of a project proposed to be advanced as a public-private partnership, shall include a detailed value for money analysis or comparable analysis to determine”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| `23 U.S.C. § 109` | insert | in paragraph (2) by inserting “, taking into consideration context sensitive design principles” after “each locality”; | the bill quotes the text inserted but describes where it goes |
-| `23 U.S.C. § 109` | replace | in subparagraph (C) by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
-| `23 U.S.C. § 109` | replace | in subparagraph (D) by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `23 U.S.C. § 109` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `23 U.S.C. § 109` | replace | by striking subsection (o) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `23 U.S.C. § 109` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 106` | insert | in paragraph (2) by inserting “, taking into consideration context sensitive design principles” after “each locality”; | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 106` | replace | in subparagraph (C) by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 106` | replace | in subparagraph (D) by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 106` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 106` | replace | by striking subsection (o) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 104` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `23 U.S.C. § 109` | repeal | Section 1404(b) of the FAST Act (23 U.S.C. 109 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | by striking clauses (i) and (ii) and inserting the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating clause (vi) as clause (vii); | the bill names no machine-readable US Code section |
@@ -4148,10 +4172,10 @@ complete account of the bill's effect, which it is not.
 | `23 U.S.C. § 109` | amend | Section 339(b)(1) of the National Highway System Designation Act of 1995 (23 U.S.C. 109 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `23 U.S.C. § 109` | add-at-end | in subsection (b) by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `23 U.S.C. § 109` | insert | in subsection (c)(2) by inserting “and paragraph (20)” after “(11)”. | the bill quotes the text inserted but describes where it goes |
-| — | amend | Section 117 of title 23, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | The analysis for chapter 1 of title 23, United States Code, is amended by striking the item relating to section 117 and inserting the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Chapter 1 of title 23, United States Code, as amended by this title, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | The analysis for chapter 1 of title 23, United States Code, is further amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 313` | amend | Section 117 of title 23, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 313` | replace | The analysis for chapter 1 of title 23, United States Code, is amended by striking the item relating to section 117 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 313` | add-at-end | Chapter 1 of title 23, United States Code, as amended by this title, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 313` | add-at-end | The analysis for chapter 1 of title 23, United States Code, is further amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 12101` | insert | in subsection (b)(2) by inserting “previously designated by the Federal Highway Administration or” after “fueling corridors”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 12101` | insert | by inserting “establish a recurring process to regularly” after “the Secretary shall”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 12101` | replace | in paragraph (1) by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
@@ -4288,7 +4312,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after subparagraph (C) the following: | the bill names no machine-readable US Code section |
 | — | replace | in the heading by striking “Deputy Assistant Secretary for Tribal Government Affairs” and inserting “Office of Tribal Government Affairs”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 201 of title 23, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 203` | add-at-end | Section 201 of title 23, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | by striking “fiscal years 2016 through 2020” and inserting “fiscal years 2022 through 2025”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “$3,500,000” and inserting “$4,000,000”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (b) and (c) as subsections (c) and (d), respectively; and | the bill names no machine-readable US Code section |
