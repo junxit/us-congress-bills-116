@@ -2,7 +2,7 @@
 legis-num: H. RES. 1053
 congress: 116th CONGRESS
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H. RES. 1053
@@ -25,7 +25,7 @@ All points of order against the further amendments printed in the report of the 
 
 ## § 5.
 
-Upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 7027) making additional supplemental appropriations for disaster relief requirements for the fiscal year ending September 30, 2020, and for other purposes. All points of order against consideration of the bill are waived. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 116–58 shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. Clause 2(e) of rule XXI shall not apply during consideration of the bill. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided among and controlled by the chair and ranking minority member of the Committee on Appropriations and the chair and ranking minority member of the Committee on Education and Labor; and (2) one motion to recommit with or without instructions.
+Upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 7027) making additional supplemental appropriations for disaster relief requirements for the fiscal year ending September 30, 2020, and for other purposes. All points of order against consideration of the bill are waived. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 116-58 shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. Clause 2(e) of rule XXI shall not apply during consideration of the bill. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided among and controlled by the chair and ranking minority member of the Committee on Appropriations and the chair and ranking minority member of the Committee on Education and Labor; and (2) one motion to recommit with or without instructions.
 
 ## § 6.
 
@@ -39,6 +39,6 @@ Upon adoption of this resolution it shall be in order to take from the Speaker's
 
 House Resolution 967, agreed to May 15, 2020 (as amended by House Resolution 1017, agreed to June 25, 2020) is amended—
 
-- **(1)** in section 4, by striking “July 31, 2020” and inserting “September 21, 2020”;
-- **(2)** in section 11, by striking “legislative day of July 31, 2020” and inserting “calendar day of September 20, 2020”; and
-- **(3)** in section 12, by striking “July 31, 2020” and inserting “September 21, 2020”.
+- **(1)** in section 4, by striking "July 31, 2020" and inserting "September 21, 2020";
+- **(2)** in section 11, by striking "legislative day of July 31, 2020" and inserting "calendar day of September 20, 2020"; and
+- **(3)** in section 12, by striking "July 31, 2020" and inserting "September 21, 2020".
