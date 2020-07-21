@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 7705
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7705
+
+> To amend the Water Resources Development Act of 2007 with respect to the Susquehanna, Delaware, and Potomac River Basin Commissions, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “River Basin Commission Transfer Act”.
+
+## § 2. Susquehanna, Delaware, and Potomac River Basin Commissions
+
+Section 5019 of the Water Resources Development Act of 2007 (121 Stat. 1201; 128 Stat. 1307) is amended—
+
+- **(1)** in subsection (a)(3), by inserting “, who may be the Administrator of the Environmental Protection Agency (referred to in this section as the “Administrator”) (or a designee),” after “member”; and
+- **(2)** in subsection (b)—
+  - **(A)** in paragraph (1), by striking “The Secretary” and inserting “Subject to the availability of appropriations, the Administrator”;
+  - **(B)** in paragraph (2), by striking “For each fiscal year, the Secretary” and inserting “Subject to the availability of appropriations, for each fiscal year, the Administrator”; and
+  - **(C)** in paragraph (3), by striking “Secretary” each place it appears and inserting “Administrator”.
