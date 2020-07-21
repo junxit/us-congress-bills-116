@@ -1,0 +1,16 @@
+---
+legis-num: H.R. 7714
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7714
+
+> To amend the Internal Revenue Code of 1986 to reduce the floor on the deduction for medical expenses.
+
+## § 1. Reduction in medical expense deduction floor
+
+- **(a)** *In general* Section 213(a) of the Internal Revenue Code of 1986 is amended by striking “10 percent” and inserting “7.5 percent (5 percent in the case of any taxable year beginning in 2020 or 2021)”.
+- **(b)** *Conforming amendment* Section 213 of such Code is amended by striking subsection (f).
+- **(c)** *Effective date* The amendments made by this section shall apply to taxable years beginning after December 31, 2019.
