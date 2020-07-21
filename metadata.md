@@ -1,7 +1,7 @@
 ---
 measure: S. 3989
 congress: 116
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3989
@@ -28,3 +28,7 @@ United States Semiquincentennial Commission Amendments Act of 2020
 
 - 2020-06-17 — Introduced in Senate
 - 2020-06-17 — Read twice and referred to the Committee on the Judiciary.
+- 2020-07-21 — Passed Senate without amendment by Unanimous Consent. (text: CR S4359-4360)
+- 2020-07-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S4359-4360)
+- 2020-07-21 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4359-4360)
+- 2020-07-21 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4359-4360)
