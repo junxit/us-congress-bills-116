@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 7699
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7699
+
+> To require the Federal Trade Commission to submit a report to Congress on scams targeting seniors, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Protecting Seniors from Emergency Scams Act”.
+
+## § 2. FTC report on scams targeting seniors during emergencies
+
+Not later than 30 days after the date of enactment of this Act, the Federal Trade Commission (referred to in this Act as the Commission) shall submit a report to Congress including—
+
+- **(1)** a description of the number and types of scams identified by the Commission as being targeted at senior citizens; and
+- **(2)** policy recommendations to prevent such scams, especially as such scams relate to future national emergencies.
+
+## § 3. Increasing awareness of scams targeting seniors
+
+- **(a)** *In general* As soon as practicable after the date of enactment of this Act, the Commission shall update its web portal to include the latest information, searchable by region and type of scam, on scams targeting seniors, including contacts for relevant law enforcement and adult protective service agencies.
+- **(b)** *Coordination with media outlets and law enforcement* The Commission shall work with media outlets and law enforcement to distribute the information included in the web portal of the Commission pursuant to subsection (a) to senior citizens and their families and caregivers.
