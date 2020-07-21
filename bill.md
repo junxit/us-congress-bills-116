@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 6395
 
-> To authorize appropriations for fiscal year 2021 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes.
+> To authorize appropriations for fiscal year 2021 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.
 
 ## § 1. Short title
 
@@ -16,12 +16,23 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 2. Organization of Act into divisions; table of contents
 
-- **(a)** *Divisions* This Act is organized into four divisions as follows:
+- **(a)** *Divisions* This Act is organized into 16 divisions as follows:
   - **(1)** Division A—Department of Defense Authorizations.
   - **(2)** Division B—Military Construction Authorizations.
   - **(3)** Division C—Department of Energy National Security Authorizations and Other Authorizations.
   - **(4)** Division D—Funding Tables.
   - **(5)** Division E—National Artificial Intelligence Initiative Act of 2020.
+  - **(6)** Division F—Corporate Transparency Act of 2019.
+  - **(7)** Division G—COUNTER Act of 2019.
+  - **(8)** Division H—Elijah E. Cummings Coast Guard Authorization Act of 2020.
+  - **(9)** Division I—Department of State Authorities and Activities.
+  - **(10)** Division J—Combating Russian Money Laundering.
+  - **(11)** Division K—Kleptocracy Asset Recovery Rewards Act.
+  - **(12)** Division L—Stopping Trafficking, Illicit Flows, Laundering, and Exploitation.
+  - **(13)** Division M—Improving Corporate Governance Through Diversity.
+  - **(14)** Division N—Banking Transparency for Sanctioned Persons Act of 2019.
+  - **(15)** Division O—Public Lands.
+  - **(16)** Division P—Colorado Outdoor Recreation and Economy Act.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 3. Congressional defense committees
