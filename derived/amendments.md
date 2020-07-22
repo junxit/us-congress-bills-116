@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2486
 congress: 116
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,42 +14,13 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 3 executed, 6 stated and not applied.
+8 amendatory instructions. 0 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
-
-## Executed
-
-### 20 U.S.C. § 1067q
-
-> Section 371(b)(1)(A) (20 U.S.C. 1067q(b)(1)(A)) is amended by striking “for each of the fiscal years 2008 through 2019.” and all that follows through the end of the subparagraph and inserting “for fiscal year 2020 and each fiscal year thereafter.”.
-
-| | |
-|---|---|
-| Removed | `for each of the fiscal years 2008 through 2019.` |
-| Inserted | `for fiscal year 2020 and each fiscal year thereafter.` |
-
-### 20 U.S.C. § 1070a
-
-> in subclause (X), by striking “$1,430,000,000” and inserting “$1,455,000,000”; and
-
-| | |
-|---|---|
-| Removed | `$1,430,000,000` |
-| Inserted | `$1,455,000,000` |
-
-### 20 U.S.C. § 1070a
-
-> in subclause (XI), by striking “$1,145,000,000” and insert “$1,170,000,000”.
-
-| | |
-|---|---|
-| Removed | `$1,145,000,000` |
-| Inserted | `$1,170,000,000` |
 
 ## Stated, not applied
 
@@ -60,9 +31,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `26 U.S.C. § 6103` | amend | Paragraph (13) of section 6103(l) of the Internal Revenue Code of 1986 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6103` | insert | Section 6103(a)(3) of such Code is amended by inserting “, (13)(A), (13)(B)” after “(12)”. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 6103` | insert | by inserting “(A), (13)(B)” after “(13)” each place it occurs, and | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 6103` | insert | by inserting “, (13)(A), (13)(B)” after “(l)(10)” each place it occurs. | the bill quotes the text inserted but describes where it goes |
-| `20 U.S.C. § 1088` | add-at-end | Part G of title IV (20 U.S.C. 1088 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1091` | amend | Section 484(q) (20 U.S.C. 1091(q)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1152` | insert | by inserting “or a nonimmigrant visa, admission or other entry into the United States, or the approval or revocation of any immigration benefit” after “immigrant visa”; | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1152` | insert | by inserting “religion,” after “sex,”; and | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1152` | insert | by inserting “, except if expressly required by statute, or if a statutorily authorized benefit takes into consideration such factors” before the period at the end. | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1182` | amend | Section 212(f) of the Immigration and Nationality Act (8 U.S.C. 1182(f)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 41` | insert | The Federal Trade Commission Act (15 U.S.C. 41 et seq.) is amended by inserting after section 26 (15 U.S.C. 57c–2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 262` | add-at-end | in paragraph (2)(C), in the flush text following clause (ii), by adding at the end the following: “With respect to a submission described in clause (ii), the act of infringement shall extend to any patent that claims the biological produ… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 262` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1225` | add-at-end | Section 235 of the Immigration and Nationality Act (8 U.S.C. 1225) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
