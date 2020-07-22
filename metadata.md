@@ -1,0 +1,29 @@
+---
+measure: H.Res. 1060
+congress: 116
+version: Reported in House
+---
+
+# H.Res. 1060
+
+Providing for consideration of the bill (H.R. 7608) making appropriations for the Department of State, foreign operations, and related programs for the fiscal year ending September 30, 2021, and for other purposes.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Shalala, Donna E. [D-FL-27] (S001206)
+
+## Committees (1)
+
+- House — Rules Committee
+
+## Actions
+
+- 2020-07-22 — Introduced in House
+- 2020-07-22 — Placed on the House Calendar, Calendar No. 85.
+- 2020-07-22 — The House Committee on Rules reported an original measure, H. Rept. 116-459, by Ms. Shalala.
+- 2020-07-22 — The House Committee on Rules reported an original measure, H. Rept. 116-459, by Ms. Shalala.
+- 2020-07-22 — The resolution provide that an amendment in the nature of a substitute consisting of the text of Rules Committee Print 116-59 shall be considered as adopted and the bill, as amended, shall be considered as read.
