@@ -1,7 +1,7 @@
 ---
 measure: S. 906
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 906
@@ -37,3 +37,19 @@ Driftnet Modernization and Bycatch Reduction Act
 - 2019-12-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 316.
 - 2020-07-22 — Passed Senate with an amendment by Voice Vote. (consideration: CR S4398-4399; text: CR S4398-4399)
 - 2020-07-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S4398-4399; text: CR S4398-4399)
+- 2020-07-23 — Held at the desk.
+- 2020-07-23 — Message on Senate action sent to the House.
+- 2020-07-23 — Received in the House.
+- 2020-12-10 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2020-12-10 — Considered as unfinished business. (consideration: CR H7126-7127)
+- 2020-12-10 — Considered under suspension of the rules. (consideration: CR H7115-7118)
+- 2020-12-10 — DEBATE - The House proceeded with forty minutes of debate on S. 906.
+- 2020-12-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-10 — Mr. Huffman moved to suspend the rules and pass the bill.
+- 2020-12-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 283 - 105 (Roll no. 242). (text: CR H7115)
+- 2020-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 283 - 105 (Roll no. 242).(text: CR H7115)
+- 2020-12-21 — Presented to President.
+- 2020-12-21 — Presented to President.
+- 2021-01-01 — Veto message received in Senate. Ordered held at the desk. (consideration: CR S8001-8002; text: CR S8002)
+- 2021-01-01 — Vetoed by President.
+- 2021-01-01 — Vetoed by President.
