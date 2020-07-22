@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2486
 congress: 116
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 2486
@@ -78,3 +78,18 @@ Fostering Undergraduate Talent by Unlocking Resources for Education Act
 - 2019-12-05 — Senate amendment agreed to: Amendment SA 1255 agreed to in Senate by Unanimous Consent.
 - 2019-12-05 — Senate amendment proposed (on the floor): Amendment SA 1255 proposed by Senator Scott SC for Senator Alexander.(consideration: CR S6865; text: CR S6894-6895)
 - 2019-12-05 — Senate amendment submitted
+- 2019-12-09 — Message on Senate action sent to the House.
+- 2020-03-10 — Rules Committee Resolution H. Res. 891 Reported to House. Rule provides for consideration of S.J. Res. 68, H.R. 2486 and H.R. 6172. Resolution provides for consideration of S.J. Res. 68, the Senate amendment to H.R. 2486, and H.R. 6172. For S.J. Res. 68, the resolution provides for 1 hour of debate and 1 motion to commit. For the Senate amendment to H.R. 2486, the question will be divided and each portion will have 1 hour of debate. H.R. 6172 will have 1 hour ofdebate and 1 motion to recommit with or without instructions.
+- 2020-07-22 — DEBATE - Pursuant H. Res. 891, the question shall be divided among the two House amendments. Pursuant to section 3(a) of H. Res. 891, the portion of the divided question comprising of the amendment specified in section 4(a) of H. Res. 891 shall be considered first. Each amendment specified in section 4 shall be debatable for one hour.
+- 2020-07-22 — DEBATE - The House resumed debate on the House amendment to the Senate amendment.
+- 2020-07-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-07-22 — On motion to concur in the Senate amendment with amendment specified in section 4(a) of H. Res. 891 Agreed to by the Yeas and Nays: 233 - 183 (Roll no. 153). (text: CR H3625-3628)
+- 2020-07-22 — On motion to concur in the Senate amendment with amendment specified in section 4(b) of H. Res. 891 Agreed to by the Yeas and Nays: 231 - 184 (Roll no. 154). (text: CR H3638-3639)
+- 2020-07-22 — POSTPONED PROCEEDINGS - 1At the conclusion of debate on the Jayapal motion that the House concur in the Senate amendment with an amendment specified in section 4(b) of H. Res. 891, the Chair put the question on adoption of the motion and by voice vote, announced that the ayes had prevailed. Mr. Nadler demanded the yeas and nays and the Chair postponed further proceedings on the motion until a time to be announced.
+- 2020-07-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jayapal motion that the House concur in the Senate amendment with an amendment specified in section 4(a) of H. Res. 891, the Chair put the question on adoption of the motion and by voice vote, announced that the ayes had prevailed. Mr. Nadler demanded the yeas and nays and the Chair postponed further proceedings on the motion until a time to be announced.
+- 2020-07-22 — Pursuant to H. Res. 891, Ms. Jayapal was recognized to move that the House concur in the Senate amendment to H.R. 2486 with amendments specified in section 4 of H. Res. 891. (consideration: CR H3625-3638, H3666)
+- 2020-07-22 — Pursuant to H. Res. 891, the House proceeded with one hour of debate on the motion that the House concur in the Senate amendment with an amendment specified in section 4(b). (consideration: CR H3638-3642, H3666-3667)
+- 2020-07-22 — Resolving differences -- House actions: On motion to concur in the Senate amendment with amendment specified in section 4(a) of H. Res. 891 Agreed to by the Yeas and Nays: 233 - 183 (Roll no. 153).(text: CR H3625-3628)
+- 2020-07-22 — Resolving differences -- House actions: On motion to concur in the Senate amendment with amendment specified in section 4(b) of H. Res. 891 Agreed to by the Yeas and Nays: 231 - 184 (Roll no. 154).(text: CR H3638-3639)
+- 2020-07-22 — The previous question was ordered pursuant to the rule.
+- 2020-07-22 — The previous question was ordered pursuant to the rule.
