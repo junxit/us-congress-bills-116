@@ -1,7 +1,7 @@
 ---
 measure: S. 4065
 congress: 116
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 4065
@@ -28,3 +28,7 @@ Reinforcing American-Made Products Act of 2020
 
 - 2020-06-24 — Introduced in Senate
 - 2020-06-24 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2020-07-22 — Passed Senate without amendment by Voice Vote. (text: CR S4398)
+- 2020-07-22 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(text: CR S4398)
+- 2020-07-22 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S4398)
+- 2020-07-22 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S4398)
