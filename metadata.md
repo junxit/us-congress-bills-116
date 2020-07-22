@@ -1,7 +1,7 @@
 ---
 measure: S. 906
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 906
@@ -35,3 +35,5 @@ Driftnet Modernization and Bycatch Reduction Act
 - 2019-12-05 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment. With written report No. 116-166.
 - 2019-12-05 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment. With written report No. 116-166.
 - 2019-12-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 316.
+- 2020-07-22 — Passed Senate with an amendment by Voice Vote. (consideration: CR S4398-4399; text: CR S4398-4399)
+- 2020-07-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S4398-4399; text: CR S4398-4399)
