@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 617
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 617
@@ -31,3 +31,7 @@ A resolution designating July 22, 2020, as "Glioblastoma Awareness Day".
 
 - 2020-06-15 — Introduced in Senate
 - 2020-06-15 — Referred to the Committee on the Judiciary.
+- 2020-07-22 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR 06/15/2020 S2975)
+- 2020-07-22 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 06/15/2020 S2975)
+- 2020-07-22 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4431)
+- 2020-07-22 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4431)
