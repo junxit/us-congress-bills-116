@@ -1,7 +1,7 @@
 ---
 measure: S. 4049
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4049
@@ -16,6 +16,1458 @@ National Defense Authorization Act for Fiscal Year 2021
 
 - Sen. Inhofe, James M. [R-OK] (I000024)
 
+## Cosponsors (1449)
+
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. McSally, Martha [R-AZ] (M001197)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. McSally, Martha [R-AZ] (M001197)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Loeffler, Kelly [R-GA] (L000594)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Loeffler, Kelly [R-GA] (L000594)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Loeffler, Kelly [R-GA] (L000594)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. McSally, Martha [R-AZ] (M001197)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. McSally, Martha [R-AZ] (M001197)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. McSally, Martha [R-AZ] (M001197)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. McSally, Martha [R-AZ] (M001197)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Loeffler, Kelly [R-GA] (L000594)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. McSally, Martha [R-AZ] (M001197)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. McSally, Martha [R-AZ] (M001197)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. McSally, Martha [R-AZ] (M001197)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Loeffler, Kelly [R-GA] (L000594)
+- Sen. Loeffler, Kelly [R-GA] (L000594)
+- Sen. Loeffler, Kelly [R-GA] (L000594)
+- Sen. Loeffler, Kelly [R-GA] (L000594)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. McSally, Martha [R-AZ] (M001197)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. McSally, Martha [R-AZ] (M001197)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. McSally, Martha [R-AZ] (M001197)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. McSally, Martha [R-AZ] (M001197)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Loeffler, Kelly [R-GA] (L000594)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. McSally, Martha [R-AZ] (M001197)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. McSally, Martha [R-AZ] (M001197)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Loeffler, Kelly [R-GA] (L000594)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Perdue, David [R-GA] (P000612)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Sasse, Ben [R-NE] (S001197)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. McSally, Martha [R-AZ] (M001197)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+
 ## Committees (1)
 
 - Senate — Armed Services Committee
@@ -26,3 +1478,1138 @@ National Defense Authorization Act for Fiscal Year 2021
 - 2020-06-23 — Committee on Armed Services. Original measure reported to Senate by Senator Inhofe. Without written report.
 - 2020-06-23 — Introduced in Senate
 - 2020-06-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 483.
+- 2020-06-24 — By Senator Inhofe from Committee on Armed Services filed written report. Report No. 116-236.
+- 2020-06-24 — By Senator Inhofe from Committee on Armed Services filed written report. Report No. 116-236.
+- 2020-06-24 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S3170)
+- 2020-06-24 — Motion to proceed to consideration of measure made in Senate. (CR S3170)
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-24 — Senate amendment submitted
+- 2020-06-25 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 90 - 7. Record Vote Number: 127. (CR S3296)
+- 2020-06-25 — Motion to proceed to measure considered in Senate. (CR S3278)
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-25 — Senate amendment submitted
+- 2020-06-29 — Amendment SA 2080 proposed by Senator McConnell for Senator Portman to Amendment SA 2301. (consideration: CR S3642; text: CR S3642) To require an element in annual reports on cyber science and technology activities on work with academic consortia on high priority cybersecurity research activities in Department of Defense capabilities.
+- 2020-06-29 — Amendment SA 2301 proposed by Senator Inhofe. (consideration: CR S3642; text: CR S3739-3958) In the nature of a substitute.
+- 2020-06-29 — Measure laid before Senate by motion. (consideration: CR S3642)
+- 2020-06-29 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 89 - 4. Record Vote Number: 128.
+- 2020-06-29 — Motion to proceed to measure considered in Senate. (CR S3630)
+- 2020-06-29 — Senate amendment proposed (on the floor): Amendment SA 2080 proposed by Senator McConnell for Senator Portman to Amendment SA 2301.(consideration: CR S3642; text: CR S3642)
+- 2020-06-29 — Senate amendment proposed (on the floor): Amendment SA 2301 proposed by Senator Inhofe.(consideration: CR S3642; text: CR S3739-3958)
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-29 — Senate amendment submitted
+- 2020-06-30 — Considered by Senate. (consideration: CR S3980)
+- 2020-06-30 — Considered by Senate. (consideration: CR S3980)
+- 2020-06-30 — Considered by Senate. (consideration: CR S3980, S3984-3993, S3996-3998, S4008-4010, S4013-4014)
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-06-30 — Senate amendment submitted
+- 2020-07-01 — Amendment SA 2011 proposed by Senator Inhofe for Senator Paul to language proposed to be stricken by amendment no. 2301. (consideration: CR S4114-4117; text: CR S4114) To withdraw all United States Armed Forces from Afghanistan.
+- 2020-07-01 — Considered by Senate. (consideration: CR S4084)
+- 2020-07-01 — Considered by Senate. (consideration: CR S4084)
+- 2020-07-01 — Considered by Senate. (consideration: CR S4084-4085, S4091-4093, S4096-4101, S4114-4117, S4129)
+- 2020-07-01 — Motion to table amendment SA 2011 agreed to in Senate by Yea-Nay Vote. 60 - 33. Record Vote Number: 129.
+- 2020-07-01 — Roll call votes on amendments in Senate: Motion to table amendment SA 2011 agreed to in Senate by Yea-Nay Vote. 60 - 33. Record Vote Number: 129.
+- 2020-07-01 — Senate amendment proposed (on the floor): Amendment SA 2011 proposed by Senator Inhofe for Senator Paul to language proposed to be stricken by amendment no. 2301.
+- 2020-07-01 — Senate amendment submitted
+- 2020-07-01 — Senate amendment submitted
+- 2020-07-01 — Senate amendment submitted
+- 2020-07-01 — Senate amendment submitted
+- 2020-07-01 — Senate amendment submitted
+- 2020-07-01 — Senate amendment submitted
+- 2020-07-01 — Senate amendment submitted
+- 2020-07-01 — Senate amendment submitted
+- 2020-07-01 — Senate amendment submitted
+- 2020-07-01 — Senate amendment submitted
+- 2020-07-01 — Senate amendment submitted
+- 2020-07-01 — Senate amendment submitted
+- 2020-07-01 — Senate amendment submitted
+- 2020-07-01 — Senate amendment submitted
+- 2020-07-01 — Senate amendment submitted
+- 2020-07-01 — Senate amendment submitted
+- 2020-07-01 — Senate amendment submitted
+- 2020-07-01 — Senate amendment submitted
+- 2020-07-01 — Senate amendment submitted
+- 2020-07-01 — Senate amendment submitted
+- 2020-07-01 — Senate amendment submitted
+- 2020-07-01 — Senate amendment submitted
+- 2020-07-01 — Senate amendment submitted
+- 2020-07-01 — Senate amendment submitted
+- 2020-07-01 — Senate amendment submitted
+- 2020-07-01 — Senate amendment submitted
+- 2020-07-01 — Senate amendment submitted
+- 2020-07-01 — Senate amendment submitted
+- 2020-07-01 — Senate amendment submitted
+- 2020-07-01 — Senate amendment submitted
+- 2020-07-01 — Senate amendment submitted
+- 2020-07-02 — Amendment SA 1693 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 1693 proposed by Senator Inhofe for Senator Moran to Amendment SA 2301. (consideration: CR S4184; text: CR S4195) To provide compensation and credit for retired pay purposes for maternity leave taken by members of the reserve components.
+- 2020-07-02 — Amendment SA 1694 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 1694 proposed by Senator Inhofe for Senator Moran to Amendment SA 2301. (consideration: CR S4184; text: CR S4184-4185) To require the Secretary of Veterans Affairs to conduct a study on the unemployment rate of female veterans who served on active duty in the Armed Forces after September 11, 2001.
+- 2020-07-02 — Amendment SA 1753 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 1753 proposed by Senator Reed for Senator Peters to Amendment SA 2301. (consideration: CR S4184; text: CR S4185-4186) To require the Secretary of Homeland Security to submit a report to Congress on the screening practices for Great Lakes and inland waterways seaports.
+- 2020-07-02 — Amendment SA 1797 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 1797 proposed by Senator Reed for Senator Jones to Amendment SA 2301. (consideration: CR S4184; text: CR S4191) To improve the authority for operations of unmanned aircraft for educational purposes.
+- 2020-07-02 — Amendment SA 1803 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 1803 proposed by Senator Reed for Senator Warner to Amendment SA 2301. (consideration: CR S4184; text: CR S4186) To improve efficient use of sensitive compartmented information facilities.
+- 2020-07-02 — Amendment SA 1808 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 1808 proposed by Senator Reed for Senator Coons to Amendment SA 2301. (consideration: CR S4184) To provide for Federal coordination of activities supporting sustainable chemistry, and for other purposes.
+- 2020-07-02 — Amendment SA 1825 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 1825 proposed by Senator Inhofe for Senator Lankford to Amendment SA 2301. (consideration: CR S4184; text: CR S4191) To require each agency, in providing notice of a rule making, to include a link to a 100 word plain language summary of the proposed rule.
+- 2020-07-02 — Amendment SA 1849 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 1849 proposed by Senator Reed for Senator Van Hollen to Amendment SA 2301. (consideration: CR S4184; text: CR S4196) For the relief of Richard W. Collins III.
+- 2020-07-02 — Amendment SA 1878 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 1878 proposed by Senator Inhofe for Senator Loeffler to Amendment SA 2301. (consideration: CR S4184; text: CR S4191) To authorize certain postgraduate health care employees and health professions trainees of the Department of Veterans Affairs to provide treatment via telemedicine.
+- 2020-07-02 — Amendment SA 1881 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 1881 proposed by Senator Inhofe for Senator Hyde-Smith to Amendment SA 2301. (consideration: CR S4184; text: CR S4185) To designate the week of September 20 through September 26, 2020, as "Gold Star Families Remembrance Week".
+- 2020-07-02 — Amendment SA 1883 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 1883 proposed by Senator Inhofe for Senator Romney to Amendment SA 2301. (consideration: CR S4184; text: CR S4185) To state the policy of the United States on cooperation in the Indo-Pacific region.
+- 2020-07-02 — Amendment SA 1891 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 1891 proposed by Senator Inhofe for Senator Portman to Amendment SA 2301. (consideration: CR S4184; text: CR S4186) To require the Secretary of Homeland Security to publish an annual report on the use of deepfake technology, and for other purposes.
+- 2020-07-02 — Amendment SA 1907 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 1907 proposed by Senator Reed for Senator Warner to Amendment SA 2301. (consideration: CR S4184; text: CR S4186) To require a report by the Comptroller General of the United States on diversity and inclusion within the civilian workforce of the Department of Defense.
+- 2020-07-02 — Amendment SA 1966 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 1966 proposed by Senator Reed for Senator Tester to Amendment SA 2301. (consideration: CR S4184; text: CR S4191-4192) To provide assistance to manage farmer and rancher stress and for the mental health of individuals in rural areas.
+- 2020-07-02 — Amendment SA 1968 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 1968 proposed by Senator Reed for Senator Tester to Amendment SA 2301. (consideration: CR S4184) To expand eligibility for mental health services from the Department of Veterans Affairs to include members of the reserve components of the Armed Forces.
+- 2020-07-02 — Amendment SA 1971 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 1971 proposed by Senator Reed for Senator Tester to Amendment SA 2301. (consideration: CR S4184; text: CR S4192) To require the Secretary of Veterans Affairs to provide veterans read-only access to the documents of such veterans contained in the Individual Longitudinal Exposure Record.
+- 2020-07-02 — Amendment SA 1977 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 1977 proposed by Senator Reed for Senator Bennet to Amendment SA 2301. (consideration: CR S4184; text: CR S4187) To require a briefing on the assignment of members of the Armed Forces on active duty to the Joint Artificial Intelligence Center of the Department of Defense.
+- 2020-07-02 — Amendment SA 1987 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 1987 proposed by Senator Inhofe for Senator Kennedy to Amendment SA 2301. (consideration: CR S4184; text: CR S4186) To require the Secretary of the Treasury to provide States with information regarding unredeemed matured savings bonds.
+- 2020-07-02 — Amendment SA 1991 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 1991 proposed by Senator Inhofe for Senator Kennedy to Amendment SA 2301. (consideration: CR S4184; text: CR S4192) To establish limitations regarding Confucius Institutes, and for other purposes.
+- 2020-07-02 — Amendment SA 2018 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2018 proposed by Senator Inhofe for Senator Romney to Amendment SA 2301. (consideration: CR S4184; text: CR S4186) To require a report on the Chemical and Biological Defense Program of the Department of Defense.
+- 2020-07-02 — Amendment SA 2053 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2053 proposed by Senator Reed for Senator Markey to Amendment SA 2301. (consideration: CR S4184; text: CR S4192) To impose reporting requirements relating to the SBIR and STTR programs of the Small Business Administration.
+- 2020-07-02 — Amendment SA 2058 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2058 proposed by Senator Reed for Senator Smith to Amendment SA 2301. (consideration: CR S4184; text: CR S4187-4188) To require the Secretary of Health and Human Services to conduct a study and issue a report on the affordability of insulin.
+- 2020-07-02 — Amendment SA 2077 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2077 proposed by Senator Inhofe for Senator Johnson to Amendment SA 2301. (consideration: CR S4184) To strengthen Federal antidiscrimination laws enforced by the Equal Employment Opportunity Commission and expand accountability within the Federal Government.
+- 2020-07-02 — Amendment SA 2084 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2084 proposed by Senator Inhofe for Senator Lee to Amendment SA 2301. (consideration: CR S4184; text: CR S4196) To require an annual allied burden sharing report.
+- 2020-07-02 — Amendment SA 2103 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2103 proposed by Senator Reed for Senator Hassan to Amendment SA 2301. (consideration: CR S4184; text: CR S4196-4197) To improve the response of the Department of Defense to threats to United States forces from small unmanned aerial systems worldwide.
+- 2020-07-02 — Amendment SA 2138 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2138 proposed by Senator Inhofe for Senator Cruz to Amendment SA 2301. (consideration: CR S4184; text: CR S4192) To leverage commercial satellite remote sensing.
+- 2020-07-02 — Amendment SA 2168 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2168 proposed by Senator Reed for Senator Durbin to Amendment SA 2301. (consideration: CR S4184; text: CR S4192) To express the Sense of Congress on support for coordinated action to ensure the security of Baltic allies.
+- 2020-07-02 — Amendment SA 2178 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2178 proposed by Senator Inhofe for Senator Wicker to Amendment SA 2301. (consideration: CR S4184; text: CR S4188) To improve the cyber workforce and establish cyber challenges.
+- 2020-07-02 — Amendment SA 2186 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2186 proposed by Senator Reed for Senator Cortez Masto to Amendment SA 2301. (consideration: CR S4184; text: CR S4188) To require the Comptroller General of the United States to submit to Congress a report assessing the billing practices of the Department of Defense for care received under the TRICARE program and at military medical treatment facilities.
+- 2020-07-02 — Amendment SA 2204 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2204 proposed by Senator Inhofe to Amendment SA 2301. (consideration: CR S4184; text: CR S4191) To amend the Oklahoma City National Memorial Act of 1997 to authorize the transfer of funds for the endowment fund for the Oklahoma City National Memorial, and for other purposes.
+- 2020-07-02 — Amendment SA 2215 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2215 proposed by Senator Reed for Senator King to Amendment SA 2301. (consideration: CR S4184; text: CR S4188) To strengthen the Cybersecurity and Infrastructure Security Agency.
+- 2020-07-02 — Amendment SA 2217 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2217 proposed by Senator Reed for Senator Feinstein to Amendment SA 2301. (consideration: CR S4184; text: CR S4192-4193) To require the Secretary of Defense to conduct a study on military aviators and aviation support personnel to determine the incidence of cancer diagnosis and mortality among such aviators and personnel.
+- 2020-07-02 — Amendment SA 2220 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2220 proposed by Senator Reed for Senator Heinrich to Amendment SA 2301. (consideration: CR S4184; text: CR S4193) To express the sense of the Senate on the extension of limitations on the importation of uranium from the Russian Federation.
+- 2020-07-02 — Amendment SA 2231 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2231 proposed by Senator Inhofe for Senator Fischer to Amendment SA 2301. (consideration: CR S4184) To ensure appropriate prioritization, spectrum planning, and interagency coordination to support the Internet of Things.
+- 2020-07-02 — Amendment SA 2235 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2235 proposed by Senator Inhofe for Senator Rounds to Amendment SA 2301. (consideration: CR S4184; text: CR S4193-4194) To authorize a pilot program to explore the use of consumption-based solutions to address software-intensive warfighting capability.
+- 2020-07-02 — Amendment SA 2238 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2238 proposed by Senator Inhofe for Senator Risch to Amendment SA 2301. (consideration: CR S4184; text: CR S4189) To improve coordination of United States sanctions policy.
+- 2020-07-02 — Amendment SA 2241 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2241 proposed by Senator Inhofe for Senator Gardner to Amendment SA 2301. (consideration: CR S4184; text: CR S4189-4190) To express the sense of Congress on the implementation of the Asia Reassurance Initiative Act of 2018 with respect to Taiwan arms sales.
+- 2020-07-02 — Amendment SA 2243 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2243 proposed by Senator Inhofe for Senator Portman to Amendment SA 2301. (consideration: CR S4184; text: CR S4190) To require an assessment of United States manufacturing surge capacity.
+- 2020-07-02 — Amendment SA 2248 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2248 proposed by Senator Inhofe to Amendment SA 2301. (consideration: CR S4184; text: CR S4190) Relating to the Space Force.
+- 2020-07-02 — Amendment SA 2251 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2251 proposed by Senator Reed for Senator Merkley to Amendment SA 2301. (consideration: CR S4184; text: CR S4188) To extend the prohibition on commercial export of certain munitions to the Hong Kong Police Force.
+- 2020-07-02 — Amendment SA 2255 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2255 proposed by Senator Reed for Senator Cantwell to Amendment SA 2301. (consideration: CR S4184; text: CR S4189) To extend real-time sound monitoring at Navy installations where tactical fighter aircraft operate.
+- 2020-07-02 — Amendment SA 2256 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2256 proposed by Senator Reed for Senator Cantwell to Amendment SA 2301. (consideration: CR S4184; text: CR S4189) To require an analysis of sourcing and industrial capacity issues related to aluminum.
+- 2020-07-02 — Amendment SA 2257 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2257 proposed by Senator Reed for Senator Brown to Amendment SA 2301. (consideration: CR S4184; text: CR S4194) To require a report on the use and potential refurbishment of existing operating and mothballed Federal research and testing facilities to support hypersonics activities of the Department of Defense.
+- 2020-07-02 — Amendment SA 2269 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2269 proposed by Senator Reed for Senator Hirono to Amendment SA 2301. (consideration: CR S4184; text: CR S4190) To require a report on the impact of the children of certain Filipino World War II veterans on the national security, foreign policy, and economic and humanitarian interests of the United States.
+- 2020-07-02 — Amendment SA 2270 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2270 proposed by Senator Reed for Senator Menendez to Amendment SA 2301. (consideration: CR S4184) To provide assistance for United States citizens and nationals taken hostage or unlawfully or wrongfully detained abroad, and for other purposes.
+- 2020-07-02 — Amendment SA 2275 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2275 proposed by Senator Reed for Senator Peters to Amendment SA 2301. (consideration: CR S4184) To require a plan for the continuity of the economy.
+- 2020-07-02 — Amendment SA 2277 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2277 proposed by Senator Inhofe for Senator Toomey to Amendment SA 2301. (consideration: CR S4184) To impose sanctions with respect to foreign persons involved in the erosion of certain obligations of China with respect to Hong Kong.
+- 2020-07-02 — Amendment SA 2287 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2287 proposed by Senator Inhofe for Senator Sasse to Amendment SA 2301. (consideration: CR S4184; text: CR S4194) To require the Secretary of Defense to conduct a study on cyberexploitation of members of the Armed Forces and their families.
+- 2020-07-02 — Amendment SA 2298 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2298 proposed by Senator Inhofe for Senator Boozman to Amendment SA 2301. (consideration: CR S4184; text: CR S4194) To require a report on round-the-clock availability of childcare for members of the Armed Forces and civilian employees of the Department of Defense who work rotating shifts.
+- 2020-07-02 — Amendment SA 2317 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2317 proposed by Senator Reed for Senator Harris to Amendment SA 2301. (consideration: CR S4184; text: CR S4194-4195) To require the Secretary of Defense to commission an independent scientific study of the impacts of transboundary flows, spills, or discharges of pollution or debris from the Tijuana River on the personnel, activities, and installations of the Department of Defense.
+- 2020-07-02 — Amendment SA 2319 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2319 proposed by Senator Reed for Senator Klobuchar to Amendment SA 2301. (consideration: CR S4184; text: CR S4195) To provide an exception to the limitation on period of care provided to newborn children of veterans.
+- 2020-07-02 — Amendment SA 2326 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2326 proposed by Senator Inhofe to Amendment SA 2301. (consideration: CR S4184; text: CR S4195) To strike the provision relating to laboratory- or production facility-directed research and development programs.
+- 2020-07-02 — Amendment SA 2327 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2327 proposed by Senator Inhofe for Senator Young to Amendment SA 2301. (consideration: CR S4184; text: CR S4195) To require a study and plan on the use of additive manufacturing and three-dimensional bioprinting in support of the warfighter.
+- 2020-07-02 — Amendment SA 2331 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2331 proposed by Senator Inhofe for Senator Shelby to Amendment SA 2301. (consideration: CR S4184; text: CR S4195) To modify the authorities on micro nuclear reactor programs.
+- 2020-07-02 — Amendment SA 2341 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2341 proposed by Senator Reed for Senator Wyden to Amendment SA 2301. (consideration: CR S4184; text: CR S4195) To require the Secretary of the Army to submit to Congress a plan to finish remediation activities conducted by the Secretary in Umatilla, Oregon.
+- 2020-07-02 — Amendment SA 2370 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2370 proposed by Senator Inhofe for Senator Blackburn to Amendment SA 2301. (consideration: CR S4184; text: CR S4195) To improve section 212, relating to governance of fifth-generation wireless networking in the Department of Defense.
+- 2020-07-02 — Amendment SA 2378 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2378 proposed by Senator Inhofe for Senator Blackburn to Amendment SA 2301. (consideration: CR S4184) To amend the United States International Broadcasting Act of 1994 to authorize the Open Technology Fund of the United States Agency for Global Media and to reauthorize the United States Advisory Commission on Public Diplomacy.
+- 2020-07-02 — Amendment SA 2391 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2391 proposed by Senator Inhofe for Senator Sullivan to Amendment SA 2301. (consideration: CR S4184; text: CR S4186-4187) To require reports on diversity and inclusion in the Armed Forces.
+- 2020-07-02 — Amendment SA 2417 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2417 proposed by Senator Reed for Senator Manchin to Amendment SA 2301. (consideration: CR S4184; text: CR S4191) To modify the requirements for the Department of Energy response to the review by the Nuclear Weapons Council of the budget of the National Nuclear Security Administration.
+- 2020-07-02 — Amendment SA 2418 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2418 proposed by Senator Inhofe to Amendment SA 2301. (consideration: CR S4184; text: CR S4195) To eliminate a provision relating to the distribution of launches for phase two of the acquisition strategy for the National Security Space Launch program.
+- 2020-07-02 — Amendment SA 2419 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2419 proposed by Senator Reed for Senator Sanders to Amendment SA 2301. (consideration: CR S4184; text: CR S4195-4196) To provide incentives for the Department of Defense to achieve a clean audit opinion on its financial statements.
+- 2020-07-02 — Amendment SA 2422 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Amendment SA 2422 proposed by Senator Inhofe for Senator Rubio to Amendment SA 2301. (consideration: CR S4184; text: CR S4234-4235) To support supply chain innovation and multilateral security.
+- 2020-07-02 — Cloture motion on amendment SA 2301 presented in Senate. (CR S4197)
+- 2020-07-02 — Cloture motion on the measure presented in Senate. (CR S4197)
+- 2020-07-02 — Considered by Senate. (consideration: CR S4183)
+- 2020-07-02 — Considered by Senate. (consideration: CR S4183)
+- 2020-07-02 — Considered by Senate. (consideration: CR S4183-4198)
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 1693 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 1694 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 1753 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 1797 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 1803 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 1808 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 1825 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 1849 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 1878 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 1881 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 1883 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 1891 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 1907 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 1966 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 1968 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 1971 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 1977 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 1987 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 1991 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2018 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2053 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2058 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2077 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2084 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2103 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2138 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2168 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2178 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2186 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2204 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2215 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2217 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2220 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2231 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2235 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2238 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2241 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2243 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2248 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2251 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2255 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2256 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2257 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2269 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2270 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2275 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2277 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2287 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2298 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2317 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2319 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2326 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2327 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2331 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2341 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2370 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2378 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2391 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2417 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2418 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2419 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment agreed to: Amendment SA 2422 agreed to in Senate by Voice Vote.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 1693 proposed by Senator Inhofe for Senator Moran to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 1694 proposed by Senator Inhofe for Senator Moran to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 1753 proposed by Senator Reed for Senator Peters to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 1797 proposed by Senator Reed for Senator Jones to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 1803 proposed by Senator Reed for Senator Warner to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 1808 proposed by Senator Reed for Senator Coons to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 1825 proposed by Senator Inhofe for Senator Lankford to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 1849 proposed by Senator Reed for Senator Van Hollen to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 1878 proposed by Senator Inhofe for Senator Loeffler to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 1881 proposed by Senator Inhofe for Senator Hyde-Smith to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 1883 proposed by Senator Inhofe for Senator Romney to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 1891 proposed by Senator Inhofe for Senator Portman to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 1907 proposed by Senator Reed for Senator Warner to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 1966 proposed by Senator Reed for Senator Tester to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 1968 proposed by Senator Reed for Senator Tester to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 1971 proposed by Senator Reed for Senator Tester to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 1977 proposed by Senator Reed for Senator Bennet to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 1987 proposed by Senator Inhofe for Senator Kennedy to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 1991 proposed by Senator Inhofe for Senator Kennedy to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2018 proposed by Senator Inhofe for Senator Romney to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2053 proposed by Senator Reed for Senator Markey to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2058 proposed by Senator Reed for Senator Smith to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2077 proposed by Senator Inhofe for Senator Johnson to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2084 proposed by Senator Inhofe for Senator Lee to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2103 proposed by Senator Reed for Senator Hassan to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2138 proposed by Senator Inhofe for Senator Cruz to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2168 proposed by Senator Reed for Senator Durbin to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2178 proposed by Senator Inhofe for Senator Wicker to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2186 proposed by Senator Reed for Senator Cortez Masto to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2204 proposed by Senator Inhofe to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2215 proposed by Senator Reed for Senator King to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2217 proposed by Senator Reed for Senator Feinstein to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2220 proposed by Senator Reed for Senator Heinrich to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2231 proposed by Senator Inhofe for Senator Fischer to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2235 proposed by Senator Inhofe for Senator Rounds to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2238 proposed by Senator Inhofe for Senator Risch to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2241 proposed by Senator Inhofe for Senator Gardner to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2243 proposed by Senator Inhofe for Senator Portman to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2248 proposed by Senator Inhofe to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2251 proposed by Senator Reed for Senator Merkley to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2255 proposed by Senator Reed for Senator Cantwell to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2256 proposed by Senator Reed for Senator Cantwell to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2257 proposed by Senator Reed for Senator Brown to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2269 proposed by Senator Reed for Senator Hirono to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2270 proposed by Senator Reed for Senator Menendez to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2275 proposed by Senator Reed for Senator Peters to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2277 proposed by Senator Inhofe for Senator Toomey to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2287 proposed by Senator Inhofe for Senator Sasse to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2298 proposed by Senator Inhofe for Senator Boozman to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2317 proposed by Senator Reed for Senator Harris to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2319 proposed by Senator Reed for Senator Klobuchar to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2326 proposed by Senator Inhofe to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2327 proposed by Senator Inhofe for Senator Young to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2331 proposed by Senator Inhofe for Senator Shelby to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2341 proposed by Senator Reed for Senator Wyden to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2370 proposed by Senator Inhofe for Senator Blackburn to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2378 proposed by Senator Inhofe for Senator Blackburn to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2391 proposed by Senator Inhofe for Senator Sullivan to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2417 proposed by Senator Reed for Senator Manchin to Amendment SA 2301.(consideration: CR S4184; text: CR S4191)
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2418 proposed by Senator Inhofe to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2419 proposed by Senator Reed for Senator Sanders to Amendment SA 2301.
+- 2020-07-02 — Senate amendment proposed (on the floor): Amendment SA 2422 proposed by Senator Inhofe for Senator Rubio to Amendment SA 2301.
+- 2020-07-02 — Senate amendment submitted
+- 2020-07-02 — Senate amendment submitted
+- 2020-07-02 — Senate amendment submitted
+- 2020-07-02 — Senate amendment submitted
+- 2020-07-02 — Senate amendment submitted
+- 2020-07-02 — Senate amendment submitted
+- 2020-07-02 — Senate amendment submitted
+- 2020-07-02 — Senate amendment submitted
+- 2020-07-02 — Senate amendment submitted
+- 2020-07-02 — Senate amendment submitted
+- 2020-07-02 — Senate amendment submitted
+- 2020-07-02 — Senate amendment submitted
+- 2020-07-02 — Senate amendment submitted
+- 2020-07-02 — Senate amendment submitted
+- 2020-07-02 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-20 — Senate amendment submitted
+- 2020-07-21 — Amendment SA 1729 agreed to in Senate by Voice Vote.
+- 2020-07-21 — Amendment SA 1729 proposed by Senator Inhofe for Senator Shaheen to Amendment SA 2301. (consideration: CR S4330; text: CR S4330) To increase funding for the study by the Centers for Disease Control and Prevention relating to perfluoroalkyl and polyfluoroalkyl substance contamination in drinking water.
+- 2020-07-21 — Amendment SA 2244 proposed by Senator Cornyn to Amendment SA 2301. (consideration: CR S4326-4330; text: CR 6/29/2020 S3696-3699) To restore American leadership in semiconductor manufacturing by increasing federal incentives in order to enable advanced research and development, secure the supply chain, and ensure long-term national security and economic competitiveness.
+- 2020-07-21 — Amendment SA 2244, under the order of 7/2/20, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 96 - 4. Record Vote Number: 134.
+- 2020-07-21 — Amendment SA 2252 proposed by Senator Schatz to Amendment SA 2301. (consideration: CR S4316-4321; text: CR 6/29/2020 S3704-3706) To reform Department of Defense transfers of personal property to law enforcement agencies.
+- 2020-07-21 — Amendment SA 2252, under the order of 7/2/20, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 132.
+- 2020-07-21 — Amendment SA 2411 proposed by Senator Inhofe to Amendment SA 2301. (consideration: CR S4321; text: CR S4321) To impose additional conditions and limitations on the transfer of Department of Defense property for law enforcement activities.
+- 2020-07-21 — Amendment SA 2411, under the order of 7/2/20, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 90 - 10. Record Vote Number: 133.
+- 2020-07-21 — Considered by Senate. (consideration: CR S4310)
+- 2020-07-21 — Considered by Senate. (consideration: CR S4310)
+- 2020-07-21 — Considered by Senate. (consideration: CR S4310-4339)
+- 2020-07-21 — Roll call votes on amendments in Senate: Amendment SA 2244, under the order of 7/2/20, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 96 - 4. Record Vote Number: 134.
+- 2020-07-21 — Roll call votes on amendments in Senate: Amendment SA 2252, under the order of 7/2/20, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 132.
+- 2020-07-21 — Roll call votes on amendments in Senate: Amendment SA 2411, under the order of 7/2/20, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 90 - 10. Record Vote Number: 133.
+- 2020-07-21 — Senate amendment agreed to: Amendment SA 1729 agreed to in Senate by Voice Vote.
+- 2020-07-21 — Senate amendment agreed to: Amendment SA 2244, under the order of 7/2/20, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 96 - 4. Record Vote Number: 134.
+- 2020-07-21 — Senate amendment agreed to: Amendment SA 2411, under the order of 7/2/20, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 90 - 10. Record Vote Number: 133.
+- 2020-07-21 — Senate amendment not agreed to: Amendment SA 2252, under the order of 7/2/20, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 132.
+- 2020-07-21 — Senate amendment proposed (on the floor): Amendment SA 1729 proposed by Senator Inhofe for Senator Shaheen to Amendment SA 2301.
+- 2020-07-21 — Senate amendment proposed (on the floor): Amendment SA 2244 proposed by Senator Cornyn to Amendment SA 2301.
+- 2020-07-21 — Senate amendment proposed (on the floor): Amendment SA 2252 proposed by Senator Schatz to Amendment SA 2301.
+- 2020-07-21 — Senate amendment proposed (on the floor): Amendment SA 2411 proposed by Senator Inhofe to Amendment SA 2301.
+- 2020-07-21 — Senate amendment submitted
+- 2020-07-21 — Senate amendment submitted
+- 2020-07-21 — Senate amendment submitted
+- 2020-07-21 — Senate amendment submitted
+- 2020-07-21 — Senate amendment submitted
+- 2020-07-21 — Senate amendment submitted
+- 2020-07-22 — Amendment SA 1788 proposed by Senator Sanders to Amendment SA 2301. (consideration: CR S4371-4375; text: CR S4371-4372) To reduce the bloated Pentagon budget by 10 percent and invest that money in jobs, education, health care, and housing in communities in the United States in which the poverty rate is not less than 25 percent.
+- 2020-07-22 — Amendment SA 1788, under the order of 7/2/20, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 23 - 77. Record Vote Number: 135.
+- 2020-07-22 — Amendment SA 1972 proposed by Senator Tester to Amendment SA 2301. (consideration: CR S4370-4371, S4375; text as modified: CR S4370-4371) To expand the list of diseases associated with exposure to certain herbicide agents for which there is a presumption of service connection for veterans who served in the Republic of Vietnam.
+- 2020-07-22 — Amendment SA 1972, under the order of 7/2/20, having achieved 60 votes in the affirmative, as modified, agreed to in Senate by Yea-Nay Vote. 94 - 6. Record Vote Number: 136.
+- 2020-07-22 — Cloture on amendment SA 2301 invoked in Senate by Yea-Nay Vote. 87 - 13. Record Vote Number: 137. (CR S4375)
+- 2020-07-22 — Considered by Senate. (consideration: CR S4365)
+- 2020-07-22 — Considered by Senate. (consideration: CR S4365)
+- 2020-07-22 — Considered by Senate. (consideration: CR S4365-4397, S4399-4414)
+- 2020-07-22 — Roll call votes on amendments in Senate: Amendment SA 1788, under the order of 7/2/20, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 23 - 77. Record Vote Number: 135.
+- 2020-07-22 — Roll call votes on amendments in Senate: Amendment SA 1972, under the order of 7/2/20, having achieved 60 votes in the affirmative, as modified, agreed to in Senate by Yea-Nay Vote. 94 - 6. Record Vote Number: 136.
+- 2020-07-22 — Roll call votes on amendments in Senate: Cloture on amendment SA 2301 invoked in Senate by Yea-Nay Vote. 87 - 13. Record Vote Number: 137.
+- 2020-07-22 — Senate amendment agreed to: Amendment SA 1972, under the order of 7/2/20, having achieved 60 votes in the affirmative, as modified, agreed to in Senate by Yea-Nay Vote. 94 - 6. Record Vote Number: 136.
+- 2020-07-22 — Senate amendment not agreed to: Amendment SA 1788, under the order of 7/2/20, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 23 - 77. Record Vote Number: 135.
+- 2020-07-22 — Senate amendment proposed (on the floor): Amendment SA 1788 proposed by Senator Sanders to Amendment SA 2301.
+- 2020-07-22 — Senate amendment proposed (on the floor): Amendment SA 1972 proposed by Senator Tester to Amendment SA 2301.(consideration: CR S4370-4371, S4375; text as modified: CR S4370-4371)
+- 2020-07-22 — Senate amendment submitted
+- 2020-07-22 — Senate amendment submitted
+- 2020-07-22 — Senate amendment submitted
+- 2020-07-22 — Senate amendment submitted
+- 2020-07-23 — Amendment SA 2080 agreed to in Senate by Voice Vote.
+- 2020-07-23 — Amendment SA 2301 agreed to in Senate by Yea-Nay Vote. 88 - 12. Record Vote Number: 138.
+- 2020-07-23 — Cloture on the measure invoked in Senate by Yea-Nay Vote. 86 - 14. Record Vote Number: 139. (CR S4435)
+- 2020-07-23 — Considered by Senate. (consideration: CR S4434)
+- 2020-07-23 — Considered by Senate. (consideration: CR S4434-4435)
+- 2020-07-23 — Considered by Senate. (consideration: CR S4434-4448)
+- 2020-07-23 — Notwithstanding the passage of S. 4049 and the adoption of amendment SA 2301 to S. 4049, the instruction line for amendment SA 2417 is modified by Unanimous Consent. (consideration: CR S4449; text: CR S4449)
+- 2020-07-23 — Passed Senate with an amendment by Yea-Nay Vote. 86 - 14. Record Vote Number: 140.
+- 2020-07-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 86 - 14. Record Vote Number: 140.
+- 2020-07-23 — Roll call votes on amendments in Senate: Amendment SA 2301 agreed to in Senate by Yea-Nay Vote. 88 - 12. Record Vote Number: 138.
+- 2020-07-23 — Senate amendment agreed to: Amendment SA 2080 agreed to in Senate by Voice Vote.
+- 2020-07-23 — Senate amendment agreed to: Amendment SA 2301 agreed to in Senate by Yea-Nay Vote. 88 - 12. Record Vote Number: 138.
+- 2020-07-23 — Senate amendment submitted
+- 2020-07-23 — Senate amendment submitted
+- 2020-07-23 — Senate amendment submitted
+- 2020-07-23 — Senate amendment submitted
+- 2020-07-23 — Senate amendment submitted
+- 2020-07-23 — Senate amendment submitted
+- 2020-07-23 — Senate amendment submitted
