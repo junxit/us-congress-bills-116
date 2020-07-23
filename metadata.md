@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7573
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 7573
@@ -54,3 +54,4 @@ To direct the Joint Committee on the Library to replace the bust of Roger Brooke
 - 2020-07-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 305 - 113 (Roll no. 156). (text: CR H3658)
 - 2020-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 305 - 113 (Roll no. 156).(text: CR H3658)
 - 2020-07-22 — The title of the measure was amended. Agreed to without objection.
+- 2020-07-23 — Received in the Senate.
