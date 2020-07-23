@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 7765
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7765
+
+> To amend title II of the Social Security Act to provide for a minimum annual cost-of-living increase for Social Security benefits, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Certainty for Older Living Americans Act of 2020” or the “COLA Act of 2020”.
+
+## § 2. Computation of cost-of-living increases
+
+- **(a)** *In general* Section 215(i) of the Social Security Act (42 U.S.C. 415(i)) is amended—
+  - **(1)** in paragraph (1)(B), by striking “with respect to which the applicable increase percentage is greater than zero;”; and
+  - **(2)** in paragraph (2)—
+    - **(A)** in subparagraph (A)—
+      - **(i)** in clause (ii), in the matter following subclause (III), by striking “applicable increase percentage” and inserting “the increase percentage determined under clause (iv) for such year”; and
+      - **(ii)** by adding at the end the following:
+        > - **(iv)** The increase percentage determined under this clause for a year shall be the greater of—
+        >   - **(I)** the applicable increase percentage with respect to a cost-of-living computation quarter in such year; or
+        >   - **(II)** the arithmetical mean of the increase percentages determined under this clause for each of the years in the 10-year period ending with the year before such year.
+
+    - **(B)** in the first sentence of subparagraph (D), by striking “and the percentage thereof” and inserting “, the percentage thereof, and the increase percentage determined under subparagraph (A)(iv) for the following year”.
+- **(b)** *Effective date* The amendments made by this section shall apply with respect to cost-of-living computation quarters ending on or after September 30, 2020.
