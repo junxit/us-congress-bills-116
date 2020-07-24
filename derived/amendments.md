@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7575
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-134 amendatory instructions. 54 executed, 80 stated and not applied.
+142 amendatory instructions. 58 executed, 84 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -98,21 +98,30 @@ to guess them.
 
 ### 33 U.S.C. § 2213
 
-> in the subsection heading, by striking “Nonstructural flood control projects” and inserting “Projects using nonstructural, natural, or nature-based features”; and
+> in the subsection heading, by striking “Nonstructural flood control projects” and inserting “Projects using nonstructural, natural, or nature-Based features”; and
 
 | | |
 |---|---|
 | Removed | `Nonstructural flood control projects` |
-| Inserted | `Projects using nonstructural, natural, or nature-based features` |
+| Inserted | `Projects using nonstructural, natural, or nature-Based features` |
 
 ### 33 U.S.C. § 2289a
 
-> in paragraph (1), by striking “nonstructural flood control measures” and inserting “a flood risk management or hurricane and storm damage risk reduction measure using a nonstructural feature, or a natural feature or nature-based feature (as those terms are defined in section 1184(a) of the Water Resources Development Act of 2016 (33 U.S.C. 2289a(a)),”.
+> by striking “nonstructural flood control measures” and inserting “a flood risk management or hurricane and storm damage risk reduction measure using a nonstructural feature, or a natural feature or nature-based feature (as those terms are defined in section 1184(a) of the Water Resources Development Act of 2016 (33 U.S.C. 2289a(a))),”; and
 
 | | |
 |---|---|
 | Removed | `nonstructural flood control measures` |
-| Inserted | `a flood risk management or hurricane and storm damage risk reduction measure using a nonstructural feature, or a natural feature or nature-based feature (as those terms are defined in section 1184(a) of the Water Resources Development Act of 2016 (33 U.S.C. 2289a(a)),` |
+| Inserted | `a flood risk management or hurricane and storm damage risk reduction measure using a nonstructural feature, or a natural feature or nature-based feature (as those terms are defined in section 1184(a) of the Water Resources Development Act of 2016 (33 U.S.C. 2289a(a))),` |
+
+### 33 U.S.C. § 2289a
+
+> by striking “cash during construction of the project” and inserting “cash during construction for a nonstructural feature if the costs of land, easements, rights-of-way, dredged material disposal areas, and relocations for such feature are estimated to exceed 35 percent”.
+
+| | |
+|---|---|
+| Removed | `cash during construction of the project` |
+| Inserted | `cash during construction for a nonstructural feature if the costs of land, easements, rights-of-way, dredged material disposal areas, and relocations for such feature are estimated to exceed 35 percent` |
 
 ### 33 U.S.C. § 2282
 
@@ -176,6 +185,15 @@ to guess them.
 |---|---|
 | Removed | `or inland harbors` |
 | Inserted | `, inland harbors, or inland or intracoastal waterways` |
+
+### 33 U.S.C. § 701n
+
+> by striking “last day of the third fiscal year” and inserting “last day of the fifth fiscal year”;
+
+| | |
+|---|---|
+| Removed | `last day of the third fiscal year` |
+| Inserted | `last day of the fifth fiscal year` |
 
 ### 33 U.S.C. § 467
 
@@ -278,12 +296,12 @@ to guess them.
 
 ### 33 U.S.C. § 467f-2
 
-> in the matter preceding subparagraph (A), by striking “the non-Federal sponsor shall” and inserting “an eligible subrecipient shall, with respect to the dam to be rehabilitated by the eligible subrecipient,”;
+> in the matter preceding subparagraph (A), by striking “the non-Federal sponsor shall” and inserting “an eligible subrecipient shall, with respect to the dam to be rehabilitated by the eligible subrecipient”;
 
 | | |
 |---|---|
 | Removed | `the non-Federal sponsor shall` |
-| Inserted | `an eligible subrecipient shall, with respect to the dam to be rehabilitated by the eligible subrecipient,` |
+| Inserted | `an eligible subrecipient shall, with respect to the dam to be rehabilitated by the eligible subrecipient` |
 
 ### 33 U.S.C. § 467f-2
 
@@ -357,6 +375,15 @@ to guess them.
 | Removed | `2023` |
 | Inserted | `2026` |
 
+### 33 U.S.C. § 2310
+
+> Section 1156(b) of the Water Resources Development Act of 1986 (33 U.S.C. 2310(b)) is amended by striking “inflation” and all that follows through the period at the end and inserting “on an annual basis for inflation.”.
+
+| | |
+|---|---|
+| Removed | `inflation` |
+| Inserted | `on an annual basis for inflation.` |
+
 ### 33 U.S.C. § 2336
 
 > Section 560(f) of the Water Resources Development Act of 1999 (33 U.S.C. 2336(f)) is amended by striking “$20,000,000” and inserting “$30,000,000”.
@@ -401,6 +428,15 @@ to guess them.
 |---|---|
 | Removed | `$25,000,000` |
 | Inserted | `$50,000,000` |
+
+### 33 U.S.C. § 2282d
+
+> Section 219(f)(55) of the Water Resources Development Act of 1992 (106 Stat. 4835; 113 Stat. 335; 114 Stat. 2763A–221) is amended by striking “$10,000,000” and inserting “$45,000,000”.
+
+| | |
+|---|---|
+| Removed | `$10,000,000` |
+| Inserted | `$45,000,000` |
 
 ### 33 U.S.C. § 2282d
 
@@ -551,10 +587,13 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 2282d` | redesignate | by redesignating clause (ii) as clause (iii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2282d` | insert | by inserting after clause (i) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 603a` | amend | Section 1210 of the Water Resources Development Act of 2018 (132 Stat. 3808) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 701n` | insert | in clause (i)(I), by inserting “or contribute” after “pay”; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 701n` | insert | in clause (i)(I), by inserting “, or provide contributions equal to,” after “pay”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 701n` | insert | in the heading, by inserting “and contributions” after “of payments”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 701n` | insert | by inserting “or contributions” after “Non-Federal payments”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 701n` | insert | by inserting “or contributions” after “non-Federal payments”. | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 701n` | replace | by striking the “three fiscal years preceding” and inserting “five fiscal years preceding”; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 701n` | insert | in paragraph (1), by inserting “, or provide contributions equal to,” before “an amount sufficient”; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 701n` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3303` | add-at-end | Section 9004 of the Water Resources Development Act of 2007 (33 U.S.C. 3303) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 467` | replace | by striking clause (iii) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 467` | replace | by striking clause (iv) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -564,7 +603,8 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 467f-2` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 467f-2` | replace | by striking paragraph (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2201` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 2282c` | insert | by inserting “, San Francisco, Marin,” after “Sonoma”; | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 2213` | replace | by striking “Except as” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 2213` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2282c` | insert | by inserting “, and along the ocean shoreline of San Mateo, San Francisco, and Marin Counties,” after “Sacramento and San Joaquin Rivers”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 2282c` | insert | by inserting “and, with respect to the bay and ocean shorelines of San Mateo, San Francisco, and Marin Counties, the feasibility of and the Federal interest in providing measures to adapt to rising sea levels” after “tidal and fluvial fl… | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 2282c` | replace | by striking “investigation” and inserting in its place “investigations”; and | the bill quotes the text struck but describes what replaces it |
@@ -590,12 +630,12 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 2282d` | replace | by striking the section heading and inserting “Western rural water.”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 2282d` | insert | in subsections (b) and (c), by inserting “Arizona,” before “Idaho” each place it appears; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 2282d` | replace | in subsection (i), by striking “for the period beginning with fiscal year 2001, $435,000,000, to remain available until expended.” and inserting the following: “, to remain available until expended— | the bill quotes the text struck but describes what replaces it |
-| — | insert | Section 7007(d) of the Water Resources Development Act of 2007 (121 Stat.1277; 128 Stat. 1226) is amended by inserting “, or may be applied to reduce the amounts required to be paid by the non-Federal interest under the terms of the defe… | the bill names no machine-readable US Code section |
+| — | insert | Section 7007(d) of the Water Resources Development Act of 2007 (121 Stat. 1277; 128 Stat. 1226) is amended by inserting “, or may be applied to reduce the amounts required to be paid by the non-Federal interest under the terms of the def… | the bill names no machine-readable US Code section |
 | `33 U.S.C. § 579a` | redesignate | in subsection (b), by striking paragraph (2) and redesignating paragraph (3) as paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 579a` | strike | by striking subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 579c` | repeal | Section 6003 of the Water Resources Reform and Development Act of 2014 (33 U.S.C. 579c) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 579d` | repeal | Section 1301 of the Water Resources Development Act of 2016 (33 U.S.C. 579d) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 579c-1` | repeal | Section 1302 of the Water Resources Development Act of 2016 (33 U.S.C. 579c–1) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 579d-1` | repeal | Section 1301 of the Water Resources Development Act of 2018 (33 U.S.C. 579d–1) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 579c-2` | repeal | Section 1302 of the Water Resources Development Act of 2018 (33 U.S.C. 579c–2) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 579c` | repeal | Section 6003 of the Water Resources Reform and Development Act of 2014 (33 U.S.C. 579c) (and the item relating to such section in the table of contents) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 579d` | repeal | Section 1301 of the Water Resources Development Act of 2016 (33 U.S.C. 579d) (and the item relating to such section in the table of contents) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 579c-1` | repeal | Section 1302 of the Water Resources Development Act of 2016 (33 U.S.C. 579c–1) (and the item relating to such section in the table of contents) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 579d-1` | repeal | Section 1301 of the Water Resources Development Act of 2018 (33 U.S.C. 579d–1) (and the item relating to such section in the table of contents) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 579c-2` | repeal | Section 1302 of the Water Resources Development Act of 2018 (33 U.S.C. 579c–2) (and the item relating to such section in the table of contents) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 5127 of the Water Resources Development Act of 2007 (121 Stat. 1242) is amended by striking “$150,000,000” and inserting “$232,430,000”. | the bill names no machine-readable US Code section |
