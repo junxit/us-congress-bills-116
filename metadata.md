@@ -1,7 +1,7 @@
 ---
 measure: S. 785
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 785
@@ -16,7 +16,7 @@ Commander John Scott Hannon Veterans Mental Health Care Improvement Act of 2019
 
 - Sen. Tester, Jon [D-MT] (T000464)
 
-## Cosponsors (23)
+## Cosponsors (51)
 
 - Sen. Moran, Jerry [R-KS] (M000934)
 - Sen. Baldwin, Tammy [D-WI] (B001230)
@@ -41,6 +41,34 @@ Commander John Scott Hannon Veterans Mental Health Care Improvement Act of 2019
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Sanders, Bernard [I-VT] (S000033)
 - Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. McSally, Martha [R-AZ] (M001197)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Heinrich, Martin [D-NM] (H001046)
 
 ## Committees (1)
 
@@ -50,3 +78,8 @@ Commander John Scott Hannon Veterans Mental Health Care Improvement Act of 2019
 
 - 2019-03-13 — Introduced in Senate
 - 2019-03-13 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2019-05-22 — Committee on Veterans' Affairs. Hearings held.
+- 2020-01-29 — Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2020-07-27 — Committee on Veterans' Affairs. Reported by Senator Moran with an amendment in the nature of a substitute. Without written report.
+- 2020-07-27 — Committee on Veterans' Affairs. Reported by Senator Moran with an amendment in the nature of a substitute. Without written report.
+- 2020-07-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 498.
