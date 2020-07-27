@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 105
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 105
@@ -27,3 +27,4 @@ Permitting the remains of the Honorable John Lewis, late a Representative from t
 - 2020-07-24 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.
 - 2020-07-27 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S4513)
 - 2020-07-27 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S4513)
+- 2020-07-28 — Message on Senate action sent to the House.
