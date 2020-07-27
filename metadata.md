@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 106
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 106
@@ -27,3 +27,4 @@ Directing the Architect of the Capitol to transfer the catafalque situated in th
 - 2020-07-24 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.
 - 2020-07-27 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S4513)
 - 2020-07-27 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S4513)
+- 2020-07-28 — Message on Senate action sent to the House.

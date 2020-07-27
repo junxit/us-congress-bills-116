@@ -1,8 +1,8 @@
 ---
 legis-num: H. CON. RES. 106
-congress: 116th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Sixteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H. CON. RES. 106
