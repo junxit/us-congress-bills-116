@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 106
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 106
@@ -25,3 +25,5 @@ Directing the Architect of the Capitol to transfer the catafalque situated in th
 - 2020-07-24 — Mr. Butterfield asked unanimous consent to consider as introduced.
 - 2020-07-24 — On agreeing to the resolution Agreed to without objection. (text: CR H3849)
 - 2020-07-24 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.
+- 2020-07-27 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S4513)
+- 2020-07-27 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S4513)
