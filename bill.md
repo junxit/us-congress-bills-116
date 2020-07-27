@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2420
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -73,6 +73,7 @@ In this Act:
   - **(3)** *Other responsibilities* Subject to the general policies of the Board of Regents, the Board of Trustees shall have authority to—
     - **(A)** provide for preservation, restoration, and maintenance of the collections of the Museum; and
     - **(B)** solicit, accept, use, and dispose of gifts, bequests, and devises of personal and real property for the purpose of aiding and facilitating the work of the Museum.
+  - **(4)** *Ensuring diversity of political viewpoints in exhibits and programs* In carrying out its duties, the Board of Trustees shall ensure that the exhibits and programs of the Museum reflect the diversity of the political viewpoints held by Latinos of the United States on the events and issues relating to the history of Latinos in the United States.
 - **(c)** *Composition and appointment*
   - **(1)** *In general* The Board of Trustees shall be composed of not more than 19 voting members as provided under paragraph (2).
   - **(2)** *Voting members* The Board of Trustees shall include the following voting members:
@@ -80,7 +81,7 @@ In this Act:
     - **(B)** The Under Secretary of Museums and Research of the Smithsonian Institution.
     - **(C)** The chair of the Smithsonian National Latino Board.
     - **(D)** One member of the Board of Regents, appointed by the Board of Regents.
-    - **(E)** Two Members of Congress, 1 from each political party, designated by the Congressional Hispanic Caucus and the Congressional Hispanic Conference.
+    - **(E)** Two Members of Congress, one from each political party, designated by the Congressional Hispanic Caucus and the Congressional Hispanic Conference.
     - **(F)** Thirteen individuals who shall be appointed by the Board of Regents after taking into consideration—
       - **(i)** efforts to have a politically and geographically diverse representation on the Board of Trustees reflecting States and territories with significant Latino populations;
       - **(ii)** individuals recommended by members of the Board of Trustees; and
@@ -112,7 +113,7 @@ In this Act:
 - **(a)** *Director*
   - **(1)** *In general* The Museum shall have a Director who shall be appointed by the Secretary in consultation with Board of Trustees. The Secretary may appoint an interim Director to oversee the initial activity of establishing the Museum until a permanent Director is selected.
   - **(2)** *Duties* The Director shall manage the Museum subject to the policies of the Board of Regents and the Board of Trustees.
-- **(b)** *Staff* The Secretary may appoint 2 additional employees to serve under the Director, except that such additional employees may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service.
+- **(b)** *Staff* The Secretary may appoint two additional employees to serve under the Director, except that such additional employees may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service.
 - **(c)** *Pay* The employees appointed by the Secretary under subsection (b) may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates.
 
 ## § 7. Educational and liaison programs
@@ -130,11 +131,11 @@ In this Act:
     - **(B)** a grant program with the purpose of providing internship and fellowship opportunities at American Latino museums;
     - **(C)** a scholarship program, in partnership with Hispanic-serving institutions, minority-serving institutions, historically black colleges and universities, and other institutions of higher education, with the purpose of assisting individuals who are pursuing careers or carrying out studies in the arts, humanities, and sciences in the study of American Latino life, art, history, and culture;
     - **(D)** in cooperation with other museums, historical societies, and educational institutions, a grant program with the purpose of promoting the understanding of the Latin American diaspora in the United States; and
-    - **(E)** a grant program under which an American Latino museum (including a nonprofit education organization the primary mission of which is to promote the study of the Latin American diaspora in the United States) may use funds provided under the grant to increase an endowment fund established by the museum (or organization) as of October 1, 2019, for the purposes of enhancing educational programming, and maintaining and operating traveling educational exhibits.
+    - **(E)** a grant program under which an American Latino museum (including a nonprofit education organization the primary mission of which is to promote the study of the Latin American diaspora in the United States) may use funds provided under the grant to increase an endowment fund established by the museum (or organization) as of October 1, 2020, for the purposes of enhancing educational programming, and maintaining and operating traveling educational exhibits.
   - **(2)** *Clarification of treatment of Museum* In this subsection, the term American Latino museum does not include the Museum.
   - **(3)** *Authorization of appropriations* There are authorized to be appropriated to the Institute of Museum and Library Services to carry out this subsection—
-    - **(A)** $15,000,000 for fiscal year 2020; and
-    - **(B)** such sums as may be necessary for fiscal year 2021 and each succeeding fiscal year.
+    - **(A)** $15,000,000 for fiscal year 2021; and
+    - **(B)** such sums as may be necessary for fiscal year 2022 and each succeeding fiscal year.
 
 ## § 8. National museum of the American Latino building and support facilities
 
@@ -179,7 +180,7 @@ Authority under this Act to enter into contracts or to make payments shall be ef
 ## § 11. Authorization of appropriations
 
 - **(a)** *In general* There are authorized to be appropriated to the Smithsonian Institution to carry out this Act, other than sections 7(b) and 8—
-  - **(1)** $20,000,000 for fiscal year 2020; and
+  - **(1)** $20,000,000 for fiscal year 2021; and
   - **(2)** such sums as are necessary for each fiscal year thereafter.
 - **(b)** *Availability* Amounts appropriated pursuant to the authorization of appropriations under subsection (a) shall remain available until expended.
 - **(c)** *Use of funds for fundraising* Amounts appropriated pursuant to the authorization under this section may be used to conduct fundraising in support of the Museum from private sources.
