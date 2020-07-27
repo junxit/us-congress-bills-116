@@ -1,7 +1,7 @@
 ---
 measure: S. 881
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -32,5 +32,5 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 18388` | amend | Subtitle VI of title 51, United States Code, is amended by adding after chapter 605 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 18388` | repeal | Section 809 of the National Aeronautics and Space Administration Authorization Act of 2010 (42 U.S.C. 18388) and the item relating to that section in the table of contents under section 1(b) of that Act (124 Stat. 2806) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 18388` | amend | The table of chapters of title 51, United States Code, is amended by adding after the item relating to chapter 605 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 18388` | repeal | Section 809 of the National Aeronautics and Space Administration Authorization Act of 2010 (42 U.S.C. 18388) and the item relating to that section in the table of contents under section 1(b) of that Act (Public Law 111–267; 124 Stat. 280… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

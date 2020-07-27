@@ -1,7 +1,7 @@
 ---
 measure: S. 881
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 881
@@ -32,3 +32,11 @@ PROSWIFT Act
 - 2019-12-11 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-171.
 - 2019-12-11 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-171.
 - 2019-12-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 322.
+- 2020-07-27 — Amendment SA 2498 agreed to in Senate by Unanimous Consent.
+- 2020-07-27 — Amendment SA 2498 proposed by Senator McConnell for Senator Peters. (consideration: CR S4512-4513; text: CR S4509-4512) In the nature of a substitute.
+- 2020-07-27 — Measure laid before Senate by unanimous consent. (consideration: CR S4512-4513)
+- 2020-07-27 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S4509-4512)
+- 2020-07-27 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text of amendment in the nature of a substitute: CR S4509-4512)
+- 2020-07-27 — Senate amendment agreed to: Amendment SA 2498 agreed to in Senate by Unanimous Consent.
+- 2020-07-27 — Senate amendment proposed (on the floor): Amendment SA 2498 proposed by Senator McConnell for Senator Peters.(consideration: CR S4512-4513; text: CR S4509-4512)
+- 2020-07-27 — Senate amendment submitted
