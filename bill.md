@@ -1,97 +1,109 @@
 ---
 legis-num: H.R. 4686
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 4686
 
-> To amend title 23, United States Code, to compel States to require illuminated signs and other measures on ride-hailing vehicles, to prohibit the sale of such signs, to require ride-hailing companies to implement an electronic access system on ride-hailing vehicles.
+> To require ride-hailing companies to implement an enhanced digital system to verify passengers with their authorized ride-hailing vehicles and drivers.
 
 ## § 1. Short title
 
 This Act may be cited as “Sami’s Law”.
 
-## § 2. Sanctions for States without ride-hailing vehicle identification laws
+## § 2. Minimum requirements for ride-hailing vehicles and ride-hailing companies
 
-- **(a)** *In general* Chapter 1 of title 23, United States Code, is amended by adding at the end the following:
-  > ## § 171. Sanctions for States without transportation network company vehicle identification laws
-  >
-  > - **(a)** *Withholding of funds for noncompliance*
-  >   - **(1)** *First fiscal year* On the first day of the fiscal year that is two years after the date of enactment of this section, the Secretary shall withhold 1 percent of the amount required to be apportioned to a State under each of paragraphs (1) and (2) of section 104(b) if the State does not meet the requirements of subsection (b) on the first day of the fiscal year.
-  >   - **(2)** *Subsequent fiscal years* On the first day of each fiscal year beginning 3 years after the date of enactment of this section, the Secretary shall withhold 2.5 percent of the amount required to be apportioned to a State under each of paragraphs (1) and (2) of section 104(b) if the State does not meet the requirements of subsection (b) on the first day of the fiscal year.
-  >   - **(3)** *Effect of withholding of funds* No funds withheld under this subsection from apportionment to any State shall be available at any point for apportionment to that State.
-  > - **(b)** *Requirements* A State meets the requirements of this subsection if the Governor of the State certifies to the Secretary that the State has enacted and is enforcing the following laws with respect to TNC drivers and TNC vehicles operating in that State:
-  >   - **(1)** *Front and rear license plates* A law requiring that every TNC vehicle has a duly issued general State license plate on both the front and rear of the vehicle.
-  >   - **(2)** *Inspection and sign requirements* A law requiring TNC drivers to present TNC vehicles for inspection not later than 180 days after the date of enactment of such laws (unless the State has enacted and is enforcing a law meeting the requirements of this subsection on the date of enactment of this section) and annually thereafter. Such law shall include the following:
-  >     - **(A)** A provision requiring each TNC driver to affix the stickers containing the optical code or label provided to that driver (pursuant to section 3(1)(A) of Sami’s Law) on each window of the TNC driver’s vehicle adjacent to where passengers may sit.
-  >     - **(B)** A provision that requires periodic safety inspections of the TNC vehicle performed at intervals of at least once each year.
-  >     - **(C)** A provision that requires each TNC vehicle to display a consistent and distinctive sign at all times when the TNC driver is active on the TNC digital platform or providing any prearranged transportation service. Such sign—
-  >       - **(i)** shall include the transportation network company’s proprietary trademark or logo;
-  >       - **(ii)** shall be readable during daylight hours at a distance of 50 feet;
-  >       - **(iii)** shall be illuminated so that it is patently visible in darkness; and
-  >       - **(iv)** may be magnetic or removable in nature.
-  >     - **(D)** A provision that does not permit a TNC driver to provide TNC services if the TNC vehicle does not pass such inspection.
-  >   - **(3)** *Unlawful display* A law that prohibits an individual who is not a TNC driver for a transportation network company from displaying on any vehicle the sign described in paragraph (2)(C) that is affiliated with that company on any vehicle with the intent to pass himself or herself off as a TNC driver operating a TNC vehicle for the transportation network company affiliated with that sign.
-  > - **(c)** *Definitions* As used in this section—
-  >   - **(1)** the term TNC driver means an individual who is employed or contracted by a transportation network company to provide transportation services to the public through a TNC platform;
-  >   - **(2)** the term TNC platform means an online-enabled application or digital network used to connect riders to TNC drivers for the purpose of providing prearranged transportation services;
-  >   - **(3)** the term TNC vehicle means a vehicle owned, leased, or otherwise authorized for use by TNC driver that the TNC driver uses to provide TNC services, also known as a ride-hailing vehicle; and
-  >   - **(4)** the term transportation network company—
-  >     - **(A)** means a corporation, partnership, sole proprietorship, or other entity, that uses a digital network to connect riders to drivers affiliated with the entity in order for the driver to transport the rider using a vehicle owned, leased, or otherwise authorized for use by the driver to a point chosen by the rider; and
-  >     - **(B)** does not include a shared-expense carpool or vanpool arrangement that is not intended to generate profit for the driver.
+- **(a)** *Requirements for TNC platforms* Not later than 90 days after the date of enactment of this Act, each transportation network company shall establish and implement a system and policy within the transportation network company’s TNC platform that shall make available to each passenger a digital method to verify that the driver with whom the passenger has been matched through the transportation network company’s TNC platform has been authorized by the transportation network company to accept the passenger’s trip request prior to the beginning of the trip. Such system shall include—
+  - **(1)**
+    - **(A)** an initial notification sent to the passenger’s personal mobile device, or otherwise communicated to the passenger, containing verifiable information specific to the TNC driver or TNC vehicle with which the passenger has been matched;
+    - **(B)** the ability for the passenger, driver, and TNC platform to confirm the verifiable information matching the passenger to the authorized TNC driver or TNC vehicle prior to the beginning of the trip;
+    - **(C)** a TNC platform restriction on a TNC driver from commencing a trip via the TNC platform until both the passenger and the TNC driver verify the other’s identity using the system; and
+    - **(D)** a way for a passenger to use a non-visual arrangement to verify the TNC driver under the system used in accordance with this subparagraph; or
+  - **(2)** as an alternative to implementing the system required under paragraph (1), a transportation network company may implement any successor technology-based system that enables verification that the driver with whom the passenger has been matched through the transportation network company’s TNC platform has been authorized by the transportation network company to accept the passenger’s trip requests received through its digital network prior to the beginning of the trip.
+- **(b)** *Opt out* A transportation network company may offer a passenger an option not to use the system that the transportation network company has implemented under subsection (a). Any trip completed by a passenger who opts not to use the system shall not be a violation of this section.
+- **(c)** *Exemptions* This section shall not apply to any trips in which—
+  - **(1)** a third party, including any third-party business, non-profit, or government entity, facilitates the trip for the individual who is transported in the TNC vehicle; or
+  - **(2)** compliance with subsection (a) is impracticable due to circumstances beyond a transportation network company’s control, including instances where a passenger’s personal mobile device has failed to operate or there is degraded, reduced, or otherwise insufficient cellular connectivity in order for the system to properly operate.
 
-## § 3. Access and other requirements for ride-hailing vehicles and ride-hailing companies
+## § 3. Successor Technology Performance Standards
 
-Not later than 180 days after the date of enactment of this Act, each transportation network company shall establish and implement the following system, prohibition, requirement, and policy:
+- **(1)** *Performance standards* Not later than 180 days after the establishment of the “SAMI’s Law Council” pursuant to section 4, such Council shall recommend to the Secretary of Transportation performance standards for the successor technology-based systems permitted under section 2(a)(2) and the Secretary shall thereafter issue performance standards consistent with the Council’s recommendations and provide a reasonable time for a TNC to comply. Such standards shall require, at a minimum, that—
+  - **(A)** any successor technology-based system that enables the verification that the driver with whom the passenger has been matched through the TNC platform has been authorized by the transportation network company to accept the passenger’s trip request received through its TNC platform prior to the beginning of the trip;
+  - **(B)** confirmation protocols are visually and non-visually accessible; and
+  - **(C)** a transportation network company implement a system incorporating a driver education and public awareness program related to the use of its successor technology and its required verifiable information.
+- **(2)** *Updating performance standards* Six months after the establishment of the performance standards required by this section, and, at a minimum, annually thereafter, the Secretary shall solicit input from the SAMI’s Law Council, established under section 4, about whether the performance standards need to be updated or expanded to incorporate new technological developments. The Secretary may amend the performance standards to account for new technological developments.
+- **(3)** *Interim standards* Prior to the adoption of performance standards, a transportation network company may adopt and deploy any other successor technology-based system that enables a passenger to verify that the driver with whom the passenger has been matched through the transportation network company’s platform has been authorized by the transportation network company to accept the passenger’s trip requests received through its platform prior to the beginning of the trip. A successor technology-based system deployed under this subparagraph shall be considered to fulfill the requirements of section 2(a). A successor technology-based system adopted under this section shall be presumed to meet such requirements unless the Secretary determines otherwise. If the Secretary makes such a determination, a reasonable time to cure shall be provided.
+- **(4)** *Reports* Upon first issuing performance standards under paragraph (1), and each year thereafter, the Secretary shall transmit a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce of the Senate detailing the performance standards recommended by the SAMI’s Law Council, established under section 4, and issued by the Secretary under paragraph (1), including any updates to such standards and explaining the rationale for issuing such performance standards.
 
-- **(1)** A system that enables each individual who uses a TNC platform to verify the identity of the TNC driver who is provided to such individual via that TNC platform, and such TNC driver to confirm the identity of such individual prior to the beginning of a trip. Such system shall include the following:
-  - **(A)** A machine-readable code or image, such as a QR code (or successor technology), that can be scanned by the individual hailing such driver, using a personal mobile device with a built-in camera. The transportation network company shall provide to each TNC driver forward-facing window stickers containing such code or label.
-  - **(B)** The ability, within the transportation network company’s TNC platform, to—
-    - **(i)** provide a means by which each individual who is assigned a TNC driver via such platform must, except where such individual chooses to use a personal authentication number as provided in clause (ii), scan the unique machine-readable code or label displayed on the window sticker of the TNC vehicle to confirm the identity of the TNC driver who is assigned to the individual, using the TNC platform on the individual’s personal mobile device, prior to entering the vehicle;
-    - **(ii)** provide a means by which such individual may opt out of using the machine-readable code or image and instead choose to use a randomly generated 4 digit personal authentication number as described in subparagraph (C);
-    - **(iii)** restrict each TNC driver from commencing a trip by withholding from such driver the destination of the individual assigned that TNC driver until the individual verifies the identity of the TNC driver by scanning the code or label, or in the case of an individual who opts to use a personal authentication number, as provided in clause (ii), until the driver successfully verifies the identity of the individual by entering the individual’s personal authentication number into the TNC driver’s TNC platform, as described in subparagraph (C); and
-    - **(iv)** provide a means by which each individual who is assigned a TNC driver via such platform may confirm visually and non-visually that their correct personal authentication number has been entered into the TNC driver’s platform.
-  - **(C)** The means to provide, through the TNC platform, or by another means if the individual used a means other than such platform to request a TNC driver, each individual who is assigned a TNC driver via such platform and who opts out of using the machine-readable code or image, as provided in subparagraph (B)(ii), a personal authentication number for each trip requested by the individual which may be displayed on the personal mobile device of the individual who is assigned a TNC driver in such a fashion that either the TNC driver is able to read and enter the personal authentication number into the TNC driver’s platform or such individual can read and orally communicate the personal authentication number to the TNC driver.
-  - **(D)** The means by which a TNC driver can enter the personal authentication number assigned to an individual into the TNC platform of such driver, when provided such number by such individual, to verify the identity of the individual and be enabled to commence the trip by receiving the destination of the individual.
-- **(2)** A prohibition on a TNC driver from providing TNC services if the TNC vehicle of that driver does not pass inspections required by the State in which the TNC driver’s vehicle is licenced.
-- **(3)** A requirement that all TNC vehicles display a consistent and distinctive sign provided by the transportation network company at all times when the TNC driver is active on the TNC digital platform or providing any TNC service. Such sign—
-  - **(A)** shall include the transportation network company’s proprietary trademark or logo;
-  - **(B)** shall be readable during daylight hours at a distance of 50 feet;
-  - **(C)** shall be illuminated so that it is patently visible in darkness; and
-  - **(D)** may be magnetic or removable in nature.
-- **(4)** A policy to require that any sign described in paragraph (3) be returned to the transportation network company when a TNC driver ceases to be employed or contracted by such company.
-- **(5)** A requirement that all aspects of the TNC platform are non-visually accessible.
+## § 4. Safety actions for matching and identifying ride share customers advisory council
 
-## § 4. Prohibition on sale of ride-hailing sign
+- **(a)** *Establishment* Subject to the availability of appropriations, not later than 60 days after the date of enactment of this Act, the Secretary shall establish the Safety Actions for Matching and Identifying Ride Share Customers’ Council (hereinafter referred to as the “SAMI’s Law Council”), an advisory council for the purpose of developing recommended performance standards for successor technology that will protect TNC passengers and TNC drivers, as permitted under sections 2(a)(2) and authorized under section 3.
+- **(b)** *Composition of the advisory council* The advisory council shall be composed of the following members:
+  - **(1)** The Secretary of Transportation shall designate a representative from paragraph (2), who shall serve as Council Chair.
+  - **(2)** One representative, to be appointed by the Secretary of Transportation, from each of the following:
+    - **(A)** The National Highway Traffic Safety Administration.
+    - **(B)** The Federal Highway Administration.
+    - **(C)** The National Institute of Standards and Technology.
+    - **(D)** The Federal Trade Commission.
+    - **(E)** The Federal Aviation Administration.
+    - **(F)** An association or trade group that represents technology companies, whose membership includes at least one transportation network company.
+    - **(G)** An organization of and for TNC drivers and present in at least two States.
+  - **(3)** Two representatives, to be appointed by the Secretary of Transportation, from each of the following:
+    - **(A)** Transportation network companies.
+    - **(B)** Law enforcement agencies.
+    - **(C)** National organizations of and for people with disabilities.
+    - **(D)** Ride-haling victims advocacy groups.
+- **(c)** *Terms* Members of the Council shall serve for a term of 3 consecutive years.
+- **(d)** *Vacancies* Any vacancy occurring in the membership of the Council shall be filled in the same manner as the original appointment for the position being vacated. The vacancy shall not affect the power of the remaining members to execute the duties of the Council.
+- **(e)** *Duties* The Council shall gather and analyze data, provide technical advice, and develop and present best practices or recommendations supported by the majority of members of the Council to the Secretary of Transportation regarding performance standards the Secretary may adopt regarding any successor technology-based system described in section 2(a)(2).
+- **(f)** *Technical assistance* On request of the Council, the Secretary shall provide such technical assistance to the Council as the Secretary determines to be necessary to carry out the Council’s duties.
+- **(g)** *Detail of federal employees* On the request of the Council, the Secretary may detail, with or without reimbursement, any employee of the Department of Transportation to the Council to assist the Council in carrying out its duties. The detail of any such employee shall not interrupt or otherwise affect the civil service status or privileges of the employee.
+- **(h)** *Payment and expenses* Members of the Council shall serve without pay, except travel and per diem will be paid to each member for meetings called by the Secretary.
+- **(i)** *Review* Twelve years after the date of enactment of this Act, the Secretary shall review, and solicit public input, as to whether it is necessary for the Council to remain in existence. The Secretary shall thereafter have the authority to terminate the Council if the Secretary determines that the Council is no longer necessary. If the Secretary terminates the Council, the Secretary shall maintain the authority to update performance standards related to successor technology.
 
-It shall be unlawful for any person other than a transportation network company to sell or offer for sale any sign described in section 3(3).
+## § 5. Prohibition on sale of ride-hailing signage
 
-## § 5. Unfair or deceptive act or practice
+It shall be unlawful for any person to sell or offer for sale any signage that is designed to help a passenger identify a transportation network company vehicle and—
 
-A violation of a section 3 or 4 shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)). The Federal Trade Commission shall enforce this Act in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this Act. Any person who violates section 3 or section 4 shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act (15 U.S.C. 41 et seq.).
+- **(1)** contains a transportation network company’s proprietary trademark or logo, or
+- **(2)** purports to be that of a transportation network company,
 
-## § 6. Definitions
+## § 6. Enforcement
+
+- **(a)** *Violations of section 2* The Secretary is authorized to issue a penalty to a transportation network company of up to $5,000 per each day of non-compliance with section 2 and a penalty of up to $20,000 per each day of non-compliance with section 2 when such non-compliance is knowing and willful. With regards to a violation relating to any successor technology-based system used by a transportation network company permitted under section 2(1)(5), the Secretary shall rely on whether such system meets the performance standards issued under section 3.
+- **(b)** *Violations of section 5*
+  - **(1)** *In general* A violation of section 5 shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)). The Federal Trade Commission shall enforce this Act in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this Act. Any person who violates section 5 shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act (15 U.S.C. 41 et seq.).
+  - **(2)** *Savings clause* Nothing in this Act shall be construed to limit the authority of the Federal Trade Commission under any other provision of law.
+
+## § 7. G.A.O. study on the incidence of assault and abuse of passengers and drivers of TNC vehicles, taxicabs, and other for-hire vehicles
+
+The Comptroller General of the United States shall conduct a study on the incidence of assault and abuse perpetrated on drivers by passengers of TNC vehicles, taxicabs, and other for-hire vehicles, and on such passengers by drivers of TNC vehicles, taxicabs, and other for-hire vehicles. The Comptroller General shall submit a report to Congress not later than one year after the date of enactment of this Act. The report shall also examine—
+
+- **(1)** the nature and specifics of any background checks conducted on prospective drivers of TNC vehicles, taxicabs, and other for-hire vehicles, including any State and local laws which may require such background checks;
+- **(2)** incidences where individuals who are not TNC drivers, taxicab drivers, or other for-hire vehicle drivers try to pose as TNC drivers, taxicab drivers, or other for-hire vehicle drivers;
+- **(3)** incidences of passengers entering the wrong vehicle, whether or not the vehicle was a TNC vehicle, taxicab, and other for-hire vehicle; and
+- **(4)** efforts by transportation network companies, taxicab companies, or for-hire vehicle companies to implement additional safety measures and practices and of State and local governments requiring such measures, and the efficacy of those efforts, practices, and requirements.
+
+## § 8. Definitions
 
 For purposes of this Act—
 
-- **(1)** the term machine-readable code or image means a machine-readable optical label that is unique to each TNC driver and the vehicle of such TNC driver and can be scanned using a personal mobile device with a built-in camera;
-- **(2)** the term non-visually accessible refers to digital content that meets the success criteria of the Web Content Accessibility Guidelines (WCAG) 2.1, Level AA, including the Web Accessibility Initiative–Accessible Rich Internet Applications (WAI–ARIA), and any successor to or revision of such guidelines;
+- **(1)** the terms non-visual and non-visually accessible, with regards to the system required under sections 2(a)(1)(D) and 3(1)(B) mean digital content that—
+  - **(A)** meets the success criteria of the Web Content Accessibility Guidelines (WCAG) 2.0, Level AA, and any successor to or revision of such guidelines that has been incorporated into the Section 508 standards issued by the United States Access Board, including, to the extent applicable, the Web Accessibility Initiative - Accessible Rich Internet Applications (WAI–ARIA); or
+  - **(B)** allows a blind or visually impaired passenger to access the same information, and utilize the same system offered to other passengers as required under Sections 2(a)(1)(D) and 3(1)(B) in a way that provides a comparable level of privacy, independence and substantially equivalent ease of use to the passenger;
+- **(2)** the term passenger means an individual who is matched with a TNC driver by using a TNC platform;
 - **(3)** the term personal mobile device means any mobile device that an individual uses to connect to a TNC platform;
-- **(4)** the term QR code means a machine-readable code or image also known as a quick response code and consists of a matrix or two-dimensional barcode;
-- **(5)** the term TNC driver means an individual who is employed or contracted by a transportation network company to provide transportation services to the public through a TNC platform;
-- **(6)** the term TNC platform means an online-enabled application or digital network used to connect riders to TNC drivers for the purpose of providing prearranged transportation services;
-- **(7)** the term TNC vehicle means a vehicle owned, leased, or otherwise authorized for use by TNC driver that the TNC driver uses to provide prearranged transportation services, also known as a ride-hailing vehicle; and
+- **(4)** The term Secretary means the Secretary of Transportation;
+- **(5)** the term TNC driver means an individual who contracts with a transportation network company and provides transportation services to passengers;
+- **(6)** the term TNC platform means an online-enabled application or digital network made available by a transportation network company to connect riders to TNC drivers for the purpose of providing pre-arranged transportation services;
+- **(7)** the term TNC vehicle means a vehicle owned, leased, or otherwise authorized for use by TNC driver that the TNC driver uses to provide pre-arranged transportation services, also known as a ride-hailing vehicle; and
 - **(8)** the term transportation network company—
-  - **(A)** means a corporation, partnership, sole proprietorship, or other entity, that uses a digital network to connect riders to drivers affiliated with the entity in order for the driver to transport the rider using a vehicle owned, leased, or otherwise authorized for use by the driver to a point chosen by the rider; and
-  - **(B)** does not include a shared-expense carpool or vanpool arrangement that is not intended to generate profit for the driver.
+  - **(A)** means a corporation, partnership, sole proprietorship, or other entity, that makes available an online-enabled application or digital network to connect passengers to TNC drivers in order for the driver to transport the passenger using a vehicle owned, leased, or otherwise authorized for use by the driver to a point chosen by the passenger; and
+  - **(B)** does not include a shared-expense carpool or vanpool arrangement that is not intended to generate profit for the driver; and
+- **(9)** the term verifiable information means data shared between a TNC platform, TNC driver, and passenger that includes a personal authentication number confirmation system, a license plate confirmation system, or a successor technology system.
 
-## § 7. G.A.O. study on the incidence of assault and abuse of ride-hailing riders and drivers
+## § 9. Determination of budgetary effects
 
-The Comptroller General of the United States shall conduct a study on the incidence of assault and abuse perpetrated on drivers by riders using ride-hailing vehicles, and on such riders by drivers of ride-hailing vehicles, and shall submit a report to Congress not later than one year after the date of enactment of this Act. The report shall also examine—
-
-- **(1)** the nature and specifics of any background checks conducted by ride-haling companies on potential drivers, including any State laws which may require such background checks;
-- **(2)** incidences where individuals who are not ride-hailing drivers try to pose as ride-hailing drivers;
-- **(3)** incidences of ride-hailing passengers entering the wrong vehicle, whether or not the vehicle was a ride-hailing vehicle; and
-- **(4)** efforts by ride-hailing companies to implement additional safety measures and practices and of State and local governments requiring such measures, and the efficacy of those efforts, practices, and requirements.
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
