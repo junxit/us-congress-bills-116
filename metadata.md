@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7575
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7575
@@ -41,3 +41,10 @@ Water Resources Development Act of 2020
 - 2020-07-24 — Placed on the Union Calendar, Calendar No. 369.
 - 2020-07-24 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 116-460, Part I.
 - 2020-07-24 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 116-460, Part I.
+- 2020-07-29 — Considered under suspension of the rules. (consideration: CR H3927-3962)
+- 2020-07-29 — DEBATE - The House proceeded with one hour of debate on H.R. 7575.
+- 2020-07-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-07-29 — Mr. DeFazio moved to suspend the rules and pass the bill, as amended.
+- 2020-07-29 — ORDER OF BUSINESS - Mr. DeFazio asked unanimous consent that debate under clause 1(c) of rule XV on the motion to suspend the rules relating to H.R. 7575 be extended to one hour. Agreed to without objection.
+- 2020-07-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3927-3951)
+- 2020-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
