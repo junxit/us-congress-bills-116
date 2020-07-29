@@ -1,7 +1,7 @@
 ---
 measure: S. 2638
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2638
@@ -35,3 +35,5 @@ Friendly Airports for Mothers Improvement Act
 - 2020-06-10 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-232.
 - 2020-06-10 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-232.
 - 2020-06-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 479.
+- 2020-07-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4596-4597; text: CR S4596-4597)
+- 2020-07-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
