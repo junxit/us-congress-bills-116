@@ -1,7 +1,7 @@
 ---
 measure: S. 3332
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3332
@@ -28,3 +28,7 @@ No CORRUPTION Act
 
 - 2020-02-25 — Introduced in Senate
 - 2020-02-25 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2020-03-11 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2020-07-29 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-243.
+- 2020-07-29 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-243.
+- 2020-07-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 501.
