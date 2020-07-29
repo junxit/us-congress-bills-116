@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2420
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2420
@@ -314,11 +314,12 @@ National Museum of the American Latino Act
 - Rep. Hagedorn, Jim [R-MN-1] (H001088)
 - Rep. Wittman, Robert J. [R-VA-1] (W000804)
 
-## Committees (3)
+## Committees (4)
 
 - House — Natural Resources Committee
 - House — Transportation and Infrastructure Committee
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -336,3 +337,4 @@ National Museum of the American Latino Act
 - 2020-07-27 — Mr. Aguilar moved to suspend the rules and pass the bill, as amended.
 - 2020-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3864-3866)
 - 2020-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3864-3866)
+- 2020-07-29 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
