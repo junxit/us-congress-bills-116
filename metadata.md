@@ -1,7 +1,7 @@
 ---
 measure: S. 2330
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2330
@@ -16,9 +16,23 @@ Empowering Olympic, Paralympic, and Amateur Athletes Act of 2020
 
 - Sen. Moran, Jerry [R-KS] (M000934)
 
-## Cosponsors (1)
+## Cosponsors (15)
 
 - Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. McSally, Martha [R-AZ] (M001197)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
 
 ## Committees (1)
 
@@ -28,3 +42,7 @@ Empowering Olympic, Paralympic, and Amateur Athletes Act of 2020
 
 - 2019-07-30 — Introduced in Senate
 - 2019-07-30 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2019-11-13 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2020-07-29 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-245.
+- 2020-07-29 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-245.
+- 2020-07-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 503.
