@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 7829
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7829
+
+> To redesignate the Federal building located at 935 Pennsylvania Avenue Northwest in the District of Columbia as the “Federal Bureau of Investigation Building”.
+
+## § 1. Redesignation
+
+The Federal building located at 935 Pennsylvania Avenue Northwest in the District of Columbia, commonly known as the J. Edgar Hoover Federal Building, shall be known and designated as the “Federal Bureau of Investigation Building”.
+
+## § 2. References
+
+Any reference in a law, map, regulation, document, paper, or other record of the United States to the Federal building referred to in section 1 shall be deemed to be a reference to the “Federal Bureau of Investigation Building”.
