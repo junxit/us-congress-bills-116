@@ -20,7 +20,7 @@ This Act may be cited as the “Traveling Parents Screening Consistency Act of 2
   - **(2)** the effectiveness of TSA in ensuring the clarity of screening protocols relating to, and the consistency of screening of, breast milk and other liquids for the consumption of infants, including formula, purified deionized water, and juice.
 - **(b)** *Elements* The review required by subsection (a) shall include—
   - **(1)** an assessment of—
-    - **(A)** whether TSA effectively manages the consistency of the application of protocols to the screening of breast milk and other liquids described in subsection (a)(2), including the extent to which transportation security officers engage in screening beyond the screening prescribed through relevant policies and training;
+    - **(A)** whether TSA effectively manages the consistency of the application of protocols to the screening of breast milk and other liquids described in subsection (a)(2);
     - **(B)** the need for TSA to update and revise procedures for screening breast milk and other liquids described in subsection (a)(2);
     - **(C)** whether TSA effectively tracks passenger complaints related to such screening to monitor trends and identify inconsistencies;
     - **(D)** the practices of TSA with respect to communications and information sharing with passengers, air carriers, and airports relating to protocols for such screening; and
