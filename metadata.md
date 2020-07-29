@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4761
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4761
@@ -60,3 +60,7 @@ DHS Opioid Detection Resilience Act of 2019
 - 2019-12-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 1 (Roll no. 655). (text: CR H9367)
 - 2019-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 1 (Roll no. 655).(text: CR H9367)
 - 2019-12-10 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2020-03-11 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2020-07-29 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-244.
+- 2020-07-29 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-244.
+- 2020-07-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 502.
