@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5139
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -246,37 +246,38 @@ This Act may be cited as the “Stop Sexual Assault and Harassment in Transporta
   > - **(2)** for calendar years 2025 through 2029, not more than $40,000; and
   > - **(3)** for calendar year 2030 and thereafter, not more than $45,000.
 
-## § 8. Formal sexual assault and harassment policies for transportation network companies
+## § 8. Formal sexual assault and harassment policies for transportation network companies and for-hire vehicle companies
 
-- **(a)** *Requirement* Not later than 180 days after the date of enactment of this Act, each transportation network company shall issue, in consultation with labor unions representing TNC drivers of each such transportation network company, if applicable, a formal policy with respect to transportation sexual assault or harassment incidents.
+- **(a)** *Requirement* Not later than 180 days after the date of enactment of this Act, each transportation network company and for-hire vehicle company shall issue, in consultation with labor unions representing TNC drivers of each such transportation network company or FVC drivers of each for-hire vehicle company, if applicable, a formal policy with respect to transportation sexual assault or harassment incidents.
 - **(b)** *Contents* The policy required under subsection (a) shall include—
   - **(1)** a statement indicating that no transportation sexual assault or harassment incident is acceptable under any circumstance;
   - **(2)** procedures that facilitate the reporting of a transportation sexual assault or harassment incident, including—
-    - **(A)** appropriate public outreach activities; and
-    - **(B)** confidential phone and internet-based opportunities for reporting;
-  - **(3)** procedures that TNC personnel should follow upon the reporting of a transportation sexual assault or harassment incident, including actions to protect affected individuals from continued sexual assault or harassment and to notify law enforcement when appropriate;
-  - **(4)** procedures that may limit or prohibit, to the extent practicable, future use of the transportation network company platform by any passenger or TNC driver who causes a transportation sexual assault or harassment incident; and
+    - **(A)** appropriate public outreach activities;
+    - **(B)** confidential phone and internet-based opportunities for reporting; and
+    - **(C)** TNC personnel or FVC personnel trained to receive reports;
+  - **(3)** procedures that TNC personnel or FVC personnel should follow upon the reporting of a transportation sexual assault or harassment incident, including actions to protect affected individuals from continued sexual assault or harassment and to notify law enforcement when appropriate;
+  - **(4)** procedures that may limit or prohibit, to the extent practicable, future use of the transportation network company platform by any passenger or TNC driver, or future use of the for-hire vehicle company service by any passenger or FVC driver, who causes a transportation sexual assault or harassment incident; and
   - **(5)** training that is required for all appropriate personnel with respect to the policy required under subsection (a), including—
     - **(A)** specific training for such personnel who may receive reports of transportation sexual assault or harassment incidents; and
     - **(B)** recognizing and responding to potential human trafficking victims.
-- **(c)** *Passenger information* A transportation network company shall prominently display, on the internet website of the company and through the use of appropriate signage, a written statement that—
-  - **(1)** advises passengers that the transportation network company has adopted a formal policy with respect to transportation sexual assault or harassment incidents;
-  - **(2)** informs passengers, TNC drivers, and TNC personnel of the other major components of the transportation network company’s formal policy, including a statement indicating that no transportation sexual assault or harassment incident is acceptable under any circumstance; and
+- **(c)** *Passenger information* A transportation network company or for-hire vehicle company shall prominently display, on the internet website of the company and through the use of appropriate signage, a written statement that—
+  - **(1)** advises passengers that the transportation network company or for-hire vehicle company has adopted a formal policy with respect to transportation sexual assault or harassment incidents;
+  - **(2)** informs passengers, TNC drivers, TNC personnel, FVC drivers, and FVC personnel of the other major components of the transportation network company’s formal policy or the for-hire vehicle company’s formal policy, including a statement indicating that no transportation sexual assault or harassment incident is acceptable under any circumstance; and
   - **(3)** informs passengers of the procedure for reporting a transportation sexual assault or harassment incident.
-- **(d)** *Standard of care* Compliance with the requirements of this section, and any policy issued thereunder, shall not determine whether the transportation network company has acted with any requisite standard of care.
+- **(d)** *Standard of care* Compliance with the requirements of this section, and any policy issued thereunder, shall not determine whether the transportation network company or for-hire vehicle company has acted with any requisite standard of care.
 
 ## § 9. Data collection
 
-- **(a)** *In general* Not later than 1 year after the date of enactment of this Act, the Secretary of Transportation shall establish a program to annually collect and maintain data from each covered entity on—
-  - **(1)** the number of transportation sexual assault or harassment incidents reported to the covered entity, including—
+- **(a)** *In general* Not later than 1 year after the date of enactment of this Act, the Secretary of Transportation shall establish a program to annually collect and maintain data from each covered entity, or, as appropriate, a State or local entity that provides authorized transportation service, on—
+  - **(1)** the number of transportation sexual assault or harassment incidents reported to the covered entity or State or local entity that provides authorized transportation service, including—
     - **(A)** the number of incidents committed against passengers; and
-    - **(B)** the number of incidents committed against personnel or, in the case of a TNC, a TNC driver;
-  - **(2)** the number of transportation sexual assault or harassment incidents reported to law enforcement by personnel of the covered entity; and
+    - **(B)** the number of incidents committed against personnel or, in the case of a TNC or for-hire vehicle company, a TNC driver or a FVC driver, respectively;
+  - **(2)** the number of transportation sexual assault or harassment incidents reported to law enforcement by personnel of the covered entity or State or local entity that provides authorized transportation services; and
   - **(3)** any transportation sexual assault or harassment incidents compiled and maintained under section 3507(g)(4)(A)(i) of title 46, United States Code.
 - **(b)** *Data availability* Subject to subsection (c), the Secretary shall make available to the public on the primary internet website of the Department of Transportation the data collected and maintained under subsection (a).
 - **(c)** *Data protection* Data made available under subsection (b) shall be made available in a manner that—
   - **(1)** protects the privacy and confidentiality of individuals involved in a transportation sexual assault or harassment incident;
-  - **(2)** precludes the connection of the data to any individual covered entity; and
+  - **(2)** precludes the connection of the data to any individual covered entity or a State or local entity that provides authorized transportation service; and
   - **(3)** is organized by mode of transportation.
 - **(d)** *Paperwork reduction* Subchapter I of chapter 35 of title 44, United States Code, does not apply to this Act.
 
@@ -309,16 +310,22 @@ In this Act:
   - **(E)** An entity providing commuter rail passenger transportation or intercity rail passenger transportation (as those terms are defined in section 24102 of title 49, United States Code).
   - **(F)** The owner of a vessel for which section 3507 of title 46, United States Code, applies.
   - **(G)** A transportation network company.
-- **(2)** *Sexual assault* The term “sexual assault” means the occurrence of an act that constitutes any nonconsensual sexual act proscribed by Federal, tribal, or State law, including when the victim lacks capacity to consent.
-- **(3)** *TNC driver* The term TNC driver means an individual who is employed, contracted by, or otherwise affiliated with a transportation network company to provide transportation services (also known as ride-sharing) to the public.
-- **(4)** *TNC personnel* The term “TNC personnel” means an employee or contractor of a covered transportation network company, other than a TNC driver.
-- **(5)** *Transportation network company* The term transportation network company—
+  - **(H)** A for-hire vehicle company.
+- **(2)** *For-hire vehicle company* The term “for-hire vehicle company” means an entity that—
+  - **(A)** provides passenger transportation in a motor vehicle in exchange for compensation; and
+  - **(B)** is authorized by a State or local government entity as a taxicab service, limousine service, livery service, black car service, sedan service, chauffeur service, or any other similar category of for-hire transportation service.
+- **(3)** *FVC driver* The term “FVC driver” means an individual who is employed, contracted by, or otherwise affiliated with a for-hire vehicle company to provide transportation services to the public.
+- **(4)** *FVC personnel* The term “FVC personnel” means an employee or contractor of a covered for-vehicle company, other than a FVC driver.
+- **(5)** *Sexual assault* The term “sexual assault” means the occurrence of an act that constitutes any nonconsensual sexual act proscribed by Federal, tribal, or State law, including when the victim lacks capacity to consent.
+- **(6)** *TNC driver* The term TNC driver means an individual who is employed, contracted by, or otherwise affiliated with a transportation network company to provide transportation services (also known as ride-sharing) to the public.
+- **(7)** *TNC personnel* The term “TNC personnel” means an employee or contractor of a covered transportation network company, other than a TNC driver.
+- **(8)** *Transportation network company* The term transportation network company—
   - **(A)** means a corporation, partnership, sole proprietorship, or other entity, that uses a digital network to connect riders to drivers affiliated with the entity in order for the driver to transport the rider using a vehicle owned, leased, or otherwise authorized for use by the driver to a point chosen by the rider; and
   - **(B)** does not include a shared-expense carpool or vanpool arrangement that is not intended to generate profit for the driver.
-- **(6)** *Transportation sexual assault or harassment incident* The term transportation sexual assault or harassment incident means the occurrence, or reasonably suspected occurrence, of an act that—
+- **(9)** *Transportation sexual assault or harassment incident* The term transportation sexual assault or harassment incident means the occurrence, or reasonably suspected occurrence, of an act that—
   - **(A)** constitutes sexual assault or sexual harassment; and
   - **(B)** is committed—
-    - **(i)** by a passenger or a member of the personnel of a covered entity, or in the case of a TNC, a TNC driver of the covered entity, against another passenger or member of personnel or TNC driver of the covered entity; and
+    - **(i)** by a passenger or a member of the personnel of a covered entity, or in the case of a TNC, a TNC driver of the covered entity, against another passenger or member of personnel or TNC driver of the covered entity, or in the case of a for-hire vehicle company, an FVC driver of the covered entity, against another passenger or member of personnel or an FVC driver of the covered entity; and
     - **(ii)** within—
       - **(I)** a vehicle of the covered entity that is transporting passengers, including aircraft, rolling stock, motorcoaches, and ferries; or
       - **(II)** an area in which passengers are entering or exiting such a vehicle.
