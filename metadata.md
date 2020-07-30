@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4686
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4686
@@ -50,3 +50,4 @@ Sami's Law
 - 2020-07-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3921-3923)
 - 2020-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3921-3923)
 - 2020-07-29 — The title of the measure was amended. Agreed to without objection.
+- 2020-07-30 — Received in the Senate.
