@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7327
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7327
@@ -52,11 +52,12 @@ Child Care for Economic Recovery Act
 - Rep. Higgins, Brian [D-NY-26] (H001038)
 - Rep. Rice, Kathleen M. [D-NY-4] (R000602)
 
-## Committees (3)
+## Committees (4)
 
 - House — Ways and Means Committee
 - House — Budget Committee
 - House — Appropriations Committee
+- Senate — Appropriations Committee
 
 ## Recorded votes (1)
 
@@ -80,3 +81,4 @@ Child Care for Economic Recovery Act
 - 2020-07-29 — Rule provides for consideration of H.R. 6395, H.R. 7027, H.R. 7327 and H.R. 1957. Provides for the consideration of H.R. 6395, H.R. 7027, H.R. 7327, and the Senate Amendments to H.R. 1957. Rule also provides that H.Res. 967, as amended by H.Res. 1017, is further amended by inserting a new date.
 - 2020-07-29 — The previous question was ordered pursuant to the rule.
 - 2020-07-29 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on passage of H.R. 7327, which was debated earlier and on which further proceedings had been postponed.
+- 2020-07-30 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
