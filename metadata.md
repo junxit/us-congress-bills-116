@@ -1,7 +1,7 @@
 ---
 measure: S. 914
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 914
@@ -33,3 +33,11 @@ Coordinated Ocean Observations and Research Act of 2020
 - 2019-12-05 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-168.
 - 2019-12-05 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-168.
 - 2019-12-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 318.
+- 2020-07-30 — Amendment SA 2501 agreed to in Senate by Unanimous Consent.
+- 2020-07-30 — Amendment SA 2501 proposed by Senator Sullivan for Senator Wicker. (consideration: CR S4647; text: CR S4639-4644) In the nature of a substitute.
+- 2020-07-30 — Measure laid before Senate by unanimous consent. (consideration: CR S4647)
+- 2020-07-30 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S4639-4644)
+- 2020-07-30 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text of amendment in the nature of a substitute: CR S4639-4644)
+- 2020-07-30 — Senate amendment agreed to: Amendment SA 2501 agreed to in Senate by Unanimous Consent.
+- 2020-07-30 — Senate amendment proposed (on the floor): Amendment SA 2501 proposed by Senator Sullivan for Senator Wicker.
+- 2020-07-30 — Senate amendment submitted
