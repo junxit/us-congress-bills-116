@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 87
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 87
@@ -30,3 +30,10 @@ Providing for the reappointment of Michael M. Lynton as a citizen regent of the 
 - 2020-05-05 — Introduced in House
 - 2020-05-05 — Introduced in House
 - 2020-05-05 — Referred to the House Committee on House Administration.
+- 2020-07-30 — Committee on House Administration discharged.
+- 2020-07-30 — Committee on House Administration discharged.
+- 2020-07-30 — Considered by unanimous consent. (consideration: CR H4178)
+- 2020-07-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-07-30 — Mrs. Davis (CA) asked unanimous consent to discharge from committee and consider.
+- 2020-07-30 — On passage Passed without objection. (text: CR H4178)
+- 2020-07-30 — Passed/agreed to in House: On passage Passed without objection.(text: CR H4178)
