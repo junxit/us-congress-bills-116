@@ -1,7 +1,7 @@
 ---
 measure: S. 914
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-59 amendatory instructions. 20 executed, 39 stated and not applied.
+61 amendatory instructions. 21 executed, 40 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,12 +35,12 @@ to guess them.
 
 ### 33 U.S.C. § 3602
 
-> in paragraph (5), by striking “integrated into the System and are managed through States, regional organizations, universities, nongovernmental organizations, or the private sector” and inserting “managed through States, regional organizations, universities, nongovernmental organizations, or the private sector and integrated into the System by a regional coastal ocean observing system, the National Oceanic and Atmospheric Administration, or the agencies participating in the Interagency Ocean Observation Committee”;
+> in paragraph (5), by striking “integrated into the System and are managed through States, regional organizations, universities, nongovernmental organizations, or the private sector” and inserting “managed through States, regional organizations, universities, nongovernmental organizations, or the private sector and integrated into the System by a regional coastal observing system, the National Oceanic and Atmospheric Administration, or the agencies participating in the Interagency Ocean Observation Committee”;
 
 | | |
 |---|---|
 | Removed | `integrated into the System and are managed through States, regional organizations, universities, nongovernmental organizations, or the private sector` |
-| Inserted | `managed through States, regional organizations, universities, nongovernmental organizations, or the private sector and integrated into the System by a regional coastal ocean observing system, the National Oceanic and Atmospheric Administration, or the agencies participating in the Interagency Ocean Observation Committee` |
+| Inserted | `managed through States, regional organizations, universities, nongovernmental organizations, or the private sector and integrated into the System by a regional coastal observing system, the National Oceanic and Atmospheric Administration, or the agencies participating in the Interagency Ocean Observation Committee` |
 
 ### 33 U.S.C. § 3602
 
@@ -53,12 +53,12 @@ to guess them.
 
 ### 33 U.S.C. § 3603
 
-> in paragraph (1), by striking “or the Interagency Ocean Observing Committee.” and inserting “or the Council under this subtitle.”; and
+> in paragraph (1), by striking “or the Interagency Ocean Observing Committee.” and inserting “or the Council under this subtitle”; and
 
 | | |
 |---|---|
 | Removed | `or the Interagency Ocean Observing Committee.` |
-| Inserted | `or the Council under this subtitle.` |
+| Inserted | `or the Council under this subtitle` |
 
 ### 33 U.S.C. § 3603
 
@@ -89,12 +89,12 @@ to guess them.
 
 ### 33 U.S.C. § 3601
 
-> The Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3601 et seq.) is amended by striking “regional information coordination entities” each place it appears and inserting “regional ocean observing systems”.
+> The Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3601 et seq.) is amended by striking “regional information coordination entities” each place it appears and inserting “regional coastal observing systems”.
 
 | | |
 |---|---|
 | Removed | `regional information coordination entities` |
-| Inserted | `regional ocean observing systems` |
+| Inserted | `regional coastal observing systems` |
 
 ### 33 U.S.C. § 3611
 
@@ -107,12 +107,12 @@ to guess them.
 
 ### 33 U.S.C. § 3611
 
-> by striking “540 days after the date of the enactment of the Consumer Option for an Alternative System to Allocate Losses Act of 2012” and inserting “December 31, 2019”; and
+> by striking “540 days after the date of the enactment of the Consumer Option for an Alternative System to Allocate Losses Act of 2012” and inserting “December 31, 2020”; and
 
 | | |
 |---|---|
 | Removed | `540 days after the date of the enactment of the Consumer Option for an Alternative System to Allocate Losses Act of 2012` |
-| Inserted | `December 31, 2019` |
+| Inserted | `December 31, 2020` |
 
 ### 33 U.S.C. § 3611
 
@@ -161,12 +161,12 @@ to guess them.
 
 ### 33 U.S.C. § 3611
 
-> in paragraph (1), by striking “540 days after the date of the enactment of the Consumer Option for an Alternative System to Allocate Losses Act of 2012” and inserting “December 31, 2019”;
+> in paragraph (1), by striking “540 days after the date of the enactment of the Consumer Option for an Alternative System to Allocate Losses Act of 2012” and inserting “December 31, 2020”;
 
 | | |
 |---|---|
 | Removed | `540 days after the date of the enactment of the Consumer Option for an Alternative System to Allocate Losses Act of 2012` |
-| Inserted | `December 31, 2019` |
+| Inserted | `December 31, 2020` |
 
 ### 42 U.S.C. § 4057
 
@@ -185,6 +185,15 @@ to guess them.
 |---|---|
 | Removed | `the issuance of the rule establishing the COASTAL Formula` |
 | Inserted | `publication of the COASTAL Formula in the Federal Register as required by subsection (b)(1)` |
+
+### 42 U.S.C. § 4057
+
+> in subsection (d), by striking “section 12312(b)(2)(C)” and inserting “section 12312(b)(2)(E)”;
+
+| | |
+|---|---|
+| Removed | `section 12312(b)(2)(C)` |
+| Inserted | `section 12312(b)(2)(E)` |
 
 ### 42 U.S.C. § 4057
 
@@ -234,6 +243,7 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 3704` | replace | in paragraph (9), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3704` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3704` | add-at-end | Section 12405(c) of the Federal Ocean Acidification Research And Monitoring Act of 2009 (33 U.S.C. 3704(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3704` | insert | Section 12405(e) of the Federal Ocean Acidification Research And Monitoring Act of 2009 (33 U.S.C. 3704(e)) is amended in the first sentence by inserting “, tribal governments, and subsistence users” after “groups”. | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3705` | strike | in paragraph (2), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 3705` | replace | in paragraph (3), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3705` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
