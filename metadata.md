@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7608
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7608
@@ -16,9 +16,10 @@ State, Foreign Operations, Agriculture, Rural Development, Interior, Environment
 
 - Rep. Lowey, Nita M. [D-NY-17] (L000480)
 
-## Committees (1)
+## Committees (2)
 
 - House — Appropriations Committee
+- Senate — Appropriations Committee
 
 ## Actions
 
@@ -135,3 +136,4 @@ State, Foreign Operations, Agriculture, Rural Development, Interior, Environment
 - 2020-07-24 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2020-07-24 — The previous question was ordered pursuant to the rule.
 - 2020-07-24 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments to H.R. 7608 which had been debated earlier and on which further proceedings had been postponed.
+- 2020-07-30 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
