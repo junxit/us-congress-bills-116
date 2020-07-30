@@ -1,7 +1,7 @@
 ---
 measure: S. 850
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 850
@@ -34,3 +34,12 @@ Highly Rural Veteran Transportation Program Extension Act
 - 2020-02-05 — Committee on Veterans' Affairs. Reported by Senator Moran with an amendment. Without written report.
 - 2020-02-05 — Committee on Veterans' Affairs. Reported by Senator Moran with an amendment. Without written report.
 - 2020-02-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 413.
+- 2020-07-30 — Amendment SA 2502 agreed to in Senate by Unanimous Consent.
+- 2020-07-30 — Amendment SA 2502 proposed by Senator Sullivan. (consideration: CR S4647-4648; text: CR S4647-4648) To require a report by the Secretary of Veterans Affairs on the transportation of individuals to and from facilities of the Department of Veterans Affairs.
+- 2020-07-30 — Measure laid before Senate by unanimous consent. (consideration: CR S4647-4648)
+- 2020-07-30 — Passed Senate with an amendment by Unanimous Consent. (text: CR S4648)
+- 2020-07-30 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S4648)
+- 2020-07-30 — Senate amendment agreed to: Amendment SA 2502 agreed to in Senate by Unanimous Consent.
+- 2020-07-30 — Senate amendment proposed (on the floor): Amendment SA 2502 proposed by Senator Sullivan.
+- 2020-07-30 — Senate amendment submitted
+- 2020-07-30 — The committee amendment as amended agreed to by Unanimous Consent. (text: CR S4647)
