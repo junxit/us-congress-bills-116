@@ -1,7 +1,7 @@
 ---
 legis-num: S. 529
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -146,6 +146,9 @@ In this Act:
         - **(II)** that reflect the goals and priorities of the national strategy established under subsection (b)(2)(A);
         - **(III)** not less than 50 percent of the total cost of which is matched by non-Federal sources; and
         - **(IV)** that include acquisition of enhanced elevation data consistent with the 3D Elevation Program.
+    - **(C)** *Requirement* If the Secretary elects to provide grants under subparagraph (A)(i), the Secretary shall publish on a publicly available website a description of—
+      - **(i)** the grants; and
+      - **(ii)** the findings made from those grants.
   - **(2)** *National landslide research grants*
     - **(A)** *In general* To advance the goals and priorities of the national strategy established under subsection (b)(2)(A), subject to appropriations, the Director of the National Science Foundation (referred to in this paragraph as the “Director”) may provide grants to eligible entities for landslide research, including research on—
       - **(i)** the causes, mechanisms, triggers, hydrology, and geology of landslides;
@@ -153,27 +156,26 @@ In this Act:
       - **(iii)** other goals and priorities of the national strategy established under subsection (b)(2)(A).
     - **(B)** *Eligible entities* The Director shall determine whether an entity is eligible to receive a grant under this paragraph.
     - **(C)** *Requirements* In providing grants under this paragraph, the Director shall—
-      - **(i)** ensure that the grants are provided on a competitive basis; and
-      - **(ii)** consider grant applications submitted by eligible entities that have developed the application in partnership with 1 or more State geological surveys.
-- **(f)** *Biennial report* The Secretary shall submit to Congress a biennial report, including a description of, with respect to the preceding 2 calendar years—
-  - **(1)** the goals and accomplishments of the Secretary and the agency heads described in subparagraphs (B) through (I) of subsection (c)(2) in carrying out the national strategy developed under subsection (b)(2), expressed—
-    - **(A)** by agency, program, and budgetary resource; and
-    - **(B)** by the goals and priorities of the national strategy established under subsection (b)(2)(A);
-  - **(2)** the results of the activities of the Committee under this section;
-  - **(3)** the extent to which any recommendations of the Advisory Committee under subsection (d)(3)(A) have been implemented;
-  - **(4)** the grants provided under this section during the preceding 2 calendar years, including a description of—
-    - **(A)** each activity carried out using such a grant; and
-    - **(B)** the results of those activities; and
-  - **(5)** for each significant landslide event in the United States (including territories) during the preceding 2 calendar years—
-    - **(A)** a description of the landslide event and the implications of the event on communities, including life and property;
-    - **(B)** recommendations on how the identification of the landslide risk could have been improved prior to the event;
-    - **(C)** a description of the effectiveness of any warning and risk communication, including the dissemination of warnings by State, territorial, local, and Tribal partners in the affected area;
-    - **(D)** recommendations to improve risk identification, reduction, and communication to landowners and units of local government;
-    - **(E)** recommendations to improve landslide hazard preparedness and emergency response activities under this section; and
-    - **(F)** such other findings as the Secretary determines appropriate.
-- **(g)** *Funding* There is authorized to be appropriated to carry out this section $37,000,000 for each of fiscal years 2020 through 2023, of which—
-  - **(1)** $25,000,000 each fiscal year shall be made available to the United States Geological Survey; and
-  - **(2)** $1,000,000 each fiscal year shall be made available to the National Oceanic and Atmospheric Administration.
+      - **(i)** ensure that the grants are provided on a competitive basis;
+      - **(ii)** consider grant applications submitted by eligible entities that have developed the application in partnership with 1 or more State geological surveys; and
+      - **(iii)** publish on a publicly available website a description of—
+        - **(I)** the grants; and
+        - **(II)** the findings made from those grants.
+- **(f)** *Biennial report* Through calendar year 2030, the Secretary shall submit to Congress a biennial report, including a description of, with respect to the 2-calendar-year period preceding the date of the report—
+  - **(1)** the goals and accomplishments of the Committee in carrying out the national strategy developed under subsection (b)(2);
+  - **(2)** the results of the activities of the Committee under this section; and
+  - **(3)** the extent to which any recommendations of the Advisory Committee under subsection (d)(3)(A) have been implemented.
+- **(g)** *Significant events* Not later than 1 year after a significant landslide event in the United States (including territories) occurs, the Secretary shall publish on a publicly available website—
+  - **(1)** a description of the landslide event and the implications of the event on communities, including life and property;
+  - **(2)** recommendations on how the identification of the landslide risk could have been improved prior to the event;
+  - **(3)** a description of the effectiveness of any warning and risk communication, including the dissemination of warnings by State, territorial, local, and Tribal partners in the affected area;
+  - **(4)** recommendations to improve risk identification, reduction, and communication to landowners and units of local government;
+  - **(5)** recommendations to improve landslide hazard preparedness and emergency response activities under this section; and
+  - **(6)** such other findings as the Secretary determines appropriate.
+- **(h)** *Funding* For each of fiscal years 2021 and 2024—
+  - **(1)** there is authorized out of funds appropriated to the United States Geological Survey, $25,000,000 to carry out this section;
+  - **(2)** there is authorized out of funds appropriated to the National Science Foundation, $11,000,000 to carry out this section; and
+  - **(3)** there is authorized out of funds appropriated to the National Oceanic and Atmospheric Administration, $1,000,000 to carry out this section.
 
 ## § 4. Ground subsidence
 
@@ -251,4 +253,4 @@ As the Secretary determines to be appropriate and subject to appropriations, the
   - **(1)** *In general* The Secretary may make grants and enter into cooperative agreements with other Federal departments and agencies, units of State, local, or Tribal government, institutions of higher education, nonprofit research institutions, or other organizations to facilitate the improvement of nationwide coverage of 3D elevation data.
   - **(2)** *Applications* To be eligible to receive a grant or enter into a cooperative agreement under this subsection, an entity described in paragraph (1) shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
   - **(3)** *Terms and conditions* A grant or cooperative agreement under this subsection shall be subject to such terms and conditions as the Secretary determines to be appropriate, including making data publically available and interoperable with other Federal datasets.
-- **(e)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2020 through 2023.
+- **(e)** *Funding* For each of the fiscal years 2021 through 2024, there is authorized out of funds appropriated to the Secretary $20,000,000 to carry out this section.
