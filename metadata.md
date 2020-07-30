@@ -1,7 +1,7 @@
 ---
 measure: S. 4212
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4212
@@ -34,3 +34,7 @@ Civil Justice for Victims of COVID Act
 
 - 2020-07-20 — Introduced in Senate
 - 2020-07-20 — Read twice and referred to the Committee on the Judiciary.
+- 2020-07-30 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2020-07-30 — Committee on the Judiciary. Reported by Senator Graham without amendment. Without written report.
+- 2020-07-30 — Committee on the Judiciary. Reported by Senator Graham without amendment. Without written report.
+- 2020-07-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 504.
