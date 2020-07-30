@@ -19,10 +19,23 @@ Section 307(d) of the Caregivers and Veterans Omnibus Health Services Act of 201
 
 ## § 3. Making permanent authority for Secretary of Veterans Affairs to transport individuals to and from facilities of Department of Veterans Affairs
 
-Section 111A(a) of title 38, United States Code, is amended—
-
-- **(1)** by striking paragraph (2); and
-- **(2)** in paragraph (1), by striking “(1)”.
+- **(a)** *In general* Section 111A(a) of title 38, United States Code, is amended—
+  - **(1)** by striking paragraph (2); and
+  - **(2)** in paragraph (1), by striking “(1)”.
+- **(b)** *Report required*
+  - **(1)** *In general* Not later than five years after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to Congress a report on cost savings, performance, and satisfaction of individuals, with respect to—
+    - **(A)** the transport by the Secretary of individuals under subsection (a) of section 111A of title 38, United States Code; and
+    - **(B)** the program the establishment of which was facilitated under subsection (b) of such section.
+  - **(2)** *Elements* The report required by paragraph (1) shall include an assessment of the effect of emerging health care modalities, including telehealth and VA Video Connect, on—
+    - **(A)** the transport of individuals described in paragraph (1)(A);
+    - **(B)** the satisfaction of such individuals with services described in section 111A(a) of title 38, United States Code; and
+    - **(C)** the program described in paragraph (1)(B).
+  - **(3)** *Definitions* In this subsection:
+    - **(A)** *Telehealth*
+      - **(i)** *In general* The term telehealth means the use of electronic information and telecommunications technologies to support and promote long-distance clinical health care, patient and professional health-related education, public health, and health administration.
+      - **(ii)** *Technologies* For purposes of clause (i), telecommunications technologies include videoconferencing, the internet, streaming media, and terrestrial and wireless communications.
+    - **(B)** *VA Video Connect* The term VA Video Connect means the program of the Department of Veterans Affairs to connect veterans with their health care team from anywhere, using encryption to ensure a secure and private session.
+- **(c)** *Technical correction* Section 111A(b) of title 38, United States Code, is amended by striking “veterans' service organizations” and inserting “veterans service organizations”.
 
 ## § 4. Medical examination protocol for volunteer drivers participating in program of transportation services for veterans
 

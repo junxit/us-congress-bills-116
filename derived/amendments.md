@@ -1,7 +1,7 @@
 ---
 measure: S. 850
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 1 executed, 4 stated and not applied.
+6 amendatory instructions. 1 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,5 +44,6 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | strike | by striking paragraph (2); and | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (1), by striking “(1)”. | the bill names no machine-readable US Code section |
+| — | replace | Section 111A(b) of title 38, United States Code, is amended by striking “veterans' service organizations” and inserting “veterans service organizations”. | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(1)” before “The Secretary”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
