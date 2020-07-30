@@ -1,7 +1,7 @@
 ---
 measure: S. 2336
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2336
@@ -16,9 +16,10 @@ Department of Veterans Affairs Information Technology Reform Act of 2019
 
 - Sen. Tester, Jon [D-MT] (T000464)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
 
 ## Committees (1)
 
@@ -32,3 +33,5 @@ Department of Veterans Affairs Information Technology Reform Act of 2019
 - 2020-02-13 — Committee on Veterans' Affairs. Reported by Senator Moran without amendment. Without written report.
 - 2020-02-13 — Committee on Veterans' Affairs. Reported by Senator Moran without amendment. Without written report.
 - 2020-02-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 423.
+- 2020-07-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4648-4650; text: CR S4648-4650)
+- 2020-07-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4648-4650; text: CR S4648-4650)
