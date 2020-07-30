@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7512
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 7512
@@ -16,7 +16,7 @@ COMMS Act
 
 - Rep. Davis, Susan A. [D-CA-53] (D000598)
 
-## Cosponsors (7)
+## Cosponsors (8)
 
 - Rep. Steil, Bryan [R-WI-1] (S001213)
 - Rep. Lofgren, Zoe [D-CA-19] (L000397)
@@ -25,6 +25,7 @@ COMMS Act
 - Rep. Haaland, Debra A. [D-NM-1] (H001080)
 - Rep. Walker, Mark [R-NC-6] (W000819)
 - Rep. Loudermilk, Barry [R-GA-11] (L000583)
+- Rep. Latta, Robert E. [R-OH-5] (L000566)
 
 ## Committees (3)
 
@@ -39,3 +40,14 @@ COMMS Act
 - 2020-07-09 — Referred to the Committee on House Administration, and in addition to the Committees on Oversight and Reform, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2020-07-09 — Referred to the Committee on House Administration, and in addition to the Committees on Oversight and Reform, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2020-07-09 — Referred to the Committee on House Administration, and in addition to the Committees on Oversight and Reform, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2020-07-30 — Committee on House Administration discharged.
+- 2020-07-30 — Committee on House Administration discharged.
+- 2020-07-30 — Committee on Oversight and Reform discharged.
+- 2020-07-30 — Committee on Oversight and Reform discharged.
+- 2020-07-30 — Committee on Rules discharged.
+- 2020-07-30 — Committee on Rules discharged.
+- 2020-07-30 — Considered by unanimous consent. (consideration: CR H4177-4178)
+- 2020-07-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-07-30 — Mrs. Davis (CA) asked unanimous consent to discharge from committee and consider.
+- 2020-07-30 — On passage Passed without objection. (text: CR H4177-4178)
+- 2020-07-30 — Passed/agreed to in House: On passage Passed without objection.
