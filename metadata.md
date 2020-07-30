@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7027
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7027
@@ -167,10 +167,11 @@ Child Care Is Essential Act
 - Rep. Rice, Kathleen M. [D-NY-4] (R000602)
 - Rep. Nadler, Jerrold [D-NY-10] (N000002)
 
-## Committees (2)
+## Committees (3)
 
 - House — Budget Committee
 - House — Appropriations Committee
+- Senate — Appropriations Committee
 
 ## Actions
 
@@ -197,3 +198,4 @@ Child Care Is Essential Act
 - 2020-07-29 — Rule provides for consideration of H.R. 6395, H.R. 7027, H.R. 7327 and H.R. 1957. Provides for the consideration of H.R. 6395, H.R. 7027, H.R. 7327, and the Senate Amendments to H.R. 1957. Rule also provides that H.Res. 967, as amended by H.Res. 1017, is further amended by inserting a new date.
 - 2020-07-29 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2020-07-29 — The previous question was ordered pursuant to the rule.
+- 2020-07-30 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
