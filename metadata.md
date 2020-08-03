@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7512
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 7512
@@ -51,3 +51,4 @@ COMMS Act
 - 2020-07-30 — Mrs. Davis (CA) asked unanimous consent to discharge from committee and consider.
 - 2020-07-30 — On passage Passed without objection. (text: CR H4177-4178)
 - 2020-07-30 — Passed/agreed to in House: On passage Passed without objection.
+- 2020-08-03 — Received in the Senate.
