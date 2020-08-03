@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 92
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 92
@@ -33,3 +33,6 @@ Authorizing the printing of a revised and updated version of the House document 
 - 2020-07-30 — On agreeing to the resolution Agreed to without objection.
 - 2020-07-30 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.
 - 2020-08-03 — Received in the Senate.
+- 2020-09-15 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S5616; text: CR 07/30/2020 S4178)
+- 2020-09-15 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S5616; text: CR 07/30/2020 S4178)
+- 2020-09-16 — Message on Senate action sent to the House.
