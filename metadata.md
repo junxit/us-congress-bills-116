@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 87
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 87
@@ -38,3 +38,12 @@ Providing for the reappointment of Michael M. Lynton as a citizen regent of the 
 - 2020-07-30 — On passage Passed without objection. (text: CR H4178)
 - 2020-07-30 — Passed/agreed to in House: On passage Passed without objection.(text: CR H4178)
 - 2020-08-03 — Received in the Senate, read twice.
+- 2020-09-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5560)
+- 2020-09-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5560)
+- 2020-09-14 — Message on Senate action sent to the House.
+- 2020-09-22 — Presented to President.
+- 2020-09-22 — Presented to President.
+- 2020-10-02 — Became Public Law No: 116-162.
+- 2020-10-02 — Became Public Law No: 116-162.
+- 2020-10-02 — Signed by President.
+- 2020-10-02 — Signed by President.
