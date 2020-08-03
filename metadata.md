@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 92
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 92
@@ -32,3 +32,4 @@ Authorizing the printing of a revised and updated version of the House document 
 - 2020-07-30 — Mrs. Davis (CA) asked unanimous consent to discharge from committee and consider.
 - 2020-07-30 — On agreeing to the resolution Agreed to without objection.
 - 2020-07-30 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.
+- 2020-08-03 — Received in the Senate.
