@@ -1,7 +1,7 @@
 ---
 measure: S. 4323
 congress: 116
-version: Introduced in Senate
+version: Reference Change Senate
 ---
 
 # S. 4323
@@ -16,7 +16,7 @@ TRUST Act of 2020
 
 - Sen. Romney, Mitt [R-UT] (R000615)
 
-## Cosponsors (14)
+## Cosponsors (15)
 
 - Sen. Manchin, Joe, III [D-WV] (M001183)
 - Sen. Young, Todd [R-IN] (Y000064)
@@ -32,12 +32,17 @@ TRUST Act of 2020
 - Sen. McSally, Martha [R-AZ] (M001197)
 - Sen. Rounds, Mike [R-SD] (R000605)
 - Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Cramer, Kevin [R-ND] (C001096)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Finance Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
 - 2020-07-27 — Introduced in Senate
 - 2020-07-27 — Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S4507)
+- 2020-08-03 — Referred to the Committee on Homeland Security and Governmental Affairs.
+- 2020-08-03 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2020-08-03 — Senate Committee on Finance discharged by Unanimous Consent.
