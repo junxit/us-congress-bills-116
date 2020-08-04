@@ -1,0 +1,34 @@
+---
+legis-num: S. 4408
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4408
+
+> To amend the Internal Revenue Code of 1986 to expand and modify employer educational assistance programs, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Upskilling and Retraining Assistance Act”.
+
+## § 2. Temporary increase in exclusion for educational assistance programs
+
+In the case of taxable years beginning after December 31, 2019, and before January 1, 2022, section 127(a)(2) of the Internal Revenue Code of 1986 shall be applied by substituting “$12,000” for “$5,250” each place it appears.
+
+## § 3. Expenses for education-related tools and technology
+
+- **(a)** *In general* Paragraph (1) of section 127(c) of the Internal Revenue Code of 1986 is amended by striking “equipment” both places it appears in subparagraphs (A) and (C) thereof and inserting “education-related tools and technology and other equipment”.
+- **(b)** *Education-Related tools and technology* Subsection (c) of section 127 of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:
+  > - **(8)** *Education-related tools and technology* For purposes of paragraph (1), the term education-related tools and technology includes any—
+  >   - **(A)** hand tools and construction equipment,
+  >   - **(B)** computer or peripheral equipment (as defined in section 168(i)(2)(B)),
+  >   - **(C)** computer software (as defined in section 197(e)(3)(B)), including any licensing fees,
+  >   - **(D)** internet access and related services (including equipment or technology necessary for internet access),
+  >   - **(E)** internet, mobile, or virtual reality learning tools and technology,
+  >   - **(F)** licensure fees, materials, or other equipment, and
+  >   - **(G)** any other tools or technology as determined by the Secretary, in coordination with the Secretary of Education,
+
+- **(c)** *Employee retention of education-Related tools and technology* Paragraph (1) of section 127(c) of the Internal Revenue Code of 1986 is amended by striking “completion of a course of instruction,” and inserting “completion of a course of instruction (other than education-related tools and technology not described in paragraph (8)(D)),”.
+- **(d)** *Effective date* The amendments made by this section shall apply to amounts paid or incurred on or after the first day of the calendar quarter which includes the date of the enactment of this Act.
