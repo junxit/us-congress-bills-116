@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3465
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,15 +11,15 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Fallen Journalists Memorial Act of 2019”.
+This Act may be cited as the “Fallen Journalists Memorial Act”.
 
-## § 2. Establishment of memorial to commemorate America’s commitment to a free press by honoring journalists who have sacrificed their lives in service to that cause
+## § 2. Authorization to establish commemorative work
 
-- **(a)** *Commemorative work authorized* The Fallen Journalists Memorial Foundation may establish a commemorative work on Federal land depicted as “Area I” or “Area II” on the map numbered 869/86501 B and dated June 24, 2003 (not including the Reserve as defined in section 8902(a) of title 40, United States Code) to commemorate the sacrifices made by journalists working as guardians of democracy and for a free and independent press.
-- **(b)** *Compliance with standards for commemorative works* Chapter 89 of title 40, United States Code, and other applicable Federal laws and regulations shall apply to the establishment of the commemorative work authorized by this section.
-- **(c)** *Prohibition on use of Federal funds; payment of expenses*
-  - **(1)** *In general* The Fallen Journalists Memorial Foundation may not use Federal funds to establish the commemorative work authorized by this section.
+- **(a)** *In general* The Fallen Journalists Memorial Foundation may establish a commemorative work on Federal land in the District of Columbia and its environs to commemorate America’s commitment to a free press as represented by journalists who sacrificed their lives in their line of work.
+- **(b)** *Compliance with standards for commemorative works* The establishment of the commemorative work under this section shall be in accordance with chapter 89 of title 40, United States Code (commonly known as the “Commemorative Works Act”).
+- **(c)** *Prohibition on use of federal funds*
+  - **(1)** *In general* Federal funds may not be used to pay any expense of the establishment of the commemorative work under this section.
   - **(2)** *Responsibility of the fallen journalists memorial foundation* The Fallen Journalists Memorial Foundation shall be solely responsible for acceptance of contributions for, and payment of the expenses of, the establishment of the commemorative work under this section.
 - **(d)** *Deposit of excess funds*
-  - **(1)** *Upon establishment of commemorative work* If, upon payment of all expenses for the establishment of the commemorative work authorized by this section (including the maintenance and preservation amounts required by section 8906(b)(1) of title 40, United States Code), there remains a balance of funds received for the establishment of the commemorative work, the Fallen Journalists Memorial Foundation shall transmit the amount of the balance to the account provided for in section 8906(b)(3) of such title.
-  - **(2)** *Upon expiration of authority to establish commemorative work* If, upon expiration of the authority for the commemorative work under section 8903(e) of title 40, United States Code, there remains a balance of funds received for the establishment of the commemorative work, the Fallen Journalists Memorial Foundation shall transmit the amount of the balance to a separate account with the National Park Foundation for memorials, to be available to the Secretary of the Interior or Administrator of General Services (as appropriate) following the process provided in section 8906(b)(4) of such title for accounts established under section 8906(b)(3) of such title.
+  - **(1)** *In general* If upon payment of all expenses for the establishment of the commemorative work (including the maintenance and preservation amount required by section 8906(b)(1) of title 40, United States Code), there remains a balance of funds received for the establishment of the commemorative work, the Fallen Journalists Memorial Foundation shall transmit the amount of the balance to the Secretary of the Interior for deposit in the account provided for in section 8906(b)(3) of title 40, United States Code.
+  - **(2)** *On expiration of authority* If upon expiration of the authority for the commemorative work under section 8903(e) of title 40, United States Code, there remains a balance of funds received for the establishment of the commemorative work, the Fallen Journalists Memorial Foundation shall transmit the amount of the balance to a separate account with the National Park Foundation for memorials, to be available to the Secretary of the Interior or Administrator (as appropriate) following the process provided in section 8906(b)(4) of title 40, United States Code, for accounts established under section 8906(b)(2) or (3) of title 40, United States Code.
