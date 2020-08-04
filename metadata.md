@@ -1,7 +1,7 @@
 ---
 measure: S. 2330
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2330
@@ -16,7 +16,7 @@ Empowering Olympic, Paralympic, and Amateur Athletes Act of 2020
 
 - Sen. Moran, Jerry [R-KS] (M000934)
 
-## Cosponsors (15)
+## Cosponsors (17)
 
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Ernst, Joni [R-IA] (E000295)
@@ -33,6 +33,8 @@ Empowering Olympic, Paralympic, and Amateur Athletes Act of 2020
 - Sen. Gardner, Cory [R-CO] (G000562)
 - Sen. Peters, Gary C. [D-MI] (P000595)
 - Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
 
 ## Committees (1)
 
@@ -46,3 +48,12 @@ Empowering Olympic, Paralympic, and Amateur Athletes Act of 2020
 - 2020-07-29 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-245.
 - 2020-07-29 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-245.
 - 2020-07-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 503.
+- 2020-08-04 — Amendment SA 2512 agreed to in Senate by Unanimous Consent.
+- 2020-08-04 — Amendment SA 2512 proposed by Senator Moran. (consideration: CR S4696) In the nature of a substitute.
+- 2020-08-04 — Measure laid before Senate by unanimous consent. (consideration: CR S4688-4696)
+- 2020-08-04 — Passed Senate with an amendment by Unanimous Consent.
+- 2020-08-04 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2020-08-04 — Senate amendment agreed to: Amendment SA 2512 agreed to in Senate by Unanimous Consent.
+- 2020-08-04 — Senate amendment proposed (on the floor): Amendment SA 2512 proposed by Senator Moran.
+- 2020-08-04 — Senate amendment submitted
+- 2020-08-04 — The committee substitute withdrawn by Unanimous Consent. (CR S4696)
