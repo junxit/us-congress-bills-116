@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2579
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -62,7 +62,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `30 U.S.C. § 28` | insert | Section 2324 of the Revised Statutes of the United States (30 U.S.C. 28) is amended by inserting “or section 103(a) of the Hardrock Leasing and Reclamation Act of 2019” after “Act of 1993”. | the bill quotes the text inserted but describes where it goes |
 | `30 U.S.C. § 21a` | insert | by inserting “and to ensure that mineral extraction and processing not cause undue degradation of the natural and cultural resources of the public lands” after “activities”; and | the bill quotes the text inserted but describes where it goes |
-| `30 U.S.C. § 21a` | add-at-end | by adding at the end the following: “It shall also be the responsibility of the Secretary of Agriculture to carry out the policy provisions of clauses (1) and (2)xreference of the first paragraph of this section.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 21a` | add-at-end | by adding at the end the following: “It shall also be the responsibility of the Secretary of Agriculture to carry out the policy provisions of clauses (1) and (2) of the first paragraph of this section.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 1604` | insert | Section 5(e)(3) of the National Materials and Minerals Policy, Research and Development Act of 1980 (30 U.S.C. 1604(e)(3)) is amended by inserting before the period the following: “, except that for National Forest System lands the Secre… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 242` | strike | by striking “as prescribed by the Secretary”; and | the bill quotes the text struck but describes what replaces it |
 | `30 U.S.C. § 242` | insert | by inserting before the period the following: “in the same manner as required by title II of the Hardrock Leasing and Reclamation Act of 2019”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
