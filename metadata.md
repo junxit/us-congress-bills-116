@@ -1,7 +1,7 @@
 ---
 measure: S. 2330
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2330
@@ -57,3 +57,18 @@ Empowering Olympic, Paralympic, and Amateur Athletes Act of 2020
 - 2020-08-04 — Senate amendment proposed (on the floor): Amendment SA 2512 proposed by Senator Moran.
 - 2020-08-04 — Senate amendment submitted
 - 2020-08-04 — The committee substitute withdrawn by Unanimous Consent. (CR S4696)
+- 2020-08-07 — Held at the desk.
+- 2020-08-07 — Message on Senate action sent to the House.
+- 2020-08-07 — Received in the House.
+- 2020-10-01 — Considered under suspension of the rules. (consideration: CR H5151-5160)
+- 2020-10-01 — DEBATE - The House proceeded with forty minutes of debate on S. 2330.
+- 2020-10-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-10-01 — Ms. Bass moved to suspend the rules and pass the bill.
+- 2020-10-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5151-5159)
+- 2020-10-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-10-20 — Presented to President.
+- 2020-10-20 — Presented to President.
+- 2020-10-30 — Became Public Law No: 116-189.
+- 2020-10-30 — Became Public Law No: 116-189.
+- 2020-10-30 — Signed by President.
+- 2020-10-30 — Signed by President.

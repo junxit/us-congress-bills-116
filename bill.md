@@ -1,6 +1,6 @@
 ---
 legis-num: S. 2330
-congress: 116th CONGRESS
+congress: One Hundred Sixteenth Congress of the United States of America
 session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
@@ -118,7 +118,7 @@ Section 220501(b) of title 36, United States Code, is amended—
     >     - **(ii)** not less than 20 percent of the membership of the board of directors of the corporation shall be composed of amateur athletes who—
     >       - **(I)** are actively engaged in representing the United States in international amateur athletic competition; or
     >       - **(II)** have represented the United States in international amateur athletic competition during the preceding 10-year period; and
-    >   - **(D)** ensure that the membership and voting power held by such amateur athletes is not less than 1/3 percent of the membership and voting power held in the board of directors of the corporation and in the committees and entities of the corporation, including any panel empowered to resolve grievances;
+    >   - **(D)** ensure that the membership and voting power held by such amateur athletes is not less than 1/3 of the membership and voting power held in the board of directors of the corporation and in the committees and entities of the corporation, including any panel empowered to resolve grievances;
 
   - **(3)** by adding at the end the following:
     > - **(c)** *Conflict of interest* An athlete who represents athletes under subsection (b)(2) shall not be employed by the Center, or serve in a capacity that exercises decision-making authority on behalf of the Center, during the 2-year period beginning on the date on which the athlete ceases such representation.
@@ -407,7 +407,7 @@ Section 220501(b) of title 36, United States Code, is amended—
       >       - **(i)** ensure that the national governing bodies and the corporation implement and follow the policies and procedures developed by the Center to prevent and promptly report instances of abuse of amateur athletes, including emotional, physical, and sexual abuse; and
       >       - **(ii)** establish mechanisms that allow for the reporting and investigation of alleged violations of such policies and procedures;
       >     - **(G)** publish and maintain a publicly accessible internet website that contains a comprehensive list of adults who are barred by the Center; and
-      >     - **(H)** ensure that any action taken by the Center against an individual under the jurisdiction of the Center, including an investigation, the imposition of sanctions, and any other disciplinary action, is carried out in a manner than provides procedural due process to the individual, including, at a minimum—
+      >     - **(H)** ensure that any action taken by the Center against an individual under the jurisdiction of the Center, including an investigation, the imposition of sanctions, and any other disciplinary action, is carried out in a manner that provides procedural due process to the individual, including, at a minimum—
       >       - **(i)** the provision of written notice of the allegations against the individual;
       >       - **(ii)** a right to be represented by counsel or other advisor;
       >       - **(iii)** an opportunity to be heard during the investigation;
@@ -442,7 +442,7 @@ Section 220501(b) of title 36, United States Code, is amended—
       >   - **(3)** *Conflicts of interest* An executive or attorney for the Center shall be considered to have an inappropriate conflict of interest if the executive or attorney also represents the corporation or a national governing body.
       >   - **(4)** *Investigations*
       >     - **(A)** *In general* The corporation and the national governing bodies shall not interfere in, or attempt to influence the outcome of, an investigation.
-      >     - **(B)** *Report* In the case of an attempt to interfere in, or influence the outcome of, an investigation, not later than 72 hours after such attempt, the Center shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report describing the attempt.
+      >     - **(B)** *Report* In the case of an attempt to interfere in, or influence the outcome of, an investigation, not later than 72 hours after such attempt, the Center shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce and the Committee on the Judiciary of the House of Representatives a report describing the attempt.
       >     - **(C)** *Work product*
       >       - **(i)** *In general* Any decision, report, memorandum, work product, notes, or case file of the Center—
       >         - **(I)** shall be confidential; and
@@ -450,8 +450,8 @@ Section 220501(b) of title 36, United States Code, is amended—
       >       - **(ii)** *Rule of construction* Nothing in this subparagraph shall be construed to prohibit the Center from providing work product described in clause (i) to a law enforcement agency for the purpose of assisting in a criminal investigation.
       > - **(g)** *Funding*
       >   - **(1)** *Mandatory payments*
-      >     - **(A)** *Fiscal year 2020* Not later than 30 days after the date of the enactment of this subsection, the corporation shall make a mandatory payment of $20,000,000 to the Center for operating costs of the Center for fiscal year 2020.
-      >     - **(B)** *Subsequent fiscal years* Beginning on January 1, 2020, the corporation shall make a mandatory payment of $20,000,000 to the Center on January 1 each year for operating costs of the Center.
+      >     - **(A)** *Fiscal year 2021* On January 4, 2021, the corporation shall make a mandatory payment of $20,000,000 to the Center for operating costs of the Center for fiscal year 2021.
+      >     - **(B)** *Subsequent fiscal years* For fiscal year 2022 and each fiscal year thereafter, the corporation shall make a mandatory payment of $20,000,000 to the Center not later than the close of business on the first regular business day in January.
       >   - **(2)** *Funds from national governing bodies* The corporation may use funds received from 1 or more national governing bodies to make a mandatory payment required by paragraph (1).
       >   - **(3)** *Failure to comply*
       >     - **(A)** *In general* The Center may file a lawsuit to compel payment under paragraph (1).
@@ -478,7 +478,7 @@ Section 220501(b) of title 36, United States Code, is amended—
       >         - **(I)** enforce any corrective measure required under subparagraph (A); and
       >         - **(II)** report the status of enforcement with respect to a national governing body within a reasonable timeframe.
       >       - **(ii)** *Methods* The corporation may enforce a corrective measure through any means available to the corporation, including by withholding funds from a national governing body, limiting the participation of the national governing body in corporation events, and decertifying a national governing body.
-      >       - **(iii)** *Effect of noncompliance* If the corporation fails to enforce a corrective measure within 72 hours of a request under clause (i), the Center may submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report describing the noncompliance.
+      >       - **(iii)** *Effect of noncompliance* If the corporation fails to enforce a corrective measure within 72 hours of a request under clause (i), the Center may submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce and the Committee on the Judiciary of the House of Representatives a report describing the noncompliance.
       >   - **(3)** *Annual report*
       >     - **(A)** *In general* Not less frequently than annually, the Center shall submit to Congress a report on the findings of the audit under paragraph (1) for the preceding year and the status of any corrective measures imposed as a result of the audit.
       >     - **(B)** *Public availability*
