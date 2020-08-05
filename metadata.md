@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6395
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 6395
@@ -245,3 +245,5 @@ William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2
 - 2020-07-21 — Without objection, a motion to reconsider was laid upon the table
 - 2020-07-21 — Without objection, a motion to reconsider was laid upon the table
 - 2020-07-21 — Without objection, a motion to reconsider was laid upon the table
+- 2020-08-04 — Received in the Senate.
+- 2020-08-05 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 505.
