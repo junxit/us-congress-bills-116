@@ -1,0 +1,36 @@
+---
+legis-num: S. 4447
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4447
+
+> To amend the Families First Coronavirus Response Act to temporarily modify child nutrition programs due to COVID–19, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Child Nutrition Relief Act of 2020”.
+
+## § 2. Waivers for schools due to COVID–19
+
+- **(a)** *School closures* Section 2102(d) of the Families First Coronavirus Response Act (42 U.S.C. 1760 note; Public Law 116–127) is amended—
+  - **(1)** in paragraph (1), by striking “and” at the end;
+  - **(2)** in paragraph (2), by striking “providing meals and meal supplements under such Acts during a school closure due to COVID-19.” and inserting “providing, during a school closure (including full or partial building closure) due to COVID–19, meals and meal supplements under such Acts through modified meal service models that achieve social distancing; and”; and
+  - **(3)** by adding at the end the following:
+    > - **(3)** that shall not terminate prior to August 31, 2021.
+
+- **(b)** *National school lunch program requirements* Section 2202 of the Families First Coronavirus Response Act (42 U.S.C. 1760 note; Public Law 116–127) is amended—
+  - **(1)** in subsection (c)—
+    - **(A)** by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, and indenting appropriately;
+    - **(B)** in the matter preceding subparagraph (A) (as so redesignated), by striking “Notwithstanding” and inserting the following:
+      > - **(1)** *In general* Notwithstanding
+
+    - **(C)** by adding at the end the following:
+      > - **(2)** *Guidance* The Secretary shall provide guidance on serving hot meals under a waiver granted under this subsection.
+
+  - **(2)** by striking subsection (e) and inserting the following:
+    > - **(e)** *Sunset* The authority of the Secretary to establish or grant a waiver under this section shall expire on—
+    >   - **(1)** June 30, 2021, with respect to a waiver under a qualified program described in subparagraphs (A) through (C) of subsection (f)(1); and
+    >   - **(2)** August 31, 2021, with respect to a waiver under the qualified program described in subparagraph (D) of that subsection.
