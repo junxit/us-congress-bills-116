@@ -1,7 +1,7 @@
 ---
 measure: S. 785
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 785
@@ -16,7 +16,7 @@ Commander John Scott Hannon Veterans Mental Health Care Improvement Act of 2019
 
 - Sen. Tester, Jon [D-MT] (T000464)
 
-## Cosponsors (51)
+## Cosponsors (53)
 
 - Sen. Moran, Jerry [R-KS] (M000934)
 - Sen. Baldwin, Tammy [D-WI] (B001230)
@@ -69,6 +69,8 @@ Commander John Scott Hannon Veterans Mental Health Care Improvement Act of 2019
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 - Sen. Portman, Rob [R-OH] (P000449)
 - Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Tester, Jon [D-MT] (T000464)
 
 ## Committees (1)
 
@@ -83,3 +85,12 @@ Commander John Scott Hannon Veterans Mental Health Care Improvement Act of 2019
 - 2020-07-27 — Committee on Veterans' Affairs. Reported by Senator Moran with an amendment in the nature of a substitute. Without written report.
 - 2020-07-27 — Committee on Veterans' Affairs. Reported by Senator Moran with an amendment in the nature of a substitute. Without written report.
 - 2020-07-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 498.
+- 2020-08-05 — Amendment SA 2594 agreed to in Senate by Unanimous Consent.
+- 2020-08-05 — Amendment SA 2594 proposed by Senator Moran. (consideration: CR S4935; text: CR S4961-4976) In the nature of a substitute.
+- 2020-08-05 — Measure laid before Senate by unanimous consent. (consideration: CR S4921-4935)
+- 2020-08-05 — Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: CR S4961-4976)
+- 2020-08-05 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(text of amendment in the nature of a substitute: CR S4961-4976)
+- 2020-08-05 — Senate amendment agreed to: Amendment SA 2594 agreed to in Senate by Unanimous Consent.
+- 2020-08-05 — Senate amendment proposed (on the floor): Amendment SA 2594 proposed by Senator Moran.
+- 2020-08-05 — Senate amendment submitted
+- 2020-08-05 — The committee substitute withdrawn by Unanimous Consent. (CR S4935)
