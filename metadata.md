@@ -1,7 +1,7 @@
 ---
 measure: S. 785
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 785
@@ -16,7 +16,7 @@ Commander John Scott Hannon Veterans Mental Health Care Improvement Act of 2019
 
 - Sen. Tester, Jon [D-MT] (T000464)
 
-## Cosponsors (53)
+## Cosponsors (54)
 
 - Sen. Moran, Jerry [R-KS] (M000934)
 - Sen. Baldwin, Tammy [D-WI] (B001230)
@@ -70,6 +70,7 @@ Commander John Scott Hannon Veterans Mental Health Care Improvement Act of 2019
 - Sen. Portman, Rob [R-OH] (P000449)
 - Sen. Heinrich, Martin [D-NM] (H001046)
 - Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Gardner, Cory [R-CO] (G000562)
 - Sen. Tester, Jon [D-MT] (T000464)
 
 ## Committees (1)
@@ -94,3 +95,19 @@ Commander John Scott Hannon Veterans Mental Health Care Improvement Act of 2019
 - 2020-08-05 — Senate amendment proposed (on the floor): Amendment SA 2594 proposed by Senator Moran.
 - 2020-08-05 — Senate amendment submitted
 - 2020-08-05 — The committee substitute withdrawn by Unanimous Consent. (CR S4935)
+- 2020-08-07 — Held at the desk.
+- 2020-08-07 — Message on Senate action sent to the House.
+- 2020-08-07 — Received in the House.
+- 2020-09-09 — Committee on Veterans' Affairs. Hearings held.
+- 2020-09-23 — Considered under suspension of the rules. (consideration: CR H4734-4752)
+- 2020-09-23 — DEBATE - The House proceeded with forty minutes of debate on S. 785.
+- 2020-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-23 — Mr. Takano moved to suspend the rules and pass the bill.
+- 2020-09-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4734-4749)
+- 2020-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-10-06 — Presented to President.
+- 2020-10-06 — Presented to President.
+- 2020-10-17 — Became Public Law No: 116-171.
+- 2020-10-17 — Became Public Law No: 116-171.
+- 2020-10-17 — Signed by President.
+- 2020-10-17 — Signed by President.
