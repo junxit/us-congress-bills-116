@@ -1,7 +1,7 @@
 ---
 measure: S. 3703
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3703
@@ -58,3 +58,18 @@ Promoting Alzheimer's Awareness to Prevent Elder Abuse Act
 - 2020-08-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S5346-5347)
 - 2020-08-06 — Senate Committee on the Judiciary discharged by Unanimous Consent.
 - 2020-08-06 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S5346-5347)
+- 2020-08-11 — Message on Senate action sent to the House.
+- 2020-08-14 — Held at the desk.
+- 2020-08-14 — Received in the House.
+- 2020-12-08 — Considered by unanimous consent. (consideration: CR H7000-7001)
+- 2020-12-08 — House amendment offered
+- 2020-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-08 — Ms. Bass asked unanimous consent to take from the Speaker's table and consider.
+- 2020-12-08 — On passage Passed without objection. (text: CR H7000-7001)
+- 2020-12-08 — Passed/agreed to in House: On passage Passed without objection.
+- 2020-12-11 — Presented to President.
+- 2020-12-11 — Presented to President.
+- 2020-12-22 — Became Public Law No: 116-252.
+- 2020-12-22 — Became Public Law No: 116-252.
+- 2020-12-22 — Signed by President.
+- 2020-12-22 — Signed by President.
