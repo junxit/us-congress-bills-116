@@ -1,7 +1,7 @@
 ---
 measure: H.R. 835
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
