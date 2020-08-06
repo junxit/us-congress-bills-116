@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3153
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3153
@@ -65,3 +65,7 @@ Expanding Findings for Federal Opioid Research and Treatment Act
 - 2019-07-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7172)
 - 2019-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7172)
 - 2019-07-24 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2019-11-13 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2020-08-06 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-248.
+- 2020-08-06 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-248.
+- 2020-08-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 510.
