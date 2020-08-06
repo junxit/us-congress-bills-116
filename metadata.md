@@ -1,7 +1,7 @@
 ---
 measure: S. 3455
 congress: 116
-version: Engrossed in Senate
+version: Reported to Senate
 ---
 
 # S. 3455
