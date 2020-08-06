@@ -1,7 +1,7 @@
 ---
 measure: H.R. 835
 congress: 116
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 835
@@ -80,3 +80,12 @@ Rodchenkov Anti-Doping Act of 2019
 - 2020-08-06 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-247.
 - 2020-08-06 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-247.
 - 2020-08-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 509.
+- 2020-11-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6693)
+- 2020-11-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6693)
+- 2020-11-17 — Message on Senate action sent to the House.
+- 2020-11-24 — Presented to President.
+- 2020-11-24 — Presented to President.
+- 2020-12-04 — Became Public Law No: 116-206.
+- 2020-12-04 — Became Public Law No: 116-206.
+- 2020-12-04 — Signed by President.
+- 2020-12-04 — Signed by President.
