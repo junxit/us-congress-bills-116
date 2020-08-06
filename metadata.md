@@ -1,7 +1,7 @@
 ---
 measure: S. 4075
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 4075
@@ -40,3 +40,18 @@ RLF Act
 - 2020-08-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S5346)
 - 2020-08-06 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
 - 2020-08-06 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S5346)
+- 2020-08-11 — Message on Senate action sent to the House.
+- 2020-08-14 — Held at the desk.
+- 2020-08-14 — Received in the House.
+- 2020-10-01 — Considered under suspension of the rules. (consideration: CR H5189-5190)
+- 2020-10-01 — DEBATE - The House proceeded with forty minutes of debate on S. 4075.
+- 2020-10-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-10-01 — Mr. Carbajal moved to suspend the rules and pass the bill.
+- 2020-10-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5189-5190)
+- 2020-10-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-10-20 — Presented to President.
+- 2020-10-20 — Presented to President.
+- 2020-10-30 — Became Public Law No: 116-192.
+- 2020-10-30 — Became Public Law No: 116-192.
+- 2020-10-30 — Signed by President.
+- 2020-10-30 — Signed by President.
