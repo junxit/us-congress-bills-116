@@ -1,7 +1,7 @@
 ---
 measure: S. 3681
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3681
@@ -28,3 +28,7 @@ Ensuring Health Safety in the Skies Act of 2020
 
 - 2020-05-11 — Introduced in Senate
 - 2020-05-11 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2020-05-20 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2020-08-06 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute and an amendment to the title. With written report No. 116-246.
+- 2020-08-06 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute and an amendment to the title. With written report No. 116-246.
+- 2020-08-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 508.
