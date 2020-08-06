@@ -1,7 +1,7 @@
 ---
 measure: H.R. 835
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 835
@@ -76,3 +76,7 @@ Rodchenkov Anti-Doping Act of 2019
 - 2019-10-22 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-251, Part I.
 - 2019-10-22 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-251, Part I.
 - 2019-10-23 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2020-03-11 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2020-08-06 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-247.
+- 2020-08-06 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-247.
+- 2020-08-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 509.
