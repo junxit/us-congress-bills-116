@@ -1,0 +1,32 @@
+---
+legis-num: H.R. 7971
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7971
+
+> To direct the Food and Drug Administration to solicit and consider the recommendations of the Vaccines and Related Biological Products Advisory Committee before taking certain actions with respect to COVID–19 vaccines, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Expeditious Vaccine Advice with Legitimate, Unbiased, Apolitical, and Technical Expertise Act” or the “EVALUATE Act”.
+
+## § 2. Required consideration of advisory committee recommendations
+
+- **(a)** *Vaccine licensure or authorization* Before licensing or authorizing any vaccine for COVID–19 or SARS–CoV–2 infection (in this section referred to as a “COVID–19 vaccine”), the Commissioner of Food and Drugs shall—
+  - **(1)** solicit recommendations from the Vaccines and Related Biological Products Advisory Committee on whether the available data are adequate to support the safety and effectiveness of the COVID–19 vaccine and whether additional studies to further evaluate safety and effectiveness should be required before or after licensing or authorization;
+  - **(2)** receive such recommendations at an open meeting;
+  - **(3)** give public notice of such meeting at least 3 business days in advance of the meeting; and
+  - **(4)** publicly document how such recommendations were considered when licensing or authorizing the COVID–19 vaccine.
+- **(b)** *Minor or technical changes* Subsection (a) does not apply—
+  - **(1)** to minor or technical changes to a license or authorization that is in effect; or
+  - **(2)** in cases involving a change to a license or authorization if the Commissioner of Food and Drugs publishes a determination that the change is not substantial and a meeting under subsection (a) would not be appropriate.
+- **(c)** *Provision of information*
+  - **(1)** *In general* In connection with a meeting of the Vaccines and Related Biological Products Advisory Committee convened for purposes of subsection (a), the Commissioner of Food and Drugs shall—
+    - **(A)** provide to the Advisory Committee, at least 3 business days prior to the meeting, any data, summaries of data, briefing documents, and other information to be presented at the meeting by the Commissioner and the sponsor of the COVID–19 vaccine, and make reasonable efforts to provide any additional data, summaries of data, or information requested by the Advisory Committee before the meeting; and
+    - **(B)** promptly make available on the Food and Drug Administration’s website minutes, audiovisual recordings, transcripts, data, summaries of data, briefing documents, and other information or documents made available to or prepared for or by the Advisory Committee.
+  - **(2)** *Exception* The Commissioner need not make available minutes, audiovisual recordings, transcripts, data, summaries of data, briefing documents, and other information or documents pursuant to paragraph (1)(B) if the Commissioner—
+    - **(A)** determines that the minutes, audiovisual recordings, transcripts, data, summaries of data, briefing documents, or other information or documents should be withheld from disclosure in accordance with section 552b(c) of title 5, United States Code; and
+    - **(B)** promptly makes available on the public website of the Food and Drug Administration a written explanation of the reasons for not disclosing the minutes, audiovisual recordings, transcripts, data, summaries of data, briefing documents, or other information or documents.
