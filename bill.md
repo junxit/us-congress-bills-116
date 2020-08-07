@@ -17,7 +17,7 @@ This Act may be cited as the “DHS Illicit Cross-Border Tunnel Defense Act”.
 
 - **(a)** *Report on operations*
   - **(1)** *In general* Not later than one year after the date of the enactment of this Act and annually thereafter, the Commissioner of U.S. Customs and Border Protection shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on operations carried out to identify, breach, assess, and remediate illicit cross-border tunnels, including performance measures.
-  - **(2)** *Authorization of appropriations* There is authorized to be appropriated $1,000,000 for each of fiscal years 2021 and 2022 to carry out remediation operations described in paragraph (1).
+  - **(2)** *Authorization of appropriations* There is authorized to be appropriated to the Commissioner of U.S. Customs and Border Protection $1,000,000 for each of fiscal years 2021 and 2022 to carry out remediation operations of illicit cross-border tunnels.
 - **(b)** *Counter illicit cross-Border tunnel operations strategic plan*
   - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act, the Commissioner of U.S. Customs and Border Protection shall develop a strategic plan to address the following:
     - **(A)** Risk-based criteria to be used to prioritize the identification, breach, assessment, and remediation of illicit cross-border tunnels.
