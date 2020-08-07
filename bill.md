@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 7982
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7982
+
+> To reject the People’s Republic of China’s claims concerning certain islands and territories in the East and South China Seas.
+
+## § 1. Short title
+
+This Act may be cited as the “Promoting United States Hegemony By Attacking China’s Kleptomania Act” or the “PUSHBACK Act”.
+
+## § 2. Rejection of the People’s Republic of China’s claims concerning certain islands and territories in the East and South China Seas
+
+- **(a)** *Rejection of claims* The United States hereby rejects the People’s Republic of China’s claims concerning certain islands and territories in the East and South China Seas, to include the following:
+  - **(1)** The Senkaku Islands.
+  - **(2)** The Spratly Islands.
+  - **(3)** Scarborough Shoal.
+  - **(4)** The Paracel Islands.
+  - **(5)** All other disputed islands and territories in the East and South China Seas.
+- **(b)** *Rule of construction* Nothing in this section may be construed to—
+  - **(1)** resolve any claims made by any country, except for the People’s Republic of China, prior to the date of the enactment of this section; and
+  - **(2)** impact claims made by the Republic of China concerning islands and territories described in subsection (a).
+- **(c)** *Support for freedom of navigation operations* It is the policy of the United States to support efforts to increase the number of freedom of navigation operations conducted by the United States Navy with allies of the United States in the East and South China Seas.
