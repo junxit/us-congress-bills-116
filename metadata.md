@@ -1,7 +1,7 @@
 ---
 measure: S. 1014
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1014
@@ -43,3 +43,18 @@ Route 66 Centennial Commission Act
 - 2020-08-10 — Senate amendment agreed to: Amendment SA 2647 agreed to in Senate by Unanimous Consent.
 - 2020-08-10 — Senate amendment proposed (on the floor): Amendment SA 2647 proposed by Senator McConnell for Senator Duckworth.
 - 2020-08-10 — Senate amendment submitted
+- 2020-08-11 — Message on Senate action sent to the House.
+- 2020-08-14 — Held at the desk.
+- 2020-08-14 — Received in the House.
+- 2020-12-08 — Considered under suspension of the rules. (consideration: CR H6984-6987)
+- 2020-12-08 — DEBATE - The House proceeded with forty minutes of debate on S. 1014.
+- 2020-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-08 — Mr. DeFazio moved to suspend the rules and pass the bill.
+- 2020-12-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6984-6986)
+- 2020-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-12-11 — Presented to President.
+- 2020-12-11 — Presented to President.
+- 2020-12-23 — Became Public Law No: 116-256.
+- 2020-12-23 — Became Public Law No: 116-256.
+- 2020-12-23 — Signed by President.
+- 2020-12-23 — Signed by President.
