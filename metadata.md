@@ -1,7 +1,7 @@
 ---
 measure: S. 3418
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3418
@@ -16,9 +16,11 @@ STORM Act
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
 
 ## Committees (1)
 
@@ -28,3 +30,7 @@ STORM Act
 
 - 2020-03-09 — Introduced in Senate
 - 2020-03-09 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2020-03-11 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2020-08-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 116-249.
+- 2020-08-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 116-249.
+- 2020-08-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 511.

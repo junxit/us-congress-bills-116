@@ -59,11 +59,11 @@ Title II of the Robert T. Stafford Disaster Relief and Emergency Assistance Act 
 >     - **(A)** propose projects increasing resilience and reducing risk of harm to natural and built infrastructure;
 >     - **(B)** involve a partnership between two or more eligible entities to carry out a project or similar projects;
 >     - **(C)** take into account regional impacts of hazards on river basins, river corridors, micro-watersheds, macro-watersheds, estuaries, lakes, bays, and coastal regions and areas at risk of earthquakes, tsunamis, droughts, and wildfires; or
->     - **(D)** propose projects for the resilience of major economic sectors or critical national infrastructure, including ports, global commodity supply chain assets (located within an entity or within the jurisdiction of local governments, insular areas, and tribal governments), power and water production and distribution centers, and bridges and waterways essential to interstate commerce.
+>     - **(D)** propose projects for the resilience of major economic sectors or critical national infrastructure, including ports, global commodity supply chain assets (located within an entity or within the jurisdiction of local governments, insular areas, and tribalTribal governments), power and water production and distribution centers, and bridges and waterways essential to interstate commerce.
 >   - **(4)** *Insular areas*
 >     - **(A)** *Apportionment* From any amount remaining of funds reserved under paragraph (2), the Administrator may enter into agreements to provide capitalization grants to insular areas.
 >     - **(B)** *Requirements* An insular area receiving a capitalization grant under this section shall comply with the requirements of this section as applied to participating entities.
-> - **(e)** *Environmental review of revolving loan fund projects* The Administrator may delegate to a participating entity all of the responsibilities for environmental review, decision making, and action pursuant the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), and other applicable Federal environmental laws including the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) and the National Historic Preservation Act of 1966 (16 U.S.C. 470 et seq.) that would apply to the Administrator were the Administrator to undertake projects under this section as Federal projects so long as the participating entity carry out such responsibilities in the same manner and subject to the same requirements as if the Administrator carried out such responsibilities.
+> - **(e)** *Environmental review of revolving loan fund projects* The Administrator may delegate to a participating entity all of the responsibilities for environmental review, decision making, and action pursuant the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), and other applicable Federal environmental laws including the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) and the National Historic Preservation Act of 1966 (16 U.S.C. 470 et seq.)(54 U.S.C. 300101 et seq.) that would apply to the Administrator were the Administrator to undertake projects under this section as Federal projects so long as the participating entity carrycarries out such responsibilities in the same manner and subject to the same requirements as if the Administrator carried out such responsibilities.
 > - **(f)** *Use of funds*
 >   - **(1)** *Types of assistance* Amounts deposited in an entity loan fund, including loan repayments and interest earned on such amounts, may be used—
 >     - **(A)** to make loans, on the condition that—
@@ -113,10 +113,10 @@ Title II of the Robert T. Stafford Disaster Relief and Emergency Assistance Act 
 >     - **(G)** a description of the financial status of the entity loan fund, including short-term and long-term goals for the fund.
 > - **(h)** *Audits, reports, publications, and oversight*
 >   - **(1)** *Biennial entity audit and report* Beginning not later than the last day of the second fiscal year after the receipt of payments under this section, and biennially thereafter, any participating entity shall—
->     - **(A)** conduct an audit of such fund established under subsection (b); and
+>     - **(A)** conduct an audit of suchthe entity loan fund established under subsection (b)(c); and
 >     - **(B)** provide to the Administrator a report including—
 >       - **(i)** the result of any such audit; and
->       - **(ii)** a review of the effectiveness of the entity loan fund of the entity with respect to meeting the goals and intended benefits described in the intended use plan submitted by the entity under subsection (f).
+>       - **(ii)** a review of the effectiveness of the entity loan fund of the entity with respect to meeting the goals and intended benefits described in the intended use plan submitted by the entity under subsection (f)(g).
 >   - **(2)** *Publication* A participating entity shall publish and periodically update information about all projects receiving funding from the entity loan fund of such entity, including—
 >     - **(A)** the location of the project;
 >     - **(B)** the type and amount of assistance provided from the entity loan fund;
@@ -124,7 +124,7 @@ Title II of the Robert T. Stafford Disaster Relief and Emergency Assistance Act 
 >     - **(D)** the anticipated date of completion of the project.
 >   - **(3)** *Oversight*
 >     - **(A)** *In general* The Administrator shall, at least every 4 years, conduct reviews and audits as may be determined necessary or appropriate by the Administrator to carry out the objectives of this section and determine the effectiveness of the fund in reducing natural hazard risk.
->     - **(B)** *GAO requirements* The entity shall conduct audits under paragraph (1) in accordance with the auditing procedures of the Government Accountability Office, including generally accepted government auditing standards.
+>     - **(B)** *GAO requirements* TheA participating entity shall conduct audits under paragraph (1) in accordance with the auditing procedures of the Government Accountability Office, including generally accepted government auditing standards.
 >     - **(C)** *Recommendations by administrator* The Administrator may at any time make recommendations for or require specific changes to an entity loan fund in order to improve the effectiveness of the fund.
 > - **(i)** *Regulations or guidance* The Administrator shall issue such regulations or guidance as are necessary to—
 >   - **(1)** ensure that each participating entity uses funds as efficiently as possible;
@@ -136,7 +136,7 @@ Title II of the Robert T. Stafford Disaster Relief and Emergency Assistance Act 
 >   - **(2)** *Agency* The term Agency means the Federal Emergency Management Agency.
 >   - **(3)** *Eligible entity* The term eligible entity means—
 >     - **(A)** a State; or
->     - **(B)** an Indian tribal government that has received a major disaster declaration during the 5-year period ending on the date of enactment of the STORM Act.
+>     - **(B)** an Indian tribalTribal government that has received a major disaster declaration during the 5-year period ending on the date of enactment of the STORM Act.
 >   - **(4)** *Hazard mitigation plan* The term hazard mitigation plan means a mitigation plan submitted under section 322.
 >   - **(5)** *Insular area* The term insular area means Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands.
 >   - **(6)** *Low-income geographic area* The term low-income geographic area means an area described in paragraph (1) or (2) of section 301(a) of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3161(a)).
