@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5428
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-18 amendatory instructions. 0 executed, 18 stated and not applied.
+20 amendatory instructions. 0 executed, 20 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,12 +33,14 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `42 U.S.C. § 17384` | insert | in subsection (a), by inserting “research, development, and demonstration” before “program”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 17384` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 17384` | strike | in subparagraph (D), by striking “and”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 17384` | strike | in subparagraph (D), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 17384` | replace | in subparagraph (E), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 17384` | insert | by inserting at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 17381` | insert | Title XIII of the Energy Independence and Security Act of 2007 (42 U.S.C. 17381 et seq.) is amended by inserting after section 1304 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 17381` | add-at-end | Title XIII of the Energy Independence and Security Act of 2007 (42 U.S.C. 17381 et. seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 17381` | add-at-end | Title XIII of the Energy Independence and Security Act of 2007 (42 U.S.C. 17381 et. seq.), as amended, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16215` | redesignate | by redesignating paragraphs (10) and (11) as paragraphs (12) and (13), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16215` | insert | by inserting after paragraph (9) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16231` | add-at-end | Subtitle C of title IX of the Energy Policy Act of 2005 (42 U.S.C. 16231 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 17011` | add-at-end | Subtitle B of title I of the Energy Independence and Security Act of 2007 (42 U.S.C. 17011 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 17081` | add-at-end | Subtitle B of title IV of the Energy Independence and Security Act of 2007 (42 U.S.C. 17081 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
