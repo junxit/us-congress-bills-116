@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5428
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Grid Modernization Research and Development Act of 2019”.
+- **(a)** *Short title* This Act may be cited as the “Grid Modernization Research and Development Act of 2020”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Smart grid regional demonstration initiative
@@ -21,10 +21,10 @@ Section 1304 of the Energy Independence and Security Act of 2007 (42 U.S.C. 1738
 - **(1)** in subsection (a), by inserting “research, development, and demonstration” before “program”;
 - **(2)** in subsection (b)—
   - **(A)** by amending paragraph (1) to read as follows:
-    > - **(1)** The Secretary shall establish a smart grid regional demonstration initiative (referred to in this subsection as the “Initiative”) composed of demonstration projects focused on cost-effective, advanced technologies for use in power grid sensing, communications, analysis, power flow control, visualization, distribution automation, industrial control systems, dynamic line rating systems, grid redesign, and the integration of distributed energy resources.
+    > - **(1)** *In general* The Secretary shall establish a smart grid regional demonstration initiative (referred to in this subsection as the “Initiative”) composed of demonstration projects focused on cost-effective, advanced technologies for use in power grid sensing, communications, analysis, power flow control, visualization, distribution automation, industrial control systems, dynamic line rating systems, grid redesign, and the integration of distributed energy resources.
 
   - **(B)** in paragraph (2)—
-    - **(i)** in subparagraph (D), by striking “and”;
+    - **(i)** in subparagraph (D), by striking “and” at the end;
     - **(ii)** in subparagraph (E), by striking the period and inserting “; and”; and
     - **(iii)** by inserting at the end the following:
       > - **(F)** to encourage the commercial application of advanced distribution automation technologies that improve system resilience.
@@ -35,7 +35,7 @@ Title XIII of the Energy Independence and Security Act of 2007 (42 U.S.C. 17381 
 
 > ## § 1304a. Smart grid modeling, visualization, architecture, and controls
 >
-> - **(a)** *In general* Not later than 180 days after the enactment of the Grid Modernization Research and Development Act of 2019, the Secretary shall establish a program of research, development, demonstration, and commercial application on electric grid modeling, sensing, visualization, architecture development, and advanced operation and controls.
+> - **(a)** *In general* Not later than 180 days after the enactment of the Grid Modernization Research and Development Act of 2020, the Secretary shall establish a program of research, development, demonstration, and commercial application on electric grid modeling, sensing, visualization, architecture development, and advanced operation and controls.
 > - **(b)** *Modeling research and development* The Secretary shall support development of models of emerging technologies and systems to facilitate the secure and reliable design, planning, and operation of the electric grid for use by industry stakeholders. In particular, the Secretary shall support development of—
 >   - **(1)** models to analyze and predict the effects of adverse physical and cyber events on the electric grid;
 >   - **(2)** coupled models of electrical, physical, and cyber systems;
@@ -44,7 +44,7 @@ Title XIII of the Energy Independence and Security Act of 2007 (42 U.S.C. 17381 
 > - **(c)** *Situational awareness research and development*
 >   - **(1)** *In general* The Secretary shall support development of computational tools and technologies to improve sensing, monitoring, and visualization of the electric grid for real-time situational awareness and decision support tools that enable improved operation of the power system, including utility, non-utility, and customer grid-connected assets, for use by industry partners.
 >   - **(2)** *Data use* In developing visualization capabilities under this section, the Secretary shall develop tools for industry stakeholders to use to analyze data collected from advanced measurement and monitoring technologies, including data from phasor measurement units and advanced metering units.
->   - **(3)** *Severe events* The Secretary shall prioritize enhancing cyber and physical situational awareness of the electric grid during adverse manmade and naturally occurring events.
+>   - **(3)** *Severe events* The Secretary shall prioritize enhancing cyber and physical situational awareness of the electric grid during adverse manmade and naturally-occurring events.
 > - **(d)** *Architecture* The Secretary shall conduct research in collaboration with industry stakeholders to develop model grid architectures to assist with wide-area transmission and distribution planning that incorporate expected changes to the modern electric grid. In supporting the development of model grid architectures, the Secretary shall—
 >   - **(1)** analyze a variety of grid architecture scenarios that range from minor upgrades to existing transmission grid infrastructure to scenarios that involve the replacement of significant portions of existing transmission grid infrastructure;
 >   - **(2)** analyze the effects of the increasing proliferation of renewable and other zero emissions energy generation sources, increasing use of distributed resources owned by non-utility entities, and the use of digital and automated controls not managed by grid operators;
@@ -57,11 +57,12 @@ Title XIII of the Energy Independence and Security Act of 2007 (42 U.S.C. 17381 
 >   - **(2)** development of cost-effective advanced operation and control concepts and technologies, such as adaptive islanding, dynamic line rating systems, power flow controllers, network topology optimization, smart circuit breakers, intelligent load shedding, and fault-tolerant control system architectures;
 >   - **(3)** development of real-time control concepts using artificial intelligence and machine learning for improved electric grid resilience; and
 >   - **(4)** utilization of advanced data analytics including load forecasting, power flow modeling, equipment failure prediction, resource optimization, risk analysis, and decision analysis.
-> - **(f)** *Computing resources and data coordination research and development* In carrying out this section, the Secretary shall—
+> - **(f)** *Interoperability research and development* The Secretary shall conduct research and development on tools and technologies that improve the interoperability and compatibility of new and emerging components, technologies, and systems with existing electric grid infrastructure.
+> - **(g)** *Computing resources and data coordination research and development* In carrying out this section, the Secretary shall—
 >   - **(1)** leverage existing computing resources at the National Laboratories;
 >   - **(2)** develop voluntary standards for data taxonomies and communication protocols in coordination with public and private sector stakeholders; and
 >   - **(3)** comply with section 8 of the Grid Modernization Research and Development Act of 2019.
-> - **(g)** *Information sharing* None of the activities authorized in this section shall require private entities to share information or data with the Secretary.
+> - **(h)** *Information sharing* None of the activities authorized in this section shall require private entities to share information or data with the Secretary.
 
 ## § 4. Enhancing grid resilience and emergency response
 
@@ -84,16 +85,17 @@ Title XIII of the Energy Independence and Security Act of 2007 (42 U.S.C. 17381 
 >   - **(4)** a unit of State, local, or tribal government;
 >   - **(5)** an electric utility or electric cooperative;
 >   - **(6)** a retail service provider of electricity;
->   - **(7)** a private commercial entity;
->   - **(8)** a partnership or consortium of two or more entities described in subparagraphs (1) through (7).
+>   - **(7)** a private commercial entity; and
+>   - **(8)** a partnership or consortium of 2 or more entities described in subparagraphs (1) through (7).
 > - **(d)** *Relevant activities* Grants awarded under subsection (b) shall include funding for research and development activities related to the purpose described in subsection (b), such as—
 >   - **(1)** development of technologies to use distributed energy resources, such as solar photovoltaics, energy storage systems, electric vehicles, and microgrids to improve grid and critical end-user resilience;
->   - **(2)** analysis of past large-area, long-duration electricity interruptions to identify common elements and best practices for electricity restoration, mitigation, and prevention of future disruptions;
->   - **(3)** development of advanced monitoring, analytics, operation, and controls of electricity grid systems to improve electric grid resilience;
->   - **(4)** analysis of technologies, methods, and concepts that can improve community resilience and survivability of frequent or long-duration power outages;
->   - **(5)** development of methodologies to maintain cybersecurity during restoration of electric grid infrastructure and operation;
->   - **(6)** development of advanced power flow control systems and components to improve electric grid resilience; and
->   - **(7)** any other relevant activities determined by the Secretary.
+>   - **(2)** analysis of non-technical barriers to greater integration and use of technologies on the distribution grid;
+>   - **(3)** analysis of past large-area, long-duration electricity interruptions to identify common elements and best practices for electricity restoration, mitigation, and prevention of future disruptions;
+>   - **(4)** development of advanced monitoring, analytics, operation, and controls of electricity grid systems to improve electric grid resilience;
+>   - **(5)** analysis of technologies, methods, and concepts that can improve community resilience and survivability of frequent or long-duration power outages;
+>   - **(6)** development of methodologies to maintain cybersecurity during restoration of electric grid infrastructure and operation;
+>   - **(7)** development of advanced power flow control systems and components to improve electric grid resilience; and
+>   - **(8)** any other relevant activities determined by the Secretary.
 > - **(e)** *Technical assistance*
 >   - **(1)** *In general* The Secretary shall provide technical assistance to eligible entities for the commercial application of technologies to improve the resilience of the electric grid and commercial application of technologies to help entities develop plans for preventing and recovering from various power outage scenarios at the local, regional, and State level.
 >   - **(2)** *Technical assistance program* The technical assistance program established in paragraph (1) shall include assistance to eligible entities for—
@@ -146,13 +148,13 @@ Title XIII of the Energy Independence and Security Act of 2007 (42 U.S.C. 17381 
 >   - **(3)** leverage existing programs and resources of the Department;
 >   - **(4)** prioritize activities that accelerate the development of integrated electricity generation, storage, and distribution systems with net zero greenhouse gas emissions; and
 >   - **(5)** comply with section 8 of the Grid Modernization Research and Development Act of 2019.
-> - **(d)** *Hybrid energy system defined* The term “hybrid energy system” means a system composed of two or more co-located or jointly operated sub-systems of energy generation, energy storage, or other energy technologies.
+> - **(d)** *Hybrid energy system defined* The term “hybrid energy system” means a system composed of 2 or more co-located or jointly operated sub-systems of energy generation, energy storage, or other energy technologies.
 
 ## § 6. Grid integration research and development
 
-- **(a)** *Integrating distributed energy resources onto the electric grid* Section 925(a) of the Energy Policy Act of 2005 (42 U.S.C. 16215) is amended by—
-  - **(1)** redesignating paragraphs (10) and (11) as paragraphs (12) and (13), respectively; and
-  - **(2)** inserting after paragraph (9) the following:
+- **(a)** *Integrating distributed energy resources onto the electric grid* Section 925(a) of the Energy Policy Act of 2005 (42 U.S.C. 16215) is amended—
+  - **(1)** by redesignating paragraphs (10) and (11) as paragraphs (12) and (13), respectively; and
+  - **(2)** by inserting after paragraph (9) the following:
     > - **(10)** the development of cost-effective technologies that enable two-way information and power flow between distributed energy resources and the electric grid;
     > - **(11)** the development of technologies and concepts that enable interoperability between distributed energy resources and other behind-the-meter devices and the electric grid;
 
@@ -172,7 +174,7 @@ Title XIII of the Energy Independence and Security Act of 2007 (42 U.S.C. 17381 
   > ## § 137. Research and development into integrating electric vehicles onto the electric grid
   >
   > - **(a)** *In general* The Secretary shall establish a research, development, and demonstration program to advance the integration of electric vehicles, including plug-in hybrid electric vehicles, onto the electric grid.
-  > - **(b)** *Vehicles-to-Grid integration assessment report* Not later than 1 year after the enactment of the Grid Modernization Research and Development Act of 2019, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report on the results of a study that examines the research, development, and demonstration opportunities, challenges, and standards needed for integrating electric vehicles onto the electric grid.
+  > - **(b)** *Vehicles-to-grid integration assessment report* Not later than 1 year after the enactment of the Grid Modernization Research and Development Act of 2019, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report on the results of a study that examines the research, development, and demonstration opportunities, challenges, and standards needed for integrating electric vehicles onto the electric grid.
   >   - **(1)** *Report requirements* The report shall include—
   >     - **(A)** an evaluation of the use of electric vehicles to maintain the reliability of the electric grid, including—
   >       - **(i)** the use of electric vehicles for demand response, load shaping, emergency power, and frequency regulation; and
@@ -228,7 +230,7 @@ Title XIII of the Energy Independence and Security Act of 2007 (42 U.S.C. 17381 
   >   - **(2)** consider the specific challenges of enabling greater interaction between components of—
   >     - **(A)** small- and medium-sized buildings and the electric grid; and
   >     - **(B)** residential and commercial buildings and the electric grid.
-  > - **(c)** *Buildings-to-Grid integration report* Not later than one year after the enactment of the Grid Modernization Research and Development Act of 2019, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report on the results of a study that examines the research, development, and demonstration opportunities, challenges, and standards needed to enable components of commercial and residential buildings to serve as dynamic energy loads on and resources for the electric grid.
+  > - **(c)** *Buildings-to-grid integration report* Not later than one year after the enactment of the Grid Modernization Research and Development Act of 2019, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report on the results of a study that examines the research, development, and demonstration opportunities, challenges, and standards needed to enable components of commercial and residential buildings to serve as dynamic energy loads on and resources for the electric grid.
   >   - **(1)** *Report requirements* The report shall include—
   >     - **(A)** an assessment of the technologies needed to enable building components as dynamic loads on and resources for the electric grid, including how such technologies can be—
   >       - **(i)** incorporated into new commercial and residential buildings; and
