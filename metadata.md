@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2500
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2500
@@ -602,3 +602,5 @@ National Defense Authorization Act for Fiscal Year 2020
 - 2019-07-12 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-07-12 — The previous question was ordered pursuant to the rule.
 - 2019-07-12 — The title of the measure was amended. Agreed to without objection.
+- 2019-09-10 — Received in the Senate.
+- 2020-08-11 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 512.

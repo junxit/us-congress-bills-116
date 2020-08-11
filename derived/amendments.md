@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2500
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1,432 amendatory instructions. 295 executed, 1,137 stated and not applied.
+1,432 amendatory instructions. 296 executed, 1,136 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -1887,6 +1887,15 @@ to guess them.
 | Removed | `biennial audits` |
 | Inserted | `audits every five years` |
 
+### 26 U.S.C. § 1902
+
+> Section 4106(c) of title 41, United States Code, is amended by striking “$2,500” and inserting “the micro-purchase threshold under section 1902 of this title”.
+
+| | |
+|---|---|
+| Removed | `$2,500` |
+| Inserted | `the micro-purchase threshold under section 1902 of this title` |
+
 ### 10 U.S.C. § 2304
 
 > by striking “in processing” and inserting “by the Department in support of hearings to adjudicate”; and
@@ -3196,7 +3205,7 @@ complete account of the bill's effect, which it is not.
 | `10 U.S.C. § 2222` | amend | The heading of subchapter III of chapter 87 of such title is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 2222` | amend | The item relating to such subchapter in the table of subchapters at the beginning of such chapter is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 2222` | amend | Paragraph (1) of section 317 of title 37, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1001` | insert | Part III of subtitle A of title 10, United States Code, is amended by inserting after chapter 112 the following new chapter: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 2200o` | insert | Part III of subtitle A of title 10, United States Code, is amended by inserting after chapter 112 the following new chapter: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 1701` | strike | Section 133a(b)(2) of title 10, United States Code, is amended by striking “, including the allocation of resources for defense research and engineering,”. | the bill quotes the text struck but describes what replaces it |
 | `10 U.S.C. § 1701` | insert | by inserting after paragraph (3) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 1701` | redesignate | by redesignating paragraphs (4) through (13) as paragraphs (5) through (14), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -3287,13 +3296,12 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (4), by striking “was first established” each place it appears and inserting “was reestablished by the Wartime Contracting Commission Reauthorization Act of 2019”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (d)(1), by striking “On March 1, 2009” and inserting “Not later than one year after the date of enactment of the Wartime Contracting Commission Reauthorization Act of 2019”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 2313(c) of title 41, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 4106(c) of title 41, United States Code, is amended by striking “$2,500” and inserting “the micro-purchase threshold under section 1902 of this title”. | the bill names no machine-readable US Code section |
 | `10 U.S.C. § 2304` | insert | by inserting “direct” before “costs incurred”; and | the bill quotes the text inserted but describes where it goes |
-| — | redesignate | by redesignating paragraphs (4), (5), (6), and (7) as paragraphs (5), (6), (7), and (8), respectively; | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph (3) the following new paragraph (4): | the bill names no machine-readable US Code section |
-| — | redesignate | in paragraph (6), as so redesignated, by inserting after “overseeing the modernization of nuclear forces” the following: “, including the nuclear command, control, and communications system,”. | the bill names no machine-readable US Code section |
-| — | strike | by striking subparagraph (G); and | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraphs (H) and (I) as subparagraphs (G) and (H), respectively. | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 142` | redesignate | by redesignating paragraphs (4), (5), (6), and (7) as paragraphs (5), (6), (7), and (8), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 142` | insert | by inserting after paragraph (3) the following new paragraph (4): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 142` | redesignate | in paragraph (6), as so redesignated, by inserting after “overseeing the modernization of nuclear forces” the following: “, including the nuclear command, control, and communications system,”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 142` | strike | by striking subparagraph (G); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 142` | redesignate | by redesignating subparagraphs (H) and (I) as subparagraphs (G) and (H), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 7016(b) of title 10, United States Code, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 8016(b) of title 10, United States Code, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 9016(b) of title 10, United States Code, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
@@ -3755,10 +3763,10 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “construction which has been” and inserting “construction and other activities”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “upon his demand” and inserting “upon demand by the Secretary”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking subsection (i) and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 2886 of title 10, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | The table of sections at the beginning of subchapter IV of title 10, United States Code, is amended by striking the item relating to section 2886 and inserting the following new item: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (7) and (8) as paragraphs (10) and (11), respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph (6) the following new paragraphs: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 2876` | amend | Section 2886 of title 10, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 2876` | replace | The table of sections at the beginning of subchapter IV of title 10, United States Code, is amended by striking the item relating to section 2886 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 2876` | redesignate | by redesignating paragraphs (7) and (8) as paragraphs (10) and (11), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 2876` | insert | by inserting after paragraph (6) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 2882 of title 10, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 2872a(b) of title 10, United States Code, is amended by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “that protect against unintentional window falls by young children and that are in compliance with applicable International Building Code (IBC) standards” and inserting “described in paragraph (3)”; | the bill names no machine-readable US Code section |
@@ -3821,7 +3829,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (3), by striking “$222,000,000 for each fiscal year thereafter through fiscal year 2025.” and inserting “$318,000,000 for each of fiscal years 2022, 2023, 2024, and 2025;”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
 | `29 U.S.C. § 656` | add-at-end | Section 7 of the Occupational Safety and Health Act of 1970 (29 U.S.C. 656) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Subtitle VII of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of chapters for subtitle VII of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 2101` | add-at-end | Subtitle VII of title 46, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 2101` | add-at-end | The table of chapters for subtitle VII of title 46, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `46 U.S.C. § 55101` | insert | Title 46, United States Code, is amended by inserting before chapter 533 the following new chapter: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `46 U.S.C. § 55101` | insert | The table of chapters at the beginning of subtitle V of title 46, United States Code, is amended by inserting before the item relating to chapter 533 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
