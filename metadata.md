@@ -1,7 +1,7 @@
 ---
 measure: S. 3132
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3132
@@ -28,3 +28,7 @@ A bill to extend the Undertaking Spam, Spyware, And Fraud Enforcement With Enfor
 
 - 2019-12-19 — Introduced in Senate
 - 2019-12-19 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2020-03-11 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2020-08-12 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-256.
+- 2020-08-12 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-256.
+- 2020-08-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 517.
