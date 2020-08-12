@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2775
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -41,12 +41,13 @@ This Act may be cited as the “Harvesting American Cybersecurity Knowledge thro
     > - **(2)** *Requirement* The strategic plan developed and implemented under paragraph (1) shall include an indication of how the Director will carry out this section.
 
 - **(c)** *Cybersecurity career pathways*
-  - **(1)** *Identification of multiple cybersecurity career pathways* In carrying out subsection (a) of such section and not later than 540 days after the date of the enactment of this Act, the Director shall use a consultative process with other Federal agencies, academia, and industry to identify multiple career pathways for cybersecurity work roles that can be used in the private and public sectors.
+  - **(1)** *Identification of multiple cybersecurity career pathways* In carrying out subsection (a) of such section and not later than 540 days after the date of the enactment of this Act, the Director of the National Institute of Standards and Technology shall use a consultative process with other Federal agencies, academia, and industry to identify multiple career pathways for cybersecurity work roles that can be used in the private and public sectors.
   - **(2)** *Requirements* The Director shall ensure that the multiple cybersecurity career pathways identified under paragraph (1) indicate the knowledge, skills, and abilities, including relevant education, training, apprenticeships, certifications, and other experiences, that—
     - **(A)** align with employers’ cybersecurity skill needs, including proficiency level requirements, for its workforce; and
     - **(B)** prepare an individual to be successful in entering or advancing in a cybersecurity career.
   - **(3)** *Federal careers* The Director, in coordination with the Director of the Office of Personnel Management, shall ensure the cybersecurity career pathways identified under paragraph (1) identify career opportunities in the Federal Government, including noncompetitive hiring pathways, including for individuals who participate in Federal cybersecurity workforce training programs referred to in section 401(a)(7) of the Cybersecurity Enhancement Act of 2014, as added by subsection (a)(3).
-- **(d)** *Proficiency To perform cybersecurity tasks* Not later than 540 days after the date of the enactment of this Act, the Director shall—
+  - **(4)** *Exchange program* The Director of the National Institute of Standards and Technology, in coordination with the Director of the Office of Personnel Management, shall establish a voluntary program for the exchange of employees engaged in one of the cybersecurity work roles identified in the National Initiative for Cybersecurity Education (NICE) Cybersecurity Workforce Framework (NIST Special Publication 800–181), or successor framework, between the National Institute of Standards and Technology and private sector institutions, including a nonpublic or commercial business, a research institution, or an institution of higher education, as the Director of the National Institute of Standards and Technology considers feasible.
+- **(d)** *Proficiency To perform cybersecurity tasks* Not later than 540 days after the date of the enactment of this Act, the Director of the National Institute of Standards and Technology shall—
   - **(1)** in carrying out subsection (a) of such section, assess the scope and sufficiency of efforts to measure a learner's capability to perform specific tasks found in the National Initiative for Cybersecurity Education (NICE) Cybersecurity Workforce Framework (NIST Special Publication 800–181) at all proficiency levels; and
   - **(2)** submit to Congress a report—
     - **(A)** on the findings of the Director with respect to the assessment carried out under paragraph (1); and
@@ -77,7 +78,7 @@ This Act may be cited as the “Harvesting American Cybersecurity Knowledge thro
   >       - **(iii)** A description of how the multistakeholder workforce partnership would leverage the programs and objectives of the National Initiative for Cybersecurity Education, such as the Cybersecurity Workforce Framework and the strategic plan of such initiative.
   >       - **(iv)** A description of how employers in the community will be recruited to support internships, apprenticeships, or cooperative education programs in conjunction with providers of education and training. Inclusion of programs that seek to include women, minorities, or veterans is encouraged.
   >       - **(v)** A definition of the metrics that will be used to measure the success of the efforts of the regional alliance or partnership under the agreement.
-  >     - **(C)** *Priority consideration* In awarding financial assistance under subparagraph (A), the Director shall give priority consideration to a regional alliance or partnership that includes an institution of higher education that is designated as a National Center of Academic Excellence in Cybersecurity or which receives an award under the Federal Cyber Scholarship for Service program located in the State or region of the regional alliance or partnership.
+  >     - **(C)** *Priority consideration* In awarding financial assistance under subparagraph (A)paragraph (3)(A), the Director shall give priority consideration to a regional alliance or partnership that includes an institution of higher education that is designated as a National Center of Academic Excellence in Cybersecurity or which receives an award under the Federal Cyber Scholarship for Service program located in the State or region of the regional alliance or partnership.
   >   - **(5)** *Audits* Each cooperative agreement for which financial assistance is awarded under paragraph (3) shall be subject to audit requirements under part 200 of title 2, Code of Federal Regulations (relating to uniform administrative requirements, cost principles, and audit requirements for Federal awards), or successor regulation.
   >   - **(6)** *Reports*
   >     - **(A)** *In general* Upon completion of a cooperative agreement under paragraph (1), the regional alliance or partnership that participated in the agreement shall submit to the Director a report on the activities of the regional alliance or partnership under the agreement, which may include training and education outcomes.
@@ -148,7 +149,7 @@ Section 302 of the Cybersecurity Enhancement Act of 2014 (15 U.S.C. 7442) is ame
 - **(d)** *Scholarships and graduate fellowships* The Director of the National Science Foundation shall ensure that students pursuing master's degrees and doctoral degrees in fields relating to cybersecurity are considered as applicants for scholarships and graduate fellowships under the Graduate Research Fellowship Program under section 10 of the National Science Foundation Act of 1950 (42 U.S.C. 1869).
 - **(e)** *Presidential awards for teaching excellence* The Director of the National Science Foundation shall ensure that educators and mentors in fields relating to cybersecurity can be considered for—
   - **(1)** Presidential Awards for Excellence in Mathematics and Science Teaching made under section 117 of the National Science Foundation Authorization Act of 1988 (42 U.S.C. 1881b); and
-  - **(2)** Presidential Awards for Excellence in STEM mentoring administered under section 307 of the American Innovation and Competitiveness Act (42 U.S.C. 1862s–6).
+  - **(2)** Presidential Awards for Excellence in STEM mentoringMentoring administered under section 307 of the American Innovation and Competitiveness Act (42 U.S.C. 1862s–6).
 
 ## § 6. Cybersecurity in STEM programs of the National Aeronautics and Space Administration
 
@@ -164,6 +165,8 @@ In carrying out any STEM education program of the National Aeronautics and Space
       > - **(1)** *In general* A regional university transportation center receiving a grant under this paragraph shall carry out research focusing on 1 or more of the matters described in subparagraphs (A) through (G) of section 6503(c)(1).
       > - **(2)** *Focused objectives* The Secretary
 
+      - **(“(i)** *In general* A regional university transportation center receiving a grant under this paragraph shall carry out research focusing on 1 or more of the matters described in subparagraphs (A) through (G) of section 6503(c)(1).
+      - **(“(ii)** *Focused objectives* The Secretary”.
 - **(b)** *Transportation research and development 5-Year strategic plan* Section 6503(c)(1) of title 49, United States Code, is amended—
   - **(1)** in subparagraph (E), by striking “and” at the end;
   - **(2)** in subparagraph (F), by inserting “and” after the semicolon at the end; and
