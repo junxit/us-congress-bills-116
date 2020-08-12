@@ -1,7 +1,7 @@
 ---
 measure: S. 2775
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2775
@@ -30,3 +30,7 @@ HACKED Act of 2019
 
 - 2019-11-05 — Introduced in Senate
 - 2019-11-05 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2019-11-13 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment favorably.
+- 2020-08-12 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with amendments. With written report No. 116-254.
+- 2020-08-12 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with amendments. With written report No. 116-254.
+- 2020-08-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 515.
