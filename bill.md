@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2597
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -72,3 +72,7 @@ The Administrator shall—
 ## § 8. Authorization of appropriations
 
 There are authorized to be appropriated to the Administration for each of fiscal years 2021 through 2026 such sums as may be necessary to carry out this Act.
+
+## § 8. Funding
+
+The Administrator shall carry out this Act using amounts available to the Administrator for fiscal years 2021 through 2026.
