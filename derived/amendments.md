@@ -1,7 +1,7 @@
 ---
 measure: S. 2805
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 45 U.S.C. § 822
 
-> Section 502(b)(3) of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 822(b)(3)) is amended by striking “only during the 4-year period beginning on December 4, 2015” and inserting “until December 4, 2021.”.
+> Section 502(b)(3) of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 822(b)(3)) is amended by striking “only during the 4-year period beginning on December 4, 2015September 30, 2020” and inserting “until December 4, 2021”.
 
 | | |
 |---|---|
-| Removed | `only during the 4-year period beginning on December 4, 2015` |
-| Inserted | `until December 4, 2021.` |
+| Removed | `only during the 4-year period beginning on December 4, 2015September 30, 2020` |
+| Inserted | `until December 4, 2021` |
 
 ## Stated, not applied
 
