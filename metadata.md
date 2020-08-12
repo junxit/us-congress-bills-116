@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7617
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7617
@@ -16,9 +16,10 @@ Defense, Commerce, Justice, Science, Energy and Water Development, Financial Ser
 
 - Rep. Visclosky, Peter J. [D-IN-1] (V000108)
 
-## Committees (1)
+## Committees (2)
 
 - House — Appropriations Committee
+- Senate — Appropriations Committee
 
 ## Recorded votes (6)
 
@@ -193,3 +194,4 @@ Defense, Commerce, Justice, Science, Energy and Water Development, Financial Ser
 - 2020-07-31 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2020-07-31 — The previous question was ordered without objection.
 - 2020-07-31 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of the Allen amendment which had been debated earlier and on which further proceedings had been postponed.
+- 2020-08-12 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
