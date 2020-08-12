@@ -1,7 +1,7 @@
 ---
 measure: S. 2597
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2597
@@ -28,3 +28,7 @@ LEGEND Act of 2020
 
 - 2019-10-15 — Introduced in Senate
 - 2019-10-15 — Read twice and referred to the Committee on Commerce, Science, and Transportation. (text: CR S5797-5798)
+- 2019-11-13 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment favorably.
+- 2020-08-12 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment. With written report No. 116-253.
+- 2020-08-12 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment. With written report No. 116-253.
+- 2020-08-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 514.
