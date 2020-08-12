@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2805
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -15,7 +15,7 @@ This Act may be cited as the “TOD Advancement Act of 2019”.
 
 ## § 2. Extension of transit-oriented development loan and loan guarantee authority
 
-Section 502(b)(3) of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 822(b)(3)) is amended by striking “only during the 4-year period beginning on December 4, 2015” and inserting “until December 4, 2021.”.
+Section 502(b)(3) of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 822(b)(3)) is amended by striking “only during the 4-year period beginning on December 4, 2015September 30, 2020” and inserting “until December 4, 2021”.
 
 ## § 3. Eligible purposes
 
@@ -29,7 +29,11 @@ Section 502(b)(1)(E) of the Railroad Revitalization and Regulatory Reform Act of
 
 ## § 4. Quarterly report on transit-oriented development eligibility
 
-Not later than 6 months after the date of the enactment of this Act, and every 90 days thereafter, the Secretary of Transportation shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that identifies—
+Not later than 6 months after the date of the enactment of this Act, and every 90 days
+
+## § 4. Semi-annual report on transit-oriented development eligibility
+
+Not later than 6 months after the date of the enactment of this Act, and every 180 days thereafter, the Secretary of Transportation shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that identifies—
 
 - **(1)** the number of applications submitted to the Department of Transportation for a direct loan or loan guarantee under section 502(b)(1)(E) of the Railroad Revitalization and Regulatory Reform Act of 1976, as amended by section 3;
 - **(2)** the number of such loans or loan guarantees that were provided to applicants; and
