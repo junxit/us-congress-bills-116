@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 8031
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8031
+
+> To amend title 18, United States Code, to increase the maximum term of imprisonment for rioting, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “David Dorn Act of 2020”.
+
+## § 2. Increased penalties for rioting
+
+Section 2101(a) of title 18, United States Code, is amended by striking “Shall be fined under this title, or imprisoned not more than five years, or both” and inserting “Shall be fined under this title, but in no event less than $1,000, or imprisoned not more than ten years, or both”.
