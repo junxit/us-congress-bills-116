@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5780
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5780
@@ -29,3 +29,8 @@ Safe Communities Act of 2020
 - 2020-02-06 — Introduced in House
 - 2020-02-06 — Introduced in House
 - 2020-02-06 — Referred to the House Committee on Homeland Security.
+- 2020-02-12 — Committee Consideration and Mark-up Session Held.
+- 2020-02-12 — Ordered to be Reported (Amended).
+- 2020-08-14 — Placed on the Union Calendar, Calendar No. 382.
+- 2020-08-14 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-476.
+- 2020-08-14 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-476.
