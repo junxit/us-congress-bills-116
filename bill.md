@@ -1,0 +1,23 @@
+---
+legis-num: H. RES. 1087
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 1087
+
+> Recognizing the importance and significance of the Justice Bell in the women’s suffrage movement.
+
+## Preamble
+
+- Whereas, in 1915, the Justice Bell, also referred to as the “Women’s Liberty Bell” and the “Suffrage Bell”, was created by Katharine Wentworth Ruschenberger, a member of the Pennsylvania Woman Suffrage Association, and is a close replica of the Liberty Bell;
+- Whereas the Justice Bell is inscribed with the words “Establish Justice”;
+- Whereas, in 1915, the Justice Bell was taken on a driving tour throughout 67 counties in Pennsylvania to raise awareness for women’s suffrage with the clapper on the bell notably not ringing, symbolizing the silence of women who did not have a vote;
+- Whereas, in September 1920, upon passage of the 19th Amendment, the Justice Bell’s clapper was unchained at Independence Hall in Philadelphia, Pennsylvania, and rang 48 times for each State in the Union; and
+- Whereas the Justice Bell is on permanent display at Washington Memorial Chapel in Valley Forge, Pennsylvania: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** commemorates the centennial of the ratification of the 19th Amendment and recognizes the Justice Bell as a symbol for women’s suffrage; and
+- **(2)** recognizes the contributions the Justice Bell made in raising awareness and support for women’s suffrage.
