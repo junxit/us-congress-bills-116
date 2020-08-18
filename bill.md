@@ -15,7 +15,7 @@ This Act may be cited as the “State and Local Cybersecurity Improvement Act”
 
 ## § 2. State and Local Cybersecurity Grant Program
 
-- **(a)** *In general* Subtitle A of title XXII of the Homeland Security Act of 2002 (6 U.S.C. 651 et seq.) is amended by adding at the end the following new section:
+- **(a)** *In general* Subtitle A of title XXII of the Homeland Security Act of 2002 (6 U.S.C. 651 et seq.) is amended by adding at the end the following new sections:
   > ## § 2215. State and Local Cybersecurity Grant Program
   >
   > - **(a)** *Establishment* The Secretary, acting through the Director, shall establish a program to make grants to States to address cybersecurity risks and cybersecurity threats to information systems of State, local, Tribal, or territorial governments (referred to as the “State and Local Cybersecurity Grant Program” in this section).
@@ -30,11 +30,12 @@ This Act may be cited as the “State and Local Cybersecurity Improvement Act”
   >       - **(i)** enhance the preparation, response, and resiliency of information systems owned or operated by such State or, if appropriate, by local, Tribal, or territorial governments, against cybersecurity risks and cybersecurity threats;
   >       - **(ii)** implement a process of continuous cybersecurity vulnerability assessments and threat mitigation practices prioritized by degree of risk to address cybersecurity risks and cybersecurity threats in information systems of such State, local, Tribal, or territorial governments;
   >       - **(iii)** ensure that State, local, Tribal, and territorial governments that own or operate information systems within the State adopt best practices and methodologies to enhance cybersecurity, such as the practices set forth in the cybersecurity framework developed by the National Institute of Standards and Technology;
-  >       - **(iv)** mitigate any identified gaps in the State, local, Tribal, or territorial government cybersecurity workforces, enhance recruitment and retention efforts for such workforces, and bolster the knowledge, skills, and abilities of State, local, Tribal, and territorial government personnel to address cybersecurity risks and cybersecurity threats;
-  >       - **(v)** ensure continuity of communications and data networks within such State between such State and local, Tribal, and territorial governments that own or operate information systems within such State in the event of an incident involving such communications or data networks within such State;
-  >       - **(vi)** assess and mitigate, to the greatest degree possible, cybersecurity risks and cybersecurity threats related to critical infrastructure and key resources, the degradation of which may impact the performance of information systems within such State;
-  >       - **(vii)** enhance capability to share cyber threat indicators and related information between such State and local, Tribal, and territorial governments that own or operate information systems within such State; and
-  >       - **(viii)** develop and coordinate strategies to address cybersecurity risks in consultation with—
+  >       - **(iv)** promote the delivery of safe, recognizable, and trustworthy online services by State, local, Tribal, and territorial governments, including through the use of the .gov internet domain;
+  >       - **(v)** mitigate any identified gaps in the State, local, Tribal, or territorial government cybersecurity workforces, enhance recruitment and retention efforts for such workforces, and bolster the knowledge, skills, and abilities of State, local, Tribal, and territorial government personnel to address cybersecurity risks and cybersecurity threats;
+  >       - **(vi)** ensure continuity of communications and data networks within such State between such State and local, Tribal, and territorial governments that own or operate information systems within such State in the event of an incident involving such communications or data networks within such State;
+  >       - **(vii)** assess and mitigate, to the greatest degree possible, cybersecurity risks and cybersecurity threats related to critical infrastructure and key resources, the degradation of which may impact the performance of information systems within such State;
+  >       - **(viii)** enhance capability to share cyber threat indicators and related information between such State and local, Tribal, and territorial governments that own or operate information systems within such State; and
+  >       - **(ix)** develop and coordinate strategies to address cybersecurity risks and cybersecurity threats in consultation with—
   >         - **(I)** local, Tribal, and territorial governments within the State; and
   >         - **(II)** as applicable—
   >           - **(aa)** neighboring States or, as appropriate, members of an information sharing and analysis organization; and
@@ -97,8 +98,8 @@ This Act may be cited as the “State and Local Cybersecurity Improvement Act”
   >     - **(B)** upon the request of the Director, provide to the Director technical assistance to inform the review of Cybersecurity Plans submitted by applicants for grants under this section, and, as appropriate, submit to the Director recommendations to improve such Plans prior to the Director’s determination regarding whether to approve such Plans;
   >     - **(C)** advise and provide to the Director input regarding the Homeland Security Strategy to Improve Cybersecurity for State, Local, Tribal, and Territorial Governments required under section 2210; and
   >     - **(D)** upon the request of the Director, provide to the Director recommendations, as appropriate, regarding how to—
-  >       - **(i)** address cybersecurity risks and cybersecurity threats on information systems of State, local, Tribal, or territorial governments;
-  >       - **(ii)** and improve the cybersecurity resilience of such governments.
+  >       - **(i)** address cybersecurity risks and cybersecurity threats on information systems of State, local, Tribal, or territorial governments; and
+  >       - **(ii)** improve the cybersecurity resilience of such governments.
   >   - **(3)** *Membership*
   >     - **(A)** *Number and appointment* The State and Local Cybersecurity Resiliency Committee shall be composed of 15 members appointed by the Director, as follows:
   >       - **(i)** Two individuals recommended to the Director by the National Governors Association.
@@ -125,44 +126,49 @@ This Act may be cited as the “State and Local Cybersecurity Improvement Act”
   > - **(p)** *Definitions* In this section:
   >   - **(1)** *Critical infrastructure* The term “critical infrastructure” has the meaning given that term in section 2.
   >   - **(2)** *Cyber threat indicator* The term “cyber threat indicator” has the meaning given such term in section 102 of the Cybersecurity Act of 2015.
-  >   - **(3)** *Cybersecurity risk* The term “cybersecurity risk” has the meaning given such term in section 2209.
-  >   - **(4)** *Director* The term “Director” means the Director of the Cybersecurity and Infrastructure Security Agency.
-  >   - **(5)** *Incident* The term “incident” has the meaning given such term in section 2209.
-  >   - **(6)** *Information sharing and analysis organization* The term “information sharing and analysis organization” has the meaning given such term in section 2222.
-  >   - **(7)** *Information system* The term “information system” has the meaning given such term in section 102(9) of the Cybersecurity Act of 2015 (6 U.S.C. 1501(9)).
-  >   - **(8)** *Key resources* The term “key resources” has the meaning given that term in section 2.
+  >   - **(3)** *Director* The term “Director” means the Director of the Cybersecurity and Infrastructure Security Agency.
+  >   - **(4)** *Incident* The term “incident” has the meaning given such term in section 2209.
+  >   - **(5)** *Information sharing and analysis organization* The term “information sharing and analysis organization” has the meaning given such term in section 2222.
+  >   - **(6)** *Information system* The term “information system” has the meaning given such term in section 102(9) of the Cybersecurity Act of 2015 (6 U.S.C. 1501(9)).
+  >   - **(7)** *Key resources* The term “key resources” has the meaning given that term in section 2.
+  >   - **(8)** *Online service* The term “online service” means any internet-facing service, including a website, email, virtual private network, or custom application.
   >   - **(9)** *State* The term “State”—
   >     - **(A)** means each of the several States, the District of Colombia, and the territories and possessions of the United States; and
   >     - **(B)** includes any federally recognized Indian tribe that notifies the Secretary, not later than 120 days after the date of the enactment of this section or not later than 120 days before the start of any fiscal year in which a grant under this section is awarded, that the tribe intends to develop a Cybersecurity Plan and agrees to forfeit any distribution under subsection (l)(2).
+  >
+  > ## § 2216. Cybersecurity resource guide development for State, local, Tribal, and territorial government officials
+  >
+  > The Secretary, acting through the Director, shall develop a resource guide for use by State, local, Tribal, and territorial government officials, including law enforcement officers, to help such officials identify, prepare for, detect, protect against, respond to, and recover from cybersecurity risks, cybersecurity threats, and incidents (as such term is defined in section 2209).
 
-- **(b)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 2214 the following new item:
+- **(b)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 2214 the following new items:
 
 ## § 3. Strategy
 
 - **(a)** *Homeland Security Strategy To Improve the Cybersecurity of State, Local, Tribal, and Territorial Governments* Section 2210 of the Homeland Security Act of 2002 (6 U.S.C. 660) is amended by adding at the end the following new subsection:
   > - **(e)** *Homeland Security Strategy To Improve the Cybersecurity of State, Local, Tribal, and Territorial Governments*
-  >   - **(1)** *In general* Not later than 270 days after the date of the enactment of this subsection, the Secretary, acting through the Director, shall, in coordination with appropriate Federal departments and agencies, State, local, Tribal, and territorial governments, the State and Local Cybersecurity Resilience Committee (established under section 2215), and other stakeholders, as appropriate, develop and make publicly available a Homeland Security Strategy to Improve the Cybersecurity of State, Local, Tribal, and Territorial Governments that provides recommendations regarding how the Federal Government should support and promote the ability State, local, Tribal, and territorial governments to identify, prepare for, detect, protect against, respond to, and recover from cybersecurity risks, cybersecurity threats, and incidents (as such term is defined in section 2209) and establishes baseline requirements and principles to which Cybersecurity Plans under such section shall be aligned.
+  >   - **(1)** *In general* Not later than 270 days after the date of the enactment of this subsection, the Secretary, acting through the Director, shall, in coordination with appropriate Federal departments and agencies, State, local, Tribal, and territorial governments, the State and Local Cybersecurity Resilience Committee (established under section 2215), and other stakeholders, as appropriate, develop and make publicly available a Homeland Security Strategy to Improve the Cybersecurity of State, Local, Tribal, and Territorial Governments that provides recommendations regarding how the Federal Government should support and promote the ability State, local, Tribal, and territorial governments to identify, protect against, detect respond to, and recover from cybersecurity risks, cybersecurity threats, and incidents (as such term is defined in section 2209) and establishes baseline requirements and principles to which Cybersecurity Plans under such section shall be aligned.
   >   - **(2)** *Contents* The Homeland Security Strategy to Improve the Cybersecurity of State, Local, Tribal, and Territorial Governments required under paragraph (1) shall—
-  >     - **(A)** identify capability gaps in the ability of State, local, Tribal, and territorial governments to identify, prepare for, detect, protect against, respond to, and recover from cybersecurity risks, cybersecurity threats, and incidents;
-  >     - **(B)** identify Federal resources and capabilities that are available or could be made available to State, local, Tribal, and territorial governments to help such governments identify, prepare for, detect, protect against, respond to, and recover from cybersecurity risks, cybersecurity threats, and incidents;
-  >     - **(C)** identify and assess the limitations of Federal resources and capabilities available to State, local, Tribal, and territorial governments to help such governments identify, prepare for, detect, protect against, respond to, and recover from cybersecurity risks, cybersecurity threats, and incidents, and make recommendations to address such limitations;
+  >     - **(A)** identify capability gaps in the ability of State, local, Tribal, and territorial governments to identify, protect against, detect, respond to, and recover from cybersecurity risks, cybersecurity threats, and incidents;
+  >     - **(B)** identify Federal resources and capabilities that are available or could be made available to State, local, Tribal, and territorial governments to help such governments identify, protect against, detect, respond to, and recover from cybersecurity risks, cybersecurity threats, and incidents;
+  >     - **(C)** identify and assess the limitations of Federal resources and capabilities available to State, local, Tribal, and territorial governments to help such governments identify, protect against, detect, respond to, and recover from cybersecurity risks, cybersecurity threats, and incidents, and make recommendations to address such limitations;
   >     - **(D)** identify opportunities to improve the Agency’s coordination with Federal and non-Federal entities, such as the Multi-State Information Sharing and Analysis Center, to improve incident exercises, information sharing and incident notification procedures, the ability for State, local, Tribal, and territorial governments to voluntarily adapt and implement guidance in Federal binding operational directives, and opportunities to leverage Federal schedules for cybersecurity investments under section 502 of title 40, United States Code;
-  >     - **(E)** recommend new initiatives the Federal Government should undertake to improve the ability of State, local, Tribal, and territorial governments to help such governments identify, prepare for, detect, protect against, respond to, and recover from cybersecurity risks, cybersecurity threats, and incidents;
-  >     - **(F)** set short-term and long-term goals that will improve the ability of State, local, Tribal, and territorial governments to help such governments identify, prepare for, detect, protect against, respond to, and recover from cybersecurity risks, cybersecurity threats, and incidents; and
-  >     - **(G)** set dates, including interim benchmarks, as appropriate for State, local, Tribal, territorial governments to establish baseline capabilities to identify, prepare for, detect, protect against, respond to, and recover from cybersecurity risks, cybersecurity threats, and incidents.
+  >     - **(E)** recommend new initiatives the Federal Government should undertake to improve the ability of State, local, Tribal, and territorial governments to help such governments identify, protect against, detect, respond to, and recover from cybersecurity risks, cybersecurity threats, and incidents;
+  >     - **(F)** set short-term and long-term goals that will improve the ability of State, local, Tribal, and territorial governments to help such governments identify, protect against, detect, respond to, and recover from cybersecurity risks, cybersecurity threats, and incidents; and
+  >     - **(G)** set dates, including interim benchmarks, as appropriate for State, local, Tribal, territorial governments to establish baseline capabilities to identify, protect against, detect, respond to, and recover from cybersecurity risks, cybersecurity threats, and incidents.
   >   - **(3)** *Considerations* In developing the Homeland Security Strategy to Improve the Cybersecurity of State, Local, Tribal, and Territorial Governments required under paragraph (1), the Director, in coordination with appropriate Federal departments and agencies, State, local, Tribal, and territorial governments, the State and Local Cybersecurity Resilience Committee, and other stakeholders, as appropriate, shall consider—
   >     - **(A)** lessons learned from incidents that have affected State, local, Tribal, and territorial governments, and exercises with Federal and non-Federal entities;
   >     - **(B)** the impact of incidents that have affected State, local, Tribal, and territorial governments, including the resulting costs to such governments;
   >     - **(C)** the information related to the interest and ability of state and non-state threat actors to compromise information systems owned or operated by State, local, Tribal, and territorial governments;
-  >     - **(D)** emerging cybersecurity risks to State, local, Tribal, and territorial governments resulting from the deployment of new technologies; and
+  >     - **(D)** emerging cybersecurity risks and cybersecurity threats to State, local, Tribal, and territorial governments resulting from the deployment of new technologies; and
   >     - **(E)** recommendations made by the State and Local Cybersecurity Resilience Committee.
 
 - **(b)** *Responsibilities of the Director of the Cybersecurity and Infrastructure Security Agency* Subsection (c) of section 2202 of the Homeland Security Act of 2002 (6 U.S.C. 652) is amended—
-  - **(1)** by redesignating paragraphs (6) through (11) as paragraphs (10) through (15), respectively; and
+  - **(1)** by redesignating paragraphs (6) through (11) as paragraphs (11) through (16), respectively; and
   - **(2)** by inserting after paragraph (5) the following new paragraphs:
     > - **(6)** develop program guidance, in consultation with the State and Local Government Cybersecurity Resiliency Committee established under section 2215, for the State and Local Cybersecurity Grant Program under such section or any other homeland security assistance administered by the Department to improve cybersecurity;
     > - **(7)** review, in consultation with the State and Local Cybersecurity Resiliency Committee, all cybersecurity plans of State, local, Tribal, and territorial governments developed pursuant to any homeland security assistance administered by the Department to improve cybersecurity;
     > - **(8)** provide expertise and technical assistance to State, local, Tribal, and territorial government officials with respect to cybersecurity;
     > - **(9)** provide education, training, and capacity development to enhance the security and resilience of cybersecurity and infrastructure security;
+    > - **(10)** provide information to State, local, Tribal, and territorial governments on the security benefits of .gov domain name registration services;
 
 - **(c)** *Feasibility study* Not later than 180 days after the date of the enactment of this Act, the Director of the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security shall conduct a study to assess the feasibility of implementing a short-term rotational program for the detail of approved State, local, Tribal, and territorial government employees in cyber workforce positions to the Agency.
