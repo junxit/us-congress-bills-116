@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 88
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 88
@@ -30,3 +30,10 @@ Providing for the appointment of Franklin D. Raines as a citizen regent of the B
 - 2020-05-05 — Introduced in House
 - 2020-05-05 — Introduced in House
 - 2020-05-05 — Referred to the House Committee on House Administration.
+- 2020-08-22 — Committee on House Administration discharged.
+- 2020-08-22 — Committee on House Administration discharged.
+- 2020-08-22 — Considered by unanimous consent. (consideration: CR H4299-4300)
+- 2020-08-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-08-22 — Mr. Raskin asked unanimous consent to discharge from committee and consider.
+- 2020-08-22 — On passage Passed without objection. (text: CR H4300)
+- 2020-08-22 — Passed/agreed to in House: On passage Passed without objection.
