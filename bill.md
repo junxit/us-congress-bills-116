@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 8112
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8112
+
+> To increase the Federal share provided under the Robert T. Stafford Disaster Relief and Emergency Assistance Act for a certain time frame during fiscal year 2020.
+
+## § 1. Short title
+
+This Act may be cited as the “Increase Federal Disaster Cost Share Act of 2020”.
+
+## § 2. Increase of Federal share
+
+Notwithstanding sections 203(h)(1), 403(b), 403(c)(4), 404(a), 406(b), 408(d), 408(g)(2), 428(e)(2)(B), 503(a), and 614(b) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) beginning on January 20, 2020, and ending on December 31, 2020, the Federal share of assistance provided under such sections shall be not less than 90 percent of the eligible cost of such assistance.
