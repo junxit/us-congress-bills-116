@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2748
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -117,7 +117,7 @@ In this Act:
   - **(2)** in carrying out paragraph (1), provide public notice and opportunity for comment.
 - **(c)** *Contents* A revised National Strategy shall—
   - **(1)** assess the vulnerability of fish, wildlife, and plants to climate change, including short-term, medium-term, long-term, and cumulative impacts;
-  - **(2)** describe current, observation, and monitoring activities at the Federal, State, Tribal, and local levels relating to the ongoing and expected effects of climate change on fish, wildlife, and plants;
+  - **(2)** describe current observation and monitoring activities at the Federal, State, Tribal, and local levels relating to the ongoing and expected effects of climate change on fish, wildlife, and plants;
   - **(3)** identify and prioritize research and data needs;
   - **(4)** identify fish, wildlife, and plants likely to have the greatest need for protection, restoration, and conservation due to the ongoing and expanding effects of extreme weather and climate change;
   - **(5)** include specific protocols for integrating fish, wildlife, and plant adaptation strategies and activities into the conservation and management of natural resources by Federal agencies to ensure consistency across agency jurisdictions;
