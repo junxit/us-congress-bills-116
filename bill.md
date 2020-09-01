@@ -1,0 +1,39 @@
+---
+legis-num: H.R. 8139
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8139
+
+> To amend title XIX of the Social Security Act to remove direct sales of drugs near expiration during the COVID–19 emergency from the calculation of certain pricing metrics under the Medicaid program.
+
+## § 1. Short title
+
+This Act may be cited as the “Surplus Utilization of Pharmaceutical Products Leveraged In Emergency Scenarios Act of 2020” or the “SUPPLIES Act of 2020”.
+
+## § 2. Removing direct sales of drugs near expiration during the COVID–19 emergency from the calculation of certain pricing metrics under the Medicaid program
+
+- **(a)** *In general* Section 1927 of the Social Security Act (42 U.S.C. 1396r–8) is amended—
+  - **(1)** in subsection (c)(1)(C)—
+    - **(A)** in clause (i)—
+      - **(i)** in subclause (V), by striking “and” at the end;
+      - **(ii)** in subclause (VI), by striking the period and inserting “; and”; and
+      - **(iii)** by adding at the end the following new subclause:
+        > - **(VII)** any prices charged with respect to the direct sale by a manufacturer of a short-dated drug (as defined in clause (iv)) during the period beginning on the first day of the emergency period described in section 1135(g)(1)(B) and ending on the date that is 6 months after the last day of such emergency period.
+
+    - **(B)** by adding at the end the following new clause:
+      > - **(iv)** *Short-dated drug defined*
+      >   - **(I)** *In general* For purposes of clause (i)(VII), the term “short-dated drug” means, in the case of a drug with an applicable shelf life (as defined in subclause (II))—
+      >     - **(aa)** of 1 year or greater, a drug expiring (as determined by the labeled expiration date) not later than 1 year after the date of sale of such drug; and
+      >     - **(bb)** of less than 1 year, a drug expiring (as determined by the labeled expiration date) not later than the end of the period beginning on the date of sale of such drug and ending on the date that is the number of days of the applicable shelf life of such drug after such date of sale.
+      >   - **(II)** *Applicable shelf life* The term “applicable shelf life” means, with respect to a drug, 50 percent of the number of days occurring during the period beginning on the date such drug is manufactured and ending on the date such drug expires (as determined by the labeled expiration date), rounded to the nearest whole day.
+
+  - **(2)** in subsection (k)(1)(B)—
+    - **(A)** in subclause (IV), by striking “and” at the end;
+    - **(B)** in subclause (V), by striking the period and inserting “; and”; and
+    - **(C)** by adding at the end the following new subclause:
+      > - **(VI)** any prices described in subsection (c)(1)(C)(i)(VII).
+
+- **(b)** *Outreach to manufacturers* The Secretary of Health and Human Services shall notify drug manufacturers of the amendments made by subsection (a) through an electronic communication through MLN Connects or such other method as determined appropriate by the Secretary.
