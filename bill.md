@@ -87,7 +87,7 @@ This Act may be cited as the “Migratory Bird Protection Act of 2020”.
     >   - **(2)** the impacts upon migratory birds of commercial activities for which authorizing regulations have been issued under this section;
     >   - **(3)** the effectiveness of best management practices, technologies, and other measures in reducing such impacts; and
     >   - **(4)** such Secretary’s progress in carrying out the functions and responsibilities given to the Secretary under this section.
-    > - **(s)** *Research program* The Secretary shall establish and maintain, in consultation with research institutions, institutions of higher education (as such term is defined in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a))), wildlife conservation groups, and representatives of commercial activities regulated under this section, a research program to—
+    > - **(s)** *Research program* The Secretary shall establish and maintain, in consultation with State fish and wildlife agencies, research institutions, institutions of higher education (as such term is defined in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a))), wildlife conservation groups, and representatives of commercial activities regulated under this section, a research program to—
     >   - **(1)** evaluate the effectiveness of best management practices and technologies incorporated in regulations and permits under this section;
     >   - **(2)** develop and evaluate new or improved best management practices and technologies; and
     >   - **(3)** evaluate the impacts of commercial activities regulated under this section on bird populations.
@@ -110,5 +110,5 @@ This Act may be cited as the “Migratory Bird Protection Act of 2020”.
       - **(ii)** by striking “Agriculture authorized by the Secretary of Agriculture” and inserting “Interior authorized by the Secretary”;
     - **(C)** in section 6(d) by striking “of the Interior”; and
     - **(D)** in section 9, by striking “of Agriculture”.
-- **(c)** *Penalties* Section 6 of the Migratory Bird Treaty Act (16 U.S.C. 707) is amended by inserting after subsection (d) the following—
+- **(c)** *Penalties* Section 6 of the Migratory Bird Treaty Act (16 U.S.C. 707) is amended by inserting after subsection (d) the following:
   > - **(e)** Whoever in violation of this Act, shall incidentally take a migratory bird or violate the terms of a permit or any rule issued by the Secretary to administer section 14 of this Act may be assessed a civil penalty by the Secretary of not more than $10,000 per violation, except that unpermitted incidental take which is caused by conduct that is reckless or grossly negligent shall be subject to the penalties of subsection (a). The Secretary is authorized to commence a civil action for appropriate relief, including a permanent or temporary injunction, for any violation of the terms of a permit or regulation issued under such section.
