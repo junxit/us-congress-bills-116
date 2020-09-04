@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4470
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4470
@@ -39,3 +39,10 @@ To rename the Saint Lawrence Seaway Development Corporation the Great Lakes St. 
 - 2019-09-24 — Introduced in House
 - 2019-09-24 — Referred to the House Committee on Transportation and Infrastructure.
 - 2019-09-24 — Sponsor introductory remarks on measure. (CR E1204)
+- 2019-09-25 — Referred to the Subcommittee on Water Resources and Environment.
+- 2020-02-26 — Committee Consideration and Mark-up Session Held.
+- 2020-02-26 — Ordered to be Reported by Voice Vote.
+- 2020-02-26 — Subcommittee on Water Resources and Environment Discharged.
+- 2020-09-04 — Placed on the Union Calendar, Calendar No. 390.
+- 2020-09-04 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-487.
+- 2020-09-04 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-487.
