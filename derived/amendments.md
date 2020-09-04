@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2242
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+1 amendatory instruction. 0 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 5172` | insert | in paragraph (1)(B), by inserting “(including the repair of infrastructure used to access such facility)” after “associated expenses”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 5172` | insert | by inserting “solid waste management, stormwater management,” after “wastewater treatment,”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 5172` | insert | by inserting “emergency supply transportation, nonemergency medical, first response, security,” after “education,”. | the bill quotes the text inserted but describes where it goes |
+| — | insert | Section 20601 of the Bipartisan Budget Act of 2018 (Public Law 115–123) is amended by inserting “, and including, for purposes of this section, solid waste management, stormwater management, public housing, transportation infrastructure,… | the bill names no machine-readable US Code section |
