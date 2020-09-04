@@ -42,7 +42,7 @@ Title XIII of the Energy Independence and Security Act of 2007 (42 U.S.C. 17381 
 >     - **(C)** automated- and manually-controlled devices and equipment for monitoring and stabilizing the electric grid;
 >     - **(D)** technologies used to synchronize time and develop guidance for operational contingency plans when time synchronization technologies, are compromised;
 >     - **(E)** power system delivery and end user systems and devices that connect to the grid, including—
->       - **(i)** meters, synchrophasors, phasor measurement units, and other sensors;
+>       - **(i)** meters, phasor measurement units, and other sensors;
 >       - **(ii)** distribution automation technologies, smart inverters, and other grid control technologies;
 >       - **(iii)** distributed generation, energy storage, and other distributed energy technologies;
 >       - **(iv)** demand response technologies;
@@ -53,7 +53,7 @@ Title XIII of the Energy Independence and Security Act of 2007 (42 U.S.C. 17381 
 >   - **(6)** develop technologies that improve the physical security of information systems, including remote assets;
 >   - **(7)** integrate human factors research into the design and development of advanced tools and processes for dynamic monitoring, detection, protection, mitigation, response, and cyber situational awareness;
 >   - **(8)** evaluate and understand the potential consequences of practices used to maintain the cybersecurity of information systems and intelligent electronic devices;
->   - **(9)** develop or expand the capabilities of existing cybersecurity test beds to simulate impacts of cyber attacks and combined cyber-physical attacks on information systems and electronic devices, including by increasing access to existing and emerging test beds for cooperative utilities, utilities owned by a political subdivision of a State, such as municipally owned electric utilities, and other relevant stakeholders; and
+>   - **(9)** develop or expand the capabilities of existing cybersecurity test beds to simulate impacts of cyber attacks and combined cyber-physical attacks on information systems and electronic devices, including by increasing access to existing and emerging test beds for cooperative utilities, utilities owned by a political subdivision of a State, such as municipally-owned electric utilities, and other relevant stakeholders; and
 >   - **(10)** develop technologies that reduce the cost of implementing effective cybersecurity technologies and tools, including updates to these technologies and tools, in the energy sector.
 > - **(c)** *National science foundation* The National Science Foundation, in coordination with other Federal agencies as appropriate, shall through its cybersecurity research and development programs—
 >   - **(1)** support basic research to advance knowledge, applications, technologies, and tools to strengthen the cybersecurity of information systems, including electric grid and energy systems, including interdisciplinary research in—
@@ -75,8 +75,10 @@ Title XIII of the Energy Independence and Security Act of 2007 (42 U.S.C. 17381 
 >   - **(2)** developing tools to help utilities and communities ensure the continuous delivery of electricity to critical facilities;
 >   - **(3)** developing tools to improve coordination between utilities and relevant Federal agencies to enable communication, information-sharing, and situational awareness in the event of a physical or cyber-attack on the electric grid;
 >   - **(4)** developing technologies and capabilities to withstand and address the current and projected impact of the changing climate on energy sector infrastructure, including extreme weather events and other natural disasters;
->   - **(5)** developing technologies capable of early detection of deteriorating electrical equipment on the transmission and distribution grid, including detection of spark ignition causing wildfires and risks of vegetation contact; and
->   - **(6)** assessing upgrades and additions needed to energy sector infrastructure due to projected changes in the energy generation mix and energy demand.
+>   - **(5)** developing technologies capable of early detection of malfunctioning electrical equipment on the transmission and distribution grid, including detection of spark ignition causing wildfires and risks of vegetation contact;
+>   - **(6)** assessing upgrades and additions needed to energy sector infrastructure due to projected changes in the energy generation mix and energy demand; and
+>   - **(7)** upgrading tools used to estimate the costs of outages longer than 24 hours.
+>   - **(8)** developing tools and technologies to assist with the planning, safe execution of, and safe and timely restoration of power after emergency power shut offs, such as those conducted to reduce risks of wildfires started by grid infrastructure.
 > - **(c)** *Eligible entities* The entities eligible to receive grants under this section include—
 >   - **(1)** an institution of higher education;
 >   - **(2)** a nonprofit organization;
@@ -91,7 +93,7 @@ Title XIII of the Energy Independence and Security Act of 2007 (42 U.S.C. 17381 
 >   - **(1)** development of technologies to use distributed energy resources, such as solar photovoltaics, energy storage systems, electric vehicles, and microgrids, to improve grid and critical end-user resilience;
 >   - **(2)** analysis of non-technical barriers to greater integration and use of technologies on the distribution grid;
 >   - **(3)** analysis of past large-area, long-duration electricity interruptions to identify common elements and best practices for electricity restoration, mitigation, and prevention of future disruptions;
->   - **(4)** development of advanced monitoring, analytics, operation, and controls of electricity grid systems to improve electric grid resilience;
+>   - **(4)** development of advanced monitoring, analytics, operation, and controls of electric grid systems to improve electric grid resilience;
 >   - **(5)** analysis of technologies, methods, and concepts that can improve community resilience and survivability of frequent or long-duration power outages;
 >   - **(6)** development of methodologies to maintain cybersecurity during restoration of energy sector infrastructure and operation;
 >   - **(7)** development of advanced power flow control systems and components to improve electric grid resilience; and
@@ -99,10 +101,13 @@ Title XIII of the Energy Independence and Security Act of 2007 (42 U.S.C. 17381 
 > - **(e)** *Technical assistance*
 >   - **(1)** *In general* The Secretary shall provide technical assistance to eligible entities for the commercial application of technologies to improve the resilience of the electric grid and commercial application of technologies to help entities develop plans for preventing and recovering from various power outage scenarios at the local, regional, and State level.
 >   - **(2)** *Technical assistance program* The commercial application technical assistance program established in paragraph (1) shall include assistance to eligible entities for—
->     - **(A)** the commercial application of technologies developed from the grant program established in subsection (b), including cooperative utilities and utilities owned by a political subdivision of a State, such as municipally owned electric utilities;
+>     - **(A)** the commercial application of technologies developed from the grant program established in subsection (b), including cooperative utilities and utilities owned by a political subdivision of a State, such as municipally-owned electric utilities;
 >     - **(B)** the development of methods to strengthen or otherwise mitigate adverse impacts on electric grid infrastructure against natural hazards;
->     - **(C)** the use of Department data and modeling tools for various purposes; and
->     - **(D)** a resource assessment and analysis of future demand and distribution requirements, including development of advanced grid architectures and risk analysis.
+>     - **(C)** the use of Department data and modeling tools for various purposes;
+>     - **(D)** a resource assessment and analysis of future demand and distribution requirements, including development of advanced grid architectures and risk analysis; and
+>     - **(E)** the development of tools and technologies to coordinate data across relevant entities to promote resilience and wildfire prevention in the planning, design, construction, operation, and maintenance of transmission infrastructure;
+>     - **(F)** analysis to predict the likelihood of extreme weather events to inform the planning, design, construction, operation, and maintenance of transmission infrastructure in consultation with the National Oceanic and Atmospheric Administration; and
+>     - **(G)** the commercial application of relevant technologies, such as distributed energy resources, microgrids, or other energy technologies, to establish backup power for users or facilities affected by emergency power shutoffs.
 >   - **(3)** *Eligible entities* The entities eligible to receive technical assistance for commercial application of technologies under this section include—
 >     - **(A)** representatives of all sectors of the electric power industry, including electric utilities, trade organizations, and transmission and distribution system organizations, owners, and operators;
 >     - **(B)** State and local governments and regulatory authorities, including public utility commissions;
@@ -122,7 +127,7 @@ Title XIII of the Energy Independence and Security Act of 2007 (42 U.S.C. 17381 
 >       - **(ii)** contracting with third parties that utilize transient devices to access information systems; and
 >       - **(iii)** managing supply chain risks; and
 >     - **(C)** the Electricity Subsector Cybersecurity Capability Maturity Model, including the development of metrics to measure changes in cybersecurity readiness; and
->   - **(2)** develop voluntary guidance to improve digital forensic analyses capabilities, including—
+>   - **(2)** develop voluntary guidance to improve digital forensic analysis capabilities, including—
 >     - **(A)** developing standardized terminology and monitoring processes; and
 >     - **(B)** utilizing human factors research to develop more effective procedures for logging incident events; and
 >   - **(3)** work with the National Science Foundation, Department of Homeland Security, and stakeholders to develop a mechanism to anonymize, aggregate, and share the testing results from cybersecurity test beds to facilitate technology improvements by public and private sector researchers.
@@ -132,7 +137,7 @@ Title XIII of the Energy Independence and Security Act of 2007 (42 U.S.C. 17381 
 >     - **(B)** distributed generation and storage technologies, and other distributed energy resources;
 >     - **(C)** electric vehicles and electric vehicle charging stations; and
 >     - **(D)** other technologies and devices that connect to the electric grid;
->   - **(2)** recommended cybersecurity features and requirements that can be used by the private sector to design and build interoperable cybersecurity features into technologies that connect to the electric grid, including networked devices and components on distribution systems; and
+>   - **(2)** recommended cybersecurity designs and technical requirements that can be used by the private sector to design and build interoperable cybersecurity features into technologies that connect to the electric grid, including networked devices and components on distribution systems; and
 >   - **(3)** technical analysis that can be used by the private sector in developing best practices for test beds and test bed methodologies that will enable reproducible testing of cybersecurity protections for information systems, electronic devices, and other relevant components, software, and hardware across test beds.
 > - **(c)** *Regulatory authority* None of the activities authorized in this section shall be construed to authorize regulatory actions. Additionally, the voluntary standards developed under this section shall not duplicate or conflict with mandatory reliability standards.
 >
@@ -145,7 +150,7 @@ Title XIII of the Energy Independence and Security Act of 2007 (42 U.S.C. 17381 
 >     - **(C)** working with stakeholders to develop methods to share anonymized and aggregated test results to assist relevant stakeholders in the energy sector, researchers, and the private sector to advance cybersecurity efforts, technologies, and tools;
 >   - **(2)** collaborate with relevant stakeholders, including public utility commissions, to—
 >     - **(A)** identify information, research, staff training, and analytical tools needed to evaluate cybersecurity issues and challenges in the energy sector; and
->     - **(B)** facilitate the sharing of information and the development of tools identified under subparagraph (A); and
+>     - **(B)** facilitate the sharing of information and the development of tools identified under subparagraph (A);
 >   - **(3)** collaborate with tribal governments to identify information, research, and analysis tools needed by tribal governments to increase the cybersecurity of energy assets within their jurisdiction.
 >
 > ## § 1314. Education and workforce training research and standards
@@ -155,7 +160,8 @@ Title XIII of the Energy Independence and Security Act of 2007 (42 U.S.C. 17381 
 >   - **(2)** prioritizes science and technology in areas relevant to the mission of the Department of Energy through the design and application of cybersecurity technologies;
 >   - **(3)** develops, or facilitates private sector development of, voluntary cybersecurity training and retraining standards, lessons, and recommendations for the energy sector that minimize duplication of cybersecurity compliance training programs; and
 >   - **(4)** maintains a public database of cybersecurity education, training, and certification programs.
-> - **(b)** *Collaboration* In carrying out the program authorized in subsection (a), the Secretary shall leverage programs and activities carried out across the Department of Energy, other relevant Federal agencies, institutions of higher education, and other appropriate entities best suited to provide national leadership on cybersecurity-related issues.
+> - **(b)** *Grid resilience technology training* The Secretary shall support the development of the grid workforce through a training program that prioritizes activities that enhance the resilience of the electric grid and energy sector infrastructure, including training on the use of tools, technologies, and methods developed under the grant program established in section 1311(b).
+> - **(c)** *Collaboration* In carrying out the program authorized in subsection (a) and (b), the Secretary shall leverage programs and activities carried out across the Department of Energy, other relevant Federal agencies, institutions of higher education, and other appropriate entities best suited to provide national leadership on cybersecurity and grid resilience-related issues.
 >
 > ## § 1315. Interagency coordination and strategic plan for energy sector cybersecurity research
 >
@@ -165,7 +171,7 @@ Title XIII of the Energy Independence and Security Act of 2007 (42 U.S.C. 17381 
 >   - **(3)** identify technology transfer opportunities to accelerate the development and commercial application of novel cybersecurity technologies, systems, and processes in the energy sector; and
 >   - **(4)** develop a coordinated Interagency Strategic Plan for research to advance cybersecurity capabilities used in the energy sector that builds on the Roadmap to Achieve Energy Delivery Systems in Cybersecurity and the Multi-Year Program Plan for Energy Sector Cybersecurity.
 > - **(b)** *Interagency strategic plan*
->   - **(1)** *Submittal* The Interagency Strategic Plan developed under subsection (a)(4) shall be submitted to Congress within 12 months after the date of enactment of the Grid Security Research and Development Act.
+>   - **(1)** *Submittal* The Interagency Strategic Plan developed under subsection (a)(4) shall be submitted to Congress and made public within 12 months after the date of enactment of the Grid Security Research and Development Act.
 >   - **(2)** *Contents* The Interagency Strategic Plan shall include—
 >     - **(A)** an analysis of how existing cybersecurity research efforts across the Federal Government are advancing the goals of the Roadmap to Achieve Energy Delivery Systems Cybersecurity and the Multi-Year Program Plan for Energy Sector Cybersecurity;
 >     - **(B)** recommendations for research areas that may advance the cybersecurity of the energy sector;
@@ -177,7 +183,7 @@ Title XIII of the Energy Independence and Security Act of 2007 (42 U.S.C. 17381 
 >     - **(C)** opportunities for technology transfer programs to facilitate private sector development of cybersecurity procedures, devices, components, technologies, and tools for the energy sector;
 >     - **(D)** broader applications of the work done by relevant Federal agencies to advance the cybersecurity of information systems and data analytics systems for the energy sector; and
 >     - **(E)** activities called for in the Federal cybersecurity research and development strategic plan required by section 201(a)(1) of the Cybersecurity Enhancement Act of 2014 (15 U.S.C. 7431(a)(1)).
-> - **(c)** *Participation* For the purposes of carrying out this section, the Energy Sector Government Coordinating Council shall include representatives from Federal agencies with expertise in the energy sector, information systems, data analytics, cyber physical systems, engineering, human factors research, human-machine interfaces, high performance computing, big data and data analytics, or other disciplines considered appropriate by the Council Chair.
+> - **(c)** *Participation* For the purposes of carrying out this section, the Energy Sector Government Coordinating Council shall include representatives from Federal agencies with expertise in the energy sector, information systems, data analytics, cyber and physical systems, engineering, human factors research, human-machine interfaces, high performance computing, big data and data analytics, or other disciplines considered appropriate by the Council Chair.
 >
 > ## § 1316. Report to Congress
 >
@@ -200,7 +206,7 @@ Title XIII of the Energy Independence and Security Act of 2007 (42 U.S.C. 17381 
 >       - **(v)** increased redundancy using dissimilar cybersecurity technologies; and
 >       - **(vi)** grid architectures that use autonomous functions to limit control vulnerabilities; and
 >     - **(F)** recommend methods or metrics to document changes in risks associated with system designs and architectures.
->   - **(3)** *Consultation* In conducting the study, the Secretary shall consult with energy sector stakeholders, academic and private sector researchers, the private sector, and other relevant stakeholders.
+>   - **(3)** *Consultation* In conducting the study, the Secretary shall consult with energy sector stakeholders, academic researchers, the private sector, and other relevant stakeholders.
 >   - **(4)** *Report* Not later than 24 months after the date of enactment of the Grid Security Research and Development Act, the Secretary shall submit the study to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
 >
 > ## § 1317. Definitions
@@ -223,10 +229,30 @@ Title XIII of the Energy Independence and Security Act of 2007 (42 U.S.C. 17381 
 >
 > ## § 1318. Authorization of appropriations
 >
-> There are authorized to be appropriated to the Secretary to carry out this title—
+> There are authorized to be appropriated to the Secretary to carry out this Act—
 >
 > - **(1)** $150,000,000 for fiscal year 2021;
 > - **(2)** $157,500,000 for fiscal year 2022;
 > - **(3)** $165,375,000 for fiscal year 2023;
 > - **(4)** $173,645,000 for fiscal year 2024; and
 > - **(5)** $182,325,000 for fiscal year 2025.
+
+## § 4. Critical infrastructure research and construction
+
+- **(a)** *In general* The Secretary shall carry out a program of research, development, and demonstration of technologies and tools to help ensure the resilience and security of critical integrated grid infrastructures.
+- **(b)** *Critical infrastructure defined* The term “critical infrastructure” means infrastructure that the Secretary determines to be vital to socioeconomic activities such that, if destroyed or damaged, such destruction or damage could cause substantial disruption to such socioeconomic activities.
+- **(c)** *Coordination* In carrying out the program under subsection (a), the Secretary shall leverage expertise and resources of and facilitate collaboration and coordination between—
+  - **(1)** relevant programs and activities across the Department;
+  - **(2)** the Department of Defense; and
+  - **(3)** the Department of Homeland Security.
+- **(d)** *Critical infrastructure test facility* In carrying out the program under subsection (a), the Secretary shall establish and operate a Critical Infrastructure Test Facility (referred to in this section as the “Test Facility”) that allows for scalable physical and cyber performance testing to be conducted on industry-scale critical infrastructure systems. This facility shall include a focus on—
+  - **(1)** cybersecurity test beds; and
+  - **(2)** electric grid test beds.
+- **(e)** *Selection* The Secretary shall select the Test Facility under this section on a competitive, merit-reviewed basis. The Secretary shall consider applications from National Laboratories, institutions of higher education, multi-institutional collaborations, and other appropriate entities.
+- **(f)** *Duration* The Test Facility established under this section shall receive support for a period of not more than 5 years, subject to the availability of appropriations.
+- **(g)** *Renewal* Upon the expiration of any period of support of the Test Facility, the Secretary may renew support for the Test Facility, on a merit-reviewed basis, for a period of not more than 5 years.
+- **(h)** *Termination* Consistent with the existing authorities of the Department, the Secretary may terminate the Test Facility for cause during the performance period.
+
+## § 5. Conforming amendment
+
+Section 1(b) of the Energy Independence and Security Act of 2007 is amended in the table of contents by adding after the matter relating to section 1309 the following:
