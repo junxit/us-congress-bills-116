@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3
@@ -273,3 +273,6 @@ Elijah E. Cummings Lower Drug Costs Now Act
 - 2019-12-12 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2019-12-12 — The previous question was ordered pursuant to the rule.
 - 2019-12-12 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which were debated earlier and on which further proceedings had been postponed.
+- 2019-12-16 — Received in the Senate.
+- 2020-08-13 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2020-09-08 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 521.
