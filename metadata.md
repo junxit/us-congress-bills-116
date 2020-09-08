@@ -1,7 +1,7 @@
 ---
 measure: S. 2800
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2800
@@ -30,3 +30,7 @@ National Aeronautics and Space Administration Authorization Act of 2020
 
 - 2019-11-06 — Introduced in Senate
 - 2019-11-06 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2019-11-13 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2020-09-08 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-262.
+- 2020-09-08 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-262.
+- 2020-09-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 525.
