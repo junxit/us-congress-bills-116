@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2640
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,10 +15,12 @@ This Act may be cited as the “Buffalo Tract Protection Act”.
 
 ## § 2. Withdrawal
 
-- **(a)** *In general* Subject to valid existing rights, the Bureau of Land Management land described in subsection (b) is withdrawn from all forms of mineral development under all laws pertaining to mineral leasing or mineral materials, including locatable minerals.
-- **(b)** *BLM land described* The Bureau of Land Management land referred to in subsection (a) is the land identified as “Tract A”, “Tract B”, “Tract C”, and “Tract D” on the map entitled “Placitas, New Mexico Area Map” and dated March 11, 2016.
-- **(c)** *Disposal of surface estate*
-  - **(1)** *In general* Subject to paragraph (2), nothing in this section prohibits the disposal of the surface estate of the Bureau of Land Management land described in subsection (b) under—
+- **(a)** *In general* Subject to valid existing rights, the Federal land described in subsection (b) is withdrawn from all forms of—
+  - **(1)** location, entry, and patent under the mining laws; and
+  - **(2)** disposition under the mineral leasing, mineral materials, and geothermal leasing laws.
+- **(b)** *Description* The Federal land referred to in subsections (a) and (c) is the approximately 4,288 acres of land administered by the Director of the Bureau of Land Management and generally depicted as “Tract A”, “Tract B”, “Tract C”, and “Tract D” on the map entitled “Placitas, New Mexico Area Map” and dated November 13, 2019.
+- **(c)** *Surface estate*
+  - **(1)** *In general* Subject to the reservation of the mineral estate under paragraph (2), nothing in this Act prohibits the Secretary of the Interior from conveying the surface estate of the Federal land described in subsection (b) in accordance with—
     - **(A)** the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.); or
     - **(B)** the Act of June 14, 1926 (commonly known as the “Recreation and Public Purposes Act”) (43 U.S.C. 869 et seq.).
-  - **(2)** *Ownership of mineral estate* Any disposal of the surface estate of the Bureau of Land Management land described in subsection (b) shall be subject to the condition that the mineral estate of that land shall remain under the ownership of the Bureau of Land Management, subject to the withdrawal described in subsection (a).
+  - **(2)** *Mineral estate* Any conveyance of the surface estate of the Federal land described in subsection (b) shall require a reservation of the mineral estate to the United States.
