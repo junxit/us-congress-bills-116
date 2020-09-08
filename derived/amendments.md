@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4957
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-41 amendatory instructions. 20 executed, 21 stated and not applied.
+40 amendatory instructions. 18 executed, 22 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -107,12 +107,12 @@ to guess them.
 
 ### 25 U.S.C. § 3209
 
-> by striking “and to tribal organizations” and inserting “Tribal organizations, and urban Indian organizations”;
+> by striking “and to tribal organizations” and inserting “, Tribal organizations, and urban Indian organizations”;
 
 | | |
 |---|---|
 | Removed | `and to tribal organizations` |
-| Inserted | `Tribal organizations, and urban Indian organizations` |
+| Inserted | `, Tribal organizations, and urban Indian organizations` |
 
 ### 25 U.S.C. § 3209
 
@@ -170,30 +170,12 @@ to guess them.
 
 ### 25 U.S.C. § 3210
 
-> in paragraph (3)(D), by striking “sexual abuse” and inserting “abuse and neglect, high incidents of family violence,”;
+> in paragraph (3)(D), by striking “sexual abuse” and inserting “abuse and neglect, high incidence of family violence”;
 
 | | |
 |---|---|
 | Removed | `sexual abuse` |
-| Inserted | `abuse and neglect, high incidents of family violence,` |
-
-### 25 U.S.C. § 3210
-
-> in subparagraph (A), by striking “tribe” and inserting “Indian Tribe”; and
-
-| | |
-|---|---|
-| Removed | `tribe` |
-| Inserted | `Indian Tribe` |
-
-### 25 U.S.C. § 3210
-
-> in subparagraph (B), by striking “level of assistance for which an Indian tribe qualifies” and inserting “Indian Tribe”; and
-
-| | |
-|---|---|
-| Removed | `level of assistance for which an Indian tribe qualifies` |
-| Inserted | `Indian Tribe` |
+| Inserted | `abuse and neglect, high incidence of family violence` |
 
 ### 25 U.S.C. § 3210
 
@@ -232,5 +214,6 @@ complete account of the bill's effect, which it is not.
 | `25 U.S.C. § 3210` | insert | in subparagraph (A), by inserting “in culturally appropriate ways” after “incidents of family violence”; and | the bill quotes the text inserted but describes where it goes |
 | `25 U.S.C. § 3210` | insert | in subparagraph (C), by inserting “that may include culturally appropriate programs” after “training programs”; and | the bill quotes the text inserted but describes where it goes |
 | `25 U.S.C. § 3210` | insert | in subparagraph (A), by inserting “and neglect” after “abuse”; and | the bill quotes the text inserted but describes where it goes |
+| `25 U.S.C. § 3210` | amend | by amending paragraph (4) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 3210` | amend | by amending subsection (g) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 3210` | amend | by amending subsection (i) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
