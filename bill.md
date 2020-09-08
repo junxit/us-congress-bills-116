@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4957
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -62,7 +62,7 @@ The Indian Child Protection and Family Violence Prevention Act (25 U.S.C. 3202 e
     - **(iii)** in paragraph (2), by inserting “urban Indian organizations,” after “tribal organizations,”;
     - **(iv)** in paragraph (3)—
       - **(I)** by inserting “and technical assistance” after training; and
-      - **(II)** by striking “and to tribal organizations” and inserting “Tribal organizations, and urban Indian organizations”;
+      - **(II)** by striking “and to tribal organizations” and inserting “, Tribal organizations, and urban Indian organizations”;
     - **(v)** in paragraph (4)—
       - **(I)** by inserting “, State,” after “Federal”; and
       - **(II)** by striking “and tribal” and inserting “Tribal, and urban Indian”; and
@@ -72,10 +72,10 @@ The Indian Child Protection and Family Violence Prevention Act (25 U.S.C. 3202 e
   - **(E)** in subsection (e)—
     - **(i)** in the heading, by striking “Multidisciplinary team” and inserting “Team”;
     - **(ii)** in the text before paragraph (1), by striking “Each multidisciplinary” and inserting “The”; and
-    - **(iii)** by amending subsections (f), (g), and (h) to read as follows:
-      > - **(f)** *Center advisory board* The Secretary shall establish an advisory board to advise and assist the National Indian Child Resource and Family Services Center in carrying out its activities under this section. The advisory board shall consist of 12 members appointed by the Secretary from Indian Tribes, Tribal organizations, and urban Indian organizations with expertise in child abuse and child neglect. Members shall serve without compensation, but may be reimbursed for travel and other expenses while carrying out the duties of the board. The advisory board shall assist the Center in coordinating programs, identifying training and technical assistance materials, and developing intergovernmental agreements relating to family violence, child abuse, and child neglect.
-      > - **(g)** *Application of Indian Self-Determination Act to the Center* The National Indian Child Resource and Family Services Center shall be subject to the provisions of the Indian Self-Determination Act. The Secretary may also contract for the operation of the Center with a nonprofit Indian organization governed by an Indian-controlled board of directors that have substantial experience in child abuse, child neglect, and family violence involving Indian children and families.
-      > - **(h)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section $3,000,000 for each of fiscal years 2021 through 2026.
+  - **(F)** by amending subsections (f), (g), and (h) to read as follows:
+    > - **(f)** *Center advisory board* The Secretary shall establish an advisory board to advise and assist the National Indian Child Resource and Family Services Center in carrying out its activities under this section. The advisory board shall consist of 12 members appointed by the Secretary from Indian Tribes, Tribal organizations, and urban Indian organizations with expertise in child abuse and child neglect. Members shall serve without compensation, but may be reimbursed for travel and other expenses while carrying out the duties of the board. The advisory board shall assist the Center in coordinating programs, identifying training and technical assistance materials, and developing intergovernmental agreements relating to family violence, child abuse, and child neglect.
+    > - **(g)** *Application of Indian Self-Determination Act to the Center* The National Indian Child Resource and Family Services Center shall be subject to the provisions of the Indian Self-Determination Act. The Secretary may also contract for the operation of the Center with a nonprofit Indian organization governed by an Indian-controlled board of directors that have substantial experience in child abuse, child neglect, and family violence involving Indian children and families.
+    > - **(h)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section $3,000,000 for each of fiscal years 2021 through 2026.
 
 - **(4)** In section 411 (25 U.S.C. 3210)—
   - **(A)** in subsection (d)—
@@ -95,10 +95,10 @@ The Indian Child Protection and Family Violence Prevention Act (25 U.S.C. 3202 e
       - **(II)** in subparagraph (B), by striking “cases, to the extent practicable,” and inserting “and neglect cases”;
   - **(B)** in subsection (f)—
     - **(i)** in paragraph (2), by striking “develop, in consultation with Indian tribes, appropriate caseload standards and staffing requirements which are comparable to standards developed by the National Association of Social Work, the Child Welfare League of America and other professional associations in the field of social work and child welfare” and inserting “develop, not later than one year after the date of the enactment of the Native American Child Protection Act, in consultation with Indian Tribes, appropriate caseload standards and staffing requirements”;
-    - **(ii)** in paragraph (3)(D), by striking “sexual abuse” and inserting “abuse and neglect, high incidents of family violence,”;
-    - **(iii)** in paragraph (4)—
-      - **(I)** in subparagraph (A), by striking “tribe” and inserting “Indian Tribe”; and
-      - **(II)** in subparagraph (B), by striking “level of assistance for which an Indian tribe qualifies” and inserting “Indian Tribe”; and
+    - **(ii)** in paragraph (3)(D), by striking “sexual abuse” and inserting “abuse and neglect, high incidence of family violence”;
+    - **(iii)** by amending paragraph (4) to read as follows:
+      > - **(4)** The formula established pursuant to this subsection shall provide funding necessary to support not less than one child protective services or family violence caseworker, including fringe benefits and support costs, for each Indian Tribe.
+
     - **(iv)** in paragraph (5), by striking “tribes” and inserting “Indian Tribes”;
   - **(C)** by amending subsection (g) to read as follows:
     > - **(g)** *Report* Not later than 2 years after the date of the enactment of the Native American Child Protection Act, the Secretary of the Interior, acting through the Bureau of Indian Affairs, shall submit a report to Congress on the award of grants under this section. The report shall contain—
