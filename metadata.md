@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3160
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3160
@@ -35,3 +35,11 @@ Blackwater Trading Post Land Transfer Act
 - 2019-06-06 — Introduced in House
 - 2019-06-06 — Introduced in House
 - 2019-06-06 — Referred to the House Committee on Natural Resources.
+- 2019-06-20 — Referred to the Subcommittee for Indigenous Peoples of the United States.
+- 2019-10-16 — Subcommittee Hearings Held.
+- 2020-01-15 — Committee Consideration and Mark-up Session Held.
+- 2020-01-15 — Ordered to be Reported by Unanimous Consent.
+- 2020-01-15 — Subcommittee for Indigenous Peoples of the United States Discharged.
+- 2020-09-08 — Placed on the Union Calendar, Calendar No. 394.
+- 2020-09-08 — Reported by the Committee on Natural Resources. H. Rept. 116-492.
+- 2020-09-08 — Reported by the Committee on Natural Resources. H. Rept. 116-492.
