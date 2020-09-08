@@ -1,7 +1,7 @@
 ---
 measure: H.R. 51
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 51
@@ -276,3 +276,6 @@ Washington, D.C. Admission Act
 - 2020-06-26 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 232 - 180 (Roll no. 122).(text: CR H2521-2531)
 - 2020-06-26 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2020-06-26 — The previous question was ordered pursuant to the rule.
+- 2020-06-29 — Received in the Senate.
+- 2020-08-13 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2020-09-08 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 522.
