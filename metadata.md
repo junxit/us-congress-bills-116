@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8089
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 8089
@@ -45,3 +45,4 @@ Emergency Stopgap USCIS Stabilization Act
 - 2020-08-22 — Passed/agreed to in House: On passage Passed without objection.
 - 2020-08-22 — Referred to the Committee on the Judiciary, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2020-08-22 — Referred to the Committee on the Judiciary, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2020-09-08 — Received in the Senate.
