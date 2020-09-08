@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 88
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 88
@@ -38,3 +38,12 @@ Providing for the appointment of Franklin D. Raines as a citizen regent of the B
 - 2020-08-22 — On passage Passed without objection. (text: CR H4300)
 - 2020-08-22 — Passed/agreed to in House: On passage Passed without objection.
 - 2020-09-08 — Received in the Senate, read twice.
+- 2020-09-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5560)
+- 2020-09-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-09-14 — Message on Senate action sent to the House.
+- 2020-09-22 — Presented to President.
+- 2020-09-22 — Presented to President.
+- 2020-10-02 — Became Public Law No: 116-163.
+- 2020-10-02 — Became Public Law No: 116-163.
+- 2020-10-02 — Signed by President.
+- 2020-10-02 — Signed by President.
