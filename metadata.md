@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1425
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1425
@@ -115,3 +115,6 @@ Patient Protection and Affordable Care Enhancement Act
 - 2020-06-29 — Rule provides for consideration of H.R. 1425, H.R. 5332, H.R. 7120, H.R. 7301 and H.J. Res. 90. The resolution provides that the provisions of section 125(c) of the Uruguay Round Agreements Act shall not apply during the remainder of the 116th Congress and the resolution amends H.Res. 967, agreed to on May 15, 2020.
 - 2020-06-29 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2020-06-29 — The previous question was ordered pursuant to the rule.
+- 2020-06-30 — Received in the Senate.
+- 2020-08-13 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2020-09-08 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 523.
