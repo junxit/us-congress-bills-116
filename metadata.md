@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8015
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 8015
@@ -267,3 +267,4 @@ Delivering for America Act
 - 2020-08-22 — Rules Committee Resolution H. Res. 1092 Reported to House. Rule provides for consideration of H.R. 8015 with 2 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
 - 2020-08-22 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2020-08-22 — The previous question was ordered pursuant to the rule.
+- 2020-09-08 — Received in the Senate.
