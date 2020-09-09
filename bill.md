@@ -44,4 +44,4 @@ This Act may be cited as the “Securing America’s Ports Act”.
   - **(8)** Any challenges to implementing the plan or meeting the benchmarks, and plans to mitigate any such challenges.
 - **(f)** *Definitions* In this section:
   - **(1)** *Large-scale non-intrusive inspection system* The term “large-scale non-intrusive inspection system” means a technology, including x-ray and gamma-ray imaging systems, capable of producing an image of the contents of a commercial or passenger vehicle in one pass of such vehicle.
-  - **(2)** *Scanning* The term “scanning” means utilizing technology to produce an image of thecontents of a commercial or passenger vehicle without engaging in a physical inspection of such vehicle.
+  - **(2)** *Scanning* The term “scanning” means utilizing technology to produce an image of the contents of a commercial or passenger vehicle without engaging in a physical inspection of such vehicle.
