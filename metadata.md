@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5804
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5804
@@ -33,3 +33,10 @@ DHS Blue Campaign Enhancement Act
 - 2020-02-07 — Introduced in House
 - 2020-02-07 — Referred to the Committee on Homeland Security, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2020-02-07 — Referred to the Committee on Homeland Security, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2020-02-12 — Committee Consideration and Mark-up Session Held.
+- 2020-02-12 — Ordered to be Reported (Amended).
+- 2020-09-11 — Committee on the Judiciary discharged.
+- 2020-09-11 — Committee on the Judiciary discharged.
+- 2020-09-11 — Placed on the Union Calendar, Calendar No. 399.
+- 2020-09-11 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-498, Part I.
+- 2020-09-11 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-498, Part I.
