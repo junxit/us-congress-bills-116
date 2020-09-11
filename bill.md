@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 8223
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8223
+
+> To amend the Homeland Security Act of 2002 promote evidence-based controls for defending against common cybersecurity threats and cybersecurity risks, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Cyber Essentials Act”.
+
+## § 2. Evidence-based controls for defending against common cybersecurity threats and cybersecurity risks
+
+- **(a)** *In general* Subsection (b) of section 2203 of the Homeland Security Act of 2002 (6 U.S.C. 653) is amended—
+  - **(1)** in paragraph (3), by striking “and” after the semicolon at the end;
+  - **(2)** by redesignating paragraph (4) as paragraph (5); and
+  - **(3)** by inserting after paragraph (3) the following new paragraph:
+    > - **(4)** in consultation with the National Institute of Standards and Technology, develop, publish, and update as necessary guidelines and processes for a national audience regarding usable evidence-based controls that have the most impact in defending against common cybersecurity threats and cybersecurity risks; and
+
+- **(b)** *Restriction* Chapter 35 of title 44, United States Code (commonly known as the “Paperwork Reduction Act”) shall not apply to any action to implement the amendments made by this Act.
