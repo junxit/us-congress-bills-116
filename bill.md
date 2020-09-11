@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3597
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,31 +15,36 @@ This Act may be cited as the “Solar Energy Research and Development Act of 201
 
 ## § 2. Solar energy technology program
 
-- **(a)** *In general* The Secretary shall carry out a solar energy program to conduct research, development, testing, and evaluation of solar energy technologies. In carrying out such program, the Secretary shall award grants under this section and sections 3, 4, and 5 on a competitive, merit-reviewed basis to eligible entities for each of the following purposes:
+- **(a)** *In general* The Secretary shall carry out a solar energy program to conduct research, development, testing, and evaluation of solar energy technologies. In carrying out such program, the Secretary shall, in accordance with subsection (b), award grants and enter into contracts and cooperative agreements under this section, and sections 3, 4, and 5 for each of the following purposes:
   - **(1)** To improve the energy efficiency, reliability, resilience, security, and capacity of solar energy generation.
   - **(2)** To optimize the design and adaptability of solar energy systems to the broadest practical range of geographic and atmospheric conditions.
   - **(3)** To reduce the cost of manufacturing, installation, operation, and maintenance of solar energy systems.
   - **(4)** To create and improve conversion of solar energy to useful forms.
-- **(b)** *Solar energy research subject areas* The program established under subsection (a) shall focus on the research, development, testing, and evaluation of each of the following subject areas:
-  - **(1)** Photovoltaic devices and related electronic components including converters, sensors, energy monitors, communication and control equipment, and protocols.
+- **(b)** *Grants, contracts, and cooperative agreements*
+  - **(1)** *Grants* In carrying out the program established under subsection (a), the Secretary shall award grants on a competitive, merit-reviewed basis to eligible entities for projects that the Secretary determines would best achieve the goals of the program.
+  - **(2)** *Contracts and cooperative agreements* In carrying out the program established under subsection (a), the Secretary may enter into contracts and cooperative agreements with eligible entities and Federal agencies for projects that the Secretary determines would further the purposes of the program.
+  - **(3)** *Application* An entity seeking a grant or a contract or agreement under this Act shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+- **(c)** *Solar energy research subject areas* The program established under subsection (a) shall focus on the research, development, testing, and evaluation of each of the following subject areas:
+  - **(1)** Photovoltaic devices and related electronic components, including converters, sensors, energy monitors, communication and control equipment, and protocols.
   - **(2)** Concentrated solar power, including solar thermal and concentrating solar photovoltaic technologies.
   - **(3)** Low cost, high-quality solar energy systems.
-  - **(4)** Solar heating and cooling systems, including distributed solar-powered air conditioning.
-  - **(5)** Solar technology products that can be easily integrated into new buildings, existing buildings, agricultural and aquatic environments, and other infrastructure.
-  - **(6)** Solar technology that is resilient to extreme weather events.
-  - **(7)** Solar technology products integrated into transportation applications in coordination with vehicle technologies research and development activities supported by the Department of Energy.
-  - **(8)** Storage technologies to address the transience and intermittency of solar energy resources, including batteries, supercapacitors, and thermal storage.
-  - **(9)** Micro-grids using solar technology.
-  - **(10)** Solar technologies enabling safe grid operating conditions, such as fast-disconnect during an emergency.
-  - **(11)** Distributed solar energy technologies, such as rooftop solar panels.
-  - **(12)** Technologies and designs that enable a broad range of scales for solar power production.
-  - **(13)** Advanced solar manufacturing technologies and best practices, including—
+  - **(4)** Low cost, thin-film solar technologies, including the use of perovskite materials in solar cells.
+  - **(5)** Solar heating and cooling systems, including distributed solar-powered air conditioning.
+  - **(6)** Solar technology products that can be easily integrated into new buildings, existing buildings, agricultural and aquatic environments, and other infrastructure.
+  - **(7)** Solar technology that is resilient to extreme weather events.
+  - **(8)** Solar technology products integrated into transportation applications in coordination with vehicle technologies research and development activities supported by the Department of Energy.
+  - **(9)** Storage technologies to address the transience and intermittency of solar energy resources, including batteries, supercapacitors, and thermal storage.
+  - **(10)** Microgrids using solar technology.
+  - **(11)** Solar technologies enabling safe grid operating conditions, such as fast-disconnect during an emergency.
+  - **(12)** Distributed solar energy technologies, such as rooftop solar panels.
+  - **(13)** Technologies and designs that enable a broad range of scales for solar power production.
+  - **(14)** Advanced solar manufacturing technologies and best practices, including—
     - **(A)** materials and processes;
     - **(B)** development of industry standards;
     - **(C)** design and integration practices; and
     - **(D)** optimized packaging methods and new device designs.
-  - **(14)** Advanced analytic and computing capabilities for better modeling and simulations of solar energy systems.
-  - **(15)** Electrical grid integration, including—
+  - **(15)** Advanced analytic and computing capabilities for better modeling and simulations of solar energy systems.
+  - **(16)** Electrical grid integration, including—
     - **(A)** integration of solar technologies into smart grid, transmission, and distribution;
     - **(B)** coordination of solar with other distributed and large-scale energy resources;
     - **(C)** electrical power smoothing;
@@ -49,26 +54,28 @@ This Act may be cited as the “Solar Energy Research and Development Act of 201
     - **(G)** regional and national electric system balancing and long distance transmission options, including direct current and superconducting transmission and long-term storage options;
     - **(H)** ways to address system operations over minutes, hours, days, weeks, and seasons with respect to the full range of project scales; and
     - **(I)** electric grid security, including cyber and physical security.
-  - **(16)** Non-hardware and information-based advances in solar energy system design, installation, and operation.
-  - **(17)** Solar energy technology as a part of strategies commonly referred to as “behind-the-meter strategies”, including with respect to electricity generation, load, energy efficiency, controls, storage, and electric vehicles.
-  - **(18)** Next generation demonstration facilities.
-  - **(19)** Other subject areas determined by the Secretary.
-- **(c)** *Technical assistance and workforce development* In carrying out the program established under subsection (a), the Secretary may also conduct, for purposes of supporting technical, non-hardware, and information-based advances in solar energy systems development and operations—
-  - **(1)** technical assistance and analysis activities with eligible entities, including activities that support expanding access to solar energy for low-income individuals and communities; and
-  - **(2)** workforce development and training activities, including to support the dissemination of standards and best practices for enabling solar power production.
-- **(d)** *Program targets* The program established under subsection (a) shall address near-term (up to 2 years), mid-term (up to 7 years), and long-term (up to 15 years) challenges to the advancement of solar energy systems.
-- **(e)** *Wildlife impact mitigation* In carrying out the activities described in subsection (b), the program established under subsection (a) shall support wildlife impact mitigation technologies and strategies, including the use of distributed solar technologies, to reduce the potential negative impacts of solar energy systems on wildlife, including bird species and local flora and fauna.
-- **(f)** *Stewardship of National Laboratory resources* In awarding grants under this Act, the Secretary shall steward relevant capabilities and programs of the National Laboratories.
-- **(g)** *Conforming repeals* The following provisions of law are hereby repealed:
+  - **(17)** Non-hardware and information-based advances in solar energy system design, installation, and operation.
+  - **(18)** Solar energy technology as a part of strategies commonly referred to as “behind-the-meter strategies”, including with respect to electricity generation, load, energy efficiency, controls, storage, and electric vehicles.
+  - **(19)** Methods to reduce the total volume of water used in the manufacture, construction, operation, and maintenance of solar energy technologies.
+  - **(20)** Next generation demonstration facilities.
+  - **(21)** Other subject areas determined by the Secretary.
+- **(d)** *Technical assistance and workforce development* In carrying out the program established under subsection (a), the Secretary may also conduct, for purposes of supporting technical, non-hardware, and information-based advances in solar energy systems development and operations, including activities expanding access to solar energy for low-income individuals and communities—
+  - **(1)** technical assistance and analysis activities with eligible entities; and
+  - **(2)** workforce development and training activities, including activities that support the dissemination of standards and best practices for enabling solar power production.
+- **(e)** *Program targets* The program established under subsection (a) shall address near-term (up to 2 years), mid-term (up to 7 years), and long-term (up to 15 years) challenges to the advancement of solar energy systems.
+- **(f)** *Sustainable chemistry* Each entity receiving a grant, contract, or cooperative agreement under this section shall endeavor, in carrying out activities under such grant, contract, or cooperative agreement, to incorporate, where appropriate, sustainable and green chemistry and engineering principles, practices, and methodologies.
+- **(g)** *Wildlife impact mitigation* In carrying out the activities described in subsection (c), the program established under subsection (a) shall support wildlife impact mitigation technologies and strategies, including the use of distributed solar technologies, to reduce the potential negative impacts of solar energy systems on wildlife, including bird species and local flora and fauna.
+- **(h)** *Stewardship of National Laboratory resources* In awarding grants and entering into contracts and cooperative agreements under this Act, the Secretary shall steward relevant capabilities and programs of the National Laboratories.
+- **(i)** *Conforming repeals* The following provisions of law are hereby repealed:
   - **(1)** The Solar Energy Research, Development, and Demonstration Act of 1974 (42 U.S.C. 5551 et seq.), except for section 10.
   - **(2)** The Solar Photovoltaic Energy Research, Development, and Demonstration Act of 1978 (42 U.S.C. 5581 et seq.).
   - **(3)** Paragraphs (2) and (3) of section 4(a) of the Renewable Energy and Energy Efficiency Technology Competitiveness Act of 1989 (42 U.S.C. 12003(a)).
   - **(4)** Subparagraph (A) of section 931(a)(2) of the Energy Policy Act of 2005 (42 U.S.C. 16231(a)(2)).
   - **(5)** Sections 606 and 607 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17174 and 17175).
-- **(h)** *Definitions* In this Act:
+- **(j)** *Definitions* In this Act:
   - **(1)** The term “eligible entity” means any of the following entities:
     - **(A)** An institution of higher education.
-    - **(B)** A National laboratory.
+    - **(B)** A National Laboratory.
     - **(C)** A Federal research agency.
     - **(D)** A State research agency.
     - **(E)** A nonprofit research organization.
@@ -91,8 +98,9 @@ This Act may be cited as the “Solar Energy Research and Development Act of 201
   - **(7)** support the development of advanced manufacturing technologies that have the potential to improve United States competitiveness in the international solar energy manufacturing sector;
   - **(8)** provide the greatest potential to reduce energy costs, as well as promote accessibility and community implementation of demonstrated technologies, for consumers;
   - **(9)** increase disclosure and transparency of information to all market participants to help in making optimal decisions;
-  - **(10)** promote overall electric infrastructure reliability and resilience should grid functions be disrupted or damaged; and
-  - **(11)** satisfy any other criteria that the Secretary determines appropriate.
+  - **(10)** promote overall electric infrastructure reliability and resilience should grid functions be disrupted or damaged;
+  - **(11)** promote solar energy in low-income communities and those disproportionately burdened by environmental pollution; and
+  - **(12)** satisfy any other criteria that the Secretary determines appropriate.
 - **(c)** *Use of funds* Grants under this section may be used, to the extent that funding is not otherwise available through other Federal programs or power purchase agreements, for—
   - **(1)** any necessary site engineering study;
   - **(2)** an economic assessment of site-specific conditions;
@@ -101,11 +109,10 @@ This Act may be cited as the “Solar Energy Research and Development Act of 201
   - **(5)** operation for at least the minimum amount of time required to fully assess the project’s results and objectives, as determined by a peer-reviewed process; and
   - **(6)** validation of technical, economic, and environmental assumptions and documentation of lessons learned.
 - **(d)** *Solicitation* Not later than 90 days after the date of enactment of this Act and annually thereafter, the Secretary shall conduct a national solicitation for applications for grants under this section.
-- **(e)** *Organic photovoltaic cell technologies* At least 1 grant awarded under this section during fiscal year 2020 shall be for a project to demonstrate organic photovoltaic cell technologies.
 
 ## § 4. Next generation solar energy manufacturing initiative
 
-- **(a)** *In General* In carrying out the program established under section 2(a), the Secretary shall provide multi-year grants on a competitive, merit-reviewed basis to eligible entities for research, development, and demonstration projects to advance new solar energy manufacturing technologies and techniques, including those that manufacture solar cells, hardware, and enabling devices.
+- **(a)** *In General* In carrying out the program established under section 2(a), the Secretary shall conduct research, development, and demonstration projects, in accordance with section 2(b), to advance new solar energy manufacturing technologies and techniques, including those that manufacture solar cells, hardware, and enabling devices.
 - **(b)** *Strategic vision report*
   - **(1)** *In general* Not later than September 1, 2020, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives, the Committee on Energy and Natural Resources of the Senate, and any other committees of Congress deemed appropriate by the Secretary a report on the results of a study that examines the viable market opportunities available for solar energy technology manufacturing in the United States, including solar cells, hardware, and enabling technologies.
   - **(2)** *Report requirements* The report under paragraph (1) shall include—
@@ -118,7 +125,7 @@ This Act may be cited as the “Solar Energy Research and Development Act of 201
       - **(ii)** opportunities and barriers within the United States and international solar energy technology supply chains;
     - **(B)** policy recommendations for enhancing solar energy technology manufacturing in the United States; and
     - **(C)** an aggressive 10-year target and plan, beginning in 2021, to enhance the competitiveness of solar energy technology manufacturing in the United States.
-- **(c)** *Program implementation* In carrying out the research, development, and demonstration program under this section, to the extent practicable, the Secretary shall follow the recommendations included in the report under subsection (b) and make grants for solar energy manufacturing projects that—
+- **(c)** *Program implementation* In carrying out the research, development, and demonstration program under this section, to the extent practicable, the Secretary shall follow the recommendations included in the report under subsection (b) and award grants and enter into contracts and cooperative agreements for solar energy manufacturing projects that—
   - **(1)** reduce capital expenditures or provide lower-cost manufacturing option;
   - **(2)** eliminate manufacturing process steps;
   - **(3)** reduce energy, water, and material inputs;
@@ -128,8 +135,8 @@ This Act may be cited as the “Solar Energy Research and Development Act of 201
 
 ## § 5. Photovoltaic device recycling research, development, and demonstration
 
-- **(a)** *In general* In carrying out the program, the Secretary shall award, on a competitive, merit-reviewed basis, multiyear grants to eligible entities for research, development, and demonstration projects to create innovative and practical approaches to increase reuse and recycling of photovoltaic devices.
-- **(b)** *Purpose* The Secretary shall award grants under subsection (a) for projects that address—
+- **(a)** *In general* In carrying out the program, the Secretary shall conduct research, development, and demonstration projects, in accordance with section 2(b), to create innovative and practical approaches to increase reuse and recycling of photovoltaic devices.
+- **(b)** *Purpose* The Secretary shall award grants and enter into contracts and cooperative agreements under subsection (a) for projects that address—
   - **(1)** technology to increase the efficiency of photovoltaic device recycling and maximize the recovery of valuable raw materials for use in new products while minimizing the life-cycle environmental impacts such as greenhouse gas emissions and water usage;
   - **(2)** expanded uses for materials from recycled photovoltaic devices;
   - **(3)** development and demonstration of environmentally responsible alternatives to the use of hazardous materials in photovoltaic devices and the production of such devices;
@@ -139,7 +146,7 @@ This Act may be cited as the “Solar Energy Research and Development Act of 201
   - **(7)** product design and construction and other tools and techniques to extend the life cycle of photovoltaic devices, including methods to promote their safe reuse;
   - **(8)** strategies to increase consumer acceptance and practice of recycling of photovoltaic devices; and
   - **(9)** processes to reduce the costs and environmental impact of disposal of toxic materials used in photovoltaic devices.
-- **(c)** *Applications* An eligible entity seeking a grant under this section shall submit to the Secretary an application that includes a description of—
+- **(c)** *Applications* An eligible entity seeking a grant, contract, or cooperative agreement under this section shall submit to the Secretary an application that includes a description of—
   - **(1)** the project that will be undertaken and the contributions of each participating entity;
   - **(2)** the applicability of the project to increasing reuse and recycling of photovoltaic devices with the least environmental impacts as measured by life-cycle analyses, and the potential for incorporating the research results into industry practice; and
   - **(3)** how the project will promote collaboration among scientists and engineers from different disciplines, such as electrical engineering, materials science, and social science.
@@ -148,7 +155,7 @@ This Act may be cited as the “Solar Energy Research and Development Act of 201
   - **(2)** dissemination at industry conferences;
   - **(3)** coordination with information dissemination programs relating to recycling of electronic devices in general;
   - **(4)** demonstration projects; and
-  - **(5)** educational materials for the public produced in conjunction with State and local governments or nonprofit organizations on the problems and solutions related to reuse and recycling of photovoltaic devices.
+  - **(5)** educational materials for the public produced in conjunction with State, Tribal, and local governments or nonprofit organizations on the problems and solutions related to reuse and recycling of photovoltaic devices.
 - **(e)** *Photovoltaic materials physical property database*
   - **(1)** *In general* Not later than September 1, 2021, the Secretary shall establish a comprehensive physical property database of materials for use in photovoltaic devices. Such database shall include—
     - **(A)** identification of materials used in photovoltaic devices;
@@ -167,3 +174,7 @@ There are authorized to be appropriated to the Secretary to carry out this Act�
 - **(3)** $297,675,000 for fiscal year 2022;
 - **(4)** $312,558,750 for fiscal year 2023; and
 - **(5)** $328,186,688 for fiscal year 2024.
+
+## § 7. Sense of Congress
+
+It is the sense of Congress that in order to reduce emissions and meet 100 percent of the power demand in the United States through clean, renewable, or zero-emission energy sources, the Secretary must prioritize research and development for all innovative energy technologies, including research to develop and improve the efficiency of fossil and nuclear power technologies.
