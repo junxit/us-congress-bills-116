@@ -15,10 +15,18 @@ This Act may be cited as the “Microloan Transparency and Accountability Act of
 
 ## § 2. Assistance for intermediaries serving rural areas
 
-Section 7(m)(4)(C)(i) of the Small Business Act (15 U.S.C. 636(m)(4)(C)(i)) is amended—
+Section 7(m) of the Small Business Act (15 U.S.C. 636(m)) is amended—
 
-- **(1)** by inserting “either” after “that has”; and
-- **(2)** by inserting after “the program” the following: “or that has a portfolio of loans made under this subsection of which not less than 25 percent is serving rural areas during the period of the intermediary's participation in the program”.
+- **(1)** by amending paragraph (4)(C)(i) to read as follows:
+  > - **(i)** Each intermediate shall be eligible to receive a grant equal to 5 percent of the total outstanding balance of loans made to the intermediary under this subsection, in addition to grants made under subparagraph (A), if the intermediary has either—
+  >   - **(I)** a portfolio of loans made under this subsection that averages not more than $10,000 during the period of the intermediary's participation in the program;
+  >   - **(II)** a portfolio of loans made under this subsection of which not less than 25 percent are made to small business concerns located in or owned by one or more residents of an economically distressed area; or
+  >   - **(III)** a portfolio of loans made under this subsection of which not less than 25 percent is serving rural areas during the period of the intermediary's participation in the program.
+
+- **(2)** in paragraph (11)—
+  - **(A)** in subparagraph (C)(ii), by striking all after the semicolon and inserting “and”; and
+  - **(B)** by striking all after subparagraph (C), and inserting the following:
+    > - **(D)** the term economically distressed area, as used in paragraph (4), means a county or equivalent division of local government of a State in which the small business concern is located, in which, according to the most recent data available from the Bureau of the Census, Department of Commerce, not less than 40 percent of residents have an annual income that is at or below the poverty level.
 
 ## § 3. Portfolio risk analysis of microloans
 
