@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2246
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2246
@@ -16,6 +16,12 @@ To designate the facility of the United States Postal Service located at 201 Wes
 
 - Rep. Guest, Michael [R-MS-3] (G000591)
 
+## Cosponsors (3)
+
+- Rep. Kelly, Trent [R-MS-1] (K000388)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Palazzo, Steven M. [R-MS-4] (P000601)
+
 ## Committees (1)
 
 - House — Oversight and Accountability Committee
@@ -25,3 +31,10 @@ To designate the facility of the United States Postal Service located at 201 Wes
 - 2019-04-10 — Introduced in House
 - 2019-04-10 — Introduced in House
 - 2019-04-10 — Referred to the House Committee on Oversight and Reform.
+- 2019-12-19 — Committee Consideration and Mark-up Session Held.
+- 2020-09-14 — Considered under suspension of the rules. (consideration: CR H4363-4364)
+- 2020-09-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2246.
+- 2020-09-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-14 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
+- 2020-09-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4363)
+- 2020-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
