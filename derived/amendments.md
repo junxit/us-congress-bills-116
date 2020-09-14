@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6078
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 0 executed, 9 stated and not applied.
+10 amendatory instructions. 0 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,8 +31,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 636` | insert | by inserting “either” after “that has”; and | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 636` | insert | by inserting after “the program” the following: “or that has a portfolio of loans made under this subsection of which not less than 25 percent is serving rural areas during the period of the intermediary's participation in the program”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 636` | amend | by amending paragraph (4)(C)(i) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 636` | replace | in subparagraph (C)(ii), by striking all after the semicolon and inserting “and”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 636` | replace | by striking all after subparagraph (C), and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 636` | redesignate | by redesignating subparagraphs (A) through (F) as clauses (i) through (vi), respectively, and adjusting the margins accordingly; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 636` | redesignate | by amending clause (iv), as so redesignated, to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 636` | redesignate | in clause (vi), as so redesignated, by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
