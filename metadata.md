@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5317
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5317
@@ -16,6 +16,49 @@ To designate the facility of the United States Postal Service located at 315 Add
 
 - Rep. Fletcher, Lizzie [D-TX-7] (F000468)
 
+## Cosponsors (40)
+
+- Rep. Gohmert, Louie [R-TX-1] (G000552)
+- Rep. Crenshaw, Dan [R-TX-2] (C001120)
+- Rep. Taylor, Van [R-TX-3] (T000479)
+- Rep. Ratcliffe, John [R-TX-4] (R000601)
+- Rep. Gooden, Lance [R-TX-5] (G000589)
+- Rep. Wright, Ron [R-TX-6] (W000827)
+- Rep. Brady, Kevin [R-TX-8] (B000755)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Conaway, K. Michael [R-TX-11] (C001062)
+- Rep. Roy, Chip [R-TX-21] (R000614)
+- Rep. Thornberry, Mac [R-TX-13] (T000238)
+- Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Rep. Gonzalez, Vicente [D-TX-15] (G000581)
+- Rep. Escobar, Veronica [D-TX-16] (E000299)
+- Rep. Flores, Bill [R-TX-17] (F000461)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+- Rep. Arrington, Jodey C. [R-TX-19] (A000375)
+- Rep. Castro, Joaquin [D-TX-20] (C001091)
+- Rep. Olson, Pete [R-TX-22] (O000168)
+- Rep. Hurd, Will [R-TX-23] (H001073)
+- Rep. Marchant, Kenny [R-TX-24] (M001158)
+- Rep. Williams, Roger [R-TX-25] (W000816)
+- Rep. Cloud, Michael [R-TX-27] (C001115)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
+- Rep. Garcia, Sylvia R. [D-TX-29] (G000587)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Allred, Colin Z. [D-TX-32] (A000376)
+- Rep. Veasey, Marc A. [D-TX-33] (V000131)
+- Rep. Vela, Filemon [D-TX-34] (V000132)
+- Rep. Doggett, Lloyd [D-TX-35] (D000399)
+- Rep. Babin, Brian [R-TX-36] (B001291)
+- Rep. Costa, Jim [D-CA-16] (C001059)
+- Rep. Stevens, Haley M. [D-MI-11] (S001215)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Garamendi, John [D-CA-3] (G000559)
+- Rep. Cox, TJ [D-CA-21] (C001124)
+- Rep. Burgess, Michael C. [R-TX-26] (B001248)
+- Rep. Granger, Kay [R-TX-12] (G000377)
+
 ## Committees (1)
 
 - House — Oversight and Accountability Committee
@@ -25,3 +68,11 @@ To designate the facility of the United States Postal Service located at 315 Add
 - 2019-12-05 — Introduced in House
 - 2019-12-05 — Introduced in House
 - 2019-12-05 — Referred to the House Committee on Oversight and Reform.
+- 2020-03-04 — Committee Consideration and Mark-up Session Held.
+- 2020-03-04 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2020-09-14 — Considered under suspension of the rules. (consideration: CR H4356-4357)
+- 2020-09-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5317.
+- 2020-09-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-14 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
+- 2020-09-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4356)
+- 2020-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
