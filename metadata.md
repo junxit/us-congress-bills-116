@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1668
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1668
@@ -16,7 +16,7 @@ IoT Cybersecurity Improvement Act of 2020
 
 - Rep. Kelly, Robin L. [D-IL-2] (K000385)
 
-## Cosponsors (13)
+## Cosponsors (26)
 
 - Rep. Hurd, Will [R-TX-23] (H001073)
 - Rep. Khanna, Ro [D-CA-17] (K000389)
@@ -31,6 +31,19 @@ IoT Cybersecurity Improvement Act of 2020
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 - Rep. Foster, Bill [D-IL-11] (F000454)
 - Rep. Baird, James R. [R-IN-4] (B001307)
+- Rep. Olson, Pete [R-TX-22] (O000168)
+- Rep. Hill, Katie [D-CA-25] (H001087)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. O'Halleran, Tom [D-AZ-1] (O000171)
+- Rep. Brooks, Susan W. [R-IN-5] (B001284)
+- Rep. Clarke, Yvette D. [D-NY-9] (C001067)
+- Rep. Stevens, Haley M. [D-MI-11] (S001215)
+- Rep. Harder, Josh [D-CA-10] (H001090)
+- Rep. Norman, Ralph [R-SC-5] (N000190)
+- Rep. Rouda, Harley [D-CA-48] (R000616)
+- Rep. Graves, Tom [R-GA-14] (G000560)
+- Rep. Wasserman Schultz, Debbie [D-FL-23] (W000797)
+- Rep. DelBene, Suzan K. [D-WA-1] (D000617)
 
 ## Committees (2)
 
@@ -44,3 +57,17 @@ IoT Cybersecurity Improvement Act of 2020
 - 2019-03-11 — Referred to the Committee on Oversight and Reform, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-03-11 — Referred to the Committee on Oversight and Reform, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-03-11 — Referred to the Subcommittee on Research and Technology.
+- 2019-06-12 — Committee Consideration and Mark-up Session Held.
+- 2019-06-12 — Ordered to be Reported in the Nature of a Substitute by Voice Vote.
+- 2020-09-14 — Committee on Science, Space, and Technology discharged.
+- 2020-09-14 — Committee on Science, Space, and Technology discharged.
+- 2020-09-14 — Considered under suspension of the rules. (consideration: CR H4351-4354)
+- 2020-09-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1668.
+- 2020-09-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-14 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill, as amended.
+- 2020-09-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4351-4352)
+- 2020-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-09-14 — Placed on the Union Calendar, Calendar No. 402.
+- 2020-09-14 — Reported (Amended) by the Committee on Oversight and Reform. H. Rept. 116-501, Part I.
+- 2020-09-14 — Reported (Amended) by the Committee on Oversight and Reform. H. Rept. 116-501, Part I.
+- 2020-09-14 — The title of the measure was amended. Agreed to without objection.
