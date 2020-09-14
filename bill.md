@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4894
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,14 +11,14 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Congressional Budget Justification Transparency Act of 2019”.
+This Act may be cited as the “Congressional Budget Justification Transparency Act of 2020”.
 
 ## § 2. Public availability of budget justifications and appropriation requests
 
-- **(a)** *In general* Section 3 of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note) is amended to read as follows:
+- **(a)** *In general* Section 3 of the Federal Funding Accountability and Transparency Act of 2006 (Public Law 109–282; 31 U.S.C. 6101 note) is amended to read as follows:
   > ## § 3. Full disclosure of Federal funds
   >
-  > - **(a)** *In general* Not less frequently than monthly when practicable, and in any event not less frequently than quarterly, the Secretary (in consultation with the Director and, with respect to information described in subsection (b)(2), the head of the applicable Federal agency) shall ensure that updated information with respect to the information described in subsection (b) is posted on the website established under section 2.
+  > - **(a)** *In general* Not less frequently than monthly when practicable, and in any event not less frequently than quarterly, the Secretary (in consultation with the Director and, with respect to information described in subsection (b)(2), the head of the applicable agency) shall ensure that updated information with respect to the information described in subsection (b) is posted on the website established under section 2.
   > - **(b)** *Information To be posted*
   >   - **(1)** *Funds* For any funds made available to or expended by a Federal agency or component of a Federal agency, the information to be posted shall include—
   >     - **(A)** for each appropriations account, including an expired or unexpired appropriations account, the amount—
@@ -36,14 +36,12 @@ This Act may be cited as the “Congressional Budget Justification Transparency 
   >       - **(i)** obligated for each object class; and
   >       - **(ii)** of outlays made for each object class.
   >   - **(2)** *Budget justifications*
-  >     - **(A)** *Definitions* In this paragraph—
-  >       - **(i)** the term agency has the meaning given that term in section 101 of title 31, United States Code; and
-  >       - **(ii)** the term budget justification materials means the annual budget justification materials of an agency that are submitted to Congress in support of the budget of the agency, in conjunction with the budget of the United States Government submitted under section 1105(a) of title 31, United States Code, but does not include budget justification materials that are classified.
-  >     - **(B)** *Information* The information to be posted shall include the budget justification materials of each agency—
+  >     - **(A)** *Definition* In this paragraph, the term budget justification materials means the annual budget justification materials of an agency that are submitted, in conjunction with the budget of the United States Government submitted under section 1105(a) of title 31, United States Code, but does not include budget justification materials that are classified.
+  >     - **(B)** *Information* The information to be posted shall include any budget justification materials—
   >       - **(i)** for the second fiscal year beginning after the date of enactment of this paragraph, and each fiscal year thereafter; and
   >       - **(ii)** to the extent practicable, that were released for any fiscal year before the date of enactment of this paragraph.
   >     - **(C)** *Format* Budget justification materials shall be posted under subparagraph (B)—
-  >       - **(i)** in an open format machine readable and text searchable;
+  >       - **(i)** as an open Government data asset (as defined under section 3502 of title 44, United States Code);
   >       - **(ii)** in a manner that enables users to download individual reports, download all reports in bulk, and download in bulk the results of a search, to the extent practicable; and
   >       - **(iii)** in a structured data format, to the extent practicable.
   >     - **(D)** *Deadline* The budget justification materials required to be posted under subparagraph (B)(i) shall be posted not later than 2 weeks after the date on which the budget justification materials are first submitted to Congress.
@@ -51,15 +49,19 @@ This Act may be cited as the “Congressional Budget Justification Transparency 
 
 - **(b)** *Information regarding agency budget justifications* Section 1105 of title 31, United States Code, is amended by adding at the end the following:
   > - **(i)**
-  >   - **(1)** The Director of the Office of Management and Budget shall make publicly available on an internet website, and continuously update, a tabular list for each fiscal year of each agency that submits to Congress budget justification materials in support of the budget of the agency, which shall include—
+  >   - **(1)** The Director of the Office of Management and Budget shall make publicly available on a website, and continuously update, a tabular list for each fiscal year of each agency that submits budget justification materials, which shall include—
   >     - **(A)** the name of the agency;
   >     - **(B)** a unique identifier that identifies the agency;
   >     - **(C)** to the extent practicable, the date on which the budget justification materials of the agency are first submitted to Congress;
-  >     - **(D)** the date on which the budget justification materials of the agency are posted online under section 3 of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note);
-  >     - **(E)** the uniform resource locator where the budget justification materials submitted to Congress are published on the website of the agency; and
-  >     - **(F)** a single data set that contains the information described in subparagraphs (A) through (E) with respect to the agency for all fiscal years for which budget justifications of the agency are made available under section 3 of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note) in a structured data format.
+  >     - **(D)** the date on which the budget justification materials of the agency are posted online under section 3 of the Federal Funding Accountability and Transparency Act of 2006;
+  >     - **(E)** the uniform resource locator where the budget justification materials are published on the website of the agency; and
+  >     - **(F)** a single data set that contains the information described in subparagraphs (A) through (E) with respect to the agency for all fiscal years for which budget justifications of the agency are made available under section 3 of the Federal Funding Accountability and Transparency Act of 2006 in a structured data format.
   >   - **(2)**
-  >     - **(A)** Each agency that submits to Congress budget justification materials in support of the budget of the agency shall make the materials available on the website of the agency.
-  >     - **(B)** The Director of Office of Management and Budget shall establish best practices for agencies relating to making available materials under subparagraph (A)(i), which shall include guidelines for using a uniform resource locator that is in a consistent format across agencies and is descriptive, memorable, and pronounceable, such as the format of “agencyname.gov/budget”.
-  >     - **(C)** If the Director of Office of Management and Budget maintains a public website that contains the budget of the United States Government submitted under subsection (a) and any related materials, such website shall also contain a link to the tabular list required under paragraph (1).
-  >   - **(3)** In this subsection, the term budget justification materials has the meaning given that term in section 3 of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note).
+  >     - **(A)** Each agency that submits budget justification materials shall make the materials available on the website of the agency, in accordance with the policies established by the Director of the Office of Management and Budget under subparagraph (B).
+  >     - **(B)** The Director of the Office of Management and Budget, in consultation with the Secretary of the Treasury, shall establish policies for agencies relating to making available materials under subparagraph (A), which shall include guidelines for making budget justification materials available in a format aligned with the requirements of section 3(b)(2)(C) of the Federal Funding Accountability and Transparency Act of 2006 and using a uniform resource locator that is in a consistent format across agencies and is descriptive, memorable, and pronounceable, such as the format of agencyname.gov/budget.
+  >     - **(C)** If the Director of the Office of Management and Budget maintains a public website that contains the budget of the United States Government submitted under subsection (a) and any related materials, such website shall also contain a link to the tabular list required under paragraph (1).
+  >   - **(3)** In this subsection, the term budget justification materials has the meaning given that term in section 3 of the Federal Funding Accountability and Transparency Act of 2006.
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
