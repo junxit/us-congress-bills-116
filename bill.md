@@ -7,113 +7,110 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1668
 
-> To establish minimum security standards for Internet of Things devices owned or controlled by the Federal Government, and for other purposes.
+> To leverage Federal Government procurement power to encourage increased cybersecurity for Internet of Things devices, and for other purposes.
 
 ## § 1. Short title
 
-This Act may be cited as the “Internet of Things Cybersecurity Improvement Act of 2020” or the “IoT Cybersecurity Improvement Act of 2020”.
+This Act may be cited as the “Internet of Things Cybersecurity Improvement Act of 2019” or the “IoT Cybersecurity Improvement Act of 2019”.
 
-## § 2. Sense of Congress
-
-It is the sense of Congress that—
-
-- **(1)** ensuring the highest level of cybersecurity at agencies in the executive branch is the responsibility of the President, followed by the Director of the Office of Management and Budget, the Secretary of Homeland Security, and the head of each such agency;
-- **(2)** this responsibility is to be carried out by working collaboratively within and among agencies in the executive branch, industry, and academia;
-- **(3)** the strength of the cybersecurity of the Federal Government and the positive benefits of digital technology transformation depend on proactively addressing cybersecurity throughout the acquisition and operation of Internet of Things devices by the Federal Government; and
-- **(4)** consistent with the second draft National Institute for Standards and Technology Interagency or Internal Report 8259 titled “Recommendations for IoT Device Manufacturers: Foundational Activities and Core Device Cybersecurity Capability Baseline”, published in January 2020, Internet of Things devices are devices that—
-  - **(A)** have at least one transducer (sensor or actuator) for interacting directly with the physical world, have at least one network interface, and are not conventional Information Technology devices, such as smartphones and laptops, for which the identification and implementation of cybersecurity features is already well understood; and
-  - **(B)** can function on their own and are not only able to function when acting as a component of another device, such as a processor.
-
-## § 3. Definitions
+## § 2. Definitions
 
 In this Act:
 
-- **(1)** *Agency* The term agency has the meaning given that term in section 3502 of title 44, United States Code.
-- **(2)** *Director of OMB* The term Director of OMB means the Director of the Office of Management and Budget.
-- **(3)** *Director of the Institute* The term Director of the Institute means the Director of the National Institute of Standards and Technology.
-- **(4)** *Information system* The term information system has the meaning given that term in section 3502 of title 44, United States Code.
-- **(5)** *National security system* The term “national security system” has the meaning given that term in section 3552(b)(6) of title 44, United States Code.
-- **(6)** *Operational technology* The term operational technology means hardware and software that detects or causes a change through the direct monitoring or control of physical devices, processes, and events in the enterprise.
-- **(7)** *Secretary* The term Secretary means the Secretary of Homeland Security.
-- **(8)** *Security vulnerability* The term security vulnerability has the meaning given that term in section 102(17) of the Cybersecurity Information Sharing Act of 2015 (6 U.S.C. 1501(17)).
+- **(1)** *Agency* The term agency has the meaning given such term in section 3502 of title 44, United States Code.
+- **(2)** *Covered device* The term covered device means a physical object that—
+  - **(A)** is capable of being in regular connection with—
+    - **(i)** the Internet; or
+    - **(ii)** a network that is connected to the Internet on a recurring basis;
+  - **(B)** has computer processing capabilities of collecting, sending, or receiving data; and
+  - **(C)** is not a—
+    - **(i)** general-purpose computing device;
+    - **(ii)** personal computing system;
+    - **(iii)** smart mobile communications device;
+    - **(iv)** programmable logic controller with an industrial control system specifically not designed for connection to the internet;
+    - **(v)** mainframe computing system; or
+    - **(vi)** subcomponent of a device.
+- **(3)** *Director of OMB* The term Director of OMB means the Director of the Office of Management and Budget.
+- **(4)** *Director of the Institute* The term Director of the Institute means the Director of the National Institute of Standards and Technology.
+- **(5)** *Security vulnerability* The term security vulnerability has the meaning given that term under section 102(17) of the Cybersecurity Information Sharing Act of 2015 (6 U.S.C. 1501(17)).
 
-## § 4. Security standards and guidelines for agencies on use and management of Internet of Things devices
+## § 3. Completion of ongoing efforts relating to considerations for managing Internet of things cybersecurity risks
 
-- **(a)** *National Institute of Standards and Technology development of standards and guidelines for use of Internet of Things devices by agencies*
-  - **(1)** *In general* Not later than 90 days after the date of the enactment of this Act, the Director of the Institute shall develop and publish under section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3) standards and guidelines for the Federal Government on the appropriate use and management by agencies of Internet of Things devices owned or controlled by an agency and connected to information systems owned or controlled by an agency, including minimum information security requirements for managing cybersecurity risks associated with such devices.
-  - **(2)** *Consistency with ongoing efforts* The Director of the Institute shall ensure that the standards and guidelines developed under paragraph (1) are consistent with the efforts of the National Institute of Standards and Technology in effect on the date of the enactment of this Act—
-    - **(A)** regarding—
-      - **(i)** examples of possible security vulnerabilities of Internet of Things devices; and
-      - **(ii)** considerations for managing the security vulnerabilities of Internet of Things devices; and
-    - **(B)** with respect to the following considerations for Internet of Things devices:
-      - **(i)** Secure Development.
-      - **(ii)** Identity management.
-      - **(iii)** Patching.
-      - **(iv)** Configuration management.
-  - **(3)** *Considering relevant standards* In developing the standards and guidelines under paragraph (1), the Director of the Institute shall consider relevant standards, guidelines, and best practices developed by the private sector, agencies, and public-private partnerships.
-- **(b)** *Review of agency information security policies and principles*
-  - **(1)** *Requirement* Not later than 180 days after the date on which the Director of the Institute completes the development of the standards and guidelines required under subsection (a), the Director of OMB shall review agency information security policies and principles on the basis of the standards and guidelines published under subsection (a) pertaining to Internet of Things devices owned or controlled by agencies (excluding agency information security policies and principles pertaining to Internet of Things of devices owned or controlled by agencies that are or comprise a national security system) for consistency with the standards and guidelines submitted under subsection (a) and issue such policies and principles as may be necessary to ensure those policies and principles are consistent with such standards and guidelines.
-  - **(2)** *Review* In reviewing agency information security policies and principles under paragraph (1) and issuing policies and principles under such paragraph, as may be necessary, the Director of OMB shall—
-    - **(A)** consult with the Director of the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security; and
-    - **(B)** ensure such policies and principles are consistent with the information security requirements under subchapter II of chapter 35 of title 44, United States Code.
-  - **(3)** *National security systems* Any policy or principle issued by the Director of OMB under paragraph (1) shall not apply to national security systems.
-- **(c)** *Quinquennial review and revision*
-  - **(1)** *Review and revision of NIST standards and guidelines* Not later than 5 years after the date on which the Director of the Institute publishes the standards and guidelines under subsection (a), and not less frequently than once every 5 years thereafter, the Director of the Institute, shall—
-    - **(A)** review such standards and guidelines; and
-    - **(B)** revise such standards and guidelines as appropriate.
-  - **(2)** *Updated OMB policies and principles for agencies* Not later than 180 days after the Director of the Institute makes a revision pursuant to paragraph (1), the Director of OMB, in consultation with the Director of the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security, shall update any policy or principle issued under subsection (b)(1) as necessary to ensure those policies and principles are consistent with the review and any revision under paragraph (1) under this subsection and paragraphs (2) and (3) of subsection (b).
-- **(d)** *Revision of Federal Acquisition Regulation* The Federal Acquisition Regulation shall be revised as necessary to implement any standards and guidelines promulgated in this section.
+Not later than December 31, 2019, the Director of the National Institute of Standards and Technology shall complete the efforts of the Institute in effect on the date of the enactment of this Act regarding considerations for managing the security vulnerabilities of Internet of Things devices and examples of possible cybersecurity capabilities of such devices by publishing a report that includes, at a minimum, the following considerations for covered devices:
 
-## § 5. Guidelines on the disclosure process for security vulnerabilities relating to information systems, including Internet of Things devices
+- **(1)** Secure development.
+- **(2)** Identity management.
+- **(3)** Patching.
+- **(4)** Configuration management.
 
-- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, the Director of the Institute, in consultation with such cybersecurity researchers and private sector industry experts as the Director considers appropriate, and in consultation with the Secretary, shall develop and publish under section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3) guidelines—
+## § 4. Security standards for use of covered devices by the Federal Government
+
+- **(a)** *Guidelines required*
+  - **(1)** *Guidelines* Not later than 6 months after the date on which the report under section 3 is completed, the Director of the Institute shall develop under section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g-3), and submit to the Director of OMB, guidelines on—
+    - **(A)** the appropriate use and management by the agencies of covered devices owned or controlled by the agencies; and
+    - **(B)** minimum information security requirements for managing security vulnerabilities associated with such devices.
+  - **(2)** *Development of guidelines* In developing the guidelines submitted under paragraph (1), the Director of the Institute shall—
+    - **(A)** consider relevant standards and best practices developed by the private sector, agencies, and public-private partnerships; and
+    - **(B)** ensure that such guidelines are consistent with the considerations published in the report described under section 3.
+- **(b)** *Promulgation of standards*
+  - **(1)** *Standards* Not later than 180 days after the date on which the Director of the Institute completes the development of the guidelines required under subsection (a), the Director of OMB, in consultation with the Director of the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security, shall—
+    - **(A)** promulgate standards on the basis of the guidelines submitted under subsection (a) pertaining to covered devices owned or controlled by agencies, except those considered national security systems as defined by section 3552(b)(6) of title 44, United States Code; and
+    - **(B)** ensure such standards are consistent with the information security requirements under subchapter II of chapter 35 of title 44, United States Code.
+  - **(2)** *Quinquennial review and revision* Not later than 5 years after the date on which the Director of OMB promulgates the standards under paragraph (1), and not less frequently than once every 5 years thereafter, the Director of OMB, in consultation with and the Director of the Institute and the Director of the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security, shall—
+    - **(A)** review such standards; and
+    - **(B)** revise such standards as appropriate.
+- **(c)** *Revision of Federal Acquisition Regulation* The Federal Acquisition Regulation shall be revised to implement any standard promulgated under subsection (b).
+
+## § 5. Petition to exclude certain devices
+
+- **(a)** *Petition* The Director of OMB shall establish a process by which an interested party may petition the Director of OMB for a device described in section 2(2) to not be considered a covered device for the purpose of standards promulgated under section 4(b).
+- **(b)** *Grants of petition* The Director of OMB shall grant a petition under subsection (a)—
+  - **(1)** on a limited basis;
+  - **(2)** in a timely manner; and
+  - **(3)** only if the interested party demonstrates that—
+    - **(A)** the procurement of such a covered device with limited data processing and software functionality would be unfeasible; or
+    - **(B)** the procurement of a covered device that does not meet the standards promulgated by the Director of OMB under this Act is necessary for national security or for research purposes.
+- **(c)** *Report*
+  - **(1)** *In general* Not later than one year after the date of the enactment of this Act, and annually thereafter for each of the following four years, the Director of OMB shall submit to the appropriate congressional committees a report on the process established by the Director of OMB for granting or denying waivers under this section.
+  - **(2)** *Assessment of implementation* The reports required under paragraph (1) shall include, at a minimum, the following:
+    - **(A)** An assessment of the waiver evaluation process.
+    - **(B)** A description of the methods established to carry out such assessment.
+    - **(C)** A classified appendix listing the types and number of devices for each agency granted a waiver and the reasons for such waiver.
+  - **(3)** *Appropriate congressional committees defined* In this subsection, the term appropriate congressional committees means the Committees on Oversight and Reform and Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
+
+## § 6. Coordinated disclosure of security vulnerabilities relating to covered devices
+
+- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, the Director of the Institute, in consultation with the Director of Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security, shall develop under section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g-3) and submit to the Director of OMB, guidelines—
   - **(1)** for the reporting, coordinating, publishing, and receiving of information about—
-    - **(A)** a security vulnerability relating to information systems owned or controlled by an agency (including Internet of Things devices owned or controlled by an agency); and
-    - **(B)** the resolution of such security vulnerability; and
-  - **(2)** for a contractor providing to an agency an information system (including an Internet of Things device) and any subcontractor thereof at any tier providing such information system to such contractor, on—
-    - **(A)** receiving information about a potential security vulnerability relating to the information system; and
-    - **(B)** disseminating information about the resolution of a security vulnerability relating to the information system.
-- **(b)** *Elements* The guidelines published under subsection (a) shall—
-  - **(1)** to the maximum extent practicable, be aligned with industry best practices and Standards 29147 and 30111 of the International Standards Organization (or any successor standard) or any other appropriate, relevant, and widely-used standard;
-  - **(2)** incorporate guidelines on—
-    - **(A)** receiving information about a potential security vulnerability relating to an information system owned or controlled by an agency (including an Internet of Things device); and
-    - **(B)** disseminating information about the resolution of a security vulnerability relating to an information system owned or controlled by an agency (including an Internet of Things device); and
-  - **(3)** be consistent with the policies and procedures produced under section 2009(m) of the Homeland Security Act of 2002 (6 U.S.C. 659(m)).
-- **(c)** *Information items* The guidelines published under subsection (a) shall include example content, on the information items that should be reported, coordinated, published, or received pursuant to this section by a contractor, or any subcontractor thereof at any tier, providing an information system (including Internet of Things device) to the Federal Government.
-- **(d)** *Oversight* The Director of OMB shall oversee the implementation of the guidelines published under subsection (a).
-- **(e)** *Operational and technical assistance* The Secretary, in consultation with the Director of OMB, shall administer the implementation of the guidelines published under subsection (a) and provide operational and technical assistance in implementing such guidelines.
+    - **(A)** a security vulnerability relating to a covered device owned or controlled by an agency; and
+    - **(B)** the resolution of such security vulnerability;
+  - **(2)** for contractors providing a covered device to the Federal Government, and any subcontractor thereof at any tier providing such device to such contractors on—
+    - **(A)** receiving information about a potential security vulnerability relating to the covered device; and
+    - **(B)** disseminating information about the resolution of a security vulnerability relating to the covered device; and
+  - **(3)** on the type of information about security vulnerabilities that should be reported to the Federal Government, including examples thereof.
+- **(b)** *Development of guidelines* In developing the guidelines under subsection (a), the Director of the Institute shall—
+  - **(1)** consult with such cybersecurity researchers and private sector industry experts as the Director considers appropriate;
+  - **(2)** to the maximum extent practicable, align such guidelines with Standards 29147 and 30111 of the International Standards Organization, or any successor standards thereof; and
+  - **(3)** ensure such guidelines are consistent with the policies and procedures developed under section 2209(m) of the Homeland Security Act of 2002 (6 U.S.C. 659(m)).
+- **(c)** *Promulgation of standards*
+  - **(1)** *In general* Not later than 180 days after the date on which the guidelines under subsection (a) are submitted, the Director of OMB, in consultation with the Administrator of General Services and the Secretary of Homeland Security, shall promulgate standards on the basis of such guidelines.
+  - **(2)** *Contract requirement for subcontracts* The standards promulgated under paragraph (1) shall include a requirement for any contract related to a covered device to include a clause that requires each contractor that provides a covered device under the contract to an agency to ensure that any covered device obtained through a subcontract, at any tier, complies with the standards and regulations promulgated under this section with respect to such covered device.
+  - **(3)** *Consistency with the Strengthening and Enhancing Cyber-capabilities by Utilizing Risk Exposure Technology Act* The Director of OMB shall ensure that the standards promulgated under paragraph (1) are consistent with section 101 of the Strengthening and Enhancing Cyber-capabilities by Utilizing Risk Exposure Technology Act (6 U.S.C. 663 note; Public Law 115–390).
+- **(d)** *Revision of Federal Acquisition Regulation* The Federal Acquisition Regulation shall be revised to implement the standards promulgated under subsection (c).
 
-## § 6. Implementation of coordinated disclosure of security vulnerabilities relating to agency information systems, including internet of things devices
+## § 7. Contractor compliance with standards and regulations
 
-- **(a)** *Agency guidelines required* Not later than 2 years after the date of the enactment of this Act, the Director of OMB, in consultation with the Secretary, shall develop and oversee the implementation of policies, principles, standards, or guidelines as may be necessary to address security vulnerabilities of information systems (including Internet of Things devices).
-- **(b)** *Operational and technical assistance* Consistent with section 3553(b) of title 44, United States Code, the Secretary, in consultation with the Director of OMB, shall provide operational and technical assistance to agencies on reporting, coordinating, publishing, and receiving information about security vulnerabilities of information systems (including Internet of Things devices).
-- **(c)** *Consistency with guidelines from national institute of standards and technology* The Secretary shall ensure that the assistance provided under subsection (b) is consistent with applicable standards and publications developed by the Director of the Institute.
-- **(d)** *Revision of federal acquisition regulation* The Federal Acquisition Regulation shall be revised as necessary to implement the provisions under this section.
+- **(a)** *In general*
+  - **(1)** *Determination*
+    - **(A)** *Compliance required* Before awarding a contract to an offeror for the procurement of a covered device, or renewing a contract to procure or obtain a covered device from a contractor, the agency Chief Information Officer shall determine if such offeror or contractor has complied with each standard promulgated under section 6(c) with respect to such covered device.
+    - **(B)** *Simplified acquisition threshold* Notwithstanding section 1905 of title 41, United States Code, the requirements under subparagraph (A) shall apply to a contract or subcontract in amounts not greater than the simplified acquisition threshold.
+  - **(2)** *Prohibition on use or procurement* The head of an agency may not procure or obtain, or renew a contract to procure or obtain, a covered device if the agency Chief Information Officer determines under paragraph (1)(A) that such offeror or contractor has not complied with a standard promulgated under section 6(c) with respect to such covered device.
+- **(b)** *Waiver* The head of an agency may waive the prohibition under subsection (a)(2) if the procurement of such covered device is necessary for national security or for research purposes.
+- **(c)** *Effective date* The prohibition under subsection (a) shall take effect one year after the date of the enactment of this Act.
 
-## § 7. Contractor compliance with coordinated disclosure of security vulnerabilities relating to agency internet of things devices
+## § 8. Institute report on cybersecurity considerations stemming from the convergence of information technology, internet of things, and operational technology devices, networks and systems
 
-- **(a)** *Prohibition on procurement and use*
-  - **(1)** *In general* The head of an agency is prohibited from procuring or obtaining, renewing a contract to procure or obtain, or using an Internet of Things device, if the Chief Information Officer of that agency determines during a review required by section 11319(b)(1)(C) of title 40, United States Code, of a contract for such device that the use of such device prevents compliance with the standards and guidelines developed under section 4 or the guidelines published under section 5 with respect to such device.
-  - **(2)** *Simplified acquisition threshold* Notwithstanding section 1905 of title 41, United States Code, the requirements under paragraph (1) shall apply to a contract or subcontract in amounts not greater than the simplified acquisition threshold.
-- **(b)** *Waiver*
-  - **(1)** *Authority* The head of an agency may waive the prohibition under subsection (a)(1) with respect to an Internet of Things device if the Chief Information Officer of that agency determines that—
-    - **(A)** the waiver is necessary in the interest of national security;
-    - **(B)** procuring, obtaining, or using such device is necessary for research purposes; or
-    - **(C)** such device is secured using alternative and effective methods appropriate to the function of such device.
-  - **(2)** *Agency process* The Director of OMB shall establish a standardized process for the Chief Information Officer of each agency to follow in determining whether the waiver under paragraph (1) may be granted.
-- **(c)** *Reports to Congress*
-  - **(1)** *Report* Every 2 years during the 6-year period beginning on the date of the enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Oversight and Reform of the House of Representatives, the Committee on Homeland Security of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate a report—
-    - **(A)** on the effectiveness of the process established under subsection (b)(2);
-    - **(B)** that contains recommended best practices for the procurement of Internet of Things devices; and
-    - **(C)** that lists—
-      - **(i)** the number and type of each Internet of Things device for which a waiver under subsection (b)(1) was granted during the 2-year period prior to the submission of the report; and
-      - **(ii)** the legal authority under which each such waiver was granted, such as whether the waiver was granted pursuant to subparagraph (A), (B), or (C) of such subsection.
-  - **(2)** *Classification of report* Each report submitted under this subsection shall be submitted in unclassified form, but may include a classified annex that contains the information described under paragraph (1)(C).
-- **(d)** *Effective date* The prohibition under subsection (a)(1) shall take effect 2 years after the date of the enactment of this Act.
+Not later than 1 year after the date of the enactment of this Act, the Director of the Institute shall publish a report on the increasing convergence, including considerations for managing potential security vulnerabilities associated with such convergence, of traditional information technology devices, networks, and systems with—
 
-## § 8. Government accountability office report on cybersecurity considerations stemming from the convergence of information technology, Internet of Things, and operational technology devices, networks, and systems
-
-- **(a)** *Briefing* Not later than 1 year after the date of the enactment of this Act, the Comptroller General of the United States shall provide a briefing to the Committee on Oversight and Reform of the House of Representatives, the Committee on Homeland Security of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate on broader Internet of Things efforts, including projects designed to assist in managing potential security vulnerabilities associated with the use of traditional information technology devices, networks, and systems with—
-  - **(1)** Internet of Things devices, networks, and systems; and
-  - **(2)** operational technology devices, networks, and systems.
-- **(b)** *Report* Not later than 2 years after the date of enactment of this Act, the Comptroller General shall submit a report to the Committee on Oversight and Reform of the House of Representatives, the Committee on Homeland Security of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate on broader Internet of Things efforts addressed in subsection (a).
+- **(1)** covered devices, networks and systems; and
+- **(2)** operational technology devices, networks and systems.
