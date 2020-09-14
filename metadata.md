@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4975
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4975
@@ -38,3 +38,10 @@ To designate the facility of the United States Postal Service located at 1201 Sy
 - 2019-11-01 — Introduced in House
 - 2019-11-01 — Introduced in House
 - 2019-11-01 — Referred to the House Committee on Oversight and Reform.
+- 2019-12-19 — Committee Consideration and Mark-up Session Held.
+- 2020-09-14 — Considered under suspension of the rules. (consideration: CR H4361-4362)
+- 2020-09-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4975.
+- 2020-09-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-14 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
+- 2020-09-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4361)
+- 2020-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
