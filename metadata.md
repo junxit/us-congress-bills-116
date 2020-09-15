@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5384
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5384
@@ -41,3 +41,4 @@ To designate the facility of the United States Postal Service located at 100 Cro
 - 2020-09-14 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
 - 2020-09-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: H4366)
 - 2020-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-09-15 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 534.
