@@ -1,7 +1,7 @@
 ---
 measure: S. 805
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-17 amendatory instructions. 3 executed, 14 stated and not applied.
+29 amendatory instructions. 4 executed, 25 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -51,6 +51,15 @@ to guess them.
 | Removed | `(2) and (3)` |
 | Inserted | `(2), (3), and (4)` |
 
+### 15 U.S.C. § 1692a
+
+> Subsection (a)(1), as designated by subsection (b)(1), is amended by striking “to subsections (b) and (d) of this section” and inserting “to paragraph (2) of this subsection, subsections (b), (c), and (e) of this section,”.
+
+| | |
+|---|---|
+| Removed | `to subsections (b) and (d) of this section` |
+| Inserted | `to paragraph (2) of this subsection, subsections (b), (c), and (e) of this section,` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -74,3 +83,14 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 1681a` | add-at-end | Chapter 53 of such title is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1681a` | add-at-end | The table of sections at the beginning of chapter 53 of such title is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1692a` | add-at-end | Section 5314 of such title, as amended by subsection (a), is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 5302A` | insert | Chapter 53 of title 38, United States Code, is amended by inserting after section 5302A the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 5302A` | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 5302A the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | by striking “other than a loan” and all that follows through the semicolon and inserting “other than—”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraphs: | the bill names no machine-readable US Code section |
+| — | amend | Chapter 53 of title 38, United States Code, is amended by adding after section 5319 the following new section: | the bill names no machine-readable US Code section |
+| — | amend | The table of sections at the beginning of such chapter is amended by adding after the item relating to section 5319 the following new item: | the bill names no machine-readable US Code section |
+| — | replace | Section 5302(a) of title 38, United States Code, is amended by striking “180 days” and inserting “one year”. | the bill names no machine-readable US Code section |
+| `15 U.S.C. § 1692a` | redesignate | by redesignating subsections (c) and (d) as subsections (d) and (e); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1692a` | insert | by inserting after subsection (b) the following new subsection (c): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1692a` | insert | by inserting “(1)” before “Subject to”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 1692a` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
