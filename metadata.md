@@ -1,7 +1,7 @@
 ---
 measure: S. 3235
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3235
@@ -16,9 +16,10 @@ Veterans Posttraumatic Growth Act
 
 - Sen. McSally, Martha [R-AZ] (M001197)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Loeffler, Kelly [R-GA] (L000594)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Veterans Posttraumatic Growth Act
 
 - 2020-01-28 — Introduced in Senate
 - 2020-01-28 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2020-08-05 — Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2020-09-15 — Committee on Veterans' Affairs. Reported by Senator Moran with an amendment in the nature of a substitute. Without written report.
+- 2020-09-15 — Committee on Veterans' Affairs. Reported by Senator Moran with an amendment in the nature of a substitute. Without written report.
+- 2020-09-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 543.
