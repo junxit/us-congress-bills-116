@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3870
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3870
@@ -64,3 +64,14 @@ To designate the facility of the United States Postal Service located at 511 Wes
 - 2020-09-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4360)
 - 2020-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
 - 2020-09-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2020-12-03 — Passed Senate without amendment by Unanimous Consent.
+- 2020-12-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-12-03 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S7220-7221)
+- 2020-12-03 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S7220-7221)
+- 2020-12-07 — Message on Senate action sent to the House.
+- 2020-12-11 — Presented to President.
+- 2020-12-11 — Presented to President.
+- 2020-12-21 — Became Public Law No: 116-234.
+- 2020-12-21 — Became Public Law No: 116-234.
+- 2020-12-21 — Signed by President.
+- 2020-12-21 — Signed by President.
