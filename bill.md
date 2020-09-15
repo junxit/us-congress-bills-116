@@ -11,18 +11,18 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Strength in Diversity Act of 2019”.
+This Act may be cited as the “Strength in Diversity Act of 2020”.
 
 ## § 2. Purpose
 
 The purpose of this Act is to support the development, implementation, and evaluation of comprehensive strategies to address the effects of racial isolation or concentrated poverty by increasing diversity, including racial diversity and socioeconomic diversity, in covered schools.
 
-## § 3. Reservation for national activities
+## § 3. Reservation for national and state activities
 
-The Secretary may reserve not more than 5 percent of the amounts made available under section 10 for a fiscal year to carry out activities of national significance relating to this Act, which may include—
-
-- **(1)** research, development, data collection, monitoring, technical assistance, evaluation, or dissemination activities; and
-- **(2)** the development and maintenance of best practices for recipients of grants under section 4 and other experts in the field of school diversity.
+- **(a)** *National activities* The Secretary may reserve not more than 5 percent of the amounts made available under section 10 for a fiscal year to carry out activities of national significance relating to this Act, which may include—
+  - **(1)** research, development, data collection, monitoring, technical assistance, evaluation, or dissemination activities; and
+  - **(2)** the development and maintenance of best practices for recipients of grants under section 4 and other experts in the field of school diversity.
+- **(b)** *State activities* The Secretary may reserve not more than 10 percent of the amounts made available under section 10 for a fiscal year for planning grants and implementation grants made to State educational agencies under section 4.
 
 ## § 4. Grant program authorized
 
@@ -34,11 +34,14 @@ The Secretary may reserve not more than 5 percent of the amounts made available 
     - **(C)** both such planning grants and implementation grants.
 - **(b)** *Award basis*
   - **(1)** *Criteria for evaluating applications* The Secretary shall award grants under this section on a competitive basis, based on—
-    - **(A)** the quality of the application submitted by an eligible entity under section 5; and
-    - **(B)** the likelihood, as determined by the Secretary, that the eligible entity will use the grant to improve student outcomes or outcomes on other performance measures described in section 7.
+    - **(A)** the quality of the application submitted by an eligible entity under section 5;
+    - **(B)** the likelihood, as determined by the Secretary, that the eligible entity will use the grant to improve student outcomes or outcomes on other performance measures described in section 7; and
+    - **(C)** the likelihood that the grant will lead to a meaningful reduction in racial and economic isolation for children in covered schools.
   - **(2)** *Priority* In awarding grants under this section, the Secretary shall give priority to the following eligible entities:
-    - **(A)** First, to an eligible entity that proposes, in an application submitted under section 5, to use the grant to support a program that addresses racial isolation.
-    - **(B)** Second, to an eligible entity that proposes, in an application submitted under section 5, to use the grant to support a program that extends beyond one local educational agency, such as an inter-district or regional program.
+    - **(A)** First, to an eligible entity that submitted an application for a grant under the Opening Doors, Expanding Opportunities program described in the notice published by the Department of Education in the Federal Register on December 14, 2016 (81 Fed. Reg. 90343 et seq.).
+    - **(B)** Second, to an eligible entity that proposes, in an application submitted under section 5, to use the grant to support a program that addresses racial isolation.
+    - **(C)** Third, to an eligible entity that proposes, in an application submitted under section 5, to use the grant to support a program that extends beyond one local educational agency, such as an inter-district or regional program.
+    - **(D)** Fourth, to an eligible entity that demonstrates meaningful coordination with local housing agencies to increase access to schools that have a disproportionately low number of low-income students.
 - **(c)** *Duration of grants*
   - **(1)** *Planning grant* A planning grant awarded under this section shall be for a period of not more than 1 year.
   - **(2)** *Implementation grant* An implementation grant awarded under this section shall be for a period of not more than 3 years, except that the Secretary may extend an implementation grant for an additional 2-year period if the eligible entity receiving the grant demonstrates to the Secretary that the eligible entity is making significant progress, as determined by the Secretary, on the program performance measures described in section 7.
@@ -48,7 +51,7 @@ The Secretary may reserve not more than 5 percent of the amounts made available 
 In order to receive a grant under section 4, an eligible entity shall submit an application to the Secretary at such time and in such manner as the Secretary may require. Such application shall include—
 
 - **(1)** a description of the program for which the eligible entity is seeking a grant, including—
-  - **(A)** how the eligible entity proposes to use the grant to improve the academic and life outcomes of students in racial or socioeconomic isolation in covered schools by supporting interventions that increase diversity in such covered schools;
+  - **(A)** how the eligible entity proposes to use the grant to improve the academic and life outcomes of students in racial or socioeconomic isolation in covered schools by supporting interventions that increase diversity for students in such covered schools;
   - **(B)** in the case of an implementation grant, the implementation grant plan described in section 6(b)(1); and
   - **(C)** evidence, or if such evidence is not available, a rationale based on current research, regarding how the program will increase diversity;
 - **(2)** in the case of an eligible entity proposing to use any of the grant to benefit covered schools that are racially isolated, a description of how the eligible entity will identify and define racial isolation;
@@ -64,23 +67,30 @@ In order to receive a grant under section 4, an eligible entity shall submit an 
 - **(8)** an assurance that the eligible entity will—
   - **(A)** cooperate with the Secretary in evaluating the program, including any evaluation that might require data and information from multiple recipients of grants under section 4; and
   - **(B)** engage in the best practices developed under section 3(2);
-- **(9)** an assurance that, to the extent possible, the eligible entity has considered the potential implications of the grant activities on the demographics and student enrollment of nearby covered schools not included in the activities of the grant; and
+- **(9)** an assurance that, to the extent possible, the eligible entity has considered the potential implications of the grant activities on the demographics and student enrollment of nearby covered schools not included in the activities of the grant;
 - **(10)** in the case of an eligible entity applying for an implementation grant, a description of how the eligible entity will—
   - **(A)** implement, replicate, or expand a strategy based on a strong or moderate level of evidence (as described in subclause (I) or (II) of section 8101(21)(A)(i) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(21)(A)(i))); or
-  - **(B)** test a promising strategy to increase diversity in covered schools.
+  - **(B)** test a promising strategy to increase diversity in covered schools;
+- **(11)** in the case of an application by a consortium of local educational agencies, a specification of which agency is the lead applicant, and how the grant funds will be divided among the school districts served by such consortium; and
+- **(12)** in the case of an application by a State education agency, a demonstration that the agency has procedures in place—
+  - **(A)** to assess and prevent the redrawing of school district lines in a manner that increases racial or socioeconomic isolation;
+  - **(B)** to assess the segregation impacts of new school construction proposals and to prioritize school construction funding that will foreseeably increase racial and economic integration; and
+  - **(C)** to include progress toward reduction of racial and economic isolation as a factor in its State plan under section 1111 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311).
 
 ## § 6. Uses of funds
 
 - **(a)** *Planning grants* Each eligible entity that receives a planning grant under section 4 shall use the grant to support students in covered schools through the following activities:
   - **(1)** Completing a comprehensive assessment of, with respect to the geographic area served by such eligible entity—
-    - **(A)** the educational outcomes and racial and socioeconomic stratification of children attending covered schools; and
-    - **(B)** an analysis of the location and capacity of program and school facilities and the adequacy of local or regional transportation infrastructure.
+    - **(A)** the educational outcomes and racial and socioeconomic stratification of children attending covered schools;
+    - **(B)** an analysis of the location and capacity of program and school facilities and the adequacy of local or regional transportation infrastructure; and
+    - **(C)** teacher diversity in covered schools, and plans for expanding teacher diversity.
   - **(2)** Developing and implementing a robust family, student, and community engagement plan, including, where feasible, public hearings or other open forums that would precede and inform the development of a formal strategy to improve diversity in covered schools.
   - **(3)** Developing options, including timelines and cost estimates, for improving diversity in covered schools, such as weighted lotteries, revised feeder patterns, school boundary redesign, or regional coordination.
   - **(4)** Developing an implementation plan based on community preferences among the options developed under paragraph (3).
   - **(5)** Building the capacity to collect and analyze data that provide information for transparency, continuous improvement, and evaluation.
   - **(6)** Developing an implementation plan to comply with a court-ordered school desegregation plan.
   - **(7)** Engaging in best practices developed under section 3(2).
+  - **(8)** If applicable, developing an implementation plan to replace entrance exams or other competitive application procedures with methods of student assignment to promote racial and socioeconomic diversity.
 - **(b)** *Implementation grants*
   - **(1)** *Implementation grant plan* Each eligible entity that receives an implementation grant under section 4 shall implement a high-quality plan to support students in covered schools that includes—
     - **(A)** a comprehensive set of strategies designed to improve academic outcomes for all students, particularly students of color and low-income students, by increasing diversity in covered schools;
@@ -89,11 +99,12 @@ In order to receive a grant under section 4, an eligible entity shall submit an 
     - **(D)** collection and analysis of data to provide transparency and support continuous improvement throughout the grant period; and
     - **(E)** a rigorous method of evaluation of the effectiveness of the program.
   - **(2)** *Implementation grant activities* Each eligible entity that receives an implementation grant under section 4 may use the grant to carry out one or more of the following activities:
-    - **(A)** Recruiting, hiring, or training additional teachers, administrators, and other instructional and support staff in new, expanded, or restructured covered schools, or other professional development activities for staff and administrators.
+    - **(A)** Recruiting, hiring, or training additional teachers, administrators, school counselors, and other instructional and support staff in new, expanded, or restructured covered schools, or other professional development activities for staff and administrators.
     - **(B)** Investing in specialized academic programs or facilities designed to encourage inter-district school attendance patterns.
     - **(C)** Developing or initiating a transportation plan for bringing students to and from covered schools, if such transportation is sustainable beyond the grant period and does not represent a significant portion of the grant received by an eligible entity under section 4.
     - **(D)** Developing innovative and equitable school assignment plans.
     - **(E)** Carrying out innovative activities designed to increase racial and socioeconomic school diversity and engagement between children from different racial, economic, and cultural backgrounds.
+    - **(F)** Creating or improving systems and partnerships to create a one-stop enrollment process for students with multiple public school options, including making school information and data more accessible and easy to understand, in order to ensure access to low poverty or high-performing schools for low-income children and to promote racial and socioeconomic diversity.
 
 ## § 7. Performance measures
 
@@ -104,8 +115,9 @@ The Secretary shall establish performance measures for the programs and activiti
   - **(B)** increasing student achievement and decreasing achievement gaps;
   - **(C)** increasing high school graduation rates;
   - **(D)** increasing readiness for postsecondary education and careers;
-  - **(E)** reducing school discipline rates; and
-  - **(F)** any other indicator the Secretary or eligible entity may identify; and
+  - **(E)** improving access to mental health and social-emotional learning;
+  - **(F)** reducing school discipline rates; and
+  - **(G)** any other indicator the Secretary or eligible entity may identify; and
 - **(2)** increasing diversity and decreasing racial or socioeconomic isolation in covered schools.
 
 ## § 8. Annual reports
@@ -113,8 +125,10 @@ The Secretary shall establish performance measures for the programs and activiti
 An eligible entity that receives a grant under section 4 shall submit to the Secretary, at such time and in such manner as the Secretary may require, an annual report that includes—
 
 - **(1)** a description of the efforts of the eligible entity to increase inclusivity;
-- **(2)** information on the progress of the eligible entity with respect to the performance measures described in section 7; and
-- **(3)** the data supporting such progress.
+- **(2)** information on the progress of the eligible entity with respect to the performance measures described in section 7;
+- **(3)** the data supporting such progress;
+- **(4)** a description of how the eligible entity will continue to make improvements toward increasing diversity and decreasing racial or socioeconomic isolation in covered schools and sustaining inclusion; and
+- **(5)** information on the progress of regional programs on reducing racial and socioeconomic isolation in covered schools, if applicable.
 
 ## § 9. Applicability
 
@@ -132,6 +146,6 @@ In this Act:
   - **(A)** a publicly-funded early childhood education program;
   - **(B)** a public elementary school; or
   - **(C)** a public secondary school.
-- **(2)** *Eligible entity* The term eligible entity means a local educational agency, a consortium of such agencies, an educational service agency, or regional educational agency that at the time of the application of such eligible entity has significant achievement gaps and socioeconomic or racial segregation within or between the school districts served by such entity.
-- **(3)** *ESEA terms* The terms educational service agency, elementary school, local educational agency, secondary school, and Secretary have the meanings given such terms in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
+- **(2)** *Eligible entity* The term eligible entity means a State educational agency, a local educational agency, a consortium of such agencies, an educational service agency, or regional educational agency that at the time of the application of such eligible entity has significant achievement gaps and socioeconomic or racial segregation within or between the school districts served by such entity.
+- **(3)** *ESEA terms* The terms educational service agency, elementary school, local educational agency, secondary school, Secretary, and State educational agency have the meanings given such terms in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
 - **(4)** *Publicly-funded early childhood education program* The term publicly-funded early childhood education program means an early childhood education program (as defined in section 103(8) of the Higher Education Act of 1965 (20 U.S.C. 1003(8)) that receives State or Federal funds.

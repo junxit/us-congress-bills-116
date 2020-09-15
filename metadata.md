@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2639
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2639
@@ -138,3 +138,68 @@ Strength in Diversity Act of 2020
 - 2020-09-08 — Placed on the Union Calendar, Calendar No. 397.
 - 2020-09-08 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 116-496.
 - 2020-09-08 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 116-496.
+- 2020-09-14 — Rules Committee Resolution H. Res. 1107 Reported to House. Rule provides for consideration of H.R. 2574, H.R. 2639, H.R. 2694 and H. Res. 908. Provides for one hour of debate on each measure. The previous question will be considered as ordered on each measure without intervening motions except for one motion to recommit with or without instructions on H.R. 2574, H.R. 2639, and H.R. 2694.
+- 2020-09-15 — Amendment (A002) offered by Mrs. Torres (CA). (consideration: CR H4407-4408; text: CR H4407)
+- 2020-09-15 — Amendment (A003) offered by Mr. Allen. (consideration: CR H4408-4409, H4413-4414; text: CR H4408)
+- 2020-09-15 — Amendment (A005) offered by Ms. Dean. (consideration: CR H4411-4412; text: CR H4411)
+- 2020-09-15 — Amendment (A006) offered by Mr. Moulton. (consideration: CR H4412-4413, H4414-4415; text: CR H4412)
+- 2020-09-15 — Amendment agreed to by House: On agreeing to the Dean amendment (A005) Agreed to by voice vote.
+- 2020-09-15 — Amendment agreed to by House: On agreeing to the Fudge amendments (A004) Agreed to by voice vote.
+- 2020-09-15 — Amendment agreed to by House: On agreeing to the Moulton amendment (A006) Agreed to by the Yeas and Nays: 379 - 34 (Roll no. 188).
+- 2020-09-15 — Amendment agreed to by House: On agreeing to the Torres (CA) amendment (A002) Agreed to by voice vote.
+- 2020-09-15 — Amendment failed by House: On agreeing to the Allen amendment (A003) Failed by the Yeas and Nays: 171 - 243 (Roll no. 187).
+- 2020-09-15 — Amendment in the nature of a substitute reported by the House Committee on Rules. (consideration: CR H4400-4407; text: CR H4400-4401)
+- 2020-09-15 — Amendments en bloc (A004) offered by Ms. Fudge. (consideration: CR H4409-4411; text: CR H4409-4410)
+- 2020-09-15 — Considered as unfinished business. (consideration: CR H4414-4416)
+- 2020-09-15 — Considered under the provisions of rule H. Res. 1107. (consideration: CR H4400-4414)
+- 2020-09-15 — DEBATE - Pursuant to the provisions of H. Res. 1107, the House proceeded with 10 minutes of debate on the Allen amendment No. 2.
+- 2020-09-15 — DEBATE - Pursuant to the provisions of H. Res. 1107, the House proceeded with 10 minutes of debate on the Dean amendment No. 6.
+- 2020-09-15 — DEBATE - Pursuant to the provisions of H. Res. 1107, the House proceeded with 10 minutes of debate on the Moulton amendment No. 9.
+- 2020-09-15 — DEBATE - Pursuant to the provisions of H. Res. 1107, the House proceeded with 10 minutes of debate on the Torres (CA) amendment No. 1.
+- 2020-09-15 — DEBATE - Pursuant to the provisions of H. Res. 1107, the House proceeded with 20 minutes of debate on the Fudge en bloc amendment No. 1.
+- 2020-09-15 — DEBATE - The House proceeded with one hour of debate on H.R. 2639.
+- 2020-09-15 — House amendment agreed to: On agreeing to the Dean amendment (A005) Agreed to by voice vote.
+- 2020-09-15 — House amendment agreed to: On agreeing to the Fudge amendments (A004) Agreed to by voice vote.
+- 2020-09-15 — House amendment agreed to: On agreeing to the Moulton amendment (A006) Agreed to by the Yeas and Nays: 379 - 34 (Roll no. 188).
+- 2020-09-15 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2020-09-15 — House amendment agreed to: On agreeing to the Torres (CA) amendment (A002) Agreed to by voice vote.
+- 2020-09-15 — House amendment not agreed to: On agreeing to the Allen amendment (A003) Failed by the Yeas and Nays: 171 - 243 (Roll no. 187).
+- 2020-09-15 — House amendment offered
+- 2020-09-15 — House amendment offered
+- 2020-09-15 — House amendment offered
+- 2020-09-15 — House amendment offered
+- 2020-09-15 — House amendment offered
+- 2020-09-15 — House amendment offered
+- 2020-09-15 — House amendment offered/reported by: Amendment (A002) offered by Mrs. Torres (CA).
+- 2020-09-15 — House amendment offered/reported by: Amendment (A003) offered by Mr. Allen.
+- 2020-09-15 — House amendment offered/reported by: Amendment (A005) offered by Ms. Dean.
+- 2020-09-15 — House amendment offered/reported by: Amendment (A006) offered by Mr. Moulton.
+- 2020-09-15 — House amendment offered/reported by: Amendments en bloc (A004) offered by Ms. Fudge.
+- 2020-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-15 — On agreeing to the Allen amendment (A003) Failed by the Yeas and Nays: 171 - 243 (Roll no. 187).
+- 2020-09-15 — On agreeing to the Dean amendment (A005) Agreed to by voice vote.
+- 2020-09-15 — On agreeing to the Fudge amendments (A004) Agreed to by voice vote.
+- 2020-09-15 — On agreeing to the Moulton amendment (A006) Agreed to by the Yeas and Nays: 379 - 34 (Roll no. 188).
+- 2020-09-15 — On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2020-09-15 — On agreeing to the Torres (CA) amendment (A002) Agreed to by voice vote.
+- 2020-09-15 — On passage Passed by the Yeas and Nays: 248 - 167 (Roll no. 189).
+- 2020-09-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Allen amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Allen demanded the yeas and nays and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2020-09-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Moulton amendment, the Chair put the question on the amendment and by voice vote, announced that the ayes had prevailed. Ms. Foxx (NC) demanded the yeas and nays and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.
+- 2020-09-15 — POSTPONED PROCEEDINGS - The Chair announced that pursant to clause 1(c) of Rule XIX, further consideration of H.R. 2639 is postponed.
+- 2020-09-15 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 248 - 167 (Roll no. 189).
+- 2020-09-15 — Roll call votes on amendments in House
+- 2020-09-15 — Roll call votes on amendments in House
+- 2020-09-15 — Rule provides for consideration of H.R. 2574, H.R. 2639, H.R. 2694 and H. Res. 908. Provides for one hour of debate on each measure. The previous question will be considered as ordered on each measure without intervening motions except for one motion to recommit with or without instructions on H.R. 2574, H.R. 2639, and H.R. 2694.
+- 2020-09-15 — The previous question was ordered on the amendment (A002) pursuant to the rule.
+- 2020-09-15 — The previous question was ordered on the amendment (A003) pursuant to the rule.
+- 2020-09-15 — The previous question was ordered on the amendment (A004) pursuant to the rule.
+- 2020-09-15 — The previous question was ordered on the amendment (A005) pursuant to the rule.
+- 2020-09-15 — The previous question was ordered on the amendment (A006) pursuant to the rule.
+- 2020-09-15 — The previous question was ordered pursuant to the rule.
+- 2020-09-15 — UNFINISHED BUSINESS - The Chair announced that the unfinihsed business was on agreeing to the Allen amendment No. 2, which was debated earlier and on which further proceedings had been postponed.
+- 2020-09-15 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the Moulton amendment No. 9, which was debated earlier and on which further proceedings had been postponed.
+- 2020-09-15 — Without objection, the motion to reconsider is laid upon the table.
+- 2020-09-15 — Without objection, the motion to reconsider is laid upon the table.
+- 2020-09-15 — Without objection, the motion to reconsider is laid upon the table.
+- 2020-09-15 — Without objection, the motion to reconsider is laid upon the table.
+- 2020-09-15 — Without objection, the motion to reconsider is laid upon the table.
