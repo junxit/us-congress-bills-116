@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5597
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5597
@@ -23,9 +23,10 @@ To designate the facility of the United States Postal Service located at 305 Nor
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
 - Rep. Cole, Tom [R-OK-4] (C001053)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ To designate the facility of the United States Postal Service located at 305 Nor
 - 2020-09-14 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
 - 2020-09-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4358)
 - 2020-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-09-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
