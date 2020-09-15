@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6078
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6078
@@ -20,9 +20,10 @@ Microloan Transparency and Accountability Act of 2020
 
 - Rep. Kim, Andy [D-NJ-3] (K000394)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Microloan Transparency and Accountability Act of 2020
 - 2020-09-14 — Ms. Velazquez moved to suspend the rules and pass the bill, as amended.
 - 2020-09-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4347)
 - 2020-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-09-15 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
