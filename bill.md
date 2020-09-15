@@ -1,0 +1,22 @@
+---
+legis-num: H. RES. 1109
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 1109
+
+> Recognizing the 40th anniversary of the founding of The Planetary Society.
+
+## Preamble
+
+- Whereas, in 1980, Carl Sagan, Louis Friedman, and Bruce Murray founded The Planetary Society;
+- Whereas The Planetary Society was created to teach the public about space exploration and advocate for increased Federal support for the National Aeronautics and Space Administration (NASA);
+- Whereas The Planetary Society continues this work today as the world’s largest nonprofit space organization;
+- Whereas The Planetary Society is supported by more than 50,000 members in over 100 countries and by hundreds of volunteers around the world;
+- Whereas The Planetary Society advocates for space and planetary science funding in government, inspires and educates people around the world, and develops and funds groundbreaking space science and technology;
+- Whereas The Planetary Society introduces people to the wonders of the cosmos by bridging the gap between the scientific community and the general public to inspire and educate people from all walks of life; and
+- Whereas The Planetary Society gives every citizen of planet Earth the opportunity to make their voices heard in support of space exploration: Now, therefore, be it
+
+That the House of Representatives recognizes the 40th anniversary of the founding of The Planetary Society for its commitment to exploring the cosmos and understanding our place in it, searching for life elsewhere in the universe, and protecting Earth from asteroids and comets.
