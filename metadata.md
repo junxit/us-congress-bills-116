@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4894
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4894
@@ -54,3 +54,4 @@ Congressional Budget Justification Transparency Act of 2020
 - 2020-09-14 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill, as amended.
 - 2020-09-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 1 (Roll no. 183). (text: CR H4348-4349)
 - 2020-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 1 (Roll no. 183).
+- 2020-09-15 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 533.
