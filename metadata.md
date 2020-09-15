@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4734
 congress: 116
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4734
@@ -44,3 +44,12 @@ To designate the facility of the United States Postal Service located at 171 Sou
 - 2020-09-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4364)
 - 2020-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
 - 2020-09-15 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 532.
+- 2020-11-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7082)
+- 2020-11-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7082)
+- 2020-11-19 — Message on Senate action sent to the House.
+- 2020-11-24 — Presented to President.
+- 2020-11-24 — Presented to President.
+- 2020-12-03 — Became Public Law No: 116-200.
+- 2020-12-03 — Became Public Law No: 116-200.
+- 2020-12-03 — Signed by President.
+- 2020-12-03 — Signed by President.
