@@ -1,7 +1,7 @@
 ---
 measure: S. 3643
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3643
@@ -16,9 +16,10 @@ VA Mission Telehealth Clarification Act
 
 - Sen. Loeffler, Kelly [R-GA] (L000594)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ VA Mission Telehealth Clarification Act
 
 - 2020-05-07 — Introduced in Senate
 - 2020-05-07 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2020-08-05 — Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.
+- 2020-09-15 — Committee on Veterans' Affairs. Reported by Senator Moran without amendment. Without written report.
+- 2020-09-15 — Committee on Veterans' Affairs. Reported by Senator Moran without amendment. Without written report.
+- 2020-09-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 545.
