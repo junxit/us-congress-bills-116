@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4447
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -18,18 +18,15 @@ This Act may be cited as the “Expanding Access to Sustainable Energy Act of 20
 - **(a)** *Definitions* In this Act:
   - **(1)** *Eligible entity* The term eligible entity means—
     - **(A)** a rural electric cooperative; or
-    - **(B)** a nonprofit organization working with at least 6 or more rural electric cooperatives.
-  - **(2)** *Energy storage* The term energy storage means the use of a system, equipment, facility, or technology that—
-    - **(A)** is capable of absorbing energy, storing that energy for a period of time, and dispatching the stored energy; and
-    - **(B)**
-      - **(i)** uses a mechanical, electrochemical, or thermal process to store energy that—
-        - **(I)** was generated at an earlier time for use at a later time; or
-        - **(II)** was generated from a mechanical process, and would otherwise be wasted, for delivery at a later time; or
-      - **(ii)** stores thermal energy for direct use for heating or cooling at a later time in a manner that avoids the need to use electricity at that later time, including the storage and use offered by a grid-enabled water heater.
-  - **(3)** *Island* The term island, with respect to a distributed generator or energy storage equipment, means that the generator or equipment continues to power a location in the absence of electric power from a primary source.
+    - **(B)** a nonprofit organization working with at least 6 rural electric cooperatives.
+  - **(2)** *Energy storage* The term energy storage means the use of equipment or facilities relating to the electric grid that are capable of absorbing and converting energy, as applicable, storing the energy for a period of time, and dispatching the energy, that—
+    - **(A)** use mechanical, electrochemical, biochemical, or thermal processes, to convert and store energy that was generated at an earlier time for use at a later time;
+    - **(B)** use mechanical, electrochemical, biochemical, or thermal processes to convert and store energy generated from mechanical processes that would otherwise be wasted for delivery at a later time; or
+    - **(C)** convert and store energy in an electric, thermal, or gaseous state for direct use for heating or cooling at a later time in a manner that avoids the need to use electricity or other fuel sources at that later time, as is offered by grid-enabled water heaters.
+  - **(3)** *Island* The term island mode means a mode in which a distributed generator or energy storage device continues to power a location in the absence of electric power from the primary source.
   - **(4)** *Microgrid* The term microgrid means an interconnected system of loads and distributed energy resources, including generators and energy storage devices, within clearly defined electrical boundaries that—
-    - **(A)** acts as a single controllable entity with respect to the grid; and
-    - **(B)** can connect and disconnect from the grid to operate in both grid-connected mode and island mode.
+    - **(A)** acts as a single controllable entity with respect to the electric grid; and
+    - **(B)** can connect to, and disconnect from, the electric grid to operate in both grid-connected mode and island mode.
   - **(5)** *Renewable energy source* The term renewable energy source has the meaning given the term in section 609(a) of the Public Utility Regulatory Policies Act of 1978 (7 U.S.C. 918c(a)).
   - **(6)** *Rural electric cooperative* The term rural electric cooperative means an electric cooperative (as defined in section 3 of the Federal Power Act (16 U.S.C. 796)) that sells electric energy to persons in rural areas.
   - **(7)** *Secretary* The term Secretary means the Secretary of Energy.
@@ -54,16 +51,16 @@ This Act may be cited as the “Expanding Access to Sustainable Energy Act of 20
       - **(iv)** to perform a cost-benefit analysis with respect to an energy storage or microgrid project;
       - **(v)** to plan for both the short- and long-term inclusion of energy storage or microgrid projects into the future development plans of the eligible entity; or
       - **(vi)** to purchase and install necessary equipment, materials, and supplies for demonstration of emerging technologies; and
-    - **(B)** may use the grant to obtain technical assistance from experts in carrying out the activities described in this Act.
+    - **(B)** may use the grant to obtain technical assistance from experts in carrying out the activities described in subparagraph (A).
   - **(4)** *Condition* As a condition of receiving a grant under paragraph (1), an eligible entity shall—
-    - **(A)** implement a public awareness campaign about the project implemented under the grant in the community in which the eligible entity is located;
+    - **(A)** implement a public awareness campaign, in coordination with the Secretary, about the project implemented under the grant in the community in which the eligible entity is located;
     - **(B)** submit to the Secretary, and make available to the public, a report that describes—
       - **(i)** any energy cost savings and environmental benefits achieved under the project; and
       - **(ii)** the results of the project, including quantitative assessments to the extent practicable, associated with each activity described in paragraph (3)(A); and
-    - **(C)** create and disseminate useful or innovative tools and resources that will benefit other rural electric cooperatives, which may include cost calculators, guidebooks, handbooks, templates and training courses.
+    - **(C)** create and disseminate tools and resources that will benefit other rural electric cooperatives, which may include cost calculators, guidebooks, handbooks, templates, and training courses.
   - **(5)** *Cost-share* Activities under this subsection shall be subject to the cost-sharing requirements of section 988 of the Energy Policy Act of 2005 (42 U.S.C. 16352).
 - **(d)** *Technical assistance*
-  - **(1)** *In general* The Secretary shall carry out subsection (a)(2) by providing eligible entities with technical assistance relating to—
+  - **(1)** *In general* In carrying out the program established under subsection (a), the Secretary shall provide eligible entities with technical assistance relating to—
     - **(A)** identifying opportunities for energy storage and microgrid projects;
     - **(B)** understanding the technical and economic characteristics of energy storage or microgrid projects;
     - **(C)** understanding financing alternatives;
@@ -71,9 +68,9 @@ This Act may be cited as the “Expanding Access to Sustainable Energy Act of 20
     - **(E)** obtaining case studies of similar and successful energy storage or microgrid projects;
     - **(F)** reviewing and obtaining computer software for assessment, design, and operation and maintenance of energy storage or microgrid systems; and
     - **(G)** understanding and utilizing the reliability and resiliency benefits of energy storage and microgrid projects.
-  - **(2)** *External contracts* In carrying out subsection (a)(2), the Secretary may enter into contracts with third-party experts, including engineering, finance, and insurance experts, to provide technical assistance to eligible entities relating to the activities described in subparagraphs (A) through (G) of paragraph (1), or other relevant activities, as determined by the Secretary.
+  - **(2)** *External contracts* In carrying out paragraph (1), the Secretary may enter into contracts with third-party experts, including engineering, finance, and insurance experts, to provide technical assistance to eligible entities relating to the activities described in such paragraph, or other relevant activities, as determined by the Secretary.
 
 ## § 4. Authorization of appropriations
 
-- **(a)** *In general* There is authorized to be appropriated to carry out this Act $5,000,000 for each of fiscal years 2020 through 2025.
+- **(a)** *In general* There is authorized to be appropriated to carry out this Act $5,000,000 for each of fiscal years 2021 through 2025.
 - **(b)** *Administrative costs* Not more than 5 percent of the amount appropriated under subsection (a) for each fiscal year shall be used for administrative expenses.
