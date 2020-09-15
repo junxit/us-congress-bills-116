@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5597
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5597
@@ -42,3 +42,14 @@ To designate the facility of the United States Postal Service located at 305 Nor
 - 2020-09-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4358)
 - 2020-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
 - 2020-09-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2020-12-17 — Passed Senate without amendment by Unanimous Consent.
+- 2020-12-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-12-17 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2020-12-17 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S7643-7644)
+- 2020-12-18 — Message on Senate action sent to the House.
+- 2020-12-24 — Presented to President.
+- 2020-12-24 — Presented to President.
+- 2021-01-05 — Became Public Law No: 116-303.
+- 2021-01-05 — Became Public Law No: 116-303.
+- 2021-01-05 — Signed by President.
+- 2021-01-05 — Signed by President.
