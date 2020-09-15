@@ -1,7 +1,7 @@
 ---
 measure: S. 805
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 805
@@ -16,7 +16,7 @@ SHIELD for Veterans Act of 2020
 
 - Sen. Tester, Jon [D-MT] (T000464)
 
-## Cosponsors (8)
+## Cosponsors (10)
 
 - Sen. Boozman, John [R-AR] (B001236)
 - Sen. Brown, Sherrod [D-OH] (B000944)
@@ -26,6 +26,8 @@ SHIELD for Veterans Act of 2020
 - Sen. Warren, Elizabeth [D-MA] (W000817)
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
 
 ## Committees (1)
 
@@ -35,3 +37,8 @@ SHIELD for Veterans Act of 2020
 
 - 2019-03-14 — Introduced in Senate
 - 2019-03-14 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2019-05-22 — Committee on Veterans' Affairs. Hearings held.
+- 2020-08-05 — Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2020-09-15 — Committee on Veterans' Affairs. Reported by Senator Moran with an amendment in the nature of a substitute. Without written report.
+- 2020-09-15 — Committee on Veterans' Affairs. Reported by Senator Moran with an amendment in the nature of a substitute. Without written report.
+- 2020-09-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 539.
