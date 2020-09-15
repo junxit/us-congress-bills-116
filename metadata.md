@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1668
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1668
@@ -72,3 +72,12 @@ IoT Cybersecurity Improvement Act of 2020
 - 2020-09-14 — Reported (Amended) by the Committee on Oversight and Reform. H. Rept. 116-501, Part I.
 - 2020-09-14 — The title of the measure was amended. Agreed to without objection.
 - 2020-09-15 — Received in the Senate, read twice.
+- 2020-11-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7043-7044)
+- 2020-11-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7043-7044)
+- 2020-11-18 — Message on Senate action sent to the House.
+- 2020-11-24 — Presented to President.
+- 2020-11-24 — Presented to President.
+- 2020-12-04 — Became Public Law No: 116-207.
+- 2020-12-04 — Became Public Law No: 116-207.
+- 2020-12-04 — Signed by President.
+- 2020-12-04 — Signed by President.
