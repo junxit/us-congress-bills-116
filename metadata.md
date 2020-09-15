@@ -1,7 +1,7 @@
 ---
 measure: S. 711
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 711
@@ -16,7 +16,7 @@ CARE for Reservists Act of 2019
 
 - Sen. Tester, Jon [D-MT] (T000464)
 
-## Cosponsors (8)
+## Cosponsors (10)
 
 - Sen. Moran, Jerry [R-KS] (M000934)
 - Sen. Baldwin, Tammy [D-WI] (B001230)
@@ -26,6 +26,8 @@ CARE for Reservists Act of 2019
 - Sen. Manchin, Joe, III [D-WV] (M001183)
 - Sen. Tillis, Thomas [R-NC] (T000476)
 - Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Gardner, Cory [R-CO] (G000562)
 
 ## Committees (1)
 
@@ -35,3 +37,8 @@ CARE for Reservists Act of 2019
 
 - 2019-03-07 — Introduced in Senate
 - 2019-03-07 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2019-05-22 — Committee on Veterans' Affairs. Hearings held.
+- 2020-08-05 — Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.
+- 2020-09-15 — Committee on Veterans' Affairs. Reported by Senator Moran without amendment. Without written report.
+- 2020-09-15 — Committee on Veterans' Affairs. Reported by Senator Moran without amendment. Without written report.
+- 2020-09-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 538.
