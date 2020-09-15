@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6021
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6021
@@ -20,9 +20,10 @@ Northern Mariana Islands Small Business Development Act
 
 - Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Northern Mariana Islands Small Business Development Act
 - 2020-09-14 — Ms. Velazquez moved to suspend the rules and pass the bill.
 - 2020-09-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4345-4346)
 - 2020-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-09-15 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
