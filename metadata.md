@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5062
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5062
@@ -45,9 +45,10 @@ To designate the facility of the United States Postal Service located at 9930 Co
 - Rep. Mucarsel-Powell, Debbie [D-FL-26] (M001207)
 - Rep. Shalala, Donna E. [D-FL-27] (S001206)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -61,3 +62,4 @@ To designate the facility of the United States Postal Service located at 9930 Co
 - 2020-09-14 — Mrs. Maloney, Carolyn B. moved to suspend the rules and pass the bill.
 - 2020-09-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4360)
 - 2020-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-09-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
