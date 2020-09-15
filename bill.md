@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2558
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -17,7 +17,7 @@ This Act may be cited as the “Nursing Home Care for Native American Veterans A
 
 - **(a)** *State home defined* Section 101(19) of title 38, United States Code, is amended by inserting “or Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304))” after “(other than a possession)”.
 - **(b)** *Payments to State homes* Section 1741 of title 38, United States Code, is amended by adding at the end the following new subsection:
-  > - **(h)** In this subchapter, the term State means each of the several States and each Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304)).
+  > - **(g)** In this subchapter, the term State means each of the several States and each Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304)).
 
 - **(c)** *State home construction*
   - **(1)** *In general* Section 8131(2) of title 38, United States Code, is amended by inserting “includes each Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304)) but” before “does not”.
