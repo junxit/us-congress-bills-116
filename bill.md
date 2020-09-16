@@ -24,7 +24,7 @@ Congress finds the following:
 - **(5)** According to the National Center for Education Statistics, nine million students in the United States—nearly 20 percent of the total K–12 population—attend rural schools, and for reasons ranging from teacher quality to shortages of resources, these students often have fewer opportunities for high-quality STEM learning than their peers in the Nation’s urban and suburban schools.
 - **(6)** Rural areas represent one of the most promising, yet underutilized, opportunities for STEM education to impact workforce development and regional innovation, including agriculture.
 - **(7)** The study of agriculture, food, and natural resources involves biology, engineering, physics, chemistry, math, geology, computer science, and other scientific fields.
-- **(8)** It is estimated that by 2020 that there will be a projected one million more computing jobs than applicants who can fill them. To meet this demand, rural students must acquire computing skills through exposure to computer science learning in grades PreK - 12 and in informal learning settings.
+- **(8)** Employment in computer and information technology occupations is projected to grow 11 percent from 2019 to 2029. To help meet this demand, it is important rural students have the opportunity to acquire computing skills through exposure to computer science learning in grades Pre-K through 12 and in informal learning settings.
 - **(9)** More than 293,000,000 individuals in the United States use high-speed broadband to work, learn, access healthcare, and operate their businesses, while 19,000,000 individuals in the United States still lack access to high-speed broadband. Rural areas are hardest hit, with over 26 percent of individuals in rural areas in the United States lacking access to high-speed broadband compared to 1.7 percent of individuals in urban areas in the United States.
 
 ## § 3. National Science Foundation rural STEM activities
@@ -52,16 +52,16 @@ Congress finds the following:
       - **(ii)** supporting research on effective STEM practices in rural settings;
       - **(iii)** implementing a school-wide STEM approach;
       - **(iv)** improving the National Science Foundation’s Advanced Technology Education program’s coordination and engagement with rural communities;
-      - **(v)** collaborating with existing community partners and networks, such as the cooperative research and extension services of the Department of Agriculture and youth serving organizations like 4-H, after school STEM programs, and summer STEM programs, to leverage community resources and develop place-based programming;
+      - **(v)** collaborating with existing community partners and networks, such as the cooperative research and extension services of the Department of Agriculture and youth serving organizations like 4–H, after school STEM programs, and summer STEM programs, to leverage community resources and develop place-based programming;
       - **(vi)** connecting rural school districts and institutions of higher education, to improve precollegiate STEM education and engagement;
-      - **(vii)** supporting partnerships that offer hands-on inquiry-based science activities, including coding, and access to lab resources for students studying STEM in grades Pre–K through 12 in a rural area;
+      - **(vii)** supporting partnerships that offer hands-on inquiry-based science activities, including coding, and access to lab resources for students studying STEM in grades Pre-K through 12 in a rural area;
       - **(viii)** evaluating the role of broadband connectivity and its associated impact on the STEM and technology literacy of rural students;
       - **(ix)** building capacity to support extracurricular STEM programs in rural schools, including mentor-led engagement programs, STEM programs held during nonschool hours, STEM networks, makerspaces, coding activities, and competitions; and
       - **(x)** any other activity the Director determines will accomplish the goals of this subsection.
 - **(c)** *Application* An applicant seeking a grant under subsection (a) or (b) shall submit an application at such time, in such manner, and containing such information as the Director may require. The application may include the following:
   - **(1)** A description of the target population to be served by the research activity or activities for which such grant is sought.
   - **(2)** A description of the process for recruitment and selection of students, educators, or schools from rural areas to participate in such activity or activities.
-  - **(3)** A description of how such activity or activities may inform efforts to promote the engagement and achievement of rural students in grades PreK - 12 in STEM studies.
+  - **(3)** A description of how such activity or activities may inform efforts to promote the engagement and achievement of rural students in grades Pre-K through 12 in STEM studies.
   - **(4)** In the case of a proposal consisting of a partnership or partnerships with one or more rural schools and one or more researchers, a plan for establishing a sustained partnership that is jointly developed and managed, draws from the capacities of each partner, and is mutually beneficial.
 - **(d)** *Partnerships* In awarding grants under subsection (a) or (b), the Director shall—
   - **(1)** encourage applicants which, for the purpose of the activity or activities funded through the grant, include or partner with a nonprofit organization or an institution of higher education (or a consortium thereof) that has extensive experience and expertise in increasing the participation of rural students in grades Pre-K through 12 in STEM;
@@ -84,15 +84,15 @@ Congress finds the following:
     - **(B)** *Applicability* The amendment made by paragraph (1) shall take effect as if included in the enactment of section 313 of the American Innovation and Competitiveness Act (Public Law 114–329).
 - **(h)** *Coordination* In carrying out this section, the Director shall, for purposes of enhancing program effectiveness and avoiding duplication of activities, consult, cooperate, and coordinate with the programs and policies of other relevant Federal agencies.
 - **(i)** *Authorization of appropriations* There are authorized to be appropriated to the Director—
-  - **(1)** $8,000,000 to carry out the activities under subsection (a) for each of fiscal years 2020 through 2025; and
-  - **(2)** $12,000,000 to carry out the activities under subsection (b) for each of fiscal years 2020 through 2025.
+  - **(1)** $8,000,000 to carry out the activities under subsection (a) for each of fiscal years 2021 through 2025; and
+  - **(2)** $12,000,000 to carry out the activities under subsection (b) for each of fiscal years 2021 through 2025.
 
 ## § 4. Opportunities for online education
 
-- **(a)** *In general* The Director shall award competitive grants to institutions of higher education or nonprofit organizations (or a consortium thereof, which may include a private sector partner) to conduct research on online STEM education courses for rural communities.
+- **(a)** *In general* The Director shall, subject to appropriations, award competitive grants to institutions of higher education or nonprofit organizations (or a consortium thereof, which may include a private sector partner) to conduct research on online STEM education courses for rural communities.
 - **(b)** *Research areas* The research areas eligible for funding under this subsection shall include—
-  - **(1)** evaluating the learning and achievement of rural students in grades Pre–K through 12 in STEM subjects;
-  - **(2)** understanding how computer-based and online professional development courses and mentor experiences can be integrated to meet the needs of educators of rural students in grades Pre–K through 12;
+  - **(1)** evaluating the learning and achievement of rural students in grades Pre-K through 12 in STEM subjects;
+  - **(2)** understanding how computer-based and online professional development courses and mentor experiences can be integrated to meet the needs of educators of rural students in grades Pre-K through 12;
   - **(3)** combining computer-based and online STEM education and training with apprenticeships, mentoring, or other applied learning arrangements;
   - **(4)** leveraging online programs to supplement STEM studies for rural students that need physical and academic accommodation; and
   - **(5)** any other activity the Director determines will accomplish the goals of this subsection.
@@ -109,12 +109,12 @@ Congress finds the following:
 ## § 5. National Academy of Sciences evaluation
 
 - **(a)** *Study* Not later than 12 months after the date of enactment of this Act, the Director shall enter into an agreement with the National Academy of Sciences under which the National Academy agrees to conduct an evaluation and assessment that—
-  - **(1)** evaluates the quality and quantity of current Federal programming and research directed at examining STEM education for students in grades Pre–K through 12 and workforce development in rural areas;
-  - **(2)** assesses the impact of the scarcity of broadband connectivity in rural communities has on STEM and technical literacy for students in grades Pre–K through 12 in rural areas;
+  - **(1)** evaluates the quality and quantity of current Federal programming and research directed at examining STEM education for students in grades Pre-K through 12 and workforce development in rural areas;
+  - **(2)** assesses the impact of the scarcity of broadband connectivity in rural communities has on STEM and technical literacy for students in grades Pre-K through 12 in rural areas;
   - **(3)** assesses the core research and data needed to understand the challenges rural areas are facing in providing quality STEM education and workforce development; and
-  - **(4)** makes recommendations for action at the Federal, State, and local levels for improving STEM education for students in grades Pre–K through 12 and workforce development in rural areas.
+  - **(4)** makes recommendations for action at the Federal, State, and local levels for improving STEM education for students in grades Pre-K through 12 and workforce development in rural areas.
 - **(b)** *Report to Director* The agreement entered into under subsection (a) shall require the National Academy of Sciences, not later than 24 months after the date of enactment of this Act, to submit to the Director a report on the study conducted under such subsection, including the National Academy’s findings and recommendations.
-- **(c)** *Authorization of appropriations* There are authorized to be appropriated to the Director to carry out this section $1,000,000 for fiscal year 2020.
+- **(c)** *Authorization of appropriations* There are authorized to be appropriated to the Director to carry out this section $1,000,000 for fiscal year 2021.
 
 ## § 6. GAO review
 
@@ -139,11 +139,11 @@ Section 517(f)(2) of the America COMPETES Reauthorization Act of 2010 (42 U.S.C.
   - **(1)** in subsection (c)—
     - **(A)** in paragraph (6), by striking “community colleges and area career and technical education schools” and inserting the following: “secondary schools (as defined in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)), community colleges, and area career and technical education schools, including those in underserved and rural communities,”; and
     - **(B)** in paragraph (7)—
-      - **(i)** by striking “and local colleges” and inserting the following: “local high schools and local colleges, including those in underserved and rural communities,”; and
+      - **(i)** by striking “and local colleges” and inserting the following: “local high schools and local collseges, including those in underserved and rural communities,”; and
       - **(ii)** by inserting “or other applied learning opportunities” after “apprenticeships”; and
   - **(2)** in subsection (d)(3) by striking “, community colleges, and area career and technical education schools,” and inserting the following: “and local high schools, community colleges, and area career and technical education schools, including those in underserved and rural communities,”.
 - **(b)** *Rural Connectivity Prize Competition*
-  - **(1)** *Prize competition* Pursuant to section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719), the Secretary of Commerce, acting through the Under Secretary of Commerce for Standards and Technology (referred to in this subsection as the “Secretary”), shall carry out a program to award prizes competitively to stimulate research and development of creative technologies in order to deploy affordable and reliable broadband connectivity to underserved rural communities.
+  - **(1)** *Prize competition* Pursuant to section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719), the Secretary of Commerce, acting through the Under Secretary of Commerce for Standards and Technology (referred to in this subsection as the “Secretary”), shall, subject to appropriations, carry out a program to award prizes competitively to stimulate research and development of creative technologies in order to deploy affordable and reliable broadband connectivity to underserved rural communities.
   - **(2)** *Plan for deployment in rural communities* Each proposal submitted pursuant to paragraph (1) shall include a plan for deployment of the technology that is the subject of such proposal in an underserved rural community.
   - **(3)** *Prize amount* In carrying out the program under paragraph (1), the Secretary may award not more than a total of $5,000,000 to one or more winners of the prize competition.
   - **(4)** *Report* Not later than 60 days after the date on which a prize is awarded under the prize competition, the Secretary shall submit to the relevant committees of Congress a report that describes the winning proposal of the prize competition.
