@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2574
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Equity and Inclusion Enforcement Act”.
+This Act may be cited as the “Equity and Inclusion Enforcement Act of 2019”.
 
 ## § 2. Restoration of right to civil action in disparate impact cases under title VI of the Civil Rights Act of 1964
 
@@ -31,6 +31,7 @@ Title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.) is further am
 >   - **(1)** designate at least one employee to coordinate its efforts to comply with requirements adopted pursuant to section 602 and carry out the responsibilities of the recipient under this title, including any investigation of any complaint alleging the noncompliance of the recipient with such requirements or alleging any actions prohibited under this title; and
 >   - **(2)** notify its students and employees of the name, office address, and telephone number of each employee designated under paragraph (1).
 > - **(b)** In this section, the term recipient means a recipient referred to in section 602 that operates an education program or activity receiving Federal financial assistance authorized or extended by the Secretary of Education.
+> - **(c)** *Antisemitism considered discrimination* In carrying out the responsibilities of the recipient under this title, the employee or employees designated under this section shall consider antisemitism to be discrimination on the basis of race, color, or national origin as prohibited by this title.
 
 ## § 4. Special assistant for equity and inclusion
 
@@ -38,4 +39,4 @@ Section 202(b) of the Department of Education Organization Act (20 U.S.C. 3412(b
 
 - **(1)** by redesignating paragraph (4) as paragraph (5); and
 - **(2)** by inserting after paragraph (3), the following:
-  > - **(4)** There shall be in the Department, a Special Assistant for Equity and Inclusion who shall be appointed by the Secretary. The Special Assistant shall promote, coordinate, and evaluate equity and inclusion programs, including the dissemination of information, technical assistance, and coordination of research activities. The Special Assistant shall advise the Secretary and Deputy Secretary on all matters relating to equity and inclusion in a manner consistent with title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.).
+  > - **(4)** There shall be in the Department, a Special Assistant for Equity and Inclusion who shall be appointed by the Secretary. The Special Assistant shall promote, coordinate, and evaluate efforts to engender program compliance with title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.) and inform individuals of their rights under such Act, including the dissemination of information, technical assistance, and coordination of research activities, in a manner consistent with such Act. The Special Assistant shall advise both the Secretary and Deputy Secretary on matters relating to compliance with title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.).
