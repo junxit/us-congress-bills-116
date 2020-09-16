@@ -1,0 +1,29 @@
+---
+legis-num: S. 4594
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4594
+
+> To amend title 38, United States Code, to improve and to expand eligibility for dependency and indemnity compensation paid to certain survivors of certain veterans.
+
+## § 1. Short title
+
+This Act may be cited as the “Caring for the Survivors and Families of Veterans Act of 2020”.
+
+## § 2. Modification of requirements for dependency and indemnity compensation for survivors of certain veterans rated totally disabled at time of death
+
+Section 1318 of title 38, United States Code, is amended—
+
+- **(1)** in subsection (a)—
+  - **(A)** by striking “The Secretary” and inserting “(1) Except as provided in paragraph (2), the Secretary”; and
+  - **(B)** by adding at the end the following new paragraph:
+    > - **(2)** In any case in which the Secretary makes a payment under paragraph (1) of this subsection by reason of subsection (b)(1) of this section and the period of continuous rating immediately preceding death is less than 10 years, the amount payable under such paragraph shall be an amount that bears the same relationship to the amount otherwise payable under such paragraph as the duration of such period bears to 10 years.
+
+- **(2)** in subsection (b)(1), by striking “10 or more years” and inserting “not less than five years”.
+
+## § 3. Eligibility for dependency and indemnity compensation for surviving spouses who remarry after age 55
+
+Section 103(d)(2)(B) of title 38, United States Code, is amended in the second sentence by inserting “chapter 13 or” after “benefits under”.
