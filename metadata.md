@@ -1,7 +1,7 @@
 ---
 measure: S. 3051
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3051
@@ -16,7 +16,7 @@ America's Conservation Enhancement Act
 
 - Sen. Barrasso, John [R-WY] (B001261)
 
-## Cosponsors (7)
+## Cosponsors (10)
 
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 - Sen. Cramer, Kevin [R-ND] (C001096)
@@ -25,6 +25,9 @@ America's Conservation Enhancement Act
 - Sen. Van Hollen, Chris [D-MD] (V000128)
 - Sen. Inhofe, James M. [R-OK] (I000024)
 - Sen. Boozman, John [R-AR] (B001236)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
 
 ## Committees (1)
 
@@ -38,3 +41,14 @@ America's Conservation Enhancement Act
 - 2019-12-17 — Committee on Environment and Public Works. Reported by Senator Barrasso with an amendment in the nature of a substitute. Without written report.
 - 2019-12-17 — Committee on Environment and Public Works. Reported by Senator Barrasso with an amendment in the nature of a substitute. Without written report.
 - 2019-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 378.
+- 2020-07-01 — By Senator Barrasso from Committee on Environment and Public Works filed written report. Report No. 116-239.
+- 2020-07-01 — By Senator Barrasso from Committee on Environment and Public Works filed written report. Report No. 116-239.
+- 2020-09-16 — Amendment SA 2656 agreed to in Senate by Unanimous Consent.
+- 2020-09-16 — Amendment SA 2656 proposed by Senator Portman for Senator Barrasso. (consideration: CR S5676; text: CR S5656-5665) In the nature of a substitute.
+- 2020-09-16 — Measure laid before Senate by unanimous consent. (consideration: CR S5666-5676; text: CR S5666-5676)
+- 2020-09-16 — Passed Senate with an amendment by Voice Vote.
+- 2020-09-16 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2020-09-16 — Senate amendment agreed to: Amendment SA 2656 agreed to in Senate by Unanimous Consent.
+- 2020-09-16 — Senate amendment proposed (on the floor): Amendment SA 2656 proposed by Senator Portman for Senator Barrasso.
+- 2020-09-16 — Senate amendment submitted
+- 2020-09-16 — The committee substitute withdrawn by Unanimous Consent. (CR S5676)
