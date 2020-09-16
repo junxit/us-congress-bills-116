@@ -1,7 +1,7 @@
 ---
 measure: S. 2683
 congress: 116
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 2683
@@ -55,3 +55,13 @@ Child Care Protection Improvement Act of 2020
 - 2020-09-16 — Mrs. McBath moved to suspend the rules and pass the bill, as amended.
 - 2020-09-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4447-4448)
 - 2020-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-09-17 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2020-12-19 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 2683 by Voice Vote.
+- 2020-12-19 — Senate agreed to the House amendment to S. 2683 by Voice Vote. (consideration: CR S7853)
+- 2020-12-20 — Message on Senate action sent to the House.
+- 2020-12-21 — Presented to President.
+- 2020-12-21 — Presented to President.
+- 2020-12-31 — Became Public Law No: 116-279.
+- 2020-12-31 — Became Public Law No: 116-279.
+- 2020-12-31 — Signed by President.
+- 2020-12-31 — Signed by President.

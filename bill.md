@@ -1,15 +1,13 @@
 ---
 legis-num: S. 2683
-congress: 116th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Sixteenth Congress of the United States of America
+session: 2d Sess.
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 2683
 
-That the bill from the Senate (S. 2683) entitled “An Act to establish a task force to assist States in implementing hiring requirements for child care staff members to improve child safety.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To establish a task force to assist States in implementing hiring requirements for child care staff members to improve child safety.
 
 ## § 1. Short title
 
