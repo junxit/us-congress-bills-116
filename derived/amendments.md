@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4979
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -45,7 +45,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1862p-9` | strike | in subparagraph (A), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1862p-9` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7801` | replace | in paragraph (6), by striking “community colleges and area career and technical education schools” and inserting the following: “secondary schools (as defined in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.… | the bill quotes the text struck but describes what replaces it |
-| `20 U.S.C. § 7801` | replace | by striking “and local colleges” and inserting the following: “local high schools and local colleges, including those in underserved and rural communities,”; and | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 7801` | replace | by striking “and local colleges” and inserting the following: “local high schools and local collseges, including those in underserved and rural communities,”; and | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 7801` | insert | by inserting “or other applied learning opportunities” after “apprenticeships”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 278k` | replace | in subsection (d)(3) by striking “, community colleges, and area career and technical education schools,” and inserting the following: “and local high schools, community colleges, and area career and technical education schools, includin… | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 5511` | add-at-end | Title I of the High-Performance Computing Act of 1991 (15 U.S.C. 5511 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
