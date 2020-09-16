@@ -2,12 +2,14 @@
 legis-num: S. 2683
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 2683
 
-> To establish a task force to assist States in implementing hiring requirements for child care staff members to improve child safety.
+That the bill from the Senate (S. 2683) entitled “An Act to establish a task force to assist States in implementing hiring requirements for child care staff members to improve child safety.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title
 
@@ -40,4 +42,4 @@ This Act may be cited as the “Child Care Protection Improvement Act of 2020”
 - **(g)** *Final report* Not later than 1 year after the first meeting of the Task Force, the Task Force shall submit to the Secretary of Health and Human Services, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Education and Labor of the House of Representatives a final report containing all of the recommendations required by paragraphs (1) and (2) of subsection (e). The report shall also include a list of the members of the Task Force, the agencies such members represent, and the individuals and entities with whom the Task Force consulted under subsection (d).
 - **(h)** *No compensation for members* A member of the Task Force shall serve without compensation in addition to any compensation received for the service of the member as an officer or employee of the United States.
 - **(i)** *Exemption from FACA* The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Task Force.
-- **(j)** *Sunset* The Task Force shall terminate 1 year after submitting its final report under subsection (g), but not later than the end of fiscal year 2021.
+- **(j)** *Sunset* The Task Force shall terminate 1 year after submitting its final report under subsection (g).
