@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2438
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,95 +11,90 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Not Invisible Act of 2019”.
+This Act may be cited as the “Not Invisible Act of 2020”.
 
-## § 2. Findings
-
-Congress finds that—
-
-- **(1)** the National Institute of Justice reports more than 80 percent of American Indian and Alaska Native men and women have experienced violence in their lifetimes and more than 34 percent have experienced violence in the last year;
-- **(2)** the National Institute of Justice also estimates that 56 percent of American Indian and Alaska Native women experience sexual violence in their lifetimes;
-- **(3)** murder is the third leading cause of death among American Indian and Alaska Native women;
-- **(4)** populations that experience chronic unemployment, homelessness, substance abuse, severe poverty, and high rates of sexual violence and other crimes are at a higher risk of trafficking;
-- **(5)** American Indian and Alaska Native women and girls disproportionately experience the above risk factors;
-- **(6)** historical trauma has increased the vulnerability of American Indians and Alaska Natives to trafficking and other forms of violent crime;
-- **(7)** the Department of Justice has identified combating human trafficking as a priority; and
-- **(8)** reliable data on the prevalence of missing Native people, murdered Native people, and human trafficking within Indian lands and of American Indians and Alaska Natives is not available.
-
-## § 3. Definitions
+## § 2. Definitions
 
 In this Act—
 
-- **(1)** the term Committee means the Department of the Interior and the Department of Justice Joint Advisory Committee on Reducing Violent Crime Against Native People established under section 5;
-- **(2)** the term human trafficking means act or practice described in paragraph (9) or paragraph (10) of section 103 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102);
-- **(3)** the term Indian means a member of an Indian tribe; and
-- **(4)** the terms Indian lands and Indian tribe have the meanings given the terms in section 3 of the Native American Business Development, Trade Promotion, and Tourism Act of 2000 (25 U.S.C. 4302).
+- **(1)** the term “Commission” means the Department of the Interior and the Department of Justice Joint Commission on Reducing Violent Crime Against Indians under section 4;
+- **(2)** the term “human trafficking” means act or practice described in paragraph (9) or paragraph (10) of section 103 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102);
+- **(3)** the term “Indian” means a member of an Indian tribe;
+- **(4)** the terms “Indian lands” and “Indian tribe” have the meanings given the terms in section 3 of the Native American Business Development, Trade Promotion, and Tourism Act of 2000 (25 U.S.C. 4302); and
+- **(5)** the terms “urban centers” and “urban Indian organization” have the meanings given the terms in section 4 of the Indian Health Care Improvement Act (25 U.S.C. 1603).
 
-## § 4. Coordinator of Federal efforts to combat violence against Native people
+## § 3. Coordinator of federal efforts to combat violence against native people
 
-The Secretary of the Interior shall designate an official within the Office of Justice Services in the Bureau of Indian Affairs who shall—
+- **(a)** *Coordinator designation* The Secretary of the Interior shall designate an official within the Office of Justice Services in the Bureau of Indian Affairs who shall—
+  - **(1)** coordinate prevention efforts, grants, and programs related to the murder of, trafficking of, and missing Indians across Federal agencies, including—
+    - **(A)** the Bureau of Indian Affairs; and
+    - **(B)** the Department of Justice, including—
+      - **(i)** the Office of Justice Programs;
+      - **(ii)** the Office on Violence Against Women;
+      - **(iii)** the Office of Community Oriented Policing Services;
+      - **(iv)** the Federal Bureau of Investigation; and
+      - **(v)** the Office of Tribal Justice;
+  - **(2)** ensure prevention efforts, grants, and programs of Federal agencies related to the murder of, trafficking of, and missing Indians consider the unique challenges of combating crime, violence, and human trafficking of Indians and on Indian lands faced by Tribal communities, urban centers, the Bureau of Indian Affairs, Tribal law enforcement, Federal law enforcement, and State and local law enforcement;
+  - **(3)** work in cooperation with outside organizations with expertise in working with Indian tribes and Indian Tribes to provide victim centered and culturally relevant training to tribal law enforcement, Indian Health Service health care providers, urban Indian organizations, Tribal community members and businesses, on how to effectively identify, respond to and report instances of missing persons, murder, and trafficking within Indian lands and of Indians; and
+  - **(4)** report directly to the Secretary of the Interior.
+- **(b)** *Report* The official designated in subsection (a) shall submit to the Committee on Indian Affairs and the Committee on the Judiciary of the Senate and the Committee on Natural Resources and the Committee on the Judiciary of the House of Representatives a report to provide information on Federal coordination efforts accomplished over the previous year that includes—
+  - **(1)** a summary of all coordination activities undertaken in compliance with this section;
+  - **(2)** a summary of all trainings completed under subsection (a)(3); and
+  - **(3)** recommendations for improving coordination across Federal agencies and of relevant Federal programs.
 
-- **(1)** coordinate prevention efforts, grants, and programs across offices within the Bureau of Indian Affairs and with the Department of Justice related to the murder of, trafficking of, and missing Indians, including the Office of Justice Programs, the Office on Violence Against Women, the Office of Community Oriented Policing Services, the Office of Tribal Justice, and other agencies of the Federal Government;
-- **(2)** in coordinating efforts, take into account the unique challenges of combating crime, violence, and human trafficking faced by tribal communities, tribal law enforcement, Federal law enforcement, and State and local law enforcement;
-- **(3)** work in cooperation with outside organizations with expertise in working with Indian tribes to provide victim centered and culturally relevant training to tribal law enforcement, Indian Health Service health care providers, tribal community members and businesses, on how to effectively identify, respond to and report instances of violent crime within Indian lands and of Indians; and
-- **(4)** report directly to the Secretary of the Interior.
+## § 4. Establishment of the department of interior and the department of justice joint commission on reducing violent crime against indians
 
-## § 5. Establishment of the Department of the Interior and the Department of Justice Joint Advisory Committee on Reducing Violent Crime Against Native People
-
-- **(a)** *Establishment* Not later than 120 days after the date of enactment of this Act, the Secretary of the Interior, in coordination with the Attorney General, shall establish and appoint all members of an advisory committee on violent crime within Indian lands and of Indians.
+- **(a)** *Establishment* Not later than 120 days after the date of enactment of this Act, the Secretary of the Interior, in coordination with the Attorney General, shall establish and appoint all members of a joint commission on violent crime on Indian lands and against Indians.
 - **(b)** *Membership*
-  - **(1)** *Composition* The Committee shall be composed of members whose diverse experience and backgrounds enable them to provide balanced points of view with regard to the duties of the Committee.
-  - **(2)** *Selection* The Secretary of the Interior, in coordination with the Attorney General, shall appoint the members to the Committee, including representatives from—
+  - **(1)** *Composition*
+    - **(A)** *In general* The Commission shall be composed of members who represent diverse experiences and backgrounds that provide balanced points of view with regard to the duties of the Commission.
+    - **(B)** *Diversity* To the greatest extent practicable, the Secretary of the Interior shall ensure the Commission includes Tribal representatives from diverse geographic areas and of diverse sizes.
+  - **(2)** *Appointment* The Secretary of the Interior, in coordination with the Attorney General, shall appoint the members to the Commission, including representatives from—
     - **(A)** tribal law enforcement;
     - **(B)** the Office of Justice Services of the Bureau of Indian Affairs;
-    - **(C)** State and local law enforcement in close proximity to Indian lands, with a letter of recommendation from a local tribal chair or tribal law enforcement officer;
-    - **(D)** the Federal Bureau of Investigation’s victim services division;
+    - **(C)** State and local law enforcement in close proximity to Indian lands, with a letter of recommendation from a local Indian Tribe;
+    - **(D)** the Victim Services Division of the Federal Bureau of Investigation;
     - **(E)** the Department of Justice’s Human Trafficking Prosecution Unit;
-    - **(F)** the Office of Native American Programs of the Department of Housing and Urban Development;
-    - **(G)** the Family Violence Prevention and Services Program of the Department of Health and Human Services;
-    - **(H)** a Federal public defender within Indian lands with a letter of recommendation from a local tribal chair or tribal law enforcement officer;
-    - **(I)** a tribal judge with experience in cases related to missing persons, murder, trafficking, or related cases;
-    - **(J)** not fewer than 3 elected leaders of federally recognized Indian tribes, including 1 elected leader from a federally recognized Indian tribe located in Alaska;
-    - **(K)** health care and mental health practitioners and counselors and providers with experience in working with Indian survivors of trafficking and sexual assault, with a letter of recommendation from a local tribal chair or tribal law enforcement officer;
-    - **(L)** Indian advocacy organizations whose primary clients are Indians, focused on violence against women and children specifically in Indian lands;
-    - **(M)** at least 1 Indian survivor of human trafficking;
-    - **(N)** at least 1 family member of a missing Indian person;
-    - **(O)** at least 1 family member of a murdered Indian person;
-    - **(P)** the National Institute of Justice; and
-    - **(Q)** the Indian Health Service.
-  - **(3)** *Periods of appointment* Members shall be appointed for the life of the Committee.
-  - **(4)** *Vacancies* A vacancy in the Committee shall be filled in the manner in which the original appointment was made and shall not affect the powers or duties of the Committee.
-  - **(5)** *Compensation* Committee members shall serve without compensation.
-  - **(6)** *Travel expenses* The Secretary of the Interior, in coordination with the Attorney General, shall consider the provision of travel expenses, including per diem, to Committee members when appropriate.
+    - **(F)** the Office of Violence Against Women of the Department of Justice;
+    - **(G)** the Office of Victims of Crime of the Department of Justice;
+    - **(H)** a United States attorney’s office with experience in cases related to missing persons, murder, or trafficking of Indians or on Indian land;
+    - **(I)** the Administration for Native Americans of the Office of the Administration for Children & Families of the Department of Health and Human Services;
+    - **(J)** the Substance Abuse and Mental Health Services Administration of the Department of Health and Human Services;
+    - **(K)** a Tribal judge with experience in cases related to missing persons, murder, or trafficking;
+    - **(L)** not fewer than 3 Indian Tribes from diverse geographic areas, including 1 Indian tribe located in Alaska, selected from nominations submitted by the Indian Tribe;
+    - **(M)** not fewer than 2 health care and mental health practitioners and counselors and providers with experience in working with Indian survivors of trafficking and sexual assault, with a letter of recommendation from a local tribal chair or tribal law enforcement officer;
+    - **(N)** not fewer than 3 national, regional, or urban Indian organizations focused on violence against women and children on Indian lands or against Indians;
+    - **(O)** at least 2 Indian survivors of human trafficking;
+    - **(P)** at least 2 family members of missing Indian people;
+    - **(Q)** at least 2 family members of murdered Indian people;
+    - **(R)** the National Institute of Justice; and
+    - **(S)** the Indian Health Service.
+  - **(3)** *Periods of appointment* Members shall be appointed for the duration of the Commission.
+  - **(4)** *Vacancies* A vacancy in the Commission shall be filled in the manner in which the original appointment was made and shall not affect the powers or duties of the Commission.
+  - **(5)** *Compensation* Commission members shall serve without compensation.
+  - **(6)** *Travel expenses* The Secretary of the Interior, in coordination with the Attorney General, shall consider the provision of travel expenses, including per diem, to Commission members when appropriate.
 - **(c)** *Duties*
-  - **(1)** *Recommendations for the Department of the Interior and Department of Justice* Not later than 18 months after the date of enactment of this Act, the Committee shall make recommendations to the Secretary of the Interior and Attorney General on actions the departments can take to help combat violent crime against Indians and within Indian lands, including the development and implementation of—
-    - **(A)** successful strategies for identifying, reporting, and responding to instances of missing persons, murder, and human trafficking in Indian lands and of Indians;
-    - **(B)** recommendations for legislative and administrative changes necessary to use programs, properties, or other resources funded or operated by the Department of the Interior and Department of Justice to combat the crisis of missing and murdered Indian people and human trafficking in Indian lands and of Indians;
-    - **(C)** recommendations for tracking and reporting data on instances of missing persons, murder, and human trafficking in Indian lands and of Indians;
-    - **(D)** recommendations for addressing staff shortages and open positions within relevant law enforcement agencies, including issues related to the hiring and retention of law enforcement officers; and
-    - **(E)** recommendations for coordinating tribal, State, and Federal resources to increase prosecution of violent crime, including murder and human trafficking offenses and increase information sharing with tribal governments on violent crime investigations and prosecutions in Indian lands that were terminated or declined.
-  - **(2)** *Best practices and recommendations*
-    - **(A)** *In general* The Committee shall develop recommended best practices for Indian tribes and Federal, State, and local law enforcement officials in close proximity to Indian lands to follow—
-      - **(i)** in combatting violent crime, including missing persons, murder, and human trafficking within Indian lands and of Indians; and
-      - **(ii)** to address any gaps in services for Indian victims of violent crime.
-    - **(B)** *Development* The best practices shall be based on multidisciplinary and culturally relevant research, evidence-based models and programs and should consider the societal, economic, and other factors that contribute to violent crime within Indian lands and of Indians.
-    - **(C)** *Content* The best practices shall be user-friendly, culturally responsive in form and delivery, and include the following:
-      - **(i)** Sample training materials.
-      - **(ii)** Sample guidelines and recommendations, including—
-        - **(I)** strategies to collect, document, and share information across systems and agencies;
-        - **(II)** strategies to help agencies better understand the types of violent crime, the prevalence of violent crime in Indian lands and of Indians, and the degree of victim and family interaction with multiple systems; and
-        - **(III)** strategies to improve coordination between law enforcement, victim service providers, victim advocates, and Indian communities to utilize their positions and resources in educating critical stakeholder groups and assisting victims and families.
-    - **(D)** *Secretarial response* The Attorney General and the Secretary of the Interior shall submit a written response to the recommendations developed by the Committee to—
-      - **(i)** the Committee;
+  - **(1)** *In general* The Commission may hold such hearings, meet and act at times and places, take such testimony, and receive such evidence as the Commission considers to be advisable to carry out the duties of the Commission under this section.
+  - **(2)** *Recommendations for the department of interior and department of justice*
+    - **(A)** *In general* The Commission shall develop recommendations to the Secretary of the Interior and Attorney General on actions the Federal Government can take to help combat violent crime against Indians and within Indian lands, including the development and implementation of recommendations for—
+      - **(i)** identifying, reporting, and responding to instances of missing persons, murder, and human trafficking on Indian lands and of Indians;
+      - **(ii)** legislative and administrative changes necessary to use programs, properties, or other resources funded or operated by the Department of the Interior and Department of Justice to combat the crisis of missing or murdered Indians and human trafficking on Indian lands and of Indians;
+      - **(iii)** tracking and reporting data on instances of missing persons, murder, and human trafficking on Indian lands and of Indians;
+      - **(iv)** addressing staff shortages and open positions within relevant law enforcement agencies, including issues related to the hiring and retention of law enforcement officers;
+      - **(v)** coordinating tribal, State, and Federal resources to increase prosecution of murder and human trafficking offenses on Indian lands and of Indians; and
+      - **(vi)** increasing information sharing with tribal governments on violent crime investigations and prosecutions in Indian lands that were terminated or declined.
+    - **(B)** *Submission* Not later than 18 months after the enactment of this Act, the Commission shall make publicly available and submit all recommendations developed under this paragraph to—
+      - **(i)** the Secretary of the Interior;
+      - **(ii)** the Attorney General;
+      - **(iii)** the Committee on the Judiciary of the Senate;
+      - **(iv)** the Committee on Indian Affairs of the Senate;
+      - **(v)** the Committee on Natural Resources of the House of Representatives; and
+      - **(vi)** the Committee on the Judiciary of the House of Representatives.
+    - **(C)** *Secretarial response* Not later than 90 days after the date on which the Secretary of the Interior and the Attorney General receive the recommendations under paragraph (2), the Secretary and the Attorney General shall each make publicly available and submit a written response to the recommendations to—
+      - **(i)** the Commission;
       - **(ii)** the Committee on the Judiciary of the Senate;
       - **(iii)** the Committee on Indian Affairs of the Senate;
       - **(iv)** the Committee on Natural Resources of the House of Representatives; and
       - **(v)** the Committee on the Judiciary of the House of Representatives.
-- **(d)** *Reports* Not later than 2 years after the date of enactment of this Act, the Committee shall—
-  - **(1)** submit a report on the action of the Committee described in subsection (c) that includes the responses of the Department of the Interior and the Department of Justice to the recommendations of the Committee to—
-    - **(A)** the Committee on Indian Affairs of the Senate;
-    - **(B)** the Committee on Natural Resources of the House of Representatives;
-    - **(C)** the Committee on the Judiciary of the Senate; and
-    - **(D)** the Committee on the Judiciary of the House of Representatives; and
-  - **(2)** make the report under paragraph (1) publicly available both in a hard copy and online.
-- **(e)** *FACA exemption* The Committee shall be exempt from the Federal Advisory Committee Act (5 U.S.C. App.).
+- **(d)** *Faca exemption* The Commission shall be exempt from the Federal Advisory Committee Act (5 U.S.C. App.).
+- **(e)** *Sunset* The Commission shall terminate on the date that is 2 years after the date of enactment of this Act.
