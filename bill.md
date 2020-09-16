@@ -1,0 +1,24 @@
+---
+legis-num: S. 4597
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4597
+
+> To require U.S. Customs and Border Protection to permit the entry into the United States of pets accompanying United States nationals repatriating during public health emergencies.
+
+## § 1. Short title
+
+The Act may be cited as the “Permanently Uniting Pets Stateside Act” or the “PUPS Act”.
+
+## § 2. Entry of pets of United States nationals repatriating during public health emergencies
+
+- **(a)** *In general* The Commissioner of U.S. Customs and Border Protection shall permit the entry into the United States of a pet accompanying a covered individual entering the United States without regard to the requirements of the Centers for Disease Control and Prevention or the Department of Agriculture with respect to the entry of pets into the United States if the individual agrees to comply with those requirements as soon as practicable after entering the United States.
+- **(b)** *Definitions* In this section:
+  - **(1)** *Covered individual* The term covered individual means an individual who—
+    - **(A)** is a citizen of the United States or an alien lawfully admitted for permanent residence to the United States;
+    - **(B)** has been living or traveling outside the United States; and
+    - **(C)** is returning to the United States during a public health emergency declared under section 319 of the Public Health Service Act (42 U.S.C. 247d).
+  - **(2)** *Pet* The term pet means a domestic dog, cat, or bird.
