@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2639
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2639
@@ -124,9 +124,10 @@ Strength in Diversity Act of 2020
 - Rep. Scott, David [D-GA-13] (S001157)
 - Rep. Delgado, Antonio [D-NY-19] (D000630)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (3)
 
@@ -209,3 +210,4 @@ Strength in Diversity Act of 2020
 - 2020-09-15 — Without objection, the motion to reconsider is laid upon the table.
 - 2020-09-15 — Without objection, the motion to reconsider is laid upon the table.
 - 2020-09-15 — Without objection, the motion to reconsider is laid upon the table.
+- 2020-09-16 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
