@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4990
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4990
@@ -49,3 +49,9 @@ Election Technology Research Act of 2020
 - 2020-02-13 — Placed on the Union Calendar, Calendar No. 318.
 - 2020-02-13 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 116-396, Part I.
 - 2020-02-13 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 116-396, Part I.
+- 2020-09-16 — Considered under suspension of the rules. (consideration: CR H4468-4472)
+- 2020-09-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4990.
+- 2020-09-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-16 — Ms. Sherrill moved to suspend the rules and pass the bill, as amended.
+- 2020-09-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4468-4469)
+- 2020-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
