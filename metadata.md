@@ -1,7 +1,7 @@
 ---
 measure: S. 3051
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3051
@@ -52,3 +52,18 @@ America's Conservation Enhancement Act
 - 2020-09-16 — Senate amendment proposed (on the floor): Amendment SA 2656 proposed by Senator Portman for Senator Barrasso.
 - 2020-09-16 — Senate amendment submitted
 - 2020-09-16 — The committee substitute withdrawn by Unanimous Consent. (CR S5676)
+- 2020-09-17 — Message on Senate action sent to the House.
+- 2020-09-18 — Held at the desk.
+- 2020-09-18 — Received in the House.
+- 2020-10-01 — Considered under suspension of the rules. (consideration: CR H5163-5176)
+- 2020-10-01 — DEBATE - The House proceeded with forty minutes of debate on S. 3051.
+- 2020-10-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-10-01 — Mrs. Dingell moved to suspend the rules and pass the bill.
+- 2020-10-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5163-5173)
+- 2020-10-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-10-20 — Presented to President.
+- 2020-10-20 — Presented to President.
+- 2020-10-30 — Became Public Law No: 116-188.
+- 2020-10-30 — Became Public Law No: 116-188.
+- 2020-10-30 — Signed by President.
+- 2020-10-30 — Signed by President.
