@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8162
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8162
@@ -34,9 +34,10 @@ version: Engrossed in House
 - Rep. Reed, Tom [R-NY-23] (R000585)
 - Rep. Finkenauer, Abby [D-IA-1] (F000467)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ version: Engrossed in House
 - 2020-09-16 — Ms. Wild moved to suspend the rules and pass the bill, as amended.
 - 2020-09-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4452)
 - 2020-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-09-17 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
