@@ -1,6 +1,6 @@
 ---
 legis-num: S. 4072
-congress: 116th CONGRESS
+congress: One Hundred Sixteenth Congress of the United States of America
 session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
