@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3935
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 2 executed, 4 stated and not applied.
+8 amendatory instructions. 2 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,21 +26,21 @@ to guess them.
 
 ### 42 U.S.C. § 1396a
 
-> in subparagraph (A), in the matter preceding clause (i), by striking “and (21)” and inserting “, (21), and (30)”; and
+> by striking “and including provision for utilization” and inserting “including provision for utilization”; and
 
 | | |
 |---|---|
-| Removed | `and (21)` |
-| Inserted | `, (21), and (30)` |
+| Removed | `and including provision for utilization` |
+| Inserted | `including provision for utilization` |
 
-### 42 U.S.C. § 1396a
+### 42 U.S.C. § 1396u-7
 
-> in subparagraph (C)(iv), by striking “and (17)” and inserting “, (17), and (30)”.
+> in subparagraph (A), by striking “subsection (E)” and inserting “subparagraphs (E) and (F)”; and
 
 | | |
 |---|---|
-| Removed | `and (17)` |
-| Inserted | `, (17), and (30)` |
+| Removed | `subsection (E)` |
+| Inserted | `subparagraphs (E) and (F)` |
 
 ## Stated, not applied
 
@@ -51,7 +51,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 1396d` | strike | in paragraph (29), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1396d` | redesignate | by redesignating paragraph (30) as paragraph (31) and by striking the comma at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396d` | insert | by inserting after paragraph (29) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396d` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396a` | insert | by inserting after “supervision of administration of the plan” the following: “, and, subject to section 1903(i), including a specification that the single State agency described in paragraph (5) will ensure necessary transportation for … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396u-7` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396b` | insert | Section 1903(i) of the Social Security Act (42 U.S.C. 1396b(i)) is amended by inserting after paragraph (8) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396a` | strike | by striking “and” at the end of paragraph (85); | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1396a` | replace | by striking the period at the end of paragraph (86) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396a` | insert | by inserting after paragraph (86) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
