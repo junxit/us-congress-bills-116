@@ -1,7 +1,7 @@
 ---
 measure: S. 1160
 congress: 116
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-35 amendatory instructions. 9 executed, 26 stated and not applied.
+19 amendatory instructions. 5 executed, 14 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,84 +26,48 @@ to guess them.
 
 ### 42 U.S.C. § 5104
 
-> in paragraph (1), by striking “effective programs,” and inserting “evidence-based, evidence-informed, or promising programs,”;
+> in paragraph (1), by striking “effective programs,” and inserting “evidence-based and evidence-informed programs,”;
 
 | | |
 |---|---|
 | Removed | `effective programs,` |
-| Inserted | `evidence-based, evidence-informed, or promising programs,` |
+| Inserted | `evidence-based and evidence-informed programs,` |
 
 ### 42 U.S.C. § 5105
 
-> in subparagraph (Q), as redesignated by subparagraph (B), by striking “subparagraph (O)” and inserting “subparagraph (R)”; and
+> in subparagraph (P), as redesignated by clause (ii), by striking “subparagraph (O)” and inserting “subparagraph (Q)”; and
 
 | | |
 |---|---|
 | Removed | `subparagraph (O)` |
-| Inserted | `subparagraph (R)` |
+| Inserted | `subparagraph (Q)` |
 
 ### 42 U.S.C. § 5105
 
-> in paragraph (2), by striking “paragraph (1)(O)” and inserting “paragraph (1)(R)”; and
+> in paragraph (2), by striking “paragraph (1)(O)” and inserting “paragraph (1)(Q)”; and
 
 | | |
 |---|---|
 | Removed | `paragraph (1)(O)` |
-| Inserted | `paragraph (1)(R)` |
-
-### 42 U.S.C. § 5106
-
-> by striking “entities providing physical and mental health services” and inserting “entities providing physical, behavioral, and mental health services”;
-
-| | |
-|---|---|
-| Removed | `entities providing physical and mental health services` |
-| Inserted | `entities providing physical, behavioral, and mental health services` |
-
-### 42 U.S.C. § 5106
-
-> by striking “and health care agencies that support” and inserting “and physical, behavioral, and mental health care agencies that support”; and
-
-| | |
-|---|---|
-| Removed | `and health care agencies that support` |
-| Inserted | `and physical, behavioral, and mental health care agencies that support` |
-
-### 42 U.S.C. § 5106
-
-> by striking “the health evaluation needs” and inserting “the physical, behavioral, and mental health evaluation needs”;
-
-| | |
-|---|---|
-| Removed | `the health evaluation needs` |
-| Inserted | `the physical, behavioral, and mental health evaluation needs` |
+| Inserted | `paragraph (1)(Q)` |
 
 ### 42 U.S.C. § 5101
 
-> by striking “tribes” and inserting “Tribes” each place the term appears;
-
-| | |
-|---|---|
-| Removed | `tribes` |
-| Inserted | `Tribes` |
-
-### 42 U.S.C. § 5101
-
-> by striking “tribal” and inserting “Tribal” each place the term appears; and
-
-| | |
-|---|---|
-| Removed | `tribal` |
-| Inserted | `Tribal` |
-
-### 42 U.S.C. § 5101
-
-> by striking “tribe” and inserting “Tribe”; and
+> by striking “tribe” each place such term appears (other than in section 3(5)) and inserting “Tribe”; and
 
 | | |
 |---|---|
 | Removed | `tribe` |
 | Inserted | `Tribe` |
+
+### 42 U.S.C. § 5101
+
+> by striking “tribal” each place such term appears (other than in section 3(5)) and inserting “Tribal”.
+
+| | |
+|---|---|
+| Removed | `tribal` |
+| Inserted | `Tribal` |
 
 ## Stated, not applied
 
@@ -114,29 +78,17 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 5101` | insert | in paragraph (6)(A), by inserting “physical, behavioral, and” after “legal,”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 5101` | insert | in paragraph (11), by inserting “trauma-informed,” after “comprehensive,”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5104` | redesignate | by redesignating paragraphs (5) through (9) as paragraphs (6) through (10), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5104` | insert | by inserting after paragraph (4), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5105` | replace | by striking subparagraph (F) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5105` | redesignate | by redesignating subparagraphs (G) through (M), and subparagraphs (N) and (O), as subparagraphs (H) through (N), and subparagraphs (Q) and (R), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5105` | insert | by inserting after subparagraph (F) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5105` | redesignate | by inserting after subparagraph (N), as redesignated by subparagraph (B), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5105` | redesignate | by redesignating subparagraphs (N) and (O) as subparagraphs (P) and (Q), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5105` | insert | by inserting after subparagraph (M) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5105` | redesignate | by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5105` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5105` | strike | in subparagraph (C), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5105` | replace | in subparagraph (D), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5105` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5106` | strike | in subparagraph (L)(ii), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 5106` | replace | in subparagraph (M), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 5106` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5106a` | strike | in subparagraph (C), by striking and after the semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5106a` | strike | in subparagraph (C), by striking “and” after the semicolon; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5106a` | replace | by striking subparagraph (D) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5106a` | insert | in paragraph (13)(A), by inserting “early care and learning and” after “linkages with”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 5106a` | insert | in paragraph (13)(B), by inserting “trauma-informed,” after “supporting prompt,”; and | the bill quotes the text inserted but describes where it goes |
-| `20 U.S.C. § 1431` | replace | in subsection (b)(2)(B)(xxi), by striking “(20 U.S.C. 1431 et seq.)” and inserting “(20 U.S.C. 1431 et seq.), including a description of how those provisions and procedures are effective in ensuring that such a referral is made and how t… | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 5116` | insert | Section 201(b)(1) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5116(b)(1)) is amended in subparagraph (H) by inserting “, mental health,” after “early health”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5116d` | strike | in paragraph (11), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 5116d` | redesignate | by redesignating paragraph (12) as paragraph (13); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5116d` | insert | by inserting after paragraph (11) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5116e` | add-at-end | in subparagraph (A), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5116e` | replace | in subparagraph (B)(ix), by striking the period at the end and inserting a semicolon. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5101` | insert | by inserting “(without respect to capitalization)” after “given the terms”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 5116d` | amend | Section 204(7) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5116d(7)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 450b` | amend | in section 3, by amending paragraph (5) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

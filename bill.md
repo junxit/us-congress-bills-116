@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1160
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -15,86 +15,59 @@ This Act may be cited as the “Supporting Family Mental Health in CAPTA Act”.
 
 ## § 2. Amendments to the Child Abuse Prevention and Treatment Act
 
-- **(a)** *Findings* Section 2 of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5101 note) is amended—
-  - **(1)** in paragraph (6)(A), by inserting “physical, behavioral, and” after “legal,”; and
-  - **(2)** in paragraph (11), by inserting “trauma-informed,” after “comprehensive,”.
-- **(b)** *National clearinghouse* Section 103(b) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5104(b)) is amended—
-  - **(1)** in paragraph (1), by striking “effective programs,” and inserting “evidence-based, evidence-informed, or promising programs,”;
+- **(a)** *National clearinghouse* Section 103(b) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5104(b)) is amended—
+  - **(1)** in paragraph (1), by striking “effective programs,” and inserting “evidence-based and evidence-informed programs,”;
   - **(2)** by redesignating paragraphs (5) through (9) as paragraphs (6) through (10), respectively; and
   - **(3)** by inserting after paragraph (4), the following:
-    > - **(5)** maintain and disseminate information that describes best practices for making appropriate referrals related to, and addressing, the physical, behavioral, mental health, and developmental needs of victims of child abuse or neglect;
+    > - **(5)** maintain and disseminate, as appropriate, information that describes best practices for making appropriate referrals related to, and addressing, the health, mental health, and developmental needs of victims of child abuse or neglect;
 
-- **(c)** *Research and assistance activities* Section 104 of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5105) is amended—
+- **(b)** *Research and assistance activities* Section 104 of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5105) is amended—
   - **(1)** in subsection (a)—
     - **(A)** in paragraph (1)—
       - **(i)** by striking subparagraph (F) and inserting the following:
-        > - **(F)** effective approaches to interagency collaboration between child welfare agencies, the juvenile justice authorities, and public health and mental health agencies that improve the delivery of services and treatment (including services and treatment related to domestic violence or mental health), which may include approaches relating to methods for continuity of treatment plan and services as children transition between systems;
+        > - **(F)** effective approaches to interagency collaboration between the child welfare protection system, the juvenile justice system, and other relevant agencies engaged with children and families that improve the delivery of services and treatment (including related to domestic violence, mental health, or substance use disorders) for continuity of treatment plan and services as children transition between systems;
 
-      - **(ii)** by redesignating subparagraphs (G) through (M), and subparagraphs (N) and (O), as subparagraphs (H) through (N), and subparagraphs (Q) and (R), respectively;
-      - **(iii)** by inserting after subparagraph (F) the following:
-        > - **(G)** effective practices to leverage community-based resources to prevent child abuse and neglect, including resources regarding physical, behavioral, and mental health, substance use disorder, housing, parent support, financial assistance, early childhood development and learning, education, and other services to assist families;
+      - **(ii)** by redesignating subparagraphs (N) and (O) as subparagraphs (P) and (Q), respectively;
+      - **(iii)** by inserting after subparagraph (M) the following:
+        > - **(N)** methods to address geographic, racial, and cultural disparities in the child welfare system, including a focus on access to services;
+        > - **(O)** evidence-based and evidence-informed programs to prevent child abuse and neglect in families that have not had contact with the child welfare system;
 
-      - **(iv)** by inserting after subparagraph (N), as redesignated by subparagraph (B), the following:
-        > - **(O)** methods to address geographic, racial, and cultural equity and disparities in the child welfare system, including a focus on access to culturally appropriate family strengthening programs and activities that prevent child abuse and neglect;
-        > - **(P)** evidence-based, evidence-informed, or promising practices or programs to prevent child abuse and neglect in families that have not had contact with the child welfare system;
+      - **(iv)** in subparagraph (P), as redesignated by clause (ii), by striking “subparagraph (O)” and inserting “subparagraph (Q)”; and
+    - **(B)** in paragraph (2), by striking “paragraph (1)(O)” and inserting “paragraph (1)(Q)”; and
+  - **(2)** in subsection (b)—
+    - **(A)** by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively;
+    - **(B)** by inserting after paragraph (1) the following:
+      > - **(2)** *Content* The technical assistance under paragraph (1) shall be designed to, as applicable, promote best practices for addressing child abuse and neglect in families with complex needs, such as families who have experienced domestic violence, substance use disorders, and adverse childhood experiences.
 
-      - **(v)** in subparagraph (Q), as redesignated by subparagraph (B), by striking “subparagraph (O)” and inserting “subparagraph (R)”; and
-    - **(B)** in paragraph (2), by striking “paragraph (1)(O)” and inserting “paragraph (1)(R)”; and
-  - **(2)** in subsection (b)(2)—
-    - **(A)** in subparagraph (C), by striking “and” after the semicolon;
-    - **(B)** in subparagraph (D), by striking the period at the end and inserting “; and”; and
-    - **(C)** by adding at the end the following:
-      > - **(E)** various methods and procedures to reduce geographic, racial, and cultural disparities in the child welfare system, which may include engaging law enforcement, education, health, and other relevant systems in such efforts.
+    - **(C)** in paragraph (3), as so redesignated—
+      - **(i)** in subparagraph (C), by striking “and” after the semicolon;
+      - **(ii)** in subparagraph (D), by striking the period at the end and inserting “; and”; and
+      - **(iii)** by adding at the end the following:
+        > - **(E)** ways to reduce geographic, racial, and cultural disparities in the child protection system, which may include engaging law enforcement, education, health, and other relevant systems in such efforts.
 
-- **(d)** *Grants for Indian tribes* Section 105(a)(1) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106(a)(1)) is amended—
-  - **(1)** in subparagraph (D)—
-    - **(A)** by striking “entities providing physical and mental health services” and inserting “entities providing physical, behavioral, and mental health services”;
-    - **(B)** by striking “and health care agencies that support” and inserting “and physical, behavioral, and mental health care agencies that support”; and
-    - **(C)** by striking “the health evaluation needs” and inserting “the physical, behavioral, and mental health evaluation needs”;
-  - **(2)** in subparagraph (L)(ii), by striking “and” after the semicolon;
-  - **(3)** in subparagraph (M), by striking the period at the end and inserting “; and”; and
-  - **(4)** by adding at the end the following:
-    > - **(N)** for enabling Indian Tribes or Tribal organizations to provide services and programs that are adapted to the culture and context of the Tribal communities served.
-
-- **(e)** *Grants to States* Section 106 of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a) is amended—
+- **(c)** *Grants to States* Section 106 of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a) is amended—
   - **(1)** in subsection (a)—
     - **(A)** in paragraph (6)—
-      - **(i)** in subparagraph (C), by striking and after the semicolon; and
+      - **(i)** in subparagraph (C), by striking “and” after the semicolon; and
       - **(ii)** by striking subparagraph (D) and inserting the following:
-        > - **(D)** training in early childhood, child, and adolescent development and the impact of child abuse and neglect, and the long-term impacts of adverse childhood experiences;
-        > - **(E)** training regarding trauma-informed practices to mitigate the effects of trauma for infants, children, youth, and parents;
-        > - **(F)** training to enhance linkages among child protective service agencies and entities providing physical, behavioral, and mental health services, and community resources, for purposes of conducting evaluations and providing services related to substantiated cases of child abuse or neglect; and
-        > - **(G)** training regarding the links between child abuse and neglect and domestic violence, and comprehensive, trauma-informed approaches to working with families with substance use disorder or mental health issues;
+        > - **(D)** training in early childhood, child, and adolescent development and the impact of child abuse and neglect, and the long-term impacts of adverse childhood experiences; and
+        > - **(E)** training to improve coordination among child protective service agencies, entities providing health care services (including mental health and substance use disorder services), and community resources, for purposes of conducting evaluations related to substantiated cases of child abuse or neglect; and
+        > - **(F)** training regarding the links between child abuse and neglect and domestic violence, and approaches to working with families with mental health needs or substance use disorder;
 
-    - **(B)** in paragraph (13)(A), by inserting “early care and learning and” after “linkages with”; and
-    - **(C)** in paragraph (13)(B), by inserting “trauma-informed,” after “supporting prompt,”; and
-  - **(2)** in subsection (b)(2)(B)(xxi), by striking “(20 U.S.C. 1431 et seq.)” and inserting “(20 U.S.C. 1431 et seq.), including a description of how those provisions and procedures are effective in ensuring that such a referral is made and how the State will ensure compliance with those provisions and procedures, which may include—
-    > - **(I)** a memorandum of agreement between the State child welfare agency and the State agency responsible for administering such part, regarding the coordination of referral procedures, communication of the requirement for such referral to child welfare and early intervention staff at the local level, and guidance on local coordination between the those 2 agencies, both systemically and around individual cases;
-    > - **(II)** training for local child welfare staff on the nature of developmental delays and disabilities, the prevalence of such delays and disabilities in infants and toddlers in the child welfare system, and the importance of early intervention services; and
-    > - **(III)** a description of how data will be collected and reported on the percentage of infants and toddlers screened for developmental issues, referred for full evaluation (if screening is not performed by the agency providing early intervention services), determined to need early intervention services, and receiving such services.
-
-- **(f)** *Referrals for mental health services* Section 201(b)(1) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5116(b)(1)) is amended in subparagraph (H) by inserting “, mental health,” after “early health”.
-- **(g)** *Application* Section 204 of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5116d) is amended—
-  - **(1)** in paragraph (11), by striking “and” after the semicolon;
-  - **(2)** by redesignating paragraph (12) as paragraph (13); and
-  - **(3)** by inserting after paragraph (11) the following:
-    > - **(12)** a description of the actions that the applicant entity will take to improve the mental health of children and families in order to strengthen and support families to prevent child abuse and neglect, including through activities such as—
-    >   - **(A)** maternal depression screening and treatment, social-emotional screening for young children, evidence-based treatment for families with complex needs, trauma-focused and pro-attachment mental health models;
-    >   - **(B)** programs and services that address social determinants of health; and
-    >   - **(C)** programs and services that address intimate partner violence in child-serving settings; and
-
-- **(h)** *Local program requirements* Section 205(a)(3) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5116e(a)(3)) is amended—
-  - **(1)** in subparagraph (A), by adding at the end the following:
-    > - **(v)** referral to mental health services, which may include using infant and early childhood mental health evaluation and treatment services; and
-
-  - **(2)** in subparagraph (B)(ix), by striking the period at the end and inserting a semicolon.
+- **(d)** *Application* Section 204(7) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5116d(7)) is amended to read as follows:
+  > - **(7)** a description of the criteria that the entity will use to—
+  >   - **(A)** select and fund local programs, and how the lead entity will take into consideration the local program’s ability to—
+  >     - **(i)** collaborate with other community-based organizations and service providers and engage in long-term and strategic planning with respect to community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect;
+  >     - **(ii)** meaningfully partner with parents in the development, implementation, oversight, and evaluation of services;
+  >     - **(iii)** reduce barriers to access to community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect, including for diverse, underserved, and at-risk populations; or
+  >   - **(B)** develop or provide community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect, and provide a description of how such activities are evidence-based or evidence-informed;
 
 ## § 3. Technical amendments
 
 The Child Abuse Prevention and Treatment Act (42 U.S.C. 5101 et seq.) is amended—
 
-- **(1)** by striking “tribes” and inserting “Tribes” each place the term appears;
-- **(2)** by striking “tribal” and inserting “Tribal” each place the term appears; and
-- **(3)** in paragraph (5) of section 3 (42 U.S.C. 5101 note)—
-  - **(A)** by striking “tribe” and inserting “Tribe”; and
-  - **(B)** by inserting “(without respect to capitalization)” after “given the terms”.
+- **(1)** in section 3, by amending paragraph (5) to read as follows:
+  > - **(5)** the terms Indian, Indian Tribe, and Tribal organization have the meanings given the terms “Indian”, “Indian tribe”, and “tribal organization”, respectively, in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b);
+
+- **(2)** by striking “tribe” each place such term appears (other than in section 3(5)) and inserting “Tribe”; and
+- **(3)** by striking “tribal” each place such term appears (other than in section 3(5)) and inserting “Tribal”.
