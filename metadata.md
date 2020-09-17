@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 908
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 908
@@ -16,7 +16,7 @@ Condemning all forms of anti-Asian sentiment as related to COVID–19.
 
 - Rep. Meng, Grace [D-NY-6] (M001188)
 
-## Cosponsors (105)
+## Cosponsors (157)
 
 - Rep. Chu, Judy [D-CA-27] (C001080)
 - Rep. Pressley, Ayanna [D-MA-7] (P000617)
@@ -123,6 +123,58 @@ Condemning all forms of anti-Asian sentiment as related to COVID–19.
 - Rep. Tlaib, Rashida [D-MI-13] (T000481)
 - Rep. Casten, Sean [D-IL-6] (C001117)
 - Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Frankel, Lois [D-FL-21] (F000462)
+- Rep. Meeks, Gregory W. [D-NY-5] (M001137)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
+- Rep. Wexton, Jennifer [D-VA-10] (W000825)
+- Rep. Vargas, Juan [D-CA-51] (V000130)
+- Rep. Peters, Scott H. [D-CA-52] (P000608)
+- Rep. Garcia, Sylvia R. [D-TX-29] (G000587)
+- Rep. Hastings, Alcee L. [D-FL-20] (H000324)
+- Rep. Escobar, Veronica [D-TX-16] (E000299)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Cox, TJ [D-CA-21] (C001124)
+- Rep. McNerney, Jerry [D-CA-9] (M001166)
+- Rep. Lawrence, Brenda L. [D-MI-14] (L000581)
+- Rep. Gallego, Ruben [D-AZ-7] (G000574)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Wasserman Schultz, Debbie [D-FL-23] (W000797)
+- Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
+- Rep. Gomez, Jimmy [D-CA-34] (G000585)
+- Rep. Lee, Susie [D-NV-3] (L000590)
+- Rep. Gabbard, Tulsi [D-HI-2] (G000571)
+- Rep. Carbajal, Salud O. [D-CA-24] (C001112)
+- Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
+- Rep. Stevens, Haley M. [D-MI-11] (S001215)
+- Rep. Fletcher, Lizzie [D-TX-7] (F000468)
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
+- Rep. Swalwell, Eric [D-CA-15] (S001193)
+- Rep. Schrier, Kim [D-WA-8] (S001216)
+- Rep. Espaillat, Adriano [D-NY-13] (E000297)
+- Rep. Posey, Bill [R-FL-8] (P000599)
+- Rep. Keating, William R. [D-MA-9] (K000375)
+- Rep. Phillips, Dean [D-MN-3] (P000616)
+- Rep. Scanlon, Mary Gay [D-PA-5] (S001205)
+- Rep. Hayes, Jahana [D-CT-5] (H001081)
+- Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Crow, Jason [D-CO-6] (C001121)
+- Rep. Sires, Albio [D-NJ-8] (S001165)
+- Rep. Visclosky, Peter J. [D-IN-1] (V000108)
+- Rep. Clarke, Yvette D. [D-NY-9] (C001067)
+- Rep. Lujan, Ben Ray [D-NM-3] (L000570)
+- Rep. Underwood, Lauren [D-IL-14] (U000040)
+- Rep. Rice, Kathleen M. [D-NY-4] (R000602)
+- Rep. Adams, Alma S. [D-NC-12] (A000370)
+- Rep. Doggett, Lloyd [D-TX-35] (D000399)
+- Rep. Bera, Ami [D-CA-7] (B001287)
+- Rep. Kuster, Ann M. [D-NH-2] (K000382)
+- Rep. Shalala, Donna E. [D-FL-27] (S001206)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Garamendi, John [D-CA-3] (G000559)
+- Rep. Crist, Charlie [D-FL-13] (C001111)
 
 ## Committees (1)
 
@@ -133,3 +185,15 @@ Condemning all forms of anti-Asian sentiment as related to COVID–19.
 - 2020-03-25 — Introduced in House
 - 2020-03-25 — Introduced in House
 - 2020-03-25 — Referred to the House Committee on the Judiciary.
+- 2020-09-14 — Rules Committee Resolution H. Res. 1107 Reported to House. Rule provides for consideration of H.R. 2574, H.R. 2639, H.R. 2694 and H. Res. 908. Provides for one hour of debate on each measure. The previous question will be considered as ordered on each measure without intervening motions except for one motion to recommit with or without instructions on H.R. 2574, H.R. 2639, and H.R. 2694.
+- 2020-09-15 — Rule H. Res. 1107 passed House.
+- 2020-09-17 — Considered as unfinished business. (consideration: CR H4527-4528)
+- 2020-09-17 — Considered under the provisions of rule H. Res. 1107. (consideration: CR H4495-4508)
+- 2020-09-17 — DEBATE - The House proceeded with one hour of debate on H. Res. 908.
+- 2020-09-17 — House amendment offered
+- 2020-09-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-17 — On agreeing to the resolution Agreed to by the Yeas and Nays: 243 - 164, 1 Present (Roll no. 193). (text: CR H4495)
+- 2020-09-17 — POSTPONED PROCEEDINGS - At the conclusion of debate, the Chair put the question on agreeing to H. Res. 908 and announced by voice vote that the ayes had prevailed. Mr. Jordan demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2020-09-17 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 243 - 164, 1 Present (Roll no. 193).
+- 2020-09-17 — Rule provides for consideration of H.R. 2574, H.R. 2639, H.R. 2694 and H. Res. 908. Provides for one hour of debate on each measure. The previous question will be considered as ordered on each measure without intervening motions except for one motion to recommit with or without instructions on H.R. 2574, H.R. 2639, and H.R. 2694.
+- 2020-09-17 — The previous question was ordered pursuant to the rule.

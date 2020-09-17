@@ -2,7 +2,7 @@
 legis-num: H. RES. 908
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 908
@@ -11,18 +11,18 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## Preamble
 
-- Whereas 23,000,000 Asian Americans and Pacific Islanders account for 7 percent of the Nation’s population in the United States;
-- Whereas over 2,000,000 Asian Americans and Pacific Islanders are working on the frontlines of this COVID–19 pandemic in health care, law enforcement, first responders, transportation, supermarkets, and other service industries;
-- Whereas the use of anti-Asian terminology and rhetoric related to COVID-19, such as the “Chinese Virus”, “Wuhan Virus”, and “Kung-flu” have perpetuated anti-Asian stigma;
+- Whereas 23 million Asian Americans and Pacific Islanders account for 7 percent of the Nation’s population in the United States;
+- Whereas over 2 million Asian Americans and Pacific Islanders are working on the frontlines of this COVID–19 pandemic in health care, law enforcement, first responders, transportation, supermarkets, and other service industries;
+- Whereas the use of anti-Asian terminology and rhetoric related to COVID–19, such as the “Chinese Virus”, “Wuhan Virus”, and “Kung-flu” have perpetuated anti-Asian stigma;
 - Whereas since January 2020, there has been a dramatic increase in reports of hate crimes and incidents against those of Asian descent;
-- Whereas according to a recent study, there were over 400 cases related to COVID-19 anti-Asian discrimination between February 9, 2020, and March 7, 2020;
+- Whereas according to a recent study, there were over 400 cases related to COVID–19 anti-Asian discrimination between February 9, 2020, and March 7, 2020;
 - Whereas the increased use of anti-Asian rhetoric has resulted in Asian Americans being harassed, assaulted, and scapegoated for the COVID–19 pandemic;
 - Whereas in March 2020, anti-Asian violence includes: a woman wearing a mask was kicked and punched at a New York City subway station; two children and two adults were stabbed at a wholesale grocery in Midland, Texas; a couple was assaulted and robbed by a group of attackers in Philadelphia; and a 16-year-old boy was sent to the hospital after being attacked by bullies in Los Angeles, California;
 - Whereas the increased use of anti-Asian rhetoric has also resulted in Asian-American businesses being targeted for vandalism;
 - Whereas there are approximately 2 million Asian American-owned businesses that generate over $700 billion in annual revenue and employ nearly 4.5 million workers;
 - Whereas the World Health Organization (WHO) and the Centers for Disease Control and Prevention (CDC) recognize that naming COVID–19 by its geographic location or linking it to a specific ethnicity perpetuates stigma;
 - Whereas in 2015, the WHO issued guidance calling on media outlets, scientists, and national authorities to avoid naming infectious diseases for locations to avoid stigmatizing groups of people;
-- Whereas, on February 27, 2020, the Secretary of Health and Human Services stated “ethnicity is not what causes the novel coronavirus” and that it is inappropriate and inaccurate to call COVID-19 the “Chinese virus”;
+- Whereas, on February 27, 2020, the Secretary of Health and Human Services stated “ethnicity is not what causes the novel coronavirus” and that it is inappropriate and inaccurate to call COVID–19 the “Chinese virus”;
 - Whereas, on February 28, 2020, Dr. Mitch Wolfe, the Chief Medical Officer of the CDC said, “Stigma is the enemy of public health”;
 - Whereas, on March 10, 2020, Dr. Robert Redfield, the Director of the CDC, testified that use of the term “Chinese coronavirus” is wrong and inappropriate; and
 - Whereas the Secretary General of the United Nations called for international solidarity and an end to any ill-founded discrimination of the outbreak’s victims: Now, therefore, be it
