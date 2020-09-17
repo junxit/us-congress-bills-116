@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3659
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3659
@@ -30,9 +30,10 @@ Danny's Law
 - Rep. Hayes, Jahana [D-CT-5] (H001081)
 - Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Danny's Law
 - 2020-09-16 — Ms. Stevens moved to suspend the rules and pass the bill, as amended.
 - 2020-09-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4449-4450)
 - 2020-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-09-17 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
