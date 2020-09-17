@@ -1,7 +1,7 @@
 ---
 measure: S. 1646
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1646
@@ -38,3 +38,17 @@ A bill to designate the community-based outpatient clinic of the Department of V
 - 2020-09-17 — Senate amendment agreed to: Amendment SA 2657 agreed to in Senate by Unanimous Consent.
 - 2020-09-17 — Senate amendment proposed (on the floor): Amendment SA 2657 proposed by Senator McConnell for Senator Rubio.
 - 2020-09-17 — Senate amendment submitted
+- 2020-09-22 — Held at the desk.
+- 2020-09-22 — Message on Senate action sent to the House.
+- 2020-09-22 — Received in the House.
+- 2020-09-23 — Considered by unanimous consent. (consideration: CR H4733-4734)
+- 2020-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-23 — Mr. Takano asked unanimous consent to take from the Speaker's table and consider.
+- 2020-09-23 — On passage Passed without objection. (text: CR H4734)
+- 2020-09-23 — Passed/agreed to in House: On passage Passed without objection.
+- 2020-10-06 — Presented to President.
+- 2020-10-06 — Presented to President.
+- 2020-10-13 — Became Public Law No: 116-168.
+- 2020-10-13 — Became Public Law No: 116-168.
+- 2020-10-13 — Signed by President.
+- 2020-10-13 — Signed by President.
