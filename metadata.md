@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4990
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4990
@@ -31,10 +31,11 @@ Election Technology Research Act of 2020
 - Rep. Slotkin, Elissa [D-MI-8] (S001208)
 - Rep. Kuster, Ann M. [D-NH-2] (K000382)
 
-## Committees (2)
+## Committees (3)
 
 - House — Committee on House Administration
 - House — Science, Space, and Technology Committee
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ Election Technology Research Act of 2020
 - 2020-09-16 — Ms. Sherrill moved to suspend the rules and pass the bill, as amended.
 - 2020-09-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4468-4469)
 - 2020-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-09-17 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
