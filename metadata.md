@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2694
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2694
@@ -260,12 +260,13 @@ Pregnant Workers Fairness Act
 - Rep. Wagner, Ann [R-MO-2] (W000812)
 - Rep. Doggett, Lloyd [D-TX-35] (D000399)
 
-## Committees (4)
+## Committees (5)
 
 - House — Judiciary Committee
 - House — Oversight and Accountability Committee
 - House — Committee on House Administration
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -287,3 +288,23 @@ Pregnant Workers Fairness Act
 - 2020-09-08 — Placed on the Union Calendar, Calendar No. 396.
 - 2020-09-08 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 116-494, Part I.
 - 2020-09-08 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 116-494, Part I.
+- 2020-09-14 — Rules Committee Resolution H. Res. 1107 Reported to House. Rule provides for consideration of H.R. 2574, H.R. 2639, H.R. 2694 and H. Res. 908. Provides for one hour of debate on each measure. The previous question will be considered as ordered on each measure without intervening motions except for one motion to recommit with or without instructions on H.R. 2574, H.R. 2639, and H.R. 2694.
+- 2020-09-17 — Amendment in the nature of a substitute reported by the House Committee on Rules. (consideration: CR H4508-4524; text: CR H4508-4509)
+- 2020-09-17 — Considered as unfinished business. (consideration: CR H4528-4529)
+- 2020-09-17 — Considered under the provisions of rule H. Res. 1107. (consideration: CR H4508-4527)
+- 2020-09-17 — DEBATE - The House proceeded with 10 minutes of debate on the Foxx motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to strike all after the enacting clause and insert new text entitled the "Pregnant Workers Fairness Act". The new text includes an exemption for religious organizations.
+- 2020-09-17 — DEBATE - The House proceeded with one hour of debate on H.R. 2694.
+- 2020-09-17 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2020-09-17 — House amendment offered
+- 2020-09-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-17 — Ms. Foxx (NC) moved to recommit with instructions to the Committee on Education and Labor. (text: CR H4524-4526)
+- 2020-09-17 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2020-09-17 — On motion to recommit with instructions Failed by the Yeas and Nays: 177 - 226 (Roll no. 194).
+- 2020-09-17 — On passage Passed by the Yeas and Nays: 329 - 73 (Roll no. 195).
+- 2020-09-17 — POSTPONED PROCEEDINGS - At the conclusion of debate, the Chair put the question on the Foxx motion to recommit and by voice vote, announced that the noes had prevailed. Ms. Fox demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2020-09-17 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 329 - 73 (Roll no. 195).
+- 2020-09-17 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2020-09-17 — Rule provides for consideration of H.R. 2574, H.R. 2639, H.R. 2694 and H. Res. 908. Provides for one hour of debate on each measure. The previous question will be considered as ordered on each measure without intervening motions except for one motion to recommit with or without instructions on H.R. 2574, H.R. 2639, and H.R. 2694.
+- 2020-09-17 — The previous question was ordered pursuant to the rule.
+- 2020-09-17 — The previous question was ordered without objection.
+- 2020-09-17 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the Foxx (NC) motion to recommit H.R. 2694 with instructions, which was debated earlier and on which further proceedings had been postponed.
