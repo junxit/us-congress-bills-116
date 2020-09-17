@@ -1,7 +1,7 @@
 ---
 measure: S. 4072
 congress: 116
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 4072
@@ -28,3 +28,7 @@ A bill to designate the clinic of the Department of Veterans Affairs in Bend, Or
 
 - 2020-06-25 — Introduced in Senate
 - 2020-06-25 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2020-09-17 — Passed Senate without amendment by Unanimous Consent. (text: CR S5716)
+- 2020-09-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-09-17 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2020-09-17 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S5716)
