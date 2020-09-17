@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3607
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-16 amendatory instructions. 1 executed, 15 stated and not applied.
+19 amendatory instructions. 1 executed, 18 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -48,8 +48,10 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 16291` | replace | in subsection (b), by striking paragraphs (1) through (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16291` | replace | by striking subsections (c) through (e) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16292` | amend | Section 962 of the Energy Policy Act of 2005 (42 U.S.C. 16292) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16293` | amend | Section 963 of the Energy Policy Act of 2005 (42 U.S.C. 16293) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16291` | add-at-end | Subtitle F of title IX of the Energy Policy Act of 2005 (42 U.S.C. 16291 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16291` | insert | The table of contents for the Energy Policy Act of 2005 (Public Law 109–58; 119 Stat. 600) is amended by inserting after the item relating to section 968 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16293` | amend | Section 963 of the Energy Policy Act of 2005 (42 U.S.C. 16293) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16291` | insert | Subtitle F of title IX of the Energy Policy Act of 2005 (42 U.S.C. 16291 et seq.) is amended by inserting after section 963 (42 U.S.C. 16293) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16291` | add-at-end | Subtitle F of title IX of the Energy Policy Act of 2005 (42 U.S.C. 16291 et seq.) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16291` | add-at-end | Subtitle F of title IX of the Energy Policy Act of 2005 (42 U.S.C. 16291 et seq.) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 2003` | amend | Section 4(b) of the Methane Hydrate Research and Development Act of 2000 (30 U.S.C. 2003(b)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -57,3 +59,4 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 16291` | add-at-end | Subtitle F of title IX of the Energy Policy Act of 2005 (42 U.S.C. 16291 et seq.) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16291` | add-at-end | Subtitle F of title IX of the Energy Policy Act of 2005 (42 U.S.C. 16291 et seq.) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16291` | add-at-end | Subtitle F of title IX of the Energy Policy Act of 2005 (42 U.S.C. 16291 et seq.) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 15801` | amend | The table of contents for the Energy Policy Act of 2005 (42 U.S.C. 15801 note) is amended by amending the items relating to subtitle F of title IX to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
