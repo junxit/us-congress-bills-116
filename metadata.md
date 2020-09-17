@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7909
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7909
@@ -52,9 +52,10 @@ Ensuring Children and Child Care Workers Are Safe Act of 2020
 - Rep. Wenstrup, Brad R. [R-OH-2] (W000815)
 - Rep. Crow, Jason [D-CO-6] (C001121)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -69,3 +70,4 @@ Ensuring Children and Child Care Workers Are Safe Act of 2020
 - 2020-09-16 — Ms. Bonamici moved to suspend the rules and pass the bill, as amended.
 - 2020-09-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 387 - 33 (Roll no. 190). (text: CR H4444-4445)
 - 2020-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 387 - 33 (Roll no. 190).
+- 2020-09-17 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
