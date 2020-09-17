@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2694
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2694
