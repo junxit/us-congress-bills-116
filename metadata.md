@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2574
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2574
@@ -35,10 +35,11 @@ Equity and Inclusion Enforcement Act of 2019
 - Rep. Soto, Darren [D-FL-9] (S001200)
 - Rep. Lee, Barbara [D-CA-13] (L000551)
 
-## Committees (2)
+## Committees (3)
 
 - House — Education and the Workforce Committee
 - House — Judiciary Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (2)
 
@@ -83,3 +84,4 @@ Equity and Inclusion Enforcement Act of 2019
 - 2020-09-16 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2020-09-16 — The previous question was ordered pursuant to the rule.
 - 2020-09-16 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on passage of H.R. 2574, which was debated earlier and on which further proceedings had been postponed.
+- 2020-09-17 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
