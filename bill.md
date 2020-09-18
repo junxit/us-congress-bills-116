@@ -20,20 +20,22 @@ Section 319F–2(a) of the Public Health Service Act (42 U.S.C. 247d–6b(a)) is
 
 > - **(6)** *Transfers and reimbursements*
 >   - **(A)** *In general* Without regard to chapter 5 of title 40, United States Code, the Secretary may transfer to any Federal department or agency, on a reimbursable basis, any drugs, vaccines and other biological products, medical devices, and other supplies in the stockpile if—
->     - **(i)** the transferred supplies are less than six months from expiry;
+>     - **(i)** the transferred supplies are less than one year from expiry;
 >     - **(ii)** the stockpile is able to replenish the supplies, as appropriate; and
 >     - **(iii)** the Secretary decides the transfer is in the best interest of the United States Government.
 >   - **(B)** *Use of reimbursement* Reimbursement derived from the transfer of supplies pursuant to subparagraph (A) may be used by the Secretary, without further appropriation and without fiscal year limitation, to carry out this section.
->   - **(C)** *Report* Not later than September 30, 2022, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on each transfer made under this paragraph and the amount received by the Secretary in exchange for that transfer.
->   - **(D)** *Sunset* The authority to make transfers under this paragraph shall cease to be effective on September 30, 2023.
+>   - **(C)** *Rule of construction* This paragraph shall not be construed to preclude transfers of products in the stockpile under other authorities.
+>   - **(D)** *Report* Not later than September 30, 2022, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on each transfer made under this paragraph and the amount received by the Secretary in exchange for that transfer.
+>   - **(E)** *Sunset* The authority to make transfers under this paragraph shall cease to be effective on September 30, 2023.
 
 ## § 3. Equipment maintenance
 
 Section 319F–2 of the Public Health Service Act (42 U.S.C. 247d–6b) is amended—
 
 - **(1)** in subsection (a)(3)—
-  - **(A)** in subparagraph (I), by striking “; and” and inserting a semicolon; and
-  - **(B)** by inserting the following new subparagraph at the end:
+  - **(A)** in subparagraph (I), by striking “; and” and inserting a semicolon;
+  - **(B)** in subparagraph (J), by striking the period at the end and inserting a semicolon; and
+  - **(C)** by inserting the following new subparagraph at the end:
     > - **(K)** ensure contents of the stockpile remain in good working order and, as appropriate, conduct maintenance services on contents of the stockpile; and
 
 - **(2)** in subsection (c)(7)(B), by adding at the end the following new clause:
@@ -44,13 +46,13 @@ Section 319F–2 of the Public Health Service Act (42 U.S.C. 247d–6b) is amend
 - **(a)** *In general* Section 319F–2(a)(3) of the Public Health Service Act (42 U.S.C. 247d–6b(a)(3)), as amended by section 3, is further amended by adding at the end the following new subparagraph:
   > - **(L)** enhance medical supply chain elasticity and establish and maintain domestic reserves of critical medical supplies (including personal protective equipment, ancillary medical supplies, and other applicable supplies required for the administration of drugs, vaccines and other biological products, and other medical devices (including diagnostic tests)) by—
   >   - **(i)** increasing emergency stock of critical medical supplies;
-  >   - **(ii)** geographically diversifying production of such medical supplies;
-  >   - **(iii)** purchasing, leasing, or entering into joint ventures with respect to facilities and equipment for the production of such medical supplies; and
-  >   - **(iv)** working with distributors of such medical supplies to manage the domestic reserves established under this subparagraph by refreshing and replenishing stock of such medical supplies.
+  >   - **(ii)** geographically diversifying domestic production of such medical supplies, as appropriate;
+  >   - **(iii)** entering into cooperative agreements or partnerships with respect to manufacturing lines, facilities, and equipment for the domestic production of such medical supplies; and
+  >   - **(iv)** managing, either directly or through cooperative agreements with manufacturers and distributors, domestic reserves established under this subparagraph by refreshing and replenishing stock of such medical supplies.
 
 - **(b)** *Reporting; sunset* Section 319F–2(a) of the Public Health Service Act (42 U.S.C. 247d–6b(a)), as amended by section 2, is further amended by adding at the end the following:
-  > - **(7)** *Reporting* Not later than September 30, 2022, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the details of each purchase, lease, or joint venture entered into under paragraph (3)(L), including the amount expended by the Secretary on each such purchase, lease, or joint venture.
-  > - **(8)** *Sunset* The authority to make purchases, leases, or joint ventures pursuant to paragraph (3)(L) shall cease to be effective on September 30, 2023.
+  > - **(7)** *Reporting* Not later than September 30, 2022, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate a report on the details of each cooperative agreement or partnership entered into under paragraph (3)(L), including the amount expended by the Secretary on each such cooperative agreement or partnership.
+  > - **(8)** *Sunset* The authority to enter into cooperative agreements or partnerships pursuant to paragraph (3)(L) shall cease to be effective on September 30, 2023.
 
 - **(c)** *Funding* Section 319F–2(f) of the Public Health Service Act (42 U.S.C. 247d–6b(f)) is amended by adding at the end the following:
   > - **(3)** *Supply chain elasticity*
@@ -127,4 +129,4 @@ Title III of the Public Health Service Act is amended by inserting after section
 
 ## § 9. Authorization of appropriations
 
-Section 319F–2(f)(1) of the Public Health Service Act (42 U.S.C. 247d–6b(f)(1)) is amended by striking “$610,000,000 for each of fiscal years 2019 through 2023” and inserting “$705,000,000 for each of fiscal years 2020 through 2023”.
+Section 319F–2(f)(1) of the Public Health Service Act (42 U.S.C. 247d-6b(f)(1)) is amended by striking “$610,000,000 for each of fiscal years 2019 through 2023” and inserting “$705,000,000 for each of fiscal years 2020 through 2023”.
