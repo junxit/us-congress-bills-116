@@ -15,11 +15,11 @@ This Act may be cited as the “Suicide Prevention Act”.
 
 ## § 2. Syndromic surveillance of self-harm behaviors program
 
-Title III of the Public Health Service Act is amended by inserting after section 317T of such Act (42 U.S.C. 247b–22) the following:
+Title III of the Public Health Service Act is amended by inserting after section 317U of such Act (42 U.S.C. 247b–23) the following:
 
-> ## § 317U. Syndromic surveillance of self-harm behaviors program
+> ## § 317V. Syndromic surveillance of self-harm behaviors program
 >
-> - **(a)** *In general* The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall award grants to State, local, Tribal, and territorial public health departments for the expansion of surveillance of self-harm.
+> - **(a)** *In general* The Secretary shall award grants to State, local, Tribal, and territorial public health departments for the expansion of surveillance of self-harm.
 > - **(b)** *Data sharing by grantees* As a condition of receipt of such grant under subsection (a), each grantee shall agree to share with the Centers for Disease Control and Prevention in real time, to the extent feasible and as specified in the grant agreement, data on suicides and self-harm for purposes of—
 >   - **(1)** tracking and monitoring self-harm to inform response activities to suicide clusters;
 >   - **(2)** informing prevention programming for identified at-risk populations; and
@@ -31,14 +31,14 @@ Title III of the Public Health Service Act is amended by inserting after section
 >   - **(4)** Data on self-harm where there is evidence, whether implicit or explicit, of suicidal intent.
 >   - **(5)** Data on self-harm where suicidal intent is unclear based on the available evidence.
 > - **(d)** *Priority* In making awards under subsection (a), the Secretary shall give priority to eligible entities that are—
->   - **(1)** located in a State with an age-adjusted rate of suicide death that is above the national suicide mortality rate, as determined by the Director of the Centers for Disease Control and Prevention;
->   - **(2)** serving an Indian Tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act) with an age-adjusted rate of suicide deaths that is above the national suicide mortality rate, as determined through appropriate mechanisms determined by the Secretary in consultation with Indian Tribes; or
+>   - **(1)** located in a State with an age-adjusted rate of nonfatal suicidal behavior that is above the national rate of nonfatal suicidal behavior, as determined by the Director of the Centers for Disease Control and Prevention;
+>   - **(2)** serving an Indian Tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act) with an age-adjusted rate of nonfatal suicidal behavior that is above the national rate of nonfatal suicidal behavior, as determined through appropriate mechanisms determined by the Secretary in consultation with Indian Tribes; or
 >   - **(3)** located in a State with a high rate of coverage of statewide (or Tribal) emergency department visits, as determined by the Director of the Centers for Disease Control and Prevention.
 > - **(e)** *Geographic distribution* In making grants under this section, the Secretary shall make an effort to ensure geographic distribution, taking into account the unique needs of rural communities, including—
 >   - **(1)** communities with an incidence of individuals with serious mental illness, demonstrated suicidal ideation or behavior, or suicide rates that are above the national average, as determined by the Assistant Secretary for Mental Health and Substance Use;
 >   - **(2)** communities with a shortage of prevention and treatment services, as determined by the Assistant Secretary for Mental Health and Substance Use and the Administrator of the Health Resources and Services Administration; and
 >   - **(3)** other appropriate community-level factors and social determinants of health such as income, employment, and education.
-> - **(f)** *Period of participation* To be selected as a grant recipient under this section, a State, local, Tribal, or territorial public health department shall agree to participate in the program for a period of not less than 2 years.
+> - **(f)** *Period of participation* To be selected as a grant recipient under this section, a State, local, Tribal, or territorial public health department shall agree to participate in the program for a period of not less than 4 years.
 > - **(g)** *Technical assistance* The Secretary shall provide technical assistance and training to grantees for collecting and sharing the data under subsection (b).
 > - **(h)** *Data sharing by HHS* Subject to subsection (b), the Secretary shall, with respect to data on self-harm that is collected pursuant to this section, share and integrate such data through—
 >   - **(1)** the National Syndromic Surveillance Program’s Early Notification of Community Epidemics (ESSENCE) platform (or any successor platform);
@@ -51,7 +51,7 @@ Title III of the Public Health Service Act is amended by inserting after section
 >     - **(A)** challenges and gaps in data collection and reporting;
 >     - **(B)** recommendations to address such gaps and challenges; and
 >     - **(C)** a description of any public health responses initiated at the Federal, State, or local level in response to the data collected.
-> - **(k)** *Authorization of appropriations* To carry out this section, there are authorized to be appropriated $10,000,000 for each of fiscal years 2021 through 2025.
+> - **(k)** *Authorization of appropriations* To carry out this section, there are authorized to be appropriated $20,000,000 for each of fiscal years 2021 through 2025.
 
 ## § 3. Grants to provide self-harm and suicide prevention services
 
@@ -59,7 +59,7 @@ Part B of title V of the Public Health Service Act (42 U.S.C. 290aa et seq.) is 
 
 > ## § 520N. Grants to provide self-harm and suicide prevention services
 >
-> - **(a)** *In general* The Secretary of Health and Human Services, acting through the Assistant Secretary for Mental Health and Substance Use, shall award grants to hospital emergency departments to provide self-harm and suicide prevention services.
+> - **(a)** *In general* The Secretary of Health and Human Services shall award grants to hospital emergency departments to provide self-harm and suicide prevention services.
 > - **(b)** *Activities supported*
 >   - **(1)** *In general* A hospital emergency department awarded a grant under subsection (a) shall use amounts under the grant to implement a program or protocol to better prevent suicide attempts among hospital patients after discharge, which may include—
 >     - **(A)** screening patients for self-harm and suicide in accordance with the standards of practice described in subsection (e)(1) and standards of care established by appropriate medical and advocacy organizations;
@@ -83,8 +83,7 @@ Part B of title V of the Public Health Service Act (42 U.S.C. 290aa et seq.) is 
 >         - **(III)** referrals to health care facilities for the purposes of receiving long-term self-harm and suicide prevention;
 >       - **(ii)** information on the adherence of the hospital emergency department to the standards of practice described in subsection (f)(1); and
 >       - **(iii)** other information as the Secretary determines appropriate to evaluate the use of grant funds.
->   - **(2)** *Reports to Congress and in the Department of Health and Human Services* Not later than 2 years after the date of the enactment of the Suicide Prevention Act, and biennially thereafter, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Energy and Commerce of the House of Representatives, and the subcomponents of the Department of Health and Human Services described in paragraph (3) a report on the grant program under this section, including—
+>   - **(2)** *Reports to Congress* Not later than 2 years after the date of the enactment of the Suicide Prevention Act, and biennially thereafter, the Secretary shall submit to the Committee on Health, Education, Labor and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the grant program under this section, including—
 >     - **(A)** a summary of reports received by the Secretary under paragraph (1); and
 >     - **(B)** an evaluation of the program by the Secretary.
->   - **(3)** *Reporting in the Department of Health and Human Services* The subcomponents of the Department of Health and Human Services described in paragraph (2) are the Centers for Disease Control and Prevention and the National Institute of Mental Health.
 > - **(g)** *Authorization of appropriations* To carry out this section, there are authorized to be appropriated $30,000,000 for each of fiscal years 2021 through 2025.

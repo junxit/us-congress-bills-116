@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5619
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 247b-22` | insert | Title III of the Public Health Service Act is amended by inserting after section 317T of such Act (42 U.S.C. 247b–22) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 247b-23` | insert | Title III of the Public Health Service Act is amended by inserting after section 317U of such Act (42 U.S.C. 247b–23) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 290aa` | add-at-end | Part B of title V of the Public Health Service Act (42 U.S.C. 290aa et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
