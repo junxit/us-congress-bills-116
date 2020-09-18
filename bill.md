@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 451
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,9 +11,74 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Don’t Break Up the T-Band Act of 2019”.
+This Act may be cited as the “Don’t Break Up the T-Band Act of 2020”.
 
 ## § 2. Repeal of requirement to reallocate and auction T-Band spectrum
 
 - **(a)** *Repeal* Section 6103 of the Middle Class Tax Relief and Job Creation Act of 2012 (47 U.S.C. 1413) is repealed.
 - **(b)** *Clerical amendment* The table of contents in section 1(b) of such Act is amended by striking the item relating to section 6103.
+
+## § 3. Clarifying acceptable 9–1–1 obligations or expenditures
+
+Section 6 of the Wireless Communications and Public Safety Act of 1999 (47 U.S.C. 615a–1) is amended—
+
+- **(1)** in subsection (f)—
+  - **(A)** in paragraph (1), by striking “as specified in the provision of State or local law adopting the fee or charge” and inserting “consistent with the purposes and functions designated in the final rules issued under paragraph (3) as purposes and functions for which the obligation or expenditure of such a fee or charge is acceptable”;
+  - **(B)** in paragraph (2), by striking “any purpose other than the purpose for which any such fees or charges are specified” and inserting “any purpose or function other than the purposes and functions designated in the final rules issued under paragraph (3) as purposes and functions for which the obligation or expenditure of any such fees or charges is acceptable”; and
+  - **(C)** by adding at the end the following:
+    > - **(3)** *Acceptable obligations or expenditures*
+    >   - **(A)** *Rules required* In order to prevent diversion of 9–1–1 fees or charges, the Commission shall, not later than 180 days after the date of the enactment of this paragraph, issue final rules designating purposes and functions for which the obligation or expenditure of 9–1–1 fees or charges, by any State or taxing jurisdiction authorized to impose such a fee or charge, is acceptable.
+    >   - **(B)** *Purposes and functions* The purposes and functions designated under subparagraph (A) shall be limited to the support and implementation of 9–1–1 services provided by or in the State or taxing jurisdiction imposing the fee or charge and operational expenses of public safety answering points within such State or taxing jurisdiction. In designating such purposes and functions, the Commission shall consider the purposes and functions that States and taxing jurisdictions specify as the intended purposes and functions for the 9–1–1 fees or charges of such States and taxing jurisdictions, and determine whether such purposes and functions directly support providing 9–1–1 services.
+    >   - **(C)** *Consultation required* The Commission shall consult with public safety organizations and States and taxing jurisdictions as part of any proceeding under this paragraph.
+    >   - **(D)** *Definitions* In this paragraph:
+    >     - **(i)** *9–1–1 fee or charge* The term “9–1–1 fee or charge” means a fee or charge applicable to commercial mobile services or IP-enabled voice services specifically designated by a State or taxing jurisdiction for the support or implementation of 9–1–1 services.
+    >     - **(ii)** *9–1–1 services* The term 9–1–1 services has the meaning given such term in section 158(e) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 942(e)).
+    >     - **(iii)** *State or taxing jurisdiction* The term State or taxing jurisdiction means a State, political subdivision thereof, Indian Tribe, or village or regional corporation serving a region established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.).
+    > - **(4)** *Participation* If a State or taxing jurisdiction (as defined in paragraph (3)(D)) receives a grant under section 158 of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 942) after the date of the enactment of this paragraph, such State or taxing jurisdiction shall, as a condition of receiving such grant, provide the information requested by the Commission to prepare the report required by paragraph (2).
+    > - **(5)** *Petition regarding additional purposes and functions*
+    >   - **(A)** *In general* A State or taxing jurisdiction (as defined in paragraph (3)(D)) may submit to the Commission a petition for a determination that an obligation or expenditure of a 9–1–1 fee or charge (as defined in such paragraph) by such State or taxing jurisdiction for a purpose or function other than a purpose or function designated under paragraph (3)(A) should be treated as such a purpose or function. If the Commission finds that the State or taxing jurisdiction has provided sufficient documentation to make the demonstration described in subparagraph (B), the Commission shall grant such petition.
+    >   - **(B)** *Demonstration described* The demonstration described in this subparagraph is a demonstration that the purpose or function—
+    >     - **(i)** supports public safety answering point functions or operations; or
+    >     - **(ii)** has a direct impact on the ability of a public safety answering point to—
+    >       - **(I)** receive or respond to 9–1–1 calls; or
+    >       - **(II)** dispatch emergency responders.
+
+- **(2)** by adding at the end the following:
+  > - **(j)** *Severability clause* If any provision of this section or the application thereof to any person or circumstance is held invalid, the remainder of this section and the application of such provision to other persons or circumstances shall not be affected thereby.
+
+## § 4. Prohibition on 9–1–1 fee or charge diversion
+
+- **(a)** *In general* If the Commission obtains evidence that suggests the diversion by a State or taxing jurisdiction of 9–1–1 fees or charges, the Commission shall submit such information, including any information regarding the impact of any underfunding of 9–1–1 services in the State or taxing jurisdiction, to the interagency strike force established under subsection (c).
+- **(b)** *Report to Congress* Beginning with the first report under section 6(f)(2) of the Wireless Communications and Public Safety Act of 1999 (47 U.S.C. 615a–1(f)(2)) that is required to be submitted after the date that is 1 year after the date of the enactment of this Act, the Commission shall include in each report required under such section all evidence that suggests the diversion by a State or taxing jurisdiction of 9–1–1 fees or charges, including any information regarding the impact of any underfunding of 9–1–1 services in the State or taxing jurisdiction.
+- **(c)** *Interagency strike force to end 9–1–1 fee or charge diversion*
+  - **(1)** *Establishment* Not later than 180 days after the date of the enactment of this Act, the Commission shall establish an interagency strike force to study how the Federal Government can most expeditiously end diversion by a State or taxing jurisdiction of 9–1–1 fees or charges. Such interagency strike force shall be known as the “Ending 9–1–1 Fee Diversion Now Strike Force” (in this section referred to as the “Strike Force”).
+  - **(2)** *Duties* In carrying out the study under paragraph (1), the Strike Force shall—
+    - **(A)** determine the effectiveness of any Federal laws, including regulations, policies, and practices, or budgetary or jurisdictional constraints regarding how the Federal Government can most expeditiously end diversion by a State or taxing jurisdiction of 9–1–1 fees or charges;
+    - **(B)** consider whether criminal penalties would further prevent diversion by a State or taxing jurisdiction of 9–1–1 fees or charges; and
+    - **(C)** determine the impacts of diversion by a State or taxing jurisdiction of 9–1–1 fees or charges.
+  - **(3)** *Members* The Strike Force shall be composed of such representatives of Federal departments and agencies as the Commission considers appropriate, in addition to—
+    - **(A)** State attorneys general;
+    - **(B)** States or taxing jurisdictions found not to be engaging in diversion of 9–1–1 fees or charges;
+    - **(C)** States or taxing jurisdictions trying to stop the diversion of 9–1–1 fees or charges;
+    - **(D)** State 9–1–1 administrators;
+    - **(E)** public safety organizations;
+    - **(F)** groups representing the public and consumers; and
+    - **(G)** groups representing public safety answering point professionals.
+  - **(4)** *Report to Congress* Not later than 270 days after the date of the enactment of this Act, the Strike Force shall publish on the website of the Commission and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the findings of the study under this subsection, including—
+    - **(A)** any recommendations regarding how to most expeditiously end the diversion by a State or taxing jurisdiction of 9–1–1 fees or charges, including actions that can be taken by Federal departments and agencies and appropriate changes to law or regulations; and
+    - **(B)** a description of what progress, if any, relevant Federal departments and agencies have made in implementing the recommendations under subparagraph (A).
+- **(d)** *Failure to comply* Notwithstanding any other provision of law, any State or taxing jurisdiction identified by the Commission in the report required under section 6(f)(2) of the Wireless Communications and Public Safety Act of 1999 (47 U.S.C. 615a–1(f)(2)) as engaging in diversion of 9–1–1 fees or charges shall be ineligible to participate or send a representative to serve on any committee, panel, or council established under section 6205(a) of the Middle Class Tax Relief and Job Creation Act of 2012 (47 U.S.C. 1425(a)) or any advisory committee established by the Commission.
+
+## § 5. Rule of construction
+
+Nothing in this Act, the Wireless Communications and Public Safety Act of 1999 (Public Law 106–81), or the Communications Act of 1934 (47 U.S.C. 151 et seq.) shall be construed to prevent a State or taxing jurisdiction from requiring an annual audit of the books and records of a provider of 9–1–1 services concerning the collection and remittance of a 9–1–1 fee or charge.
+
+## § 6. Definitions
+
+In this Act:
+
+- **(1)** *9–1–1 fee or charge* The term “9–1–1 fee or charge” has the meaning given such term in subparagraph (D) of paragraph (3) of section 6(f) of the Wireless Communications and Public Safety Act of 1999, as added by this Act.
+- **(2)** *9–1–1 services* The term 9–1–1 services has the meaning given such term in section 158(e) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 942(e)).
+- **(3)** *Commission* The term “Commission” means the Federal Communications Commission.
+- **(4)** *Diversion* The term “diversion” means, with respect to a 9–1–1 fee or charge, the obligation or expenditure of such fee or charge for a purpose or function other than the purposes and functions designated in the final rules issued under paragraph (3) of section 6(f) of the Wireless Communications and Public Safety Act of 1999, as added by this Act, as purposes and functions for which the obligation or expenditure of such a fee or charge is acceptable.
+- **(5)** *State or taxing jurisdiction* The term “State or taxing jurisdiction” has the meaning given such term in subparagraph (D) of paragraph (3) of section 6(f) of the Wireless Communications and Public Safety Act of 1999, as added by this Act.

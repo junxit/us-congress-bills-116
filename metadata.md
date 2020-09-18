@@ -1,7 +1,7 @@
 ---
 measure: H.R. 451
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 451
@@ -16,11 +16,32 @@ Don't Break Up the T-Band Act of 2020
 
 - Rep. Engel, Eliot L. [D-NY-16] (E000179)
 
-## Cosponsors (3)
+## Cosponsors (24)
 
 - Rep. Zeldin, Lee M. [R-NY-1] (Z000017)
 - Rep. Green, Al [D-TX-9] (G000553)
 - Rep. King, Peter T. [R-NY-2] (K000210)
+- Rep. Rose, Max [D-NY-11] (R000613)
+- Rep. Lowey, Nita M. [D-NY-17] (L000480)
+- Rep. Schiff, Adam B. [D-CA-28] (S001150)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. Lynch, Stephen F. [D-MA-8] (L000562)
+- Rep. Napolitano, Grace F. [D-CA-32] (N000179)
+- Rep. Pascrell, Bill, Jr. [D-NJ-9] (P000096)
+- Rep. Moulton, Seth [D-MA-6] (M001196)
+- Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
+- Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
+- Rep. Meng, Grace [D-NY-6] (M001188)
+- Rep. Rice, Kathleen M. [D-NY-4] (R000602)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+- Rep. Espaillat, Adriano [D-NY-13] (E000297)
+- Rep. Doyle, Michael F. [D-PA-18] (D000482)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
+- Rep. Lamb, Conor [D-PA-17] (L000588)
+- Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Neguse, Joe [D-CO-2] (N000191)
 
 ## Committees (1)
 
@@ -31,3 +52,12 @@ Don't Break Up the T-Band Act of 2020
 - 2019-01-10 — Introduced in House
 - 2019-01-10 — Introduced in House
 - 2019-01-10 — Referred to the House Committee on Energy and Commerce.
+- 2019-01-25 — Referred to the Subcommittee on Communications and Technology.
+- 2020-02-27 — Subcommittee Hearings Held.
+- 2020-03-10 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2020-03-10 — Subcommittee Consideration and Mark-up Session Held.
+- 2020-07-15 — Committee Consideration and Mark-up Session Held.
+- 2020-07-15 — Ordered to be Reported (Amended) by Voice Vote.
+- 2020-09-18 — Placed on the Union Calendar, Calendar No. 421.
+- 2020-09-18 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-521.
+- 2020-09-18 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-521.
