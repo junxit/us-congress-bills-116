@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7574
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7574
@@ -16,7 +16,7 @@ Strengthening America's Strategic National Stockpile Act of 2020
 
 - Rep. Slotkin, Elissa [D-MI-8] (S001208)
 
-## Cosponsors (18)
+## Cosponsors (20)
 
 - Rep. Brooks, Susan W. [R-IN-5] (B001284)
 - Rep. Eshoo, Anna G. [D-CA-18] (E000215)
@@ -36,6 +36,8 @@ Strengthening America's Strategic National Stockpile Act of 2020
 - Rep. Cisneros, Gilbert Ray, Jr. [D-CA-39] (C001123)
 - Rep. Neguse, Joe [D-CO-2] (N000191)
 - Rep. Burgess, Michael C. [R-TX-26] (B001248)
+- Rep. Lujan, Ben Ray [D-NM-3] (L000570)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 
 ## Committees (1)
 
@@ -46,3 +48,8 @@ Strengthening America's Strategic National Stockpile Act of 2020
 - 2020-07-13 — Introduced in House
 - 2020-07-13 — Introduced in House
 - 2020-07-13 — Referred to the House Committee on Energy and Commerce.
+- 2020-07-15 — Committee Consideration and Mark-up Session Held.
+- 2020-07-15 — Ordered to be Reported (Amended) by Voice Vote.
+- 2020-09-18 — Placed on the Union Calendar, Calendar No. 418.
+- 2020-09-18 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-518.
+- 2020-09-18 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-518.
