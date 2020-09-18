@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1646
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+4 amendatory instructions. 1 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 42 U.S.C. § 243
+
+> Effective as if included in the enactment of the Children’s Health Act of 2000 (Public Law 106–310), the amendment instruction in section 1603 of such Act is amended by striking “Part B of the Public Health Service Act” and inserting “Part B of title III of the Public Health Service Act”.
+
+| | |
+|---|---|
+| Removed | `Part B of the Public Health Service Act` |
+| Inserted | `Part B of title III of the Public Health Service Act` |
 
 ## Stated, not applied
 
@@ -31,5 +42,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 247b-22` | insert | The Public Health Service Act is amended by inserting after section 317T of such Act (42 U.S.C. 247b–22) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 247b-23` | insert | The Public Health Service Act is amended by inserting after section 317U of such Act (42 U.S.C. 247b–23) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 243` | add-at-end | Part B of title III of the Public Health Service Act (42 U.S.C. 243 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 243` | add-at-end | Part B of title III of the Public Health Service Act (42 U.S.C. 243 et seq.), as amended by section 3, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
