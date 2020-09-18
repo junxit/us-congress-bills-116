@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4585
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4585
@@ -29,3 +29,10 @@ Campaign to Prevent Suicide Act
 - 2019-10-01 — Introduced in House
 - 2019-10-01 — Introduced in House
 - 2019-10-01 — Referred to the House Committee on Energy and Commerce.
+- 2019-10-02 — Referred to the Subcommittee on Health.
+- 2020-06-30 — Subcommittee Hearings Held.
+- 2020-07-15 — Committee Consideration and Mark-up Session Held.
+- 2020-07-15 — Ordered to be Reported (Amended) by Voice Vote.
+- 2020-09-18 — Placed on the Union Calendar, Calendar No. 416.
+- 2020-09-18 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-516.
+- 2020-09-18 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-516.
