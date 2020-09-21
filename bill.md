@@ -21,9 +21,8 @@ The Indian Child Protection and Family Violence Prevention Act (25 U.S.C. 3202 e
   > - **(A)** in any case in which—
   >   - **(i)**
   >     - **(I)** a child is dead or exhibits evidence of skin bruising, bleeding, malnutrition, failure to thrive, burns, fracture of any bone, subdural hematoma, soft tissue swelling; and
-  >     - **(II)** such condition is not justifiably explained or may not be the product of an accidental occurrence;
-  >   - **(ii)** psychological or verbal abuse that causes serious emotional or mental injury to a child; or
-  >   - **(iii)** a child is subjected to sexual assault, sexual molestation, sexual exploitation, sexual contact, or prostitution;
+  >     - **(II)** such condition is not justifiably explained or may not be the product of an accidental occurrence; or
+  >   - **(ii)** a child is subjected to sexual assault, sexual molestation, sexual exploitation, sexual contact, or prostitution;
 
 - **(2)** In section 409 (25 U.S.C. 3208)—
   - **(A)** in subsection (a)—
