@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5322
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5322
@@ -16,7 +16,7 @@ Ensuring Diversity in Community Banking Act
 
 - Rep. Meeks, Gregory W. [D-NY-5] (M001137)
 
-## Cosponsors (6)
+## Cosponsors (7)
 
 - Rep. Green, Al [D-TX-9] (G000553)
 - Rep. Tlaib, Rashida [D-MI-13] (T000481)
@@ -24,6 +24,7 @@ Ensuring Diversity in Community Banking Act
 - Rep. Scott, David [D-GA-13] (S001157)
 - Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
 - Rep. Beatty, Joyce [D-OH-3] (B001281)
+- Rep. Khanna, Ro [D-CA-17] (K000389)
 
 ## Committees (2)
 
@@ -36,3 +37,12 @@ Ensuring Diversity in Community Banking Act
 - 2019-12-05 — Introduced in House
 - 2019-12-05 — Referred to the Committee on Financial Services, and in addition to the Committee on Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-12-05 — Referred to the Committee on Financial Services, and in addition to the Committee on Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-12-10 — Committee Consideration and Mark-up Session Held.
+- 2019-12-11 — Committee Consideration and Mark-up Session Held.
+- 2019-12-11 — Ordered to be Reported (Amended) by the Yeas and Nays: 52 - 0.
+- 2020-09-21 — Considered under suspension of the rules. (consideration: CR H4597-4602)
+- 2020-09-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5322.
+- 2020-09-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-21 — Mr. Sherman moved to suspend the rules and pass the bill, as amended.
+- 2020-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4597-4600)
+- 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
