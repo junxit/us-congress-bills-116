@@ -9,11 +9,15 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the CARES Act to require the uniform treatment of nationally recognized statistical rating organizations under certain programs carried out in response to the COVID–19 emergency, and for other purposes.
 
-## § 1. Uniform treatment of NRSROs
+## § 1. Short title
+
+This Act may be cited as the “Uniform Treatment of NRSROs Act”.
+
+## § 2. Uniform treatment of NRSROs
 
 - **(a)** *In general* Section 4003 of the CARES Act (15 U.S.C. 9042), as amended by section 902, is further amended by adding at the end the following:
   > - **(m)** *Uniform treatment of NRSROs*
-  >   - **(1)** *In general* If, in carrying out this section or any other program making use of a facility established under section 13(3) of the Federal Reserve Act in response to the COVID–19 emergency, the Secretary of the Treasury or the Board of Governors of the Federal Reserve System establishes a requirement for an entity, security, or other instrument to carry a minimum credit rating, the Secretary or the Board of Governors shall accept credit ratings provided by any nationally recognized statistical rating organization with respect to such entity, security, or other instrument, if the Securities and Exchange Commission has approved the nationally recognized statistical rating organization to issue credit ratings with respect to the applicable asset class of the entity, security, or other instrument.
+  >   - **(1)** *In general* If, in carrying out this section or any other program making use of a facility established under section 13(3) of the Federal Reserve Act in response to the COVID–19 emergency, the Secretary of the Treasury or the Board of Governors of the Federal Reserve System establishes a requirement for an entity, security, or other instrument to carry a minimum credit rating, the Secretary or the Board of Governors shall accept credit ratings provided by any nationally recognized statistical rating organization with respect to such entity, security, or other instrument, if the nationally recognized statistical rating organization is registered with the Securities and Exchange Commission to issue credit ratings with respect to the applicable asset class of the entity, security, or other instrument.
   >   - **(2)** *Exception*
   >     - **(A)** *In general* The Secretary or the Board of Governors may exclude a nationally recognized statistical rating organization from the application of paragraph (1) if, in consultation with the Securities and Exchange Commission, the Secretary or Board of Governors, as applicable, determines that the nationally recognized statistical rating organization is unable to provide reliable and accurate ratings for a particular asset class and that such exclusion is in the public interest.
   >     - **(B)** *Report* If the Secretary or the Board of Governors excludes a nationally recognized statistical rating organization from the application of paragraph (1) pursuant to subparagraph (A), the Secretary or Board of Governors, as applicable, shall, as soon as practicable after such exclusion, disclose to the public the reasoning for such exclusion.
