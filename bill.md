@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4585
 
-> To require the Director of the Centers for Disease Control and Prevention to conduct a national suicide prevention media campaign, and for other purposes.
+> To require the Secretary of Health and Human Services to conduct a national suicide prevention media campaign, and for other purposes.
 
 ## § 1. Short title
 
@@ -57,4 +57,4 @@ Section 520E–3(b)(2) of the Public Health Service Act (42 U.S.C. 290bb–36c(b
   - **(3)** plans to purchase advertising time and space;
   - **(4)** policies and practices implemented to ensure that Federal funds are used responsibly to purchase advertising time and space and eliminate the potential for waste, fraud, and abuse; and
   - **(5)** all contracts entered into with a corporation, a partnership, or an individual working on behalf of the national media campaign.
-- **(f)** *Authorization of appropriations* For purposes of carrying out this section, there is authorized to be appropriated $10,000,000 for each of fiscal years 2020 through 2024.
+- **(f)** *Authorization of appropriations* For purposes of carrying out this section, there is authorized to be appropriated $10,000,000 for each of fiscal years 2021 through 2025.

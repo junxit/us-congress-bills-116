@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4585
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4585
@@ -36,3 +36,10 @@ Campaign to Prevent Suicide Act
 - 2020-09-18 — Placed on the Union Calendar, Calendar No. 416.
 - 2020-09-18 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-516.
 - 2020-09-18 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-516.
+- 2020-09-21 — Considered under suspension of the rules. (consideration: CR H4631-4633)
+- 2020-09-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4585.
+- 2020-09-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-21 — Mrs. Dingell moved to suspend the rules and pass the bill, as amended.
+- 2020-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4632)
+- 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-09-21 — The title of the measure was amended. Agreed to without objection.
