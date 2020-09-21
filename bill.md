@@ -23,7 +23,7 @@ Section 319F–2(a) of the Public Health Service Act (42 U.S.C. 247d–6b(a)) is
 >     - **(i)** the transferred supplies are less than one year from expiry;
 >     - **(ii)** the stockpile is able to replenish the supplies, as appropriate; and
 >     - **(iii)** the Secretary decides the transfer is in the best interest of the United States Government.
->   - **(B)** *Use of reimbursement* Reimbursement derived from the transfer of supplies pursuant to subparagraph (A) may be used by the Secretary, without further appropriation and without fiscal year limitation, to carry out this section.
+>   - **(B)** *Use of reimbursement* Reimbursement derived from the transfer of supplies pursuant to subparagraph (A) may, to the extent and in the amounts made available in advance in appropriations Acts, be used by the Secretary to carry out this section. Funds made available pursuant to the preceding sentence are in addition to any other funds that may be made available for such purpose.
 >   - **(C)** *Rule of construction* This paragraph shall not be construed to preclude transfers of products in the stockpile under other authorities.
 >   - **(D)** *Report* Not later than September 30, 2022, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on each transfer made under this paragraph and the amount received by the Secretary in exchange for that transfer.
 >   - **(E)** *Sunset* The authority to make transfers under this paragraph shall cease to be effective on September 30, 2023.
@@ -56,7 +56,7 @@ Section 319F–2 of the Public Health Service Act (42 U.S.C. 247d–6b) is amend
 
 - **(c)** *Funding* Section 319F–2(f) of the Public Health Service Act (42 U.S.C. 247d–6b(f)) is amended by adding at the end the following:
   > - **(3)** *Supply chain elasticity*
-  >   - **(A)** *In general* For the purpose of carrying out subsection (a)(3)(L), there is authorized to be appropriated $500,000,000 for each of fiscal years 2020 through 2023, to remain available until expended.
+  >   - **(A)** *In general* For the purpose of carrying out subsection (a)(3)(L), there is authorized to be appropriated $500,000,000 for each of fiscal years 2021 through 2023, to remain available until expended.
   >   - **(B)** *Relation to other amounts* The amount authorized to be appropriated by subparagraph (A) for the purpose of carrying out subsection (a)(3)(L) is in addition to any other amounts available for such purpose.
 
 ## § 5. GAO study on the feasibility and benefits of a user fee agreement
@@ -74,7 +74,7 @@ Title III of the Public Health Service Act is amended by inserting after section
 
 > ## § 319F–5. Grants for State strategic stockpiles
 >
-> - **(a)** *In general* The Secretary may establish a pilot program consisting of awarding grants to States to expand or maintain a strategic stockpile of commercially available drugs, medical equipment, personal protective equipment, and other products deemed by the State to be essential in the event of a public health emergency.
+> - **(a)** *In general* The Secretary may establish a pilot program consisting of awarding grants to States to expand or maintain a strategic stockpile of commercially available drugs, devices, personal protective equipment, and other products deemed by the State to be essential in the event of a public health emergency.
 > - **(b)** *Allowable use of funds*
 >   - **(1)** *Uses* A State receiving a grant under this section may use the grant funds to—
 >     - **(A)** acquire commercially available products listed pursuant to paragraph (2) for inclusion in the State’s strategic stockpile;
@@ -88,12 +88,12 @@ Title III of the Public Health Service Act is amended by inserting after section
 >   - **(2)** *Waiver* The Secretary may waive the requirement of paragraph (1) with respect to a State for the first two years of the State receiving a grant under this section if the Secretary determines that such waiver is needed for the State to establish a strategic stockpile described in subsection (a).
 > - **(e)** *Technical assistance* The Secretary shall provide technical assistance to States in establishing, expanding, and maintaining a stockpile described in subsection (a).
 > - **(f)** *Definition* In this section, the term drug has the meaning given to that term in section 201 of the Federal Food, Drug, and Cosmetic Act.
-> - **(g)** *Authorization of appropriations* To carry out this section, there is authorized to be appropriated $3,500,000,000 for each of fiscal years 2020 through 2023, to remain available until expended.
+> - **(g)** *Authorization of appropriations* To carry out this section, there is authorized to be appropriated $3,500,000,000 for each of fiscal years 2021 through 2023, to remain available until expended.
 > - **(h)** *Sunset* The authority vested by this section terminates at the end of fiscal year 2023.
 
 ## § 7. Action reporting
 
-- **(a)** *In general* The Assistant Secretary for Preparedness and Response (in this section referred to as the “Assistant Secretary”), in coordination with the Administrator of the Federal Emergency Management Agency, shall—
+- **(a)** *In general* The Secretary of Health and Human Services or the Assistant Secretary for Preparedness and Response, in consultation with the Administrator of the Federal Emergency Management Agency, shall—
   - **(1)** not later than 30 days after the date of enactment of this Act, issue a report to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate regarding all State, local, Tribal, and territorial requests for supplies from the Strategic National Stockpile related to COVID–19; and
   - **(2)** not less than every 30 days thereafter through the end of the emergency period (as such term is defined in section 1135(g)(1)(B) of the Social Security Act (42 U.S.C. 1320b–5(g)(1)(B))), submit to such committees an updated version of such report.
 - **(b)** *Reporting period*
@@ -114,7 +114,7 @@ Title III of the Public Health Service Act is amended by inserting after section
 
 ## § 8. Improved, transparent processes
 
-- **(a)** *In general* Not later than January 1, 2021, the Secretary of Health and Human Services, in collaboration with the Assistant Secretary for Preparedness and Response and the Director of the Centers for Disease Control and Prevention, shall develop and implement improved, transparent processes for the use and distribution of drugs, vaccines and other biological products, medical devices, and other supplies (including personal protective equipment, ancillary medical supplies, and other applicable supplies required for the administration of drugs, vaccines and other biological products, medical devices, and diagnostic tests) in the Strategic National Stockpile under section 319F–2 of the Public Health Service Act (42 U.S.C. 247d–6b) (in this section referred to as the “Stockpile”).
+- **(a)** *In general* Not later than January 1, 2021, the Secretary of Health and Human Services shall develop and implement improved, transparent processes for the use and distribution of drugs, vaccines and other biological products, medical devices, and other supplies (including personal protective equipment, ancillary medical supplies, and other applicable supplies required for the administration of drugs, vaccines and other biological products, medical devices, and diagnostic tests) in the Strategic National Stockpile under section 319F–2 of the Public Health Service Act (42 U.S.C. 247d–6b) (in this section referred to as the “Stockpile”).
 - **(b)** *Processes* The processes developed under subsection (a) shall include—
   - **(1)** the form and manner in which States, localities, Tribes, and territories are required to submit requests for supplies from the Stockpile;
   - **(2)** the criteria used by the Secretary of Health and Human Services in responding to such requests, including the reasons for fulfilling or denying such requests;
@@ -129,4 +129,4 @@ Title III of the Public Health Service Act is amended by inserting after section
 
 ## § 9. Authorization of appropriations
 
-Section 319F–2(f)(1) of the Public Health Service Act (42 U.S.C. 247d-6b(f)(1)) is amended by striking “$610,000,000 for each of fiscal years 2019 through 2023” and inserting “$705,000,000 for each of fiscal years 2020 through 2023”.
+Section 319F–2(f)(1) of the Public Health Service Act (42 U.S.C. 247d-6b(f)(1)) is amended by striking “$610,000,000 for each of fiscal years 2019 through 2023” and inserting “$705,000,000 for each of fiscal years 2021 through 2023”.

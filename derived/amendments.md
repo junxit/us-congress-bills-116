@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7574
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -40,4 +40,4 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 319F–2(a) of the Public Health Service Act (42 U.S.C. 247d–6b(a)), as amended by section 2, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 319F–2(f) of the Public Health Service Act (42 U.S.C. 247d–6b(f)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 247d-6e` | insert | Title III of the Public Health Service Act is amended by inserting after section 319F–4 of such Act (42 U.S.C. 247d–6e) the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Section 319F–2(f)(1) of the Public Health Service Act (42 U.S.C. 247d-6b(f)(1)) is amended by striking “$610,000,000 for each of fiscal years 2019 through 2023” and inserting “$705,000,000 for each of fiscal years 2020 through 2023”. | the bill names no machine-readable US Code section |
+| — | replace | Section 319F–2(f)(1) of the Public Health Service Act (42 U.S.C. 247d-6b(f)(1)) is amended by striking “$610,000,000 for each of fiscal years 2019 through 2023” and inserting “$705,000,000 for each of fiscal years 2021 through 2023”. | the bill names no machine-readable US Code section |
