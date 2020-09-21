@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7592
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 7592
@@ -29,3 +29,9 @@ STIFLE Act of 2020
 - 2020-07-13 — Introduced in House
 - 2020-07-13 — Introduced in House
 - 2020-07-13 — Referred to the House Committee on Financial Services.
+- 2020-09-21 — Considered under suspension of the rules. (consideration: CR H4603-4605)
+- 2020-09-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7592.
+- 2020-09-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-21 — Mr. Sherman moved to suspend the rules and pass the bill.
+- 2020-09-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4603-4604)
+- 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
