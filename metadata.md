@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5918
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5918
@@ -41,3 +41,9 @@ To direct the Federal Communications Commission to issue reports after activatio
 - 2020-09-18 — Placed on the Union Calendar, Calendar No. 422.
 - 2020-09-18 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-522.
 - 2020-09-18 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-522.
+- 2020-09-21 — Considered under suspension of the rules. (consideration: CR H4611-4613)
+- 2020-09-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5918.
+- 2020-09-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-21 — Mr. McNerney moved to suspend the rules and pass the bill, as amended.
+- 2020-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4611-4612)
+- 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
