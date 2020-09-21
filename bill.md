@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5309
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Creating a Respectful and Open World for Natural Hair Act of 2019” or the “CROWN Act of 2019”.
+This Act may be cited as the “Creating a Respectful and Open World for Natural Hair Act of 2020” or the “CROWN Act of 2020”.
 
 ## § 2. Findings; sense of Congress; purpose
 
@@ -26,7 +26,7 @@ This Act may be cited as the “Creating a Respectful and Open World for Natural
   - **(8)** The United States Armed Forces also recognized that prohibitions against natural or protective hairstyles that African-American servicewomen are commonly adorned with are racially discriminatory and bear no relationship to African-American servicewomen’s occupational qualifications and their ability to serve and protect the Nation.
   - **(9)** As a type of racial or national origin discrimination, discrimination on the basis of natural or protective hairstyles that people of African descent are commonly adorned with violates existing Federal law, including provisions of the Civil Rights Act of 1964 (42 U.S.C. 2000e et seq.), section 1977 of the Revised Statutes (42 U.S.C. 1981), and the Fair Housing Act (42 U.S.C. 3601 et seq.). However, some Federal courts have misinterpreted Federal civil rights law by narrowly interpreting the meaning of race or national origin, and thereby permitting, for example, employers to discriminate against people of African descent who wear natural or protective hairstyles even though the employment policies involved are not related to workers’ ability to perform their jobs.
   - **(10)** Applying this narrow interpretation of race or national origin has resulted in a lack of Federal civil rights protection for individuals who are discriminated against on the basis of characteristics that are commonly associated with race and national origin.
-  - **(11)** In 2019, State legislatures and municipal bodies throughout the United States have introduced and passed legislation that rejects certain Federal courts’ restrictive interpretation of race and national origin, and expressly classifies race and national origin discrimination as inclusive of discrimination on the basis of natural or protective hairstyles commonly associated with race and national origin.
+  - **(11)** In 2019 and 2020, State legislatures and municipal bodies throughout the United States have introduced and passed legislation that rejects certain Federal courts’ restrictive interpretation of race and national origin, and expressly classifies race and national origin discrimination as inclusive of discrimination on the basis of natural or protective hairstyles commonly associated with race and national origin.
 - **(b)** *Sense of Congress* It is the sense of Congress that—
   - **(1)** the Federal Government should acknowledge that individuals who have hair texture or wear a hairstyle that is historically and contemporarily associated with African Americans or persons of African descent systematically suffer harmful discrimination in schools, workplaces, and other contexts based upon longstanding race and national origin stereotypes and biases;
   - **(2)** a clear and comprehensive law should address the systematic deprivation of educational, employment, and other opportunities on the basis of hair texture and hairstyle that are commonly associated with race or national origin;
@@ -75,6 +75,6 @@ This Act may be cited as the “Creating a Respectful and Open World for Natural
 
 Nothing in this Act shall be construed to limit definitions of race or national origin under the Civil Rights Act of 1964 (42 U.S.C. 2000a et seq.), the Fair Housing Act (42 U.S.C. 3601 et seq.), or section 1977 of the Revised Statutes (42 U.S.C. 1981).
 
-## § 9. Effective date
+## § 9. Determination of Budgetary Effects
 
-This Act shall take effect on August 9, 2020.
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
