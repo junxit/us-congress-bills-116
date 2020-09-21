@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3349
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3349
@@ -47,3 +47,9 @@ Republic of Texas Legation Memorial Act
 - 2020-05-27 — Placed on the Union Calendar, Calendar No. 340.
 - 2020-05-27 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-425.
 - 2020-05-27 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-425.
+- 2020-09-21 — Considered under suspension of the rules. (consideration: CR H4558-4559)
+- 2020-09-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3349.
+- 2020-09-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-21 — Ms. Haaland moved to suspend the rules and pass the bill, as amended.
+- 2020-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4558)
+- 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
