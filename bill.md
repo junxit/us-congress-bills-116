@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 139
 
-> To establish the Springfield Race Riot National Historic Monument in the State of Illinois, and for other purposes.
+> To direct the Secretary of the Interior to conduct a special resource study of the site associated with the 1908 Springfield Race Riot in the State of Illinois.
 
 ## § 1. Short title
 
@@ -17,7 +17,7 @@ This Act may be cited as the “Springfield Race Riot Study Act”.
 
 - **(a)** *Definitions* In this section:
   - **(1)** *Secretary* The term “Secretary” means the Secretary of the Interior.
-  - **(2)** *Study area* The term “study area” means areas identified in the Springfield Race Riot Reconnaissance Survey conducted by the National Park Service, dated August 2019.
+  - **(2)** *Study area* The term “study area” means the archeological site near Madison Street and the 10th Street Rail Corridor, and other sites in Springfield, Illinois associated with the 1908 Springfield Race Riot.
 - **(b)** *Special resource study*
   - **(1)** *Study* The Secretary shall conduct a special resource study of the study area.
   - **(2)** *Contents* In conducting the study under paragraph (1), the Secretary shall—
