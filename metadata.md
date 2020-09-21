@@ -1,7 +1,7 @@
 ---
 measure: H.R. 895
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 895
@@ -58,3 +58,9 @@ Tribal School Federal Insurance Parity Act
 - 2020-09-15 — Placed on the Union Calendar, Calendar No. 405.
 - 2020-09-15 — Reported by the Committee on Natural Resources. H. Rept. 116-505, Part I.
 - 2020-09-15 — Reported by the Committee on Natural Resources. H. Rept. 116-505, Part I.
+- 2020-09-21 — Considered under suspension of the rules. (consideration: CR H4568-4570)
+- 2020-09-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 895.
+- 2020-09-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-21 — Ms. Haaland moved to suspend the rules and pass the bill.
+- 2020-09-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4568)
+- 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
