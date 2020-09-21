@@ -15,9 +15,9 @@ This Act may be cited as the “Helping Emergency Responders Overcome Act” or 
 
 ## § 2. Data system to capture national public safety officer suicide incidence
 
-The Public Health Service Act is amended by inserting after section 317U of such Act (42 U.S.C. 247b–23) the following:
+The Public Health Service Act is amended by inserting before section 318 of such Act (42 U.S.C. 247c) the following:
 
-> ## § 317V. Data system to capture national public safety officer suicide incidence
+> ## § 317W. Data system to capture national public safety officer suicide incidence
 >
 > - **(a)** *In general* The Secretary, in coordination with the Director of the Centers for Disease Control and Prevention and other agencies as the Secretary determines appropriate, shall—
 >   - **(1)** develop and maintain a data system, to be known as the Public Safety Officer Suicide Reporting System, for the purposes of—
@@ -74,8 +74,8 @@ The Public Health Service Act is amended by inserting after section 317U of such
   > - **(c)** *Definition* In this section:
   >   - **(1)** The term eligible entity means a nonprofit organization with expertise and experience with respect to the health and life safety of members of fire and emergency medical services agencies.
   >   - **(2)** The term member—
-  >     - **(A)** with respect to an emergency medical services agency, means an employee, regardless of rank or whether they receive compensation (as defined in section 1204(7) of the Omnibus Crime Control and Safe Streets Act of 1968); and
-  >     - **(B)** with respect to a fire department, means a firefighter (as defined in section 1204(4) of the Omnibus Crime Control and Safe Streets Act of 1968).
+  >     - **(A)** with respect to an emergency medical services agency, means an employee, regardless of rank or whether the employee receives compensation (as defined in section 1204(7) of the Omnibus Crime Control and Safe Streets Act of 1968); and
+  >     - **(B)** with respect to a fire department, means any employee, regardless of rank or whether the employee receives compensation, of a Federal, State, Tribal, or local fire department who is responsible for responding to calls for emergency service.
 
 - **(b)** *Technical correction* Effective as if included in the enactment of the Children’s Health Act of 2000 (Public Law 106–310), the amendment instruction in section 1603 of such Act is amended by striking “Part B of the Public Health Service Act” and inserting “Part B of title III of the Public Health Service Act”.
 
@@ -102,15 +102,15 @@ Part B of title III of the Public Health Service Act (42 U.S.C. 243 et seq.), as
   - **(4)** evidence-based therapies for mental health issues common to firefighters and emergency medical services personnel within such departments and agencies.
 - **(b)** *Consultation* In developing resources under subsection (a), the Administrator of the United States Fire Administration and the Secretary of Health and Human Services shall consult with national fire and emergency medical services organizations.
 - **(c)** *Definitions* In this section:
-  - **(1)** The term firefighter means any employee of a Federal, State, Tribal, or local fire department who is responsible for responding to calls for emergency service.
-  - **(2)** The term emergency medical services personnel means any employee, regardless of rank or whether they receive compensation, as defined in section 1204(7) of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10284(7)).
+  - **(1)** The term firefighter means any employee, regardless of rank or whether the employee receives compensation, of a Federal, State, Tribal, or local fire department who is responsible for responding to calls for emergency service.
+  - **(2)** The term emergency medical services personnel means any employee, regardless of rank or whether the employee receives compensation, as defined in section 1204(7) of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10284(7)).
   - **(3)** The term chief officer means any individual who is responsible for the overall operation of a fire department or an emergency medical services agency, irrespective of whether such individual also serves as a firefighter or emergency medical services personnel.
 
 ## § 6. Best practices and other resources for addressing posttraumatic stress disorder in public safety officers
 
 - **(a)** *Development; updates* The Secretary of Health and Human Services shall—
   - **(1)** develop and assemble evidence-based best practices and other resources to identify, prevent, and treat posttraumatic stress disorder and co-occurring disorders in public safety officers; and
-  - **(2)** reassess and update, as the Secretary determines necessary, such best practices and resources, including based upon the options for interventions to reduce suicide among public safety officers identified in the annual reports required by section 317V(e)(1)(F) of the Public Health Service Act, as added by section 2 of this Act.
+  - **(2)** reassess and update, as the Secretary determines necessary, such best practices and resources, including based upon the options for interventions to reduce suicide among public safety officers identified in the annual reports required by section 317W(e)(1)(F) of the Public Health Service Act, as added by section 2 of this Act.
 - **(b)** *Consultation* In developing, assembling, and updating the best practices and resources under subsection (a), the Secretary of Health and Human Services shall consult with, at a minimum, the following:
   - **(1)** Public health experts.
   - **(2)** Mental health experts with experience in studying suicide and other profession-related traumatic stress.
