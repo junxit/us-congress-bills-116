@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6100
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6100
@@ -35,3 +35,9 @@ Strengthening the Opposition to Female Genital Mutilation Act of 2020
 - 2020-09-16 — Placed on the Union Calendar, Calendar No. 406.
 - 2020-09-16 — Reported by the Committee on Judiciary. H. Rept. 116-506.
 - 2020-09-16 — Reported by the Committee on Judiciary. H. Rept. 116-506.
+- 2020-09-21 — Considered under suspension of the rules. (consideration: CR H4589-4592)
+- 2020-09-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6100.
+- 2020-09-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-21 — Ms. Jackson Lee moved to suspend the rules and pass the bill, as amended.
+- 2020-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4589-4590)
+- 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.

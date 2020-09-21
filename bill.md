@@ -64,3 +64,7 @@ Not later than one year after the date of the enactment of this Act, and annuall
 ## § 5. Sense of the Congress
 
 It is the sense of the Congress that the United States District Court for the Eastern District of Michigan erred in invalidating the prior version of such section 116 (See United States v. Nagarwala, 350 F. Supp. 3d 613, 631 (E.D. Mich. 2018)). The commercial nature of female genital mutilation (hereinafter in this section referred to as “FGM”) is “self-evident,” meaning that the “absence of particularized findings” about the commercial nature of FGM in the predecessor statute did not “call into question Congress's authority to legislate” (Gonzales v. Raich, 545 U.S. 1, 21 (2005)). Nevertheless, the Congress has elected to amend the FGM statute to clarify the commercial nature of the conduct that this statute regulates. But, by doing so, Congress does not hereby ratify the district court's erroneous interpretation in Nagarwala.
+
+## § 6. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
