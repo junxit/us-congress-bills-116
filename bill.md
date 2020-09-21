@@ -20,10 +20,14 @@ This Act may be cited as the “COVID–19 Fraud Prevention Act”.
   - **(1)** providing resources to consumers and investors to avoid fraud during the COVID–19 pandemic;
   - **(2)** providing resources, including information on the availability of legal aid resources, to consumers and investors who have been adversely impacted by such fraud; and
   - **(3)** such other topics as the Working Group determines appropriate.
-- **(c)** *Reports* The Working Group shall issue a monthly report to the Congress summarizing—
+- **(c)** *Coordination with other agencies* In carrying out the duties described under subsection (b), the Working Group shall coordinate and collaborate with other Federal and State government agencies, as appropriate.
+- **(d)** *Quarterly report* The Working Group shall issue a quarterly report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on the progress of the Working Group and summarizing—
   - **(1)** the resources made publicly available to consumers by the Working Group;
   - **(2)** any public enforcement action taken jointly or individually by any member of the Working Group;
   - **(3)** the number and description of consumer complaints received by the Bureau of Consumer Financial Protection and the Securities and Exchange Commission regarding fraud related to the COVID–19 pandemic; and
   - **(4)** any other actions of the Working Group.
-- **(d)** *Reports* The Working Group shall issue a monthly report to the Congress on the progress of the Working Group, and the actions taken by the Working Group.
 - **(e)** *Sunset* This section shall cease to have any force or effect on and after December 31, 2021.
+
+## § 3. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
