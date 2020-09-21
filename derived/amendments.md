@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3256
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-64 amendatory instructions. 17 executed, 47 stated and not applied.
+61 amendatory instructions. 17 executed, 44 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -80,7 +80,7 @@ to guess them.
 
 ### 6 U.S.C. § 622
 
-> in clause (i), by striking “requirements” and inserting “necessary to audit and inspect compliance with all aspects of the risk-based performance standards, including standards related to cybersecurity,”.
+> in clause (i), by striking “requirements” and inserting “necessary to audit and inspect compliance with all aspects of the risk-based performance standards, including standards related to cybersecurity,”;
 
 | | |
 |---|---|
@@ -107,7 +107,7 @@ to guess them.
 
 ### 6 U.S.C. § 622
 
-> in subclause (bb), by striking “and” and inserting “or”; and
+> in item (bb), by striking “and” and inserting “or”; and
 
 | | |
 |---|---|
@@ -161,7 +161,7 @@ to guess them.
 
 ### 6 U.S.C. § 625
 
-> by striking “discharge an employee or otherwise discriminate against an employee with respect to the compensation provided to, or terms, conditions, or privileges of the employment of, the employee because the employee (or an individual acting pursuant to a request of the employee) submitted a report under paragraph (1).” and inserting “discharge an employee or otherwise discriminate against an employee or former employee with respect to the compensation provided to, or terms, conditions, or privileges associated with current or past employment of, the employee or former employee because the employee or former employee (or an individual acting pursuant to a request of the employee or former employee) submitted a report under paragraph (1).”;
+> in subparagraph (A), by striking “discharge an employee or otherwise discriminate against an employee with respect to the compensation provided to, or terms, conditions, or privileges of the employment of, the employee because the employee (or an individual acting pursuant to a request of the employee) submitted a report under paragraph (1).” and inserting “discharge an employee or otherwise discriminate against an employee or former employee with respect to the compensation provided to, or terms, conditions, or privileges associated with current or past employment of, the employee or former employee because the employee or former employee (or an individual acting pursuant to a request of the employee or former employee) submitted a report under paragraph (1).”; and
 
 | | |
 |---|---|
@@ -170,11 +170,11 @@ to guess them.
 
 ### 6 U.S.C. § 621
 
-> Section 5 of the Protecting and Securing Chemical Facilities From Terrorist Attacks Act of 2014 (Public Law 113–254; 6 U.S.C. 621 note) is amended by striking “the date that is 4 years after the effective date of this Act” and inserting “May 1, 2025”.
+> Section 5 of the Protecting and Securing Chemical Facilities From Terrorist Attacks Act of 2014 (Public Law 113–254; 6 U.S.C. 621 note) is amended by striking “the date that is 5 years and 3 months after the effective date of this Act” and inserting “May 1, 2025”.
 
 | | |
 |---|---|
-| Removed | `the date that is 4 years after the effective date of this Act` |
+| Removed | `the date that is 5 years and 3 months after the effective date of this Act` |
 | Inserted | `May 1, 2025` |
 
 ## Stated, not applied
@@ -189,8 +189,8 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 621` | strike | by striking paragraphs (6), (7), and (8); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 621` | redesignate | by redesignating paragraphs (9) through (14) as paragraphs (6) through (11), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 622` | strike | in subparagraph (C), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `6 U.S.C. § 622` | replace | in subparagraph (D), by striking the period and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 622` | add-at-end | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 622` | replace | in subparagraph (D), by striking the period and inserting “; and” ; and | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 622` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 622` | amend | Paragraph (2) of subsection (b) of section 2102 of such Act (6 U.S.C. 622) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 622` | strike | in clause (i), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 622` | amend | by amending clause (ii) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -199,6 +199,8 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 622` | insert | in clause (i), by inserting “, or any successor organization that implements the requirements of subsection (a)(2),” after “Department”; and | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 622` | insert | in clause (ii), by inserting “, or any successor organization that implements the requirements of subsection (a)(2),” after “Department”. | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 622` | insert | by inserting “to ensure such individuals receive” before “the training”; and | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 622` | redesignate | by redesignating clauses (vi) and (vii) as clauses (vii) and (viii), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 622` | insert | by inserting after clause (v) the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 622` | add-at-end | Such subsection is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 622` | insert | in the matter preceding clause (i), by inserting “and other malicious acts” after “terrorism”; and | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 622` | redesignate | by redesignating clauses (i) and (ii) as clauses (ii) and (iii), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -206,22 +208,17 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 622` | redesignate | in clause (iii), as so redesignated, by inserting “or chemical facility of interest” after “covered chemical facility”; | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 622` | add-at-end | by adding at the end the following clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 622` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 622` | redesignate | by redesignating paragraph (4) as paragraph (6); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 622` | redesignate | by redesignating paragraph (4) as paragraph (7); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 622` | insert | by inserting after paragraph (3) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 622` | strike | in subclause (aa), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
-| `6 U.S.C. § 622` | add-at-end | by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 622` | strike | in item (aa), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
+| `6 U.S.C. § 622` | add-at-end | by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 622` | amend | by amending subparagraph (C) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 622` | strike | in subparagraph (E), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 622` | redesignate | by redesignating subparagraph (F) as subparagraph (I); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 622` | insert | by inserting after subparagraph (E) the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 622` | add-at-end | Such section (6 U.S.C. 622) is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 623` | insert | by inserting “with respect to information in the possession of the Department, the Secretary shall protect” after “any other provision of law,”; | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 623` | strike | by striking “information,”; | the bill quotes the text struck but describes what replaces it |
-| `6 U.S.C. § 623` | strike | by striking the comma after “records”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 623` | strike | by striking “shall be given protections”. | the bill quotes the text struck but describes what replaces it |
-| `6 U.S.C. § 623` | strike | by striking subsections (b), (c), and (f); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 623` | redesignate | by redesignating subsections (d) and (e) as subsections (c) and (d), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 623` | insert | by inserting after subsection (a) the following new subsection (b): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 623` | strike | by striking subsections (b), (c), and (f); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 623` | insert | by inserting after subsection (a) the following new subsections (b) and (c): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 624` | insert | in subsection (b)(2), by inserting “section 2102(a)(2)(B) or any requirement issued by the Secretary thereunder” after “comply with”; | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 624` | insert | in subsection (c), by inserting “or other malicious act” after “terrorist incident”; and | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 624` | insert | in subsection (d), by inserting “, except as provided in section 2105(a)(5) regarding whistleblower retaliation” before the period at the end. | the bill quotes the text inserted but describes where it goes |
