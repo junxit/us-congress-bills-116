@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5322
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Ensuring Diversity in Community Banking Act of 2019”.
+- **(a)** *Short title* This Act may be cited as the “Ensuring Diversity in Community Banking Act”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Sense of Congress on funding the loan-loss reserve fund for small dollar loans
@@ -28,7 +28,7 @@ The sense of Congress is the following:
 - **(2)** The Department of the Treasury is authorized to create multi-year grant programs designed to encourage low-to-moderate income individuals to establish accounts at federally insured banks, and to improve low-to-moderate income individuals’ access to such accounts on reasonable terms.
 - **(3)** Under this authority, grants to participants in CDFI Fund programs may be used for loan-loss reserves and to establish small-dollar loan programs by subsidizing related losses. These grants also allow for the providing recipients with the financial counseling and education necessary to conduct transactions and manage their accounts. These loans provide low-cost alternatives to payday loans and other nontraditional forms of financing that often impose excessive interest rates and fees on borrowers, and lead millions of Americans to fall into debt traps. Small-dollar loans can only be made pursuant to terms, conditions, and practices that are reasonable for the individual consumer obtaining the loan.
 - **(4)** Program participation is restricted to eligible institutions, which are limited to organizations listed in section 501(c)(3) of the Internal Revenue Code and exempt from tax under 501(a) of such Code, federally insured depository institutions, community development financial institutions and State, local, or Tribal government entities.
-- **(5)** Since its founding, the CDFI Fund has awarded over $3,300,000,000 to CDFIs and CDEs, allocated $54,000,000,000 in tax credits, and $1,510,000,000 in bond guarantees. According to the CDFI Fund, some programs attract as much as $10 in private capital for every $1 invested by the CDFI Fund. The Administration and the Congress should prioritize appropriation of funds for the loan loss reserve fund and technical assistance programs administered by the Community Development Financial Institution Fund, as included in the version of the “Financial Services and General Government Appropriations Act, 2020” (H.R. 3351) that passed the House of Representatives on June, 26, 2019.
+- **(5)** Since its founding, the CDFI Fund has awarded over $3,300,000,000 to CDFIs and CDEs, allocated $54,000,000,000 in tax credits, and $1,510,000,000 in bond guarantees. According to the CDFI Fund, some programs attract as much as $10 in private capital for every $1 invested by the CDFI Fund. The Administration and the Congress should prioritize appropriation of funds for the loan loss reserve fund and technical assistance programs administered by the Community Development Financial Institution Fund.
 
 ## § 3. Definitions
 
@@ -54,36 +54,43 @@ Section 308(b)(1) of the Financial Institutions Reform, Recovery, and Enforcemen
 
 ## § 5. Establishment of impact bank designation
 
-- **(a)** *In general* Each appropriate Federal banking agency shall establish a program under which a depository institution with total consolidated assets of less than $10,000,000,000 may elect to be designated as an impact bank if 50 percent or more of the loans extended by such covered bank are extended to low-income borrowers.
-- **(b)** *Designation* Based on data obtained through examinations, an appropriate Federal banking agency shall submit a notification to a depository institution stating that the depository institution qualifies for designation as an impact bank.
-- **(c)** *Application* A depository institution that does not receive a notification described in subsection (b) may submit an application to the appropriate Federal banking agency demonstrating that the depository institution qualifies for designation as an impact bank.
-- **(d)** *Additional data or oversight* A depository institution is not required to submit additional data to an appropriate Federal banking agency or be subject to additional oversight from such an agency if such data or oversight is related specifically and solely for consideration for a designation as an impact bank.
-- **(e)** *Removal of designation* If an appropriate Federal banking agency determines that a depository institution designated as an impact bank no longer meets the criteria for such designation, the appropriate Federal banking agency shall rescind the designation and notify the depository institution of such rescission.
-- **(f)** *Reconsideration of designation; appeals* A depository institution may—
+- **(a)** *In general* Each Federal banking agency shall establish a program under which a depository institution with total consolidated assets of less than $10,000,000,000 may elect to be designated as an impact bank if the total dollar value of the loans extended by such depository institution to low-income borrowers is greater than or equal to 50 percent of the assets of such bank.
+- **(b)** *Notification of eligibility* Based on data obtained through examinations of depository institutions, the appropriate Federal banking agency shall notify a depository institution if the institution is eligible to be designated as an impact bank.
+- **(c)** *Application* Regardless of whether or not it has received a notice of eligibility under subsection (b), a depository institution may submit an application to the appropriate Federal banking agency—
+  - **(1)** requesting to be designated as an impact bank; and
+  - **(2)** demonstrating that the depository institution meets the applicable qualifications.
+- **(d)** *Limitation on additional data requirements* The Federal banking agencies may only impose additional data collection requirements on a depository institution under this section if such data is—
+  - **(1)** necessary to process an application submitted by the depository institution to be designated an impact bank; or
+  - **(2)** with respect to a depository institution that is designated as an impact bank, necessary to ensure the depository institution’s ongoing qualifications to maintain such designation.
+- **(e)** *Removal of designation* If the appropriate Federal banking agency determines that a depository institution designated as an impact bank no longer meets the criteria for such designation, the appropriate Federal banking agency shall rescind the designation and notify the depository institution of such rescission.
+- **(f)** *Reconsideration of designation; appeals* Under such procedures as the Federal banking agencies may establish, a depository institution may—
   - **(1)** submit to the appropriate Federal banking agency a request to reconsider a determination that such depository institution no longer meets the criteria for the designation; or
-  - **(2)** file an appeal in accordance with procedures established by the appropriate Federal banking agency.
-- **(g)** *Rulemaking* Not later than 1 year after the date of the enactment of this Act, the appropriate Federal banking agencies shall jointly issue rules to carry out the requirements of this section, including by providing a definition of a low-income borrower.
-- **(h)** *Federal Deposit Insurance Act definitions* In this section, the terms depository institution and appropriate Federal banking agency have the meanings given such terms, respectively, in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813).
+  - **(2)** file an appeal of such determination.
+- **(g)** *Rulemaking* Not later than 1 year after the date of the enactment of this Act, the Federal banking agencies shall jointly issue rules to carry out the requirements of this section, including by providing a definition of a low-income borrower.
+- **(h)** *Reports* Each Federal banking agency shall submit an annual report to the Congress containing a description of actions taken to carry out this section.
+- **(i)** *Federal Deposit Insurance Act definitions* In this section, the terms depository institution, appropriate Federal banking agency, and “Federal banking agency” have the meanings given such terms, respectively, in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813).
 
-## § 6. Minority Depository Institutions Advisory Committees
+## § 6. Minority Depositories Advisory Committees
 
-- **(a)** *Establishment* Each covered regulator shall establish an advisory committee to be called the “Minority Depository Institutions Advisory Committee”.
-- **(b)** *Duties* Each Minority Depository Institutions Advisory Committee shall provide advice to the respective covered regulator on meeting the goals established by section 308 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1463 note) to preserve the present number of covered minority institutions, preserve the minority character of minority-owned institutions in cases involving mergers or acquisitions, provide technical assistance, and encourage the creation of new covered minority institutions. The scope of the work of each such Minority Depository Institutions Advisory Committee shall include an assessment of the current condition of covered minority institutions, what regulatory changes or other steps the respective agencies may be able to take to fulfill the requirements of such section 308, and other issues of concern to minority depository institutions.
+- **(a)** *Establishment* Each covered regulator shall establish an advisory committee to be called the “Minority Depositories Advisory Committee”.
+- **(b)** *Duties* Each Minority Depositories Advisory Committee shall provide advice to the respective covered regulator on meeting the goals established by section 308 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1463 note) to preserve the present number of covered minority institutions, preserve the minority character of minority-owned institutions in cases involving mergers or acquisitions, provide technical assistance, and encourage the creation of new covered minority institutions. The scope of the work of each such Minority Depositories Advisory Committee shall include an assessment of the current condition of covered minority institutions, what regulatory changes or other steps the respective agencies may be able to take to fulfill the requirements of such section 308, and other issues of concern to covered minority institutions.
 - **(c)** *Membership*
-  - **(1)** *In general* Each Minority Depository Institutions Advisory Committee shall consist of no more than 10 members, who—
+  - **(1)** *In general* Each Minority Depositories Advisory Committee shall consist of no more than 10 members, who—
     - **(A)** shall serve for one two-year term;
     - **(B)** shall serve as a representative of a depository institution or an insured credit union with respect to which the respective covered regulator is the covered regulator of such depository institution or insured credit union; and
     - **(C)** shall not receive pay by reason of their service on the advisory committee, but may receive travel or transportation expenses in accordance with section 5703 of title 5, United States Code.
-  - **(2)** *Diversity* To the extent practicable, each covered regulator shall ensure that the members of Minority Depository Institutions Advisory Committee of such agency reflect the diversity of depository institutions.
+  - **(2)** *Diversity* To the extent practicable, each covered regulator shall ensure that the members of the Minority Depositories Advisory Committee of such agency reflect the diversity of covered minority institutions.
 - **(d)** *Meetings*
-  - **(1)** *In general* Each Minority Depository Institutions Advisory Committee shall meet not less frequently than twice each year.
-  - **(2)** *Invitations* Each Minority Depository Institutions Advisory Committee shall invite the attendance at each meeting of the Minority Depository Institutions Advisory Committee of—
-    - **(A)** one member of the majority party and one member of the minority party of the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate; and
-    - **(B)** one member of the majority party and one member of the minority party of any relevant subcommittees of such committees.
-- **(e)** *No termination of advisory committees* The termination requirements under section 14 of the Federal Advisory Committee Act (5 U.S.C. app.) shall not apply to a Minority Depository Institutions Advisory Committee established pursuant to this section.
+  - **(1)** *In general* Each Minority Depositories Advisory Committee shall meet not less frequently than twice each year.
+  - **(2)** *Notice and invitations* Each Minority Depositories Advisory Committee shall—
+    - **(A)** notify the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate in advance of each meeting of the Minority Depositories Advisory Committee; and
+    - **(B)** invite the attendance at each meeting of the Minority Depositories Advisory Committee of—
+      - **(i)** one member of the majority party and one member of the minority party of the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate; and
+      - **(ii)** one member of the majority party and one member of the minority party of any relevant subcommittees of such committees.
+- **(e)** *No termination of advisory committees* The termination requirements under section 14 of the Federal Advisory Committee Act (5 U.S.C. app.) shall not apply to a Minority Depositories Advisory Committee established pursuant to this section.
 - **(f)** *Definitions* In this section:
   - **(1)** *Covered regulator* The term covered regulator means the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, and the National Credit Union Administration.
-  - **(2)** *Covered minority institution* The term covered minority institution means a minority depository institution (as defined in section 308(b) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1463 note)) or a minority credit union (as defined in section 1204(c) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, as amended by this Act).
+  - **(2)** *Covered minority institution* The term covered minority institution means a minority depository institution (as defined in section 308(b) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1463 note)).
   - **(3)** *Depository institution* The term depository institution has the meaning given under section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813).
   - **(4)** *Insured credit union* The term insured credit union has the meaning given in section 101 of the Federal Credit Union Act (12 U.S.C. 1752).
 - **(g)** *Technical amendment* Section 308(b) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1463 note) is amended by adding at the end the following new paragraph:
@@ -93,10 +100,10 @@ Section 308(b)(1) of the Financial Institutions Reform, Recovery, and Enforcemen
 
 - **(a)** *In general* Section 308 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1463 note) is amended—
   - **(1)** by adding at the end the following new subsection:
-    > - **(d)** *Federal deposits* The Secretary of the Treasury shall ensure that deposits made by Federal agencies in minority depository institutions and impact banks are fully collateralized or fully insured, as determined by the Secretary. Such deposits shall include reciprocal deposits as defined in section 337.6(e)(2)(v) of title 12, Code of Federal Regulations (as in effect on March 6, 2019).
+    > - **(d)** *Federal deposits* The Secretary of the Treasury shall ensure that deposits made by Federal agencies in minority depository institutions and impact banks are collateralized or insured, as determined by the Secretary. Such deposits shall include reciprocal deposits as defined in section 337.6(e)(2)(v) of title 12, Code of Federal Regulations (as in effect on March 6, 2019).
 
   - **(2)** in subsection (b), as amended by section 6(g), by adding at the end the following new paragraph:
-    > - **(4)** *Impact bank* The term impact bank means a depository institution designated by an appropriate Federal banking agency pursuant to section 5 of the Ensuring Diversity in Community Banking Act of 2019.
+    > - **(4)** *Impact bank* The term impact bank means a depository institution designated by the appropriate Federal banking agency pursuant to section 5 of the Ensuring Diversity in Community Banking Act.
 
 - **(b)** *Technical amendments* Section 308 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1463 note) is amended—
   - **(1)** in the matter preceding paragraph (1), by striking “section—” and inserting “section:”; and
@@ -105,27 +112,25 @@ Section 308(b)(1) of the Financial Institutions Reform, Recovery, and Enforcemen
 ## § 8. Minority Bank Deposit Program
 
 - **(a)** *In general* Section 1204 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1811 note) is amended to read as follows:
-  > ## § 1204. Expansion of use of minority banks and minority credit unions
+  > ## § 1204. Expansion of use of minority depository institutions
   >
   > - **(a)** *Minority Bank Deposit Program*
-  >   - **(1)** *Establishment* There is established a program to be known as the “Minority Bank Deposit Program” to expand the use of minority banks and minority credit unions.
+  >   - **(1)** *Establishment* There is established a program to be known as the “Minority Bank Deposit Program” to expand the use of minority depository institutions.
   >   - **(2)** *Administration* The Secretary of the Treasury, acting through the Fiscal Service, shall—
-  >     - **(A)** on application by a depository institution or credit union, certify whether such depository institution or credit union is a minority bank or minority credit union;
+  >     - **(A)** on application by a depository institution or credit union, certify whether such depository institution or credit union is a minority depository institution;
   >     - **(B)** maintain and publish a list of all depository institutions and credit unions that have been certified pursuant to subparagraph (A); and
   >     - **(C)** periodically distribute the list described in subparagraph (B) to—
   >       - **(i)** all Federal departments and agencies;
   >       - **(ii)** interested State and local governments; and
   >       - **(iii)** interested private sector companies.
-  >   - **(3)** *Inclusion of certain entities on list* A depository institution or credit union that, on the date of the enactment of this section, has a current certification from the Secretary of the Treasury stating that such depository institution or credit union is a minority bank or minority credit union shall be included on the list described under paragraph (2)(B).
+  >   - **(3)** *Inclusion of certain entities on list* A depository institution or credit union that, on the date of the enactment of this section, has a current certification from the Secretary of the Treasury stating that such depository institution or credit union is a minority depository institution shall be included on the list described under paragraph (2)(B).
   > - **(b)** *Expanded Use Among Federal Departments and Agencies*
-  >   - **(1)** *In general* Not later than 1 year after the establishment of the program described in subsection (a), the head of each Federal department or agency shall develop and implement standards and procedures to ensure, to the maximum extent possible as permitted by law, the use of minority banks and minority credit unions to serve the financial needs of each such department or agency.
-  >   - **(2)** *Report to Congress* Not later than 2 years after the establishment of the program described in subsection (a), and annually thereafter, the head of each Federal department or agency shall submit to Congress a report on the actions taken to increase the use of minority banks and minority credit unions to serve the financial needs of each such department or agency.
+  >   - **(1)** *In general* Not later than 1 year after the establishment of the program described in subsection (a), the head of each Federal department or agency shall develop and implement standards and procedures to prioritize, to the maximum extent possible as permitted by law and consistent with principles of sound financial management, the use of minority depository institutions to hold the deposits of each such department or agency.
+  >   - **(2)** *Report to Congress* Not later than 2 years after the establishment of the program described in subsection (a), and annually thereafter, the head of each Federal department or agency shall submit to Congress a report on the actions taken to increase the use of minority depository institutions to hold the deposits of each such department or agency.
   > - **(c)** *Definitions* For purposes of this section:
   >   - **(1)** *Credit union* The term credit union has the meaning given the term insured credit union in section 101 of the Federal Credit Union Act (12 U.S.C. 1752).
-  >   - **(2)** *Depository institution* The term depository institution has the meaning given the term insured depository institution in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813).
-  >   - **(3)** *Minority* The term minority means any Black American, Native American, Hispanic American, or Asian American.
-  >   - **(4)** *Minority bank* The term minority bank means a minority depository institution as defined in section 308 of this Act.
-  >   - **(5)** *Minority credit union* The term minority credit union means any credit union for which more than 50 percent of the membership (including board members) of such credit union are minority individuals, as determined by the National Credit Union Administration pursuant to section 308 of this Act.
+  >   - **(2)** *Depository institution* The term depository institution has the meaning given in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813).
+  >   - **(3)** *Minority depository institution* The term minority depository institution has the meaning given that term under section 308 of this Act.
 
 - **(b)** *Conforming Amendments* The following provisions are amended by striking “1204(c)(3)” and inserting “1204(c)”:
   - **(1)** Section 808(b)(3) of the Community Reinvestment Act of 1977 (12 U.S.C. 2907(b)(3)).
@@ -138,7 +143,7 @@ Section 308(b)(1) of the Financial Institutions Reform, Recovery, and Enforcemen
   - **(1)** Data, based on voluntary self-identification, on the racial, ethnic, and gender composition of the examiners of each covered regulator, disaggregated by length of time served as an examiner.
   - **(2)** The status of any examiners of covered regulators, based on voluntary self-identification, as a veteran.
   - **(3)** Whether any covered regulator, as of the date on which the report required under this section is submitted, has adopted a policy, plan, or strategy to promote racial, ethnic, and gender diversity among examiners of the covered regulator.
-  - **(4)** Whether any special training is developed and provided for examiners related specifically to working with banks that serve communities that are predominantly minorities, low income, or rural, and the key focus of such training.
+  - **(4)** Whether any special training is developed and provided for examiners related specifically to working with depository institutions and credit unions that serve communities that are predominantly minorities, low income, or rural, and the key focus of such training.
 - **(b)** *Best practices* Each Office of Minority and Women Inclusion of a covered regulator shall develop, provide to the head of the covered regulator, and make publicly available best practices—
   - **(1)** for increasing the diversity of candidates applying for examiner positions, including through outreach efforts to recruit diverse candidate to apply for entry-level examiner positions; and
   - **(2)** for retaining and providing fair consideration for promotions within the examiner staff for purposes of achieving diversity among examiners.
@@ -151,20 +156,21 @@ Section 308(b)(1) of the Financial Institutions Reform, Recovery, and Enforcemen
   >   - **(i)** to direct the management or policies of an insured depository institution; or
   >   - **(ii)**
   >     - **(I)** with respect to an insured depository institution, of a person to vote 25 per centum or more of any class of voting securities of such institution; or
-  >     - **(II)** with respect to an insured depository institution that is an impact bank (as designated pursuant to section 5 of the Ensuring Diversity in Community Banking Act of 2019) or a minority depository institution (as defined in section 308(b) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989), of an individual to vote 30 percent of more of any class of voting securities of such an impact bank or a minority depository institution.
+  >     - **(II)** with respect to an insured depository institution that is an impact bank (as designated pursuant to section 5 of the Ensuring Diversity in Community Banking Act) or a minority depository institution (as defined in section 308(b) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989), of an individual to vote 30 percent or more of any class of voting securities of such an impact bank or a minority depository institution.
 
-- **(b)** *Rulemaking* The appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)) shall jointly issue rules for de novo minority depository institutions and de novo impact banks (as designated pursuant to section 5) to allow 3 years to meet the capital requirements otherwise applicable to minority depository institutions and impact banks.
-- **(c)** *Report* Not later than 1 year after the date of the enactment of this Act, the appropriate Federal banking agencies shall jointly submit to Congress a report on—
+- **(b)** *Rulemaking* The Federal banking agencies (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)) shall jointly issue rules for de novo minority depository institutions and de novo impact banks (as designated pursuant to section 5) to allow 3 years to meet the capital requirements otherwise applicable to minority depository institutions and impact banks.
+- **(c)** *Report* Not later than 1 year after the date of the enactment of this Act, the Federal banking agencies shall jointly submit to Congress a report on—
   - **(1)** the principal causes for the low number of de novo minority depository institutions during the 10-year period preceding the date of the report;
   - **(2)** the main challenges to the creation of de novo minority depository institutions and de novo impact banks; and
   - **(3)** regulatory and legislative considerations to promote the establishment of de novo minority depository institutions and de novo impact banks.
 
-## § 11. Requirement to mentor minority depository institutions or community development financial institutions to serve as a depositary or financial agent
+## § 11. Report on covered mentor-protege programs
 
-- **(a)** *In general* Before a large financial institution may be employed as a financial agent of the Department of the Treasury or perform any reasonable duties as depositary of public moneys of the Department of the Treasury, the large financial institution shall demonstrate participation as a mentor in a covered mentor-protege program to a protege firm that is a minority depository institution or a community development financial institution.
-- **(b)** *Report* Not later than 6 months after the date of the enactment of this Act and annually thereafter, the Secretary of the Treasury shall submit to Congress a report on participants in a covered mentor-protege program, including an analysis of outcomes of such program.
-- **(c)** *Procedures* The Secretary of the Treasury shall publish procedures for compliance with the requirements of this section for large financial institutions.
-- **(d)** *Definitions* In this section:
+- **(a)** *Report* Not later than 6 months after the date of the enactment of this Act and annually thereafter, the Secretary of the Treasury shall submit to Congress a report on participants in a covered mentor-protege program, including—
+  - **(1)** an analysis of outcomes of such program;
+  - **(2)** the number of minority depository institutions that are eligible to participate in such program but do not have large financial institution mentors; and
+  - **(3)** recommendations for how to match such minority depository institutions with large financial institution mentors.
+- **(b)** *Definitions* In this section:
   - **(1)** *Covered mentor-protege program* The term covered mentor-protege program means a mentor-protege program established by the Secretary of the Treasury pursuant to section 45 of the Small Business Act (15 U.S.C. 657r).
   - **(2)** *Large financial institution* The term large financial institution means any entity—
     - **(A)** regulated by the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, or the National Credit Union Administration; and
@@ -172,73 +178,43 @@ Section 308(b)(1) of the Financial Institutions Reform, Recovery, and Enforcemen
 
 ## § 12. Custodial deposit program for covered minority depository institutions and impact banks
 
-- **(a)** *Establishment* The Secretary of the Treasury shall establish a custodial deposit program (in this section referred to as the “Program”) under which a covered bank shall receive monthly deposits from a qualifying account.
-- **(b)** *Application* A covered bank shall submit to the Secretary an application to participate in the Program at such time, in such manner, and containing such information as the Secretary may determine.
-- **(c)** *Program operations*
-  - **(1)** *Designation of custodial entities* The Secretary shall designate eligible custodial entities to make monthly deposits with covered banks selected for participation in the Program on behalf of a qualifying account.
-  - **(2)** *Custodial accounts*
-    - **(A)** *In general* The Secretary shall establish a custodial deposit account for each qualifying account with the eligible custodial entity designated to make deposits with covered banks for each such qualifying account.
-    - **(B)** *Amount* The Secretary shall deposit a total amount not greater than 5 percent of a qualifying account into any custodial deposit accounts established under subparagraph (A).
-    - **(C)** *Deposits with Program participants*
-      - **(i)** *Monthly deposits* Each month, each eligible custodial entity designated by the Secretary shall deposit an amount not greater than the insured amount, in the aggregate, from each custodial deposit account, in a single covered bank.
-      - **(ii)** *Limitation* With respect to the funds of an individual qualifying account, the eligible custodial entity may not deposit an amount greater than the insured amount in a single covered bank.
-      - **(iii)** *Insured amount defined* In this subparagraph, the term insured amount means the amount that is the greater of—
-        - **(I)** the standard maximum deposit insurance amount (as defined in section 11(a)(1)(E) of the Federal Deposit Insurance Act (12 U.S.C. 1821(a)(1)(E))); or
-        - **(II)** such higher amount negotiated between the Secretary and the Corporation under which the Corporation will insure all deposits of such higher amount.
-    - **(D)** *Limitations* The total amount of funds deposited under the Program in a covered bank may not exceed the lesser of—
-      - **(i)** 10 percent of the average amount of deposits held by such covered bank in the previous quarter; or
-      - **(ii)** $100,000,000.
-  - **(3)** *Interest*
-    - **(A)** *In general* Each eligible custodial entity designated by the Secretary shall—
-      - **(i)** collect interest from each covered bank in which such custodial entity deposits funds pursuant to paragraph (2); and
-      - **(ii)** disburse such interest to the Secretary each month.
-    - **(B)** *Interest rate* The rate of any interest collected under this paragraph may not exceed 50 percent of the discount window primary credit interest rate most recently published on the Federal Reserve Statistical Release on selected interest rates (daily or weekly), commonly referred to as the H.15 release (commonly known as the “Federal funds rate”).
-  - **(4)** *Statements* Each eligible custodial entity designated by the Secretary shall submit to the Secretary monthly statements that include the total amount of funds deposited with, and interest rate received from, each covered bank by the eligible custodial entity on behalf of qualifying entities.
-  - **(5)** *Records* The Secretary shall issue a quarterly report to Congress and make publicly available a record identifying all covered banks participatinig in the Program and amounts deposited under the Program in covered banks.
-- **(d)** *Requirements relating to deposits* Deposits made with covered banks under this section may not—
-  - **(1)** be considered by the Corporation to be funds obtained, directly or indirectly, by or through any deposit broker for deposit into 1 or more deposit accounts (as described under section 29 of the Federal Deposit Insurance Act (12 U.S.C. 1831f)); or
-  - **(2)** be subject to insurance fees from the Corporation that are greater than insurance fees for typical demand deposits not obtained, directly or indirectly, by or through any deposit broker (commonly known as “core deposits”).
-- **(e)** *Modifications*
-  - **(1)** *In general* The Secretary shall provide a 3-month period for public notice and comment before making any material change to the operation of the Program.
-  - **(2)** *Exception* The requirements of paragraph (1) shall not apply if the Secretary makes a material change to the Program to comply with safety and soundness standards or other law.
-- **(f)** *Termination*
-  - **(1)** *By covered bank* A covered bank selected for participation in the Program pursuant to subsection (c) may terminate participation in the Program by providing the Secretary a notification 60 days prior to termination.
-  - **(2)** *By Secretary* The Secretary may terminate the participation of a covered bank in the Program if the Secretary determines the covered bank—
-    - **(A)** violated any terms of participation in the Program;
-    - **(B)** failed to comply with Federal bank secrecy laws, as documented in writing by the primary regulator of the covered bank;
-    - **(C)** failed to remain well capitalized; or
-    - **(D)** failed comply with safety and soundness standards, as documented in writing by the primary regulator of the covered bank.
-- **(g)** *Definitions* In this section:
-  - **(1)** *Corporation* The term Corporation means the Federal Deposit Insurance Corporation.
-  - **(2)** *Covered bank* The term covered bank means—
-    - **(A)** a minority depository institution that is regulated by the Corporation or the National Credit Union Administration that is well capitalized (as defined in section 38(b) of the Federal Deposit Insurance Act (12 U.S.C. 1831o(b))); or
-    - **(B)** a depository institution designated pursuant to section 5 of the Ensuring Diversity in Community Banking Act of 2019 that is well capitalized (as defined in section 38(b) of the Federal Deposit Insurance Act (12 U.S.C. 1831o(b))).
-  - **(3)** *Eligible custodial entity* The term eligible custodial entity means—
-    - **(A)** an insured depository institution (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)),
-    - **(B)** an insured credit union (as defined in section 101 of the Federal Credit Union Act (12 U.S.C. 1752)), or
-    - **(C)** or a well capitalized State-chartered trust company,
-  - **(4)** *Federal bank secrecy laws* The term Federal bank secrecy laws means—
-    - **(A)** section 21 of the Federal Deposit Insurance Act (12 U.S.C. 1829b);
-    - **(B)** section 123 of Public Law 91–508; and
-    - **(C)** subchapter II of chapter 53 of title 31, United States Code.
-  - **(5)** *Qualifying account* The term qualifying account means any account established in the Department of the Treasury that—
+- **(a)** *In general* Not later than one year after the date of the enactment of this Act, the Secretary of the Treasury shall issue rules establishing a custodial deposit program under which a covered bank may receive deposits from a qualifying account.
+- **(b)** *Requirements* In issuing rules under subsection (a), the Secretary of the Treasury shall—
+  - **(1)** consult with the Federal banking agencies;
+  - **(2)** ensure each covered bank participating in the program established under this section—
+    - **(A)** has appropriate policies relating to management of assets, including measures to ensure the safety and soundness of each such covered bank; and
+    - **(B)** is compliant with applicable law; and
+  - **(3)** ensure, to the extent practicable that the rules do not conflict with goals described in section 308(a) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1463 note).
+- **(c)** *Limitations*
+  - **(1)** *Deposits* With respect to the funds of an individual qualifying account, an entity may not deposit an amount greater than the insured amount in a single covered bank.
+  - **(2)** *Total deposits* The total amount of funds deposited in a covered bank under the custodial deposit program described under this section may not exceed the lesser of—
+    - **(A)** 10 percent of the average amount of deposits held by such covered bank in the previous quarter; or
+    - **(B)** $100,000,000 (as adjusted for inflation).
+- **(d)** *Report* Each quarter, the Secretary of the Treasury shall submit to Congress a report on the implementation of the program established under this section including information identifying participating covered banks and the total amount of deposits received by covered banks under the program.
+- **(e)** *Definitions* In this section:
+  - **(1)** *Covered bank* The term “covered bank” means—
+    - **(A)** a minority depository institution that is well capitalized, as defined by the appropriate Federal banking agency; or
+    - **(B)** a depository institution designated pursuant to section 5 of the Ensuring Diversity in Community Banking Act that is well capitalized, as defined by the appropriate Federal banking agency.
+  - **(2)** *Insured amount* The term “insured amount” means the amount that is the greater of—
+    - **(A)** the standard maximum deposit insurance amount (as defined in section 11(a)(1)(E) of the Federal Deposit Insurance Act (12 U.S.C. 1821(a)(1)(E))); or
+    - **(B)** such higher amount negotiated between the Secretary of the Treasury and the Federal Deposit Insurance Corporation under which the Corporation will insure all deposits of such higher amount.
+  - **(3)** *Federal banking agencies* The terms “appropriate Federal banking agency” and “Federal banking agencies” have the meaning given those terms, respectively, under section 3 of the Federal Deposit Insurance Act.
+  - **(4)** *Qualifying account* The term “qualifying account” means any account established in the Department of the Treasury that—
     - **(A)** is controlled by the Secretary; and
-    - **(B)** is expected to maintain a balance greater than $200,000,000 for the following calendar month.
-  - **(6)** *Secretary* The term Secretary means the Secretary of the Treasury.
-  - **(7)** *Well capitalized* The term well capitalized has the meaning given in section 38 of the Federal Deposit Insurance Act (12 U.S.C. 1831o).
+    - **(B)** is expected to maintain a balance greater than $200,000,000 for the following 24-month period.
 
 ## § 13. Streamlined community development financial institution applications and reporting
 
 - **(a)** *Application processes* Not later than 12 months after the date of the enactment of this Act and with respect to any person having assets under $3,000,000,000 that submits an application for deposit insurance with the Federal Deposit Insurance Corporation that could also become a community development financial institution, the Federal Deposit Insurance Corporation, in consultation with the Administrator of the Community Development Financial Institutions Fund, shall—
   - **(1)** develop systems and procedures to record necessary information to allow the Administrator to conduct preliminary analysis for such person to also become a community development financial institution; and
-  - **(2)** develop procedures to streamline the application and annual certification processes and to reduce costs for such person to become, and maintain certification as, a community development financial institution that serves low- and moderate-income neighborhoods (as defined under the Community Reinvestment Act of 1977 (12 U.S.C. 2901 et seq.)).
-- **(b)** *Report on implementation* Not later than 18 months after the date of the enactment of this Act, the Federal Deposit Insurance Corporation shall submit to Congress a report describing the systems and procedures required under subsection (a).
+  - **(2)** develop procedures to streamline the application and annual certification processes and to reduce costs for such person to become, and maintain certification as, a community development financial institution.
+- **(b)** *Implementation report* Not later than 18 months after the date of the enactment of this Act, the Federal Deposit Insurance Corporation shall submit to Congress a report describing the systems and procedures required under subsection (a).
 - **(c)** *Annual report*
   - **(1)** *In general* Section 17(a)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1827(a)(1)) is amended—
     - **(A)** in subparagraph (E), by striking “and” at the end;
     - **(B)** by redesignating subparagraph (F) as subparagraph (G);
     - **(C)** by inserting after subparagraph (E) the following new subparagraph:
-      > - **(F)** applicants for deposit insurance that could also become a community development financial institution (as defined in section 103 of the Riegle Community Development and Regulatory Improvement Act of 1994), a minority depository institution (as defined in section 308 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989), or an impact bank (as designated pursuant to section 5 of the Ensuring Diversity in Community Banking Act of 2019); and
+      > - **(F)** applicants for deposit insurance that could also become a community development financial institution (as defined in section 103 of the Riegle Community Development and Regulatory Improvement Act of 1994), a minority depository institution (as defined in section 308 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989), or an impact bank (as designated pursuant to section 5 of the Ensuring Diversity in Community Banking Act); and
 
   - **(2)** *Application* The amendment made by this subsection shall apply with respect to the first report to be submitted after the date that is 2 years after the date of the enactment of this Act.
 
@@ -246,3 +222,12 @@ Section 308(b)(1) of the Financial Institutions Reform, Recovery, and Enforcemen
 
 - **(a)** *In general* Not later than 6 months after the date of the enactment of this Act, the Administrator of the Small Business Administration shall establish a task force to examine methods for improving relationships between the Small Business Administration and community development financial institutions, minority depository institutions, and Impact Banks to increase the volume of loans provided by such institutions to small business concerns (as defined under section 3 of the Small Business Act (15 U.S.C. 632)).
 - **(b)** *Report to Congress* Not later than 18 months after the establishment of the task force described in subsection (a), the Administrator of the Small Business Administration shall submit to Congress a report on the findings of such task force.
+
+## § 15. Discretionary surplus funds
+
+- **(a)** *In general* Subparagraph (A) of section 7(a)(3) of the Federal Reserve Act (12 U.S.C. 289(a)(3)(A)) is amended by reducing the dollar figure described in such subparagraph by $1,400,000,000.
+- **(b)** *Effective date* The amendment made by subsection (a) shall take effect on September 30, 2030.
+
+## § 16. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
