@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Suicide Prevention Lifeline Improvement Act of 2019”.
+This Act may be cited as the “Suicide Prevention Lifeline Improvement Act of 2020”.
 
 ## § 2. Suicide Prevention Lifeline
 
@@ -32,7 +32,7 @@ This Act may be cited as the “Suicide Prevention Lifeline Improvement Act of 2
     >     - **(E)** Guidelines to carry out periodic testing of the hotline, including at crisis centers and backup centers, during each fiscal year to identify and correct any problems in a timely manner.
     >     - **(F)** Guidelines to operate in consultation with the State department of health, local governments, Indian tribes, and tribal organizations.
     >   - **(3)** *Initial plan; updates* The Secretary shall—
-    >     - **(A)** not later than 6 months after the date of enactment of the Suicide Prevention Lifeline Improvement Act of 2019, complete development of the initial version of the plan required by paragraph (1), begin implementation of such plan, and make such plan publicly available; and
+    >     - **(A)** not later than 6 months after the date of enactment of the Suicide Prevention Lifeline Improvement Act of 2020, complete development of the initial version of the plan required by paragraph (1), begin implementation of such plan, and make such plan publicly available; and
     >     - **(B)** periodically thereafter, update such plan and make the updated plan publicly available.
 
 - **(b)** *Transmission of data to CDC* Section 520E–3 of the Public Health Service Act (42 U.S.C. 290bb–36c) is amended by inserting after subsection (c) of such section, as added by subsection (a) of this section, the following:
@@ -40,14 +40,14 @@ This Act may be cited as the “Suicide Prevention Lifeline Improvement Act of 2
 
 - **(c)** *Authorization of appropriations* Subsection (e) of section 520E–3 of the Public Health Service Act (42 U.S.C. 290bb–36c) is amended to read as follows:
   > - **(e)** *Authorization of appropriations*
-  >   - **(1)** *In general* To carry out this section, there are authorized to be appropriated $50,000,000 for each of fiscal years 2020 through 2022.
-  >   - **(2)** *Allocation* Of the amount authorized to be appropriated by paragraph (1) for each of fiscal years 2020 through 2022, at least 80 percent shall be made available to crisis centers.
+  >   - **(1)** *In general* To carry out this section, there are authorized to be appropriated $50,000,000 for each of fiscal years 2021 through 2023.
+  >   - **(2)** *Allocation* Of the amount authorized to be appropriated by paragraph (1) for each of fiscal years 2021 through 2023, at least 80 percent shall be made available to crisis centers.
 
 ## § 3. Pilot program on innovative technologies
 
 - **(a)** *Pilot program*
   - **(1)** *In general* The Secretary of Health and Human Services, acting through the Assistant Secretary for Mental Health and Substance Use, shall carry out a pilot program to research, analyze, and employ various technologies and platforms of communication (including social media platforms, texting platforms, and email platforms) for suicide prevention in addition to the telephone and online chat service provided by the Suicide Prevention Lifeline.
-  - **(2)** *Authorization of appropriations* To carry out paragraph (1), there is authorized to be appropriated $5,000,000 for the period of fiscal years 2020 and 2021.
+  - **(2)** *Authorization of appropriations* To carry out paragraph (1), there is authorized to be appropriated $5,000,000 for the period of fiscal years 2021 and 2022.
 - **(b)** *Report* Not later than 24 months after the date on which the pilot program under subsection (a) commences, the Secretary of Health and Human Services, acting through the Assistant Secretary for Mental Health and Substance Use, shall submit to the Congress a report on the pilot program. With respect to each platform of communication employed pursuant to the pilot program, the report shall include—
   - **(1)** a full description of the program;
   - **(2)** the number of individuals served by the program;
