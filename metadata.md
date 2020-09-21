@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5053
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5053
@@ -55,3 +55,9 @@ Justice for Juveniles Act
 - 2020-09-18 — Placed on the Union Calendar, Calendar No. 415.
 - 2020-09-18 — Reported by the Committee on Judiciary. H. Rept. 116-515.
 - 2020-09-18 — Reported by the Committee on Judiciary. H. Rept. 116-515.
+- 2020-09-21 — Considered under suspension of the rules. (consideration: CR H4570-4571)
+- 2020-09-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5053.
+- 2020-09-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-21 — Ms. Scanlon moved to suspend the rules and pass the bill.
+- 2020-09-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4570)
+- 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
