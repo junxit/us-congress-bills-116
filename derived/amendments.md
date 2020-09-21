@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4995
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-19 amendatory instructions. 1 executed, 18 stated and not applied.
+17 amendatory instructions. 1 executed, 16 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,14 +24,14 @@ to guess them.
 
 ## Executed
 
-### 42 U.S.C. § 247b-12
+### 42 U.S.C. § 242s
 
-> Section 317K(f) of the Public Health Service Act (42 U.S.C. 247b–12(f)) is amended by striking “$58,000,000 for each of fiscal years 2019 through 2023” and inserting “$65,000,000 for each of fiscal years 2020 through 2024”.
+> Section 310A(b)(1) of the Public Health Service Act (42 U.S.C. 242s(b)(1)) is amended by striking “and sociocultural contexts,” and inserting “sociocultural (including among American Indians, Native Hawaiians, and Alaska Natives), and geographical contexts”.
 
 | | |
 |---|---|
-| Removed | `$58,000,000 for each of fiscal years 2019 through 2023` |
-| Inserted | `$65,000,000 for each of fiscal years 2020 through 2024` |
+| Removed | `and sociocultural contexts,` |
+| Inserted | `sociocultural (including among American Indians, Native Hawaiians, and Alaska Natives), and geographical contexts` |
 
 ## Stated, not applied
 
@@ -42,21 +42,19 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 241` | redesignate | by redesignating subsections (e) through (h) as subsections (f) through (i), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 241` | insert | by inserting after subsection (d), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 242s` | insert | Section 310A(b)(1) of the Public Health Service Act (42 U.S.C. 242s(b)(1)) is amended by inserting “sociocultural, including among American Indians and Alaska Natives, as such terms are defined in section 4 of the Indian Health Care Impr… | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 247b-12` | insert | in subsection (a)(2)(A), by inserting before the period at the end the following: “, including improving collection of data on race, ethnicity, and other demographic information”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 247b-12` | strike | in subparagraph (L), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 247b-12` | redesignate | by redesignating subparagraph (M) as subparagraph (N); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 247b-12` | insert | by inserting after subparagraph (L), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 287d` | amend | in subsection (b), by amending paragraph (3) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 287d` | insert | in subsection (d)(4)(A)(iv), by inserting “, including maternal mortality and other maternal morbidity outcomes” before the semicolon. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 254c-1a` | insert | The Public Health Service Act is amended by inserting after section 330A–1 of such Act (42 U.S.C. 254c–1a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 254c-14` | add-at-end | in subsection (f)(1)(B)(iii), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 254c-14` | insert | in subsection (i)(1)(B), by inserting “labor and birth, postpartum,” before “or prenatal”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 294n` | add-at-end | Subpart 1 of part E of title VII of the Public Health Service Act is amended by inserting after section 760 (42 U.S.C. 294n et seq.), as amended by section 202, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 254c-19` | insert | in the section designation of section 330M (42 U.S.C. 254c–19) by inserting a period after “330M”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 254c-19` | insert | by inserting after such section 330M the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 254c-19` | insert | in the section designation of section 330M of such Act (42 U.S.C. 254c–19) by inserting a period after “330M”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 254c-19` | insert | by inserting after section 330M of such Act (42 U.S.C. 254c–19) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 294p` | replace | Title VII of the Public Health Service Act is amended by striking section 763 (42 U.S.C. 294p) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 247b-12` | add-at-end | Section 317K(a)(2) of the Public Health Service Act (42 U.S.C. 247b–12(a)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | The Public Health Service Act is amended by inserting after section 330N of such Act, as added by section 201, the following: | the bill names no machine-readable US Code section |
+| — | insert | Title III of the Public Health Service Act is amended by inserting after section 330N of such Act, as added by section 2, the following: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 241` | insert | Section 301(e) of the Public Health Service Act (42 U.S.C. 241(e)) is amended by inserting “, preventable maternal mortality and severe maternal morbidity,” after “delivery”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 247b-12` | insert | in subsection (a)(2)(A), by inserting “, including improving collection of data on race, ethnicity, and other demographic information” before the period; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 247b-12` | strike | in subparagraph (L), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 247b-12` | redesignate | by redesignating subparagraph (M) as subparagraph (N); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 247b-12` | insert | by inserting after subparagraph (L) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 287d` | amend | in subsection (b), by amending paragraph (3) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 287d` | insert | in subsection (d)(4)(A)(iv), by inserting “, including preventable maternal morbidity and severe maternal morbidity” before the semicolon. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 254c-1a` | insert | The Public Health Service Act is amended by inserting after section 330A–1 (42 U.S.C. 254c–1a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 254c-14` | add-at-end | in subsection (f)(3), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 254c-14` | insert | in subsection (h)(1)(B), by inserting “labor care, birthing care, postpartum care,” before “or prenatal”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 294n` | add-at-end | Subpart 1 of part E of title VII of the Public Health Service Act (42 U.S.C. 294n et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
