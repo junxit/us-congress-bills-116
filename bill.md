@@ -27,3 +27,7 @@ This Act may be cited as the “Safeguarding Therapeutics Act”.
       > - **(3)** For purposes of subparagraph (2)—
       >   - **(A)** the term “manufactured” refers to any of the following activities: manufacture, preparation, propagation, compounding, assembly, or processing; and
       >   - **(B)** the term “manufacturer” means a person who is engaged in any of the activities listed in clause (A).
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
