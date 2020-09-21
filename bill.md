@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1418
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Competitive Health Insurance Reform Act of 2019”.
+This Act may be cited as the “Competitive Health Insurance Reform Act of 2020”.
 
 ## § 2. Restoring the application of antitrust laws to the business of health insurance
 
@@ -34,3 +34,7 @@ This Act may be cited as the “Competitive Health Insurance Reform Act of 2019�
   >     - **(D)** the term “loss development factor” means an adjustment to be made to reserves held for losses incurred for claims reported by any person engaged in the business of insurance, for the purpose of bringing such reserves to an ultimate paid basis.
 
 - **(b)** *Related provision* For purposes of section 5 of the Federal Trade Commission Act (15 U.S.C. 45) to the extent such section applies to unfair methods of competition, section 3(c) of the McCarran-Ferguson Act shall apply with respect to the business of health insurance without regard to whether such business is carried on for profit, notwithstanding the definition of “Corporation” contained in section 4 of the Federal Trade Commission Act.
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
