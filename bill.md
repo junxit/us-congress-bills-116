@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3256
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -29,15 +29,14 @@ Section 2101 of the Homeland Security Act of 2002 (6 U.S.C. 621) is amended—
 
 - **(a)** *Additional CFATS program requirement* Section 2102(a)(2) of such Act (6 U.S.C. 622) is amended—
   - **(1)** in subparagraph (C), by striking “and” at the end;
-  - **(2)** in subparagraph (D), by striking the period and inserting a semicolon; and
-  - **(3)** by adding at the end the following new subparagraphs:
-    > - **(E)** verify information submitted by a covered chemical facility prior to assigning such facility a lower risk tier or determining that such facility no longer presents a high level of security risk; and
-    > - **(F)** develop a voluntary program for chemical facilities to address potential security risks at such facilities.
+  - **(2)** in subparagraph (D), by striking the period and inserting “; and” ; and
+  - **(3)** by adding at the end the following new subparagraph:
+    > - **(E)** verify information submitted by a covered chemical facility prior to assigning such facility a lower risk tier or determining that such facility no longer presents a high level of security risk.
 
 - **(b)** *Employee input regarding security measures* Paragraph (2) of subsection (b) of section 2102 of such Act (6 U.S.C. 622) is amended to read as follows:
   > - **(2)** *Employee consultation and awareness*
   >   - **(A)** *Employee consultation requirement* A facility’s security vulnerability assessment and site security plan shall be developed in consultation with—
-  >     - **(i)** at least one facility employee, in addition to the facility security officer or other individual who serves as a point of contact under section 27.230(a)(17) of title 6, Code of Federal Regulations, and the corresponding guidance issued under section 27.220(d) of such title, or any successor thereto, who possesses relevant knowledge, experience, training, or education pertaining to matters of site security; and
+  >     - **(i)** at least one facility employee, in addition to the facility security officer or other individual who serves as a point of contact under section 27.230(a)(17) of title 6, Code of Federal Regulations, and the corresponding guidance issued under section 27.220(d) of such title, or any successor thereto, who possesses relevant knowledge, experience, training, or education pertaining to matters of site security.
   >     - **(ii)** in the case of a facility where facility employees are represented by a bargaining agent, at least one employee representative who—
   >       - **(I)** is selected by the bargaining agent at that facility; and
   >       - **(II)** has relevant knowledge, experience, training, or education pertaining to matters of site security.
@@ -47,7 +46,7 @@ Section 2101 of the Homeland Security Act of 2002 (6 U.S.C. 621) is amended—
   >     - **(iii)** what mechanisms the facility used to capture feedback; and
   >     - **(iv)** any recommendations that were offered, accepted, or rejected as part of the security vulnerability assessment or site security plan.
   >   - **(C)** *Access to employees* Each owner or operator of a covered chemical facility shall, upon request, provide to an employee of the Department engaged in carrying out audits and inspections of such facility access to any employee who participated in the development of the facility’s security vulnerability assessment and site security plan.
-  >   - **(D)** *Employee awareness* The Secretary shall produce a poster for display in areas of covered chemical facilities and chemical facilities of interest shall be required to display that are accessible to facility employees to inform employees of the facility about program requirements under this title and the whistleblower protections provided under section 2105.
+  >   - **(D)** *Employee awareness* The Secretary shall produce a poster that a chemical facility of interest shall display in areas accessible to facility employees to inform employees about requirements under this title and the whistleblower protections provided under section 2105.
 
 - **(c)** *Site security plans*
   - **(1)** *Disapproval* Subsection (c)(1)(B) of section 2102 of such Act (6 U.S.C. 622) is amended—
@@ -55,7 +54,7 @@ Section 2101 of the Homeland Security Act of 2002 (6 U.S.C. 621) is amended—
     - **(B)** by amending clause (ii) to read as follows:
       > - **(ii)** shall disapprove a site security plan if—
       >   - **(I)** the plan fails to satisfy the risk-based performance standards established pursuant to subsection (a)(2)(C); or
-      >   - **(II)** the plan fails to include the name, organizational affiliation, and phone number of a local emergency manager or local emergency response provider and a documented policy to contact the local emergency manager or local emergency response provider at least annually regarding emergency response procedures at the facility.
+      >   - **(II)** the plan fails to include the name, organizational affiliation, and phone number of a local emergency manager or local emergency response provider and a documented policy to contact the local emergency manager or local emergency response provider at least annually regarding emergency response plans at the facility.
 
   - **(2)** *Assessments* Paragraph (3) of subsection (c) of such section is amended to read as follows:
     > - **(3)** *Site security plan assessments* In approving or disapproving a site security plan under this subsection, the Secretary shall—
@@ -73,9 +72,13 @@ Section 2101 of the Homeland Security Act of 2002 (6 U.S.C. 621) is amended—
       - **(i)** by striking “The Secretary” and inserting “For each individual responsible for carrying out audits or inspections on behalf of the Secretary, the Secretary”;
       - **(ii)** by inserting “to ensure such individuals receive” before “the training”; and
       - **(iii)** by striking “and retraining of each individual used by the Department as an auditor or inspector, including each individual employed by the Department and all nondepartmental or nongovernmental personnel” and inserting “, continuing education, and other professional development tools necessary to carry out duties and responsibilities”; and
-    - **(B)** in clause (i), by striking “requirements” and inserting “necessary to audit and inspect compliance with all aspects of the risk-based performance standards, including standards related to cybersecurity,”.
+    - **(B)** in clause (i), by striking “requirements” and inserting “necessary to audit and inspect compliance with all aspects of the risk-based performance standards, including standards related to cybersecurity,”;
+    - **(C)** by redesignating clauses (vi) and (vii) as clauses (vii) and (viii), respectively; and
+    - **(D)** by inserting after clause (v) the following new clause:
+      > - **(vi)** the proper credential or certification necessary to conduct inspections related to the cybersecurity standard.
+
   - **(4)** *Emergency response plans* Such subsection is further amended by adding at the end the following new paragraph:
-    > - **(4)** *Audit of emergency response plan* As part of the audit and inspection process under this subsection, the Secretary shall provide for an annual review of the compliance of a chemical facility with the requirements under subsection (c)(1)(B)(ii)(B) and the adherence of the facility to the emergency response requirements under such subsection.
+    > - **(4)** *Audit of emergency response plan* As part of the audit and inspection process under this subsection, the Secretary shall annually confirm compliance of a chemical facility with the requirements under subsection (c)(1)(B)(ii)(II) including adherence to the facility’s documented policy to contact the local emergency manager or local emergency response provider at least annually regarding emergency response plans at the facility under such subsection.
 
 - **(f)** *Risk assessment* Section 2102(e) of such Act (6 U.S.C. 622(e)) is amended—
   - **(1)** in paragraph (2)(B)—
@@ -99,7 +102,7 @@ Section 2101 of the Homeland Security Act of 2002 (6 U.S.C. 621) is amended—
       >   - **(i)** information described in subparagraph (B)(i) shall be given protections from public disclosure under such subsection; and
       >   - **(ii)** information described in subparagraph (B)(ii) shall not be given protections from public disclosure under such subsection.
 
-  - **(3)** by redesignating paragraph (4) as paragraph (6);
+  - **(3)** by redesignating paragraph (4) as paragraph (7);
   - **(4)** by inserting after paragraph (3) the following new paragraphs:
     > - **(4)** *Sharing information with emergency response providers*
     >   - **(A)** *In general* The Secretary shall make available to State, local, and regional fusion centers (as that term is defined in section 210A(j)(1) of this Act) and State and local government officials such information as the Secretary determines necessary to ensure that emergency response providers are prepared and provided with the situational awareness needed to respond to security incidents at covered chemical facilities.
@@ -107,12 +110,13 @@ Section 2101 of the Homeland Security Act of 2002 (6 U.S.C. 621) is amended—
     > - **(5)** *Practices that may reduce chemical security risks*
     >   - **(A)** *In general* Based on the information maintained under paragraph (3)(B)(ii) regarding actions taken or practices employed by chemical facilities of interest to successfully reduce or remove terrorism-related chemical security risks, the Secretary shall develop voluntary, publicly available practices that could be used to guide other facility owners and operators in preventing, reducing, and mitigating chemical security risks.
     >   - **(B)** *Treatment of sensitive information* In developing and disseminating practices under subparagraph (A), the Secretary shall protect from public disclosure all information described in section 2103(a).
+    > - **(6)** *Congressional notification* Any time a determination is not made with respect to a chemical facility of interest within 9 months of the facility submitting a Top-Screen, the Secretary shall notify the Committees on Homeland Security and Energy and Commerce of the House and the Committee on Homeland Security and Governmental Affairs of the Senate and provide an explanation.
 
   - **(5)** in paragraph (6), as redesignated by paragraph (3) of this subsection—
-    - **(A)** in subparagraph (B)(i)—
-      - **(i)** in subclause (aa), by striking “or” at the end;
-      - **(ii)** in subclause (bb), by striking “and” and inserting “or”; and
-      - **(iii)** by adding at the end the following new subclause:
+    - **(A)** in subparagraph (B)(i)(I)—
+      - **(i)** in item (aa), by striking “or” at the end;
+      - **(ii)** in item (bb), by striking “and” and inserting “or”; and
+      - **(iii)** by adding at the end the following new item:
         > - **(cc)** determined that a chemical facility of interest did not present a high level of risk; and
 
     - **(B)** by amending subparagraph (C) to read as follows:
@@ -129,29 +133,20 @@ Section 2101 of the Homeland Security Act of 2002 (6 U.S.C. 621) is amended—
       > - **(H)** actions taken and results produced in implementing the practices, to the extent feasible; and
 
 - **(g)** *Specific products and mixtures* Such section (6 U.S.C. 622) is further amended by adding at the end the following new subsection:
-  > - **(f)** *Specific products and mixtures containing chemicals of interest* The Secretary may exclude a specific product or mixture that contains a chemical of interest at or above the minimum concentration listed on Appendix A to part 27 of title 6, Code of Federal Regulations, or any successor thereto, from any reporting requirements under this section if the Secretary determines that the product or mixture does not present a risk for which the chemical of interest contained within the product or mixture was included on Appendix A.
+  > - **(f)** *Specific products and mixtures containing chemicals of interest* The Secretary may exclude a specific product or mixture that contains a chemical of interest at or above the minimum concentration listed on Appendix A to part 27 of title 6, Code of Federal Regulations, or any successor thereto, from any reporting requirements under this section if the Secretary determines that the product or mixture does not present a terrorism risk for which the chemical of interest contained within the product or mixture was included on Appendix A.
 
 ## § 4. Protection and sharing of information
 
-- **(a)** *In general* Section 2103(a) of the Homeland Security Act of 2002 (6 U.S.C. 623(a)) is amended—
-  - **(1)** by inserting “with respect to information in the possession of the Department, the Secretary shall protect” after “any other provision of law,”;
-  - **(2)** by striking “information,”;
-  - **(3)** by striking the comma after “records”; and
-  - **(4)** by striking “shall be given protections”.
-- **(b)** *Authorized recipients* Such section is further amended—
-  - **(1)** by striking subsections (b), (c), and (f);
-  - **(2)** by redesignating subsections (d) and (e) as subsections (c) and (d), respectively; and
-  - **(3)** by inserting after subsection (a) the following new subsection (b):
-    > - **(b)** *Authorized recipients of information*
-    >   - **(1)** *In general* Upon request, the Secretary shall make available information protected pursuant to subsection (a), to the following recipients:
-    >     - **(A)** State, local, and regional fusion centers (as that term is defined in section 210A(j)(i) of this Act) and State and local government officials, including law enforcement and emergency response providers.
-    >     - **(B)** Members of Congress.
-    >     - **(C)** Members of the Chemical Security Advisory Committee under section 2010 of this Act.
-    >     - **(D)** The Comptroller General of the United States.
-    >   - **(2)** *Nondepartmental information* Information is not protected pursuant to subsection (a) if it is—
-    >     - **(A)** not in the possession of the Department;
-    >     - **(B)** developed under this title but has been previously produced or developed for other purposes; and
-    >     - **(C)** is already publicly available, readily discoverable, or otherwise lawfully disclosed.
+Section 2103 of the Homeland Security Act of 2002 (6 U.S.C. 623) is amended—
+
+- **(1)** by striking subsections (b), (c), and (f); and
+- **(2)** by inserting after subsection (a) the following new subsections (b) and (c):
+  > - **(b)** *Authorized recipients of information* The Secretary shall make available, upon request, information protected pursuant to subsection (a) to the following recipients:
+  >   - **(1)** State and local government officials, including law enforcement and emergency response providers, with respect to information on any chemical facility of interest within the jurisdiction of the official, but only if such information may not be disclosed pursuant to any State or local law.
+  >   - **(2)** Members of Congress.
+  >   - **(3)** Members of the Chemical Security Advisory Committee under section 2010, in the course of conducting official duties and responsibilities as described in such section.
+  >   - **(4)** The Comptroller General of the United States.
+  > - **(c)** *Information developed for other purposes* Nothing in this section shall be construed to prohibit a chemical facility of interest from disclosing information that was not created solely for the purpose of meeting the requirements of this title.
 
 ## § 5. Civil enforcement
 
@@ -192,8 +187,7 @@ Section 2105 of the Homeland Security Act of 2002 (6 U.S.C. 625) is amended—
         > - **(ii)** such period is insufficient to complete the review of the action.
 
   - **(E)** in paragraph (6)—
-    - **(i)** in subparagraph (A)—
-      - **(I)** by striking “discharge an employee or otherwise discriminate against an employee with respect to the compensation provided to, or terms, conditions, or privileges of the employment of, the employee because the employee (or an individual acting pursuant to a request of the employee) submitted a report under paragraph (1).” and inserting “discharge an employee or otherwise discriminate against an employee or former employee with respect to the compensation provided to, or terms, conditions, or privileges associated with current or past employment of, the employee or former employee because the employee or former employee (or an individual acting pursuant to a request of the employee or former employee) submitted a report under paragraph (1).”;
+    - **(i)** in subparagraph (A), by striking “discharge an employee or otherwise discriminate against an employee with respect to the compensation provided to, or terms, conditions, or privileges of the employment of, the employee because the employee (or an individual acting pursuant to a request of the employee) submitted a report under paragraph (1).” and inserting “discharge an employee or otherwise discriminate against an employee or former employee with respect to the compensation provided to, or terms, conditions, or privileges associated with current or past employment of, the employee or former employee because the employee or former employee (or an individual acting pursuant to a request of the employee or former employee) submitted a report under paragraph (1).”; and
     - **(ii)** in subparagraph (B), in the matter preceding clause (i), by—
       - **(I)** inserting “or former employee” after “An employee”; and
       - **(II)** inserting “or former employee (or an individual acting pursuant to a request of the employee or former employee)” after “the employee”; and
@@ -225,7 +219,9 @@ Section 2105 of the Homeland Security Act of 2002 (6 U.S.C. 625) is amended—
   >   - **(5)** *Quorum* A majority of members of the Advisory Committee shall constitute a quorum but a lesser number may hold hearings.
   > - **(c)** *Subcommittees* The Advisory Committee may establish subcommittees to assesses and recommend improvements to the risk tiering methodology for chemical facilities, the risk-based performance standards for chemical facilities, risk reduction strategies, and other aspects of the program under this title as the Secretary determines appropriate.
   > - **(d)** *Information protection* Members of Advisory Committee shall maintain information protections pursuant to section 2103 of this Act. Any member who needs to access classified information to carry out assessments and recommendations for improving the risk tiering methodology for chemical facilities shall have an appropriate security clearance.
-  > - **(e)** *Annual report* Not later than January 30 each year, the chair shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and to the Committee on Homeland Security and the Committee on Energy and Commerce of the House of Representatives a report on the activities of the Committee during the year preceding the year during which the report is submitted.
+  > - **(e)** *Annual report*
+  >   - **(1)** *Submission to the Secretary* Not later than January 30 each year, the chair shall submit to the Secretary a report on the activities of the Committee during the year preceding the year during which the report is submitted.
+  >   - **(2)** *Submission to congress* Not later than 45 days after receiving a report from the Advisory Committee under paragraph (1), the Secretary shall provide to the Committees on Homeland Security and Energy and Commerce of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a copy of the report together with any Secretarial feedback on the report.
   > - **(f)** *Applicability of FACA* The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Committee established under this section.
 
 - **(b)** *Clerical amendment* The table of contents in section 1(b) of such Act is amended by inserting after the item relating to section 2109 the following new item:
@@ -243,7 +239,7 @@ Section 2105 of the Homeland Security Act of 2002 (6 U.S.C. 625) is amended—
 ## § 9. Study on risks posed by excluded facilities
 
 - **(a)** *Study required* The Secretary of Homeland Security shall enter into an agreement with a non-Department of Homeland Security entity for the conduct of an independent assessment of—
-  - **(1)** the implications for national security and homeland security of exempting from regulation under title XXI of the Homeland Security Act of 2002 (6 U.S.C. 621 et seq.) excluded facilities, as such term is defined in section 2101(4) of such Act;
+  - **(1)** the implications for national security and homeland security of exempting from regulation under title XXI of the Homeland Security Act of 2002 (6 U.S.C. 621 et seq.) excluded facilities, as such term is defined in section 2101(4) of such Act.;
   - **(2)** the implications for such excluded facilities of exempting such facilities from regulation; and
   - **(3)** the implications of exempting such facilities from regulation for the communities located in the same geographic areas as such facilities.
 - **(b)** *Report to Congress* Not later than 16 months after entering into an agreement under subsection (a), the Secretary of Homeland Security shall submit to the appropriate congressional committees a report that includes the findings and recommendations of the independent assessment required by subsection (a).
@@ -262,22 +258,24 @@ Section 2105 of the Homeland Security Act of 2002 (6 U.S.C. 625) is amended—
   - **(1)** the Committee on Homeland Security and Governmental Affairs of the Senate; and
   - **(2)** the Committee on Homeland Security and the Committee on Energy and Commerce of the House of Representatives.
 
-## § 11. Review of potential effects of attacks on covered chemical facilities on other critical infrastructure
+## § 11. Review of tiering methodology
 
 - **(a)** *Review required* The Director of the Cybersecurity and Infrastructure Security Agency shall—
   - **(1)** conduct a review of the risk assessment approach and corresponding tiering methodology for covered chemical facilities required pursuant to section 2102(e)(2) of the Homeland Security Act of 2002, as amended by this Act, and assess the extent to which the approach and tiering methodology takes into account—
-    - **(A)** the nature of the area surrounding the chemical facility, the presence of nearby facilities or other critical infrastructure, and other features of the community that could contribute to the consequences of a terrorist attack or exploitation of chemicals of interest; and
+    - **(A)** the nature of the area surrounding the chemical facility, the presence of nearby facilities or other critical infrastructure, and other features of the community that could contribute to the consequences of a terrorist attack or exploitation of chemicals of interest;
     - **(B)** the potential effects on the health and economic conditions of communities disproportionately vulnerable to the consequences of a terrorist attack or exploitation of chemicals of interest; and
-  - **(2)** develop a plan to ensure that when the tiering methodology is next updated, the nature of the surrounding area, the presence of nearby facilities or other critical infrastructure, and other features of the community that could contribute to the consequences of a terrorist attack or exploitation of chemicals of interest and impacts on communities disproportionately vulnerable to the consequences of a terrorist attack or exploitation of chemicals of interest are better integrated.
+    - **(C)** the vulnerabilities of chemical facilities to cybersecurity threats, including the vulnerabilities of facilities’ information technology and operational technology and the implications on the potential for penetration of both the physical security and cybersecurity of facilities; and
+  - **(2)** based on the review under paragraph (1), develop a plan to ensure that when the tiering methodology is next updated, the nature of the surrounding area, the presence of nearby facilities or other critical infrastructure, and other features of the community that could contribute to the consequences of a terrorist attack or exploitation of chemicals of interest and impacts on communities disproportionately vulnerable to the consequences of a terrorist attack or exploitation of chemicals of interest are considered.
 - **(b)** *Report to Congress*
-  - **(1)** *In general* Not later than one year after the date of the enactment of this Act, the Director shall submit to the appropriate congressional committees a report on the review and plan required under subsection (a).
-  - **(2)** *Appropriate congressional committees* In this section, the term “appropriate congressional committees” means—
+  - **(1)** *Report on review* Not later than two years after the date of the enactment of this Act, the Director shall submit to the appropriate congressional committees a report on the tiering methodology review required under subsection (a).
+  - **(2)** *Submittal of plan* Not later than one year after submitting the report under paragraph (1), the Director shall submit to the appropriate congressional committees the tiering methodology plan required under subsection (a)(2).
+  - **(3)** *Appropriate congressional committees* In this section, the term “appropriate congressional committees” means—
     - **(A)** the Committee on Homeland Security and Governmental Affairs of the Senate; and
     - **(B)** the Committee on Homeland Security and the Committee on Energy and Commerce of the House of Representatives.
 
 ## § 12. Comptroller General reports
 
-- **(a)** *Evaluation of effectiveness of risk-Based performance standards*
+- **(a)** *Evaluation of effectiveness of risk-based performance standards*
   - **(1)** *Study and report* Not later than 18 months after the date of the enactment of this Act, the Comptroller General of the United States shall conduct a study and submit to the appropriate congressional committees a report on the effectiveness of the risk-based performance standards used by the Department of Homeland Security under title XXI of the Homeland Security Act of 2002 (6 U.S.C. 621 et seq.) in protecting businesses, employees, the economy, the public, and national security against existing and evolving threats of concern.
   - **(2)** *Contents of report* The report required by paragraph (1) shall address—
     - **(A)** the sufficiency of security risk determinations and countermeasures under title XXI of the Homeland Security Act of 2002 (6 U.S.C. 621 et seq.); and
@@ -285,24 +283,45 @@ Section 2105 of the Homeland Security Act of 2002 (6 U.S.C. 625) is amended—
 - **(b)** *Evaluation of information management* Not later than one year after the date of the enactment of this Act, the Comptroller General of the United States shall conduct a study and submit to the appropriate congressional committees a report on—
   - **(1)** how the Secretary of Homeland Security documents, maintains, and uses information on tiering changes pursuant to section 2102(e)(3) of the Homeland Security Act of 2002 (6 U.S.C. 622(e)(3)); and
   - **(2)** how management, maintenance, utility, and use of the information could be improved to better identify and disseminate practices to reduce chemical security risks.
-- **(c)** *Evaluation of practices To reduce chemical security risks* Not later than 18 months after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the appropriate congressional committees a report on the effectiveness of the development and distribution by the Secretary of Homeland Security of practices to address chemical security risks and of any actions taken or results produced in response to such practices.
+- **(c)** *Evaluation of practices to reduce chemical security risks* Not later than three years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the appropriate congressional committees a report on the effectiveness of the development and distribution by the Secretary of Homeland Security of practices to address chemical security risks and of any actions taken or results produced in response to such practices.
 - **(d)** *Appropriate congressional committees* In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committee on Homeland Security and Governmental Affairs of the Senate; and
   - **(2)** the Committee on Homeland Security and the Committee on Energy and Commerce of the House of Representatives.
 
 ## § 13. Voluntary mechanism for reporting drones and other emerging threats
 
-- **(a)** *In general* Not later than 120 days after the date of the enactment of this Act, the Secretary of Homeland Security, acting through the Director of the Cybersecurity and Infrastructure Security Agency, shall establish a secure communications and information technology infrastructure or platform that allows facility owners and operators to report, on a voluntary basis, information on emerging threats, including terrorism threats posed by unmanned aircraft systems (as defined in section 331(9) of the FAA Modernization and Reform Act of 2012 (Public Law 112–95; 49 U.S.C. 40101 note)) to covered chemical facilities.
+- **(a)** *In general* Not later than 120 days after the date of the enactment of this Act, the Secretary of Homeland Security, acting through the Director of the Cybersecurity and Infrastructure Security Agency, shall provide a secure communications and information technology infrastructure or platform that allows owners and operators of covered chemical facilities to report, on a voluntary basis, information on emerging threats, including terrorism threats posed by unmanned aircraft systems (as defined in section 331(9) of the FAA Modernization and Reform Act of 2012 (Public Law 112–95; 49 U.S.C. 40101 note) to covered chemical facilities.
 - **(b)** *Platform capabilities* The Secretary shall ensure that the secure communications and information technology infrastructure or platform established pursuant to subsection (a) is designed to support data mining and other advanced analytic tools to access, receive, and analyze data and information to facilitate the reporting of the information described in subsection (a).
 
 ## § 14. Regulations regarding specific products and mixtures containing chemicals of interest
 
 Not later than one year after the date of the enactment of this Act, the Secretary of Homeland Security shall prescribe regulations to enact a process through which the Secretary can be petitioned to exclude a product or mixture under subsection (f) of section 2102 of the Homeland Security Act, as added by section 3. In collecting information from petitioners under such subsection, the Secretary shall not be subject to subchapter I of chapter 35 of title 44, United States Code, or section 553 of title 5, United States Code.
 
-## § 15. Previously approved facilities
+## § 15. Voluntary program
+
+- **(a)** *In general* The Director of Cybersecurity and Infrastructure Security of the Department of Homeland Security may develop a voluntary program for chemical facilities to address potential security risks at such facilities.
+- **(b)** *Congressional notification* Not less than 15 days prior to commencing a voluntary program pursuant to subsection (a), the Director shall provide notification to the Committee on Homeland Security and the Committee on Energy and Commerce of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
+
+## § 16. Study on local emergency response capacity to respond to chemical security incidents
+
+- **(a)** *Study required* The Secretary of Homeland Security, acting through the Under Secretary for Science and Technology, shall conduct a study on how to improve training and support for local emergency response providers in areas with high concentrations of covered chemical facilities in how to respond to a terrorist attack on a chemical facility.
+- **(b)** *Features* In carrying out the study required under subsection (a), the Secretary shall consider, as appropriate—
+  - **(1)** the degree to which jurisdictions with high concentrations of covered chemical facilities have fire, police, medical, and other response personnel trained and equipped to respond to a terrorist attack on a chemical facility and have—
+    - **(A)** evacuation and shelter in place protocols tailored to the unique needs of the jurisdiction and the chemical properties of chemicals of interest that would be involved in the attack and that take into consideration vulnerable populations, including schools, child care centers, nursing facilities, and hospitals;
+    - **(B)** community notification and warning systems; and
+    - **(C)** surge capacities of hospitals and other health care facilities in the area; and
+  - **(2)** what, if any, distinctions are there in preparedness for a terrorist attack on a chemical facility in jurisdictions that rely on volunteers to carry out fire, police, medical and other response and jurisdictions that do not rely, in whole or in part, on volunteers; and
+  - **(3)** all training, equipment, and support provided by the Department of Homeland Security to local emergency response providers in areas with a high concentration of covered chemical facilities and chemical facilities of interest.
+- **(c)** *Survey* In carrying out the study required under subsection (a), the Secretary may partner with a non-Departmental entity for the survey of a representative sample of emergency response providers in areas with a high concentration of covered chemical facilities, chemical facilities of interest, or other facilities with large quantities of chemicals.
+- **(d)** *Report* No later than two years from the date on which the Secretary commences the study required under subsection (a), the Secretary shall submit to Congress the study, accompanied by plans, as appropriate, to—
+  - **(1)** improve the Department’s counter-terrorism preparedness and response planning, training, and equipment efforts to ensure that they are better tailored and resourced to address the unique needs of local emergency response providers in areas with a high concentration of covered chemical facilities and chemical facilities of interest; and
+  - **(2)** improve coordination among Federal, State, local, tribal, and territorial government officials in emergency planning and response in areas with high concentrations of covered chemical facilities, chemical facilities of interest, or other facilities with large quantities of hazardous chemicals.
+- **(e)** *Public availability* The report required under this section shall be made publicly available, but may include a classified annex.
+
+## § 17. Previously approved facilities
 
 In the case of a chemical facility that is a covered chemical facility under title XXI of the Homeland Security Act of 2002 for which the Secretary of Homeland Security approved a site security plan under such title before the date of enactment of this Act, the Secretary shall not require the facility to resubmit the site security plan solely by reason of the enactment of this Act or the amendments made by this Act.
 
-## § 16. Termination
+## § 18. Termination
 
-Section 5 of the Protecting and Securing Chemical Facilities From Terrorist Attacks Act of 2014 (Public Law 113–254; 6 U.S.C. 621 note) is amended by striking “the date that is 4 years after the effective date of this Act” and inserting “May 1, 2025”.
+Section 5 of the Protecting and Securing Chemical Facilities From Terrorist Attacks Act of 2014 (Public Law 113–254; 6 U.S.C. 621 note) is amended by striking “the date that is 5 years and 3 months after the effective date of this Act” and inserting “May 1, 2025”.
