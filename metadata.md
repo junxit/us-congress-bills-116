@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2271
 congress: 116
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2271
@@ -92,9 +92,10 @@ Scarlett's Sunshine on Sudden Unexpected Death Act
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 - Rep. Burgess, Michael C. [R-TX-26] (B001248)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -116,3 +117,4 @@ Scarlett's Sunshine on Sudden Unexpected Death Act
 - 2020-09-21 — Placed on the Union Calendar, Calendar No. 424.
 - 2020-09-21 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-524.
 - 2020-09-21 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-524.
+- 2020-09-22 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
