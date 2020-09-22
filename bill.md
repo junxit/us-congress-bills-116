@@ -62,3 +62,7 @@ The Secretary may issue coins minted under this Act beginning on January 1, 2021
 ## § 7. Financial assurances
 
 The Secretary of the Treasury shall take such actions as may be necessary to ensure that the minting and issuing of coins under the Act will not result in any net cost to the United States Government.
+
+## § 8. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.

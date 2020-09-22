@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6192
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6192
@@ -16,7 +16,7 @@ version: Introduced in House
 
 - Rep. Barr, Andy [R-KY-6] (B001282)
 
-## Cosponsors (15)
+## Cosponsors (21)
 
 - Rep. Cleaver, Emanuel [D-MO-5] (C001061)
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
@@ -33,6 +33,12 @@ version: Introduced in House
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
 - Rep. Hill, J. French [R-AR-2] (H001072)
 - Rep. Huizenga, Bill [R-MI-2] (H001058)
+- Rep. Meeks, Gregory W. [D-NY-5] (M001137)
+- Rep. McAdams, Ben [D-UT-4] (M001209)
+- Rep. Reschenthaler, Guy [R-PA-14] (R000610)
+- Rep. Gonzalez, Anthony [R-OH-16] (G000588)
+- Rep. Raskin, Jamie [D-MD-8] (R000606)
+- Rep. Cartwright, Matt [D-PA-8] (C001090)
 
 ## Committees (1)
 
@@ -43,3 +49,16 @@ version: Introduced in House
 - 2020-03-11 — Introduced in House
 - 2020-03-11 — Introduced in House
 - 2020-03-11 — Referred to the House Committee on Financial Services.
+- 2020-09-22 — Amendment (A001) in the nature of a substitute offered by Mr. Cleaver. (consideration: CR H4711-4712; text: CR H4711-4712)
+- 2020-09-22 — Amendment agreed to by House: On agreeing to the Cleaver amendment (A001) Agreed to without objection.
+- 2020-09-22 — Committee on Financial Services discharged.
+- 2020-09-22 — Committee on Financial Services discharged.
+- 2020-09-22 — Considered by unanimous consent. (consideration: CR H4711-4712)
+- 2020-09-22 — House amendment agreed to: On agreeing to the Cleaver amendment (A001) Agreed to without objection.
+- 2020-09-22 — House amendment offered
+- 2020-09-22 — House amendment offered/reported by: Amendment (A001) in the nature of a substitute offered by Mr. Cleaver.
+- 2020-09-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-22 — Mr. Cleaver asked unanimous consent to discharge from committee and consider.
+- 2020-09-22 — On agreeing to the Cleaver amendment (A001) Agreed to without objection.
+- 2020-09-22 — On passage Passed without objection. (text of amendment in the nature of a substitute: CR H4711-4712)
+- 2020-09-22 — Passed/agreed to in House: On passage Passed without objection.
