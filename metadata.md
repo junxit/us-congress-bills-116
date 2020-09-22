@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3349
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3349
@@ -30,9 +30,10 @@ Republic of Texas Legation Memorial Act
 - Rep. Fletcher, Lizzie [D-TX-7] (F000468)
 - Rep. Allred, Colin Z. [D-TX-32] (A000376)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ Republic of Texas Legation Memorial Act
 - 2020-09-21 — Ms. Haaland moved to suspend the rules and pass the bill, as amended.
 - 2020-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4558)
 - 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-09-22 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
