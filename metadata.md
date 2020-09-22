@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3010
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3010
@@ -16,7 +16,7 @@ Honoring All Veterans Act
 
 - Rep. Rice, Kathleen M. [D-NY-4] (R000602)
 
-## Cosponsors (42)
+## Cosponsors (76)
 
 - Rep. Mast, Brian J. [R-FL-18] (M001199)
 - Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
@@ -60,6 +60,40 @@ Honoring All Veterans Act
 - Rep. Ratcliffe, John [R-TX-4] (R000601)
 - Rep. Lieu, Ted [D-CA-33] (L000582)
 - Rep. Serrano, Jose E. [D-NY-15] (S000248)
+- Rep. Correa, J. Luis [D-CA-46] (C001110)
+- Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Levin, Andy [D-MI-9] (L000592)
+- Rep. Kim, Andy [D-NJ-3] (K000394)
+- Rep. Rose, Max [D-NY-11] (R000613)
+- Rep. Aguilar, Pete [D-CA-31] (A000371)
+- Rep. Graves, Tom [R-GA-14] (G000560)
+- Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
+- Rep. McGovern, James P. [D-MA-2] (M000312)
+- Rep. Castor, Kathy [D-FL-14] (C001066)
+- Rep. Rutherford, John H. [R-FL-4] (R000609)
+- Rep. Khanna, Ro [D-CA-17] (K000389)
+- Rep. Hayes, Jahana [D-CT-5] (H001081)
+- Rep. Harder, Josh [D-CA-10] (H001090)
+- Rep. Zeldin, Lee M. [R-NY-1] (Z000017)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. Takano, Mark [D-CA-41] (T000472)
+- Rep. Katko, John [R-NY-24] (K000386)
+- Rep. Roe, David P. [R-TN-1] (R000582)
+- Rep. Jayapal, Pramila [D-WA-7] (J000298)
+- Rep. Bacon, Don [R-NE-2] (B001298)
+- Rep. Castro, Joaquin [D-TX-20] (C001091)
+- Rep. Maloney, Carolyn B. [D-NY-12] (M000087)
+- Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Hagedorn, Jim [R-MN-1] (H001088)
+- Rep. Lawson, Al, Jr. [D-FL-5] (L000586)
+- Rep. Hudson, Richard [R-NC-8] (H001067)
+- Rep. Stivers, Steve [R-OH-15] (S001187)
+- Rep. Lesko, Debbie [R-AZ-8] (L000589)
+- Rep. Marshall, Roger [R-KS-1] (M001198)
+- Rep. Olson, Pete [R-TX-22] (O000168)
+- Rep. Raskin, Jamie [D-MD-8] (R000606)
 
 ## Committees (1)
 
@@ -70,3 +104,12 @@ Honoring All Veterans Act
 - 2019-05-23 — Introduced in House
 - 2019-05-23 — Introduced in House
 - 2019-05-23 — Referred to the House Committee on Veterans' Affairs.
+- 2020-07-23 — Committee Hearings Held.
+- 2020-07-30 — Committee Consideration and Mark-up Session Held.
+- 2020-07-30 — Ordered to be Reported (Amended) by Voice Vote.
+- 2020-09-22 — Considered under suspension of the rules. (consideration: CR H4677-4678)
+- 2020-09-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3010.
+- 2020-09-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-22 — Mr. Takano moved to suspend the rules and pass the bill.
+- 2020-09-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4677)
+- 2020-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
