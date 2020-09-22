@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3465
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3465
@@ -68,9 +68,10 @@ Fallen Journalists Memorial Act
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 - Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -91,3 +92,4 @@ Fallen Journalists Memorial Act
 - 2020-09-21 — Ms. Haaland moved to suspend the rules and pass the bill, as amended.
 - 2020-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4559-4560)
 - 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-09-22 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
