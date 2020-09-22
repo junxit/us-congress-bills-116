@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6589
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6589
@@ -16,6 +16,10 @@ Department of Veterans Affairs Chief Financial Officer Authority and Collaborati
 
 - Rep. Lee, Susie [D-NV-3] (L000590)
 
+## Cosponsors (1)
+
+- Rep. Bergman, Jack [R-MI-1] (B001301)
+
 ## Committees (1)
 
 - House — Veterans' Affairs Committee
@@ -25,3 +29,11 @@ Department of Veterans Affairs Chief Financial Officer Authority and Collaborati
 - 2020-04-21 — Introduced in House
 - 2020-04-21 — Introduced in House
 - 2020-04-21 — Referred to the House Committee on Veterans' Affairs.
+- 2020-07-30 — Committee Consideration and Mark-up Session Held.
+- 2020-07-30 — Ordered to be Reported (Amended) by Voice Vote.
+- 2020-09-22 — Considered under suspension of the rules. (consideration: CR H4679-4680)
+- 2020-09-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6589.
+- 2020-09-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-22 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
+- 2020-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4679-4680)
+- 2020-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
