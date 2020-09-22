@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5322
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5322
@@ -26,10 +26,11 @@ Ensuring Diversity in Community Banking Act
 - Rep. Beatty, Joyce [D-OH-3] (B001281)
 - Rep. Khanna, Ro [D-CA-17] (K000389)
 
-## Committees (2)
+## Committees (3)
 
 - House — Financial Services Committee
 - House — Small Business Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Ensuring Diversity in Community Banking Act
 - 2020-09-21 — Mr. Sherman moved to suspend the rules and pass the bill, as amended.
 - 2020-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4597-4600)
 - 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-09-22 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
