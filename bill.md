@@ -2,7 +2,7 @@
 legis-num: H.R. 5602
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 5602
@@ -18,11 +18,11 @@ This Act may be cited as the “Domestic Terrorism Prevention Act of 2020”.
 Congress finds the following:
 
 - **(1)** Recent reports have demonstrated that White supremacists and other far-right-wing extremists are the most significant domestic terrorism threat facing the United States, including—
-  - **(A)** a February 22, 2019, New York Times op-ed, by a Trump Administration United States Department of Justice official, who wrote that “white supremacy and far-right extremism are among the greatest domestic-security threats facing the United States. Regrettably, over the past 25 years, law enforcement, at both the Federal and State levels, has been slow to respond. … Killings committed by individuals and groups associated with far-right extremist groups have risen significantly.”;
+  - **(A)** a February 22, 2019, New York Times op-ed, by a Trump Administration United States Department of Justice official, who wrote that “white supremacy and far-right extremism are among the greatest domestic-security threats facing the United States. Regrettably, over the past 25 years, law enforcement, at both the Federal and State levels, has been slow to respond. * * * Killings committed by individuals and groups associated with far-right extremist groups have risen significantly.”;
   - **(B)** an April 2017 Government Accountability Office report on the significant, lethal threat posed by domestic violent extremists, which—
     - **(i)** explained that “[s]ince September 12, 2001, the number of fatalities caused by domestic violent extremists has ranged from 1 to 49 in a given year.”; and
     - **(ii)** noted that “[F]atalities resulting from attacks by far right wing violent extremists have exceeded those caused by radical Islamist violent extremists in 10 of the 15 years, and were the same in 3 of the years since September 12, 2001. Of the 85 violent extremist incidents that resulted in death since September 12, 2001, far right wing violent extremist groups were responsible for 62 (73 percent) while radical Islamist violent extremists were responsible for 23 (27 percent).”; and
-  - **(C)** an unclassified May 2017 joint intelligence bulletin from the Federal Bureau of Investigation and the Department of Homeland Security, which found that “white supremacist extremism poses [a] persistent threat of lethal violence,” and that White supremacists “were responsible for 49 homicides in 26 attacks from 2000 to 2016 … more than any other domestic extremist movement”.
+  - **(C)** an unclassified May 2017 joint intelligence bulletin from the Federal Bureau of Investigation and the Department of Homeland Security, which found that “white supremacist extremism poses [a] persistent threat of lethal violence,” and that White supremacists “were responsible for 49 homicides in 26 attacks from 2000 to 2016 * * * more than any other domestic extremist movement”.
 - **(2)** Recent domestic terrorist attacks include—
   - **(A)** the August 5, 2012, mass shooting at a Sikh gurdwara in Oak Creek, Wisconsin, in which a White supremacist shot and killed 6 members of the gurdwara;
   - **(B)** the April 13, 2014, mass shooting at a Jewish community center and a Jewish assisted living facility in Overland Park, Kansas, in which a neo-Nazi shot and killed 3 civilians, including a 14-year-old teenager;
@@ -48,6 +48,7 @@ Congress finds the following:
 - **(7)** On November 3rd, 2019 a 24 year old man who authorities say was among masked Antifa supporters attacking conservatives at a June Demonstration in Portland, Oregon, was sentenced Friday to nearly six years in prison in connection with brutal assault. Gage Halupowski pleaded guilty to second-degree assault after authorities accused him of using a weapon against a conservative demonstrator who suffered blows to the head that the victim claims left him with a concussion and cuts that required 25 staples to close.
 - **(8)** On December 12, 2019, an assailant involved in the prolonged firefight in Jersey City, NJ, that left six people dead, including one police officer, was linked on Wednesday to the Black Hebrew Israelite movement, and had public anti-Semitic posts online, a law enforcement official said.
 - **(9)** On February 8, 2020, A gunman stormed a NYPD precinct after firing at police van, wounding 2. The police commissioner called the Bronx rampage an “assassination attempt,” on law enforcement.
+- **(10)** In August 2020, a juvenile armed with a semi-automatic rifle heeded the online call posted by a self-proclaimed militia group on Facebook to confront protestors in Kenosha, Wisconsin. He allegedly shot and killed two protestors and wounded a third. After the shootings, local police officers waved the alleged murderer through their lines, even after bystanders identified him as the shooter. The armed juvenile then traveled across State lines to his home.
 
 ## § 3. Definitions
 
@@ -73,7 +74,7 @@ In this Act—
   - **(3)** *Domestic terrorism section of the fbi* There is authorized a Domestic Terrorism Section within the Counterterrorism Division of the Federal Bureau of Investigation, which shall be responsible for investigating domestic terrorism activity.
   - **(4)** *Staffing* The Secretary, the Attorney General, and the Director shall each ensure that each office authorized under this section in their respective agencies shall—
     - **(A)** have adequate number of employees to perform the required duties;
-    - **(B)** have not less than 1 employee dedicated to ensuring compliance with civil rights and civil liberties laws and regulations; and
+    - **(B)** have not less than one employee dedicated to ensuring compliance with civil rights and civil liberties laws and regulations; and
     - **(C)** require that all employees undergo annual anti-bias training.
   - **(5)** *Sunset* The offices authorized under this subsection shall terminate on the date that is 10 years after the date of enactment of this Act.
 - **(b)** *Joint report on domestic terrorism*

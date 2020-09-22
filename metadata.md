@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5602
 congress: 116
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5602
@@ -198,11 +198,12 @@ Domestic Terrorism Prevention Act of 2020
 - Rep. Napolitano, Grace F. [D-CA-32] (N000179)
 - Rep. Eshoo, Anna G. [D-CA-18] (E000215)
 
-## Committees (3)
+## Committees (4)
 
 - House — Armed Services Committee
 - House — Homeland Security Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -229,3 +230,4 @@ Domestic Terrorism Prevention Act of 2020
 - 2020-09-21 — Placed on the Union Calendar, Calendar No. 426.
 - 2020-09-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-526, Part I.
 - 2020-09-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-526, Part I.
+- 2020-09-22 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
