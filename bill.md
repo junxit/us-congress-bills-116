@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3798
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -20,4 +20,4 @@ Section 1722A(a)(2) of title 38, United States Code, is amended—
 - **(1)** by striking “to pay” and all that follows through the period and inserting “to pay—”; and
 - **(2)** by adding at the end the following new subparagraphs:
   > - **(A)** an amount in excess of the cost to the Secretary for medication described in paragraph (1); or
-  > - **(B)** an amount for any contraceptive item or service for which coverage under health insurance coverage is required without the imposition of any cost-sharing requirement pursuant to section 2713(a)(4) of the Public Health Service Act (42 USC 300gg–13(a)(4)).
+  > - **(B)** an amount for any contraceptive item for which coverage under health insurance coverage is required without the imposition of any cost-sharing requirement pursuant to section 2713(a)(4) of the Public Health Service Act (42 USC 300gg–13(a)(4)).
