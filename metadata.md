@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5918
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5918
@@ -23,9 +23,10 @@ To direct the Federal Communications Commission to issue reports after activatio
 - Rep. Huffman, Jared [D-CA-2] (H001068)
 - Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ To direct the Federal Communications Commission to issue reports after activatio
 - 2020-09-21 — Mr. McNerney moved to suspend the rules and pass the bill, as amended.
 - 2020-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4611-4612)
 - 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-09-22 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
