@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1418
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1418
@@ -88,3 +88,14 @@ Competitive Health Insurance Reform Act of 2020
 - 2020-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4571-4572)
 - 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2020-09-22 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2020-12-22 — Message on Senate action sent to the House.
+- 2020-12-22 — Passed Senate without amendment by Unanimous Consent.
+- 2020-12-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-12-22 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2020-12-22 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S7929)
+- 2021-01-01 — Presented to President.
+- 2021-01-01 — Presented to President.
+- 2021-01-13 — Became Public Law No: 116-327.
+- 2021-01-13 — Became Public Law No: 116-327.
+- 2021-01-13 — Signed by President.
+- 2021-01-13 — Signed by President.
