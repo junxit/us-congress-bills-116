@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5619
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5619
@@ -24,9 +24,10 @@ Suicide Prevention Act
 - Rep. Trone, David J. [D-MD-6] (T000483)
 - Rep. Delgado, Antonio [D-NY-19] (D000630)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Suicide Prevention Act
 - 2020-09-21 — Mrs. Dingell moved to suspend the rules and pass the bill, as amended.
 - 2020-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4633-4634)
 - 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-09-22 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
