@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6100
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6100
@@ -21,9 +21,10 @@ Strengthening the Opposition to Female Genital Mutilation Act of 2020
 - Rep. Bacon, Don [R-NE-2] (B001298)
 - Rep. Garcia, Sylvia R. [D-TX-29] (G000587)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Strengthening the Opposition to Female Genital Mutilation Act of 2020
 - 2020-09-21 — Ms. Jackson Lee moved to suspend the rules and pass the bill, as amended.
 - 2020-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4589-4590)
 - 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-09-22 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
