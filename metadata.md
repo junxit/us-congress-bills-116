@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1702
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1702
@@ -30,9 +30,10 @@ Free Veterans from Fees Act
 - Rep. Reschenthaler, Guy [R-PA-14] (R000610)
 - Rep. Cox, TJ [D-CA-21] (C001124)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -54,3 +55,4 @@ Free Veterans from Fees Act
 - 2020-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4567)
 - 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2020-09-21 — The title of the measure was amended. Agreed to without objection.
+- 2020-09-22 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
