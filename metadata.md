@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5567
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5567
@@ -21,9 +21,10 @@ Measuring the Economics Driving Investments and Access for Diversity Act of 2020
 - Rep. Veasey, Marc A. [D-TX-33] (V000131)
 - Rep. Flores, Bill [R-TX-17] (F000461)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Measuring the Economics Driving Investments and Access for Diversity Act of 2020
 - 2020-09-21 — Mr. McNerney moved to suspend the rules and pass the bill.
 - 2020-09-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4613)
 - 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-09-22 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
