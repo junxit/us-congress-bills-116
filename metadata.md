@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4957
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4957
@@ -30,9 +30,10 @@ Native American Child Protection Act
 - Resident Commissioner González-Colón, Jenniffer [R-PR-At Large] (G000582)
 - Rep. Haaland, Debra A. [D-NM-1] (H001080)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ Native American Child Protection Act
 - 2020-09-21 — Ms. Haaland moved to suspend the rules and pass the bill, as amended.
 - 2020-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4560-4561)
 - 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-09-22 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
