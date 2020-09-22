@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6100
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6100
@@ -43,3 +43,14 @@ Strengthening the Opposition to Female Genital Mutilation Act of 2020
 - 2020-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4589-4590)
 - 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2020-09-22 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2020-12-15 — Passed Senate without amendment by Unanimous Consent.
+- 2020-12-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-12-15 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S7509)
+- 2020-12-15 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S7509)
+- 2020-12-16 — Message on Senate action sent to the House.
+- 2020-12-24 — Presented to President.
+- 2020-12-24 — Presented to President.
+- 2021-01-05 — Became Public Law No: 116-309.
+- 2021-01-05 — Became Public Law No: 116-309.
+- 2021-01-05 — Signed by President.
+- 2021-01-05 — Signed by President.
