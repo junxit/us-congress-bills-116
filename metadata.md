@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4995
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4995
@@ -50,9 +50,10 @@ Maternal Health Quality Improvement Act of 2020
 - Rep. Napolitano, Grace F. [D-CA-32] (N000179)
 - Rep. Levin, Andy [D-MI-9] (L000592)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -74,3 +75,4 @@ Maternal Health Quality Improvement Act of 2020
 - 2020-09-21 — Mrs. Dingell moved to suspend the rules and pass the bill, as amended.
 - 2020-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4623-4625)
 - 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-09-22 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
