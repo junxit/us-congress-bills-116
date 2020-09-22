@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5698
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5698
@@ -27,9 +27,10 @@ Promoting Secure 5G Act of 2020
 - Rep. Budd, Ted [R-NC-13] (B001305)
 - Rep. Bacon, Don [R-NE-2] (B001298)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Promoting Secure 5G Act of 2020
 - 2020-09-21 — Mr. Sherman moved to suspend the rules and pass the bill.
 - 2020-09-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4606)
 - 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-09-22 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
