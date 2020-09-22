@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5664
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 1 executed, 3 stated and not applied.
+7 amendatory instructions. 1 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -43,5 +43,8 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | Section 115(h) of the Justice for Victims of Trafficking Act of 2015 (Public Law 114–22; 129 Stat. 243) is amended by striking “September 30, 2021” and inserting “September 30, 2025”. | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (1), by striking “and” after the semicolon at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking the period at end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | `22 U.S.C. § 7104` | add-at-end | Section 106 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7104) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7102` | add-at-end | Section 103 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102) is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
