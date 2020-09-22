@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5546
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5546
@@ -43,9 +43,10 @@ Effective Assistance of Counsel in the Digital Era Act
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -65,3 +66,4 @@ Effective Assistance of Counsel in the Digital Era Act
 - 2020-09-21 — Ms. Scanlon moved to suspend the rules and pass the bill.
 - 2020-09-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4577)
 - 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-09-22 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
