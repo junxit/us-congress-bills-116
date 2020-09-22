@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5663
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5663
@@ -21,9 +21,10 @@ Safeguarding Therapeutics Act
 - Rep. Engel, Eliot L. [D-NY-16] (E000179)
 - Rep. Balderson, Troy [R-OH-12] (B001306)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Safeguarding Therapeutics Act
 - 2020-09-21 — Mrs. Dingell moved to suspend the rules and pass the bill, as amended.
 - 2020-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4635)
 - 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-09-22 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
