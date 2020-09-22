@@ -2,7 +2,7 @@
 legis-num: H.R. 5309
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 5309
@@ -74,3 +74,7 @@ This Act may be cited as the “Creating a Respectful and Open World for Natural
 ## § 8. Rule of construction
 
 Nothing in this Act shall be construed to limit definitions of race or national origin under the Civil Rights Act of 1964 (42 U.S.C. 2000a et seq.), the Fair Housing Act (42 U.S.C. 3601 et seq.), or section 1977 of the Revised Statutes (42 U.S.C. 1981).
+
+## § 9. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.

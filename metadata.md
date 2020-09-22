@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5309
 congress: 116
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5309
@@ -82,10 +82,11 @@ CROWN Act of 2020
 - Rep. Nadler, Jerrold [D-NY-10] (N000002)
 - Rep. Garcia, Sylvia R. [D-TX-29] (G000587)
 
-## Committees (2)
+## Committees (3)
 
 - House — Education and the Workforce Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -107,3 +108,4 @@ CROWN Act of 2020
 - 2020-09-21 — Placed on the Union Calendar, Calendar No. 425.
 - 2020-09-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-525, Part I.
 - 2020-09-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-525, Part I.
+- 2020-09-22 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
