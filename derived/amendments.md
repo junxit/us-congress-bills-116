@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6210
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `15 U.S.C. § 78m` | add-at-end | Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 78m` | repeal | On the date that is 30 days after the date on which the President submits to the appropriate congressional committees the determination described in section 6(f), section 13(s) of the Securities Exchange Act of 1934, as added by subsecti… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78m` | repeal | Section 13(s) of the Securities Exchange Act of 1934, as added by subsection (b), is repealed on the earlier of— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
