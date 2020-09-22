@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4864
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 2 executed, 2 stated and not applied.
+3 amendatory instructions. 1 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,21 +26,12 @@ to guess them.
 
 ### 22 U.S.C. § 2152f
 
-> in section 135(f)(1) (22 U.S.C. 2152f(f)(1)), by striking “2006 and 2007” and inserting “2020 through 2025”; and
-
-| | |
-|---|---|
-| Removed | `2006 and 2007` |
-| Inserted | `2020 through 2025` |
-
-### 22 U.S.C. § 2152f
-
-> in subparagraph (B), by striking “the various offices, bureaus, and field missions within the United States Agency for International Development” and inserting “the relevant Executive branch agencies and officials, partner governments, multilateral institutions, the private sector, and nongovernmental and civil society organizations”.
+> in subparagraph (B), by striking “the various offices, bureaus, and field missions within the United States Agency for International Development” and inserting “the relevant Executive branch agencies and officials”.
 
 | | |
 |---|---|
 | Removed | `the various offices, bureaus, and field missions within the United States Agency for International Development` |
-| Inserted | `the relevant Executive branch agencies and officials, partner governments, multilateral institutions, the private sector, and nongovernmental and civil society organizations` |
+| Inserted | `the relevant Executive branch agencies and officials` |
 
 ## Stated, not applied
 
@@ -51,5 +42,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `22 U.S.C. § 2152h` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2151` | add-at-end | Chapter 1 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2152f` | amend | by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
