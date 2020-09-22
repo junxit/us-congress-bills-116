@@ -27,9 +27,16 @@ It is the sense of Congress that—
 
 Section 110(b)(1) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7107(b)(1)) is amended by striking “June 1” and inserting “June 30”.
 
-## § 4. Extension of advisory council on human trafficking
+## § 4. United States Advisory Council on Human Trafficking
 
-Section 115(h) of the Justice for Victims of Trafficking Act of 2015 (Public Law 114–22; 129 Stat. 243) is amended by striking “September 30, 2021” and inserting “September 30, 2025”.
+- **(a)** *Extension* Section 115(h) of the Justice for Victims of Trafficking Act of 2015 (Public Law 114–22; 129 Stat. 243) is amended by striking “September 30, 2021” and inserting “September 30, 2025”.
+- **(b)** *Compensation* Section 115(f) of the Justice for Victims of Trafficking Act of 2015 (Public Law 114–22; 129 Stat. 243) is amended—
+  - **(1)** in paragraph (1), by striking “and” after the semicolon at the end;
+  - **(2)** in paragraph (2), by striking the period at end and inserting “; and”; and
+  - **(3)** by adding at the end the following new paragraph:
+    > - **(3)** may each receive compensation for each day such member is engaged in the actual performance of the duties of the Council.
+
+- **(c)** *Compensation report* Not later than 120 days after the date of the enactment of this Act, the Secretary of State shall provide to the relevant congressional committees a plan to implement compensation for members of the United States Advisory Council on Human Trafficking pursuant to paragraph (3) of section 115(f) of the Justice for Victims of Trafficking Act of 2015 (Public Law 114–22; 129 Stat. 243), as added by subsection (b).
 
 ## § 5. Timely provision of information to the Office to Monitor and Combat Trafficking in Persons of the Department of State
 
