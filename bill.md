@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4908
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -25,3 +25,4 @@ This Act may be cited as the “Native American Veteran Parity in Access to Care
     >   - **(2)** is an Indian or urban Indian, as those terms are defined in section 4 of the Indian Health Care Improvement Act (Public Law 94–437; 25 U.S.C. 1603).
 
 - **(b)** *Technical amendment* The table of sections at the beginning of chapter 17 of such title is amended by striking the item relating to section 1730A and inserting the following:
+- **(c)** *Delayed effective date* The amendments made by this section shall take effect on the day that is one year after the date of the enactment of this Act.
