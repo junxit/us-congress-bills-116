@@ -1,7 +1,7 @@
 ---
 measure: H.R. 139
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 139
@@ -62,3 +62,4 @@ Springfield Race Riot Study Act
 - 2020-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4566)
 - 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2020-09-21 — The title of the measure was amended. Agreed to without objection.
+- 2020-09-22 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 550.
