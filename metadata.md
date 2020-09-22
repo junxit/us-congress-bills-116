@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6294
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6294
@@ -24,9 +24,10 @@ Improving Emergency Disease Response via Housing Act of 2020
 - Rep. Huizenga, Bill [R-MI-2] (H001058)
 - Rep. Rose, John W. [R-TN-6] (R000612)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Improving Emergency Disease Response via Housing Act of 2020
 - 2020-09-21 — Mr. Sherman moved to suspend the rules and pass the bill, as amended.
 - 2020-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4607-4608)
 - 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-09-22 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
