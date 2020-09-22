@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5053
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5053
@@ -39,9 +39,10 @@ Justice for Juveniles Act
 - Rep. Mucarsel-Powell, Debbie [D-FL-26] (M001207)
 - Rep. Garcia, Sylvia R. [D-TX-29] (G000587)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -61,3 +62,4 @@ Justice for Juveniles Act
 - 2020-09-21 — Ms. Scanlon moved to suspend the rules and pass the bill.
 - 2020-09-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4570)
 - 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-09-22 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
