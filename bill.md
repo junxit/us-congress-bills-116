@@ -57,9 +57,8 @@ Congress makes the following findings:
     - **(B)** receive direct oversight from the Deputy Undersecretary for Health of the Department of Veterans Affairs;
     - **(C)** include a yearly program implementation evaluation to facilitate replication for other disease states or in other healthcare institutions;
     - **(D)** be metric driven and include the development of quarterly reports on the quality of prostate cancer care, which shall be provided to the leadership of the Department, medical centers, and providers and made publicly available in an electronic form;
-    - **(E)** made available as national decision support tools in the electronic medical record;
-    - **(F)** include an education plan for patients and providers; and
-    - **(G)** be funded appropriately to accomplish the objectives of this Act.
+    - **(E)** made available as national decision support tools in the electronic medical record; and
+    - **(F)** include an education plan for patients and providers.
   - **(3)** *Program implementation evaluation* The Secretary shall establish a program evaluation tool as an integral component to learn best practices of multidisciplinary disease-based implementation and to inform the Department and Congress regarding further use of the disease specific model of care delivery.
   - **(4)** *Prostate cancer research* The Secretary shall submit to Congress a plan that provides for continual funding through the Office of Research and Development of the Department of Veterans Affairs for supporting prostate cancer research designed to position the Department as a national resource for quality reporting metrics, practice-based evidence, comparative effectiveness, precision oncology, and clinical trials in prostate cancer.
   - **(5)** *Prostate cancer real time registry program* The Secretary, in collaboration with data stewards of the Department of Veterans Affairs, scientists, and the heads of other Departments, agencies, and non-governmental organizations, such as foundations and non-profit organizations focused on prostate cancer research and care, shall establish a real-time, actionable, national prostate cancer registry. Such registry shall be designed—
