@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2468
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 280g` | amend | in paragraph (1), by amending subparagraph (F) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280g` | redesignate | by redesignating clauses (i), (ii), and (iii) as subclauses (I), (II), and (III), respectively, and moving each of such subclauses (as so redesignated) 2 ems to the right; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280g` | replace | by striking “epinephrine.—In determining” and inserting | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 280g` | replace | by striking “in the State—” and inserting | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 280g` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 280g` | insert | in the matter preceding clause (i), by inserting “, such as the school nurse” after “individual”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 280g` | insert | in clause (i), by inserting “school nurse or” before “principal”. | the bill quotes the text inserted but describes where it goes |
