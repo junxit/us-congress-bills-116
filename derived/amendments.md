@@ -1,7 +1,7 @@
 ---
 measure: H.R. 991
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 4 executed, 0 stated and not applied.
+7 amendatory instructions. 7 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -59,3 +59,30 @@ to guess them.
 |---|---|
 | Removed | `September 30, 2020` |
 | Inserted | `September 30, 2030` |
+
+### 19 U.S.C. § 58c
+
+> in subparagraph (A), by striking “September 30, 2029” and inserting “October 21, 2029”; and
+
+| | |
+|---|---|
+| Removed | `September 30, 2029` |
+| Inserted | `October 21, 2029` |
+
+### 19 U.S.C. § 58c
+
+> in subparagraph (B)(i), by striking “September 30, 2029” and inserting “October 21, 2029”.
+
+| | |
+|---|---|
+| Removed | `September 30, 2029` |
+| Inserted | `October 21, 2029` |
+
+### 19 U.S.C. § 3805
+
+> Section 503 of the United States–Korea Free Trade Agreement Implementation Act (Public Law 112–41; 19 U.S.C. 3805 note) is amended by striking “September 30, 2029” and inserting “October 21, 2029”.
+
+| | |
+|---|---|
+| Removed | `September 30, 2029` |
+| Inserted | `October 21, 2029` |
