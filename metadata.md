@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3935
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3935
@@ -30,9 +30,10 @@ Protecting Patients Transportation to Care Act
 - Rep. Griffith, H. Morgan [R-VA-9] (G000568)
 - Rep. Soto, Darren [D-FL-9] (S001200)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -54,3 +55,4 @@ Protecting Patients Transportation to Care Act
 - 2020-09-21 — Mrs. Dingell moved to suspend the rules and pass the bill, as amended.
 - 2020-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4626-4627)
 - 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-09-22 — Received in the Senate and Read twice and referred to the Committee on Finance.
