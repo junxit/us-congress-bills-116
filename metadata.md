@@ -1,7 +1,7 @@
 ---
 measure: H.R. 895
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 895
@@ -64,3 +64,4 @@ Tribal School Federal Insurance Parity Act
 - 2020-09-21 — Ms. Haaland moved to suspend the rules and pass the bill.
 - 2020-09-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4568)
 - 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-09-22 — Received in the Senate.
