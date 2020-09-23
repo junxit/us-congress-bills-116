@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3010
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3010
@@ -95,9 +95,10 @@ Honoring All Veterans Act
 - Rep. Olson, Pete [R-TX-22] (O000168)
 - Rep. Raskin, Jamie [D-MD-8] (R000606)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -113,3 +114,4 @@ Honoring All Veterans Act
 - 2020-09-22 — Mr. Takano moved to suspend the rules and pass the bill.
 - 2020-09-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4677)
 - 2020-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-09-23 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
