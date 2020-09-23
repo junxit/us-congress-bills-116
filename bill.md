@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 451
 
-> To repeal the section of the Middle Class Tax Relief and Job Creation Act of 2012 that requires the Federal Communications Commission to reallocate and auction the T-Band spectrum.
+> To repeal the requirement to reallocate and auction the T-Band spectrum, to amend the Wireless Communications and Public Safety Act of 1999 to clarify acceptable 9–1–1 obligations or expenditures, and for other purposes.
 
 ## § 1. Short title
 
@@ -82,3 +82,7 @@ In this Act:
 - **(3)** *Commission* The term “Commission” means the Federal Communications Commission.
 - **(4)** *Diversion* The term “diversion” means, with respect to a 9–1–1 fee or charge, the obligation or expenditure of such fee or charge for a purpose or function other than the purposes and functions designated in the final rules issued under paragraph (3) of section 6(f) of the Wireless Communications and Public Safety Act of 1999, as added by this Act, as purposes and functions for which the obligation or expenditure of such a fee or charge is acceptable.
 - **(5)** *State or taxing jurisdiction* The term “State or taxing jurisdiction” has the meaning given such term in subparagraph (D) of paragraph (3) of section 6(f) of the Wireless Communications and Public Safety Act of 1999, as added by this Act.
+
+## § 7. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
