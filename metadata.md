@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3798
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3798
@@ -70,3 +70,9 @@ Equal Access to Contraception for Veterans Act
 - 2020-09-22 — Placed on the Union Calendar, Calendar No. 429.
 - 2020-09-22 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 116-529.
 - 2020-09-22 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 116-529.
+- 2020-09-23 — Considered under suspension of the rules. (consideration: CR H4770-4772)
+- 2020-09-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3798.
+- 2020-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-23 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
+- 2020-09-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4770)
+- 2020-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
