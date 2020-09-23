@@ -2,7 +2,7 @@
 legis-num: H. RES. 1129
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1129
@@ -25,7 +25,7 @@ All points of order against the further amendments printed in part B of the repo
 
 ## § 5.
 
-Upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 6270) to amend the Securities Exchange Act of 1934 to require issuers to make certain disclosures relating to the Xinjiang Uyghur Autonomous Region, and for other purposes. All points of order against consideration of the bill are waived. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 116-64 shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Financial Services; and (2) one motion to recommit with or without instructions.
+Upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 6270) to amend the Securities Exchange Act of 1934 to require issuers to make certain disclosures relating to the Xinjiang Uyghur Autonomous Region, and for other purposes. All points of order against consideration of the bill are waived. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 116–64 shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Financial Services; and (2) one motion to recommit with or without instructions.
 
 ## § 6.
 
