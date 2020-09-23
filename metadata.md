@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7795
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7795
@@ -27,9 +27,10 @@ Veterans Benefits Fairness and Transparency Act of 2020
 - Rep. Phillips, Dean [D-MN-3] (P000616)
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Veterans Benefits Fairness and Transparency Act of 2020
 - 2020-09-22 — Mr. Takano moved to suspend the rules and pass the bill.
 - 2020-09-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4685)
 - 2020-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-09-23 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
