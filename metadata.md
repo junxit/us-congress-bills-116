@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6192
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6192
@@ -40,9 +40,10 @@ version: Engrossed in House
 - Rep. Raskin, Jamie [D-MD-8] (R000606)
 - Rep. Cartwright, Matt [D-PA-8] (C001090)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -62,3 +63,4 @@ version: Engrossed in House
 - 2020-09-22 — On agreeing to the Cleaver amendment (A001) Agreed to without objection.
 - 2020-09-22 — On passage Passed without objection. (text of amendment in the nature of a substitute: CR H4711-4712)
 - 2020-09-22 — Passed/agreed to in House: On passage Passed without objection.
+- 2020-09-23 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
