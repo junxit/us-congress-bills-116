@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4908
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4908
@@ -30,9 +30,10 @@ Native American PACT Act
 - Rep. Cisneros, Gilbert Ray, Jr. [D-CA-39] (C001123)
 - Rep. Luria, Elaine G. [D-VA-2] (L000591)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ Native American PACT Act
 - 2020-09-22 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
 - 2020-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4678)
 - 2020-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-09-23 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
