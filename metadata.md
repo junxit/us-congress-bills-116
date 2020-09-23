@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3228
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3228
@@ -51,3 +51,4 @@ VA Mission Telehealth Clarification Act
 - 2020-09-22 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
 - 2020-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4680-4681)
 - 2020-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-09-23 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 553.
