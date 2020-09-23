@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8337
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 8337
@@ -38,3 +38,4 @@ Continuing Appropriations Act, 2021 and Other Extensions Act
 - 2020-09-22 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2020-09-22 — Referred to the Committee on Appropriations, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2020-09-22 — Referred to the Committee on Appropriations, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2020-09-23 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 552.
