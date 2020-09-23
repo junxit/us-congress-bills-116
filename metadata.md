@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6589
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6589
@@ -20,9 +20,10 @@ Department of Veterans Affairs Chief Financial Officer Authority and Collaborati
 
 - Rep. Bergman, Jack [R-MI-1] (B001301)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Department of Veterans Affairs Chief Financial Officer Authority and Collaborati
 - 2020-09-22 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
 - 2020-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4679-4680)
 - 2020-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-09-23 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
