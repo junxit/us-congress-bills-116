@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8337
 congress: 116
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 8337
@@ -15,6 +15,12 @@ Continuing Appropriations Act, 2021 and Other Extensions Act
 ## Sponsor
 
 - Rep. Lowey, Nita M. [D-NY-17] (L000480)
+
+## Cosponsors (3)
+
+- Sen. Loeffler, Kelly [R-GA] (L000594)
+- Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
 
 ## Committees (2)
 
@@ -35,3 +41,39 @@ Continuing Appropriations Act, 2021 and Other Extensions Act
 - 2020-09-22 — Referred to the Committee on Appropriations, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2020-09-22 — Referred to the Committee on Appropriations, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2020-09-23 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 552.
+- 2020-09-24 — Amendment SA 2663 proposed by Senator McConnell. (consideration: CR S5854; text: CR S5854) To improve the bill.
+- 2020-09-24 — Amendment SA 2664 proposed by Senator McConnell to Amendment SA 2663. (consideration: CR S5854; text: CR S5854) To improve the bill.
+- 2020-09-24 — Cloture motion on the measure presented in Senate. (CR S5855)
+- 2020-09-24 — Measure laid before Senate by motion. (consideration: CR S5854-5855)
+- 2020-09-24 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 93 - 2. Record Vote Number: 195.
+- 2020-09-24 — Motion to proceed to consideration of measure made in Senate. (CR S5850)
+- 2020-09-24 — Senate amendment proposed (on the floor): Amendment SA 2663 proposed by Senator McConnell.
+- 2020-09-24 — Senate amendment proposed (on the floor): Amendment SA 2664 proposed by Senator McConnell to Amendment SA 2663.
+- 2020-09-24 — Senate amendment submitted
+- 2020-09-24 — Senate amendment submitted
+- 2020-09-24 — Senate amendment submitted
+- 2020-09-24 — Senate amendment submitted
+- 2020-09-24 — Senate amendment submitted
+- 2020-09-24 — Senate amendment submitted
+- 2020-09-24 — Senate amendment submitted
+- 2020-09-24 — Senate amendment submitted
+- 2020-09-24 — Senate amendment submitted
+- 2020-09-29 — Cloture on the measure invoked in Senate by Yea-Nay Vote. 82 - 6. Record Vote Number: 196. (CR S5891)
+- 2020-09-29 — Considered by Senate. (consideration: CR S5889)
+- 2020-09-29 — Considered by Senate. (consideration: CR S5889)
+- 2020-09-29 — Considered by Senate. (consideration: CR S5889; S5891)
+- 2020-09-29 — Senate amendment submitted
+- 2020-09-30 — Considered by Senate. (consideration: CR S5902)
+- 2020-09-30 — Considered by Senate. (consideration: CR S5902)
+- 2020-09-30 — Considered by Senate. (consideration: CR S5902; S5921-5923)
+- 2020-09-30 — Message on Senate action sent to the House.
+- 2020-09-30 — Motion to table amendment SA 2663 agreed to in Senate by Voice Vote.
+- 2020-09-30 — Passed Senate without amendment by Yea-Nay Vote. 84 - 10. Record Vote Number: 197.
+- 2020-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 84 - 10. Record Vote Number: 197.
+- 2020-09-30 — Presented to President.
+- 2020-09-30 — Presented to President.
+- 2020-09-30 — SA 2664 fell when SA 2663 was tabled.
+- 2020-10-01 — Became Public Law No: 116-159.
+- 2020-10-01 — Became Public Law No: 116-159.
+- 2020-10-01 — Signed by President.
+- 2020-10-01 — Signed by President.
