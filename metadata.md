@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4864
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4864
@@ -88,9 +88,10 @@ Global Child Thrive Act of 2020
 - Rep. Dean, Madeleine [D-PA-4] (D000631)
 - Rep. Crow, Jason [D-CO-6] (C001121)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -105,3 +106,4 @@ Global Child Thrive Act of 2020
 - 2020-09-22 — Mr. Castro (TX) moved to suspend the rules and pass the bill, as amended.
 - 2020-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4671-4673)
 - 2020-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-09-23 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
