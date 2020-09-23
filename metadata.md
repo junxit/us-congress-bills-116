@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1923
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1923
@@ -187,9 +187,10 @@ Circulating Collectible Coin Redesign Act of 2020
 - Rep. Luria, Elaine G. [D-VA-2] (L000591)
 - Rep. Moulton, Seth [D-MA-6] (M001196)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -210,3 +211,4 @@ Circulating Collectible Coin Redesign Act of 2020
 - 2020-09-22 — On passage Passed without objection. (text of amendment in the nature of a substitute: CR H4707-4708)
 - 2020-09-22 — Passed/agreed to in House: On passage Passed without objection.
 - 2020-09-22 — The title of the measure was amended. Agreed to without objection.
+- 2020-09-23 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
