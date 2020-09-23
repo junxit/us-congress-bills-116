@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4104
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4104
@@ -342,3 +342,4 @@ Negro Leagues Baseball Centennial Commemorative Coin Act
 - 2020-09-22 — On agreeing to the Cleaver amendment (A001) Agreed to without objection.
 - 2020-09-22 — On passage Passed without objection. (text of amendment in the nature of a substitute: CR H4710)
 - 2020-09-22 — Passed/agreed to in House: On passage Passed without objection.
+- 2020-09-23 — Received in the Senate, read twice.
