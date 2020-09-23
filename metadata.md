@@ -1,7 +1,7 @@
 ---
 measure: H.R. 991
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 991
@@ -63,3 +63,14 @@ Extension of the Caribbean Basin Economic Recovery Act
 - 2020-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4654)
 - 2020-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2020-09-23 — Received in the Senate and Read twice and referred to the Committee on Finance.
+- 2020-09-30 — Passed Senate without amendment by Unanimous Consent.
+- 2020-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-09-30 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2020-09-30 — Senate Committee on Finance discharged by Unanimous Consent. (consideration: CR S6001)
+- 2020-10-01 — Message on Senate action sent to the House.
+- 2020-10-09 — Presented to President.
+- 2020-10-09 — Presented to President.
+- 2020-10-10 — Became Public Law No: 116-164.
+- 2020-10-10 — Became Public Law No: 116-164.
+- 2020-10-10 — Signed by President.
+- 2020-10-10 — Signed by President.
