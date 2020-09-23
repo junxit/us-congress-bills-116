@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6192
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6192
@@ -64,3 +64,14 @@ version: Referred in Senate
 - 2020-09-22 — On passage Passed without objection. (text of amendment in the nature of a substitute: CR H4711-4712)
 - 2020-09-22 — Passed/agreed to in House: On passage Passed without objection.
 - 2020-09-23 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2020-12-17 — Passed Senate without amendment by Unanimous Consent.
+- 2020-12-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-12-17 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2020-12-17 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S7643)
+- 2020-12-18 — Message on Senate action sent to the House.
+- 2020-12-24 — Presented to President.
+- 2020-12-24 — Presented to President.
+- 2021-01-05 — Became Public Law No: 116-286.
+- 2021-01-05 — Became Public Law No: 116-286.
+- 2021-01-05 — Signed by President.
+- 2021-01-05 — Signed by President.
