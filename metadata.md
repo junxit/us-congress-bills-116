@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6092
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6092
@@ -22,9 +22,10 @@ Veteran's Prostate Cancer Treatment and Research Act
 - Rep. Murphy, Gregory [R-NC-3] (M001210)
 - Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Veteran's Prostate Cancer Treatment and Research Act
 - 2020-09-22 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
 - 2020-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4684-4685)
 - 2020-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-09-23 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
