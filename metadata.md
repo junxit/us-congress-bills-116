@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6210
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6210
@@ -106,12 +106,13 @@ Uyghur Forced Labor Prevention Act
 - Rep. Price, David E. [D-NC-4] (P000523)
 - Rep. Doggett, Lloyd [D-TX-35] (D000399)
 
-## Committees (4)
+## Committees (5)
 
 - House — Ways and Means Committee
 - House — Financial Services Committee
 - House — Judiciary Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -130,3 +131,4 @@ Uyghur Forced Labor Prevention Act
 - 2020-09-22 — Mr. Castro (TX) moved to suspend the rules and pass the bill, as amended.
 - 2020-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 3 (Roll no. 196). (text: CR H4657-4660)
 - 2020-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 3 (Roll no. 196).
+- 2020-09-23 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
