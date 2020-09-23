@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5664
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5664
@@ -30,10 +30,11 @@ LIFT Act
 - Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ LIFT Act
 - 2020-09-22 — Mr. Castro (TX) moved to suspend the rules and pass the bill, as amended.
 - 2020-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 197). (text: CR H4674-4675)
 - 2020-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 197).
+- 2020-09-23 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
