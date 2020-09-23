@@ -1,7 +1,7 @@
 ---
 measure: H.R. 451
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 451
@@ -61,3 +61,12 @@ Don't Break Up the T-Band Act of 2020
 - 2020-09-18 — Placed on the Union Calendar, Calendar No. 421.
 - 2020-09-18 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-521.
 - 2020-09-18 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-521.
+- 2020-09-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2020-09-21 — Considered under suspension of the rules. (consideration: CR H4614-4616)
+- 2020-09-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 451.
+- 2020-09-21 — Mr. McNerney moved to suspend the rules and pass the bill, as amended.
+- 2020-09-23 — Considered as unfinished business. (consideration: CR H4773-4774)
+- 2020-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 5 (Roll no. 201). (text: CR 9/21/2020 H4614-4615)
+- 2020-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 5 (Roll no. 201).
+- 2020-09-23 — The title of the measure was amended. Agreed to without objection.
