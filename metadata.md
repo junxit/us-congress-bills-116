@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2166
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2166
@@ -101,11 +101,12 @@ Global Health Security Act of 2020
 - Rep. Brownley, Julia [D-CA-26] (B001285)
 - Rep. Lieu, Ted [D-CA-33] (L000582)
 
-## Committees (3)
+## Committees (4)
 
 - House — Foreign Affairs Committee
 - House — Armed Services Committee
 - House — Intelligence (Permanent Select) Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -123,3 +124,4 @@ Global Health Security Act of 2020
 - 2020-09-22 — Mr. Castro (TX) moved to suspend the rules and pass the bill, as amended.
 - 2020-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4667-4668)
 - 2020-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-09-23 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
