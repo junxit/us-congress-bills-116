@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8276
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 8276
@@ -38,3 +38,12 @@ To authorize the President to posthumously award the Medal of Honor to Alwyn C. 
 - 2020-09-22 — On passage Passed without objection. (text: CR H4705)
 - 2020-09-22 — Passed/agreed to in House: On passage Passed without objection.
 - 2020-09-23 — Received in the Senate, read twice.
+- 2020-11-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6654-6655)
+- 2020-11-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-11-12 — Message on Senate action sent to the House.
+- 2020-11-24 — Presented to President.
+- 2020-11-24 — Presented to President.
+- 2020-12-04 — Became Public Law No: 116-210.
+- 2020-12-04 — Became Public Law No: 116-210.
+- 2020-12-04 — Signed by President.
+- 2020-12-04 — Signed by President.
