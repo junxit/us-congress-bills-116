@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4104
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4104
@@ -343,3 +343,12 @@ Negro Leagues Baseball Centennial Commemorative Coin Act
 - 2020-09-22 — On passage Passed without objection. (text of amendment in the nature of a substitute: CR H4710)
 - 2020-09-22 — Passed/agreed to in House: On passage Passed without objection.
 - 2020-09-23 — Received in the Senate, read twice.
+- 2020-11-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6693)
+- 2020-11-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6693)
+- 2020-11-17 — Message on Senate action sent to the House.
+- 2020-11-24 — Presented to President.
+- 2020-11-24 — Presented to President.
+- 2020-12-04 — Became Public Law No: 116-209.
+- 2020-12-04 — Became Public Law No: 116-209.
+- 2020-12-04 — Signed by President.
+- 2020-12-04 — Signed by President.
