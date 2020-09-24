@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5126
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5126
@@ -16,10 +16,14 @@ DESCEND Act of 2020
 
 - Rep. Graves, Garret [R-LA-6] (G000577)
 
-## Cosponsors (2)
+## Cosponsors (6)
 
 - Rep. Huffman, Jared [D-CA-2] (H001068)
 - Rep. Palazzo, Steven M. [R-MS-4] (P000601)
+- Rep. Cunningham, Joe [D-SC-1] (C001122)
+- Rep. Rooney, Francis [R-FL-19] (R000607)
+- Rep. Veasey, Marc A. [D-TX-33] (V000131)
+- Rep. Webster, Daniel [R-FL-11] (W000806)
 
 ## Committees (1)
 
@@ -30,3 +34,11 @@ DESCEND Act of 2020
 - 2019-11-15 — Introduced in House
 - 2019-11-15 — Introduced in House
 - 2019-11-15 — Referred to the House Committee on Natural Resources.
+- 2019-12-04 — Referred to the Subcommittee on Water, Oceans, and Wildlife.
+- 2020-01-14 — Subcommittee Hearings Held.
+- 2020-03-11 — Committee Consideration and Mark-up Session Held.
+- 2020-03-11 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2020-03-11 — Subcommittee on Water, Oceans, and Wildlife Discharged.
+- 2020-09-24 — Placed on the Union Calendar, Calendar No. 431.
+- 2020-09-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-531.
+- 2020-09-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-531.

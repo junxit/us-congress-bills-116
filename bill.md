@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5126
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,9 +11,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Direct Enhancement of Snapper Conservation and the Economy through Novel Devices Act of 2019” or the “DESCEND Act of 2019”.
+This Act may be cited as the “Direct Enhancement of Snapper Conservation and the Economy through Novel Devices Act of 2020” or the “DESCEND Act of 2020”.
 
-## § 2. Required use of descending devices
+## § 2. Sense of Congress
+
+It is the sense of Congress that commercial and recreational fishermen (which, for the purpose of this Act shall include charter fishing) for Gulf reef fish are expected to use a venting tool or a descending device required for possession under section 3 when releasing fish that are exhibiting signs of barotrauma. The Secretary of Commerce (referred to in this Act as the “Secretary”), in coordination with the Gulf of Mexico Fishery Management Council, should develop and disseminate to fishermen education and outreach materials related to proper use of venting tools and descending devices, and strongly encourage their use by commercial and recreational fishermen when releasing fish that are exhibiting signs of barotrauma.
+
+## § 3. Required possession of descending devices
 
 - **(a)** *Required gear in the Gulf reef fish fishery* Title III of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1851 et seq.) is amended by adding at the end the following:
   > ## § 321. Required possession of descending devices
@@ -33,18 +37,20 @@ This Act may be cited as the “Direct Enhancement of Snapper Conservation and t
 
 - **(b)** *Civil penalties* Section 308(a) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1858(a)) is amended by inserting “or section 321” after “section 307”.
 - **(c)** *Effective date* The amendments made by this Act shall take effect 1 year after the date of enactment of this Act.
-- **(d)** *Sunset* Five years after the date of enactment of this Act, the Magnuson-Stevens Fishery Conservation and Management Act is amended—
-  - **(1)** in section 308(a), by striking “or section 321”; and
-  - **(2)** by striking title 321.
+- **(d)** *Conforming amendment* Title III of the table of contents of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1851 et seq.) is amended by striking the item relating to section 305 and all that follows through the end of the items relating to such title and inserting the following:
+- **(e)** *Sunset* Five years after the date of enactment of this Act, the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1851 et seq.) is amended—
+  - **(1)** in the table of contents, by striking the item relating to section 321;
+  - **(2)** in section 308(a), by striking “or section 321”; and
+  - **(3)** by striking section 321.
 
-## § 3. Improving discard mortality data
+## § 4. Improving discard mortality data
 
 - **(a)** *Agreement* Within 60 days of the date of enactment of this Act, the Secretary shall enter into an agreement with the National Academy of Sciences to conduct a study and produce a report on discard mortality in the Gulf of Mexico reef fish fisheries. Such study shall include—
   - **(1)** assessment of gaps and biases in reporting of discards and associated discard mortality;
   - **(2)** assessment of uncertainty and likely impacts of such uncertainty in discard mortality;
   - **(3)** assessment of the effectiveness and usage rates of barotrauma-reducing devices;
   - **(4)** recommendations for future research priorities; and
-  - **(5)** recommendations for standardized reporting and quantification of discards for fisheries under the Gulf of Mexico Reef Fish Fishery Management Plan.
+  - **(5)** recommendations for standardized reporting and quantification of discards in the same metric as landings for fisheries under the Gulf of Mexico Reef Fish Fishery Management Plan.
 - **(b)** *Deadline* The National Academy of Sciences shall complete the study described in subsection (a) and transmit the final report to the Secretary within 2 years of the date of enactment of this Act. The Secretary shall, within 3 months of receiving such study and report, submit such study and report in (a) to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives.
 - **(c)** *Plan* Within 1 year of receiving the study and report in described in subsection (a), the Gulf of Mexico Fishery Management Council and the Secretary shall—
   - **(1)** develop guidance for minimum standards for quantifying and reporting discards and associated mortality in the Gulf of Mexico Reef Fish Fishery Management Plan; and
