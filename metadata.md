@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8247
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 8247
@@ -35,3 +35,4 @@ Veterans COMPACT Act of 2020
 - 2020-09-23 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
 - 2020-09-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4763-4767)
 - 2020-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4763-4767)
+- 2020-09-24 — Received in the Senate, read twice.
