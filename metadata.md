@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7105
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7105
@@ -29,10 +29,11 @@ Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvem
 - Rep. Brownley, Julia [D-CA-26] (B001285)
 - Rep. Luria, Elaine G. [D-VA-2] (L000591)
 
-## Committees (2)
+## Committees (3)
 
 - House — Veterans' Affairs Committee
 - House — Budget Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvem
 - 2020-09-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4754-4760)
 - 2020-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2020-09-23 — The title of the measure was amended. Agreed to without objection.
+- 2020-09-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
