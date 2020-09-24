@@ -1,0 +1,15 @@
+---
+legis-num: S. 4684
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4684
+
+> To designate the facility of the United States Postal Service located at 440 Arapahoe Street in Thermopolis, Wyoming, as the “Robert L. Brown Post Office”.
+
+## § 1. Robert L. Brown Post Office
+
+- **(a)** *Designation* The facility of the United States Postal Service located at 440 Arapahoe Street in Thermopolis, Wyoming, shall be known and designated as the “Robert L. Brown Post Office”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Robert L. Brown Post Office”.
