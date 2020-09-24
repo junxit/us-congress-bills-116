@@ -2,7 +2,7 @@
 legis-num: S. 914
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # S. 914

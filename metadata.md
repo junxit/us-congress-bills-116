@@ -1,7 +1,7 @@
 ---
 measure: S. 914
 congress: 116
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 914
@@ -21,9 +21,12 @@ Coordinated Ocean Observations and Research Act of 2020
 - Sen. Cantwell, Maria [D-WA] (C000127)
 - Sen. Sullivan, Dan [R-AK] (S001198)
 
-## Committees (1)
+## Committees (4)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Financial Services Committee
+- House — Science, Space, and Technology Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -41,3 +44,9 @@ Coordinated Ocean Observations and Research Act of 2020
 - 2020-07-30 — Senate amendment agreed to: Amendment SA 2501 agreed to in Senate by Unanimous Consent.
 - 2020-07-30 — Senate amendment proposed (on the floor): Amendment SA 2501 proposed by Senator Sullivan for Senator Wicker.
 - 2020-07-30 — Senate amendment submitted
+- 2020-08-04 — Message on Senate action sent to the House.
+- 2020-08-07 — Held at the desk.
+- 2020-08-07 — Received in the House.
+- 2020-09-24 — Referred to the Committee on Natural Resources, and in addition to the Committees on Science, Space, and Technology, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2020-09-24 — Referred to the Committee on Natural Resources, and in addition to the Committees on Science, Space, and Technology, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2020-09-24 — Referred to the Committee on Natural Resources, and in addition to the Committees on Science, Space, and Technology, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
