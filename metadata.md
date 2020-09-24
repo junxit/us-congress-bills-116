@@ -1,7 +1,7 @@
 ---
 measure: H.R. 451
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 451
@@ -43,9 +43,10 @@ Don't Break Up the T-Band Act of 2020
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 - Rep. Neguse, Joe [D-CO-2] (N000191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -74,3 +75,4 @@ Don't Break Up the T-Band Act of 2020
 - 2020-09-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 5 (Roll no. 201). (text: CR 9/21/2020 H4614-4615)
 - 2020-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 5 (Roll no. 201).
 - 2020-09-23 — The title of the measure was amended. Agreed to without objection.
+- 2020-09-24 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
