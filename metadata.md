@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5245
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5245
@@ -42,3 +42,4 @@ SHIELD for Veterans Act
 - 2020-09-23 — Mr. Takano moved to suspend the rules and pass the bill, as amended.
 - 2020-09-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4752-4753)
 - 2020-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-09-24 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 555.
