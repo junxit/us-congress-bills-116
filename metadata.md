@@ -1,7 +1,7 @@
 ---
 measure: S. 2912
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2912
@@ -28,3 +28,8 @@ Blackwater Trading Post Land Transfer Act
 
 - 2019-11-20 — Introduced in Senate
 - 2019-11-20 — Read twice and referred to the Committee on Indian Affairs.
+- 2020-06-24 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 116-338.
+- 2020-07-29 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2020-09-24 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-270.
+- 2020-09-24 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-270.
+- 2020-09-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 557.
