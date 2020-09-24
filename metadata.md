@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8134
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8134
@@ -29,3 +29,8 @@ Consumer Product Safety Inspection Enhancement Act
 - 2020-08-28 — Introduced in House
 - 2020-08-28 — Introduced in House
 - 2020-08-28 — Referred to the House Committee on Energy and Commerce.
+- 2020-09-09 — Committee Consideration and Mark-up Session Held.
+- 2020-09-09 — Ordered to be Reported by Voice Vote.
+- 2020-09-24 — Placed on the Union Calendar, Calendar No. 437.
+- 2020-09-24 — Reported by the Committee on Energy and Commerce. H. Rept. 116-537.
+- 2020-09-24 — Reported by the Committee on Energy and Commerce. H. Rept. 116-537.
