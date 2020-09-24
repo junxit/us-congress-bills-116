@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1925
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1925
@@ -62,3 +62,4 @@ To designate the Manhattan Campus of the New York Harbor Health Care System of t
 - 2020-09-23 — Mr. Takano asked unanimous consent to discharge from committee and consider.
 - 2020-09-23 — On passage Passed without objection. (text: CR H4732-4733)
 - 2020-09-23 — Passed/agreed to in House: On passage Passed without objection.
+- 2020-09-24 — Received in the Senate, read twice.
