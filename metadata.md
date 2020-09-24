@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4983
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4983
@@ -46,3 +46,14 @@ To designate the Department of Veterans Affairs community-based outpatient clini
 - 2020-09-23 — On passage Passed without objection. (text: CR H4734)
 - 2020-09-23 — Passed/agreed to in House: On passage Passed without objection.
 - 2020-09-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2020-12-10 — Passed Senate without amendment by Unanimous Consent.
+- 2020-12-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-12-10 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S7431)
+- 2020-12-10 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S7431)
+- 2020-12-11 — Message on Senate action sent to the House.
+- 2020-12-24 — Presented to President.
+- 2020-12-24 — Presented to President.
+- 2021-01-05 — Became Public Law No: 116-295.
+- 2021-01-05 — Became Public Law No: 116-295.
+- 2021-01-05 — Signed by President.
+- 2021-01-05 — Signed by President.
