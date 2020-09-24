@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7347
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7347
@@ -32,9 +32,10 @@ To designate the medical center of the Department of Veterans Affairs in Ann Arb
 - Rep. Lawrence, Brenda L. [D-MI-14] (L000581)
 - Rep. Upton, Fred [R-MI-6] (U000031)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ To designate the medical center of the Department of Veterans Affairs in Ann Arb
 - 2020-09-23 — Mr. Takano asked unanimous consent to discharge from committee and consider.
 - 2020-09-23 — On passage Passed without objection. (text: CR H4733)
 - 2020-09-23 — Passed/agreed to in House: On passage Passed without objection.
+- 2020-09-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
