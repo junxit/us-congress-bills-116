@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5023
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5023
@@ -52,3 +52,12 @@ To name the Department of Veterans Affairs community-based outpatient clinic in 
 - 2020-09-23 — On passage Passed without objection. (text: CR H4732)
 - 2020-09-23 — Passed/agreed to in House: On passage Passed without objection.
 - 2020-09-24 — Received in the Senate, read twice.
+- 2020-12-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7828)
+- 2020-12-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-12-20 — Message on Senate action sent to the House.
+- 2020-12-24 — Presented to President.
+- 2020-12-24 — Presented to President.
+- 2021-01-05 — Became Public Law No: 116-297.
+- 2021-01-05 — Became Public Law No: 116-297.
+- 2021-01-05 — Signed by President.
+- 2021-01-05 — Signed by President.
