@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8247
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 8247
@@ -36,3 +36,12 @@ Veterans COMPACT Act of 2020
 - 2020-09-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4763-4767)
 - 2020-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4763-4767)
 - 2020-09-24 — Received in the Senate, read twice.
+- 2020-11-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6655)
+- 2020-11-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6655)
+- 2020-11-12 — Message on Senate action sent to the House.
+- 2020-11-24 — Presented to President.
+- 2020-11-24 — Presented to President.
+- 2020-12-05 — Became Public Law No: 116-214.
+- 2020-12-05 — Became Public Law No: 116-214.
+- 2020-12-05 — Signed by President.
+- 2020-12-05 — Signed by President.
