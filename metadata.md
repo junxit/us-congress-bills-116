@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5023
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5023
@@ -51,3 +51,4 @@ To name the Department of Veterans Affairs community-based outpatient clinic in 
 - 2020-09-23 — Mr. Takano asked unanimous consent to discharge from committee and consider.
 - 2020-09-23 — On passage Passed without objection. (text: CR H4732)
 - 2020-09-23 — Passed/agreed to in House: On passage Passed without objection.
+- 2020-09-24 — Received in the Senate, read twice.
