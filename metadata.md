@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4983
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4983
@@ -27,9 +27,10 @@ To designate the Department of Veterans Affairs community-based outpatient clini
 - Rep. O'Halleran, Tom [D-AZ-1] (O000171)
 - Rep. Schweikert, David [R-AZ-6] (S001183)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ To designate the Department of Veterans Affairs community-based outpatient clini
 - 2020-09-23 — Mr. Takano asked unanimous consent to discharge from committee and consider.
 - 2020-09-23 — On passage Passed without objection. (text: CR H4734)
 - 2020-09-23 — Passed/agreed to in House: On passage Passed without objection.
+- 2020-09-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
