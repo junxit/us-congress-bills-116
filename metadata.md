@@ -1,0 +1,26 @@
+---
+measure: S. 4729
+congress: 116
+version: Introduced in Senate
+---
+
+# S. 4729
+
+A bill to extend the Generalized System of Preferences, and for other purposes.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Sen. Grassley, Chuck [R-IA] (G000386)
+
+## Committees (1)
+
+- Senate — Finance Committee
+
+## Actions
+
+- 2020-09-24 — Introduced in Senate
+- 2020-09-24 — Read twice and referred to the Committee on Finance.
