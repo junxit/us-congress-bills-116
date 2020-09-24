@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8124
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8124
@@ -29,3 +29,8 @@ Criminal Judicial Administration Act of 2020
 - 2020-08-28 — Introduced in House
 - 2020-08-28 — Introduced in House
 - 2020-08-28 — Referred to the House Committee on the Judiciary.
+- 2020-09-09 — Committee Consideration and Mark-up Session Held.
+- 2020-09-09 — Ordered to be Reported.
+- 2020-09-24 — Placed on the Union Calendar, Calendar No. 434.
+- 2020-09-24 — Reported by the Committee on Judiciary. H. Rept. 116-534.
+- 2020-09-24 — Reported by the Committee on Judiciary. H. Rept. 116-534.
