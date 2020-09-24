@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 8367
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8367
+
+> To provide for a one-year extension of the Public-Private Partnership Advisory Council to End Human Trafficking, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Human Trafficking Council Extension Act of 2020”.
+
+## § 2. Extension of Public-Private Partnership Advisory Council to End Human Trafficking
+
+Section 705 of the Public-Private Partnership Advisory Council to End Human Trafficking Act (enacted as title VII of the Trafficking Victims Protection Act of 2017 (Public Law 115–393)) is amended by striking “September 30, 2020” and inserting “September 30, 2021”.
