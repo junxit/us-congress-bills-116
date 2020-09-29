@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7948
 congress: 116
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
