@@ -19,14 +19,14 @@ Section 17 of the Consumer Product Safety Act (15 U.S.C. 2066) is amended by add
 
 > - **(i)** *Enhanced risk assessment methodology*
 >   - **(1)** *In general* Not later than 18 months after the date of enactment of the Consumer Product Safety Inspection Enhancement Act, the Commission shall enhance targeting, surveillance, and screening of consumer products entering the United States at ports of entry, including ports of entry for de minimis shipments, by—
->     - **(B)** working in consultation with Customs and Border Protection to—
+>     - **(A)** working in consultation with Customs and Border Protection to—
 >       - **(i)** access and leverage all available data, including manifest data, to enhance targeting of violative consumer products, including de minimis shipments containing violative consumer products;
 >       - **(ii)** access and leverage intellectual property rights seizure data to target products that may have both intellectual property rights infringements and consumer product safety violations;
 >       - **(iii)** prioritize shipments coming from the People’s Republic of China; and
 >       - **(iv)** use the Participating Government Agencies Message Set, or any successor program, and additional consumer product specific data elements, including certificates of compliance and any other data that the Commission needs, to help risk assess and target violative consumer products; and
->     - **(C)** building and improving information technology systems to support electronic access to and connection with the data and targeting systems associated with express consignment carrier facilities, international mail facilities, electronic commerce platforms, and other applicable system participants.
->   - **(2)** *Electronic filing of certificates of compliance* Beginning not later than 2 years after the date of enactment of the Port Surveillance Modernization Act, certificates of compliance shall be filed electronically for consumer products intended for entry into the United States to enhance risk assessment and target de minimis shipments containing violative consumer products.
->   - **(3)** *Definitions* As used in this susbection—
+>     - **(B)** building and improving information technology systems to support electronic access to and connection with the data and targeting systems associated with express consignment carrier facilities, international mail facilities, electronic commerce platforms, and other applicable system participants.
+>   - **(2)** *Electronic filing of certificates of compliance* Beginning not later than 2 years after the date of enactment of the Consumer Product Safety Inspection Enhancement Act, certificates of compliance shall be filed electronically for consumer products intended for entry into the United States to enhance risk assessment and target de minimis shipments containing violative consumer products.
+>   - **(3)** *Definitions* As used in this subsection—
 >     - **(A)** the term de minimis shipments means articles containing consumer products entering the United States under the de minimis value exemption in 19 U.S.C. 1321(a)(2)(C);
 >     - **(B)** the term express consignment carrier facility means a separate or shared specialized facility approved by the port director solely for the examination and release of express consignment shipments;
 >     - **(C)** the term ports of entry for de minimis shipments means environments where de minimis shipments are processed, including express consignment carrier facilities, international mail facilities, and air cargo facilities;
