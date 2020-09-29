@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8161
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8161
@@ -29,3 +29,7 @@ The One Stop Shop Community Reentry Program Act of 2020
 - 2020-09-04 — Introduced in House
 - 2020-09-04 — Introduced in House
 - 2020-09-04 — Referred to the House Committee on the Judiciary.
+- 2020-09-15 — Committee Consideration and Mark-up Session Held.
+- 2020-09-29 — Placed on the Union Calendar, Calendar No. 455.
+- 2020-09-29 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-555.
+- 2020-09-29 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-555.

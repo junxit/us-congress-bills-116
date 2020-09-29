@@ -23,11 +23,11 @@ This Act may be cited as the “The One Stop Shop Community Reentry Program Act 
       - **(i)** the needs of individuals returning to the community after conviction or incarceration, and the barriers such individuals face; and
       - **(ii)** the needs of the families and communities to which such individuals are returning; and
     - **(C)** use the information gathered pursuant to subparagraph (B) to determine the reentry services to be provided by the community reentry center;
-  - **(2)** identify the correctional institutions from which individuals who are released from incarceration are likely to reenter the community served by the community reentry center, and a plan, if any, to provide transportation for such released individuals to the community reentry center, the individual’s residence, or to a location where the individual is ordered by a court to report;
+  - **(2)** identify the correctional institutions from which individuals who are released from incarceration are likely to reenter the community served by the community reentry center, and develop a plan, if feasible, to provide transportation for such released individuals to the community reentry center, to the individual’s residence, or to a location where the individual is ordered by a court to report;
   - **(3)** demonstrate a plan to provide accessible notice of the location of the reentry intake and coordination center and the services that it will provide (either directly or on a referral basis), including, where feasible, within and outside of correctional institutions identified under paragraph (1);
   - **(4)** demonstrate a plan to provide intake and reentry needs assessment that is trauma-informed and gender-responsive after an individual is released from a correctional institution, or, in the case of an individual who is convicted of an offense and not sentenced to a term of imprisonment, after such conviction, and where feasible, before release, to ensure that the individuals served by the center are referred to appropriate reentry services based on the individual’s needs immediately upon release from a correctional institution or after conviction, and continuously thereafter as needed;
   - **(5)** demonstrate a plan to provide the reentry services identified in paragraph (1)(C);
-  - **(6)** demonstrate a plan to continue to provide services (including through referral) for individuals served by the center who move to a different geographic area to ensure appropriate case management, case planning, and access to continuous or new services where necessary and based on consistent reevaluation of needs; and
+  - **(6)** demonstrate a plan to continue to provide services (including through referral) for individuals served by the center who move to a different geographic area to ensure appropriate case management, case planning, and access to continuous or new services, where necessary, and based on consistent reevaluation of needs; and
   - **(7)** identify specific methods that the community reentry center will employ to achieve performance objectives among the individuals served by the center, including—
     - **(A)** increased access to and participation in reentry services;
     - **(B)** reduction in recidivism rates;
@@ -35,7 +35,7 @@ This Act may be cited as the “The One Stop Shop Community Reentry Program Act 
     - **(D)** increased enrollment in and degrees earned from educational programs, including high school, GED, and institutions of higher education;
     - **(E)** increased numbers of individuals obtaining and maintaining housing; and
     - **(F)** increased self-reports of successful community living, including stability of living situation and positive family relationships.
-- **(c)** *Preference* The Attorney General shall give preference to applicants that demonstrate that they seek to employ individuals who have been convicted of an offense, or served a term of imprisonment or that, to the extent allowable by law, employ such formerly incarcerated individuals in positions of responsibility.
+- **(c)** *Preference* The Attorney General shall give preference to applicants that demonstrate that they seek to employ individuals who have been convicted of an offense, or served a term of imprisonment and have completed any court-ordered supervision, or that, to the extent allowable by law, employ such formerly incarcerated individuals in positions of responsibility.
 - **(d)** *Evaluation and report*
   - **(1)** *Evaluation* The Attorney General shall enter into a contract with a nonprofit organization with expertise in analyzing data related to reentry services and recidivism to monitor and evaluate each recipient of a grant and each community reentry center receiving funds under this section on an ongoing basis.
   - **(2)** *Administrative burden* The nonprofit organization described in paragraph (1) shall provide administrative support to assist recipients of grants authorized by this Act to comply with the conditions associated with the receipt of funding from the Department of Justice.
@@ -45,24 +45,24 @@ This Act may be cited as the “The One Stop Shop Community Reentry Program Act 
     - **(C)** the number of persons who have participated in reentry services offered by a community reentry center, disaggregated by type of services, and success rates of participants in each service to the extent possible;
     - **(D)** the number of persons who have participated in reentry services for which they received a referral from a community reentry center, disaggregated by type of services, and success rates of participants in each service;
     - **(E)** recidivism rates within the population served by each community reentry center, both before and after receiving a grant under this section;
-    - **(F)** the number of individuals obtaining and retaining employment within the population served by each community reentry center, both before and after receiving a grant under this section; and
+    - **(F)** the numbers of individuals obtaining and retaining employment within the population served by each community reentry center, both before and after receiving a grant under this section; and
     - **(G)** the number of individuals obtaining and maintaining housing within the population served by each community reentry center, both before and after receiving a grant under this section.
 - **(e)** *Definitions* In this section:
   - **(1)** The term eligible entity means a community-based nonprofit organization that—
     - **(A)** has expertise in the provision of reentry services; and
-    - **(B)** is located in a geographic area that has disproportionately high numbers of residents who—
+    - **(B)** is located in a geographic area that has disproportionately high numbers of residents, when compared to the local community, who—
       - **(i)** have been arrested;
       - **(ii)** have been convicted of a criminal offense; and
       - **(iii)** return to such geographic area after incarceration.
   - **(2)** The term community reentry center means a center that—
     - **(A)** offers intake, reentry needs assessments, case management, and case planning for reentry services for individuals returning to the community after conviction or incarceration;
     - **(B)** provides the reentry services identified under subsection (b)(1)(C) at a single location; and
-    - **(C)** provides referrals to appropriate service providers based on the assessment of needs of the individual.
+    - **(C)** provides referrals to appropriate service providers based on the assessment of needs of the individuals.
   - **(3)** The term reentry services means comprehensive and holistic services that improve outcomes for individuals returning to the community after conviction or incarceration, and may include—
-    - **(A)** seeking and maintaining employment, including through assistance with drafting resumes, establishing emails accounts, locating job solicitations, submission of job applications, and preparation for interviews;
+    - **(A)** seeking and maintaining employment, including through assistance with drafting resumes, establishing emails accounts, locating job solicitations, submitting of job applications, and preparing for interviews;
     - **(B)** placement in job placement programs that partner with private employers;
     - **(C)** obtaining free and low-cost job skills classes, including computer skills, technical skills, vocational skills, and any other job-related skills;
-    - **(D)** locating and maintaining housing, which may include counseling on public housing opportunities, assistance with applications for public housing benefits, and locating and securing temporary or long-term shelter;
+    - **(D)** locating and maintaining housing, which may include counseling on public housing opportunities, assisting with applications for public housing benefits, locating and securing temporary or long-term shelter, and applying for home energy and utility assistance programs;
     - **(E)** obtaining identification cards and driver’s licenses;
     - **(F)** registering to vote, and applying for voting rights to be restored, where permitted by law;
     - **(G)** applying for or accessing GED courses;
@@ -74,12 +74,13 @@ This Act may be cited as the “The One Stop Shop Community Reentry Program Act 
     - **(M)** familial counseling;
     - **(N)** problem-solving, in coordination with counsel where necessary, any difficulties in compliance with court-ordered supervision requirements, including restrictions on living with certain family members, contact with certain friends, bond requirements, location and residency restrictions, electronic monitoring compliance, court-ordered substance abuse, and other court-ordered requirements;
     - **(O)** communication needs, including providing a mobile phone, mobile phone service or access, or internet access;
-    - **(P)** applying for State or Federal government benefits, where eligible;
-    - **(R)** life skills assistance;
-    - **(S)** mentorship;
-    - **(T)** medical and mental health services, and cognitive-behavioral programming;
-    - **(U)** substance abuse treatment; and
-    - **(V)** reactivation, application for, and maintaining professional or other licenses.
+    - **(P)** applying for State or Federal government benefits, where eligible, and assisting in locating free or reduced cost food and sustenance benefits;
+    - **(Q)** life skills assistance;
+    - **(R)** mentorship;
+    - **(S)** medical and mental health services, and cognitive-behavioral programming;
+    - **(T)** substance abuse treatment;
+    - **(U)** reactivation, application for, and maintenance of professional or other licenses; and
+    - **(V)** providing case management services, in connection with court-orders terms of release, or other local publicly supported social work case management.
   - **(4)** The term community leader means an individual who serves the community in a leadership role, including—
     - **(A)** a school official;
     - **(B)** a faith leader;
@@ -88,8 +89,9 @@ This Act may be cited as the “The One Stop Shop Community Reentry Program Act 
     - **(E)** a public safety representative;
     - **(F)** an employee of an organization that provides reentry services;
     - **(G)** a member of a civic or volunteer group related to the provision of reentry services;
-    - **(H)** a health care professional; and
+    - **(H)** a health care professional; or
     - **(I)** an employee of a State, local, or tribal government agency with expertise in the provision of reentry services.
+  - **(5)** The term success rate means the rate of recidivism (as measured by a subsequent conviction or return to prison), job placement, permanent housing placement, or completion of certification, trade, or other education program.
 - **(f)** *Authorization of appropriations*
   - **(1)** *In general* There is authorized to be appropriated $10,000,000 for each of fiscal years 2021 through 2025 to carry out this section.
   - **(2)** *Equitable distribution* The Attorney General shall ensure that grants awarded under this section are equitably distributed among the geographical regions and between urban and rural populations, including Indian Tribes, consistent with the objective of reducing recidivism.
@@ -110,5 +112,5 @@ This Act may be cited as the “The One Stop Shop Community Reentry Program Act 
     - **(B)** individuals with disabilities;
   - **(5)** the hotline has the capability to engage with individuals using text messages.
 - **(c)** *Best practices* The Attorney General shall issue guidance to grant recipients on best practices for implementing the requirements of subsection (b).
-- **(d)** *Preference* The Attorney General shall give preference to applicants that demonstrate that they seek to employ individuals to operate the hotline who have been convicted of an offense, or served a term of imprisonment.
+- **(d)** *Preference* The Attorney General shall give preference to applicants that demonstrate that they seek to employ individuals to operate the hotline who have been convicted of an offense, or have served a term of imprisonment and have completed any court-ordered supervision.
 - **(e)** *Authorization of appropriations* There is authorized to be appropriated $1,500,000 for each of fiscal years 2021 through 2025 to carry out this section.
