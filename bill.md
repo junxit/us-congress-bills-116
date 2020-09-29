@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 360
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,11 +11,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Cyber Sense Act of 2019”.
+This Act may be cited as the “Cyber Sense Act of 2020”.
 
 ## § 2. Cyber Sense
 
-- **(a)** *In general* The Secretary of Energy shall establish a voluntary Cyber Sense program to test the cybersecurity of products and technologies intended for use in the bulk-power system, as defined in section 215(a) of the Federal Power Act (16 U.S.C. 824o(a)).
+- **(a)** *In general* The Secretary of Energy, in coordination with relevant Federal agencies, shall establish a voluntary Cyber Sense program to test the cybersecurity of products and technologies intended for use in the bulk-power system, as defined in section 215(a) of the Federal Power Act (16 U.S.C. 824o(a)).
 - **(b)** *Program requirements* In carrying out subsection (a), the Secretary of Energy shall—
   - **(1)** establish a testing process under the Cyber Sense program to test the cybersecurity of products and technologies intended for use in the bulk-power system, including products relating to industrial control systems and operational technologies, such as supervisory control and data acquisition systems;
   - **(2)** for products and technologies tested under the Cyber Sense program, establish and maintain cybersecurity vulnerability reporting processes and a related database;
