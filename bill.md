@@ -11,37 +11,21 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Helping Medicaid Offer Maternity Services Act of 2019” or the “Helping MOMS Act of 2019”.
+This Act may be cited as the “Helping Medicaid Offer Maternity Services Act of 2020” or the “Helping MOMS Act of 2020”.
 
-## § 2. State option under Medicaid program to provide for and extend continuous coverage for certain individuals
+## § 2. Modifications to certain coverage under Medicaid and CHIP for pregnant and postpartum women
 
-- **(a)** *State option To extend continuous coverage for pregnant and postpartum individuals* Title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) is amended—
-  - **(1)** in section 1902(e)(5), by inserting after “60-day period” the following: “or, at the option of the State, 1-year period”;
-  - **(2)** in section 1902(e)(6), by inserting after “60-day period” the following: “or, at the option of the State, 1-year period”;
-  - **(3)** in section 1902(l)(1)(A), by inserting after “60-day period” the following: “, or, at the option of the State, 1-year period,”;
-  - **(4)** in section 1903(v)(4)(A)(i), by inserting after “60-day period” the following: “, or, at the option of the State, 1-year period,”; and
-  - **(5)** in section 1905(a), in the fourth sentence in the matter following paragraph (30), by inserting after “60-day period” the following: “, or, at the option of the State, 1-year period,”.
-- **(b)** *State option To provide continuous coverage for full benefits for individuals who are or become pregnant* Section 1902(e)(6) of the Social Security Act (42 U.S.C. 1396a(e)(6)), as amended by subsection (a), is further amended—
-  - **(1)** by striking “(6) In the case of a pregnant woman” and inserting
-    > - **(6)**
-    >   - **(A)** In the case of a pregnant woman
+- **(a)** *State option* Section 1902(e) of the Social Security Act (42 U.S.C. 1396a(e)) is amended by adding at the end the following new paragraph:
+  > - **(16)** *Extending certain coverage for pregnant and postpartum women* At the option of the State, the State plan (or waiver of such State plan) may provide that an individual who, while pregnant, is eligible for and has received medical assistance under the State plan approved under this title (or waiver of such plan) (including during a period of retroactive eligibility under subsection (a)(34)) shall, in addition to remaining eligible under paragraph (5) for all pregnancy-related and postpartum medical assistance available under the State plan (or wavier) through the last day of the month in which the 60-day period (beginning on the last day of her pregnancy) ends, remain eligible under the State plan (or waiver) for medical assistance and such medical assistance shall include all services covered under the State plan (or waiver) that is not less in amount, duration, or scope, or is determined by the Secretary to be substantially equivalent, to the medical assistance available for an individual described in subsection (a)(10)(A)(i) for the period beginning on the first day occurring after the end of such 60-day period and ending on the last day of the month in which the one-year period (beginning on the last day of her pregnancy) ends.
 
-  - **(2)** by adding at the end the following:
-    > - **(B)**
-    >   - **(i)** At the option of the State, the State plan may provide that an individual who is eligible for medical assistance under the State plan (or a waiver of such plan) or for child health assistance under title XXI and who is, or who while so eligible becomes, pregnant shall continue to be eligible for such medical assistance or child health assistance, respectively, through the end of the month in which the 1-year period (beginning on the last day of such pregnancy) ends, regardless of the basis for the individual’s eligibility for such medical assistance.
+- **(b)** *Application to CHIP*
+  - **(1)** *In general* Section 2107(e)(1) of the Social Security Act (42 U.S.C. 1397gg(e)(1)) is amended—
+    - **(A)** by redesignating subparagraphs (J) through (S) as subparagraphs (K) through (T), respectively; and
+    - **(B)** by inserting after subparagraph (I) the following new subparagraph:
+      > - **(J)** In the case of a State that has elected to apply the option under section 1902(e)(16) with respect to coverage for pregnant and postpartum women under title XIX, the provisions of such section with respect to coverage of pregnant and postpartum women under this title, except that such coverage shall be required and not at the option of the State.
 
-- **(c)** *Increase of FMAP* Section 1905 of the Social Security Act (42 U.S.C. 1396d) is amended—
-  - **(1)** in subsection (b), in the first sentence, by striking “and (ff)” and inserting “(ff), and (gg)”; and
-  - **(2)** by adding at the end the following new subsection:
-    > - **(gg)** *Specified coverage extension States*
-    >   - **(1)** *In general* Notwithstanding subsection (b), beginning January 1, 2020, in the case of a specified coverage extension State, for the initial extension calendar quarters with respect to such State, the Federal medical assistance percentage that would otherwise apply to the State without application of this subsection, shall be increased by 5 percentage points.
-    >   - **(2)** *Specified coverage extension State* For purposes of this subsection, the term “specified coverage extension State” means a State, the State plan of which has in effect the application of the 1–year period of continuous medical assistance pursuant to each of paragraphs (5) and (6) of section 1902(e).
-    >   - **(3)** *Initial extension calendar quarter* For purposes of this subsection, the term “initial extension calendar quarter” means, with respect to a State, each calendar quarter occurring in the first fiscal year (or portion of fiscal year) occurring during the first 12-month period that the State is a specified coverage extension State.
-
-- **(d)** *Application to CHIP optional coverage of targeted low-Income pregnant women* Section 2112 of the Social Security Act (42 U.S.C. 1397ll) is amended—
-  - **(1)** in subsection (d)(2)(A), by inserting after “60-day period” the following: “, or, at the option of the State, 1-year period”; and
-  - **(2)** in subsection (f)(2), by inserting after “60-day period” the following: “, or, at the option of the State, 1-year period”.
-- **(e)** *Effective date* The amendments made by this section shall apply with respect to eligibility determinations for items and services under State plans under title XIX of the Social Security Act (or a waiver of such a plan) (42 U.S.C. 1396 et seq.) and under State child health plans under title XXI (or waiver of such a plan) made on or after January 1, 2020.
+  - **(2)** *Optional coverage of targeted low-income pregnant women* Section 2112(d)(2)(A) of the Social Security Act (42 U.S.C. 1397ll(d)(2)(A)) is amended by inserting after “60-day period” the following: “, or, in the case that section 1902(e)(16) applies to the State child health plan (or waiver of such plan) pursuant to section 2107(e)(1), the 1-year period”.
+- **(c)** *Effective date* The amendments made by this section shall apply with respect to State elections made under paragraph (16) of section 1902(e) of the Social Security Act (42 U.S.C. 1396a(e)), as added by subsection (a), under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) on or after the first day of the first fiscal year quarter beginning at least one year after the date of the enactment of this Act.
 
 ## § 3. MACPAC report
 
@@ -73,3 +57,18 @@ This Act may be cited as the “Helping Medicaid Offer Maternity Services Act of
 ## § 5. Report on Medicaid bundled payments for pregnancy-related services
 
 -  Not later than 2 years after the date of the enactment of this Act, the Medicaid and CHIP Payment Advisory Commission shall submit to Congress a report containing an analysis of the use of bundled payments for reimbursing health care providers with respect to pregnancy-related services furnished under State plans (or waivers of such plans) under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.).
+
+## § 6. Sunset of limit on maximum rebate amount for single source drugs and innovator multiple source drugs
+
+Section 1927(c)(2)(D) of the Social Security Act (42 U.S.C. 1396r–8(c)(2)(D)) is amended by inserting after “December 31, 2009,” the following: “and before January 1, 2023,”.
+
+## § 7. Medicaid Improvement Fund
+
+Section 1941(b)(3) of the Social Security Act (42 U.S.C 1396w–1(b)(3)) is amended—
+
+- **(1)** in subparagraph (A), by striking “for fiscal year 2025 and thereafter, $1,960,000,000” and inserting “for fiscal year 2022 and thereafter, $9,286,000,000”; and
+- **(2)** in subparagraph (B), by striking “fiscal year 2025” and inserting “fiscal year 2022”.
+
+## § 8. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
