@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7948
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-25 amendatory instructions. 6 executed, 19 stated and not applied.
+25 amendatory instructions. 7 executed, 18 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -53,12 +53,21 @@ to guess them.
 
 ### 42 U.S.C. § 242k
 
-> in paragraph (7), by striking “Not later than 1 year after the date of the enactment of the Health Insurance Portability and Accountability Act of 1996, and annually thereafter, the Committee shall” and inserting “The Committee shall, on an annual basis,”.
+> by striking “Hispanics, Asian Americans, and Pacific Islanders” and inserting “American Indians and Alaska Natives, Hispanics, Asian Americans, and Native Hawaiian and other Pacific Islanders”.
+
+| | |
+|---|---|
+| Removed | `Hispanics, Asian Americans, and Pacific Islanders` |
+| Inserted | `American Indians and Alaska Natives, Hispanics, Asian Americans, and Native Hawaiian and other Pacific Islanders` |
+
+### 42 U.S.C. § 242k
+
+> in paragraph (7), by striking “Not later than 1 year after the date of the enactment of the Health Insurance Portability and Accountability Act of 1996, and annually thereafter, the Committee shall” and inserting “The Committee shall, on an biennial basis,”.
 
 | | |
 |---|---|
 | Removed | `Not later than 1 year after the date of the enactment of the Health Insurance Portability and Accountability Act of 1996, and annually thereafter, the Committee shall` |
-| Inserted | `The Committee shall, on an annual basis,` |
+| Inserted | `The Committee shall, on an biennial basis,` |
 
 ### 42 U.S.C. § 242k
 
@@ -90,17 +99,16 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 300kk` | strike | by striking “, by not later than 2 years after the date of enactment of this title,”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 300kk` | insert | in subparagraph (B), by inserting “Tribal,” after “State,”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 300kk` | amend | by amending subparagraph (F) of paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300kk` | insert | in paragraph (3), by inserting “Indian Tribes, epidemiology centers,” after “Federal agencies,”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 300kk` | add-at-end | Section 3101(e) of the Public Health Service Act (42 U.S.C. 300kk(e)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300kk` | insert | in paragraph (3), by inserting “Indian Tribes, Tribal organizations, and epidemiology centers,” after “Federal agencies,”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 300kk` | add-at-end | Section 3101(e) of the Public Health Service Act (42 U.S.C. 300kk(e)) is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300kk` | strike | by striking subsections (g) and (h); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300kk` | redesignate | by redesignating subsection (i) as subsection (h). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300kk` | insert | After executing the amendments made by subsection (d), section 3101 of the Public Health Service Act (42 U.S.C. 300kk) is amended by inserting after subsection (f) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 242k` | insert | Section 306(d) of the Public Health Service Act (42 U.S.C. 242k(d)) is amended by inserting “, Indian Tribes, and epidemiology centers” after “jurisdictions”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 242k` | insert | Section 306(e)(3) of the Public Health Service Act (42 U.S.C. 242k(e)(3)) is amended by inserting “, Indian Tribes, and epidemiology centers” after “health agencies”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 242k` | insert | Section 306(d) of the Public Health Service Act (42 U.S.C. 242k(d)) is amended by inserting “, Indian Tribes, Tribal organizations, and epidemiology centers” after “jurisdictions”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 242k` | insert | Section 306(e)(3) of the Public Health Service Act (42 U.S.C. 242k(e)(3)) is amended by inserting “, Indian Tribes, Tribal organizations, and epidemiology centers” after “health agencies”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 242k` | insert | by inserting “the Indian Health Service,” before “the Departments of Commerce”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 242k` | insert | by inserting a comma after “the Departments of Commerce and Labor”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 242k` | insert | by inserting “, Indian Tribes, and epidemiology centers” after “State and local health departments and agencies”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 242k` | insert | by inserting “American Indians and Alaska Natives,” before “Hispanics”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 242k` | insert | by inserting “, Indian Tribes, Tribal organizations, and epidemiology centers” after “State and local health departments and agencies”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 242k` | strike | in paragraph (3), by striking “, not later than 60 days after the date of the enactment of the Health Insurance Portability and Accountability Act of 1996,” each place it appears; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 242k` | amend | by amending subparagraph (B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 242k` | redesignate | by redesignating subsection (n) as subsection (o); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
