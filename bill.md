@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3539
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Behavioral Intervention Guidelines Act of 2019”.
+This Act may be cited as the “Behavioral Intervention Guidelines Act of 2020”.
 
 ## § 2. Best practices for behavioral intervention teams
 
@@ -41,13 +41,14 @@ The Public Health Service Act is amended by inserting after section 520G of such
 > - **(c)** *Consultation* In carrying out subsection (a)(1), the Secretary shall consult with—
 >   - **(1)** the Secretary of Education;
 >   - **(2)** the Director of the National Threat Assessment Center of the Department of Homeland Security;
->   - **(3)** the Attorney General of the United States;
->   - **(4)** teachers and other educators, principals, school administrators, school board members, school psychologists, mental health professionals, and parents of elementary school and secondary school students;
->   - **(5)** local law enforcement agencies and campus law enforcement administrators;
->   - **(6)** mental health mobile crisis providers;
->   - **(7)** child and adolescent psychiatrists; and
->   - **(8)** other education and mental health professionals as the Secretary deems appropriate.
-> - **(d)** *Publication* Not later than 1 year after the date of enactment of this section, the Secretary shall publish the best practices under subsection (a)(1) and the list under subsection (a)(2) on a publicly accessible website of the Department of Health and Human Services.
+>   - **(3)** the Attorney General of the United States; and
+>   - **(4)** as appropriate, relevant stakeholders including—
+>     - **(A)** teachers and other educators, principals, school administrators, school board members, school psychologists, mental health professionals, and parents of elementary school and secondary school students;
+>     - **(B)** local law enforcement agencies and campus law enforcement administrators;
+>     - **(C)** mental health mobile crisis providers;
+>     - **(D)** child and adolescent psychiatrists; and
+>     - **(E)** other education and mental health professionals.
+> - **(d)** *Publication* Not later than 2 years after the date of enactment of this section, the Secretary shall publish the best practices under subsection (a)(1) and the list under subsection (a)(2) on a publicly accessible website of the Department of Health and Human Services.
 > - **(e)** *Technical assistance* The Secretary shall provide technical assistance to institutions of higher education, elementary schools, and secondary schools to assist such institutions and schools in implementing the best practices under subsection (a).
 > - **(f)** *Definitions* In this section:
 >   - **(1)** The term behavioral intervention team means a team of qualified individuals who—
