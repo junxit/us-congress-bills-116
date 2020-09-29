@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5760
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5760
@@ -39,3 +39,9 @@ Grid Security Research and Development Act
 - 2020-09-04 — Placed on the Union Calendar, Calendar No. 391.
 - 2020-09-04 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 116-489, Part I.
 - 2020-09-04 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 116-489, Part I.
+- 2020-09-29 — Considered under suspension of the rules. (consideration: CR H5025-5030)
+- 2020-09-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5760.
+- 2020-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-29 — Mr. Bera moved to suspend the rules and pass the bill, as amended.
+- 2020-09-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5025-5028)
+- 2020-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
