@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5373
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,21 +11,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “United States Anti-Doping Agency Reauthorization Act of 2019”.
+This Act may be cited as the “United States Anti-Doping Agency Reauthorization Act of 2020”.
 
-## § 2. Findings
-
-Congress finds the following:
-
-- **(1)** The United States Anti-Doping Agency (referred to in this Act as the “USADA”) is the national anti-doping organization in the United States and is charged with managing the anti-doping program, results management processes, drug reference resources, and athlete education for all United States Olympic Committee (referred to in this Act as the “USOC”) recognized sport national governing bodies, their athletes, and events.
-- **(2)** The USADA also contributes to the advancement of clean sport through scientific research, anti-doping education, and outreach programs, and its vision is to be a guardian of the values and life lessons learned through true sport.
-- **(3)** Participation in youth sports has the potential to equip young athletes with important skills and values necessary for success in life, but it is essential that the culture of youth sports emphasizes those skills and values.
-- **(4)** The USADA’s TrueSport program partners with youth sport organizations across the country to promote sportsmanship, character building, and healthy performance through the use of targeted education materials designed to promote a positive youth sport experience.
-- **(5)** By including the promotion of the positive values of youth sport in USADA’s mandate, Congress sends a strong signal that the goals of youth sport should include instilling the values of integrity, respect, teamwork, courage, and responsibility in our young athletes.
-- **(6)** Furthermore, because the United States is in a unique position to exert leadership and influence within the global community, it is imperative that USADA be adequately funded for its anti-doping and clean sport programs in preparation for the 2028 Summer Olympic Games, which will be held in Los Angeles, California.
-- **(7)** By increasing USADA’s authorization of appropriations in fiscal years 2021 through 2027, the Federal Government can empower USADA to directly affect the integrity and well-being of sport, both domestically and on a global scale.
-
-## § 3. Promotion of youth sports
+## § 2. Promotion of youth sports
 
 Section 701(b) of the Office of National Drug Control Policy Reauthorization Act of 2006 (21 U.S.C. 2001(b)) is amended—
 
@@ -33,7 +21,7 @@ Section 701(b) of the Office of National Drug Control Policy Reauthorization Act
 - **(2)** by adding at the end the following:
   > - **(5)** promote a positive youth sport experience by using a portion of its funding to provide educational materials on sportsmanship, character building, and healthy performance for athletes, parents, and coaches participating in youth sports.
 
-## § 4. Authorization of appropriations
+## § 3. Authorization of appropriations
 
 Section 703 of the Office of National Drug Control Policy Reauthorization Act of 2006 (21 U.S.C. 2003) is amended to read as follows:
 
@@ -41,16 +29,17 @@ Section 703 of the Office of National Drug Control Policy Reauthorization Act of
 >
 > There are authorized to be appropriated to the United States Anti-Doping Agency—
 >
-> - **(1)** for fiscal year 2020, $14,800,000;
-> - **(2)** for fiscal year 2021, $15,500,000;
-> - **(3)** for fiscal year 2022, $16,200,000;
-> - **(4)** for fiscal year 2023, $16,900,000;
-> - **(5)** for fiscal year 2024, $17,700,000;
-> - **(6)** for fiscal year 2025, $18,500,000;
-> - **(7)** for fiscal year 2026, $21,900,000; and
-> - **(8)** for fiscal year 2027, $22,800,000.
+> - **(1)** for fiscal year 2021, $15,500,000;
+> - **(2)** for fiscal year 2022, $16,200,000;
+> - **(3)** for fiscal year 2023, $16,900,000;
+> - **(4)** for fiscal year 2024, $17,700,000;
+> - **(5)** for fiscal year 2025, $18,500,000;
+> - **(6)** for fiscal year 2026, $21,900,000;
+> - **(7)** for fiscal year 2027, $22,800,000;
+> - **(8)** for fiscal year 2028, $24,900,000; and
+> - **(9)** for fiscal year 2029, $23,700,000.
 
-## § 5. Coordination and sharing of information with USADA
+## § 4. Coordination and sharing of information with USADA
 
-- **(a)** *Information sharing* Except as otherwise prohibited by law and except in cases in which the integrity of a criminal investigation would be affected, in furtherance of the obligation of the United States under Article 7 of the Convention, the Department of Justice, the Department of Homeland Security, and the Food and Drug Administration shall coordinate with USADA with regard to any effort to prevent the use of performance-enhancing drugs or prohibit performance-enhancing methods adopted by the Agency by sharing with USADA all information in the possession of the Department of Justice, the Department of Homeland Security, or the Food and Drug Administration which may be relevant to preventing the use of such performance-enhancing drugs or prohibiting such performance-enhancing methods.
-- **(b)** *Convention defined* In this section, the term “Convention” means the United Nations Educational, Scientific, and Cultural Organization International Convention Against Doping in Sport done at Paris October 19, 2005, and ratified by the United States in 2008.
+- **(a)** *Information sharing* Except as otherwise prohibited by law and except in cases in which the integrity of a criminal investigation would be affected, in furtherance of the obligation of the United States under Article 7 of the Convention, the Attorney General, the Secretary of Homeland Security, and the Commissioner of Food and Drugs shall coordinate with the United States Anti-Doping Agency with regard to any effort to prevent the use of performance-enhancing drugs or prohibit performance-enhancing methods by sharing with the United States Anti-Doping Agency all information which may be relevant to preventing the use of such performance-enhancing drugs or prohibiting such performance-enhancing methods.
+- **(b)** *Convention defined* In this section, the term Convention means the United Nations Educational, Scientific, and Cultural Organization International Convention Against Doping in Sport done at Paris October 19, 2005, and ratified by the United States in 2008.
