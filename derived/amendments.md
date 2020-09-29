@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4078
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,9 +26,9 @@ to guess them.
 
 ### 42 U.S.C. § 280m
 
-> Section 399NN(h) of the Public Health Service Act (42 U.S.C. 280m(h)) is amended by striking “$4,900,000 for each of fiscal years 2015 through 2019” and inserting “$9,000,000 for each of fiscal years 2020 through 2024”.
+> Section 399NN(h) of the Public Health Service Act (42 U.S.C. 280m(h)) is amended by striking “$4,900,000 for each of fiscal years 2015 through 2019” and inserting “$9,000,000 for each of fiscal years 2021 through 2025”.
 
 | | |
 |---|---|
 | Removed | `$4,900,000 for each of fiscal years 2015 through 2019` |
-| Inserted | `$9,000,000 for each of fiscal years 2020 through 2024` |
+| Inserted | `$9,000,000 for each of fiscal years 2021 through 2025` |

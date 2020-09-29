@@ -11,8 +11,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “EARLY Act Reauthorization of 2019”.
+This Act may be cited as the “EARLY Act Reauthorization of 2020”.
 
 ## § 2. Reauthorization of the Young Women’s Breast Health Education and Awareness Requires Learning Young Act of 2009
 
-Section 399NN(h) of the Public Health Service Act (42 U.S.C. 280m(h)) is amended by striking “$4,900,000 for each of fiscal years 2015 through 2019” and inserting “$9,000,000 for each of fiscal years 2020 through 2024”.
+Section 399NN(h) of the Public Health Service Act (42 U.S.C. 280m(h)) is amended by striking “$4,900,000 for each of fiscal years 2015 through 2019” and inserting “$9,000,000 for each of fiscal years 2021 through 2025”.
