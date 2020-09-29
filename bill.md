@@ -33,10 +33,10 @@ Part D of title V of the Public Health Service Act (42 U.S.C. 290dd et seq.) is 
 > - **(d)** *Use of funds* Grants awarded under subsection (b)—
 >   - **(1)** shall be used to develop, expand, and enhance community and statewide evidence-informed family support services; and
 >   - **(2)** may be used to—
->     - **(A)** build connections between family support networks, including providing technical assistance between family community organizations and peer support networks, and with other family support services, focused on enhancing knowledge of evidence-informed interventions for family members and loved ones of individuals living with substance use disorders, or problematic substance use, and reducing harm by educating service providers on current evidence regarding addiction and the family, including—
+>     - **(A)** build connections between family support networks, including providing technical assistance between family community organizations and peer support networks, and with other family support services, focused on enhancing knowledge of evidence-informed interventions for family members and loved ones of individuals living with substance use disorders and reducing harm by educating service providers on current evidence regarding addiction and the family, including—
 >       - **(i)** behavioral health providers, including such providers focused specifically on family and couples therapy in the context of addiction;
 >       - **(ii)** primary care providers;
->       - **(iii)** providers of foster care services or support services for grandparents and other extended family impacted by addiction; and
+>       - **(iii)** providers of foster care services or support services for grandparents, guardians, and other extended family impacted by addiction; and
 >       - **(iv)** other family support services that connect to community resources for individuals with substance use disorders, including non-clinical community services;
 >     - **(B)** reduce stigma associated with the family of individuals with substance use disorders by improving knowledge about addiction and its treatment, providing compassionate support, and dispelling myths that perpetuate such stigma;
 >     - **(C)** conduct outreach on issues relating to substance use disorders and family support, which may include education, training, and resources with respect to—
@@ -53,4 +53,4 @@ Part D of title V of the Public Health Service Act (42 U.S.C. 290dd et seq.) is 
 >   - **(1)** the programs and activities funded by the grant;
 >   - **(2)** health outcomes of the population of individuals with a substance use disorder who received services through programs supported by the grant, as evaluated by an independent program evaluator through the use of outcomes measures, as determined by the Secretary; and
 >   - **(3)** any other information that the secretary may require for the purpose of ensuring that the grant recipient is complying with all the requirements of the grant.
-> - **(f)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2021 through 2026.
+> - **(f)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2021 through 2025.
