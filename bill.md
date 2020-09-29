@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2519
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Improving Mental Health Access from the Emergency Department Act of 2019”.
+This Act may be cited as the “Improving Mental Health Access from the Emergency Department Act of 2020”.
 
 ## § 2. Securing appropriate follow-on care for acute mental health illness after an emergency department encounter
 
@@ -19,7 +19,7 @@ The Public Health Service Act is amended by inserting after section 520J of such
 
 > ## § 520J–1. Securing appropriate follow-on care for acute mental health illness after an emergency department encounter
 >
-> - **(a)** *In general* The Secretary, acting through the Director of the Center, may award grants on a competitive basis to qualifying health providers to implement innovative approaches to securing prompt access to appropriate follow-on care for individuals who experience an acute mental health episode and present for care in an emergency department.
+> - **(a)** *In general* The Secretary may award grants on a competitive basis to qualifying health providers to implement innovative approaches to securing prompt access to appropriate follow-on care for individuals who experience an acute mental health episode and present for care in an emergency department.
 > - **(b)** *Eligible grant recipients* In this section, the term qualifying health provider means a health care facility licensed under applicable law that—
 >   - **(1)** has an emergency department;
 >   - **(2)** is staffed by medical personnel (such as emergency physicians, psychiatrists, psychiatric registered nurses, mental health technicians, clinical social workers, psychologists, and therapists) capable of providing treatment focused on stabilizing acute mental health conditions and assisting patients to access resources to continue treatment in the least restrictive appropriate setting; and
@@ -28,7 +28,8 @@ The Public Health Service Act is amended by inserting after section 520J of such
 >   - **(1)** Expediting placement in appropriate facilities through activities such as expanded coordination with regional service providers, assessment, peer navigators, bed availability tracking and management, transfer protocol development, networking infrastructure development, and transportation services.
 >   - **(2)** Increasing the supply of inpatient psychiatric beds and alternative care settings such as regional emergency psychiatric facilities.
 >   - **(3)** Use of alternative approaches to providing psychiatric care in the emergency department setting, including through tele-psychiatric support and other remote psychiatric consultation, implementation of peak period crisis clinics, or creation of psychiatric emergency service units.
->   - **(4)** Such other activities as are determined by the Secretary to be appropriate, consistent with subsection (a).
+>   - **(4)** Use of approaches that include proactive followup such as telephone check-ins, telemedicine, or other technology-based outreach to individuals during the period of transition.
+>   - **(5)** Such other activities as are determined by the Secretary to be appropriate, consistent with subsection (a).
 > - **(d)** *Application* A qualifying health provider desiring a grant under this section shall prepare and submit an application to the Secretary at such time and in such manner as the Secretary may require. At a minimum, the application shall include the following:
 >   - **(1)** A description of identified need for acute mental health services in the provider’s service area.
 >   - **(2)** A description of the existing efforts of the provider to meet the need for acute mental health services in the service area, and identified gaps in the provision of such services.
