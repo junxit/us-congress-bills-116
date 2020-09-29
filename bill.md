@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1754
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,250 +11,447 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Horseracing Integrity Act of 2019”.
+This Act may be cited as the “Horseracing Integrity and Safety Act of 2020”.
 
-## § 2. Findings
+## § 2. Definitions
 
-Congress finds the following:
+In this Act the following definitions apply:
 
-- **(1)** Recognizing the substantial relation that horseracing has to interstate commerce, Congress enacted the Interstate Horseracing Act of 1978 (15 U.S.C. 3001 et seq.) to regulate pari-mutuel wagering on horseracing in order to protect and further the horseracing industry of the United States. This Act does not modify or supplement the Interstate Horseracing Act of 1978 or impair or restrict the operation and enforcement of State law or regulation of horseracing with respect to matters unrelated to anti-doping and medication control or for violations of State or Federal criminal law.
-- **(2)** Approximately 40 percent of the 635,890 starts by Thoroughbred, Quarter Horse, and Standardbred racehorses in 2018 were made by horses that competed in more than one State. Those Thoroughbred, Quarter Horse, and Standardbred racehorses which participated in races in more than one State in 2018 made over 55 percent of all United States racing starts that year.
-- **(3)** Uniform adoption of national anti-doping and medication control standards for horseracing in the United States will promote interstate commerce, encourage fair competition and a level playing field, assure full and fair disclosure of information to purchasers of breeding stock and to the wagering public, will improve the marketplace for domestic and international sales of United States horses, will provide a platform for consistency with all major international horseracing standards, address growing domestic concerns over disparities with international rules, and provide for the safety and welfare of horses and jockeys.
-- **(4)** The use of therapeutic medications in horseracing in the United States must place the health and welfare of the horse at the highest level of priority while achieving consistency with the uses permitted in major international horseracing jurisdictions. Because the various States have been unable to adopt a national uniform anti-doping and medication control program, national uniform regulations with respect to the use of, and testing for, drugs capable of affecting the results of a horse race and therapeutic medications used in horseracing, such rules, procedures, and enforcement policies should be implemented, consistent with internationally accepted best practices, by an independent anti-doping and medication control organization authorized by an act of Congress.
-- **(5)** For human sports, Congress has demonstrated its commitment to fair competition through legislation, oversight, funding, and by its execution of an international treaty, the UNESCO International Convention Against Doping in Sport. By ratifying the UNESCO Convention, the United States agreed to adopt appropriate measures consistent with the principles of the World Anti-Doping Code and to take appropriate action, including legislation, regulation, policies, or administrative practices to implement that commitment.
-- **(6)** In the context of Olympic sports, Congress has recognized the United States Anti-Doping Agency as an independent anti-doping and medication control organization possessing high-level expertise and credibility in the development and administration of an anti-doping and medication control program.
-- **(7)** Congress supports the establishment of an independent anti-doping and medication control organization to ensure the wagering public’s confidence in the fairness of horseracing and to strengthen and harmonize anti-doping and medication control rules and sanctions for horseracing in order to ensure fair and transparent horseraces and to deter the commission of anti-doping and medication control rule violations.
-- **(8)** The movement of horses among the States for the purpose of participating in covered horseraces, the widespread acceptance, receipt, and transmission of wagers on covered horseraces in interstate commerce, and the need to ensure integrity of competition in, and wagering on, covered horseraces warrant congressional action as set forth in this Act.
+- **(1)** *Authority* The term Authority means the Horseracing Integrity and Safety Authority designated by section 3(a).
+- **(2)** *Breeder* The term “breeder” means a person who is in the business of breeding covered horses.
+- **(3)** *Commission* The term Commission means the Federal Trade Commission.
+- **(4)** *Covered horse* The term covered horse means any Thoroughbred horse, or any other horse made subject to this Act by election of the applicable State racing commission or the breed governing organization for such horse under section 5(k), during the period—
+  - **(A)** beginning on the date of the horse's first timed and reported workout at a racetrack that participates in covered horseraces or at a training facility; and
+  - **(B)** ending on the date on which the Authority receives written notice that the horse has been retired.
+- **(5)** *Covered horserace* The term covered horserace means any horserace involving covered horses that has a substantial relation to interstate commerce, including any Thoroughbred horserace that is the subject of interstate off-track or advance deposit wagers.
+- **(6)** *Covered persons* The term covered persons means all trainers, owners, breeders, jockeys, racetracks, veterinarians, persons (legal and natural) licensed by a State racing commission and the agents, assigns, and employees of such persons and other horse support personnel who are engaged in the care, training, or racing of covered horses.
+- **(7)** *Equine constituencies* The term equine constituencies means, collectively, owners, breeders, trainers, racetracks, veterinarians, State racing commissions, and jockeys who are engaged in the care, training, or racing of covered horses.
+- **(8)** *Equine industry representative* The term equine industry representative means an organization regularly and significantly engaged in the equine industry, including organizations that represent the interests of, and whose membership consists of, owners, breeders, trainers, racetracks, veterinarians, State racing commissions, and jockeys.
+- **(9)** *Horseracing anti-doping and medication control program* The term horseracing anti-doping and medication control program means the anti-doping and medication program established under section 6(a).
+- **(10)** *Immediate family member* The term immediate family member shall include a spouse, domestic partner, mother, father, aunt, uncle, sibling, or child.
+- **(11)** *Interstate off-track wager* The term interstate off-track wager has the meaning given such term in section 3 of the Interstate Horseracing Act of 1978 (15 U.S.C. 3002).
+- **(12)** *Jockey* The term jockey means a rider or driver of a covered horse in covered horseraces.
+- **(13)** *Owner* The term owner means a person who holds an ownership interest in one or more covered horses.
+- **(14)** *Program effective date* The term program effective date means July 1, 2022.
+- **(15)** *Racetrack* The term racetrack means an organization licensed by a State racing commission to conduct covered horseraces.
+- **(16)** *Racetrack safety program* The term racetrack safety program means the program established under section 7(a).
+- **(17)** *Stakes race* The term stakes race means any race so designated by the racetrack at which such race is run, including, without limitation, the races comprising the Breeders' Cup World Championships and the races designated as graded stakes by the American Graded Stakes Committee of the Thoroughbred Owners and Breeders Association.
+- **(18)** *State racing commission* The term State racing commission means an entity designated by State law or regulation that has jurisdiction over the conduct of horseracing within the applicable State.
+- **(19)** *Trainer* The term trainer means an individual engaged in the training of covered horses.
+- **(20)** *Training facility* The term training facility means a location that is not a racetrack licensed by a State racing commission that operates primarily to house covered horses and conduct official timed workouts.
+- **(21)** *Veterinarian* The term veterinarian means a licensed veterinarian who provides veterinary services to covered horses.
+- **(22)** *Workout* The term workout means a timed running of a horse over a predetermined distance not associated with a race or its first qualifying race, if such race is made subject to this Act by election under section 5(k) of the horse's breed governing organization or the applicable State racing commission.
 
-## § 3. Definitions
+## § 3. Recognition of the Horseracing Integrity and Safety Authority
 
-In this Act:
+- **(a)** *In general* The private, independent, self-regulatory, nonprofit corporation, to be known as the “Horseracing Integrity and Safety Authority”, is recognized for purposes of developing and implementing a horseracing anti-doping and medication control program and a racetrack safety program for covered horses, covered persons, and covered horseraces.
+- **(b)** *Board of directors*
+  - **(1)** *Membership* The Authority shall be governed by a board of directors (in this section referred to as the “Board”) comprised of nine members as follows:
+    - **(A)** *Independent members* Five members of the Board shall be independent members selected from outside the equine industry.
+    - **(B)** *Industry members*
+      - **(i)** *In general* Four members of the Board shall be industry members selected from among the various equine constituencies.
+      - **(ii)** *Representation of equine constituencies* The industry members shall be representative of the various equine constituencies, and shall include not more than one industry member from any one equine constituency.
+  - **(2)** *Chair* The chair of the Board shall be an independent member described in paragraph (1)(A).
+  - **(3)** *Bylaws* The Board of the Authority shall be governed by bylaws for the operation of the Authority with respect to—
+    - **(A)** the administrative structure and employees of the Authority;
+    - **(B)** the establishment of standing committees;
+    - **(C)** the procedures for filling vacancies on the Board and the standing committees;
+    - **(D)** term limits for members and termination of membership; and
+    - **(E)** any other matter the Board considers necessary.
+- **(c)** *Standing committees*
+  - **(1)** *Anti-doping and medication control standing committee*
+    - **(A)** *In general* The Authority shall establish an anti-doping and medication control standing committee, which shall provide advice and guidance to the Board on the development and maintenance of the horseracing anti-doping and medication control program.
+    - **(B)** *Membership* The anti-doping and medication control standing committee shall be comprised of seven members as follows:
+      - **(i)** *Independent members* A majority of the members shall be independent members selected from outside the equine industry.
+      - **(ii)** *Industry members* A minority of the members shall be industry members selected to represent the various equine constituencies, and shall include not more than one industry member from any one equine constituency.
+      - **(iii)** *Qualification* A majority of individuals selected to serve on the anti-doping and medication control standing committee shall have significant, recent experience in anti-doping and medication control rules.
+    - **(C)** *Chair* The chair of the anti-doping and medication control standing committee shall be an independent member of the Board described in subsection (b)(1)(A).
+  - **(2)** *Racetrack safety standing committee*
+    - **(A)** *In general* The Authority shall establish a racetrack safety standing committee, which shall provide advice and guidance to the Board on the development and maintenance of the racetrack safety program.
+    - **(B)** *Membership* The racetrack safety standing committee shall be comprised of seven members as follows:
+      - **(i)** *Independent members* A majority of the members shall be independent members selected from outside the equine industry.
+      - **(ii)** *Industry members* A minority of the members shall be industry members selected to represent the various equine constituencies.
+    - **(C)** *Chair* The chair of the racetrack safety standing committee shall be an industry member of the Board described in subsection (b)(1)(B).
+- **(d)** *Nominating committee*
+  - **(1)** *Membership*
+    - **(A)** *In general* The nominating committee of the Authority shall be comprised of seven independent members selected from business, sports, and academia.
+    - **(B)** *Initial membership* The initial nominating committee members shall be set forth in the governing corporate documents of the Authority.
+    - **(C)** *Vacancies* After the initial committee members are appointed in accordance with subparagraph (B), vacancies shall be filled by the Board pursuant to rules established by the Authority.
+  - **(2)** *Chair* The chair of the nominating committee shall be selected by the nominating committee from among the members of the nominating committee.
+  - **(3)** *Selection of members of the Board and standing committees*
+    - **(A)** *Initial members* The nominating committee shall select the initial members of the Board and the standing committees described in subsection (c).
+    - **(B)** *Subsequent members* The nominating committee shall recommend individuals to fill any vacancy on the Board or on such standing committees.
+- **(e)** *Conflicts of interest* To avoid conflicts of interest, the following individuals may not be selected as a member of the Board or as an independent member of a nominating or standing committee under this section:
+  - **(1)** An individual who has a financial interest in, or provides goods or services to, covered horses.
+  - **(2)** An official or officer—
+    - **(A)** of an equine industry representative; or
+    - **(B)** who serves in a governance or policymaking capacity for an equine industry representative.
+  - **(3)** An employee of, or an individual who has a business or commercial relationship with, an individual described in paragraph (1) or (2).
+  - **(4)** An immediate family member of an individual described in paragraph (1) or (2).
+- **(f)** *Funding*
+  - **(1)** *Initial funding*
+    - **(A)** *In general* Initial funding to establish the Authority and underwrite its operations before the program effective date shall be provided by loans obtained by the Authority.
+    - **(B)** *Borrowing* The Authority may borrow funds toward the funding of its operations.
+    - **(C)** *Annual calculation of amounts required*
+      - **(i)** *In general* Not later than the date that is 90 days before the program effective date, and not later than November 1 each year thereafter, the Authority shall determine and provide to each State racing commission the estimated amount required from the State—
+        - **(I)** to fund the State's proportionate share of the horseracing anti-doping and medication control program and the racetrack safety program for the next calendar year; and
+        - **(II)** to liquidate the State's proportionate share of any loan or funding shortfall in the current calendar year and any previous calendar year.
+      - **(ii)** *Basis of calculation* The amounts calculated under clause (i) shall—
+        - **(I)** be based on—
+          - **(aa)** the annual budget of the Authority for the following calendar year, as approved by the Board; and
+          - **(bb)** the projected amount of covered racing starts for the year in each State; and
+        - **(II)** take into account other sources of Authority revenue.
+      - **(iii)** *Requirements regarding budgets of Authority*
+        - **(I)** *Initial budget* The initial budget of the Authority shall require the approval of 2/3 of the Board.
+        - **(II)** *Subsequent budgets* Any subsequent budget that exceeds the budget of the preceding calendar year by more than 5 percent shall require the approval of 2/3 of the Board.
+      - **(iv)** *Rate increases*
+        - **(I)** *In general* A proposed increase in the amount required under this subparagraph shall be reported to the Commission.
+        - **(II)** *Notice and comment* The Commission shall publish in the Federal Register such a proposed increase and provide an opportunity for public comment.
+  - **(2)** *Assessment and collection of fees by States*
+    - **(A)** *Notice of election* Any State racing commission that elects to remit fees pursuant to this subsection shall notify the Authority of such election not later than 60 days before the program effective date.
+    - **(B)** *Requirement to remit fees* After a State racing commission makes a notification under subparagraph (A), the election shall remain in effect and the State racing commission shall be required to remit fees pursuant to this subsection according to a schedule established in rule developed by the Authority and approved by the Commission.
+    - **(C)** *Withdrawal of election* A State racing commission may cease remitting fees under this subsection not earlier than one year after notifying the Authority of the intent of the State racing commission to do so.
+    - **(D)** *Determination of methods* Each State racing commission shall determine, subject to the applicable laws, regulations, and contracts of the State, the method by which the requisite amount of fees, such as foal registration fees, sales contributions, starter fees, and track fees, and other fees on covered persons, shall be allocated, assessed, and collected.
+  - **(3)** *Assessment and collection of fees by the Authority*
+    - **(A)** *Calculation* If a State racing commission does not elect to remit fees pursuant to paragraph (2) or withdraws its election under such paragraph, the Authority shall, not less frequently than monthly, calculate the applicable fee per racing start multiplied by the number of racing starts in the State during the preceding month.
+    - **(B)** *Allocation* The Authority shall allocate equitably the amount calculated under subparagraph (A) collected among covered persons involved with covered horseraces pursuant to such rules as the Authority may promulgate.
+    - **(C)** *Assessment and collection*
+      - **(i)** *In general* The Authority shall assess a fee equal to the allocation made under subparagraph (B) and shall collect such fee according to such rules as the Authority may promulgate.
+      - **(ii)** *Remittance of fees* Covered persons described in subparagraph (B) shall be required to remit such fees to the Authority.
+    - **(D)** *Limitation* A State racing commission that does not elect to remit fees pursuant to paragraph (2) or that withdraws its election under such paragraph shall not impose or collect from any person a fee or tax relating to anti-doping and medication control or racetrack safety matters for covered horseraces.
+  - **(4)** *Fees and fines* Fees and fines imposed by the Authority shall be allocated toward funding of the Authority and its activities.
+  - **(5)** *Rule of construction* Nothing in this Act shall be construed to require—
+    - **(A)** the appropriation of any amount to the Authority; or
+    - **(B)** the Federal Government to guarantee the debts of the Authority.
+- **(g)** *Quorum* For all items where Board approval is required, the Authority shall have present a majority of independent members.
 
-- **(1)** *Authority* The term Authority means the independent Horseracing Anti-Doping and Medication Control Authority established by section 5.
-- **(2)** *Commission* The term Commission means the Federal Trade Commission.
-- **(3)** *Covered horserace* The term covered horserace means any horserace that has a substantial relation to interstate commerce, including any horserace that is the subject of interstate off-track wagers.
-- **(4)** *Covered horse* The term covered horse means any Thoroughbred, Quarter, or Standardbred horse, beginning on the date of the horse’s first timed and reported workout at a race track that participates in covered horseraces or a licensed training facility until the Authority receives written notice that the horse has been retired.
-- **(5)** *Covered persons* The term covered persons means all trainers, owners, veterinarians, persons (legal and natural) licensed by a State racing commission and the agents, assigns and employees of such persons and other horse support personnel who are engaged in the care, training, or racing of covered horses.
-- **(6)** *Equine constituencies* The term equine constituencies means, collectively, the owners and breeders, trainers, racetracks, veterinarians, State racing commissions, and jockeys.
-- **(7)** *Equine industry representative* The term equine industry representative means an organization regularly and significantly engaged in the equine industry, including organizations that represent the interests of, and whose membership consists of, owners and breeders, trainers, racetracks, veterinarians, State racing commissions, and jockeys.
-- **(8)** *Horseracing anti-doping and medication control program* The term horseracing anti-doping and medication control program means the program established under section 6.
-- **(9)** *Interstate off-track wager* The term interstate off-track wager has the meaning given such term in section 3 of the Interstate Horseracing Act of 1978 (15 U.S.C. 3002).
-- **(10)** *Jockey* The term jockey means a rider or driver of a covered horse in covered horseraces.
-- **(11)** *Medication and regulatory experts* The term medication and regulatory experts means organizations or associations that are actively involved in the establishment of equine medication standards, or groups or associations representing entities responsible for the current regulation of the equine industry, or groups or associations representing equine practitioners and veterinarians.
-- **(12)** *Owners and breeders* The term owners and breeders means those persons who either hold ownership interests in covered horses or who are in the business of breeding covered horses.
-- **(13)** *Prohibited methods* The term prohibited methods means any methods that are on the list of prohibited methods identified in section 6(g).
-- **(14)** *Prohibited substances* The term prohibited substances means any substances that are on the list of prohibited substances identified in section 6(g).
-- **(15)** *Permitted methods* The term permitted methods means those methods identified in the list of permitted methods identified in section 6(g).
-- **(16)** *Permitted substances* The term permitted substances means those substances contained in the list of permitted substances identified in section 6(g).
-- **(17)** *Racetrack* The term racetrack means an organization licensed by a State racing commission to conduct covered horseraces.
-- **(18)** *State racing commission* The term State racing commission means that entity designated by State statute or, in the absence of statute, by regulation, with jurisdiction to regulate the conduct of horseracing within the State.
-- **(19)** *Trainers* The term trainer means an individual engaged in the training of covered horses.
-- **(20)** *Veterinarian* The term veterinarian means a licensed veterinarian who provides veterinary services to covered horses.
-- **(21)** *Workout* The term workout means a timed running of a horse over a predetermined distance not associated with a race or, with regard to a horse taking part in harness or pace racing, its first qualifying race.
+## § 4. Federal Trade Commission Oversight
 
-## § 4. Jurisdiction for horseracing anti-doping and medication control matters
+- **(a)** *In general* The Authority shall submit to the Commission, in accordance with such rules as the Commission may prescribe under section 553 of title 5, United States Code, any proposed rule, or proposed modification to a rule, of the Authority relating to—
+  - **(1)** the bylaws of the Authority;
+  - **(2)** a list of permitted and prohibited medications, substances, and methods, including allowable limits of permitted medications, substances, and methods;
+  - **(3)** laboratory standards for accreditation and protocols;
+  - **(4)** standards for racing surface quality maintenance;
+  - **(5)** racetrack safety standards and protocols;
+  - **(6)** a program for injury and fatality data analysis;
+  - **(7)** a program of research and education on safety, performance, and anti-doping and medication control;
+  - **(8)** a description of safety, performance, and anti-doping and medication control rule violations applicable to covered horses and covered persons;
+  - **(9)** a schedule of civil sanctions for violations;
+  - **(10)** a process or procedures for disciplinary hearings; and
+  - **(11)** a formula or methodology for determining assessments described in section 3(f).
+- **(b)** *Publication and comment*
+  - **(1)** *In general* The Commission shall—
+    - **(A)** publish in the Federal Register each proposed rule or modification submitted under subsection (a); and
+    - **(B)** provide an opportunity for public comment.
+  - **(2)** *Approval required* A proposed rule, or a proposed modification to a rule, of the Authority shall not take effect unless the proposed rule or modification has been approved by the Commission.
+- **(c)** *Decision on proposed rule or modification to a rule*
+  - **(1)** *In general* Not later than 60 days after the date on which a proposed rule or modification is published in the Federal Register, the Commission shall approve or disapprove the proposed rule or modification.
+  - **(2)** *Conditions* The Commission shall approve a proposed rule or modification if the Commission finds that the proposed rule or modification is consistent with—
+    - **(A)** this Act; and
+    - **(B)** applicable rules approved by the Commission.
+  - **(3)** *Revision of proposed rule or modification*
+    - **(A)** *In general* In the case of disapproval of a proposed rule or modification under this subsection, not later than 30 days after the issuance of the disapproval, the Commission shall make recommendations to the Authority to modify the proposed rule or modification.
+    - **(B)** *Resubmission* The Authority may resubmit for approval by the Commission a proposed rule or modification that incorporates the modifications recommended under subparagraph (A).
+- **(d)** *Proposed standards and procedures*
+  - **(1)** *In general* The Authority shall submit to the Commission any proposed rule, standard, or procedure developed by the Authority to carry out the horseracing anti-doping and medication control program or the racetrack safety program.
+  - **(2)** *Notice and comment* The Commission shall publish in the Federal Register any such proposed rule, standard, or procedure and provide an opportunity for public comment.
+- **(e)** *Interim final rules* The Commission may adopt an interim final rule, to take effect immediately, under conditions specified in section 553(b)(B) of title 5, United States Code, if the Commission finds that such a rule is necessary to protect—
+  - **(1)** the health and safety of covered horses; or
+  - **(2)** the integrity of covered horseraces and wagering on those horseraces.
 
-- **(a)** *In general* Effective upon the effective date of the anti-doping and medication control program as set forth in section 10, the Authority shall exercise authority over all horseracing anti-doping and medication control matters consistent with the provisions of this Act.
-- **(b)** *Powers and authority*
-  - **(1)** *In general* The Authority shall be established as a private, independent, self-regulatory, nonprofit corporation with responsibility for developing and administering an anti-doping and medication control program for covered horses, covered persons, and covered horseraces consistent with the provisions of this Act.
-  - **(2)** *Powers* The Authority shall be vested with the same anti-doping and medication control powers over horseracing licensees as the State racing commissions have in their respective States in respect to access to offices, track facilities, and other places of business of licensees, search and seizure, issuance and enforcement of subpoenas and subpoenas duces tecum, and other investigatory powers.
-  - **(3)** *Consent* As a condition of eligibility to participate in covered horseraces, covered persons agree that they and their covered horses shall be bound by the provisions of the horseracing anti-doping and medication control program established in accordance with section 6.
-- **(c)** *Exclusive jurisdiction and oversight*
-  - **(1)** *Jurisdiction of commission* The Commission shall have exclusive jurisdiction over all horseracing anti-doping and medication control matters consistent with this Act.
-  - **(2)** *Activities of authority* The Authority shall engage in activities in accordance with such rules as are approved pursuant to this Act.
-- **(d)** *Guiding principles* In carrying out the provisions of this Act, the Commission and the Authority shall be guided by the findings and principles contained in section 2.
-- **(e)** *State compact* The jurisdiction and authority granted to the Commission and the Authority under this Act shall terminate if, at any time after the expiration of five years following the effectiveness of the anti-doping and medication control program—
-  - **(1)** an interstate compact is established that includes among its members 75 percent of the States in which starts in covered races occurred during the calendar year preceding the formation of the compact and those States which collectively hosted not less than 90 percent of the total racing starts of covered horses in covered races for the two-year period preceding the formation of the compact; and
-  - **(2)**
-    - **(A)** all member States enter into and maintain an agreement with the Authority for services consistent with the anti-doping and medication control program provided for in section 6 in those States; or
-    - **(B)** the compact is drafted with public input from horseracing industry constituencies (including trainers, owners, the breed registry, veterinarians, regulators, race tracks, testing laboratories, bettors, and jockeys) by persons who conform to the conflict of interest restrictions set forth in section 5(d); obligates the compact to pay the costs of winding down the Authority and transitioning its operations to the compact; provides for uniform anti-doping and medication control regulations among all member States, consistent with section 6 and no less restrictive than the Authority’s most recent anti-doping and medication control program; and is governed and maintained by a board, which would include among its members persons meeting the requirements of section 5(b), each board member conforming to the conflict of interest restrictions set forth in section 5(d).
+## § 5. Jurisdiction of the Commission and the Horseracing Integrity and Safety Authority
 
-## § 5. Establishment of horseracing anti-doping and medication control authority
+- **(a)** *In general* Beginning on the program effective date, the Commission, the Authority, and the anti-doping and medication control enforcement agency, each within the scope of their powers and responsibilities under this Act, as limited by subsection (j), shall—
+  - **(1)** implement and enforce the horseracing anti-doping and medication control program and the racetrack safety program;
+  - **(2)** exercise independent and exclusive national authority over—
+    - **(A)** the safety, welfare, and integrity of covered horses, covered persons, and covered horseraces; and
+    - **(B)** all horseracing safety, performance, and anti-doping and medication control matters for covered horses, covered persons, and covered horseraces; and
+  - **(3)** have safety, performance, and anti-doping and medication control authority over covered persons similar to such authority of the State racing commissions before the program effective date.
+- **(b)** *Preemption* The rules of the Authority promulgated in accordance with this Act shall preempt any provision of State law or regulation with respect to matters within the jurisdiction of the Authority under this Act, as limited by subsection (j). Nothing contained in this Act shall be construed to limit the authority of the Commission under any other provision of law.
+- **(c)** *Duties*
+  - **(1)** *In general* The Authority—
+    - **(A)** shall develop uniform procedures and rules authorizing—
+      - **(i)** access to offices, racetrack facilities, other places of business, books, records, and personal property of covered persons that are used in the care, treatment, training, and racing of covered horses;
+      - **(ii)** issuance and enforcement of subpoenas and subpoenas duces tecum; and
+      - **(iii)** other investigatory powers of the nature and scope exercised by State racing commissions before the program effective date; and
+    - **(B)** with respect to an unfair or deceptive act or practice described in section 10, may recommend that the Commission commence an enforcement action.
+  - **(2)** *Approval of Commission* The procedures and rules developed under paragraph (1)(A) shall be subject to approval by the Commission in accordance with section 4.
+- **(d)** *Registration of covered persons with Authority*
+  - **(1)** *In general* As a condition of participating in covered races and in the care, ownership, treatment, and training of covered horses, a covered person shall register with the Authority in accordance with rules promulgated by the Authority and approved by the Commission in accordance with section 4.
+  - **(2)** *Agreement with respect to Authority rules, standards, and procedures* Registration under this subsection shall include an agreement by the covered person to be subject to and comply with the rules, standards, and procedures developed and approved under subsection (c).
+  - **(3)** *Cooperation* A covered person registered under this subsection shall, at all times—
+    - **(A)** cooperate with the Commission, the Authority, the anti-doping and medication control enforcement agency, and any respective designee, during any civil investigation; and
+    - **(B)** respond truthfully and completely to the best of the knowledge of the covered person if questioned by the Commission, the Authority, the anti-doping and medication control enforcement agency, or any respective designee.
+  - **(4)** *Failure to comply* Any failure of a covered person to comply with this subsection shall be a violation of section 8(a)(2)(G).
+- **(e)** *Enforcement of programs*
+  - **(1)** *Anti-doping and medication control enforcement agency*
+    - **(A)** *Agreement with USADA* The Authority shall seek to enter into an agreement with the United States Anti-Doping Agency under which the Agency acts as the anti-doping and medication control enforcement agency under this Act for services consistent with the horseracing anti-doping and medication control program.
+    - **(B)** *Agreement with other entity* If the Authority and the United States Anti-Doping Agency are unable to enter into the agreement described in subparagraph (A), the Authority shall enter into an agreement with an entity that is nationally recognized as being a medication regulation agency equal in qualification to the United States Anti-Doping Agency to act as the anti-doping and medication control enforcement agency under this Act for services consistent with the horseracing anti-doping and medication control program.
+    - **(C)** *Negotiations* Any negotiations under this paragraph shall be conducted in good faith and designed to achieve efficient, effective best practices for anti-doping and medication control and enforcement on commercially reasonable terms.
+    - **(D)** *Elements of agreement* Any agreement under this paragraph shall include a description of the scope of work, performance metrics, reporting obligations, and budgets of the United States Anti-Doping Agency while acting as the anti-doping and medication control enforcement agency under this Act, as well as a provision for the revision of the agreement to increase in the scope of work as provided for in subsection (k), and any other matter the Authority considers appropriate.
+    - **(E)** *Duties and powers of enforcement agency* The anti-doping and medication control enforcement agency under an agreement under this paragraph shall—
+      - **(i)** serve as the independent anti-doping and medication control enforcement organization for covered horses, covered persons, and covered horseraces, implementing the anti-doping and medication control program on behalf of the Authority;
+      - **(ii)** ensure that covered horses and covered persons are deterred from using or administering medications, substances, and methods in violation of the rules established in accordance with this Act;
+      - **(iii)** implement anti-doping education, research, testing, compliance and adjudication programs designed to prevent covered persons and covered horses from using or administering medications, substances, and methods in violation of the rules established in accordance with this Act;
+      - **(iv)** exercise the powers specified in section 6(c)(4) in accordance with that section; and
+      - **(v)** implement and undertake any other responsibilities specified in the agreement.
+    - **(F)** *Term and extension*
+      - **(i)** *Term of initial agreement* The initial agreement entered into by the Authority under this paragraph shall be in effect for the 5-year period beginning on the program effective date.
+      - **(ii)** *Extension* At the end of the 5-year period described in clause (i), the Authority may—
+        - **(I)** extend the term of the initial agreement under this paragraph for such additional term as is provided by the rules of the Authority and consistent with this Act; or
+        - **(II)** enter into an agreement meeting the requirements of this paragraph with an entity described by subparagraph (B) for such term as is provided by such rules and consistent with this Act.
+  - **(2)** *Agreements for enforcement by State racing commissions*
+    - **(A)** *State racing commissions*
+      - **(i)** *Racetrack safety program* The Authority may enter into agreements with State racing commissions for services consistent with the enforcement of the racetrack safety program.
+      - **(ii)** *Anti-doping and medication control program* The anti-doping and medication control enforcement agency may enter into agreements with State racing commissions for services consistent with the enforcement of the anti-doping and medication control program.
+    - **(B)** *Elements of agreements* Any agreement under this paragraph shall include a description of the scope of work, performance metrics, reporting obligations, budgets, and any other matter the Authority considers appropriate.
+  - **(3)** *Enforcement of standards* The Authority may coordinate with State racing commissions and other State regulatory agencies to monitor and enforce racetrack compliance with the standards developed under paragraphs (1) and (2) of section 7(c).
+- **(f)** *Procedures with respect to rules of Authority*
+  - **(1)** *Anti-doping and medication control*
+    - **(A)** *In general* Recommendations for rules regarding anti-doping and medication control shall be developed in accordance with section 6.
+    - **(B)** *Consultation* The anti-doping and medication control enforcement agency shall consult with the anti-doping and medication control standing committee and the Board of the Authority on all anti-doping and medication control rules of the Authority.
+  - **(2)** *Racetrack safety* Recommendations for rules regarding racetrack safety shall be developed by the racetrack safety standing committee of the Authority.
+- **(g)** *Issuance of Guidance*
+  - **(1)** The Authority may issue guidance that—
+    - **(A)** sets forth—
+      - **(i)** an interpretation of an existing rule, standard, or procedure of the Authority; or
+      - **(ii)** a policy or practice with respect to the administration or enforcement of such an existing rule, standard, or procedure; and
+    - **(B)** relates solely to—
+      - **(i)** the administration of the Authority; or
+      - **(ii)** any other matter, as specified by the Commission, by rule, consistent with the public interest and the purposes of this subsection.
+  - **(2)** *Submittal to Commission* The Authority shall submit to the Commission any guidance issued under paragraph (1).
+  - **(3)** *Immediate effect* Guidance issued under paragraph (1) shall take effect on the date on which the guidance is submitted to the Commission under paragraph (2).
+- **(h)** *Subpoena and investigatory authority* The Authority shall have subpoena and investigatory authority with respect to civil violations committed under its jurisdiction.
+- **(i)** *Civil penalties* The Authority shall develop a list of civil penalties with respect to the enforcement of rules for covered persons and covered horseraces under its jurisdiction.
+- **(j)** *Civil actions*
+  - **(1)** *In general* In addition to civil sanctions imposed under section 8, the Authority may commence a civil action against a covered person or racetrack that has engaged, is engaged, or is about to engage, in acts or practices constituting a violation of this Act or any rule established under this Act in the proper district court of the United States, the United States District Court for the District of Columbia, or the United States courts of any territory or other place subject to the jurisdiction of the United States, to enjoin such acts or practices, to enforce any civil sanctions imposed under that section, and for all other relief to which the Authority may be entitled.
+  - **(2)** *Injunctions and restraining orders* With respect to a civil action commenced under paragraph (1), upon a proper showing, a permanent or temporary injunction or restraining order shall be granted without bond.
+- **(k)** *Limitations on authority*
+  - **(1)** *Prospective application* The jurisdiction and authority of the Authority and the Commission with respect to the horseracing anti-doping and medication control program and the racetrack safety program shall be prospective only.
+  - **(2)** *Previous matters*
+    - **(A)** *In general* The Authority and the Commission may not investigate, prosecute, adjudicate, or penalize conduct in violation of the horseracing anti-doping and medication control program and the racetrack safety program that occurs before the program effective date.
+    - **(B)** *State racing commission* With respect to conduct described in subparagraph (A), the applicable State racing commission shall retain authority until the final resolution of the matter.
+  - **(3)** *Other laws unaffected* This Act shall not be construed to modify, impair or restrict the operation of the general laws or regulations, as may be amended from time to time, of the United States, the States and their political subdivisions relating to criminal conduct, cruelty to animals, matters unrelated to antidoping, medication control and racetrack and racing safety of covered horses and covered races, and the use of medication in human participants in covered races.
+- **(l)** *Election for other breed coverage under Act*
+  - **(1)** *In general* A State racing commission or a breed governing organization for a breed of horses other than Thoroughbred horses may elect to have such breed be covered by this Act by the filing of a designated election form and subsequent approval by the Authority. A State racing commission may elect to have a breed covered by this Act for the applicable State only.
+  - **(2)** *Election conditional on funding mechanism* A commission or organization may not make an election under paragraph (1) unless the commission or organization has in place a mechanism to provide sufficient funds to cover the costs of the administration of this Act with respect to the horses that will be covered by this Act as a result of the election.
+  - **(3)** *Apportionment* The Authority shall apportion costs described in paragraph (2) in connection with an election under paragraph (1) fairly among all impacted segments of the horseracing industry, subject to approval by the Commission in accordance with section 4. Such apportionment may not provide for the allocation of costs or funds among breeds of horses.
 
-- **(a)** *Establishment* There is established the Horseracing Anti-doping and Medication Control Authority, a private, independent, self-regulatory, nonprofit corporation with responsibility for developing and administering an anti-doping and medication control program for covered horses, covered persons, and covered horseraces.
-- **(b)** *Composition* The Authority shall be governed by a board (in this section referred to as the “Board”) which shall be comprised of the following:
-  - **(1)** The chief executive officer of the United States Anti-Doping Agency.
-  - **(2)** Six individuals, selected by the United States Anti-Doping Agency from among members of the board of the United States Anti-Doping Agency.
-  - **(3)** Six individuals selected by the United States Anti-Doping Agency—
-    - **(A)** from among individuals who represent different equine industry constituencies; and
-    - **(B)** such that—
-      - **(i)** at least 1 member has expertise in equine anti-doping and medication control regulation;
-      - **(ii)** at least 1 member has significant experience as an owner of covered horses or is a person with expertise in the breeding of race horses;
-      - **(iii)** at least 1 member was formerly employed as an executive with a racetrack;
-      - **(iv)** at least 1 member has a degree in veterinary medicine and either has expertise in equine veterinary practice with regard to race horses or expertise in veterinary research in matters affecting race horses;
-      - **(v)** at least 1 member has expertise in training covered horses; and
-      - **(vi)** at least 1 member has expertise in riding covered horses as a jockey.
-- **(c)** *Selection methodology* In selecting individuals under subsection (b), the United States Anti-Doping Agency shall—
-  - **(1)** solicit lists of 2 candidates each from a cross-section of equine industry representatives;
-  - **(2)** endeavor to provide diversity among the Board’s membership between persons primarily involved with the 3 breeds of racehorses, to the greatest extent practicable and consistent with the standards for Board membership set forth in this section;
-  - **(3)** if Board positions remain unfilled from the lists solicited under paragraph (1), ask organizations, groups, and associations that represent the various equine constituencies set forth in subsection (b)(3)(B) to submit an additional 2 candidates from which the Agency may fill the remaining open Board positions; and
-  - **(4)** if Board positions remain unfilled from the second set of candidate lists, choose, in accordance with subsection (b), one or more persons at large with substantial experience in the equine industry and meets the qualifications of the person described in subsection (b) whose position on the Board remains to be filled.
-- **(d)** *Conflicts of interest* To avoid any conflict of interest, no member of the Board shall be—
-  - **(1)** an individual who has a financial interest in or provides goods or services to covered horses;
-  - **(2)** an official or officer of any equine industry representative or serve in any governance or policymaking capacity for an equine industry representative; or
-  - **(3)** an employee or have a business or commercial relationship with any of the individuals or organizations described in paragraph (1) or (2).
-- **(e)** *Terms; vacancies*
-  - **(1)** *Staggered terms* The terms of members of the Board shall be 3 years and shall be staggered so that the terms of no more than 5 members of the Board expire in any year.
-  - **(2)** *Limitation on consecutive terms* Members of the Board may serve for no more than 2 consecutive full terms.
-  - **(3)** *Vacancies* Vacancies among Board positions held by equine industry candidates shall be filled pursuant to the provisions of subsection (b) and any other vacancies shall be filled pursuant to the provisions of the rules of the Authority. At any time after the expiration of 5 years following the date on which initial selection and appointment of the members of the Board of the Authority is completed under section 5, the United States Anti-Doping Agency may withdraw from participation in the Authority and direct its chief executive officer and board members resign their memberships on the Board of the Authority. Following receipt of such resignations by the Authority, the remaining members of the Board of the Authority shall select new Board members to fill the vacant positions in the same manner as is provided in paragraphs (1) through (4) of subsection (c).
-- **(f)** *Standing committees*
-  - **(1)** *In general* The Authority shall establish one or more standing advisory and technical committees, which shall include qualified representatives from horseracing industry constituencies, including trainers, owners, the breed registry, veterinarians, regulators, race tracks, testing laboratories, bettors, and jockeys.
-  - **(2)** *Committee on Development and Maintenance of the Horseracing Anti-Doping and Medication Control Program* The Authority shall establish a standing advisory committee, which shall include medication and regulatory experts and other representatives from horseracing industry constituencies, to provide advice and guidance to the Board on the development and maintenance of the horseracing anti-doping and medication control program.
-  - **(3)** *Chairperson of committee on permitted and prohibited substances and methods* The Authority shall appoint the Board member selected pursuant to subsection (b)(3)(B)(i) to serve as the chairperson of the standing advisory and technical committee on permitted and prohibited substances and methods.
-  - **(4)** *Duties* The committees established under paragraph (1) shall assist the Authority in establishing and administering the horseracing anti-doping and medication control program.
-  - **(5)** *Committee conflicts of interest* No standing committee members, other than those who are members of the Board of the Authority or employees of the Authority, shall be subject to the conflict of interest provisions set forth in section 5(d).
-- **(g)** *Administration of the Authority*
-  - **(1)** *Administrative structure* The Authority shall establish an administrative structure and employ among its staff employees with sufficient experience in and knowledge of equine-related and anti-doping and medication control matters as appropriate to carry out the responsibilities set forth in this Act.
-  - **(2)** *Employees generally* The Board of the Authority shall select the Authority’s chief executive officer. All Authority employees shall serve at the pleasure the Authority’s chief executive officer. All Authority employees shall be subject to the conflict of interest revisions applicable to members of the Board of the Authority as set forth in section 5(d).
-- **(h)** *Oversight of Rules Prescribed by the Authority*
-  - **(1)** *Filing requirement* The Authority shall file with the Commission, in accordance with such rules as the Commission may prescribe, copies of any proposed rule or change to any rule (collectively “proposed rule”) of the Authority. Proposed rule means the lists of permitted and prohibited substances; laboratory standards for accreditation and protocols; schedules of sanctions for violations; processes and procedures for disciplinary hearings; and formula and methodology for determining assessments set out in section 11(d).
-  - **(2)** *Publication and comment*
-    - **(A)** *In general* The Commission shall publish the proposed rule and provide interested persons an opportunity to comment.
-    - **(B)** *Approval required* No proposed rule shall take effect unless it has been approved by the Commission.
-  - **(3)** *Approval*
-    - **(A)** *Period* The Commission shall approve or disapprove a proposed rule no later than 45 days after the proposed rule is published.
-    - **(B)** *Conditions* The Commission shall approve a proposed rule if it finds that such proposed rule is consistent with the requirements of this Act and the rules and regulations promulgated by the Commission.
-- **(i)** *Oversight of Final Decisions of the Authority*
-  - **(1)** *Notice of sanctions* If the Authority imposes any final sanction, the Authority shall promptly file notice thereof with the Commission in such form as the Commission may require.
-  - **(2)** *Review by administrative law judge*
-    - **(A)** *Application for review* All final sanctions of the Authority shall be subject to review by an administrative law judge appointed pursuant to this Act upon application by the Commission or any person aggrieved by such final sanction filed within 30 days after the date such notice was filed with the Commission.
-    - **(B)** *Appointment of administrative law judge* The Commission shall appoint one or more administrative law judges to serve a term of seven years unless earlier removed by the Commission for cause. At the time of his/her appointment, the administrative law judge shall have been a practicing lawyer for at least ten years and shall have demonstrated expertise in matters relating to horseracing and anti-doping and medication control.
-    - **(C)** *Nature of review* In matters reviewed pursuant to this subsection, the administrative law judge shall conduct a hearing in a manner as the Commission may specify by rule. Such hearing shall conform to section 556 of title 5, United States Code. The administrative law judge shall determine whether—
-      - **(i)** a person has engaged in such acts or practices or has omitted such acts or practices as the Authority has found the person to have engaged in or omitted; and
-      - **(ii)** such acts, practices, or omissions are in violation of the Act or the anti-doping and medication control rules approved by the Commission.
-    - **(D)** *Decision by administrative law judge* The administrative law judge shall render a decision within 60 days of the conclusion of the hearing. Such decision may affirm, reverse, modify, set aside, or remand for further proceedings, in whole or in part, the final sanction of the Authority. Such decision shall constitute the decision of the Commission without further proceedings unless there is a timely notice or application for review filed pursuant to paragraph (3).
-  - **(3)** *Review by commission*
-    - **(A)** *Notice of review by commission* The Commission may, on its own motion, review any decision of the administrative law judge rendered pursuant to subsection (i)(2) by giving notice thereof to the Authority and interested parties within 30 days of the decision by the administrative law judge.
-    - **(B)** *Application for review* The Authority or any person aggrieved by the decision of an administrative law judge rendered pursuant to subsection (i)(2) may petition the Commission to review such decision by filing an application for review within 30 days of the rendering of such decision. If such application is denied, the decision of the administrative law judge shall constitute the decision of the Commission without further proceedings. Whether to grant review is within the Commission’s discretion, provided however that the Commission may grant review only where the application therefor demonstrates:
-      - **(i)** a prejudicial error was committed in the conduct of the proceeding; or
-      - **(ii)** the decision embodies an erroneous application of the anti-doping and medication rules previously approved by the Commission.
-    - **(C)** *Nature of review* In matters reviewed pursuant to this subsection, the Commission may affirm, reverse, modify, set aside or remand for further proceedings, in whole or in part, on the basis of the record before the administrative law judge and briefs submitted to the Commission. The Commission shall give deference to a factual finding by the administrative law judge unless such finding is clearly erroneous. The Commission shall review a conclusion of law by the administrative law judge de novo. The Commission shall not permit the taking of additional evidence except upon a showing that such additional evidence is material and that such evidence could not in the exercise of reasonable diligence have been adduced previously.
-  - **(4)** *Stay of proceedings* Review by an administrative law judge or the Commission pursuant to subsection (i) shall not operate as a stay of any final sanction of the Authority unless the administrative law judge or Commission otherwise orders.
+## § 6. Horseracing anti-doping and medication control program
 
-## § 6. Horseracing anti-doping and medication control program required
+- **(a)** *Program required*
+  - **(1)** *In general* Not later than the program effective date, and after notice and an opportunity for public comment in accordance with section 4, the Authority shall establish a horseracing anti-doping and medication control program applicable to all covered horses, covered persons, and covered horseraces in accordance with the registration of covered persons under section 5(d).
+  - **(2)** *Consideration of other breeds* In developing the horseracing anti-doping and medication control program with respect to a breed of horse that is made subject to this Act by election of a State racing commission or the breed governing organization for such horse under section 5(k), the Authority shall consider the unique characteristics of such breed.
+- **(b)** *Considerations in development of program* In developing the horseracing anti-doping and medication control program, the Authority shall take into consideration the following:
+  - **(1)** Covered horses should compete only when they are free from the influence of medications, other foreign substances, and methods that affect their performance.
+  - **(2)** Covered horses that are injured or unsound should not train or participate in covered races, and the use of medications, other foreign substances, and treatment methods that mask or deaden pain in order to allow injured or unsound horses to train or race should be prohibited.
+  - **(3)** Rules, standards, procedures, and protocols regulating medication and treatment methods for covered horses and covered races should be uniform and uniformly administered nationally.
+  - **(4)** To the extent consistent with this Act, consideration should be given to international anti-doping and medication control standards of the International Federation of Horseracing Authorities and the Principles of Veterinary Medical Ethics of the American Veterinary Medical Association.
+  - **(5)** The administration of medications and treatment methods to covered horses should be based upon an examination and diagnosis that identifies an issue requiring treatment for which the medication or method represents an appropriate component of treatment.
+  - **(6)** The amount of therapeutic medication that a covered horse receives should be the minimum necessary to address the diagnosed health concerns identified during the examination and diagnostic process.
+  - **(7)** The welfare of covered horses, the integrity of the sport, and the confidence of the betting public require full disclosure to regulatory authorities regarding the administration of medications and treatments to covered horses.
+- **(c)** *Activities* The following activities shall be carried out under the horseracing anti-doping and medication control program:
+  - **(1)** *Standards for anti-doping and medication control* Not later than 120 days before the program effective date, the Authority shall issue, by rule—
+    - **(A)** uniform standards for—
+      - **(i)** the administration of medication to covered horses by covered persons; and
+      - **(ii)** laboratory testing accreditation and protocols; and
+    - **(B)** a list of permitted and prohibited medications, substances, and methods, including allowable limits of permitted medications, substances, and methods.
+  - **(2)** *Review process for administration of medication* The development of a review process for the administration of any medication to a covered horse during the 48-hour period preceding the next racing start of the covered horse.
+  - **(3)** *Agreement requirements* The development of requirements with respect to agreements under section 5(e).
+  - **(4)** *Anti-doping and medication control enforcement agency*
+    - **(A)** *Control rules, protocols, etc* Except as provided in paragraph (5), the anti-doping and medication control program enforcement agency under section 5(e) shall, in consultation with the anti-doping and medication control standing committee of the Authority and consistent with international best practices, develop and recommend anti-doping and medication control rules, protocols, policies, and guidelines for approval by the Authority.
+    - **(B)** *Results management* The anti-doping and medication control enforcement agency shall conduct and oversee anti-doping and medication control results management, including independent investigations, charging and adjudication of potential medication control rule violations, and the enforcement of any civil sanctions for such violations. Any final decision or civil sanction of the anti-doping and medication control enforcement agency under this subparagraph shall be the final decision or civil sanction of the Authority, subject to review in accordance with section 9.
+    - **(C)** *Testing* The anti-doping enforcement agency shall perform and manage test distribution planning (including intelligence-based testing), the sample collection process, and in-competition and out-of-competition testing (including no-advance-notice testing).
+    - **(D)** *Testing laboratories* The anti-doping and medication control enforcement agency shall accredit testing laboratories based upon the standards established under this Act, and shall monitor, test, and audit accredited laboratories to ensure continuing compliance with accreditation standards.
+  - **(5)** *Anti-doping and medication control standing committee* The anti-doping and medication control standing committee shall, in consultation with the anti-doping and medication control enforcement agency, develop lists of permitted and prohibited medications, methods, and substances for recommendation to, and approval by, the Authority. Any such list may prohibit the administration of any substance or method to a horse at any time after such horse becomes a covered horse if the Authority determines such substance or method has a long-term degrading effect on the soundness of a horse.
+- **(d)** *Prohibition* Except as provided in subsections (e) and (f), the horseracing anti-doping and medication control program shall prohibit the administration of any prohibited or otherwise permitted substance to a covered horse within 48 hours of its next racing start, effective as of the program effective date.
+- **(e)** *Advisory committee study and report*
+  - **(1)** *In general* Not later than the program effective date, the Authority shall convene an advisory committee comprised of horseracing anti-doping and medication control industry experts, including a member designated by the anti-doping and medication control enforcement agency, to conduct a study on the use of furosemide on horses during the 48-hour period before the start of a race, including the effect of furosemide on equine health and the integrity of competition and any other matter the Authority considers appropriate.
+  - **(2)** *Report* Not later than three years after the program effective date, the Authority shall direct the advisory committee convened under paragraph (1) to submit to the Authority a written report on the study conducted under that paragraph that includes recommended changes, if any, to the prohibition in subsection (d).
+  - **(3)** *Modification of prohibition*
+    - **(A)** *In general* After receipt of the report required by paragraph (2), the Authority may, by unanimous vote of the Board of the Authority, modify the prohibition in subsection (d) and, notwithstanding subsection (f), any such modification shall apply to all States beginning on the date that is three years after the program effective date.
+    - **(B)** *Condition* In order for a unanimous vote described in subparagraph (A) to effect a modification of the prohibition in subsection (d), the vote must include unanimous adoption of each of the following findings:
+      - **(i)** That the modification is warranted.
+      - **(ii)** That the modification is in the best interests of horse racing.
+      - **(iii)** That furosemide has no performance enhancing effect on individual horses.
+      - **(iv)** That public confidence in the integrity and safety of racing would not be adversely affected by the modification.
+- **(f)** *Exemption*
+  - **(1)** *In general* Except as provided in paragraph (2), only during the three-year period beginning on the program effective date, a State racing commission may submit to the Authority, at such time and in such manner as the Authority may require, a request for an exemption from the prohibition in subsection (d) with respect to the use of furosemide on covered horses during such period.
+  - **(2)** *Exceptions* An exemption under paragraph (1) may not be requested for—
+    - **(A)** two-year-old covered horses; or
+    - **(B)** covered horses competing in stakes races.
+  - **(3)** *Contents of request* A request under paragraph (1) shall specify the applicable State racing commission’s requested limitations on the use of furosemide that would apply to the State under the horseracing anti-doping and medication control program during such period. Such limitations shall be no less restrictive on the use and administration of furosemide than the restrictions set forth in State’s laws and regulations in effect as of September 1, 2020.
+  - **(4)** *Grant of exemption* Subject to subsection (e)(3), the Authority shall grant an exemption requested under paragraph (1) for the remainder of such period and shall allow the use of furosemide on covered horses in the applicable State, in accordance with the requested limitations.
+- **(g)** *Baseline anti-doping and medication control rules*
+  - **(1)** *In general* Subject to paragraph (3), the baseline anti-doping and medication control rules described in paragraph (2) shall—
+    - **(A)** constitute the initial rules of the horseracing anti-doping and medication control program; and
+    - **(B)** except as exempted pursuant to subsections (e) and (f), remain in effect at all times after the program effective date.
+  - **(2)** *Baseline anti-doping medication control rules described*
+    - **(A)** *In general* The baseline anti-doping and medication control rules described in this paragraph are the following:
+      - **(i)** The lists of permitted and prohibited substances (including drugs, medications, and naturally occurring substances and synthetically occurring substances) in effect for the International Federation of Horseracing Authorities, including the International Federation of Horseracing Authorities International Screening Limits for urine, dated May 2019, and the International Federation of Horseracing Authorities International Screening Limits for plasma, dated May 2019.
+      - **(ii)** The World Anti-Doping Agency International Standard for Laboratories (version 10.0), dated November 12, 2019.
+      - **(iii)** The Association of Racing Commissioners International out-of-competition testing standards, Model Rules of Racing (version 9.2).
+      - **(iv)** The Association of Racing Commissioners International penalty and multiple medication violation rules, Model Rules of Racing (version 6.2).
+    - **(B)** *Conflict of rules* In the case of a conflict among the rules described in subparagraph (A), the most stringent rule shall apply.
+  - **(3)** *Modifications to baseline rules*
+    - **(A)** *Development by anti-doping and medication control standing committee* The anti-doping and medication control standing committee, in consultation with the anti-doping and medication control enforcement agency, may develop and submit to the Authority for approval by the Authority proposed modifications to the baseline anti-doping and medication control rules.
+    - **(B)** *Authority approval* If the Authority approves a proposed modification under this paragraph, the proposed modification shall be submitted to and considered by the Commission in accordance with section 4.
+    - **(C)** *Anti-doping and medication control enforcement agency veto authority* The Authority shall not approve any proposed modification that renders an anti-doping and medication control rule less stringent than the baseline anti-doping and medication control rules described in paragraph (2) (including by increasing permitted medication thresholds, adding permitted medications, removing prohibited medications, or weakening enforcement mechanisms) without the approval of the anti-doping and medication control enforcement agency.
 
-- **(a)** *Program required* Not later than 1 year after the date on which initial selection and appointment of the members of the board of the Authority is completed under section 5 and after notice to and with appropriate opportunity for comment from equine industry representatives and the public, the Authority shall develop and administer the horseracing anti-doping and medication control program for covered horses, covered persons, and covered horseraces. To the extent practicable, such program shall take into account the unique characteristics of each separate breed of horse.
-- **(b)** *Elements of program* The horseracing anti-doping and medication control program shall include the following:
-  - **(1)** A uniform set of anti-doping and medication control rules.
-  - **(2)** Lists of permitted and prohibited substances (which may include, without limitation, drugs, medications, naturally occurring substances and synthetically occurring substances) and methods.
-  - **(3)** A prohibition upon the administration of any prohibited or otherwise permitted substance to a covered horse within 24 hours of its next racing start, which shall be effective not later than January 1, 2019.
-  - **(4)** A process for sample collection.
-  - **(5)** Programs for in-competition and out-of-competition testing (including no-advance-notice testing and mandatory reporting of each horse’s location for testing).
-  - **(6)** Testing procedures, standards, and protocols for both in-competition and out-of-competition testing.
-  - **(7)** Laboratory standards for accreditation and testing requirements, procedures, and protocols.
-  - **(8)** The undertaking of investigations at racetrack and non-racetrack facilities related to anti-doping and medication control rule violations.
-  - **(9)** Procedures for investigating, charging, and adjudicating violations and for the enforcement of sanctions for violations.
-  - **(10)** A schedule of sanctions for violations.
-  - **(11)** Disciplinary hearings, which may include binding arbitration, sanctions and research.
-  - **(12)** Management of violation results.
-  - **(13)** Programs relating to anti-doping and medication control research and education.
-- **(c)** *Applicability to covered horses and persons*
-  - **(1)** *In general* The equine horseracing anti-doping and medication control program developed and administered pursuant to subsection (a) shall apply to all covered horses, covered persons, and covered horseraces.
-  - **(2)** *Agreement by covered persons* As a condition of eligibility to participate in covered horseraces, covered persons shall agree that they and their covered horses shall be bound by the provisions of the horseracing anti-doping and medication control program.
-- **(d)** *Limitation of authority*
-  - **(1)** *Prospective application* The jurisdiction and authority of the Commission and Authority with respect to the horseracing anti-doping and medication control program shall be prospective only.
-  - **(2)** *No authority over previous matters* Neither the Commission nor the Authority shall have authority or responsibility to investigate, prosecute, adjudicate, or penalize conduct occurring prior to the effective date of the horseracing anti-doping and medication control program.
-  - **(3)** *Preservation of state racing commission authority over previous matters* State racing commissions shall retain authority over matters described in paragraph (2) until the final resolution of any resulting charges.
-- **(e)** *Considerations* The horseracing anti-doping and medication control program shall take into consideration international anti-doping and medication control standards, including the World Anti-Doping Code and the Principles of Veterinary Medical Ethics of the American Veterinary Medical Association, that could be applicable to the horseracing anti-doping and medication control program.
-- **(f)** *Updates* The Authority shall update the horseracing anti-doping and medication control program from time to time.
-- **(g)** *Lists of prohibited substances and methods*
-  - **(1)** *In general* The Authority shall, by rule develop, maintain, and publish lists of permitted and prohibited substances and methods.
-  - **(2)** *Contents* The initial list, which shall be subject to such future changes as the Authority considers appropriate and which shall be in effect until amended by the Authority, of prohibited substances and methods shall include any substance or method that is included on either—
-    - **(A)** class 1, 2, 3, and 4 drugs, medications, and substances in the Uniform Classification Guidelines for Foreign Substances of the Association of Racing Commissioners International, Version 14.0, revised January 2019; or
-    - **(B)** the World Anti-Doping Code International Standard Prohibited List, January 2019,
-  - **(3)** *Deadlines for lists*
-    - **(A)** *Developed and published* The lists of permitted and prohibited substances and methods, including all modifications to the initial lists, shall be developed and published not later than the date that is 120 days before the date on which the horseracing anti-doping and medication control programs goes into effect under section 6(a).
-    - **(B)** *Effective* The lists described in subparagraph (A) shall take effect on the date that is 1 year after the date on which initial selection and appointment of the members of the board of the Authority is completed under section 5.
-  - **(4)** *Periodic review*
-    - **(A)** *In general* The inclusion of permitted or prohibited substances or methods on the lists shall be subject to periodic review by the Authority, which shall be subject to review by the Commission under section 4, for modification, substitution, addition to, or deletion from the lists.
-    - **(B)** *Establishment of notice, consultation, and comment process* The Authority shall establish a notice, consultation, and comment process for the periodic reviews carried out under subparagraph (A) that involves industry representatives and the public.
-- **(h)** *Anti-Doping and medication control rule violations*
-  - **(1)** *In general* The Authority, after notice to and with appropriate opportunity for comment from industry representatives and the public, shall establish, by rule, a list of anti-doping and medication control rule violations applicable to either horses or covered persons.
-  - **(2)** *Elements* The list established under paragraph (1) may include the following:
-    - **(A)** Strict liability for the presence of a prohibited substance or method in a horse’s sample or the use of a prohibited substance or method.
-    - **(B)** Strict liability for the presence of a permitted substance in a horse’s sample in excess of the amount allowed by the horseracing anti-doping and medication control program.
-    - **(C)** Strict liability for the use of a permitted method in violation of the applicable limitations established within the horseracing and medication control program.
-    - **(D)** Attempted use of a prohibited substance or method.
-    - **(E)** Possession of any prohibited substance or method.
-    - **(F)** Attempted possession of any prohibited substance or method.
-    - **(G)** Administration or attempted administration of any prohibited substance or method.
-    - **(H)** Refusing or failing without compelling justification to submit a horse for sample collection.
-    - **(I)** Tampering or attempted tampering with any part of doping control.
-    - **(J)** Trafficking or attempted trafficking in any prohibited substance or method and complicity in any anti-doping and medication control rule violation.
-- **(i)** *Testing laboratories*
-  - **(1)** *In general* Not later than 1 year after the date on which initial selection and appointment of the members of the board of the Authority is completed under section 5, the Authority shall establish by rule standards of accreditation for laboratories involved in the testing of samples taken from covered horses, the process for achieving and maintaining accreditation, and the standards and protocols for testing of samples.
-  - **(2)** *Extension of provisional or interim accreditation* The Authority may, by rule, extend provisional or interim accreditation to laboratories accredited by the Racing Medication and Testing Consortium, Inc.
-  - **(3)** *Selection of laboratories by states* Each State racing commission, if it so elects, shall determine the laboratory to be used in testing samples taken within its jurisdiction, provided that the laboratory selected has been accredited by, and complies with the testing protocols and standards established by, the Authority.
-  - **(4)** *Selection of laboratories by the authority* If a State racing commission does not elect to determine the laboratory to be used in testing samples taken within its jurisdiction, the Authority shall by rule, make the selection.
-- **(j)** *Results management and disciplinary process*
-  - **(1)** *In general* Not later than 1 year after the date on which initial selection and appointment of the members of the board of the Authority is completed under section 5, the Authority, after notice to and with appropriate opportunity for comment from equine industry representatives and the public, shall promulgate rules for anti-doping and medication control results management and the disciplinary process for anti-doping and medication control rule violation results management, including the following:
-    - **(A)** Provisions for notification of anti-doping and medication control rule violations.
+## § 7. Racetrack Safety Program
+
+- **(a)** *Establishment and considerations*
+  - **(1)** *In general* Not later than the program effective date, and after notice and an opportunity for public comment in accordance with section 4, the Authority shall establish a racetrack safety program applicable to all covered horses, covered persons, and covered horseraces in accordance with the registration of covered persons under section 5(d).
+  - **(2)** *Considerations in development of safety program* In the development of the horseracing safety program for covered horses, covered persons, and covered horseraces, the Authority and the Commission shall take into consideration existing safety standards including the National Thoroughbred Racing Association Safety and Integrity Alliance Code of Standards, the International Federation of Horseracing Authority's International Agreement on Breeding, Racing, and Wagering, and the British Horseracing Authority's Equine Health and Welfare program.
+- **(b)** *Elements of horseracing safety program* The horseracing safety program shall include the following:
+  - **(1)** A set of training and racing safety standards and protocols taking into account regional differences and the character of differing racing facilities.
+  - **(2)** A uniform set of training and racing safety standards and protocols consistent with the humane treatment of covered horses, which may include lists of permitted and prohibited practices or methods (such as crop use).
+  - **(3)** A racing surface quality maintenance system that—
+    - **(A)** takes into account regional differences and the character of differing racing facilities; and
+    - **(B)** may include requirements for track surface design and consistency and established standard operating procedures related to track surface, monitoring, and maintenance (such as standardized seasonal assessment, daily tracking, and measurement).
+  - **(4)** A uniform set of track safety standards and protocols, that may include rules governing oversight and movement of covered horses and human and equine injury reporting and prevention.
+  - **(5)** Programs for injury and fatality data analysis, that may include pre- and post-training and race inspections, use of a veterinarian's list, and concussion protocols.
+  - **(6)** The undertaking of investigations at racetrack and non-racetrack facilities related to safety violations.
+  - **(7)** Procedures for investigating, charging, and adjudicating violations and for the enforcement of civil sanctions for violations.
+  - **(8)** A schedule of civil sanctions for violations.
+  - **(9)** Disciplinary hearings, which may include binding arbitration, civil sanctions, and research.
+  - **(10)** Management of violation results.
+  - **(11)** Programs relating to safety and performance research and education.
+  - **(12)** An evaluation and accreditation program that ensures that racetracks in the United States meet the standards described in the elements of the Horseracing Safety Program.
+- **(c)** *Activities* The following activities shall be carried out under the racetrack safety program:
+  - **(1)** *Standards for racetrack safety* The development, by the racetrack safety standing committee of the Authority in section 3(c)(2) of uniform standards for racetrack and horseracing safety.
+  - **(2)** *Standards for safety and performance accreditation*
+    - **(A)** *In general* Not later than 120 days before the program effective date, the Authority, in consultation with the racetrack safety standing committee, shall issue, by rule in accordance with section 4—
+      - **(i)** safety and performance standards of accreditation for racetracks; and
+      - **(ii)** the process by which a racetrack may achieve and maintain accreditation by the Authority.
+    - **(B)** *Modifications*
+      - **(i)** *In general* The Authority may modify rules establishing the standards issued under subparagraph (A), as the Authority considers appropriate.
+      - **(ii)** *Notice and comment* The Commission shall publish in the Federal Register any proposed rule of the Authority, and provide an opportunity for public comment with respect to, any modification under clause (i) in accordance with section 4.
+    - **(C)** *Extension of provisional or interim accreditation* The Authority may, by rule in accordance with section 4, extend provisional or interim accreditation to a racetrack accredited by the National Thoroughbred Racing Association Safety and Integrity Alliance on a date before the program effective date.
+  - **(3)** *Nationwide safety and performance database*
+    - **(A)** *In general* Not later than one year after the program effective date, and after notice and an opportunity for public comment in accordance with section 4, the Authority, in consultation with the Commission, shall develop and maintain a nationwide database of racehorse safety, performance, health, and injury information for the purpose of conducting an epidemiological study.
+    - **(B)** *Collection of information* In accordance with the registration of covered persons under section 5(d), the Authority may require covered persons to collect and submit to the database described in subparagraph (A) such information as the Authority may require to further the goal of increased racehorse welfare.
+
+## § 8. Rule violations and civil sanctions
+
+- **(a)** *Description of rule violations*
+  - **(1)** *In general* The Authority shall issue, by rule in accordance with section 4, a description of safety, performance, and anti-doping and medication control rule violations applicable to covered horses and covered persons.
+  - **(2)** *Elements* The description of rule violations established under paragraph (1) may include the following:
+    - **(A)** With respect to a covered horse, strict liability for covered trainers for—
+      - **(i)** the presence of a prohibited substance or method in a sample or the use of a prohibited substance or method;
+      - **(ii)** the presence of a permitted substance in a sample in excess of the amount allowed by the horseracing anti-doping and medication control program; and
+      - **(iii)** the use of a permitted method in violation of the applicable limitations established under the horseracing anti-doping and medication control program.
+    - **(B)** Attempted use of a prohibited substance or method on a covered horse.
+    - **(C)** Possession of any prohibited substance or method.
+    - **(D)** Attempted possession of any prohibited substance or method.
+    - **(E)** Administration or attempted administration of any prohibited substance or method on a covered horse.
+    - **(F)** Refusal or failure, without compelling justification, to submit a covered horse for sample collection.
+    - **(G)** Failure to cooperate with the Authority or an agent of the Authority during any investigation.
+    - **(H)** Failure to respond truthfully, to the best of a covered person’s knowledge, to a question of the Authority or an agent of the Authority with respect to any matter under the jurisdiction of the Authority.
+    - **(I)** Tampering or attempted tampering with the application of the safety, performance, or anti-doping and medication control rules or process adopted by the Authority, including—
+      - **(i)** the intentional interference, or an attempt to interfere, with an official or agent of the Authority;
+      - **(ii)** the procurement or the provision of fraudulent information to the Authority or agent; and
+      - **(iii)** the intimidation of, or an attempt to intimidate, a potential witness.
+    - **(J)** Trafficking or attempted trafficking in any prohibited substance or method.
+    - **(K)** Assisting, encouraging, aiding, abetting, conspiring, covering up, or any other type of intentional complicity involving a safety, performance, or anti-doping and medication control rule violation or the violation of a period of suspension or eligibility.
+    - **(L)** Threatening or seeking to intimidate a person with the intent of discouraging the person from the good faith reporting to the Authority, an agent of the Authority or the Commission, or the anti-doping and medication control enforcement agency under section 5(e), of information that relates to—
+      - **(i)** an alleged safety, performance, or anti-doping and medication control rule violation; or
+      - **(ii)** alleged noncompliance with a safety, performance, or anti-doping and medication control rule.
+- **(b)** *Testing laboratories*
+  - **(1)** *Accreditation and standards* Not later than 120 days before the program effective date, the Authority shall, in consultation with the anti-doping and medication control enforcement agency, establish, by rule in accordance with section 4—
+    - **(A)** standards of accreditation for laboratories involved in testing samples from covered horses;
+    - **(B)** the process for achieving and maintaining accreditation; and
+    - **(C)** the standards and protocols for testing such samples.
+  - **(2)** *Administration* The accreditation of laboratories and the conduct of audits of accredited laboratories to ensure compliance with Authority rules shall be administered by the anti-doping and medication control enforcement agency. The anti-doping and medication control enforcement agency shall have the authority to require specific test samples to be directed to and tested by laboratories having special expertise in the required tests.
+  - **(3)** *Extension of provisional or interim accreditation* The Authority may, by rule in accordance with section 4, extend provisional or interim accreditation to a laboratory accredited by the Racing Medication and Testing Consortium, Inc., on a date before the program effective date.
+  - **(4)** *Selection of laboratories*
+    - **(A)** *In general* Except as provided in paragraph (2), a State racing commission may select a laboratory accredited in accordance with the standards established under paragraph (1) to test samples taken in the applicable State.
+    - **(B)** *Selection by the Authority* If a State racing commission does not select an accredited laboratory under subparagraph (A), the Authority shall select such a laboratory to test samples taken in the State concerned.
+- **(c)** *Results management and disciplinary process*
+  - **(1)** *In general* Not later than 120 days before the program effective date, the Authority shall establish in accordance with section 4—
+    - **(A)** rules for safety, performance, and anti-doping and medication control results management; and
+    - **(B)** the disciplinary process for safety, performance, and anti-doping and medication control rule violations.
+  - **(2)** *Elements* The rules and process established under paragraph (1) shall include the following:
+    - **(A)** Provisions for notification of safety, performance, and anti-doping and medication control rule violations.
     - **(B)** Hearing procedures.
-    - **(C)** Burden of proof.
+    - **(C)** Standards for burden of proof.
     - **(D)** Presumptions.
     - **(E)** Evidentiary rules.
     - **(F)** Appeals.
     - **(G)** Guidelines for confidentiality and public reporting of decisions.
-  - **(2)** *Due process* The rules promulgated under paragraph (1) shall provide for adequate due process, including impartial hearing officers or tribunals commensurate with the seriousness of the alleged anti-doping and medication control rule violation and the possible sanctions for such violation.
-- **(k)** *Sanctions*
-  - **(1)** *In general* The Authority, after notice to and with appropriate opportunity for comment from industry representatives and the public, shall promulgate uniform rules imposing sanctions against covered persons or covered horses for anti-doping and medication control rule violations.
-  - **(2)** *Requirements* The rules promulgated under paragraph (1) shall—
+  - **(3)** *Due process* The rules established under paragraph (1) shall provide for adequate due process, including impartial hearing officers or tribunals commensurate with the seriousness of the alleged safety, performance, or anti-doping and medication control rule violation and the possible civil sanctions for such violation.
+- **(d)** *Civil sanctions*
+  - **(1)** *In general* The Authority shall establish uniform rules, in accordance with section 4, imposing civil sanctions against covered persons or covered horses for safety, performance, and anti-doping and medication control rule violations.
+  - **(2)** *Requirements* The rules established under paragraph (1) shall—
     - **(A)** take into account the unique aspects of horseracing;
     - **(B)** be designed to ensure fair and transparent horseraces; and
-    - **(C)** deter the commission of anti-doping and medication control rule violations.
-  - **(3)** *Severity* The rules promulgated under paragraph (1) shall impose sanctions up to and including lifetime bans from horseracing, disgorgement of purses, monetary fines and penalties and changes to the order of finish in covered races. The sanctioning rules shall also include opportunities for anti-doping and medication control rule violators to reduce the otherwise applicable sanctions generally comparable to those opportunities afforded by the United States Anti-Doping Agency’s Protocol for Olympic Movement Testing.
-- **(l)** *Enforcement* In addition to any penalties or sanctions imposed in accordance with the provisions of the horseracing anti-doping and medication control program, whenever it shall appear to the Authority that one has engaged, is engaged or is about to engage in acts or practices constituting a violation of any provision of this Act or the horseracing anti-doping and medication control program, the Authority may commence a civil action against such covered person or any racetrack in the proper district court of the United States, the United States District Court for the District of Columbia, or the United States courts of any territory or other place subject to the jurisdiction of the United States, to enjoin such acts or practices, to enforce any fines, penalties or other sanctions imposed in accordance with the provisions of the anti-doping and medication control program and for all other relief to which the Authority may be entitled. Upon a proper showing, a permanent or temporary injunction or restraining order shall be granted without bond.
-- **(m)** *Periodic Assessments by Comptroller General of the United States*
-  - **(1)** *Assessments* Following the third anniversary of the date on which the anti-doping and medication control program identified in section 6 takes effect and not less frequently than once every 4 years thereafter, the Comptroller General of the United States shall review and analyze results of the such program in comparison to the results of similar equine anti-doping and medication control programs in major foreign racing jurisdictions.
-  - **(2)** *Gathering assessments from industry representatives* In conjunction with review and analysis required by paragraph (1), the Comptroller General may invite persons representing the significant facets of the horseracing industry, including associations and individuals representing racetracks, breeders, owners, trainers, veterinarians, jockeys, bettors, equine researchers, and organizations dedicated to the welfare and safety of covered horses, to collectively meet with and provide testimony to the Comptroller General for the purpose of gathering further assessments on the performance and effectiveness of the Authority and the anti-doping and medication control program.
-  - **(3)** *Reports* Upon the conclusion of a review and analysis under paragraph (1), the Comptroller General shall submit to Congress a report on such review and analysis with an assessment of the performance of the Authority and the Commission concerning their effectiveness as an anti-doping and medication control organization and the efficiency of the horseracing anti-doping and medication control program.
+    - **(C)** deter safety, performance, and anti-doping and medication control rule violations.
+  - **(3)** *Severity* The civil sanctions under paragraph (1) may include—
+    - **(A)** lifetime bans from horseracing, disgorgement of purses, monetary fines and penalties, and changes to the order of finish in covered races; and
+    - **(B)** with respect to anti-doping and medication control rule violators, an opportunity to reduce the applicable civil sanctions that is comparable to the opportunity provided by the Protocol for Olympic Movement Testing of the United States Anti-Doping Agency.
+- **(e)** *Modifications* The Authority may propose a modification to any rule established under this section as the Authority considers appropriate, and the proposed modification shall be submitted to and considered by the Commission in accordance with section 4.
 
-## § 7. Other laws unaffected
+## § 9. Review of final decisions of the Authority
 
-This Act shall not be construed to modify, impair, or restrict the operation or effectiveness of State or Federal statutes and regulations directed at—
+- **(a)** *Notice of civil sanctions* If the Authority imposes a final civil sanction for a violation committed by a covered person pursuant to the rules or standards of the Authority, the Authority shall promptly submit to the Commission notice of the civil sanction in such form as the Commission may require.
+- **(b)** *Review by administrative law judge*
+  - **(1)** *In general* With respect to a final civil sanction imposed by the Authority, on application by the Commission or a person aggrieved by the civil sanction filed not later than 30 days after the date on which notice under subsection (a) is submitted, the civil sanction shall be subject to de novo review by an administrative law judge.
+  - **(2)** *Nature of review*
+    - **(A)** *In general* In matters reviewed under this subsection, the administrative law judge shall determine whether—
+      - **(i)** a person has engaged in such acts or practices, or has omitted such acts or practices, as the Authority has found the person to have engaged in or omitted;
+      - **(ii)** such acts, practices, or omissions are in violation of this Act or the anti-doping and medication control or racetrack safety rules approved by the Commission; or
+      - **(iii)** the final civil sanction of the Authority was arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.
+    - **(B)** *Conduct of hearing* An administrative law judge shall conduct a hearing under this subsection in such a manner as the Commission may specify by rule, which shall conform to section 556 of title 5, United States Code.
+  - **(3)** *Decision by administrative law judge*
+    - **(A)** *In general* With respect to a matter reviewed under this subsection, an administrative law judge—
+      - **(i)** shall render a decision not later than 60 days after the conclusion of the hearing;
+      - **(ii)** may affirm, reverse, modify, set aside, or remand for further proceedings, in whole or in part, the final civil sanction of the Authority; and
+      - **(iii)** may make any finding or conclusion that, in the judgment of the administrative law judge, is proper and based on the record.
+    - **(B)** *Final decision* A decision under this paragraph shall constitute the decision of the Commission without further proceedings unless a notice or an application for review is timely filed under subsection (c).
+- **(c)** *Review by Commission*
+  - **(1)** *Notice of review by Commission* The Commission may, on its own motion, review any decision of an administrative law judge issued under subsection (b)(3) by providing written notice to the Authority and any interested party not later than 30 days after the date on which the administrative law judge issues the decision.
+  - **(2)** *Application for review*
+    - **(A)** *In general* The Authority or a person aggrieved by a decision issued under subsection (b)(3) may petition the Commission for review of such decision by filing an application for review not later than 30 days after the date on which the administrative law judge issues the decision.
+    - **(B)** *Effect of denial of application for review* If an application for review under subparagraph (A) is denied, the decision of the administrative law judge shall constitute the decision of the Commission without further proceedings.
+    - **(C)** *Discretion of Commission*
+      - **(i)** *In general* A decision with respect to whether to grant an application for review under subparagraph (A) is subject to the discretion of the Commission.
+      - **(ii)** *Matters to be considered* In determining whether to grant such an application for review, the Commission shall consider whether the application makes a reasonable showing that—
+        - **(I)** a prejudicial error was committed in the conduct of the proceeding; or
+        - **(II)** the decision involved—
+          - **(aa)** an erroneous application of the anti-doping and medication control or racetrack safety rules approved by the Commission; or
+          - **(bb)** an exercise of discretion or a decision of law or policy that warrants review by the Commission.
+  - **(3)** *Nature of review*
+    - **(A)** *In general* In matters reviewed under this subsection, the Commission may—
+      - **(i)** affirm, reverse, modify, set aside, or remand for further proceedings, in whole or in part, the decision of the administrative law judge; and
+      - **(ii)** make any finding or conclusion that, in the judgement of the Commission, is proper and based on the record.
+    - **(B)** *De novo review* The Commission shall review de novo the factual findings and conclusions of law made by the administrative law judge.
+    - **(C)** *Consideration of additional evidence*
+      - **(i)** *Motion by Commission* The Commission may, on its own motion, allow the consideration of additional evidence.
+      - **(ii)** *Motion by a party*
+        - **(I)** *In general* A party may file a motion to consider additional evidence at any time before the issuance of a decision by the Commission, which shall show, with particularity, that—
+          - **(aa)** such additional evidence is material; and
+          - **(bb)** there were reasonable grounds for failure to submit the evidence previously.
+        - **(II)** *Procedure* The Commission may—
+          - **(aa)** accept or hear additional evidence; or
+          - **(bb)** remand the proceeding to the administrative law judge for the consideration of additional evidence.
+- **(d)** *Stay of proceedings* Review by an administrative law judge or the Commission under this section shall not operate as a stay of a final civil sanction of the Authority unless the administrative law judge or Commission orders such a stay.
 
-- **(1)** any of the consents, approvals, or agreements required by the Interstate Horseracing Act of 1978;
-- **(2)** criminal conduct by covered persons and others;
-- **(3)** horseracing matters unrelated to anti-doping and medication control as addressed in this Act; or
-- **(4)** the use of medication in human participants in covered races.
+## § 10. Unfair or deceptive acts or practices
 
-## § 8. State delegation; duty of cooperation
+The sale of a covered horse, or of any other horse in anticipation of its future participation in a covered race, shall be considered an unfair or deceptive act or practice in or affecting commerce under section 5(a) of the Federal Trade Commission Act (15 U.S.C. 45(a)) if the seller—
+
+- **(1)** knows or has reason to know the horse has been administered—
+  - **(A)** a bisphosphonate prior to the horse's fourth birthday; or
+  - **(B)** any other substance or method the Authority determines has a long-term degrading effect on the soundness of the covered horse; and
+- **(2)** fails to disclose to the buyer the administration of the bisphosphonate or other substance or method described in paragraph (1)(B).
+
+## § 11. State delegation; cooperation
 
 - **(a)** *State delegation*
-  - **(1)** *In general* The Authority may enter into agreements with one or more State racing commissions to implement within their respective jurisdictions any of the components of the horseracing anti-doping and medication control program established by the Authority if the Authority determines that a particular State racing commission will be able to implement a component of the horseracing anti-doping and medication control program in accordance with the standards and requirements established by the Authority.
-  - **(2)** *Duration of agreements* Any agreement entered into under paragraph (1) shall remain in effect as long as the Authority determines the applicable racing commission to be implementing the components of the medication regulation program covered by the agreement in compliance with the standards and requirements established by the Authority.
-- **(b)** *Duty of cooperation* Where conduct by any person subject to the horseracing anti-doping and medication control program may involve both an anti-doping and medication control rule violation and violation of State or Federal law, this Act imposes a duty to cooperate and share information between the Authority and State and Federal law enforcement authorities.
+  - **(1)** *In general* The Authority may enter into an agreement with a State racing commission to implement, within the jurisdiction of the State racing commission, a component of the racetrack safety program or, with the concurrence of the anti-doping and medication control enforcement agency under section 5(e), a component of the horseracing anti-doping and medication control program, if the Authority determines that the State racing commission has the ability to implement such component in accordance with the rules, standards, and requirements established by the Authority.
+  - **(2)** *Implementation by State racing commission* A State racing commission or other appropriate regulatory body of a State may not implement such a component in a manner less restrictive than the rule, standard, or requirement established by the Authority.
+- **(b)** *Cooperation* To avoid duplication of functions, facilities, and personnel, and to attain closer coordination and greater effectiveness and economy in administration of Federal and State law, where conduct by any person subject to the horseracing medication control program or the racetrack safety program may involve both a medication control or racetrack safety rule violation and violation of Federal or State law, the Authority and Federal or State law enforcement authorities shall cooperate and share information.
 
-## § 9. Rules of construction
+## § 12. Determination of Budgetary Effects
 
-The Authority shall not have the power to impose criminal sanctions and shall not be considered nor construed to be an agent of, or an actor on behalf of, the United States Government or any State.
-
-## § 10. Effective date
-
-- **(a)** *In general* The horseracing anti-doping and medication control program shall take effect not later than the date that is 1 year after the date on which initial selection and appointment of the members of the board of the Authority is completed under section 5.
-- **(b)** *Transition* The Authority and State regulatory authorities shall work cooperatively to develop transition rules with respect to doping conduct, sanctions, and investigations arising prior to the effective date of the horseracing anti-doping and medication control program.
-
-## § 11. Funding
-
-- **(a)** *Rule of construction* Nothing in this Act shall be construed to require—
-  - **(1)** the appropriation of any amount to the Authority; or
-  - **(2)** the Federal Government to guarantee the debts of the Authority.
-- **(b)** *Initial funding*
-  - **(1)** *In general* Initial funding to establish the Authority and underwrite its operations prior to the effective date shall be provided by loans obtained by and donations made to the Authority.
-  - **(2)** *Borrowing and accepting donations* The Authority may borrow money and accept private donations and contributions toward the funding of its operations.
-  - **(3)** *Annual calculation of amounts required*
-    - **(A)** *In general* Not later than the date that is 90 days before the date set forth in section 10(a) and not later than November 1 of each year thereafter, the Authority shall determine and provide to each State racing commission the estimated amount required per racing starter to fund the horseracing anti-doping and medication control program for the coming year and to liquidate any loans or funding shortfall in the current year and any prior years.
-    - **(B)** *Basis of calculation* The amount calculated under subparagraph (A) shall be based upon the annual budget of the Authority for the succeeding year, as approved by the board of the Authority.
-    - **(C)** *Requirements regarding budgets of authority* The Authority’s initial budget shall require the approval of 2/3 of its board and any subsequent budget that exceeds the preceding year’s budget by more than 5 percent shall also require the approval of 2/3 of the board of the Authority.
-- **(c)** *Assessment and collection of fees by states*
-  - **(1)** *Notice of election* Any State racing commission that elects to remit fees pursuant to this subsection shall notify the Authority of such election at least 60 days prior to the adoption of the horseracing anti-doping and medication control program.
-  - **(2)** *Requirement to remit fees* Once a State racing commission makes such notification, the election shall remain in effect and the State racing commission shall be required to remit fees pursuant to this subsection.
-  - **(3)** *Withdrawal of election* A State racing commission may withdraw its election after providing notice to the Authority of its intent to cease remitting fees pursuant to this subsection not later than 1 year before ceasing such remitting.
-  - **(4)** *Schedule of remittance* Each State racing commission that elects to remit fees shall remit to the Authority on or before the 20th day of each calendar month an amount equal to the applicable fee per racing start multiplied by the number of racing starts in the State in the previous month.
-  - **(5)** *Determinations of methods* Each State racing commission shall determine, subject to the applicable laws and regulations of the State, the method by which the requisite amount shall be allocated, assessed, and collected.
-  - **(6)** *Sense of Congress* It is the sense of Congress that funding mechanisms imposed by State racing commissions should apportion the funding burden fairly among all impacted segments of the horseracing industry and may include check-off programs.
-- **(d)** *Assessment and collection of fees by the authority*
-  - **(1)** *Calculation* In the event a State racing commission does not elect to remit fees pursuant to subsection (c) or withdraws its election under such subsection, the Authority shall calculate each month the applicable fee per racing start multiplied by the number of racing starts in the State in the previous month.
-  - **(2)** *Allocation* The Authority shall equitably allocate that amount calculated under paragraph (1), among those involved in covered horseraces pursuant to such rules as the Authority may promulgate, subject to review by the Commission under section 4.
-  - **(3)** *Assessment* The Authority shall assess a fee equal to the allocation made under paragraph (2) and shall collect such fee according to such rules as the Authority may promulgate, subject to such Commission review.
-  - **(4)** *Limitation* A State racing commission that does not elect to remit fees pursuant to subsection (c) or that withdraws its election under such subsection shall not impose or collect from any person a fee or tax relating to anti-doping and medication control matters for covered horseraces.
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
