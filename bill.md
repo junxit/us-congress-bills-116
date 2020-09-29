@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 8128
 
-> To direct the Consumer Product Safety Commission to establish a pilot program to explore the use of artificial intelligence in support of the mission of the Commission and direct the Secretary of Commerce and the Federal Trade Commission to study and report on the use of blockchain technology and digital tokens, respectively.
+> To direct the Consumer Product Safety Commission to establish a pilot program to explore the use of artificial intelligence in support of the consumer product safety mission of the Commission.
 
 ## § 1. Short title; table of contents
 
