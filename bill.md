@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1289
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,31 +11,35 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Preserving Home and Office Numbers in Emergencies Act of 2019”.
+This Act may be cited as the “Preserving Home and Office Numbers in Emergencies Act of 2020” or the “PHONE Act of 2020”.
 
 ## § 2. Moratorium on number reassignment after disaster declaration
 
 - **(a)** *In general* Section 251(e) of the Communications Act of 1934 (47 U.S.C. 251(e)) is amended by adding at the end the following:
   > - **(4)** *Moratorium on number reassignment after disaster declaration*
-  >   - **(A)** *In general* During a covered period with respect to an area, a number assigned in such area may not be reassigned, and the assignment of such number may not be rescinded or otherwise modified, except at the request of the subscriber to which such number is assigned.
-  >   - **(B)** *Extension at request of subscriber* At the request of the subscriber, the prohibition in subparagraph (A) shall be extended with respect to the number assigned to such subscriber for 2 years beyond the end of the covered period.
+  >   - **(A)** *In general* In the case of a number assigned to a subscriber for the provision of fixed wireline voice service at a location in a designated area during a covered period—
+  >     - **(i)** the number may not be reassigned, except at the request of the subscriber; and
+  >     - **(ii)** the assignment of the number may not be rescinded or otherwise modified, except at the request of the subscriber.
+  >   - **(B)** *Extension at request of subscriber* During the covered period, at the request of a subscriber described in subparagraph (A), the prohibition in subparagraph (A) shall be extended for the number for 1 year after the date on which the covered period expires.
   >   - **(C)** *Subscriber right to cancel and resubscribe*
-  >     - **(i)** *In general* In the case of a number that is assigned to a subscriber for the provision of wireline voice service at a residence that is located in an area that is in a covered period (or in the case of such a number with respect to which the subscriber requests an extension under subparagraph (B)), if the major disaster involved results in covered damage to such residence—
-  >       - **(I)** the provider of such service may not charge the subscriber any early termination or other fee in connection with the cancellation of such service; and
-  >       - **(II)** if the subscriber cancels such service, such provider (or any other provider of wireline voice service that serves the location involved)—
-  >         - **(aa)** shall permit the subscriber to subscribe or resubscribe, as the case may be, to wireline voice service with such number at such residence or at a different residence (if such number is available in the location of such different residence); and
-  >         - **(bb)** may not charge the subscriber any connection fee or other fee relating to the initiation of such service.
-  >     - **(ii)** *Timing* Clause (i) shall cease to apply with respect to the number at the end of the covered period or at the end of the extended period under subparagraph (B), as the case may be.
-  >     - **(iii)** *Limitation* Except as provided in this subparagraph, the prohibition in subparagraph (A) and any extension of such prohibition under subparagraph (B) shall cease to apply with respect to a number when the subscriber cancels the service with respect to which the number is assigned.
-  >   - **(D)** *Identification on Commission website* The Commission shall publicly identify on the website of the Commission each area that is in a covered period.
+  >     - **(i)** *In general* In the case of a number described under subparagraph (A) or (B), if the subscriber assigned to such number demonstrates to the provider of the service (or, under subclause (II), any other provider of fixed wireline voice service that serves the local area) that the residence where the number is located is inaccessible or uninhabitable—
+  >       - **(I)** the provider may not charge the subscriber an early termination or other fee in connection with the cancellation of such service, if cancelled during the covered period or the extension of the period described in subparagraph (B); and
+  >       - **(II)** if the subscriber cancels the service during the covered period or the extension of the period described in subparagraph (B), the provider (or any other provider of fixed wireline voice service that serves the local area)—
+  >         - **(aa)** shall permit the subscriber to subscribe or resubscribe, as the case may be, to fixed wireline voice service with the number at the residence or at a different residence (if such number is available in the location of such different residence); and
+  >         - **(bb)** may not charge the subscriber a connection fee or any other fee relating to the initiation of fixed wireline voice service.
+  >     - **(ii)** *Cancellation without demonstration of inaccessibility or uninhabitability* If a subscriber cancels the provision of service assigned to a number described in subparagraph (A) or (B) and does not demonstrate to the provider of such service that the residence where the number is located is inaccessible or uninhabitable as described under clause (i), the number is no longer subject to the prohibition under subparagraph (A) or (B).
+  >   - **(D)** *Identification on commission website* The Commission shall publicly identify on the website of the Commission each designated area that is in a covered period, not later than 15 days after the submission of a public designation by a State under subparagraph (E)(iii) with respect to such area. In identifying a designated area under subparagraph (E)(iii), a State shall consult with providers of fixed wireline voice service that serve such area and coordinate with the Federal Emergency Management Agency to reasonably limit the designated area to areas that have sustained covered damage.
   >   - **(E)** *Definitions* In this paragraph:
-  >     - **(i)** *Covered damage* The term “covered damage” means, with respect to a residence, damage—
-  >       - **(I)** that renders a residence inaccessible or uninhabitable, or that results in displacement from the residence; and
-  >       - **(II)** with respect to which the President determines that an individual or household is eligible for housing assistance or other needs assistance under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
-  >     - **(ii)** *Covered period* The term “covered period” means, with respect to an area, any period that—
-  >       - **(I)** begins on the date of a declaration by the President of a major disaster under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170) with respect to such area; and
-  >       - **(II)** ends on the date that is 1 year after the date on which such declaration expires.
-  >     - **(iii)** *Wireline voice service* The term “wireline voice service” has the meaning given the term “voice service” in section 227(e)(8), except that the term “wireline voice service” does not include commercial mobile service (as defined in section 332(d)).
+  >     - **(i)** *Covered damage* The term “covered damage” means, with respect to an area—
+  >       - **(I)** damage that renders residences in such area inaccessible or uninhabitable; or
+  >       - **(II)** damage that otherwise results in the displacement of subscribers from or within such area.
+  >     - **(ii)** *Covered period* The term covered period means a period that—
+  >       - **(I)** begins on the date of a declaration by the President of a major disaster under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170) with respect to a designated area; and
+  >       - **(II)** ends on the date that is 1 year after such date.
+  >     - **(iii)** *Designated area* The term designated area means a geographic area for which a State has submitted a public designation to the Commission, within 15 days after a declaration by the President of a major disaster under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170) with respect to such area, stipulating that the State has determined that—
+  >       - **(I)** covered damage was sustained in such area; and
+  >       - **(II)** the prohibitions described in this paragraph are necessary and in the public interest.
+  >     - **(iv)** *Voice service* The term voice service has the meaning given the term voice service in section 227(e)(8).
 
-- **(b)** *Effective date* Paragraph (4) of section 251(e) of the Communications Act of 1934 (47 U.S.C. 251(e)), as added by subsection (a), shall apply with respect to a major disaster declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170) after the date that is 180 days after the date of the enactment of this Act.
-- **(c)** *Transitional rule* Clause (iii) of subparagraph (E) of paragraph (4) of section 251(e) of the Communications Act of 1934 (47 U.S.C. 251(e)), as added by subsection (a), shall apply before the effective date of the amendment made to section 227(e)(8) of such Act (47 U.S.C. 227(e)(8)) by subparagraph (C) of section 503(a)(2) of division P of the Consolidated Appropriations Act, 2018 (Public Law 115–141) as if such amendment were already in effect.
+- **(b)** *Amendment of FCC rules required* Not later than 180 days after the date of the enactment of this Act, the Federal Communications Commission shall amend its rules to reflect the requirements of paragraph (4) of section 251(e) of the Communications Act of 1934 (47 U.S.C. 251(e)), as added by subsection (a).
+- **(c)** *Applicability* Paragraph (4) of section 251(e) of the Communications Act of 1934 (47 U.S.C. 251(e)), as added by subsection (a), shall apply with respect to a major disaster declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170) after the date that is 180 days after the date on which the Commission announces that the Commission is capable of publicly identifying a designated area on the website of the Commission under subparagraph (D) of such paragraph (4).
