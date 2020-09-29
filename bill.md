@@ -11,11 +11,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “School-Based Health Centers Reauthorization Act of 2019”.
+This Act may be cited as the “School-Based Health Centers Reauthorization Act of 2020”.
 
 ## § 2. Reauthorization of school-based health centers
 
 - **(a)** *Elimination of limitation on eligibility of health centers*
   - **(1)** *Repeal* Section 399Z–1(f)(3) of the Public Health Service Act (42 U.S.C. 280h–5(f)(3)) is amended by striking subparagraph (B).
   - **(2)** *Conforming change* Section 399Z–1(f)(3) of the Public Health Service Act (42 U.S.C. 280h–5(f)(3)) is amended by striking “Limitations” and all that follows through “Any provider of services” and inserting “Limitation.—Any provider of services”.
-- **(b)** *Authorization of appropriations* Section 399Z–1(l) of the Public Health Service Act (42 U.S.C. 280h–5(l)) is amended by striking “2010 through 2014” and inserting “2019 through 2024”.
+- **(b)** *Authorization of appropriations* Section 399Z–1(l) of the Public Health Service Act (42 U.S.C. 280h–5(l)) is amended by striking “2010 through 2014” and inserting “2021 through 2025”.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2075
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2075
@@ -117,3 +117,9 @@ School-Based Health Centers Reauthorization Act of 2020
 - 2020-09-24 — Placed on the Union Calendar, Calendar No. 432.
 - 2020-09-24 — Reported by the Committee on Energy and Commerce. H. Rept. 116-532.
 - 2020-09-24 — Reported by the Committee on Energy and Commerce. H. Rept. 116-532.
+- 2020-09-29 — Considered under suspension of the rules. (consideration: CR H5008-5010)
+- 2020-09-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2075.
+- 2020-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-29 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
+- 2020-09-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5008-5009)
+- 2020-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
