@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4439
 congress: 116
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,18 +26,18 @@ to guess them.
 
 ### 21 U.S.C. § 360ff
 
-> by striking “December 11, 2020” each place it appears and inserting “September 30, 2024”; and
+> by striking “September 30, 2020” each place it appears and inserting “September 30, 2024”; and
 
 | | |
 |---|---|
-| Removed | `December 11, 2020` |
+| Removed | `September 30, 2020` |
 | Inserted | `September 30, 2024` |
 
 ### 21 U.S.C. § 360ff
 
-> in subparagraph (B), by striking “December 11, 2022” and inserting “September 30, 2026”.
+> by striking “September 30, 2022” and inserting “September 30, 2026”.
 
 | | |
 |---|---|
-| Removed | `December 11, 2022` |
+| Removed | `September 30, 2022` |
 | Inserted | `September 30, 2026` |
