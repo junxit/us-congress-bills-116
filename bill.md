@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 359
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,7 +15,7 @@ This Act may be cited as the “Enhancing Grid Security through Public-Private P
 
 ## § 2. Program to promote and advance physical security and cybersecurity of electric utilities
 
-- **(a)** *Establishment* The Secretary of Energy, in consultation with State regulatory authorities, industry stakeholders, the Electric Reliability Organization, and other Federal agencies the Secretary determines appropriate, shall carry out a program to—
+- **(a)** *Establishment* The Secretary of Energy, in coordination with relevant Federal agencies and in consultation with State regulatory authorities, industry stakeholders, and the Electric Reliability Organization, as the Secretary determines appropriate, shall carry out a program to—
   - **(1)** develop, and provide for voluntary implementation of, maturity models, self-assessments, and auditing methods for assessing the physical security and cybersecurity of electric utilities;
   - **(2)** provide training to electric utilities to address and mitigate cybersecurity supply chain management risks;
   - **(3)** increase opportunities for sharing best practices and data collection within the electric sector;
@@ -32,7 +32,7 @@ This Act may be cited as the “Enhancing Grid Security through Public-Private P
 
 ## § 3. Report on cybersecurity and distribution systems
 
-- **(a)** *In general* The Secretary of Energy, in consultation with State regulatory authorities, industry stakeholders, and other Federal agencies the Secretary determines appropriate, shall submit to Congress a report that assesses—
+- **(a)** *In general* The Secretary of Energy, in coordination with relevant Federal agencies and in consultation with State regulatory authorities, industry stakeholders, and the Electric Reliability Organization, as the Secretary determines appropriate, shall submit to Congress a report that assesses—
   - **(1)** priorities, policies, procedures, and actions for enhancing the physical security and cybersecurity of electricity distribution systems to address threats to, and vulnerabilities of, such electricity distribution systems; and
   - **(2)** implementation of such priorities, policies, procedures, and actions, including an estimate of potential costs and benefits of such implementation, including any public-private cost-sharing opportunities.
 - **(b)** *Protection of information* Information provided to, or collected by, the Federal Government pursuant to this section—
@@ -41,8 +41,8 @@ This Act may be cited as the “Enhancing Grid Security through Public-Private P
 
 ## § 4. Electricity interruption information
 
-- **(a)** *Interruption cost estimate calculator* The Secretary of Energy, in consultation with the Federal Energy Regulatory Commission, State regulatory authorities, industry stakeholders, and other Federal agencies the Secretary determines appropriate, shall update the Interruption Cost Estimate Calculator, as often as appropriate and feasible, but not less than once every 2 years.
-- **(b)** *Indices* The Secretary of Energy, in consultation with the Federal Energy Regulatory Commission, State regulatory authorities, industry stakeholders, and other Federal agencies the Secretary determines appropriate, shall, as often as appropriate and feasible, update the following:
+- **(a)** *Interruption cost estimate calculator* The Secretary of Energy, in coordination with relevant Federal agencies and in consultation with State regulatory authorities, industry stakeholders, and the Electric Reliability Organization, as the Secretary determines appropriate, shall update the Interruption Cost Estimate Calculator, as often as appropriate and feasible, but not less than once every 2 years.
+- **(b)** *Indices* The Secretary of Energy, in coordination with relevant Federal agencies and in consultation with State regulatory authorities, industry stakeholders, and the Electric Reliability Organization, as the Secretary determines appropriate, shall, as often as appropriate and feasible, update the following:
   - **(1)** The System Average Interruption Duration Index.
   - **(2)** The System Average Interruption Frequency Index.
   - **(3)** The Customer Average Interruption Duration Index.

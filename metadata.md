@@ -1,7 +1,7 @@
 ---
 measure: H.R. 359
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 359
@@ -39,3 +39,9 @@ Enhancing Grid Security through Public-Private Partnerships Act
 - 2019-10-28 — Placed on the Union Calendar, Calendar No. 202.
 - 2019-10-28 — Reported by the Committee on Energy and Commerce. H. Rept. 116-254.
 - 2019-10-28 — Reported by the Committee on Energy and Commerce. H. Rept. 116-254.
+- 2020-09-29 — Considered under suspension of the rules. (consideration: CR H4969-4971)
+- 2020-09-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 359.
+- 2020-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-29 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
+- 2020-09-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4969-4970)
+- 2020-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
