@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Effective Suicide Screening and Assessment in the Emergency Department Act of 2020”.
+This Act may be cited as the “Effective Suicide Screening and Assessment in the Emergency Department Act of 2019”.
 
 ## § 2. Program to improve the care provided to patients in the emergency department who are at risk of suicide
 
@@ -19,7 +19,7 @@ Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.) is
 
 > ## § 399V–7. Program to improve the care provided to patients in the emergency department who are at risk of suicide
 >
-> - **(a)** *In general* The Secretary shall establish a program (in this section referred to as the “Program”) to improve the identification, assessment, and treatment of patients in emergency departments who are at risk for suicide, including by—
+> - **(a)** *In general* The Secretary shall establish a program (in this Act referred to as the “Program”) to improve the identification, assessment, and treatment of patients in emergency departments who are at risk for suicide, including by—
 >   - **(1)** developing policies and procedures for identifying and assessing individuals who are at risk of suicide; and
 >   - **(2)** enhancing the coordination of care for such individuals after discharge.
 > - **(b)** *Grant establishment and participation*
@@ -55,9 +55,9 @@ Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.) is
 >     - **(D)** the number of individuals referred by the site’s emergency department to other treatment facilities, the types of such other facilities, and the number of such individuals admitted to such other facilities pursuant to such referrals;
 >     - **(E)** the effectiveness of programs and activities funded through the grant in preventing suicides and suicide attempts; and
 >     - **(F)** any other relevant additional data regarding the programs and activities funded through the grant.
->   - **(2)** *Report by Secretary* Not later than one year after the end of fiscal year 2025, the Secretary shall submit to Congress a report that includes—
+>   - **(2)** *Report by Secretary* Not less than one year after the end of fiscal year 2024, the Secretary shall submit to Congress a report that includes—
 >     - **(A)** findings on the Program;
 >     - **(B)** overall patient outcomes achieved through the Program;
 >     - **(C)** an evaluation of the effectiveness of having a trained health care or behavioral health professional onsite to identify, assess, and treat patients who are at risk of suicide; and
 >     - **(D)** a compilation of policies, procedures, and best practices established, developed, or implemented by grantees under this section.
-> - **(f)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $20,000,000 for the period of fiscal years 2021 through 2025.
+> - **(f)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $20,000,000 for the period of fiscal years 2020 through 2024.
