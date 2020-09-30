@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2519
 congress: 116
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2519
@@ -21,9 +21,10 @@ Improving Mental Health Access from the Emergency Department Act of 2020
 - Rep. Rice, Kathleen M. [D-NY-4] (R000602)
 - Rep. Trone, David J. [D-MD-6] (T000483)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Improving Mental Health Access from the Emergency Department Act of 2020
 - 2020-09-29 — Placed on the Union Calendar, Calendar No. 444.
 - 2020-09-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-544.
 - 2020-09-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-544.
+- 2020-09-30 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
