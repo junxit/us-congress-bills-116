@@ -2,7 +2,7 @@
 legis-num: H.R. 8132
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 8132
@@ -34,7 +34,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(1)** assess the severity of risks posed to such marketplace and supply chain;
   - **(2)** review the ability of foreign governments or third parties to exploit the supply chain in a manner that raises risks to the economic and national security of the United States; and
   - **(3)** identify emerging risks and long-term trends in such marketplace and supply chain.
-- **(c)** *Report to congress* Not later than 6 months after the completion of the study required under subsection (a), the Secretary and the Commission shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, and make publicly available on their respective websites, a report that contains—
+- **(c)** *Report to congress* Not later than 6 months after the completion of the study required under subsection (a), the Secretary and the Commission shall submit to the Committee on Energy and Commerce and the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate, and make publicly available on their respective websites, a report that contains—
   - **(1)** the results of the study conducted pursuant to subsection (a) and the survey conducted pursuant to subsection (b); and
   - **(2)** recommendations to—
     - **(A)** grow the United States economy through the secure advancement of artificial intelligence;
@@ -62,7 +62,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(1)** assess the severity of risks posed to such marketplace and supply chain;
   - **(2)** review the ability of foreign governments or third parties to exploit the supply chain in a manner that raises risks to the economic and national security of the United States; and
   - **(3)** identify emerging risks and long-term trends in such marketplace and supply chain.
-- **(c)** *Report to congress* Not later than 6 months after the completion of the study required pursuant to subsection (a), the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, and make publicly available on the website of the Department of Commerce, a report that contains—
+- **(c)** *Report to congress* Not later than 6 months after the completion of the study required pursuant to subsection (a), the Secretary shall submit to the Committee on Energy and Commerce and the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate, and make publicly available on the website of the Department of Commerce, a report that contains—
   - **(1)** the results of the study conducted pursuant to subsection (a) and the surveys conducted pursuant to subsection (b); and
   - **(2)** recommendations to—
     - **(A)** grow the United States economy through the secure advancement of the use of internet-connected devices and internet-connected solutions in manufacturing;
@@ -91,7 +91,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(1)** assess the severity of risks posed to such marketplace and supply chain;
   - **(2)** review the ability of foreign governments or third parties to exploit the supply chain in a manner that raises risks to the economic and national security of the United States; and
   - **(3)** identify emerging risks and long-term trends in such marketplace and supply chain.
-- **(c)** *Report to congress* Not later than 6 months after the completion of the study required pursuant to subsection (a), the Secretary and the Commission shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, and make publicly available on their respective websites, a report that contains—
+- **(c)** *Report to congress* Not later than 6 months after the completion of the study required pursuant to subsection (a), the Secretary and the Commission shall submit to the Committee on Energy and Commerce and the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate, and make publicly available on their respective websites, a report that contains—
   - **(1)** the results of the study conducted pursuant to subsection (a) and the survey conducted pursuant to subsection (b); and
   - **(2)** recommendations to—
     - **(A)** grow the United States economy through the secure advancement of quantum computing;
@@ -119,7 +119,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(1)** assess the severity of risks posed to such marketplace and supply chain;
   - **(2)** review the ability of foreign governments or third parties to exploit the supply chain in a manner that raises risks to the economic and national security of the United States; and
   - **(3)** identify emerging risks and long-term trends in such marketplace and supply chain.
-- **(c)** *Report to congress* Not later than 6 months after the completion of the study required pursuant to subsection (a), the Secretary and the Commission shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, and make publicly available on their respective websites, a report that contains—
+- **(c)** *Report to congress* Not later than 6 months after the completion of the study required pursuant to subsection (a), the Secretary and the Commission shall submit to the Committee on Energy and Commerce and the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate, and make publicly available on their respective websites, a report that contains—
   - **(1)** the results of the study conducted pursuant to subsection (a) and the survey conducted pursuant to subsection (b); and
   - **(2)** recommendations to—
     - **(A)** grow the United States economy through the secure advancement of blockchain technology;
@@ -147,7 +147,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(1)** assess the severity of risks posed to such marketplace and supply chain;
   - **(2)** review the ability of foreign governments or third parties to exploit the supply chain in a manner that raises risks to the economic and national security of the United States; and
   - **(3)** identify emerging risks and long-term trends in such marketplace and supply chain.
-- **(c)** *Report to congress* Not later than 6 months after the completion of the study required pursuant to subsection (a), the Secretary and the Commission shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, and make publicly available on their respective websites, a report that contains—
+- **(c)** *Report to congress* Not later than 6 months after the completion of the study required pursuant to subsection (a), the Secretary and the Commission shall submit to the Committee on Energy and Commerce and the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate, and make publicly available on their respective websites, a report that contains—
   - **(1)** the results of the study conducted pursuant to subsection (a) and the survey conducted pursuant to subsection (b); and
   - **(2)** recommendations to—
     - **(A)** grow the United States economy through the secure advancement of new and advanced materials;
@@ -182,7 +182,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
       - **(i)** assess the severity of risks posed to such marketplace and supply chain;
       - **(ii)** review the ability of foreign governments or third parties to exploit such supply chain in a manner that raises risks to the economic and national security of the United States; and
       - **(iii)** identify emerging risks and long-term trends in such marketplace and supply chain.
-- **(b)** *Report to congress* Not later than 6 months after the completion of the study required pursuant to subsection (a), the Secretary, in coordination with the head of any other appropriate Federal agency, shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, and make publicly available on the website of the Department of Commerce, a report that contains—
+- **(b)** *Report to congress* Not later than 6 months after the completion of the study required pursuant to subsection (a), the Secretary, in coordination with the head of any other appropriate Federal agency, shall submit to the Committee on Energy and Commerce and the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate, and make publicly available on the website of the Department of Commerce, a report that contains—
   - **(1)** the results of the study conducted under subsection (a); and
   - **(2)** recommendations to—
     - **(A)** develop and implement a comprehensive plan to promote the development and adoption of unmanned delivery services in the United States;
@@ -205,7 +205,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(5)** develop a brief description of the jurisdiction and expertise of the Federal agencies listed under paragraph (2) with regard to such entities and industry sectors;
   - **(6)** identify all regulations, guidelines, mandatory standards, voluntary standards, and other policies implemented by each of the Federal agencies identified under paragraph (2), as well as all guidelines, mandatory standards, voluntary standards, and other policies implemented by industry-based bodies; and
   - **(7)** identify Federal Government resources that exist for consumers and small businesses to evaluate internet-connected devices.
-- **(b)** *Report to Congress* Not later than 1 year after the date of enactment of this Act, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, and make publicly available on the website of the Department of Commerce, a report that contains—
+- **(b)** *Report to Congress* Not later than 1 year after the date of enactment of this Act, the Secretary shall submit to the Committee on Energy and Commerce and the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate, and make publicly available on the website of the Department of Commerce, a report that contains—
   - **(1)** the results of the study conducted under subsection (a); and
   - **(2)** recommendations of the Secretary for growth of the United States economy through the secure advancement of internet-connected devices.
 - **(c)** *Definitions* In this section—
@@ -234,7 +234,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(1)** assess the severity of risks posed to such marketplace and supply chain;
   - **(2)** review the ability of foreign governments or third parties to exploit the supply chain in a manner that raises risks to the economic and national security of the United States; and
   - **(3)** identify emerging risks and long-term trends in such marketplace and supply chain.
-- **(c)** *Report to Congress* Not later than 6 months after the completion of the study required pursuant to subsection (a), the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, and make publicly available on the website of the Department of Commerce, a report that contains—
+- **(c)** *Report to Congress* Not later than 6 months after the completion of the study required pursuant to subsection (a), the Secretary shall submit to the Committee on Energy and Commerce and the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate, and make publicly available on the website of the Department of Commerce, a report that contains—
   - **(1)** the results of the study conducted pursuant to subsection (a) and the survey conducted pursuant to subsection (b); and
   - **(2)** recommendations to—
     - **(A)** grow the United States economy through the secure advancement of three-dimensional printing;
@@ -254,7 +254,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(E)** Terrorist and violent extremists’ abuse of digital platforms, including the use of such platforms to promote themselves, share propaganda, and glorify real-world acts of violence.
     - **(F)** Disinformation campaigns coordinated by inauthentic accounts or individuals to influence United States elections.
     - **(G)** The sale of counterfeit products.
-- **(b)** *Report to Congress* Not later than 6 months after the completion of the study required pursuant to subsection (a), the Commission shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, and make publicly available on its website, a report that contains—
+- **(b)** *Report to Congress* Not later than 6 months after the completion of the study required pursuant to subsection (a), the Commission shall submit to the Committee on Energy and Commerce and the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate, and make publicly available on its website, a report that contains—
   - **(1)** the results of the study conducted under subsection (a);
   - **(2)** recommendations on how artificial intelligence may be used to address the online harms described in subsection (a)(2);
   - **(3)** recommendations on what reasonable policies, practices, and procedures may be implemented to utilize artificial intelligence to address such online harms; and

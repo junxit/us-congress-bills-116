@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8132
 congress: 116
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 8132
@@ -32,9 +32,10 @@ American Competitiveness Of a More Productive Emerging Tech Economy Act
 - Rep. Griffith, H. Morgan [R-VA-9] (G000568)
 - Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ American Competitiveness Of a More Productive Emerging Tech Economy Act
 - 2020-09-29 — Placed on the Union Calendar, Calendar No. 439.
 - 2020-09-29 — Reported by the Committee on Energy and Commerce. H. Rept. 116-539.
 - 2020-09-29 — Reported by the Committee on Energy and Commerce. H. Rept. 116-539.
+- 2020-09-30 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
