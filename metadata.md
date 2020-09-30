@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 694
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 694
@@ -28,3 +28,7 @@ A resolution recognizing 100 years of service by chief petty officers in the Uni
 
 - 2020-09-15 — Introduced in Senate
 - 2020-09-15 — Referred to the Committee on Commerce, Science, and Transportation.
+- 2020-09-30 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 9/15/2020 CR S5613-5614)
+- 2020-09-30 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 9/15/2020 CR S5613-5614)
+- 2020-09-30 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S5998-5999)
+- 2020-09-30 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S5998-5999)
