@@ -1,7 +1,7 @@
 ---
 measure: H.R. 360
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 360
@@ -22,9 +22,10 @@ Cyber Sense Act of 2020
 - Rep. Norman, Ralph [R-SC-5] (N000190)
 - Rep. Harder, Josh [D-CA-10] (H001090)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Cyber Sense Act of 2020
 - 2020-09-29 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
 - 2020-09-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4968)
 - 2020-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-09-30 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
