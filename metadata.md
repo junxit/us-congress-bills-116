@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4875
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4875
@@ -43,3 +43,12 @@ To designate the facility of the United States Postal Service located at 2201 E.
 - 2019-10-28 — Introduced in House
 - 2019-10-28 — Introduced in House
 - 2019-10-28 — Referred to the House Committee on Oversight and Reform.
+- 2020-03-04 — Committee Consideration and Mark-up Session Held.
+- 2020-03-04 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2020-09-30 — Committee on Oversight and Reform discharged.
+- 2020-09-30 — Committee on Oversight and Reform discharged.
+- 2020-09-30 — Considered by unanimous consent. (consideration: CR H5072)
+- 2020-09-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-30 — Mr. Connolly asked unanimous consent to discharge from committee and consider.
+- 2020-09-30 — On passage Passed without objection. (text: CR H5072)
+- 2020-09-30 — Passed/agreed to in House: On passage Passed without objection.
