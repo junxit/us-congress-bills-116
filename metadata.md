@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1754
 congress: 116
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 1754
@@ -301,3 +301,4 @@ Horseracing Integrity and Safety Act of 2020
 - 2020-09-29 — Placed on the Union Calendar, Calendar No. 454.
 - 2020-09-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-554.
 - 2020-09-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-554.
+- 2020-09-30 — Received in the Senate.

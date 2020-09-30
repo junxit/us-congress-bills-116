@@ -2,7 +2,7 @@
 legis-num: H.R. 1754
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1754
@@ -18,30 +18,29 @@ This Act may be cited as the “Horseracing Integrity and Safety Act of 2020”.
 In this Act the following definitions apply:
 
 - **(1)** *Authority* The term Authority means the Horseracing Integrity and Safety Authority designated by section 3(a).
-- **(2)** *Commission* The term Commission means the Federal Trade Commission.
-- **(3)** *Covered horse* The term covered horse means any Thoroughbred horse, or any other horse made subject to this Act by election of the applicable State racing commission or the breed governing organization for such horse under section 5(k), during the period—
+- **(2)** *Breeder* The term “breeder” means a person who is in the business of breeding covered horses.
+- **(3)** *Commission* The term Commission means the Federal Trade Commission.
+- **(4)** *Covered horse* The term covered horse means any Thoroughbred horse, or any other horse made subject to this Act by election of the applicable State racing commission or the breed governing organization for such horse under section 5(k), during the period—
   - **(A)** beginning on the date of the horse's first timed and reported workout at a racetrack that participates in covered horseraces or at a training facility; and
   - **(B)** ending on the date on which the Authority receives written notice that the horse has been retired.
-- **(4)** *Covered horserace* The term covered horserace means any horserace involving covered horses that has a substantial relation to interstate commerce, including any Thoroughbred horserace that is the subject of interstate off-track or advance deposit wagers.
-- **(5)** *Covered persons* The term covered persons means all trainers, owners, breeders, jockeys, racetracks, veterinarians, persons (legal and natural) licensed by a State racing commission and the agents, assigns, and employees of such persons and other horse support personnel who are engaged in the care, training, or racing of covered horses.
-- **(6)** *Equine constituencies* The term equine constituencies means, collectively, owners and breeders, trainers, racetracks, veterinarians, State racing commissions, and jockeys who are engaged in the care, training, or racing of covered horses.
-- **(7)** *Equine industry representative* The term equine industry representative means an organization regularly and significantly engaged in the equine industry, including organizations that represent the interests of, and whose membership consists of, owners and breeders, trainers, racetracks, veterinarians, State racing commissions, and jockeys.
-- **(8)** *Horseracing anti-doping and medication control program* The term horseracing anti-doping and medication control program means the anti-doping and medication program established under section 6(a).
-- **(9)** *Immediate family member* The term immediate family member shall include a spouse, domestic partner, mother, father, aunt, uncle, sibling, or child.
-- **(10)** *Interstate off-track wager* The term interstate off-track wager has the meaning given such term in section 3 of the Interstate Horseracing Act of 1978 (15 U.S.C. 3002).
-- **(11)** *Jockey* The term jockey means a rider or driver of a covered horse in covered horseraces.
-- **(12)** *Owners and breeders* The term owners and breeders means those persons who either hold ownership interests in covered horses or who are in the business of breeding covered horses.
-- **(13)** *Program effective date* The term program effective date means the earlier of—
-  - **(A)** January 1 of the second year after the date of the enactment of this Act; or
-  - **(B)** the date that is 540 days after such date of enactment.
-- **(14)** *Racetrack* The term racetrack means an organization licensed by a State racing commission to conduct covered horseraces.
-- **(15)** *Racetrack safety program* The term racetrack safety program means the program established under section 7(a).
-- **(16)** *Stakes race* The term stakes race means any race so designated by the racetrack at which such race is run, including, without limitation, the races comprising the Breeders' Cup World Championships and the races designated as graded stakes by the American Graded Stakes Committee of the Thoroughbred Owners and Breeders Association.
-- **(17)** *State racing commission* The term State racing commission means an entity designated by State law or regulation that has jurisdiction over the conduct of horseracing within the applicable State.
-- **(18)** *Trainer* The term trainer means an individual engaged in the training of covered horses.
-- **(19)** *Training facility* The term training facility means a location that is not a racetrack licensed by a State racing commission that operates primarily to house covered horses and conduct official timed workouts.
-- **(20)** *Veterinarian* The term veterinarian means a licensed veterinarian who provides veterinary services to covered horses.
-- **(21)** *Workout* The term workout means a timed running of a horse over a predetermined distance not associated with a race or its first qualifying race, if such race is made subject to this Act by election under section 5(k) of the horse's breed governing organization or the applicable State racing commission.
+- **(5)** *Covered horserace* The term covered horserace means any horserace involving covered horses that has a substantial relation to interstate commerce, including any Thoroughbred horserace that is the subject of interstate off-track or advance deposit wagers.
+- **(6)** *Covered persons* The term covered persons means all trainers, owners, breeders, jockeys, racetracks, veterinarians, persons (legal and natural) licensed by a State racing commission and the agents, assigns, and employees of such persons and other horse support personnel who are engaged in the care, training, or racing of covered horses.
+- **(7)** *Equine constituencies* The term equine constituencies means, collectively, owners, breeders, trainers, racetracks, veterinarians, State racing commissions, and jockeys who are engaged in the care, training, or racing of covered horses.
+- **(8)** *Equine industry representative* The term equine industry representative means an organization regularly and significantly engaged in the equine industry, including organizations that represent the interests of, and whose membership consists of, owners, breeders, trainers, racetracks, veterinarians, State racing commissions, and jockeys.
+- **(9)** *Horseracing anti-doping and medication control program* The term horseracing anti-doping and medication control program means the anti-doping and medication program established under section 6(a).
+- **(10)** *Immediate family member* The term immediate family member shall include a spouse, domestic partner, mother, father, aunt, uncle, sibling, or child.
+- **(11)** *Interstate off-track wager* The term interstate off-track wager has the meaning given such term in section 3 of the Interstate Horseracing Act of 1978 (15 U.S.C. 3002).
+- **(12)** *Jockey* The term jockey means a rider or driver of a covered horse in covered horseraces.
+- **(13)** *Owner* The term owner means a person who holds an ownership interest in one or more covered horses.
+- **(14)** *Program effective date* The term program effective date means July 1, 2022.
+- **(15)** *Racetrack* The term racetrack means an organization licensed by a State racing commission to conduct covered horseraces.
+- **(16)** *Racetrack safety program* The term racetrack safety program means the program established under section 7(a).
+- **(17)** *Stakes race* The term stakes race means any race so designated by the racetrack at which such race is run, including, without limitation, the races comprising the Breeders' Cup World Championships and the races designated as graded stakes by the American Graded Stakes Committee of the Thoroughbred Owners and Breeders Association.
+- **(18)** *State racing commission* The term State racing commission means an entity designated by State law or regulation that has jurisdiction over the conduct of horseracing within the applicable State.
+- **(19)** *Trainer* The term trainer means an individual engaged in the training of covered horses.
+- **(20)** *Training facility* The term training facility means a location that is not a racetrack licensed by a State racing commission that operates primarily to house covered horses and conduct official timed workouts.
+- **(21)** *Veterinarian* The term veterinarian means a licensed veterinarian who provides veterinary services to covered horses.
+- **(22)** *Workout* The term workout means a timed running of a horse over a predetermined distance not associated with a race or its first qualifying race, if such race is made subject to this Act by election under section 5(k) of the horse's breed governing organization or the applicable State racing commission.
 
 ## § 3. Recognition of the Horseracing Integrity and Safety Authority
 
@@ -211,19 +210,29 @@ In this Act the following definitions apply:
   - **(1)** *Anti-doping and medication control*
     - **(A)** *In general* Recommendations for rules regarding anti-doping and medication control shall be developed in accordance with section 6.
     - **(B)** *Consultation* The anti-doping and medication control enforcement agency shall consult with the anti-doping and medication control standing committee and the Board of the Authority on all anti-doping and medication control rules of the Authority.
-  - **(2)** *Racetrack safety* Recommendations for rules regarding racetrack safety shall be developed by the racetrack safety standing committee of the Authority
-- **(g)** *Subpoena and investigatory authority* The Authority shall have subpoena and investigatory authority with respect to civil violations committed under its jurisdiction.
-- **(h)** *Civil penalties* The Authority shall develop a list of civil penalties with respect to the enforcement of rules for covered persons and covered horseraces under its jurisdiction.
-- **(i)** *Civil actions*
+  - **(2)** *Racetrack safety* Recommendations for rules regarding racetrack safety shall be developed by the racetrack safety standing committee of the Authority.
+- **(g)** *Issuance of Guidance*
+  - **(1)** The Authority may issue guidance that—
+    - **(A)** sets forth—
+      - **(i)** an interpretation of an existing rule, standard, or procedure of the Authority; or
+      - **(ii)** a policy or practice with respect to the administration or enforcement of such an existing rule, standard, or procedure; and
+    - **(B)** relates solely to—
+      - **(i)** the administration of the Authority; or
+      - **(ii)** any other matter, as specified by the Commission, by rule, consistent with the public interest and the purposes of this subsection.
+  - **(2)** *Submittal to Commission* The Authority shall submit to the Commission any guidance issued under paragraph (1).
+  - **(3)** *Immediate effect* Guidance issued under paragraph (1) shall take effect on the date on which the guidance is submitted to the Commission under paragraph (2).
+- **(h)** *Subpoena and investigatory authority* The Authority shall have subpoena and investigatory authority with respect to civil violations committed under its jurisdiction.
+- **(i)** *Civil penalties* The Authority shall develop a list of civil penalties with respect to the enforcement of rules for covered persons and covered horseraces under its jurisdiction.
+- **(j)** *Civil actions*
   - **(1)** *In general* In addition to civil sanctions imposed under section 8, the Authority may commence a civil action against a covered person or racetrack that has engaged, is engaged, or is about to engage, in acts or practices constituting a violation of this Act or any rule established under this Act in the proper district court of the United States, the United States District Court for the District of Columbia, or the United States courts of any territory or other place subject to the jurisdiction of the United States, to enjoin such acts or practices, to enforce any civil sanctions imposed under that section, and for all other relief to which the Authority may be entitled.
   - **(2)** *Injunctions and restraining orders* With respect to a civil action commenced under paragraph (1), upon a proper showing, a permanent or temporary injunction or restraining order shall be granted without bond.
-- **(j)** *Limitations on authority*
+- **(k)** *Limitations on authority*
   - **(1)** *Prospective application* The jurisdiction and authority of the Authority and the Commission with respect to the horseracing anti-doping and medication control program and the racetrack safety program shall be prospective only.
   - **(2)** *Previous matters*
     - **(A)** *In general* The Authority and the Commission may not investigate, prosecute, adjudicate, or penalize conduct in violation of the horseracing anti-doping and medication control program and the racetrack safety program that occurs before the program effective date.
     - **(B)** *State racing commission* With respect to conduct described in subparagraph (A), the applicable State racing commission shall retain authority until the final resolution of the matter.
   - **(3)** *Other laws unaffected* This Act shall not be construed to modify, impair or restrict the operation of the general laws or regulations, as may be amended from time to time, of the United States, the States and their political subdivisions relating to criminal conduct, cruelty to animals, matters unrelated to antidoping, medication control and racetrack and racing safety of covered horses and covered races, and the use of medication in human participants in covered races.
-- **(k)** *Election for other breed coverage under Act*
+- **(l)** *Election for other breed coverage under Act*
   - **(1)** *In general* A State racing commission or a breed governing organization for a breed of horses other than Thoroughbred horses may elect to have such breed be covered by this Act by the filing of a designated election form and subsequent approval by the Authority. A State racing commission may elect to have a breed covered by this Act for the applicable State only.
   - **(2)** *Election conditional on funding mechanism* A commission or organization may not make an election under paragraph (1) unless the commission or organization has in place a mechanism to provide sufficient funds to cover the costs of the administration of this Act with respect to the horses that will be covered by this Act as a result of the election.
   - **(3)** *Apportionment* The Authority shall apportion costs described in paragraph (2) in connection with an election under paragraph (1) fairly among all impacted segments of the horseracing industry, subject to approval by the Commission in accordance with section 4. Such apportionment may not provide for the allocation of costs or funds among breeds of horses.
@@ -442,3 +451,7 @@ The sale of a covered horse, or of any other horse in anticipation of its future
   - **(1)** *In general* The Authority may enter into an agreement with a State racing commission to implement, within the jurisdiction of the State racing commission, a component of the racetrack safety program or, with the concurrence of the anti-doping and medication control enforcement agency under section 5(e), a component of the horseracing anti-doping and medication control program, if the Authority determines that the State racing commission has the ability to implement such component in accordance with the rules, standards, and requirements established by the Authority.
   - **(2)** *Implementation by State racing commission* A State racing commission or other appropriate regulatory body of a State may not implement such a component in a manner less restrictive than the rule, standard, or requirement established by the Authority.
 - **(b)** *Cooperation* To avoid duplication of functions, facilities, and personnel, and to attain closer coordination and greater effectiveness and economy in administration of Federal and State law, where conduct by any person subject to the horseracing medication control program or the racetrack safety program may involve both a medication control or racetrack safety rule violation and violation of Federal or State law, the Authority and Federal or State law enforcement authorities shall cooperate and share information.
+
+## § 12. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
