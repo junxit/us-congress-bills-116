@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7293
 congress: 116
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 7293
@@ -55,9 +55,10 @@ Suicide Training and Awareness Nationally Delivered for Universal Prevention Act
 - Rep. Larson, John B. [D-CT-1] (L000557)
 - Rep. Lipinski, Daniel [D-IL-3] (L000563)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -76,3 +77,4 @@ Suicide Training and Awareness Nationally Delivered for Universal Prevention Act
 - 2020-09-29 — Placed on the Union Calendar, Calendar No. 442.
 - 2020-09-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-542.
 - 2020-09-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-542.
+- 2020-09-30 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
