@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3539
 congress: 116
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 

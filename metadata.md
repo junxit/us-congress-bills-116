@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3539
 congress: 116
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3539
@@ -24,9 +24,10 @@ Behavioral Intervention Guidelines Act of 2020
 - Rep. Peters, Scott H. [D-CA-52] (P000608)
 - Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Behavioral Intervention Guidelines Act of 2020
 - 2020-09-29 — Placed on the Union Calendar, Calendar No. 440.
 - 2020-09-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-540.
 - 2020-09-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-540.
+- 2020-09-30 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
