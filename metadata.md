@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5373
 congress: 116
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5373
@@ -22,9 +22,10 @@ United States Anti-Doping Agency Reauthorization Act of 2020
 - Rep. DeGette, Diana [D-CO-1] (D000197)
 - Rep. Kuster, Ann M. [D-NH-2] (K000382)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ United States Anti-Doping Agency Reauthorization Act of 2020
 - 2020-09-29 — Placed on the Union Calendar, Calendar No. 448.
 - 2020-09-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-548.
 - 2020-09-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-548.
+- 2020-09-30 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
