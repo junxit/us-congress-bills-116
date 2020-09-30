@@ -11,9 +11,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Chai Suthammanont Remembrance Act”.
+This Act may be cited as the “Chai Suthammanont Remembrance Act of 2020”.
 
-## § 2. Telework, leave, and returning to work for Federal employees
+## § 2. Telework, leave, and returning to work for federal employees
 
 - **(a)** *Issuance of policies and procedures by agencies* Not later than 30 days before the date on which an agency plans to reopen a facility and after consultation with the Chief Human Capital Officer and director of administration or the equivalent, the head of an agency shall publish on the website of that agency a reopening plan that details the procedures and policies related to sending employees back to workstations during the covered period that includes the following:
   - **(1)** The personal protective equipment that will be provided by the agency, the additional cleaning protocols to be implemented, and efforts to ensure social distancing at worksites.
@@ -23,5 +23,9 @@ This Act may be cited as the “Chai Suthammanont Remembrance Act”.
   - **(5)** Ensures the continuity of operations, including plans to reverse reopening measures if there is a resurgence in coronavirus cases in certain geographic areas.
 - **(b)** *Inspectors general review* Not later than 6 months after the date of the enactment of this section, the inspector general for each agency shall submit to the Committee on Oversight and Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a review on whether that agency has provided adequate personal protective equipment for the employees who are returning to a Federal office location for the agency and published the policies and procedures required pursuant to subsection (a).
 - **(c)** *Definitions* In this section:
-  - **(1)** *Agency* The term agency has the meaning given that term in section 551 of title 5, United States Code.
-  - **(2)** *Covered period* The term covered period means a period during which a nationwide declaration of a public health emergency by the Secretary of Health and Human Services under section 319 of the Public Health Service Act (42 U.S.C. 247d) is in effect.
+  - **(1)** *Agency* The term “agency” has the meaning given that term in section 551 of title 5, United States Code.
+  - **(2)** *Covered period* The term “covered period” means a period during which a nationwide declaration of a public health emergency by the Secretary of Health and Human Services under section 319 of the Public Health Service Act (42 U.S.C. 247d) is in effect.
+
+## § 3. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
