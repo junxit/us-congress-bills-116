@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4439
 congress: 116
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 4439
@@ -83,3 +83,4 @@ Creating Hope Reauthorization Act
 - 2020-09-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-551.
 - 2020-09-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-551.
 - 2020-09-29 — The title of the measure was amended. Agreed to without objection.
+- 2020-09-30 — Received in the Senate.
