@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5804
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5804
@@ -40,3 +40,9 @@ DHS Blue Campaign Enhancement Act
 - 2020-09-11 — Placed on the Union Calendar, Calendar No. 399.
 - 2020-09-11 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-498, Part I.
 - 2020-09-11 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-498, Part I.
+- 2020-09-30 — Considered under suspension of the rules. (consideration: CR H5086-5088)
+- 2020-09-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5804.
+- 2020-09-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-30 — Ms. Underwood moved to suspend the rules and pass the bill, as amended.
+- 2020-09-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5086-5087)
+- 2020-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
