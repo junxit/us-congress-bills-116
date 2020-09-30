@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1289
 congress: 116
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1289
@@ -55,9 +55,10 @@ PHONE Act of 2020
 - Rep. Lowenthal, Alan S. [D-CA-47] (L000579)
 - Rep. Rutherford, John H. [R-FL-4] (R000609)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -79,3 +80,4 @@ PHONE Act of 2020
 - 2020-09-29 — Placed on the Union Calendar, Calendar No. 441.
 - 2020-09-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-541.
 - 2020-09-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-541.
+- 2020-09-30 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
