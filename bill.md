@@ -98,8 +98,8 @@ This Act may be cited as the “State and Local Cybersecurity Improvement Act”
   >     - **(B)** upon the request of the Director, provide to the Director technical assistance to inform the review of Cybersecurity Plans submitted by applicants for grants under this section, and, as appropriate, submit to the Director recommendations to improve such Plans prior to the Director’s determination regarding whether to approve such Plans;
   >     - **(C)** advise and provide to the Director input regarding the Homeland Security Strategy to Improve Cybersecurity for State, Local, Tribal, and Territorial Governments required under section 2210; and
   >     - **(D)** upon the request of the Director, provide to the Director recommendations, as appropriate, regarding how to—
-  >       - **(i)** address cybersecurity risks and cybersecurity threats on information systems of State, local, Tribal, or territorial governments; and
-  >       - **(ii)** improve the cybersecurity resilience of such governments.
+  >       - **(i)** address cybersecurity risks and cybersecurity threats on information systems of State, local, Tribal, or territorial governments;
+  >       - **(ii)** and improve the cybersecurity resilience of such governments.
   >   - **(3)** *Membership*
   >     - **(A)** *Number and appointment* The State and Local Cybersecurity Resiliency Committee shall be composed of 15 members appointed by the Director, as follows:
   >       - **(i)** Two individuals recommended to the Director by the National Governors Association.
