@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5760
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5760
@@ -20,10 +20,11 @@ Grid Security Research and Development Act
 
 - Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
 
-## Committees (2)
+## Committees (3)
 
 - House — Homeland Security Committee
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Grid Security Research and Development Act
 - 2020-09-29 — Mr. Bera moved to suspend the rules and pass the bill, as amended.
 - 2020-09-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5025-5028)
 - 2020-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-09-30 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
