@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5469
 congress: 116
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5469
@@ -54,9 +54,10 @@ Pursuing Equity in Mental Health Act
 - Rep. Lawrence, Brenda L. [D-MI-14] (L000581)
 - Rep. DeSaulnier, Mark [D-CA-11] (D000623)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -75,3 +76,4 @@ Pursuing Equity in Mental Health Act
 - 2020-09-29 — Placed on the Union Calendar, Calendar No. 452.
 - 2020-09-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-552.
 - 2020-09-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-552.
+- 2020-09-30 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
