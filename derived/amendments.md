@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4764
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 1 executed, 5 stated and not applied.
+7 amendatory instructions. 1 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -47,3 +47,4 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 274k` | strike | Subparagraph (B) of section 379(d)(2) of the Public Health Service Act (42 U.S.C. 274k(d)(2)) is amended by striking the second and third sentences in such subparagraph. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 274k` | add-at-end | Section 379 of the Public Health Service Act (42 U.S.C. 274k) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 274k` | amend | Subsection (g) of section 2 of the Stem Cell Therapeutic and Research Act of 2005 (42 U.S.C. 274k note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 282` | add-at-end | Section 402 of the Public Health Service Act (42 U.S.C. 282) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
