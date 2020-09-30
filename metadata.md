@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8128
 congress: 116
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 8128
@@ -23,9 +23,10 @@ Consumer Safety Technology Act
 - Rep. Guthrie, Brett [R-KY-2] (G000558)
 - Rep. Davidson, Warren [R-OH-8] (D000626)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Consumer Safety Technology Act
 - 2020-09-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-545.
 - 2020-09-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-545.
 - 2020-09-29 — The title of the measure was amended. Agreed to without objection.
+- 2020-09-30 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.

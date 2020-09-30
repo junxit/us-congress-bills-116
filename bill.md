@@ -2,12 +2,12 @@
 legis-num: H.R. 8128
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 8128
 
-> To direct the Consumer Product Safety Commission to establish a pilot program to explore the use of artificial intelligence in support of the consumer product safety mission of the Commission.
+> To direct the Consumer Product Safety Commission to establish a pilot program to explore the use of artificial intelligence in support of the mission of the Commission and direct the Secretary of Commerce and the Federal Trade Commission to study and report on the use of blockchain technology and digital tokens, respectively.
 
 ## § 1. Short title; table of contents
 
