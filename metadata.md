@@ -1,7 +1,7 @@
 ---
 measure: S. 4762
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 4762
@@ -30,3 +30,14 @@ A bill to designate the airport traffic control tower located at Piedmont Triad 
 - 2020-09-30 — Message on Senate action sent to the House.
 - 2020-09-30 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.
 - 2020-09-30 — Received in the House.
+- 2020-10-01 — Considered by unanimous consent. (consideration: CR H5183)
+- 2020-10-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-10-01 — Mr. DeFazio asked unanimous consent to take from the Speaker's table and consider.
+- 2020-10-01 — On passage Passed without objection. (text: CR H5183)
+- 2020-10-01 — Passed/agreed to in House: On passage Passed without objection.
+- 2020-10-20 — Presented to President.
+- 2020-10-20 — Presented to President.
+- 2020-10-30 — Became Public Law No: 116-193.
+- 2020-10-30 — Became Public Law No: 116-193.
+- 2020-10-30 — Signed by President.
+- 2020-10-30 — Signed by President.
