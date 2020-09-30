@@ -2,7 +2,7 @@
 legis-num: H.R. 4996
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 4996
@@ -56,7 +56,7 @@ This Act may be cited as the “Helping Medicaid Offer Maternity Services Act of
 
 ## § 5. Report on Medicaid bundled payments for pregnancy-related services
 
--  Not later than 2 years after the date of the enactment of this Act, the Medicaid and CHIP Payment Advisory Commission shall submit to Congress a report containing an analysis of the use of bundled payments for reimbursing health care providers with respect to pregnancy-related services furnished under State plans (or waivers of such plans) under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.).
+Not later than 2 years after the date of the enactment of this Act, the Medicaid and CHIP Payment Advisory Commission shall submit to Congress a report containing an analysis of the use of bundled payments for reimbursing health care providers with respect to pregnancy-related services furnished under State plans (or waivers of such plans) under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.).
 
 ## § 6. Sunset of limit on maximum rebate amount for single source drugs and innovator multiple source drugs
 
