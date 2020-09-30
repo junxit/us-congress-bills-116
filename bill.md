@@ -25,8 +25,6 @@ Congress finds the following:
 - **(6)** Companies that work in the XUAR are at great risk of complicity in the human rights abuses being committed in the region.
 - **(7)** In a March 2020 report, the Australian Strategic Policy Institute identified 27 factories in nine Chinese provinces that are using Uyghur labor transferred from Xinjiang. These factories indirectly supply global brands, including many American multinational companies.
 - **(8)** Forced labor in XUAR is Chinese government policy and due diligence efforts to ensure clean supply chains is nearly impossible due to mass surveillance, pervasive police presence, and intimidation of workers.
-- **(9)** The human rights policies, practices, and impacts of publicly traded companies in the United States are material to securities reporting.
-- **(10)** An increasing percentage of investors consider human rights risks as a part of their investment decision-making process.
 
 ## § 3. Disclosure of certain activities relating to the Xinjiang Uyghur Autonomous Region
 
@@ -50,7 +48,7 @@ Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by 
 >     - **(B)** *GAO report* The Comptroller General of the United States shall periodically evaluate and report to Congress on the effectiveness of the oversight by the Commission of the disclosure requirements under this subsection.
 >   - **(4)** *Definitions* In this subsection:
 >     - **(A)** *Forced labor camp* The term “forced labor camp” means—
->       - **(i)** any entity engaged in the “pairing assistance” program which subsidizes the establishment of manufacturing facilities in XUAR;
+>       - **(i)** any entity engaged in the “mutual pairing assistance” program which subsidizes the establishment of manufacturing facilities in XUAR;
 >       - **(ii)** any entity using convict labor, forced labor, or indentured labor described under section 307 of the Tariff Act of 1930 (19 U.S.C. 1307); and
 >       - **(iii)** any other entity that the Commission determines is appropriate.
 >     - **(B)** *XUAR* The term “XUAR” means the Xinjiang Uyghur Autonomous Region.
