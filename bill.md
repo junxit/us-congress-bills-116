@@ -11,24 +11,38 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Modernization Centers of Excellence Program Act”.
+This Act may be cited as the “Information Technology Modernization Centers of Excellence Program Act”.
 
-## § 2. GSA Modernization Centers of Excellence Program
+## § 2. GSA modernization centers of excellence program
 
-- **(a)** *Establishment* The Administrator of General Services, acting through the Director of the Technology Transformation Services, shall establish a program (to be known as the “Modernization Centers of Excellence Program”) to facilitate the adoption of modern technology by executive agencies.
-- **(b)** *Responsibilities* The Modernization Centers of Excellence Program shall have the following responsibilities upon request by an executive agency:
-  - **(1)** To modernize information technology and how a customer interacts with an executive agency.
+- **(a)** *Definitions* In this section:
+  - **(1)** *Cloud computing* The term cloud computing has the meaning given the term in section 1076 of the National Defense Authorization Act for Fiscal Year 2018 (40 U.S.C. 11301 note).
+  - **(2)** *Executive agency* The term executive agency has the meaning given the term Executive agency in section 105 of title 5, United States Code.
+  - **(3)** *Program* The term Program means the Information Technology Modernization Centers of Excellence Program established under subsection (b).
+- **(b)** *Establishment* The Administrator of General Services shall establish a program to be known as the Information Technology Modernization Centers of Excellence Program to facilitate the adoption of modern technology by executive agencies on a reimbursable basis.
+- **(c)** *Responsibilities* The Program shall have the following responsibilities:
+  - **(1)** To encourage the modernization of information technology used by an executive agency and how a customer interacts with an executive agency.
   - **(2)** To improve cooperation between commercial and executive agency information technology sectors.
-  - **(3)** To assist an executive agency with planning and adoption of—
-    - **(A)** a commercial cloud computing system that includes—
+  - **(3)** To the extent practicable, encourage the adoption of commercial items in accordance with section 3307 of title 41, United States Code.
+  - **(4)** Upon request by the executive agency, to assist executive agencies with planning and adoption of technology in focus areas designated by the Administrator, which may include the following:
+    - **(A)** A commercial cloud computing system that includes—
       - **(i)** end-to-end migration planning and an assessment of progress towards modernization; and
-      - **(ii)** a security and governance framework based on industry and government best practices;
-    - **(B)** tools to help a customer receive support from and communicate with an executive agency;
-    - **(C)** contact centers and other related costumer supports;
-    - **(D)** efficient use of data management, analysis, and reporting; and
-    - **(E)** optimized infrastructure, including for data centers, and to reduce operating costs.
-  - **(4)** To share best practices and expertise an executive agency.
-  - **(5)** Other responsibilities the Director of Technology Transformation Services may identify.
-- **(c)** *Definitions* In this section:
-  - **(1)** *Cloud computing* The term “cloud computing” has the meaning given that term in section 1076 of the National Defense Authorization Act of 2018 (40 U.S.C. 11301 note).
-  - **(2)** *Executive Agency* The term “executive agency” has the meaning given the term “Executive agency” in section 105 of title 5, United States Code.
+      - **(ii)** a cybersecurity and governance framework that promotes industry and government risk management best practice approaches, prioritizing efforts based on risk, impact, and consequences.
+    - **(B)** Tools to help an individual receive support from and communicate with an executive agency.
+    - **(C)** Contact centers and other related customer supports.
+    - **(D)** Efficient use of data management, analysis, and reporting.
+    - **(E)** The optimization of infrastructure, including for data centers, and the reduction of operating costs.
+    - **(F)** Artificial intelligence.
+  - **(5)** To share best practices and expertise with executive agencies.
+  - **(6)** Other responsibilities the Administrator may identify.
+- **(d)** *Coordination* The Administrator shall coordinate with the Secretary of Homeland Security in establishing the Program to ensure that the technology, tools, and frameworks facilitated for executive agencies by the Program provide sufficient cybersecurity and maintain the integrity, confidentiality, and availability of Federal information.
+- **(e)** *Program reporting* Not later than 1 year after the date of enactment of this Act, and every year thereafter, the Administrator shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform of the House of Representatives a report on the Program, which shall include the following:
+  - **(1)** A description of the reimbursable agreements, statements of work, and associated project schedules and deliverables for the Program.
+  - **(2)** Details on the total amount of the reimbursable agreements.
+  - **(3)** Any additional information the Administrator determines necessary.
+- **(f)** *Sunset* This Act shall cease to have effect on the date that is 7 years after the date of enactment of this Act.
+- **(g)** *Rule of construction* Nothing in this Act shall be construed to impair or otherwise affect the authority delegated by law to an executive agency or the head of an executive agency.
+
+## § 3. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
