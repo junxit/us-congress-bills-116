@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5780
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5780
@@ -34,3 +34,9 @@ Safe Communities Act of 2020
 - 2020-08-14 — Placed on the Union Calendar, Calendar No. 382.
 - 2020-08-14 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-476.
 - 2020-08-14 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-476.
+- 2020-09-30 — Considered under suspension of the rules. (consideration: CR H5078-5080)
+- 2020-09-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5780.
+- 2020-09-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-30 — Ms. Underwood moved to suspend the rules and pass the bill, as amended.
+- 2020-09-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5078-5079)
+- 2020-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
