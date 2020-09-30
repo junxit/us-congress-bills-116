@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 687
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 687
@@ -28,3 +28,7 @@ A resolution honoring the life and legacy of Coya Knutson.
 
 - 2020-09-10 — Introduced in Senate
 - 2020-09-10 — Referred to the Committee on the Judiciary.
+- 2020-09-30 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 9/10/2020 CR S5552-5553)
+- 2020-09-30 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 9/10/2020 CR S5552-5553)
+- 2020-09-30 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S5998)
+- 2020-09-30 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S5998)
