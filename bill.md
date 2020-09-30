@@ -22,6 +22,7 @@ This Act may be cited as the “TSA Personnel Workplace Improvement Act of 2020�
   - **(4)** available for personnel to use with a reasonable break time to express breast milk for a child of such personnel each time such personnel has a need to express milk.
 - **(b)** *Duration* The Administrator of the Transportation Security Administration shall ensure that the availability to Administration personnel described in subsection (a)(4) is for a period of time equal to at least one year from the birth of a child of an Administration employee.
 - **(c)** *Coordination with stakeholders* In carrying out the requirements in subsection (a), the Administrator of the Transportation Security Administration shall coordinate with the National Institutes for Health and the labor organization representing Administration screening personnel.
+- **(d)** *Notification* The Administrator of the Transportation Security Administration shall inform Administration personnel about the availability under subsection (a) of facilities designed for use by nursing mothers in the workplace.
 
 ## § 3. Paid parental leave
 
