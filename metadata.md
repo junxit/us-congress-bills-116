@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2468
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2468
@@ -92,3 +92,14 @@ School-Based Allergies and Asthma Management Program Act
 - 2020-09-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5004)
 - 2020-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2020-09-30 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2020-12-17 — Passed Senate without amendment by Voice Vote.
+- 2020-12-17 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2020-12-17 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2020-12-17 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S7642)
+- 2020-12-18 — Message on Senate action sent to the House.
+- 2020-12-24 — Presented to President.
+- 2020-12-24 — Presented to President.
+- 2021-01-05 — Became Public Law No: 116-292.
+- 2021-01-05 — Became Public Law No: 116-292.
+- 2021-01-05 — Signed by President.
+- 2021-01-05 — Signed by President.
