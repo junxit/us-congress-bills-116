@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1109
 congress: 116
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1109
@@ -154,9 +154,10 @@ Mental Health Services for Students Act of 2020
 - Rep. Finkenauer, Abby [D-IA-1] (F000467)
 - Rep. Kirkpatrick, Ann [D-AZ-2] (K000368)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -176,3 +177,4 @@ Mental Health Services for Students Act of 2020
 - 2020-09-29 — Placed on the Union Calendar, Calendar No. 453.
 - 2020-09-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-553.
 - 2020-09-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-553.
+- 2020-09-30 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
