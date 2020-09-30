@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5823
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5823
@@ -50,3 +50,9 @@ State and Local Cybersecurity Improvement Act
 - 2020-08-18 — Placed on the Union Calendar, Calendar No. 384.
 - 2020-08-18 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-478.
 - 2020-08-18 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-478.
+- 2020-09-30 — Considered under suspension of the rules. (consideration: CR H5080-5084)
+- 2020-09-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5823.
+- 2020-09-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-30 — Ms. Underwood moved to suspend the rules and pass the bill, as amended.
+- 2020-09-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5080-5083)
+- 2020-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
