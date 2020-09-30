@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7948
 congress: 116
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 7948
@@ -25,9 +25,10 @@ Tribal Health Data Improvement Act of 2020
 - Rep. Ruiz, Raul [D-CA-36] (R000599)
 - Rep. Armstrong, Kelly [R-ND-At Large] (A000377)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Tribal Health Data Improvement Act of 2020
 - 2020-09-29 — Placed on the Union Calendar, Calendar No. 446.
 - 2020-09-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-546.
 - 2020-09-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-546.
+- 2020-09-30 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
