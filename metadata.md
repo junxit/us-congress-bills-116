@@ -1,7 +1,7 @@
 ---
 measure: H.R. 359
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 359
@@ -45,3 +45,4 @@ Enhancing Grid Security through Public-Private Partnerships Act
 - 2020-09-29 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
 - 2020-09-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4969-4970)
 - 2020-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-09-30 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 559.
