@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2454
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2454
@@ -25,3 +25,12 @@ To designate the facility of the United States Postal Service located at 123 Eas
 - 2019-05-01 — Introduced in House
 - 2019-05-01 — Introduced in House
 - 2019-05-01 — Referred to the House Committee on Oversight and Reform.
+- 2019-05-02 — Sponsor introductory remarks on measure. (CR H3410)
+- 2019-12-19 — Committee Consideration and Mark-up Session Held.
+- 2020-09-30 — Committee on Oversight and Reform discharged.
+- 2020-09-30 — Committee on Oversight and Reform discharged.
+- 2020-09-30 — Considered by unanimous consent. (consideration: CR H5071)
+- 2020-09-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-30 — Mr. Connolly asked unanimous consent to discharge from committee and consider.
+- 2020-09-30 — On passage Passed without objection. (text: CR H5071)
+- 2020-09-30 — Passed/agreed to in House: On passage Passed without objection.
