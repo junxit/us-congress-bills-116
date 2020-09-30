@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4764
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4764
@@ -90,3 +90,7 @@ TRANSPLANT Act of 2020
 - 2020-09-29 — Placed on the Union Calendar, Calendar No. 449.
 - 2020-09-29 — Reported by the Committee on Energy and Commerce. H. Rept. 116-549.
 - 2020-09-29 — Reported by the Committee on Energy and Commerce. H. Rept. 116-549.
+- 2020-09-30 — Considered as unfinished business. (consideration: CR H5089-5090)
+- 2020-09-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-09-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 211). (text: CR 09/29/2020 H4996)
+- 2020-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 211).

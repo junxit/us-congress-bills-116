@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Timely ReAuthorization of Necessary Stem-cell Programs Lends Access to Needed Therapies Act of 2019” or the “TRANSPLANT Act of 2019”.
+This Act may be cited as the “Timely ReAuthorization of Necessary Stem-cell Programs Lends Access to Needed Therapies Act of 2020” or the “TRANSPLANT Act of 2020”.
 
 ## § 2. Reauthorization of the C.W. Bill Young Cell Transplantation Program
 
@@ -35,3 +35,26 @@ This Act may be cited as the “Timely ReAuthorization of Necessary Stem-cell Pr
 Subsection (g) of section 2 of the Stem Cell Therapeutic and Research Act of 2005 (42 U.S.C. 274k note) is amended to read as follows:
 
 > - **(g)** *Authorization of appropriations* To carry out this section, there is authorized to be appropriated $23,000,000 for each of fiscal years 2021 through 2025.
+
+## § 4. Advancing the field of regenerative medicine
+
+Section 402 of the Public Health Service Act (42 U.S.C. 282) is amended by adding at the end the following:
+
+> - **(o)** *Regenerative Medicine* The Director of NIH shall, as appropriate, continue to consult with the directors of relevant institutes and centers of the National Institutes of Health, other relevant experts from such institutes and centers, and relevant experts within the Food and Drug Administration, to further the field of regenerative medicine using adult stem cells, including autologous stem cells, therapeutic tissue engineering products, human cell and tissue products, human gene therapies, and genetically modified cells.
+
+## § 5. GAO report on regenerative medicine workforce
+
+Not later than 2 years after the date of enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that assesses the national blood stem cell workforce, including those related to the C.W. Bill Young Cell Transplantation Program established under section 379 of the Public Health Service Act (42 U.S.C. 274k). The report shall include—
+
+- **(1)** an overview of the current employment levels, in both commercial and academic settings, for—
+  - **(A)** positions necessary for the collection and transplantation of stem cell therapeutics, including bone marrow and cord blood;
+  - **(B)** positions in the field of regenerative medicine using adult stem cells and related to product development; and
+  - **(C)** Federal funding for extramural stem cell programs;
+- **(2)** an overview of the current employment levels in Federal stem cell programs, including the scope of, staffing models of, and vacancies within such programs;
+- **(3)** the identification of gaps, if any, in the projected workforce capacity for—
+  - **(A)** positions described in paragraph (1)(A); and
+  - **(B)** the field of regenerative medicine using adult stem cells, including workforce gaps related to the development of new cellular therapies using adult stem cells;
+- **(4)** an overview of the availability of training programs related to the development, refinement, and utilization of adult stem cells, including training on good manufacturing practices for such activities, and the performance of such programs; and
+- **(5)** recommendations, if any, for improving the workforce capacity related to—
+  - **(A)** the positions described in paragraph (1)(A); or
+  - **(B)** the field of regenerative medicine using adult stem cells.
