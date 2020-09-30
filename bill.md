@@ -11,9 +11,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “COVID Preparedness, Response, and Effective Planning for Advanced Requirements by the Executive Branch Act” or the “COVID PREPARE Act”.
+This Act may be cited as the “COVID Preparedness, Response, and Effective Planning for Advanced Requirements by the Executive Branch Act of 2020” or the “COVID PREPARE Act of 2020”.
 
-## § 2. COVID–19 resurgence plan
+## § 2. Covid–19 resurgence plan
 
 - **(a)** *In general* Not later than 30 days after the date of the enactment of this Act, the head of each agency shall submit to Congress an initial report detailing an action plan, informed by research and best practices learned from the onset of COVID–19 and previous presidentially declared emergencies, for addressing the needs and mitigating and eliminating the risks and challenges associated with any resurgence in COVID–19 cases, that includes—
   - **(1)** agency priorities for preparing for and responding to any resurgence of COVID–19, including continuity of operations and fulfilling the mission of the agency;
@@ -26,5 +26,9 @@ This Act may be cited as the “COVID Preparedness, Response, and Effective Plan
   - **(2)** an explanation for any goal that has not been met within the specified time frame; and
   - **(3)** any changes or updates to the plan.
 - **(c)** *Definitions* In this section:
-  - **(1)** *Agency* The term agency has the meaning given that term in section 551 of title 5, United States Code.
-  - **(2)** *State* The term State means each of the several States, the District of Columbia, each commonwealth, territory, or possession of the United States, and each federally recognized Indian Tribe.
+  - **(1)** *Agency* The term “agency” has the meaning given that term in section 551 of title 5, United States Code.
+  - **(2)** *State* The term “State” means each of the several States, the District of Columbia, each commonwealth, territory, or possession of the United States, and each federally recognized Indian Tribe.
+
+## § 3. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
