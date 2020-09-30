@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4861
 congress: 116
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4861
@@ -33,9 +33,10 @@ Effective Suicide Screening and Assessment in the Emergency Department Act of 20
 - Rep. Underwood, Lauren [D-IL-14] (U000040)
 - Rep. Delgado, Antonio [D-NY-19] (D000630)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ Effective Suicide Screening and Assessment in the Emergency Department Act of 20
 - 2020-09-29 — Placed on the Union Calendar, Calendar No. 443.
 - 2020-09-29 — Reported by the Committee on Energy and Commerce. H. Rept. 116-543.
 - 2020-09-29 — Reported by the Committee on Energy and Commerce. H. Rept. 116-543.
+- 2020-09-30 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
