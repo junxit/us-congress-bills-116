@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5811
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5811
@@ -21,9 +21,10 @@ TSA Personnel Workplace Improvement Act of 2020
 - Rep. Correa, J. Luis [D-CA-46] (C001110)
 - Rep. Soto, Darren [D-FL-9] (S001200)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ TSA Personnel Workplace Improvement Act of 2020
 - 2020-09-30 — Ms. Underwood moved to suspend the rules and pass the bill, as amended.
 - 2020-09-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5085-5086)
 - 2020-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-10-01 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
