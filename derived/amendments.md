@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6813
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
