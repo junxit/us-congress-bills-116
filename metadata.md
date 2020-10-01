@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5901
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5901
@@ -39,3 +39,4 @@ Information Technology Modernization Centers of Excellence Program Act
 - 2020-09-30 — Mr. Connolly moved to suspend the rules and pass the bill, as amended.
 - 2020-09-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5072)
 - 2020-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-10-01 — Received in the Senate, read twice.
