@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8225
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 8225
@@ -34,3 +34,9 @@ Fight Notario Fraud Act of 2020
 - 2020-09-24 — Placed on the Union Calendar, Calendar No. 433.
 - 2020-09-24 — Reported by the Committee on Judiciary. H. Rept. 116-533.
 - 2020-09-24 — Reported by the Committee on Judiciary. H. Rept. 116-533.
+- 2020-10-01 — Considered under suspension of the rules. (consideration: CR H5149-5151)
+- 2020-10-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 8225.
+- 2020-10-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-10-01 — Ms. Bass moved to suspend the rules and pass the bill, as amended.
+- 2020-10-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5149-5150)
+- 2020-10-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.

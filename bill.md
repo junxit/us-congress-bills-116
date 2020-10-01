@@ -43,3 +43,7 @@ This Act may be cited as the “Fight Notario Fraud Act of 2020”.
   > - **(g)** *Immigration laws* In this section, the term “immigration laws” has the meaning given that term in section 101(a)(17) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(17)).
 
 - **(b)** *Clerical amendment* The table of sections for chapter 47 of title 18, United States Code, is amended by adding at the end the following:
+
+## § 3. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
