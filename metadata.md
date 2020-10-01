@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5572
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5572
@@ -80,3 +80,8 @@ Family Support Services for Addiction Act of 2020
 - 2020-09-29 — Placed on the Union Calendar, Calendar No. 447.
 - 2020-09-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-547.
 - 2020-09-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-547.
+- 2020-10-01 — Considered as unfinished business. (consideration: CR H5202)
+- 2020-10-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-10-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5202)
+- 2020-10-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-10-01 — VACATED PROCEEDINGS - Mrs. Lowey asked unanimous consent that the proceedings by which the yeas and nays were ordered on the motion to suspend the rules and pass H.R. 5572, as amended be vacated to the end that the Chair put the question de novo. Agreed to without objection
