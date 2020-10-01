@@ -33,7 +33,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(E)** in section 55331(3), by striking “Saint Lawrence Seaway Development Corporation” and inserting “Great Lakes St. Lawrence Seaway Development Corporation”; and
     - **(F)** in section 70032, by striking “Saint Lawrence Seaway Development Corporation” and inserting “Great Lakes St. Lawrence Seaway Development Corporation” each place it appears.
   - **(7)** *Title 49*
-    - **(A)** *In general* Chapter 1 of subtitle I title 49, United States Code, is amended—
+    - **(A)** *In general* Title 49, United States Code, is amended—
       - **(i)** in section 110—
         - **(I)** in the heading, by striking “Saint Lawrence Seaway Development Corporation” and inserting “Great Lakes St. Lawrence Seaway Development Corporation”; and
         - **(II)** in subsection (a), by striking “Saint Lawrence Seaway Development Corporation” and inserting “Great Lakes St. Lawrence Seaway Development Corporation”; and
