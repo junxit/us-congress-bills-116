@@ -113,30 +113,33 @@ This Act may be cited as the “Stop Sexual Assault and Harassment in Transporta
 - **(a)** *In general* Chapter 53 of title 49, United States Code, is amended by adding at the end the following:
   > ## § 5341. Formal sexual assault and harassment policies
   >
-  > - **(a)** *Requirement* Not later than 180 days after the date of enactment of this section, each recipient of Federal funds under this chapter operating vehicles shall issue, in consultation with labor unions representing personnel with respect to the recipient, a formal policy with respect to transportation sexual assault or harassment incidents.
+  > - **(a)** *Requirement* Not later than 180 days after the date of enactment of this section, each covered transit entity shall issue, in consultation with labor unions representing personnel with respect to the covered transit entity, a formal policy with respect to transportation sexual assault or harassment incidents.
   > - **(b)** *Contents* The policy required under subsection (a) shall include—
   >   - **(1)** a statement indicating that no transportation sexual assault or harassment incident is acceptable under any circumstance;
   >   - **(2)** procedures that facilitate the reporting of a transportation sexual assault or harassment incident, including—
   >     - **(A)** appropriate public outreach activities; and
   >     - **(B)** confidential phone and internet-based opportunities for reporting;
   >   - **(3)** procedures that personnel should follow upon the reporting of a transportation sexual assault or harassment incident, including actions to protect affected individuals from continued sexual assault or harassment and to notify law enforcement when appropriate;
-  >   - **(4)** procedures that may limit, to the extent practicable, future travel with the recipient entity by any passenger who causes a transportation sexual assault or harassment incident; and
+  >   - **(4)** procedures that may limit, to the extent practicable, future travel with the covered transit entity by any passenger who causes a transportation sexual assault or harassment incident; and
   >   - **(5)** training that is required for all appropriate personnel with respect to the policy required under subsection (a), including—
   >     - **(A)** specific training for personnel who may receive reports of transportation sexual assault or harassment incidents; and
   >     - **(B)** recognizing and responding to potential human trafficking victims.
-  > - **(c)** *Passenger information* A recipient entity shall prominently display, on the internet website of the entity and through the use of appropriate signage, a written statement that—
-  >   - **(1)** advises passengers and personnel that the recipient entity has adopted a formal policy with respect to transportation sexual assault or harassment incidents;
-  >   - **(2)** informs passengers and personnel of the other major components of the recipient entity’s formal policy, including a statement indicating that no transportation sexual assault or harassment incident is acceptable under any circumstance; and
+  > - **(c)** *Passenger information* A covered transit entity shall prominently display, on the internet website of the entity and through the use of appropriate signage, a written statement that—
+  >   - **(1)** advises passengers and personnel that the covered transit entity has adopted a formal policy with respect to transportation sexual assault or harassment incidents;
+  >   - **(2)** informs passengers and personnel of the other major components of the covered transit entity’s formal policy, including a statement indicating that no transportation sexual assault or harassment incident is acceptable under any circumstance; and
   >   - **(3)** informs passengers and personnel of the procedure for reporting a transportation sexual assault or harassment incident.
-  > - **(d)** *Standard of care* Compliance with the requirements of this section, and any policy issued thereunder, shall not determine whether the recipient entity has acted with any requisite standard of care.
+  > - **(d)** *Standard of care* Compliance with the requirements of this section, and any policy issued thereunder, shall not determine whether the covered transit entity has acted with any requisite standard of care.
   > - **(e)** *Definitions* In this section:
-  >   - **(1)** *Personnel* The term personnel means an employee or contractor of a recipient of Federal funds under this chapter.
-  >   - **(2)** *Sexual assault* The term “sexual assault” means the occurrence of an act that constitutes any nonconsensual sexual act proscribed by Federal, tribal, or State law, including when the victim lacks capacity to consent.
-  >   - **(3)** *Transportation sexual assault or harassment incident* The term transportation sexual assault or harassment incident means the occurrence, or reasonably suspected occurrence, of an act that—
+  >   - **(1)** *Covered transit entity* The term “covered transit entity” means a State or local governmental entity, private nonprofit organization, or Tribe that—
+  >     - **(A)** operates a public transportation service; and
+  >     - **(B)** is a recipient or subrecipient of funds under this chapter.
+  >   - **(2)** *Personnel* The term personnel means an employee or contractor of a covered transit entity.
+  >   - **(3)** *Sexual assault* The term “sexual assault” means the occurrence of an act that constitutes any nonconsensual sexual act proscribed by Federal, tribal, or State law, including when the victim lacks capacity to consent.
+  >   - **(4)** *Transportation sexual assault or harassment incident* The term transportation sexual assault or harassment incident means the occurrence, or reasonably suspected occurrence, of an act that—
   >     - **(A)** constitutes sexual assault or sexual harassment; and
   >     - **(B)** is committed—
-  >       - **(i)** by a passenger or member of personnel of recipient entity against another passenger or member of personnel of the recipient entity; and
-  >       - **(ii)** within a vehicle of the recipient entity or in an area in which passengers are entering or exiting such a vehicle.
+  >       - **(i)** by a passenger or member of personnel of covered transit entity against another passenger or member of personnel of the covered transit entity; and
+  >       - **(ii)** within a vehicle of the covered transit entity or in an area in which passengers are entering or exiting such a vehicle.
 
 - **(b)** *Clerical amendment* The analysis for chapter 53 of title 49, United States Code, is amended by adding at the end the following:
 
@@ -177,46 +180,7 @@ This Act may be cited as the “Stop Sexual Assault and Harassment in Transporta
   >         - **(I)** such a vessel; or
   >         - **(II)** an area in which passengers are entering or exiting such a vessel.
 
-- **(e)** *Maintenance and placement of video surveillance equipment* Section 3507(b)(1) of title 46, United States Code, is amended—
-  - **(1)** by striking “The owner” and inserting the following:
-    > - **(A)** *In general* The owner
-
-  - **(2)** by striking “, as determined by the Secretary”; and
-  - **(3)** by adding at the end, the following:
-    > - **(B)** *Placement of video surveillance equipment* With regard to the placement of video surveillance equipment on a vessel under subparagraph (A), the owner shall—
-    >   - **(i)** place video surveillance equipment in each passenger common area where a person has no reasonable expectation of privacy;
-    >   - **(ii)** place video surveillance equipment in other areas where a person has no reasonable expectation of privacy; and
-    >   - **(iii)** place video surveillance equipment in each area identified under clause (i) or (ii) in a manner that provides optimum surveillance of that area.
-
-- **(f)** *Notice of video surveillance* Section 3507(b), of title 46, United States Code, is further amended by inserting after paragraph (1) the following:
-  > - **(2)** *Notice of video surveillance* The owner of a vessel to which this section applies shall provide clear and conspicuous signs on board the vessel notifying the public of the presence of video surveillance equipment.
-
-- **(g)** *Access to video records* Section 3507(b), of title 46, United States Code, is further amended—
-  - **(1)** by redesignating paragraph (2) as paragraph (3); and
-  - **(2)** in paragraph (3), as so redesignated—
-    - **(A)** by striking “The owner” and inserting the following:
-      > - **(A)** *Law enforcement* The owner
-
-    - **(B)** by adding at the end the following:
-      > - **(B)** *Civil actions* The owner of a vessel to which this section applies shall provide to any individual or the individual’s legal representative, upon written request, a copy of all records of video surveillance—
-      >   - **(i)** in which the individual is a subject of the video surveillance; and
-      >   - **(ii)** that may provide evidence in a civil action.
-      > - **(C)** *Limited access* The owner of a vessel to which this section applies shall ensure that access to records of video surveillance is limited to the purposes described in this paragraph.
-
-- **(h)** *Retention requirements* Section 3507(b), of title 46, United States Code, is further amended by adding at the end the following:
-  > - **(4)** *Retention requirements*
-  >   - **(A)** *In general* The owner of a vessel to which this section applies shall retain all records of video surveillance for a voyage for not less than 90 days after the completion of the voyage. If an incident described in subsection (g)(3)(A)(i) is alleged and reported to law enforcement, all records of video surveillance from the voyage that the Federal Bureau of Investigation determines are relevant shall—
-  >     - **(i)** be provided to the Federal Bureau of Investigation; and
-  >     - **(ii)** be preserved by the vessel owner for not less than 5 years from the date of the alleged incident.
-  >   - **(B)** *Interim standards* Not later than 180 days after the date of enactment of the Stop Sexual Assault and Harassment in Transportation Act, the Commandant, in consultation with the Federal Bureau of Investigation, shall promulgate interim standards for the retention of records of video surveillance.
-  >   - **(C)** *Final standards* Not later than 1 year after the date of enactment of the Stop Sexual Assault and Harassment in Transportation Act, the Commandant, in consultation with the Federal Bureau of Investigation, shall promulgate final standards for the retention of records of video surveillance.
-  >   - **(D)** *Considerations* In promulgating standards under subparagraphs (B) and (C), the Commandant shall—
-  >     - **(i)** consider factors that would aid in the investigation of serious crimes, including crimes that go unreported until after the completion of a voyage;
-  >     - **(ii)** consider the different types of video surveillance systems and storage requirements in creating standards both for vessels currently in operation and for vessels newly built;
-  >     - **(iii)** consider privacy, including standards for permissible access to and monitoring and use of the records of video surveillance; and
-  >     - **(iv)** consider technological advancements, including requirements to update technology.
-
-- **(i)** *Implementation* Not later than 180 days after the date of enactment of this Act, the owner of a vessel to which section 3507 of title 46, United States Code, applies shall issue the formal policy with respect to sexual assault or harassment incidents required by the amendments made by this section.
+- **(e)** *Implementation* Not later than 180 days after the date of enactment of this Act, the owner of a vessel to which section 3507 of title 46, United States Code, applies shall issue the formal policy with respect to sexual assault or harassment incidents required by the amendments made by this section.
 
 ## § 7. Civil penalties for interference with certain transportation personnel
 
@@ -224,7 +188,7 @@ This Act may be cited as the “Stop Sexual Assault and Harassment in Transporta
   > ## § 80505. Interference with certain transportation personnel
   >
   > - **(a)** *General rule* An individual who physically or sexually assaults or threatens to physically or sexually assault an employee engaged in the transportation of passengers on behalf of a covered entity, or takes any action that poses an imminent threat to the safety of a vehicle of a covered entity that is transporting passengers, including rolling stock, motorcoaches, and ferries, is liable to the United States Government for a civil penalty of—
-  >   - **(1)** for calendar years 2019 through 2024, not more than $35,000;
+  >   - **(1)** for calendar years 2020 through 2024, not more than $35,000;
   >   - **(2)** for calendar years 2025 through 2029, not more than $40,000; and
   >   - **(3)** for calendar year 2030 and thereafter, not more than $45,000.
   > - **(b)** *Compromise and setoff*
@@ -242,7 +206,7 @@ This Act may be cited as the “Stop Sexual Assault and Harassment in Transporta
 - **(b)** *Clerical amendment* The analysis for chapter 805 of title 49, United States Code, is amended by inserting after the item relating to section 80504 the following:
 - **(c)** *Graduated fines for interference with cabin or flight crew* Section 46318(a) of title 49, United States Code, is amended by striking “penalty of not more than $35,000.” and inserting the following:
   > penalty of—
-  > - **(1)** for calendar years 2019 through 2024, not more than $35,000;
+  > - **(1)** for calendar years 2020 through 2024, not more than $35,000;
   > - **(2)** for calendar years 2025 through 2029, not more than $40,000; and
   > - **(3)** for calendar year 2030 and thereafter, not more than $45,000.
 
@@ -271,7 +235,7 @@ This Act may be cited as the “Stop Sexual Assault and Harassment in Transporta
 - **(a)** *In general* Not later than 1 year after the date of enactment of this Act, the Secretary of Transportation shall establish a program to annually collect and maintain data from each covered entity, or, as appropriate, a State or local entity that provides authorized transportation service, on—
   - **(1)** the number of transportation sexual assault or harassment incidents reported to the covered entity or State or local entity that provides authorized transportation service, including—
     - **(A)** the number of incidents committed against passengers; and
-    - **(B)** the number of incidents committed against personnel or, in the case of a TNC or for-hire vehicle company, a TNC driver or a FVC driver, respectively;
+    - **(B)** the number of incidents committed against personnel or, in the case of a transportation network company or for-hire vehicle company, a TNC driver or a FVC driver, respectively;
   - **(2)** the number of transportation sexual assault or harassment incidents reported to law enforcement by personnel of the covered entity or State or local entity that provides authorized transportation services; and
   - **(3)** any transportation sexual assault or harassment incidents compiled and maintained under section 3507(g)(4)(A)(i) of title 46, United States Code.
 - **(b)** *Data availability* Subject to subsection (c), the Secretary shall make available to the public on the primary internet website of the Department of Transportation the data collected and maintained under subsection (a).
@@ -303,7 +267,9 @@ In this Act:
 - **(1)** *Covered entity* The term covered entity means an entity that is one of the following:
   - **(A)** An air carrier (as that term is defined in section 40102 of title 49, United States Code) that transports passengers for compensation.
   - **(B)** A foreign air carrier (as that term is defined in section 40102 of title 49, United States Code) that transports passengers for compensation.
-  - **(C)** A recipient of Federal funds under chapter 53 of title 49, United States Code.
+  - **(C)** A State or local governmental entity, private nonprofit organization, or Tribe that—
+    - **(i)** operates a public transportation service; and
+    - **(ii)** is a recipient or subrecipient of funds under chapter 53 of title 49, United States Code.
   - **(D)** A motor carrier of passengers that—
     - **(i)** conducts regularly scheduled intercity service; and
     - **(ii)** is a Class I carrier (as that term is used in section 369.3(a) of title 49, Code of Federal Regulations).
@@ -315,7 +281,7 @@ In this Act:
   - **(A)** provides passenger transportation in a motor vehicle in exchange for compensation; and
   - **(B)** is authorized by a State or local government entity as a taxicab service, limousine service, livery service, black car service, sedan service, chauffeur service, or any other similar category of for-hire transportation service.
 - **(3)** *FVC driver* The term “FVC driver” means an individual who is employed, contracted by, or otherwise affiliated with a for-hire vehicle company to provide transportation services to the public.
-- **(4)** *FVC personnel* The term “FVC personnel” means an employee or contractor of a covered for-vehicle company, other than a FVC driver.
+- **(4)** *FVC personnel* The term “FVC personnel” means an employee or contractor of a covered for-hire vehicle company, other than a FVC driver.
 - **(5)** *Sexual assault* The term “sexual assault” means the occurrence of an act that constitutes any nonconsensual sexual act proscribed by Federal, tribal, or State law, including when the victim lacks capacity to consent.
 - **(6)** *TNC driver* The term TNC driver means an individual who is employed, contracted by, or otherwise affiliated with a transportation network company to provide transportation services (also known as ride-sharing) to the public.
 - **(7)** *TNC personnel* The term “TNC personnel” means an employee or contractor of a covered transportation network company, other than a TNC driver.
@@ -325,7 +291,11 @@ In this Act:
 - **(9)** *Transportation sexual assault or harassment incident* The term transportation sexual assault or harassment incident means the occurrence, or reasonably suspected occurrence, of an act that—
   - **(A)** constitutes sexual assault or sexual harassment; and
   - **(B)** is committed—
-    - **(i)** by a passenger or a member of the personnel of a covered entity, or in the case of a TNC, a TNC driver of the covered entity, against another passenger or member of personnel or TNC driver of the covered entity, or in the case of a for-hire vehicle company, an FVC driver of the covered entity, against another passenger or member of personnel or an FVC driver of the covered entity; and
+    - **(i)** by a passenger, personnel, TNC driver, or FVC driver of a covered entity, against a passenger, personnel, TNC driver, or FVC driver of the covered entity; and
     - **(ii)** within—
       - **(I)** a vehicle of the covered entity that is transporting passengers, including aircraft, rolling stock, motorcoaches, and ferries; or
       - **(II)** an area in which passengers are entering or exiting such a vehicle.
+
+## § 14. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
