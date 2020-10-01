@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4764
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4764
@@ -98,3 +98,4 @@ TRANSPLANT Act of 2020
 - 2020-09-30 — Motion to reconsider laid on the table Agreed to without objection.
 - 2020-09-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 211). (text: CR 09/29/2020 H4996)
 - 2020-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 211).
+- 2020-10-01 — Received in the Senate, read twice.
