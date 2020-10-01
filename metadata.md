@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3680
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3680
@@ -53,3 +53,14 @@ To designate the facility of the United States Postal Service located at 415 Nor
 - 2020-09-30 — Passed/agreed to in House: On passage Passed without objection.
 - 2020-09-30 — The title of the measure was amended. Agreed to without objection.
 - 2020-10-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2020-12-03 — Passed Senate without amendment by Unanimous Consent.
+- 2020-12-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-12-03 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S7220-7221)
+- 2020-12-03 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S7220-7221)
+- 2020-12-07 — Message on Senate action sent to the House.
+- 2020-12-11 — Presented to President.
+- 2020-12-11 — Presented to President.
+- 2020-12-21 — Became Public Law No: 116-232.
+- 2020-12-21 — Became Public Law No: 116-232.
+- 2020-12-21 — Signed by President.
+- 2020-12-21 — Signed by President.
