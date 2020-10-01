@@ -1,7 +1,7 @@
 ---
 measure: S. 2203
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-15 amendatory instructions. 5 executed, 10 stated and not applied.
+16 amendatory instructions. 6 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -53,7 +53,16 @@ to guess them.
 
 ### 22 U.S.C. § 2131
 
-> in paragraph (4)(B), by striking “2020” and inserting “2027”.
+> in paragraph (3)(B)(ii), by striking “70 percent” and inserting “50 percent”; and
+
+| | |
+|---|---|
+| Removed | `70 percent` |
+| Inserted | `50 percent` |
+
+### 22 U.S.C. § 2131
+
+> (3) in paragraph (4)(B), by striking “2020” and inserting “2027”.
 
 | | |
 |---|---|
