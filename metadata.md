@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4875
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4875
@@ -34,9 +34,10 @@ To designate the facility of the United States Postal Service located at 2201 E.
 - Rep. Kaptur, Marcy [D-OH-9] (K000009)
 - Rep. Gibbs, Bob [R-OH-7] (G000563)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ To designate the facility of the United States Postal Service located at 2201 E.
 - 2020-09-30 — Mr. Connolly asked unanimous consent to discharge from committee and consider.
 - 2020-09-30 — On passage Passed without objection. (text: CR H5072)
 - 2020-09-30 — Passed/agreed to in House: On passage Passed without objection.
+- 2020-10-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
