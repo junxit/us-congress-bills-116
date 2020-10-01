@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7496
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7496
@@ -50,9 +50,10 @@ COVID PREPARE Act of 2020
 - Rep. Speier, Jackie [D-CA-14] (S001175)
 - Del. Plaskett, Stacey E. [D-VI-At Large] (P000610)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -68,3 +69,4 @@ COVID PREPARE Act of 2020
 - 2020-09-30 — Mr. Connolly moved to suspend the rules and pass the bill, as amended.
 - 2020-09-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5075)
 - 2020-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-10-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
