@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5068
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5068
@@ -60,3 +60,9 @@ Women Who Worked on the Home Front World War II Memorial Act
 - 2020-08-07 — Placed on the Union Calendar, Calendar No. 377.
 - 2020-08-07 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-470.
 - 2020-08-07 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-470.
+- 2020-10-01 — Considered under suspension of the rules. (consideration: CR H5178-5180)
+- 2020-10-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5068.
+- 2020-10-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-10-01 — Mrs. Dingell moved to suspend the rules and pass the bill, as amended.
+- 2020-10-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5178-5179)
+- 2020-10-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
