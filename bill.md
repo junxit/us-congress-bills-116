@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2203
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -47,7 +47,8 @@ Subsection (c) of the Travel Promotion Act of 2009 (22 U.S.C. 2131(c)) is amende
 Subsection (d) of the Travel Promotion Act of 2009 (22 U.S.C. 2131(d)) is amended—
 
 - **(1)** in paragraph (2)(B), by striking “2020” and inserting “2027”; and
-- **(2)** in paragraph (4)(B), by striking “2020” and inserting “2027”.
+- **(2)** in paragraph (3)(B)(ii), by striking “70 percent” and inserting “50 percent”; and
+- **(2)** (3) in paragraph (4)(B), by striking “2020” and inserting “2027”.
 
 ## § 5. Performance plan
 
