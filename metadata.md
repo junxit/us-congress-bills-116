@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5901
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5901
@@ -40,3 +40,12 @@ Information Technology Modernization Centers of Excellence Program Act
 - 2020-09-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5072)
 - 2020-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2020-10-01 — Received in the Senate, read twice.
+- 2020-11-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7044)
+- 2020-11-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7044)
+- 2020-11-18 — Message on Senate action sent to the House.
+- 2020-11-24 — Presented to President.
+- 2020-11-24 — Presented to President.
+- 2020-12-03 — Became Public Law No: 116-194.
+- 2020-12-03 — Became Public Law No: 116-194.
+- 2020-12-03 — Signed by President.
+- 2020-12-03 — Signed by President.
