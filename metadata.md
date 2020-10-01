@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4971
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4971
@@ -29,9 +29,10 @@ To designate the facility of the United States Postal Service located at 15 East
 - Rep. Griffith, H. Morgan [R-VA-9] (G000568)
 - Rep. Wittman, Robert J. [R-VA-1] (W000804)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ To designate the facility of the United States Postal Service located at 15 East
 - 2020-09-30 — Mr. Connolly asked unanimous consent to discharge from committee and consider.
 - 2020-09-30 — On passage Passed without objection. (text: CR H5070)
 - 2020-09-30 — Passed/agreed to in House: On passage Passed without objection.
+- 2020-10-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
