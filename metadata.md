@@ -1,7 +1,7 @@
 ---
 measure: S. 1046
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1046
@@ -16,13 +16,16 @@ ACCESS BROADBAND Act
 
 - Sen. Cortez Masto, Catherine [D-NV] (C001113)
 
-## Cosponsors (5)
+## Cosponsors (8)
 
 - Sen. Gardner, Cory [R-CO] (G000562)
 - Sen. Jones, Doug [D-AL] (J000300)
 - Sen. Johnson, Ron [R-WI] (J000293)
 - Sen. Baldwin, Tammy [D-WI] (B001230)
 - Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Peters, Gary C. [D-MI] (P000595)
 
 ## Committees (1)
 
@@ -32,3 +35,7 @@ ACCESS BROADBAND Act
 
 - 2019-04-04 — Introduced in Senate
 - 2019-04-04 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2020-03-11 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2020-10-01 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-274.
+- 2020-10-01 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-274.
+- 2020-10-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 567.
