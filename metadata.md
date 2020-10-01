@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6270
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6270
@@ -24,9 +24,10 @@ Uyghur Forced Labor Disclosure Act of 2020
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 - Rep. Green, Al [D-TX-9] (G000553)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Uyghur Forced Labor Disclosure Act of 2020
 - 2020-09-30 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 253 - 163 (Roll no. 210).
 - 2020-09-30 — Rule provides for consideration of H.R. 4447, H.R. 6270 and H.R. 8319. The resolution provides for consideration of H.R. 4447 under a structured rulee with 90 minutes of general debate. The resolution provides for consideration of H.R. 6270, under closed rule and H.R. 8319 under a closed rule.
 - 2020-09-30 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2020-10-01 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
