@@ -259,3 +259,7 @@ Section 508 of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C.
 ## § 13. Placement in prerelease custody
 
 Section 3624(c)(1) of title 18, United States Code, is amended by adding at the end the following: “Notwithstanding any other provision of this paragraph, in the case of a pregnant woman in custody, if that woman’s due date is within the final year of her term of imprisonment, that woman may be placed into prerelease custody beginning not earlier than the date that is 2 months prior to that woman’s due date.”.
+
+## § 14. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.

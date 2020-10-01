@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7718
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
