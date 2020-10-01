@@ -1,7 +1,7 @@
 ---
 measure: S. 4138
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4138
@@ -16,9 +16,10 @@ Telework for U.S. Innovation Act
 
 - Sen. Lankford, James [R-OK] (L000575)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Telework for U.S. Innovation Act
 
 - 2020-07-01 — Introduced in Senate
 - 2020-07-01 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2020-07-22 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2020-10-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-276.
+- 2020-10-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-276.
+- 2020-10-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 569.
