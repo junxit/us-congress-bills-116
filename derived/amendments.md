@@ -1,7 +1,7 @@
 ---
 measure: S. 1982
 congress: 116
-version: Referred in House
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 3 executed, 0 stated and not applied.
+4 amendatory instructions. 3 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,27 +26,38 @@ to guess them.
 
 ### 33 U.S.C. § 1951
 
-> Section 2 of the Marine Debris Act (33 U.S.C. 1951) is amended by striking “marine environment,” and inserting “marine environment (including waters in the jurisdiction of the United States, the high seas, and waters in the jurisdiction of other countries),”.
+> in section 2 by striking “marine environment,” and inserting “marine environment (including waters in the jurisdiction of the United States, the high seas, and waters in the jurisdiction of other countries),”;
 
 | | |
 |---|---|
 | Removed | `marine environment,` |
 | Inserted | `marine environment (including waters in the jurisdiction of the United States, the high seas, and waters in the jurisdiction of other countries),` |
 
-### 33 U.S.C. § 1952
+### 33 U.S.C. § 1951
 
-> in subparagraph (B), by striking “the matching requirement under subparagraph (A)” and inserting “a matching requirement under subparagraph (A) or (C)”; and
-
-| | |
-|---|---|
-| Removed | `the matching requirement under subparagraph (A)` |
-| Inserted | `a matching requirement under subparagraph (A) or (C)` |
-
-### 33 U.S.C. § 1952
-
-> in subparagraph (C), in the matter preceding clause (i), by striking “Notwithstanding subparagraph (A)” and inserting “Notwithstanding subparagraph (A) and except as provided in subparagraph (B)”.
+> by striking “$10,000,000” and inserting “$15,000,000”; and
 
 | | |
 |---|---|
-| Removed | `Notwithstanding subparagraph (A)` |
-| Inserted | `Notwithstanding subparagraph (A) and except as provided in subparagraph (B)` |
+| Removed | `$10,000,000` |
+| Inserted | `$15,000,000` |
+
+### 33 U.S.C. § 1951
+
+> by striking “5 percent” and inserting “7 percent”; and
+
+| | |
+|---|---|
+| Removed | `5 percent` |
+| Inserted | `7 percent` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `33 U.S.C. § 1951` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
