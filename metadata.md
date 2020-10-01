@@ -1,7 +1,7 @@
 ---
 measure: S. 1982
 congress: 116
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 1982
@@ -83,3 +83,14 @@ Save Our Seas 2.0 Act
 - 2020-10-01 — Mr. Carbajal moved to suspend the rules and pass the bill, as amended.
 - 2020-10-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5192-5199)
 - 2020-10-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-10-19 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2020-12-01 — Measure laid before Senate by unanimous consent.
+- 2020-12-01 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 1982 by Unanimous Consent.(consideration: CR S7142)
+- 2020-12-01 — Senate agreed to the House amendment to S. 1982 by Unanimous Consent. (consideration: CR S7142)
+- 2020-12-02 — Message on Senate action sent to the House.
+- 2020-12-08 — Presented to President.
+- 2020-12-08 — Presented to President.
+- 2020-12-18 — Became Public Law No: 116-224.
+- 2020-12-18 — Became Public Law No: 116-224.
+- 2020-12-18 — Signed by President.
+- 2020-12-18 — Signed by President.

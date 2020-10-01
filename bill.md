@@ -1,15 +1,13 @@
 ---
 legis-num: S. 1982
-congress: 116th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Sixteenth Congress of the United States of America
+session: 2d Sess.
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 1982
 
-That the bill from the Senate (S. 1982) entitled “An Act to improve efforts to combat marine debris, and for other purposes.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To improve efforts to combat marine debris, and for other purposes.
 
 ## § 1. Short title; table of contents
 
