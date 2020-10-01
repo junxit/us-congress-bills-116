@@ -1,0 +1,19 @@
+---
+legis-num: S. 4790
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4790
+
+> To improve the ability of separating or retiring members of the Armed Forces to seek services provided by accredited veterans service officers, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Know Your Vets Act of 2020”.
+
+## § 2. Transmittal to accredited veterans service officers of certain information on members retiring or separating from the Armed Forces
+
+- **(a)** *Transmittal* The Secretary of Defense shall ensure that a member of the Armed Forces who is separating or retiring from the Armed Forces may elect to have the Department of Defense transmit the name and contact information of the member to all appropriate accredited veterans service officers based on the post-separation mailing address provided to the Department by the member.
+- **(b)** *Accredited veterans service officer defined* In this section, the term accredited veterans service officer means a person who has been recognized by the Secretary of Veterans Affairs under section 5902 of title 38, United States Code, for the purposes of preparation, presentation, and prosecution of claims under laws administered by the Secretary.
