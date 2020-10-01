@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3005
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3005
@@ -71,9 +71,10 @@ To designate the facility of the United States Postal Service located at 13308 M
 - Rep. Pelosi, Nancy [D-CA-12] (P000197)
 - Rep. McCarthy, Kevin [R-CA-23] (M001165)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -88,3 +89,4 @@ To designate the facility of the United States Postal Service located at 13308 M
 - 2020-09-30 — Mr. Connolly asked unanimous consent to discharge from committee and consider.
 - 2020-09-30 — On passage Passed without objection. (text: CR H5070)
 - 2020-09-30 — Passed/agreed to in House: On passage Passed without objection.
+- 2020-10-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
