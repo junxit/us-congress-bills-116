@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8124
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -32,11 +32,11 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | by striking “when the interests of justice would be served thereby and the United States judge or magistrate judge is satisfied, after appropriate inquiry, that the defendant is financially unable to provide the necessary transportation … | the bill names no machine-readable US Code section |
-| — | replace | by striking “to the place where his appearance is required,” and inserting “(1) to the place where each appearance is required and (2) to return to the place of the person’s arrest or bona fide residence,”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “to the place where his appearance is required,” and inserting “(1) to the place where each appearance is required and (2) to return to the place of the person’s arrest or bona fide residence,”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “to his destination,” and inserting “which includes money for both lodging and food, during travel to the person’s destination and during any proceeding at which the person’s appearance is required”. | the bill names no machine-readable US Code section |
-| — | strike | in the second sentence, by striking “and” after “trial, judgment”; | the bill names no machine-readable US Code section |
-| — | insert | in the second sentence, by inserting “, and rulings on all post-judgment motions” after “sentencing,”; | the bill names no machine-readable US Code section |
-| — | strike | in the third sentence, by striking “and” after “trial, judgment”; and | the bill names no machine-readable US Code section |
-| — | insert | in the third sentence, by inserting “, and rulings on all post-judgment motions” after “sentencing,”; | the bill names no machine-readable US Code section |
+| — | strike | in the second sentence, by striking “and” after “trial, judgment,”; | the bill names no machine-readable US Code section |
+| — | insert | in the second sentence, by inserting “, and rulings on all post-judgment motions” after “sentencing”; | the bill names no machine-readable US Code section |
+| — | strike | in the third sentence, by striking “and” after “trial, judgment,”; and | the bill names no machine-readable US Code section |
+| — | insert | in the third sentence, by inserting “, and rulings on all post-judgment motions” after “sentencing”; | the bill names no machine-readable US Code section |
 | — | strike | in subsection (c), by striking “, with the approval of a judge of the district court,”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (i) the following: | the bill names no machine-readable US Code section |

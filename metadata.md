@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8124
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 8124
@@ -34,3 +34,9 @@ Criminal Judicial Administration Act of 2020
 - 2020-09-24 — Placed on the Union Calendar, Calendar No. 434.
 - 2020-09-24 — Reported by the Committee on Judiciary. H. Rept. 116-534.
 - 2020-09-24 — Reported by the Committee on Judiciary. H. Rept. 116-534.
+- 2020-10-01 — Considered under suspension of the rules. (consideration: CR H5142-5143)
+- 2020-10-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 8124.
+- 2020-10-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-10-01 — Ms. Garcia (TX) moved to suspend the rules and pass the bill, as amended.
+- 2020-10-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5142)
+- 2020-10-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
