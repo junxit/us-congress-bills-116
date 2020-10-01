@@ -2,16 +2,25 @@
 legis-num: H.R. 925
 congress: 116th CONGRESS
 session: 2d Session
-chamber: In the Senate of the United States,
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H.R. 925
 
-That the bill from the House of Representatives (H.R. 925) entitled “An Act to extend the authorization of appropriations for allocation to carry out approved wetlands conservation projects under the North American Wetlands Conservation Act through fiscal year 2024.”, do pass with the following
+That the House agree to the amendment of the Senate to the title of the bill (H.R. 925) entitled “An Act to extend the authorization of appropriations for allocation to carry out approved wetlands conservation projects under the North American Wetlands Conservation Act through fiscal year 2024.” and be it further
 
-*Strike all after the enacting clause and insert the following:*
+That the House agree to the amendment of the Senate to the text of the aforementioned bill, with the following
 
-## § 1. Short title; table of contents
+*In lieu of the matter proposed to be inserted by the amendment of the Senate to the text of the bill, insert the following:*
 
-- **(a)** *Short title* This Act may be cited as the “America's Conservation Enhancement Act”.
-- **(b)** *Table of contents* The table of contents for this Act is as follows:
+## § 1. Short Title
+
+This Act may be cited as “The Heroes Act”.
+
+## § 2. Table of Contents
+
+The table of contents for this Act is as follows:
+
+## § 3. References
+
+Except as expressly provided otherwise, any reference to “this Act” contained in any division of this Act shall be treated as referring only to the provisions of that division.
