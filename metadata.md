@@ -1,7 +1,7 @@
 ---
 measure: H.R. 925
 congress: 116
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 925
@@ -90,3 +90,13 @@ The Heroes Act
 - 2020-01-09 — Senate amendment proposed (on the floor): Amendment SA 1277 proposed by Senator McConnell for Senator Barrasso.
 - 2020-01-09 — Senate amendment submitted
 - 2020-01-09 — Senate amendment submitted
+- 2020-01-13 — Message on Senate action sent to the House.
+- 2020-09-30 — Rule H. Res. 1161 passed House.
+- 2020-09-30 — Rules Committee Resolution H. Res. 1161 Reported to House. Rule provides for consideration of H.R. 925 with 2 hours of general debate. Previous question shall be considered as ordered without intervening motions. Measure will be considered read. A specified amendment is in order. Providing for the consideration of the Senate amendments to H.R. 925.
+- 2020-10-01 — DEBATE - The House proceeded with 2 hours of debate on motion that the House agree to the Senate amendments with an amendment.
+- 2020-10-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-10-01 — Mrs. Lowey moved that the House concur in the Senate amendments with an amendment. (consideration: CR H5202-5435)
+- 2020-10-01 — On motion to concur in the Senate amendments with an amendment Agreed to by the Yeas and Nays: 214 - 207 (Roll no. 214). (text: CR H5202-5417)
+- 2020-10-01 — Pursuant to the provisions of H. Res. 1161, Mrs. Lowey called up H.R. 925, with the Senate Amendments thereto and moved that the House agree in the Senate amendment to the title of H.R. 925 and that the House agree in the Senate amendment to the text of H.R. 925 with an amendment consisting of the text of Rules Committee Print 116-66.
+- 2020-10-01 — Resolving differences -- House actions: On motion to concur in the Senate amendments with an amendment Agreed to by the Yeas and Nays: 214 - 207 (Roll no. 214).
+- 2020-10-01 — The previous question was ordered pursuant to the rule.
