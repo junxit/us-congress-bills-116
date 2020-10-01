@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4725
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4725
@@ -25,9 +25,10 @@ To designate the facility of the United States Postal Service located at 8585 Cr
 - Rep. Neguse, Joe [D-CO-2] (N000191)
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ To designate the facility of the United States Postal Service located at 8585 Cr
 - 2020-09-30 — Mr. Connolly asked unanimous consent to discharge from committee and consider.
 - 2020-09-30 — On passage Passed without objection. (text: CR H5071)
 - 2020-09-30 — Passed/agreed to in House: On passage Passed without objection.
+- 2020-10-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
