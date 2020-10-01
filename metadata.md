@@ -1,7 +1,7 @@
 ---
 measure: S. 1069
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1069
@@ -34,3 +34,8 @@ Digital Coast Act
 - 2020-06-18 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-234.
 - 2020-06-18 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-234.
 - 2020-06-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 481.
+- 2020-09-30 — Passed Senate without amendment by Voice Vote. (consideration: CR S6000)
+- 2020-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2020-10-01 — Held at the desk.
+- 2020-10-01 — Message on Senate action sent to the House.
+- 2020-10-01 — Received in the House.
