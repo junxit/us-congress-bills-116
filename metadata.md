@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5988
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5988
@@ -72,3 +72,4 @@ To designate the facility of the United States Postal Service located at 2600 We
 - 2020-09-30 — Mr. Connolly asked unanimous consent to discharge from committee and consider.
 - 2020-09-30 — On passage Passed without objection. (text: CR H5071)
 - 2020-09-30 — Passed/agreed to in House: On passage Passed without objection.
+- 2020-10-01 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 566.
