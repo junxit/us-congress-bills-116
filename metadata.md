@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5804
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5804
@@ -22,10 +22,11 @@ DHS Blue Campaign Enhancement Act
 - Rep. Garcia, Sylvia R. [D-TX-29] (G000587)
 - Rep. Rogers, Mike D. [R-AL-3] (R000575)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ DHS Blue Campaign Enhancement Act
 - 2020-09-30 — Ms. Underwood moved to suspend the rules and pass the bill, as amended.
 - 2020-09-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5086-5087)
 - 2020-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-10-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
