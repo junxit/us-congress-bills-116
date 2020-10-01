@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5139
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-22 amendatory instructions. 0 executed, 22 stated and not applied.
+14 amendatory instructions. 0 executed, 14 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -42,14 +42,6 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 3507(g)(3)(A)(i) of title 46, United States Code, is amended by inserting “any sexual assault or harassment incident (as that term is defined in subsection (l) of this section) that constitutes a violation of law,” after “title 1… | the bill names no machine-readable US Code section |
 | — | amend | Section 3507(l) of title 46, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | by striking “The owner” and inserting the following: | the bill names no machine-readable US Code section |
-| — | strike | by striking “, as determined by the Secretary”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end, the following: | the bill names no machine-readable US Code section |
-| — | insert | Section 3507(b), of title 46, United States Code, is further amended by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraph (2) as paragraph (3); and | the bill names no machine-readable US Code section |
-| — | replace | by striking “The owner” and inserting the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 3507(b), of title 46, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `49 U.S.C. § 80504` | add-at-end | Chapter 805 of title 49, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 80504` | insert | The analysis for chapter 805 of title 49, United States Code, is amended by inserting after the item relating to section 80504 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 80504` | replace | Section 46318(a) of title 49, United States Code, is amended by striking “penalty of not more than $35,000.” and inserting the following: | the bill quotes the text struck but describes what replaces it |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5139
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5139
@@ -72,3 +72,9 @@ Stop Sexual Assault and Harassment in Transportation Act
 - 2020-07-29 — Placed on the Union Calendar, Calendar No. 371.
 - 2020-07-29 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 116-463, Part I.
 - 2020-07-29 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 116-463, Part I.
+- 2020-10-01 — Considered under suspension of the rules. (consideration: CR H5183-5188)
+- 2020-10-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5139.
+- 2020-10-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-10-01 — Mr. DeFazio moved to suspend the rules and pass the bill, as amended.
+- 2020-10-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5183-5186)
+- 2020-10-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
