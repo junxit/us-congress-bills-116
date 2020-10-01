@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7718
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7718
@@ -67,3 +67,10 @@ Protecting the Health and Wellness of Babies and Pregnant Women in Custody Act
 - 2020-09-24 — Placed on the Union Calendar, Calendar No. 436.
 - 2020-09-24 — Reported by the Committee on Judiciary. H. Rept. 116-536.
 - 2020-09-24 — Reported by the Committee on Judiciary. H. Rept. 116-536.
+- 2020-10-01 — Considered under suspension of the rules. (consideration: CR H5143-5149)
+- 2020-10-01 — DEBATE - The House continued with debate on H.R. 7718.
+- 2020-10-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7718.
+- 2020-10-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-10-01 — Ms. Bass moved to suspend the rules and pass the bill, as amended.
+- 2020-10-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5143-5147)
+- 2020-10-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
