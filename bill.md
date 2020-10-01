@@ -25,34 +25,38 @@ It is the sense of Congress that commercial and recreational fishermen (which, f
   > - **(a)** *Require gear in the Gulf reef fish fishery* It shall be unlawful for a person on board a commercial or recreational vessel to fish for Gulf reef fish in the Gulf of Mexico Exclusive Economic Zone without possessing on board the vessel a venting tool or a descending device that is rigged and ready for use while fishing is occurring.
   > - **(b)** *Savings clause* No provision of this section shall be interpreted to affect any program or activity carried out by the Gulf Coast Ecosystem Restoration Council established by the Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012 (33 U.S.C. 1321 note), or any project contained in an approved Restoration Plan developed by any Natural Resources Damage Assessment Trustee Implementation Group to reduce post-release mortality from barotrauma in Gulf of Mexico Reef Fish Recreational Fisheries.
   > - **(c)** *Definitions* In this section:
-  >   - **(1)** *Descending device* The term “descending device” means an instrument that—
+  >   - **(1)** *Descending device* The term descending device means an instrument that—
   >     - **(A)** will release fish at a depth sufficient for the fish to be able to recover from the effects of barotrauma;
   >     - **(B)** is a weighted hook, lip clamp, or box that will hold the fish while it is lowered to depth, or another device determined to be appropriate by the Secretary; and
   >     - **(C)** is capable of—
   >       - **(i)** releasing the fish automatically;
   >       - **(ii)** releasing the fish by actions of the operator of the device; or
   >       - **(iii)** allowing the fish to escape on its own.
-  >   - **(2)** *Venting tool* The term “venting tool” has the meaning given to it by the Gulf of Mexico Fishery Management Council.
-  >   - **(3)** *Gulf reef fish* The term “Gulf reef fish” means any fish chosen by the Gulf of Mexico Fishery Management Council that is in the reef Fishery Management Plan for the purposes of this Act.
+  >   - **(2)** *Venting tool* The term venting tool has the meaning given to it by the Gulf of Mexico Fishery Management Council.
+  >   - **(3)** *Gulf reef fish* The term Gulf reef fish means any fish chosen by the Gulf of Mexico Fishery Management Council that is in the reef Fishery Management Plan for the purposes of this Act.
 
 - **(b)** *Civil penalties* Section 308(a) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1858(a)) is amended by inserting “or section 321” after “section 307”.
-- **(c)** *Effective date* The amendments made by this Act shall take effect 1 year after the date of enactment of this Act.
+- **(c)** *Effective date* The amendments made by this Act shall take effect 1 year after the date of the enactment of this Act.
 - **(d)** *Conforming amendment* Title III of the table of contents of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1851 et seq.) is amended by striking the item relating to section 305 and all that follows through the end of the items relating to such title and inserting the following:
-- **(e)** *Sunset* Five years after the date of enactment of this Act, the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1851 et seq.) is amended—
+- **(e)** *Sunset* Five years after the date of the enactment of this Act, the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1851 et seq.) is amended—
   - **(1)** in the table of contents, by striking the item relating to section 321;
   - **(2)** in section 308(a), by striking “or section 321”; and
   - **(3)** by striking section 321.
 
 ## § 4. Improving discard mortality data
 
-- **(a)** *Agreement* Within 60 days of the date of enactment of this Act, the Secretary shall enter into an agreement with the National Academy of Sciences to conduct a study and produce a report on discard mortality in the Gulf of Mexico reef fish fisheries. Such study shall include—
+- **(a)** *Agreement* Not later than 60 days after the date of the enactment of this Act, the Secretary shall enter into an agreement with the National Academy of Sciences to conduct a study and produce a report on discard mortality in the Gulf of Mexico reef fish fisheries. The study shall include—
   - **(1)** assessment of gaps and biases in reporting of discards and associated discard mortality;
   - **(2)** assessment of uncertainty and likely impacts of such uncertainty in discard mortality;
   - **(3)** assessment of the effectiveness and usage rates of barotrauma-reducing devices;
   - **(4)** recommendations for future research priorities; and
   - **(5)** recommendations for standardized reporting and quantification of discards in the same metric as landings for fisheries under the Gulf of Mexico Reef Fish Fishery Management Plan.
-- **(b)** *Deadline* The National Academy of Sciences shall complete the study described in subsection (a) and transmit the final report to the Secretary within 2 years of the date of enactment of this Act. The Secretary shall, within 3 months of receiving such study and report, submit such study and report in (a) to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives.
-- **(c)** *Plan* Within 1 year of receiving the study and report in described in subsection (a), the Gulf of Mexico Fishery Management Council and the Secretary shall—
-  - **(1)** develop guidance for minimum standards for quantifying and reporting discards and associated mortality in the Gulf of Mexico Reef Fish Fishery Management Plan; and
-  - **(2)** develop a plan to assess and monitor the effectiveness and usage of barotrauma-reducing devices and the impact on discard mortality rates in Gulf of Mexico reef fish fisheries.
-- **(d)** *Follow-Up report* Within 3 years of developing minimum standards and developing the assessment and monitoring plan in subsection (c), the Secretary shall provide a detailed report on implementation to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives.
+- **(b)** *Deadlines* Not later than 2 years after the date of the enactment of this Act, the National Academy of Sciences shall complete the study required under subsection (a) and transmit the final report to the Secretary. Not later than 3 months after receiving the study and report in accordance with this subsection, the Secretary shall submit the study and report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives.
+- **(c)** *Plan* Not later than 1 year after the Secretary receives the study and report required under subsection (a), Secretary and the Gulf of Mexico Fishery Management Council shall develop—
+  - **(1)** guidance for minimum standards for quantifying and reporting discards and associated mortality in the Gulf of Mexico Reef Fish Fishery Management Plan; and
+  - **(2)** a plan to assess and monitor the effectiveness and usage of barotrauma-reducing devices and the impact on discard mortality rates in Gulf of Mexico reef fish fisheries.
+- **(d)** *Follow-Up report* Not later than 3 years after developing minimum standards and developing the assessment and monitoring plan under subsection (c), the Secretary shall provide a detailed report on implementation to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives.
+
+## § 5. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
