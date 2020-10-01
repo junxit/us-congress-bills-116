@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7340
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7340
@@ -29,9 +29,10 @@ Chai Suthammanont Remembrance Act of 2020
 - Rep. Wexton, Jennifer [D-VA-10] (W000825)
 - Rep. Boyle, Brendan F. [D-PA-2] (B001296)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Chai Suthammanont Remembrance Act of 2020
 - 2020-09-30 — Mr. Connolly moved to suspend the rules and pass the bill, as amended.
 - 2020-09-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5073-5074)
 - 2020-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-10-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
