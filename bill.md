@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “National Sea Grant College Program Amendments Act of 2019”.
+This Act may be cited as the “National Sea Grant College Program Amendments Act of 2020”.
 
 ## § 2. References to the National Sea Grant College Program Act
 
@@ -32,14 +32,8 @@ Except as otherwise expressly provided, wherever in this Act an amendment or rep
     >   - **(B)** *Equitable distribution* In placing fellows in offices described in subparagraph (A), the Secretary shall ensure that placements are equitably distributed among the political parties.
     > - **(3)** *Duration* A fellowship
 
-- **(c)** *Administrative costs* Section 208(c) (33 U.S.C. 1127(c)) is amended to read as follows:
-  > - **(c)** *Restriction on use of funds*
-  >   - **(1)** *In general* Amounts available for fellowships under this section, including amounts accepted under section 204(c)(4)(F) or appropriated under section 212 to implement this section, shall be used only for award of such fellowships and administrative costs of implementing this section.
-  >   - **(2)** *Limitation on administrative costs* Not more than 3 percent of amounts made available for fellowships under subsection (b) may be used by a sea grant college or sea grant institute for fringe or other necessary costs of administering the fellowships.
-  >   - **(3)** *Allowable uses* Amounts provided to a fellow under subsection (b) may be used by the fellow for the costs of academic travel, including travel costs relating to returning to the home institution of higher education of the fellow to complete degree requirements.
-
-- **(d)** *Effective date* The amendments made by this section shall apply with respect to the first calendar year beginning after the date of the enactment of this Act.
-- **(e)** *Sense of Congress concerning Federal hiring of former fellows* It is the sense of Congress that in recognition of the competitive nature of the fellowship under section 208(b) of the National Sea Grant College Program Act (33 U.S.C. 1127(b)), and of the exceptional qualifications of fellowship awardees, the Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere, should encourage participating Federal agencies to consider opportunities for fellowship awardees at the conclusion of their fellowships for workforce positions appropriate for their education and experience.
+- **(c)** *Effective date* The amendments made by this section shall apply with respect to the first calendar year beginning after the date of the enactment of this Act.
+- **(d)** *Sense of Congress concerning Federal hiring of former fellows* It is the sense of Congress that in recognition of the competitive nature of the fellowship under section 208(b) of the National Sea Grant College Program Act (33 U.S.C. 1127(b)), and of the exceptional qualifications of fellowship awardees, the Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere, should encourage participating Federal agencies to consider opportunities for fellowship awardees at the conclusion of their fellowships for workforce positions appropriate for their education and experience.
 
 ## § 4. Modification of authority of Secretary of Commerce to accept donations for National Sea Grant College Program
 
@@ -93,12 +87,11 @@ Section 207(b) (33 U.S.C. 1126(b)) is amended—
     >   - **(A)** $87,520,000 for fiscal year 2020;
     >   - **(B)** $91,900,000 for fiscal year 2021;
     >   - **(C)** $96,500,000 for fiscal year 2022;
-    >   - **(D)** $101,325,000 for fiscal year 2023;
-    >   - **(E)** $111,710,813 for fiscal year 2024; and
-    >   - **(F)** $117,296,353 for fiscal year 2025.
+    >   - **(D)** $101,325,000 for fiscal year 2023; and
+    >   - **(E)** $105,700,000 for fiscal year 2024.
 
   - **(2)** by amending paragraph (2) to read as follows:
-    > - **(2)** *Priority activities for fiscal years 2020 through 2025* In addition to the amounts authorized to be appropriated under paragraph (1), there are authorized to be appropriated $6,000,000 for each of fiscal years 2020 through 2025 for competitive grants for the following:
+    > - **(2)** *Priority activities for fiscal years 2020 through 2024* In addition to the amounts authorized to be appropriated under paragraph (1), there are authorized to be appropriated $6,000,000 for each of fiscal years 2020 through 2024 for competitive grants for the following:
     >   - **(A)** University research on the biology, prevention, and control of aquatic nonnative species.
     >   - **(B)** University research on oyster diseases, oyster restoration, and oyster-related human health risks.
     >   - **(C)** University research on the biology, prevention, and forecasting of harmful algal blooms.

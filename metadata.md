@@ -1,7 +1,7 @@
 ---
 measure: S. 910
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 910
@@ -35,3 +35,15 @@ National Sea Grant College Program Amendments Act of 2020
 - 2020-02-13 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-216.
 - 2020-02-13 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-216.
 - 2020-02-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 426.
+- 2020-09-30 — Amendment SA 2674 agreed to in Senate by Unanimous Consent.
+- 2020-09-30 — Amendment SA 2674 proposed by Senator Portman for Senator Wicker. (consideration: CR S6000; text: CR S5990-5991) In the nature of a substitute.
+- 2020-09-30 — Measure laid before Senate by unanimous consent. (consideration: CR S5999-6000)
+- 2020-09-30 — Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: CR S5990-5991)
+- 2020-09-30 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2020-09-30 — Senate amendment agreed to: Amendment SA 2674 agreed to in Senate by Unanimous Consent.
+- 2020-09-30 — Senate amendment proposed (on the floor): Amendment SA 2674 proposed by Senator Portman for Senator Wicker.
+- 2020-09-30 — Senate amendment submitted
+- 2020-09-30 — The committee substitute withdrawn by Unanimous Consent.
+- 2020-10-01 — Held at the desk.
+- 2020-10-01 — Message on Senate action sent to the House.
+- 2020-10-01 — Received in the House.
