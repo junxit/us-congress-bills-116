@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5126
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5126
@@ -42,3 +42,9 @@ DESCEND Act of 2020
 - 2020-09-24 — Placed on the Union Calendar, Calendar No. 431.
 - 2020-09-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-531.
 - 2020-09-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-531.
+- 2020-10-01 — Considered under suspension of the rules. (consideration: CR H5176-5178)
+- 2020-10-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5126.
+- 2020-10-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-10-01 — Mrs. Dingell moved to suspend the rules and pass the bill, as amended.
+- 2020-10-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5176)
+- 2020-10-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
