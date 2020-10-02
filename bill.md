@@ -2,7 +2,7 @@
 legis-num: H. RES. 1153
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1153
@@ -32,4 +32,4 @@ That the House of Representatives—
   - **(B)** allow individuals who may have experienced an unnecessary or nonconsensual procedure to have immediate access to adequate, safe, and consensual medical treatment or to seek a second opinion from an independent medical professional;
   - **(C)** immediately comply with all investigations and records requests related to investigations about the Irwin County Detention Center;
   - **(D)** ensure impacted individuals are able to freely participate in any investigation and share their stories without fear of reprisal; and
-  - **(E)** hold all individuals involved in these incidents accountable and bring them to justice.
+  - **(E)** hold all individuals found to be involved in any unnecessary or nonconsensual medical procedure at the Irwin County Detention Center accountable and bring them to justice.

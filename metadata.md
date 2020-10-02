@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1153
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1153
@@ -16,7 +16,7 @@ Condemning unwanted, unnecessary medical procedures on individuals without their
 
 - Rep. Jayapal, Pramila [D-WA-7] (J000298)
 
-## Cosponsors (167)
+## Cosponsors (224)
 
 - Rep. Kuster, Ann M. [D-NH-2] (K000382)
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
@@ -185,11 +185,72 @@ Condemning unwanted, unnecessary medical procedures on individuals without their
 - Rep. Luria, Elaine G. [D-VA-2] (L000591)
 - Rep. Pappas, Chris [D-NH-1] (P000614)
 - Rep. Slotkin, Elissa [D-MI-8] (S001208)
+- Rep. Clyburn, James E. [D-SC-6] (C000537)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Porter, Katie [D-CA-45] (P000618)
+- Rep. Swalwell, Eric [D-CA-15] (S001193)
+- Rep. Bera, Ami [D-CA-7] (B001287)
+- Rep. Lynch, Stephen F. [D-MA-8] (L000562)
+- Rep. Lee, Susie [D-NV-3] (L000590)
+- Rep. DeFazio, Peter A. [D-OR-4] (D000191)
+- Rep. Demings, Val Butler [D-FL-10] (D000627)
+- Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
+- Rep. Gabbard, Tulsi [D-HI-2] (G000571)
+- Rep. Allred, Colin Z. [D-TX-32] (A000376)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Wexton, Jennifer [D-VA-10] (W000825)
+- Rep. Rouda, Harley [D-CA-48] (R000616)
+- Rep. Underwood, Lauren [D-IL-14] (U000040)
+- Rep. Stanton, Greg [D-AZ-9] (S001211)
+- Rep. Mfume, Kweisi [D-MD-7] (M000687)
+- Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Del. Plaskett, Stacey E. [D-VI-At Large] (P000610)
+- Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
+- Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
+- Rep. Delgado, Antonio [D-NY-19] (D000630)
+- Rep. Rice, Kathleen M. [D-NY-4] (R000602)
+- Rep. Horsford, Steven [D-NV-4] (H001066)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Langevin, James R. [D-RI-2] (L000559)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Serrano, Jose E. [D-NY-15] (S000248)
+- Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Horn, Kendra S. [D-OK-5] (H001083)
+- Rep. Loebsack, David [D-IA-2] (L000565)
+- Rep. Torres Small, Xochitl [D-NM-2] (T000484)
+- Rep. Costa, Jim [D-CA-16] (C001059)
+- Rep. Harder, Josh [D-CA-10] (H001090)
+- Rep. Casten, Sean [D-IL-6] (C001117)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Garamendi, John [D-CA-3] (G000559)
+- Rep. Neal, Richard E. [D-MA-1] (N000015)
+- Rep. Lawson, Al, Jr. [D-FL-5] (L000586)
+- Rep. Case, Ed [D-HI-1] (C001055)
+- Rep. Himes, James A. [D-CT-4] (H001047)
+- Rep. Quigley, Mike [D-IL-5] (Q000023)
+- Rep. Lamb, Conor [D-PA-17] (L000588)
+- Rep. Maloney, Sean Patrick [D-NY-18] (M001185)
+- Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Murphy, Stephanie N. [D-FL-7] (M001202)
+- Rep. Phillips, Dean [D-MN-3] (P000616)
+- Rep. Richmond, Cedric L. [D-LA-2] (R000588)
+- Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
+- Rep. Visclosky, Peter J. [D-IN-1] (V000108)
+- Rep. Castor, Kathy [D-FL-14] (C001066)
+- Rep. Norcross, Donald [D-NJ-1] (N000188)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. O'Halleran, Tom [D-AZ-1] (O000171)
+- Rep. Finkenauer, Abby [D-IA-1] (F000467)
 
 ## Committees (2)
 
 - House — Energy and Commerce Committee
 - House — Judiciary Committee
+
+## Recorded votes (1)
+
+- 2020-10-02 — [House 116-2-217](votes/house-116-2-0217.md) — On Agreeing to the Resolution — **Passed** (232–157)
 
 ## Actions
 
@@ -197,3 +258,17 @@ Condemning unwanted, unnecessary medical procedures on individuals without their
 - 2020-09-25 — Introduced in House
 - 2020-09-25 — Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2020-09-25 — Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2020-10-01 — Rules Committee Resolution H. Res. 1164 Reported to House. Rule provides for consideration of H. Res. 1153 and H. Res. 1154 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions. Measure will be considered read. Bill is closed to amendments.
+- 2020-10-02 — Amendment reported by the House Committee on Rules.
+- 2020-10-02 — Considered as unfinished business. (consideration: CR H5657-5658)
+- 2020-10-02 — Considered under the provisions of rule H. Res. 1164. (consideration: CR H5645-5652)
+- 2020-10-02 — DEBATE - The House proceeded with one hour of debate on H. Res. 1153.
+- 2020-10-02 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2020-10-02 — House amendment offered
+- 2020-10-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-10-02 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2020-10-02 — On agreeing to the resolution Agreed to by the Yeas and Nays: 232 - 157, 4 Present (Roll no. 217). (text: CR H5645)
+- 2020-10-02 — POSTPONED PROCEEDINGS - At the conclusion of debate, the Chair put the question on agreeing to H. Res. 1153 and announced by voice vote that the ayes had prevailed. Mr. McClintock demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2020-10-02 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 232 - 157, 4 Present (Roll no. 217).
+- 2020-10-02 — Rule provides for consideration of H. Res. 1153 and H. Res. 1154 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions. Measure will be considered read. Bill is closed to amendments.
+- 2020-10-02 — The previous question was ordered pursuant to the rule.
