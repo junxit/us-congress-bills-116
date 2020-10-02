@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 8510
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8510
+
+> To modify the Federal share for Federal-aid highway projects for fiscal years 2021 and 2022, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Highway Relief Act”.
+
+## § 2. Temporary Federal share for Federal-aid highway projects
+
+Notwithstanding any other provision of law, the Federal share of the cost of a project under title 23, United States Code, for which amounts are made available during fiscal year 2021 and 2022 may be up to 100 percent, at the discretion of the Secretary of Transportation.
