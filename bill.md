@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 8537
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8537
+
+> To direct the Administrator of the Small Business Administration to modify any caps on emergency EIDL advances to certain veterans service organizations, and for other purposes.
+
+## § 1. Amount of emergency EIDL advances for certain veterans service organizations
+
+Notwithstanding any other provision of law, the Administrator of the Small Business Administration shall ensure that a veterans service organization with not more than one employee that applies for an advance under section 1110(e) of the CARES Act (15 U.S.C. 9005(e)) is not subject to a cap on such advance that is less than $5,000.
