@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2795
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -32,7 +32,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(9)** the protection of new and existing corridors is often one of the first steps in restoration and recovery planning;
   - **(10)** States have recognized the importance of habitat connectivity, including—
     - **(A)** a New England Governors and Eastern Canadian Premiers' Conference on the importance of connectivity for ecosystem adaptability and resilience, biodiversity, and human communities; and
-    - **(B)** an expired 2007 policy resolution of the Western Governors' Association;
+    - **(B)** past Western Governors’ Association policy resolution;
   - **(11)** the strategic plan of the United States Fish and Wildlife Service to respond to accelerating climate change entitled “Rising to the Urgent Challenge” acknowledges that “processes such as pollination, seed dispersal, nutrient cycling, natural disturbance cycles, predator-prey relations, and others must be part of the natural landscapes we seek to maintain or restore … and are likely to function more optimally in landscapes composed of large habitat blocks connected by well-placed corridors”;
   - **(12)** Federal and State agencies continue to develop policies to address—
     - **(A)** the importance of conserving fish, wildlife, and plant corridors;
@@ -73,11 +73,8 @@ In this Act:
 - **(11)** *National Wildlife Corridor* The term “National Wildlife Corridor” means any Federal land or water designated as a National Wildlife Corridor under section 101(a).
 - **(12)** *National Wildlife Corridor System* The term National Wildlife Corridor System means the system of National Wildlife Corridors established by section 101(a).
 - **(13)** *Native species* The term “native species” means—
-  - **(A)** an indigenous fish, wildlife, or plant species of the United States, including subspecies and plant varieties;
-  - **(B)** a fish, wildlife, or plant species not indigenous to the United States that the Secretary determines to be—
-    - **(i)** noninvasive; or
-    - **(ii)** beneficial to the biodiversity of the natural ecosystem; and
-  - **(C)** a migratory bird species that is native to the United States or its territories (as defined in section 2(b) of the Migratory Bird Treaty Act (16 U.S.C. 703(b))).
+  - **(A)** a fish, wildlife, or plant species that is or was historically present in a particular ecosystem as a result of natural migratory or evolutionary processes, including subspecies and plant varieties; and
+  - **(B)** a migratory bird species that is native to the United States or its territories (as defined in section 2(b) of the Migratory Bird Treaty Act (16 U.S.C. 703(b))).
 - **(14)** *Regional ocean partnership* The term “regional ocean partnership” means a regional organization of coastal or Great Lakes States, territories, or possessions voluntarily convened by Governors to address cross-jurisdictional ocean matters, or the functional equivalent of such a regional ocean organization designated by the Governor or Governors of a State or States.
 - **(15)** *Regional wildlife movement council* The term “regional wildlife movement council” means a regional wildlife movement council established under section 303(a).
 - **(16)** *Secretaries* The term Secretaries means—
@@ -100,4 +97,4 @@ In this Act:
   - **(I)** the Republic of Palau;
   - **(J)** the United States Virgin Islands; and
   - **(K)** the territorial sea (within the meaning of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.)) and the exclusive economic zone (as defined in section 3 of that Act (16 U.S.C. 1802)) within the jurisdiction or sovereignty of the Federal Government.
-- **(20)** *Wildlife movement* The term “wildlife movement” means the passage of individual members or populations of a fish, wildlife, or plant species across a landscape or seascape.
+- **(20)** *Wildlife movement* The term “wildlife movement” means the passage of individual members or populations of native species across a landscape or seascape.
