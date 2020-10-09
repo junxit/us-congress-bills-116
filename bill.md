@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 8563
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8563
+
+> To require the Secretary of the Army to conduct a study to determine the costs for the Corps of Engineers to ensure that certain project activities authorized under Nationwide Permit 14 comply with public safety conditions, and for other purposes.
+
+## § 1. Study
+
+- **(a)** *In general* The Secretary of the Army, acting through the Chief of Engineers, shall conduct a study to determine the costs for the Corps of Engineers to—
+  - **(1)** include public safety as a condition for authorizing a proposed project activity under Nationwide Permit 14; and
+  - **(2)** inspect an authorized project activity after construction to ensure that such project activity is maintained in compliance with all conditions related to public safety under Nationwide Permit 14.
+- **(b)** *Report* Not later than 1 year after the date of enactment of this Act, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report containing the results of the study conducted under subsection (a).
+- **(c)** *Definitions* In this section:
+  - **(1)** *Nationwide Permit 14* The term “Nationwide Permit 14” means the nationwide permit, relating to linear transportation projects, issued pursuant to section 10 of the Act of March 3, 1899 (33 U.S.C. 403) and section 404 of the Federal Water Pollution Control Act.
+  - **(2)** *Project activity* The term “project activity” means an activity for which a permittee is required to submit a pre-construction notification under Nationwide Permit 14.
