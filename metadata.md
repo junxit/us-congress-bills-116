@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8472
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 8472
@@ -37,3 +37,4 @@ Impact Aid Coronavirus Relief Act
 - 2020-10-02 — Mr. Scott (VA) asked unanimous consent to discharge from committee and consider.
 - 2020-10-02 — On passage Passed without objection. (text: CR H5660)
 - 2020-10-02 — Passed/agreed to in House: On passage Passed without objection.
+- 2020-10-19 — Received in the Senate, read twice.
