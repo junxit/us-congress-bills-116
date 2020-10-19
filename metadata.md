@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4447
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4447
@@ -28,10 +28,11 @@ Clean Economy Jobs and Innovation Act
 - Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
 - Rep. Kuster, Ann M. [D-NH-2] (K000382)
 
-## Committees (2)
+## Committees (3)
 
 - House — Science, Space, and Technology Committee
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -116,3 +117,4 @@ Clean Economy Jobs and Innovation Act
 - 2020-09-24 — The previous question was ordered without objection.
 - 2020-09-24 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on H.R. 4447, which was debated earlier and on which further proceedings had been postponed.
 - 2020-09-24 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on amendments, which had been debated earlier and on which further proceedings had been postponed.
+- 2020-10-19 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
