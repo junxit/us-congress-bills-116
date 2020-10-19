@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6813
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 6813
@@ -116,3 +116,4 @@ Promoting Alzheimer's Awareness to Prevent Elder Abuse Act
 - 2020-10-01 — Ms. Bass moved to suspend the rules and pass the bill.
 - 2020-10-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5159-5161)
 - 2020-10-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-10-19 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 571.
