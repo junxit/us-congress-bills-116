@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7718
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7718
@@ -54,9 +54,10 @@ Protecting the Health and Wellness of Babies and Pregnant Women in Custody Act
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 - Rep. Garcia, Sylvia R. [D-TX-29] (G000587)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -74,3 +75,4 @@ Protecting the Health and Wellness of Babies and Pregnant Women in Custody Act
 - 2020-10-01 — Ms. Bass moved to suspend the rules and pass the bill, as amended.
 - 2020-10-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5143-5147)
 - 2020-10-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-10-19 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
