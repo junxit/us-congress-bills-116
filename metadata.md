@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5126
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5126
@@ -50,3 +50,14 @@ DESCEND Act of 2020
 - 2020-10-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5176)
 - 2020-10-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2020-10-19 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2020-12-21 — Message on Senate action sent to the House.
+- 2020-12-21 — Passed Senate without amendment by Voice Vote.
+- 2020-12-21 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2020-12-21 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2020-12-21 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S7902)
+- 2021-01-01 — Presented to President.
+- 2021-01-01 — Presented to President.
+- 2021-01-13 — Became Public Law No: 116-340.
+- 2021-01-13 — Became Public Law No: 116-340.
+- 2021-01-13 — Signed by President.
+- 2021-01-13 — Signed by President.
