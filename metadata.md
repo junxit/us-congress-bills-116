@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8225
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8225
@@ -21,9 +21,10 @@ Fight Notario Fraud Act of 2020
 - Rep. Garcia, Sylvia R. [D-TX-29] (G000587)
 - Rep. Correa, J. Luis [D-CA-46] (C001110)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Fight Notario Fraud Act of 2020
 - 2020-10-01 — Ms. Bass moved to suspend the rules and pass the bill, as amended.
 - 2020-10-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5149-5150)
 - 2020-10-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-10-19 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
