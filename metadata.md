@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4470
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4470
@@ -29,9 +29,10 @@ To rename the Saint Lawrence Seaway Development Corporation the Great Lakes St. 
 - Rep. Casten, Sean [D-IL-6] (C001117)
 - Rep. Stauber, Pete [R-MN-8] (S001212)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ To rename the Saint Lawrence Seaway Development Corporation the Great Lakes St. 
 - 2020-10-01 — Mr. Carbajal moved to suspend the rules and pass the bill, as amended.
 - 2020-10-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5191-5192)
 - 2020-10-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-10-19 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
