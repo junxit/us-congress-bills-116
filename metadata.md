@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4713
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4713
@@ -43,3 +43,7 @@ Department of Homeland Security Office for Civil Rights and Civil Liberties Auth
 - 2019-12-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9373-9374)
 - 2019-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9373-9374)
 - 2019-12-10 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2020-03-11 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2020-10-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-280.
+- 2020-10-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-280.
+- 2020-10-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 574.
