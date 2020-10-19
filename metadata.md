@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5912
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5912
@@ -44,3 +44,4 @@ Expedited Delivery of Airport Infrastructure Act of 2020
 - 2020-10-01 — Mr. Carbajal moved to suspend the rules and pass the bill, as amended.
 - 2020-10-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5190-5191)
 - 2020-10-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-10-19 — Received in the Senate.
