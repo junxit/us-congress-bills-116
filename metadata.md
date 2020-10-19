@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5139
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5139
@@ -45,10 +45,11 @@ Stop Sexual Assault and Harassment in Transportation Act
 - Rep. DeSaulnier, Mark [D-CA-11] (D000623)
 - Rep. Lawrence, Brenda L. [D-MI-14] (L000581)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -78,3 +79,4 @@ Stop Sexual Assault and Harassment in Transportation Act
 - 2020-10-01 — Mr. DeFazio moved to suspend the rules and pass the bill, as amended.
 - 2020-10-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5183-5186)
 - 2020-10-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-10-19 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
