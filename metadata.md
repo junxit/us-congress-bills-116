@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5068
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5068
@@ -42,9 +42,10 @@ Women Who Worked on the Home Front World War II Memorial Act
 - Rep. Harder, Josh [D-CA-10] (H001090)
 - Rep. Demings, Val Butler [D-FL-10] (D000627)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -66,3 +67,4 @@ Women Who Worked on the Home Front World War II Memorial Act
 - 2020-10-01 — Mrs. Dingell moved to suspend the rules and pass the bill, as amended.
 - 2020-10-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5178-5179)
 - 2020-10-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-10-19 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
