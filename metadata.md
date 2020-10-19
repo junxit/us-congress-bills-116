@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5126
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5126
@@ -25,9 +25,10 @@ DESCEND Act of 2020
 - Rep. Veasey, Marc A. [D-TX-33] (V000131)
 - Rep. Webster, Daniel [R-FL-11] (W000806)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ DESCEND Act of 2020
 - 2020-10-01 — Mrs. Dingell moved to suspend the rules and pass the bill, as amended.
 - 2020-10-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5176)
 - 2020-10-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-10-19 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
