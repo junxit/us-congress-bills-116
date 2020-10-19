@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5572
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5572
@@ -60,9 +60,10 @@ Family Support Services for Addiction Act of 2020
 - Rep. Lujan, Ben Ray [D-NM-3] (L000570)
 - Rep. Hern, Kevin [R-OK-1] (H001082)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -85,3 +86,4 @@ Family Support Services for Addiction Act of 2020
 - 2020-10-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5202)
 - 2020-10-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2020-10-01 — VACATED PROCEEDINGS - Mrs. Lowey asked unanimous consent that the proceedings by which the yeas and nays were ordered on the motion to suspend the rules and pass H.R. 5572, as amended be vacated to the end that the Chair put the question de novo. Agreed to without objection
+- 2020-10-19 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
