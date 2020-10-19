@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8472
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 8472
@@ -38,3 +38,12 @@ Impact Aid Coronavirus Relief Act
 - 2020-10-02 — On passage Passed without objection. (text: CR H5660)
 - 2020-10-02 — Passed/agreed to in House: On passage Passed without objection.
 - 2020-10-19 — Received in the Senate, read twice.
+- 2020-11-12 — Message on Senate action sent to the House.
+- 2020-11-12 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6660)
+- 2020-11-12 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6660)
+- 2020-11-24 — Presented to President.
+- 2020-11-24 — Presented to President.
+- 2020-12-04 — Became Public Law No: 116-211.
+- 2020-12-04 — Became Public Law No: 116-211.
+- 2020-12-04 — Signed by President.
+- 2020-12-04 — Signed by President.
