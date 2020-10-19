@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8124
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8124
@@ -20,9 +20,10 @@ Criminal Judicial Administration Act of 2020
 
 - Rep. Roby, Martha [R-AL-2] (R000591)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Criminal Judicial Administration Act of 2020
 - 2020-10-01 — Ms. Garcia (TX) moved to suspend the rules and pass the bill, as amended.
 - 2020-10-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5142)
 - 2020-10-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-10-19 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
