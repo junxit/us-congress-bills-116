@@ -1,0 +1,15 @@
+---
+legis-num: S. 4826
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4826
+
+> To waive an advance notice requirement with respect to the Four Forest Restoration Initiative Phase 2 Stewardship contract.
+
+## § 1. Cancellation ceiling
+
+- **(a)** *Waiver of advance notice* The 30-day advance notice requirement under paragraph (2) of section 604(h) of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6591c(h)) and the 14-day notice requirement under paragraph (3) of that section shall not apply to the Four Forest Restoration Initiative (4FRI) Phase 2 Stewardship contract (solicitation 12837119R4005).
+- **(b)** *Notice* Not later than 7 days after entering into the Four Forest Restoration Initiative (4FRI) Phase 2 Stewardship contract (solicitation 12837119R4005), the Chief of the Forest Service shall submit the notices otherwise required under paragraphs (2) and (3) of section 604(h) of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6591c(h)).
