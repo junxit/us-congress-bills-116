@@ -1,0 +1,14 @@
+---
+legis-num: S. 4833
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4833
+
+> To amend title 32, United States Code, to authorize cybersecurity operations and missions to protect critical infrastructure by members of the National Guard in connection with training or other duty.
+
+## § 1. Cybersecurity operations and missions to protect critical infrastructure by members of the National Guard in connection with training or other duty
+
+Section 502(f)(1) of title 32, United States Code, is amended by adding after the flush matter at the end the following new sentence: “Such training or other duty may include cybersecurity operations or missions undertaken by the member's unit at the request of the Governor of the State concerned to protect critical infrastructure (as that term is defined in the Critical Infrastructures Protection Act of 2001 (42 U.S.C. 5195c)).”.
