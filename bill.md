@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 8651
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8651
+
+> To acknowledge the crime of lynching, and for other purposes.
+
+## § 1. Prohibiting lynching
+
+Section 249(a) of title 18, United States Code, is amended—
+
+- **(1)** by redesignating paragraph (4) as paragraph (5); and
+- **(2)** by inserting after paragraph (3) the following:
+  > - **(4)** *Offenses involving lynching*
+  >   - **(A)** *In general* Whoever, acting with one or more individuals, engages in conduct described in paragraph (1) or (2) that results in death, shall be subject to the same penalties as prescribed in those paragraphs.
+  >   - **(B)** *Limitation on prosecution* A person who is prosecuted for unlawful conduct under this paragraph may not be prosecuted for the same conduct under paragraph (1) or (2).
