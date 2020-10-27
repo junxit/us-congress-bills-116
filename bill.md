@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 8686
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8686
+
+> To amend the CARES Act to require an extension of subsidies for certain loan payments, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Small Business COVID–19 Debt Relief Extension Act of 2020”.
+
+## § 2. Subsidy for certain loan payments
+
+- **(a)** *In general* Section 1112(c)(1) of the CARES Act (15 U.S.C. 9011(c)(1)) is amended—
+  - **(1)** by striking “6-month period” each place it appears and inserting “12-month period”; and
+  - **(2)** in subparagraph (B), by striking “and” at the end;
+  - **(3)** in subparagraph (C), by striking “; and” and inserting a semicolon; and
+  - **(4)** by adding at the end the following new subparagraph:
+    > - **(D)** with respect to a covered loan made on or after the date of the enactment of the Small Business COVID–19 Debt Relief Extension Act of 2020, for the period ending on September 30, 2021, if the borrower of such covered loan submits a request to the Administrator on or before March 30, 2021.
+
+- **(b)** *Effective date* The amendments made by this section shall apply as if included in the enactment of section 1112 of the CARES Act (15 U.S.C. 9011).
