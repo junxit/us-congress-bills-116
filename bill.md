@@ -11,11 +11,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Nonpartisan Postmaster General Act”.
+This Act may be cited as the “Nonpartisan Postmaster General Act of 2020”.
 
 ## § 2. Postal Service officers’ political activities limited
 
-- **(a)** *Hatch Act officer applicability*
+- **(a)** *Hatch act officer applicability*
   - **(1)** *In general* Section 410 of title 39, United States Code, is amended by adding at the end the following new subsection:
     > - **(e)** For the purposes of applying subchapter III of chapter 73 of title 5, and any regulations thereunder, to the Postal Service pursuant to subsection (b)(1), the following are deemed to be employees of the Postal Service:
     >   - **(1)** The Postmaster General.
@@ -24,30 +24,35 @@ This Act may be cited as the “Nonpartisan Postmaster General Act”.
 
   - **(2)** *Further restricted employees* Section 7323(b)(2)(B) of title 5, United States Code, is amended—
     - **(A)** in clause (i)(XIV), by striking “or” at the end;
-    - **(B)** in clause (ii), by striking the period at the end and inserting “; and”; and
+    - **(B)** in clause (ii), by striking the period at the end and inserting “; and” ; and
     - **(C)** by adding at the end the following new clause:
       > - **(iii)** a person holding a position described in section 410(e) of title 39.
 
-- **(b)** *Political activities of board members* Section 202 of title 39, United States Code, is amended—
-  - **(1)** in subsection (c)—
-    - **(A)** by striking “The Governors shall” and inserting “(1) The Governors shall”; and
-    - **(B)** by adding at the end the following new paragraph:
-      > - **(2)** The Governors may appoint as the Postmaster General only an individual who has not held a political position at any time during the 4-year period ending on the date on which such individual is so appointed.
-
-  - **(2)** in subsection (d)—
-    - **(A)** by striking “The Governors and the Postmaster General shall” and inserting “(1) The Governors and the Postmaster General shall”; and
-    - **(B)** by adding at the end the following new paragraph:
-      > - **(2)** The Governors and the Postmaster General may appoint as the Deputy Postmaster General only an individual who has not held a political position at any time during the 4-year period ending on the date on which such individual is so appointed.
-
-  - **(3)** by adding at the end the following new subsections:
-    > - **(f)** While serving as a member of the Board, an individual may not—
-    >   - **(1)** hold a political position; or
-    >   - **(2)** solicit funds for—
-    >     - **(A)** the campaign of a candidate for election for a Federal, State, or local elected office; or
-    >     - **(B)** a Federal, State, or local political party (as defined in the Federal Election Campaign Act of 1971 (52 U.S.C. 30101 et seq.)).
-    > - **(g)** For purposes of this section, an individual holds a political position if such individual—
-    >   - **(1)** holds Federal, State, or local elected office;
-    >   - **(2)** files paperwork to be a candidate for election for a Federal, State, or local elected office; or
-    >   - **(3)** is an officer, director, or employee of a Federal, State, or local political party (as defined in subsection (f)(2)(B)).
+- **(b)** *Political activities of board members* Section 202 of title 39, United States Code, is amended by adding at the end the following new subsections:
+  > - **(f)** While serving as a member of the Board, an individual may not—
+  >   - **(1)** hold a political position; or
+  >   - **(2)** solicit funds for—
+  >     - **(A)** the campaign of a candidate for election for a Federal, State, or local elected office; or
+  >     - **(B)** a Federal, State, or local political party (as defined in the Federal Election Campaign Act of 1971 (52 U.S.C. 30101 et seq.)).
+  > - **(g)** For purposes of this section, an individual holds a political position if such individual—
+  >   - **(1)** holds Federal, State, or local elected office;
+  >   - **(2)** files paperwork to be a candidate for election for a Federal, State, or local elected office; or
+  >   - **(3)** is an officer, director, or employee of a Federal, State, or local political party (as defined in subsection (f)(2)(B)).
 
 - **(c)** *Severability* If any provision of this Act, an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of such to any person or circumstance shall not be affected thereby.
+
+## § 3. Financial disclosures required prior to assuming duties of Postmaster General or Deputy Postmaster General
+
+The Ethics in Government Act of 1978 (5 U.S.C. App) is amended—
+
+- **(1)** in section 101(a)—
+  - **(A)** by striking “(a) Within” and inserting “(a)(1) Within”; and
+  - **(B)** by adding at the end the following:
+    > - **(2)**
+    >   - **(A)** An individual proposed pursuant to section 202 of title 39, United States Code, to assume the position of Postmaster General or Deputy Postmaster General shall file the report required by paragraph (1) before assuming such position.
+    >   - **(B)** An individual proposed for such a position may not carry out any duty of the position until the report submitted by the individual pursuant to subparagraph (A) is reviewed and signed by the Director of the Office of Government Ethics under section 106(b)(1), and any action taken by that individual in the performance of any function or duty of the applicable position before the date on which such signature occurs shall have no force or effect.
+
+- **(2)** in section 103(b)—
+  - **(A)** by striking “(b) The President” and inserting “(b)(1) The President”; and
+  - **(B)** by adding at the end the following:
+    > - **(2)** Notwithstanding subsection (a), an individual proposed pursuant to section 202 of title 39, United States Code, to assume the position of Postmaster General or Deputy Postmaster General shall file the report required under section 101(a) with the Director of the Office of Government Ethics.
