@@ -1,0 +1,31 @@
+---
+legis-num: H. RES. 1208
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 1208
+
+> Expressing the sense of the House of Representatives that all Americans, including public officials and candidates for public office, have a responsibility to abstain from participating in “superspreader” events during the COVID–19 pandemic.
+
+## Preamble
+
+- Whereas the Centers for Disease Control and Prevention (“CDC”) recommends that all people wear masks, frequently wash their hands, practice social distancing, and prioritize outdoor activities in order to reduce the spread of COVID–19;
+- Whereas gatherings at which attendees do not follow CDC recommendations for reducing the spread of COVID–19 have the potential to become COVID–19 “superspreader” events;
+- Whereas, on June 20, 2020, the Donald J. Trump for President campaign held an indoor rally in Tulsa, Oklahoma, at which attendees were not required to wear masks or practice social distancing;
+- Whereas, after the June 20, 2020, rally in Tulsa, Oklahoma, Tulsa County health officials reported 261 COVID–19 cases on Monday, July 6, 2020, an increase from 76 cases reported on the Monday preceding the rally;
+- Whereas Herman Cain, who attended the June 20, 2020, rally in Tulsa, Oklahoma, died from COVID–19 on July 30, 2020;
+- Whereas, on September 18, 2020, the Donald J. Trump for President campaign held a rally in Bemidji, Minnesota, at which attendees were not required to wear masks or practice social distancing;
+- Whereas, following the September 18, 2020, rally in Bemidji, Minnesota, Beltrami County experienced a 35 percent increase in COVID–19 cases, compared to a 14 percent increase in the State overall;
+- Whereas, on September 26, 2020, President Donald J. Trump hosted an event at the White House to celebrate the nomination of Judge Amy Coney Barrett to the Supreme Court, at which attendees were not required to wear masks, practice social distancing, or remain outdoors;
+- Whereas, following the September 26, 2020, event at the White House, at least 11 individuals tested positive for COVID–19, including members of the United States Senate who returned to the Capitol complex in the days following the event;
+- Whereas, to date, at least five Members of the United States Senate and at least 18 members of the United States House of Representatives have tested positive for COVID–19, including 16 Republicans and seven Democrats;
+- Whereas, to date, at least 9 individuals in the Executive Office of the President have tested positive for COVID–19; and
+- Whereas, at least 31 individuals tied to the White House tested positive for COVID–19 around the same time that President Donald J. Trump announced on October 2, 2020, that he had contracted COVID–19: Now, therefore, be it
+
+That it is the sense of the House of Representatives that—
+
+- **(1)** gatherings at which public health recommendations for reducing the spread of COVID–19 are not followed have the potential to become COVID–19 “superspreader” events;
+- **(2)** the President of the United States, as both an elected official and a candidate for elected office, has hosted multiple “superspreader” gatherings, most notably a ceremony to celebrate the nomination of Judge Amy Coney Barrett to the Supreme Court; and
+- **(3)** all Americans, including public officials and candidates for public office, have a responsibility to abstain from hosting and attending such gatherings to protect American public health and safety.
