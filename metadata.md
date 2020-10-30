@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7856
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7856
@@ -25,3 +25,8 @@ Intelligence Authorization Act for Fiscal Year 2021
 - 2020-07-30 — Introduced in House
 - 2020-07-30 — Introduced in House
 - 2020-07-30 — Referred to the House Committee on Intelligence (Permanent Select).
+- 2020-07-31 — Committee Consideration and Mark-up Session Held.
+- 2020-07-31 — Ordered to be Reported by the Yeas and Nays: 11 - 8.
+- 2020-10-30 — Placed on the Union Calendar, Calendar No. 463.
+- 2020-10-30 — Reported by the Committee on Intelligence. H. Rept. 116-565.
+- 2020-10-30 — Reported by the Committee on Intelligence. H. Rept. 116-565.
