@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6636
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6636
@@ -35,3 +35,10 @@ National Oceanic and Atmospheric Administration Sexual Harassment and Assault Pr
 - 2020-04-28 — Introduced in House
 - 2020-04-28 — Introduced in House
 - 2020-04-28 — Referred to the House Committee on Natural Resources.
+- 2020-05-04 — Referred to the Subcommittee on Water, Oceans, and Wildlife.
+- 2020-07-29 — Committee Consideration and Mark-up Session Held.
+- 2020-07-29 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2020-07-29 — Subcommittee on Water, Oceans, and Wildlife Discharged.
+- 2020-11-02 — Placed on the Union Calendar, Calendar No. 464.
+- 2020-11-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-566.
+- 2020-11-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-566.
