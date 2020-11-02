@@ -45,7 +45,7 @@ Except as otherwise specifically provided, whenever in this Act an amendment or 
 
 - **(a)** *Covered personnel* Section 3542(a) (130 Stat. 2801) is amended—
   - **(1)** by striking “Not later” and inserting the following:
-    > - **(1)** *In general* Not Later
+    > - **(1)** *In general* Not later
 
   - **(2)** by adding at the end the following:
     > - **(2)** *Included personnel* The individuals who work with or conduct business on behalf of the Administration referred to in paragraph (1) include the individuals described in section 3541(a)(2).
@@ -57,7 +57,7 @@ Except as otherwise specifically provided, whenever in this Act an amendment or 
   - **(1)** *In general* Section 3542(c)(2) (130 Stat. 2802) is amended to read as follows:
     > - **(2)** *Victim advocates* For purposes of this subsection, a victim advocate is a full-time permanent employee of the Administration trained in and responsible solely for matters relating to sexual assault and the comprehensive policy developed under subsection (a).
 
-  - **(2)** *Location* Section 3542(c)(4) (130 Stat. 2802) is amended by inserting “full-time” after “stationed”.
+  - **(2)** *Location* Section 3542(c)(4) (130 Stat. 2802) is amended by inserting “full time” after “stationed”.
 
 ## § 5. Investigation and criminal referral requirements
 
@@ -131,7 +131,9 @@ Section 3551, as redesignated by section 5 of this Act (130 Stat. 2804), is amen
       - **(i)** by striking “victims” and inserting “survivors”; and
       - **(ii)** in paragraph (1), by striking “was” each place such term appears and inserting “is”; and
     - **(B)** by striking “victim” each place such term appears and inserting “survivor”.
-- **(b)** *Clerical amendment* Each of the tables of contents in section 1(b) and at the beginning of title XXXV of Public Law 114–328 (130 Stat. 2000, 2773) is amended by striking the items relating to sections 3546 and 3547 and inserting the following:
+- **(b)** *Clerical amendment* Each of the tables of contents in section 2(b) and at the beginning of title XXXV of Public Law 114–328 (130 Stat. 2000, 2773) is amended—
+  - **(1)** by striking the item relating to section 3543 and inserting the following:
+  - **(2)** by striking the items relating to sections 3546 and 3547 and inserting the following:
 
 ## § 8. Prohibited acts
 

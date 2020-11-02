@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6636
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-28 amendatory instructions. 7 executed, 21 stated and not applied.
+29 amendatory instructions. 7 executed, 22 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -106,13 +106,14 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 3542(b)(5)(B) (130 Stat. 2801) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 3542(c)(2) (130 Stat. 2802) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | insert | Section 3542(c)(4) (130 Stat. 2802) is amended by inserting “full-time” after “stationed”. | the bill names no machine-readable US Code section |
+| — | insert | Section 3542(c)(4) (130 Stat. 2802) is amended by inserting “full time” after “stationed”. | the bill names no machine-readable US Code section |
 | — | replace | by striking the section heading and inserting the following: “Annual report on sexual assaults, sexual harassment, and equal employment in the National Oceanic and Atmospheric Administration.”; | the bill names no machine-readable US Code section |
 | — | insert | in subsection (a), by inserting “, sexual harassment, and equal employment” after “sexual assaults”; and | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (4), by inserting “, including a synopsis of each case and the disciplinary action taken, if any, in each case” before the period at the end; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | `33 U.S.C. § 894` | replace | by striking the term “victims” each place it appears and inserting “survivors”; | the bill quotes the text inserted but describes where it goes |
-| `33 U.S.C. § 894` | replace | Each of the tables of contents in section 1(b) and at the beginning of title XXXV of Public Law 114–328 (130 Stat. 2000, 2773) is amended by striking the items relating to sections 3546 and 3547 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 894` | replace | by striking the item relating to section 3543 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 894` | replace | by striking the items relating to sections 3546 and 3547 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1857` | strike | by striking “forcibly”; and | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1857` | strike | by striking “on a vessel”. | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 3071` | redesignate | by redesignating paragraphs (4) through (16) as paragraphs (5) through (17), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
