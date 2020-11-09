@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4727
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -25,8 +25,8 @@ This Act may be cited as the “Department of Homeland Security Mentor-Protégé
   >     - **(A)** A description of the assistance to be provided by the mentor firm, including, to the extent available, the number and a brief description of each anticipated subcontract to be awarded to the protégé firm.
   >     - **(B)** A schedule with milestones for achieving the assistance to be provided over the period of participation in the Program.
   >     - **(C)** An estimate of the costs to be incurred by the mentor firm for providing assistance under the Program.
-  >     - **(D)** Attestation that Program participants will submit to the Secretary reports at times specified by the Secretary to assist the Secretary in evaluating the protégé firm’s developmental progress.
-  >     - **(E)** Attestations that Program participants will inform the Secretary in the event of change in eligibility or voluntary withdrawal from the Program.
+  >     - **(D)** AttestationAttestations that Program participants will submit to the Secretary reports at times specified by the Secretary to assist the Secretary in evaluating the protégé firm’s developmental progress.
+  >     - **(E)** Attestations that Program participants will inform the Secretary in the event of a change in eligibility or voluntary withdrawal from the Program.
   >   - **(2)** *Approval* Not later than 60 days after receipt of an application pursuant to paragraph (1), the head of the Office of Small and Disadvantaged Business Utilization shall notify applicants of approval or, in the case of disapproval, the process for resubmitting an application for reconsideration.
   >   - **(3)** *Rescission* The head of the Office of Small and Disadvantaged Business Utilization may rescind the approval of an application under this subsection if it determines that such action is in the best interest of the Department.
   > - **(d)** *Program duration* A mentor firm and protégé firm approved under subsection (c) shall enter into an agreement to participate in the Program for a period of not less than 36 months.
@@ -35,8 +35,8 @@ This Act may be cited as the “Department of Homeland Security Mentor-Protégé
   >   - **(2)** With respect to an award of a contract that requires a subcontracting plan, a mentor firm may receive credit for a protégé firm performing as a first tier subcontractor or a subcontractor at any tier in an amount equal to the total dollar value of any subcontracts awarded to such protégé firm.
   >   - **(3)** A protégé firm may receive technical, managerial, financial, or any other mutually agreed upon benefit from a mentor firm, including a subcontract award.
   >   - **(4)** Any other benefits identified by the Secretary.
-  > - **(f)** *Reporting* Not later than 1 year after the date of the enactment of this Act, and annually thereafter, the head of the Office of Small and Disadvantaged Business Utilization shall submit to the Committees on Homeland Security and Small Business of the House of Representatives a report that—
-  >   - **(1)** identifies each agreement between a mentor firm and a protégé firm entered into under this section, including number of protégé firm participants that are—
+  > - **(f)** *Reporting* Not later than 1 year after the date of the enactment of this Act, and annually thereafter, the head of the Office of Small and Disadvantaged Business Utilization shall submit to the Committee on Homeland Security and Governmental Affairs and the Committee on Small Business and Entrepreneurship of the Senate and the Committees on Homeland Security and Small Business of the House of Representatives a report that—
+  >   - **(1)** identifies each agreement between a mentor firm and a protégé firm entered into under this section, including the number of protégé firm participants that are—
   >     - **(A)** small business concerns;
   >     - **(B)** small business concerns owned and controlled by veterans;
   >     - **(C)** small business concerns owned and controlled by service-disabled veterans;
@@ -51,6 +51,8 @@ This Act may be cited as the “Department of Homeland Security Mentor-Protégé
   >     - **(A)** an increase in the technical capabilities of protégé firms; and
   >     - **(B)** an increase in the quantity and estimated value of prime contract and subcontract awards to protégé firms for the period covered by the report.
   > - **(g)** *Definitions* In this section:
+  > - **(g)** *Rule of construction* Nothing in this section shall be construed to limit, diminish, impair, or otherwise affect the authority of the Department to participate in any program carried out by or requiring approval of the Small Business Administration or adopt or follow any regulation or policy that the Administrator of the Small Business Administration may promulgate, except that, to the extent that any provision of this section (including subsection (h)) conflicts with any other provision of law, regulation, or policy, this section shall control.
+  > - **(h)** *Definitions* In this section:
   >   - **(1)** *Historically Black college or university* The term historically Black college or university means any of the historically Black colleges and universities referred to in section 2323 of title 10, United States Code, as in effect on March 1, 2018.
   >   - **(2)** *Mentor firm* The term mentor firm means a for-profit business concern that is not a small business concern that—
   >     - **(A)** has the ability to assist and commits to assisting a protégé to compete for Federal prime contracts and subcontracts; and
@@ -59,6 +61,6 @@ This Act may be cited as the “Department of Homeland Security Mentor-Protégé
   >   - **(4)** *Protégé firm* The term protégé firm means a small business concern, a historically Black college or university, or a minority institution of higher education that—
   >     - **(A)** is eligible to enter into a prime contract or subcontract with the Department; and
   >     - **(B)** satisfies any other requirements imposed by the Secretary.
-  >   - **(5)** *Small Business Act definitions* The terms small business concern, small business concern owned and controlled by veterans, small business concern owned and controlled by service-disabled veterans, qualified HUBZone small business concern, and small business concern owned and controlled by women have the meaning given such terms, respectively, under section 3 of the Small Business Act (15 U.S.C. 632). The term small business concern owned and controlled by socially and economically disadvantaged individuals has the meaning given such term in section 8(d)(3)(C) of the Small Business Act (15 U.S.C. 637(d)(3)(C)).
+  >   - **(5)** *Small Business Act definitions* The terms small business concern, small business concern owned and controlled by veterans, small business concern owned and controlled by service-disabled veterans, qualified HUBZone small business concern, and small business concern owned and controlled by women have the meaningmeanings given such terms, respectively, under section 3 of the Small Business Act (15 U.S.C. 632). The term small business concern owned and controlled by socially and economically disadvantaged individuals has the meaning given such term in section 8(d)(3)(C) of the Small Business Act (15 U.S.C. 637(d)(3)(C)).
 
 - **(b)** *Clerical amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 890A the following new item:
