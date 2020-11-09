@@ -1,7 +1,7 @@
 ---
 measure: H.R. 542
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 542
@@ -46,3 +46,7 @@ Supporting Research and Development for First Responders Act
 - 2019-06-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 395 - 3 (Roll no. 242). (text: CR H4364)
 - 2019-06-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 395 - 3 (Roll no. 242).(text: CR H4364)
 - 2019-06-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2020-07-22 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2020-11-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-285.
+- 2020-11-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-285.
+- 2020-11-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 577.
