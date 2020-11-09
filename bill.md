@@ -66,7 +66,7 @@ The Act of August 16, 1937 (commonly referred to as the “National Apprenticesh
 >     - **(viii)** a labor organization or joint-labor management organization; or
 >     - **(ix)** a qualified intermediary.
 >   - **(B)** *Sponsor requirement* Not fewer than one entity under subparagraph (A) shall be the sponsor of a program under the national apprenticeship system.
-> - **(12)** *Indian Tribe; Tribal organization* The terms Indian Tribe and Tribal organization have the meaning given the terms (without regard to capitalization) in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
+> - **(12)** *Indian Tribe; Tribal organization* The terms Indian Tribe and Tribal organization have the meaning given the terms (without regard to capitalization) in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
 > - **(13)** *Interim credential* The term interim credential means a credential issued by a registration agency, upon request of the appropriate sponsor, as certification of competency attainment by a program participant during participation in a program under the national apprenticeship system.
 > - **(14)** *Journeyworker* The term journeyworker means a worker who has attained a level of skill, abilities, and competencies recognized within an industry as having mastered the skills and competencies required for the occupation.
 > - **(15)** *National apprenticeship system* The term national apprenticeship system means the apprenticeship programs, youth apprenticeship programs, and pre-apprenticeship programs that meet the requirements of this Act.
@@ -88,17 +88,17 @@ The Act of August 16, 1937 (commonly referred to as the “National Apprenticesh
 >     - **(vi)** developing and providing personalized program participant supports, including by partnering with organizations to provide access to or referrals for supportive services and financial advising;
 >     - **(vii)** providing services, resources, and supports for development, delivery, expansion, or improvement of programs under the national apprenticeship system; or
 >     - **(viii)** serving as a program sponsor.
->   - **(B)** *Partnerships* The partnerships described in subparagraph (A) means partnerships among entities involved in programs under the national apprenticeship system, including—
+>   - **(B)** *Partnerships* The “partnerships described in subparagraph (A)” means partnerships among entities involved in programs under the national apprenticeship system, including—
 >     - **(i)** industry or sector partnerships;
 >     - **(ii)** partnerships among employers, joint labor-management organizations, labor organizations, community-based organizations, industry associations, State or local workforce development boards, education and training providers, social service organizations, economic development organizations, Indian Tribes or Tribal organizations, one-stop operators, or one-stop partners, in the State workforce development system; or
 >     - **(iii)** partnerships among one or more of the entities described in clauses (i) and (ii).
-> - **(22)** *Recognized postsecondary credential* The term recognized postsecondary credential has the meaning given the term in section 3 of the Workforce Innovation and Opportunity Act, except that such term does not include a certificate of completion of an apprenticeship.
+> - **(22)** *Recognized postsecondary credential* The term recognized postsecondary credential has the meaning given the term in section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102), except that such term does not include a certificate of completion of an apprenticeship.
 > - **(23)** *Registration agency* The term registration agency means the State Office of Apprenticeship or State apprenticeship agency in a State that is responsible for—
 >   - **(A)** approving or denying applications from sponsors for registration of programs under the national apprenticeship system in the State or area covered by the registration agency; and
 >   - **(B)** carrying out the responsibilities of supporting the youth apprenticeship, pre-apprenticeship, or apprenticeship programs registered by the registration agency.
 > - **(24)** *Related instruction* The term related instruction means an organized and systematic form of instruction that meets the requirements of section 122(b)(1)(C).
 > - **(25)** *Related Federal programs* The term related Federal programs means programs or activities under the following:
->   - **(A)** The Workforce Innovation and Opportunity Act (29 U.S.C. 3102), including adult education and literacy activities under such Act.
+>   - **(A)** The Workforce Innovation and Opportunity Act (29 U.S.C. 3101 et seq.), including adult education and literacy activities under such Act.
 >   - **(B)** The Wagner-Peyser Act (29 U.S.C. 49 et seq.).
 >   - **(C)** The Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.).
 >   - **(D)** The Higher Education Act of 1965 (20 U.S.C. 1001 et seq.).
