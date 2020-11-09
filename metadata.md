@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2589
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2589
@@ -38,3 +38,7 @@ Unifying DHS Intelligence Components Act
 - 2019-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8015-8016)
 - 2019-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8015-8016)
 - 2019-10-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2020-03-11 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2020-11-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-286.
+- 2020-11-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-286.
+- 2020-11-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 578.

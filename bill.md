@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2589
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
