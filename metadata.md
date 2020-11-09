@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4727
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4727
@@ -43,3 +43,7 @@ Department of Homeland Security Mentor-Protégé Program Act of 2019
 - 2019-12-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9370-9371)
 - 2019-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9370-9371)
 - 2019-12-10 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2020-07-22 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2020-11-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 116-287.
+- 2020-11-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 116-287.
+- 2020-11-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 579.
