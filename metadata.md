@@ -1,7 +1,7 @@
 ---
 measure: S. 2904
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2904
@@ -28,3 +28,7 @@ IOGAN Act
 
 - 2019-11-20 — Introduced in Senate
 - 2019-11-20 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2020-05-20 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2020-11-09 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-289.
+- 2020-11-09 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-289.
+- 2020-11-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 580.
