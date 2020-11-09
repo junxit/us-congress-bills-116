@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 8734
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8734
+
+> To amend the Congressional Accountability Act of 1995 to prohibit the imposition of a nondisclosure agreement as a condition of the payment of any award or settlement in connection with a violation of such Act.
+
+## § 1. Short title
+
+This Act may be cited as the “Victims' Voice and Transparency Act”.
+
+## § 2. Prohibiting imposition of nondisclosure agreement as condition of award or settlement under Congressional Accountability Act of 1995
+
+- **(a)** *Prohibition* Section 401 of the Congressional Accountability Act of 1995 (2 U.S.C. 1401) is amended by adding at the end the following new subsection:
+  > - **(h)** *Prohibiting imposition of nondisclosure agreements* A nondisclosure agreement may not be imposed on any party as a condition of the payment of any award or settlement in connection with a violation of part A of title II.
+
+- **(b)** *Effective date* The amendment made by subsection (a) shall apply with respect to awards and settlements paid in connection with the Congressional Accountability Act of 1995 on or after the date of the enactment of this Act.
