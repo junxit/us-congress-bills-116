@@ -1,0 +1,36 @@
+---
+legis-num: S. 4884
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4884
+
+> To require the Consumer Product Safety Commission to study the effect of the COVID–19 pandemic on injuries and deaths associated with consumer products, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “COVID–19 Home Safety Act of 2020”.
+
+## § 2. Report
+
+- **(a)** *COVID–19 report required* Not later than 3 months after the date of the enactment of this section and every 3 months thereafter for the duration of the COVID–19 public health emergency, the Consumer Product Safety Commission shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, and make publicly available, a report on the effect of the COVID–19 public health emergency on injuries and deaths from consumer products.
+- **(b)** *Contents of report* The report shall include the following:
+  - **(1)** A list of the top consumer products, prioritizing products that have been associated with the highest risk of serious injury or death during the COVID–19 emergency. The list under this paragraph should be based on relevant data and statistics from—
+    - **(A)** the data sources of the Commission;
+    - **(B)** other appropriate agencies;
+    - **(C)** media reports;
+    - **(D)** poison control centers, to the extent practical; and
+    - **(E)** any other relevant data sources.
+  - **(2)** An identification of trends in injuries and deaths in the consumer products listed under paragraph (1), comparing data from representative time periods before and during the COVID–19 public health emergency.
+  - **(3)** An identification of subpopulations that have experienced elevated risk of injury or death from the consumer products listed under paragraph (1) during the COVID–19 public health emergency, such as minorities, infants, people with disabilities, children, or the elderly.
+  - **(4)** An identification of where most injuries or deaths from consumer products during the COVID–19 public health emergency are taking place, such as the type of building or outdoor environment.
+  - **(5)** An identification of whether any specific consumer products in the categories described in paragraph (1) are—
+    - **(A)** under recall or other corrective action;
+    - **(B)** subject to a voluntary consumer product safety standard; or
+    - **(C)** subject to a mandatory consumer product safety standard.
+  - **(6)** An identification of any emerging consumer products or consumer product categories that are posing new risks to consumers.
+  - **(7)** A comprehensive assessment of the Commission’s operations, re-entry criteria and associated metrics, operational readiness, enforcement efforts (including import-export surveillance of counterfeit and untested consumer goods and laboratory functions), and corrective action taken (including the number of corrective actions announced and recall effectiveness) during the COVID–19 public health emergency and a determination of whether additional resources, personnel, or protocols are required to fulfill the Commission’s current authorities to address unforeseen effects of the COVID–19 public health emergency.
+- **(c)** *Distribution of information* The Consumer Product Safety Commission shall coordinate with public media outlets to distribute resource information based on the report under this section to help increase home safety during the COVID–19 public health emergency, including information such as Home Safe Checklists.
+- **(d)** *COVID–19 public health emergency defined* The term COVID–19 public health emergency means a public health emergency declared pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d) as a result of confirmed cases of 2019 novel coronavirus (COVID–19), including any renewal thereof.
