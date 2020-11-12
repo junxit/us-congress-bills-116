@@ -1,0 +1,26 @@
+---
+legis-num: S. RES. 769
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 769
+
+> Recognizing October 2020 as “National Principals Month”.
+
+## Preamble
+
+- Whereas the National Association of Secondary School Principals, the National Association of Elementary School Principals, and the American Federation of School Administrators have declared October 2020 to be “National Principals Month”;
+- Whereas principals are educational visionaries, instructional and assessment leaders, disciplinarians, community builders, budget analysts, facilities managers, and administrators of legal and contractual obligations;
+- Whereas principals work collaboratively with teachers and parents to develop and implement clear missions, high curriculum standards, and performance goals;
+- Whereas principals create school environments that facilitate great teaching and learning and continuous school improvement;
+- Whereas principals demonstrate leadership and play important roles in meeting the needs of students, families, and communities while responding to the coronavirus pandemic;
+- Whereas the vision, actions, and dedication of principals provide the mobilizing force behind any school improvement effort; and
+- Whereas the celebration of National Principals Month would honor elementary school, middle school, and high school principals and recognize the importance of principals in ensuring that every child has access to a high-quality education: Now, therefore, be it
+
+That the Senate—
+
+- **(1)** recognizes October 2020 as “National Principals Month”;
+- **(2)** honors the contributions of principals in elementary schools, middle schools, and high schools in the United States; and
+- **(3)** supports the goals and ideals of National Principals Month.
