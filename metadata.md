@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 766
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 766
@@ -29,7 +29,15 @@ A resolution honoring the individuals fighting and the individuals who have fall
 - Sen. Enzi, Michael B. [R-WY] (E000285)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 
+## Committees (1)
+
+- Senate — Homeland Security and Governmental Affairs Committee
+
 ## Actions
 
 - 2020-10-26 — Introduced in Senate
 - 2020-10-26 — Referred to the Committee on Homeland Security and Governmental Affairs.
+- 2020-11-12 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.(text: CR 10/26/2020 S6602)
+- 2020-11-12 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (text: CR 10/26/2020 S6602)
+- 2020-11-12 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S6679)
+- 2020-11-12 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S6679)
