@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 716
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 716
@@ -16,7 +16,7 @@ A resolution designating the week of October 5 through October 9, 2020, as "Maln
 
 - Sen. Murphy, Christopher [D-CT] (M001169)
 
-## Cosponsors (19)
+## Cosponsors (22)
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Feinstein, Dianne [D-CA] (F000062)
@@ -37,6 +37,9 @@ A resolution designating the week of October 5 through October 9, 2020, as "Maln
 - Sen. Roberts, Pat [R-KS] (R000307)
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Scott, Tim [R-SC] (S001184)
 
 ## Committees (1)
 
@@ -46,3 +49,7 @@ A resolution designating the week of October 5 through October 9, 2020, as "Maln
 
 - 2020-09-24 — Introduced in Senate
 - 2020-09-24 — Referred to the Committee on the Judiciary.
+- 2020-11-12 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.(text: CR 09/24/2020 S5875-5876)
+- 2020-11-12 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (text: CR 09/24/2020 S5875-5876)
+- 2020-11-12 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6679)
+- 2020-11-12 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6679)
