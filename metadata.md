@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 746
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 746
@@ -29,3 +29,7 @@ A resolution designating the week of October 4 through October 10, 2020, as "Nat
 
 - 2020-10-05 — Introduced in Senate
 - 2020-10-05 — Referred to the Committee on the Judiciary.
+- 2020-11-12 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.(text: CR 10/05/2020 S6039)
+- 2020-11-12 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (text: CR 10/05/2020 S6039)
+- 2020-11-12 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6679)
+- 2020-11-12 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6679)
