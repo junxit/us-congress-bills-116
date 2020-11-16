@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8266
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8266
@@ -16,7 +16,7 @@ FEMA Assistance Relief Act of 2020
 
 - Rep. DeFazio, Peter A. [D-OR-4] (D000191)
 
-## Cosponsors (34)
+## Cosponsors (43)
 
 - Rep. Thompson, Mike [D-CA-5] (T000460)
 - Rep. Lowey, Nita M. [D-NY-17] (L000480)
@@ -52,6 +52,15 @@ FEMA Assistance Relief Act of 2020
 - Rep. Brown, Anthony G. [D-MD-4] (B001304)
 - Rep. Eshoo, Anna G. [D-CA-18] (E000215)
 - Rep. Lofgren, Zoe [D-CA-19] (L000397)
+- Del. Plaskett, Stacey E. [D-VI-At Large] (P000610)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. Malinowski, Tom [D-NJ-7] (M001203)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Khanna, Ro [D-CA-17] (K000389)
+- Rep. Swalwell, Eric [D-CA-15] (S001193)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Byrne, Bradley [R-AL-1] (B001289)
 
 ## Committees (1)
 
@@ -62,3 +71,10 @@ FEMA Assistance Relief Act of 2020
 - 2020-09-16 — Introduced in House
 - 2020-09-16 — Introduced in House
 - 2020-09-16 — Referred to the House Committee on Transportation and Infrastructure.
+- 2020-09-17 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- 2020-09-30 — Committee Consideration and Mark-up Session Held.
+- 2020-09-30 — Ordered to be Reported (Amended) by Voice Vote.
+- 2020-09-30 — Subcommittee on Economic Development, Public Buildings, and Emergency Management Discharged.
+- 2020-11-16 — Placed on the Union Calendar, Calendar No. 478.
+- 2020-11-16 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 116-580.
+- 2020-11-16 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 116-580.
