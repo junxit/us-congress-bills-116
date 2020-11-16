@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2914
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,49 +11,61 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Housing Survivors of Major Disasters Act of 2019”.
+This Act may be cited as the “Housing Survivors of Major Disasters Act of 2020”.
 
 ## § 2. Definitions
 
-In this Act, the terms “Agency” and “Administrator” mean the Federal Emergency Management Agency and the Administrator thereof, respectively.
+In this Act:
+
+- **(1)** *FEMA* The term “FEMA” means the Federal Emergency Management Agency.
+- **(2)** *Administrator* The term Administrator means the Administrator of FEMA.
 
 ## § 3. Eligibility for and use of disaster assistance
 
-- **(a)** *Eligibility* Notwithstanding any other provision of law, individuals and households described in subsection (c) shall be eligible for assistance made available under section 408 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170) in connection with a major disaster declared by the President under such section 408, including Hurricane Maria of 2017.
-- **(b)** *Use* In the case of any assistance described in subsection (a) that is made available in connection with a major disaster declared by the President under section 408 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170), including Hurricane Maria of 2017, such assistance may be used on behalf of an individual or household described in subsection (c) for costs relating to obtaining title for that individual or household to a property described in such subsection, including the cost of land surveys and any other taxes or fees associated with transfer of the property.
-- **(c)** *Eligibility*
-  - **(1)** *In general* With respect to a major disaster declared by the President under section 408 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170), an individual or household described in this subsection is an individual or household who—
-    - **(A)** is occupying an otherwise unused or uninhabited property located in the area for which the major disaster was declared but does not have documented ownership rights to and is not renting the property; or
-    - **(B)** is or was residing in an area for which a major disaster has been declared by the President under section 408 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170), but who does not have documentation to that effect, including renter households without written or formal leases, unsheltered individuals or persons experiencing homelessness, households residing in any portion of any housing accommodation or property upon which a housing accommodation is located, including any living quarters, boardinghouse, bunkhouse, maintenance-of-way car, mobile home, manufactured home, or travel trailer.
-  - **(2)** *Consideration* In making a determination for purposes of this Act, the Administrator shall consider a wide range of evidence.
-- **(d)** *Alternative forms of evidence*
-  - **(1)** *In general* In determining if an individual or household is eligible for assistance under this Act, the Administrator shall accept a declarative statement or the presentation of one of alternative evidence, including the following:
-    - **(A)** A utility (gas, electric, or water) bill with the name and address of the individual.
-    - **(B)** A merchant’s statement (credit card, delivery notice, or first class mail) with the name and address of the individual.
+- **(a)** *Financial assistance* Notwithstanding any other provision of law, individuals and households described in subsection (c) may be eligible for assistance made available under section 408 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5174) in connection with a major disaster declared by the President under section 401 of such Act (42 U.S.C. 5170), including Hurricane Maria of 2017.
+- **(b)** *Use of funds* Any assistance provided pursuant to subsection (a) may include costs relating to obtaining title for a property described in subsection (c)(1), including the cost of land surveys and any other taxes or fees associated with obtaining the title for such property.
+- **(c)** *Eligible individuals or households* With respect to a major disaster declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170), an individual or household described in this subsection is an individual or household who—
+  - **(1)** is residing on a property located in the area for which the major disaster was declared but does not have documented ownership rights to such property and is not renting such property; or
+  - **(2)** is or was residing in an area for which a major disaster has been declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170), during the designated incident period, including residing in any housing accommodation or property upon which a housing accommodation is located, including any living quarters, boardinghouse, bunkhouse, manufactured home, mobile home, or travel trailer.
+- **(d)** *Evidence*
+  - **(1)** *Consideration* In making a determination to provide assistance pursuant to this Act, the Administrator shall consider a wide range of evidence.
+  - **(2)** *Alternative forms of evidence* In determining if an individual or household is eligible for assistance pursuant to this Act, the Administrator shall accept either a declarative statement or the presentation of at least one item of alternative evidence, including the following:
+    - **(A)** A utility (including gas, electric, sewer, or water) bill with the name and address of the individual.
+    - **(B)** A merchant’s statement (including a credit card, delivery notice, or first class mail) with the name and address of the individual.
     - **(C)** A pay stub from an employer with the name and address of the individual.
     - **(D)** A current driver’s license or State-issued identification card of the individual.
-    - **(E)** The deed or title for the property.
-    - **(F)** A mortgage payment booklet or other mortgage documents.
+    - **(E)** The deed or title for the applicable property.
+    - **(F)** A mortgage payment booklet or another mortgage document.
     - **(G)** Property title of mobile home certificate of title.
-    - **(H)** Real estate property tax receipts.
+    - **(H)** A real estate property tax receipt.
     - **(I)** A school registration containing the address of self, child, or children.
     - **(J)** A will and testament with the name and address of the individual.
-    - **(K)** Medical records that list the name and address of the individual.
-    - **(L)** Charitable donation receipts that list the name and address of the individual.
-    - **(M)** Any other documentation, cer­ti­fi­ca­tion, identification, or proof of occupancy or ownership not included on this list that can reasonably link the individual requesting assistance to the damaged property.
+    - **(K)** In a State that does not require a will and testament for the transfer of immovable property, a death certificate and birth certificate that establishes an automatic transfer of legal ownership.
+    - **(L)** Medical records that list the name and address of the individual.
+    - **(M)** A charitable donation receipt that list the name and address of the individual.
+    - **(N)** Any other documentation, certification, identification, or proof of occupancy or ownership not included on this list that can reasonably link the individual requesting assistance to the applicable property.
 
 ## § 4. Declarative statement
 
 - **(a)** *Development of declarative statement*
-  - **(1)** *In general* Not later than 30 days after the date of enactment of this Act, the Administrator shall create and distribute where necessary a form statement that applicants can use to self-certify their eligibility for assistance under this Act.
-  - **(2)** *Prohibition of notarization* The Administrator may not require declarative statements developed and implemented under this Act to be notarized.
-  - **(3)** *Evidence supporting declarative statements* All declarative statements developed and implemented under this Act shall not require evidence beyond the scope of section 3(d).
-- **(b)** *Exemptions* All declarative statements developed and implemented pursuant to this Act are exempted from publication notice, public comment periods, and agency information collection review and approval by the Office of Management and Budget required by the Paperwork Reduction Act (44 U.S.C. 3501 et seq.).
-- **(c)** *Guidance* Not later than 30 days after the date of enactment of this Act, the Administrator shall provide written notification and guidance to employees of the Agency regarding the requirements of this Act.
-- **(d)** *Publication* Not later than 30 days after the date of enactment of this Act, the Administrator shall make declarative statements available in Spanish and English at all active Disaster Recovery Centers and publish in English, Spanish, and any other locally predominant languages on the Agency’s website and social media the declarative statement and instructions on how applicants can reopen or seek further appeal of relevant determinations.
-- **(e)** *Past disasters* For applicants of assistance provided under this Act pursuant to any major disaster declared by the President under section 408 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170) occurring in 2018 or 2017, the Administrator shall provide an applicant not fewer than 180 days to submit the declarative statement to reopen or appeal a case after such applicant has received notice of the right to do so.
+  - **(1)** *In general* Not later than 30 days after the date of enactment of this Act, the Administrator shall create, in coordination with the appropriate authorities of the applicable jurisdiction, and distribute, where necessary, a declarative statement form that an applicant for assistance provided pursuant to section 3 may use to self-certify such applicant’s eligibility for assistance pursuant to this Act.
+  - **(2)** *Prohibition of notarization* The Administrator may not require the declarative statement form created under paragraph (1) to require notarization by the applicant.
+- **(b)** *Exemptions* A declarative statement form created under subsection (a)(1) is exempt from publication notice, public comment periods, and agency information collection review and approval by the Office of Management and Budget required by the Paperwork Reduction Act (44 U.S.C. 3501 et seq.).
+- **(c)** *Guidance* Not later than 30 days after the date of enactment of this Act, the Administrator shall provide written notification and guidance to employees of FEMA regarding the requirements of this Act.
+- **(d)** *Publication* Not later than 30 days after the date of enactment of this Act, the Administrator shall—
+  - **(1)** make the declarative statement form created under subsection (a)(1) available in Spanish and English at all active Disaster Recovery Centers; and
+  - **(2)** publish in English, Spanish, and any other locally predominant languages on the website of FEMA and on social media the declarative statement form and instructions on how applicants can reopen or seek further appeal of relevant determinations.
+- **(e)** *Past disasters* For applicants of assistance provided pursuant to section 3 since January 1, 2017, the Administrator shall provide an applicant not fewer than 180 days to submit the declarative statement form to reopen or appeal a case after such applicant has received notice of the right to do so.
 
-## § 5. FEMA DHAP agreements
+## § 5. Repair and rebuilding
 
-- **(a)** *2017 and 2018 disasters* Not later than 60 days after the date of enactment of this Act, the Administrator shall enter into an interagency agreement or agreements with the Secretary of Housing and Urban Development as may be necessary to ensure the implementation of a Disaster Housing Assistance Program under section 408 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170) to provide temporary rental assistance to individuals and households displaced from their residences by any major disaster declared by the President under such section 408 during 2017 and 2018 (including Hurricane Maria), including individuals and households eligible for such assistance under section 3(a) of this Act.
-- **(b)** *Future disasters* In the case of any major disaster declared by the President under section 408 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170) on or after the date of enactment of this Act, not later than 60 days after a declaration of such major disaster, the Administrator and the Secretary of Housing and Urban Development shall engage in consultations regarding the implementation of a Disaster Housing Assistance Program under section 408 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170) to provide temporary rental assistance to individuals and households displaced from their residences by such major disaster, including individuals and households eligible for such assistance under section 3(a) of this Act.
+Section 408(c) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5174) is amended—
+
+- **(1)** in paragraph (2)(A)(i) by striking “to a safe and sanitary living or functioning condition” and inserting “to ensure that such residences are habitable during longer term recovery (including through coordination with other sources for repair and rebuilding of such residences)”; and
+- **(2)** in paragraph (4) by striking “in cases in which” and all that follows through the end and inserting “if the President determines such assistance is a cost effective alternative to other housing solutions, including the costs associated with temporary housing provided under this section.”.
+
+## § 6. Post-disaster housing assistance analysis and report
+
+- **(a)** *Analysis* The Administrator, in coordination with the Secretary of Housing and Urban Development, shall conduct an analysis comparing the costs, benefits, and effectiveness of assistance provided under the Disaster Housing Assistance Program, including any case management services provided, with other temporary housing options provided by the Administrator under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
+- **(b)** *Provision of data* The Secretary shall ensure that public housing authorities engaged in carrying out the Disaster Housing Assistance Program relay data concerning the extent and effectiveness of case management services in transitioning individuals and households toward self-sufficiency under the Program compared to other alternative disaster assistance programs available under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
+- **(c)** *Report* Not later than 180 days after the date of enactment of this Act, the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report that contains the analysis required under subsection (a) and an analysis of the oversight mechanisms, program integrity checks, and financial management measures utilized in carrying out the Program compared to alternative disaster housing assistance programs under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
