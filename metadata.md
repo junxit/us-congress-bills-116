@@ -1,7 +1,7 @@
 ---
 measure: S. 732
 congress: 116
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 732
@@ -28,3 +28,7 @@ AMBER Alert Nationwide Act of 2019
 
 - 2019-03-07 — Introduced in Senate
 - 2019-03-07 — Read twice and referred to the Committee on the Judiciary.
+- 2020-11-16 — Passed Senate without amendment by Unanimous Consent. (text: CR S6717-6718)
+- 2020-11-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S6717-6718)
+- 2020-11-16 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6717-6718)
+- 2020-11-16 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6717-6718)
