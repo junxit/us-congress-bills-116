@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2117
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 1 executed, 4 stated and not applied.
+6 amendatory instructions. 2 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,14 +24,23 @@ to guess them.
 
 ## Executed
 
-### 21 U.S.C. § 3211
+### 21 U.S.C. § 321
 
-> Section 201(qq)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 3211(qq)(1)) is amended by striking “and soybeans” and inserting “soybeans, and sesame”.
+> Section 201(qq)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(qq)(1)) is amended by striking “and soybeans” and inserting “soybeans, and sesame”.
 
 | | |
 |---|---|
 | Removed | `and soybeans` |
 | Inserted | `soybeans, and sesame` |
+
+### 21 U.S.C. § 321
+
+> Section 201(qq)(2) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(qq)(2)) is amended by striking “paragraph” each place it appears and inserting “subparagraph”.
+
+| | |
+|---|---|
+| Removed | `paragraph` |
+| Inserted | `subparagraph` |
 
 ## Stated, not applied
 
@@ -42,7 +51,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 247b-22` | insert | The Public Health Service Act is amended by inserting after section 317T of such Act (42 U.S.C. 247b–22) the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 3211` | add-at-end | Section 201(qq) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 3211(qq)(1)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 247c` | insert | The Public Health Service Act is amended by inserting before section 318 of such Act (42 U.S.C. 247c) the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 321` | add-at-end | Section 201(qq) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(qq)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 355` | replace | by striking “Not later than” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 355` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
