@@ -1,15 +1,13 @@
 ---
 legis-num: S. 910
-congress: 116th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Sixteenth Congress of the United States of America
+session: 2d Sess.
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 910
 
-That the bill from the Senate (S. 910) entitled “An Act to reauthorize and amend the National Sea Grant College Program Act, and for other purposes.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To reauthorize and amend the National Sea Grant College Program Act, and for other purposes.
 
 ## § 1. Short title
 
