@@ -25,3 +25,7 @@ Section 1216(a) of the Disaster Recovery Reform Act of 2018 (42 U.S.C. 5174a(a))
 - **(2)** in paragraph (3)(B)—
   - **(A)** by striking “Removal of” and inserting “Report on”; and
   - **(B)** in clause (ii) by striking “the authority of the Administrator to waive debt under paragraph (2) shall no longer be effective” and inserting “the Administrator shall report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate actions that the Administrator will take to reduce the error rate”.
+
+## § 3. Report to Congress
+
+The Administrator of the Federal Emergency Management Agency shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report containing a description of the internal processes used to make decisions regarding the distribution of covered assistance under section 1216 of the Disaster Recovery and Reform Act of 2018 (42 U.S.C. 5174a) and any changes made to such processes.
