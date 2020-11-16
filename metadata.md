@@ -1,7 +1,7 @@
 ---
 measure: S. 900
 congress: 116
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 900
@@ -42,3 +42,13 @@ A bill to designate the community-based outpatient clinic of the Department of V
 - 2020-11-16 — Mrs. Luria moved to suspend the rules and pass the bill, as amended.
 - 2020-11-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5745)
 - 2020-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5745)
+- 2020-11-17 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2020-12-10 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 900 by Unanimous Consent.(consideration: CR S7431)
+- 2020-12-10 — Senate agreed to the House amendment to S. 900 by Unanimous Consent. (consideration: CR S7431)
+- 2020-12-11 — Message on Senate action sent to the House.
+- 2020-12-21 — Presented to President.
+- 2020-12-21 — Presented to President.
+- 2020-12-30 — Became Public Law No: 116-262.
+- 2020-12-30 — Became Public Law No: 116-262.
+- 2020-12-30 — Signed by President.
+- 2020-12-30 — Signed by President.

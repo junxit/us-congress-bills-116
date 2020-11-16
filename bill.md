@@ -1,15 +1,13 @@
 ---
 legis-num: S. 900
-congress: 116th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Sixteenth Congress of the United States of America
+session: 2d Sess.
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 900
 
-That the bill from the Senate (S. 900) entitled “An Act to designate the community-based outpatient clinic of the Department of Veterans Affairs in Bozeman, Montana, as the “Travis W. Atkins Department of Veterans Affairs Clinic”.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To designate the community-based outpatient clinic of the Department of Veterans Affairs in Bozeman, Montana, as the Travis W. Atkins Department of Veterans Affairs Clinic.
 
 ## § 1. Designation of Travis W. Atkins Department of Veterans Affairs Clinic in Bozeman, Montana
 
