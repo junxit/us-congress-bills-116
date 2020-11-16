@@ -1,7 +1,7 @@
 ---
 measure: S. 910
 congress: 116
-version: Engrossed in Senate
+version: Engrossed Amendment House
 derived: true
 ---
 
