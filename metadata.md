@@ -1,7 +1,7 @@
 ---
 measure: S. 900
 congress: 116
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 900
@@ -36,3 +36,9 @@ A bill to designate the community-based outpatient clinic of the Department of V
 - 2019-11-25 — Message on Senate action sent to the House.
 - 2019-11-26 — Received in the House.
 - 2019-11-26 — Referred to the House Committee on Veterans' Affairs.
+- 2020-11-16 — Considered under suspension of the rules. (consideration: CR H5745-5746)
+- 2020-11-16 — DEBATE - The House proceeded with forty minutes of debate on S. 900.
+- 2020-11-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-11-16 — Mrs. Luria moved to suspend the rules and pass the bill, as amended.
+- 2020-11-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5745)
+- 2020-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5745)

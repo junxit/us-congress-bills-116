@@ -1,15 +1,17 @@
 ---
 legis-num: S. 900
 congress: 116th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 900
 
-> To designate the community-based outpatient clinic of the Department of Veterans Affairs in Bozeman, Montana, as the “Travis W. Atkins Department of Veterans Affairs Clinic”.
+That the bill from the Senate (S. 900) entitled “An Act to designate the community-based outpatient clinic of the Department of Veterans Affairs in Bozeman, Montana, as the “Travis W. Atkins Department of Veterans Affairs Clinic”.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Designation of Travis W. Atkins Department of Veterans Affairs Clinic in Bozeman, Montana
 
-- **(a)** *Designation* The community-based outpatient clinic of the Department of Veterans Affairs located at 300 North Willson Avenue, Bozeman, Montana, shall after the date of the enactment of this Act be known and designated as the “Travis W. Atkins Department of Veterans Affairs Clinic” or the “Travis W. Atkins VA Clinic”.
+- **(a)** *Designation* The community-based outpatient clinic of the Department of Veterans Affairs located in Bozeman, Montana, shall after the date of the enactment of this Act be known and designated as the “Travis W. Atkins Department of Veterans Affairs Clinic” or the “Travis W. Atkins VA Clinic”.
 - **(b)** *Reference* Any reference in any law, regulation, map, document, paper, or other record of the United States to the community-based outpatient clinic referred to in subsection (a) shall be considered to be a reference to the Travis W. Atkins Department of Veterans Affairs Clinic.
