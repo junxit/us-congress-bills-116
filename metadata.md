@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6395
 congress: 116
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6395
@@ -240,3 +240,83 @@ William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2
 - 2020-11-16 — Senate amendment agreed to: Amendment SA 2682 agreed to in Senate by Unanimous Consent.
 - 2020-11-16 — Senate amendment proposed (on the floor): Amendment SA 2682 proposed by Senator McConnell for Senator Inhofe.(consideration: CR S6688; text: CR S6723-6974)
 - 2020-11-16 — Senate amendment submitted
+- 2020-11-17 — Message on Senate action sent to the House.
+- 2020-11-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-11-18 — Mr. Smith (WA) asked unanimous consent that the House disagree to the Senate amendment, and request a conference. (consideration: CR H5924-5925)
+- 2020-11-18 — Mr. Smith (WA) moved to close portions of the conference.
+- 2020-11-18 — On motion that the House disagree to the Senate amendment, and request a conference Agreed to without objection.
+- 2020-11-18 — On motion to close portions of the conference Agreed to by the Yeas and Nays: 396 - 8 (Roll no. 222).
+- 2020-11-18 — The Speaker appointed conferees - from the Committee on Agriculture for consideration of secs. 3601 and 3602 of the House bill, and sec. 1053 of the Senate amendment, and modifications committed to conference: Peterson, Spanberger, and Conaway.
+- 2020-11-18 — The Speaker appointed conferees - from the Committee on Armed Services for consideration of the House bill and the Senate amendment, and for modifications committed to conference: Smith of Washington, Davis of California, Langevin, Larsen of Washington, Cooper, Courtney, Garamendi, Speier, Norcross, Gallego, Moulton, Carbajal, Brown of Maryland, Khanna, Keating, Vela, Kim, Kendra S. Horn of Oklahoma, Cisneros, Thornberry, Wilson of South Carolina, Turner, Rogers of Alabama, Lamborn, Wittman, Hartzler, Austin Scott of Georgia, Stefanik, Kelly of Mississippi, Gallagher, Bacon, and Banks.
+- 2020-11-18 — The Speaker appointed conferees - from the Committee on Education and Labor for the consideration of secs. 212, 279, 569, 570, 1110, 1791, 1797, 1833, and 1834 of the House bill, and secs. 516, 561-63, 565, 566, 1090, 5211, 6047, 6091, and 6615 of the Senate amendment, and modifications committed to conference: Scott (VA), Trahan, and Guthrie.
+- 2020-11-18 — The Speaker appointed conferees - from the Committee on Energy and Commerce for consideration of secs. 223, 229, 332, 335, 535, 540H, 601, 705, 736, 1299N-2, 1641, 1760, 1761, 1772, 1793, 1821, 1823, 1824, 2835, 3201, 3511, 3601, 5101-04, 5109, 10306, and 11206 of the House bill, and secs. 311, 319, 703, 1053, 1091, 1092, 1094, 1098, 1099, 2841, 3121, 3125, 3131, 3132, 5239, 6082-84, subtitle I of title LX of division E, secs. 6299F, 6614, 6704, and 6706 of the Senate amendment and modifications committed to conference: Pallone, DeGette, and Walden.
+- 2020-11-18 — The Speaker appointed conferees - from the Committee on Financial Services for consideration of secs. 902, 1248, 1249, 1299R-9, 1768, 1776, 1779, 1790, 1792, 1798, 1803, 1808, 1812, subtitles H and I of title XVII of division A, and divisions G, J, K, and M of the House bill, and secs. 1706-10 and 6231 of the Senate amendment, and modifications committed to conference: Waters, Vargas, and Luetkemeyer.
+- 2020-11-18 — The Speaker appointed conferees - from the Committee on Foreign Affairs for consideration of secs. 213, 843, subtitle C of title XI of division A, secs. 1202, 1203, 1207, 1221-24, 1231-33, 1238, 1248, 1249, 1251, 1260D, 1260E, 1261, 1266, 1272-74, 1276, 1280, 1286, 1290-92, 1294, 1296, 1299, 1299B, 1299G, 1299H, 1299K, subititles H-K of title XII of division A, secs. 1299Q-1, 1299Q-2, subtitle M of title XII of division A, secs. 1299T-4, 1299T-5, 1521, 1640F, 1659, 1757, 1759, 1823, and division I of the House bill, and secs. 1201-03, 1205-07, 1210, 1213, subtitle C of title XII and division A, secs. 1231-33, 1236, 1240, 1241, 1251, 1253-56, 1263, 1281, 1283, 1286, 1287, subtitle H of title XII of division A, subtitle C of title XV of division A, sec. 1661, title XVII of division A, secs. 6231, 6251, 6284, 6286, 6293-96, 6299, 6299A, 6299B, 6299D, and 6299F of the Senate amendment, and modifications committed to conference: Engel, Sherman, and McCaul.
+- 2020-11-18 — The Speaker appointed conferees - from the Committee on Homeland Security for consideration of secs. 1630, 1631, 1637, 1640A, 1640D, 1640F, 1760, 1784, 1793, 1804, and 9508 of the House bill, and secs. 6088, 6096D, 6613, and 6614 of the Senate amendment, and modifications committed to conference: Torres Small (NM), Slotkin, and Green (TN).
+- 2020-11-18 — The Speaker appointed conferees - from the Committee on House Administration for consideration of secs. 536, 1101, and 1751 of the House bill, and modifications committed to conference: Lofgren, Fudge, and Davis, Rodney.
+- 2020-11-18 — The Speaker appointed conferees - from the Committee on Natural Resources for consideration of secs. 601, 626, 627, 1744, 1794, 1795, 2834-36, subtitle E of title XXVIII of division B, and divisions O and P of the House bill, and secs. 315, 2861-63, 2887, 6081, and 7861 of the Senate amendment, and modifications committed to conference: Grijalva, Haaland, and Bishop (UT).
+- 2020-11-18 — The Speaker appointed conferees - from the Committee on Oversight and Reform for consideration of secs. 373, 813, 815, 825, 830B, 833, 848, 1101, 1102, 1104, 1105, 1108, 1111, 1114, 1115, subititles B and C of title XI of division A, secs. 1635, 1639, 1640C, subtitle B of title XVII of division A, secs. 1744, 1745, 1769, 1770, 1774, 1793, 1808, 9208, and 11410 of the House bill, and secs. 631, 1103-06, 1109-13, 5244, 6047, and 9306 of the Senate amendment, and modifications committed to conference: Maloney, Carolyn B., Lynch, and Comer.
+- 2020-11-18 — The Speaker appointed conferees - from the Committee on Science, Space, and Technology for consideration of sec. 229, subtitle D of title II of division A, secs. 327, 333, 341, 1744, 1771, 1806, 1807, 1821, 1824, 1825, division E, secs. 5502 and 10104 of the House bill, and secs. 318, 1098, 1099, subtitle C of title LII of division E, secs. 5231-38, and 6087 of the Senate amendment, and modifications committed to conference: Johnson (TX), Sherrill, and Garcia (CA).
+- 2020-11-18 — The Speaker appointed conferees - from the Committee on Small Business for consideration of secs. 831-33, 835-40, 840A, 841, 844, and 1633 of the House bill, and secs. 871, 872, 1642, 5871-75, and 5877 of the Senate amendment, and modifications committed to conference: Velazquez, Golden, and Chabot.
+- 2020-11-18 — The Speaker appointed conferees - from the Committee on Transportation and Infrastructure for consideration of secs. 311, 312, 332, 560G, 601, 829, 830B, 912, 1101, 1732, 1750, 1760, 1768, 1809, 3501, 3504, 3505, 3507-09, 3510C, 3510D, 5103, and division H of the House bill, and secs. 178, 1087, 1635, 3501, 5237, 5246, 6089, and subtitle I of title LX of division E of the Senate amendment, and modifications committed to conference: Huffman, Rouda, and Gibbs.
+- 2020-11-18 — The Speaker appointed conferees - from the Committee on Veterans' Affairs for consideration of secs. 525, 534, 535, 540A, 540B, 540C, 540E, 540H, 546, 551-53, 560B, 560E, 560F, 560G, 560H, 718, 724, 731, 734, 750H, 752-54, 760, 831, 1101, 1411, 1764, 1790, 1802, and 5502 of the House bill, and secs. 741, 744, 753, 762-64, 935, 1089, 1090A, 1090B, 1421, and 6085 of the Senate amendment, and modifications committed to conference: Takano, Lamb, and Bilirakis.
+- 2020-11-18 — The Speaker appointed conferees - from the Committee on Ways and Means for consideration of secs. 1276, 7103, and 7104 of the House bill, and sec. 6003 of the Senate amendment, and modifications committed to conference: Neal, Panetta, and Wenstrup.
+- 2020-11-18 — The Speaker appointed conferees - from the Committee on the Budget for consideration of secs. 1002 and 8003 of the House bill, and secs. 4, 126, and 1086 of the Senate amendment, and modifications committed to conference: Morelle, Horsford, and Stewart.
+- 2020-11-18 — The Speaker appointed conferees - from the Committee on the Judiciary for consideration of secs. 281, 540D, 814, 1055, 1215, 1299O-6, 1299T-4, 1299T-5, 1640A, 1731, 1733, 1762, and 1763 of the House bill, and secs. 1296 and 6088 of the Senate amendment, and modifications committed to conference: Nadler, Mucarsel-Powell, and Steube.
+- 2020-11-18 — The Speaker appointed conferees - from the Permanent Select Committee on Intelligence for consideration of matters within the jurisdiction of that committee under clause 11 of rule X: Schiff, Sewell (AL), and Nunes.
+- 2020-11-30 — Message on House action received in Senate and at desk: House requests a conference.
+- 2020-12-02 — Measure laid before Senate by unanimous consent. (consideration: CR S7145)
+- 2020-12-02 — Message on Senate action sent to the House.
+- 2020-12-02 — Senate insists on its amendment, agrees to request for a conference, appoints conferees Inhofe; Wicker; Fischer; Cotton; Rounds; Ernst; Tillis; Sullivan; Perdue; Cramer; Thune; Scott FL; Blackburn; Hawley; Reed; Shaheen; Gillibrand; Blumenthal; Hirono; Kaine; King; Heinrich; Warren; Peters; Manchin; Duckworth; Jones.
+- 2020-12-03 — Conferees agreed to file conference report.
+- 2020-12-03 — Conference committee actions: Conferees agreed to file conference report.
+- 2020-12-03 — Conference papers: Senate report and manager's statement held at the desk in Senate.
+- 2020-12-03 — Conference report H. Rept. 116-617 filed. (text of conference report: CR H6145-6816)
+- 2020-12-03 — Conference report filed: Conference report H. Rept. 116-617 filed.
+- 2020-12-03 — ORDER OF PROCEDURE - Mr. McGovern asked unanimous consent that it be in order at any time to consider a conference report to accompany H.R. 6395; that all points of order against the conference report and against its consideration be waived; that the conference report be considered as read; and that the previous question be considered as ordered on the conference report to its adoption without intervening motion except: (1) one hour of debate; and (2) one motion to recommit if applicable.
+- 2020-12-08 — Conference papers: message on House action held at the desk in Senate.
+- 2020-12-08 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 335 - 78, 1 Present (Roll no. 238).
+- 2020-12-08 — DEBATE - The House proceeded with one hour of debate on the conference report to accompany H.R. 6395.
+- 2020-12-08 — Motions to reconsider laid on the table Agreed to without objection.
+- 2020-12-08 — Mr. Smith (WA) brought up conference report H. Rept. 116-617 by previously agreed to special order. (consideration: CR H6919-6935)
+- 2020-12-08 — On agreeing to the conference report Agreed to by the Yeas and Nays: 335 - 78, 1 Present (Roll no. 238).
+- 2020-12-08 — POSTPONED PROCEEDINGS - At the conclusion of debate on the conference report to accompany H.R. 6395, the Chair put the question on adoption of the conference report and by voice vote, announced that the ayes had prevailed. Mr. Smith (WA) demanded the yeas and nays and the Chair postponed further proceedings on ordering the previous question until a time to be announced.
+- 2020-12-08 — The House proceeded to consider the conference report H.Rept. 116-617 as unfinished business. (consideration: CR H7021)
+- 2020-12-08 — The previous question was ordered without objection.
+- 2020-12-09 — Cloture motion on the conference report to accompany H.R. 6395 presented in Senate. (CR S7318)
+- 2020-12-09 — Conference report considered in Senate. (consideration: CR S7317-7318)
+- 2020-12-10 — Conference report considered in Senate. (consideration: CR S7381-7393, S7395-7396, S7398-7416)
+- 2020-12-11 — Cloture on the conference report to accompany H.R. 6395 invoked in Senate by Yea-Nay Vote. 84 - 13. Record Vote Number: 263. (CR S7437)
+- 2020-12-11 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 84 - 13. Record Vote Number: 264.
+- 2020-12-11 — Conference report considered in Senate. (consideration: CR S7437, S7442-7443)
+- 2020-12-11 — Message on Senate action sent to the House.
+- 2020-12-11 — Presented to President.
+- 2020-12-11 — Presented to President.
+- 2020-12-11 — Senate agreed to conference report by Yea-Nay Vote. 84 - 13. Record Vote Number: 264.
+- 2020-12-23 — Vetoed by President.
+- 2020-12-23 — Vetoed by President.
+- 2020-12-24 — Pursuant to section 4 of H. Res. 1271, further consideration of the veto message on H.R. 6395 will be postponed until Monday, December 28, 2020.
+- 2020-12-24 — The Chair announced that pursuant to section 4 of H. Res. 1271, further consideration of the veto message and the bill will be postponed until Monday, December 28, 2020.
+- 2020-12-24 — The Chair announced that the objections of the President to H.R. 6395 would be spread at large upon the Journal and the veto message would be printed as a House Document (116-174).
+- 2020-12-24 — The Chair laid before the House the veto message from the President. (consideration: CR H9150; text: CR H9150)
+- 2020-12-28 — DEBATE - The House proceeded with one hour of debate on the question on passage of H.R. 6395, the objections of the President to the contrary, notwithstanding.
+- 2020-12-28 — POSTPONED PROCEEDINGS - Pursuant to clause 8, Rule XX, the Chair postponed further proceedings on the question on passage of H.R. 6395, the objections of the President to the contrary notwithstanding, until later in the legislative day.
+- 2020-12-28 — Passed House over veto: Two-thirds of the Members present having voted in the affirmative the bill is passed, the objections of the President to the contrary notwithstanding. Passed by the Yeas and Nays: (2/3 required): 322 - 87 (Roll no. 253).
+- 2020-12-28 — Pursuant to section 4 of H. Res. 1271, the Chair announced that the unfinished business was the further consideration of the veto message of the President on H.R. 6395.
+- 2020-12-28 — The Chair directed the Clerk to notify the Senate of the action of the House.
+- 2020-12-28 — The Chair laid before the House the veto message from the President. (consideration: CR H9160-9163)
+- 2020-12-28 — The previous question was ordered without objection.
+- 2020-12-28 — Two-thirds of the Members present having voted in the affirmative the bill is passed, the objections of the President to the contrary notwithstanding. Passed by the Yeas and Nays: (2/3 required): 322 - 87 (Roll no. 253).
+- 2020-12-28 — UNFINISHED BUSINESS - The Chair announced the unfinished business was on passage of H.R. 6395, the objections of the President to the contrary notwithstanding. (consideration: CR H9163-9164)
+- 2020-12-29 — Veto message received in Senate. Ordered held at the desk.
+- 2020-12-30 — Cloture motion on the veto message presented in Senate.
+- 2020-12-30 — Motion to proceed to consideration of the veto message on H.R. 6395 agreed to in Senate by Yea-Nay Vote. 80 - 12. Record Vote Number: 290.
+- 2020-12-30 — Veto Message considered in Senate. (consideration: CR S7982-7983)
+- 2020-12-31 — Veto Message considered in Senate. (consideration: CR S7987-7990)
+- 2021-01-01 — Became Public Law No: 116-283.
+- 2021-01-01 — Became Public Law No: 116-283.
+- 2021-01-01 — Cloture on the veto message invoked in Senate by Yea-Nay Vote. 80 - 12. Record Vote Number: 291. (CR S8001)
+- 2021-01-01 — Passed Senate over veto by Yea-Nay Vote. 81 - 13. Record Vote Number: 292.
+- 2021-01-01 — Passed Senate over veto: Passed Senate over veto by Yea-Nay Vote. 81 - 13. Record Vote Number: 292.
+- 2021-01-01 — Veto Message considered in Senate. (consideration: CR S8000-8001)
+- 2021-01-02 — Message on Senate action sent to the House.
