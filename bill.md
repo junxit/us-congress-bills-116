@@ -57,7 +57,9 @@ Section 19 of the United States Grain Standards Act (7 U.S.C. 87h) is amended—
   >
   > - **(a)** *Authorization of appropriations* There are
 
-- **(2)** in subsection (a) (as so designated), by striking “2020” and inserting “2025”; and
+- **(2)** in subsection (a) (as so designated)—
+  - **(A)** by striking “such sums as are necessary” and inserting “$23,000,000”; and
+  - **(B)** by striking “1988 through 2020” and inserting “2021 through 2025”; and
 - **(3)** by adding at the end the following:
   > - **(b)** *Limitations on uses of user fees*
   >   - **(1)** *Definitions* In this subsection:
