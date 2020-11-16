@@ -45,8 +45,9 @@ In this Act:
     - **(C)** how water travels over and through surfaces.
 - **(c)** *Partnerships* The Under Secretary, through the National Integrated Flood Information System, may—
   - **(1)** engage with the private sector to improve flood monitoring, forecasts, land and topography data, and communication, if the Under Secretary determines that such engagement is appropriate, cost effective, and beneficial to the public and decision makers described in subsection (b)(1)(F)(i);
-  - **(2)** facilitate the development of 1 or more academic cooperative partnerships to assist in carrying out the functions of the National Integrated Flood Information System described in subsection (b); and
-  - **(3)** use and support monitoring by citizen scientists, including by developing best practices to facilitate maximum data integration, as the Under Secretary considers appropriate.
+  - **(2)** facilitate the development of 1 or more academic cooperative partnerships to assist in carrying out the functions of the National Integrated Flood Information System described in subsection (b);
+  - **(3)** use and support monitoring by citizen scientists, including by developing best practices to facilitate maximum data integration, as the Under Secretary considers appropriate; and
+  - **(4)** engage with, and leverage the resources of, entities within the National Oceanic and Atmospheric Administration in existence as of the date of the enactment of this Act, such as the National Integrated Drought Information System, the Regional Climate Center, and the National Mesonet Program, to improve coordination of water monitoring, forecasting, and management.
 - **(d)** *Consultation* In developing and maintaining the National Integrated Flood Information System, the Under Secretary shall consult with relevant Federal, State, local, and Tribal government agencies, research institutions, and the private sector.
 - **(e)** *Cooperation from other Federal agencies* Each Federal agency shall cooperate as appropriate with the Under Secretary in carrying out this section.
 
@@ -72,7 +73,7 @@ In this Act:
     - **(C)** collaborate with such River Forecast Centers and Weather Forecast Offices and Federal, State, local, and Tribal government agencies as the Director considers appropriate in developing, proposing, and implementing plans to develop, modify, or tailor products and services of the National Weather Service to improve the usefulness of such products and services;
     - **(D)** engage in interagency partnerships with Federal, State, local, and Tribal government agencies to explore the use of forecast-informed reservoir operations to reduce flood risk;
     - **(E)** ensure the maintenance and accuracy of flooding call lists, appropriate office flooding policy or procedures, and other flooding information or dissemination methodologies or strategies; and
-    - **(F)** work closely with Federal, State, local, and Tribal emergency management agencies, and other agencies relating to disaster management, to ensure a planned, coordinated, and effective preparedness and response effort.
+    - **(F)** work closely with Federal, State, local, and Tribal emergency and floodplain management agencies, and other agencies relating to disaster management, to ensure a planned, coordinated, and effective preparedness and response effort.
   - **(2)** *Other staff* The Director may assign a responsibility set forth in paragraph (1) to such other staff as the Director considers appropriate to carry out such responsibility.
 - **(d)** *Additional responsibilities*
   - **(1)** *In general* Subject to paragraph (2), a service coordination hydrologist designated under subsection (a) may, with respect to hydrology—
@@ -81,9 +82,9 @@ In this Act:
     - **(C)** develop plans to meet the objectives identified under subparagraph (B); and
     - **(D)** conduct flooding event preparedness planning and citizen education efforts with and through various State, local, and Tribal government agencies and other disaster management-related organizations.
   - **(2)** *Other staff* The Director may assign a responsibility set forth in paragraph (1) to such other staff as the Director considers appropriate to carry out such responsibility.
-- **(e)** *Placement with State and local emergency managers*
-  - **(1)** *In general* In carrying out this section, the Director may place a service coordination hydrologist designated under subsection (a) with a State or local emergency manager, if the Director determines that such placement is necessary or convenient to carry out this section.
-  - **(2)** *Treatment* If the Director determines that the placement of a service coordination hydrologist with a State or local emergency manager under paragraph (1) is near a River Forecast Center of the National Weather Service, such placement shall be treated as designation of the service coordination hydrologist at such River Forecast Center for purposes of subsection (a).
+- **(e)** *Placement with State and local emergency and floodplain managers*
+  - **(1)** *In general* In carrying out this section, the Director may place a service coordination hydrologist designated under subsection (a) with a State or local emergency or floodplain manager, if the Director determines that such placement is necessary or convenient to carry out this section.
+  - **(2)** *Treatment* If the Director determines that the placement of a service coordination hydrologist with a State or local emergency or floodplain manager under paragraph (1) is near a River Forecast Center of the National Weather Service, such placement shall be treated as designation of the service coordination hydrologist at such River Forecast Center for purposes of subsection (a).
 
 ## § 6. Improving National Oceanic and Atmospheric Administration communication of future flood risks and hazardous flash flood events
 
@@ -114,7 +115,7 @@ In this Act:
     - **(B)** individuals in the academic sector, including individuals in the field of social and behavioral sciences;
     - **(C)** other weather services;
     - **(D)** media outlets and other entities that distribute the watches and warnings described in paragraph (1)(A)(i);
-    - **(E)** emergency planners and responders, including State, local, and Tribal emergency management agencies;
+    - **(E)** floodplain managers and emergency planners and responders, including State, local, and Tribal emergency management agencies;
     - **(F)** other government users of the watches and warnings described in paragraph (1)(A)(i), including the Federal Highway Administration; and
     - **(G)** such other Federal agencies as the Under Secretary determines rely on watches and warnings regarding flash floods for operational decisions.
   - **(5)** *National Academy of Sciences* The Under Secretary shall engage with the National Academy of Sciences, as the Under Secretary considers necessary and practicable, including by contracting with the National Research Council to review the scientific and technical soundness of the assessment required by paragraph (1)(A), including the recommendations under paragraph (2)(B).
@@ -179,7 +180,7 @@ Section 1762(f)(1) of the Food Security Act of 1985 (15 U.S.C. 8521(f)(1)) is am
 - **(a)** *Definitions* In this section:
   - **(1)** *Freely Associated States* The term Freely Associated States means the Republic of Palau, the Republic of the Marshall Islands, and the Federated States of Micronesia, which have each entered into a Compact of Free Association with the United States.
   - **(2)** *United States* The term United States means the 50 States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Freely Associated States.
-- **(b)** *In general* The Administrator of the National Oceanic and Atmospheric Administration shall establish a program, to be known as the “NOAA Precipitation Frequency Atlas of the United States”, to estimate and communicate the frequency of precipitation in the United States.
+- **(b)** *In general* The Administrator of the National Oceanic and Atmospheric Administration shall establish a program, to be known as the “NOAA Precipitation Frequency Atlas of the United States”, to compile, estimate, analyze, and communicate the frequency of precipitation in the United States.
 - **(c)** *Functions* The NOAA Precipitation Frequency Atlas of the United States—
   - **(1)** shall better inform the public and provide information on—
     - **(A)** temporal and spatial distribution of heavy precipitation;
@@ -218,9 +219,75 @@ Section 1762(f)(1) of the Food Security Act of 1985 (15 U.S.C. 8521(f)(1)) is am
 - **(d)** *Meetings* The Committee shall meet not less frequently than once each year at the call of the co-chairs.
 - **(e)** *General purpose and duties* The Committee shall ensure that agencies across the Federal Government that engage in water-related matters, including water storage and supplies, water quality and restoration activities, water infrastructure, transportation on United States rivers and inland waterways, and water forecasting, work together where such agencies have joint or overlapping responsibilities to—
   - **(1)** improve interagency coordination by Federal agencies on water resource management and water-related infrastructure issues;
-  - **(2)** coordinate and consolidate existing water-related Federal task forces, working groups, and other formal cross-agency initiatives, as appropriate;
+  - **(2)** coordinate existing water-related Federal task forces, working groups, and other formal cross-agency initiatives, as appropriate;
   - **(3)** designate and consolidate repositories responsible for archiving and managing water-related matters;
   - **(4)** improve interagency coordination of data management, access, modeling, and visualization with respect to water-related matters;
   - **(5)** conduct integrated planning for Federal investments in water-related infrastructure; and
   - **(6)** support workforce development and efforts to recruit, train, and retain professionals to operate and maintain essential water facilities in the United States.
 - **(f)** *Cross-Agency priority research needs* Not later than 1 year after the date of the enactment of this Act, the Committee shall develop and submit to Congress a list of research needs that includes needs for cross-agency research and coordination.
+
+## § 14. National Weather Service hydrologic research fellowship program
+
+- **(a)** *Definitions* In this section:
+  - **(1)** *Decision support services* The term decision support services means information, including data and refined products, that supports water resources-related decision-making processes.
+  - **(2)** *Institution of higher education* The term institution of higher education has the meaning given that term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)).
+- **(b)** *Hydrologic research fellowship program*
+  - **(1)** *Establishment* The Under Secretary, acting through the Director of the National Weather Service (in this section referred to as the “Director”) shall establish a hydrologic research fellowship program (in this section referred to as the “program”) for qualified individuals.
+  - **(2)** *Qualified individual* For purposes of this section, a qualified individual is an individual who is—
+    - **(A)** a citizen of the United States; and
+    - **(B)** enrolled in a research-based graduate program, at an institution of higher education, in a field that advances the research priorities developed by the Under Secretary under paragraph (7), such as—
+      - **(i)** hydrology;
+      - **(ii)** earth sciences;
+      - **(iii)** atmospheric sciences;
+      - **(iv)** computer sciences;
+      - **(v)** engineering;
+      - **(vi)** environmental sciences;
+      - **(vii)** geosciences;
+      - **(viii)** urban planning; or
+      - **(ix)** related social sciences.
+  - **(3)** *Award guidelines* Fellowships under the program shall be awarded pursuant to guidelines established by the Under Secretary.
+  - **(4)** *Selection preference* In selecting qualified individuals for participation in the program, the Under Secretary, acting through the Director, shall give preference to applicants from historically Black colleges and universities and minority-serving institutions.
+  - **(5)** *Placement* The program shall support the placement of qualified individuals in positions within the executive branch of the Federal Government where such individuals can address and advance the research priorities developed by the Under Secretary under paragraph (7).
+  - **(6)** *Fellowship term* A fellowship under the program shall be for a period of up to 2 years.
+  - **(7)** *Fellowship research priorities* The Under Secretary, acting through the Director, and in consultation with representatives from the United States Geological Survey, the Federal Emergency Management Agency, and the Army Corps of Engineers, as appropriate, shall develop and publish priorities for the conduct of research by fellows, which may include the following:
+    - **(A)** Advance the collaborative development of a flexible community-based water resources modeling system.
+    - **(B)** Apply artificial intelligence and machine learning capabilities to advance existing hydrologic modeling capabilities.
+    - **(C)** Support the evolution and integration of hydrologic modeling within an Earth Systems Modeling Framework.
+    - **(D)** Improve visualizations of hydrologic model outputs.
+    - **(E)** Advance the state of coupled freshwater and salt water modeling and forecasting capabilities.
+    - **(F)** Advance understanding and process representation of water quality parameters.
+    - **(G)** Advance the assimilation of in-situ and remotely sensed observations and data.
+    - **(H)** Support the integration of social science to advance decision support services.
+    - **(I)** Develop methods to study groundwater sustainability and estimate the efficiency of recharge management.
+- **(c)** *Direct hiring*
+  - **(1)** *Authority* During fiscal year 2021 and any fiscal year thereafter, the head of any Federal agency may appoint, without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, other than sections 3303 and 3328 of that title, to a position with the Federal agency a recipient of a fellowship under the program who—
+    - **(A)** earned a degree from a program described in subsection (b)(2)(B);
+    - **(B)** successfully fulfilled the requirements of the fellowship within the executive branch of the Federal Government; and
+    - **(C)** meets qualification standards established by the Office of Personnel Management.
+  - **(2)** *Exercise of authority* The direct hire authority provided by this subsection shall be exercised with respect to an individual described in paragraph (1) not later than 2 years after the date on which the individual completed the fellowship under the program.
+
+## § 15. Identification and support of consistent, Federal set of forward-looking, long-term meteorological information
+
+- **(a)** *Definitions* In this section:
+  - **(1)** *Extreme weather* The term extreme weather includes observed or anticipated severe and unseasonable atmospheric conditions, including drought, heavy precipitation, hurricanes, tornadoes and other windstorms (including derechos), extreme heat, extreme cold, flooding, sustained temperatures or precipitation that deviate substantially from historical averages, and any other weather event that the Under Secretary determines qualifies as extreme weather.
+  - **(2)** *Long-term* The term long-term shall have such meaning as the Director of the National Institute of Standards and Technology, in consultation with the Under Secretary, considers appropriate for purposes of this section.
+  - **(3)** *Other environmental trends* The term other environmental trends means wildfires, coastal flooding, inland flooding, land subsidence, rising sea levels, and any other challenges relating to changes in environmental systems over time that the Under Secretary determines qualify as environmental challenges other than extreme weather.
+- **(b)** *Identification and support of consistent, Federal set of forward-looking, long-term meteorological information* The Under Secretary shall identify, and support research that enables, a consistent, Federal set of forward-looking, long-term meteorological information that models future extreme weather events, other environmental trends, projections, and up-to-date observations, including mesoscale information as determined appropriate by the Under Secretary.
+
+## § 16. Gap analysis on availability of snow-related data to assess and predict flood and flood impacts
+
+- **(a)** *In general* The Under Secretary, in consultation with the Department of Agriculture, the Department of the Interior, and the Army Corps of Engineers, shall conduct an analysis of gaps in the availability of snow-related data to assess and predict floods and flood impacts, including data on the following:
+  - **(1)** Snow water equivalent.
+  - **(2)** Snow depth.
+  - **(3)** Snowpack temperature.
+  - **(4)** Snow precipitation.
+  - **(5)** Snow melt.
+  - **(6)** Rain-snow line.
+- **(b)** *Report* Not later than 180 days after the date of the enactment of this Act, the Under Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on—
+  - **(1)** the findings of the gap analysis required by subsection (a); and
+  - **(2)** opportunities for additional collaboration among Federal agencies to collect snow-related data to better assess and predict floods and flood impacts.
+
+## § 17. Availability to the public of flood-related data
+
+- **(a)** *In general* The Under Secretary shall make flood-related data available to the public on the website of the National Oceanic and Atmospheric Administration.
+- **(b)** *Cost* The Under Secretary may make the data under subsection (a) freely accessible or available at a cost that does not exceed the cost of preparing the data.

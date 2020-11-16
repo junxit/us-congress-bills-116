@@ -1,7 +1,7 @@
 ---
 measure: S. 4462
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4462
@@ -16,9 +16,10 @@ FLOODS Act
 
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Ernst, Joni [R-IA] (E000295)
 
 ## Committees (1)
 
@@ -32,3 +33,5 @@ FLOODS Act
 - 2020-09-24 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-269.
 - 2020-09-24 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-269.
 - 2020-09-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 556.
+- 2020-11-16 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6694-6698; text of amendment in the nature of a substitute: CR S6694-6698)
+- 2020-11-16 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6694-6698; text of amendment in the nature of a substitute: CR S6694-6698)
