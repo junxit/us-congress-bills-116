@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 6435
 
-> To direct the Federal Trade Commission to develop and disseminate information to the public about scams related to COVID-19, and for other purposes.
+> To direct the Federal Trade Commission to develop and disseminate information to the public about scams related to COVID–19, and for other purposes.
 
 ## § 1. Short title
 
