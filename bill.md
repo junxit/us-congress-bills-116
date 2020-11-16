@@ -2,12 +2,14 @@
 legis-num: S. 1069
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 1069
 
-> To require the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration, to establish a constituent-driven program to provide a digital information platform capable of efficiently integrating coastal data with decision-support tools, training, and best practices and to support collection of priority coastal geospatial data to inform and improve local, State, regional, and Federal capacities to manage the coastal region, and for other purposes.
+That the bill from the Senate (S. 1069) entitled “An Act to require the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration, to establish a constituent-driven program to provide a digital information platform capable of efficiently integrating coastal data with decision-support tools, training, and best practices and to support collection of priority coastal geospatial data to inform and improve local, State, regional, and Federal capacities to manage the coastal region, and for other purposes.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title
 
@@ -85,11 +87,11 @@ In this Act:
       - **(ii)** grants, cooperative agreements, interagency agreements, contracts, or any other agreement on a reimbursable or non-reimbursable basis, with other Federal, tribal, State, and local governmental and nongovernmental entities; and
     - **(B)** may, to the maximum extent practicable, enter into such contracts with private sector entities for such products and services as the Secretary determines may be necessary to collect, process, and provide remote sensing and other geospatial data and products for purposes of the program.
   - **(2)** *Fees*
-    - **(A)** *Assessment and collection* The Secretary may assess and collect fees for the conduct of any training, workshop, or conference that advances the purposes of the program.
+    - **(A)** *Assessment and collection* The Secretary may, to the extent provided in advance in appropriations Acts, assess and collect fees for the conduct of any training, workshop, or conference that advances the purposes of the program.
     - **(B)** *Amounts* The amount of a fee under this paragraph may not exceed the sum of costs incurred, or expected to be incurred, by the Secretary as a direct result of the conduct of the training, workshop, or conference, including for subsistence expenses incidental to the training, workshop, or conference, as applicable.
-    - **(C)** *Use of fees* Amounts collected by the Secretary in the form of fees under this paragraph may be used to pay for—
+    - **(C)** *Use of fees* Amounts collected by the Secretary in the form of fees under this paragraph shall be available to the extent and in such amounts as are provided in advance in appropriations Acts for—
       - **(i)** the costs incurred for conducting an activity described in subparagraph (A); or
       - **(ii)** the expenses described in subparagraph (B).
   - **(3)** *Survey and mapping* Contracts entered into under paragraph (1)(B) shall be considered “surveying and mapping” services as such term is used in and as such contracts are awarded by the Secretary in accordance with the selection procedures in chapter 11 of title 40, United States Code.
 - **(f)** *Ocean economy* The Secretary may establish publically available tools that track ocean and Great Lakes economy data for each coastal State.
-- **(g)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary $4,000,000 for each fiscal year 2020 through 2024 to carry out the program.
+- **(g)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary $4,000,000 for each fiscal year 2021 through 2025 to carry out the program.

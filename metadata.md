@@ -1,7 +1,7 @@
 ---
 measure: S. 1069
 congress: 116
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 1069
@@ -39,3 +39,9 @@ Digital Coast Act
 - 2020-10-01 — Held at the desk.
 - 2020-10-01 — Message on Senate action sent to the House.
 - 2020-10-01 — Received in the House.
+- 2020-11-16 — Considered under suspension of the rules. (consideration: CR H5739-5741)
+- 2020-11-16 — DEBATE - The House proceeded with forty minutes of debate on S. 1069.
+- 2020-11-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-11-16 — Mr. Huffman moved to suspend the rules and pass the bill, as amended.
+- 2020-11-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5739-5740)
+- 2020-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5739-5740)
