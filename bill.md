@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3878
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Block, Report, And Suspend Suspicious Shipments Act of 2019”.
+This Act may be cited as the “Block, Report, And Suspend Suspicious Shipments Act of 2020”.
 
 ## § 2. Clarification of process for registrants to exercise due diligence upon discovering a suspicious order
 
@@ -19,7 +19,7 @@ This Act may be cited as the “Block, Report, And Suspend Suspicious Shipments 
   > - **(3)** upon discovering a suspicious order or series of orders—
   >   - **(A)** exercise due diligence;
   >   - **(B)** establish and maintain (for not less than a period to be determined by the Administrator of the Drug Enforcement Administration) a record of the due diligence that was performed;
-  >   - **(C)** decline to fill the order or series of orders if the due diligence fails to dispel all of the indicators that gave rise to the suspicion that filling the order or series of orders would cause a violation of this title by the registrant or the prospective purchaser; and
+  >   - **(C)** decline to fill the order or series of orders if the due diligence fails to resolve all of the indicators that gave rise to the suspicion that filling the order or series of orders would cause a violation of this title by the registrant or the prospective purchaser; and
   >   - **(D)** notify the Administrator of the Drug Enforcement Administration and the Special Agent in Charge of the Division Office of the Drug Enforcement Administration for the area in which the registrant is located or conducts business of—
   >     - **(i)** each suspicious order or series of orders discovered by the registrant; and
   >     - **(ii)** the indicators giving rise to the suspicion that filling the order or series of orders would cause a violation of this title by the registrant or the prospective purchaser.
