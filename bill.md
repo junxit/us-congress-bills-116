@@ -2,12 +2,14 @@
 legis-num: S. 910
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 910
 
-> To reauthorize and amend the National Sea Grant College Program Act, and for other purposes.
+That the bill from the Senate (S. 910) entitled “An Act to reauthorize and amend the National Sea Grant College Program Act, and for other purposes.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title
 
@@ -73,7 +75,7 @@ Section 207(b) (33 U.S.C. 1126(b)) is amended—
 
 ## § 8. Direct hire authority; Dean John A. Knauss Marine Policy Fellowship
 
-- **(a)** *In general* During fiscal year 2019 and any fiscal year thereafter, the head of any Federal agency may appoint, without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, other than sections 3303 and 3328 of that title, a qualified candidate described in subsection (b) directly to a position with the Federal agency for which the candidate meets Office of Personnel Management qualification standards.
+- **(a)** *In general* During fiscal year 2021 and any fiscal year thereafter, the head of any Federal agency may appoint, without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, other than sections 3303 and 3328 of that title, a qualified candidate described in subsection (b) directly to a position with the Federal agency for which the candidate meets Office of Personnel Management qualification standards.
 - **(b)** *Dean John A. Knauss Marine Policy Fellowship* Subsection (a) applies with respect to a former recipient of a Dean John A. Knauss Marine Policy Fellowship under section 208(b) of the National Sea Grant College Program Act (33 U.S.C. 1127(b)) who—
   - **(1)** earned a graduate or post-graduate degree in a field related to ocean, coastal, and Great Lakes resources or policy from an accredited institution of higher education; and
   - **(2)** successfully fulfilled the requirements of the fellowship within the executive or legislative branch of the United States Government.
@@ -84,14 +86,14 @@ Section 207(b) (33 U.S.C. 1126(b)) is amended—
 - **(a)** *In general* Section 212(a) (33 U.S.C. 1131(a)) is amended—
   - **(1)** by amending paragraph (1) to read as follows:
     > - **(1)** *In general* There are authorized to be appropriated to the Secretary to carry out this title—
-    >   - **(A)** $87,520,000 for fiscal year 2020;
-    >   - **(B)** $91,900,000 for fiscal year 2021;
-    >   - **(C)** $96,500,000 for fiscal year 2022;
-    >   - **(D)** $101,325,000 for fiscal year 2023; and
-    >   - **(E)** $105,700,000 for fiscal year 2024.
+    >   - **(A)** $87,520,000 for fiscal year 2021;
+    >   - **(B)** $91,900,000 for fiscal year 2022;
+    >   - **(C)** $96,500,000 for fiscal year 2023;
+    >   - **(D)** $101,325,000 for fiscal year 2024; and
+    >   - **(E)** $105,700,000 for fiscal year 2025.
 
   - **(2)** by amending paragraph (2) to read as follows:
-    > - **(2)** *Priority activities for fiscal years 2020 through 2024* In addition to the amounts authorized to be appropriated under paragraph (1), there are authorized to be appropriated $6,000,000 for each of fiscal years 2020 through 2024 for competitive grants for the following:
+    > - **(2)** *Priority activities for fiscal years 2021 through 2025* In addition to the amounts authorized to be appropriated under paragraph (1), there are authorized to be appropriated $6,000,000 for each of fiscal years 2021 through 2025 for competitive grants for the following:
     >   - **(A)** University research on the biology, prevention, and control of aquatic nonnative species.
     >   - **(B)** University research on oyster diseases, oyster restoration, and oyster-related human health risks.
     >   - **(C)** University research on the biology, prevention, and forecasting of harmful algal blooms.
