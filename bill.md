@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2281
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,6 +13,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Easy Medication Access and Treatment for Opioid Addiction Act” or the “Easy MAT for Opioid Addiction Act”.
 
-## § 2. Administration of narcotic drugs for the purpose of relieving acute withdrawal symptoms
+## § 2. Dispensation of narcotic drugs for the purpose of relieving acute withdrawal symptoms from opioid use disorder
 
-Not later than 180 days after the date of enactment of this Act, the Attorney General shall revise section 1306.07(b) of title 21, Code of Federal Regulations, so that practitioners are allowed to administer not more than a three-day supply of medication to one person or for one person’s use at one time.
+Not later than 180 days after the date of enactment of this Act, the Attorney General shall revise section 1306.07(b) of title 21, Code of Federal Regulations, so that practitioners, in accordance with applicable State, Federal, or local laws relating to controlled substances, are allowed to dispense not more than a three-day supply of narcotic drugs to one person or for one person’s use at one time for the purpose of initiating maintenance treatment or detoxification treatment (or both).
