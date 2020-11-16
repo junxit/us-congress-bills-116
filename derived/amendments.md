@@ -1,7 +1,7 @@
 ---
 measure: S. 4054
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 7 executed, 4 stated and not applied.
+12 amendatory instructions. 8 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -53,12 +53,21 @@ to guess them.
 
 ### 7 U.S.C. § 87h
 
-> in subsection (a) (as so designated), by striking “2020” and inserting “2025”; and
+> by striking “such sums as are necessary” and inserting “$23,000,000”; and
 
 | | |
 |---|---|
-| Removed | `2020` |
-| Inserted | `2025` |
+| Removed | `such sums as are necessary` |
+| Inserted | `$23,000,000` |
+
+### 7 U.S.C. § 87h
+
+> by striking “1988 through 2020” and inserting “2021 through 2025”; and
+
+| | |
+|---|---|
+| Removed | `1988 through 2020` |
+| Inserted | `2021 through 2025` |
 
 ### 7 U.S.C. § 87j
 
