@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5855
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5855
@@ -29,3 +29,10 @@ Bipartisan Solution to Cyclical Violence Act of 2020
 - 2020-02-11 — Introduced in House
 - 2020-02-11 — Introduced in House
 - 2020-02-11 — Referred to the House Committee on Energy and Commerce.
+- 2020-02-12 — Referred to the Subcommittee on Health.
+- 2020-06-30 — Subcommittee Hearings Held.
+- 2020-09-09 — Committee Consideration and Mark-up Session Held.
+- 2020-09-09 — Ordered to be Reported by Voice Vote.
+- 2020-11-16 — Placed on the Union Calendar, Calendar No. 484.
+- 2020-11-16 — Reported by the Committee on Energy and Commerce. H. Rept. 116-586.
+- 2020-11-16 — Reported by the Committee on Energy and Commerce. H. Rept. 116-586.
