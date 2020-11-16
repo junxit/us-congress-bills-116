@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1964
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Lumbee Recognition Act”.
+This Act may be cited as the “Lumbee Tribe of North Carolina Recognition Act”.
 
 ## § 2. Federal recognition
 
@@ -60,12 +60,12 @@ The Act of June 7, 1956 (70 Stat. 254, chapter 375), is amended—
   > - **(d)** *Tribal roll*
   >   - **(1)** *In general* For purpose of the delivery of Federal services and benefits described in subsection (a), the tribal roll in effect on the date of enactment of this section shall, subject to verification by the Secretary, define the service population of the Tribe.
   >   - **(2)** *Verification limitation and deadline* The verification by the Secretary under paragraph (1) shall—
-  >     - **(A)** be limited to confirming compliance with the membership criteria set out in the constitution of the Tribe adopted on November 16, 2001; and
-  >     - **(B)** be completed not later than 2 years after the date of enactment of this section.
+  >     - **(A)** be limited to confirming documentary proof of compliance with the membership criteria set out in the constitution of the Tribe adopted on November 16, 2001; and
+  >     - **(B)** be completed not later than 2 years after the submission of a digitized roll with supporting documentary proof by the Tribe to the Secretary.
   >
   > ## § 6. Authorization to take land into trust
   >
-  > - **(a)** *In general* The Secretary may take into trust for the benefit of the Tribe land of the Tribe.
+  > - **(a)** *In general* Notwithstanding any other provision of law, the Secretary is hereby authorized to take land into trust for the benefit of the Tribe.
   > - **(b)** *Treatment of certain land* An application to take into trust land located within Robeson County, North Carolina, under this section shall be treated by the Secretary as an on reservation trust acquisition under part 151 of title 25, Code of Federal Regulations (or a successor regulation).
   >
   > ## § 7. Jurisdiction of State of North Carolina
@@ -74,10 +74,14 @@ The Act of June 7, 1956 (70 Stat. 254, chapter 375), is amended—
   >   - **(1)** all criminal offenses that are committed; and
   >   - **(2)** all civil actions that arise.
   > - **(b)** *Transfer of jurisdiction*
-  >   - **(1)** *In general* Subject to paragraph (2), the Secretary may accept on behalf of the United States, after consulting with the Attorney General of the United States, any transfer by the State of North Carolina to the United States of any portion of the jurisdiction of the State of North Carolina described in subsection (a) pursuant to an agreement between the Tribe and the State of North Carolina.
+  >   - **(1)** *In general* Subject to paragraph (2), the Secretary may accept on behalf of the United States, after consulting with the Attorney General of the United States, any transfer by the State of North Carolina to the United States of any portion of the jurisdiction of the State of North Carolina described in subsection (a) over Indian country occupied by the Tribe pursuant to an agreement between the Tribe and the State of North Carolina.
   >   - **(2)** *Restriction* A transfer of jurisdiction described in paragraph (1) may not take effect until 2 years after the effective date of the agreement described in that paragraph.
   > - **(c)** *Effect* Nothing in this section affects the application of section 109 of the Indian Child Welfare Act of 1978 (25 U.S.C. 1919).
   >
   > ## § 8. Authorization of appropriations
   >
   > There are authorized to be appropriated such sums as are necessary to carry out this Act.
+  >
+  > ## § 9. Short title
+  >
+  > This Act may be cited as the “Lumbee Tribe of North Carolina Recognition Act”.
