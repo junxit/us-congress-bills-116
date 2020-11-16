@@ -15,14 +15,24 @@ This Act may be cited as the “National Children’s Museum Act”.
 
 ## § 2. National Children’s Museum
 
-- **(a)** *In general* Chapter 67 of title 40, United States Code, is amended by adding at the end the following:
+- **(a)** *Findings* Congress finds that—
+  - **(1)** the Museum and Library Services Act of 2003 (Public Law 108–81) designated the Capital Children’s Museum, the predecessor to the National Children's Museum, as the “National Children’s Museum”;
+  - **(2)** the National Children’s Museum operates under section 501(C)(3) of the Internal Revenue Code of 1986 and is organized under the laws of the District of Columbia;
+  - **(3)** the mission of the National Children’s Museum is to inspire children to care about and change the world; and
+  - **(4)** the National Children’s Museum is located in the federally-owned Ronald Reagan Building and International Trade Center.
+- **(b)** *National Children’s Museum* Chapter 67 of title 40, United States Code, is amended by adding at the end the following:
   > ## § 6735. National Children’s Museum
   >
-  > - **(a)** *In general* Not later than 1 month after the date of enactment of this section, the Administrator of General Services shall enter into a cooperative agreement with the National Children’s Museum for the operation of the National Children’s Museum in the space described under subsection (c) of the Ronald Reagan Building and International Trade Center.
+  > - **(a)** *In general* Not later than 30 days after the date of enactment of this section, the Administrator of General Services shall enter into a cooperative agreement with the National Children’s Museum for the operation of the National Children’s Museum in the approximately 32,369 square feet of space commonly known as suite C–001 (hereinafter referred to as the “Space”) of the Ronald Reagan Building and International Trade Center for the duration of the retail space license agreement between Trade Center Management Associates, LLC, or a successor entity, and the Museum, dated December 4, 2017, including any exercised renewal options.
   > - **(b)** *Contents* The cooperative agreement under subsection (a) shall include provisions that—
-  >   - **(1)** make the space described under subsection (c) available to the National Children’s Museum in perpetuity without charge;
-  >   - **(2)** require the General Services Administration to provide, subject to available appropriations, such maintenance (including maintenance of the structural portions of the space described in subsection (c) and any HVAC, electrical, gas, steam, sprinkler, and mechanical facilities or systems), security, information, janitorial, and other services as may be necessary to ensure the preservation and operation of the site; and
-  >   - **(3)** provide a right of first refusal to the National Children’s Museum for any adjacent rental space in the Ronald Reagan Building and International Trade Center for an agreed upon rate.
-  > - **(c)** *Museum space* The cooperative agreement under subsection (a) shall designate the pavilion and the occupiable space on the floor adjacent to the pavilion of the Ronald Reagan Building and International Trade Center as the space for the National Children’s Museum.
+  >   - **(1)** require, for the period in which the General Services Administration owns or controls the Space, the General Services Administration to provide rent for the Space; and
+  >   - **(2)** terminate such agreement if—
+  >     - **(A)** the Museum does not continue to qualify as a nonprofit organization under section 501(c)(3) of the Internal Revenue Code of 1986; and
+  >     - **(B)** the Museum no longer uses the Space as a children’s museum; and
+  >   - **(3)** prohibits the Museum from transferring the interest in such agreement.
+  > - **(c)** *Source of funds* To carry out this section, the Administrator shall use funds derived from—
+  >   - **(1)** the Pennsylvania Avenue Development Corporation fund; or
+  >   - **(2)** the International Trade Center fund.
+  > - **(d)** *Report* The cooperative agreement under subsection (a) shall require the National Children’s Museum to submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate an annual report on the operations and finances of the Museum.
 
-- **(b)** *Clerical amendment* The analysis for chapter 67 of title 40, United States Code, is amended by adding at the end the following:
+- **(c)** *Clerical amendment* The analysis for chapter 67 of title 40, United States Code, is amended by adding at the end the following:
