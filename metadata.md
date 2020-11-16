@@ -1,7 +1,7 @@
 ---
 measure: S. 4612
 congress: 116
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 4612
@@ -31,3 +31,7 @@ Methamphetamine Response Act of 2020
 
 - 2020-09-17 — Introduced in Senate
 - 2020-09-17 — Read twice and referred to the Committee on the Judiciary.
+- 2020-11-16 — Passed Senate without amendment by Unanimous Consent. (text: CR S6716-6717)
+- 2020-11-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S6716-6717)
+- 2020-11-16 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6716-6717)
+- 2020-11-16 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6716-6717)
