@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8408
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8408
@@ -31,3 +31,10 @@ Aircraft Certification Reform and Accountability Act
 - 2020-09-29 — Introduced in House
 - 2020-09-29 — Introduced in House
 - 2020-09-29 — Referred to the House Committee on Transportation and Infrastructure.
+- 2020-09-30 — Committee Consideration and Mark-up Session Held.
+- 2020-09-30 — Ordered to be Reported by Voice Vote.
+- 2020-09-30 — Referred to the Subcommittee on Aviation.
+- 2020-09-30 — Subcommittee on Aviation Discharged.
+- 2020-11-16 — Placed on the Union Calendar, Calendar No. 477.
+- 2020-11-16 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-579.
+- 2020-11-16 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-579.
