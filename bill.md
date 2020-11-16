@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 1830
-congress: 116th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Sixteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 1830
 
-That the bill from the House of Representatives (H.R. 1830) entitled “An Act to require the Secretary of the Treasury to mint coins in commemoration of the National Purple Heart Hall of Honor.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To require the Secretary of the Treasury to mint coins in commemoration of the National Purple Heart Hall of Honor.
 
 ## § 1. Short title
 
@@ -53,7 +51,7 @@ The Congress finds the following:
     - **(B)** an inscription of the year “2022”; and
     - **(C)** inscriptions of the words Liberty, In God We Trust, United States of America, and E Pluribus Unum.
 - **(b)** *Selection* The design for the coins minted under this Act shall be—
-  - **(1)** selected by the Secretary after consultation with the Commission of Fine Arts and the National Purple Heart Hall of Honor, Inc.; and
+  - **(1)** selected by the Secretary after consultation with the Commission of Fine Arts and the National Purple Heart Honor Mission, Inc.; and
   - **(2)** reviewed by the Citizens Coinage Advisory Committee.
 
 ## § 5. Issuance of coins
@@ -81,8 +79,8 @@ The Congress finds the following:
   - **(1)** $35 per coin for the $5 coin;
   - **(2)** $10 per coin for the $1 coin; and
   - **(3)** $5 per coin for the half-dollar coin.
-- **(b)** *Distribution* Subject to section 5134(f)(1) of title 31, United States Code, all surcharges received by the Secretary from the sale of coins issued under this Act shall be promptly paid by the Secretary to the National Purple Heart Hall of Honor, Inc., to support the mission of the National Purple Heart Hall of Honor, Inc., including capital improvements to the National Purple Heart Hall of Honor facilities.
-- **(c)** *Audits* The National Purple Heart Hall of Honor, Inc., shall be subject to the audit requirements of section 5134(f)(2) of title 31, United States Code, with regard to the amounts received under subsection (b).
+- **(b)** *Distribution* Subject to section 5134(f)(1) of title 31, United States Code, all surcharges received by the Secretary from the sale of coins issued under this Act shall be promptly paid by the Secretary to the National Purple Heart Honor Mission, Inc., to support the mission of the National Purple Heart Honor Mission, Inc., including capital improvements to the National Purple Heart Hall of Honor facilities.
+- **(c)** *Audits* The National Purple Heart Honor Mission, Inc., shall be subject to the audit requirements of section 5134(f)(2) of title 31, United States Code, with regard to the amounts received under subsection (b).
 - **(d)** *Limitation* Notwithstanding subsection (a), no surcharge may be included with respect to the issuance under this Act of any coin during a calendar year if, as of the time of such issuance, the issuance of such coin would result in the number of commemorative coin programs issued during such year to exceed the annual 2 commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code (as in effect on the date of the enactment of this Act). The Secretary of the Treasury may issue guidance to carry out this subsection.
 
 ## § 8. Financial assurances

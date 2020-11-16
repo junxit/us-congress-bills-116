@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1830
 congress: 116
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1830
@@ -353,3 +353,15 @@ National Purple Heart Hall of Honor Commemorative Coin Act
 - 2020-11-16 — Senate amendment agreed to: Amendment SA 2687 agreed to in Senate by Unanimous Consent.
 - 2020-11-16 — Senate amendment proposed (on the floor): Amendment SA 2687 proposed by Senator Cornyn for Senator Schumer.(consideration: CR S6693-6694; text: CR S6694)
 - 2020-11-16 — Senate amendment submitted
+- 2020-11-17 — Message on Senate action sent to the House.
+- 2020-12-02 — DEBATE - The House proceeded with forty minutes of debate on the Senate amendment to H.R. 1830.
+- 2020-12-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-02 — Mr. Clay moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H6035-6036)
+- 2020-12-02 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text: CR H6035)
+- 2020-12-02 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text: CR H6035)
+- 2020-12-11 — Presented to President.
+- 2020-12-11 — Presented to President.
+- 2020-12-22 — Became Public Law No: 116-247.
+- 2020-12-22 — Became Public Law No: 116-247.
+- 2020-12-22 — Signed by President.
+- 2020-12-22 — Signed by President.
