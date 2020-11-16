@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6395
 congress: 116
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 6395
@@ -247,3 +247,11 @@ William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2
 - 2020-07-21 — Without objection, a motion to reconsider was laid upon the table
 - 2020-08-04 — Received in the Senate.
 - 2020-08-05 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 505.
+- 2020-11-16 — Amendment SA 2682 agreed to in Senate by Unanimous Consent.
+- 2020-11-16 — Amendment SA 2682 proposed by Senator McConnell for Senator Inhofe. (consideration: CR S6688; text: CR S6723-6974) In the nature of a substitute.
+- 2020-11-16 — Measure laid before Senate by unanimous consent. (consideration: CR S6688)
+- 2020-11-16 — Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: CR S6723-6974)
+- 2020-11-16 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(text of amendment in the nature of a substitute: CR S6723-6974)
+- 2020-11-16 — Senate amendment agreed to: Amendment SA 2682 agreed to in Senate by Unanimous Consent.
+- 2020-11-16 — Senate amendment proposed (on the floor): Amendment SA 2682 proposed by Senator McConnell for Senator Inhofe.(consideration: CR S6688; text: CR S6723-6974)
+- 2020-11-16 — Senate amendment submitted
