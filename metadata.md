@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3878
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3878
@@ -16,9 +16,11 @@ Block, Report, And Suspend Suspicious Shipments Act of 2020
 
 - Rep. McKinley, David B. [R-WV-1] (M001180)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Rep. Dingell, Debbie [D-MI-12] (D000624)
+- Rep. Walden, Greg [R-OR-2] (W000791)
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
 
 ## Committees (2)
 
@@ -31,3 +33,12 @@ Block, Report, And Suspend Suspicious Shipments Act of 2020
 - 2019-07-23 — Introduced in House
 - 2019-07-23 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-07-23 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-07-24 — Referred to the Subcommittee on Health.
+- 2019-08-15 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2020-09-09 — Committee Consideration and Mark-up Session Held.
+- 2020-09-09 — Ordered to be Reported (Amended) by Voice Vote.
+- 2020-11-16 — Committee on the Judiciary discharged.
+- 2020-11-16 — Committee on the Judiciary discharged.
+- 2020-11-16 — Placed on the Union Calendar, Calendar No. 481.
+- 2020-11-16 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-583, Part I.
+- 2020-11-16 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-583, Part I.
