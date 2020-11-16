@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1342
 congress: 116th CONGRESS
-session: 1st Session
+session: 2nd Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -25,7 +25,4 @@ This Act may be cited as the “Great Lakes Environmental Sensitivity Index Act 
   - **(3)** the natural variability of shoreline and coastal environment; and
   - **(4)** the volume of vessel traffic and general vulnerability to spilled pollutants.
 - **(d)** *Environmental sensitivity index product defined* In this section, the term environmental sensitivity index product means a map or similar tool that is utilized to identify sensitive shoreline, coastal or offshore, resources prior to an oil spill event in order to set baseline priorities for protection and plan cleanup strategies, typically including information relating to shoreline type, biological resources, and human use resources.
-- **(e)** *Authorization of appropriations*
-  - **(1)** *In general* There is authorized to be appropriated to the Under Secretary $7,500,000 to carry out subsection (a).
-  - **(2)** *Availability* Amounts appropriated or otherwise made available pursuant to paragraph (1) shall be available to the Under Secretary for the purposes set forth in such paragraph until expended.
 - **(e)** *Funding* Amounts for activities under this section shall be derived from amounts otherwise authorized to be appropriated or made available for the Under Secretary.
