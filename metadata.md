@@ -1,7 +1,7 @@
 ---
 measure: S. 910
 congress: 116
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 910
@@ -16,12 +16,13 @@ National Sea Grant College Program Amendments Act of 2020
 
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 
-## Cosponsors (4)
+## Cosponsors (5)
 
 - Sen. Schatz, Brian [D-HI] (S001194)
 - Sen. Cantwell, Maria [D-WA] (C000127)
 - Sen. Sullivan, Dan [R-AK] (S001198)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
 
 ## Committees (1)
 
@@ -53,3 +54,14 @@ National Sea Grant College Program Amendments Act of 2020
 - 2020-11-16 — Mr. Huffman moved to suspend the rules and pass the bill, as amended.
 - 2020-11-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5741-5743)
 - 2020-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5741-5743)
+- 2020-11-17 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2020-12-02 — Measure laid before Senate by unanimous consent. (consideration: CR S7188)
+- 2020-12-02 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 910 by Voice Vote.
+- 2020-12-02 — Senate agreed to the House amendment to S. 910 by Voice Vote.
+- 2020-12-03 — Message on Senate action sent to the House.
+- 2020-12-08 — Presented to President.
+- 2020-12-08 — Presented to President.
+- 2020-12-18 — Became Public Law No: 116-221.
+- 2020-12-18 — Became Public Law No: 116-221.
+- 2020-12-18 — Signed by President.
+- 2020-12-18 — Signed by President.
