@@ -1,13 +1,15 @@
 ---
 legis-num: H.R. 1830
 congress: 116th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+session: 2d Session
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 1830
 
-> To require the Secretary of the Treasury to mint coins in commemoration of the National Purple Heart Hall of Honor.
+That the bill from the House of Representatives (H.R. 1830) entitled “An Act to require the Secretary of the Treasury to mint coins in commemoration of the National Purple Heart Hall of Honor.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
@@ -22,7 +24,7 @@ The Congress finds the following:
   - **(B)** to collect and preserve the stories of Purple Heart recipients from all branches of service and across generations to ensure that all recipients are represented.
 - **(2)** The National Purple Heart Hall of Honor first opened its doors on November 10, 2006, in New Windsor, NY.
 - **(3)** The National Purple Heart Hall of Honor is co-located with the New Windsor Cantonment State Historic Site.
-- **(4)** The National Purple Heart Hall of Honor is the first to recognize the estimated 1.8 million United States servicemembers wounded or killed in action representing recipients from the Civil War to the present day, serving as a living memorial to their sacrifice by sharing their stories through interviews, exhibits and the Roll of Honor, an interactive computer database of each recipient enrolled.
+- **(4)** The National Purple Heart Hall of Honor is the first to recognize the estimated 1.8 million U.S. servicemembers wounded or killed in action representing recipients from the Civil War to the present day, serving as a living memorial to their sacrifice by sharing their stories through interviews, exhibits and the Roll of Honor, an interactive computer database of each recipient enrolled.
 
 ## § 3. Coin specifications
 
@@ -42,13 +44,13 @@ The Congress finds the following:
 - **(b)** *Legal Tender* The coins minted under this Act shall be legal tender, as provided in section 5103 of title 31, United States Code.
 - **(c)** *Numismatic Items* For purposes of section 5134 of title 31, United States Code, all coins minted under this Act shall be considered to be numismatic items.
 
-## § 4. Design of coins
+## § 4. Designs of coins
 
-- **(a)** *Design Requirements*
-  - **(1)** *In general* The design of the coins minted under this Act shall be emblematic of the National Purple Heart Hall of Honor.
+- **(a)** *Designs Requirements*
+  - **(1)** *In general* The designs of the coins minted under this Act shall be emblematic of the National Purple Heart Hall of Honor.
   - **(2)** *Designation and inscriptions* On each coin minted under this Act there shall be—
     - **(A)** a designation of the value of the coin;
-    - **(B)** an inscription of the year “2021”; and
+    - **(B)** an inscription of the year “2022”; and
     - **(C)** inscriptions of the words Liberty, In God We Trust, United States of America, and E Pluribus Unum.
 - **(b)** *Selection* The design for the coins minted under this Act shall be—
   - **(1)** selected by the Secretary after consultation with the Commission of Fine Arts and the National Purple Heart Hall of Honor, Inc.; and
@@ -57,8 +59,10 @@ The Congress finds the following:
 ## § 5. Issuance of coins
 
 - **(a)** *Quality of Coins* Coins minted under this Act shall be issued in uncirculated and proof qualities.
-- **(b)** *Mint Facility* Only the West Point Mint may be used to strike any particular quality of the coins minted under this Act.
-- **(c)** *Period for Issuance* The Secretary may issue coins minted under this Act only during the 1-year period beginning on January 1, 2021.
+- **(b)** *Mint facility*
+  - **(1)** *In general* Only 1 facility of the United States Mint may be used to strike any particular quality of the coins minted under this Act.
+  - **(2)** *Use of the United States Mint at West Point, New York* It is the sense of Congress that the coins minted under this Act should be struck at the United States Mint at West Point, New York, to the greatest extent possible.
+- **(c)** *Period for Issuance* The Secretary may issue coins minted under this Act only during the 1-year period beginning on January 1, 2022.
 
 ## § 6. Sale of coins
 
@@ -79,8 +83,11 @@ The Congress finds the following:
   - **(3)** $5 per coin for the half-dollar coin.
 - **(b)** *Distribution* Subject to section 5134(f)(1) of title 31, United States Code, all surcharges received by the Secretary from the sale of coins issued under this Act shall be promptly paid by the Secretary to the National Purple Heart Hall of Honor, Inc., to support the mission of the National Purple Heart Hall of Honor, Inc., including capital improvements to the National Purple Heart Hall of Honor facilities.
 - **(c)** *Audits* The National Purple Heart Hall of Honor, Inc., shall be subject to the audit requirements of section 5134(f)(2) of title 31, United States Code, with regard to the amounts received under subsection (b).
-- **(d)** *Limitation* Notwithstanding subsection (a), no surcharge may be included with respect to the issuance under this Act of any coin during a calendar year if, as of the time of such issuance, the issuance of such coin would result in the number of commemorative coin programs issued during such year to exceed the annual two commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code (as in effect on the date of the enactment of this Act). The Secretary of the Treasury may issue guidance to carry out this subsection.
+- **(d)** *Limitation* Notwithstanding subsection (a), no surcharge may be included with respect to the issuance under this Act of any coin during a calendar year if, as of the time of such issuance, the issuance of such coin would result in the number of commemorative coin programs issued during such year to exceed the annual 2 commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code (as in effect on the date of the enactment of this Act). The Secretary of the Treasury may issue guidance to carry out this subsection.
 
-## § 8. Determination of budgetary effects
+## § 8. Financial assurances
 
-The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
+The Secretary shall take such actions as may be necessary to ensure that—
+
+- **(1)** minting and issuing coins under this Act result in no net cost to the Federal Government; and
+- **(2)** no funds, including applicable surcharges, are disbursed to any recipient designated in section 7(b) until the total cost of designing and issuing all of the coins authorized by this Act, including labor, materials, dies, use of machinery, overhead expenses, marketing, and shipping, is recovered by the United States Treasury, consistent with sections 5112(m) and 5134(f) of title 31, United States Code.
