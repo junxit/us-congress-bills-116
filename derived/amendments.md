@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5919
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Chapter 67 of title 40, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | The analysis for chapter 67 of title 40, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 501` | add-at-end | Chapter 67 of title 40, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 501` | add-at-end | The analysis for chapter 67 of title 40, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
