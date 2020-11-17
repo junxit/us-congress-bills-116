@@ -27,11 +27,12 @@ It is the sense of Congress that—
 
 - **(a)** *In general* Not later than 120 days after the date of the enactment of this Act, the Director of the Office of Science and Technology Policy shall submit to Congress a report on research and development investments, infrastructure, and workforce development investments of the Federal Government that enable continued United States leadership in industries of the future.
 - **(b)** *Contents* The report submitted under subsection (a) shall include the following:
-  - **(1)** An assessment of the current baseline of investments in civilian research and development investments of the Federal Government in the industries of the future.
-  - **(2)** A plan to double such baseline investments in artificial intelligence and quantum information science by fiscal year 2022.
-  - **(3)** A detailed plan to increase investments described in paragraph (1) in industries of the future to $10,000,000,000 per year by fiscal year 2025.
-  - **(4)** A plan to leverage investments described in paragraphs (1), (2), and (3) in industries of the future to elicit complimentary investments by non-Federal entities to the greatest extent practicable.
-  - **(5)** Proposed legislation to implement such plans.
+  - **(1)** A definition, for purposes of this Act, of the term “industries of the future” that includes emerging technologies.
+  - **(12)** An assessment of the current baseline of investments in civilian research and development investments of the Federal Government in the industries of the future.
+  - **(23)** A plan to double such baseline investments in artificial intelligence and quantum information science by fiscal year 2022.
+  - **(34)** A detailed plan to increase investments described in paragraph (12) in industries of the future to $10,000,000,000 per year by fiscal year 2025.
+  - **(45)** A plan to leverage investments described in paragraphs (12), (23), and (34) in industries of the future to elicit complimentary investments by non-Federal entities to the greatest extent practicable.
+  - **(56)** Proposed legislation to implement such plans.
 
 ## § 4. Industries of the Future Coordination Council
 
