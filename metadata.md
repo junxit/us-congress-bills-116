@@ -1,7 +1,7 @@
 ---
 measure: S. 2216
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2216
@@ -58,3 +58,20 @@ TEAM Veteran Caregivers Act
 - 2020-11-17 — Senate amendment proposed (on the floor): Amendment SA 2688 proposed by Senator Portman for Senator Peters.(consideration: CR S7044-7045; text: CR S7044-7045)
 - 2020-11-17 — Senate amendment submitted
 - 2020-11-17 — The committee substitute withdrawn by Unanimous Consent. (CR S7044)
+- 2020-11-18 — Held at the desk.
+- 2020-11-18 — Message on Senate action sent to the House.
+- 2020-11-18 — Received in the House.
+- 2020-12-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2020-12-16 — Considered as unfinished business. (consideration: CR H7224-7225)
+- 2020-12-16 — Considered under suspension of the rules. (consideration: CR H7211-7213)
+- 2020-12-16 — DEBATE - The House proceeded with forty minutes of debate on S. 2216.
+- 2020-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-16 — Mr. Takano moved to suspend the rules and pass the bill.
+- 2020-12-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 380 - 0 (Roll no. 244). (text: CR H7211)
+- 2020-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 380 - 0 (Roll no. 244).(text: CR H7211)
+- 2020-12-21 — Presented to President.
+- 2020-12-21 — Presented to President.
+- 2020-12-31 — Became Public Law No: 116-278.
+- 2020-12-31 — Became Public Law No: 116-278.
+- 2020-12-31 — Signed by President.
+- 2020-12-31 — Signed by President.
