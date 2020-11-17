@@ -24,4 +24,9 @@ This Act may be cited as the “Block, Report, And Suspend Suspicious Shipments 
   >     - **(i)** each suspicious order or series of orders discovered by the registrant; and
   >     - **(ii)** the indicators giving rise to the suspicion that filling the order or series of orders would cause a violation of this title by the registrant or the prospective purchaser.
 
-- **(b)** *Applicability* Section 312(a)(3) of the Controlled Substances Act, as amended by subsection (a), shall apply beginning on the day that is 6 months after the date of enactment of this Act. Until such day, section 312(a)(3) of the Controlled Substances Act shall apply as such section 312(a)(3) was in effect on the day before the date of enactment of this Act.
+- **(b)** *Regulations* Not later than 1 year after the date of enactment of this Act, for purposes of section 312(a)(3) of the Controlled Substances Act, as amended by subsection (a), the Attorney General of the United States shall promulgate a final regulation specifying the indicators that give rise to a suspicion that filling an order or series of orders would cause a violation of the Controlled Substances Act (21 U.S.C. 801 et seq.) by a registrant or a prospective purchaser.
+- **(c)** *Applicability* Section 312(a)(3) of the Controlled Substances Act, as amended by subsection (a), shall apply beginning on the day that is 1 year after the date of enactment of this Act. Until such day, section 312(a)(3) of the Controlled Substances Act shall apply as such section 312(a)(3) was in effect on the day before the date of enactment of this Act.
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
