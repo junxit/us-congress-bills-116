@@ -254,16 +254,14 @@ Section 44702(d) of title 49, United States Code, is amended by adding at the en
       - **(iii)** in clause (ii) as redesignated by inserting “, as appropriate,” after “require”; and
       - **(iv)** in clause (iii) as redesignated by inserting “when appropriate,” before “make a reassessment”;
     - **(B)** by striking subparagraph (B);
-    - **(C)** in subparagraph (D) by striking the semicolon and inserting “; and”;
-    - **(D)** in subparagraph (E) by striking “; and” and inserting a period;
-    - **(E)** in subparagraph (F) by inserting “, when appropriate,” before “approve”; and
-    - **(F)** by redesignating subparagraphs (C), (D), (E), and (F) as subparagraphs (B), (C), (D), and (E), respectively.
+    - **(C)** in subparagraph (F) by inserting “, when appropriate,” before “approve”; and
+    - **(D)** by redesignating subparagraphs (C), (D), (E), and (F) as subparagraphs (B), (C), (D), and (E), respectively.
 - **(d)** *Technical corrections*
   - **(1)** *Section 44737* Chapter 447 of title 49, United States Code, is further amended by redesignating the second section 44737 (as added by section 581 of the FAA Reauthorization Act of 2018) as section 44740.
   - **(2)** *Analysis* The analysis for chapter 447 of title 49, United States Code, is amended—
     - **(A)** by striking the item relating to the second section 44737 (as added by section 581 of the FAA Reauthorization Act of 2018); and
     - **(B)** by inserting after the item relating to section 44739 the following new items:
-  - **(3)** *Special rule for certain aircraft operations* Section 44740 of title 49, United States Code (as redesignated by subsection (a)), is amended—
+  - **(3)** *Special rule for certain aircraft operations* Section 44740 of title 49, United States Code (as redesignated by paragraph (1)), is amended—
     - **(A)** in the heading by striking the period at the end;
     - **(B)** in subsection (a)(1) by striking “chapter” and inserting “section”;
     - **(C)** in subsection (b)(1) by striking “(1)” the second time it appears; and

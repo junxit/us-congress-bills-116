@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8408
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-44 amendatory instructions. 0 executed, 44 stated and not applied.
+42 amendatory instructions. 0 executed, 42 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -51,8 +51,6 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | in clause (ii) as redesignated by inserting “, as appropriate,” after “require”; and | the bill names no machine-readable US Code section |
 | — | redesignate | in clause (iii) as redesignated by inserting “when appropriate,” before “make a reassessment”; | the bill names no machine-readable US Code section |
 | — | strike | by striking subparagraph (B); | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (D) by striking the semicolon and inserting “; and”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (E) by striking “; and” and inserting a period; | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (F) by inserting “, when appropriate,” before “approve”; and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraphs (C), (D), (E), and (F) as subparagraphs (B), (C), (D), and (E), respectively. | the bill names no machine-readable US Code section |
 | — | redesignate | Chapter 447 of title 49, United States Code, is further amended by redesignating the second section 44737 (as added by section 581 of the FAA Reauthorization Act of 2018) as section 44740. | the bill names no machine-readable US Code section |
