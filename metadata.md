@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6237
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6237
@@ -52,3 +52,14 @@ PRC for Native Veterans Act
 - 2020-11-16 — Reported by the Committee on Natural Resources. H. Rept. 116-569, Part I.
 - 2020-11-16 — Reported by the Committee on Natural Resources. H. Rept. 116-569, Part I.
 - 2020-11-17 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2020-12-18 — Passed Senate without amendment by Voice Vote.
+- 2020-12-18 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2020-12-18 — Senate Committee on Indian Affairs discharged by Unanimous Consent.
+- 2020-12-18 — Senate Committee on Indian Affairs discharged by Unanimous Consent. (consideration: CR S7827)
+- 2020-12-20 — Message on Senate action sent to the House.
+- 2020-12-24 — Presented to President.
+- 2020-12-24 — Presented to President.
+- 2021-01-05 — Became Public Law No: 116-311.
+- 2021-01-05 — Became Public Law No: 116-311.
+- 2021-01-05 — Signed by President.
+- 2021-01-05 — Signed by President.
