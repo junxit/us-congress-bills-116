@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2610
 
-> To establish a Senior Scams Prevention Advisory Council to collect and disseminate model educational materials useful in identifying and preventing scams that affect seniors.
+> To establish an office within the Federal Trade Commission and an outside advisory group to prevent fraud targeting seniors and to direct the Commission to study and submit a report to Congress on scams targeting seniors and Indian tribes, and for other purposes.
 
 ## § 1. Short title; table of contents
 
