@@ -33,7 +33,7 @@ Section 701(b) of the Office of National Drug Control Policy Reauthorization Act
 
 - **(1)** in paragraph (4), by striking the period at the end and inserting “; and”; and
 - **(2)** by adding at the end the following:
-  > - **(5)** promote a positive youth sport experience by using a portion of the funding of the United States Anti-Doping Agency to provide educational materials on sportsmanship, character building, and healthy performance for the athletes, parents, and coaches who participate in youth sports.
+  > - **(5)** promote a positive youth sport experience by using a portion of the funding of the United States Anti-Doping Agency to provide educationalby providing educational materials on sportsmanship, character building, and healthy performance for the athletes, parents, and coaches who participate in youth sports.
 
 ## § 4. Authorization of appropriations
 
@@ -56,3 +56,12 @@ Section 703 of the Office of National Drug Control Policy Reauthorization Act of
 ## § 5. Information sharing
 
 Except as otherwise prohibited by law and except in cases in which the integrity of a criminal investigation would be affected, pursuant to the obligation of the United States under Article 7 of the United Nations Educational, Scientific, and Cultural Organization International Convention Against Doping in Sport done at Paris October 19, 2005, and ratified by the United States in 2008, the Attorney General, the Secretary of Homeland Security, and the Commissioner of Food and Drugs shall provide to the United States Anti-Doping Agency any relevant information relating to the prevention of the use of performance-enhancing drugs or the prohibition of performance-enhancing methods.
+
+## § 6. Report on capacity to implement equine anti-doping and medication control program
+
+Not later than 180 days after the date of the enactment of this Act, the United States Anti-Doping Agency shall submit to Congress a report that—
+
+- **(1)** assesses the capacity of the United States Anti-Doping Agency to implement an equine anti-doping and medication control program; and
+- **(2)** includes—
+  - **(A)** recommendations with respect to best practices for design, resources, and any other consideration necessary for the successful implementation of such a program in the United States; and
+  - **(B)** recommendations developed in consultation with the National Veterinary Services Laboratories with respect to the appropriate technical standards and best practices for such a program.
