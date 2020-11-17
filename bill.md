@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “NIMHD Research Endowment Revitalization Act of 2019”.
+This Act may be cited as the “NIMHD Research Endowment Revitalization Act of 2020”.
 
 ## § 2. Research endowments at both current and former centers of excellence
 
