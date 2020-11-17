@@ -1,7 +1,7 @@
 ---
 measure: S. 1869
 congress: 116
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 1869
@@ -53,3 +53,13 @@ Secure Federal LEASEs Act
 - 2020-11-17 — Ms. Norton moved to suspend the rules and pass the bill, as amended.
 - 2020-11-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5854-5855)
 - 2020-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5854-5855)
+- 2020-11-18 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2020-12-08 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 1869 by Unanimous Consent.
+- 2020-12-08 — Senate agreed to the House amendment to S. 1869 by Unanimous Consent. (consideration: CR S7285)
+- 2020-12-09 — Message on Senate action sent to the House.
+- 2020-12-21 — Presented to President.
+- 2020-12-21 — Presented to President.
+- 2020-12-31 — Became Public Law No: 116-276.
+- 2020-12-31 — Became Public Law No: 116-276.
+- 2020-12-31 — Signed by President.
+- 2020-12-31 — Signed by President.

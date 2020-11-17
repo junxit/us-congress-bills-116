@@ -1,15 +1,13 @@
 ---
 legis-num: S. 1869
-congress: 116th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Sixteenth Congress of the United States of America
+session: 2d Sess.
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 1869
 
-That the bill from the Senate (S. 1869) entitled “An Act to require the disclosure of ownership of high-security space leased to accommodate a Federal agency, and for other purposes.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To require the disclosure of ownership of high-security space leased to accommodate a Federal agency, and for other purposes.
 
 ## § 1. Short title; findings
 
@@ -88,7 +86,7 @@ In this Act:
 - **(c)** *Report and implementation* The General Services Administration shall—
   - **(1)** not later than 1 year after the date of enactment of this Act, submit the plan described in subsection (a) to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives;
   - **(2)** not later than 2 years after the date of enactment of this Act, implement the plan described in subsection (a); and
-  - **(3)** not later than 1 year after the implementation of the plan described in subsection (a), and each year thereafter for years, submit a report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the status of the implementation of the plan, including the number of disclosures made under subsection (b)(2).
+  - **(3)** not later than 1 year after the implementation of the plan described in subsection (a), and each year thereafter for 9 years, submit a report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the status of the implementation of the plan, including the number of disclosures made under subsection (b)(2).
 
 ## § 5. Other security agreements for leased space
 
