@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2894
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -16,3 +16,7 @@ This Act may be cited as the “Federal Maritime Commission National Shipper Adv
 ## § 2. Advisory Committee
 
 Part B of subtitle IV of title 46, United States Code, is amended by adding at the end the following:
+
+## § 3. No funding Authorized
+
+No additional funds are authorized to carry out this Act or the amendment made by this Act.
