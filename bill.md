@@ -2,7 +2,7 @@
 legis-num: H.R. 6237
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 6237
@@ -15,4 +15,4 @@ This Act may be cited as the “Proper and Reimbursed Care for Native Veterans A
 
 ## § 2. Clarification of requirement of Department of Veterans Affairs and Department of Defense to reimburse Indian Health Service for certain health care services
 
-Section 405(c) of the Indian Health Care Improvement Act (25 U.S.C. 1645) is amended by inserting before the period at the end the following: “, regardless of whether such services are provided directly by the Service, an Indian tribe, or tribal organization, through contract health services, or through a contract for travel described in section 213(b)”.
+Section 405(c) of the Indian Health Care Improvement Act (25 U.S.C. 1645) is amended by inserting before the period at the end the following: “, regardless of whether such services are provided directly by the Service, an Indian tribe, or tribal organization, through purchased/referred care, or through a contract for travel described in section 213(b)”.

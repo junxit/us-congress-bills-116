@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6237
 congress: 116
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6237
@@ -23,10 +23,11 @@ PRC for Native Veterans Act
 - Rep. Cole, Tom [R-OK-4] (C001053)
 - Rep. Horn, Kendra S. [D-OK-5] (H001083)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ PRC for Native Veterans Act
 - 2020-11-16 — Placed on the Union Calendar, Calendar No. 467.
 - 2020-11-16 — Reported by the Committee on Natural Resources. H. Rept. 116-569, Part I.
 - 2020-11-16 — Reported by the Committee on Natural Resources. H. Rept. 116-569, Part I.
+- 2020-11-17 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
