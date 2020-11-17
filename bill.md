@@ -2,19 +2,21 @@
 legis-num: S. 1869
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 1869
 
-> To require the disclosure of ownership of high-security space leased to accommodate a Federal agency, and for other purposes.
+That the bill from the Senate (S. 1869) entitled “An Act to require the disclosure of ownership of high-security space leased to accommodate a Federal agency, and for other purposes.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title; findings
 
 - **(a)** *Short title* This Act may be cited as the “Secure Federal Leases from Espionage And Suspicious Entanglements Act” or the “Secure Federal LEASEs Act”.
 - **(b)** *Findings* Congress finds that—
   - **(1)** the Government Accountability Office has reported that the Federal Government often leases high-security space from private sector landlords;
-  - **(2)** the General Services Administration collects highest-level and immediate ownership information through the System for Award Management, but it is not currently required to collect beneficial ownership information and lacks an adequate system for doing so;
+  - **(2)** the General Services Administration collects highest- level and immediate ownership information through the System for Award Management, but it is not currently required to collect beneficial ownership information and lacks an adequate system for doing so;
   - **(3)** the General Services Administration and Federal agencies with leasing authority may not know if foreign owners have a stake in the buildings leased by the agencies, either through foreign-incorporated legal entities or through ownership in United States-incorporated legal entities, even when the leased space is used for classified operations or to store sensitive data; and
   - **(4)** according to a report of the Government Accountability Office, dated January 2017, that examined the risks of foreign ownership of Government-leased real estate, “leasing space in foreign-owned buildings could present security risks such as espionage and unauthorized cyber and physical access”.
 
@@ -56,7 +58,7 @@ In this Act:
 - **(12)** *Immediate owner* The term immediate owner means an entity, other than the offeror of a lease, that has direct control of the offeror, including ownership or interlocking management, identity of interests among family members, shared facilities and equipment, and the common use of employees.
 - **(13)** *Intelligence community* The term intelligence community has the meaning given the term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).
 - **(14)** *Substantial economic benefits* The term substantial economic benefits means, with respect to a natural person described in paragraph (1)(A)(ii), having an entitlement to the funds or assets of a covered entity that, as a practical matter, enables the person, directly or indirectly, to control, manage, or direct the covered entity.
-- **(15)** *United States person* The term United States person means an individual who—
+- **(15)** *United states person* The term United States person means an individual who—
   - **(A)** is a citizen of the United States; or
   - **(B)** is an alien lawfully admitted for permanent residence in the United States.
 - **(16)** *Widely held* The term widely held means a fund that has not less than 100 natural persons as direct or indirect investors.
@@ -73,7 +75,7 @@ In this Act:
 
 ## § 4. Immediate, highest-level, and beneficial owners
 
-- **(a)** *Plan* The General Services Administration shall develop a Government-wide plan for identifying all immediate, highest-level, or beneficial owners of high-security leased spaces before entering into a lease agreement with a covered entity for the accommodation of a Federal tenant in a high-security leased space.
+- **(a)** *Plan* The General Services Administration, in coordination with the Office of Management and Budget, shall develop a Government-wide plan for agencies (as such term is defined in section 551 of title 5, United States Code) for identifying all immediate, highest-level, or beneficial owners of high-security leased spaces before entering into a lease agreement with a covered entity for the accommodation of a Federal tenant in a high-security leased space.
 - **(b)** *Requirements*
   - **(1)** *Contents* The plan described in subsection (a) shall include a process for collecting and utilizing the following information on each immediate, highest-level, or beneficial owner of a high-security leased space:
     - **(A)** Name.
@@ -84,9 +86,9 @@ In this Act:
     - **(B)** require that, if the Federal lessee is assigning the building or other improvement that will be used for high-security space to a Federal tenant, the Federal tenant shall be notified of the disclosure described in subparagraph (A); and
     - **(C)** exclude collecting ownership information on widely held pooled-investment vehicles, mutual funds, trusts, or other pooled-investment vehicles.
 - **(c)** *Report and implementation* The General Services Administration shall—
-  - **(1)** not later than 1 year after the date of enactment of this Act, submit the plan described in subsection (a) to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform of the House of Representatives;
+  - **(1)** not later than 1 year after the date of enactment of this Act, submit the plan described in subsection (a) to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives;
   - **(2)** not later than 2 years after the date of enactment of this Act, implement the plan described in subsection (a); and
-  - **(3)** not later than 1 year after the implementation of the plan described in subsection (a), and each year thereafter for 9 years, submit a report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform of the House of Representatives on the status of the implementation of the plan, including the number of disclosures made under subsection (b)(2).
+  - **(3)** not later than 1 year after the implementation of the plan described in subsection (a), and each year thereafter for years, submit a report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the status of the implementation of the plan, including the number of disclosures made under subsection (b)(2).
 
 ## § 5. Other security agreements for leased space
 
@@ -98,6 +100,10 @@ A lease agreement between a Federal lessee and a covered entity for the accommod
 - **(2)** access to the high-security leased space or any property or information located within that space will only be granted by the Federal tenant if the Federal tenant determines that the access is clearly consistent with the mission and responsibilities of the Federal tenant; and
 - **(3)** the Federal lessee shall have written procedures in place, signed by the Federal lessee and the covered entity, governing access to the high-security leased space in case of emergencies that may damage the leased property.
 
-## § 6. Applicability
+## § 6. Agency notifications
 
-Except where otherwise provided, this Act shall apply with respect to any lease or novation agreement entered into on or after the date of the enactment of this Act.
+Not later than 60 days after the date of enactment of this Act, the Administrator of General Services, in consultation with the Office of Management and Budget, shall provide notification to relevant Executive branch agencies with independent leasing authorities of the requirements of this Act.
+
+## § 7. Applicability
+
+Except where otherwise provided, this Act shall apply with respect to any lease or novation agreement entered into on or after the date that is 6 months after the date of enactment of this Act.

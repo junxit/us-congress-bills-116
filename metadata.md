@@ -1,7 +1,7 @@
 ---
 measure: S. 1869
 congress: 116
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 1869
@@ -46,3 +46,10 @@ Secure Federal LEASEs Act
 - 2020-03-04 — Message on Senate action sent to the House.
 - 2020-03-04 — Received in the House.
 - 2020-03-04 — Referred to the House Committee on Transportation and Infrastructure.
+- 2020-03-05 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- 2020-11-17 — Considered under suspension of the rules. (consideration: CR H5854-5856)
+- 2020-11-17 — DEBATE - The House proceeded with forty minutes of debate on S. 1869.
+- 2020-11-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-11-17 — Ms. Norton moved to suspend the rules and pass the bill, as amended.
+- 2020-11-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5854-5855)
+- 2020-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5854-5855)
