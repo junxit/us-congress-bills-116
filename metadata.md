@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1964
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1964
@@ -26,9 +26,10 @@ Lumbee Tribe of North Carolina Recognition Act
 - Rep. McCollum, Betty [D-MN-4] (M001143)
 - Rep. Timmons, William R. IV [R-SC-4] (T000480)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Lumbee Tribe of North Carolina Recognition Act
 - 2020-11-16 — Mr. Huffman moved to suspend the rules and pass the bill, as amended.
 - 2020-11-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5735-5736)
 - 2020-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5735-5736)
+- 2020-11-17 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
