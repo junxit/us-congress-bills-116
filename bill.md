@@ -31,3 +31,7 @@ This Act may be cited as the “Fairness in Orphan Drug Exclusivity Act”.
   - **(1)** the date on which such drug is designated or becomes the subject of a designation request under such section;
   - **(2)** the date on which such drug is approved under section 505 of such Act (21 U.S.C. 355) or licensed under section 351 of the Public Health Service Act (42 U.S.C. 262) or becomes the subject of an application for such approval or licensure; and
   - **(3)** the date on which such drug is granted exclusive approval or licensure under section 527 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360cc) or becomes the subject of a request for such exclusive approval or licensure.
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
