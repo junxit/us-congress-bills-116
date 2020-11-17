@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3878
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3878
@@ -42,3 +42,9 @@ Block, Report, And Suspend Suspicious Shipments Act of 2020
 - 2020-11-16 — Placed on the Union Calendar, Calendar No. 481.
 - 2020-11-16 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-583, Part I.
 - 2020-11-16 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-583, Part I.
+- 2020-11-17 — Considered under suspension of the rules. (consideration: CR H5816-5818)
+- 2020-11-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3878.
+- 2020-11-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-11-17 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
+- 2020-11-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5816-5817)
+- 2020-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5816-5817)
