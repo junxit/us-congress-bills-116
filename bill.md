@@ -29,3 +29,7 @@ Section 1216(a) of the Disaster Recovery Reform Act of 2018 (42 U.S.C. 5174a(a))
 ## § 3. Report to Congress
 
 The Administrator of the Federal Emergency Management Agency shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report containing a description of the internal processes used to make decisions regarding the distribution of covered assistance under section 1216 of the Disaster Recovery and Reform Act of 2018 (42 U.S.C. 5174a) and any changes made to such processes.
+
+## § 4. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
