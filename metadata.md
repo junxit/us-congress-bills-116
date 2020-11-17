@@ -1,7 +1,7 @@
 ---
 measure: S. 4222
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4222
@@ -24,3 +24,7 @@ GAO Database Modernization Act
 
 - 2020-07-20 — Introduced in Senate
 - 2020-07-20 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2020-07-22 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2020-11-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment. With written report No. 116-298.
+- 2020-11-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment. With written report No. 116-298.
+- 2020-11-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 591.
