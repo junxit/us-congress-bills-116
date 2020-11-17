@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Ensuring Compliance Against Drug Diversion Act of 2019”.
+This Act may be cited as the “Ensuring Compliance Against Drug Diversion Act of 2020”.
 
 ## § 2. Modification, transfer, and termination of registration To manufacture, distribute, or dispense controlled substances
 
@@ -29,3 +29,7 @@ Subsection (a) of section 302 of the Controlled Substances Act (21 U.S.C. 822) i
 >     - **(i)** the registrant’s certificate of registration;
 >     - **(ii)** any unexecuted order forms in the registrant’s possession; and
 >     - **(iii)** any other documentation that the Attorney General may require.
+
+## § 3. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
