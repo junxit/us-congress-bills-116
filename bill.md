@@ -50,4 +50,4 @@ Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.) is
 > - **(e)** *Best practices* Not later than six years after the date of enactment of the Bipartisan Solution to Cyclical Violence Act of 2020, the Secretary shall—
 >   - **(1)** develop, and post on a public website of the Department of Health and Human Services, best practices for intentional violent trauma prevention, based on any findings reported to the Secretary under subsection (d)(1); and
 >   - **(2)** disseminate such best practices to stakeholders, as determined appropriate by the Secretary.
-> - **(f)** *Authorization of appropriations* To carry out this section, there is authorized to be appropriated $10,000,000 for the period of fiscal years 2020 through 2023.
+> - **(f)** *Authorization of appropriations* To carry out this section, there is authorized to be appropriated $10,000,000 for the period of fiscal years 2021 through 2024.
