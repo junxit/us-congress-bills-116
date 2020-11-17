@@ -13,64 +13,55 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Reliable Emergency Alert Distribution Improvement Act of 2020” or the “READI Act”.
 
-## § 2. Definitions
+## § 2. Reliable emergency alert distribution improvement
 
-In this Act—
+- **(a)** *Wireless Emergency Alerts System offerings*
+  - **(1)** *Amendment* Section 602(b)(2)(E) of the Warning, Alert, and Response Network Act (47 U.S.C. 1201(b)(2)(E)) is amended—
+    - **(A)** by striking the second and third sentences; and
+    - **(B)** by striking “other than an alert issued by the President.” and inserting the following:
+      > other than an alert issued by—
+      > - **(i)** the President; or
+      > - **(ii)** the Administrator of the Federal Emergency Management Agency.
 
-- **(1)** the term Administrator means the Administrator of the Federal Emergency Management Agency;
-- **(2)** the term Commission means the Federal Communications Commission;
-- **(3)** the term Emergency Alert System means the national public warning system, the rules for which are set forth in part 11 of title 47, Code of Federal Regulations (or any successor regulation); and
-- **(4)** the term Wireless Emergency Alert System means the wireless national public warning system established under the Warning, Alert, and Response Network Act (47 U.S.C. 1201 et seq.), the rules for which are set forth in part 10 of title 47, Code of Federal Regulations (or any successor regulation).
-
-## § 3. Wireless Emergency Alert System offerings
-
-- **(a)** *Amendment* Section 602(b)(2)(E) of the Warning, Alert, and Response Network Act (47 U.S.C. 1201(b)(2)(E)) is amended—
-  - **(1)** by striking the second and third sentences; and
-  - **(2)** by striking “other than an alert issued by the President.” and inserting the following:
-    > other than an alert issued by—
-    > - **(i)** the President; or
-    > - **(ii)** the Administrator of the Federal Emergency Management Agency.
-
-- **(b)** *Regulations* Not later than 180 days after the date of enactment of this Act, the Commission shall adopt regulations to implement the amendment made by subsection (a)(2).
-
-## § 4. State Emergency Alert System Plans and Emergency Communications Committees
-
-- **(a)** *Definitions* In this section—
-  - **(1)** the term SECC means a State Emergency Communications Committee;
-  - **(2)** the term State means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any possession of the United States; and
-  - **(3)** the term State EAS Plan means a State Emergency Alert System Plan as required in part 11 of title 47, Code of Federal Regulations.
-- **(b)** *State Emergency Communications Committee* Not later than 180 days after the date of enactment of this Act, the Commission shall adopt regulations that—
-  - **(1)** encourage the chief executive of each State—
-    - **(A)** to establish an SECC if the State does not have an SECC; or
-    - **(B)** if the State has an SECC, to review the composition and governance of the SECC;
-  - **(2)** provide that—
-    - **(A)** each SECC, not less frequently than annually, shall—
-      - **(i)** meet to review and update its State EAS Plan;
-      - **(ii)** certify to the Commission that the SECC has met as required under clause (i); and
-      - **(iii)** submit to the Commission an updated State EAS Plan; and
-    - **(B)** not later than 60 days after the date on which the Commission receives an updated State EAS Plan under subparagraph (A)(iii), the Commission shall—
-      - **(i)** approve or disapprove the updated State EAS Plan; and
-      - **(ii)** notify the chief executive of the State of the Commission's findings; and
-  - **(3)** establish a State EAS Plan content checklist for SECCs to use when reviewing and updating a State EAS Plan for submission to the Commission under paragraph (2)(A).
-- **(c)** *Consultation* The Commission shall consult with the Administrator regarding the adoption of regulations under subsection (b)(3).
-
-## § 5. False alert reporting
-
-Not later than 180 days after the date of enactment of this Act, the Commission, in consultation with the Administrator, shall complete a rulemaking proceeding to establish a system to receive from the Administrator or State, Tribal, or local governments reports of false alerts under the Emergency Alert System or the Wireless Emergency Alert System for the purpose of recording such false alerts and examining their causes.
-
-## § 6. Repeating Emergency Alert System messages for national security
-
-- **(a)** *In general* Not later than 180 days after the date of enactment of this Act, the Commission, in consultation with the Administrator, shall complete a rulemaking proceeding to modify the Emergency Alert System to provide for repeating Emergency Alert System messages while an alert remains pending that is issued by—
-  - **(1)** the President;
-  - **(2)** the Administrator; or
-  - **(3)** any other entity under specified cir­cum­stances as determined by the Commission, in consultation with the Administrator.
-- **(b)** *Scope of rulemaking* Subsection (a)—
-  - **(1)** shall apply to warnings of national security events, meaning emergencies of national significance, such as a missile threat, terror attack, or other act of war; and
-  - **(2)** shall not apply to more typical warnings, such as a weather alert, AMBER Alert, or disaster alert.
-
-## § 7. Internet and online streaming services emergency alert examination
-
-- **(a)** *Study* Not later than 180 days after the date of enactment of this Act, and after providing public notice and opportunity for comment, the Commission shall complete an inquiry to examine the feasibility of updating the Emergency Alert System to enable or improve alerts to consumers provided through the internet, including through streaming services.
-- **(b)** *Report* Not later than 90 days after completing the inquiry under subsection (a), the Commission shall submit a report on the findings and conclusions of the inquiry to—
-  - **(1)** the Committee on Commerce, Science, and Transportation of the Senate; and
-  - **(2)** the Committee on Energy and Commerce of the House of Representatives.
+  - **(2)** *Regulations* Not later than 180 days after the date of enactment of this Act, the Commission, in consultation with the Administrator, shall adopt regulations to implement the amendment made by paragraph (1)(B).
+- **(b)** *State Emergency Alert System Plans and Emergency Communications Committees*
+  - **(1)** *State Emergency Communications Committee* Not later than 180 days after the date of enactment of this Act, the Commission shall adopt regulations that—
+    - **(A)** encourage the chief executive of each State—
+      - **(i)** to establish an SECC if the State does not have an SECC; or
+      - **(ii)** if the State has an SECC, to review the composition and governance of the SECC;
+    - **(B)** provide that—
+      - **(i)** each SECC, not less frequently than annually, shall—
+        - **(I)** meet to review and update its State EAS Plan;
+        - **(II)** certify to the Commission that the SECC has met as required under subclause (I); and
+        - **(III)** submit to the Commission an updated State EAS Plan; and
+      - **(ii)** not later than 60 days after the date on which the Commission receives an updated State EAS Plan under clause (i)(III), the Commission shall—
+        - **(I)** approve or disapprove the updated State EAS Plan; and
+        - **(II)** notify the chief executive of the State of the Commission's approval or disapproval of such plan, and reason therefor; and
+    - **(C)** establish a State EAS Plan content checklist for SECCs to use when reviewing and updating a State EAS Plan for submission to the Commission under subparagraph (B)(i).
+  - **(2)** *Consultation* The Commission shall consult with the Administrator regarding the adoption of regulations under paragraph (1)(C).
+  - **(3)** *Definitions* In this subsection—
+    - **(A)** the term SECC means a State Emergency Communications Committee;
+    - **(B)** the term State means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any possession of the United States; and
+    - **(C)** the term State EAS Plan means a State Emergency Alert System Plan.
+- **(c)** *False alert reporting* Not later than 180 days after the date of enactment of this Act, the Commission, in consultation with the Administrator, shall complete a rulemaking proceeding to establish a system to receive from the Administrator or State, Tribal, or local governments reports of false alerts under the Emergency Alert System or the Wireless Emergency Alerts System for the purpose of recording such false alerts and examining the causes of such false alerts.
+- **(d)** *Repeating Emergency Alert System messages for national security*
+  - **(1)** *In general* Not later than 180 days after the date of enactment of this Act, the Commission, in consultation with the Administrator, shall complete a rulemaking proceeding to modify the Emergency Alert System to provide for repeating Emergency Alert System messages while an alert remains pending that is issued by—
+    - **(A)** the President;
+    - **(B)** the Administrator; or
+    - **(C)** any other entity determined appropriate under the circumstances by the Commission, in consultation with the Administrator.
+  - **(2)** *Scope of rulemaking* Paragraph (1) shall—
+    - **(A)** apply to warnings of national security events, meaning emergencies of national significance, such as a missile threat, terror attack, or other act of war or threat to public safety; and
+    - **(B)** not apply to more typical warnings, such as a weather alert, AMBER Alert, or disaster alert.
+  - **(3)** *Rule of construction* Nothing in this subsection shall be construed to impair, limit, or otherwise change—
+    - **(A)** the authority of the President granted by law to alert and warn the public; or
+    - **(B)** the role of the President as commander-in-chief with respect to the identification, dissemination, notification, or alerting of information of missile threats against the United States, or threats to public safety.
+- **(e)** *Internet and online streaming services emergency alert examination*
+  - **(1)** *Study* Not later than 180 days after the date of enactment of this Act, and after providing public notice and opportunity for comment, the Commission shall complete an inquiry to examine the feasibility of updating the Emergency Alert System to enable or improve alerts to consumers provided through the internet, including through streaming services.
+  - **(2)** *Report* Not later than 90 days after completing the inquiry under paragraph (1), the Commission shall submit a report on the findings and conclusions of the inquiry to—
+    - **(A)** the Committee on Commerce, Science, and Transportation of the Senate; and
+    - **(B)** the Committee on Energy and Commerce of the House of Representatives.
+- **(f)** *Definitions* In this section—
+  - **(1)** the term Administrator means the Administrator of the Federal Emergency Management Agency;
+  - **(2)** the term Commission means the Federal Communications Commission;
+  - **(3)** the term Emergency Alert System means the national public warning system, the rules for which are set forth in part 11 of title 47, Code of Federal Regulations (or any successor regulation); and
+  - **(4)** the term Wireless Emergency Alerts System means the wireless national public warning system established under the Warning, Alert, and Response Network Act (47 U.S.C. 1201 et seq.), the rules for which are set forth in part 10 of title 47, Code of Federal Regulations (or any successor regulation).
