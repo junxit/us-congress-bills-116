@@ -44,6 +44,7 @@ In this Act:
     - **(L)** Medical records that list the name and address of the individual.
     - **(M)** A charitable donation receipt that list the name and address of the individual.
     - **(N)** Any other documentation, certification, identification, or proof of occupancy or ownership not included on this list that can reasonably link the individual requesting assistance to the applicable property.
+- **(e)** *Applicability* This section shall apply to funds appropriated on or after the date of enactment of this Act.
 
 ## § 4. Declarative statement
 
@@ -69,3 +70,7 @@ Section 408(c) of the Robert T. Stafford Disaster Relief and Emergency Assistanc
 - **(a)** *Analysis* The Administrator, in coordination with the Secretary of Housing and Urban Development, shall conduct an analysis comparing the costs, benefits, and effectiveness of assistance provided under the Disaster Housing Assistance Program, including any case management services provided, with other temporary housing options provided by the Administrator under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
 - **(b)** *Provision of data* The Secretary shall ensure that public housing authorities engaged in carrying out the Disaster Housing Assistance Program relay data concerning the extent and effectiveness of case management services in transitioning individuals and households toward self-sufficiency under the Program compared to other alternative disaster assistance programs available under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
 - **(c)** *Report* Not later than 180 days after the date of enactment of this Act, the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report that contains the analysis required under subsection (a) and an analysis of the oversight mechanisms, program integrity checks, and financial management measures utilized in carrying out the Program compared to alternative disaster housing assistance programs under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
+
+## § 7. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
