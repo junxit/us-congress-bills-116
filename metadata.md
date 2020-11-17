@@ -1,7 +1,7 @@
 ---
 measure: S. 3248
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3248
@@ -28,3 +28,7 @@ United States Anti-Doping Agency Reauthorization Act of 2020
 
 - 2020-02-03 — Introduced in Senate
 - 2020-02-03 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2020-03-11 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment favorably.
+- 2020-11-17 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with amendments. With written report No. 116-301.
+- 2020-11-17 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with amendments. With written report No. 116-301.
+- 2020-11-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 594.
