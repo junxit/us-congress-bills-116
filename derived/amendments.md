@@ -1,7 +1,7 @@
 ---
 measure: S. 2216
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 1720G(a) of title 38, United States Code, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1720G(a) of title 38, United States Code, is amended by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |

@@ -7,27 +7,38 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. 2216
 
-> To require the Secretary of Veterans Affairs to formally recognize caregivers of veterans, notify veterans and caregivers of clinical determinations relating to eligibility for caregiver programs, and temporarily extend benefits for veterans who are determined ineligible for the family caregiver program, and for other purposes.
+> To require the Secretary of Veterans Affairs to formally recognize caregivers of veterans, notify veterans and caregivers of clinical determinations relating to eligibility for the family caregiver program, and temporarily extend benefits for veterans who are determined ineligible for the family caregiver program, and for other purposes.
 
 ## § 1. Short title
 
 This Act may be cited as the “Transparency and Effective Accountability Measures for Veteran Caregivers Act” or the “TEAM Veteran Caregivers Act”.
 
-## § 2. Modification of administration of caregiver program of Department of Veterans Affairs
+## § 2. Modification of administration of caregiver programs of Department of Veterans Affairs
 
-- **(a)** *Official designation of caregivers*
-  - **(1)** *In general* The Secretary of Veterans Affairs shall formally recognize all caregivers of veterans by identifying any caregiver of a veteran in the health record of the veteran.
-  - **(2)** *Inclusion* Caregivers recognized under paragraph (1) shall include—
-    - **(A)** family caregivers participating in the program of comprehensive assistance for family caregivers under subsection (a) of section 1720G of title 38, United States Code; and
-    - **(B)** caregivers participating in the program of support services for caregivers under subsection (b) of such section.
-- **(b)** *Notification letters regarding clinical determinations*
-  - **(1)** *In general* The Secretary, using a standardized letter, shall notify veterans and caregivers of veterans regarding any clinical determinations made relating to claims under, or eligibility for, a caregiver program under subsection (a) or (b) of section 1720G of title 38, United States Code.
-  - **(2)** *Elements* Notifications under paragraph (1) shall include the elements required for notices of decisions under section 5104(b) of title 38, United States Code, to the extent that those elements apply to claims or eligibility determinations under paragraph (1).
-- **(c)** *Temporary extension of benefits for family caregiver program*
-  - **(1)** *In general* Upon determining that a veteran who was receiving services under the program of comprehensive assistance for family caregivers under section 1720G(a) of title 38, United States Code, is no longer clinically eligible for purposes of such program, the Secretary shall extend benefits under such program, including stipends under paragraph (3)(A)(ii)(V) of such section, for not less than 90 days after the date of notification under subsection (b) that the veteran is no longer clinically eligible.
-  - **(2)** *Exclusion* Paragraph (1) shall not apply to the termination of caregiver benefits—
-    - **(A)** for cause, including—
-      - **(i)** noncompliance with requirements of the program; or
-      - **(ii)** fraud;
-    - **(B)** because the veteran died; or
-    - **(C)** upon request of the caregiver or the veteran.
+- **(a)** *Formal recognition of caregivers*
+  - **(1)** *Report*
+    - **(A)** *In general* Not later than 60 days after the date of the enactment of this Act, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report regarding the feasibility and advisability of formally recognizing all caregivers of veterans by identifying any caregiver of a veteran in the electronic health record of the veteran.
+    - **(B)** *Caregivers recognized* The recognition of caregivers described in subparagraph (A) shall include recognition of —
+      - **(i)** any family caregiver who is approved as a provider of personal care services for an eligible veteran under the program of comprehensive assistance for family caregivers under subsection (a) of section 1720G of title 38, United States Code; and
+      - **(ii)** any caregiver of a covered veteran participating in the program of general caregiver support services under subsection (b) of such section.
+    - **(C)** *Timeline* If the Secretary determines that formally recognizing all caregivers of veterans as described in subparagraph (A) is feasible and advisable, the report required by such subparagraph shall include a timeline for implementing such recognition.
+  - **(2)** *Implementation* If the Secretary determines that formally recognizing all caregivers of veterans as described in paragraph (1)(A) is feasible and advisable, the Secretary shall implement such recognition in accordance with the timeline included in the report required by such paragraph.
+- **(b)** *Notifications, extension of benefits, and discharge from family caregiver program* Section 1720G(a) of title 38, United States Code, is amended by adding at the end the following new paragraphs:
+  > - **(12)**
+  >   - **(A)** The Secretary shall notify the individuals described in subparagraph (C) regarding decisions affecting the furnishing of assistance under this subsection using standardized letters, as the Secretary determines such notifications and letters to be appropriate.
+  >   - **(B)** A notification provided under subparagraph (A) shall include the elements required for notices of decisions under section 5104(b) of this title to the extent that those elements apply to such notification, unless, not later than 60 days after the date of the enactment of the Transparency and Effective Accountability Measures for Veteran Caregivers Act, the Secretary determines that it would not be feasible to include such elements in such notifications and submits to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report setting forth the reasons for such determination.
+  >   - **(C)** The individuals described in this subparagraph shall include—
+  >     - **(i)** an individual who submits an application for the program established under paragraph (1);
+  >     - **(ii)** an individual determined by the Secretary to be an eligible veteran pursuant to such an application; and
+  >     - **(iii)** a family caregiver of an eligible veteran who is—
+  >       - **(I)** approved as a provider of personal care services under paragraph (6)(B); or
+  >       - **(II)** designated as a primary provider of personal care services under paragraph (7)(A).
+  > - **(13)**
+  >   - **(A)** If the Secretary determines that a veteran receiving services under the program established under paragraph (1) is no longer eligible for such program solely because of improvement in the condition of the veteran—
+  >     - **(i)** the effective date of discharge of the veteran from the program shall be not earlier than the date that is 60 days after the date on which the Secretary provides notice of such lack of eligibility under paragraph (12)(A) to the relevant individuals described in paragraph (12)(C); and
+  >     - **(ii)** the Secretary shall extend benefits under the program established under paragraph (1) for a family caregiver of the veteran described in paragraph (12)(C)(iii), including stipends under paragraph (3)(A)(ii)(V), if such an extension is determined appropriate by the Secretary, for a 90-day period following discharge of the veteran from the program.
+  >   - **(B)** This paragraph shall not be construed to limit the authority of the Secretary—
+  >     - **(i)** to prescribe regulations addressing other bases for—
+  >       - **(I)** the discharge of a veteran from the program established under paragraph (1); or
+  >       - **(II)** the revocation of the designation of a family caregiver of a veteran as a primary provider of personal care services under paragraph (7)(A); or
+  >     - **(ii)** to provide advance notice and extended benefits under the program, as appropriate, if another basis for discharge of a veteran described in subclause (I) of clause (i) or revocation of a designation described in subclause (II) of such clause applies.

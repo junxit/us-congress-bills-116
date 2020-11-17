@@ -1,7 +1,7 @@
 ---
 measure: S. 2216
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2216
@@ -49,3 +49,12 @@ TEAM Veteran Caregivers Act
 - 2020-09-15 — Committee on Veterans' Affairs. Reported by Senator Moran with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2020-09-15 — Committee on Veterans' Affairs. Reported by Senator Moran with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2020-09-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 540.
+- 2020-11-17 — Amendment SA 2688 agreed to in Senate by Unanimous Consent.
+- 2020-11-17 — Amendment SA 2688 proposed by Senator Portman for Senator Peters. (consideration: CR S7044-7045; text: CR S7044-7045) In the nature of a substitute.
+- 2020-11-17 — Measure laid before Senate by unanimous consent. (consideration: CR S7044-7045)
+- 2020-11-17 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (text of amendment in the nature of a substitute: CR S7044-7045)
+- 2020-11-17 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(text of amendment in the nature of a substitute: CR S7044-7045)
+- 2020-11-17 — Senate amendment agreed to: Amendment SA 2688 agreed to in Senate by Unanimous Consent.
+- 2020-11-17 — Senate amendment proposed (on the floor): Amendment SA 2688 proposed by Senator Portman for Senator Peters.(consideration: CR S7044-7045; text: CR S7044-7045)
+- 2020-11-17 — Senate amendment submitted
+- 2020-11-17 — The committee substitute withdrawn by Unanimous Consent. (CR S7044)
