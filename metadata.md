@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4358
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4358
@@ -39,3 +39,9 @@ Preliminary Damage Assessment Improvement Act of 2020
 - 2020-11-16 — Placed on the Union Calendar, Calendar No. 473.
 - 2020-11-16 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 116-575.
 - 2020-11-16 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 116-575.
+- 2020-11-17 — Considered under suspension of the rules. (consideration: CR H5858-5859)
+- 2020-11-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4358.
+- 2020-11-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-11-17 — Ms. Norton moved to suspend the rules and pass the bill, as amended.
+- 2020-11-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5858)
+- 2020-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5858)
