@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8326
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 8326
@@ -41,3 +41,9 @@ Child Care is Economic Development Act of 2020
 - 2020-11-16 — Placed on the Union Calendar, Calendar No. 476.
 - 2020-11-16 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-578, Part I.
 - 2020-11-16 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-578, Part I.
+- 2020-11-17 — Considered under suspension of the rules. (consideration: CR H5851-5853)
+- 2020-11-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 8326.
+- 2020-11-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-11-17 — Ms. Norton moved to suspend the rules and pass the bill.
+- 2020-11-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5851)
+- 2020-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5851)
