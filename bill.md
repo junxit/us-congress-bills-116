@@ -36,3 +36,7 @@ This Act may be cited as the “National Children’s Museum Act”.
   > - **(d)** *Report* The cooperative agreement under subsection (a) shall require the National Children’s Museum to submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate an annual report on the operations and finances of the Museum.
 
 - **(c)** *Clerical amendment* The analysis for chapter 67 of title 40, United States Code, is amended by adding at the end the following:
+
+## § 3. Determination of Budgetary Effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
