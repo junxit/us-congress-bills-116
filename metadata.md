@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2914
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2914
@@ -26,9 +26,10 @@ Housing Survivors of Major Disasters Act of 2020
 - Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
 - Rep. McNerney, Jerry [D-CA-9] (M001166)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Housing Survivors of Major Disasters Act of 2020
 - 2020-11-17 — Ms. Norton moved to suspend the rules and pass the bill, as amended.
 - 2020-11-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5859-5860)
 - 2020-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5859-5860)
+- 2020-11-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
