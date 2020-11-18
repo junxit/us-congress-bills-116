@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2117
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2117
@@ -112,9 +112,10 @@ Food Allergy Safety, Treatment, Education, and Research Act of 2020
 - Rep. Vargas, Juan [D-CA-51] (V000130)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -135,3 +136,4 @@ Food Allergy Safety, Treatment, Education, and Research Act of 2020
 - 2020-11-17 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
 - 2020-11-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5813)
 - 2020-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5813)
+- 2020-11-18 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
