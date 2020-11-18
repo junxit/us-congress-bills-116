@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4812
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4812
@@ -20,10 +20,11 @@ Ensuring Compliance Against Drug Diversion Act of 2020
 
 - Rep. Walden, Greg [R-OR-2] (W000791)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Energy and Commerce Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Ensuring Compliance Against Drug Diversion Act of 2020
 - 2020-11-17 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
 - 2020-11-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5819)
 - 2020-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5819)
+- 2020-11-18 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
