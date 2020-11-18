@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4611
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4611
@@ -23,10 +23,11 @@ Ocean Pollution Reduction Act II
 - Rep. Vargas, Juan [D-CA-51] (V000130)
 - Rep. Levin, Mike [D-CA-49] (L000593)
 
-## Committees (2)
+## Committees (3)
 
 - House — Natural Resources Committee
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ Ocean Pollution Reduction Act II
 - 2020-11-17 — Ms. Norton moved to suspend the rules and pass the bill, as amended.
 - 2020-11-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 4 (Roll no. 221). (text: CR H5849-5850)
 - 2020-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 4 (Roll no. 221).(text: CR H5849-5850)
+- 2020-11-18 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
