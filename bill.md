@@ -2,7 +2,7 @@
 legis-num: H. RES. 809
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 809
@@ -15,11 +15,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the United States and the Republic of Korea work closely together to promote international peace and security, economic prosperity, human rights, and the rule of law;
 - Whereas the relationship between the United States and the Republic of Korea goes as far back as Korea’s Chosun Dynasty, when the United States and Korea established diplomatic relations under the 1882 Treaty of Peace, Amity, Commerce, and Navigation;
 - Whereas, on August 15, 1948, the Provisional Government of the Republic of Korea, established on April 11, 1919, was dissolved and transitioned to the First Republic of Korea, the first independent government;
+- Whereas regional peace and stability in the Asia-Pacific promotes shared United States-Republic of Korea interests of prosperity and economic well-being;
 - Whereas United States military personnel have maintained a continuous presence on the Korean Peninsula since the Mutual Defense Treaty Between the United States and the Republic of Korea (5 UST 2368) was signed at Washington on October 1, 1953;
 - Whereas, on May 7, 2013, the United States and the Republic of Korea signed a Joint Declaration in Commemoration of the 60th Anniversary of the Alliance Between the Republic of Korea and the United States;
 - Whereas 63 years ago the Treaty of Friendship, Commerce, and Navigation between the United States and the Republic of Korea, with Protocol (8 UST 2217) was signed at Seoul on November 28, 1956;
+- Whereas the alliance between the Republic of Korea and the United States, our shared national security interests, the 9,000 South Korean civilians working to support the joint mission of United States Forces Korea and the 28,500 United States military service members currently stationed in South Korea, are best served by the conclusion of mutually agreeable, multi-year Special Measures Agreements;
 - Whereas the economic relationship between the United States and the Republic of Korea is deep and mutually beneficial to both countries;
-- Whereas the Republic of Korea is the United States seventh-largest trading partner;
+- Whereas the Republic of Korea is the United States sixth-largest trading partner;
 - Whereas the Republic of Korea is one of the fastest growing sources of foreign direct investment in the United States;
 - Whereas the United States is the second largest source of foreign direct investment in the Republic of Korea;
 - Whereas, on January 13, 1903, 102 pioneer Korean immigrants arrived in the United States, initiating the first chapter of Korean immigration to America;
@@ -31,5 +33,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 That the House of Representatives—
 
 - **(1)** recognizes the vital role the alliance of the United States and the Republic of Korea plays in promoting peace and security in the Indo-Pacific region;
-- **(2)** calls for the strengthening and broadening of diplomatic, economic, and security ties between the United States and the Republic of Korea; and
-- **(3)** reaffirms the United States alliance with the Republic of Korea is central to advancing United States interests and engagement in the region, based on shared commitments to democracy, free-market economics, human rights, and the rule of law.
+- **(2)** calls for the strengthening and broadening of diplomatic, economic, and security ties between the United States and the Republic of Korea, including through the conclusion of mutually agreeable multi-year Special Measures Agreements; and
+- **(3)** reaffirms the United States alliance with the Republic of Korea is central to advancing United States interests, engagement, and influence in the region, based on shared commitments to democracy, free-market economics, human rights, and the rule of law.
