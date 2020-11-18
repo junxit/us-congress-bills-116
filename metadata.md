@@ -1,7 +1,7 @@
 ---
 measure: S. 3461
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3461
@@ -32,3 +32,5 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2020-07-23 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
 - 2020-07-23 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.
 - 2020-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 494.
+- 2020-11-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7081; text: CR S7081)
+- 2020-11-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7081; text: CR S7081)
