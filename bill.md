@@ -21,7 +21,7 @@ This Act may be cited as the “Fighting Emerging Narcotics Through Additional N
   - **(3)** Carrying out the program to provide assistance to build the capacity of foreign law enforcement agencies with respect to covered synthetic drugs, as required by section 3.
   - **(4)** Carrying out exchange programs for governmental and nongovernmental personnel in the United States and in foreign countries to provide educational and professional development on demand reduction matters relating to the illicit use of narcotics and other drugs, as required by section 4.
 - **(b)** *Report*
-  - **(1)** *In general* Not later than one year after the date of the enactment of this Act, the Secretary of State shall submit to the appropriate congressional committees a report on the implementation of this section.
+  - **(1)** *In general* Not later than 1 year after the date of the enactment of this Act, the Secretary of State shall submit to the appropriate congressional committees a report on the implementation of this section.
   - **(2)** *Appropriate congressional committees defined* In this subsection, the term appropriate congressional committees means—
     - **(A)** the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives; and
     - **(B)** the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
@@ -33,7 +33,7 @@ This Act may be cited as the “Fighting Emerging Narcotics Through Additional N
 - **(c)** *Countries described* The foreign countries described in this subsection are—
   - **(1)** countries that are producers of covered synthetic drugs;
   - **(2)** countries whose pharmaceutical and chemical industries are being exploited for development or procurement of precursors of covered synthetic drugs; or
-  - **(3)** major drug-transit countries as defined by the Secretary of State.
+  - **(3)** major drug-transit countries as defined by the President.
 - **(d)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary to carry out this section $4,000,000 for each of the fiscal years 2021 through 2025.
 
 ## § 4. Exchange program for governmental and nongovernmental personnel to provide educational and professional development on demand reduction matters relating to illicit use of narcotics and other drugs
@@ -49,12 +49,12 @@ This Act may be cited as the “Fighting Emerging Narcotics Through Additional N
 
 - **(a)** *International Narcotics Control Strategy Report* Section 489(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2291h(a)) is amended by adding at the end the following:
   > - **(10)** *Synthetic opioids and new psychoactive substances*
-  >   - **(A)** *Synthetic opioids* A separate section that contains an assessment of the countries likely involved in the manufacture, production, or transshipment of synthetic opioids, including fentanyl and fentanyl analogues, to include the following:
+  >   - **(A)** *Synthetic opioids* Information that contains an assessment of the countries significantly involved in the manufacture, production, or transshipment of synthetic opioids, including fentanyl and fentanyl analogues, to include the following:
   >     - **(i)** The scale of legal domestic production and any available information on the number of manufacturers and producers of such opioids in such countries.
   >     - **(ii)** Information on any law enforcement assessments of the scale of illegal production, including a description of the capacity of illegal laboratories to produce such opioids.
   >     - **(iii)** The types of inputs used and a description of the primary methods of synthesis employed by illegal producers of such opioids.
   >     - **(iv)** An assessment of the policies of such countries to regulate licit manufacture and interdict illicit manufacture, diversion, distribution, and shipment of such opioids and an assessment of the effectiveness of the policies’ implementation.
-  >   - **(B)** *New psychoactive substances* A separate section on the policies of responding to new psychoactive substances (as such term is defined in section 7 of the FENTANYL Results Act), to include the following:
+  >   - **(B)** *New psychoactive substances* Information on the policies of responding to new psychoactive substances (as such term is defined in section 7 of the FENTANYL Results Act), to include the following:
   >     - **(i)** Which governments have articulated policies on scheduling of such substances.
   >     - **(ii)** Any data on impacts of such policies and other responses to such substances.
   >     - **(iii)** An assessment of what policies the United States may want to consider articulating.
@@ -79,14 +79,14 @@ This Act may be cited as the “Fighting Emerging Narcotics Through Additional N
       > - **(B)** a country which is a significant direct source of illicit narcotic or psychotropic drugs or other controlled substances significantly affecting the United States.
 
   - **(2)** in paragraph (5) to read as follows:
-    > - **(5)** the term major drug-transit country means a country through which are transported illicit narcotic or psychotropic drugs or other controlled substances significantly affecting the United States.
+    > - **(5)** the term major drug-transit country means a country through which illicit narcotic or psychotropic drugs or other controlled substances significantly affecting the United States are transported.
 
 ## § 6. Sense of Congress
 
 It is the sense of Congress that—
 
 - **(1)** the President should direct the United States Representative to the United Nations to use the voice and vote of the United States at the United Nations to advocate for more transparent assessments of countries by the International Narcotics Control Board; and
-- **(2)** bilateral, plurilateral, and multilateral international cooperation is essential to combating the flow of covered synthetic drugs.
+- **(2)** bilateral, plurilateral, and multilateral international cooperation is essential to combating the trafficking of covered synthetic drugs.
 
 ## § 7. Definition
 
@@ -98,6 +98,6 @@ In this Act:
 - **(2)** The term new psychoactive substance means a substance of abuse, or any preparation thereof, that—
   - **(A)** is not—
     - **(i)** included in any schedule as a controlled substance under the Controlled Substances Act (21 U.S.C. 801 et seq.); or
-    - **(ii)** controlled by the Single Convention on Narcotic Drugs signed at New York, New York, on March 30, 1961 or the Convention on Psychotropic Substances signed at Vienna, Austria, on February 21, 1971;
+    - **(ii)** controlled by the Single Convention on Narcotic Drugs signed at New York, New York, on March 30, 1961, or the Convention on Psychotropic Substances signed at Vienna, Austria, on February 21, 1971;
   - **(B)** is new or has reemerged on the illicit market; and
   - **(C)** poses a threat to the public health and safety.
