@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8121
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8121
@@ -22,9 +22,10 @@ Pandemic Effects on Home Safety and Tourism Act
 - Rep. Castor, Kathy [D-FL-14] (C001066)
 - Rep. Upton, Fred [R-MI-6] (U000031)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Pandemic Effects on Home Safety and Tourism Act
 - 2020-11-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5833-5834)
 - 2020-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5833-5834)
 - 2020-11-17 — The title of the measure was amended. Agreed to without objection.
+- 2020-11-18 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
