@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6624
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6624
@@ -30,9 +30,10 @@ Utilizing Strategic Allied Telecommunications Act of 2020
 - Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
 - Rep. O'Halleran, Tom [D-AZ-1] (O000171)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Utilizing Strategic Allied Telecommunications Act of 2020
 - 2020-11-17 — Mr. Pallone moved to suspend the rules and pass the bill.
 - 2020-11-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5823-5824)
 - 2020-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5823-5824)
+- 2020-11-18 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
