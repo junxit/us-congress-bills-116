@@ -1,7 +1,7 @@
 ---
 measure: S. 512
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 512
@@ -44,3 +44,5 @@ Seniors Fraud Prevention Act of 2019
 - 2020-02-11 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-215.
 - 2020-02-11 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-215.
 - 2020-02-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 418.
+- 2020-11-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7082; text: CR S7082)
+- 2020-11-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7082; text: CR S7082)
