@@ -32,7 +32,7 @@ Congress finds the following:
 ## § 3. Authorization for United States participation
 
 - **(a)** *In general* The United States is hereby authorized to participate in the Coalition for Epidemic Preparedness Innovations.
-- **(b)** *Privileges and immunities* The Coalition for Epidemic Preparedness Innovations shall be considered a public international organization for purposes of section 1 of the International Organizations Immunities Act (22 U.S.C. 288).
+- **(b)** *Board of directors* The Administrator for the United States Agency for International Development is authorized to designate an employee to serve on the Investors Council of the Coalition for Epidemic Preparedness Innovations as a representative of the United States.
 - **(c)** *Reports to Congress* Not later than 180 days after the date of the enactment of this Act, the President shall submit to the appropriate congressional committees a report that includes the following:
   - **(1)** The United States planned contributions to the Coalition for Epidemic Preparedness Innovations and the mechanisms for United States participation in such Coalition.
   - **(2)** The manner and extent to which the United States shall participate in the governance of the Coalition.
@@ -40,6 +40,7 @@ Congress finds the following:
     - **(A)** the Global Health Security Strategy required by section 7058(c)(3) of division K of the Consolidated Appropriations Act, 2018 (Public Law 115–141);
     - **(B)** the applicable revision of the National Biodefense Strategy required by section 1086 of the National Defense Authorization Act for Fiscal Year 2017 (6 U.S.C. 104); and
     - **(C)** any other relevant decision-making process for policy, planning, and spending in global health security, biodefense, or vaccine and medical countermeasures research and development.
-- **(d)** *Appropriate congressional committees* In this section, the term “appropriate congressional committees” means—
+- **(d)** *United States contributions* Amounts authorized to be appropriated under chapters 1 and 10 of part I and chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) are authorized to be made available for United States contributions to the Coalition for Epidemic Preparedness Innovations.
+- **(e)** *Appropriate congressional committees* In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives; and
   - **(2)** the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
