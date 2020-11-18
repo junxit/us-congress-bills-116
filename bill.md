@@ -206,3 +206,7 @@ Section 9 of the Belarus Democracy Act of 2004 (Public Law 109–480; 22 U.S.C. 
 - **(2)** in paragraph (3)(B)—
   - **(A)** in clause (i), by inserting “members of the security and intelligence services,” after “prosecutors,”; and
   - **(B)** in clause (ii), by inserting “, electoral fraud, online censorship, or restrictions on independent media and journalists” after “public corruption”.
+
+## § 10. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
