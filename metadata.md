@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2610
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2610
@@ -53,9 +53,10 @@ Fraud and Scam Reduction Act
 - Rep. Adams, Alma S. [D-NC-12] (A000370)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -74,3 +75,4 @@ Fraud and Scam Reduction Act
 - 2020-11-17 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
 - 2020-11-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5827-5829)
 - 2020-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5827-5829)
+- 2020-11-18 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
