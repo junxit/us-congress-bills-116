@@ -15,13 +15,7 @@ This Act may be cited as the “Caribbean Basin Security Initiative Authorizatio
 
 ## § 2. Authorization of appropriations for the Caribbean Basin Security Initiative
 
-- **(a)** *Authorization* There is authorized to be appropriated at least $74,800,000 for each of fiscal years 2021 through 2025, to be derived from amounts authorized to be appropriated under the following provisions of law, to carry out the Caribbean Basin Security Initiative to achieve the purposes described in subsection (b):
-  - **(1)** With respect to the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.)—
-    - **(A)** chapter 8 of part I (relating to international narcotics control and law enforcement assistance);
-    - **(B)** chapter 4 of part I (relating to the economic support fund);
-    - **(C)** chapters 8 and 9 of part I (relating to anti-terrorism assistance and demining activities) and any other authorization under this Act or any other Act to carry out programs, projects, or activities using amounts made available under for the “International Security Assistance—Department of State—Nonproliferation, Anti-terrorism, Demining, and Related Programs” account; and
-    - **(D)** sections 103, 105, 106, and 214, sections 251 through 255, and chapter 10 of part I (relating to development assistance).
-  - **(2)** Section 23 of the Arms Export Control Act (relating to foreign military financing; 22 U.S.C. 2763).
+- **(a)** *Authorization* There is authorized to be appropriated $74,800,000 for each of fiscal years 2021 through 2025 to carry out the Caribbean Basin Security Initiative to achieve the purposes described in subsection (b).
 - **(b)** *Purposes* The purposes described in this subsection are the following:
   - **(1)** To promote citizen safety, security, and the rule of law in the Caribbean through increased strategic engagement with the governments of beneficiary countries and with elements of local civil society, including the private sector, in such countries.
   - **(2)** To carry out the promotion of such safety, security, and the rule of law through efforts including the following:
