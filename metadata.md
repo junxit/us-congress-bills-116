@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4644
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4644
@@ -56,3 +56,9 @@ Libya Stabilization Act
 - 2020-11-17 — Placed on the Union Calendar, Calendar No. 491.
 - 2020-11-17 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 116-594, Part I.
 - 2020-11-17 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 116-594, Part I.
+- 2020-11-18 — Considered under suspension of the rules. (consideration: CR H5886-5892)
+- 2020-11-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4644.
+- 2020-11-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-11-18 — Mr. Engel moved to suspend the rules and pass the bill, as amended.
+- 2020-11-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5886-5890)
+- 2020-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5886-5890)
