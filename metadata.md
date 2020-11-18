@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4802
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4802
@@ -16,9 +16,10 @@ To amend the State Department Basic Authorities Act of 1956 to authorize rewards
 
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Deutch, Theodore E. [D-FL-22] (D000610)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
 
 ## Committees (1)
 
@@ -29,3 +30,11 @@ To amend the State Department Basic Authorities Act of 1956 to authorize rewards
 - 2019-10-23 — Introduced in House
 - 2019-10-23 — Introduced in House
 - 2019-10-23 — Referred to the House Committee on Foreign Affairs.
+- 2019-10-30 — Committee Consideration and Mark-up Session Held.
+- 2019-10-30 — Ordered to be Reported by Unanimous Consent.
+- 2020-11-18 — Considered under suspension of the rules. (consideration: CR H5921-5922)
+- 2020-11-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4802.
+- 2020-11-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-11-18 — Mr. Espaillat moved to suspend the rules and pass the bill.
+- 2020-11-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5921-5922)
+- 2020-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5921-5922)
