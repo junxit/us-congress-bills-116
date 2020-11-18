@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7146
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7146
@@ -25,3 +25,8 @@ For the relief of Victoria Galindo Lopez.
 - 2020-06-08 — Introduced in House
 - 2020-06-08 — Introduced in House
 - 2020-06-08 — Referred to the House Committee on the Judiciary.
+- 2020-09-09 — Committee Consideration and Mark-up Session Held.
+- 2020-09-09 — Ordered to be Reported.
+- 2020-11-18 — Placed on the Private Calendar, Calendar No. 4.
+- 2020-11-18 — Reported by the Committee on Judiciary. H. Rept. 116-597.
+- 2020-11-18 — Reported by the Committee on Judiciary. H. Rept. 116-597.
