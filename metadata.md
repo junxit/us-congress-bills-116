@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8266
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8266
@@ -62,9 +62,10 @@ FEMA Assistance Relief Act of 2020
 - Rep. Chu, Judy [D-CA-27] (C001080)
 - Rep. Byrne, Bradley [R-AL-1] (B001289)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -84,3 +85,4 @@ FEMA Assistance Relief Act of 2020
 - 2020-11-17 — Mr. DeFazio moved to suspend the rules and pass the bill, as amended.
 - 2020-11-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5847-5848)
 - 2020-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5847-5848)
+- 2020-11-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
