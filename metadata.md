@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8408
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8408
@@ -22,9 +22,10 @@ Aircraft Certification Reform and Accountability Act
 - Rep. Larsen, Rick [D-WA-2] (L000560)
 - Rep. Graves, Garret [R-LA-6] (G000577)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Aircraft Certification Reform and Accountability Act
 - 2020-11-17 — Mr. DeFazio moved to suspend the rules and pass the bill, as amended.
 - 2020-11-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5835-5844)
 - 2020-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5835-5844)
+- 2020-11-18 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
