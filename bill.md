@@ -7,55 +7,52 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 7276
 
-> To establish an interagency working group to develop a comprehensive, strategic plan to eradicate locust outbreaks in the East Africa region and address future outbreaks in order to avert mass scale food insecurity and potential political destabilization, and for other purposes.
+> To establish an interagency working group to develop a comprehensive, strategic plan to control locust outbreaks in the East Africa region and address future outbreaks in order to avert mass scale food insecurity and potential political destabilization, and for other purposes.
 
 ## § 1. Short title
 
-This Act may be cited as the “East Africa Locust Eradication Act”.
+This Act may be cited as the “Desert Locust Control Act”.
 
 ## § 2. Statement of policy
 
-It is the policy of the United States to address proactively threats to food security in the East Africa region and elsewhere, as well as the concomitant potential for political instability, caused by periodic locust outbreaks, and to promote resilience in affected countries.
+It is the policy of the United States to prioritize efforts to control the ongoing desert locust outbreak in East Africa and other affected regions, mitigate the impacts on food security, economic productivity, and political stability, improve interagency coordination to prevent future outbreaks, and promote resilience in affected countries.
 
 ## § 3. Findings
 
 Congress finds the following:
 
-- **(1)** The United States Agency for International Development reports that the East Africa region is currently suffering the worst locust outbreaks in decades, which will devour crops and pasture across that region.
-- **(2)** As of June 2020, there were more than 26 million people experiencing acute food insecurity in Ethiopia, Kenya, Somalia, South Sudan, Tanzania, Uganda, Sudan, and Djibouti, and untold more will be at risk if the locusts are not controlled.
-- **(3)** The World Food Programme reports that there may be insufficient resources to conduct aerial spraying to address the locust outbreaks that are currently devastating the East Africa region, and the United Nations Food and Agriculture Organization warns that the current outbreaks could develop into a plague by the end of 2020 if they are not controlled.
-- **(4)** The locust outbreaks in the Horn of Africa region, particularly in Kenya, Ethiopia, and Somalia, represents an unprecedented threat to food security and livelihoods, and potentially, by extension, political stability in the region.
-- **(5)** A relatively small investment now to help eradicate the locust outbreaks will obviate or ameliorate the need for a much larger United States emergency food aid effort later, as well as help promote political stability and build resilience.
-- **(6)** In order to optimize a United States response to the locust outbreaks and future outbreaks, it is necessary to establish an interagency working group to develop and implement a comprehensive, strategic plan to eradicate locust outbreaks in the East Africa region and address future outbreaks.
+- **(1)** The United States Agency for International Development reports that countries in East Africa are currently suffering the worst desert locust outbreak in decades, which will devour crops and pasture and destroy local livelihoods across the region.
+- **(2)** As of June 2020, there were more than 26 million people experiencing acute food insecurity in Ethiopia, Kenya, Somalia, South Sudan, Tanzania, Uganda, Sudan, and Djibouti, and these numbers are projected to increase if the desert locust outbreak is not controlled.
+- **(3)** As the desert locust outbreak continues, there may be insufficient resources to continue to conduct aerial spraying and without such resources the current outbreak could develop into a plague by the end of 2020.
+- **(4)** The desert locust outbreak in East Africa, particularly in Kenya, Ethiopia, and Somalia, is negatively impacting food security, local livelihoods and economic productivity, and may threaten political stability in the region.
+- **(5)** Proactive investments now to control the desert locust outbreak could reduce the need for a much larger United States humanitarian response effort later, as well as support economic and political stability and build resilience in affected countries.
+- **(6)** In order to optimize the United States response to the desert locust outbreak, an interagency working group should be established to develop and implement a comprehensive, strategic plan to control the desert locust outbreak in East Africa and other affected regions, mitigate impacts on food security, economic productivity, and political stability and prevent future outbreaks.
 
 ## § 4. Interagency working group
 
-- **(a)** *Establishment* There is established an interagency working group to develop a comprehensive, strategic plan to eradicate locust outbreaks in the East Africa region and address future outbreaks in order to avert mass scale food insecurity and potential political destabilization.
+- **(a)** *Establishment* The President shall establish an interagency working group to coordinate the United States response to the ongoing desert locust outbreak in East Africa and other affected regions, including the development of a comprehensive, strategic plan to control the outbreak, mitigate the impacts on food security, economic productivity, and political stability, and prevent future outbreaks.
 - **(b)** *Membership*
-  - **(1)** *In general* The interagency working group shall be composed of—
-    - **(A)** the United States Ambassador to the United Nations Agencies for Food and Agriculture;
-    - **(B)** one member who is an officer or employee of the National Security Council, who shall be appointed by the Assistant to the President for National Security Affairs;
-    - **(C)** one member who is an officer or employee of the Department of State, who shall be appointed by the Secretary of State;
-    - **(D)** one member who is an officer or employee of the Department of Defense, who shall be appointed by the Secretary of Defense;
-    - **(E)** one member who is an officer or employee of the Department of Agriculture, who shall be appointed by the Secretary of Agriculture; and
-    - **(F)** two members who are officers or employees of the United States Agency for International Development, who shall be appointed by the Administrator of the Agency.
-  - **(2)** *Chair* The President shall designate one member of the interagency working group specified in paragraph (1) to serve as chair of the interagency working group.
+  - **(1)** *In general* The interagency working group shall be composed of the following:
+    - **(A)** Two representatives from the United States Agency for International Development.
+    - **(B)** One representative from each of the following:
+      - **(i)** The United States Mission to the United Nations Agencies for Food and Agriculture.
+      - **(ii)** The National Security Council.
+      - **(iii)** The Department of State.
+      - **(iv)** The Department of Defense.
+      - **(v)** The Department of Agriculture.
+      - **(vi)** Any other relevant Federal department or agency.
+  - **(2)** *Chair* The President shall designate one of the representatives from the United States Agency for International Development described in paragraph (1)(A) to serve as chair of the interagency working group.
 - **(c)** *Duties* The interagency working group shall—
-  - **(1)** assess the scope of the locust outbreaks in the East Africa region and its impact on food security and political stability in the region, including in the context of restrictions relating to the coronavirus disease 2019 (commonly referred to as “COVID-19”) pandemic;
-  - **(2)** review the effectiveness of regional and multilateral efforts to eradicate the locust outbreaks in the East Africa region and the coordination among relevant United States Government agencies, regional governments, and international organizations, including the World Food Programme and the United Nations Food and Agriculture Organization; and
-  - **(3)** develop a comprehensive, strategic plan to eradicate locust outbreaks in the East Africa region and address future outbreaks in the region in order to avert mass scale food insecurity and potential political destabilization, including—
-    - **(A)** to more effectively address the outbreaks, including improving—
-      - **(i)** the coordination among relevant United States Government agencies, regional governments, and international organizations, including the World Food Programme and the United Nations Food and Agriculture Organization; and
-      - **(ii)** the delivery of necessary assets to achieve the eradication of the outbreaks or otherwise mitigate the impact of such outbreaks to the extent necessary to avoid major food insecurity; and
-    - **(B)** prevent or mitigate future locust outbreaks in Africa and other parts of the world.
-- **(d)** *Report* Not later than 90 days after the date on which the interagency working group is established under subsection (a), the interagency working group shall submit to the President a report that contains the comprehensive, strategic plan required by subsection (c)(3).
-
-## § 5. Implementation of comprehensive, strategic plan
-
-- **(a)** *In general* Not later than 30 days after the date on which the comprehensive, strategic plan is submitted to the President as required by section 4(d), the President shall designate one member of the interagency working group to coordinate implementation of the comprehensive, strategic plan.
-- **(b)** *Interagency working group support* The interagency working group shall continue to meet not less than semi-annually to facilitate implementation of the comprehensive, strategic plan required by section 4(c)(3).
-- **(c)** *Administrative support* Upon request of the member of the interagency working group designated by the President under subsection (a), the Administrator of the United States Agency for International Development shall provide necessary and appropriate administrative support of the Agency to facilitate implementation of the comprehensive, strategic plan required by section 4(c)(3).
-
-## § 6. Report
-
-Not later than 90 days after appointment of the member of the interagency working group designated by the President under section 5(a), the member shall submit to Congress a report on the status of the implementation of the comprehensive, strategic plan required by section 4(c)(3).
+  - **(1)** assess the scope of the desert locust outbreak in East Africa and other affected regions, including its impact on food security, economic productivity, and political stability in affected countries;
+  - **(2)** assess the impacts of restrictions relating to the coronavirus disease 2019 (commonly referred to as “COVID–19”) pandemic;
+  - **(3)** monitor the effectiveness of ongoing assistance efforts to control the desert locust outbreak and mitigate its impacts and identify gaps and opportunities for additional support to such programs;
+  - **(4)** review the effectiveness of regional and multilateral efforts to control the desert locust outbreak and the coordination among relevant United States Government agencies, regional governments, and international organizations, including the World Food Programme and the United Nations Food and Agriculture Organization; and
+  - **(5)** not later than 90 days after the establishment of the interagency working group under subsection (a), develop and submit to the President and the appropriate congressional committees a comprehensive, strategic plan to control the desert locust outbreak, including a description of efforts to—
+    - **(A)** improve coordination among relevant United States Government agencies, regional governments, and international organizations, including the World Food Programme and the United Nations Food and Agriculture Organization;
+    - **(B)** ensure delivery of necessary assets control the desert locust outbreak and humanitarian and development assistance to address and mitigate impacts to food security, economic productivity, and political stability; and
+    - **(C)** to the extent practicable, prevent and mitigate future desert locust and other, similar destructive insect outbreaks (such as Fall Armyworm) in Africa and other parts of the world, which require a humanitarian response.
+- **(d)** *Interagency working group support* The interagency working group shall continue to meet not less than semi-annually to facilitate implementation of the comprehensive, strategic plan required by subsection (c)(5).
+- **(e)** *Sunset* This section shall terminate on the date that is 2 years after the date of the enactment of this Act, or at such time as there is no longer an upsurge in the desert locust outbreak in East Africa, whichever occurs earlier.
+- **(f)** *Appropriate congressional committees defined* In this section, the term “appropriate congressional committees” means—
+  - **(1)** the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives; and
+  - **(2)** the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
