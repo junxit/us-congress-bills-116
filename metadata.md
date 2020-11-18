@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5919
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5919
@@ -32,9 +32,10 @@ National Children's Museum Act
 - Rep. Wittman, Robert J. [R-VA-1] (W000804)
 - Rep. Wasserman Schultz, Debbie [D-FL-23] (W000797)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -54,3 +55,4 @@ National Children's Museum Act
 - 2020-11-17 — Ms. Norton moved to suspend the rules and pass the bill, as amended.
 - 2020-11-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5853)
 - 2020-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5853)
+- 2020-11-18 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
