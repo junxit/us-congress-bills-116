@@ -1,7 +1,7 @@
 ---
 measure: S. 3462
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3462
@@ -34,3 +34,17 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2020-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 495.
 - 2020-11-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7081; text: CR S7081)
 - 2020-11-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7081; text: CR S7081)
+- 2020-11-19 — Held at the desk.
+- 2020-11-19 — Message on Senate action sent to the House.
+- 2020-11-19 — Received in the House.
+- 2020-12-10 — Considered by unanimous consent. (consideration: CR H7137)
+- 2020-12-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-10 — Ms. Kelly (IL) asked unanimous consent to take from the Speaker's table and consider.
+- 2020-12-10 — On passage Passed without objection. (text: CR H7137)
+- 2020-12-10 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7137)
+- 2020-12-21 — Presented to President.
+- 2020-12-21 — Presented to President.
+- 2020-12-30 — Became Public Law No: 116-266.
+- 2020-12-30 — Became Public Law No: 116-266.
+- 2020-12-30 — Signed by President.
+- 2020-12-30 — Signed by President.
