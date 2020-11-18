@@ -1,7 +1,7 @@
 ---
 measure: S. 2904
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2904
@@ -34,3 +34,17 @@ IOGAN Act
 - 2020-11-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 580.
 - 2020-11-18 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7082-7083; text of amendment in the nature of a substitute: CR S7082-7083)
 - 2020-11-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S7082-7083; text of amendment in the nature of a substitute: CR S7082-7083)
+- 2020-11-19 — Held at the desk.
+- 2020-11-19 — Message on Senate action sent to the House.
+- 2020-11-19 — Received in the House.
+- 2020-12-08 — Considered by unanimous consent. (consideration: CR H7022-7023)
+- 2020-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-08 — Mr. Tonko asked unanimous consent to take from the Speaker's table and consider.
+- 2020-12-08 — On passage Passed without objection. (text: CR H7022-7023)
+- 2020-12-08 — Passed/agreed to in House: On passage Passed without objection.
+- 2020-12-11 — Presented to President.
+- 2020-12-11 — Presented to President.
+- 2020-12-23 — Became Public Law No: 116-258.
+- 2020-12-23 — Became Public Law No: 116-258.
+- 2020-12-23 — Signed by President.
+- 2020-12-23 — Signed by President.
