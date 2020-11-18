@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4358
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4358
@@ -23,9 +23,10 @@ Preliminary Damage Assessment Improvement Act of 2020
 - Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
 - Rep. Delgado, Antonio [D-NY-19] (D000630)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Preliminary Damage Assessment Improvement Act of 2020
 - 2020-11-17 — Ms. Norton moved to suspend the rules and pass the bill, as amended.
 - 2020-11-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5858)
 - 2020-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5858)
+- 2020-11-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
