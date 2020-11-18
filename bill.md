@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4636
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -17,7 +17,7 @@ This Act may be cited as the “Partnering and Leveraging Assistance to Stop Tra
 
 Congress finds the following:
 
-- **(1)** Eight million metric tons of plastic enter the ocean every year. Marine debris damages the health of marine life, impedes local economic development, and threatens health systems. Ten river systems carry an estimated 90 percent of the plastic waste that ends up in the ocean.
+- **(1)** Eight million metric tons of plastic enter the ocean every year. Marine debris damages the health of marine life, impedes local economic development, and threatens health systems. Ten river systems carry an estimated 90 percent of the river-based plastic waste that ends up in the ocean.
 - **(2)** Mismanaged plastic waste has the highest risk of contaminating rivers and oceans. China contributes the largest share of this mismanaged waste, followed by Indonesia, the Philippines, Vietnam, Thailand, Egypt, Nigeria, and South Africa. The United States is the world’s second-largest producer and consumer of plastics products, and the top exporter of plastic scrap.
 - **(3)** Most marine debris, particularly plastics, enters the oceans from land-based sources, mainly in developing countries, that lack the capacity to adequately manage waste and prevent dumping.
 - **(4)** During the Our Ocean Conference in October 2018, the United States announced assistance to prevent marine debris from entering the ocean through development of waste management systems and reduce plastics in marine protected areas in the Indo-Pacific.
@@ -47,7 +47,7 @@ It is the sense of Congress that, in pursuing the policy described in section 3,
   - **(2)** advance innovative market-based solutions and catalyze private capital to prevent and reduce marine debris and plastic waste, support integrated waste management systems, and improve market demand for recycled material;
   - **(3)** build the capacity of national and subnational governments in other countries to develop and implement integrated waste management systems, measure and report progress in reducing plastic waste, and prevent plastic waste from entering rivers and oceans; and
   - **(4)** support local economic development through programs that assist community members, particularly women, youth, and marginalized populations, to derive economic benefit from waste products and participation in waste management systems.
-- **(b)** *Coordination with private sector* The Secretary and the Administrator, in coordination with the Chief Executive Officer of the U.S. Development Finance Corporation and the Chief Executive Officer of the Millennium Challenge Corporation and in consultation with the heads of relevant Federal departments and agencies, are authorized and encouraged to work with entities in the private sector and with nongovernmental organizations to leverage sources of public and private capital to complement the efforts described in subsection (a), including by financing infrastructure investments, supporting capacity-building activities, and entering into cost-sharing, cost-matching, and other cooperative agreements to support and finance such efforts.
+- **(b)** *Coordination with private sector* The Secretary and the Administrator, in coordination with the Chief Executive Officer of the United States International Development Finance Corporation and the Chief Executive Officer of the Millennium Challenge Corporation and in consultation with the heads of relevant Federal departments and agencies, are authorized and encouraged to work with entities in the private sector and with nongovernmental organizations to leverage sources of public and private capital to complement the efforts described in subsection (a), including by financing infrastructure investments, supporting capacity-building activities, and entering into cost-sharing, cost-matching, and other cooperative agreements to support and finance such efforts.
 - **(c)** *Monitoring and evaluation* The Secretary and the Administrator shall establish monitoring and evaluation mechanisms, including measurable goals, objectives, and benchmarks, to ensure the effective use of United States foreign assistance to achieve the objectives described in paragraphs (1) through (4) of subsection (a).
 - **(d)** *Domestic resource mobilization* In carrying out the authority under subsection (a), the Secretary and the Administrator, in coordination with the heads of relevant Federal departments and agencies, shall seek to provide technical assistance to mobilize the domestic resources of recipient countries in order to increase cost-sharing, self-reliance, and host country ownership of waste prevention and management programs.
 - **(e)** *Cost limitation* No additional funds are authorized to be appropriated to carry out this Act.
@@ -60,3 +60,8 @@ It is the sense of Congress that, in pursuing the policy described in section 3,
 - **(g)** *Appropriate congressional committees defined* In this section, the term appropriate congressional committees means—
   - **(1)** the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives; and
   - **(2)** the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
+
+## § 6. Plastic Waste Reduction Initiative
+
+- **(a)** *In general* The Chief Executive Officer of the United States International Development Finance Corporation is authorized to establish, in coordination with relevant Federal departments and agencies and incorporating any existing programs of the Corporation for such purposes, an initiative to pursue investment opportunities to address plastic waste pollution and support improved, integrated waste management systems in developing countries, including by catalyzing global public and private-sector investments to prevent and reduce marine debris and plastic waste in such countries.
+- **(b)** *Reference* The initiative established under subsection (a) may be referred to as the “Plastic Waste Reduction Initiative”.
