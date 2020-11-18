@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 8778
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8778
+
+> To amend the Emergency Economic Stabilization Act of 2008 to authorize use of amounts under the Troubled Assets Relief Program to be used for activities under the Emergency Solutions Grant Program of the Department of Housing and Urban Development or the Hardest Hit Fund Program of the Department of the Treasury, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Keep Your Home and Prevent Homelessness Act of 2020”.
+
+## § 2. Use of TARP amounts
+
+- **(a)** *In General* The Emergency Economic Stabilization Act of 2008 is amended by inserting after section 110 (12 U.S.C. 5220) the following new section:
+  > ## § 110A. Other assistance
+  >
+  > Notwithstanding section 115(a), section 120, or any other provision of law, the Secretary may use any amounts made available under this title that are not otherwise obligated to provide assistance under the Emergency Solutions Grant Program under subtitle B of title IV of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11371 et seq.) or the Hardest Hit Fund Program of the Secretary under this title.
+
+- **(b)** *Clerical amendment* The table of contents in section 1(b) of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5201 note) is amended by inserting after the item relating to section 110 the following new item:
