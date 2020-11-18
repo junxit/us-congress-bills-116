@@ -2,7 +2,7 @@
 legis-num: H. RES. 1062
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1062
@@ -16,10 +16,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the United States began military intervention against the Islamic State in Iraq in 2014, working with international coalition partners and Iraqi security forces to combat the Islamic State and to retake Iraqi territory from Islamic State fighters;
 - Whereas the Islamic State ruled areas it controlled with terror and brutal violence, including through heinous acts such as mass executions, public beheadings, desecration of holy sites, sexual enslavement and rape, and abuse and torture of minors;
 - Whereas the Government of Iraq declared military victory against the Islamic State in December 2017, but insurgent attacks by remaining terrorist fighters have continued and threaten peace and stability in some areas of Iraq;
-- Whereas an estimated 6 million Iraqis have been rendered internally displaced since 2014, of which 1.4 million remain internally displaced;
+- Whereas an estimated 6 million Iraqis have been rendered internally displaced since 2014, of whom 1.4 million remain internally displaced;
 - Whereas members of religious and ethnic minority groups, including Iraqi Christian communities and Yezidis, faced particular brutality under the Islamic State and often lacked the resources and capacity for protection;
 - Whereas the Islamic State’s destructive rule and ensuing military campaign left large areas of key population centers uninhabitable, including Anbar, Salah al-Din, and Ninewa governorates, where efforts at resettlement, reconstruction, service delivery, governance, and security remain challenging;
-- Whereas the United Nations Office for the Coordination of Humanitarian Affairs (UNOCHA) 2020 humanitarian needs assessment previously anticipated that as many as 4.1 million Iraqis will need some form of humanitarian assistance in 2020, and humanitarian needs are likely to be further exacerbated by socio-economic disruptions attributable to the COVID-19 pandemic;
+- Whereas the United Nations Office for the Coordination of Humanitarian Affairs (UNOCHA) 2020 humanitarian needs assessment previously anticipated that as many as 4.1 million Iraqis will need some form of humanitarian assistance in 2020, and humanitarian needs are likely to be further exacerbated by socio-economic disruptions attributable to the COVID–19 pandemic;
 - Whereas the United States was the top donor to the 2018 and 2019 United Nations Iraq Humanitarian Response Plans and has contributed nearly $2.75 billion to humanitarian relief efforts in Iraq since 2014, including more than $750 million in humanitarian support since fiscal year 2018;
 - Whereas in July 2017, the United Nations Office for the Coordination of Humanitarian Affairs (UNOCHA) reported that “after decades of war, the sheer volume of explosive devices renders Iraq one of the most heavily contaminated countries in the world”;
 - Whereas multiple nongovernmental human rights organizations and media investigations have reported that areas still suffering from the lack of reconstruction, service delivery, governance, and security are acutely susceptible to re-radicalization by Islamic State underground cells or follow-on elements;
@@ -29,21 +29,23 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas in 2019 and 2020, Iranian aligned militias, some of whom operate Iraqi PMUs conducted numerous attacks on United States and coalition forces in Iraq as well as Iraqi military facilities and Iraqi nationals, including a December 2019 attack that killed a United States citizen contractor and wounded others, and a March 2020, attack that killed a United States servicemember, a United States contractor, a British soldier, and injured at least a dozen other troops;
 - Whereas Iranian aligned militias and some PMUs were reportedly involved in the December 31, 2019, to January 1, 2020, siege on the United States Embassy in Baghdad, in which attackers set fire to structures and damaged property;
 - Whereas in July 2019 the Combined Joint Task Force-Operation Inherent Resolve (CJTF–OIR) informed the Department of Defense and Department of State Inspector General that the Islamic State in Iraq continues to recruit from isolated rural areas “exploiting perceived weaknesses and failures of the Iraqi government, particularly in Sunni areas where the population feels neglected”;
-- Whereas a July 2019 Department of Defense and Department of State Lead Inspector General (LIG) Report to Congress on Operation Inherent Resolve stated the “Department of State and USAID reported that the greatest obstacles preventing IDPs from returning … are lack of security and economic opportunity, and damage to housing” as well as a lack of “legal assistance to recover or renew identification documents”;
-- Whereas in March 2020 Iraq confirmed its first case of COVID-19, which soon spread throughout the country, straining Iraq’s already struggling healthcare system, and infecting 64,000 Iraqis and killing 2,685 Iraqis, including 592 Iraqi doctors, as of June 2020; and
-- Whereas the LIG reported in May 2020 that “the emergence of COVID-19 in Iraq has further restricted humanitarian access and presented a significant risk to internally displaced person (IDP) and refugee camps across the country”: Now, therefore, be it
+- Whereas a July 2019 Department of Defense and Department of State Lead Inspector General (LIG) Report to Congress on Operation Inherent Resolve stated the “Department of State and USAID reported that the greatest obstacles preventing IDPs from returning * * * are lack of security and economic opportunity, and damage to housing” as well as a lack of “legal assistance to recover or renew identification documents”;
+- Whereas in March 2020 Iraq confirmed its first case of COVID–19, which soon spread throughout the country, straining Iraq’s already struggling healthcare system, and infecting 64,000 Iraqis and killing 2,685 Iraqis, including 592 Iraqi doctors, as of June 2020; and
+- Whereas the LIG reported in May 2020 that “the emergence of COVID–19 in Iraq has further restricted humanitarian access and presented a significant risk to internally displaced person (IDP) and refugee camps across the country”: Now, therefore, be it
 
 That the House of Representatives—
 
 - **(1)** supports a sovereign and democratic Iraq at peace with its neighbors and safe for its citizens, regardless of religion, sect, or ethnicity;
 - **(2)** calls on the Administration to provide continued support for Iraqi efforts to ensure stability and security for a democratic Iraq;
-- **(3)** calls on the Government of Iraq to take all appropriate action to protect United States diplomats and United States servicemembers;
+- **(3)** calls on the Government of Iraq to take all appropriate action to protect United States diplomats and United States servicemembers, including by holding accountable those involved in the December 31, 2019, through January 1, 2020, attack on the United States Embassy;
 - **(4)** supports robust exercise by Iraqis of the rights to free speech and assembly as guaranteed to them by the Constitution of Iraq;
-- **(5)** calls on the Administration to continue efforts to help internally displaced Iraqis to safely and voluntarily return to their homes;
-- **(6)** encourages the United States to continue to work with bilateral and multilateral partners and international nongovernmental organizations on the stabilization of Iraq;
-- **(7)** calls on the Administration to continue assisting religious and ethnic minority communities targeted by the Islamic State for genocide;
-- **(8)** supports expanded bilateral trade and investment between the United States and Iraq;
-- **(9)** supports development of an Iraqi private sector based on rule of law and free market principles;
-- **(10)** supports the 2020 United States–Iraq Strategic Dialogues and the principles agreed upon by both the United States and Iraq in such Dialogues and the fostering of continued dialogue based on such Dialogues;
-- **(11)** calls on the Administration to continue providing medical assistance to support the Iraqi healthcare sector in combatting COVID-19; and
-- **(12)** calls on the Government of Iraq to allow humanitarian and stabilization assistance programs to be implemented without bureaucratic delays or impediments.
+- **(5)** calls on the Government of Iraq to hold accountable all those responsible for violence against peaceful protestors, including members of Iraqi security forces as applicable;
+- **(6)** calls on all countries to continue upholding the principle of non-refoulement for refugees subject to violence, persecution, or death if forcibly returned to Iraq, including for reasons of religious persecution, and to assist internally displaced Iraqis to safely and voluntarily return to their homes;
+- **(7)** encourages the United States to continue to work with bilateral and multilateral partners and international nongovernmental organizations on the stabilization of Iraq;
+- **(8)** calls on the Administration to continue assisting religious and ethnic minority communities targeted by the Islamic State for genocide;
+- **(9)** calls on the Administration to continue to work with the Government of Iraq to eliminate child labor and forced labor in Iraq;
+- **(10)** supports expanded bilateral trade and investment between the United States and Iraq;
+- **(11)** supports development of an Iraqi private sector based on rule of law and free market principles;
+- **(12)** supports the 2020 United States–Iraq Strategic Dialogues and the principles agreed upon by both the United States and Iraq in such Dialogues and the fostering of continued dialogue based on such Dialogues;
+- **(13)** calls on the Administration to continue providing medical assistance to support the Iraqi healthcare sector in combatting COVID–19; and
+- **(14)** calls on the Government of Iraq to allow humanitarian and stabilization assistance programs to be implemented without bureaucratic delays or impediments.
