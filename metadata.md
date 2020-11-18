@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5953
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5953
@@ -26,9 +26,10 @@ Preventing Disaster Revictimization Act
 - Rep. Carbajal, Salud O. [D-CA-24] (C001112)
 - Rep. Garamendi, John [D-CA-3] (G000559)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Preventing Disaster Revictimization Act
 - 2020-11-17 — Ms. Norton moved to suspend the rules and pass the bill, as amended.
 - 2020-11-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5856)
 - 2020-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5856)
+- 2020-11-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
