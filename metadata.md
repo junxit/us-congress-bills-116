@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7310
 congress: 116
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 7310
@@ -22,10 +22,11 @@ Spectrum IT Modernization Act of 2020
 - Rep. Larsen, Rick [D-WA-2] (L000560)
 - Rep. Walberg, Tim [R-MI-7] (W000798)
 
-## Committees (2)
+## Committees (3)
 
 - House — Armed Services Committee
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Spectrum IT Modernization Act of 2020
 - 2020-11-17 — Placed on the Union Calendar, Calendar No. 490.
 - 2020-11-17 — Reported by the Committee on Energy and Commerce. H. Rept. 116-592, Part I.
 - 2020-11-17 — Reported by the Committee on Energy and Commerce. H. Rept. 116-592, Part I.
+- 2020-11-18 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
