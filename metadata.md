@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5668
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5668
@@ -21,9 +21,10 @@ MODERN Labeling Act of 2020
 - Rep. Guthrie, Brett [R-KY-2] (G000558)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ MODERN Labeling Act of 2020
 - 2020-11-17 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
 - 2020-11-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5805-5806)
 - 2020-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5805-5806)
+- 2020-11-18 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
