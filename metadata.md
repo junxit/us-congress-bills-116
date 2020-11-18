@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4499
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4499
@@ -45,3 +45,4 @@ NIMHD Research Endowment Revitalization Act of 2020
 - 2020-11-17 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
 - 2020-11-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5803)
 - 2020-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5803)
+- 2020-11-18 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 595.
