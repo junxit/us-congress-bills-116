@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8326
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8326
@@ -21,10 +21,11 @@ Child Care is Economic Development Act of 2020
 - Rep. Hagedorn, Jim [R-MN-1] (H001088)
 - Rep. Waters, Maxine [D-CA-43] (W000187)
 
-## Committees (2)
+## Committees (3)
 
 - House — Financial Services Committee
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Child Care is Economic Development Act of 2020
 - 2020-11-17 — Ms. Norton moved to suspend the rules and pass the bill.
 - 2020-11-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5851)
 - 2020-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5851)
+- 2020-11-18 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
