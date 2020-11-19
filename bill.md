@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1049
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,227 +11,167 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “National Heritage Area Act of 2019”.
+- **(a)** *Short title* This Act may be cited as the “National Heritage Area Act of 2020”.
 - **(b)** *Table of contents* The table of contents of this Act is as follows:
 
-## § 2. Findings and purposes
-
-- **(a)** *Findings* The Congress finds the following:
-  - **(1)** Certain areas of the United States tell nationally significant stories; they illustrate significant aspects of our heritage; possess exceptional natural, cultural, scenic, and historic resources; and represent the diversity of our national character.
-  - **(2)** In these areas, the interaction of natural processes, geography, history, cultural traditions, and economic and social forces form distinctive landscapes that should be recognized, conserved, enhanced, and interpreted to improve the quality of life in the regions and to provide opportunities for public appreciation, education, enjoyment, and economic sustainability.
-  - **(3)** Local initiatives based on community and regional visions, involving public/private partnerships, are critical to conserving, enhancing, and interpreting natural, historic, scenic, and cultural resources related to our American heritage. These initiatives should be encouraged and supported by the Federal Government with the concurrence of the relevant Federal land management agencies and tribal governments by providing financial and technical assistance.
-  - **(4)** Partnerships among Federal, State, tribal, and local governments, nonprofit organizations, the private sector, and citizens provide the most viable framework to recognize, conserve, enhance, and interpret the resources of places that have made important contributions to the national story.
-  - **(5)** Communities and regions need assistance to set resource stewardship and interpretive goals, and to implement strategies for resource conservation and renewed economic viability in these areas.
-  - **(6)** A unified national process as well as certain standards for designation of National Heritage Areas need to be established to provide a consistent framework. The process should include a system for approval of heritage area management plans.
-  - **(7)** National Heritage Areas located near or encompassing units of the National Park System provide an additional basis for public enjoyment of parks and park-related resources, and it is appropriate for these parks to participate in, assist with, and benefit from local heritage initiatives that conserve and interpret resources over a larger area beyond the park’s boundaries.
-  - **(8)** It is in the national interest, and will benefit future generations, to establish a system of National Heritage Areas to encourage natural and cultural resource conservation, interpretation, enhancement, and economic sustainability, and for full public understanding and appreciation of the many resources, places, events, and peoples that have contributed to the rich heritage of this Nation.
-- **(b)** *Purposes* The purposes of this Act are to—
-  - **(1)** establish a system of regional and community-based National Heritage Areas to conserve, enhance, and interpret natural, historic, scenic, and cultural resources that together tell nationally significant stories representing our country’s heritage;
-  - **(2)** promote public understanding, appreciation and enjoyment of the many places, events, and people that have contributed to our diverse national story;
-  - **(3)** promote innovative and partnership-driven management strategies that recognize regional values, to encourage locally tailored resource stewardship and interpretation, to develop economically viable and innovative approaches to community conservation, and to provide for the effective leveraging of Federal funds with State, local, tribal, and private funding sources;
-  - **(4)** provide unified national standards and processes for conducting feasibility studies, designating National Heritage Areas, and approving heritage area management plans;
-  - **(5)** provide appropriate linkages among units of the National Park System, and communities, governments, and organizations within National Heritage Areas to conserve, enhance, and interpret resources outside of park boundaries; and
-  - **(6)** authorize the Secretary of the Interior to provide financial and technical assistance to local coordinating entities that act as a catalyst for diverse regions, communities, organizations, and citizens to undertake projects and programs for resource stewardship and interpretation.
-
-## § 3. Definitions
+## § 2. Definitions
 
 In this Act:
 
-- **(1)** *Feasibility study* The term feasibility study means a study conducted by the Secretary of the Interior, or conducted by one or more other interested parties and reviewed by the Secretary, in accordance with the criteria and processes outlined in this Act, to determine whether an area meets the criteria to be designated as a National Heritage Area by Congress.
-- **(2)** *Local coordinating entity* The term local coordinating entity means the entity designated by Congress to undertake, in partnership with others, the management plan and to act as a catalyst for implementation projects and programs among diverse partners in a National Heritage Area.
-- **(3)** *Management plan* The term management plan means the plan prepared by the local coordinating entity for a National Heritage Area that specifies actions, policies, strategies, performance goals, and recommendations taken to meet the goals of the heritage area as specified in this Act.
-- **(4)** *National heritage area* The term National Heritage Area means a region designated by Congress that tells nationally significant stories representing our American heritage.
-- **(5)** *Proposed national heritage area* The term proposed National Heritage Area is an area or corridor under study by the Secretary of the Interior or other parties for potential designation by Congress as a National Heritage Area.
-- **(6)** *Secretary* The term Secretary means the Secretary of the Interior.
-- **(7)** *National Heritage Area System* The term National Heritage Area System means the system of National Heritage Areas established by this Act.
-- **(8)** *Tribal government* The term tribal government means the governing body of an Indian tribe, band, nation, or other organized group or community of Indians that is recognized by the Secretary as having a government-to-government relationship with the United States and is eligible for the special programs and services provided by the United States to Indians because of their status as Indians, as evidenced by inclusion of the tribe on the list of recognized tribes published by the Secretary under the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a).
+- **(1)** *Feasibility study* The term feasibility study means a study conducted by the Secretary, or conducted by one or more other interested parties and reviewed and approved by the Secretary, in accordance with the criteria and processes required by section 5, to determine whether a study area meets the criteria to be designated by Federal statute as a National Heritage Area.
+- **(2)** *Indian Tribe* The term Indian Tribe means any Indian or Alaska Native tribe, band, nation, pueblo, village, or other community the name of which is included on the list most recently published by the Secretary of the Interior pursuant to section 104 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 5131).
+- **(3)** *Local coordinating entity* The term local coordinating entity means the entity designated by Federal statute to—
+  - **(A)** carry out, in partnership with other individuals and entities, the management plan for a National Heritage Area; and
+  - **(B)** operate a National Heritage Area, including through the implementation of projects and programs among diverse partners in a National Heritage Area.
+- **(4)** *Management plan* The term management plan means the management plan for a National Heritage Area required under this Act.
+- **(5)** *National heritage area* The term National Heritage Area means—
+  - **(A)** each National Heritage Area, National Heritage Corridor, Natural Preservation Commission, National Heritage Canalway, National Heritage Route, Heritage Corridor, Cultural Heritage Corridor, Heritage Partnership, and National Heritage Partnership, the Shenandoah Valley Battlefields National Historic District, or other area designated by Federal statute with the explicit purpose of establishing a national heritage area designated by Congress before or on the date of enactment of this Act; and
+  - **(B)** each National Heritage Area designated by Federal statute after the date of enactment of this Act, unless the law designating the area exempts that area from the National Heritage Area System by specific reference to this Act.
+- **(6)** *National heritage area system* The term National Heritage Area System means the system of National Heritage Areas established by this Act.
+- **(7)** *Secretary* The term Secretary means the Secretary of the Interior.
+- **(8)** *Study area* The term study area means a specific geographic area that is the subject of a feasibility study under section 5.
+- **(9)** *Tribal government* The term Tribal government means the governing body of an Indian Tribe.
 
-## § 4. National Heritage Area System
+## § 3. National Heritage Area System
 
 - **(a)** *In general* In order to recognize certain areas of the United States that tell nationally significant stories and to conserve, enhance, and interpret the areas’ natural, historic, scenic, and cultural resources that together illustrate significant aspects of our country’s heritage, there is established a National Heritage Area System through which the Secretary may provide technical and financial assistance to local coordinating entities to support the establishment, development, and continuity of National Heritage Areas.
-- **(b)** *National Heritage Area System* The National Heritage Area System shall be composed of the following:
-  - **(1)** National Heritage Areas designated under this Act.
-  - **(2)** National Heritage Areas designated after the date of the enactment of this Act, unless the law designating the area exempts that area from the National Heritage Area System by specific reference to this Act.
-  - **(3)** The following:
-    - **(A)** Illinois and Michigan Canal National Heritage Corridor.
-    - **(B)** John H. Chafee Blackstone River Valley National Heritage Corridor.
-    - **(C)** Delaware and Lehigh National Heritage Corridor.
-    - **(D)** Southwestern Pennsylvania Heritage Preservation Commission (Path of Progress).
-    - **(E)** Cane River National Heritage Area.
-    - **(F)** Last Green Valley National Heritage Corridor.
-    - **(G)** America's Agricultural Heritage Partnership (Silos and Smokestacks).
-    - **(H)** Augusta Canal National Heritage Area.
-    - **(I)** Essex National Heritage Area.
-    - **(J)** Hudson River Valley National Heritage Area.
-    - **(K)** National Coal Heritage Area.
-    - **(L)** Ohio & Erie Canal National Heritage Canalway.
-    - **(M)** Rivers of Steel National Heritage Area.
-    - **(N)** Shenandoah Valley Battlefields National Historic District.
-    - **(O)** South Carolina National Heritage Corridor.
-    - **(P)** Tennessee Civil War Heritage Area.
-    - **(Q)** MotorCities National Heritage Area.
-    - **(R)** Lackawanna Valley National Heritage Area.
-    - **(S)** Schuylkill River Valley National Heritage Area.
-    - **(T)** Wheeling National Heritage Area.
-    - **(U)** Yuma Crossing National Heritage Area.
-    - **(V)** Erie Canalway National Heritage Corridor.
-    - **(W)** Blue Ridge National Heritage Area.
-    - **(X)** Mississippi Gulf Coast National Heritage Area.
-    - **(Y)** National Aviation Heritage Area.
-    - **(Z)** Oil Region National Heritage Area.
-    - **(AA)** Arabia Mountain National Heritage Area.
-    - **(BB)** Atchafalaya National Heritage Area.
-    - **(CC)** Champlain Valley National Heritage Partnership.
-    - **(DD)** Crossroads of the American Revolution National Heritage Area.
-    - **(EE)** Freedom's Frontier National Heritage Area.
-    - **(FF)** Great Basin National Heritage Route.
-    - **(GG)** Gullah/Geechee Heritage Corridor.
-    - **(HH)** Mormon Pioneer National Heritage Area.
-    - **(II)** Northern Rio Grande National Heritage Area.
-    - **(JJ)** Upper Housatonic Valley National Heritage Area.
-    - **(KK)** Abraham Lincoln National Heritage Area.
-    - **(LL)** Journey Through Hallowed Ground National Heritage Area.
-    - **(MM)** Niagara Falls National Heritage Area.
-    - **(NN)** Baltimore National Heritage Area.
-    - **(OO)** Cache La Poudre River National Heritage Area.
-    - **(PP)** Freedom's Way National Heritage Area.
-    - **(QQ)** Kenai Mountains-Turnagain Arm National Heritage Area.
-    - **(RR)** Mississippi Delta National Heritage Area.
-    - **(SS)** Mississippi Hills National Heritage Area.
-    - **(TT)** Muscle Shoals National Heritage Area.
-    - **(UU)** Northern Plains National Heritage Area.
-    - **(VV)** Sangre de Cristo National Heritage Area.
-    - **(WW)** South Park National Heritage Area.
-    - **(XX)** Any other National Heritage Area designated before the date of the enactment of this Act.
+- **(b)** *National heritage area system* The National Heritage Area System shall be composed of all National Heritage Areas.
 - **(c)** *Relationship to the national park system*
-  - **(1)** *Relationship to national park units* The Secretary shall—
-    - **(A)** ensure, to the maximum extent practicable, participation and assistance by any unit of the National Park System located near or encompassed by any National Heritage Area in local initiatives for that National Heritage Area that conserve and interpret resources consistent with an approved management plan for the National Heritage Area; and
-    - **(B)** work with National Heritage Areas to promote public enjoyment of units of the National Park System and park-related resources.
+  - **(1)** *Relationship to national park units* The Secretary shall encourage participation and assistance by any unit of the National Park System located near or encompassed by any National Heritage Area in local initiatives for that National Heritage Area that conserve and interpret resources consistent with an approved management plan for the National Heritage Area.
   - **(2)** *Applicability of laws* National Heritage Areas shall not be—
     - **(A)** considered to be units of the National Park System; or
     - **(B)** subject to the authorities applicable to units of the National Park System.
-- **(d)** *Duties* Under the National Heritage Area System, the Secretary shall—
-  - **(1)** undertake studies as directed by Congress through legislation to assess the feasibility of designating proposed National Heritage Areas or review and comment on studies undertaken by other parties for this purpose as provided in this Act;
-  - **(2)** review and approve or disapprove the management plan for a National Heritage Area as provided in this Act;
-  - **(3)** submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the United States Senate reports describing the activities conducted with respect to National Heritage Areas in accordance with this Act; and
-  - **(4)** conduct an evaluation of the accomplishments and prepare a report with recommendations for the National Park Service’s future role with respect to each designated National Heritage Area as provided in this Act.
-- **(e)** *Authorities* In carrying out this Act, the Secretary may—
-  - **(1)** provide technical and financial assistance in accordance with the provisions of section 10, and the amounts authorized under section 12, on a reimbursable or nonreimbursable basis as determined by the Secretary in the development and implementation of management plans and for administrative functions for designated National Heritage Areas;
-  - **(2)** enter into cooperative agreements with other Federal agencies, State, tribal and local governments, local coordinating entities, and other interested parties to carry out the purposes of this Act;
-  - **(3)** provide information, promote understanding, and encourage research on National Heritage Areas in partnership with local coordinating entities; and
-  - **(4)** provide national oversight, analysis, coordination, technical and financial assistance, and support to ensure consistency and accountability of the National Heritage Area System.
 
-## § 5. Feasibility studies
+## § 4. National Heritage Area System management
 
-The Secretary, in undertaking a feasibility study, or reviewing a feasibility study conducted by others, shall apply the following criteria to determine the suitability and feasibility of designating a proposed National Heritage Area:
+- **(a)** *Management plan*
+  - **(1)** *In general* Not later than 3 years after a National Heritage Area is included in the National Heritage Area System outlined by this Act, the local coordinating entity of the National Heritage Area shall submit to the Secretary for approval a management plan for the National Heritage Area.
+  - **(2)** *Requirements* The management plan shall—
+    - **(A)** incorporate an integrated and cooperative approach for the protection, enhancement, and interpretation of the natural, cultural, historic, scenic, and recreational resources of the National Heritage Area;
+    - **(B)** be developed using a comprehensive planning approach that includes—
+      - **(i)** opportunities for stakeholders, including community members, local and regional governments, Tribal governments, businesses, nonprofit organizations, and other interested parties—
+        - **(I)** to be involved in the planning process; and
+        - **(II)** to review and comment on draft management plans; and
+      - **(ii)** documentation of the planning and public participation processes, including a description of—
+        - **(I)** the means by which the management plan was prepared;
+        - **(II)** the stakeholders involved in the process; and
+        - **(III)** the timing and method of stakeholder involvement;
+    - **(C)** include—
+      - **(i)** an inventory of—
+        - **(I)** the resources located in the National Heritage Area; and
+        - **(II)** any other property in the National Heritage Area that—
+          - **(aa)** is related to the themes of the National Heritage Area; and
+          - **(bb)** should be preserved, restored, managed, or maintained because of the significance of the property;
+      - **(ii)** comprehensive policies, strategies and recommendations for the conservation, funding, management, and development of the National Heritage Area;
+      - **(iii)** a description of actions that the Federal, Tribal, State, and local governments, private organizations, and individuals have agreed to take to protect the natural, historical, cultural, scenic, and recreational resources of the National Heritage Area;
+      - **(iv)** a program of implementation for the management plan by the local coordinating entity that includes a description of—
+        - **(I)** actions to facilitate ongoing collaboration among partners to promote plans for resource protection, restoration, and construction; and
+        - **(II)** specific commitments for implementation that have been made by the local coordinating entity or any government, organization, or individual for the first 5 years of operation;
+      - **(v)** the identification of sources of funding for carrying out the management plan;
+      - **(vi)** analysis and recommendations for means by which Federal, Tribal, State, and local programs, including the role of the National Park Service in the National Heritage Area, may best be coordinated to carry out this subsection; and
+      - **(vii)** an interpretive plan for the National Heritage Area; and
+    - **(D)** recommend policies and strategies for resource management that consider and detail the application of appropriate land and water management techniques, including the development of intergovernmental and interagency cooperative agreements to protect the natural, historical, cultural, educational, scenic, and recreational resources of the National Heritage Area.
+  - **(3)** *Exceptions* The requirements in paragraph (2) shall not apply to management plans in effect on the date of the enactment of this Act.
+- **(b)** *Evaluations*
+  - **(1)** *In general* Not later than 1 year before the authorization for Federal funding expires for a National Heritage Area, the Secretary shall—
+    - **(A)** conduct an evaluation of the accomplishments of that National Heritage Area; and
+    - **(B)** prepare and submit a report detailing the evaluation required by subparagraph (A) to—
+      - **(i)** the Committee on Natural Resources of the House of Representatives; and
+      - **(ii)** the Committee on Energy and Natural Resources of the Senate.
+  - **(2)** *Evaluation components* An evaluation prepared under paragraph (1) shall—
+    - **(A)** assess the progress of the local coordinating entity with respect to—
+      - **(i)** accomplishing the purposes of the authorizing legislation for the National Heritage Area; and
+      - **(ii)** achieving the goals and objectives of the approved management plan for the National Heritage Area;
+    - **(B)** analyze the Federal, Tribal, State, local, and private investments in the National Heritage Area to assess the impact of the investments; and
+    - **(C)** review the management structure, partnership relationships, and funding of the National Heritage Area.
+  - **(3)** *Results of evaluation* Based upon the evaluation under paragraph (1), the Secretary shall prepare a report with recommendations for the National Park Service’s continued role, if any, with respect to the National Heritage Area. If the report recommends that Federal funding for the National Heritage Area be—
+    - **(A)** continued, the report shall include an analysis of—
+      - **(i)** ways in which Federal funding for the National Heritage Area may be reduced or eliminated over time;
+      - **(ii)** the appropriate time period necessary to achieve the recommended reduction or elimination; and
+      - **(iii)** justification for the continued funding in light of other National Park Service core responsibilities and priorities; or
+    - **(B)** eliminated, the report shall include a description of potential impacts on conservation, interpretation, and sustainability of the National Heritage Area.
+  - **(4)** *Updates; Additional evaluations*
+    - **(A)** *Updates* The Secretary may satisfy the requirement under paragraph (1) for a National Heritage Area by updating an evaluation that was completed for that National Heritage Area not more than 5 years before another evaluation would otherwise be required under paragraph (1).
+    - **(B)** *Additional evaluations* The Secretary may conduct additional evaluations as the Secretary deems appropriate.
+- **(c)** *Coordination* The head of any Federal agency planning to conduct activities that may have an impact on a designated National Heritage Area is encouraged to consult and coordinate these activities with the Secretary and the local coordinating entity to the maximum extent practicable.
 
-- **(1)** The proposed area is worthy of designation as a National Heritage Area because—
-  - **(A)** the area includes natural, historic, cultural, or scenic resources that are associated with nationally significant themes and events and these resources—
-    - **(i)** combine to form a distinct and cohesive landscape; and
-    - **(ii)** retain sufficient integrity to support the themes and events associated with the area’s national significance; and
-  - **(B)** the area provides opportunities to conserve natural, historic, cultural, or scenic resource through local and regional partnerships.
-- **(2)** A conceptual boundary for the proposed area is developed based upon community input and the resources and themes that support the area’s national significance.
-- **(3)** Residents, business interests, nonprofit organizations, and governments, including Federal land management agencies and tribal governments within the proposed area, have been involved in the feasibility study process and have demonstrated significant support through letters and other means for National Heritage Area designation.
-- **(4)** A local coordinating entity has been selected to operate the proposed heritage area’s activities and the organization is supported by residents, business interests, nonprofit organizations, and governments within the proposed area.
-- **(5)** The recommendations put forth in the feasibility study are consistent with continued economic activity within the area.
+## § 5. Study areas
 
-## § 6. Management plan
+- **(a)** *Feasibility studies*
+  - **(1)** *In general* The Secretary may carry out or certify a study to assess the suitability and feasibility of designating a specific geographic area as a National Heritage Area to be included in the National Heritage Area System.
+  - **(2)** *Preparation* The feasibility study shall be carried out—
+    - **(A)** by the Secretary in consultation with Tribal, State, and local historic preservation officers, State and local historical societies, State and local tourism offices, and other appropriate organizations and governmental agencies; or
+    - **(B)** by interested individuals or entities, if the Secretary certifies that the completed study meets the requirements of paragraph (4).
+  - **(3)** *Certification* Not later than 1 year after receiving a study carried out by interested individuals or entities under paragraph (2)(B) the Secretary shall review and certify whether the study meets the requirements of paragraph (4).
+  - **(4)** *Requirements* A study under paragraph (1) shall include analysis, documentation, and determination on whether the study area—
+    - **(A)** has an assemblage of natural, historic, and cultural resources that—
+      - **(i)** represent distinct aspects of the heritage of the United States;
+      - **(ii)** are worthy of recognition, conservation, interpretation, and continuing use; and
+      - **(iii)** would be best managed—
+        - **(I)** through partnerships among public and private entities; and
+        - **(II)** by linking diverse and sometimes noncontiguous resources;
+    - **(B)** reflects traditions, customs, beliefs, and folklife that are a valuable part of the story of the United States;
+    - **(C)** provides outstanding opportunities—
+      - **(i)** to conserve natural, historic, cultural, or scenic features; and
+      - **(ii)** for recreation and education;
+    - **(D)** contains resources that—
+      - **(i)** are important to any identified themes of the study area; and
+      - **(ii)** retain a degree of integrity capable of supporting interpretation;
+    - **(E)** includes Tribal governments, residents, business interests, nonprofit organizations, and State and local governments that—
+      - **(i)** are involved in the planning of the study area;
+      - **(ii)** have developed a conceptual financial plan that outlines the roles of all participants in the study area, including the Federal Government; and
+      - **(iii)** have demonstrated support for the designation of the study area;
+    - **(F)** has a potential local coordinating entity to work in partnership with the individuals and entities described in paragraph (1) to develop the study area while encouraging State and local economic activity; and
+    - **(G)** has a conceptual boundary map that is supported by the public.
+- **(b)** *Report*
+  - **(1)** *In general* For each study carried out under subsection (a), the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that describes—
+    - **(A)** the findings of the study described in subsection (a) for that study area; and
+    - **(B)** any conclusions and recommendations of the Secretary.
+  - **(2)** *Timing*
+    - **(A)** With respect to a study carried out by the Secretary in accordance with paragraph (2)(A)(i), the Secretary shall submit a report under subparagraph (A) not later than 3 years after the date on which funds are first made available to carry out the study.
+    - **(B)** With respect to a study carried out by interested individuals or entities in accordance with paragraph (2)(A)(ii), the Secretary shall submit a report under subparagraph (A) not later than 180 days after the date on which the Secretary certifies under paragraph (2)(B) that the study meets the requirements of paragraph (3).
 
-- **(a)** *In General* Except as provided in subparagraph (b), a management plan for any National Heritage Area shall—
-  - **(1)** use a comprehensive planning approach that includes—
-    - **(A)** opportunities for stakeholders, such as community members, local and regional governments, tribes, businesses, nonprofit organizations, and others, to be involved in the planning process;
-    - **(B)** opportunities for stakeholders to review and comment on the draft plan; and
-    - **(C)** documentation of the planning and public participation processes used to develop the plan, including how it was prepared, who was involved in the process, and how and when the stakeholders were involved;
-  - **(2)** include an inventory of the natural, historic, cultural, or scenic resources of the National Heritage Area related to the nationally significant themes and events of the region that should be protected, enhanced, interpreted, managed, or developed;
-  - **(3)** identify comprehensive goals, strategies, policies, and recommendations for telling the story of the region’s heritage and encouraging long-term resource protection, enhancement, interpretation, and development;
-  - **(4)** include recommendations for ways in which local, State, tribal, and Federal entities may best be coordinated, including the role of the National Park Service and other Federal agencies associated with the National Heritage Area, to further the purposes of this Act;
-  - **(5)** outline a strategy for the local coordinating entity to achieve financial sustainability;
-  - **(6)** include an implementation program that identifies—
-    - **(A)** prioritized actions and criteria for selecting future projects;
-    - **(B)** the ways in which stakeholders will be involved in their implementation;
-    - **(C)** existing and potential sources of funding;
-    - **(D)** performance goals; and
-    - **(E)** the manner in which the plan will be evaluated and updated; and
-  - **(7)** include a business plan for the local coordinating entity that, at minimum, addresses management and operation, products or services offered, the target market for products and services, and revenue streams.
-- **(b)** *Exceptions* The requirements in subsection (b) shall not apply to management plans in effect on the date of the enactment of this Act.
+## § 6. Local coordinating entities
 
-## § 7. Designation
-
-- **(a)** *In general* The designation of a National Heritage Area shall be—
-  - **(1)** by Federal statute; and
-  - **(2)** contingent on the prior completion of a management plan and an affirmative determination by the Secretary that the area meets the criteria required under this Act.
-- **(b)** *Component of the National Heritage Area System* Any National Heritage Area designated under subsection (a) shall be a component of the National Heritage Area System.
-
-## § 8. Evaluation
-
-- **(a)** *In general* Not later than every 10 years after the date on which a National Heritage Area is designated, the Secretary shall—
-  - **(1)** conduct an evaluation of the accomplishments of that National Heritage Area; and
-  - **(2)** prepare a report with recommendations for the National Park Service’s continued role with respect to that National Heritage Area.
-- **(b)** *Evaluation components* An evaluation prepared under subsection (a) shall—
-  - **(1)** assess the progress of the local coordinating entity with respect to—
-    - **(A)** accomplishing the purposes of the authorizing legislation for the National Heritage Area; and
-    - **(B)** achieving the goals and objectives of the approved management plan for the National Heritage Area;
-  - **(2)** analyze the Federal, State, local, and private investments in the National Heritage Area to determine the leverage and impact of the investments; and
-  - **(3)** review the management structure, partnership relationships, and funding of the National Heritage Area for purposes of identifying the critical components for sustainability of the National Heritage Area.
-- **(c)** *Recommendations* Based upon the evaluation under subsection (a), the Secretary shall prepare a report with recommendations for the National Park Service’s continued role with respect to the National Heritage Area. If the report recommends that Federal funding for the National Heritage Area be—
-  - **(1)** continued, the report shall include an analysis of—
-    - **(A)** ways in which Federal funding for the National Heritage Area may be reduced or eliminated over time; and
-    - **(B)** the appropriate time period necessary to achieve the recommended reduction or elimination; and
-  - **(2)** eliminated, the report to Congress shall include a description of potential impacts on conservation, interpretation, and sustainability of the partnership.
-- **(d)** *Submission to congress* On completion of a report under subsection (c), the Secretary shall submit the report to—
-  - **(1)** the Committee on Energy and Natural Resources of the Senate; and
-  - **(2)** the Committee on Natural Resources of the House of Representatives.
-
-## § 9. Local coordinating entities
-
-- **(a)** *Duties* To further the purposes of the National Heritage Area, the local coordinating entity shall—
-  - **(1)** prepare and submit a management plan for the National Heritage Area to the Secretary in accordance with section 7;
-  - **(2)** submit an annual report to the Secretary for any fiscal year in which it receives Federal funds under this Act, setting forth its specific performance goals and accomplishments, expenses and income, amounts and sources of matching funds as appropriate, the amounts leveraged with Federal funds and sources of such leveraging, and grants made to any other entities during the year for which the report is made;
-  - **(3)** make available for audit for any fiscal year in which it receives Federal funds under this Act, all information pertaining to the expenditure of such funds and any matching funds; and
-  - **(4)** encourage by appropriate means economic viability and sustainability that is consistent with the purposes of the National Heritage Area.
+- **(a)** *Duties* For any year that Federal funds have been made available under this Act for a National Heritage Area, the local coordinating entity for that National Heritage Area shall—
+  - **(1)** submit to the Secretary an annual report that describes the activities, expenses, and income of the local coordinating entity (including grants to any other entities during the year that the report is made);
+  - **(2)** make available to the Secretary for audit all records relating to the expenditure of Federal funds and any matching funds; and
+  - **(3)** require, with respect to all agreements authorizing expenditure of Federal funds by other organizations, that the organizations receiving the funds make available to the Secretary for audit all records concerning the expenditure of the funds.
 - **(b)** *Authorities* The local coordinating entity may, subject to the prior approval of the Secretary, for the purposes of preparing and implementing the approved management plan for the National Heritage Area, use Federal funds made available through this Act to—
-  - **(1)** make grants to political jurisdictions, nonprofit organizations, and other parties within the National Heritage Area;
-  - **(2)** enter into cooperative agreements with or provide technical assistance to political jurisdictions, nonprofit organizations, Federal agencies, and other interested parties;
+  - **(1)** make grants to Indian Tribes, a State, a local government, nonprofit organizations, and other parties within the National Heritage Area;
+  - **(2)** enter into cooperative agreements with or provide technical assistance to the Indian Tribes, State, a local government, nonprofit organizations, Federal agencies, and other interested parties;
   - **(3)** hire and compensate staff, which may include individuals with expertise in natural, cultural, and historic resources conservation; economic and community development; and heritage planning;
-  - **(4)** obtain money or services from any source including any that are provided under other Federal laws or programs;
+  - **(4)** obtain money or services, including those provided under other Federal laws or programs;
   - **(5)** contract for goods or services; and
   - **(6)** support activities of partners and any other activities that further the purposes of the National Heritage Area and are consistent with the approved management plan.
-- **(c)** *Prohibitions on the acquisition of real property* The local coordinating entity may not use Federal funds received under this Act to acquire any interest in real property.
+- **(c)** *Prohibitions on the acquisition of real property* The local coordinating entity may not use Federal funds received under this Act to acquire real property or any interest in real property.
 
-## § 10. Relationship to other Federal agencies
-
-- **(a)** *Provision of assistance* This Act shall not affect the authority of any Federal official to provide technical or financial assistance under any other law.
-- **(b)** *Coordination* The head of any Federal agency planning to conduct activities that may have an impact on a designated National Heritage Area shall consult and coordinate these activities with the Secretary and the local coordinating entity.
-- **(c)** *Other laws and regulations* This Act shall not modify any law or regulation authorizing Federal officials to manage Federal land under their control or limit the discretion of Federal land managers to implement approved land use plans within the boundaries of a National Heritage Area, nor shall this Act be construed to modify, alter, or amend any authorized uses of these Federal lands.
-
-## § 11. Property owners and regulatory protections
+## § 7. Property owners and regulatory protections
 
 Nothing in this Act shall be construed to—
 
 - **(1)** abridge the rights of any property owner, whether public or private, including the right to refrain from participating in any plan, project, program, or activity conducted within the National Heritage Area;
-- **(2)** require any property owner to permit public access (including Federal, State, tribal, or local government access) to such property or to modify any provisions of Federal, State, tribal, or local law with regard to public access or use of private lands;
-- **(3)** alter any duly adopted land use regulation or any approved land use plan or any other regulatory authority of any Federal, State, or local agency or tribal government, or to convey any land use or other regulatory authority to any local coordinating entity;
+- **(2)** require any property owner to permit public access (including Federal, Tribal, State, or local government access) to such property or to modify any provisions of Federal, Tribal, State, or local law with regard to public access or use of private lands;
+- **(3)** alter any duly adopted land use regulation or any approved land use plan or any other regulatory authority of any Federal, Tribal, or State, or local government, or to convey any land use or other regulatory authority to any local coordinating entity;
 - **(4)** authorize or imply the reservation or appropriation of water or water rights;
-- **(5)** diminish the authority of the State to manage fish and wildlife including the regulation of fishing and hunting within the National Heritage Area; or
-- **(6)** create any liability, or to have any effect on any liability under any other law, of any private property owner with respect to any persons injured on such private property.
+- **(5)** diminish the authority of the State to manage fish and wildlife including the regulation of fishing and hunting within the National Heritage Area;
+- **(6)** create any liability, or have any effect on any liability under any other law, of any private property owner with respect to any persons injured on such private property;
+- **(7)** affect the authority of any Federal official to provide technical or financial assistance under any other law;
+- **(8)** modify any law or regulation authorizing Federal officials to manage Federal land under their control or limit the discretion of Federal land managers to implement approved land use plans within the boundaries of a National Heritage Area, nor shall this Act be construed to modify, alter, or amend any authorized uses of these Federal lands; or
+- **(9)** enlarge or diminish the treaty rights of any Indian Tribe within the National Heritage Area.
 
-## § 12. Funding
+## § 8. Authorization of appropriations
 
-- **(a)** *Federal Funds*
-  - **(1)** *In general* There are authorized to be appropriated to carry out the activities under section 9 not more than $700,000 for any fiscal year for each National Heritage Area.
-  - **(2)** *Feasibility studies; management plans* In addition to amounts authorized in paragraph (1), there are authorized to be appropriated to the Secretary—
-    - **(A)** not more than $300,000 for any fiscal year, to conduct feasibility studies by the National Park Service in accordance with the provisions of section 5, with not more than $100,000 allocated in the fiscal year for any one feasibility study for a proposed National Heritage Area; and
-    - **(B)** not more than $750,000 for any fiscal year, to conduct management plans by the National Park Service in accordance with the provisions of section 6, with not more than $250,000 allocated in the fiscal year for any one management plan for a proposed National Heritage Area.
-  - **(3)** *Grants* Funding provided under paragraph (2) shall be in the form of grants approved by the National Park Service and provided to the local coordinating entity conducting the feasibility study or management plan.
-- **(b)** *Matching funds*
-  - **(1)** *Amount* As a condition of providing financial assistance under this section to a local coordinating entity, the Secretary shall require the entity to provide matching funds equal to—
-    - **(A)** the amount of the Federal funds received by that National Heritage Area for any fiscal year under subsection (a)(1);
-    - **(B)** 25 percent of the amount of the Federal funds received by that National Heritage Area for feasibility studies under subsection (a); and
-    - **(C)** 50 percent of the amount of the Federal funds received by that National Heritage Area for a management plan under subsection (a).
-  - **(2)** *Source; form* The local coordinating entity’s matching funds required under paragraph (1) shall be—
-    - **(A)** from non-Federal sources; or
-    - **(B)** made in the form of in-kind contributions of goods or services fairly valued.
+- **(a)** *In general* Notwithstanding any other provision of law, for each of fiscal years 2020 through 2034, there is authorized to be appropriated not more than $750,000 for each National Heritage Area.
+- **(b)** *Availability* Amounts made available under subsection (a) shall remain available until expended.
+- **(c)** *Cost-sharing requirement*
+  - **(1)** *Federal share* Notwithstanding any other provision of law, including any law designating a National Heritage Area, the Federal share of the total cost of any activity funded with appropriations authorized by subsection (a) shall not be more than 50 percent.
+  - **(2)** *Form of non-Federal share* The non-Federal share of the total cost of any activity funded with appropriations authorized by subsection (a) may be in the form of in-kind contributions of goods or services fairly valued.
+- **(c)** *Authority to provide assistance* Notwithstanding any other provision of law, the Secretary may provide assistance to a National Heritage Area during any fiscal year for which appropriations are authorized under subsection (a).
 
-## § 13. Sunset
+## § 9. Statutory Clarification
 
-The National Heritage Area System shall expire on the date that is 20 years after the date of the enactment of this Act.
+- **(a)** *Authorization limitations* Any provision of law enacted before the date of the enactment of this Act that provides for a termination, expiration, or other time limitation on the authorization for a National Heritage Area is hereby superceded and shall have no effect.
+- **(b)** *Funding limitations* Any provision of law enacted before the date of the enactment of this Act that provides for a termination, expiration, or other limitation on the time or amount of an authorization of appropriations for a National Heritage Area is hereby superceded and shall have no effect.
+- **(c)** *Evaluations* Any provision of law enacted before the date of the enactment of this Act that requires the Secretary to conduct an evaluation of or submit a report on the accomplishments of a National Heritage Area is hereby superceded and shall have no effect.
+- **(d)** *Other authorities* Any provision of law enacted before the date of the enactment of this Act that provides for the establishment, management, administration, operation, or otherwise affects a National Heritage Area and is not explicitly otherwise provided for in this Act shall not be affected by this Act.
