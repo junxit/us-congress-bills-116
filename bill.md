@@ -1,0 +1,14 @@
+---
+legis-num: H.J. RES. 102
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.J. RES. 102
+
+> Providing for congressional disapproval of the proposed foreign military sale to the United Arab Emirates of certain defense articles and services.
+
+That the following proposed foreign military sale to the United Arab Emirates is prohibited:
+
+- **(1)** The sale of the following defense articles, including defense services and technical data, described in Transmittal No. 21–03, submitted to Congress pursuant to section 36(b) of the Arms Export Control Act (22 U.S.C. 2776(b)) and published in the Congressional Record on November 10, 2020: Eight hundred two (802) AIM–120C8 Advanced Medium Range Air-to-Air Missiles (AMRAAM); Sixteen (16) AIM–120C8 AMRAAM Guidance Sections Spares; Two thousand four (2,004) MK–82 500LB General Purpose (GP) Bombs; Seventy-two (72) MK–82 Inert 500LB GP Bombs; One thousand (1,000) MK–84 2,000LB GP Bombs; One thousand two (1,002) MK–83 1,000LB GP Bombs; Two thousand five hundred (2,500) Small Diameter Bomb Increment 1 (SDB–1), GBU–39/B, with CNU–659/E Container; Eight (8) GBU–39 SDB–1 Guided Test Vehicles; Two thousand (2,000) KMU–572 Joint Direct Attack Munition (JDAM) Tail Kit for 500LB Bombs; One thousand (1,000) KMU–556 JDAM Tail Kit for 2,000LB Bombs; One thousand (1,000) KMU–559 JDAM Tail Kit for l,000LB Bombs; Four thousand (4,000) FMU–139 Fuze Systems; Six hundred fifty (650) AGM–154C Joint Stand Off Weapons (JSOWs); Fifty (50) AGM–154E Joint Stand Off Weapons—Extended Range (JSOW–ER); One hundred fifty (150) AGM–88E Advanced Anti-Radiation Guided Missile (AARGM) Tactical Missiles; Six (6) CATM–88 AARGM CATMs; Six (6) AGM–154C JSOW–C Captive Air Training Missiles (CATMs); six (6) AGM–154E JSOW–ER CATMs; ARD 446–lB and ARD 863–lAlW Impulse Cartridges; JSOW-C Dummy Air Training Missiles (DATM); JSOW–C Captive Flight Vehicles (CFVs); JSOW–ER DATMs; JSOW–ER CFVs; PGU–23/U training ammunition, encryption devices, and keying equipment for test missiles (not for export); Laser Illuminated Target Detector, DSU–38A/B; software delivery and support; AIM–120C Captive Air Training Missiles (CATM) and Airborne Instrumented Units (AIU) Telemetry Sections; missile containers; munitions components; aircraft test and integration support; containers; mission planning; munitions security, storage, and training; facility design, construction, and quality standards; weapon operational flight program software development; transportation; tools and test equipment; support equipment; spare and repair parts; weapons and aircraft integration support and test equipment; publications and technical documentation; personnel training and training equipment, devices and software; United States Government and contractor engineering, technical, and logistics support services; site surveys; and other related elements of logistics and program support.
