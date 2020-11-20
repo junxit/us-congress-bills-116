@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8294
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 8294
@@ -81,3 +81,56 @@ National Apprenticeship Act of 2020
 - 2020-11-09 — Placed on the Union Calendar, Calendar No. 465.
 - 2020-11-09 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 116-567, Part I.
 - 2020-11-09 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 116-567, Part I.
+- 2020-11-17 — Rules Committee Resolution H. Res. 1224 Reported to House. Rule provides for consideration of H.R. 8294 with 1 hour of general debate. Motion to recommit with or without instructions allowed. Specified amendments are in order. The resolution provides that the amendment in the nature of a substitute recommended by the Committee on Education and Labor now printed in the bill, modified by the amendment printed in Part A of the Rules Committee report, shall be considered as adopted and the bill, as amended.
+- 2020-11-19 — Amendment agreed to by House: On agreeing to the Scott (VA) amendments (A002) Agreed to by voice vote.
+- 2020-11-19 — Amendment agreed to by House: On agreeing to the Scott (VA) amendments (A003) Agreed to by voice vote.
+- 2020-11-19 — Amendment in the nature of a substitute reported by the House Committee on Rules. (consideration: CR H5950-5965; text: CR H5950-5965)
+- 2020-11-19 — Amendments en bloc (A002) offered by Mr. Scott (VA). (consideration: CR H5977-5980; text: CR H5977-5978)
+- 2020-11-19 — Amendments en bloc (A003) offered by Mr. Scott (VA). (consideration: CR H5980-5982; text: CR H5980)
+- 2020-11-19 — Considered under the provisions of rule H. Res. 1224. (consideration: CR H5950-5982)
+- 2020-11-19 — DEBATE - Pursuant to the provisions of H.Res. 1224, the House proceeded with 20 minutes of debate on the Scott(VA) En Bloc amendment No. 1.
+- 2020-11-19 — DEBATE - Pursuant to the provisions of H.Res. 1224, the House proceeded with 20 minutes of debate on the Scott(VA) En Bloc amendment No. 2.
+- 2020-11-19 — DEBATE - The House proceeded with one hour of debate on H.R. 8294.
+- 2020-11-19 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2020-11-19 — House amendment agreed to: On agreeing to the Scott (VA) amendments (A002) Agreed to by voice vote.
+- 2020-11-19 — House amendment agreed to: On agreeing to the Scott (VA) amendments (A003) Agreed to by voice vote.
+- 2020-11-19 — House amendment offered
+- 2020-11-19 — House amendment offered
+- 2020-11-19 — House amendment offered
+- 2020-11-19 — House amendment offered/reported by: Amendments en bloc (A002) offered by Mr. Scott (VA).(consideration: CR H5977-5980; text: CR H5977-5978)
+- 2020-11-19 — House amendment offered/reported by: Amendments en bloc (A003) offered by Mr. Scott (VA).(consideration: CR H5980-5982; text: CR H5980)
+- 2020-11-19 — On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2020-11-19 — On agreeing to the Scott (VA) amendments (A002) Agreed to by voice vote.
+- 2020-11-19 — On agreeing to the Scott (VA) amendments (A003) Agreed to by voice vote.
+- 2020-11-19 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of Rule 19, the Chair postponed further consideration on H.R. 8294.
+- 2020-11-19 — Rule H. Res. 1224 passed House.
+- 2020-11-19 — Rule provides for consideration of H.R. 8294 with 1 hour of general debate. Motion to recommit with or without instructions allowed. Specified amendments are in order. The resolution provides that the amendment in the nature of a substitute recommended by the Committee on Education and Labor now printed in the bill, modified by the amendment printed in Part A of the Rules Committee report, shall be considered as adopted and the bill, as amended.
+- 2020-11-19 — The previous question was ordered on the amendment (A002) pursuant to the rule.
+- 2020-11-19 — The previous question was ordered on the amendment (A003) pursuant to the rule.
+- 2020-11-19 — Without objection, the motion to reconsider is laid upon the table.
+- 2020-11-19 — Without objection, the motion to reconsider is laid upon the table.
+- 2020-11-20 — Amendment (A004) offered by Mr. Levin (MI). (consideration: CR H5993-5994, H6005-6006; text: CR H5993)
+- 2020-11-20 — Amendment (A005) offered by Mr. Smucker. (consideration: CR H5994-6005, H6006; text: CR H5994-6004)
+- 2020-11-20 — Amendment agreed to by House: On agreeing to the Levin (MI) amendment (A004) Agreed to by the Yeas and Nays: 236 - 152 (Roll no. 225).
+- 2020-11-20 — Amendment failed by House: On agreeing to the Smucker amendment (A005) Failed by the Yeas and Nays: 142 - 243 (Roll no. 226).
+- 2020-11-20 — Considered as unfinished business. (consideration: CR H5993-6007)
+- 2020-11-20 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Levin (MI) amendment No. 9.
+- 2020-11-20 — DEBATE - Pursuant to the provisions of H. Res. 1224, the House proceeded with 10 minutes of debate on the Smucker amendment No. 15.
+- 2020-11-20 — House amendment agreed to: On agreeing to the Levin (MI) amendment (A004) Agreed to by the Yeas and Nays: 236 - 152 (Roll no. 225).
+- 2020-11-20 — House amendment not agreed to: On agreeing to the Smucker amendment (A005) Failed by the Yeas and Nays: 142 - 243 (Roll no. 226).
+- 2020-11-20 — House amendment offered
+- 2020-11-20 — House amendment offered
+- 2020-11-20 — House amendment offered/reported by: Amendment (A004) offered by Mr. Levin (MI).
+- 2020-11-20 — House amendment offered/reported by: Amendment (A005) offered by Mr. Smucker.
+- 2020-11-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-11-20 — On agreeing to the Levin (MI) amendment (A004) Agreed to by the Yeas and Nays: 236 - 152 (Roll no. 225).
+- 2020-11-20 — On agreeing to the Smucker amendment (A005) Failed by the Yeas and Nays: 142 - 243 (Roll no. 226).
+- 2020-11-20 — On passage Passed by the Yeas and Nays: 246 - 140 (Roll no. 227).
+- 2020-11-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Levin (MI) amendment, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Foxx demanded the yeas and nays and the Chair postponed further proceedings on the question of agreeing to the amendment until a time to be announced.
+- 2020-11-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Smucker amendment, the Chair put the question on agreeing to the amendment and by voice vote, announced that the noes had prevailed. Mr. Smucker demanded the yeas and nays and the Chair postponed further proceedings on the question of agreeing to the amendment until a time to be announced.
+- 2020-11-20 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 246 - 140 (Roll no. 227).
+- 2020-11-20 — Roll call votes on amendments in House
+- 2020-11-20 — Roll call votes on amendments in House
+- 2020-11-20 — The previous question was ordered on the amendment (A004) pursuant to the rule.
+- 2020-11-20 — The previous question was ordered on the amendment (A005) pursuant to the rule.
+- 2020-11-20 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on agreeing to amendments, which had been debated previously and on which further proceedings had been postponed.
