@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1248
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1248
@@ -29,3 +29,11 @@ York River Wild and Scenic River Act of 2019
 - 2019-02-14 — Introduced in House
 - 2019-02-14 — Introduced in House
 - 2019-02-14 — Referred to the House Committee on Natural Resources.
+- 2019-03-06 — Referred to the Subcommittee on National Parks, Forests, and Public Lands.
+- 2019-05-22 — Subcommittee Hearings Held.
+- 2020-09-30 — Committee Consideration and Mark-up Session Held.
+- 2020-09-30 — Ordered to be Reported by Voice Vote.
+- 2020-09-30 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2020-11-27 — Placed on the Union Calendar, Calendar No. 496.
+- 2020-11-27 — Reported by the Committee on Natural Resources. H. Rept. 116-603.
+- 2020-11-27 — Reported by the Committee on Natural Resources. H. Rept. 116-603.
