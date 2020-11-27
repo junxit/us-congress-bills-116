@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3884
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,7 +13,26 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Marijuana Opportunity Reinvestment and Expungement Act of 2019” or the “MORE Act of 2019”.
 
-## § 2. Decriminalization of cannabis
+## § 2. Findings
+
+The Congress finds as follows:
+
+- **(1)** The communities that have been most harmed by cannabis prohibition are benefiting the least from the legal marijuana marketplace.
+- **(2)** A legacy of racial and ethnic injustices, compounded by the disproportionate collateral consequences of 80 years of cannabis prohibition enforcement, now limits participation in the industry.
+- **(3)** 33 States, the District of Columbia, Puerto Rico, and Guam have adopted laws allowing legal access to cannabis, and 11 States, the District of Columbia, and the Commonwealth of the Northern Mariana Islands have adopted laws legalizing cannabis for adult recreational use.
+- **(4)** A total of 47 States have reformed their laws pertaining to cannabis despite the Schedule I status of marijuana and its Federal criminalization.
+- **(5)** Legal cannabis sales totaled $9.5 billion in 2017 and are projected to reach $23 billion by 2022.
+- **(6)** According to the American Civil Liberties Union (ACLU), enforcing cannabis prohibition laws costs taxpayers approximately $3.6 billion a year.
+- **(7)** The continued enforcement of cannabis prohibition laws results in over 600,000 arrests annually, disproportionately impacting people of color who are almost 4 times more likely to be arrested for cannabis possession than their White counterparts, despite equal rates of use across populations.
+- **(8)** People of color have been historically targeted by discriminatory sentencing practices resulting in Black men receiving drug sentences that are 13.1 percent longer than sentences imposed for White men and Latinos being nearly 6.5 times more likely to receive a Federal sentence for cannabis possession than non-Hispanic Whites.
+- **(9)** In 2013, simple cannabis possession was the fourth most common cause of deportation for any offense and the most common cause of deportation for drug law violations.
+- **(10)** Fewer than one-fifth of cannabis business owners identify as minorities and only approximately 4 percent are black.
+- **(11)** Applicants for cannabis licenses are limited by numerous laws, regulations, and exorbitant permit applications, licensing fees, and costs in these States, which can require more than $700,000.
+- **(12)** Historically disproportionate arrest and conviction rates make it particularly difficult for people of color to enter the legal cannabis marketplace, as most States bar these individuals from participating.
+- **(13)** Federal law severely limits access to loans and capital for cannabis businesses, disproportionately impacting minority small business owners.
+- **(14)** Some States and municipalities have taken proactive steps to mitigate inequalities in the legal cannabis marketplace and ensure equal participation in the industry.
+
+## § 3. Decriminalization of cannabis
 
 - **(a)** *Cannabis removed from schedule of controlled substances*
   - **(1)** *Removal in statute* Subsection (c) of schedule I of section 202(c) of the Controlled Substances Act (21 U.S.C. 812) is amended—
@@ -56,7 +75,7 @@ This Act may be cited as the “Marijuana Opportunity Reinvestment and Expungeme
     - **(B)** in subsection (2) by striking “marihuana”.
 - **(d)** *Retroactivity* The amendments made by this section to the Controlled Substances Act (21 U.S.C. 801 et seq.) are retroactive and shall apply to any offense committed, case pending, conviction entered, and, in the case of a juvenile, any offense committed, case pending, or adjudication of juvenile delinquency entered before, on, or after the date of enactment of this Act.
 
-## § 3. Demographic data of cannabis business owners and employees
+## § 4. Demographic data of cannabis business owners and employees
 
 - **(a)** *In general* The Bureau of Labor Statistics shall regularly compile, maintain, and make public data on the demographics of—
   - **(1)** individuals who are business owners in the cannabis industry; and
@@ -78,7 +97,7 @@ This Act may be cited as the “Marijuana Opportunity Reinvestment and Expungeme
   - **(2)** *Cannabis industry* The term cannabis industry means an individual or entity that is licensed or permitted under a State or local law to engage in commercial cannabis-related activity.
   - **(3)** *Owner* The term owner means an individual or entity that is defined as an owner under the State or local law where the individual or business is licensed or permitted.
 
-## § 4. Creation of Opportunity Trust Fund and imposition of tax on cannabis products
+## § 5. Creation of Opportunity Trust Fund and imposition of tax on cannabis products
 
 - **(a)** *Trust Fund*
   - **(1)** *Establishment* Subchapter A of chapter 98 of the Internal Revenue Code of 1986 is amended by adding at the end the following new section:
@@ -89,8 +108,8 @@ This Act may be cited as the “Marijuana Opportunity Reinvestment and Expungeme
     > - **(c)** *Expenditures* Amounts in the Trust Fund shall be available, without further appropriation, only as follows:
     >   - **(1)** 50 percent to the Attorney General to carry out section 3052(a) of part OO of the Omnibus Crime Control and Safe Streets Act of 1968.
     >   - **(2)** 10 percent to the Attorney General to carry out section 3052(b) of part OO of the Omnibus Crime Control and Safe Streets Act of 1968.
-    >   - **(3)** 20 percent to the Administrator of the Small Business Administration to carry out section 5(b)(1) of the Marijuana Opportunity Reinvestment and Expungement Act of 2019.
-    >   - **(4)** 20 percent to the Administrator of the Small Business Administration to carry out section 5(b)(2) of the Marijuana Opportunity Reinvestment and Expungement Act of 2019.
+    >   - **(3)** 20 percent to the Administrator of the Small Business Administration to carry out section 6(b)(1) of the Marijuana Opportunity Reinvestment and Expungement Act of 2019.
+    >   - **(4)** 20 percent to the Administrator of the Small Business Administration to carry out section 6(b)(2) of the Marijuana Opportunity Reinvestment and Expungement Act of 2019.
 
   - **(2)** *Clerical Amendment* The table of sections for subchapter A of chapter 98 of such Code is amended by adding at the end the following new item:
 - **(b)** *Imposition of tax*
@@ -122,7 +141,7 @@ This Act may be cited as the “Marijuana Opportunity Reinvestment and Expungeme
   - **(1)** *In general* Except as otherwise provided in this subsection, the amendments made by this section shall apply to articles manufactured or imported in calendar quarters beginning more than one year after the date of the enactment of this Act.
   - **(2)** *Trust fund* The amendments made by subsection (a) shall take effect on the date of the enactment of this Act.
 
-## § 5. Opportunity trust fund programs
+## § 6. Opportunity trust fund programs
 
 - **(a)** *Cannabis Justice Office; community reinvestment grant program*
   - **(1)** *Cannabis Justice Office* Part A of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10101 et seq.) is amended by inserting after section 109 the following:
@@ -158,7 +177,7 @@ This Act may be cited as the “Marijuana Opportunity Reinvestment and Expungeme
       - **(ii)** eliminate violations or other penalties for persons under parole, probation, pre-trial, or other State or local criminal supervision for a cannabis offense.
     - **(C)** The term State means each of the several States, the District of Columbia, Puerto Rico, any territory or possession of the United States, and any Indian Tribe (as defined in section 201 of Public Law 90–294 (25 U.S.C. 1301) (commonly known as the “Indian Civil Rights Act of 1968”)).
 
-## § 6. Availability of Small Business Administration programs and services to cannabis-related legitimate businesses and service providers
+## § 7. Availability of Small Business Administration programs and services to cannabis-related legitimate businesses and service providers
 
 - **(a)** *Definitions relating to cannabis-Related legitimate businesses and service providers* Section 3 of the Small Business Act (15 U.S.C. 632) is amended by adding at the end the following new subsection:
   > - **(ff)** *Cannabis-Related legitimate businesses and service providers* In this Act:
@@ -200,12 +219,12 @@ This Act may be cited as the “Marijuana Opportunity Reinvestment and Expungeme
   >
   > The Administrator may not decline to provide a guarantee for a loan under this title to an otherwise eligible State or local development company solely because such State or local development company provides financing to an entity that is a cannabis-related legitimate business or service provider (as defined in section 3(ff) of the Small Business Act).
 
-## § 7. No discrimination in the provision of a federal public benefit on the basis of cannabis
+## § 8. No discrimination in the provision of a federal public benefit on the basis of cannabis
 
 - **(a)** *In general* No person may be denied any Federal public benefit (as such term is defined in section 401(c) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (8 U.S.C. 1611(c))) on the basis of any use or possession of cannabis, or on the basis of a conviction or adjudication of juvenile delinquency for a cannabis offense, by that person.
 - **(b)** *Security clearances* Federal agencies may not use past or present cannabis or marijuana use as criteria for granting, denying, or rescinding a security clearance.
 
-## § 8. No adverse effect for purposes of the immigration laws
+## § 9. No adverse effect for purposes of the immigration laws
 
 - **(a)** *In general* For purposes of the immigration laws (as such term is defined in section 101 of the Immigration and Nationality Act), cannabis may not be considered a controlled substance, and an alien may not be denied any benefit or protection under the immigration laws based on any event, including conduct, a finding, an admission, addiction or abuse, an arrest, a juvenile adjudication, or a conviction, relating to cannabis, regardless of whether the event occurred before, on, or after the effective date of this Act.
 - **(b)** *Cannabis defined* The term cannabis—
@@ -222,7 +241,7 @@ This Act may be cited as the “Marijuana Opportunity Reinvestment and Expungeme
   - **(6)** in section 210(c)(2)(B)(ii)(III) by striking “, except for so much of such paragraph as relates to a single offense of simple possession of 30 grams or less of marihuana”; and
   - **(7)** in section 245A(d)(2)(B)(ii)(II) by striking “, except for so much of such paragraph as relates to a single offense of simple possession of 30 grams or less of marihuana”.
 
-## § 9. Resentencing and expungement
+## § 10. Resentencing and expungement
 
 - **(a)** *Expungement of Federal cannabis offense convictions for individuals not under a criminal justice sentence*
   - **(1)** *In general* Not later than 1 year after the date of the enactment of this Act, each Federal district shall conduct a comprehensive review and issue an order expunging each conviction or adjudication of juvenile delinquency for a Federal cannabis offense entered by each Federal court in the district before the date of enactment of this Act and on or after May 1, 1971. Each Federal court shall also issue an order expunging any arrests associated with each expunged conviction or adjudication of juvenile delinquency.
@@ -242,25 +261,52 @@ This Act may be cited as the “Marijuana Opportunity Reinvestment and Expungeme
   - **(1)** The term Federal cannabis offense means an offense that is no longer punishable pursuant to this Act or the amendments made under this Act.
   - **(2)** The term expunge means, with respect to an arrest, a conviction, or a juvenile delinquency adjudication, the removal of the record of such arrest, conviction, or adjudication from each official index or public record.
   - **(3)** The term under a criminal justice sentence means, with respect to an individual, that the individual is serving a term of probation, parole, supervised release, imprisonment, official detention, pre-release custody, or work release, pursuant to a sentence or disposition of juvenile delinquency imposed on or after the effective date of the Controlled Substances Act (May 1, 1971).
+- **(e)** *Study* The Comptroller General of the United States, in consultation with the National Institute on Drug Abuse, shall conduct a demographic study of individuals convicted of a Federal cannabis offense. Such study shall include information about the age, race, ethnicity, sex, and gender identity of those individuals, the type of community such users dwell in, and such other demographic information as the Comptroller General determines should be included.
+- **(f)** *Report* Not later than 2 years after the date of the enactment of this Act, the Comptroller General of the United States shall report to Congress the results of the study conducted under subsection (e).
 
-## § 10. References in existing law to marijuana or marihuana
+## § 11. References in existing law to marijuana or marihuana
 
 Wherever, in the statutes of the United States or in the rulings, regulations, or interpretations of various administrative bureaus and agencies of the United States—
 
 - **(1)** there appears or may appear the term marihuana or marijuana, that term shall be struck and the term cannabis shall be inserted; and
 - **(2)** there appears or may appear the term Marihuana or Marijuana, that term shall be struck and the term Cannabis shall be inserted.
 
-## § 11. Severability
+## § 12. Severability
 
 If any provision of this Act or an amendment made by this Act, or any application of such provision to any person or circumstance, is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of this Act and the amendments made by this Act to any other person or circumstance shall not be affected.
 
-## § 12. Cannabis offense defined
+## § 13. Cannabis offense defined
 
 For purposes of this Act, the term cannabis offense means a criminal offense related to cannabis—
 
 - **(1)** that, under Federal law, is no longer punishable pursuant to this Act or the amendments made under this Act; or
 - **(2)** that, under State law, is no longer an offense or that was designated a lesser offense or for which the penalty was reduced under State law pursuant to or following the adoption of a State law authorizing the sale or use of cannabis.
 
-## § 13. Rulemaking
+## § 14. Rulemaking
 
 Unless otherwise provided in this Act, not later than 1 year after the date of enactment of this Act, the Department of the Treasury, the Department of Justice, and the Small Business Administration shall issue or amend any rules, standard operating procedures, and other legal or policy guidance necessary to carry out implementation of this Act. After the 1-year period, any publicly issued sub-regulatory guidance, including any compliance guides, manuals, advisories and notices, may not be issued without 60-day notice to appropriate congressional committees. Notice shall include a description and justification for additional guidance.
+
+## § 15. Societal impact of marijuana legalization study
+
+The Comptroller General of the United States shall, not later than 2 years after the date of enactment of this Act, provide to Congress a study that addresses the societal impact of the legalization of recreational cannabis by States, including—
+
+- **(1)** sick days reported to employers;
+- **(2)** workers compensations claims;
+- **(3)** tax revenue remitted to States resulting from legal marijuana sales;
+- **(4)** changes in government spending related to enforcement actions and court proceedings;
+- **(5)** Federal welfare assistance applications;
+- **(6)** rate of arrests related to methamphetamine possession;
+- **(7)** hospitalization rates related to methamphetamine and narcotics use;
+- **(8)** uses of marijuana and its byproducts for medical purposes;
+- **(9)** arrest rates of individuals driving under the influence or driving while intoxicated by marijuana;
+- **(10)** traffic-related deaths and injuries where the driver is impaired by marijuana;
+- **(11)** arrest of minors for marijuana-related charges;
+- **(12)** violent crime rates;
+- **(13)** school suspensions, expulsions, and law enforcement referrals that are marijuana-related;
+- **(14)** high school dropout rates;
+- **(15)** changes in district-wide and State-wide standardized test scores;
+- **(16)** marijuana-related hospital admissions and poison control calls;
+- **(17)** marijuana-related juvenile admittances into substance rehabilitation facilities and mental health clinics;
+- **(18)** diversion of marijuana into neighboring States and drug seizures in neighboring States;
+- **(19)** marijuana plants grown on public lands in contravention to Federal and State laws; and
+- **(20)** court filings under a State’s organized crime statutes.
