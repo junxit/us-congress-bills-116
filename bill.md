@@ -55,6 +55,14 @@ chamber: IN THE SENATE OF THE UNITED STATES
     >     - **(E)** a position in the Senior Foreign Service;
     >     - **(F)** any career position at an agency that, but for this section and section 2(b)(4) of the PLUM Act of 2020, would be included in the publication entitled “United States Government Policy and Supporting Positions” (commonly referred to as the “Plum Book”); and
     >     - **(G)** any other position classified at or above level GS–14 of the General Schedule (or equivalent) that is excepted from the competitive service by law because of the confidential or policy-determining nature of the position duties.
+    >   - **(5)** *Policy and supporting position* The term policy and supporting position—
+    >     - **(A)** means any position at an agency, as determined by the Director, that, but for this section and section 2(b)(4) of the PLUM Act of 2020, would be included in the publication entitled “United States Government Policy and Supporting Positions” (commonly referred to as the “Plum Book”); and
+    >     - **(B)** may include—
+    >       - **(i)** a position on any level of the Executive Schedule under subchapter II of chapter 53, or another position with an equivalent rate of pay;
+    >       - **(ii)** a general position (as defined in section 3132(a)(9)) in the Senior Executive service;
+    >       - **(iii)** a position in the Senior Foreign Service;
+    >       - **(iv)** a position of a confidential or policy-determining character under schedule C of subpart C of part 213 of title 5, Code of Federal Regulations, or any successor regulation; and
+    >       - **(v)** any other position classified at or above level GS–14 of the General Schedule (or equivalent) that is excepted from the competitive service by law because of the confidential or policy-determining nature of the position duties.
     > - **(b)** *Establishment of website* The Director shall establish and maintain a public website containing the following information:
     >   - **(1)** Each policy and supporting position in the Federal Government, including any such position that is vacant.
     >   - **(2)** Each individual who—
@@ -82,8 +90,8 @@ chamber: IN THE SENATE OF THE UNITED STATES
     >     - **(A)** the information required by the Director;
     >     - **(B)** complete, accurate, and reliable information; or
     >     - **(C)** the information during the timeframe specified by the Director.
-    >   - **(4)** *Monthly updates*
-    >     - **(A)** *In general* Not later than 90 days after the date on which the covered website is established, and not less than once during each 30-day period thereafter, the head of each agency shall upload to the covered website updated information (if any) on—
+    >   - **(4)** *MonthlyBiennial updates*
+    >     - **(A)** *In general* Not later than 90 days after the date on which the covered website is established, and not less than once during each 30-day period2-year period thereafter, the head of each agency shall upload to the covered website updated information (if any) on—
     >       - **(i)** the policy and supporting positions in the agency;
     >       - **(ii)** the appointees occupying those positions in the agency; and
     >       - **(iii)** the former appointees who served in policy and supporting positions in the agency under the President then in office.
@@ -102,6 +110,8 @@ chamber: IN THE SENATE OF THE UNITED STATES
     > - **(g)** *Information verification*
     >   - **(1)** *Semiannual confirmation*
     >     - **(A)** *In general* Not less frequently than semiannually, the Director, in coordination with the White House Office of Presidential Personnel, shall confirm that the information on the covered website is complete, accurate, reliable, and up-to-date.
+    >   - **(1)** *Confirmation*
+    >     - **(A)** *In general* On the date that is 90 days after the date on which the covered website is established, the Director, in coordination with the White House Office of Presidential Personnel, shall confirm that the information on the covered website is complete, accurate, reliable, and up-to-date.
     >     - **(B)** *Certification* On the date on which the Director makes a confirmation under subparagraph (A), the Director shall publish on the covered website a certification that the confirmation has been made.
     >   - **(2)** *Authority of director* In carrying out paragraph (1), the Director may—
     >     - **(A)** request additional information from an agency; and
@@ -118,7 +128,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
   - **(3)** *Deadline* Not later than 1 year after the date of enactment of this Act, the Director of the Office of Personnel Management shall establish the website required under section 3330f(b) of title 5, United States Code, as added by subsection (a)(1).
 - **(b)** *Other matters*
   - **(1)** *Definitions* In this subsection, the terms agency, covered website, and policy and supporting position have the meanings given those terms in section 3330f of title 5, United States Code, as added by subsection (a)(1).
-  - **(2)** *Authorization of appropriations* There is authorized to be appropriated $10,000,000, to remain available until expended, for developing the covered website under section 3330f(b) of title 5, United States Code, as added by subsection (a)(1).
+  - **(2)** *Authorization of appropriations* There is authorized to be appropriated $10,000,000,There are authorized to be appropriated such sums as may be necessary, to remain available until expended, for developing the covered website under section 3330f(b) of title 5, United States Code, as added by subsection (a)(1).
   - **(3)** *GAO review and report*
     - **(A)** *In general* Not later than 1 year after the date on which the covered website is established, the Comptroller General of the United States shall conduct a review of, and issue a briefing or report on, the implementation of this Act and the amendments made by this Act.
     - **(B)** *Contents* The review conducted under subparagraph (A) shall include—
