@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4636
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4636
@@ -40,9 +40,10 @@ PLASTICS Act
 - Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
 - Rep. Houlahan, Chrissy [D-PA-6] (H001085)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -57,3 +58,4 @@ PLASTICS Act
 - 2020-11-18 — Mr. Espaillat moved to suspend the rules and pass the bill, as amended.
 - 2020-11-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5911-5912)
 - 2020-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5911-5912)
+- 2020-11-30 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
