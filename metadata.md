@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4644
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4644
@@ -33,11 +33,12 @@ Libya Stabilization Act
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (3)
+## Committees (4)
 
 - House — Financial Services Committee
 - House — Judiciary Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -62,3 +63,4 @@ Libya Stabilization Act
 - 2020-11-18 — Mr. Engel moved to suspend the rules and pass the bill, as amended.
 - 2020-11-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5886-5890)
 - 2020-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5886-5890)
+- 2020-11-30 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
