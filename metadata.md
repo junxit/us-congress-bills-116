@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5586
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5586
@@ -33,9 +33,10 @@ Haiti Development, Accountability, and Institutional Transparency Initiative Act
 - Rep. Sires, Albio [D-NJ-8] (S001165)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ Haiti Development, Accountability, and Institutional Transparency Initiative Act
 - 2020-11-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5897-5898)
 - 2020-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5897-5898)
 - 2020-11-18 — The title of the measure was amended. Agreed to without objection.
+- 2020-11-30 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
