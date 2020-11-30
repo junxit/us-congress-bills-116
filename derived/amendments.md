@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7954
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `22 U.S.C. § 2431d` | add-at-end | Section 806(d) of the Tropical Forest and Coral Reef Conservation Act of 1998 (22 U.S.C. 2431d(d)) is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 806(d) of the Tropical Forest and Coral Reef Conservation Act of 1998 (22 U.S.C. 2431d(d)) is amended by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
