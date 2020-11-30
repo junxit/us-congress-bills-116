@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5408
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5408
@@ -41,10 +41,11 @@ Ukraine Religious Freedom Support Act
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 - Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -61,3 +62,4 @@ Ukraine Religious Freedom Support Act
 - 2020-11-18 — Mr. Espaillat moved to suspend the rules and pass the bill, as amended.
 - 2020-11-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5920)
 - 2020-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5920)
+- 2020-11-30 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
