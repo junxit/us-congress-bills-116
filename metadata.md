@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8405
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8405
@@ -23,9 +23,10 @@ American Values and Security in International Athletics Act
 - Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
 - Rep. Phillips, Dean [D-MN-3] (P000616)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ American Values and Security in International Athletics Act
 - 2020-11-18 — Mr. Espaillat moved to suspend the rules and pass the bill.
 - 2020-11-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5913-5914)
 - 2020-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5913-5914)
+- 2020-11-30 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
