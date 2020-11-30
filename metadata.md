@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8294
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8294
@@ -63,10 +63,11 @@ National Apprenticeship Act of 2020
 - Rep. Grijalva, Raúl M. [D-AZ-3] (G000551)
 - Rep. Khanna, Ro [D-CA-17] (K000389)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (3)
 
@@ -140,3 +141,4 @@ National Apprenticeship Act of 2020
 - 2020-11-20 — The previous question was ordered on the amendment (A004) pursuant to the rule.
 - 2020-11-20 — The previous question was ordered on the amendment (A005) pursuant to the rule.
 - 2020-11-20 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on agreeing to amendments, which had been debated previously and on which further proceedings had been postponed.
+- 2020-11-30 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
