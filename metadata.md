@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7990
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7990
@@ -43,9 +43,10 @@ FENTANYL Results Act
 - Rep. Joyce, David P. [R-OH-14] (J000295)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -60,3 +61,4 @@ FENTANYL Results Act
 - 2020-11-18 — Mr. Engel moved to suspend the rules and pass the bill, as amended.
 - 2020-11-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5893-5894)
 - 2020-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5893-5894)
+- 2020-11-30 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
