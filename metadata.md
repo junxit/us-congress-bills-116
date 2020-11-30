@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7276
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7276
@@ -26,9 +26,10 @@ East Africa Locust Eradication Act
 - Rep. Sherman, Brad [D-CA-30] (S000344)
 - Rep. Kind, Ron [D-WI-3] (K000188)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ East Africa Locust Eradication Act
 - 2020-11-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5895-5896)
 - 2020-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5895-5896)
 - 2020-11-18 — The title of the measure was amended. Agreed to without objection.
+- 2020-11-30 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
