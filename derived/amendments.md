@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7990
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,10 +31,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `22 U.S.C. § 2291h` | add-at-end | Section 489(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2291h(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2291` | replace | by striking “means a country in which—” and inserting | the bill quotes the text struck but describes what replaces it |
-| `22 U.S.C. § 2291` | replace | by striking “(A) 1,000” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `22 U.S.C. § 2291` | replace | by striking “(B) 1,000” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `22 U.S.C. § 2291` | replace | by striking “(C) 5,000” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `22 U.S.C. § 2291` | redesignate | in subparagraph (A)(iii), as redesignated by this subsection, by adding “or” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2291` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 489(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2291h(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “means a country in which—” and inserting | the bill names no machine-readable US Code section |
+| — | replace | by striking “(A) 1,000” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “(B) 1,000” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “(C) 5,000” and inserting the following: | the bill names no machine-readable US Code section |
+| — | redesignate | in subparagraph (A)(iii), as redesignated by this subsection, by adding “or” at the end; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
