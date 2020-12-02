@@ -1,7 +1,7 @@
 ---
 measure: S. 212
 congress: 116
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 212
@@ -46,3 +46,12 @@ Indian Community Economic Enhancement Act of 2020
 - 2019-06-28 — Received in the House.
 - 2019-06-28 — Referred to the Committee on Natural Resources, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-06-28 — Referred to the Committee on Natural Resources, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-07-03 — Referred to the Subcommittee for Indigenous Peoples of the United States.
+- 2020-09-30 — Committee Consideration and Mark-up Session Held.
+- 2020-09-30 — Ordered to be Reported by Unanimous Consent.
+- 2020-09-30 — Subcommittee for Indigenous Peoples of the United States Discharged.
+- 2020-12-02 — Committee on Education and Labor discharged.
+- 2020-12-02 — Committee on Education and Labor discharged.
+- 2020-12-02 — Placed on the Union Calendar, Calendar No. 498.
+- 2020-12-02 — Reported by the Committee on Natural Resources. H. Rept. 116-605, Part I.
+- 2020-12-02 — Reported by the Committee on Natural Resources. H. Rept. 116-605, Part I.
