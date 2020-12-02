@@ -1,7 +1,7 @@
 ---
 measure: S. 578
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 578
@@ -110,3 +110,18 @@ ALS Disability Insurance Access Act of 2019
 - 2020-12-02 — Senate amendment not agreed to: Amendment SA 2689, under the order of 12/01/20, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 49. Record Vote Number: 249.
 - 2020-12-02 — Senate amendment proposed (on the floor): Amendment SA 2689 proposed by Senator McConnell for Senator Grassley.(consideration: CR S7157, S7163; text: CR S7182-7183)
 - 2020-12-02 — Senate amendment submitted
+- 2020-12-03 — Held at the desk.
+- 2020-12-03 — Message on Senate action sent to the House.
+- 2020-12-03 — Received in the House.
+- 2020-12-08 — Considered under suspension of the rules. (consideration: CR H6988-6991)
+- 2020-12-08 — DEBATE - The House proceeded with forty minutes of debate on S. 578.
+- 2020-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-08 — Mr. Larson (CT) moved to suspend the rules and pass the bill.
+- 2020-12-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6988)
+- 2020-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-12-11 — Presented to President.
+- 2020-12-11 — Presented to President.
+- 2020-12-22 — Became Public Law No: 116-250.
+- 2020-12-22 — Became Public Law No: 116-250.
+- 2020-12-22 — Signed by President.
+- 2020-12-22 — Signed by President.
