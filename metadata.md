@@ -1,7 +1,7 @@
 ---
 measure: S. 434
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 434
@@ -34,3 +34,5 @@ A bill to require the collection of certain data relating to Bureau of Land Mana
 - 2019-12-17 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2019-12-17 — Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2019-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 349.
+- 2020-12-02 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S7187; text of amendment in the nature of a substitute: CR S7187)
+- 2020-12-02 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(consideration: CR S7187; text of amendment in the nature of a substitute: CR S7187)
