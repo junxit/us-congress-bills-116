@@ -1,7 +1,7 @@
 ---
 measure: H.R. 970
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 970
@@ -30,3 +30,11 @@ Robert E. Lee Statue Removal Act
 - 2019-02-05 — Introduced in House
 - 2019-02-05 — Introduced in House
 - 2019-02-05 — Referred to the House Committee on Natural Resources.
+- 2019-02-22 — Referred to the Subcommittee on National Parks, Forests, and Public Lands.
+- 2020-07-21 — Subcommittee Hearings Held.
+- 2020-09-30 — Committee Consideration and Mark-up Session Held.
+- 2020-09-30 — Ordered to be Reported (Amended) by Voice Vote.
+- 2020-09-30 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2020-12-02 — Placed on the Union Calendar, Calendar No. 500.
+- 2020-12-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-608.
+- 2020-12-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-608.

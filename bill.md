@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 970
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,10 +13,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Robert E. Lee Statue Removal Act”.
 
-## § 2. Removal plan for monument
+## § 2. Removal and disposal of monument
 
-Not later than 90 days after the date of the enactment of this Act, the Secretary of the Interior shall develop a plan for the removal of the monument to Robert E. Lee at the Antietam National Battlefield.
-
-## § 3. Report
-
-Not later than 120 days after the date of the enactment of this Act, the Secretary of the Interior shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, and make publicly available, a report describing the plan required under section 2 and a timeline for the removal of the monument in accordance with that plan.
+Not later than 180 days after the date of the enactment of this Act, the Secretary of the Interior, acting through the Director of the National Park Service, shall remove and appropriately dispose of the Monument to General Robert E. Lee at the Antietam National Battlefield.
