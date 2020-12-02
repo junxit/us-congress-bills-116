@@ -1,7 +1,7 @@
 ---
 legis-num: H. RES. 746
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -17,8 +17,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas sustained United States leadership in the WTO provides best paths to achieve necessary WTO reforms, create new trade rules that enhance opportunities for all, and address the needs and challenges of the United States and all other free and open economies in the 21st century;
 - Whereas the WTO is the preferred forum in which member economies resolve disputes that arise among them;
 - Whereas the United States has consistently supported having a functional, efficient dispute settlement mechanism at the WTO that strictly follows the Dispute Settlement Understanding as agreed by all WTO members and remains accountable to WTO members;
-- Whereas the United States, for decades, has sought to strengthen the WTO dispute settlement system by advocating for necessary, thoughtful, and prudent reforms;
-- Whereas the United States has expressed longstanding concerns that WTO Appellate Body, through its findings and procedural liberties, is improperly adding to or diminishing the rights or obligations of WTO members;
+- Whereas the United States, for decades, has sought to strengthen the WTO dispute settlement system by advocating for necessary, thoughtful and prudent reforms;
+- Whereas the United States has expressed longstanding concerns that the WTO Appellate Body, through its findings and procedural liberties, is improperly adding to or diminishing the rights or obligations of WTO members;
 - Whereas the United States has consistently urged the WTO to improve transparency by requiring that all dispute settlement hearings at the WTO be open to the public, and all submissions by the parties be publicly available;
 - Whereas, while several WTO members have joined the United States in agreeing to open hearings to the public and in making public submissions, most WTO Members continue to insist on closed hearings and confidential submissions;
 - Whereas transparent WTO dispute settlement enhances WTO members’ understanding of the dispute settlement system, particularly for those who do not participate often in the system;
@@ -39,4 +39,4 @@ That it is the sense of the House of Representatives that—
   - **(B)** improve the efficiency and transparency of dispute settlement proceedings;
   - **(C)** remediate the failure to satisfy notification obligations of the various WTO agreements and develop accountability mechanisms to address this issue proactively;
   - **(D)** discipline the use of special and differential treatment for self-declared developing countries; and
-  - **(E)** create new rules and structures that can serve the United States interests while promoting peace, prosperity, and open markets and societies.
+  - **(E)** create new rules and structures that can serve the United States interests while promoting peace, prosperity and open markets and societies.
