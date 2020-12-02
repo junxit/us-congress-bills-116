@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5040
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,11 +11,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Aerial Incursion Repercussion Safety Act of 2019” or the “AIR Safety Act of 2019”.
+This Act may be cited as the “Aerial Incursion Repercussion Safety Act of 2020” or the “AIR Safety Act of 2020”.
 
 ## § 2. Study on effects of drone incursions on wildfire suppression
 
-- **(a)** *Study required* The Director of the Bureau of Land Management, in consultation with the Chief of the Forest Service, shall conduct a study on the effects of drone incursions on the suppression of wildfires with respect to lands managed by the Department of the Interior or the Department of Agriculture.
+- **(a)** *Study required* The Director of the Bureau of Land Management, in consultation with the Chief of the Forest Service and the National Association of State Foresters, shall conduct a study on the effects of drone incursions on the suppression of wildfires with respect to lands managed by the Department of the Interior or the Department of Agriculture.
 - **(b)** *Study contents* In conducting the study required under subsection (a), the Director shall—
   - **(1)** determine, for each of the five most recently completed calendar years, the number of occurrences in which a drone incursion interfered with wildfire suppression and the effect of each such occurrence on—
     - **(A)** the length of time required to achieve complete suppression;
