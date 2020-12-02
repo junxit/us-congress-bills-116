@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1044
 congress: 116
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1044
@@ -355,3 +355,15 @@ Fairness for High-Skilled Immigrants Act of 2020
 - 2019-07-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 365 - 65 (Roll no. 437). (text: CR H5323-5324)
 - 2019-07-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 365 - 65 (Roll no. 437).(text: CR H5323-5324)
 - 2019-07-11 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2019-09-17 — Referred to the Committee on the Judiciary.
+- 2019-09-17 — Senate amendment submitted
+- 2020-12-02 — Amendment SA 2690 agreed to in Senate by Unanimous Consent.
+- 2020-12-02 — Amendment SA 2690 proposed by Senator Lee. (consideration: CR S7170; text: CR S7183-7187) In the nature of a substitute.
+- 2020-12-02 — Measure laid before Senate by unanimous consent. (consideration: CR S7170)
+- 2020-12-02 — Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: CR S7183-7187)
+- 2020-12-02 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(text of amendment in the nature of a substitute: CR S7183-7187)
+- 2020-12-02 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2020-12-02 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2020-12-02 — Senate amendment agreed to: Amendment SA 2690 agreed to in Senate by Unanimous Consent.
+- 2020-12-02 — Senate amendment proposed (on the floor): Amendment SA 2690 proposed by Senator Lee.(consideration: CR S7170; text: CR S7183-7187)
+- 2020-12-02 — Senate amendment submitted
