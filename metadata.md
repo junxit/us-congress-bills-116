@@ -1,7 +1,7 @@
 ---
 measure: S. 578
 congress: 116
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 578
@@ -16,7 +16,7 @@ ALS Disability Insurance Access Act of 2019
 
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 
-## Cosponsors (39)
+## Cosponsors (67)
 
 - Sen. Cotton, Tom [R-AR] (C001095)
 - Sen. Bennet, Michael F. [D-CO] (B001267)
@@ -57,6 +57,34 @@ ALS Disability Insurance Access Act of 2019
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Van Hollen, Chris [D-MD] (V000128)
 - Sen. Sinema, Kyrsten [D-AZ] (S001191)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Loeffler, Kelly [R-GA] (L000594)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Hoeven, John [R-ND] (H001061)
 
 ## Committees (1)
 
@@ -66,3 +94,14 @@ ALS Disability Insurance Access Act of 2019
 
 - 2019-02-27 — Introduced in Senate
 - 2019-02-27 — Read twice and referred to the Committee on Finance.
+- 2020-12-02 — Amendment SA 2689 proposed by Senator McConnell for Senator Grassley. (consideration: CR S7157, S7163; text: CR S7182-7183) To increase the overpayment collection threshold for old-age, survivors, and disability insurance benefits.
+- 2020-12-02 — Amendment SA 2689, under the order of 12/01/20, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 49. Record Vote Number: 249.
+- 2020-12-02 — Measure laid before Senate by unanimous consent.
+- 2020-12-02 — Passed Senate, under the order of 12/01/20, having achieved 60 votes in the affirmative, without amendment by Yea-Nay Vote. 96 - 1. Record Vote Number: 250. (text: CR S7164)
+- 2020-12-02 — Passed/agreed to in Senate: Passed Senate, under the order of 12/01/20, having achieved 60 votes in the affirmative, without amendment by Yea-Nay Vote. 96 - 1. Record Vote Number: 250.(text: CR S7164)
+- 2020-12-02 — Roll call votes on amendments in Senate: Amendment SA 2689, under the order of 12/01/20, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 49. Record Vote Number: 249.
+- 2020-12-02 — Senate Committee on Finance discharged by Unanimous Consent. (consideration: CR S7157, S7163-7164)
+- 2020-12-02 — Senate Committee on Finance discharged by Unanimous Consent.(consideration: CR S7157, S7163-7164)
+- 2020-12-02 — Senate amendment not agreed to: Amendment SA 2689, under the order of 12/01/20, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 49. Record Vote Number: 249.
+- 2020-12-02 — Senate amendment proposed (on the floor): Amendment SA 2689 proposed by Senator McConnell for Senator Grassley.(consideration: CR S7157, S7163; text: CR S7182-7183)
+- 2020-12-02 — Senate amendment submitted
