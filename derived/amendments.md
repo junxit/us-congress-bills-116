@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4248
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
