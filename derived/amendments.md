@@ -1,7 +1,7 @@
 ---
 measure: S. 4897
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 2 executed, 8 stated and not applied.
+20 amendatory instructions. 4 executed, 16 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,24 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 42 U.S.C. § 2133
+
+> Section 103 d. of the Atomic Energy Act of 1954 (42 U.S.C. 2133(d)) is amended, in the second sentence, by striking “any any” and inserting “any”.
+
+| | |
+|---|---|
+| Removed | `any any` |
+| Inserted | `any` |
+
+### 42 U.S.C. § 16274a
+
+> in subsection (b), in the matter preceding paragraph (1), by striking “in each of fiscal years 2009 to 2019” and inserting “for each of fiscal years 2021 through 2030,”; and
+
+| | |
+|---|---|
+| Removed | `in each of fiscal years 2009 to 2019` |
+| Inserted | `for each of fiscal years 2021 through 2030,` |
 
 ### 42 U.S.C. § 2133
 
@@ -51,6 +69,14 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `42 U.S.C. § 2215` | add-at-end | in subsection (a), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2215` | add-at-end | in subsection (b)(1)(B), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 10101` | add-at-end | Section 103 of the Nuclear Energy Innovation and Modernization Act (Public Law 115–439; 132 Stat. 5571) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2215` | add-at-end | Section 102(b)(1)(B) of the Nuclear Energy Innovation and Modernization Act (42 U.S.C. 2215(b)(1)(B)) (as amended by section 101(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1001` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2134` | replace | by striking the third sentence and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2134` | replace | in the second sentence, by striking “The Commission” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 2134` | replace | by striking “c. The Commission” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 2215` | add-at-end | in subsection (a), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 2215` | add-at-end | in subsection (b)(1)(B), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10101` | add-at-end | Section 103 of the Nuclear Energy Innovation and Modernization Act (Public Law 115–439; 132 Stat. 5571) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
