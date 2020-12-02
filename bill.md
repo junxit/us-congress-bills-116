@@ -1,7 +1,7 @@
 ---
 legis-num: S. 496
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -68,4 +68,4 @@ The Secretary of Commerce, acting through the National Sea Grant Office, shall e
 
 ## § 5. Funding
 
-Of the amount made available to the Secretary of Commerce under section 311(e) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1861(e)) for each of fiscal years 2019 through 2024, the Secretary shall use $2,000,000 to carry out section 4 of this Act.
+The Secretary of Commerce shall carry out this Act using amounts made available to the Department of Commerce for fiscal years 2022 through 2026.
