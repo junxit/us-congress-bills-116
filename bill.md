@@ -40,8 +40,9 @@ Section 7(a) of the Small Business Act (15 U.S.C. 636(a)) is amended by adding a
 >         - **(bb)** a HUBZone;
 >         - **(cc)** a community that has been designated as an empowerment zone or an enterprise community under section 1391 of the Internal Revenue Code of 1986;
 >         - **(dd)** a community that has been designated as a promise zone by the Secretary of Housing and Urban Development;
->         - **(ee)** a community that has been designated as a qualified opportunity zone under section 1400Z–1 of the Internal Revenue Code of 1986; or
->         - **(ff)** a rural area;
+>         - **(ee)** a community that has been designated as a qualified opportunity zone under section 1400Z–1 of the Internal Revenue Code of 1986;
+>         - **(ff)** a rural area; or
+>         - **(gg)** any area for which a disaster declaration or determination described in subparagraphs (A), (B), (C), or (E) of subsection (b)(2) has been made that has not terminated or expired more than 2 years before the date (or later, as determined by the Administrator) on which a loan is made to such concern under the program;
 >       - **(II)** for which more than 50 percent of the employees reside in a low- or moderate-income community;
 >       - **(III)** that is a startup or new business;
 >       - **(IV)** owned and controlled by socially and economically disadvantaged individuals, including Black Americans, Hispanic Americans, Native Americans, Asian Pacific Americans, and other minorities;
@@ -74,7 +75,7 @@ Section 7(a) of the Small Business Act (15 U.S.C. 636(a)) is amended by adding a
 >   - **(F)** *Grandfathering of existing lenders* Any covered institution that participated in the Community Advantage Pilot Program of the Administration and is in good standing on the day before the date of enactment of this paragraph—
 >     - **(i)** shall retain designation in the program; and
 >     - **(ii)** shall not be required to submit an application to participate in the program.
->   - **(G)** *Requirement to make loans to underserved markets* Not less than 60 percent of loans made by a covered institution under the program shall consist of loans made to small business concerns in underserved markets.
+>   - **(G)** *Requirement to make loans to underserved markets* Not less than 75 percent of loans made by a covered institution under the program shall consist of loans made to small business concerns in underserved markets.
 >   - **(H)** *Maximum loan amount*
 >     - **(i)** *In general* Except as provided in clause (ii), the maximum loan amount for a loan guaranteed under the program is $250,000.
 >     - **(ii)** *Exception*
@@ -130,13 +131,14 @@ Section 7(a) of the Small Business Act (15 U.S.C. 636(a)) is amended by adding a
 >         - **(ee)** with respect to loans provided to small business concerns under the program and under the Community Advantage Pilot Program of the Administration—
 >           - **(AA)** the performance of the loans provided by each type of covered institution;
 >           - **(BB)** the performance of the loans broken down by loan size;
->           - **(CC)** the predictive purchase rate of the loans;
->           - **(DD)** the early default rate of the loans;
->           - **(EE)** the 12-month default rate of the loans;
->           - **(FF)** the cumulative default rate for the loans for the 5-year period preceding the report;
->           - **(GG)** the charge-off rates of the loans;
->           - **(HH)** the charge-off rates as a percent of the unpaid principal balance as in table 9 of the annual budget submitted by the Administration; and
->           - **(II)** the purchase rates as a percent of the unpaid principal balance as in table 8 of the annual budget submitted by the Administration;
+>           - **(CC)** the performance of the loans broken down by whether the credit score of the borrower is above, below, or equal to 140;
+>           - **(DD)** the predictive purchase rate of the loans;
+>           - **(EE)** the early default rate of the loans;
+>           - **(FF)** the 12-month default rate of the loans;
+>           - **(GG)** the cumulative default rate for the loans for the 5-year period preceding the report;
+>           - **(HH)** the charge-off rates of the loans;
+>           - **(II)** the charge-off rates as a percent of the unpaid principal balance as in table 9 of the annual budget submitted by the Administration; and
+>           - **(JJ)** the purchase rates as a percent of the unpaid principal balance as in table 8 of the annual budget submitted by the Administration;
 >         - **(ff)** a list of covered institutions participating in the program and the Community Advantage Pilot Program of the Administration, including—
 >           - **(AA)** the name, location, and contact information, such as the website and telephone number, of each covered institution; and
 >           - **(BB)** a breakdown by the number and dollar amount of the loans approved for small business concerns; and
