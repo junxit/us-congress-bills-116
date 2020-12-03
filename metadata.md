@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2420
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2420
@@ -338,3 +338,7 @@ National Museum of the American Latino Act
 - 2020-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3864-3866)
 - 2020-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3864-3866)
 - 2020-07-29 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
+- 2020-12-03 — Committee on Rules and Administration. Ordered to be reported without amendment favorably.
+- 2020-12-03 — Committee on Rules and Administration. Reported by Senator Blunt without amendment. Without written report.
+- 2020-12-03 — Committee on Rules and Administration. Reported by Senator Blunt without amendment. Without written report.
+- 2020-12-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 600.
