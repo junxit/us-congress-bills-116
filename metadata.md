@@ -1,7 +1,7 @@
 ---
 measure: S. 212
 congress: 116
-version: Reported in House
+version: Engrossed Amendment House
 ---
 
 # S. 212
@@ -55,3 +55,9 @@ Indian Community Economic Enhancement Act of 2020
 - 2020-12-02 — Placed on the Union Calendar, Calendar No. 498.
 - 2020-12-02 — Reported by the Committee on Natural Resources. H. Rept. 116-605, Part I.
 - 2020-12-02 — Reported by the Committee on Natural Resources. H. Rept. 116-605, Part I.
+- 2020-12-03 — Considered under suspension of the rules. (consideration: CR H6099-6102)
+- 2020-12-03 — DEBATE - The House proceeded with forty minutes of debate on S. 212.
+- 2020-12-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-03 — Mr. Case moved to suspend the rules and pass the bill, as amended.
+- 2020-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6099-6101)
+- 2020-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6099-6101)
