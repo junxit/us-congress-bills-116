@@ -68,3 +68,7 @@ Section 47 of the Small Business Act (15 U.S.C. 657t) is amended—
 - **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, the Administrator of the Small Business Administration shall issue rules to clarify the procedures necessary for an eligible certified development company to comply with the applicable requirements under National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 - **(b)** *Rule of construction* Nothing in this section shall be construed to modify the requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 - **(c)** *Eligible certified development company defined* In this section, the term eligible certified development company means a certified development company defined under title V of the Small Business Investment Act of 1958 (15 U.S.C. 695 et seq.) that receives assistance pursuant to such title.
+
+## § 4. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
