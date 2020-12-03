@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3682
 
-> To provide for greater consultation between the Federal Government and the governing bodies of land grant-mercedes and acequias in New Mexico and to provide for a process for recognition of the historic-traditional boundaries of land grant-mercedes, and for other purposes.
+> To provide for greater consultation between the Federal Government and the governing bodies and community users of land grant-mercedes in New Mexico, to provide for a process for recognition of the historic-traditional uses of land grant-mercedes, and for other purposes.
 
 ## § 1. Short title
 
@@ -108,3 +108,7 @@ Nothing in this Act shall be construed—
 - **(3)** to impact any valid existing rights or valid permitted uses, including grazing permits;
 - **(4)** to create any implicit or explicit right to grazing on Federal lands; or
 - **(5)** to alter or diminish any rights reserved for an Indian Tribe or members of an Indian Tribe by treaty or Federal law.
+
+## § 7. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
