@@ -2,16 +2,18 @@
 legis-num: S. 212
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 212
 
-> To amend the Native American Business Development, Trade Promotion, and Tourism Act of 2000, the Buy Indian Act, and the Native American Programs Act of 1974 to provide industry and economic development opportunities to Indian communities.
+That the bill from the Senate (S. 212) entitled “An Act to amend the Native American Business Development, Trade Promotion, and Tourism Act of 2000, the Buy Indian Act, and the Native American Programs Act of 1974 to provide industry and economic development opportunities to Indian communities.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title
 
-This Act may be cited as the “Indian Community Economic Enhancement Act of 2019 ”.
+This Act may be cited as the “Indian Community Economic Enhancement Act of 2020”.
 
 ## § 2. Findings
 
@@ -199,7 +201,7 @@ Section 23 of the Act of June 25, 1910 (commonly known as the “Buy Indian Act�
   - **(1)** by striking “803(d)” each place it appears and inserting “803(e)”; and
   - **(2)** in subsection (a)—
     - **(A)** by striking “such sums as may be necessary” and inserting “$34,000,000”; and
-    - **(B)** by striking “1999, 2000, 2001, and 2002” and inserting “2020 through 2024”.
+    - **(B)** by striking “1999, 2000, 2001, and 2002” and inserting “2021 through 2025”.
 - **(d)** *Conforming and technical amendments* The Native American Programs Act of 1974 (42 U.S.C. 2991 et seq.) is amended—
   - **(1)** by striking “tribe” each place the term appears and inserting “Tribe”;
   - **(2)** by striking “tribes” each place the term appears and inserting “Tribes”; and
