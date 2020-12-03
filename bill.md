@@ -22,11 +22,7 @@ This Act may be cited as the “Big Cat Public Safety Act”.
 
 - **(b)** *Conforming amendments*
   - **(1)** *Consolidated Farm and Rural Development Act* Section 349(a)(3) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1997(a)(3)) is amended by striking “section 2(a)” and inserting “section 2(b)”.
-  - **(2)** *Lacey Act Amendments of 1981*
-    - **(A)** Section 3(e)(2)(C) of the Lacey Act Amendments of 1981 (16 U.S.C. 3372(e)(2)(C)) is amended—
-      - **(i)** in clause (ii), by striking “section 2(g)” and inserting “section 2(h)”; and
-      - **(ii)** in clause (iii), by striking “section 2(g)” and inserting “section 2(h)”.
-    - **(B)** Section 7(c) of the Lacey Act Amendments of 1981 (16 U.S.C. 3376(c)) is amended by striking “section 2(f)(2)(A)” and inserting “section 2(g)(2)(A)”.
+  - **(2)** *Lacey Act Amendments of 1981* Section 7(c) of the Lacey Act Amendments of 1981 (16 U.S.C. 3376(c)) is amended by striking “section 2(f)(2)(A)” and inserting “section 2(g)(2)(A)”.
 
 ## § 3. Prohibitions
 
@@ -85,3 +81,7 @@ Section 5(a)(1) of the Lacey Act Amendments of 1981 (16 U.S.C. 3374(a)(1)) is am
 Section 7(a) of the Lacey Act Amendments of 1981 (16 U.S.C. 3376(a)) is amended by adding at the end the following:
 
 > - **(3)** The Secretary shall, in consultation with other relevant Federal and State agencies, promulgate any regulations necessary to implement section 3(e).
+
+## § 7. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.

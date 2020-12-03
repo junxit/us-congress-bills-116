@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1380
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-19 amendatory instructions. 5 executed, 14 stated and not applied.
+17 amendatory instructions. 3 executed, 14 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,24 +32,6 @@ to guess them.
 |---|---|
 | Removed | `section 2(a)` |
 | Inserted | `section 2(b)` |
-
-### 16 U.S.C. § 3372
-
-> in clause (ii), by striking “section 2(g)” and inserting “section 2(h)”; and
-
-| | |
-|---|---|
-| Removed | `section 2(g)` |
-| Inserted | `section 2(h)` |
-
-### 16 U.S.C. § 3372
-
-> in clause (iii), by striking “section 2(g)” and inserting “section 2(h)”.
-
-| | |
-|---|---|
-| Removed | `section 2(g)` |
-| Inserted | `section 2(h)` |
 
 ### 16 U.S.C. § 3376
 
