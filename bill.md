@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 306
 
-> To direct the Secretary of the Interior to conduct a special resource study of the site of the Kettle Creek Battlefield in Wilkes County, Georgia, and adjacent property, and for other purposes.
+> To direct the Secretary of the Interior to conduct a reconnaissance survey of the site of the Kettle Creek Battlefield in Wilkes County, Georgia, and adjacent property, and for other purposes.
 
 ## § 1. Kettle Creek Battlefield Survey
 
