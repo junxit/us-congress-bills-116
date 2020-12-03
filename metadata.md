@@ -1,7 +1,7 @@
 ---
 measure: S. 4409
 congress: 116
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 4409
@@ -24,3 +24,7 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - 2020-08-04 — Introduced in Senate
 - 2020-08-04 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2020-12-03 — Passed Senate without amendment by Unanimous Consent. (text: CR S7221)
+- 2020-12-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S7221)
+- 2020-12-03 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S7220-7221)
+- 2020-12-03 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S7220-7221)
