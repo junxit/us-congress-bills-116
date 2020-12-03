@@ -1,17 +1,19 @@
 ---
 legis-num: S. 1342
 congress: 116th CONGRESS
-session: 2nd Session
-chamber: IN THE SENATE OF THE UNITED STATES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 1342
 
-> To require the Under Secretary for Oceans and Atmosphere to update periodically the environmental sensitivity index products of the National Oceanic and Atmospheric Administration for each coastal area of the Great Lakes, and for other purposes.
+That the bill from the Senate (S. 1342) entitled “An Act to require the Under Secretary for Oceans and Atmosphere to update periodically the environmental sensitivity index products of the National Oceanic and Atmospheric Administration for each coastal area of the Great Lakes, and for other purposes.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title
 
-This Act may be cited as the “Great Lakes Environmental Sensitivity Index Act of 2019”.
+This Act may be cited as the “Great Lakes Environmental Sensitivity Index Act of 2020”.
 
 ## § 2. Update to environmental sensitivity index products of National Oceanic and Atmospheric Administration for Great Lakes
 
@@ -25,4 +27,4 @@ This Act may be cited as the “Great Lakes Environmental Sensitivity Index Act 
   - **(3)** the natural variability of shoreline and coastal environment; and
   - **(4)** the volume of vessel traffic and general vulnerability to spilled pollutants.
 - **(d)** *Environmental sensitivity index product defined* In this section, the term environmental sensitivity index product means a map or similar tool that is utilized to identify sensitive shoreline, coastal or offshore, resources prior to an oil spill event in order to set baseline priorities for protection and plan cleanup strategies, typically including information relating to shoreline type, biological resources, and human use resources.
-- **(e)** *Funding* Amounts for activities under this section shall be derived from amounts otherwise authorized to be appropriated or made available for the Under Secretary.
+- **(e)** *Funding* Funds to carry out the activities under this section shall be derived from amounts authorized to be appropriated for the Under Secretary that are enacted after the date of the enactment of this Act.
