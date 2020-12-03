@@ -1,7 +1,7 @@
 ---
 measure: S. 914
 congress: 116
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 914
@@ -57,3 +57,13 @@ Coordinated Ocean Observations and Research Act of 2020
 - 2020-12-03 — Mr. Case moved to suspend the rules and pass the bill, as amended.
 - 2020-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6102-6107)
 - 2020-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6102-6107)
+- 2020-12-07 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2020-12-16 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 914 by Unanimous Consent.(consideration: CR S7556)
+- 2020-12-16 — Senate agreed to the House amendment to S. 914 by Unanimous Consent. (consideration: CR S7556)
+- 2020-12-17 — Message on Senate action sent to the House.
+- 2020-12-21 — Presented to President.
+- 2020-12-21 — Presented to President.
+- 2020-12-31 — Became Public Law No: 116-271.
+- 2020-12-31 — Became Public Law No: 116-271.
+- 2020-12-31 — Signed by President.
+- 2020-12-31 — Signed by President.

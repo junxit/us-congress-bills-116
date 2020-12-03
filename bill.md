@@ -1,15 +1,13 @@
 ---
 legis-num: S. 914
-congress: 116th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Sixteenth Congress of the United States of America
+session: 2d Sess.
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 914
 
-That the bill from the Senate (S. 914) entitled “An Act to reauthorize the Integrated Coastal and Ocean Observation System Act of 2009, to clarify the authority of the Administrator of the National Oceanic and Atmospheric Administration with respect to post-storm assessments, and to require the establishment of a National Water Center, and for other purposes.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To reauthorize the Integrated Coastal and Ocean Observation System Act of 2009, to clarify the authority of the Administrator of the National Oceanic and Atmospheric Administration with respect to post-storm assessments, and to require the establishment of a National Water Center, and for other purposes.
 
 ## § 1. Short title; table of contents
 
