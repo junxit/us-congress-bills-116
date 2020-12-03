@@ -1,7 +1,7 @@
 ---
 measure: S. 914
 congress: 116
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 914
@@ -16,10 +16,11 @@ Coordinated Ocean Observations and Research Act of 2020
 
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Cantwell, Maria [D-WA] (C000127)
 - Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
 
 ## Committees (4)
 
@@ -50,3 +51,9 @@ Coordinated Ocean Observations and Research Act of 2020
 - 2020-09-24 — Referred to the Committee on Natural Resources, and in addition to the Committees on Science, Space, and Technology, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2020-09-24 — Referred to the Committee on Natural Resources, and in addition to the Committees on Science, Space, and Technology, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2020-09-24 — Referred to the Committee on Natural Resources, and in addition to the Committees on Science, Space, and Technology, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2020-12-03 — Considered under suspension of the rules. (consideration: CR H6102-6108)
+- 2020-12-03 — DEBATE - The House proceeded with forty minutes of debate on S. 914.
+- 2020-12-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-03 — Mr. Case moved to suspend the rules and pass the bill, as amended.
+- 2020-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6102-6107)
+- 2020-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6102-6107)
