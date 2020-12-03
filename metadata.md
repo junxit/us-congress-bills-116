@@ -1,7 +1,7 @@
 ---
 measure: S. 4684
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 4684
@@ -33,3 +33,17 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2020-12-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S7221)
 - 2020-12-03 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S7220-7221)
 - 2020-12-03 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S7220-7221)
+- 2020-12-07 — Held at the desk.
+- 2020-12-07 — Message on Senate action sent to the House.
+- 2020-12-07 — Received in the House.
+- 2020-12-10 — Considered by unanimous consent. (consideration: CR H7137)
+- 2020-12-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-10 — Ms. Kelly (IL) asked unanimous consent to take from the Speaker's table and consider.
+- 2020-12-10 — On passage Passed without objection. (text: CR H7137)
+- 2020-12-10 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7137)
+- 2020-12-21 — Presented to President.
+- 2020-12-21 — Presented to President.
+- 2020-12-30 — Became Public Law No: 116-268.
+- 2020-12-30 — Became Public Law No: 116-268.
+- 2020-12-30 — Signed by President.
+- 2020-12-30 — Signed by President.
