@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7995
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7995
@@ -24,9 +24,10 @@ Coin Metal Modification Authorization and Cost Savings Act of 2020
 - Rep. Taylor, Van [R-TX-3] (T000479)
 - Rep. Budd, Ted [R-NC-13] (B001305)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -45,3 +46,4 @@ Coin Metal Modification Authorization and Cost Savings Act of 2020
 - 2020-12-02 — Mr. Clay moved to suspend the rules and pass the bill, as amended.
 - 2020-12-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 343 - 41 (Roll no. 228). (text: CR H6037)
 - 2020-12-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 343 - 41 (Roll no. 228).(text: CR H6037)
+- 2020-12-03 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
