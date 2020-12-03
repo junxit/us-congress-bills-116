@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 125
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 125
@@ -25,3 +25,5 @@ Directing the Clerk of the House of Representatives to make a correction in the 
 - 2020-12-02 — Mr. Clay asked unanimous consent to consider as introduced.
 - 2020-12-02 — On agreeing to the resolution Agreed to without objection. (text: CR H6037)
 - 2020-12-02 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H6037)
+- 2020-12-03 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S7222)
+- 2020-12-03 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S7222)
