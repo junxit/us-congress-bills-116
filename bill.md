@@ -1,15 +1,13 @@
 ---
 legis-num: S. 212
-congress: 116th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Sixteenth Congress of the United States of America
+session: 2d Sess.
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 212
 
-That the bill from the Senate (S. 212) entitled “An Act to amend the Native American Business Development, Trade Promotion, and Tourism Act of 2000, the Buy Indian Act, and the Native American Programs Act of 1974 to provide industry and economic development opportunities to Indian communities.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To amend the Native American Business Development, Trade Promotion, and Tourism Act of 2000, the Buy Indian Act, and the Native American Programs Act of 1974 to provide industry and economic development opportunities to Indian communities.
 
 ## § 1. Short title
 
