@@ -2,7 +2,7 @@
 legis-num: H. RES. 1244
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1244
