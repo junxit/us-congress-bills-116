@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8211
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-27 amendatory instructions. 9 executed, 18 stated and not applied.
+33 amendatory instructions. 9 executed, 24 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,7 +35,7 @@ to guess them.
 
 ### 15 U.S.C. § 695
 
-> in the flush text following subparagraph (O), as added by paragraph (6), by striking “subparagraphs (J) and (K)” and inserting “subparagraphs (K) and (L)”.
+> in the flush text following subparagraph (P), as added by paragraph (6), by striking “subparagraphs (J) and (K)” and inserting “subparagraphs (K) and (L)”.
 
 | | |
 |---|---|
@@ -53,7 +53,7 @@ to guess them.
 
 ### 15 U.S.C. § 696
 
-> in clause (iii), by striking “$5,500,000” and inserting “$6,500,000”;
+> in clause (iii), by striking “$5,500,000” and inserting “$6,500,000”; and
 
 | | |
 |---|---|
@@ -62,16 +62,7 @@ to guess them.
 
 ### 15 U.S.C. § 696
 
-> in paragraph (3)(A), by striking “this section” and inserting “this subsection”; and
-
-| | |
-|---|---|
-| Removed | `this section` |
-| Inserted | `this subsection` |
-
-### 15 U.S.C. § 696
-
-> in paragraph (5), by striking “this section” and inserting “this subsection”.
+> in paragraph (3)(A), by striking “this section” and inserting “this subsection”.
 
 | | |
 |---|---|
@@ -105,6 +96,15 @@ to guess them.
 | Removed | `creates or retains` |
 | Inserted | `creates or retains 1 job for every $75,000 guaranteed by the Administration, except that the amount is $150,000 in the case of a project of a small manufacturer.` |
 
+### 15 U.S.C. § 696
+
+> in the matter preceding clause (i), by striking “50 percent” and inserting “100 percent”; and
+
+| | |
+|---|---|
+| Removed | `50 percent` |
+| Inserted | `100 percent` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -132,3 +132,9 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 695` | insert | Section 502(a)(7)(B) of the Small Business Investment Act of 1958, as designated by section 3, is amended in the matter preceding clause (i) by inserting “(or in the case of a small manufacturer (as defined in section 501(e)(7)), that do… | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 697` | add-at-end | Section 503(a) of the Small Business Investment Act of 1958 (15 U.S.C. 697(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 695` | add-at-end | Title V of the Small Business Investment Act of 1958 (15 U.S.C. 695 et seq.), as amended by section 4(2), is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 632` | replace | Section 502(a) of the Small Business Investment Act of 1958, as designated by section 3, is amended by striking paragraphs (4) and (5) and inserting the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 696` | amend | in clause (v), by adding “and” at the end; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 696` | strike | by striking clause (vi); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 696` | redesignate | by redesignating clause (vii) as clause (vi). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 696` | repeal | Section 521(a) of division E of the Consolidated Appropriations Act, 2016 (Public Law 114–113; 129 Stat. 2463; 15 U.S.C. 696 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 696` | add-at-end | Section 502(a)(7) of the Small Business Investment Act of 1958, as designated by section 3, is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

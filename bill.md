@@ -31,10 +31,11 @@ Section 501(d)(3) of the Small Business Investment Act of 1958 (15 U.S.C. 695(d)
 - **(4)** in subparagraph (L) (as so redesignated), by striking “producers, or” and inserting “producers,”;
 - **(5)** in subparagraph (M) (as so redesignated), by striking the period at the end and inserting a comma;
 - **(6)** by inserting after subparagraph (M) the following new subparagraphs:
-  > - **(N)** enhanced ability for small business concerns to reduce costs by using energy efficient products and generating renewable energy, or
-  > - **(O)** aid revitalizing of any area for which a disaster has been declared or determined under subparagraph (A), (B), (C), or (E) of section 7(b)(2) of the Small Business Act.
+  > - **(N)** enhanced ability for small business concerns to reduce costs by using energy efficient products and generating renewable energy,
+  > - **(O)** aid revitalizing of any area for which a disaster has been declared or determined under subparagraph (A), (B), (C), or (E) of section 7(b)(2) of the Small Business Act, or
+  > - **(P)** expansion of small business concerns with 10 or fewer employees.
 
-- **(7)** in the flush text following subparagraph (O), as added by paragraph (6), by striking “subparagraphs (J) and (K)” and inserting “subparagraphs (K) and (L)”.
+- **(7)** in the flush text following subparagraph (P), as added by paragraph (6), by striking “subparagraphs (J) and (K)” and inserting “subparagraphs (K) and (L)”.
 
 ## § 3. Increase in loan amounts for manufacturing loans
 
@@ -46,9 +47,8 @@ Section 502 of the Small Business Investment Act of 1958 (15 U.S.C. 696) is amen
 - **(2)** in subsection (a), as so designated—
   - **(A)** in paragraph (2)(A)—
     - **(i)** in the matter preceding clause (i), by striking “section” and inserting “subsection”; and
-    - **(ii)** in clause (iii), by striking “$5,500,000” and inserting “$6,500,000”;
-  - **(B)** in paragraph (3)(A), by striking “this section” and inserting “this subsection”; and
-  - **(C)** in paragraph (5), by striking “this section” and inserting “this subsection”.
+    - **(ii)** in clause (iii), by striking “$5,500,000” and inserting “$6,500,000”; and
+  - **(B)** in paragraph (3)(A), by striking “this section” and inserting “this subsection”.
 
 ## § 4. Improvements to 504 loan closing procedure
 
@@ -140,3 +140,69 @@ Title V of the Small Business Investment Act of 1958 (15 U.S.C. 695 et seq.), as
 >   - **(2)** a women’s business center (described under section 29 of such Act);
 >   - **(3)** a chapter of the Service Corps of Retired Executives (established under section 8(b)(1)(B) of such Act); and
 >   - **(4)** a Veteran Business Outreach Center (described under section 32 of such Act).
+
+## § 7. Leasing rules for new facilities and existing buildings
+
+- **(a)** *In general* Section 502(a) of the Small Business Investment Act of 1958, as designated by section 3, is amended by striking paragraphs (4) and (5) and inserting the following new paragraphs:
+  > - **(4)** *New facilities*
+  >   - **(A)** *In general* With respect to a project to construct a new facility, an assisted small business concern may permanently lease not more than 20 percent of the project if such concern—
+  >     - **(i)** permanently occupies and uses not less than 60 percent of the project;
+  >     - **(ii)** plans to occupy and use an additional portion of the project that is not permanently leased not later than 3 years after receipt of assistance under this section; and
+  >     - **(iii)** plans to permanently occupy and use 80 percent of the project not later than 10 years after receipt of such assistance.
+  >   - **(B)** *Small manufacturers* With respect to an assisted small business concern that is a small manufacturer (as defined in section 501(e)(6)), subparagraph (A)(i) shall apply with “50 percent” substituted for “60 percent”.
+  > - **(5)** *Existing buildings* With respect to a project to acquire, renovate, or reconstruct an existing building, the following shall apply:
+  >   - **(A)** *Occupancy requirements* The assisted small business concern may permanently lease not more than 50 percent of the project if the concern permanently occupies and uses not less than 50 percent of the project.
+  >   - **(B)** *Exception* The assisted small business concern may permanently lease more than 50 percent of the project if—
+  >     - **(i)** such concern—
+  >       - **(I)** has occupied and used the existing building for a consecutive 12-month period before submitting an application for assistance under this section;
+  >       - **(II)** agrees to permanently use less than 50 percent of the existing building and permanently lease more than 50 percent for a consecutive 12-month period after receiving such assistance; and
+  >       - **(III)** affirms that the existing building is appropriate for current and reasonably anticipated needs; and
+  >     - **(ii)** the development company assisting such project—
+  >       - **(I)** provides written notice to the Administrator on the date on which the development company closes the loan for such project; and
+  >       - **(II)** once each year during the first 5 years of the loan, and once every 2 years for the remainder of the loan—
+  >         - **(aa)** conducts an examination of the assisted small business concern to ensure the concern is not a real estate development business; and
+  >         - **(bb)** files with the Administrator an anti-investor certification signed by the development company and the assisted small business concern.
+  >   - **(C)** *Lease term* Any residential lease made under this paragraph shall be for a term of not more than 1 year, and any commercial lease made under this paragraph shall be for a term of not more than 5 years.
+
+- **(b)** *Report* Not later than 5 years after the date of the enactment of this Act, the Administrator of the Small Business Administration shall submit to Congress a report analyzing the impact of the amendments made by this section on access to capital for small business concerns (as defined under section 3 of the Small Business Act (15 U.S.C. 632)), and recommending whether similar notice, examination, and certifications requirements should be made to the program established under section 7(a) of the Small Business Act (15 U.S.C. 636(a)).
+
+## § 8. Low-interest refinancing under the local development business loan program
+
+- **(a)** *Expansions* Section 502(a)(7)(B) of the Small Business Investment Act of 1958, as designated by section 3 and amended by section 5(d), is further amended—
+  - **(1)** in the matter preceding clause (i), by striking “50 percent” and inserting “100 percent”; and
+  - **(2)** in clause (v), by adding “and” at the end;
+  - **(3)** by striking clause (vi); and
+  - **(4)** by redesignating clause (vii) as clause (vi).
+- **(b)** *Repeal* Section 521(a) of division E of the Consolidated Appropriations Act, 2016 (Public Law 114–113; 129 Stat. 2463; 15 U.S.C. 696 note) is repealed.
+- **(c)** *Refinancing* Section 502(a)(7) of the Small Business Investment Act of 1958, as designated by section 3, is amended by adding at the end the following new subparagraph:
+  > - **(C)** *Refinancing not involving expansions*
+  >   - **(i)** *Definitions* In this subparagraph—
+  >     - **(I)** the term borrower means a small business concern that submits an application to a development company for financing under this subparagraph;
+  >     - **(II)** the term eligible fixed asset means tangible property relating to which the Administrator may provide financing under this section; and
+  >     - **(III)** the term qualified debt means indebtedness that—
+  >       - **(aa)** was incurred not less than 6 months before the date of the application for assistance under this subparagraph;
+  >       - **(bb)** is a commercial loan;
+  >       - **(cc)** the proceeds of which were used to acquire an eligible fixed asset;
+  >       - **(dd)** was incurred for the benefit of the small business concern; and
+  >       - **(ee)** is collateralized by eligible fixed assets; and
+  >   - **(ii)** *Authority* A project that does not involve the expansion of a small business concern may include the refinancing of qualified debt if—
+  >     - **(I)** the amount of the financing is not more than 90 percent of the value of the collateral for the financing, except that, if the appraised value of the eligible fixed assets serving as collateral for the financing is less than the amount equal to 125 percent of the amount of the financing, the borrower may provide additional cash or other collateral to eliminate any deficiency;
+  >     - **(II)** the borrower has been in operation for all of the 2-year period ending on the date the loan application is submitted; and
+  >     - **(III)** for a financing for which the Administrator determines there will be an additional cost attributable to the refinancing of the qualified debt, the borrower agrees to pay a fee in an amount equal to the anticipated additional cost.
+  >   - **(iii)** *Financing for business expenses*
+  >     - **(I)** *Financing for business expenses* The Administrator may provide financing to a borrower that receives financing that includes a refinancing of qualified debt under clause (ii), in addition to the refinancing under clause (ii), to be used solely for the payment of business expenses.
+  >     - **(II)** *Application for financing* An application for financing under subclause (I) shall include—
+  >       - **(aa)** a specific description of the expenses for which the additional financing is requested; and
+  >       - **(bb)** an itemization of the amount of each expense.
+  >     - **(III)** *Condition on additional financing* A borrower may not use any part of the financing under this clause for non-business purposes.
+  >   - **(iv)** *Loans based on jobs*
+  >     - **(I)** *Job creation and retention goals*
+  >       - **(aa)** *In general* The Administrator may provide financing under this subparagraph for a borrower that meets the job creation goals under subsection (d) or (e) of section 501.
+  >       - **(bb)** *Alternate job retention goal* The Administrator may provide financing under this subparagraph to a borrower that does not meet the goals described in item (aa) in an amount that is not more than the product obtained by multiplying the number of employees of the borrower by $75,000.
+  >     - **(II)** *Number of employees* For purposes of subclause (I), the number of employees of a borrower is equal to the sum of—
+  >       - **(aa)** the number of full- time employees of the borrower on the date on which the borrower applies for a loan under this subparagraph; and
+  >       - **(bb)** the product obtained by multiplying—
+  >         - **(AA)** the number of part-time employees of the borrower on the date on which the borrower applies for a loan under this subparagraph; by
+  >         - **(BB)** the quotient obtained by dividing the average number of hours each part time employee of the borrower works each week by 40.
+  >   - **(v)** *Nondelegation* Notwithstanding section 508(e), the Administrator may not permit a premier certified lender to approve or disapprove an application for assistance under this subparagraph.
+  >   - **(vi)** *Total amount of loans* The Administrator may provide not more than a total of $7,500,000,000 of financing under this subparagraph for each fiscal year.
