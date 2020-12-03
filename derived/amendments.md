@@ -1,7 +1,7 @@
 ---
 measure: S. 914
 congress: 116
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
