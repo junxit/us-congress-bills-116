@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1049
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1049
@@ -257,3 +257,9 @@ National Heritage Area Act of 2020
 - 2020-11-19 — Placed on the Union Calendar, Calendar No. 494.
 - 2020-11-19 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-601.
 - 2020-11-19 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-601.
+- 2020-12-03 — Considered under suspension of the rules. (consideration: CR H6092-6096)
+- 2020-12-03 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1049.
+- 2020-12-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-03 — Mr. Case moved to suspend the rules and pass the bill, as amended.
+- 2020-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6092-6094)
+- 2020-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6092-6094)

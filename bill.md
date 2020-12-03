@@ -145,6 +145,9 @@ In this Act:
   - **(5)** contract for goods or services; and
   - **(6)** support activities of partners and any other activities that further the purposes of the National Heritage Area and are consistent with the approved management plan.
 - **(c)** *Prohibitions on the acquisition of real property* The local coordinating entity may not use Federal funds received under this Act to acquire real property or any interest in real property.
+- **(d)** *Heritage area commissions*
+  - **(1)** Section 804(j) of division B of H.R. 5666 (Appendix D) as enacted into law by section 1(a)(4) of Public Law 106–554 (54 U.S.C. 320101 note; 114 Stat. 2763, 2763A– 295; 123 Stat. 1294; 128 Stat. 3802) is amended by striking “shall terminate” and all that follows through the period and inserting “shall terminate on September 30, 2034.”.
+  - **(2)** Section 295D(d) of Public Law 109–338 (120 Stat. 1833; 130 Stat. 962) is amended by striking “shall terminate” and all that follows through the period and inserting “shall terminate on September 30, 2034.”.
 
 ## § 7. Property owners and regulatory protections
 
@@ -167,6 +170,9 @@ Nothing in this Act shall be construed to—
 - **(c)** *Cost-sharing requirement*
   - **(1)** *Federal share* Notwithstanding any other provision of law, including any law designating a National Heritage Area, the Federal share of the total cost of any activity funded with appropriations authorized by subsection (a) shall not be more than 50 percent.
   - **(2)** *Form of non-Federal share* The non-Federal share of the total cost of any activity funded with appropriations authorized by subsection (a) may be in the form of in-kind contributions of goods or services fairly valued.
+  - **(3)** *Exception* Notwithstanding section 9(b), for each National Heritage Area established before the date of the enactment of this Act without a non-Federal cost share requirement or with a non-Federal cost share requirement of less than 50 percent—
+    - **(A)** the non-Federal cost share requirement, or lack thereof, shall remain at the previously enacted level for 2 full fiscal years after the date of the enactment of this Act; and
+    - **(B)** after the period referred to in subparagraph (A), the non-Federal cost share requirement shall increase by 10 percent annually until the non-Federal share is consistent with paragraph (1).
 - **(c)** *Authority to provide assistance* Notwithstanding any other provision of law, the Secretary may provide assistance to a National Heritage Area during any fiscal year for which appropriations are authorized under subsection (a).
 
 ## § 9. Statutory Clarification
