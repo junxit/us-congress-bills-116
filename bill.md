@@ -1,15 +1,13 @@
 ---
 legis-num: S. 1342
-congress: 116th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Sixteenth Congress of the United States of America
+session: 2d Sess.
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 1342
 
-That the bill from the Senate (S. 1342) entitled “An Act to require the Under Secretary for Oceans and Atmosphere to update periodically the environmental sensitivity index products of the National Oceanic and Atmospheric Administration for each coastal area of the Great Lakes, and for other purposes.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To require the Under Secretary for Oceans and Atmosphere to update periodically the environmental sensitivity index products of the National Oceanic and Atmospheric Administration for each coastal area of the Great Lakes, and for other purposes.
 
 ## § 1. Short title
 
