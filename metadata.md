@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3884
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3884
@@ -185,3 +185,22 @@ MORE Act of 2020
 - 2020-11-27 — Placed on the Union Calendar, Calendar No. 497.
 - 2020-11-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-604, Part I.
 - 2020-11-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 116-604, Part I.
+- 2020-12-02 — Rules Committee Resolution H. Res. 1244 Reported to House. Rule provides for consideration of H.R. 3884 with 1 hour of general debate. Motion to recommit with or without instructions allowed. Bill is closed to amendments. The resolution provides that an amendment in the nature of a substitute consisting of the text of Rules Committee Print 116-67, modified by the amendment printed in the Rules Committee report, shall be considered as adopted.
+- 2020-12-03 — Rule H. Res. 1244 passed House.
+- 2020-12-04 — Amendment in the nature of a substitute reported by the House Committee on Rules. (consideration: CR H6819-6827; text: CR H6819-6827)
+- 2020-12-04 — Considered as unfinished business. (consideration: CR H6841-6842)
+- 2020-12-04 — Considered under the provisions of rule H. Res. 1244. (consideration: CR H6819-6840)
+- 2020-12-04 — DEBATE - The House proceeded with 10 minutes of debate on the Lesko motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add language to the bill authorizing employers to test an employee or applicant for cannabis use.
+- 2020-12-04 — DEBATE - The House proceeded with one hour of debate on H.R. 3884.
+- 2020-12-04 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2020-12-04 — House amendment offered
+- 2020-12-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-04 — Mrs. Lesko moved to recommit with instructions to the Committee on the Judiciary. (text: CR H6839)
+- 2020-12-04 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2020-12-04 — On motion to recommit with instructions Failed by the Yeas and Nays: 174 - 218, 1 Present (Roll no. 234).
+- 2020-12-04 — On passage Passed by the Yeas and Nays: 228 - 164 (Roll no. 235). (text of amendment in the nature of a substitute: CR H6819-6827)
+- 2020-12-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lesko motion to recommit with instructions, the Chair put the question on the motion and by voice vote, announced that the noes had prevailed. Mrs. Lesko demanded the yeas and nays and the Chair postponed further proceedings on the motion to recommit until a time to be announced.
+- 2020-12-04 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 228 - 164 (Roll no. 235).(text of amendment in the nature of a substitute: CR H6819-6827)
+- 2020-12-04 — Rule provides for consideration of H.R. 3884 with 1 hour of general debate. Motion to recommit with or without instructions allowed. Bill is closed to amendments. The resolution provides that an amendment in the nature of a substitute consisting of the text of Rules Committee Print 116-67, modified by the amendment printed in the Rules Committee report, shall be considered as adopted.
+- 2020-12-04 — The previous question on the motion to recommit with instructions was ordered without objection.
+- 2020-12-04 — The previous question was ordered pursuant to the rule.
