@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3884
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-54 amendatory instructions. 5 executed, 49 stated and not applied.
+61 amendatory instructions. 5 executed, 56 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -51,23 +51,23 @@ to guess them.
 | Removed | `section 401(b)(6)` |
 | Inserted | `section 401(b)(5)` |
 
-### 26 U.S.C. § 5701
+### 16 U.S.C. § 559b
 
-> Section 5702(c) of such Code is amended by striking “and roll-your-own tobacco” and inserting “roll-your-own tobacco, and cannabis products”.
-
-| | |
-|---|---|
-| Removed | `and roll-your-own tobacco` |
-| Inserted | `roll-your-own tobacco, and cannabis products` |
-
-### 26 U.S.C. § 5701
-
-> by striking “section 5701(a)(2)” and inserting “subsections (a)(2) and (h) of section 5701”; and
+> Section 31301(5) of title 49, United States Code, is amended by striking “section 31306,” and inserting “sections 31306, 31306a, and subsections (b) and (c) of section 31310,”.
 
 | | |
 |---|---|
-| Removed | `section 5701(a)(2)` |
-| Inserted | `subsections (a)(2) and (h) of section 5701` |
+| Removed | `section 31306,` |
+| Inserted | `sections 31306, 31306a, and subsections (b) and (c) of section 31310,` |
+
+### 26 U.S.C. § 6103
+
+> Section 6103(o)(1)(A) of the Internal Revenue Code of 1986 is amended by striking “and firearms” and inserting “firearms, and cannabis products”.
+
+| | |
+|---|---|
+| Removed | `and firearms` |
+| Inserted | `firearms, and cannabis products` |
 
 ## Stated, not applied
 
@@ -102,13 +102,20 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 559d` | strike | in section 15004(2) (16 U.S.C. 559d(2)) by striking “marijuana and other”. | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 559b` | strike | in subsection (1)(e), by striking “marihuana,”; and | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 559b` | strike | in subsection (2) by striking “marihuana”. | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 5701` | add-at-end | Subchapter A of chapter 98 of the Internal Revenue Code of 1986 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 5701` | add-at-end | The table of sections for subchapter A of chapter 98 of such Code is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 5701` | redesignate | Section 5701 of the Internal Revenue Code of 1986 is amended by redesignating subsection (h) as subsection (i) and by inserting after subsection (g) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 5701` | add-at-end | Section 5702 of such Code is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 5701` | add-at-end | Section 5702 of such Code is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 5701` | insert | by inserting “and cannabis products” after “cigars” in the heading thereof. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 5701` | add-at-end | Section 5702(j) of such Code is amended by adding at the end the following new sentence: “In the case of a cannabis product, the previous sentence shall be applied by substituting from a facility of a manufacturer required to file a bond… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 559b` | replace | by striking “means any substance” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 559b` | replace | by striking the period at the end and inserting | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 559b` | add-at-end | Section 31310(b) of title 49, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 559b` | replace | by striking “means any substance” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 559b` | replace | by striking the period at the end and inserting | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 559b` | replace | by striking “means any substance” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 559b` | replace | by striking the period at the end and inserting | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 559b` | replace | by striking “means any substance” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 559b` | replace | by striking the period at the end and inserting | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 7301` | add-at-end | Section 503 of the Supplemental Appropriations Act, 1987 (5 U.S.C. 7301 note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 802` | add-at-end | Subchapter A of chapter 98 of the Internal Revenue Code of 1986 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 802` | add-at-end | Subtitle E of the Internal Revenue Code of 1986 is amended by adding at the end the following new chapter: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6103` | add-at-end | The table of chapters for subtitle E of such Code is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6103` | add-at-end | The table of sections for subchapter A of chapter 98 of such Code is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 10101` | insert | Part A of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10101 et seq.) is amended by inserting after section 109 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 10101` | add-at-end | Title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 632` | add-at-end | Section 3 of the Small Business Act (15 U.S.C. 632) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
