@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1819
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1819
@@ -34,9 +34,10 @@ War Crimes Rewards Expansion Act
 - Rep. Taylor, Van [R-TX-3] (T000479)
 - Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ War Crimes Rewards Expansion Act
 - 2020-12-03 — Mr. Engel moved to suspend the rules and pass the bill.
 - 2020-12-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6082)
 - 2020-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6082)
+- 2020-12-07 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
