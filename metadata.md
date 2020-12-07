@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5517
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5517
@@ -49,9 +49,10 @@ Gandhi-King Scholarly Exchange Initiative Act
 - Rep. Wexton, Jennifer [D-VA-10] (W000825)
 - Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -67,3 +68,4 @@ Gandhi-King Scholarly Exchange Initiative Act
 - 2020-12-03 — Mr. Engel moved to suspend the rules and pass the bill, as amended.
 - 2020-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6079-6081)
 - 2020-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6079-6081)
+- 2020-12-07 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
