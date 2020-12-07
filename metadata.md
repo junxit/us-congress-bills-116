@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1503
 congress: 116
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1503
@@ -63,3 +63,13 @@ Orange Book Transparency Act of 2020
 - 2019-05-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 187). (text: CR H3486-3487)
 - 2019-05-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 187).(text: CR H3486-3487)
 - 2019-05-09 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2020-12-07 — Amendment SA 2693 agreed to in Senate by Unanimous Consent.
+- 2020-12-07 — Amendment SA 2693 proposed by Senator McConnell for Senator Alexander. (consideration: CR S7244; text: CR S7242-7243) In the nature of a substitute.
+- 2020-12-07 — Measure laid before Senate by unanimous consent. (consideration: CR S7244)
+- 2020-12-07 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S7242-7243)
+- 2020-12-07 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text of amendment in the nature of a substitute: CR S7242-7243)
+- 2020-12-07 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2020-12-07 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2020-12-07 — Senate amendment agreed to: Amendment SA 2693 agreed to in Senate by Unanimous Consent.
+- 2020-12-07 — Senate amendment proposed (on the floor): Amendment SA 2693 proposed by Senator McConnell for Senator Alexander.
+- 2020-12-07 — Senate amendment submitted
