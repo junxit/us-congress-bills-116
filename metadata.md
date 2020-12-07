@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3682
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3682
@@ -20,9 +20,10 @@ Land Grant-Mercedes Traditional Use Recognition and Consultation Act
 
 - Rep. Haaland, Debra A. [D-NM-1] (H001080)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Land Grant-Mercedes Traditional Use Recognition and Consultation Act
 - 2020-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6124-6125)
 - 2020-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6124-6125)
 - 2020-12-03 — The title of the measure was amended. Agreed to without objection.
+- 2020-12-07 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
