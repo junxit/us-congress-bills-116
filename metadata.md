@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8211
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8211
@@ -22,9 +22,10 @@ version: Engrossed in House
 - Rep. Taylor, Van [R-TX-3] (T000479)
 - Rep. Pappas, Chris [D-NH-1] (P000614)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ version: Engrossed in House
 - 2020-12-03 — Ms. Velazquez moved to suspend the rules and pass the bill, as amended.
 - 2020-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6072-6075)
 - 2020-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6072-6075)
+- 2020-12-07 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
