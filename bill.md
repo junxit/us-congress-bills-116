@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 1503
-congress: 116th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Sixteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 1503
 
-That the bill from the House of Representatives (H.R. 1503) entitled “An Act to amend the Federal Food, Drug, and Cosmetic Act regarding the list under section 505(j)(7) of the Federal Food, Drug, and Cosmetic Act, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend the Federal Food, Drug, and Cosmetic Act regarding the list under section 505(j)(7) of the Federal Food, Drug, and Cosmetic Act, and for other purposes.
 
 ## § 1. Short title
 
