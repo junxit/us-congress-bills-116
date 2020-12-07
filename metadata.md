@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7903
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7903
@@ -22,9 +22,10 @@ To amend the Small Business Act to establish the Community Advantage Loan Progra
 - Rep. Phillips, Dean [D-MN-3] (P000616)
 - Rep. Taylor, Van [R-TX-3] (T000479)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ To amend the Small Business Act to establish the Community Advantage Loan Progra
 - 2020-12-03 — Ms. Velazquez moved to suspend the rules and pass the bill, as amended.
 - 2020-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6068-6070)
 - 2020-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6068-6070)
+- 2020-12-07 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
