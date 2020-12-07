@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5273
 congress: 116
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 5273
@@ -57,3 +57,5 @@ Securing America's Ports Act
 - 2020-09-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute and an amendment to the title. With written report No. 116-267.
 - 2020-09-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute and an amendment to the title. With written report No. 116-267.
 - 2020-09-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 530.
+- 2020-12-07 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S7243-7244; text: CR S7244)
+- 2020-12-07 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(consideration: CR S7243-7244; text: CR S7244)
