@@ -1,13 +1,13 @@
 ---
 legis-num: H. RES. 189
 congress: 116th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 189
 
-> Recognizing the importance of sustained United States leadership to accelerating global progress against maternal and child malnutrition and supporting United States Agency for International Development’s commitment to global nutrition through its multi-sectoral nutrition strategy.
+> A resolution supporting sustained United States leadership to accelerating global progress against maternal and child malnutrition and supporting United States Agency for International Development’s commitment to global nutrition through its multi-sectoral nutrition strategy.
 
 ## Preamble
 
@@ -37,11 +37,11 @@ That the House of Representatives—
   - **(B)** adults who were well-nourished as children earn up to 46 percent more than those who were malnourished;
   - **(C)** countries with a very high burden of early childhood malnutrition have lower economic growth rates due to lost income and productivity; and
   - **(D)** the cost to nations is substantial with Gross Domestic Product (GDP) losses estimated between 3 to 16 percent with overall potential impacts to the global economy as high as $3.5 trillion per year;
-- **(3)** commends United States leadership in helping developing countries meet the nutritional needs of women and children, and supports continued efforts;
-- **(4)** commends United States Agency for International Development’s (USAID) recognition that nutrition interventions are among the lifesaving interventions that can have the greatest impact in ending preventable child and maternal deaths;
-- **(5)** recognizes the USAID Multi-Sectoral Nutrition Strategy, the United States Government Global Nutrition Coordination Plan, and the Global Food Security Strategy as platforms through which to help reach global nutrition targets by 2025, as agreed to at the World Health Assembly in 2012;
-- **(6)** recognizes the vision and goals of the Scaling Up Nutrition movement as a global partnership to support country-led efforts to improve maternal and child nutrition involving governments, civil society, the United Nations, donors, businesses, and researchers;
-- **(7)** recognizes that progress against global malnutrition must be accelerated using innovative, scaled-up approaches to improve the systems that affect the nutritional status of women and children; and
+- **(3)** supports United States leadership in helping developing countries meet the nutritional needs of women and children, and supports continued efforts;
+- **(4)** supports United States Agency for International Development’s (USAID) recognition that nutrition interventions are among the lifesaving interventions that can have the greatest impact in ending preventable child and maternal deaths;
+- **(5)** supports the use of the USAID Multi-Sectoral Nutrition Strategy, the United States Government Global Nutrition Coordination Plan, and the Global Food Security Strategy as platforms through which to help reach global nutrition targets by 2025, as agreed to at the World Health Assembly in 2012;
+- **(6)** acknowledges the vision and goals of the Scaling Up Nutrition movement as a global partnership to support country-led efforts to improve maternal and child nutrition involving governments, civil society, the United Nations, donors, businesses, and researchers;
+- **(7)** acknowledges that progress against global malnutrition must be accelerated using innovative, scaled-up approaches to improve the systems that affect the nutritional status of women and children; and
 - **(8)** calls for transformative efforts across sectors at USAID—
   - **(A)** to accelerate progress to end maternal and child malnutrition, including through Country Development Cooperation Strategies that align with country’s national nutrition plans; and
   - **(B)** to include improved and clear methods to track nutrition funding and outcomes across all United States Government global nutrition programs, especially those in global health, food security, agriculture, basic education, food assistance, and water, sanitation, and hygiene (WASH).
