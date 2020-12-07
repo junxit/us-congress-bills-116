@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1380
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1380
@@ -249,9 +249,10 @@ Big Cat Public Safety Act
 - Rep. Gabbard, Tulsi [D-HI-2] (G000571)
 - Rep. Buck, Ken [R-CO-4] (B001297)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -278,3 +279,4 @@ Big Cat Public Safety Act
 - 2020-12-03 — Mr. Case moved to suspend the rules and pass the bill, as amended.
 - 2020-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 272 - 114 (Roll no. 232). (text: CR H6131-6132)
 - 2020-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 272 - 114 (Roll no. 232).(text: CR H6131-6132)
+- 2020-12-07 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
