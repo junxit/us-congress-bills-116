@@ -19,12 +19,12 @@ For purposes of this Act:
 
 - **(1)** *Joint declaration* The term Joint Declaration means the Joint Declaration of the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the People’s Republic of China on the Question of Hong Kong, signed on December 19, 1984, and entered into force on May 27, 1985.
 - **(2)** *Priority Hong Kong resident* The term Priority Hong Kong resident means—
-  - **(A)** a lawful permanent resident of Hong Kong who—
+  - **(A)** a permanent resident of Hong Kong who—
     - **(i)** holds no right to citizenship in any country or jurisdiction other than the People’s Republic of China (referred to in this Act as “PRC”), Hong Kong, or Macau as of the date of enactment of this Act;
-    - **(ii)** has been verified as a Hong Kong resident by the Secretary of State or Secretary of Homeland Security in accordance with the procedures described in section 6(b) of this Act; and
-    - **(iii)** has resided in Hong Kong for not less than the last 10 years; or
-  - **(B)** is the spouse of a person described in subparagraph (A), or the child of such person as such term is defined in section 101(b)(1) of the Immigration and Nationality Act (8 U.S.C. 1101(b)(1)), except that a child shall be an unmarried person under twenty-seven years of age.
-- **(3)** *Hong kong national security law* The term Hong Kong National Security Law means the Law of the People’s Republic of China on Safeguarding National Security in the Hong Kong Special Administrative Region that was passed unanimously by the National People’s Congress (referred to in this Act as “NPC”) and signed by President Xi Jinping on June 30, 2020, and promulgated in the Hong Kong Special Administrative Region (referred to in this Act as “SAR”) on July 1, 2020.
+    - **(ii)** has resided in Hong Kong for not less than the last 10 years as of the date of enactment of this Act; and
+    - **(iii)** has been designated by the Secretary of State or Secretary of Homeland Security as having met the requirements of this subparagraph, in accordance with the procedures described in section 7 of this Act; or
+  - **(B)** the spouse of a person described in subparagraph (A), or the child of such person as such term is defined in section 101(b)(1) of the Immigration and Nationality Act (8 U.S.C. 1101(b)(1)), except that a child shall be an unmarried person under twenty-seven years of age.
+- **(3)** *Hong kong national security law* The term Hong Kong National Security Law means the Law of the People’s Republic of China on Safeguarding National Security in the Hong Kong Special Administrative Region that was passed unanimously by the National People’s Congress and signed by President Xi Jinping on June 30, 2020, and promulgated in the Hong Kong Special Administrative Region (referred to in this Act as “Hong Kong SAR”) on July 1, 2020.
 - **(4)** *Appropriate congressional committees* The term appropriate congressional committees means—
   - **(A)** the Committee on Foreign Affairs and the Committee on the Judiciary of the House of Representatives; and
   - **(B)** the Committee on Foreign Relations and the Committee on the Judiciary of the Senate.
@@ -74,7 +74,7 @@ It is the policy of the United States—
   - **(1)** *In general* For purposes of section 244 of the Immigration and Nationality Act (8 U.S.C. 1254a), Hong Kong shall be treated as if it had been designated under subsection (b)(1)(C) of that section, subject to the provisions of this section.
   - **(2)** *Period of designation* The initial period of the designation referred to in paragraph (1) shall be for the 18-month period beginning on the date of enactment of this Act.
 - **(b)** *Aliens eligible* As a result of the designation made under subsection (a), an alien is deemed to satisfy the requirements under paragraph (1) of section 244(c) of the Immigration and Nationality Act (8 U.S.C. 1254a(c)), subject to paragraph (3) of such section, if the alien—
-  - **(1)** was a lawful permanent resident of Hong Kong at the time such individual arrived into the United States and is a national of the PRC;
+  - **(1)** was a permanent resident of Hong Kong at the time such individual arrived into the United States and is a national of the PRC (or in the case of an individual having no nationality, is a person who last habitually resided in Hong Kong);
   - **(2)** has been continuously physically present in the United States since the date of the enactment of this Act;
   - **(3)** is admissible as an immigrant, except as otherwise provided in paragraph (2)(A) of such section, and is not ineligible for temporary protected status under paragraph (2)(B) of such section; and
   - **(4)** registers for temporary protected status in a manner established by the Secretary of Homeland Security.
@@ -87,20 +87,22 @@ It is the policy of the United States—
 
 ## § 6. Treatment of Hong Kong residents for immigration purposes
 
-- **(a)** *In general* Notwithstanding any other provision of law, during the 5 fiscal year period beginning on the first day of the first full fiscal year after the date of enactment of this Act, Hong Kong shall continue to be considered a foreign state separate and apart from the PRC as mandated under section 103 of the Immigration and Nationality Act of 1990 (Public Law 101–649) for purposes of the numerical limitations on immigrant visas under sections 201, 202, and 203 of the Immigration and Nationality Act (8 U.S.C. 1151, 1152, and 1153).
-- **(b)** *Procedures*
-  - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act, the Secretary of State, in consultation with the Secretary of Homeland Security, shall publish in the Federal Register, an interim final rule implementing this section. Notwithstanding section 553 of title 5, United States Code, the rule shall be effective, on an interim basis, immediately upon publication, but may be subject to change and revision after public notice and opportunity for comment. The Secretary of State shall finalize such rule not later than 1 year after the date of the enactment of this Act. Such rule shall establish procedures—
-    - **(A)** for individuals to register with any United States embassy or consulate outside of the United States, or with the Department of Homeland Security in the United States, and request designation as a Priority Hong Kong Resident; and
-    - **(B)** for the appropriate Secretary to verify the residency of registered individuals and designate those who qualify as Priority Hong Kong Residents.
-  - **(2)** *Documentation* The procedures described in paragraph (1) shall include the collection of—
-    - **(A)** biometric data;
-    - **(B)** copies of birth certificates, residency cards, and other documentation establishing residency; and
-    - **(C)** other personal information, data, and records deemed appropriate by the Secretary.
-  - **(3)** *Guidance* Not later than 90 days after the date of the enactment of this Act, the Secretary of State shall issue guidance outlining actions to enhance the ability of the Secretary to efficiently send and receive information to and from the United Kingdom and other like-minded allies and partners for purposes of rapid verification of lawful permanent residency in Hong Kong and designation of individuals as Priority Hong Kong Residents.
-  - **(4)** *Report* Not later than 90 days after the date of the enactment of this Act, the Secretary of State shall submit a report to the House Committees on Foreign Affairs and the Judiciary and the Senate Committees on Foreign Relations and the Judiciary detailing plans to implement the requirements described in this subsection.
-- **(c)** *Protection for refugees* Nothing in this section shall be construed to prevent a Priority Hong Kong Resident from seeking refugee status under section 207 of the Immigration and Nationality Act (8 U.S.C. 1107) or requesting asylum under section 208 of such Act (8 U.S.C. 1108).
+Notwithstanding any other provision of law, during the 5 fiscal year period beginning on the first day of the first full fiscal year after the date of enactment of this Act, Hong Kong shall continue to be considered a foreign state separate and apart from the PRC as mandated under section 103 of the Immigration and Nationality Act of 1990 (Public Law 101–649) for purposes of the numerical limitations on immigrant visas under sections 201, 202, and 203 of the Immigration and Nationality Act (8 U.S.C. 1151, 1152, and 1153).
 
-## § 7. Reporting requirements
+## § 7. Verification of Hong Kong priority residents
+
+- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, the Secretary of State, in consultation with the Secretary of Homeland Security, shall publish in the Federal Register, an interim final rule establishing procedures for designation of Hong Kong Priority Residents. Notwithstanding section 553 of title 5, United States Code, the rule shall be effective, on an interim basis, immediately upon publication, but may be subject to change and revision after public notice and opportunity for comment. The Secretary of State shall finalize such rule not later than 1 year after the date of the enactment of this Act. Such rule shall establish procedures—
+  - **(1)** for individuals to register with any United States embassy or consulate outside of the United States, or with the Department of Homeland Security in the United States, and request designation as a Priority Hong Kong Resident; and
+  - **(2)** for the appropriate Secretary to verify the residency of registered individuals and designate those who qualify as Priority Hong Kong Residents.
+- **(b)** *Documentation* The procedures described in subsection (a) shall include the collection of—
+  - **(1)** biometric data;
+  - **(2)** copies of birth certificates, residency cards, and other documentation establishing residency; and
+  - **(3)** other personal information, data, and records deemed appropriate by the Secretary.
+- **(c)** *Guidance* Not later than 90 days after the date of the enactment of this Act, the Secretary of State shall issue guidance outlining actions to enhance the ability of the Secretary to efficiently send and receive information to and from the United Kingdom and other like-minded allies and partners for purposes of rapid verification of permanent residency in Hong Kong and designation of individuals as Priority Hong Kong Residents.
+- **(d)** *Report* Not later than 90 days after the date of the enactment of this Act, the Secretary of State shall submit a report to the House Committees on Foreign Affairs and the Judiciary and the Senate Committees on Foreign Relations and the Judiciary detailing plans to implement the requirements described in this subsection.
+- **(e)** *Protection for refugees* Nothing in this section shall be construed to prevent a Priority Hong Kong Resident from seeking refugee status under section 207 of the Immigration and Nationality Act (8 U.S.C. 1157) or requesting asylum under section 208 of such Act (8 U.S.C. 1158).
+
+## § 8. Reporting requirements
 
 - **(a)** *In general* On an annual basis, the Secretary of State and the Secretary of Homeland Security, in consultation with other Federal agencies, as appropriate, shall submit a report to the appropriate congressional committees, detailing for the previous fiscal year—
   - **(1)** the number of Hong Kong SAR residents who have applied for U.S. visas or immigration benefits, disaggregated by visa type or immigration benefit, including asylum, refugee status, temporary protected status, and lawful permanent residence;
@@ -109,7 +111,7 @@ It is the policy of the United States—
   - **(4)** other matters deemed relevant by the Secretaries relating to efforts to protect and facilitate the resettlement of refugees and victims of persecution in Hong Kong.
 - **(b)** *Form* Each report under subsection (a) shall be submitted in unclassified form and published on a text-searchable, publicly available website of the Department of State and the Department of Homeland Security.
 
-## § 8. Strategy for international cooperation on Hong Kong
+## § 9. Strategy for international cooperation on Hong Kong
 
 - **(a)** *In general* It is the policy of the United States—
   - **(1)** to support the people of Hong Kong by providing safe haven to Hong Kong SAR residents who are nationals of the PRC following the enactment of the Hong Kong National Security Law that places certain Hong Kong persons at risk of persecution; and
@@ -123,17 +125,17 @@ It is the policy of the United States—
     - **(B)** fraud or misrepresentation under section 212(a)(6)(C) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(6)(C)).
 - **(c)** *Report* Not later than 90 days after the date of the enactment of this Act, the Secretary of State, in consultation with the heads of other Federal agencies, as appropriate, shall submit a report on the plan described in subsection (b) to the appropriate congressional committees.
 
-## § 9. Refugee status for certain residents of Hong Kong
+## § 10. Refugee status for certain residents of Hong Kong
 
 - **(a)** *In general* Aliens described in subsection (b) may establish, for purposes of admission as a refugee under sections 207 of the Immigration and Nationality Act (8 U.S.C. 1157) or asylum under section 208 of such Act (8 U.S.C. 1158), that such alien has a well-founded fear of persecution on account of race, religion, nationality, membership in a particular social group, or political opinion by asserting such a fear and a credible basis for concern about the possibility of such persecution.
 - **(b)** *Aliens described*
   - **(1)** *In general* An alien is described in this subsection if such alien—
     - **(A)** is a Priority Hong Kong Resident and—
-      - **(i)** had a significant role in a civil society organization supportive of the protests in 2019 and 2020 related to the Hong Kong National Security Law and the encroachment on the autonomy of Hong Kong by the PRC; or
-      - **(ii)** was arrested, charged, detained, or convicted of an offense arising from their participation in an action as described in section 206(b)(2) of the United States-Hong Kong Policy Act of 1992 (22 U.S.C. 5726) that was not violent in nature;
-    - **(B)** is a Priority Hong Kong Resident spouse or child of an alien described in subparagraph (A);
-    - **(C)** is the parent of an alien described in subparagraph (A), if such parent is a citizen of the PRC and no other foreign state; or
-    - **(D)** has had their citizenship, nationality, or residency revoked for having submitted to any United States Government agency a nonfrivolous application for refugee status, asylum, or any other immigration benefit under the immigration laws (as defined in section 101(a) of that Act (8 U.S.C. 1101(a))).
+      - **(i)** had a significant role in a civil society organization supportive of the protests in 2019 and 2020 related to the Hong Kong National Security Law and the encroachment on the autonomy of Hong Kong by the PRC;
+      - **(ii)** was arrested, charged, detained, or convicted of an offense arising from their participation in an action as described in section 206(b)(2) of the United States-Hong Kong Policy Act of 1992 (22 U.S.C. 5726(b)(2)) that was not violent in nature; or
+      - **(iii)** has had their citizenship, nationality, or residency revoked for having submitted to any United States Government agency a nonfrivolous application for refugee status, asylum, or any other immigration benefit under the immigration laws (as defined in section 101(a) of that Act (8 U.S.C. 1101(a)));
+    - **(B)** is a Priority Hong Kong Resident spouse or child of an alien described in subparagraph (A); or
+    - **(C)** is the parent of an alien described in subparagraph (A), if such parent is a citizen of the PRC and no other foreign state.
   - **(2)** *Other categories* The Secretary of Homeland Security, in consultation with the Secretary of State, may designate other categories of aliens for purposes of establishing a well-founded fear of persecution under subsection (a) if such aliens share common characteristics that identify them as targets of persecution in the PRC on account of race, religion, nationality, membership in a particular social group, or political opinion.
   - **(3)** *Significant role* For purposes of clause (i) of subsection (b)(1)(A), a significant role shall include, with respect to the protests described in such clause—
     - **(A)** an organizing role;
@@ -158,10 +160,10 @@ It is the policy of the United States—
   - **(3)** *Form* Each report required by paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
   - **(4)** *Public reports* The Secretary of State shall make each report submitted under this subsection available to the public on the internet website of the Department of State.
 
-## § 10. Statement of policy on encouraging allies and partners to make similar accommodations
+## § 11. Statement of policy on encouraging allies and partners to make similar accommodations
 
 It is the policy of the United States to encourage allies and partners of the United States to make accommodations similar to the accommodations made in this Act for residents of the Hong Kong Special Administrative Region who are fleeing oppression by the Government of the People’s Republic of China.
 
-## § 11. Termination
+## § 12. Termination
 
 Except as provided in section 6 of this Act, this Act shall cease to have effect on the date that is 5 years after the date of the enactment of this Act.
