@@ -1,7 +1,7 @@
 ---
 measure: H.R. 306
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 306
@@ -21,9 +21,10 @@ Kettle Creek Battlefield Survey Act
 - Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
 - Rep. Loudermilk, Barry [R-GA-11] (L000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Kettle Creek Battlefield Survey Act
 - 2020-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6110)
 - 2020-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6110)
 - 2020-12-03 — The title of the measure was amended. Agreed to without objection.
+- 2020-12-07 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
