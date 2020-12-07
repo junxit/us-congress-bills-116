@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3797
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 2 executed, 7 stated and not applied.
+10 amendatory instructions. 4 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -42,6 +42,24 @@ to guess them.
 | Removed | `schedule I` |
 | Inserted | `schedule I, except marijuana,` |
 
+### 21 U.S.C. § 802
+
+> in subparagraph (A), by striking “the term marihuana means” and inserting “the terms marihuana and marijuana mean”; and
+
+| | |
+|---|---|
+| Removed | `the term marihuana means` |
+| Inserted | `the terms marihuana and marijuana mean` |
+
+### 21 U.S.C. § 802
+
+> in subparagraph (B), by striking “The term marihuana does not” and inserting “The terms marihuana and marijuana do not”.
+
+| | |
+|---|---|
+| Removed | `The term marihuana does not` |
+| Inserted | `The terms marihuana and marijuana do not` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -55,6 +73,5 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 823` | replace | by striking “Registration applications” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 823` | replace | by striking “Article 7” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 355` | insert | by inserting before paragraph (4), as so designated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 802` | insert | Section 102(16) of the Controlled Substances Act (21 U.S.C. 802(16)) is amended by inserting “or marijuana” after “The term marihuana”. | the bill quotes the text inserted but describes where it goes |
-| `21 U.S.C. § 823` | add-at-end | Section 303 of the Controlled Substances Act (21 U.S.C. 823), as amended by section 3, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 823` | add-at-end | Section 303 of the Controlled Substances Act (21 U.S.C. 823), as amended by section 2, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 826` | add-at-end | Section 306 of the Controlled Substances Act (21 U.S.C. 826) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
