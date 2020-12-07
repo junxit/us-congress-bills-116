@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4153
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4153
@@ -74,3 +74,4 @@ Health Care Access for Urban Native Veterans Act
 - 2020-12-03 — Mr. Case moved to suspend the rules and pass the bill.
 - 2020-12-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6127)
 - 2020-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6127)
+- 2020-12-07 — Received in the Senate.
