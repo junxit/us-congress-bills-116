@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5273
 congress: 116
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5273
@@ -59,3 +59,15 @@ Securing America's Ports Act
 - 2020-09-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 530.
 - 2020-12-07 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S7243-7244; text: CR S7244)
 - 2020-12-07 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(consideration: CR S7243-7244; text: CR S7244)
+- 2020-12-08 — Message on Senate action sent to the House.
+- 2020-12-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-10 — Ms. Torres Small (NM) asked unanimous consent that the House agree to the Senate amendments.
+- 2020-12-10 — Ms. Torres Small (NM) asked unanimous consent to take the bill, H.R. 5273, from the Speaker's Table and agree to the Senate amendments. (consideration: CR H7128-7129)
+- 2020-12-10 — On motion that the House agree to the Senate amendments Agreed to without objection. (text: CR H7128-7129)
+- 2020-12-10 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to without objection.(text: CR H7128-7129)
+- 2020-12-24 — Presented to President.
+- 2020-12-24 — Presented to President.
+- 2021-01-05 — Became Public Law No: 116-299.
+- 2021-01-05 — Became Public Law No: 116-299.
+- 2021-01-05 — Signed by President.
+- 2021-01-05 — Signed by President.
