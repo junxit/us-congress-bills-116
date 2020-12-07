@@ -2,7 +2,7 @@
 legis-num: H.R. 3884
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 3884
@@ -202,29 +202,6 @@ The Congress finds as follows:
     >   - **(2)** perform such other functions as the Assistant Attorney General for the Office of Justice Programs may delegate, that are consistent with the statutory obligations of this section.
 
   - **(2)** *Community reinvestment grant program* Title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. et seq.) is amended by adding at the end the following:
-    > ## § 3052. Authorization
-    >
-    > - **(a)** *In general* The Director of the Cannabis Justice Office shall establish and carry out a grant program, known as the “Community Reinvestment Grant Program”, to provide eligible entities with funds to administer services for individuals adversely impacted by the War on Drugs, including—
-    >   - **(1)** job training;
-    >   - **(2)** reentry services;
-    >   - **(3)** legal aid for civil and criminal cases, including expungement of cannabis convictions;
-    >   - **(4)** literacy programs;
-    >   - **(5)** youth recreation or mentoring programs; and
-    >   - **(6)** health education programs.
-    > - **(b)** *Substance use disorder services* The Director, in consultation with the Secretary of Health and Human Services, shall provide eligible entities with funds to administer substance use disorder services for individuals adversely impacted by the War on Drugs or connect patients with substance use disorder services. Also eligible for such services are individuals who have been arrested for or convicted of the sale, possession, use, manufacture, or cultivation of a controlled substance other than cannabis (except for a conviction involving distribution to a minor).
-    >
-    > ## § 3053. Funding from opportunity trust fund
-    >
-    > The Director shall carry out the program under this part using funds made available under section 9512(c)(1) and (2) of the Internal Revenue Code.
-    >
-    > ## § 3054. Definitions
-    >
-    > In this part:
-    >
-    > - **(1)** The term “cannabis conviction” means a conviction, or adjudication of juvenile delinquency, for a cannabis offense (as such term is defined in section 13 of the Marijuana Opportunity Reinvestment and Expungement Act of 2020).
-    > - **(2)** The term “eligible entity” means a nonprofit organization, as defined in section 501(c)(3) of the Internal Revenue Code, that is representative of a community or a significant segment of a community with experience in providing relevant services to individuals adversely impacted by the War on Drugs in that community.
-    > - **(3)** The term “individuals adversely impacted by the War on Drugs” has the meaning given that term in section 6 of the Marijuana Opportunity Reinvestment and Expungement Act of 2020
-
 - **(b)** *Cannabis opportunity program; equitable licensing grant program*
   - **(1)** *Cannabis opportunity program* The Administrator of the Small Business Administration shall establish and carry out a program, to be known as the “Cannabis Opportunity Program” to provide any eligible State or locality funds to make loans under section 7(m) of the Small Business Act (15 U.S.C. 363(m)) to assist small business concerns owned and controlled by socially and economically disadvantaged individuals, as defined in section 8(d)(3)(C) of the Small Business Act (15 U.S.C. 637(d)(3)(C)) that operate in the cannabis industry.
   - **(2)** *Equitable licensing grant program* The Administrator of the Small Business Administration shall establish and carry out a grant program, to be known as the “Equitable Licensing Grant Program”, to provide any eligible State or locality funds to develop and implement equitable cannabis licensing programs that minimize barriers to cannabis licensing and employment for individuals adversely impacted by the War on Drugs, provided that each grantee includes in its cannabis licensing program at least four of the following:
