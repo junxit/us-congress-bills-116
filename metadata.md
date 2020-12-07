@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3884
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3884
@@ -139,7 +139,7 @@ MORE Act of 2020
 - Rep. Veasey, Marc A. [D-TX-33] (V000131)
 - Rep. Butterfield, G. K. [D-NC-1] (B001251)
 
-## Committees (8)
+## Committees (9)
 
 - House — Oversight and Accountability Committee
 - House — Natural Resources Committee
@@ -149,6 +149,7 @@ MORE Act of 2020
 - House — Agriculture Committee
 - House — Energy and Commerce Committee
 - House — Judiciary Committee
+- Senate — Finance Committee
 
 ## Recorded votes (2)
 
@@ -209,3 +210,4 @@ MORE Act of 2020
 - 2020-12-04 — Rule provides for consideration of H.R. 3884 with 1 hour of general debate. Motion to recommit with or without instructions allowed. Bill is closed to amendments. The resolution provides that an amendment in the nature of a substitute consisting of the text of Rules Committee Print 116-67, modified by the amendment printed in the Rules Committee report, shall be considered as adopted.
 - 2020-12-04 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2020-12-04 — The previous question was ordered pursuant to the rule.
+- 2020-12-07 — Received in the Senate and Read twice and referred to the Committee on Finance.
