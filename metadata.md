@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8810
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 8810
@@ -42,3 +42,4 @@ National Landslide Preparedness Act
 - 2020-12-03 — Mr. Case moved to suspend the rules and pass the bill, as amended.
 - 2020-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6128-6131)
 - 2020-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6128-6131)
+- 2020-12-07 — Received in the Senate, read twice.
