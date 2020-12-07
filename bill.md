@@ -1,8 +1,8 @@
 ---
 legis-num: H. RES. 512
 congress: 116th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 512
@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - Whereas Article 18 of the International Declaration of Human Rights states that “[e]veryone has the right to freedom of thought, conscience and religion; this right includes freedom to change his religion or belief, and freedom, either alone or in community with others and in public or private, to manifest his religion or belief in teaching, practice, worship and observance”;
 - Whereas many countries continue to have criminal blasphemy laws and punish people who engage in expression deemed by the government to be blasphemous, heretical, apostate, defamatory of religion, or insulting to religion or to religious symbols, figures, or feelings, and such punishment can include fines, imprisonment, and capital punishment including by beheading;
-- Whereas blasphemy laws have affected Christians, Muslims, Hindus, Baha’i, secularists, and many other groups, are inconsistent with international human rights standards because they establish and promote official religious orthodoxy and dogma over individual liberty, and often result in violations of the freedoms of religion, thought, and expression that are protected under international instruments, including Articles 18 and 19 of the International Covenant on Civil and Political Rights (ICCPR);
+- Whereas blasphemy laws have affected Christians, Muslims, Jews, Hindus, Baha’i, secularists, and many other groups, are inconsistent with international human rights standards because they establish and promote official religious orthodoxy and dogma over individual liberty, and often result in violations of the freedoms of religion, thought, and expression that are protected under international instruments, including Articles 18 and 19 of the International Covenant on Civil and Political Rights (ICCPR);
 - Whereas the United Nations Human Rights Committee stated in General Comment 34 that “[p]rohibitions of displays of lack of respect for a religion or other belief system, including blasphemy laws, are incompatible with the [ICCPR].”;
 - Whereas the United States Commission on International Religious Freedom (USCIRF) has found that blasphemy charges are often based on false accusations, are used for sectarian or political purposes, and foster religious intolerance, discrimination, and violence;
 - Whereas USCIRF has found that at least 70 countries had blasphemy laws as of 2018;
