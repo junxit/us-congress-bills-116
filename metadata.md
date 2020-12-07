@@ -1,7 +1,7 @@
 ---
 measure: S. 461
 congress: 116
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 461
@@ -60,3 +60,13 @@ HBCU PARTNERS Act
 - 2020-12-07 — Ms. Adams moved to suspend the rules and pass the bill, as amended.
 - 2020-12-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 6 (Roll no. 237). (text: CR H6878-6879)
 - 2020-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 6 (Roll no. 237).(text: CR H6878-6879)
+- 2020-12-08 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2020-12-11 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 461 by Voice Vote.(consideration: CR S7450)
+- 2020-12-11 — Senate agreed to the House amendment to S. 461 by Voice Vote. (consideration: CR S7450)
+- 2020-12-14 — Message on Senate action sent to the House.
+- 2020-12-21 — Presented to President.
+- 2020-12-21 — Presented to President.
+- 2020-12-31 — Became Public Law No: 116-270.
+- 2020-12-31 — Became Public Law No: 116-270.
+- 2020-12-31 — Signed by President.
+- 2020-12-31 — Signed by President.
