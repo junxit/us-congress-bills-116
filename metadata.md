@@ -1,7 +1,7 @@
 ---
 measure: S. 3729
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3729
@@ -35,3 +35,5 @@ Motor Carrier Safety Grant Relief Act of 2020
 - 2020-11-16 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-294.
 - 2020-11-16 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker without amendment. With written report No. 116-294.
 - 2020-11-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 587.
+- 2020-12-08 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7285; text: CR S7285)
+- 2020-12-08 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
