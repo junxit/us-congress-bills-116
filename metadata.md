@@ -1,7 +1,7 @@
 ---
 measure: S. 4460
 congress: 116
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 4460
@@ -29,3 +29,7 @@ State Veterans Homes Domiciliary Care Flexibility Act
 
 - 2020-08-05 — Introduced in Senate
 - 2020-08-05 — Read twice and referred to the Committee on Veterans' Affairs. (Sponsor introductory remarks on measure: CR S4944-4945)
+- 2020-12-08 — Passed Senate without amendment by Unanimous Consent. (text: CR S7286)
+- 2020-12-08 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-12-08 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2020-12-08 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S7286)
