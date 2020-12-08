@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2956
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,22 +11,21 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Establishment
 
-- **(a)** *In general* The Secretary of the Interior (in this Act referred to as the “Secretary”) shall establish as a national wildlife refuge the lands, waters, and interests therein acquired under section 4, at such time as the Secretary determines that sufficient property has been acquired by the United States to constitute an area that can be effectively managed as a national wildlife refuge for the purposes set forth in subsection (b) of this section. The national wildlife refuge shall be known as the Western Riverside County National Wildlife Refuge (in this Act referred to as the “Wildlife Refuge”).
+- **(a)** *In general* The Secretary of the Interior (in this Act referred to as the “Secretary”), acting through the United States Fish and Wildlife Service, shall establish as a national wildlife refuge the lands, waters, and interests therein acquired under section 4. The national wildlife refuge shall be known as the Western Riverside County National Wildlife Refuge (in this Act referred to as the “Wildlife Refuge”).
 - **(b)** *Purpose* The purpose of the Wildlife Refuge shall be—
   - **(1)** to conserve, manage, and restore wildlife habitats for the benefit of present and future generations of Americans;
-  - **(2)** to conserve wildlife listed as endangered species or threatened species;
+  - **(2)** to conserve species listed as threatened or endangered under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) or the California Endangered Species Act (California Fish and Game Code 2050–2068), or which is a covered species under the Western Riverside County Multiple Species Habitat Conservation Plan;
   - **(3)** to support the recovery and protection of threatened and endangered species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.); and
   - **(4)** to provide for wildlife habitat connectivity and migratory corridors within the Western Riverside County Multiple Species Habitat Conservation Plan Area.
 - **(c)** *Notification of establishment* The Secretary shall publish notice of the establishment of the Wildlife Refuge in the Federal Register.
 
 ## § 2. Boundaries
 
-- **(a)** *In general* The Secretary shall include within the boundaries of the Wildlife Refuge the lands and waters within the Western Riverside County Multiple Species Habitat Conservation Plan Area (as depicted on maps and described in the Final Western Riverside County Multiple Species Habitat Conservation Plan dated June 17, 2003) that are owned by the Federal government, a State, or a political subdivision of a State on the date on which the Secretary establishes the Wildlife Refuge under section 1(a).
-- **(b)** *Boundary revisions* The Secretary may from time to time make such revisions to the boundaries of the Wildlife Refuge as may be appropriate to carry out the purposes of the Wildlife Refuge as specified in section 1(b) if such revisions do not extend the boundaries of the Wildlife Refuge beyond the boundaries of the Western Riverside County Multiple Species Habitat Conservation Plan Area.
+The Secretary shall include within the boundaries of the Wildlife Refuge the lands and waters within the Western Riverside County Multiple Species Habitat Conservation Plan Area (as depicted on maps and described in the Final Western Riverside County Multiple Species Habitat Conservation Plan dated June 17, 2003) that are owned by the Federal Government, a State, or a political subdivision of a State on the date of enactment of this Act.
 
 ## § 3. Administration
 
-- **(a)** *In general* Upon the establishment of the Wildlife Refuge and thereafter, the Secretary, in consultation with the Western Riverside County Regional Conservation Authority which administers the Western Riverside County Multiple Species Habitat Conservation Plan Area, shall administer all federally owned lands, waters, and interests in the Wildlife Refuge in accordance with the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.) and this Act. The Secretary may use such additional statutory authority as may be available to the Secretary for the conservation, management, and restoration of fish and wildlife and natural resources, the development of wildlife dependent outdoor recreation opportunities, and the facilitation of fish and wildlife interpretation and education as the Secretary considers appropriate to carry out the purposes of this Act.
+- **(a)** *In general* Upon the establishment of the Wildlife Refuge and thereafter, the Secretary shall administer all federally owned lands, waters, and interests in the Wildlife Refuge in accordance with the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.) and this Act. The Secretary may use such additional statutory authority as may be available to the Secretary for the conservation, management, and restoration of fish and wildlife and natural resources, the development of compatible wildlife dependent outdoor recreation opportunities, and the facilitation of fish and wildlife interpretation and education as the Secretary considers appropriate to carry out the purposes of this Act and serve the objectives of the Western Riverside County Multiple Species Habitat Conservation Plan.
 - **(b)** *Cooperative agreements regarding non-Federal lands* The Secretary may enter into cooperative agreements with the State of California, any political subdivision thereof, or any other person—
   - **(1)** for the management, in a manner consistent with this Act and the Western Riverside County Multiple Species Habitat Conservation Plan, of lands that are owned by such State, subdivision, or other person and located within the boundaries of the Wildlife Refuge;
   - **(2)** to promote public awareness of the natural resources of the Western Riverside County Multiple Species Habitat Conservation Plan Area; or
@@ -34,7 +33,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 4. Acquisition and transfers of lands and waters for Wildlife Refuge
 
-- **(a)** *Acquisitions* The Secretary may acquire by donation, purchase with donated or appropriated funds, or exchange the lands and water, or interest therein (including conservation easements), within the boundaries of the Wildlife Refuge, except that the lands, water, and interests therein owned by the State of California and its political subdivisions may be acquired only by donation.
+- **(a)** *Acquisitions* In addition to lands and waters acquired pursuant to section 2, the Secretary may acquire by donation, purchase with donated or appropriated funds, or exchange the lands and water, or interest therein (including conservation easements), within the boundaries of the Wildlife Refuge, except that the lands, water, and interests therein owned by the State of California and its political subdivisions may be acquired only by donation.
 - **(b)** *Transfers*
   - **(1)** *In general* The head of any Federal department or agency other than the Department of the Interior that has jurisdiction of any Federal property located within the boundaries of the Wildlife Refuge as described by this Act shall, not later than 1 year after the date of the enactment of this Act, submit to the Secretary an assessment of the suitability of such property for inclusion in the Wildlife Refuge.
   - **(2)** *Assessment* Any assessment under paragraph (1) shall include—

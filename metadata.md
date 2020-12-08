@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2956
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2956
@@ -30,3 +30,11 @@ To provide for the establishment of the Western Riverside County Wildlife Refuge
 - 2019-05-23 — Introduced in House
 - 2019-05-23 — Introduced in House
 - 2019-05-23 — Referred to the House Committee on Natural Resources.
+- 2019-06-11 — Referred to the Subcommittee on Water, Oceans, and Wildlife.
+- 2019-09-24 — Subcommittee Hearings Held.
+- 2020-01-29 — Committee Consideration and Mark-up Session Held.
+- 2020-01-29 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2020-01-29 — Subcommittee on Water, Oceans, and Wildlife Discharged.
+- 2020-12-08 — Placed on the Union Calendar, Calendar No. 514.
+- 2020-12-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-629.
+- 2020-12-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-629.
