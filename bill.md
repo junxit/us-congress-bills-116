@@ -2,12 +2,14 @@
 legis-num: H.R. 5663
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 5663
 
-> To amend the Federal Food, Drug, and Cosmetic Act to give authority to the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, to destroy counterfeit devices.
+That the bill from the House of Representatives (H.R. 5663) entitled “An Act to amend the Federal Food, Drug, and Cosmetic Act to give authority to the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, to destroy counterfeit devices.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
@@ -23,11 +25,4 @@ This Act may be cited as the “Safeguarding Therapeutics Act”.
   - **(2)** after making such redesignations—
     - **(A)** by striking “(h) The term” and inserting “(h)(1) The term”; and
     - **(B)** by adding at the end the following:
-      > - **(2)** The term “counterfeit device” means a device which, or the container, packaging, or labeling of which, without authorization, bears a trademark, trade name, or other identifying mark, imprint, or symbol, or any likeness thereof, or is manufactured using a design, of a device manufacturer, packer, or distributor other than the person or persons who in fact manufactured, packed, or distributed such device and which thereby falsely purports or is represented to be the product of, or to have been packed or distributed by, such other device manufacturer, packer, or distributor.
-      > - **(3)** For purposes of subparagraph (2)—
-      >   - **(A)** the term “manufactured” refers to any of the following activities: manufacture, preparation, propagation, compounding, assembly, or processing; and
-      >   - **(B)** the term “manufacturer” means a person who is engaged in any of the activities listed in clause (A).
-
-## § 3. Determination of budgetary effects
-
-The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
+      > - **(2)** The term counterfeit device means a device which, or the container, packaging, or labeling of which, without authorization, bears a trademark, trade name, or other identifying mark or imprint, or any likeness thereof, or is manufactured using a design, of a device manufacturer, processor, packer, or distributor other than the person or persons who in fact manufactured, processed, packed, or distributed such device and which thereby falsely purports or is represented to be the product of, or to have been packed or distributed by, such other device manufacturer, processor, packer, or distributor.
