@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8428
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8428
@@ -42,10 +42,11 @@ Hong Kong People's Freedom and Choice Act of 2020
 - Rep. Khanna, Ro [D-CA-17] (K000389)
 - Rep. Lee, Barbara [D-CA-13] (L000551)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -61,3 +62,4 @@ Hong Kong People's Freedom and Choice Act of 2020
 - 2020-12-07 — Mr. Engel moved to suspend the rules and pass the bill, as amended.
 - 2020-12-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6872-6874)
 - 2020-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6872-6874)
+- 2020-12-08 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
