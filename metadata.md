@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5663
 congress: 116
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5663
@@ -56,3 +56,15 @@ Safeguarding Therapeutics Act
 - 2020-12-08 — Senate amendment agreed to: Amendment SA 2694 agreed to in Senate by Unanimous Consent.
 - 2020-12-08 — Senate amendment proposed (on the floor): Amendment SA 2694 proposed by Senator Portman for Senator Alexander.
 - 2020-12-08 — Senate amendment submitted
+- 2020-12-09 — Message on Senate action sent to the House.
+- 2020-12-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-10 — Mrs. Dingell asked unanimous consent that the House agree to the Senate amendment.
+- 2020-12-10 — Mrs. Dingell asked unanimous consent to take the bill, H.R. 5663 from the Speaker's Table and agree to the Senate amendment. (consideration: CR H7131)
+- 2020-12-10 — On motion that the House agree to the Senate amendment Agreed to without objection. (text: CR H7131)
+- 2020-12-10 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text: CR H7131)
+- 2020-12-24 — Presented to President.
+- 2020-12-24 — Presented to President.
+- 2021-01-05 — Became Public Law No: 116-304.
+- 2021-01-05 — Became Public Law No: 116-304.
+- 2021-01-05 — Signed by President.
+- 2021-01-05 — Signed by President.

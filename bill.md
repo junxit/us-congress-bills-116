@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 5663
-congress: 116th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Sixteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 5663
 
-That the bill from the House of Representatives (H.R. 5663) entitled “An Act to amend the Federal Food, Drug, and Cosmetic Act to give authority to the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, to destroy counterfeit devices.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend the Federal Food, Drug, and Cosmetic Act to give authority to the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, to destroy counterfeit devices.
 
 ## § 1. Short title
 

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5663
 congress: 116
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
