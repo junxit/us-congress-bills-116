@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1731
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1731
@@ -30,3 +30,9 @@ Cybersecurity Disclosure Act of 2019
 - 2019-03-13 — Introduced in House
 - 2019-03-13 — Introduced in House
 - 2019-03-13 — Referred to the House Committee on Financial Services.
+- 2019-12-10 — Committee Consideration and Mark-up Session Held.
+- 2019-12-11 — Committee Consideration and Mark-up Session Held.
+- 2019-12-11 — Ordered to be Reported (Amended) by the Yeas and Nays: 32 - 24.
+- 2020-12-08 — Placed on the Union Calendar, Calendar No. 518.
+- 2020-12-08 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-633.
+- 2020-12-08 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-633.

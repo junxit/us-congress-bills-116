@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1731
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -31,7 +31,7 @@ The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by insert
 >   - **(5)** the term reporting company means any company that is an issuer—
 >     - **(A)** the securities of which are registered under section 12; or
 >     - **(B)** that is required to file reports under section 15(d).
-> - **(b)** *Requirement To issue rules* Not later than 360 days after the date of enactment of this section, the Commission shall issue final rules to require each reporting company, in the annual report of the reporting company submitted under section 13 or section 15(d) or in the annual proxy statement of the reporting company submitted under section 14(a)—
+> - **(b)** *Requirement to issue rules* Not later than 360 days after the date of enactment of this section, the Commission shall issue final rules to require each reporting company, in the annual report of the reporting company submitted under section 13 or section 15(d) or in the annual proxy statement of the reporting company submitted under section 14(a)—
 >   - **(1)** to disclose whether any member of the governing body, such as the board of directors or general partner, of the reporting company has expertise or experience in cybersecurity and in such detail as necessary to fully describe the nature of the expertise or experience; and
 >   - **(2)** if no member of the governing body of the reporting company has expertise or experience in cybersecurity, to describe what other aspects of the reporting company’s cybersecurity were taken into account by any person, such as an official serving on a nominating committee, that is responsible for identifying and evaluating nominees for membership to the governing body.
-> - **(c)** *Cybersecurity expertise or experience* For purposes of subsection (b), the Commission, in consultation with NIST, shall define what constitutes expertise or experience in cybersecurity using commonly defined roles, specialties, knowledge, skills, and abilities, such as those provided in NIST Special Publication 800–181, entitled “National Initiative for Cybersecurity Education (NICE) Cybersecurity Workforce Framework”, or any successor thereto.
+> - **(c)** *Cybersecurity expertise or experience* For purposes of subsection (b), the Commission, in consultation with NIST, shall define what constitutes expertise or experience in cybersecurity using commonly defined roles, specialties, knowledge, skills, and abilities, such as those provided in NIST Special Publication 800–181, titled “National Initiative for Cybersecurity Education (NICE) Cybersecurity Workforce Framework”, or any successor thereto.
