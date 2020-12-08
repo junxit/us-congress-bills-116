@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4328
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Protecting Innocent Consumers Affected by a Shutdown Act”.
 
-## § 2. Definition of employee affected by a shutdown
+## § 2. Definitions
 
 Section 603 of the Fair Credit Reporting Act (15 U.S.C. 1681a), as amended by section 302(b)(1) of the Economic Growth, Regulatory Relief, and Consumer Protection Act (Public Law 115–174), is amended by adding at the end the following:
 
@@ -53,7 +53,7 @@ Section 609(a) of the Fair Credit Reporting Act (15 U.S.C. 1681g(a)) is amended 
   >       - **(ii)** to the extent practicable, employees of contractors of such authority.
   >     - **(B)** *Self-certified consumers* A consumer that self-certifies as an employee affected by a shutdown pursuant to subsection (b) shall be included in the database, unless the Bureau determines such consumer is not an employee affected by a shutdown.
   >   - **(3)** *Access to database* The consumer reporting agencies described in section 603(p) shall make the database established under this subsection available to the Bureau, other consumer reporting agencies, furnishers of information to consumer reporting agencies, and users of consumer reports. A consumer reporting agency described in section 603(x) shall periodically access the database to confirm the accuracy of information such an agency has that identifies a consumer as an employee affected by a shutdown.
-  > - **(b)** *Self-Certification process* A consumer shall be deemed to be an employee affected by a shutdown if such consumer self-certifies through—
+  > - **(b)** *Self-certification process* A consumer shall be deemed to be an employee affected by a shutdown if such consumer self-certifies through—
   >   - **(1)** the website established under subsection (c); or
   >   - **(2)** a toll-free telephone number established by a consumer reporting agency.
   > - **(c)** *Website* The consumer reporting agencies described in section 603(p) shall jointly establish a website for a consumer to self-certify as an employee affected by a shutdown. Such website may not include any advertisement or other solicitation.
