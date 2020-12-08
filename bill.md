@@ -2,7 +2,7 @@
 legis-num: H. RES. 1250
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1250
@@ -20,7 +20,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(6)** The Obama Administration released the Big Data Research and Development Initiative in 2012, Executive Order 13702 (relating to creating a national strategic computing initiative) in 2015, and the National Artificial Intelligence Research and Development Strategic Plan in 2016.
   - **(7)** The Trump Administration released Executive Order 13859 (relating to maintaining American leadership in artificial intelligence), updated the National Artificial Intelligence Research and Development Strategic Plan in 2019, and released Office of Management and Budget guidance for regulation of artificial intelligence applications in 2020.
   - **(8)** In May 2019, the Organisation for Economic Co-operation and Development (OECD) adopted the OECD Principles on Artificial Intelligence, which included the principles of inclusive growth, sustainable development and well-being, human-centered values and fairness, transparency and explainability, robustness, security and safety, and accountability.
-  - **(9)** In February 2020, the European Commission began a consultation process with the release of their white paper “On Artificial Intelligence—A European approach to excellence and trust”, which set out policy options for a coordinated European approach to artificial intelligence regulation.
+  - **(9)** In February 2020, the European Commission began a consultation process with the release of their white paper “On Artificial Intelligence - A European approach to excellence and trust”, which set out policy options for a coordinated European approach to artificial intelligence regulation.
   - **(10)** In June 2020, the G7 and several partners launched the Global Partnership on Artificial Intelligence to increase cooperation focused around the areas of responsible artificial intelligence, data governance, the future of work, and innovation and commercialization.
   - **(11)** Several United States allies, including Canada, Denmark, Estonia, France, Finland, Germany, the Netherlands, and South Korea, have published national artificial intelligence strategies with detailed funding commitments.
   - **(12)** In 2017, China published a national artificial intelligence strategy that detailed the Chinese Communist Party’s goal to become the world’s primary artificial intelligence innovation center by 2030.
@@ -42,14 +42,14 @@ It is the sense of the House of Representatives that the United States should ta
 
 - **(a)** *Findings* The House of Representatives finds the following:
   - **(1)** Artificial intelligence and automation will present significant challenges to workers in affected industries due to the automating of some routine and repetitive tasks, but will also create additional employment opportunities.
-  - **(2)** Closing the artificial intelligence talent gap in the short- and medium-term will require a targeted approach to identifying and filling roles that require the skills to build and work with artificial intelligence systems.
+  - **(2)** Closing the artificial intelligence talent gap in the short and medium-term will require a targeted approach to identifying and filling roles that require the skills to build and work with artificial intelligence systems.
   - **(3)** The United States should take a leadership role in the artificial intelligence-driven economy by filling the artificial intelligence talent gap and preparing United States workers for the jobs of the future, including by prioritizing inclusivity and equal opportunity.
   - **(4)** Departments and agencies of the Federal Government are increasingly using data to administer benefits, assess outcomes, and fulfill other mission-critical activities.
-  - **(5)** Effectively creating, managing, and implementing artificial intelligence-related research and development grants will require technical expertise.
+  - **(5)** Effectively creating, managing, and implementing artificial intelligence related research and development grants will require technical expertise.
   - **(6)** Departments and agencies of the Federal Government will need to be able to recruit employees with technical expertise.
   - **(7)** Lifelong learning and skill acquisition can increase flexibility with respect to career opportunities.
   - **(8)** The United States will need to be able to attract the best artificial intelligence researchers and computer scientists from around the world to work in the United States.
-- **(b)** *Matters To consider*
+- **(b)** *Matters to consider*
   - **(1)** *Education* It is the sense of the House of Representatives that the national competitiveness of the United States in artificial intelligence would benefit from—
     - **(A)** increased funding for Federal programs that support science, technology, engineering, mathematics, and computer science education;
     - **(B)** grant programs that continue funding the integration of ethics courses and modules into science, engineering, and computer science curricula;
@@ -79,7 +79,7 @@ It is the sense of the House of Representatives that the United States should ta
   - **(4)** The continued proliferation of national artificial intelligence strategies, plans, statements, and investments demonstrates the increase in global competition in this area.
   - **(5)** New paradigms will be required to effectively test artificial intelligence and to ensure that it is reliable and stable.
   - **(6)** Export and investment controls will be important policy tools to prevent the acquisition of sensitive artificial intelligence and artificial intelligence-enabling technologies, including hardware such as semiconductors and semiconductor manufacturing equipment, by China, Russia, and other adversaries.
-- **(b)** *Matters To consider*
+- **(b)** *Matters to consider*
   - **(1)** *Collaboration with foreign nations* It is the sense of the House of Representatives that the United States should—
     - **(A)** leverage its alliances to promote democratic principles, foster research collaboration, and develop common standards with respect to artificial intelligence;
     - **(B)** promote the interoperability of artificial intelligence for the purpose of strengthening alliances;
@@ -115,7 +115,7 @@ It is the sense of the House of Representatives that the United States should ta
   - **(15)** Artificial intelligence measurement methodologies are not static and will require periodic reexaminations and updates of testing methodologies to ensure that artificial intelligence systems are functioning according to best-known practices.
   - **(16)** United States leadership in global artificial intelligence standards-setting will help ensure that artificial intelligence implementations are in accordance with United States strengths and comport with the interests and values of the United States.
   - **(17)** Public engagement is necessary for developing voluntary consensus standards, guidelines, and frameworks to ensure diverse perspectives are considered.
-- **(b)** *Matters To consider*
+- **(b)** *Matters to consider*
   - **(1)** *Federal funding* It is the sense of the House of Representatives that the Federal Government should increase investments in artificial intelligence research and development and related fields.
   - **(2)** *Collaboration with other entities* It is the sense of the House of Representatives that departments and agencies of the Federal Government should collaborate—
     - **(A)** with the private sector, civil society, and academia—
@@ -126,7 +126,7 @@ It is the sense of the House of Representatives that the United States should ta
     - **(A)** expand access to broadband in rural and underserved areas;
     - **(B)** expand the availability of affordable graphics processing units and high-performance computers in rural and underserved areas;
     - **(C)** improve digital infrastructure in the United States; and
-    - **(D)** make data created by federally funded scientific and technical research publicly available with appropriate privacy protections to provide artificial intelligence researchers with new data sets to train their systems.
+    - **(D)** make data created by federally-funded scientific and technical research publicly available with appropriate privacy protections to provide artificial intelligence researchers with new data sets to train their systems.
   - **(4)** *National computing and data resource* It is the sense of the House of Representatives that Congress should consider establishing a national computing and data resource.
   - **(5)** *Access to National Laboratories* It is the sense of the House of Representatives that the existing supercomputing labs at the national laboratories and technology centers of the Department of Energy should expand opportunities for academics and researchers to access such labs for artificial intelligence research and research related to artificial intelligence.
   - **(6)** *Tax incentives* It is the sense of the House of Representatives that Congress should examine whether targeted incentives and reforms to the Internal Revenue Code of 1986 would increase private sector research and development, particularly with respect to small cap corporations.
@@ -141,7 +141,7 @@ It is the sense of the House of Representatives that the United States should ta
   - **(5)** Regulatory sandboxes, in general, refer to regulatory structures where a participant obtains limited or temporary access to a market in exchange for reduced regulatory uncertainty, and can be used to test a product designed to mitigate unintended bias or promote fairness in a small-scale environment and under the supervision of regulators.
   - **(6)** Federal programs should have necessary safeguards and oversight processes.
   - **(7)** Artificial intelligence regulatory approaches should consider the level of risk associated with different artificial intelligence applications.
-- **(b)** *Matters To consider*
+- **(b)** *Matters to consider*
   - **(1)** *Bias mitigation* It is the sense of the House of Representatives that departments and agencies of the Federal Government should—
     - **(A)** support technical and non-technical research and development to address potential bias, fairness, and privacy issues in artificial intelligence;
     - **(B)** improve access to a broad range of non-sensitive government data assets to help train artificial intelligence systems;
@@ -154,4 +154,4 @@ It is the sense of the House of Representatives that the United States should ta
     - **(C)** determine if any gaps in appropriate legislation and regulation exist and how such gaps could be addressed;
     - **(D)** advance Federal privacy reforms that build trust, prevent harm, and maintain United States global leadership in artificial intelligence; and
     - **(E)** conduct regular oversight of artificial intelligence policies in the executive branch within their jurisdiction.
-  - **(3)** *Federal funding* It is the sense of the House of Representatives that Congress should support funding for departments and agencies of the Federal Government interested in adopting programs, including regulatory sandboxes, for the purposes of testing artificial intelligence tools in limited markets.
+  - **(3)** *Federal Funding* It is the sense of the House of Representatives that Congress should support funding for departments and agencies of the Federal Government interested in adopting programs, including regulatory sandboxes, for the purposes of testing artificial intelligence tools in limited markets.

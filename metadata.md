@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1250
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1250
@@ -46,3 +46,20 @@ Expressing the sense of the House of Representatives with respect to the princip
 - 2020-12-04 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Education and Labor, Oversight and Reform, Foreign Affairs, Energy and Commerce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2020-12-04 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Education and Labor, Oversight and Reform, Foreign Affairs, Energy and Commerce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2020-12-04 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Education and Labor, Oversight and Reform, Foreign Affairs, Energy and Commerce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2020-12-08 — Committee on Education and Labor discharged.
+- 2020-12-08 — Committee on Education and Labor discharged.
+- 2020-12-08 — Committee on Energy and Commerce discharged.
+- 2020-12-08 — Committee on Energy and Commerce discharged.
+- 2020-12-08 — Committee on Foreign Affairs discharged.
+- 2020-12-08 — Committee on Foreign Affairs discharged.
+- 2020-12-08 — Committee on Oversight and Reform discharged.
+- 2020-12-08 — Committee on Oversight and Reform discharged.
+- 2020-12-08 — Committee on Science, Space, and Technology discharged.
+- 2020-12-08 — Committee on Science, Space, and Technology discharged.
+- 2020-12-08 — Committee on Ways and Means discharged.
+- 2020-12-08 — Committee on Ways and Means discharged.
+- 2020-12-08 — Considered by unanimous consent. (consideration: CR H7023-7025)
+- 2020-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-08 — Mr. Tonko asked unanimous consent to discharge from committee and consider.
+- 2020-12-08 — On agreeing to the resolution Agreed to without objection. (text: CR H7023-7025)
+- 2020-12-08 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.
