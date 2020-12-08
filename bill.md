@@ -29,8 +29,8 @@ Congress finds that—
 Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by adding at the end the following:
 
 > - **(s)** *Reporting requirements relating to certain political expenditures*
->   - **(1)** *Definitions* In this subsection—
->     - **(A)** the term expenditure for political activities—
+>   - **(1)** *Definitions* In this subsection:
+>     - **(A)** *Expenditure for political activities* The term expenditure for political activities—
 >       - **(i)** means—
 >         - **(I)** an independent expenditure (as defined in section 301(17) of the Federal Election Campaign Act of 1971 (52 U.S.C. 30101(17)));
 >         - **(II)** an electioneering communication (as defined in section 304(f)(3) of that Act (52 U.S.C. 30104(f)(3))) and any other public communication (as defined in section 301(22) of that Act (52 U.S.C. 30101(22))) that would be an electioneering communication if it were a broadcast, cable, or satellite communication; or
@@ -38,14 +38,14 @@ Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by 
 >       - **(ii)** does not include—
 >         - **(I)** direct lobbying efforts through registered lobbyists employed or hired by the issuer;
 >         - **(II)** communications by an issuer to its shareholders and executive or administrative personnel and their families; or
->         - **(III)** the establishment and administration of contributions to a separate segregated fund to be utilized for political purposes by a corporation; and
->     - **(B)** the term issuer does not include an investment company registered under section 8 of the Investment Company Act of 1940 (15 U.S.C. 80a–8).
+>         - **(III)** the establishment and administration of contributions to a separate segregated fund to be utilized for political purposes by a corporation.
+>     - **(B)** *Issuer* The term issuer does not include an investment company registered under section 8 of the Investment Company Act of 1940 (15 U.S.C. 80a–8).
 >   - **(2)** *Quarterly reports*
 >     - **(A)** *Reports required* Not later than 180 days after the date of enactment of this subsection, the Commission shall amend the reporting rules under this section to require each issuer with a class of equity securities registered under section 12 of this title to submit to the Commission and the shareholders of the issuer a quarterly report containing—
 >       - **(i)** a description of any expenditure for political activities made during the preceding quarter;
 >       - **(ii)** the date of each expenditure for political activities;
 >       - **(iii)** the amount of each expenditure for political activities;
->       - **(iv)** if the expenditure for political activities was made in support of or opposed to a candidate, the name of the candidate and the office sought by, and the political party affiliation of, the candidate; and
+>       - **(iv)** if the expenditure for political activities was made in support of or in opposition to a candidate, the name of the candidate and the office sought by, and the political party affiliation of, the candidate; and
 >       - **(v)** the name or identity of trade associations or organizations described in section 501(c) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code which receive dues or other payments as described in paragraph (1)(A)(i)(III).
 >     - **(B)** *Public availability* The Commission shall ensure that the quarterly reports required under this paragraph are publicly available through the Internet website of the Commission and through the EDGAR system in a manner that is searchable, sortable, and downloadable, consistent with the requirements under section 24.
 >   - **(3)** *Annual reports* Not later than 180 days after the date of enactment of this subsection, the Commission shall, by rule, require each issuer to include in the annual report of the issuer to shareholders—

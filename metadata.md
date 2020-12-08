@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5929
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5929
@@ -16,7 +16,7 @@ Shareholder Political Transparency Act of 2020
 
 - Rep. Foster, Bill [D-IL-11] (F000454)
 
-## Cosponsors (11)
+## Cosponsors (19)
 
 - Rep. Welch, Peter [D-VT-At Large] (W000800)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
@@ -29,6 +29,14 @@ Shareholder Political Transparency Act of 2020
 - Rep. Nadler, Jerrold [D-NY-10] (N000002)
 - Rep. Phillips, Dean [D-MN-3] (P000616)
 - Rep. Crow, Jason [D-CO-6] (C001121)
+- Rep. Raskin, Jamie [D-MD-8] (R000606)
+- Rep. Heck, Denny [D-WA-10] (H001064)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Lynch, Stephen F. [D-MA-8] (L000562)
+- Rep. Garcia, Jesus G. "Chuy" [D-IL-4] (G000586)
+- Rep. Perlmutter, Ed [D-CO-7] (P000593)
+- Rep. Quigley, Mike [D-IL-5] (Q000023)
+- Rep. Cartwright, Matt [D-PA-8] (C001090)
 
 ## Committees (1)
 
@@ -39,3 +47,9 @@ Shareholder Political Transparency Act of 2020
 - 2020-02-21 — Introduced in House
 - 2020-02-21 — Introduced in House
 - 2020-02-21 — Referred to the House Committee on Financial Services.
+- 2020-02-27 — Committee Consideration and Mark-up Session Held.
+- 2020-02-28 — Committee Consideration and Mark-up Session Held.
+- 2020-02-28 — Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 25.
+- 2020-12-08 — Placed on the Union Calendar, Calendar No. 517.
+- 2020-12-08 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-632.
+- 2020-12-08 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-632.
