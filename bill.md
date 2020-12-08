@@ -21,9 +21,9 @@ Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by 
 >   - **(1)** *In general* Each issuer required to file an annual report under subsection (a) shall disclose in that report information about human capital management policies, practices, and performance.
 >   - **(2)** *Rules* Not later than 270 days after the date of the enactment of this subsection, the Commission shall issue final rules to carry out paragraph (1) and such rules shall require disclosure of the following with respect to the issuer:
 >     - **(A)** Workforce demographic information, including the number of full-time employees, the number of part-time employees, the number of contingent workers (including temporary and contract workers), and any policies or practices relating to subcontracting, outsourcing, and insourcing.
->     - **(B)** Workforce stability information, including information about the voluntary turnover or retention rate, the involuntary turnover or retention rate, the internal hiring rate, and the internal promotion rate.
->     - **(C)** Workforce composition, including data on diversity (including racial and gender composition) and any policies and audits related to diversity.
->     - **(D)** Workforce skills and capabilities, including information about training of employees (including the average number of hours of training per employee per year), skills gaps, and alignment of skills and capabilities with business strategy.
+>     - **(B)** Workforce stability information, including information about the voluntary turnover or retention rate, the involuntary turnover rate, the internal hiring rate, and the internal promotion rate (and with such internal promotion rate disaggregated by the workforce composition described under subparagraph (C)).
+>     - **(C)** Workforce composition, including data on diversity (including racial, gender, and ethnic composition) and any policies and audits related to diversity.
+>     - **(D)** Workforce skills and capabilities, including information about training of employees (including the average number of hours of training and spending on training per employee per year), skills gaps, and alignment of skills and capabilities with business strategy.
 >     - **(E)** Workforce culture and empowerment, including information about—
 >       - **(i)** policies and practices of the issuer relating to freedom of association and work-life balance initiatives;
 >       - **(ii)** any incidents of verified workplace harassment in the previous 5 fiscal years of the issuer; and
@@ -41,7 +41,8 @@ Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by 
 >       - **(i)** total workforce compensation, including disaggregated information about compensation for full-time, part-time, and contingent workers;
 >       - **(ii)** policies and practices about how performance, productivity, and sustainability are considered when setting pay and making promotion decisions; and
 >       - **(iii)** policies and practices relating to any incentives and bonuses provided to employees below the named executive level and any policies or practices designed to counter any risks create by such incentives and bonuses.
->     - **(H)** Workforce recruiting, including information about the quality of hire, new hire engagement rate, and new hire retention rate.
+>     - **(H)** Workforce recruiting and needs, including the number of new jobs created, the worker classification of new jobs, information about the quality of hire, and new hire retention rate.
+>   - **(3)** *Treatment of emerging growth companies* The Commission may exempt emerging growth companies from any disclosure described under subparagraph (D), (E), (F), (G), or (H) of paragraph (2), if the Commission determines that such exemption is necessary or appropriate in the public interest or for the protection of investors.
 
 ## § 3. Backstop
 
