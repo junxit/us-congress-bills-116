@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5663
 congress: 116
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 5663
@@ -46,3 +46,13 @@ Safeguarding Therapeutics Act
 - 2020-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4635)
 - 2020-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2020-09-22 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2020-12-08 — Amendment SA 2694 agreed to in Senate by Unanimous Consent.
+- 2020-12-08 — Amendment SA 2694 proposed by Senator Portman for Senator Alexander. (text: CR S7286) In the nature of a substitute.
+- 2020-12-08 — Measure laid before Senate by unanimous consent. (consideration: CR S7286)
+- 2020-12-08 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S7286)
+- 2020-12-08 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2020-12-08 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2020-12-08 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2020-12-08 — Senate amendment agreed to: Amendment SA 2694 agreed to in Senate by Unanimous Consent.
+- 2020-12-08 — Senate amendment proposed (on the floor): Amendment SA 2694 proposed by Senator Portman for Senator Alexander.
+- 2020-12-08 — Senate amendment submitted
