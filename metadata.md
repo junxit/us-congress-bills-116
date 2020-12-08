@@ -1,7 +1,7 @@
 ---
 measure: S. 1811
 congress: 116
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 1811
@@ -20,9 +20,11 @@ Water Resources Development Act of 2020
 
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Environment and Public Works Committee
+- House — Natural Resources Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -36,3 +38,12 @@ Water Resources Development Act of 2020
 - 2019-07-11 — Received in the House.
 - 2019-07-11 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-07-11 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-07-12 — Referred to the Subcommittee on Water Resources and Environment.
+- 2019-07-15 — Referred to the Subcommittee on Water, Oceans, and Wildlife.
+- 2020-12-08 — Considered under suspension of the rules. (consideration: CR H6935-6984)
+- 2020-12-08 — DEBATE - The House proceeded with forty minutes of debate on S. 1811.
+- 2020-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-08 — Mr. DeFazio moved to suspend the rules and pass the bill, as amended.
+- 2020-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6935-6977)
+- 2020-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-12-08 — The title of the measure was amended. Agreed to without objection.
