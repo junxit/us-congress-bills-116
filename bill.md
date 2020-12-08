@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3651
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -17,7 +17,7 @@ Section 342(c) of the Consolidated Natural Resources Act of 2008 is amended—
   > - **(1)** *Primary use* The conveyance
 
 - **(2)** by adding at the end the following:
-  > - **(2)** *Additional use* The Missouri River Basin Lewis and Clark Interpretive Trail and Visitor Center Foundation, Inc. may use, or enter into a lease or agreement to use, not more than 40 acres of the land conveyed under subsection (a) for public outdoor recreation under the following conditions:
+  > - **(2)** *Additional use* The Missouri River Basin Lewis and Clark Interpretive Trail and Visitor Center Foundation, Inc. may use, or enter into an agreement with another party to lease, not more than 40 acres of the land conveyed under subsection (a) for public outdoor recreation under the following conditions:
   >   - **(A)** The land shall continue to be maintained in a manner that is compatible with the use authorized in paragraph (1), conditions stated in the deed for the land, and the memorandum of understanding with the National Park Service dated June 2009.
   >   - **(B)** The nature trail around the perimeter of the land shall remain in place and may be enhanced with educational signage about the flora and fauna that are native to the land and planting of native flora.
   >   - **(C)** Revenue from any use (including any lease or agreement entered into) under this paragraph shall be used to offset maintenance and operating costs of the Lewis and Clark Interpretive Center.
