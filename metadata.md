@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 549
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 549
@@ -16,7 +16,7 @@ Reaffirming the commitment to media diversity and pledging to work with media en
 
 - Rep. Demings, Val Butler [D-FL-10] (D000627)
 
-## Cosponsors (66)
+## Cosponsors (78)
 
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 - Rep. Moore, Gwen [D-WI-4] (M001160)
@@ -84,6 +84,18 @@ Reaffirming the commitment to media diversity and pledging to work with media en
 - Rep. Kelly, Robin L. [D-IL-2] (K000385)
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 - Rep. Clark, Katherine M. [D-MA-5] (C001101)
+- Rep. Visclosky, Peter J. [D-IN-1] (V000108)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+- Rep. Wasserman Schultz, Debbie [D-FL-23] (W000797)
+- Rep. DeSaulnier, Mark [D-CA-11] (D000623)
+- Rep. Kennedy, Joseph P., III [D-MA-4] (K000379)
+- Rep. Castro, Joaquin [D-TX-20] (C001091)
+- Rep. Sires, Albio [D-NJ-8] (S001165)
+- Rep. Mucarsel-Powell, Debbie [D-FL-26] (M001207)
+- Rep. Frankel, Lois [D-FL-21] (F000462)
+- Rep. Cicilline, David N. [D-RI-1] (C001084)
+- Rep. Soto, Darren [D-FL-9] (S001200)
+- Del. San Nicolas, Michael F. Q. [D-GU-At Large] (S001204)
 
 ## Committees (1)
 
@@ -94,3 +106,11 @@ Reaffirming the commitment to media diversity and pledging to work with media en
 - 2019-09-10 — Introduced in House
 - 2019-09-10 — Introduced in House
 - 2019-09-10 — Referred to the House Committee on Energy and Commerce.
+- 2019-09-11 — Referred to the Subcommittee on Communications and Technology.
+- 2020-03-10 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2020-03-10 — Subcommittee Consideration and Mark-up Session Held.
+- 2020-07-15 — Committee Consideration and Mark-up Session Held.
+- 2020-07-15 — Ordered to be Reported by Voice Vote.
+- 2020-12-08 — Placed on the House Calendar, Calendar No. 100.
+- 2020-12-08 — Reported by the Committee on Energy and Commerce. H. Rept. 116-624.
+- 2020-12-08 — Reported by the Committee on Energy and Commerce. H. Rept. 116-624.

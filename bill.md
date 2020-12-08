@@ -1,7 +1,7 @@
 ---
 legis-num: H. RES. 549
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## Preamble
 
-- Whereas the principle that an informed and engaged electorate is critical to a vibrant democracy is deeply rooted in our laws of free speech and underpins the virtues on which we established our Constitution, “in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity. . .”;
+- Whereas the principle that an informed and engaged electorate is critical to a vibrant democracy is deeply rooted in our laws of free speech and underpins the virtues on which we established our Constitution, “in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity …”;
 - Whereas having independent, diverse, and local media that provide exposure to a broad range of viewpoints and the ability to contribute to the political debate is central to sustaining that informed engagement;
 - Whereas it is in the public interest to encourage source, content, and audience diversity on our Nation’s shared telecommunications and media platforms;
 - Whereas the survival of small, independent, and diverse media outlets that serve diverse audiences and local media markets is essential to preserving local culture and building understanding on important community issues that impact the daily lives of residents;
