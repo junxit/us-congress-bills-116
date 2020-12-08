@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Servicemembers and Veterans Initiative Act of 2020.”
+This Act may be cited as the “Servicemembers and Veterans Initiative Act of 2020”.
 
 ## § 2. Servicemembers and veterans initiative
 
@@ -22,5 +22,5 @@ This Act may be cited as the “Servicemembers and Veterans Initiative Act of 20
   - **(3)** serve as the liaison and point of contact between the Department of Justice and the military departments;
   - **(4)** provide counsel to the Assistant Attorney General for the Office of Justice Programs to ensure funding decisions take into account servicemembers, veterans, and their families;
   - **(5)** consult with components of the Department of Justice to promote the provision of civil legal aid to servicemembers, veterans, and their families;
-  - **(6)** serve as a liaison with the Assistant Attorney General for the Criminal Division to coordinate the prosecution of Federal crimes involving fraud that target servicemembers; and
-  - **(7)** enforce other Federal laws that protect servicemembers and veterans, as the Attorney General determines appropriate.
+  - **(6)** serve as a liaison and point of contact with the Consumer Protection Branch of the Civil Division of the Department of Justice, with respect to the prosecution of Federal crimes involving fraud that target servicemembers; and
+  - **(7)** serve as a liaison and point of contact with other components of the Department of Justice as needed to support the enforcement of other Federal laws that protect servicemembers and veterans, as the Attorney General determines appropriate.
