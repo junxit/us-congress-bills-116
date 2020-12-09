@@ -1,7 +1,7 @@
 ---
 measure: H.R. 683
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 683
@@ -52,9 +52,10 @@ PRRADA
 - Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -71,3 +72,4 @@ PRRADA
 - 2020-12-08 — Mr. Cicilline moved to suspend the rules and pass the bill, as amended.
 - 2020-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7009)
 - 2020-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-12-09 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
