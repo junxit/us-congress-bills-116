@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1966
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -34,4 +34,4 @@ Congress finds as follows:
     - **(A)** reviews what actions Federal agencies have taken to help to address barriers to participation in federally funded cancer clinical trials by populations that have been traditionally underrepresented in such trials, and identifies challenges, if any, in implementing such actions; and
     - **(B)** identifies additional actions that can be taken by Federal agencies to address barriers to participation in federally funded cancer clinical trials by populations that have been traditionally underrepresented in such trials; and
   - **(2)** submit a report to the Congress on the results of such study, including recommendations on potential changes in practices and policies to improve participation in such trials by such populations.
-- **(b)** *Inclusion of clinical trials* The study under subsection (a)(1) should include review of cancer clinical trials that are largely funded by Federal agencies, including the National Institutes of Health, the Department of Defense, the Department of Veterans Affairs, the Agency for Health Research and Quality, the Food and Drug Administration, and such other Federal agencies as the Comptroller General of the United States may identify.
+- **(b)** *Inclusion of clinical trials* The study under subsection (a)(1) shall include review of cancer clinical trials that are largely funded by Federal agencies.
