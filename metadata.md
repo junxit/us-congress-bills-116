@@ -1,7 +1,7 @@
 ---
 measure: H.R. 631
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 631
@@ -16,9 +16,10 @@ For the relief of Arpita Kurdekar, Girish Kurdekar, and Vandana Kurdekar.
 
 - Rep. Kuster, Ann M. [D-NH-2] (K000382)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ For the relief of Arpita Kurdekar, Girish Kurdekar, and Vandana Kurdekar.
 - 2020-12-08 — On agreeing to the Bass amendment (A001) Agreed to without objection.
 - 2020-12-08 — On passage Passed without objection. (text of amendment in the nature of a substitute: CR H7001)
 - 2020-12-08 — Passed/agreed to in House: On passage Passed without objection.
+- 2020-12-09 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
