@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8354
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 8354
@@ -52,3 +52,4 @@ Servicemembers and Veterans Initiative Act of 2020
 - 2020-12-08 — Ms. Escobar moved to suspend the rules and pass the bill, as amended.
 - 2020-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 1 (Roll no. 239). (text: CR H7014)
 - 2020-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 1 (Roll no. 239).
+- 2020-12-09 — Received in the Senate, read twice.
