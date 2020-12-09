@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8900
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 8900
@@ -15,6 +15,10 @@ Further Continuing Appropriations Act, 2021, and Other Extensions Act
 ## Sponsor
 
 - Rep. Lowey, Nita M. [D-NY-17] (L000480)
+
+## Cosponsors (1)
+
+- Sen. Hawley, Josh [R-MO] (H001089)
 
 ## Committees (2)
 
@@ -40,3 +44,13 @@ Further Continuing Appropriations Act, 2021, and Other Extensions Act
 - 2020-12-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 343 - 67 (Roll no. 240). (text: CR H7062-7064)
 - 2020-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 343 - 67 (Roll no. 240).
 - 2020-12-09 — Received in the Senate, read twice.
+- 2020-12-10 — Senate amendment submitted
+- 2020-12-11 — Became Public Law No: 116-215.
+- 2020-12-11 — Became Public Law No: 116-215.
+- 2020-12-11 — Message on Senate action sent to the House.
+- 2020-12-11 — Passed Senate without amendment by Voice Vote. (consideration: CR S7443-7444)
+- 2020-12-11 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S7443-7444)
+- 2020-12-11 — Presented to President.
+- 2020-12-11 — Presented to President.
+- 2020-12-11 — Signed by President.
+- 2020-12-11 — Signed by President.
