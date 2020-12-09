@@ -1,7 +1,7 @@
 ---
 measure: S. 790
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 790
@@ -29,3 +29,8 @@ Catawba Indian Nation Lands Act
 
 - 2019-03-13 — Introduced in Senate
 - 2019-03-13 — Read twice and referred to the Committee on Indian Affairs.
+- 2019-05-01 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 116-77.
+- 2020-11-18 — Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2020-12-09 — Committee on Indian Affairs. Reported by Senator Hoeven with an amendment in the nature of a substitute. With written report No. 116-307.
+- 2020-12-09 — Committee on Indian Affairs. Reported by Senator Hoeven with an amendment in the nature of a substitute. With written report No. 116-307.
+- 2020-12-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 607.
