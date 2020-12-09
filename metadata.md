@@ -1,7 +1,7 @@
 ---
 measure: S. 2891
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2891
@@ -34,3 +34,8 @@ Tribal Wildlife Corridors Act of 2019
 
 - 2019-11-19 — Introduced in Senate
 - 2019-11-19 — Read twice and referred to the Committee on Indian Affairs.
+- 2020-03-04 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 116-198.
+- 2020-07-29 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2020-12-09 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-305.
+- 2020-12-09 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-305.
+- 2020-12-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 605.
