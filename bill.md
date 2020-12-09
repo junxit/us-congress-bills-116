@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 7105
-congress: 116th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Sixteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 7105
 
-That the bill from the House of Representatives (H.R. 7105) entitled “An Act to provide flexibility for the Secretary of Veterans Affairs in caring for homeless veterans during a covered public health emergency, to direct the Secretary of Veterans Affairs to carry out a retraining assistance program for unemployed veterans, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To provide flexibility for the Secretary of Veterans Affairs in caring for homeless veterans during a covered public health emergency, to direct the Secretary of Veterans Affairs to carry out a retraining assistance program for unemployed veterans, and for other purposes.
 
 ## § 1. Short title; table of contents
 
