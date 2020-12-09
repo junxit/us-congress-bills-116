@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3797
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3797
@@ -60,3 +60,9 @@ Medical Marijuana Research Act
 - 2020-12-07 — Placed on the Union Calendar, Calendar No. 508.
 - 2020-12-07 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-619, Part I.
 - 2020-12-07 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-619, Part I.
+- 2020-12-09 — Considered under suspension of the rules. (consideration: CR H7076-7083)
+- 2020-12-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3797.
+- 2020-12-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-09 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
+- 2020-12-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7076-7078)
+- 2020-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.

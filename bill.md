@@ -16,16 +16,20 @@ This Act may be cited as the “Medical Marijuana Research Act”.
 ## § 2. Facilitating marijuana research
 
 - **(a)** *Production and supply* The Secretary of Health and Human Services—
-  - **(1)** until the date on which the Secretary determines that manufacturers and distributors (other than the Federal Government) can ensure a sufficient supply of marijuana (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802), as amended by section 8) intended for medical research for qualified marijuana researchers registered pursuant to paragraph (3) of section 303(f) of the Controlled Substances Act (21 U.S.C. 823(f)), as added by section 3, shall—
-    - **(A)** continue, through grants, contracts, or cooperative agreements, to produce marijuana through the National Institute on Drug Abuse Drug Supply Program; and
-    - **(B)** offer to qualified marijuana researchers marijuana products available through State authorized marijuana programs that are consistent with the guidance issued under subsection (c); and
-  - **(2)** beyond the date specified in paragraph (1), may, at the Secretary’s discretion, continue through grants, contracts, or cooperative agreements, to so produce and supply marijuana.
-- **(b)** *Requirement to verify registration* Before supplying marijuana to any person through the National Institute on Drug Abuse Drug Supply Program or from State authorized marijuana programs, the Secretary of Health and Human Services shall—
-  - **(1)** require the person to submit documentation demonstrating that the person is a qualified marijuana researcher seeking to conduct research pursuant to section 303(f)(3) of the Controlled Substances Act, as added by subsection (e) of this section; and
-  - **(2)** not later than 60 days after receipt of such documentation, review such documentation and verify that the marijuana will be used for such research (and for no other purpose authorized pursuant to this Act).
-- **(c)** *Guidance on Use of State authorized marijuana programs* Not later than 180 days after the date of the enactment of this Act, the Secretary of Health and Human Services shall issue guidance related to the use of marijuana from State authorized marijuana programs, including necessary quality or production standards for marijuana intended for use in medical research.
-- **(d)** *Compliance with guidance* The Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, shall ensure that a qualified marijuana researcher is in compliance with guidance issued by the Food and Drug Administration related to botanical drug development.
-- **(e)** *Research* Section 303(f) of the Controlled Substances Act (21 U.S.C. 823(f)) is amended—
+  - **(1)** until the date on which the Secretary determines that manufacturers and distributors (other than the Federal Government) can ensure a sufficient supply of marijuana (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802), as amended by section 8) intended for research by qualified marijuana researchers registered pursuant to paragraph (3) of section 303(f) of the Controlled Substances Act (21 U.S.C. 823(f)), as added by section 3, shall—
+    - **(A)** continue, through grants, contracts, or cooperative agreements, to produce marijuana through the National Institute on Drug Abuse Drug Supply Program;
+    - **(B)** not later than one year after the date of enactment of this Act, act jointly with the Attorney General of the United States to establish and implement a specialized process for manufacturers and distributors, notwithstanding the registration requirements of section 303 of such Act (21 U.S.C. 823), to supply qualified marijuana researchers with marijuana products—
+      - **(i)** available through State-authorized marijuana programs; and
+      - **(ii)** consistent with the guidance issued under subsection (c); and
+    - **(C)** not later than 60 days after the date of enactment of this Act, jointly convene with the Attorney General a meeting to initiate the development of the specialized process described in subparagraph (B); and
+  - **(2)** beyond the date specified in paragraph (1), may, at the Secretary’s discretion, continue—
+    - **(A)** through grants, contracts, or cooperative agreements, to so produce marijuana; and
+    - **(B)** to implement such specialized process.
+- **(b)** *Requirement to verify registration* Before supplying marijuana to any person through the National Institute on Drug Abuse Drug Supply Program or through implementation of the specialized process established under subsection (a)(1)(B), the Secretary of Health and Human Services shall—
+  - **(1)** require the person to submit documentation demonstrating that the person is a qualified marijuana researcher seeking to conduct research pursuant to section 303(f)(3) of the Controlled Substances Act, as added by subsection (d) of this section, or a manufacturer duly registered under section 303(l) of the Controlled Substances Act, as added by section 3 of this Act; and
+  - **(2)** not later than 60 days after receipt of such documentation, review such documentation and verify that the marijuana will be used for such research (and for no other purpose authorized pursuant to this Act or the amendments made by this Act).
+- **(c)** *Guidance on Use of State-authorized marijuana programs* Not later than 180 days after the date of the enactment of this Act, the Secretary of Health and Human Services shall issue guidance related to marijuana from State-authorized marijuana programs for research.
+- **(d)** *Research* Section 303(f) of the Controlled Substances Act (21 U.S.C. 823(f)) is amended—
   - **(1)** by redesignating paragraphs (1) through (5) as subparagraphs (A) through (E), respectively;
   - **(2)** by striking “(f) The Attorney General” and inserting “(f)(1) The Attorney General”;
   - **(3)** by striking “Registration applications” and inserting the following:
@@ -37,73 +41,81 @@ This Act may be cited as the “Medical Marijuana Research Act”.
 
   - **(6)** by inserting before paragraph (4), as so designated, the following:
     > - **(3)**
-    >   - **(A)** The Attorney General shall register a practitioner to conduct research with marijuana if—
-    >     - **(i)** the applicant is authorized to dispense, or conduct research with respect to, controlled substances in schedules II, III, IV, and V under the laws of the State in which the applicant practices;
-    >     - **(ii)** the applicant’s research protocol has been reviewed and approved by the Secretary under section 505(i) of the Federal Food, Drug, and Cosmetic Act; and
-    >     - **(iii)** the Secretary has determined the applicant is qualified to conduct bona fide research.
-    >   - **(B)**
+    >   - **(A)** The Attorney General shall register the applicant to conduct research with marijuana if—
+    >     - **(i)** the applicant is authorized to dispense, or conduct research with respect to, controlled substances in schedule I, II, III, IV, or V;
+    >     - **(ii)** the applicant is compliant with, and authorized to conduct the activities described in clause (i) under, the laws of the State in which the applicant practices; and
+    >     - **(iii)** in the case of an applicant pursuing clinical research, the applicant’s clinical research protocol has been reviewed and authorized to proceed by the Secretary under section 505(i) of the Federal Food, Drug, and Cosmetic Act.
+    >   - **(B)** An applicant registered under subparagraph (A) shall be referred to in this section as a “qualified marijuana researcher”.
+    >   - **(C)**
     >     - **(i)** Not later than 60 days after the date on which the Attorney General receives a complete application for registration under this paragraph, the Attorney General shall approve or deny the application.
     >     - **(ii)** For purposes of clause (i), an application shall be deemed complete when the applicant has submitted documentation showing that the requirements under subparagraph (A) are satisfied.
     >     - **(iii)** In the case of a denial under clause (i), the Attorney General shall provide a written explanation of the basis for the denial.
-    >   - **(C)** The Attorney General shall grant an application for registration under this paragraph unless the Attorney General determines that the issuance of the registration would be inconsistent with the public interest. In determining the public interest, the following factors shall be considered:
+    >   - **(D)** The Attorney General shall grant an application for registration under this paragraph unless the Attorney General determines that the issuance of the registration would be inconsistent with the public interest. In determining the public interest, the following factors shall be considered:
     >     - **(i)** The applicant’s experience in dispensing, or conducting research with respect to, controlled substances.
     >     - **(ii)** The applicant’s conviction record under Federal or State laws relating to the manufacture, distribution, or dispensing of controlled substances.
     >     - **(iii)** Compliance with applicable State or local laws relating to controlled substance misuse or diversion.
-    >   - **(D)**
-    >     - **(i)** A qualified marijuana researcher shall store marijuana to be used in research in a securely locked, substantially constructed cabinet.
-    >     - **(ii)** Except as provided in clause (i), any security measures required by the Attorney General for practitioners conducting research with marijuana pursuant to a registration under this paragraph shall be consistent with the security measures for practitioners conducting research on other controlled substances in schedule II that have a similar risk of diversion and abuse.
+    >     - **(iv)** Such other conduct which may threaten the public health and safety.
     >   - **(E)**
-    >     - **(i)** If the Attorney General grants an application for registration under this paragraph, the applicant may amend or supplement the research protocol without reapplying if the applicant does not change the type of marijuana, the source of the marijuana, or the conditions under which the marijuana is stored, tracked, or administered.
+    >     - **(i)** A qualified marijuana researcher shall store marijuana to be used in research in a securely locked, substantially constructed cabinet.
+    >     - **(ii)** Except as provided in clause (i), any security measures required by the Attorney General for applicants conducting research with marijuana pursuant to a registration under this paragraph shall be consistent with the security measures for applicants conducting research on other controlled substances in schedule II that have a similar risk of diversion and abuse.
+    >   - **(F)**
+    >     - **(i)** If the Attorney General grants an application for registration under this paragraph, the applicant may amend or supplement the research protocol and proceed with the research under such amended or supplemented protocol, without additional review or approval by the Attorney General or the Secretary of Health and Human Services if the applicant does not change the type of marijuana, the source of the marijuana, or the conditions under which the marijuana is stored, tracked, or administered.
     >     - **(ii)** If an applicant amends or supplements the research protocol or initiates research on a new research protocol under clause (i), the applicant shall, in order to renew the registration under this paragraph, provide notice to the Attorney General of the amended or supplemented research protocol or any new research protocol in the applicant’s renewal materials.
     >     - **(iii)**
-    >       - **(I)** If an applicant amends or supplements a research protocol and the amendment or supplement involves a change to the type of marijuana, the source of the marijuana, or conditions under which the marijuana is stored, tracked, or administered or otherwise increases the risk of diversion, the applicant shall provide notice to the Attorney General not later than 30 days before proceeding on such amended or supplemental research or new research protocol, as the case may be.
+    >       - **(I)** If an applicant amends or supplements a research protocol and the amendment or supplement involves a change to the type of marijuana, the source of the marijuana, or conditions under which the marijuana is stored, tracked, or administered, the applicant shall provide notice to the Attorney General not later than 30 days before proceeding on such amended or supplemental research or new research protocol, as the case may be.
     >       - **(II)** If the Attorney General does not object during the 30-day period following a notification under subclause (I), the applicant may proceed with the amended or supplemental research or new research protocol.
     >     - **(iv)** The Attorney General may object to an amended or supplemental protocol or a new research protocol under clause (i) or (iii) only if additional security measures are needed to safeguard against diversion or abuse.
-    >   - **(F)** If marijuana or a compound of marijuana is listed on a schedule other than schedule I, the provisions of paragraphs (1), (2), and (4) that apply to research with a controlled substance in the applicable schedule shall apply to research with marijuana or that compound, as applicable, in lieu of the provisions of subparagraphs (A) through (E) of this paragraph.
-    >   - **(G)** Nothing in this paragraph shall be construed as limiting the authority of the Secretary under section 505(i) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(i)) or over requirements related to research protocols, including changes in—
+    >   - **(G)** If marijuana is listed on a schedule other than schedule I, the provisions of paragraphs (1), (2), and (4) that apply to research with a controlled substance in the applicable schedule shall apply to research with marijuana or that compound, as applicable, in lieu of the provisions of subparagraphs (A) through (F) of this paragraph.
+    >   - **(H)** Nothing in this paragraph shall be construed as limiting the authority of the Secretary under section 505(i) of the Federal Food, Drug, and Cosmetic Act or over requirements related to research protocols, including changes in—
     >     - **(i)** the method of administration of marijuana;
     >     - **(ii)** the dosing of marijuana; and
     >     - **(iii)** the number of individuals or patients involved in research.
 
-## § 3. Manufacture and distribution of marijuana for use in legitimate, medical research
+## § 3. Manufacture and distribution of marijuana for use in legitimate research
 
 Section 303 of the Controlled Substances Act (21 U.S.C. 823), as amended by section 2, is further amended by adding at the end the following:
 
-> - **(l)** *Registration of persons to manufacture and distribute marijuana for use in legitimate, medical research*
->   - **(1)** *Registration of manufacturers* Beginning not later than the day that is 1 year after the date of enactment of the Medical Marijuana Research Act, the Attorney General shall register an applicant to manufacture marijuana (including any derivative, extract, preparation, and compound thereof) that is intended for the ultimate and exclusive use by qualified marijuana researchers for research pursuant to subsection (f)(3), unless the Attorney General determines that the issuance of such registration is inconsistent with the public interest. In determining the public interest, the Attorney General shall take into consideration—
->     - **(A)** maintenance of effective controls against diversion of marijuana and any controlled substance compounded therefrom into other than legitimate medical, scientific, or research channels;
->     - **(B)** compliance with applicable State and local laws relating to controlled substance misuse and diversion; and
->     - **(C)** prior conviction record of the applicant under Federal or State laws relating to the manufacture, distribution, or dispensing of such substances.
->   - **(2)** *Registration of distributors* Beginning not later than the day that is 1 year after the date of enactment of the Medical Marijuana Research Act, the Attorney General shall register an applicant to distribute marijuana (including any derivative, extract, preparation, and compound thereof) that is intended for the ultimate and exclusive use by qualified marijuana researchers for research pursuant to subsection (f)(3), unless the Attorney General determines that the issuance of such registration is inconsistent with the public interest.
->   - **(3)** *Public interest* In determining the public interest under paragraph (2), the Attorney General shall take into consideration—
->     - **(A)** the factors specified in subparagraphs (A), (B), and (C) of such paragraph; and
->     - **(B)** past experience in the distribution of controlled substances, and the existence of effective controls against diversion.
->   - **(4)** *No limit on number of manufacturers and distributors* Notwithstanding any other provision of law, the Attorney General shall not impose or implement any limit on the number of persons eligible to be registered to manufacture or distribute marijuana pursuant to paragraph (1) or (2).
->   - **(5)** *Requirement to verify use for legitimate, medical research* As a condition on registration under this section to manufacture or distribute marijuana, the Attorney General shall require the registrant—
->     - **(A)** to require any person to whom the marijuana will be supplied to submit documentation demonstrating that the marijuana (including any derivative, extract, preparation, and compound thereof) will be ultimately used exclusively by qualified marijuana researchers for research pursuant to subsection (f)(3);
->     - **(B)** in the case of distribution, to complete, with respect to that distribution, the DEA Controlled substance order form in accordance with section 308 and to upload such forms to the system used by the Drug Enforcement Agency for such distribution;
+> - **(l)** *Registration of persons to manufacture and distribute marijuana for use in legitimate research*
+>   - **(1)** *Registration of manufacturers*
+>     - **(A)** *In general* Beginning not later than the day that is 1 year after the date of enactment of the Medical Marijuana Research Act, the Attorney General, pursuant to subsection (f)(3) and subject to subparagraph (B) of this paragraph, shall register an applicant to manufacture marijuana (including any derivative, extract, preparation, and compound thereof) that is intended for—
+>       - **(i)** the ultimate and exclusive use by qualified marijuana researchers for research pursuant to subsection (f)(3); or
+>       - **(ii)** subsequent downstream manufacture by a duly registered manufacturer for the ultimate and exclusive use by qualified marijuana researchers for research pursuant to subsection (f)(3).
+>     - **(B)** *Public interest* The Attorney General shall register an applicant under subparagraph (A) unless the Attorney General determines that the issuance of such registration is inconsistent with the public interest. In determining the public interest, the Attorney General shall take into consideration—
+>       - **(i)** maintenance of effective controls against diversion of marijuana and any controlled substance compounded therefrom into other than legitimate medical, scientific, or research channels;
+>       - **(ii)** compliance with applicable State and local laws relating to controlled substance misuse and diversion;
+>       - **(iii)** prior conviction record of the applicant under Federal or State laws relating to the manufacture, distribution, or dispensing of such substances; and
+>       - **(iv)** such other conduct which may threaten the public health and safety.
+>   - **(2)** *Registration of distributors*
+>     - **(A)** *In general* Beginning not later than the day that is 1 year after the date of enactment of the Medical Marijuana Research Act, the Attorney General shall register an applicant to distribute marijuana (including any derivative, extract, preparation, and compound thereof) that is intended for the ultimate and exclusive use by qualified marijuana researchers for research pursuant to subsection (f)(3) or intended for subsequent downstream manufacture by a duly registered manufacturer for use by qualified marijuana researchers for research pursuant to such subsection, unless the Attorney General determines that the issuance of such registration is inconsistent with the public interest.
+>     - **(B)** *Public interest* In determining the public interest under subparagraph (A), the Attorney General shall take into consideration—
+>       - **(i)** the factors specified in clauses (i), (ii), (iii), and (iv) of paragraph (1)(B); and
+>       - **(ii)** past experience in the distribution of controlled substances, and the existence of effective controls against diversion.
+>   - **(3)** *No limit on number of manufacturers and distributors* Notwithstanding any other provision of law, the Attorney General shall not impose or implement any limit on the number of persons eligible to be registered to manufacture or distribute marijuana pursuant to paragraph (1) or (2).
+>   - **(4)** *Requirement to verify use for legitimate research* As a condition of registration under this section to manufacture or distribute marijuana, the Attorney General shall require the registrant—
+>     - **(A)** to require any person to whom the marijuana will be supplied to submit documentation demonstrating that the marijuana (including any derivative, extract, preparation, and compound thereof) will be ultimately used exclusively by qualified marijuana researchers for research pursuant to subsection (f)(3) or for subsequent downstream manufacture by a duly registered manufacturer for use by qualified marijuana researchers for research pursuant to such subsection;
+>     - **(B)** in the case of distribution, to complete, with respect to that distribution, the appropriate order form in accordance with section 308 and to upload such forms to the system used by the Drug Enforcement Administration for such distribution;
 >     - **(C)** to include in the labeling of any marijuana so manufactured or distributed—
 >       - **(i)** the following statement: “This material is for biomedical and scientific research purposes only.”; and
 >       - **(ii)** the name of the requestor of the marijuana;
->     - **(D)** to limit the transfer and sale of any marijuana manufactured under this subsection—
->       - **(i)** to researchers who are registered under this Act to conduct research with marijuana; and
->       - **(ii)** for purposes of use in preclinical research or in a clinical investigation pursuant to an investigational new drug exemption under 505(i) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(i)); and
+>     - **(D)** to limit the transfer and sale of any marijuana under this subsection—
+>       - **(i)** to researchers who are registered under this Act to conduct research with marijuana or to manufacturers duly registered under this subsection; and
+>       - **(ii)** for purposes of use in preclinical research or in a clinical investigation pursuant to an investigational new drug exemption under 505(i) of the Federal Food, Drug, and Cosmetic Act or for the purposes of further manufacturing of marijuana; and
 >     - **(E)** to transfer or sell any marijuana manufactured under this subsection only with prior, written consent for the transfer or sale by the Attorney General.
->   - **(6)** *Timing* Not later than 60 days after receipt of a request for registration under this subsection to manufacture or distribute marijuana, the Attorney General shall—
+>   - **(5)** *Timing* Not later than 60 days after receipt of a request for registration under this subsection to manufacture or distribute marijuana, the Attorney General shall—
 >     - **(A)** grant or deny the request; and
 >     - **(B)** in the case of a denial, provide a written explanation of the basis for the denial.
->   - **(7)** *Deemed approval* If the Attorney General fails to grant or deny a request for registration under this subsection to manufacture or distribute marijuana within the 60-day period referred to in paragraph (5), such request is deemed approved.
+>   - **(6)** *Deemed approval* If the Attorney General fails to grant or deny a request for registration under this subsection to manufacture or distribute marijuana within the 60-day period referred to in paragraph (5), such request is deemed approved.
 
 ## § 4. Termination of interdisciplinary review process for non-NIH-funded qualified marijuana researchers
 
 The Secretary of Health and Human Services may not—
 
 - **(1)** reinstate the Public Health Service interdisciplinary review process described in the guidance entitled “Guidance on Procedures for the Provision of Marijuana for Medical Research” (issued on May 21, 1999); or
-- **(2)** create an additional review of scientific protocols that is only conducted for research on marijuana other than the review of research protocols performed at the request of a qualified marijuana researcher conducting nonhuman research that is not federally funded, in accordance with section 303(f)(3)(A)(iii)(II) of the Controlled Substances Act, as added by section 2 of this Act.
+- **(2)** create an additional review of scientific protocols that is only conducted for research on marijuana other than the review of research protocols performed at the request of a qualified marijuana researcher conducting nonhuman research that is not federally funded, in accordance with section 303(f)(3)(A) of the Controlled Substances Act, as added by section 2 of this Act.
 
 ## § 5. Consideration of results of research
 
-Immediately upon the approval by the Food and Drug Administration of an application for a drug that contains marijuana under section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355), and (irrespective of whether any such approval is granted) not later than the date that is 5 years after the date of enactment of this Act, the Secretary of Health and Human Services shall—
+Immediately upon the approval by the Food and Drug Administration of an application for a drug that contains marijuana (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802), as amended by section 8 of this Act) under section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355), and (irrespective of whether any such approval is granted) not later than the date that is 5 years after the date of enactment of this Act, the Secretary of Health and Human Services shall—
 
 - **(1)** conduct a review of existing medical and other research with respect to marijuana;
 - **(2)** submit a report to the Congress on the results of such review; and
@@ -121,7 +133,11 @@ Article 28 of the Single Convention on Narcotic Drugs shall not be construed to 
 
 ## § 8. Definitions
 
-- **(a)** *Qualified marijuana researcher* In this Act, the term “qualified marijuana researcher” has the meaning given the term in section 303(f)(3) of the Controlled Substances Act, as added by section 2(d) of this Act.
+- **(a)** *Qualified marijuana researcher* In this Act, the term qualified marijuana researcher has the meaning given the term in section 303(f)(3) of the Controlled Substances Act, as added by section 2(d) of this Act.
 - **(b)** *Updating term* Section 102(16) of the Controlled Substances Act (21 U.S.C. 802(16)) is amended—
-  - **(1)** in subparagraph (A), by striking “the term marihuana means” and inserting “the terms “marihuana” and “marijuana” mean”; and
-  - **(2)** in subparagraph (B), by striking “The term “marihuana” does not” and inserting “The terms marihuana and “marijuana” do not”.
+  - **(1)** in subparagraph (A), by striking “the term marihuana means” and inserting “the terms marihuana and marijuana mean”; and
+  - **(2)** in subparagraph (B), by striking “The term marihuana does not” and inserting “The terms marihuana and marijuana do not”.
+
+## § 9. Determination of budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
