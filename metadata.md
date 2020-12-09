@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5756
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5756
@@ -37,3 +37,10 @@ Resiliency Enhancement Act of 2020
 - 2020-02-05 — Introduced in House
 - 2020-02-05 — Introduced in House
 - 2020-02-05 — Referred to the House Committee on Transportation and Infrastructure.
+- 2020-02-06 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- 2020-02-26 — Committee Consideration and Mark-up Session Held.
+- 2020-02-26 — Ordered to be Reported by Voice Vote.
+- 2020-02-26 — Subcommittee on Economic Development, Public Buildings, and Emergency Management Discharged.
+- 2020-12-09 — Placed on the Union Calendar, Calendar No. 522.
+- 2020-12-09 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-637.
+- 2020-12-09 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-637.
