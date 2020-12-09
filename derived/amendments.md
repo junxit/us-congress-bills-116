@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1570
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,13 +14,69 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+18 amendatory instructions. 6 executed, 12 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 42 U.S.C. § 1395l
+
+> in the second sentence, by striking “section 1834(0)” and inserting “section 1834(o)”;
+
+| | |
+|---|---|
+| Removed | `section 1834(0)` |
+| Inserted | `section 1834(o)` |
+
+### 42 U.S.C. § 1395m
+
+> in subparagraph (C)(ii), in the matter preceding subclause (I), by striking “Notwithstanding” and inserting “Subject to section 1833(a)(1)(Y), but notwithstanding”; and
+
+| | |
+|---|---|
+| Removed | `Notwithstanding` |
+| Inserted | `Subject to section 1833(a)(1)(Y), but notwithstanding` |
+
+### 42 U.S.C. § 1395m
+
+> in subparagraph (D), by striking “If during” and inserting “Subject to section 1833(a)(1)(Y), if during”.
+
+| | |
+|---|---|
+| Removed | `If during` |
+| Inserted | `Subject to section 1833(a)(1)(Y), if during` |
+
+### 42 U.S.C. § 1395w-3a
+
+> in subparagraph (A), by striking “In general” and inserting “Misrepresentation”;
+
+| | |
+|---|---|
+| Removed | `In general` |
+| Inserted | `Misrepresentation` |
+
+### 42 U.S.C. § 1395w-3a
+
+> in subparagraph (B), by striking “subparagraph (B)” and inserting “subparagraph (A), (B), or (C)”;
+
+| | |
+|---|---|
+| Removed | `subparagraph (B)` |
+| Inserted | `subparagraph (A), (B), or (C)` |
+
+### 42 U.S.C. § 1396r-8
+
+> Section 1927(b)(3)(A)(iii) of the Social Security Act (42 U.S.C. 1396r-8(b)(3)(A)(iii)) is amended by striking “section 1881(b)(13)(A)(ii)” and inserting “section 1881(b)(14)(B)”.
+
+| | |
+|---|---|
+| Removed | `section 1881(b)(13)(A)(ii)` |
+| Inserted | `section 1881(b)(14)(B)` |
 
 ## Stated, not applied
 
@@ -31,4 +87,15 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 1395l` | insert | Section 1833(a)(1)(Y) of the Social Security Act (42 U.S.C. 1395l(a)(1)(Y)) is amended by inserting “, including a colorectal cancer screening test (regardless of the code that is billed for the establishment of a diagnosis as a result o… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395l` | insert | by inserting the following third sentence following such second sentence: “For services furnished on or after January 1, 2022, paragraph (1)(Y) shall apply with respect to a colorectal cancer screening test regardless of the code that is… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395l` | insert | in subsection (a)(1)(Y), by inserting “subject to subsection (dd),” before “with respect to”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395l` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-3a` | insert | in paragraph (2)(A), by inserting “or subsection (f)(2), as applicable” before the period at the end; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395w-3a` | insert | in paragraph (3), in the matter preceding subparagraph (A), by inserting “or subsection (f)(2), as applicable,” before “determined by”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395w-3a` | insert | in paragraph (6)(A), in the matter preceding clause (i), by inserting “or subsection (f)(2), as applicable,” before “determined by”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395w-3a` | replace | by striking “For requirements” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1395w-3a` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-3a` | redesignate | by redesignating subparagraph (B) as subparagraph (D); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-3a` | insert | by inserting after subparagraph (A) the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-3a` | replace | in subsection (c)(6)(A), by striking the period at the end and inserting “, except that, for purposes of subsection (f)(2), the Secretary may, if the Secretary determines appropriate, exclude repackagers of a drug or biological from such… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396r-8` | add-at-end | Section 1927(b)(3)(A) of the Social Security Act (42 U.S.C. 1396r-8(b)(3)(A)) is amended by adding at the end the following new sentence: “For purposes of applying clause (iii), a drug or biological described in the flush matter followin… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
