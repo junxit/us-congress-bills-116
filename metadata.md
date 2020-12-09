@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7105
 congress: 116
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 7105
@@ -16,7 +16,7 @@ Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvem
 
 - Rep. Levin, Mike [D-CA-49] (L000593)
 
-## Cosponsors (10)
+## Cosponsors (11)
 
 - Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
 - Rep. Takano, Mark [D-CA-41] (T000472)
@@ -28,6 +28,7 @@ Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvem
 - Rep. Cisneros, Gilbert Ray, Jr. [D-CA-39] (C001123)
 - Rep. Brownley, Julia [D-CA-26] (B001285)
 - Rep. Luria, Elaine G. [D-VA-2] (L000591)
+- Sen. Tester, Jon [D-MT] (T000464)
 
 ## Committees (3)
 
@@ -50,3 +51,13 @@ Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvem
 - 2020-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2020-09-23 — The title of the measure was amended. Agreed to without objection.
 - 2020-09-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2020-12-09 — Amendment SA 2696 agreed to in Senate by Unanimous Consent.
+- 2020-12-09 — Amendment SA 2696 proposed by Senator Inhofe for Senator Moran. (consideration: CR S7372; text: CR S7369-7370) In the nature of a substitute.
+- 2020-12-09 — Measure laid before Senate by unanimous consent. (consideration: CR S7372)
+- 2020-12-09 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S7369-7370)
+- 2020-12-09 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2020-12-09 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2020-12-09 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2020-12-09 — Senate amendment agreed to: Amendment SA 2696 agreed to in Senate by Unanimous Consent.
+- 2020-12-09 — Senate amendment proposed (on the floor): Amendment SA 2696 proposed by Senator Inhofe for Senator Moran.
+- 2020-12-09 — Senate amendment submitted
