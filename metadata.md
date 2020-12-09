@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8354
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 8354
@@ -53,3 +53,12 @@ Servicemembers and Veterans Initiative Act of 2020
 - 2020-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 1 (Roll no. 239). (text: CR H7014)
 - 2020-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 1 (Roll no. 239).
 - 2020-12-09 — Received in the Senate, read twice.
+- 2020-12-15 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7507)
+- 2020-12-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7507)
+- 2020-12-16 — Message on Senate action sent to the House.
+- 2020-12-24 — Presented to President.
+- 2020-12-24 — Presented to President.
+- 2021-01-05 — Became Public Law No: 116-288.
+- 2021-01-05 — Became Public Law No: 116-288.
+- 2021-01-05 — Signed by President.
+- 2021-01-05 — Signed by President.
