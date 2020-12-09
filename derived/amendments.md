@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8900
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
