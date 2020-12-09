@@ -1,7 +1,7 @@
 ---
 measure: S. 3418
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3418
@@ -16,12 +16,13 @@ STORM Act
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
 
-## Cosponsors (4)
+## Cosponsors (5)
 
 - Sen. Johnson, Ron [R-WI] (J000293)
 - Sen. Lankford, James [R-OK] (L000575)
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 - Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
 
 ## Committees (1)
 
@@ -44,3 +45,18 @@ STORM Act
 - 2020-12-09 — Senate amendment proposed (on the floor): Amendment SA 2697 proposed by Senator Inhofe for Senator Peters.
 - 2020-12-09 — Senate amendment submitted
 - 2020-12-09 — The committee amendments withdrawn by Unanimous Consent. (text: CR S7375-7377)
+- 2020-12-10 — Message on Senate action sent to the House.
+- 2020-12-14 — Held at the desk.
+- 2020-12-14 — Received in the House.
+- 2020-12-18 — Considered under suspension of the rules. (consideration: CR H7264-7268)
+- 2020-12-18 — DEBATE - The House proceeded with forty minutes of debate on S. 3418.
+- 2020-12-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-18 — Ms. Norton moved to suspend the rules and pass the bill.
+- 2020-12-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7264-7266)
+- 2020-12-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-12-21 — Presented to President.
+- 2020-12-21 — Presented to President.
+- 2021-01-01 — Became Public Law No: 116-284.
+- 2021-01-01 — Became Public Law No: 116-284.
+- 2021-01-01 — Signed by President.
+- 2021-01-01 — Signed by President.
