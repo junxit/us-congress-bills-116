@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2477
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2477
@@ -37,10 +37,11 @@ BENES Act of 2020
 - Rep. Houlahan, Chrissy [D-PA-6] (H001085)
 - Rep. Soto, Darren [D-FL-9] (S001200)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -62,3 +63,4 @@ BENES Act of 2020
 - 2020-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2020-12-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-621, Part I.
 - 2020-12-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-621, Part I.
+- 2020-12-09 — Received in the Senate and Read twice and referred to the Committee on Finance.
