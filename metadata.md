@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7105
 congress: 116
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7105
@@ -61,3 +61,15 @@ Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvem
 - 2020-12-09 — Senate amendment agreed to: Amendment SA 2696 agreed to in Senate by Unanimous Consent.
 - 2020-12-09 — Senate amendment proposed (on the floor): Amendment SA 2696 proposed by Senator Inhofe for Senator Moran.
 - 2020-12-09 — Senate amendment submitted
+- 2020-12-10 — Message on Senate action sent to the House.
+- 2020-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-16 — Mr. Takano moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H7169-7211)
+- 2020-12-16 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text: CR H7169-7204)
+- 2020-12-16 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text: CR H7169-7204)
+- 2020-12-16 — The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 7105.
+- 2020-12-24 — Presented to President.
+- 2020-12-24 — Presented to President.
+- 2021-01-05 — Became Public Law No: 116-315.
+- 2021-01-05 — Became Public Law No: 116-315.
+- 2021-01-05 — Signed by President.
+- 2021-01-05 — Signed by President.
