@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5541
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 25 U.S.C. § 3501
 
-> in subparagraph (C), by striking “land.” and inserting “land; and”; and
+> in subparagraph (C), by striking “land.” and inserting “land;”; and
 
 | | |
 |---|---|
 | Removed | `land.` |
-| Inserted | `land; and` |
+| Inserted | `land;` |
 
 ### 25 U.S.C. § 3502
 
@@ -52,5 +52,5 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `25 U.S.C. § 3501` | strike | in subparagraph (B)(iii), by striking “and”; | the bill quotes the text struck but describes what replaces it |
-| `43 U.S.C. § 1602` | add-at-end | by adding at the end the following subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 3502` | add-at-end | Section 2602(b)(5) of the Energy Policy Act of 1992 (25 U.S.C. 3502(b)(5)) is amended by adding at the end the following subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1602` | add-at-end | by adding at the end the following subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 3502` | add-at-end | Section 2602(b)(5) of the Energy Policy Act of 1992 (25 U.S.C. 3502(b)(5)) is amended by adding at the end the following subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
