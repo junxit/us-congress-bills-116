@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7572
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7572
@@ -16,9 +16,10 @@ For the relief of Median El-Moustrah.
 
 - Rep. Tlaib, Rashida [D-MI-13] (T000481)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ For the relief of Median El-Moustrah.
 - 2020-12-08 — On agreeing to the Bass amendment (A001) Agreed to without objection.
 - 2020-12-08 — On passage Passed without objection. (text of amendment in the nature of a substitute: CR H7003)
 - 2020-12-08 — Passed/agreed to in House: On passage Passed without objection.
+- 2020-12-09 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
