@@ -2,7 +2,7 @@
 legis-num: H.R. 1375
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1375
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Provide Accurate Information Directly Act ” or “PAID Act”.
+This Act may be cited as the “Provide Accurate Information Directly Act” or “PAID Act”.
 
 ## § 2. Transparency of medicare secondary payer reporting information
 
