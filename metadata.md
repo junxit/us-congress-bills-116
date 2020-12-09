@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8235
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8235
@@ -20,9 +20,10 @@ Open Courts Act of 2020
 
 - Rep. Collins, Doug [R-GA-9] (C001093)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Open Courts Act of 2020
 - 2020-12-08 — Mr. Johnson (GA) moved to suspend the rules and pass the bill, as amended.
 - 2020-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7015-7018)
 - 2020-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-12-09 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
