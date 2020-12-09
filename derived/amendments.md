@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3797
 congress: 116
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -72,6 +72,6 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 823` | redesignate | by redesignating paragraphs (1) through (5) as subparagraphs (A) through (E), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 823` | replace | by striking “Registration applications” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 823` | replace | by striking “Article 7” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `21 U.S.C. § 355` | insert | by inserting before paragraph (4), as so designated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 823` | insert | by inserting before paragraph (4), as so designated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 823` | add-at-end | Section 303 of the Controlled Substances Act (21 U.S.C. 823), as amended by section 2, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 826` | add-at-end | Section 306 of the Controlled Substances Act (21 U.S.C. 826) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
