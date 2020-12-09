@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1375
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1375
@@ -36,10 +36,11 @@ PAID Act
 - Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
 - Rep. Estes, Ron [R-KS-4] (E000298)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -57,3 +58,4 @@ PAID Act
 - 2020-12-08 — Mr. Larson (CT) moved to suspend the rules and pass the bill, as amended.
 - 2020-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6991-6992)
 - 2020-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-12-09 — Received in the Senate and Read twice and referred to the Committee on Finance.
