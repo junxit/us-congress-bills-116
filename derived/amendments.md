@@ -1,7 +1,7 @@
 ---
 measure: S. 4996
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 derived: true
 ---
 
