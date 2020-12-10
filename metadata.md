@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7489
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7489
@@ -48,3 +48,9 @@ Long Bridge Act of 2020
 - 2020-12-02 — Placed on the Union Calendar, Calendar No. 505.
 - 2020-12-02 — Reported by the Committee on Natural Resources. H. Rept. 116-613.
 - 2020-12-02 — Reported by the Committee on Natural Resources. H. Rept. 116-613.
+- 2020-12-10 — Considered under suspension of the rules. (consideration: CR H7125-7126)
+- 2020-12-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7489.
+- 2020-12-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-10 — Mr. Huffman moved to suspend the rules and pass the bill, as amended.
+- 2020-12-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7125)
+- 2020-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7125)
