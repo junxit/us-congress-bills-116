@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1310
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Organization of American States Legislative Engagement Act of 2019”.
+This Act may be cited as the “Organization of American States Legislative Engagement Act of 2020”.
 
 ## § 2. Findings
 
@@ -24,47 +24,56 @@ Congress makes the following findings:
 - **(5)** In 2004, OAS General Assembly Resolution 2044 (XXXIV–O/04) appealed for the “strengthening of legislatures, as well as inter-parliamentary cooperation on key items of the inter-American agenda, with a view, in particular, to generating initiatives to fight corruption, poverty, inequality, and social exclusion”.
 - **(6)** In 2005, OAS General Assembly Resolution 2095 (XXXV–O/05) called on the OAS Secretariat to “invite […] the presidents or speakers of the national legislative institutions of the Americas, i.e., congresses, parliaments, or national assemblies, […] to attend a special meeting of the Permanent Council […] for the initiation of a dialogue on topics on the hemispheric agenda”.
 - **(7)** In 2014 and 2015, the OAS Secretariat expanded its engagement with elected national legislators from OAS member states by convening two meetings of presidents of national legislatures, first in Lima, Peru and subsequently in Santiago, Chile.
-- **(8)** However, no formal, permanent procedures exist to facilitate the participation of elected national legislators from OAS member states in OAS activities.
+- **(8)** However, no permanent procedures exist to facilitate the participation of elected national legislators from OAS member states in OAS activities.
 - **(9)** The Organization for Security and Co-operation in Europe (OSCE) Parliamentary Assembly has proven successful at strengthening inter-parliamentary cooperation among its member states.
 
 ## § 3. Sense of Congress
 
 It is that sense of Congress that—
 
-- **(1)** elected national legislators play an essential role in the exercise of representative democracy in the Americas, including—
-  - **(A)** promoting the rule of law and combating corruption;
-  - **(B)** defending human rights and fundamental freedoms; and
-  - **(C)** advancing the principles and practices expressed in the Charter of the Organization of American States, the American Declaration on the Rights and Duties of Man, and the Inter-American Democratic Charter;
-- **(2)** establishing procedures and formal mechanisms to facilitate and formalize the participation of elected national legislators from OAS member states in OAS activities would contribute to the promotion of democratic principles and practices and strengthen a democratic culture in the Western Hemisphere;
-- **(3)** increasing and strengthening the participation of elected national legislators from OAS member states in OAS activities would advance the principles and proposals expressed in section 4 of the Organization of American States Revitalization and Reform Act of 2013 (Public Law 113–41; 127 Stat. 549);
-- **(4)** the OAS General Assembly, OAS Permanent Council, and OAS Secretariat should take all necessary steps to ensure greater participation of elected national legislators from OAS member states in OAS activities;
+- **(1)** elected national legislators play an essential role in the exercise of representative democracy in the Americas, including by—
+  - **(A)** promoting economic freedom and respect for property rights;
+  - **(B)** promoting the rule of law and combating corruption;
+  - **(C)** defending human rights and fundamental freedoms; and
+  - **(D)** advancing the principles and practices expressed in the Charter of the Organization of American States, the American Declaration on the Rights and Duties of Man, and the Inter-American Democratic Charter;
+- **(2)** establishing procedures and mechanisms to facilitate the participation of elected national legislators from OAS member states in OAS activities could contribute to the promotion of democratic principles and practices and strengthen a democratic culture in the Western Hemisphere;
+- **(3)** increasing and strengthening the participation of elected national legislators from OAS member states in OAS activities could advance the principles and proposals expressed in section 4 of the Organization of American States Revitalization and Reform Act of 2013 (Public Law 113–41; 127 Stat. 549);
+- **(4)** the OAS General Assembly, OAS Permanent Council, and OAS Secretariat should take steps to facilitate greater participation of elected national legislators from OAS member states in OAS activities;
 - **(5)** the OAS Permanent Council resolutions titled “Guidelines for the Participation of Civil Society in OAS Activities” and “Strategies for Increasing and Strengthening Participation by Civil Society Organizations in OAS Activities” should serve as important references for efforts to bolster the participation of elected national legislators from OAS member states in OAS activities; and
 - **(6)** the successful experience of the Organization for Security and Co-operation in Europe Parliamentary Assembly should serve as a model to the OAS in creating a similar mechanism.
 
-## § 4. Strengthening participation of legislators at the OAS
+## § 4. Strengthening participation of elected national legislators at the OAS
 
-- **(a)** *In general* The Secretary of State, acting through the United States Mission to the Organization of American States, shall take all necessary steps to establish formal procedures for the Organization of American States that—
-  - **(1)** increase the participation of elected national legislators from OAS member state countries in OAS activities, specifically including activities that advance the principles of the Inter-American Democratic Charter;
-  - **(2)** create an annual forum for the presidents of national legislatures from OAS member states to discuss issues of hemispheric importance, including regional efforts to combat corruption and defend human rights;
-  - **(3)** permit elected national legislators from OAS member states to make presentations, contribute information, and provide expert advice, as appropriate, to the OAS Secretariat, OAS Permanent Council, and OAS General Assembly;
-  - **(4)** leads to the creation of a formalized body or mechanism to permanently facilitate the participation of national legislators in OAS activities; and
-  - **(5)** strengthen OAS Secretariat programs that provide technical assistance for the modernization and institutional consolidation of national legislatures from OAS member states.
-- **(b)** *Diplomatic engagement and coordination* The Secretary of State, as appropriate, shall carry out diplomatic engagement to secure political and financial support for the establishment of the procedures set forth in subsection (a).
-- **(c)** *Progress report* Not later than one year after the date of the enactment of this Act, the Secretary of State shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on OAS processes, initiatives, and reforms undertaken to implement this section.
+- **(a)** *In general* The Secretary of State, acting through the United States Mission to the Organization of American States, should use the voice and vote of the United States to support the creation of procedures for the Organization of American States that—
+  - **(1)** enhance the participation of democratically elected national legislators from OAS member state countries in OAS activities that advance the principles of the Inter-American Democratic Charter and the core values of the OAS consistent with the principles and proposals expressed in section 4 of the Organization of American States Revitalization and Reform Act of 2013 (Public Law 113–41; 127 Stat. 549);
+  - **(2)** create an annual forum for democratically elected national legislatures from OAS member states to discuss issues of hemispheric importance, including regional efforts to defend human rights and combat transnational criminal activities, corruption, and impunity;
+  - **(3)** permit elected national legislators from OAS member states to make presentations, contribute information, and provide expert advice, as appropriate, to the OAS Secretariat, OAS Permanent Council, and OAS General Assembly about OAS activities on issues of hemispheric importance;
+  - **(4)** lead to the creation of a mechanism to regularly facilitate the participation of elected national legislators in OAS activities; and
+  - **(5)** reinforce OAS Secretariat programs that provide technical assistance for the modernization and institutional strengthening of national legislatures from OAS member states.
+- **(b)** *Expenses* The Secretary of State, acting through the United States Mission to the Organization of American States, as appropriate, shall seek to ensure that expenses related to the procedures set forth in this Act do not increase member quotas, assessed fees, or voluntary contributions and that the Secretariat of the OAS shall seek to ensure shared financial responsibilities among the member states in facilitating the financial support necessary to carry out this initiative.
 
 ## § 5. Support for OAS human rights and anti-corruption initiatives
 
 - **(a)** *Sense of Congress* It is the sense of Congress that—
-  - **(1)** the Organization of American States’ Inter-American Commission on Human Rights is the preeminent institution for defending human rights in the Americas;
-  - **(2)** the United States should take all necessary steps to support and strengthen the role of the Inter-American Commission on Human Rights and its work in the Americas;
-  - **(3)** the efforts of the OAS Secretary General and Secretariat to combat corruption and impunity in the Americas represent important contributions to strengthening the rule of law and democratic governance in the Americas; and
-  - **(4)** the United States should support efforts to ensure the effectiveness and independence of OAS initiatives to combat corruption and impunity in the Americas.
-- **(b)** *Anti-Corruption and human rights promotion strategy* Not later than 180 days after the date of the enactment of the Act, the Secretary of State shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a strategy for supporting OAS anti-corruption and human rights promotion efforts, including—
+  - **(1)** the efforts of the OAS Secretary General and Secretariat to combat corruption and impunity in the Americas represent important contributions to strengthening the rule of law and democratic governance in the Americas; and
+  - **(2)** the United States should support efforts to ensure the effectiveness and independence of OAS initiatives to combat corruption and impunity in the Americas.
+- **(b)** *Anti-corruption and human rights promotion strategy* Not later than 180 days after the date of the enactment of the Act, the Secretary of State shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a strategy for supporting OAS anti-corruption and human rights promotion efforts. The strategy should include—
   - **(1)** an assessment of United States programs, activities, and initiatives with the OAS to support anti-corruption and human rights promotion in the Americas;
-  - **(2)** a summary of steps taken by the United States Mission to the OAS to strengthen the role of the Inter-American Commission on Human Rights, and to support anti-corruption and anti-impunity efforts in the Americas;
+  - **(2)** a summary of the steps taken by the United States Mission to the OAS to strengthen anti-corruption and anti-impunity efforts in the Americas;
   - **(3)** an assessment of necessary reforms and initiatives to prioritize and reinforce the OAS Secretary General and Secretariat’s efforts to advance human rights and combat corruption and impunity in the Americas;
-  - **(4)** a detailed strategy to facilitate increased OAS collaboration, as appropriate, with relevant stakeholders, including legislators and civil society, in support of a multi-sectoral approach to anti-corruption, anti-impunity, and human rights promotion efforts in the Americas; and
+  - **(4)** a detailed plan to facilitate increased OAS collaboration, as appropriate, with relevant stakeholders, including elected national legislators and civil society, in support of an approach to promote human rights and combat transnational criminal activities, corruption, and impunity in the Americas; and
   - **(5)** a detailed plan for implementing the strategy set forth in this section of the Act.
-- **(c)** *Annual report* General.—Not later than one year after the date of the enactment of this Act, and annually thereafter, the Secretary of State shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on actions taken to implement the strategy mandated under subsection (b). The report shall include—
+
+## § 6. Reporting requirements
+
+- **(a)** *In general* Not later than one year after the date of the enactment of this Act, the Secretary of State shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on OAS processes, initiatives, and reforms undertaken to implement section 4, actions taken to implement the strategy required under section 5(b), and steps taken to implement the Organization of American States Revitalization and Reform Act of 2013 (Public Law 113–41). The report should include—
   - **(1)** an analysis of the progress made by the OAS to adopt and effectively implement reforms and initiatives to advance human rights and combat corruption and impunity in the Americas; and
-  - **(2)** a detailed assessment of OAS efforts to increase multi-sectoral stakeholder engagement to advance human rights and combat corruption and impunity in the Americas.
+  - **(2)** a detailed assessment of OAS efforts to increase stakeholder engagement to advance human rights and combat corruption and impunity in the Americas.
+- **(b)** *Briefings* Not later than one year after the Secretary of State submits the report required under subsection (a), and annually thereafter for two additional years, the Secretary shall provide to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a briefing on the information required to be included in such report.
+
+## § 7. Sense of Congress on elected national legislator
+
+It is the sense of Congress that an elected national legislator participating in the activities outlined in this Act should be an individual that—
+
+- **(1)** was elected as a result of periodic, free and fair elections; and
+- **(2)** is not known to be under investigation or convicted for corruption or transnational criminal activities, including trafficking of people, goods, or illicit narcotics, money-laundering, terrorist financing, acts of terrorism, campaign finance violations, bribery, or extortion.
