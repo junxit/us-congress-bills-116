@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5001
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5001
@@ -25,3 +25,9 @@ Non-Judicial Foreclosure Debt Collection Clarification Act
 - 2019-11-08 — Introduced in House
 - 2019-11-08 — Introduced in House
 - 2019-11-08 — Referred to the House Committee on Financial Services.
+- 2019-11-13 — Committee Consideration and Mark-up Session Held.
+- 2019-11-14 — Committee Consideration and Mark-up Session Held.
+- 2019-11-14 — Ordered to be Reported (Amended) by the Yeas and Nays: 31 - 23.
+- 2020-12-10 — Placed on the Union Calendar, Calendar No. 523.
+- 2020-12-10 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-638.
+- 2020-12-10 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-638.
