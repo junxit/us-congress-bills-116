@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7898
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7898
@@ -38,3 +38,12 @@ To amend the Health Information Technology for Economic and Clinical Health Act 
 - 2020-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2020-12-09 — The title of the measure was amended. Agreed to without objection.
 - 2020-12-10 — Received in the Senate, read twice.
+- 2020-12-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7853)
+- 2020-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-12-20 — Message on Senate action sent to the House.
+- 2020-12-24 — Presented to President.
+- 2020-12-24 — Presented to President.
+- 2021-01-05 — Became Public Law No: 116-321.
+- 2021-01-05 — Became Public Law No: 116-321.
+- 2021-01-05 — Signed by President.
+- 2021-01-05 — Signed by President.
