@@ -2,12 +2,14 @@
 legis-num: H.R. 1925
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 1925
 
-> To designate the Manhattan Campus of the New York Harbor Health Care System of the Department of Veterans Affairs as the “Margaret Cochran Corbin Campus of the New York Harbor Health Care System”.
+That the bill from the House of Representatives (H.R. 1925) entitled “An Act to designate the Manhattan Campus of the New York Harbor Health Care System of the Department of Veterans Affairs as the “Margaret Cochran Corbin Campus of the New York Harbor Health Care System”.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Designation of Manhattan Campus of the New York Harbor Health Care System of the Department of Veterans Affairs, New York
 
@@ -19,5 +21,5 @@ chamber: IN THE SENATE OF THE UNITED STATES
   - **(5)** Having lost the use of her left arm, Margaret Corbin was assigned to the “Invalid Regiment” at West Point, New York.
   - **(6)** The Continental Congress awarded Margaret Corbin a lifelong pension for her injuries, making her the first woman to receive a pension from the United States by virtue of military service for the United States.
   - **(7)** Margaret Corbin died in 1789 in Highland Falls, New York. She is honored nearby at West Point as a hero of the Revolutionary War.
-- **(b)** *Designation* The Manhattan Campus of the New York Harbor Health Care System of the Department of Veterans Affairs in New York, New York, shall after the date of the enactment of this Act be known and designated as the “Margaret Cochran Corbin Campus of the New York Harbor Health Care System”.
+- **(b)** *Designation* The Manhattan Campus of the New York Harbor Health Care System of the Department of Veterans Affairs in New York, New York, shall after the date of the enactment of this Act be known and designated as the “Margaret Cochran Corbin Campus of the New York Harbor Health Care System” or the “Margaret Cochran Corbin VA Campus”.
 - **(c)** *Reference* Any reference in any law, regulation, map, document, paper, or other record of the United States to the Campus referred to in subsection (b) shall be deemed to be a reference to the Margaret Cochran Corbin Campus of the New York Harbor Health Care System.
