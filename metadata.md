@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1925
 congress: 116
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1925
@@ -71,3 +71,14 @@ To designate the Manhattan Campus of the New York Harbor Health Care System of t
 - 2020-12-10 — Senate amendment agreed to: Amendment SA 2703 agreed to in Senate by Unanimous Consent.
 - 2020-12-10 — Senate amendment proposed (on the floor): Amendment SA 2703 proposed by Senator Murkowski for Senator Gillibrand.
 - 2020-12-10 — Senate amendment submitted
+- 2020-12-11 — Message on Senate action sent to the House.
+- 2020-12-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-31 — Mrs. Dingell asked unanimous consent to take the bill, H.R. 1925, from the Speaker's Table and agree to the Senate amendment. (consideration: CR H9170)
+- 2020-12-31 — On motion that the House agree to the Senate amendment Agreed to without objection. (text: CR H9170)
+- 2020-12-31 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text: CR H9170)
+- 2021-01-01 — Presented to President.
+- 2021-01-01 — Presented to President.
+- 2021-01-13 — Became Public Law No: 116-331.
+- 2021-01-13 — Became Public Law No: 116-331.
+- 2021-01-13 — Signed by President.
+- 2021-01-13 — Signed by President.

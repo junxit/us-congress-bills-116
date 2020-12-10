@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 1925
-congress: 116th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Sixteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 1925
 
-That the bill from the House of Representatives (H.R. 1925) entitled “An Act to designate the Manhattan Campus of the New York Harbor Health Care System of the Department of Veterans Affairs as the “Margaret Cochran Corbin Campus of the New York Harbor Health Care System”.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To designate the Manhattan Campus of the New York Harbor Health Care System of the Department of Veterans Affairs as the “Margaret Cochran Corbin Campus of the New York Harbor Health Care System”.
 
 ## § 1. Designation of Manhattan Campus of the New York Harbor Health Care System of the Department of Veterans Affairs, New York
 
