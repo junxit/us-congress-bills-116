@@ -1,7 +1,7 @@
 ---
 measure: S. 2730
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2730
@@ -35,3 +35,18 @@ Drone Advisory Committee for the 21st Century Act
 - 2020-09-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 560.
 - 2020-12-10 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7431-7432; text: CR S7431-7432)
 - 2020-12-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S7431-7432; text: CR S7431-7432)
+- 2020-12-11 — Message on Senate action sent to the House.
+- 2020-12-14 — Held at the desk.
+- 2020-12-14 — Received in the House.
+- 2020-12-18 — Considered under suspension of the rules. (consideration: CR H7270-7271)
+- 2020-12-18 — DEBATE - The House proceeded with forty minutes of debate on S. 2730.
+- 2020-12-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-18 — Ms. Norton moved to suspend the rules and pass the bill.
+- 2020-12-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7270)
+- 2020-12-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-12-21 — Presented to President.
+- 2020-12-21 — Presented to President.
+- 2020-12-31 — Became Public Law No: 116-280.
+- 2020-12-31 — Became Public Law No: 116-280.
+- 2020-12-31 — Signed by President.
+- 2020-12-31 — Signed by President.
