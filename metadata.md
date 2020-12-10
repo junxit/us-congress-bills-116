@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3361
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3361
@@ -49,3 +49,4 @@ Reliable Investment in Vital Energy Reauthorization Act
 - 2020-12-09 — Mr. Pallone moved to suspend the rules and pass the bill.
 - 2020-12-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7067-7068)
 - 2020-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-12-10 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 611.
