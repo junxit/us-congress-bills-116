@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5562
 congress: 116
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5562
@@ -63,3 +63,12 @@ To designate the facility of the United States Postal Service located at 4650 Ea
 - 2020-01-08 — Introduced in House
 - 2020-01-08 — Introduced in House
 - 2020-01-08 — Referred to the House Committee on Oversight and Reform.
+- 2020-09-16 — Committee Consideration and Mark-up Session Held.
+- 2020-09-16 — Ordered to be Reported by Unanimous Consent.
+- 2020-12-10 — Committee on Oversight and Reform discharged.
+- 2020-12-10 — Committee on Oversight and Reform discharged.
+- 2020-12-10 — Considered by unanimous consent. (consideration: CR H7135)
+- 2020-12-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-10 — Ms. Kelly (IL) asked unanimous consent to discharge from committee and consider.
+- 2020-12-10 — On passage Passed without objection. (text: CR H7135)
+- 2020-12-10 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7135)
