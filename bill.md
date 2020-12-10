@@ -2,16 +2,14 @@
 legis-num: S. 1130
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 1130
 
-> To amend the Public Health Service Act to improve the health of children and help better understand and enhance awareness about unexpected sudden death in early life.
+That the bill from the Senate (S. 1130) entitled “An Act to amend the Public Health Service Act to improve the health of children and help better understand and enhance awareness about unexpected sudden death in early life.”, do pass with the following
 
-## § 1. Short title
-
-This Act may be cited as the “Scarlett’s Sunshine on Sudden Unexpected Death Act”.
+*Strike all after section 1 and insert the following:*
 
 ## § 2. Amendment to the Public Health Service Act
 
@@ -33,9 +31,10 @@ Part B of title XI of the Public Health Service Act (42 U.S.C. 241 et seq.) is a
   >       - **(i)** improving the completion of death scene investigations and comprehensive autopsies that include a review of clinical history and circumstances of death with appropriate ancillary testing; and
   >       - **(ii)** training medical examiners, coroners, death scene investigators, law enforcement personnel, emergency medical technicians, paramedics, emergency department personnel, and others who perform death scene investigations with respect to the deaths of infants and children, as appropriate;
   >     - **(C)** identifying, developing, and implementing best practices to reduce or prevent sudden unexpected infant death and sudden unexpected death in childhood, including practices to reduce sleep-related infant deaths;
-  >     - **(D)** increasing the voluntary inclusion, in registries established for the purpose of conducting research on sudden unexpected infant death and sudden unexpected death in childhood, of samples of tissues or genetic materials from autopsies that have been collected pursuant to Federal or State law and for which the parent or guardian has provided informed consent for inclusion in such registries; or
-  >     - **(E)** disseminating information and materials to health care professionals and the public on risk factors that contribute to sudden unexpected infant death and sudden unexpected death in childhood, which may include information on risk factors that contribute to sleep-related sudden unexpected infant death or sudden unexpected death in childhood.
-  > - **(b)** *Application* To be eligible to receive a grant or cooperative agreement under subsection (a)(2), a State, Indian Tribe, or Tribal organization shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including information on how such State will ensure activities conducted under this section are coordinated with other federally-funded programs to reduce infant mortality, as appropriate.
+  >     - **(D)** increasing the voluntary inclusion, in registries established for the purpose of conducting research on sudden unexpected infant death and sudden unexpected death in childhood, of samples of tissues or genetic materials from autopsies that have been collected pursuant to Federal or State law and for which the parent or guardian has provided informed consent for inclusion in such registries;
+  >     - **(E)** disseminating information and materials to health care professionals and the public on risk factors that contribute to sudden unexpected infant death and sudden unexpected death in childhood, which may include information on risk factors that contribute to sleep-related sudden unexpected infant death or sudden unexpected death in childhood; or
+  >     - **(F)** providing information, referrals, or peer or follow-up support services to families who have experienced sudden unexpected infant death or sudden unexpected death in childhood.
+  > - **(b)** *Application* To be eligible to receive a grant or cooperative agreement under subsection (a)(2), a State, Indian Tribe, or Tribal organization shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including information on how such State will ensure activities conducted under this section are coordinated with other federally-funded programs to reduce infant and child mortality, as appropriate.
   > - **(c)** *Technical assistance* The Secretary shall provide technical assistance to States, Tribes, and Tribal organizations receiving a grant or cooperative agreement under subsection (a)(2) for purposes of carrying out the program in accordance with this section.
   > - **(d)** *Reporting forms*
   >   - **(1)** *In general* The Secretary shall, as appropriate, encourage the use of sudden unexpected infant death and sudden unexpected death in childhood reporting forms developed in collaboration with the Centers for Disease Control and Prevention to improve the quality of data submitted to the Sudden Unexpected Infant Death and Sudden Death in the Young Case Registry, and other fatality case reporting systems that include data pertaining to sudden unexpected infant death and sudden unexpected death in childhood.
@@ -45,7 +44,7 @@ Part B of title XI of the Public Health Service Act (42 U.S.C. 241 et seq.) is a
   >   - **(2)** *Sudden unexpected infant death* The term sudden unexpected infant death means the sudden death of an infant under 1 year of age that when first discovered did not have an obvious cause. Such term includes such deaths that are explained, as well as deaths that remain unexplained (which are known as sudden infant death syndrome).
   >   - **(3)** *Sudden unexpected death in childhood* The term sudden unexpected death in childhood means the sudden death of a child who is at least 1 year of age but not more than 17 years of age that, when first discovered, did not have an obvious cause. Such term includes such deaths that are explained, as well as deaths that remain unexplained (which are known as sudden unexplained death in childhood).
   >   - **(4)** *Sudden unexplained death in childhood* The term sudden unexplained death in childhood means a sudden unexpected death in childhood that remains unexplained after a thorough case investigation.
-  > - **(f)** *Authorization of appropriations* For the purpose of carrying out this section, there is authorized to be appropriated $12,000,000 for each of fiscal years 2021 through 2025.
+  > - **(f)** *Authorization of appropriations* For the purpose of carrying out this section, there is authorized to be appropriated $12,000,000 for each of fiscal years 2022 through 2026.
 
 ## § 3. Report to Congress
 
