@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1031
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,30 +11,34 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Duck Boat Safety Enhancement Act of 2019”.
+This Act may be cited as the “Duck Boat Safety Enhancement Act of 2020”.
 
 ## § 2. Safety requirements for amphibious passenger vessels
 
-- **(a)** *Remaining afloat and upright in the event of flooding*
-  - **(1)** *Regulations required* Not later than 180 days after the date of the enactment of this Act, the Commandant of the Coast Guard shall prescribe in regulations that operators of amphibious passenger vessels provide reserve buoyancy for such vessels through passive means, including watertight compartmentalization, built-in flotation, or such other means as the Commandant shall specify in the regulations, in order to ensure that such vessels remain afloat and upright in the event of flooding, including when carrying a full complement of passengers and crew.
-  - **(2)** *Interim requirements* Commencing as of the date the regulations required by paragraph (1) are prescribed, the Commandant of the Coast Guard shall require that operators of amphibious passenger vessels that are not in compliance with the requirements in the regulations do the following:
-    - **(A)** Remove the canopies of such vessels for waterborne operations, or install in such vessels a Coast Guard-approved canopy that does not restrict either horizontal or vertical escape by passengers in the event of flooding or sinking.
-    - **(B)** If the canopy is removed from any such vessel pursuant to subparagraph (A), require that all passengers don a Coast Guard type-approved personal flotation device before the onset of waterborne operations of such vessel.
-    - **(C)** Reengineer such vessels to permanently close all unnecessary access plugs and to reduce all through-hull penetrations to the minimum number and size necessary for operation.
-    - **(D)** Install in such vessels independently powered electric bilge pumps that are capable of dewatering such vessels at the volume of the largest remaining penetration in order to supplement either an operable Higgins pump or a dewatering pump of equivalent or greater capacity.
-    - **(E)** Install in such vessels not fewer than four independently powered bilge alarms.
-    - **(F)** Inspect any such vessel in water after each time a through-hull penetration of such vessel has been removed or uncovered.
-    - **(G)** Verify the watertight integrity of any such vessel in the water at the outset of each waterborne departure of such vessel.
-  - **(3)** *Prohibition on operation of noncompliant vessels* The following amphibious passenger vessels may not operate on United States waterways:
-    - **(A)** Commencing as of the date the regulations required by paragraph (1) are prescribed, any amphibious passenger vessel whose configuration or operation does not comply with the requirements in paragraph (2).
-    - **(B)** Commencing as of the date specified by the Commandant of the Coast Guard pursuant to subsection (d), any amphibious passenger vessel whose configuration or operation does not comply with the requirements in the regulations under paragraph (1).
-- **(b)** *Severe weather emergency preparedness* Not later than 180 days after the date of the enactment of this Act, the Commandant of the Coast Guard shall prescribe in regulations—
-  - **(1)** the limiting environmental conditions, such as weather, in which amphibious passenger vessels may safely operate, and a requirement that such limiting conditions be described in the certificate of inspection of each amphibious passenger vessel;
-  - **(2)** that an operator of an amphibious passenger vessel—
-    - **(A)** check the National Weather Service forecast before getting underway and periodically while underway; and
+- **(a)** *Safety improvements*
+  - **(1)** *Buoyancy requirements* Not later than 1 year after the date of completion of a Coast Guard contracted assessment by the National Academies of Sciences, Engineering, and Medicine of the technical feasibility, practicality, and safety benefits of providing reserve buoyancy through passive means on amphibious passenger vessels, the Secretary of the department in which the Coast Guard is operating may initiate a rulemaking to prescribe in regulations that operators of amphibious passenger vessels provide reserve buoyancy for such vessels through passive means, including watertight compartmentalization, built-in flotation, or such other means as the Secretary may specify in the regulations, in order to ensure that such vessels remain afloat and upright in the event of flooding, including when carrying a full complement of passengers and crew.
+  - **(2)** *Interim requirements* Not later than 90 days after the date of enactment of this Act, the Secretary of the department in which the Coast Guard is operating shall initiate a rulemaking to implement interim safety policies or other measures to require that operators of amphibious passenger vessels operating in waters subject to the jurisdiction of the United States, as defined in section 2.38 of title 33, Code of Federal Regulations (or a successor regulation) comply with the following:
+    - **(A)** Remove the canopies of such vessels for waterborne operations, or install in such vessels a canopy that does not restrict either horizontal or vertical escape by passengers in the event of flooding or sinking.
+    - **(B)** If the canopy is removed from such vessel pursuant to subparagraph (A), require that all passengers don a Coast Guard type-approved personal flotation device before the onset of waterborne operations of such vessel.
+    - **(C)** Install in such vessels at least one independently powered electric bilge pump that is capable of dewatering such vessels at the volume of the largest remaining penetration in order to supplement the vessel’s existing bilge pump required under section 182.520 of title 46, Code of Federal Regulations (or a successor regulation).
+    - **(D)** Verify the watertight integrity of such vessel in the water at the outset of each waterborne departure of such vessel.
+- **(b)** *Regulations required* Not later than 2 years after the date of enactment of this Act, the Secretary of the department in which the Coast Guard is operating shall initiate a rulemaking for amphibious passenger vessels operating in waters subject to the jurisdiction of the United States, as defined in section 2.38 of title 33, Code of Federal Regulations (or a successor regulation). The regulations shall include, at a minimum, the following:
+  - **(1)** *Severe weather emergency preparedness* Requirements that an operator of an amphibious passenger vessel—
+    - **(A)** check and notate in the vessel’s logbook the National Weather Service forecast before getting underway and periodically while underway;
     - **(B)** in the case of a watch or warning issued for wind speeds exceeding the wind speed equivalent used to certify the stability of an amphibious passenger vessel, proceed to the nearest harbor or safe refuge; and
-  - **(3)** that an amphibious passenger vessel certified to operate on partially protected waters have a weather monitor radio receiver at the operator station that may be automatically activated by the warning alarm device of the National Weather Service.
-- **(c)** *Additional safety measures* Not later than 180 days after the date of the enactment of this Act, the Commandant of the Coast Guard shall prescribe in regulations that—
-  - **(1)** operators of amphibious passenger vessels inform passengers that seat belts may not be worn during waterborne operations; and
-  - **(2)** before the commencement of waterborne operations, a crew member visually check that each passenger has unbuckled his or her seatbelt.
-- **(d)** *Deadline for compliance* The regulations required by subsections (a) through (c) shall require compliance with the requirements in the regulations by operators of amphibious passenger vessels by such date, not later than 2 years after the date of the enactment of this Act, as the Commandant shall specify in the regulations.
+    - **(C)** maintain and monitor a weather monitor radio receiver at the operator station that may be automatically activated by the warning alarm device of the National Weather Service.
+  - **(2)** *Passenger safety* Requirements—
+    - **(A)** concerning whether personal flotation devices should be required for the duration of an amphibious passenger vessel’s waterborne transit, which shall be considered and determined by the Secretary;
+    - **(B)** that operators of amphibious passenger vessels inform passengers that seat belts may not be worn during waterborne operations;
+    - **(C)** that before the commencement of waterborne operations, a crew member visually check that each passenger has unbuckled the passenger’s seatbelt; and
+    - **(D)** that operators or crew maintain a log recording the actions described in subparagraphs (B) and (C).
+  - **(3)** *Training* Requirement for annual training for operators and crew of amphibious passengers vessels, including—
+    - **(A)** training for personal flotation and seat belt requirements, verifying the integrity of the vessel at the onset of each waterborne departure, identification of weather hazards, and use of National Weather Service resources prior to operation; and
+    - **(B)** training for crewmembers to respond to emergency situations, including flooding, engine compartment fires, man overboard situations, and in water emergency egress procedures.
+  - **(4)** *Recommendations from reports* Requirements to address recommendations from the following reports, as practicable and to the extent that such recommendations are under the jurisdiction of the Coast Guard:
+    - **(A)** The National Transportation Safety Board’s Safety Recommendation Reports on the Amphibious Passenger Vessel incidents in Table Rock, Missouri, Hot Springs, Arkansas, and Seattle, Washington.
+    - **(B)** The Coast Guard’s Marine Investigation Board reports on the Stretch Duck 7 sinkings at Table Rock, Missouri, and the Miss Majestic sinking near Hot Springs, Arkansas.
+  - **(5)** *Interim requirements* The interim requirements described in subsection (a)(2), as appropriate.
+- **(c)** *Prohibition on operation of noncompliant vessels* Commencing as of the date specified by the Secretary of the department in which the Coast Guard is operating pursuant to subsection (d), any amphibious passenger vessel whose configuration or operation does not comply with the requirements under subsection (a)(2) (or subsection (a)(1), if prescribed) may not operate in waters subject to the jurisdiction of the United States, as defined in section 2.38 of title 33, Code of Federal Regulations (or a successor regulation).
+- **(d)** *Deadline for compliance* The regulations and interim requirements described in subsections (a) and (b) shall require compliance with the requirements in the regulations not later than 2 years after the date of the enactment of this Act, as the Secretary of the department in which the Coast Guard is operating may specify in the regulations.
+- **(e)** *Report* Not later than 180 days after the promulgation of the regulations required under subsection (a), the Commandant of the Coast Guard shall provide a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives regarding the status of the implementation of the requirements included in such regulations.
