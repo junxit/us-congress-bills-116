@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5541
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5541
@@ -21,10 +21,11 @@ Tribal Power Act
 - Rep. Mullin, Markwayne [R-OK-2] (M001190)
 - Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Tribal Power Act
 - 2020-12-09 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
 - 2020-12-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7068-7069)
 - 2020-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-12-10 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
