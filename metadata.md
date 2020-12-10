@@ -1,7 +1,7 @@
 ---
 measure: S. 1310
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1310
@@ -43,3 +43,17 @@ Organization of American States Legislative Engagement Act of 2020
 - 2020-12-10 — Senate amendment proposed (on the floor): Amendment SA 2700 proposed by Senator Cornyn for Senator Wicker.
 - 2020-12-10 — Senate amendment submitted
 - 2020-12-10 — The committee substitute withdrawn by Unanimous Consent. (CR S7397)
+- 2020-12-11 — Message on Senate action sent to the House.
+- 2020-12-14 — Held at the desk.
+- 2020-12-14 — Received in the House.
+- 2020-12-31 — Considered by unanimous consent. (consideration: CR H9170-9172)
+- 2020-12-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-31 — Mrs. Dingell asked unanimous consent to take from the Speaker's table and consider.
+- 2020-12-31 — On passage Passed without objection. (text: CR H9171-9172)
+- 2020-12-31 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9171-9172)
+- 2021-01-01 — Presented to President.
+- 2021-01-01 — Presented to President.
+- 2021-01-13 — Became Public Law No: 116-343.
+- 2021-01-13 — Became Public Law No: 116-343.
+- 2021-01-13 — Signed by President.
+- 2021-01-13 — Signed by President.
