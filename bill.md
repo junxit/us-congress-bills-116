@@ -21,9 +21,8 @@ In this Act:
 - **(2)** *Tribal organization* The term Tribal organization has the meaning given the term “tribal organization” in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
 - **(3)** *Young fisherman* The term young fisherman means an individual who—
   - **(A)** desires to participate in the commercial fisheries of the United States, including the Great Lakes fisheries;
-  - **(B)** has worked as a captain, crew member, or deckhand on a commercial fishing vessel for not more than 10 years of cumulative service;
-  - **(C)** is a beginning commercial fisherman; or
-  - **(D)** is less than 35 years of age.
+  - **(B)** has worked as a captain, crew member, or deckhand on a commercial fishing vessel for not more than 10 years of cumulative service; or
+  - **(C)** is a beginning commercial fisherman.
 
 ## § 3. Establishment of program
 
@@ -69,4 +68,5 @@ The Secretary of Commerce, acting through the National Sea Grant Office, shall e
 
 ## § 5. Funding
 
-Of the amount made available to the Secretary of Commerce under section 311(e) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1861(e)) for each of fiscal years 2021 through 2025, the Secretary shall use $2,000,000 to carry out section 4 of this Act.
+- **(a)** *Authorizations* There are authorized to be appropriated to carry out this Act $2,000,000 for each of fiscal years 2022 through 2026.
+- **(b)** *Derivation* Funds to carry out the activities under this Act shall be derived from amounts authorized to be appropriated pursuant to the preceding subsection that are enacted after the date of the enactment of this Act.
