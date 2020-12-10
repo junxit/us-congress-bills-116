@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1570
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1570
@@ -363,10 +363,11 @@ Removing Barriers to Colorectal Cancer Screening Act of 2020
 - Rep. Taylor, Van [R-TX-3] (T000479)
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -384,3 +385,4 @@ Removing Barriers to Colorectal Cancer Screening Act of 2020
 - 2020-12-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7083-7084)
 - 2020-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2020-12-09 — The title of the measure was amended. Agreed to without objection.
+- 2020-12-10 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
