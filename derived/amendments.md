@@ -1,7 +1,7 @@
 ---
 measure: S. 1130
 congress: 116
-version: Engrossed in Senate
+version: Engrossed Amendment House
 derived: true
 ---
 

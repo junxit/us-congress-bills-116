@@ -1,7 +1,7 @@
 ---
 measure: S. 1130
 congress: 116
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 1130
@@ -50,3 +50,17 @@ Scarlett's Sunshine on Sudden Unexpected Death Act
 - 2020-05-20 — Senate amendment proposed (on the floor): Amendment SA 1590 proposed by Senator Portman for Senator Alexander.
 - 2020-05-20 — Senate amendment submitted
 - 2020-05-20 — The committee substitute withdrawn by Unanimous Consent. (CR S2561)
+- 2020-05-22 — Held at the desk.
+- 2020-05-22 — Message on Senate action sent to the House.
+- 2020-05-22 — Received in the House.
+- 2020-12-10 — Amendment (A001) offered by Mrs. Dingell. (consideration: CR H7132-7133; text: CR H7132-7133)
+- 2020-12-10 — Amendment agreed to by House: On agreeing to the Dingell amendment (A001) Agreed to without objection.
+- 2020-12-10 — Considered by unanimous consent. (consideration: CR H7132-7133; text: CR H7132)
+- 2020-12-10 — House amendment agreed to: On agreeing to the Dingell amendment (A001) Agreed to without objection.
+- 2020-12-10 — House amendment offered
+- 2020-12-10 — House amendment offered/reported by: Amendment (A001) offered by Mrs. Dingell.
+- 2020-12-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-10 — Mrs. Dingell asked unanimous consent to take from the Speaker's table and consider.
+- 2020-12-10 — On agreeing to the Dingell amendment (A001) Agreed to without objection.
+- 2020-12-10 — On passage Passed without objection.
+- 2020-12-10 — Passed/agreed to in House: On passage Passed without objection.
