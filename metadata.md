@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1520
 congress: 116
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1520
@@ -62,3 +62,13 @@ Further Extension of Continuing Appropriations Act, 2021
 - 2019-05-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 421 - 0 (Roll no. 188). (text: CR H3485-3486)
 - 2019-05-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 421 - 0 (Roll no. 188).(text: CR H3485-3486)
 - 2019-05-09 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2020-12-10 — Amendment SA 2699 agreed to in Senate by Unanimous Consent.
+- 2020-12-10 — Amendment SA 2699 proposed by Senator Cornyn for Senator Alexander. (consideration: CR S7396-7397; text: CR S7396-7397) In the nature of a substitute.
+- 2020-12-10 — Measure laid before Senate by unanimous consent. (consideration: CR S7396-7397)
+- 2020-12-10 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S7396-7397)
+- 2020-12-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text of amendment in the nature of a substitute: CR S7396-7397)
+- 2020-12-10 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2020-12-10 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2020-12-10 — Senate amendment agreed to: Amendment SA 2699 agreed to in Senate by Unanimous Consent.
+- 2020-12-10 — Senate amendment proposed (on the floor): Amendment SA 2699 proposed by Senator Cornyn for Senator Alexander.
+- 2020-12-10 — Senate amendment submitted
