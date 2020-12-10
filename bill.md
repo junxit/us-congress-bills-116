@@ -2,7 +2,7 @@
 legis-num: H. RES. 1181
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1181
@@ -16,10 +16,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the work of President Carter's Commission on Mental Health resulted in passage of the Mental Health Systems Act of 1980, which offered reforms to publicly funded mental health programs;
 - Whereas, in 1982, President and Mrs. Carter founded The Carter Center, which is dedicated to improving the quality of life for people in the United States and in the developing world through programs that promote peace and health;
 - Whereas, from 1985 to 2016, Mrs. Carter hosted the annual Rosalynn Carter Symposium on Mental Health Policy, bringing together national leaders in the mental health community to discuss a specific topic each year, including promoting access to appropriate and affordable behavioral health care services, improving the quality of such services, and reducing the stigma and isolation associated with mental health disorders and substance use disorders;
-- Whereas The Carter Center’s Mental Health Program, established in 1990 and continuing under the leadership and guidance of Mrs. Carter, strives to build consensus in order to effect positive change in mental health and substance use policy and systems, with a focus on vulnerable populations, including children and the elderly;
+- Whereas The Carter Center’s Mental Health Program, established in 1991 and continuing under the leadership and guidance of Mrs. Carter, strives to build consensus in order to effect positive change in mental health and substance use policy and systems, with a focus on vulnerable populations, including children and the elderly;
 - Whereas, in 1996, Mrs. Carter established the Rosalynn Carter Fellowships for Mental Health Journalism, which have provided training and support to more than 220 journalists in the United States and abroad to report accurately and sensitively about and reduce the stigma surrounding mental health disorders, mental health care, mental health law and policy, and related issues;
 - Whereas Mrs. Carter, in 2008, played a key role in supporting the passage of the Paul Wellstone and Pete Domenici Mental Health Parity and Addiction Equity Act, which helps ensure that mental health disorders and substance use disorders are covered by insurance at parity with other illnesses;
-- Whereas Mrs. Carter, who has long been a champion of the physical and mental health, strength, and resilience of family caregivers, established the Rosalynn Carter Institute for Caregiving in 1987, where she continues to serve as President of the Board of Directors;
+- Whereas Mrs. Carter, who has long been a champion of the physical and mental health, strength, and resilience of family caregivers, established the Rosalynn Carter Institute for Caregiving in 1987, where she continues to serve as Chair of the Advisory Board;
 - Whereas, throughout Mrs. Carter’s 50 years of advocacy for mental health, she has been an effective champion for the elimination of stigma and discrimination against people with mental health disorders, which are among the most common health conditions around the world; and
 - Whereas, at 93 years of age, Mrs. Carter continues her devoted work to improving the lives of those affected by mental health disorders and substance use disorders in the United States and around the world: Now, therefore, be it
 
