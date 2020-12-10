@@ -13,43 +13,14 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 This Act may be cited as the “Drone Advisory Committee for the 21st Century Act”.
 
-## § 2. Findings
+## § 2. Sense of congress
 
-Congress finds the following:
+It is the Sense of Congress that:
 
-- **(1)** In 2016, a Drone Advisory Committee (in this section referred to as the “DAC”) was established at the Federal Aviation Administration (in this Act referred to as the “FAA”) as a broad-based, long-term Federal advisory committee to provide the FAA with advice on key unmanned aircraft systems (in this Act referred to as “UAS”) integration issues by helping to identify challenges and prioritize improvements.
-- **(2)** Pursuant to FAA Order 1110.157, dated June 15, 2018, the DAC is charged with helping create broad support for an overall UAS integration strategy and vision.
-- **(3)** As of the date of introduction of this legislation, no direct representatives from rural America or the agriculture, forestry, or rangeland sectors were members of the DAC.
-- **(4)** According to the FAA’s 2019 market forecast, the market for UAS is growing faster than anticipated.
-- **(5)** The agricultural drone market has an estimated value in the realm of $250,000,000 and is predicted to grow substantially.
-- **(6)** Recent studies have suggested as many as three out of every four farmers in the United States “are currently using or considering adopting [UAS] technology to assess, monitor and manage their farm”.
-- **(7)** Rural counties are the majority of counties in the United States.
-- **(8)** Pursuant to the Federal Advisory Committee Act, Congress is to determine whether or not the Federal advisory committees are “fairly balanced in terms of the points of view represented”.
+- **(1)** Due to the ever-increasing use of Unmanned Aircraft Systems in the agriculture, forestry, and rangeland sectors, as well as the inherently different uses in less populated parts of the nation, membership of the Drone Advisory Committee established by the Federal Aviation Administration should, to the extent practicable, include direct representatives from county and tribal government, agriculture, forestry, and rangeland interests.
+- **(2)** Full transparency in the work of the Drone Advisory Committee is vital to ensuring the public can effectively participate and contribute to the development of sound Federal policies. The Administrator of the Federal Aviation Administration should, to the maximum extent practicable, ensure the work of the Drone Advisory Committee is shared with and easily accessible to the public and shall ensure transparency and openness in the manner in which the affairs of the Committee are conducted.
 
-## § 3. Drone Advisory Committee
+## § 3. Drone advisory committee membership
 
-- **(a)** *Establishment* The FAA shall maintain a Drone Advisory Committee (in this section referred to as the “Committee”).
-- **(b)** *Duties* The Committee shall provide independent advice and recommendations to, and respond to specific other tasks requested by, the FAA regarding issues involving the efficiency and safety of integrating unmanned aircraft systems into the National Airspace System.
-- **(c)** *Charter*
-  - **(1)** *In general* There shall be a charter to govern the structure and mission of the Committee.
-  - **(2)** *Updates* The Administrator of the FAA (in this section referred to as the “Administrator”) shall—
-    - **(A)** review the charter under paragraph (1) not less frequently than once every two years; and
-    - **(B)** update such charter as appropriate.
-- **(d)** *Membership*
-  - **(1)** *In general* The Committee shall consist of individuals with a balance of backgrounds, experiences, and viewpoints, and shall include individuals that directly represent—
-    - **(A)** airports and airport communities;
-    - **(B)** labor (such as controllers and pilots);
-    - **(C)** State, county, city, and Tribal governments;
-    - **(D)** navigation, communication, surveillance, and air traffic management capability providers;
-    - **(E)** research, development, and academia;
-    - **(F)** traditional manned aviation operators;
-    - **(G)** UAS hardware component manufacturers;
-    - **(H)** UAS manufacturers;
-    - **(I)** UAS operators, including agriculture, forestry, and rangeland sectors;
-    - **(J)** UAS software application manufacturers; and
-    - **(K)** other sectors determined appropriate by the Administrator.
-  - **(2)** *Public participation* To the maximum extent practicable, the Administrator shall include public participation in the process of nominating individuals for membership on the Committee.
-- **(e)** *Transparency* The Administrator shall ensure that the Committee complies with the requirements under—
-  - **(1)** the Federal Advisory Committee Act (5 U.S.C. App.); and
-  - **(2)** section 552b of title 5, United States Code (commonly known as the “Government in the Sunshine Act”).
-- **(f)** *Funding* There are authorized to be appropriated such sums as may be necessary to carry out this section.
+- **(1)** *In general* The Federal Aviation Administration shall take appropriate steps to encourage direct representation of county and tribal governments as well as agriculture, forestry, rangeland sectors, and other rural interests on the Drone Advisory Committee.
+- **(2)** *Public participation* To the maximum extent practicable, the Administrator shall include public participation in the process of nominating individuals for membership on the Committee.

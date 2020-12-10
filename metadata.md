@@ -1,7 +1,7 @@
 ---
 measure: S. 2730
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2730
@@ -33,3 +33,5 @@ Drone Advisory Committee for the 21st Century Act
 - 2020-09-30 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-272.
 - 2020-09-30 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-272.
 - 2020-09-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 560.
+- 2020-12-10 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7431-7432; text: CR S7431-7432)
+- 2020-12-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S7431-7432; text: CR S7431-7432)
