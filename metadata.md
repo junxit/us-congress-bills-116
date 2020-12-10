@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1966
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1966
@@ -121,3 +121,14 @@ Henrietta Lacks Enhancing Cancer Research Act of 2019
 - 2020-12-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7086)
 - 2020-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2020-12-10 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2020-12-18 — Passed Senate without amendment by Unanimous Consent.
+- 2020-12-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-12-18 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2020-12-18 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S7829)
+- 2020-12-20 — Message on Senate action sent to the House.
+- 2020-12-24 — Presented to President.
+- 2020-12-24 — Presented to President.
+- 2021-01-05 — Became Public Law No: 116-291.
+- 2021-01-05 — Became Public Law No: 116-291.
+- 2021-01-05 — Signed by President.
+- 2021-01-05 — Signed by President.
