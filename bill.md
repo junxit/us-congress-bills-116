@@ -1,0 +1,43 @@
+---
+legis-num: H.R. 8944
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8944
+
+> To amend the Family and Medical Leave Act of 1993 and the Emergency Paid Sick Leave Act to include leave for employees who are unable to work due to minor children in optional virtual or hybrid learning, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Access To Health-based Options and More Ease with Learning Act” or the “AT HOME Learning Act”.
+
+## § 2. Family and Medical Leave Act of 1993
+
+- **(a)** *Emergency leave extension* Section 102(a)(1)(F) of the Family and Medical Leave Act of 1993 (29 U.S.C. 2612(a)(1)(F)) is amended by striking “December 31, 2020” and inserting “June 25, 2021”.
+- **(b)** *Qualifying need related to a public health emergency* Section 110(a)(2)(A) of the Family and Medical Leave Act of 1993 (29 U.S.C. 2620(a)(2)(A)) is amended to read as follows:
+  > - **(A)** *Qualifying need related to a public health emergency* The term qualifying need related to a public health emergency, with respect to leave, means the employee is unable to work (or telework) due to a need for leave to care for the son or daughter of such employee if, due to COVID–19—
+  >   - **(i)** the child care provider of such son or daughter is unavailable;
+  >   - **(ii)** the school or place of care of such son or daughter is closed; or
+  >   - **(iii)** the school of such son or daughter—
+  >     - **(I)** requires or makes optional a virtual learning instruction model; or
+  >     - **(II)** requires or makes optional a hybrid of in-person and virtual learning instruction models.
+
+## § 3. Emergency Paid Sick Leave Act
+
+- **(a)** *Paid sick time requirement* Section 5102(a)(5) of the Emergency Paid Sick Leave Act (29 U.S.C. 2601 note) is amended to read as follows:
+  > - **(5)** The employee is caring for a son or daughter of such employee if, due to COVID–19—
+  >   - **(A)** the child care provider of such son or daughter is unavailable;
+  >   - **(B)** the school or place of care of such son or daughter is closed; or
+  >   - **(C)** the school of such son or daughter—
+  >     - **(i)** requires or makes optional a virtual learning instruction model; or
+  >     - **(ii)** requires or makes optional a hybrid of in-person and virtual learning instruction models.
+
+- **(b)** *Allowing employees To access the balance of their emergency paid sick leave entitlement* Section 5102 of the Emergency Paid Sick Leave Act (29 U.S.C. 2601 note) is amended by striking subsection (b)(3).
+- **(c)** *Emergency paid sick leave extension* Section 5109 of the Emergency Paid Sick Leave Act (29 U.S.C. 2601 note) is amended by striking “December 31, 2020” and inserting “June 25, 2021”.
+
+## § 4. Tax credits for paid sick and paid family and medical leave
+
+- **(a)** *Paid sick leave* Section 7001(g) of the Families First Coronavirus Response Act (26 U.S.C. 3111 note) is amended by striking “December 31, 2020” and inserting “June 25, 2021”.
+- **(b)** *Paid family leave* Section 7003(g) of the Families First Coronavirus Response Act (26 U.S.C. 3111 note) is amended by striking “December 31, 2020” and inserting “June 25, 2021”.
