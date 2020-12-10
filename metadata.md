@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1966
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1966
@@ -97,11 +97,12 @@ Henrietta Lacks Enhancing Cancer Research Act of 2019
 - Rep. Kim, Andy [D-NJ-3] (K000394)
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 
-## Committees (3)
+## Committees (4)
 
 - House — Energy and Commerce Committee
 - House — Armed Services Committee
 - House — Veterans' Affairs Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -119,3 +120,4 @@ Henrietta Lacks Enhancing Cancer Research Act of 2019
 - 2020-12-09 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
 - 2020-12-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7086)
 - 2020-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-12-10 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
