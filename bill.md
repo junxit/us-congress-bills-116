@@ -1,15 +1,17 @@
 ---
 legis-num: S. 1130
-congress: 116th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Sixteenth Congress of the United States of America
+session: 2d Sess.
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 1130
 
-That the bill from the Senate (S. 1130) entitled “An Act to amend the Public Health Service Act to improve the health of children and help better understand and enhance awareness about unexpected sudden death in early life.”, do pass with the following
+> To amend the Public Health Service Act to improve the health of children and help better understand and enhance awareness about unexpected sudden death in early life.
 
-*Strike all after section 1 and insert the following:*
+## § 1. Short title
+
+This Act may be cited as the “Scarlett’s Sunshine on Sudden Unexpected Death Act”.
 
 ## § 2. Amendment to the Public Health Service Act
 

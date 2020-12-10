@@ -1,7 +1,7 @@
 ---
 measure: S. 1130
 congress: 116
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 1130
@@ -64,3 +64,13 @@ Scarlett's Sunshine on Sudden Unexpected Death Act
 - 2020-12-10 — On agreeing to the Dingell amendment (A001) Agreed to without objection.
 - 2020-12-10 — On passage Passed without objection.
 - 2020-12-10 — Passed/agreed to in House: On passage Passed without objection.
+- 2020-12-11 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2020-12-16 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 1130 by Voice Vote.(consideration: CR S7555-7556)
+- 2020-12-16 — Senate agreed to the House amendment to S. 1130 by Voice Vote. (consideration: CR S7555-7556)
+- 2020-12-17 — Message on Senate action sent to the House.
+- 2020-12-21 — Presented to President.
+- 2020-12-21 — Presented to President.
+- 2020-12-31 — Became Public Law No: 116-273.
+- 2020-12-31 — Became Public Law No: 116-273.
+- 2020-12-31 — Signed by President.
+- 2020-12-31 — Signed by President.
