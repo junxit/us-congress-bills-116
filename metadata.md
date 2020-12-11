@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5459
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5459
@@ -45,3 +45,14 @@ Rocky Mountain National Park Ownership Correction Act
 - 2020-12-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (consideration: CR H7123)
 - 2020-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(consideration: CR H7123)
 - 2020-12-11 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2020-12-19 — Passed Senate without amendment by Voice Vote.
+- 2020-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2020-12-19 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2020-12-19 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent. (consideration: CR S7853)
+- 2020-12-20 — Message on Senate action sent to the House.
+- 2020-12-24 — Presented to President.
+- 2020-12-24 — Presented to President.
+- 2021-01-05 — Became Public Law No: 116-302.
+- 2021-01-05 — Became Public Law No: 116-302.
+- 2021-01-05 — Signed by President.
+- 2021-01-05 — Signed by President.
