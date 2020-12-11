@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5459
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5459
@@ -20,9 +20,10 @@ Rocky Mountain National Park Ownership Correction Act
 
 - Rep. Lamborn, Doug [R-CO-5] (L000564)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Rocky Mountain National Park Ownership Correction Act
 - 2020-12-10 — Mr. Huffman moved to suspend the rules and pass the bill.
 - 2020-12-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (consideration: CR H7123)
 - 2020-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(consideration: CR H7123)
+- 2020-12-11 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
