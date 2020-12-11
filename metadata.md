@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7489
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7489
@@ -31,9 +31,10 @@ Long Bridge Act of 2020
 - Rep. McEachin, A. Donald [D-VA-4] (M001200)
 - Rep. Riggleman, Denver [R-VA-5] (R000611)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -54,3 +55,4 @@ Long Bridge Act of 2020
 - 2020-12-10 — Mr. Huffman moved to suspend the rules and pass the bill, as amended.
 - 2020-12-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7125)
 - 2020-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7125)
+- 2020-12-11 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
