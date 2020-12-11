@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6016
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6016
@@ -45,3 +45,4 @@ To designate the facility of the United States Postal Service located at 14955 W
 - 2020-12-10 — Ms. Kelly (IL) asked unanimous consent to discharge from committee and consider.
 - 2020-12-10 — On passage Passed without objection. (text: CR H7136)
 - 2020-12-10 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7136)
+- 2020-12-11 — Received in the Senate, read twice.
