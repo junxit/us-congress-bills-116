@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5972
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5972
@@ -36,9 +36,10 @@ Mary Ann Shadd Cary Post Office Dedication Act
 - Rep. Waters, Maxine [D-CA-43] (W000187)
 - Rep. Hayes, Jahana [D-CT-5] (H001081)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -54,3 +55,4 @@ Mary Ann Shadd Cary Post Office Dedication Act
 - 2020-12-10 — Ms. Kelly (IL) asked unanimous consent to discharge from committee and consider.
 - 2020-12-10 — On passage Passed without objection. (text: CR H7135)
 - 2020-12-10 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7135)
+- 2020-12-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
