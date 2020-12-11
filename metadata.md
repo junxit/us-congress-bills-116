@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5983
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5983
@@ -69,9 +69,10 @@ To designate the facility of the United States Postal Service located at 4150 Ch
 - Rep. McCarthy, Kevin [R-CA-23] (M001165)
 - Rep. Nunes, Devin [R-CA-22] (N000181)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -87,3 +88,4 @@ To designate the facility of the United States Postal Service located at 4150 Ch
 - 2020-12-10 — Ms. Kelly (IL) asked unanimous consent to discharge from committee and consider.
 - 2020-12-10 — On passage Passed without objection. (text: CR H7135)
 - 2020-12-10 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7135)
+- 2020-12-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
