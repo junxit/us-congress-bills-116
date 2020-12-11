@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7098
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7098
@@ -21,9 +21,10 @@ Saguaro National Park Boundary Expansion and Study Act of 2020
 - Rep. O'Halleran, Tom [D-AZ-1] (O000171)
 - Rep. Kirkpatrick, Ann [D-AZ-2] (K000368)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Saguaro National Park Boundary Expansion and Study Act of 2020
 - 2020-12-10 — Mr. Huffman moved to suspend the rules and pass the bill, as amended.
 - 2020-12-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7124)
 - 2020-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7124)
+- 2020-12-11 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
