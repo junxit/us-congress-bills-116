@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6161
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6161
@@ -30,9 +30,10 @@ To designate the facility of the United States Postal Service located at 1585 Ya
 - Rep. Bishop, Dan [R-NC-9] (B001311)
 - Rep. Rouzer, David [R-NC-7] (R000603)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ To designate the facility of the United States Postal Service located at 1585 Ya
 - 2020-12-10 — Ms. Kelly (IL) asked unanimous consent to discharge from committee and consider.
 - 2020-12-10 — On passage Passed without objection. (text: CR H7136)
 - 2020-12-10 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7136)
+- 2020-12-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
