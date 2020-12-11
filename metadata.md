@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6016
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6016
@@ -46,3 +46,12 @@ To designate the facility of the United States Postal Service located at 14955 W
 - 2020-12-10 — On passage Passed without objection. (text: CR H7136)
 - 2020-12-10 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7136)
 - 2020-12-11 — Received in the Senate, read twice.
+- 2020-12-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7644)
+- 2020-12-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-12-18 — Message on Senate action sent to the House.
+- 2020-12-24 — Presented to President.
+- 2020-12-24 — Presented to President.
+- 2021-01-05 — Became Public Law No: 116-308.
+- 2021-01-05 — Became Public Law No: 116-308.
+- 2021-01-05 — Signed by President.
+- 2021-01-05 — Signed by President.
