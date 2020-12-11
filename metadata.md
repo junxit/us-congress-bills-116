@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8611
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8611
@@ -45,9 +45,10 @@ To designate the facility of the United States Postal Service located at 4755 So
 - Rep. Deutch, Theodore E. [D-FL-22] (D000610)
 - Rep. Wilson, Frederica S. [D-FL-24] (W000808)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -61,3 +62,4 @@ To designate the facility of the United States Postal Service located at 4755 So
 - 2020-12-10 — Ms. Kelly (IL) asked unanimous consent to discharge from committee and consider.
 - 2020-12-10 — On passage Passed without objection. (text: CR H7137)
 - 2020-12-10 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7137)
+- 2020-12-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
