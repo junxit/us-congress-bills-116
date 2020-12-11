@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5040
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5040
@@ -54,3 +54,4 @@ Aerial Incursion Repercussion Safety Act of 2020
 - 2020-12-10 — Mr. Huffman moved to suspend the rules and pass the bill, as amended.
 - 2020-12-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 6 (Roll no. 243). (text: CR H7121)
 - 2020-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 6 (Roll no. 243).(text: CR H7121)
+- 2020-12-11 — Received in the Senate.
