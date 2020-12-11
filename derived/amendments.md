@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4764
 congress: 116
-version: Received in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
