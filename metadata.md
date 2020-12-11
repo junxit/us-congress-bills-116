@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4764
 congress: 116
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4764
@@ -95,3 +95,11 @@ TRANSPLANT Act of 2020
 - 2020-09-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 211). (text: CR 09/29/2020 H4996)
 - 2020-09-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 211).
 - 2020-10-01 — Received in the Senate, read twice.
+- 2020-12-11 — Amendment SA 2704 agreed to in Senate by Unanimous Consent.
+- 2020-12-11 — Amendment SA 2704 proposed by Senator McConnell for Senator Alexander. (consideration: CR S7450-7451; text: CR S7450-7451) In the nature of a substitute.
+- 2020-12-11 — Measure laid before Senate by unanimous consent. (consideration: CR S7450-7451)
+- 2020-12-11 — Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: CR S7450-7451)
+- 2020-12-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(text of amendment in the nature of a substitute: CR S7450-7451)
+- 2020-12-11 — Senate amendment agreed to: Amendment SA 2704 agreed to in Senate by Unanimous Consent.
+- 2020-12-11 — Senate amendment proposed (on the floor): Amendment SA 2704 proposed by Senator McConnell for Senator Alexander.
+- 2020-12-11 — Senate amendment submitted
