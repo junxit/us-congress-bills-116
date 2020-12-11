@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7502
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7502
@@ -27,9 +27,10 @@ To designate the facility of the United States Postal Service located at 101 Sou
 - Rep. Vargas, Juan [D-CA-51] (V000130)
 - Rep. Costa, Jim [D-CA-16] (C001059)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ To designate the facility of the United States Postal Service located at 101 Sou
 - 2020-12-10 — Ms. Kelly (IL) asked unanimous consent to discharge from committee and consider.
 - 2020-12-10 — On passage Passed without objection. (text: CR H7136)
 - 2020-12-10 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7136)
+- 2020-12-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
