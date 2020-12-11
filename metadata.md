@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8906
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 8906
@@ -36,3 +36,4 @@ Lifespan Respite Care Reauthorization Act of 2020
 - 2020-12-10 — Mrs. Dingell asked unanimous consent to discharge from committee and consider.
 - 2020-12-10 — On passage Passed without objection. (text: CR H7131)
 - 2020-12-10 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7131)
+- 2020-12-11 — Received in the Senate, read twice.
