@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5972
 congress: 116
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5972
@@ -56,3 +56,14 @@ Mary Ann Shadd Cary Post Office Dedication Act
 - 2020-12-10 — On passage Passed without objection. (text: CR H7135)
 - 2020-12-10 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7135)
 - 2020-12-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2020-12-17 — Passed Senate without amendment by Unanimous Consent.
+- 2020-12-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-12-17 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2020-12-17 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S7643-7644)
+- 2020-12-18 — Message on Senate action sent to the House.
+- 2020-12-24 — Presented to President.
+- 2020-12-24 — Presented to President.
+- 2021-01-05 — Became Public Law No: 116-306.
+- 2021-01-05 — Became Public Law No: 116-306.
+- 2021-01-05 — Signed by President.
+- 2021-01-05 — Signed by President.
