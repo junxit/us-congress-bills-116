@@ -1,7 +1,7 @@
 ---
 measure: H.R. 970
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 970
@@ -21,9 +21,10 @@ Robert E. Lee Statue Removal Act
 - Rep. Trone, David J. [D-MD-6] (T000483)
 - Rep. Raskin, Jamie [D-MD-8] (R000606)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Robert E. Lee Statue Removal Act
 - 2020-12-10 — Mr. Huffman moved to suspend the rules and pass the bill, as amended.
 - 2020-12-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7118)
 - 2020-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7118)
+- 2020-12-11 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
