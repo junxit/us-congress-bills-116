@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8906
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 8906
@@ -37,3 +37,12 @@ Lifespan Respite Care Reauthorization Act of 2020
 - 2020-12-10 — On passage Passed without objection. (text: CR H7131)
 - 2020-12-10 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7131)
 - 2020-12-11 — Received in the Senate, read twice.
+- 2020-12-18 — Passed Senate without amendment by Voice Vote. (consideration: CR S7829)
+- 2020-12-18 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2020-12-20 — Message on Senate action sent to the House.
+- 2020-12-24 — Presented to President.
+- 2020-12-24 — Presented to President.
+- 2021-01-05 — Became Public Law No: 116-324.
+- 2021-01-05 — Became Public Law No: 116-324.
+- 2021-01-05 — Signed by President.
+- 2021-01-05 — Signed by President.
