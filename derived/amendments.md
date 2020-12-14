@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1313
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,3 +34,6 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 1135` | insert | Subparagraph (A) of section 1406(b)(2) of the Implementing Recommendations of the 9/11 Commission Act of 2007 (6 U.S.C. 1135(b)(2); Public Law 110–53) is amended by inserting “and associated backfill” after “security training”. | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 1135` | redesignate | by redesignating subsection (m) as subsection (n); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 1135` | insert | by inserting after subsection (l) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 1135` | insert | Section 1406(b)(2)(A) of the Implementing Recommendations of the 9/11 Commission Act of 2007 (6 U.S.C. 1135(b)(2)(A)) is amended by inserting “and associated backfill” after “security training”. | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 1135` | redesignate | by redesignating subsection (m) as subsection (n); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 1135` | insert | by inserting after subsection (l) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

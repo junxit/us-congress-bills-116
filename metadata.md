@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1313
 congress: 116
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1313
@@ -38,3 +38,7 @@ Transit Security Grant Program Flexibility Act
 - 2019-05-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3756-3757)
 - 2019-05-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3756-3757)
 - 2019-05-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2020-07-22 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2020-12-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-323.
+- 2020-12-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-323.
+- 2020-12-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 626.
