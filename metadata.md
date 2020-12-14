@@ -1,7 +1,7 @@
 ---
 measure: S. 92
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 92
@@ -16,7 +16,7 @@ Regulations from the Executive in Need of Scrutiny Act of 2019
 
 - Sen. Paul, Rand [R-KY] (P000603)
 
-## Cosponsors (34)
+## Cosponsors (42)
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Young, Todd [R-IN] (Y000064)
@@ -52,6 +52,14 @@ Regulations from the Executive in Need of Scrutiny Act of 2019
 - Sen. Fischer, Deb [R-NE] (F000463)
 - Sen. Isakson, Johnny [R-GA] (I000055)
 - Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Scott, Rick [R-FL] (S001217)
 
 ## Committees (1)
 
@@ -61,3 +69,7 @@ Regulations from the Executive in Need of Scrutiny Act of 2019
 
 - 2019-01-10 — Introduced in Senate
 - 2019-01-10 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2020-07-22 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2020-12-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-311.
+- 2020-12-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-311.
+- 2020-12-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 614.
