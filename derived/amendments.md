@@ -1,7 +1,7 @@
 ---
 measure: S. 2967
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,3 +34,4 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking “and” before “(ii)”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “Administration” and inserting “Administration, and (iii) the Commission on Intergovernmental Relations of the United States”. | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 4271` | repeal | “An Act to establish an Advisory Commission on Intergovernmental Affairs”, approved September 24, 1959 (Public Law 86–380; 42 U.S.C. 4271 et seq.), is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4271` | repeal | The Act entitled “An Act to establish an Advisory Commission on Intergovernmental Relations”, approved September 24, 1959 (Public Law 86–380; 42 U.S.C. 4271 et seq.), is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
