@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6196
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-13 amendatory instructions. 1 executed, 12 stated and not applied.
+16 amendatory instructions. 1 executed, 15 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,7 +26,7 @@ to guess them.
 
 ### 15 U.S.C. § 1051
 
-> in section 15 by striking “paragraphs (3) and (5)” and inserting “paragraphs (3), (5) and (6)”; and
+> in section 15, by striking “paragraphs (3) and (5)” and inserting “paragraphs (3), (5) and (6)”; and
 
 | | |
 |---|---|
@@ -49,8 +49,11 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 1064` | amend | by adding after paragraph (5) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1064` | insert | in the flush left text, by inserting “Nothing in paragraph (6) shall be construed to limit the timing applicable to any other ground for cancellation. A registration under sections 44(e) or 66 shall not be cancelled pursuant to paragraph… | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 1066` | insert | The Trademark Act of 1946 (15 U.S.C. 1066), as amended by subsection (a), is further amended by inserting after section 16A, the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 1070` | insert | Section 20 of the Trademark Act of 1946 (15 U.S.C. 1070) is amended by inserting “or from any order to cancel a registration, in whole or in part, arising from an ex parte expungement proceeding or ex parte reexamination proceeding” afte… | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 1071` | replace | Section 21(a)(1) of the Trademark Act of 1946 (15 U.S.C. 1071(a)(1)) is amended by striking “or an applicant for renewal” and inserting the following: “an applicant for renewal, or a registrant subject to an order to cancel arising from … | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 1071` | insert | Section 21(b)(1) of the Trademark Act of 1946 (15 U.S.C. 1071(b)(1)) is amended by inserting after “authorized by subsection (a) of this section” the following: “, other than a registrant subject to an expungement proceeding or ex parte … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 1051` | add-at-end | in section 26 by adding at the end the following: “Registrations on the supplemental register are subject to ex parte expungement and ex parte reexamination under sections 16A and 16B, respectively.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1070` | insert | Section 20 of the Trademark Act of 1946 (15 U.S.C. 1070) is amended by inserting “or a final decision by an examiner in an ex parte expungement proceeding or ex parte reexamination proceeding” after “registration of marks”. | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 1071` | replace | Section 21(a)(1) of the Trademark Act of 1946 (15 U.S.C. 1071(a)(1)) is amended by striking “or an applicant for renewal” and inserting the following: “an applicant for renewal, or a registrant subject to an ex parte expungement proceedi… | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 1071` | insert | Section 21(b)(1) of the Trademark Act of 1946 (15 U.S.C. 1071(b)(1)) is amended by inserting “except for a registrant subject to an ex parte expungement proceeding or an ex parte reexamination proceeding” before “is dissatisfied”. | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 1051` | add-at-end | in section 26, by adding at the end the following: “Registrations on the supplemental register are subject to ex parte expungement and ex parte reexamination under sections 16A and 16B, respectively.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1116` | insert | Section 34 of the Trademark Act of 1946 (15 U.S.C. 1116) is amended in subsection (a) by inserting after the first sentence the following new sentence: “A plaintiff seeking any such injunction shall be entitled to a rebuttable presumptio… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1068` | insert | Section 18 of the Trademark Act of 1946 (15 U.S.C. 1068) is amended by inserting after “established in the proceedings” the following: “. The authority of the Director under this section includes the authority to reconsider, and modify o… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1070` | insert | Section 20 of the Trademark Act of 1946 (15 U.S.C. 1070) is amended by inserting at the end the following: “The Director may reconsider, and modify or set aside, a decision of the Trademark Trial and Appeal Board under this section.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1092` | insert | Section 24 of the Trademark Act of 1946 (15 U.S.C. 1092) is amended by inserting after “shall be canceled by the Director” the following: “, unless the Director reconsiders the decision of the Board, and modifies or sets aside, such deci… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
