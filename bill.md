@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4135
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,8 +11,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Removal of Statue of Albert Pike
 
-- **(a)** *Findings* Congress finds as follows:
-  - **(1)** The Supreme Council of the Inspectors-General of the Thirty-Third Degree of the Ancient and Accepted Scottish Rite of Freemasonry for the Southern Jurisdiction of the United States of America supports the removal of the statue to the memory of Albert Pike erected near Judiciary Square in the District of Columbia due to its divisive nature.
-  - **(2)** The Mayor of the District of Columbia and the Council of the District of Columbia support the removal of the Albert Pike statue from its current location.
-- **(b)** *Removal* After non-Federal funds are made available for this purpose, the Secretary of the Interior shall remove the statue to the memory and in honor of Albert Pike erected near Judiciary Square in the District of Columbia under the “Joint Resolution Granting permission for the erection of a monument or statue in Washington City, District of Columbia, in honor of the late Albert Pike.”, approved April 9, 1898 (30 Stat. 737).
-- **(c)** *No use of Federal funds* No Federal funds may be used to carry out this Act.
+- **(a)** *Removal* The Secretary of the Interior, acting through the Director of the National Park Service, shall remove the statue to the memory and in honor of Albert Pike erected near Judiciary Square in the District of Columbia under the “Joint Resolution Granting permission for the erection of a monument or statue in Washington City, District of Columbia, in honor of the late Albert Pike.”, approved April 9, 1898 (30 Stat. 737).
+- **(b)** *Relocation* The Secretary of the Interior may donate the statue to a museum or other similar entity, as determined appropriate by the Secretary, to ensure its preservation and interpretation in an indoor setting. The recipient of the statue may not store, display, or exhibit the statue outside.
