@@ -1,7 +1,7 @@
 ---
 measure: S. 2162
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2162
@@ -24,3 +24,7 @@ Securing America's Borders Act of 2019
 
 - 2019-07-18 — Introduced in Senate
 - 2019-07-18 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2019-11-06 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2020-12-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-312.
+- 2020-12-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-312.
+- 2020-12-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 615.
