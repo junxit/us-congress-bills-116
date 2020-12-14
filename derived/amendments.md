@@ -1,7 +1,7 @@
 ---
 measure: S. 3997
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-14 amendatory instructions. 1 executed, 13 stated and not applied.
+29 amendatory instructions. 2 executed, 27 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,6 +33,15 @@ to guess them.
 | Removed | `or property` |
 | Inserted | `, property, human resources, or payment of any staff` |
 
+### 20 U.S.C. § 1011f
+
+> in paragraph (3), by striking “or property” and inserting “, property, human resources, or staff, including staff salaries”; and
+
+| | |
+|---|---|
+| Removed | `or property` |
+| Inserted | `, property, human resources, or staff, including staff salaries` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -49,6 +58,20 @@ complete account of the bill's effect, which it is not.
 | `8 U.S.C. § 1182` | amend | Section 212(a)(3)(A)(i) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(3)(A)(i)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2452` | replace | Section 102(b)(5) of the Mutual Educational and Cultural Exchange Act of 1961 (22 U.S.C. 2452(b)(5)) is amended by striking the semicolon at the end and inserting the following: “by developing exchange programs for foreign researchers an… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1011f` | amend | by amending subsection (a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1011f` | amend | by amending subsection (e) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1011f` | add-at-end | in subsection (f), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1011f` | amend | by amending subsection (g) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1011f` | redesignate | by redesignating subsection (h) as subsection (i); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1011f` | insert | by inserting after subsection (g) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1011f` | insert | in paragraph (5)(B), by inserting “institutes, instructional programs,” after “centers,”. | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1001` | add-at-end | Subtitle V of title 31, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1001` | insert | The table of chapters at the beginning of title 31, United States Code, is amended by inserting after the item relating to chapter 77 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Chapter 47 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections for chapter 47 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `8 U.S.C. § 1182` | amend | Section 212(a)(3)(A)(i) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(3)(A)(i)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2452` | replace | Section 102(b)(5) of the Mutual Educational and Cultural Exchange Act of 1961 (22 U.S.C. 2452(b)(5)) is amended by striking the semicolon at the end and inserting the following: “by developing exchange programs for foreign researchers an… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1011f` | amend | by amending subsection (a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1011f` | amend | by amending subsection (b) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1011f` | amend | by amending subsection (e) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1011f` | add-at-end | in subsection (f), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1011f` | amend | by amending subsection (g) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
