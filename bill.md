@@ -2,12 +2,14 @@
 legis-num: H.R. 4704
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 4704
 
-> To direct the Director of the National Science Foundation to support multidisciplinary research on the science of suicide, and to advance the knowledge and understanding of issues that may be associated with several aspects of suicide including intrinsic and extrinsic factors related to areas such as wellbeing, resilience, and vulnerability.
+That the bill from the House of Representatives (H.R. 4704) entitled “An Act to direct the Director of the National Science Foundation to support multidisciplinary research on the science of suicide, and to advance the knowledge and understanding of issues that may be associated with several aspects of suicide including intrinsic and extrinsic factors related to areas such as wellbeing, resilience, and vulnerability.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
@@ -24,10 +26,10 @@ Congress finds the following:
 
 ## § 3. National Science Foundation research
 
-- **(a)** The Director of the National Science Foundation, in consultation with the Director of the National Institutes of Health and the Director of the National Institute on Mental Health where appropriate, shall, subject to the availability of appropriations, award grants on a competitive, merit-reviewed basis to institutions of higher education (or consortia of such institutions) to support multidisciplinary, fundamental research with potential relevance to suicide, including potential relevance to prevention and treatment, including but not limited to—
+- **(a)** *In general* The Director of the National Science Foundation, in consultation with the Director of the National Institutes of Health and the Director of the National Institute of Mental Health and taking into consideration prioritized research agendas or strategic plans, as appropriate, shall, subject to the availability of appropriations, award grants on a competitive, merit-reviewed basis to institutions of higher education (or consortia of such institutions) to support multidisciplinary, fundamental research with potential relevance to suicide, including potential relevance to prevention and treatment, including, but not limited to—
   - **(1)** basic understanding of human social behavior;
   - **(2)** the neural basis of human cognition;
-  - **(3)** basic understanding of cognitive, linguistic, social, cultural and biological processes related to human development across the lifespan;
+  - **(3)** basic understanding of cognitive, linguistic, social, cultural, and biological processes related to human development across the lifespan;
   - **(4)** basic understanding of perceptual, motor, and cognitive processes, and their interaction, in typical human behavior; and
   - **(5)** basic understanding of the relevance of drug and alcohol abuse.
-- **(b)** To promote the development of early career researchers, in awarding funds under subsection (a) the National Science Foundation shall encourage applications submitted by early career researchers, including doctoral students or postdoctoral researchers.
+- **(b)** *Encouraging applications from early career researchers* To promote the development of early career researchers, in awarding funds under subsection (a), the Director of the National Science Foundation shall encourage applications submitted by early career researchers, including doctoral students or postdoctoral researchers.

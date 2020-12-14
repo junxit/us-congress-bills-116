@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4704
 congress: 116
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4704
@@ -63,3 +63,13 @@ Advancing Research to Prevent Suicide Act
 - 2020-01-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 385 - 8 (Roll no. 24). (text: CR H549)
 - 2020-01-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 385 - 8 (Roll no. 24).(text: CR H549)
 - 2020-01-28 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2020-12-14 — Amendment SA 2706 agreed to in Senate by Unanimous Consent.
+- 2020-12-14 — Amendment SA 2706 proposed by Senator McConnell for Senator Wicker. (consideration: CR S7469-7470; text: CR S7469-7470) In the nature of a substitute.
+- 2020-12-14 — Measure laid before Senate by unanimous consent. (consideration: CR S7469-7470)
+- 2020-12-14 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S7469-7470)
+- 2020-12-14 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text of amendment in the nature of a substitute: CR S7469-7470)
+- 2020-12-14 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2020-12-14 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2020-12-14 — Senate amendment agreed to: Amendment SA 2706 agreed to in Senate by Unanimous Consent.
+- 2020-12-14 — Senate amendment proposed (on the floor): Amendment SA 2706 proposed by Senator McConnell for Senator Wicker.
+- 2020-12-14 — Senate amendment submitted
