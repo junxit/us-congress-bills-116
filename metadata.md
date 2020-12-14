@@ -1,7 +1,7 @@
 ---
 measure: S. 3997
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3997
@@ -16,7 +16,7 @@ Safeguarding American Innovation Act
 
 - Sen. Portman, Rob [R-OH] (P000449)
 
-## Cosponsors (14)
+## Cosponsors (19)
 
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 - Sen. Barrasso, John [R-WY] (B001261)
@@ -32,6 +32,11 @@ Safeguarding American Innovation Act
 - Sen. Scott, Rick [R-FL] (S001217)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 - Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. McSally, Martha [R-AZ] (M001197)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Romney, Mitt [R-UT] (R000615)
 
 ## Committees (1)
 
@@ -41,3 +46,7 @@ Safeguarding American Innovation Act
 
 - 2020-06-18 — Introduced in Senate
 - 2020-06-18 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (Sponsor introductory remarks on measure: CR S3104)
+- 2020-07-22 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2020-12-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-317.
+- 2020-12-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-317.
+- 2020-12-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 620.
