@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 4704
-congress: 116th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Sixteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 4704
 
-That the bill from the House of Representatives (H.R. 4704) entitled “An Act to direct the Director of the National Science Foundation to support multidisciplinary research on the science of suicide, and to advance the knowledge and understanding of issues that may be associated with several aspects of suicide including intrinsic and extrinsic factors related to areas such as wellbeing, resilience, and vulnerability.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To direct the Director of the National Science Foundation to support multidisciplinary research on the science of suicide, and to advance the knowledge and understanding of issues that may be associated with several aspects of suicide including intrinsic and extrinsic factors related to areas such as wellbeing, resilience, and vulnerability.
 
 ## § 1. Short title
 
