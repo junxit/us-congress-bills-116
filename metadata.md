@@ -1,7 +1,7 @@
 ---
 measure: S. 4224
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4224
@@ -16,9 +16,10 @@ Southwest Border Security Technology Improvement Act of 2020
 
 - Sen. Sinema, Kyrsten [D-AZ] (S001191)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Lankford, James [R-OK] (L000575)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Southwest Border Security Technology Improvement Act of 2020
 
 - 2020-07-20 — Introduced in Senate
 - 2020-07-20 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2020-07-22 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2020-12-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-322.
+- 2020-12-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment in the nature of a substitute. With written report No. 116-322.
+- 2020-12-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 625.

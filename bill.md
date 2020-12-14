@@ -71,7 +71,7 @@ In this Act:
 - **(c)** *Updates*
   - **(1)** *In general* Not later than 1 year after the submission of the analysis required under subsection (a), and annually for the following 4 years, the Secretary shall submit an update to such analysis to the appropriate congressional committees.
   - **(2)** *Contents* Each update required under paragraph (1) shall include a plan for utilizing the resources of the Department to meet the border security technology needs and gaps identified pursuant to subsection (b), including developing or acquiring technologies not currently in use by the Department that would allow the Department to bridge existing border technology gaps along the Southwest border.
-- **(d)** *Items To be considered* In compiling the technology needs analysis and updates required under this section, the Secretary shall consider and examine—
+- **(d)** *Items to be considered* In compiling the technology needs analysis and updates required under this section, the Secretary shall consider and examine—
   - **(1)** technology that is deployed and is sufficient for the Department’s use along the Southwest border;
   - **(2)** technology that is deployed, but is insufficient for the Department’s use along the Southwest border; and
   - **(3)** technology that is not deployed, but is necessary for the Department’s use along the Southwest border;
