@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4403
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4403
@@ -29,3 +29,9 @@ Stop Debt Collection Abuse Act of 2019
 - 2019-09-19 — Introduced in House
 - 2019-09-19 — Introduced in House
 - 2019-09-19 — Referred to the House Committee on Financial Services.
+- 2019-11-13 — Committee Consideration and Mark-up Session Held.
+- 2019-11-14 — Committee Consideration and Mark-up Session Held.
+- 2019-11-14 — Ordered to be Reported (Amended) by the Yeas and Nays: 54 - 0.
+- 2020-12-15 — Placed on the Union Calendar, Calendar No. 538.
+- 2020-12-15 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-654.
+- 2020-12-15 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-654.

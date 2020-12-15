@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4403
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -52,7 +52,7 @@ Section 808 of the Fair Debt Collection Practices Act (15 U.S.C. 1692f) is amend
 >     - **(ii)** authorized by a contract between the debt collector and the Federal agency; and
 >     - **(iii)** not greater than 10 percent of the amount collected by the debt collector.
 
-## § 5. GAO study and report
+## § 5. Government Accountability Office study and report
 
 - **(a)** *Study* The Comptroller General of the United States shall commence a study on the use of debt collectors by State and local government agencies, including—
   - **(1)** the powers given to the debt collectors by Federal, State, and local government agencies;
