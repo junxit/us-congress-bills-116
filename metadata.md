@@ -1,7 +1,7 @@
 ---
 measure: S. 3734
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3734
@@ -30,3 +30,7 @@ Bioeconomy Research and Development Act of 2020
 
 - 2020-05-14 — Introduced in Senate
 - 2020-05-14 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2020-05-20 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2020-12-15 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-330.
+- 2020-12-15 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-330.
+- 2020-12-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 636.

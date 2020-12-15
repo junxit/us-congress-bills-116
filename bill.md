@@ -35,7 +35,7 @@ In this Act:
 - **(3)** *Initiative* The term Initiative means the National Engineering Biology Research and Development Initiative established under section 4.
 - **(4)** *Omics* The term omics refers to the collective technologies used to explore the roles, relationships, and actions of the various types of molecules that make up the cells of an organism.
 
-## § 4. National Engineering Biology Research and Development Initiative
+## § 4. National engineering biology research and development initiative
 
 - **(a)** *In general* The President, acting through the Office of Science and Technology Policy, shall implement a National Engineering Biology Research and Development Initiative to advance societal well-being, national security, sustainability, and economic productivity and competitiveness through—
   - **(1)** advancing areas of research at the intersection of the biological, physical, chemical, data, and computational sciences and engineering to accelerate scientific understanding and technological innovation in engineering biology;
@@ -56,7 +56,7 @@ In this Act:
     - **(A)** support for curated genomics, epigenomics, and all other relevant omics databases, including plant and microbial databases, that are available to researchers to carry out engineering biology research;
     - **(B)** development of standards for such databases, including for curation, interoperability, and protection of privacy and security;
     - **(C)** support for the development of computational tools, including artificial intelligence tools, that can accelerate research and innovation using such databases; and
-    - **(D)** an inventory and assessment of all Federal Government omics databases to identify opportunities for consolidation and inform investment in such databases as critical infrastructure for the engineering biology research enterprise;
+    - **(D)** an inventory and assessment of all Federal government omics databases to identify opportunities for consolidation and inform investment in such databases as critical infrastructure for the engineering biology research enterprise;
   - **(3)** sustained support for the development, optimization, and validation of novel tools and technologies to enable the dynamic study of molecular processes in situ, including through—
     - **(A)** research conducted at Federal laboratories;
     - **(B)** grants to investigators at institutions of higher education and other nonprofit research institutions; and
@@ -71,7 +71,7 @@ In this Act:
 - **(c)** *Expanding participation* The Initiative shall include, to the maximum extent practicable, outreach to primarily undergraduate and minority-serving institutions about Initiative opportunities, and shall encourage the development of research collaborations between research-intensive universities and primarily undergraduate and minority-serving institutions.
 - **(d)** *Ethical, legal, environmental, safety, security, and societal issues* Initiative activities shall take into account ethical, legal, environmental, safety, security, and other appropriate societal issues by—
   - **(1)** supporting research, including in the social sciences, and other activities addressing ethical, legal, environmental, and other appropriate societal issues related to engineering biology, including integrating research on such topics with the research and development in engineering biology, and ensuring that the results of such research are widely disseminated, including through interdisciplinary engineering biology research centers described in subsection (b)(1);
-  - **(2)** supporting research and other activities related to the safety and security implications of engineering biology, including outreach to increase awareness among Federal researchers and federally funded researchers at institutions of higher education about potential safety and security implications of engineering biology research, as appropriate;
+  - **(2)** supporting research and other activities related to the safety and security implications of engineering biology, including outreach to increase awareness among Federal researchers and Federally-funded researchers at institutions of higher education about potential safety and security implications of engineering biology research, as appropriate;
   - **(3)** ensuring that input from Federal and non-Federal experts on the ethical, legal, environmental, safety, security, and other appropriate societal issues related to engineering biology is integrated into the Initiative; and
   - **(4)** ensuring, through the agencies and departments that participate in the Initiative, that public input and outreach are integrated into the Initiative by the convening of regular and ongoing public discussions through mechanisms such as workshops, consensus conferences, and educational events, as appropriate.
 
@@ -137,7 +137,7 @@ In this Act:
   - **(2)** a description of the research gaps relating to such issues;
   - **(3)** recommendations on how the Initiative can address the research needs identified pursuant to paragraph (2); and
   - **(4)** recommendations on how engineering biology researchers can best incorporate considerations of ethical, legal, environmental, safety, security, and other societal issues into the development of research proposals and the conduct of research.
-- **(b)** *Report to Congress* The agreement entered into under subsection (a) shall require the National Academies of Sciences, Engineering, and Medicine to, not later than 2 years after the date of the enactment of this Act—
+- **(b)** *Report to Congress* The agreement entered into under subsection (a) shall require the National Academy of Sciences, Engineering, and Medicine to, not later than 2 years after the date of the enactment of this Act—
   - **(1)** submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing the findings and recommendations of the review conducted under subsection (a); and
   - **(2)** make a copy of such report available on a publicly accessible website.
 - **(c)** *Alternate contract scientific organization*
