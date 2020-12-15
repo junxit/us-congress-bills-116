@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2032
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -20,7 +20,7 @@ In this Act—
 
 - **(1)** the term appropriately registered means that an individual or entity is registered under the Controlled Substances Act (21 U.S.C. 801 et seq.) to engage in the type of activity that is carried out by the individual or entity with respect to a controlled substance on the schedule that is applicable to cannabidiol or marihuana, as applicable;
 - **(2)** the term cannabidiol means—
-  - **(A)** the substance, cannabidiol, as derived from marihuana that has a tet­ra­hy­dro­can­nabinol level that is greater than 0.3 percent; and
+  - **(A)** the substance, cannabidiol, as derived from marihuana that has a delta–9 tetrahydrocannabinol level that is greater than 0.3 percent; and
   - **(B)** the synthetic equivalent of the substance described in subparagraph (A);
 - **(3)** the terms controlled substance, dispense, distribute, manufacture, marihuana, and practitioner have the meanings given such terms in section 102 of the Controlled Substances Act (21 U.S.C. 802), as amended by this Act;
 - **(4)** the term covered institution of higher education means an institution of higher education (as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)) that—

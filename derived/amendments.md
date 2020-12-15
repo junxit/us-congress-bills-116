@@ -1,7 +1,7 @@
 ---
 measure: S. 2032
 congress: 116
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-30 amendatory instructions. 17 executed, 13 stated and not applied.
+36 amendatory instructions. 23 executed, 13 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -87,6 +87,15 @@ to guess them.
 | Removed | `303(f)` |
 | Inserted | `303(g)` |
 
+### 21 U.S.C. § 801
+
+> in section 302(g)(5)(A)(iii)(I)(bb) (21 U.S.C. 822(g)(5)(A)(iii)(I)(bb)), by striking “303(f)” and inserting “303(g)”;
+
+| | |
+|---|---|
+| Removed | `303(f)` |
+| Inserted | `303(g)` |
+
 ### 21 U.S.C. § 824
 
 > in section 304 (21 U.S.C. 824), by striking “303(g)(1)” each place it appears and inserting “303(h)(1)”;
@@ -104,6 +113,15 @@ to guess them.
 |---|---|
 | Removed | `303(f)` |
 | Inserted | `303(g)` |
+
+### 21 U.S.C. § 829a
+
+> in section 309A(a)(2) (21 U.S.C. 829a(a)(2)), in the matter preceding subparagraph (A), by striking “303(g)(2)” and inserting “303(h)(2)”;
+
+| | |
+|---|---|
+| Removed | `303(g)(2)` |
+| Inserted | `303(h)(2)` |
 
 ### 21 U.S.C. § 831
 
@@ -177,6 +195,42 @@ to guess them.
 | Removed | `303(g)` |
 | Inserted | `303(h)` |
 
+### 42 U.S.C. § 1395l
+
+> in section 1833(bb)(3)(B) (42 U.S.C. 1395l(bb)(3)(B)), by striking “303(g)” and inserting “303(h)”;
+
+| | |
+|---|---|
+| Removed | `303(g)` |
+| Inserted | `303(h)` |
+
+### 42 U.S.C. § 1395m
+
+> in section 1834(o)(3)(C)(ii) (42 U.S.C. 1395m(o)(3)(C)(ii)), by striking “303(g)” and inserting “303(h)”; and
+
+| | |
+|---|---|
+| Removed | `303(g)` |
+| Inserted | `303(h)` |
+
+### 42 U.S.C. § 1395cc-6
+
+> in section 1866F(c)(3)(C) (42 U.S.C. 1395cc–6(c)(3)(C)), by striking “303(g)” and inserting “303(h)”.
+
+| | |
+|---|---|
+| Removed | `303(g)` |
+| Inserted | `303(h)` |
+
+### 42 U.S.C. § 1396b
+
+> Section 1903(aa)(2)(C)(ii) of the Social Security Act (42 U.S.C. 1396b(aa)(2)(C)(ii)) is amended by striking “303(g)” each place it appears and inserting “303(h)”.
+
+| | |
+|---|---|
+| Removed | `303(g)` |
+| Inserted | `303(h)` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -190,7 +244,7 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 823` | replace | by striking “Registration applications” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 823` | replace | by striking “Article 7” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 355` | insert | by inserting after paragraph (2)(A), as so designated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 823` | add-at-end | Paragraph (2)(B) of section 303 of the Controlled Substances Act (21 U.S.C. 823(f)), as amended by section 101 of this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 823` | add-at-end | Paragraph (2)(B) of section 303(f) of the Controlled Substances Act (21 U.S.C. 823(f)), as amended by section 101 of this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 823` | redesignate | by redesignating subsections (c) through (k) as subsections (d) through (l), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 355` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 802` | strike | in clause (i), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
