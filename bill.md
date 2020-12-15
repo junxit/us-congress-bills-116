@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2054
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -32,7 +32,7 @@ Congress makes the following findings:
 
 ## § 3. Duplicate medals
 
-Under such regulations as the Secretary may prescribe, the Secretary may strike and sell duplicates in bronze of the gold medal struck under section 2, at a price sufficient to cover the costs of the medals, including labor, materials, dies, use of machinery, and overhead expenses, and the cost of the gold medal.
+Under such regulations as the Secretary may prescribe, the Secretary may strike and sell duplicates in bronze of the gold medal struck under section 2, at a price sufficient to cover the costs of the medals, including labor, materials, dies, use of machinery, and overhead expenses.
 
 ## § 4. National medals
 
