@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2535
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -69,6 +69,7 @@ In this Act:
       - **(v)** the concentration of venture capital in only a few cities;
       - **(vi)** record levels of student debt;
       - **(vii)** inefficiencies or other difficulties relating to the commercialization of federally funded research and innovation;
+      - **(vii)** the utilization of federally funded research and innovation in the commercial market;
       - **(viii)** regulatory burden, overlap, complexity, and uncertainty at the Federal and State levels;
       - **(ix)** aspects of the Internal Revenue Code of 1986 that penalize, obstruct, or otherwise disadvantage new businesses, or investors in new businesses, relative to incumbent businesses, or investors in incumbent businesses, respectively;
       - **(x)** foreign-born entrepreneurs and the impact of those entrepreneurs on job creation; and
