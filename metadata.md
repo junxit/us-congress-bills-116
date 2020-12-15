@@ -1,7 +1,7 @@
 ---
 measure: S. 1858
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1858
@@ -28,3 +28,7 @@ CPSC CIO Parity Act
 
 - 2019-06-13 — Introduced in Senate
 - 2019-06-13 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2019-07-24 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2020-12-15 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. Without written report.
+- 2020-12-15 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. Without written report.
+- 2020-12-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 632.
