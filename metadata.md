@@ -1,7 +1,7 @@
 ---
 measure: S. 4884
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4884
@@ -28,3 +28,7 @@ COVID–19 Home Safety Act of 2020
 
 - 2020-11-10 — Introduced in Senate
 - 2020-11-10 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2020-11-18 — Committee on Commerce, Science, and Transportation. Ordered to be reported with amendments favorably.
+- 2020-12-15 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with amendments. Without written report.
+- 2020-12-15 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with amendments. Without written report.
+- 2020-12-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 642.
