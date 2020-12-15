@@ -1,7 +1,7 @@
 ---
 measure: H.R. 278
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 278
@@ -16,6 +16,12 @@ To direct the Secretary of the Interior to convey certain facilities, easements,
 
 - Rep. Newhouse, Dan [R-WA-4] (N000189)
 
+## Cosponsors (3)
+
+- Rep. Davis, Rodney [R-IL-13] (D000619)
+- Rep. Gibbs, Bob [R-OH-7] (G000563)
+- Rep. Rutherford, John H. [R-FL-4] (R000609)
+
 ## Committees (1)
 
 - House — Natural Resources Committee
@@ -26,3 +32,10 @@ To direct the Secretary of the Interior to convey certain facilities, easements,
 - 2019-01-08 — Introduced in House
 - 2019-01-08 — Referred to the House Committee on Natural Resources.
 - 2019-01-08 — Sponsor introductory remarks on measure. (CR E20)
+- 2019-02-05 — Referred to the Subcommittee on Water, Oceans, and Wildlife.
+- 2019-05-01 — Committee Consideration and Mark-up Session Held.
+- 2019-05-01 — Ordered to be Reported by Unanimous Consent.
+- 2019-05-01 — Subcommittee on Water, Oceans, and Wildlife Discharged.
+- 2020-12-15 — Placed on the Union Calendar, Calendar No. 531.
+- 2020-12-15 — Reported by the Committee on Natural Resources. H. Rept. 116-647.
+- 2020-12-15 — Reported by the Committee on Natural Resources. H. Rept. 116-647.
