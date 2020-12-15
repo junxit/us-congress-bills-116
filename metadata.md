@@ -1,7 +1,7 @@
 ---
 measure: S. 3152
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3152
@@ -44,3 +44,5 @@ Data Mapping to Save Moms' Lives Act
 - 2020-12-08 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-304.
 - 2020-12-08 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-304.
 - 2020-12-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 604.
+- 2020-12-15 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7508; text of amendment in the nature of a substitute: CR S7508)
+- 2020-12-15 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S7508; text of amendment in the nature of a substitute: CR S7508)
