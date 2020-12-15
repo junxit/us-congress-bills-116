@@ -24,6 +24,6 @@ This Act may be cited as the “Expedited Delivery of Airport Infrastructure Act
     >   - **(ii)** the level of contractor’s control of, or access to, the worksite necessary to shorten the duration of the project does not negatively impact the operation of the airport;
     >   - **(iii)** the contract specifies application of the incentive structure in the event of unforeseeable, non-weather delays beyond the control of the contractor;
     >   - **(iv)** nothing in any agreement with the contractor prevents the airport operator from retaining responsibility for the safety, efficiency, and capacity of the airport during the execution of the grant agreement; and
-    >   - **(v)** the Secretary determines that the use of an incentive payment is likely to increase airport capacity or efficiency as a result of shortening the project’s duration;
+    >   - **(v)** the Secretary determines that the use of an incentive payment is likely to increase airport capacity or efficiency or result in cost savings as a result of shortening the project’s duration;
 
 - **(b)** *Technical correction* Section 47110(e)(7) of title 49, United States Code, is amended by striking “(7) Partnership Program Airports.—” and inserting “(7) Partnership program airports.—”.
