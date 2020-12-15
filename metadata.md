@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4444
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4444
@@ -41,3 +41,10 @@ Western Area Power Administration Transparency Act
 - 2019-09-20 — Introduced in House
 - 2019-09-20 — Introduced in House
 - 2019-09-20 — Referred to the House Committee on Natural Resources.
+- 2019-10-02 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2020-02-12 — Committee Consideration and Mark-up Session Held.
+- 2020-02-12 — Ordered to be Reported by Unanimous Consent.
+- 2020-02-12 — Subcommittee on Energy and Mineral Resources Discharged.
+- 2020-12-15 — Placed on the Union Calendar, Calendar No. 533.
+- 2020-12-15 — Reported by the Committee on Natural Resources. H. Rept. 116-649.
+- 2020-12-15 — Reported by the Committee on Natural Resources. H. Rept. 116-649.
