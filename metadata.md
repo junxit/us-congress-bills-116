@@ -1,7 +1,7 @@
 ---
 measure: S. 1341
 congress: 116
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1341
@@ -16,9 +16,10 @@ SOFFA Act
 
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Markey, Edward J. [D-MA] (M000133)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ SOFFA Act
 
 - 2019-05-07 — Introduced in Senate
 - 2019-05-07 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2019-07-24 — Committee on Commerce, Science, and Transportation. Ordered to be reported with amendments favorably.
+- 2020-12-15 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with amendments. Without written report.
+- 2020-12-15 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with amendments. Without written report.
+- 2020-12-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 630.

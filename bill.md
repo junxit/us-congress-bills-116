@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1341
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -32,6 +32,7 @@ This Act may be cited as the “Safer Occupancy Furniture Flammability Act” or
         - **(II)**
           - **(aa)** back; or
           - **(bb)** arm;
+      - **(iii)** is constructed with an upholstered seat, back, or arm;
       - **(iv)** is—
         - **(I)** made or sold with a cushion or pillow, without regard to whether that cushion or pillow, as applicable, is attached or detached with respect to the article of furniture; or
         - **(II)** stuffed or filled, or able to be stuffed or filled, in whole or in part, with any material, including a substance or material that is hidden or concealed by fabric or another covering, including a cushion or pillow belonging to, or forming a part of, the article of furniture; and
@@ -44,7 +45,8 @@ This Act may be cited as the “Safer Occupancy Furniture Flammability Act” or
       - **(iv)** furniture that is used exclusively for the purpose of physical fitness and exercise.
 - **(b)** *Adoption of standard*
   - **(1)** *In general* Beginning on the date that is 180 days after the date of enactment of this Act, and except as provided in paragraph (2), the California standard shall be considered to be a flammability standard promulgated by the Consumer Product Safety Commission under section 4 of the Flammable Fabrics Act (15 U.S.C. 1193).
-  - **(2)** *Testing and certification* A fabric, related material, or product to which the California standard applies as a result of paragraph (1) shall not be subject to section 14(a) of the Consumer Product Safety Act (15 U.S.C. 2063(a)).
+  - **(2)** *Testing and certification* A fabric, related material, or product to which the California standard applies as a result of paragraph (1) shall not be subject to section 14(a) of the Consumer Product Safety Act (15 U.S.C. 2063(a)) with respect to that standard.
+  - **(3)** *Certification label* Each manufacturer of a product that is subject to the California standard as a result of paragraph (1) shall include the statement “Complies with U.S. CPSC requirements for upholstered furniture flammability” on a permanent label located on the product, which shall be considered to be a certification that the product complies with that standard.
 - **(c)** *Preemption*
   - **(1)** *In general* Notwithstanding section 16 of the Flammable Fabrics Act (15 U.S.C. 1203) and section 231 of the Consumer Product Safety Improvement Act of 2008 (15 U.S.C. 2051 note), and except as provided in subparagraphs (B) and (C) of paragraph (2), no State or any political subdivision of a State may establish or continue in effect any provision of a flammability law, regulation, code, standard, or requirement that is designed to protect against the risk of occurrence of fire, or to slow or prevent the spread of fire, with respect to upholstered furniture.
   - **(2)** *Preservation of certain State law* Nothing in this Act or the Flammable Fabrics Act (15 U.S.C. 1191 et seq.) may be construed to preempt or otherwise affect—
