@@ -1,7 +1,7 @@
 ---
 measure: S. 2174
 congress: 116
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 2174
@@ -40,3 +40,13 @@ Missing Persons and Unidentified Remains Act of 2019
 - 2020-11-16 — Senate amendment agreed to: Amendment SA 2685 agreed to in Senate by Unanimous Consent.
 - 2020-11-16 — Senate amendment proposed (on the floor): Amendment SA 2685 proposed by Senator Cornyn.(consideration: CR S6714; text: CR S6714)
 - 2020-11-16 — Senate amendment submitted
+- 2020-11-17 — Held at the desk.
+- 2020-11-17 — Message on Senate action sent to the House.
+- 2020-11-17 — Received in the House.
+- 2020-12-16 — Considered under suspension of the rules. (consideration: CR H7217-7219)
+- 2020-12-16 — DEBATE - The House proceeded with forty minutes of debate on S. 2174.
+- 2020-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-16 — Ms. Scanlon moved to suspend the rules and pass the bill, as amended.
+- 2020-12-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7217-7218)
+- 2020-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7217-7218)
+- 2020-12-16 — The title of the measure was amended. Agreed to without objection.

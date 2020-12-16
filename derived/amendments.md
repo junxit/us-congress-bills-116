@@ -1,7 +1,7 @@
 ---
 measure: S. 2174
 congress: 116
-version: Engrossed in Senate
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -58,5 +58,5 @@ complete account of the bill's effect, which it is not.
 | `34 U.S.C. § 40502` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 40502` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 40503` | replace | by striking section 204 (34 U.S.C. 40503) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `34 U.S.C. § 40504` | amend | Section 3 of Kristen's Act (34 U.S.C. 40504 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 40504` | amend | Section 102 of Kristen's Act (34 U.S.C. 40504 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 211` | add-at-end | Section 411(o) of the Homeland Security Act of 2002 (6 U.S.C. 211(o)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

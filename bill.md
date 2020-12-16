@@ -2,12 +2,14 @@
 legis-num: S. 2174
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 2174
 
-> To expand the grants authorized under Jennifer's Law and Kristen's Act to include processing of unidentified remains, resolving missing persons cases, and for other purposes.
+That the bill from the Senate (S. 2174) entitled “An Act to expand the grants authorized under Jennifer's Law and Kristen’s Act to include processing of unidentified remains, resolving missing persons cases, and for other purposes.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title
 
@@ -57,10 +59,10 @@ This Act may be cited as the “Missing Persons and Unidentified Remains Act of 
     > - **(3)** hire and maintain additional DNA case analysts and technicians, fingerprint examiners, forensic odontologists, and forensic anthropologists, needed to support such identification programs; and
     > - **(4)** procure and maintain state of the art multi-modal, multi-purpose forensic and DNA-typing and analytical equipment.
 
-- **(b)** *Kristen's Act* Section 3 of Kristen's Act (34 U.S.C. 40504 note) is amended to read as follows:
-  > ## § 3. Authorization of funding
+- **(b)** *Kristen's Act* Section 102 of Kristen's Act (34 U.S.C. 40504 note) is amended to read as follows:
+  > ## § 102. Authorization of funding
   >
-  > The Attorney General is authorized to use funds otherwise appropriated for the operationalization, maintenance, and expansion of the National Missing and Unidentified Persons System (NamUs) for the purpose of carrying out this Act.
+  > To the extent provided in advance in appropriations Acts, the Attorney General is authorized to use funds appropriated for the operationalization, maintenance, and expansion of the National Missing and Unidentified Persons System (NamUs) for the purpose of carrying out this Act
 
 ## § 3. Rescue beacons
 
