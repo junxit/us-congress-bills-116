@@ -1,7 +1,7 @@
 ---
 measure: H.R. 221
 congress: 116
-version: Referred in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
