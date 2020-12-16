@@ -28,7 +28,7 @@ The Unfunded Mandates Reform Act of 1995 (2 U.S.C. 1501 et seq.) is amended—
 - **(1)** by striking “tribal” each place that term appears and inserting “Tribal”;
 - **(2)** in section 3 (2 U.S.C. 1502)—
   - **(A)** in paragraph (1), by striking “and” at the end;
-  - **(B)** in paragraph (2), by striking the period at the end and inserting “and”; and
+  - **(B)** in paragraph (2), by striking the period at the end and inserting “; and”; and
   - **(C)** by adding at the end the following:
     > - **(3)** the term major rule means a rule, as defined in section 551 of title 5, United States Code, that the Administrator of the Office of Information and Regulatory Affairs determines is likely to cause—
     >   - **(A)** an annual effect on the economy of $100,000,000 or more, adjusted once every 5 years to reflect increases in the Consumer Price Index for All Urban Consumers, as published by the Bureau of Labor Statistics of the Department of Labor;
