@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3948
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -47,6 +47,6 @@ Chapter 3 of title 31, United States Code, is amended—
 - **(1)** in subchapter II, by adding at the end the following:
   > ## § 334. Prohibition on the referral of emergency individual assistance debt
   >
-  > With respect to any assistance provided by the Federal Emergency Management Agency to an individual or household pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122 et seq.), if the Secretary of the Treasury seeks to recoup any amount of such assistance because of an overpayment, the Secretary may not contract with any debt collector or other private party to collect such amounts.
+  > With respect to any assistance provided by the Federal Emergency Management Agency to an individual or household pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122 et seq.), if the Secretary of the Treasury seeks to recoup any amount of such assistance because of an overpayment, the Secretary may not contract with any debt collector or other private party to collect such amounts, unless the overpayment occurred because of fraud or deceit and the recipient of such assistance knew or should have known about such fraud or deceit.
 
 - **(2)** in the table of contents for such chapter, by inserting after the item relating to section 333 the following:
