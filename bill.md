@@ -1,15 +1,13 @@
 ---
 legis-num: S. 2174
-congress: 116th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Sixteenth Congress of the United States of America
+session: 2d Sess.
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 2174
 
-That the bill from the Senate (S. 2174) entitled “An Act to expand the grants authorized under Jennifer's Law and Kristen’s Act to include processing of unidentified remains, resolving missing persons cases, and for other purposes.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To the extent provided in advance in appropriations Act, the Attorney General is authorized to use funds appropriated for the operationalization, maintenance, and expansion of the National Missing and Unidentified Persons System (NamUs) for the purpose of carrying out this Act.
 
 ## § 1. Short title
 

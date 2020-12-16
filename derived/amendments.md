@@ -1,7 +1,7 @@
 ---
 measure: S. 2174
 congress: 116
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
