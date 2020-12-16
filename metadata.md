@@ -1,7 +1,7 @@
 ---
 measure: S. 2174
 congress: 116
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 2174
@@ -50,3 +50,13 @@ Missing Persons and Unidentified Remains Act of 2019
 - 2020-12-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7217-7218)
 - 2020-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7217-7218)
 - 2020-12-16 — The title of the measure was amended. Agreed to without objection.
+- 2020-12-17 — Message on House action received in Senate and at desk: House amendments to Senate bill.
+- 2020-12-18 — Resolving differences -- Senate actions: Senate agreed to the House amendments to S. 2174 by Unanimous Consent.
+- 2020-12-18 — Senate agreed to the House amendments to S. 2174 by Unanimous Consent. (consideration: CR S7828)
+- 2020-12-20 — Message on Senate action sent to the House.
+- 2020-12-21 — Presented to President.
+- 2020-12-21 — Presented to President.
+- 2020-12-31 — Became Public Law No: 116-277.
+- 2020-12-31 — Became Public Law No: 116-277.
+- 2020-12-31 — Signed by President.
+- 2020-12-31 — Signed by President.
