@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3068
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -90,7 +90,7 @@ The Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.) is amended by add
 >   - **(1)** promulgate guidelines for the submission of grant proposals under this section, including a list of the educational and career training needs identified under subsection (i); and
 >   - **(2)** publish and maintain such guidelines on a public website of the Secretary.
 > - **(k)** *Reporting requirement* Not later than 18 months after the date of the enactment of this section, and every 2 years thereafter, the Secretary shall submit a report to the Committee on Natural Resources of the House of Representatives, the Committee on Energy and Natural Resources of the Senate, the Committee on Education and Labor of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate on the grant program established by this section. The report shall include a description of the grantees and the activities for which grantees used a grant awarded under this section.
-> - **(l)** *Authorization of appropriations* There are authorized to be appropriated for purposes of this section $25,000,000 for each of fiscal years 2019 through 2023.
+> - **(l)** *Authorization of appropriations* There are authorized to be appropriated for purposes of this section $25,000,000 for each of fiscal years 2020 through 2024.
 > - **(m)** *Definitions* In this section:
 >   - **(1)** *Community college* The term “community college” has the meaning given the term “junior or community college” in section 312(f) of the Higher Education Act of 1965 (20 U.S.C. 1058(f)).
 >   - **(2)** *Eligible entity* The term “eligible entity” means an entity that is—
