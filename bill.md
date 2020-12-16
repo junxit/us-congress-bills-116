@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 8992
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8992
+
+> To amend the Homeland Security Act of 2002 to provide for certain succession reforms, and for other purposes.
+
+## § 1. Succession reforms
+
+Subsection (g) of section 103 of the Homeland Security Act of 2002 (6 U.S.C. 113) is amended—
+
+- **(1)** in paragraph (1), by striking “neither the Secretary nor Deputy Secretary is” and inserting “the Secretary, Deputy Secretary, and Associate Secretary are not”; and
+- **(2)** in paragraph (2), by striking “designate such other officers of the Department in further order of succession to serve as Acting Secretary.” and inserting
+  > designate—
+  > - **(A)** such other official of the Department in further order of succession to serve as Acting Secretary in a manner that requires such official to have served in the Department for at least 90 days prior to such designation in either the position of the head of a component or in another position by and with the advice and consent of the Senate, or in the event that an official satisfying such criteria is not available, in a manner that requires such official to have served for at least 90 days prior to such designation in the Senior Executive Service in the Department; and
+  > - **(B)** such other official of the Department to serve as the acting head of a component in the event the head of a component vacates the position, in a manner that requires such official to have served for at least 90 days prior to such designation in the Senior Executive Service.
