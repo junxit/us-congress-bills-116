@@ -17,7 +17,7 @@ This Act may be cited as the “CFO Vision Act of 2020”.
 
 - **(a)** *Chief Financial Officer and Deputy Chief Financial Officer* Chapter 9 of title 31, United States Code, is amended—
   - **(1)** in section 902(a)—
-    - **(A)** in the matter preceding paragraph (1), by striking “An” and inserting “It shall be the duty and responsibility of each agency Chief Financial Officer to oversee and provide leadership in the areas of budget formulation and execution, planning and performance, risk management, internal controls, financial systems, and accounting. In carrying out the preceding sentence, each”;
+    - **(A)** in the matter preceding paragraph (1), by striking “An” and inserting “It shall be the duty and responsibility of each agency Chief Financial Officer to oversee and provide leadership in the areas of budget formulation and execution, planning and performance, risk management, internal controls, financial systems, accounting, and other areas as the Director of the Office of Management and Budget may designate. In carrying out the preceding sentence, each”;
     - **(B)** in paragraph (3)—
       - **(i)** in subparagraph (C), by inserting “areas and” before “systems”; and
       - **(ii)** in subparagraph (D)—
@@ -74,7 +74,7 @@ This Act may be cited as the “CFO Vision Act of 2020”.
   - **(2)** in section 903—
     - **(A)** in subsection (a), by inserting “and who shall assist the agency Chief Financial Officer in the performance of each of the duties of the agency Chief Financial Officer under this chapter” after “matters”; and
     - **(B)** by adding at the end the following:
-      > - **(c)** Notwithstanding subchapter III of chapter 33 of title 5, United States Code, in the event of a vacancy in the position of Chief Financial Officer of an agency, only the Deputy Chief Financial Officer of the agency shall serve as the acting Chief Financial Officer.
+      > - **(c)** Notwithstanding subchapter III of chapter 33 of title 5, in the event of a vacancy in the position of Chief Financial Officer of an agency, the Deputy Chief Financial Officer of the agency shall serve as the acting Chief Financial Officer.
 
 - **(b)** *Governmentwide financial management plan* Section 3512 of title 31, United States Code, is amended—
   - **(1)** in subsection (a)—
@@ -90,7 +90,7 @@ This Act may be cited as the “CFO Vision Act of 2020”.
 
         - **(III)** in clause (i), as so designated, by striking “5 fiscal years to improve the financial management of the Federal Government.” and inserting “4 fiscal years to improve the financial management of the Federal Government in a manner that is strategic, comprehensive, and cost-effective; and”; and
         - **(IV)** by adding at the end the following:
-          > - **(ii)** be developed in consultation with the Chief Financial Officers Council, the Chief Information Officers Council, the Chief Data Officer Council, the Chief Acquisition Officers Council, the Council of the Inspectors General on Integrity and Efficiency, the Government Accountability Office, and other appropriate financial management experts.
+          > - **(ii)** be developed in consultation with the Chief Financial Officers Council, the Chief Information Officers Council, the Chief Data Officer Council, the Chief Acquisition Officers Council, the Council of the Inspectors General on Integrity and Efficiency, the Government Accountability Office, and, as appropriate, other councils and financial management experts.
 
       - **(ii)** in subparagraph (B)—
         - **(I)** in the matter preceding clause (i), by striking “5-year” and inserting “4-year”;
@@ -101,8 +101,8 @@ This Act may be cited as the “CFO Vision Act of 2020”.
 
           - **(bb)** by adding at the end the following:
             > - **(II)** linking performance and cost information to facilitate effective and efficient decision making;
-            > - **(III)** eliminating duplicative and unnecessary systems; and
-            > - **(IV)** identifying opportunities for agencies to share systems and encouraging agencies to do so where practicable;
+            > - **(III)** eliminating duplicative and unnecessary systems and activities; and
+            > - **(IV)** identifying opportunities for agencies to share systems and services and encouraging agencies to do so where practicable;
 
         - **(III)** by striking clause (iv);
         - **(IV)** by redesignating clause (v) as clause (iv);
@@ -119,7 +119,7 @@ This Act may be cited as the “CFO Vision Act of 2020”.
         - **(XI)** in clause (x), as so redesignated, by striking “5-year” and inserting “4-year”;
     - **(E)** by inserting after paragraph (2) the following:
       > - **(3)** A financial management status report under this subsection shall include—
-      >   - **(A)** a description and analysis of the status of financial management in the executive branch, including the progress made towards implementing the governmentwide 4-year financial management plan, the status of remaining challenges, and cost estimates of improvements to Federal financial management;
+      >   - **(A)** a description and analysis of the status of financial management in the executive branch, including the progress made towards implementing the governmentwide 4-year financial management plan, the status of remaining challenges, and, as necessary based on obligations or expenditures, any updates or revisions to the cost estimates included in the most recent governmentwide 4-year financial management plan;
       >   - **(B)** a summary of the performance of agencies against the metrics developed and identified by the Director of the Office of Management and Budget in the governmentwide 4-year financial management plan;
       >   - **(C)** a summary of the most recently completed financial statements—
       >     - **(i)** of Federal agencies under section 3515 of this title; and
@@ -133,14 +133,16 @@ This Act may be cited as the “CFO Vision Act of 2020”.
 
     - **(F)** in paragraph (4)—
       - **(i)** in subparagraph (A)—
-        - **(I)** by striking “15 months after the date of the enactment of this subsection” and inserting “January 31 after the date of enactment of the CFO Vision Act of 2020”; and
+        - **(I)** by striking “15 months after the date of the enactment of this subsection” and inserting “6 months after the date of enactment of the CFO Vision Act of 2020”; and
         - **(II)** by striking “5-year” and inserting “4-year”; and
       - **(ii)** in subparagraph (B)—
         - **(I)** in clause (i)—
           - **(aa)** by striking “Not later than January 31 of each year thereafter” and inserting “At a minimum, concurrently with the submission of the budget of the United States Government under section 1105(a) of this title made in the first full fiscal year following any year in which the term of the President commences under section 101 of title 3”;
           - **(bb)** by striking “financial management status report and a revised governmentwide 5-year” and inserting “governmentwide 4-year”; and
           - **(cc)** by striking “5 fiscal years” and all that follows through the period at the end and inserting “4 fiscal years.”; and
-        - **(II)** in clause (ii), by striking “revised governmentwide 5-year” and inserting “governmentwide 4-year”; and
+        - **(II)** in clause (ii)—
+          - **(aa)** by striking “revised governmentwide 5-year” and inserting “governmentwide 4-year”; and
+          - **(bb)** by striking “paragraph (3)(B)(viii)” and inserting “paragraph (2)(B)(viii)”; and
       - **(iii)** by adding at the end the following:
         > - **(C)** Each year, concurrently with the submission of the budget of the United States Government under section 1105(a) of this title, the Director of the Office of Management and Budget shall submit to the appropriate committees of Congress and the Comptroller General a financial management status report.
 
@@ -149,13 +151,13 @@ This Act may be cited as the “CFO Vision Act of 2020”.
     - **(A)** in subparagraph (A), by striking “and” at the end;
     - **(B)** in subparagraph (B), by striking the period at the end and inserting “; and”; and
     - **(C)** by adding at the end the following:
-      > - **(C)** a separate report on the results of the assessment required under subsection (e)(2).
+      > - **(C)** a separate report on the results of the assessment and conclusion required under subsection (e)(2).
 
   - **(3)** by redesignating subsections (e), (f), and (g) as subsections (f), (g), and (h), respectively; and
   - **(4)** by inserting after subsection (d) the following:
     > - **(e)** The head of each executive agency shall—
-    >   - **(1)** in establishing the internal accounting and administrative controls under subsection (c), identify the key financial management information needed for effective financial management decision making; and
-    >   - **(2)** annually assess the effectiveness of the internal controls of the executive agency over financial reporting and key financial management information identified under paragraph (1).
+    >   - **(1)** in establishing the internal accounting and administrative controls under subsection (c), identify the key financial management information needed for effective financial management and decision making; and
+    >   - **(2)** annually assess and make a conclusion on the effectiveness of the internal controls of the executive agency over financial reporting and key financial management information identified under paragraph (1).
 
 - **(c)** *Audits by agencies* Section 3521 of title 31, United States Code, is amended—
   - **(1)** in subsection (e)—
@@ -166,7 +168,7 @@ This Act may be cited as the “CFO Vision Act of 2020”.
       > - **(2)** As part of each audit under this subsection, the auditor shall—
       >   - **(A)** evaluate the design of the internal control of the agency over financial reporting and key financial information, as assessed and reported on by the head of the agency under section 3512(d)(2)(C) of this title;
       >   - **(B)** determine whether those controls have been implemented;
-      >   - **(C)** for controls that are properly designed and implemented, perform sufficient tests of those controls to conclude whether the controls are operating effectively and to support a low level of assessed control risk; and
+      >   - **(C)** for controls that are properly designed and implemented, perform sufficient tests of those controls to conclude whether the controls are operating effectively, including sufficient tests to support a low level of assessed control risk; and
       >   - **(D)** communicate controls that the auditor concludes are not suitably designed and implemented or are not operating effectively, as appropriate under applicable generally accepted government auditing standards.
       > - **(3)** Audits under this subsection shall be conducted—
 
