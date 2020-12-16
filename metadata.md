@@ -1,7 +1,7 @@
 ---
 measure: H.R. 221
 congress: 116
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 221
@@ -125,3 +125,13 @@ Special Envoy to Monitor and Combat Anti-Semitism Act
 - 2019-01-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 1 (Roll no. 29). (text: CR 1/10/2019 H434)
 - 2019-01-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 1 (Roll no. 29).(text: CR 1/10/2019 H434)
 - 2019-01-14 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2020-12-16 — Amendment SA 2709 agreed to in Senate by Unanimous Consent.
+- 2020-12-16 — Amendment SA 2709 proposed by Senator Moran for Senator Rubio. (consideration: CR S7556; text: CR S7556) In the nature of a substitute.
+- 2020-12-16 — Measure laid before Senate by unanimous consent. (consideration: CR S7556)
+- 2020-12-16 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S7556)
+- 2020-12-16 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text of amendment in the nature of a substitute: CR S7556)
+- 2020-12-16 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2020-12-16 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2020-12-16 — Senate amendment agreed to: Amendment SA 2709 agreed to in Senate by Unanimous Consent.
+- 2020-12-16 — Senate amendment proposed (on the floor): Amendment SA 2709 proposed by Senator Moran for Senator Rubio.
+- 2020-12-16 — Senate amendment submitted
