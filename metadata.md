@@ -1,7 +1,7 @@
 ---
 measure: S. 1694
 congress: 116
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 1694
@@ -52,3 +52,12 @@ One Small Step to Protect Human Heritage in Space Act
 - 2019-07-19 — Received in the House.
 - 2019-07-19 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-07-19 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2020-01-06 — By Senator Wicker from Committee on Commerce, Science, and Transportation filed written report. Report No. 116-194.
+- 2020-01-06 — By Senator Wicker from Committee on Commerce, Science, and Transportation filed written report. Report No. 116-194.
+- 2020-12-16 — Considered under suspension of the rules. (consideration: CR H7219-7222)
+- 2020-12-16 — DEBATE - The House proceeded with forty minutes of debate on S. 1694.
+- 2020-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-16 — Ms. Horn, Kendra S. moved to suspend the rules and pass the bill, as amended.
+- 2020-12-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7219-7220)
+- 2020-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7219-7220)
+- 2020-12-16 — The title of the measure was amended. Agreed to without objection.
