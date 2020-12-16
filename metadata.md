@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 52
 congress: 116
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 52
@@ -39,3 +39,7 @@ A concurrent resolution to correct the enrollment of S. 3312.
 - 2020-12-16 — On agreeing to the Bass amendment (A001) Agreed to without objection.
 - 2020-12-16 — On agreeing to the resolution Agreed to without objection. (text: CR H7216-7217)
 - 2020-12-16 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H7216-7217)
+- 2020-12-17 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2020-12-18 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S.Con.Res. 52 by Unanimous Consent.
+- 2020-12-18 — Senate agreed to the House amendment to S.Con.Res. 52 by Unanimous Consent. (consideration: CR S7828)
+- 2020-12-20 — Message on Senate action sent to the House.

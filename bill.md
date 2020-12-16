@@ -1,15 +1,13 @@
 ---
-legis-num: S.Con.Res. 52
-congress: 116th CONGRESS
+legis-num: S. CON. RES. 52
+congress: One Hundred Sixteenth Congress of the United States of America
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
-# S.Con.Res. 52
+# S. CON. RES. 52
 
-That the resolution from the Senate (S. Con. Res. 52) entitled “Concurrent resolution to correct the enrollment of S. 3312.”, do pass with the following
-
-*Strike out all after the resolving clause and insert:*
+> To correct the enrollment of S. 3312.
 
 That in the enrollment of S. 3312, an Act to establish a crisis stabilization and community reentry grant program, and for other purposes, the Secretary of the Senate shall—
 
