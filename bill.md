@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 221
-congress: 116th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Sixteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 221
 
-That the bill from the House of Representatives (H.R. 221) entitled “An Act to amend the State Department Basic Authorities Act of 1956 to monitor and combat anti-Semitism globally, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend the State Department Basic Authorities Act of 1956 to monitor and combat anti-Semitism globally, and for other purposes.
 
 ## § 1. Short title
 
