@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5013
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -16,17 +16,28 @@ This Act may be cited as the “Small Business Fair Debt Collection Protection A
 ## § 2. Fair debt collection practices for loans to small businesses
 
 - **(a)** *In general* The Fair Debt Collection Practices Act (15 U.S.C. 1692 et seq.) is amended—
-  - **(1)** in section 803, by amending paragraph (5) to read as follows:
-    > - **(5)** The term debt means any obligation or alleged obligation to pay money arising out of a transaction, whether or not such obligation has been reduced to judgment.
+  - **(1)** in section 803—
+    - **(A)** by amending paragraph (5) to read as follows:
+      > - **(5)** The term debt means any obligation or alleged obligation to pay money arising out of a transaction, whether or not such obligation has been reduced to judgment.
+
+    - **(B)** by adding at the end the following new paragraph:
+      > - **(9)** The term commercial credit bureau means any person which, for monetary fees, dues, or on a cooperative nonprofit basis, regularly engages in whole or in part in the practice of assembling or evaluating commercial credit information or other information on businesses for the purpose of furnishing credit reports to third parties, and which uses any means or facility of interstate commerce for the purpose of preparing or furnishing credit reports.
 
   - **(2)** by redesignating section 819 as section 820; and
   - **(3)** by inserting after section 818 the following:
-    > ## § 819. Application to small businesses
+    > ## § 819. Application to small business debt
     >
-    > - **(a)** *In general* This Act shall apply to small businesses to the same extent as this Act applies to consumers.
-    > - **(b)** *Small business defined* The Director of the Bureau, in consultation with the Administrator of the Small Business Administration, shall issue a rule to define the term “small business” for purposes of this section.
+    > - **(a)** *In general* This Act shall apply to small business debt to the same extent as this Act applies to debt of consumers.
+    > - **(b)** *Small business debt defined* The term small business debt—
+    >   - **(1)** means any non-equity obligation or alleged obligation of a partnership, corporation, trust, estate, cooperative, association, government or governmental subdivision or agency, or other entity that is less than $5,000,000; and
+    >   - **(2)** does not include any obligation or alleged obligation—
+    >     - **(A)** of an individual; or
+    >     - **(B)** that is primarily for personal, family, or household purposes.
 
 - **(b)** *Clerical amendment* The table of contents for the Fair Debt Collection Practices Act is amended by striking the item relating to section 819 and inserting the following:
-- **(c)** *Prohibition on harassment or abuse* Section 806(3) of the Fair Debt Collection Practices Act (15 U.S.C. 1692d) is amended—
-  - **(1)** by striking “consumers who” and inserting “consumers or small businesses that”; and
-  - **(2)** by inserting “, to a commercial credit bureau,” after “consumer reporting agency”.
+- **(c)** *Conforming amendments* The Fair Debt Collection Practices Act (15 U.S.C. 1692 et seq.) is amended—
+  - **(1)** in section 805(b), by inserting “or a commercial credit bureau (as applicable)” after “consumer reporting agency”;
+  - **(2)** in section 806(3)—
+    - **(A)** by striking “consumers who” and inserting “consumers or small businesses that”; and
+    - **(B)** by inserting “ or to a commercial credit bureau (as applicable),” after “consumer reporting agency”; and
+  - **(3)** in section 807(16), by inserting “or a commercial credit bureau” after “this Act”.

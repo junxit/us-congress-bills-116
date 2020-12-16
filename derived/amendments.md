@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5013
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 1 executed, 5 stated and not applied.
+9 amendatory instructions. 1 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 15 U.S.C. § 1692d
+### 15 U.S.C. § 1692
 
 > by striking “consumers who” and inserting “consumers or small businesses that”; and
 
@@ -42,8 +42,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 1692` | amend | in section 803, by amending paragraph (5) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1692` | amend | by amending paragraph (5) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1692` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1692` | redesignate | by redesignating section 819 as section 820; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1692` | insert | by inserting after section 818 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1692` | replace | The table of contents for the Fair Debt Collection Practices Act is amended by striking the item relating to section 819 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 1692d` | insert | by inserting “, to a commercial credit bureau,” after “consumer reporting agency”. | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 1692` | insert | in section 805(b), by inserting “or a commercial credit bureau (as applicable)” after “consumer reporting agency”; | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 1692` | insert | by inserting “ or to a commercial credit bureau (as applicable),” after “consumer reporting agency”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 1692` | insert | in section 807(16), by inserting “or a commercial credit bureau” after “this Act”. | the bill quotes the text inserted but describes where it goes |
