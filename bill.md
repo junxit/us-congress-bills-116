@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5047
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -23,7 +23,7 @@ This Act may be cited as the “GSA Lease Transparency Act of 2019”.
   > - **(c)** *Submission* Not later than 30 days after the date of completion of an audit, the Administrator of General Services shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate the audit and a report on such audit.
   > - **(d)** *Additional audit requirement for leases* With respect to any covered lease that takes effect on or after the date of enactment of this section, the Administrator shall require that such a lease contains audit rights for the Administrator and the Inspector General of the General Services Administration.
   > - **(e)** *Definition* In this section, the following definition applies:
-  >   - **(1)** *Covered lease* The term “covered lease” means an active lease of space in a Federal building in which at least 20 percent of such building is leased to any entity pursuant to any provision of law, including—
+  >   - **(1)** *Covered lease* The term covered lease means an active lease of space in a Federal building in which at least 20 percent of such building is leased to any entity pursuant to any provision of law, including—
   >     - **(A)** section 543;
   >     - **(B)** section 581;
   >     - **(C)** sections 306121 and 306122 of title 54, United States Code; and
