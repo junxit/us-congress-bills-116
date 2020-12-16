@@ -1,15 +1,13 @@
 ---
 legis-num: S. 1694
-congress: 116th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Sixteenth Congress of the United States of America
+session: 2d Sess.
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 1694
 
-That the bill from the Senate (S. 1694) entitled “An Act to require any Federal agency that issues licenses to conduct lunar activities to include in the requirements for such licenses an agreement relating to the preservation and protection of the Apollo 11 landing site, and for other purposes.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To require the National Aeronautics and Space Administration to add recommendations and inform other relevant agencies of information relating to the principle of due regard and the limitation of harmful interference with Apollo landing site artifacts, and for other purposes.
 
 ## § 1. Short title
 

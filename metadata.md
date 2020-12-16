@@ -1,7 +1,7 @@
 ---
 measure: S. 1694
 congress: 116
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 1694
@@ -61,3 +61,13 @@ One Small Step to Protect Human Heritage in Space Act
 - 2020-12-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7219-7220)
 - 2020-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7219-7220)
 - 2020-12-16 — The title of the measure was amended. Agreed to without objection.
+- 2020-12-17 — Message on House action received in Senate and at desk: House amendments to Senate bill.
+- 2020-12-19 — Resolving differences -- Senate actions: Senate agreed to the House amendments to S. 1694 by Voice Vote.
+- 2020-12-19 — Senate agreed to the House amendments to S. 1694 by Voice Vote. (consideration: CR S7850)
+- 2020-12-20 — Message on Senate action sent to the House.
+- 2020-12-21 — Presented to President.
+- 2020-12-21 — Presented to President.
+- 2020-12-31 — Became Public Law No: 116-275.
+- 2020-12-31 — Became Public Law No: 116-275.
+- 2020-12-31 — Signed by President.
+- 2020-12-31 — Signed by President.
