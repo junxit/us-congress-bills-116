@@ -1,13 +1,15 @@
 ---
-legis-num: S. CON. RES. 52
+legis-num: S.Con.Res. 52
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the House of Representatives, U. S.,
 ---
 
-# S. CON. RES. 52
+# S.Con.Res. 52
 
-> To correct the enrollment of S. 3312.
+That the resolution from the Senate (S. Con. Res. 52) entitled “Concurrent resolution to correct the enrollment of S. 3312.”, do pass with the following
+
+*Strike out all after the resolving clause and insert:*
 
 That in the enrollment of S. 3312, an Act to establish a crisis stabilization and community reentry grant program, and for other purposes, the Secretary of the Senate shall—
 
@@ -19,5 +21,9 @@ That in the enrollment of S. 3312, an Act to establish a crisis stabilization an
 - **(6)** in section 3052(b)(1) of title I of the Omnibus Crime Control and Safe Streets Act of 1968, as added by section 2 of the Act—
   - **(A)** after “State” insert “, Indian Tribe, unit of local government, or community-based nonprofit organization”; and
   - **(B)** after “facility” insert “and adopt policies that focus on programming, strategies, and educational components for reducing recidivism and probation violations”;
-- **(7)** in the section heading for section 3053 of title I of the Omnibus Crime Control and Safe Streets Act of 1968, as added by section 2 of the Act, strike “State”; and
-- **(8)** in section 3054 of title I of the Omnibus Crime Control and Safe Streets Act of 1968, as added by section 2 of the Act, after “State” insert “, Indian Tribe, unit of local government, or community-based nonprofit organization”.
+- **(7)** in the section heading for section 3053 of title I of the Omnibus Crime Control and Safe Streets Act of 1968, as added by section 2 of the Act, strike “State”;
+- **(8)** in section 3054 of title I of the Omnibus Crime Control and Safe Streets Act of 1968, as added by section 2 of the Act, after “State” insert “, Indian Tribe, unit of local government, or community-based nonprofit organization”; and
+- **(9)** amend section 3055 of title I of the Omnibus Crime Control and Safe Streets Act of 1968, as added by section 2 of the Act, to read as follows:
+  > ## § 3055. Authorization of funding
+  >
+  > Subject to the availability of appropriations, for purposes of carrying out this part, the Attorney General is authorized to award not more than $10,000,000 of funds appropriated to the Department of Justice for these purposes for each of fiscal years 2021 through 2025.
