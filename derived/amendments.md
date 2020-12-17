@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5120
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-57 amendatory instructions. 2 executed, 55 stated and not applied.
+66 amendatory instructions. 2 executed, 64 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -51,9 +51,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in paragraph (1), by striking subparagraphs (A) through (D) and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2), by striking subparagraphs (A) through (D) and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3), by striking “$8,000,000 for each of fiscal years 2017 through 2019” and inserting “$9,000,000 for each of fiscal years 2020 through 2023”. | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1) by striking subparagraphs (A) through (D) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2) by striking subparagraphs (A) through (D) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3) by striking “$8,000,000 for each of fiscal years 2017 through 2019” and inserting “$9,000,000 for each of fiscal years 2020 through 2023”. | the bill names no machine-readable US Code section |
 | — | replace | Section 60125(b)(2) of title 49, United States Code, is amended by striking “$10,000,000 for each of fiscal years 2012 through 2015” and inserting “$12,000,000 for each of fiscal years 2020 through 2023”. | the bill names no machine-readable US Code section |
 | — | replace | Section 60130(c) of title 49, United States Code, is amended by striking “section 2(b) of the PIPES Act of 2016, the Secretary shall expend $1,500,000 for each of fiscal years 2016 through 2019 to carry out this section. Such amounts sha… | the bill names no machine-readable US Code section |
 | — | replace | Section 60134(i) of title 49, United States Code, is amended by striking “$1,500,000 for each of fiscal years 2012 through 2015” and inserting “$2,000,000 for each of fiscal years 2020 through 2023”. | the bill names no machine-readable US Code section |
@@ -80,13 +80,13 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (2) by striking “$50,000” and inserting “$20,000,000”. | the bill names no machine-readable US Code section |
 | — | replace | Section 60123(a) of title 49, United States Code, is amended by striking “knowingly and willfully” and inserting “knowingly or recklessly”. | the bill names no machine-readable US Code section |
 | — | replace | Section 60125(b)(1) of title 49, United States Code, is amended by striking “and local governments in high consequence areas, as defined by the Secretary,” and inserting “local, and Tribal governments, and nonprofit organizations providi… | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1), by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1) by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2) by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following paragraph: | the bill names no machine-readable US Code section |
 | — | replace | by striking “Not later than 6 months after the date of enactment of this section, the” and inserting “The”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “(except distribution lines and gathering lines)” and inserting “, including a distribution line or a gathering line (but not including any gathering lines that are not regulated under part 192 or part 195 of title 49, Code o… | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b) by striking “under subsection (a)” and inserting “under this section for inclusion in the National Pipeline Mapping System”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (f), by striking “to subsection (a)” and inserting “to this section for inclusion in the National Pipeline Mapping System”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (f) by striking “to subsection (a)” and inserting “to this section for inclusion in the National Pipeline Mapping System”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (1) by striking “and”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2)(D) by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
@@ -103,6 +103,15 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (3) of subsection (c); and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B); | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 601 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections for chapter 601 of title 49, United States Code, is further amended by adding at the end: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (1), by striking “and” at the end; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking the period at the end and inserting “; and”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively (and by adjusting the margins accordingly); | the bill names no machine-readable US Code section |
 | — | replace | by striking “The Secretary shall” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 60123 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 60123 of title 49, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 60123 of title 49, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 601 of title 49, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections for chapter 601 of title 49, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |

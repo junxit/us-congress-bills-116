@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5120
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Safe, Accountable, Fair, and Environmentally Responsible Pipelines Act of 2019” or the “SAFER Pipelines Act of 2019”.
+- **(a)** *Sh‑ort title* This Act may be cited as the “Safe, Accountable, Fair, and Environmentally Responsible Pipelines Act of 2019” or the “SAFER Pipelines Act of 2019”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Authorization of appropriations
@@ -22,19 +22,19 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(3)** $26,460,000 for fiscal year 2022.
   - **(4)** $27,254,000 for fiscal year 2023.
 - **(b)** *Gas and hazardous liquid* Section 60125(a) of title 49, United States Code, is amended—
-  - **(1)** in paragraph (1), by striking subparagraphs (A) through (D) and inserting the following:
+  - **(1)** in paragraph (1) by striking subparagraphs (A) through (D) and inserting the following:
     > - **(A)** $160,800,000 for fiscal year 2020, of which $10,000,000 shall be expended for carrying out such section 12 and $60,000,000 shall be expended for making grants;
     > - **(B)** $165,624,000 for fiscal year 2021 of which $10,000,000 shall be expended for carrying out such section 12 and $61,800,000 shall be expended for making grants;
     > - **(C)** $170,600,000 for fiscal year 2022, of which $10,000,000 shall be expended for carrying out such section 12 and $63,650,000 shall be expended for making grants; and
     > - **(D)** $175,700,000 for fiscal year 2023, of which $10,000,000 shall be expended for carrying out such section 12 and $65,560,000 shall be expended for making grants.
 
-  - **(2)** in paragraph (2), by striking subparagraphs (A) through (D) and inserting the following:
+  - **(2)** in paragraph (2) by striking subparagraphs (A) through (D) and inserting the following:
     > - **(A)** $25,000,000 for fiscal year 2020, of which $5,000,000 shall be expended for carrying out such section 12 and $9,000,000 shall be expended for making grants;
     > - **(B)** $25,000,000 for fiscal year 2021, of which $5,000,000 shall be expended for carrying out such section 12 and $9,000,000 shall be expended for making grants;
     > - **(C)** $26,000,000 for fiscal year 2022, of which $5,000,000 shall be expended for carrying out such section 12 and $9,000,000 shall be expended for making grants; and
     > - **(D)** $26,000,000 for fiscal year 2023, of which $5,000,000 shall be expended for carrying out such section 12 and $9,000,000 shall be expended for making grants.
 
-  - **(3)** in paragraph (3), by striking “$8,000,000 for each of fiscal years 2017 through 2019” and inserting “$9,000,000 for each of fiscal years 2020 through 2023”.
+  - **(3)** in paragraph (3) by striking “$8,000,000 for each of fiscal years 2017 through 2019” and inserting “$9,000,000 for each of fiscal years 2020 through 2023”.
 - **(c)** *Emergency response grants* Section 60125(b)(2) of title 49, United States Code, is amended by striking “$10,000,000 for each of fiscal years 2012 through 2015” and inserting “$12,000,000 for each of fiscal years 2020 through 2023”.
 - **(d)** *Pipeline safety information grants to communities* Section 60130(c) of title 49, United States Code, is amended by striking “section 2(b) of the PIPES Act of 2016, the Secretary shall expend $1,500,000 for each of fiscal years 2016 through 2019 to carry out this section. Such amounts shall not be derived from user fees collected under section 60301” and inserting “section 2(a) of the SAFER Pipelines Act of 2019, the Secretary shall expend $2,000,000 for each of fiscal years 2020 through 2023 to carry out this section”.
 - **(e)** *State damage prevention programs* Section 60134(i) of title 49, United States Code, is amended by striking “$1,500,000 for each of fiscal years 2012 through 2015” and inserting “$2,000,000 for each of fiscal years 2020 through 2023”.
@@ -99,7 +99,7 @@ Section 60108 of title 49, United States Code, is amended by adding at the end t
 Section 60109(c) of title 49, United States Code, is amended by adding at the end the following:
 
 > - **(12)** *Use of direct assessments*
->   - **(A)** *Transmission pipeline facilities regulation* Not later than 2 years after the date of enactment of this paragraph, the Secretary shall issue regulations for appropriate methods of assessment of transmission pipeline facilities under paragraph (3) that prioritize methods that provide a greater level of safety than direct assessment, including the use of internal inspection devices or pressure testing.
+>   - **(A)** *Transmission pipeline facilities regulation* Not later than 2 years after the date of enactment of this paragraph, the Secretary shall issue regulations for appropriate methods of assessment of transmission pipeline facilities under paragraph (3) that prioritize the use of other inspection methods before, in tandem with, or in lieu of, the use of direct assessment, including internal inspection devices or pressure testing, to provide a greater level of safety.
 >   - **(B)** *Distribution pipelines study* Not later than 2 years after the date of enactment of this paragraph, the Secretary shall submit to the Committees on Energy and Commerce and Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing—
 >     - **(i)** the results of a study of methods of assessment of distribution pipelines that may be used under paragraph (3), other than direct assessment, to determine whether any such methods—
 >       - **(I)** would provide a greater level of safety than direct assessment of such pipelines; and
@@ -147,12 +147,12 @@ Section 60121 of title 49, United States Code, is amended by adding at the end t
 
 ## § 11. Civil penalties
 
-Section 60122(a) of title 49, United States Code, is amended—
-
-- **(1)** in paragraph (1)—
-  - **(A)** by striking “$200,000” and inserting “$20,000,000”; and
-  - **(B)** by striking “The maximum civil penalty under this paragraph for a related series of violations is $2,000,000.”; and
-- **(2)** in paragraph (2) by striking “$50,000” and inserting “$20,000,000”.
+- **(a)** *Increased penalties* Section 60122(a) of title 49, United States Code, is amended—
+  - **(1)** in paragraph (1)—
+    - **(A)** by striking “$200,000” and inserting “$20,000,000”; and
+    - **(B)** by striking “The maximum civil penalty under this paragraph for a related series of violations is $2,000,000.”; and
+  - **(2)** in paragraph (2) by striking “$50,000” and inserting “$20,000,000”.
+- **(b)** *Deposit in Highway Trust Fund* Penalties collected pursuant to amendments made by this section shall be transferred to the Highway Account of the Highway Trust Fund.
 
 ## § 12. Criminal penalties
 
@@ -166,8 +166,8 @@ Section 60125(b)(1) of title 49, United States Code, is amended by striking “a
 
 Section 60131(g) of title 49, United States Code, is amended—
 
-- **(1)** in paragraph (1), by striking “; and” and inserting a semicolon;
-- **(2)** in paragraph (2), by striking the period at the end and inserting “; and”; and
+- **(1)** in paragraph (1) by striking “; and” and inserting a semicolon;
+- **(2)** in paragraph (2) by striking the period at the end and inserting “; and”; and
 - **(3)** by adding at the end the following paragraph:
   > - **(3)** with respect to any pipeline facility, means a construction task that is performed on the pipeline facility.
 
@@ -178,7 +178,7 @@ Section 60131(g) of title 49, United States Code, is amended—
   - **(2)** by striking “(except distribution lines and gathering lines)” and inserting “, including a distribution line or a gathering line (but not including any gathering lines that are not regulated under part 192 or part 195 of title 49, Code of Federal Regulations),”.
 - **(b)** *Requirements for provision of information* Section 60132 of title 49, United States Code, is amended—
   - **(1)** in subsection (b) by striking “under subsection (a)” and inserting “under this section for inclusion in the National Pipeline Mapping System”;
-  - **(2)** in subsection (f), by striking “to subsection (a)” and inserting “to this section for inclusion in the National Pipeline Mapping System”; and
+  - **(2)** in subsection (f) by striking “to subsection (a)” and inserting “to this section for inclusion in the National Pipeline Mapping System”; and
   - **(3)** by adding at the end the following:
     > - **(g)** *Requirements for covered facilities* Not later than 1 year after a pipeline facility described in subsection (a) becomes covered by such subsection, the operator of such facility shall provide to the Secretary the information required under paragraphs (1) through (4) of such subsection with respect to such facility.
     > - **(h)** *Additional information on distribution lines* Not later than 2 years after a distribution line becomes covered by subsection (a), the operator of such distribution line shall provide to the Secretary, in addition to the information required under paragraphs (1) through (4) of subsection (a), information on the distribution systems that could lead to a point of failure, including—
@@ -289,20 +289,87 @@ Section 60302 of title 49, United States Code, is amended—
 - **(b)** *Report to Congress* Upon completion of the report prepared pursuant to subsection (a), the National Academy of Sciences shall submit to the Secretary of Transportation, the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Energy and Commerce of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate the report.
 - **(c)** *Pipeline facilities* In this section, the term pipeline facility has the meaning given that term in section 60101 of title 49, United States Code.
 
-## § 23. Pipeline safety testing
+## § 23. Advancement of new pipeline safety technologies and approaches
 
-- **(a)** *Evaluation* Not later than 18 months after the date of enactment of this Act, the Secretary of Transportation shall submit to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Energy and Commerce of the House of Representatives a report that evaluates concepts for the development of a pipeline safety research and testing facility under the Department of Transportation.
-- **(b)** *Purpose* The purpose of the facility described in subsection (a) shall be to support the Department of Transportation and other governmental entities in product evaluation, personnel training, and research and development of technology and practices to improve the safety, security, efficiency, and environmental impact of—
-  - **(1)** transporting hazardous liquids and gas by pipeline; and
-  - **(2)** storing hazardous liquids or gas for transportation.
-- **(c)** *Use of existing facilities* In conducting the evaluation pursuant to subsection (a), the Secretary shall examine the opportunity to use existing facilities operated by the Department of Transportation or other Federal agencies for research and testing.
-- **(d)** *Report contents* The report described in subsection (a) shall include—
-  - **(1)** the projected costs to establish such a facility;
-  - **(2)** the projected annual costs to operate such a facility;
-  - **(3)** recommendations for sharing or recovering any establishment and operational expenses from private-sector, non-profit, or academic entities that may use the facility;
-  - **(4)** an evaluation of the feasibility of a partnership with a private-sector, non-profit, or academic entity to manage or operate the facility;
-  - **(5)** data and information management protocols for test results; and
-  - **(6)** potential benefits and opportunities for enhancing the training and development of pipeline safety personnel.
+- **(a)** *In general* Chapter 601 of title 49, United States Code, is amended by adding at the end the following:
+  > ## § 60145. Pipeline safety enhancement programs
+  >
+  > - **(a)** *In general* The Secretary may establish and carry out limited safety-enhancing testing programs during the period of fiscal years 2020 through 2026 to evaluate innovative technologies and operational practices testing the safe operation of—
+  >   - **(1)** a natural gas pipeline facility; or
+  >   - **(2)** a hazardous liquid pipeline facility.
+  > - **(b)** *Limitations*
+  >   - **(1)** *In general* Such testing programs may not exceed—
+  >     - **(A)** 5 percent of the total miles of hazardous liquid pipelines in the United States; and
+  >     - **(B)** 5 percent of the total miles of natural gas pipelines in the United States.
+  >   - **(2)** *Individual operator mileage limitation* The Secretary shall limit the mileage an individual operator can test under each program established under subsection (a) to the lesser of—
+  >     - **(A)** 50 percent of the total pipeline mileage in the operator’s system; or
+  >     - **(B)** 1,000 miles.
+  >   - **(3)** *High population areas; high consequence areas* Any program established under subsection (a) shall not be located in a high population area (as defined in section 195.450 of title 49, Code of Federal Regulations) or a high consequence area (as defined in section 192.903 of title 49, Code of Federal Regulations).
+  >   - **(4)** *Unusually sensitive areas* Any program established under subsection (a) shall not be located in an unusually sensitive area (as described in section 60109(b)).
+  >   - **(5)** *High consequence areas for hazardous liquid pipelines*
+  >     - **(A)** *In general* Not later than 1 year after the date of enactment of this section, the Secretary shall submit to Congress a report containing an examination of the benefits and costs of prohibiting testing in high consequence areas (as defined in section 195.450 of title 49, Code of Federal Regulations) for hazardous liquid pipelines.
+  >     - **(B)** *Contents of report* The report described in subparagraph (A) shall examine the safety benefits of allowing testing for hazardous liquid pipelines in high consequence areas and whether additional testing conditions are required to protect such areas while conducting the program established under subsection (a) in such areas.
+  >   - **(6)** *Restriction*
+  >     - **(A)** *In general* The Secretary shall not approve a program under this section until the report required under paragraph (5) is submitted to Congress.
+  >     - **(B)** *Exception* The limitation in subparagraph (A) shall not apply if—
+  >       - **(i)** the Secretary determines that there is a need for a program under this section; and
+  >       - **(ii)** more than 1 year has passed since the date of enactment of this section.
+  > - **(c)** *Duration* The term of a testing program established under subsection (a) shall be not more than a period of 4 years beginning on the date of approval of the program.
+  > - **(d)** *Safety standards*
+  >   - **(1)** *In general* The Secretary shall require, as a condition of approval of a testing program under subsection (a), that the safety measures in the testing program are designed to achieve a level of safety that is greater than, or equivalent to, the level of safety required by this chapter.
+  >   - **(2)** *Determination*
+  >     - **(A)** *In general* The Secretary may issue an order under subparagraph (A) of section 60118(c)(1) to accomplish the purpose of a testing program for a term not to exceed the time period described in subsection (c) if the condition described in paragraph (1) is met, as determined by the Secretary.
+  >     - **(B)** *Limitation* An order under subparagraph (A) shall pertain only to those regulations that would otherwise prevent the use of the safety technology to be tested under the testing program.
+  > - **(e)** *Considerations* In establishing a testing program under subsection (a), the Secretary shall consider—
+  >   - **(1)** the accident or incident record of the owners or operators participating in the program;
+  >   - **(2)** whether the owners or operators participating in the program have a safety management system in place and how the application for such program proposes to eliminate or mitigate any potential safety risks;
+  >   - **(3)** a description of any measures or activities the owners or operators participating in the program propose to eliminate or mitigate any environmental risks;
+  >   - **(4)** a description of any previous testing and the outcome of such testing of the proposed safety technology through a research and development program carried out by—
+  >     - **(A)** the Secretary;
+  >     - **(B)** collaborative research development organizations; or
+  >     - **(C)** other institutions;
+  >   - **(5)** whether there have been other testing programs granted under subsection (a) similar to the proposed safety technology and the outcome of such programs; and
+  >   - **(6)** whether the pipeline segments tested by the program could affect, or are outside of, a high consequence areas (as defined in sections 192.903 and 195.450 of title 49, Code of Federal Regulations) and unusually sensitive areas (as described in section 60109(b)).
+  > - **(f)** *Multiple operators*
+  >   - **(1)** *In general* The Secretary may select up to 5 owners or operators to carry out a testing program under subsection (a) in a single application.
+  >   - **(2)** *Determination* In selecting owners or operators under paragraph (1), the Secretary shall determine that each testing program proposed by such owners or operators—
+  >     - **(A)** meet the requirements of subsection (d)(1);
+  >     - **(B)** test a similar technology, best practice, or related set of technologies and best practices; and
+  >     - **(C)** provides appropriate testing conditions for the technologies or practices being used.
+  >   - **(3)** *Authority to revoke participation* If an owner or operator participating in a program established under subsection (a), the Secretary may revoke permission to participate in such program if—
+  >     - **(A)** the owner or operator is involved in an accident or incident and the testing program is determined to be the cause or a contributing factor of such accident or incident; or
+  >     - **(B)** the Secretary determines revocation of permission is warranted for public safety reasons.
+  > - **(g)** *Data and findings*
+  >   - **(1)** *In general* As a participant in a testing program established under subsection (a), an owner or operator shall submit to the Secretary detailed findings and a summary of data collected as a result of participation in the testing program.
+  >   - **(2)** *Public report* To the extent practicable, the Secretary shall make a yearly interim report publicly available on the website of the Department of Transportation for any ongoing testing program established under subsection (a) summarizing the progress of such program.
+  > - **(h)** *Authority to revoke participation* The Secretary shall immediately revoke participation in a testing program under subsection (a) if—
+  >   - **(1)** the participant has an accident or incident involving a death, or personal injury necessitating in-patient hospitalization and the testing program is determined to be the cause or a contributing factor to such accident or incident;
+  >   - **(2)** the participant fails to comply with the terms and conditions of the testing program; or
+  >   - **(3)** in the determination of the Secretary, continued participation in the testing program by the participant would be unsafe.
+  > - **(i)** *Authority to terminate program* The Secretary shall immediately terminate a testing program under subsection (a) if continuation of the testing program would not be consistent with the goals and objectives of this chapter.
+  > - **(j)** *State rights*
+  >   - **(1)** *Exemption* Except as provided in paragraph (2), if a State submits to the Secretary notice that the State requests an exemption from any testing program considered for establishment under this section, the State shall be exempt.
+  >   - **(2)** *Limitations*
+  >     - **(A)** *In general* The Secretary shall not grant a requested exemption under paragraph (1) after a testing program is established.
+  >     - **(B)** *Late notice* The Secretary shall not grant a requested exemption under paragraph (1) if the notice submitted under that paragraph is submitted to the Secretary more than 10 days after the date on which the Secretary issues an order providing an effective date for the testing program.
+  >   - **(3)** *Exception* A State shall be eligible to withdraw from a testing program if an owner or operator conducting such testing program in such State has an incident involving a death, a personal injury necessitating in-patient hospitalization, or a reportable accident (within the meaning of sections 195.50 and 191.3 of title 49, Code of Federal Regulations), and the testing program is determined to be the cause or a contributing factor to such incident.
+  >   - **(4)** *Effect* If a State has not submitted a notice requesting an exemption under paragraph (1), the State shall not enforce any law (including regulations) that is inconsistent with a testing program in effect in the State under this section.
+  > - **(k)** *Program review process and public notice*
+  >   - **(1)** *In general* The Secretary shall publish in the Federal Register a notice of each testing program under subsection (a), including the order to be considered, and provide an opportunity for public comment for not less than 60 days.
+  >   - **(2)** *Communication with States*
+  >     - **(A)** *In general* As part of carrying out the process described in paragraph (1), the Secretary shall individually notify, at the time described in paragraph (1), the relevant authorities in the States such testing programs would be conducted in.
+  >     - **(B)** *Notification contents* The notification described in subparagraph (A) shall include a specific list of the laws or regulations that the State would not be allowed to enforce pursuant to subsection (j)(4) should such testing program go into effect, and the ability of the State to request an exemption from the program.
+  >   - **(3)** *Response from Secretary* Not later than the date on which the Secretary issues an order providing an effective date of a testing program noticed under paragraph (1), the Secretary shall respond to each comment submitted under that paragraph.
+  > - **(l)** *Report to Congress* At the conclusion of each testing program, the Secretary shall make publicly available on the website of the Department of Transportation a report containing—
+  >   - **(1)** the findings and conclusions of the Secretary with respect to the testing program; and
+  >   - **(2)** any recommendations of the Secretary with respect to the testing program, including any recommendations for amendments to laws (including regulations) and the establishment of standards, that—
+  >     - **(A)** would enhance the safe operation of interstate gas or hazardous liquid pipeline facilities; and
+  >     - **(B)** are technically, operationally, and economically feasible.
+  > - **(m)** *Standards* If a report under subsection (l) indicates that it is practicable to establish technically, operationally, and economically feasible standards for the use of a safety-enhancing technology and any corresponding operational practices tested by the testing program described in the report, the Secretary, as soon as practicable after submission of the report, may promulgate regulations consistent with chapter 5 of title 5 (commonly known as the “Administrative Procedures Act”) that—
+  >   - **(1)** allow operators of interstate gas or hazardous liquid pipeline facilities to use the relevant technology or practice to the extent practicable; and
+  >   - **(2)** establish technically, operationally, and economically feasible standards for the capability and deployment of the technology or practice.
+
+- **(b)** *Clerical amendment* The table of sections for chapter 601 of title 49, United States Code, is further amended by adding at the end:
 
 ## § 24. Workforce
 
@@ -365,24 +432,28 @@ Not later than 1 year after the date of enactment of this Act, the Secretary of 
 
 ## § 29. Component verification
 
-- **(a)** *In general* Section 60102(e) of title 49, United States Code, is amended—
-  - **(1)** by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B);
-  - **(2)** by striking “The Secretary shall” and inserting the following:
-    > - **(1)** *In general* The Secretary shall
+- **(a)** *In general*
+  - **(1)** *Verification* Section 60102(e) of title 49, United States Code, is amended—
+    - **(A)**
+      - **(i)** in paragraph (1), by striking “and” at the end; and
+      - **(ii)** in paragraph (2), by striking the period at the end and inserting “; and”;
+    - **(B)** by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively (and by adjusting the margins accordingly);
+    - **(C)** by striking “The Secretary shall” and inserting the following:
+      > - **(1)** *In general* The Secretary shall
 
-  - **(3)** by adding at the end the following:
-    > - **(C)** for facilities identified under subparagraphs (A) and (B), shall include, for all pipes and related components for which the regulations of the Pipeline and Hazardous Materials Safety Administration require compliance with a standard incorporated by reference for such pipe or related component, documentation of verification that such pipe or related component meets such standard.
-    > - **(2)** *Verification* The verification described in paragraph (1)(C) shall be conducted by—
-    >   - **(A)** an independent third party on behalf of the operator;
-    >   - **(B)** the operator, so long as such operator does not pay, or receive payment from, a manufacturer, distributor, or supplier of a pipe or related component described in paragraph (1)(C) for such verification; or
-    >   - **(C)** a United States manufacturer of a pipe or related component described in paragraph (1)(C) that is accredited by the International Organization for Standardization.
-    > - **(3)** *Definitions* In this subsection:
-    >   - **(A)** *Verification* The term verification means sufficient testing and auditing to confirm that a standard has been met in the production of a pipe or related component.
-    >   - **(B)** *Independent third party* The term independent third party means an entity that—
-    >     - **(i)** does not have a commercial relationship with the manufacturer or supplier of a pipe or related component; and
-    >     - **(ii)** is accredited by the International Organization for Standardization.
+    - **(D)** by adding at the end the following:
+      > - **(C)** for facilities identified under subparagraphs (A) and (B), shall include, for all pipes and related components for which the regulations of the Pipeline and Hazardous Materials Safety Administration require compliance with a standard incorporated by reference for such pipe or related component, documentation of verification that such pipe or related component meets such standard.
+      > - **(2)** *Verification* The verification described in paragraph (1)(C) shall be conducted by—
+      >   - **(A)** an independent third party on behalf of the operator;
+      >   - **(B)** the operator, so long as such operator does not pay, or receive payment from, a manufacturer, distributor, or supplier of a pipe or related component described in paragraph (1)(C) for such verification; or
+      >   - **(C)** a United States manufacturer of a pipe or related component described in paragraph (1)(C) that is accredited by the International Organization for Standardization.
+      > - **(3)** *Definitions* In this subsection:
+      >   - **(A)** *Verification* The term verification means sufficient testing and auditing to confirm that a standard has been met in the production of a pipe or related component.
+      >   - **(B)** *Independent third party* The term independent third party means an entity that—
+      >     - **(i)** does not have a commercial relationship with the manufacturer or supplier of a pipe or related component; and
+      >     - **(ii)** is accredited by the International Organization for Standardization.
 
-  - **(4)** *Applicability* The amendments made by this subsection shall only apply to pipes and components that are—
+  - **(2)** *Applicability* The amendments made by this subsection shall only apply to pipes and components that are—
     - **(A)** covered by the amendments made by such subsection; and
     - **(B)** purchased on or after the date of enactment of this Act.
 - **(b)** *Review of compliance of flanges and fittings*
@@ -393,7 +464,7 @@ Not later than 1 year after the date of enactment of this Act, the Secretary of 
     - **(C)** an analysis of the degree of compliance by such manufacturers and distributors with the standards described in subparagraph (A), the identification of any instances of non-compliance with such standards, and the form, degree, and scope of such non-compliance;
     - **(D)** a review of the extent to which verification (as such term is defined in section 60102(e) of title 49, United States Code, as added by this section) by operators of pipeline facilities of whether such flanges and fittings of pipeline facilities meet the applicable standards described in subparagraph (A) is occurring;
     - **(E)** a review of the safety benefits of requiring pipeline incident reports to include the identification of the manufacturer of the flanges and fittings involved in those incidents; and
-    - **(F)** identification and recommendation of any additional authorities or responsibilities for the Secretary of Transportation, or additional standards, necessary to improve the safety and integrity of flanges and fittings through manufacturing and distribution.
+    - **(F)** an identification and recommendation of any additional authorities or responsibilities for the Secretary of Transportation, or additional standards, necessary to improve the safety and integrity of flanges and fittings through manufacturing and distribution.
   - **(3)** *Report* Not later than 210 days after the date of enactment of this Act, the Comptroller General shall submit to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, and the Secretary of Transportation a report containing the results of the review completed under paragraph (1) and any recommendations for legislation or changes to existing regulations.
   - **(4)** *Public comment process*
     - **(A)** *In general* Not later than 30 days after submission of the report required under paragraph (3) to the Secretary, the Secretary shall provide a period of not fewer than 60 days for public comment regarding such report.
@@ -403,3 +474,75 @@ Not later than 1 year after the date of enactment of this Act, the Secretary of 
 ## § 30. Codification of final rule
 
 The amendments to the Code of Federal Regulations made pursuant to the final rule of the Environmental Protection Agency, titled “Oil and Natural Gas Sector: Emission Standards for New, Reconstructed, and Modified Sources” and published in the Federal Register on June 3, 2016 (81 Fed. Reg. 35824), shall have the same force and effect of law as if such amendments had been enacted by an Act of Congress, except that the Administrator of the Environmental Protection Agency may revise such regulations, as provided for under the Clean Air Act, if such revision would result in a reduction in gas release.
+
+## § 31. Threatening safe operations of pipeline infrastructure
+
+Section 60123 of title 49, United States Code, is amended by adding at the end the following:
+
+> - **(e)** *Penalty for threatening the safe operations of pipeline infrastructure*
+>   - **(1)** *In general* A person knowingly and willfully engaging in the unauthorized turning or manipulation of a valve of any pipeline facility described in subsection (b) shall be fined under title 18, imprisoned for not more than 5 years, or both.
+>   - **(2)** *Rule of statutory construction* Nothing in this subsection abridges the exercise of rights guaranteed under the First Amendment to the Constitution of the United States.
+
+## § 32. Penalty for causing a defect in pipeline infrastructure under construction
+
+Section 60123 of title 49, United States Code, is further amended by adding at the end the following:
+
+> - **(f)** *Penalty for causing a defect in pipeline infrastructure under construction*
+>   - **(1)** *In general* A person knowingly and willfully causing a defect in a pipe, pump, or valve intended to be used in any pipeline facility described in subsection (b) that would affect the integrity or safe operation of any such facility shall be fined under title 18, imprisoned for not more than 5 years, or both.
+>   - **(2)** *Rule of statutory construction* Nothing in this subsection abridges the exercise of rights guaranteed under the First Amendment to the Constitution of the United States.
+
+## § 33. Use of a firearm to damage pipeline infrastructure under construction
+
+Section 60123 of title 49, United States Code, is further amended by adding at the end the following:
+
+> - **(g)** *Penalty for using a firearm to damage pipeline infrastructure under construction*
+>   - **(1)** *In general* A person knowingly and willfully using a firearm to puncture or damage a pipe, pump, or valve intended to be used in any pipeline facility described in subsection (b) shall be fined under title 18, imprisoned for not more than 5 years, or both.
+>   - **(2)** *Rule of statutory construction* Nothing in this subsection abridges the exercise of rights guaranteed under the First Amendment to the Constitution of the United States.
+
+## § 34. Pipeline safety voluntary information-sharing system
+
+- **(a)** *In general* Chapter 601 of title 49, United States Code, is further amended by adding at the end the following:
+  > ## § 60146. Voluntary information-sharing system
+  >
+  > - **(a)** *Establishment*
+  >   - **(1)** *In general* Subject to the availability of funds, the Secretary may establish a confidential and nonpunitive voluntary information-sharing system (referred to in this section as the “System”) to encourage collaborative efforts to improve inspection information feedback and information sharing, with the purpose of improving natural gas transmission and hazardous liquid pipeline safety.
+  >   - **(2)** *Components* The System—
+  >     - **(A)** shall include pipeline integrity risk analysis information; and
+  >     - **(B)** may include other information relating to reducing pipeline incidents, such as—
+  >       - **(i)** lessons learned from accidents and near misses;
+  >       - **(ii)** process improvements;
+  >       - **(iii)** technology deployments; and
+  >       - **(iv)** other voluntary information-sharing systems.
+  >   - **(3)** *Requirement* The System shall protect proprietary information while encouraging the exchange of data, including in-line inspection and dig verification data, among operators, tool vendors, and the representatives of the Secretary to facilitate the development of—
+  >     - **(A)** advanced pipeline-inspection technologies; and
+  >     - **(B)** enhanced risk analysis.
+  >   - **(4)** *Consultation* If appropriate, the Secretary may involve other public and private stakeholders in establishing and maintaining the System.
+  > - **(b)** *Data manager* In carrying out this section, the Secretary may engage a partner agency or nongovernmental entity to receive, store, manage, and provide for the use of—
+  >   - **(1)** system data; and
+  >   - **(2)** information submitted to the System.
+  > - **(c)** *Limitation on disclosure*
+  >   - **(1)** *Applicability of FOIA* Any part of any record (including, but not limited to an analysis by a pipeline operator of the safety risks of the pipeline operator and a statement of the mitigation measures identified by the pipeline operator to address those risks) provided to the Secretary and retained in the System is exempt from the requirements of section 552 of title 5, and specifically exempt from release under subsection (b)(3) of that section, if the record is—
+  >     - **(A)** supplied to the Secretary for purposes of the System; or
+  >     - **(B)** made available for inspection and copying by an officer, employee, or agent of the Secretary for purposes of the System.
+  >   - **(2)** *Exception* Notwithstanding paragraph (1), the Secretary in consultation with the information owner, may disclose deidentified material or any part of any record comprised of facts otherwise available to the public if, in the sole discretion of the Secretary, the Secretary determines that disclosure would be consistent with the confidentiality needed for the System and improve pipeline safety.
+  > - **(d)** *Excluded evidence* Except as provided in subsection (f), any data or information submitted to or stored, managed, analyzed, or produced by the System shall not be used—
+  >   - **(1)** as evidence for any purpose in any Federal, State, local, Tribal, or private litigation, including any action or proceeding; or
+  >   - **(2)** to support any corrective action relating to a probable violation under this chapter (including any regulation promulgated or order issued under this chapter).
+  > - **(e)** *Exclusion from discovery* Except as provided in subsection (f), any data or information submitted to or stored, managed, analyzed, or produced by the System shall not be subject to discovery in any Federal, State, local, Tribal, or private litigation or other proceeding.
+  > - **(f)** *Limitations on exclusion* The exclusions described in subsections (d) and (e) shall not apply to—
+  >   - **(1)** evidence of a knowing and willful violation;
+  >   - **(2)** a reportable release under sections 191.7 or 195.50 of title 49, Code of Federal Regulations (or a successor regulation);
+  >   - **(3)** a safety-related condition under sections 191.7 or 195.55 of title 49, Code of Federal Regulations (or a successor regulation); or
+  >   - **(4)** data or information obtained by the Secretary independently of the System.
+  > - **(g)** *Governing board* Not later than 180 days after the date of enactment of this section, the Administrator shall establish a governing board co-chaired by the Administrator and a representative of the pipeline industry to—
+  >   - **(1)** govern the System through consensus of the board and co-chairs;
+  >   - **(2)** develop governance documents and oversee their enforcement; and
+  >   - **(3)** establish and appoint members of issue analysis teams;
+  > - **(h)** *Confidentiality* No person, including any System governing board member, program manager, third-party data manager, issue analysis team member, nor any Federal, State, local or tribal agency, having or obtaining access to any data or information submitted to, stored, managed, analyzed or produced by the System, shall release or communicate that information to any person outside the System, with the sole exception being the publication of reports by the System based on analysis of de-identified information and safety related findings that the System governing board in its sole discretion determines to publish or authorize the Administration to publish.
+  > - **(i)** *Voluntary participation* No person may be compelled to participate in or submit data or information to the System.
+  > - **(j)** *Sustainable funding* The Secretary shall explore sustainable funding sources for the System, including public-private partnerships.
+  > - **(k)** *Effect* Nothing in this section affects any Federal or State pipeline safety law.
+  > - **(l)** *Limitation on funding* The Secretary may expend not more than $1,000,000 for each of the fiscal years 2020 through 2024 to establish the System.
+  > - **(m)** *Savings clause* Notwithstanding the protections provided under this section, no pipeline operator may use the submission of information to the System as protection against enforcement actions or corrective orders that are based on information or evidence obtained outside of the System.
+
+- **(b)** *Clerical amendment* The table of sections for chapter 601 of title 49, United States Code, is further amended by adding at the end the following:
