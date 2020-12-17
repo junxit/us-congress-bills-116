@@ -1,7 +1,7 @@
 ---
 measure: S. 3989
 congress: 116
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 

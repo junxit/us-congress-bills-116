@@ -1,15 +1,13 @@
 ---
 legis-num: S. 3989
-congress: 116th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Sixteenth Congress of the United States of America
+session: 2d Sess.
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 3989
 
-That the bill from the Senate (S. 3989) entitled “An Act to amend the United States Semiquincentennial Commission Act of 2016 to modify certain membership and other requirements of the United States Semiquincentennial Commission, and for other purposes.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To amend the United States Semiquincentennial Commission Act of 2016 to modify certain membership and other requirements of the United States Semiquincentennial Commission, and for other purposes.
 
 ## § 1. Short title
 
