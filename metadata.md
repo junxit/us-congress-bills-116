@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2610
 congress: 116
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2610
@@ -76,3 +76,13 @@ Fraud and Scam Reduction Act
 - 2020-11-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5827-5829)
 - 2020-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5827-5829)
 - 2020-11-18 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2020-12-17 — Amendment SA 2713 agreed to in Senate by Unanimous Consent.
+- 2020-12-17 — Amendment SA 2713 proposed by Senator Braun for Senator Wicker. (consideration: CR S7638-7639; text: CR S7638-7639) In the nature of a substitute.
+- 2020-12-17 — Measure laid before Senate by unanimous consent. (consideration: CR S7638-7639)
+- 2020-12-17 — Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: CR S7638-7639)
+- 2020-12-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2020-12-17 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2020-12-17 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2020-12-17 — Senate amendment agreed to: Amendment SA 2713 agreed to in Senate by Unanimous Consent.
+- 2020-12-17 — Senate amendment proposed (on the floor): Amendment SA 2713 proposed by Senator Braun for Senator Wicker.
+- 2020-12-17 — Senate amendment submitted
