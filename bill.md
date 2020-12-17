@@ -2,12 +2,14 @@
 legis-num: S. 3989
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 3989
 
-> To amend the United States Semiquincentennial Commission Act of 2016 to modify certain membership and other requirements of the United States Semiquincentennial Commission, and for other purposes.
+That the bill from the Senate (S. 3989) entitled “An Act to amend the United States Semiquincentennial Commission Act of 2016 to modify certain membership and other requirements of the United States Semiquincentennial Commission, and for other purposes.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title
 
@@ -25,7 +27,7 @@ This Act may be cited as the “United States Semiquincentennial Commission Amen
     >   - **(ii)** an Associate Justice or former Associate Justice appointed by the Chief Justice of the United States.
 
   - **(2)** in subsection (c), by adding at the end the following:
-    > - **(3)** *Removal of members who are private citizens* On an affirmative vote of not less than 2/3 of the members of the Commission, the Commission may remove a member of the Commission appointed under subsection (b)(3).
+    > - **(3)** *Removal of members who are private citizens* Following notice and approval of the relevant appointing authority, on an affirmative vote of not less than 2/3 of the members of the Commission, the Commission may remove a member of the Commission appointed under subsection (b)(3).
 
   - **(3)** in subsection (d)—
     - **(A)** by striking “All meetings” and inserting the following:
@@ -40,12 +42,9 @@ This Act may be cited as the “United States Semiquincentennial Commission Amen
   - **(2)** in paragraph (4), in the matter preceding subparagraph (A), by inserting “and other” after “founding”.
 - **(d)** *Expenditures of commission* Section 9 of the United States Semiquincentennial Commission Act of 2016 (Public Law 114–196; 130 Stat. 691) is amended—
   - **(1)** by striking subsection (a) and inserting the following:
-    > - **(a)** *In general* All expenditures of the Commission shall be made from donations, earned income, and any funds made available to carry out this Act under subsection (g).
+    > - **(a)** *In general* All expenditures of the Commission shall be made from donations, earned income, and any funds made available to carry out this Act under subsection (f).
 
   - **(2)** in subsection (d), by striking “Once each year during the period beginning on the date of enactment of this Act” and inserting “Annually during the period beginning 1 year after the Commission submits the report to the President under section 5(c)(1)”; and
   - **(3)** by adding at the end the following:
-    > - **(e)** *Intellectual property protections* The Commission shall have the sole power to authorize, license, and, as applicable, derive income from, the usage of official marks, imprimaturs, products, and logos of the Commission and the official United States Semiquincentennial activities sponsored or cosponsored by the Commission.
-    > - **(f)** *Enforcement*
-    >   - **(1)** *In general* Subject to paragraph (2), except as authorized under rules and regulations officially issued by the Commission, any person who knowingly manufactures, reproduces, or uses any logo, symbol, or mark originated under authority of, and certified by, in accordance with paragraph (2), the Commission or the secretariat of the Commission described in subsection (b) for use in connection with the commemoration of the United States Semiquincentennial, or any facsimile of the logo, symbol, or mark, or holds out to the public objects in a manner to suggest any logo, symbol, or mark not officially authorized by the Commission or the secretariat of the Commission, shall be fined not more than $1,000 for each unauthorized use, imprisoned for not more than 1 year, or both.
-    >   - **(2)** *Applicability date* The requirements of paragraph (1) shall apply beginning on the date of publication in the Federal Register of notice of certification by the Commission or secretariat of the Commission with respect to a logo, symbol, or mark.
-    > - **(g)** *Authorization of appropriations* There are authorized to be appropriated such sums as are necessary to carry out this Act.
+    > - **(e)** *Intellectual property protections* The Commission shall have the exclusive right to use, and to allow others to use, the official marks, imprimaturs, and logos of the Commission.
+    > - **(f)** *Authorization of appropriations* There are authorized to be appropriated such sums as are necessary to carry out this Act.
