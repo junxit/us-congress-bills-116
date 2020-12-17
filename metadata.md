@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3250
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3250
@@ -66,6 +66,10 @@ Julius Rosenwald and the Rosenwald Schools Act of 2020
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2020-12-17 — [House 116-2-245](votes/house-116-2-0245.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (387–5)
+
 ## Actions
 
 - 2019-06-13 — Introduced in House
@@ -79,3 +83,11 @@ Julius Rosenwald and the Rosenwald Schools Act of 2020
 - 2020-06-11 — Placed on the Union Calendar, Calendar No. 345.
 - 2020-06-11 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-431.
 - 2020-06-11 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-431.
+- 2020-12-17 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2020-12-17 — Considered as unfinished business. (consideration: CR H7252-7253)
+- 2020-12-17 — Considered under suspension of the rules. (consideration: CR H7247-7248)
+- 2020-12-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3250.
+- 2020-12-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-17 — Mr. Gallego moved to suspend the rules and pass the bill, as amended.
+- 2020-12-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 387 - 5 (Roll no. 245). (text: CR H7247)
+- 2020-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 387 - 5 (Roll no. 245).
