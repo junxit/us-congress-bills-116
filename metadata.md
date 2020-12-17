@@ -1,7 +1,7 @@
 ---
 measure: S. 3989
 congress: 116
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 3989
@@ -41,3 +41,13 @@ United States Semiquincentennial Commission Amendments Act of 2020
 - 2020-12-17 — Mr. Khanna moved to suspend the rules and pass the bill, as amended.
 - 2020-12-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7244)
 - 2020-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-12-18 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2020-12-19 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 3989 by Unanimous Consent.
+- 2020-12-19 — Senate agreed to the House amendment to S. 3989 by Unanimous Consent. (consideration: CR S7853)
+- 2020-12-20 — Message on Senate action sent to the House.
+- 2020-12-21 — Presented to President.
+- 2020-12-21 — Presented to President.
+- 2020-12-31 — Became Public Law No: 116-282.
+- 2020-12-31 — Became Public Law No: 116-282.
+- 2020-12-31 — Signed by President.
+- 2020-12-31 — Signed by President.
