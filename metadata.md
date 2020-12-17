@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1923
 congress: 116
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1923
@@ -223,3 +223,14 @@ Circulating Collectible Coin Redesign Act of 2020
 - 2020-12-17 — Senate amendment agreed to: Amendment SA 2717 agreed to in Senate by Unanimous Consent.
 - 2020-12-17 — Senate amendment proposed (on the floor): Amendment SA 2717 proposed by Senator Braun for Senator Cortez Masto.
 - 2020-12-17 — Senate amendment submitted
+- 2020-12-18 — Message on Senate action sent to the House.
+- 2020-12-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-31 — Mrs. Dingell asked unanimous consent to take the bill, H.R. 1923, from the Speaker's Table and agree to the Senate amendment. (consideration: CR H9172)
+- 2020-12-31 — On motion that the House agree to the Senate amendment Agreed to without objection. (text: CR H9172)
+- 2020-12-31 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text: CR H9172)
+- 2021-01-01 — Presented to President.
+- 2021-01-01 — Presented to President.
+- 2021-01-13 — Became Public Law No: 116-330.
+- 2021-01-13 — Became Public Law No: 116-330.
+- 2021-01-13 — Signed by President.
+- 2021-01-13 — Signed by President.
