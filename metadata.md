@@ -1,7 +1,7 @@
 ---
 measure: S. 1782
 congress: 116
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1782
@@ -16,9 +16,13 @@ Improving Mental Health Access for Students Act
 
 - Sen. Kennedy, John [R-LA] (K000393)
 
-## Cosponsors (1)
+## Cosponsors (5)
 
 - Sen. Jones, Doug [D-AL] (J000300)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Rosen, Jacky [D-NV] (R000608)
 
 ## Committees (1)
 
@@ -28,3 +32,7 @@ Improving Mental Health Access for Students Act
 
 - 2019-06-11 — Introduced in Senate
 - 2019-06-11 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2020-12-17 — Passed Senate without amendment by Voice Vote. (text: CR S7580-7581)
+- 2020-12-17 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2020-12-17 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2020-12-17 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S7580-7581)
