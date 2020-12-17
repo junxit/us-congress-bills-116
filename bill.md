@@ -27,13 +27,23 @@ Congress makes the following findings:
 - **(6)** Due to the unique leadership position of the United States in the global community, adequate funding of the anti-doping and clean sport programs of the United States Anti-Doping Agency is imperative to the preparation for the 2028 Summer Olympic Games, which will be held in Los Angeles, California.
 - **(7)** Increased appropriations for fiscal years 2021 through 2029 would enable the United States Anti-Doping Agency to directly affect the integrity and well-being of sport, both domestically and internationally.
 
-## § 3. Promotion of youth sports
+## § 3. Modifications of authority
 
-Section 701(b) of the Office of National Drug Control Policy Reauthorization Act of 2006 (21 U.S.C. 2001(b)) is amended—
+Section 701 of the Office of National Drug Control Policy Reauthorization Act of 2006 (21 U.S.C. 2001) is amended—
 
-- **(1)** in paragraph (4), by striking the period at the end and inserting “; and”; and
+- **(1)** in subsection (b)—
+  - **(A)** by amending paragraph (1) to read as follows:
+    > - **(1)**
+    >   - **(A)** serve as the independent anti-doping organization for the amateur athletic competitions recognized by the United States Olympic and Paralympic Committee;
+    >   - **(B)** be responsible for certifying in advance any testing conducted by international organizations under the World Anti-Doping Code for international amateur athletes and athletic competitions occurring within the jurisdiction of the United States; and
+    >   - **(C)** be recognized worldwide as the independent national anti-doping organization for the United States;
+
+  - **(B)** in paragraph (4), by striking the period at the end and inserting “; and”; and
+  - **(C)** by adding at the end the following:
+    > - **(5)** promote a positive youth sport experience by using a portion of the funding of the United States Anti-Doping Agency to provide educational materials on sportsmanship, character building, and healthy performance for the athletes, parents, and coaches who participate in youth sports.
+
 - **(2)** by adding at the end the following:
-  > - **(5)** promote a positive youth sport experience by using a portion of the funding of the United States Anti-Doping Agency to provide educationalby providing educational materials on sportsmanship, character building, and healthy performance for the athletes, parents, and coaches who participate in youth sports.
+  > - **(c)** *Due process in arbitration proceedings* Any action taken by the United States Anti-Doping Agency to enforce a policy, procedure, or requirement of the United States Anti-Doping Agency against a person with respect to a violation of Federal law, including an investigation, a disciplinary action, a sanction, or any other administrative action, shall be carried out in a manner that provides due process protection to the person.
 
 ## § 4. Authorization of appropriations
 
@@ -56,12 +66,3 @@ Section 703 of the Office of National Drug Control Policy Reauthorization Act of
 ## § 5. Information sharing
 
 Except as otherwise prohibited by law and except in cases in which the integrity of a criminal investigation would be affected, pursuant to the obligation of the United States under Article 7 of the United Nations Educational, Scientific, and Cultural Organization International Convention Against Doping in Sport done at Paris October 19, 2005, and ratified by the United States in 2008, the Attorney General, the Secretary of Homeland Security, and the Commissioner of Food and Drugs shall provide to the United States Anti-Doping Agency any relevant information relating to the prevention of the use of performance-enhancing drugs or the prohibition of performance-enhancing methods.
-
-## § 6. Report on capacity to implement equine anti-doping and medication control program
-
-Not later than 180 days after the date of the enactment of this Act, the United States Anti-Doping Agency shall submit to Congress a report that—
-
-- **(1)** assesses the capacity of the United States Anti-Doping Agency to implement an equine anti-doping and medication control program; and
-- **(2)** includes—
-  - **(A)** recommendations with respect to best practices for design, resources, and any other consideration necessary for the successful implementation of such a program in the United States; and
-  - **(B)** recommendations developed in consultation with the National Veterinary Services Laboratories with respect to the appropriate technical standards and best practices for such a program.
