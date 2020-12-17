@@ -1,7 +1,7 @@
 ---
 measure: S. 1681
 congress: 116
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1681
@@ -28,3 +28,13 @@ Advancing Education on Biosimilars Act of 2020
 
 - 2019-05-23 — Introduced in Senate
 - 2019-05-23 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2020-12-17 — Amendment SA 2716 agreed to in Senate by Unanimous Consent.
+- 2020-12-17 — Amendment SA 2716 proposed by Senator Braun for Senator Alexander. (consideration: CR S7643; text: CR S7643) In the nature of a substitute.
+- 2020-12-17 — Measure laid before Senate by unanimous consent. (consideration: CR S7642-7643)
+- 2020-12-17 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S7643)
+- 2020-12-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2020-12-17 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2020-12-17 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2020-12-17 — Senate amendment agreed to: Amendment SA 2716 agreed to in Senate by Unanimous Consent.
+- 2020-12-17 — Senate amendment proposed (on the floor): Amendment SA 2716 proposed by Senator Braun for Senator Alexander.
+- 2020-12-17 — Senate amendment submitted
