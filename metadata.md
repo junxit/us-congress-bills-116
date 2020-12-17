@@ -1,7 +1,7 @@
 ---
 measure: H.R. 123
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 123
@@ -16,6 +16,11 @@ Alternative Data for Additional Credit FHA Pilot Program Reauthorization Act
 
 - Rep. Green, Al [D-TX-9] (G000553)
 
+## Cosponsors (2)
+
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+
 ## Committees (1)
 
 - House — Financial Services Committee
@@ -25,3 +30,10 @@ Alternative Data for Additional Credit FHA Pilot Program Reauthorization Act
 - 2019-01-03 — Introduced in House
 - 2019-01-03 — Introduced in House
 - 2019-01-03 — Referred to the House Committee on Financial Services.
+- 2019-09-18 — Committee Consideration and Mark-up Session Held.
+- 2019-09-19 — Committee Consideration and Mark-up Session Held.
+- 2019-09-20 — Committee Consideration and Mark-up Session Held.
+- 2019-09-20 — Ordered to be Reported (Amended) by the Yeas and Nays: 32 - 22.
+- 2020-12-17 — Placed on the Union Calendar, Calendar No. 547.
+- 2020-12-17 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-663.
+- 2020-12-17 — Reported (Amended) by the Committee on Financial Services. H. Rept. 116-663.
