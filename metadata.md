@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6535
 congress: 116
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6535
@@ -54,3 +54,9 @@ To deem an urban Indian organization and employees thereof to be a part of the P
 - 2020-12-15 — Placed on the Union Calendar, Calendar No. 535.
 - 2020-12-15 — Reported by the Committee on Natural Resources. H. Rept. 116-651, Part I.
 - 2020-12-15 — Reported by the Committee on Natural Resources. H. Rept. 116-651, Part I.
+- 2020-12-17 — Considered under suspension of the rules. (consideration: CR H7245-7247)
+- 2020-12-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6535.
+- 2020-12-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-17 — Mr. Gallego moved to suspend the rules and pass the bill, as amended.
+- 2020-12-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7245)
+- 2020-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
