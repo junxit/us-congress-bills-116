@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1923
 congress: 116
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1923
@@ -16,7 +16,7 @@ Circulating Collectible Coin Redesign Act of 2020
 
 - Rep. Lee, Barbara [D-CA-13] (L000551)
 
-## Cosponsors (168)
+## Cosponsors (169)
 
 - Rep. Gonzalez, Anthony [R-OH-16] (G000588)
 - Rep. Kaptur, Marcy [D-OH-9] (K000009)
@@ -186,6 +186,7 @@ Circulating Collectible Coin Redesign Act of 2020
 - Rep. Calvert, Ken [R-CA-42] (C000059)
 - Rep. Luria, Elaine G. [D-VA-2] (L000591)
 - Rep. Moulton, Seth [D-MA-6] (M001196)
+- Sen. Fischer, Deb [R-NE] (F000463)
 
 ## Committees (2)
 
@@ -212,3 +213,13 @@ Circulating Collectible Coin Redesign Act of 2020
 - 2020-09-22 — Passed/agreed to in House: On passage Passed without objection.
 - 2020-09-22 — The title of the measure was amended. Agreed to without objection.
 - 2020-09-23 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2020-12-17 — Amendment SA 2717 agreed to in Senate by Unanimous Consent.
+- 2020-12-17 — Amendment SA 2717 proposed by Senator Braun for Senator Cortez Masto. (consideration: CR S7643; text: CR S7643) To improve the bill.
+- 2020-12-17 — Measure laid before Senate by unanimous consent. (consideration: CR S7643)
+- 2020-12-17 — Passed Senate with an amendment by Unanimous Consent.
+- 2020-12-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2020-12-17 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2020-12-17 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2020-12-17 — Senate amendment agreed to: Amendment SA 2717 agreed to in Senate by Unanimous Consent.
+- 2020-12-17 — Senate amendment proposed (on the floor): Amendment SA 2717 proposed by Senator Braun for Senator Cortez Masto.
+- 2020-12-17 — Senate amendment submitted
