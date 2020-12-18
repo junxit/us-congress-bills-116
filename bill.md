@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5153
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -37,8 +37,8 @@ This Act may be cited as the “Indian Buffalo Management Act”.
 
 In this Act:
 
-- **(1)** *Buffalo* The term buffalo means an animal of the genus Bison.
-- **(2)** *Buffalo habitat* The term buffalo habitat means Indian land, as defined in paragraph (5) of this section, that is managed for buffalo.
+- **(1)** *Buffalo* The term buffalo means an animal of the subspecies Bison bison bison.
+- **(2)** *Buffalo habitat* The term buffalo habitat means Indian land, as defined in paragraph (4) of this section, that is managed for buffalo.
 - **(3)** *Department* The term Department means the Department of the Interior.
 - **(4)** *Indian land* The term Indian land has the meaning given the term in paragraph (2) of section 2601 of the Energy Policy Act of 1992 (25 U.S.C. 3501), except that, in that paragraph, the term Indian reservation shall be considered to have the meaning given the term Indian reservation in paragraph (3) of that section, without regard to the date specified in paragraph (3) of that section.
 - **(5)** *Indian Tribe* The term Indian Tribe has the meaning given the term (without regard to capitalization) in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
@@ -57,10 +57,10 @@ In this Act:
     - **(A)** plan, conduct, or implement a buffalo restoration or management program;
     - **(B)** plan and execute commercial activities related to buffalo or buffalo products; or
     - **(C)** carry out other activities related to buffalo restoration and management.
-  - **(2)** *No diminishment of laws and regulations* Nothing in this subsection shall be interpreted to diminish any Federal or State law or regulation of diseased buffalo.
+  - **(2)** *No diminishment of laws and regulations* Nothing in this subsection shall be interpreted to diminish any Federal or State law or regulation of diseased buffalo or buffalo that escape from Indian land.
 - **(c)** *Technical assistance* The Secretary shall provide technical assistance to an Indian Tribe or Tribal organization that enters into a contract or cooperative agreement or receives a grant under this section to assist that Indian Tribe or Tribal organization in—
   - **(1)** carrying out the activities of a buffalo or buffalo habitat restoration or management program; and
-  - **(2)** implementing the activities described in paragraphs (1) through (3) of subsection (b).
+  - **(2)** implementing the activities described in subparagraphs (A) through (C) of subsection (b)(1).
 
 ## § 5. Consultation; coordination
 
