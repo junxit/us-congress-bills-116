@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1031
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Pala Band of Mission Indians Land Transfer Act of 2019”.
+This Act may be cited as the “Pala Band of Mission Indians Land Transfer Act of 2020”.
 
 ## § 2. Transfer of land in trust for the Pala Band of Mission Indians
 
