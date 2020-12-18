@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6535
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6535
@@ -60,3 +60,4 @@ To deem an urban Indian organization and employees thereof to be a part of the P
 - 2020-12-17 — Mr. Gallego moved to suspend the rules and pass the bill, as amended.
 - 2020-12-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7245)
 - 2020-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-12-18 — Received in the Senate, read twice.
