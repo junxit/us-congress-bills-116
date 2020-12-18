@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5852
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5852
@@ -40,3 +40,12 @@ Weir Farm National Historical Park Redesignation Act
 - 2020-12-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7251)
 - 2020-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
 - 2020-12-18 — Received in the Senate, read twice.
+- 2020-12-20 — Passed Senate without amendment by Voice Vote. (consideration: CR S7885)
+- 2020-12-20 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S7885)
+- 2020-12-21 — Message on Senate action sent to the House.
+- 2020-12-24 — Presented to President.
+- 2020-12-24 — Presented to President.
+- 2021-01-05 — Became Public Law No: 116-305.
+- 2021-01-05 — Became Public Law No: 116-305.
+- 2021-01-05 — Signed by President.
+- 2021-01-05 — Signed by President.
