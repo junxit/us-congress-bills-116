@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1162
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,21 +26,21 @@ to guess them.
 
 ### 43 U.S.C. § 390h
 
-> by striking “$50,000,000” and inserting “$500,000,000”; and
+> by striking “$50,000,000” and inserting “$500,000,000 through fiscal year 2025”; and
 
 | | |
 |---|---|
 | Removed | `$50,000,000` |
-| Inserted | `$500,000,000` |
+| Inserted | `$500,000,000 through fiscal year 2025` |
 
 ### 43 U.S.C. § 390h-13
 
-> Section 1631(d) of the Reclamation Wastewater and Groundwater Study and Facilities Act (43 U.S.C. 390h–13(d)) is amended by striking “$20,000,000 (October 1996 prices)” and inserting “$30,00,000 (January 2019 prices)”.
+> Section 1631(d) of the Reclamation Wastewater and Groundwater Study and Facilities Act (43 U.S.C. 390h–13(d)) is amended by striking “$20,000,000 (October 1996 prices)” and inserting “$30,000,000 (January 2019 prices)”.
 
 | | |
 |---|---|
 | Removed | `$20,000,000 (October 1996 prices)` |
-| Inserted | `$30,00,000 (January 2019 prices)` |
+| Inserted | `$30,000,000 (January 2019 prices)` |
 
 ## Stated, not applied
 
