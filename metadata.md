@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3797
 congress: 116
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3797
@@ -66,3 +66,5 @@ Medical Marijuana Research Act
 - 2020-12-09 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
 - 2020-12-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7076-7078)
 - 2020-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2020-12-10 — Received in the Senate.
+- 2020-12-18 — Read twice and referred to the Committee on the Judiciary.
