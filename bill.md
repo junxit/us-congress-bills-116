@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5347
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -22,7 +22,7 @@ Congress finds that—
 
 ## § 3. Grant program
 
-- **(a)** *Establishment* The Secretary of the Interior shall establish and carry out a grant program to be known as the “Disadvantaged Community Drinking Water Assistance Program” to provide financial assistance to disadvantaged communities that have experienced a significant decline in quantity or quality of drinking water, and to obtain or maintain adequate quantities of water that meet the standards set by the Federal Safe Drinking Water Act (42 U.S.C. 300f et seq.). Grants under this section may be provided to communities—
+- **(a)** *Establishment* The Secretary of the Interior shall establish and carry out a grant program to be known as the “Disadvantaged Community Drinking Water Assistance Program” to provide financial assistance to disadvantaged communities that have experienced a significant decline in quantity or quality of drinking water, and to obtain or maintain adequate quantities of water that meet the standards set by the Federal Safe Drinking Water Act (42 U.S.C. 300f et seq.). Grants under this section may be provided to communities within a Reclamation State, as defined by the Reclamation Act of 1902 (43 U.S.C. 391)—
   - **(1)** that are unable to meet the primary drinking water quality standards under that Act; or
   - **(2)** the local private or public water supply of which has been lost or severely diminished due to drought conditions, groundwater overdraft conditions, or climate change conditions.
 - **(b)** *Eligible communities* Grants provided under this section shall be used to benefit communities—
