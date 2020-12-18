@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3879
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-17 amendatory instructions. 9 executed, 8 stated and not applied.
+20 amendatory instructions. 9 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,12 +26,12 @@ to guess them.
 
 ### 16 U.S.C. § 6801
 
-> in paragraph (1), by striking “section 3(f)” and inserting “803(f)”;
+> in paragraph (1), by striking “section 3(f)” and inserting “section 803(f)”;
 
 | | |
 |---|---|
 | Removed | `section 3(f)` |
-| Inserted | `803(f)` |
+| Inserted | `section 803(f)` |
 
 ### 16 U.S.C. § 6801
 
@@ -117,8 +117,11 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 6801` | redesignate | by redesignating paragraphs (1), (3), (4), (5), (6), (7), (8), (9), (10), (11), and (13) as paragraphs (15), (1), (3), (4), (5), (6), (7), (8), (11), (10), and (14), respectively, and moving the paragraphs so as to appear in numerical or… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6801` | redesignate | by inserting after paragraph (8) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6801` | insert | by inserting after paragraph (12) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 6802` | replace | by striking subsection (h) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6801` | replace | by striking subsection (h) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6807` | redesignate | by redesignating subsections (b) through (d) as subsections (c) through (e), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6807` | insert | by inserting after subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6809` | replace | by striking “The authority” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 6809` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6804` | insert | The Federal Lands Recreation Enhancement Act is amended by inserting after section 805 (16 U.S.C. 6804) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6801` | insert | The table of contents for the Federal Lands Recreation Enhancement Act (16 U.S.C. 6801 et seq.) is amended by inserting after the item relating to section 805 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6804` | replace | Section 805(a)(6) of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6804(a)(6)) is amended by striking subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
