@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5472
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5472
@@ -55,3 +55,4 @@ Jimmy Carter National Historical Park Redesignation Act
 - 2020-12-17 — Mr. Gallego moved to suspend the rules and pass the bill.
 - 2020-12-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7249-7250)
 - 2020-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2020-12-18 — Received in the Senate, read twice.
