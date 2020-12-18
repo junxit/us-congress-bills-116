@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3794
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -31,7 +31,7 @@ In this Act:
   - **(A)** land of the National Forest System (as defined in section 11(a) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1609(a))); or
   - **(B)** public lands.
 - **(4)** *Fund* The term Fund means the Renewable Energy Resource Conservation Fund established by section 10(c)(1).
-- **(5)** *Priority area; Designated Leasing Areas* The terms priority area and Designated Leasing Areas mean covered land identified by the land use planning process of the Bureau of Land Management as being a preferred location for a renewable energy project for solar, wind, or geothermal energy.
+- **(5)** *Priority area* The term “priority area” means covered land identified by the land use planning process of the Bureau of Land Management as being a preferred location for a renewable energy project, including a designated leasing area (as defined in section 2801.5(b) of title 43, Code of Federal Regulations (or a successor regulation)) that is identified under the rule of the Bureau of Land Management entitled “Competitive Processes, Terms, and Conditions for Leasing Public Lands for Solar and Wind Energy Development and Technical Changes and Corrections” (81 Fed. Reg. 92122 (December 19, 2016)) (or a successor regulation).
 - **(6)** *Public lands* The term public lands has the meaning given that term in section 103 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1702).
 - **(7)** *Renewable energy project* The term renewable energy project means a project carried out on covered land that uses wind, solar, or geothermal energy to generate energy.
 - **(8)** *Secretary* The term Secretary means the Secretary of the Interior.
@@ -43,7 +43,7 @@ In this Act:
 ## § 4. Land use planning; supplements to programmatic environmental impact statements
 
 - **(a)** *Priority areas*
-  - **(1)** *In general* The Secretary, in consultation with the Secretary of Energy, shall establish priority areas on covered land for geothermal, solar, and wind energy projects.
+  - **(1)** *In general* The Secretary, in consultation with the Secretary of Energy, shall establish priority areas on covered land for geothermal, solar, and wind energy projects. Projects located in those priority areas shall be given the highest priority for review, and shall be offered the opportunity to participate in any regional mitigation plan developed for the relevant priority areas.
   - **(2)** *Deadline*
     - **(A)** *Geothermal energy* For geothermal energy, the Secretary shall establish priority areas as soon as practicable, but not later than 5 years, after the date of the enactment of this Act.
     - **(B)** *Solar energy* For solar energy, solar Designated Leasing Areas, including the solar energy zones established by the 2012 western solar plan of the Bureau of Land Management and any subsequent land use plan amendments, shall be considered to be priority areas for solar energy projects. The Secretary shall establish additional solar priority areas as soon as practicable, but not later than 3 years, after the date of the enactment of this Act.
@@ -58,13 +58,13 @@ In this Act:
   - **(3)** for wind energy, by supplementing the July 2005 final programmatic environmental impact statement for wind energy development and incorporating any additional regional analyses that have been completed by Federal agencies since the programmatic environmental impact statement was finalized.
 - **(e)** *No effect on processing applications* Any requirements to prepare a supplement to a programmatic environmental impact statement under this section shall not result in any delay in processing a pending application for a renewable energy project.
 - **(f)** *Coordination* In developing a supplement required by this section, the Secretary shall coordinate, on an ongoing basis, with appropriate State, Tribal, and local governments, transmission infrastructure owners and operators, developers, and other appropriate entities to ensure that priority areas identified by the Secretary are—
-  - **(1)** economically viable (including having access to existing and/or planned transmission capacity);
-  - **(2)** likely to avoid or minimize conflict with habitat for animals and plants, recreation, cultural resources, and other uses of covered land; and
+  - **(1)** economically viable (including having access to existing and/or planned transmission lines);
+  - **(2)** likely to avoid or minimize impacts to habitat for animals and plants, recreation, cultural resources, and other uses of covered land; and
   - **(3)** consistent with section 202 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712), including subsection (c)(9) of that section (43 U.S.C. 1712(c)(9)).
 
 ## § 5. Environmental review on covered land
 
-- **(a)** *In general* If the Secretary determines that a proposed renewable energy project has been sufficiently analyzed by a programmatic environmental impact statement conducted under section 4(d), the Secretary shall not require any additional review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+- **(a)** *In general* If the Secretary determines that a proposed renewable energy project has been sufficiently analyzed by a programmatic environmental impact statement conducted under section 4(d), the Secretary shall not require any additional review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.). The Secretary shall publish any such project determinations on a publicly available website.
 - **(b)** *Additional environmental review* If the Secretary determines that additional environmental review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) is necessary for a proposed renewable energy project, the Secretary shall rely on the analysis in the programmatic environmental impact statement conducted under section 4(d), to the maximum extent practicable when analyzing the potential impacts of the project.
 - **(c)** *Relationship to other law* Nothing in this section modifies or supersedes any requirement under applicable law.
 
@@ -73,7 +73,7 @@ In this Act:
 - **(a)** *Establishment* The Secretary shall establish a national Renewable Energy Coordination Office and State, district, or field offices with responsibility to establish and implement a program to improve Federal permit coordination with respect to renewable energy projects on covered land and other activities deemed necessary by the Secretary. In carrying out the program, the Secretary may temporarily assign qualified staff to Renewable Energy Coordination Offices to expedite the permitting of renewable energy projects.
 - **(b)** *Memorandum of understanding*
   - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act, the Secretary shall enter into a memorandum of understanding for purposes of this section, including to specifically expedite the environmental analysis of applications for projects proposed in a variance area or a priority area, with the Secretary of Defense and the Secretary of Agriculture.
-  - **(2)** *State participation* The Secretary may request the Governor of any interested State to be a signatory to the memorandum of understanding under paragraph (1).
+  - **(2)** *State and Tribal participation* The Secretary may request the Governor of any interested State or any Tribal leader of any interested Indian Tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304)) to be a signatory to the memorandum of understanding under paragraph (1).
 - **(c)** *Designation of qualified staff*
   - **(1)** *In general* Not later than 30 days after the date on which the memorandum of understanding under subsection (b) is executed, all Federal signatories, as appropriate, shall identify for each of the Bureau of Land Management Renewable Energy Coordination Offices one or more employees who have expertise in the regulatory issues relating to the office in which the employee is employed, including, as applicable, particular expertise in—
     - **(A)** consultation regarding, and preparation of, biological opinions under section 7 of the Endangered Species Act of 1973 (16 U.S.C. 1536);
@@ -83,8 +83,9 @@ In this Act:
     - **(E)** the Migratory Bird Treaty Act (16 U.S.C. 703 et seq.);
     - **(F)** the preparation of analyses under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.);
     - **(G)** implementation of the requirements of section 306108 of title 54, United States Code (formerly known as section 106 of the National Historic Preservation Act);
-    - **(H)** planning under section 14 of the National Forest Management Act of 1976 (16 U.S.C. 472a); and
-    - **(I)** the Bald and Golden Eagle Protection Act (16 U.S.C. 668–668d).
+    - **(H)** planning under section 14 of the National Forest Management Act of 1976 (16 U.S.C. 472a);
+    - **(I)** the Bald and Golden Eagle Protection Act (16 U.S.C. 668–668d); and
+    - **(J)** section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753 and 102101 of title 54 , United States Code (previously known as the “National Park Service Organic Act”).
   - **(2)** *Duties* Each employee assigned under paragraph (1) shall—
     - **(A)** be responsible for addressing all issues relating to the jurisdiction of the home office or agency of the employee; and
     - **(B)** participate as part of the team of personnel working on proposed energy projects, planning, monitoring, inspection, enforcement, and environmental analyses.
@@ -113,7 +114,7 @@ In this Act:
 ## § 8. Limited grandfathering
 
 - **(a)** *Definition of project* In this section, the term project means a system described in section 2801.9(a)(4) of title 43, Code of Federal Regulations (as in effect on the date of enactment of this Act).
-- **(b)** *Requirement To pay rents and fees* The owner of a project that applied for a right-of-way under section 501 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1761) on or before December 19, 2016, shall be obligated to pay with respect to the right-of-way all rents and fees in effect before the effective date of the rule of the Bureau of Land Management entitled “Competitive Processes, Terms, and Conditions for Leasing Public Lands for Solar and Wind Energy Development and Technical Changes and Corrections” (81 Fed. Reg. 92122 (December 19, 2016)).
+- **(b)** *Requirement To pay rents and fees* Unless otherwise agreed to by the owner of a project, the owner of a project that applied for a right-of-way under section 501 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1761) on or before December 19, 2016, shall be obligated to pay with respect to the right-of-way all rents and fees in effect before the effective date of the rule of the Bureau of Land Management entitled “Competitive Processes, Terms, and Conditions for Leasing Public Lands for Solar and Wind Energy Development and Technical Changes and Corrections” (81 Fed. Reg. 92122 (December 19, 2016)).
 
 ## § 9. Renewable energy goal
 
@@ -121,7 +122,7 @@ The Secretary and the Secretary of Agriculture shall seek to issue permits that,
 
 ## § 10. Disposition of revenues
 
-- **(a)** *Disposition of revenues* Beginning on January 1, 2020, of the amounts collected as bonus bids, rentals, fees, or other payments under a right-of-way, permit, lease, or other authorization (other than under section 504(g) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1764(g))) for the development of wind or solar energy on covered land, the following shall be made available without further appropriation or fiscal year limitation as follows:
+- **(a)** *Disposition of revenues* Beginning on January 1, 2020, of the amounts collected as bonus bids, rentals, fees, or other payments under a right-of-way, permit, lease, or other authorization (other than under section 504(g) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1764(g))) for the development of wind or solar energy on covered land or National Forest System land, the following shall be made available without further appropriation or fiscal year limitation as follows:
   - **(1)** Twenty-five percent shall be paid by the Secretary of the Treasury to the State within the boundaries of which the revenue is derived.
   - **(2)** Twenty-five percent shall be paid by the Secretary of the Treasury to the one or more counties within the boundaries of which the revenue is derived, to be allocated among the counties based on the percentage of land from which the revenue is derived.
   - **(3)** Fifteen percent shall be deposited in the Treasury and be made available to the Secretary to carry out the program established under this Act, including the transfer of the funds by the Bureau of Land Management to other Federal agencies and State agencies to facilitate the processing of renewable energy permits on Federal land, with priority given to using the amounts, to the maximum extent practicable without detrimental impacts to emerging markets, to expediting the issuance of permits required for the development of renewable energy projects in the States from which the revenues are derived.
@@ -132,11 +133,11 @@ The Secretary and the Secretary of Agriculture shall seek to issue permits that,
   - **(2)** *Payments in lieu of taxes* A payment to a county under paragraph (1) shall be in addition to a payment in lieu of taxes received by the county under chapter 69 of title 31, United States Code.
 - **(c)** *Renewable Energy Resource Conservation Fund*
   - **(1)** *In general* There is established in the Treasury a fund to be known as the Renewable Energy Resource Conservation Fund, which shall be administered by the Secretary, in consultation with the Secretary of Agriculture.
-  - **(2)** *Use of funds* The Secretary may make amounts in the Fund available to Federal, State, and Tribal agencies to be distributed in regions in which renewable energy projects are located on Federal land, for the purposes of—
+  - **(2)** *Use of funds* The Secretary may make amounts in the Fund available to Federal, State, local, and Tribal agencies to be distributed in regions in which renewable energy projects are located on Federal land, for the purposes of—
     - **(A)** restoring and protecting—
       - **(i)** fish and wildlife habitat for affected species;
       - **(ii)** fish and wildlife corridors for affected species; and
-      - **(iii)** water resources in areas affected by wind, geothermal, or solar energy development; and
+      - **(iii)** wetlands, streams, rivers, and other natural water bodies in areas affected by wind, geothermal, or solar energy development; and
     - **(B)** preserving and improving recreational access to Federal land and water in an affected region through an easement, right-of-way, or other instrument from willing landowners for the purpose of enhancing public access to existing Federal land and water that is inaccessible or restricted.
   - **(3)** *Restriction on use of funds* No funds made available under this subsection may be used for the purchase of real property unless in fulfillment of paragraph (2)(B).
   - **(4)** *Partnerships* The Secretary may enter into cooperative agreements with State and Tribal agencies, nonprofit organizations, and other appropriate entities to carry out the activities described in subparagraphs (A) and (B) of paragraph (2).
@@ -145,13 +146,13 @@ The Secretary and the Secretary of Agriculture shall seek to issue permits that,
     - **(B)** *Use* Any interest earned under subparagraph (A) may be expended in accordance with this subsection.
   - **(6)** *Report to Congress* At the end of each fiscal year, the Secretary shall report to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate—
     - **(A)** the amount collected as described in subsection (a), by source, during that fiscal year;
-    - **(B)** the amount and purpose of payments during that fiscal year to each Federal, State, and Tribal agency under paragraph (2); and
+    - **(B)** the amount and purpose of payments during that fiscal year to each Federal, State, local, and Tribal agency under paragraph (2); and
     - **(C)** the amount remaining in the Fund at the end of the fiscal year.
   - **(7)** *Intent of Congress* It is the intent of Congress that the revenues deposited and used in the Fund shall supplement (and not supplant) annual appropriations for activities described in subparagraphs (A) and (B) of paragraph (2).
 
 ## § 11. Promoting and enhancing development of geothermal energy
 
-- **(a)** *In general* Section 234(a) of the Energy Policy Act of 2005 (42 U.S.C. 15873(a)) is amended by striking “in the first 5 fiscal years beginning after the date of the enactment of this Act” and inserting “through fiscal year 2022”.
+- **(a)** *In general* Section 234(a) of the Energy Policy Act of 2005 (42 U.S.C. 15873(a)) is amended by striking “in the first 5 fiscal years beginning after the date of enactment of this Act” and inserting “through fiscal year 2022”.
 - **(b)** *Authorization* Section 234(b) of the Energy Policy Act of 2005 (42 U.S.C. 15873(b)) is amended—
   - **(1)** by striking “Amounts” and inserting the following:
     > - **(1)** *In general* Amounts
