@@ -1,7 +1,7 @@
 ---
 measure: S. 4079
 congress: 116
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 4079
@@ -28,3 +28,9 @@ A bill to authorize the Seminole Tribe of Florida to lease or transfer certain l
 
 - 2020-06-25 — Introduced in Senate
 - 2020-06-25 — Read twice and referred to the Committee on Indian Affairs.
+- 2020-09-23 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 116-359.
+- 2020-11-18 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2020-12-18 — Passed Senate without amendment by Unanimous Consent. (text: CR S7827-7828)
+- 2020-12-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2020-12-18 — Senate Committee on Indian Affairs discharged by Unanimous Consent.
+- 2020-12-18 — Senate Committee on Indian Affairs discharged by Unanimous Consent. (consideration: CR S7827-7828)
