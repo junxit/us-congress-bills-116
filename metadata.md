@@ -1,7 +1,7 @@
 ---
 measure: S. 2353
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2353
@@ -16,7 +16,7 @@ PFAS Act of 2019
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
 
-## Cosponsors (13)
+## Cosponsors (18)
 
 - Sen. Gardner, Cory [R-CO] (G000562)
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
@@ -31,6 +31,11 @@ PFAS Act of 2019
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 - Sen. Harris, Kamala D. [D-CA] (H001075)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
 
 ## Committees (1)
 
@@ -44,3 +49,5 @@ PFAS Act of 2019
 - 2020-02-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-211.
 - 2020-02-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-211.
 - 2020-02-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 409.
+- 2020-12-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7828; text: CR S7828)
+- 2020-12-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
