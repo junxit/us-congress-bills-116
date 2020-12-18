@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3723
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -18,15 +18,27 @@ This Act may be cited as the “Desalination Development Act”.
 Section 4(a) of the Water Desalination Act of 1996 (42 U.S.C. 10301 note; Public Law 104–298) is amended by striking the second paragraph (1) (relating to projects) and inserting the following:
 
 > - **(2)** *Projects*
->   - **(A)** *Definition of eligible desalination project* In this paragraph, the term eligible desalination project means any project located in a Reclamation State that—
->     - **(i)** involves an ocean or brackish water desalination facility—
->       - **(I)** constructed, operated, and maintained by a State, Indian Tribe, irrigation district, water district, or other organization with water or power delivery authority; or
->       - **(II)** sponsored or funded by any State, department of a State, subdivision of a State, or public agency organized pursuant to State law, including—
->         - **(aa)** direct sponsorship or funding; or
->         - **(bb)** indirect sponsorship or funding, such as by paying for the water provided by the facility;
->     - **(ii)** provides a Federal benefit in accordance with the reclamation laws; and
->     - **(iii)** is consistent with all applicable State and Federal resource protection laws including the protection of marine protected areas.
->   - **(B)** *Federal share* Subject to the requirements of this paragraph, the Secretary may participate in an eligible desalination project in an amount equal to not more than 25 percent of the total cost of the eligible desalination project.
+>   - **(A)** *Definitions* In this paragraph:
+>     - **(i)** *Eligible desalination project* The term “eligible desalination project” means any project located in a Reclamation State that—
+>       - **(I)** involves an ocean or brackish water desalination facility—
+>         - **(aa)** constructed, operated, and maintained by a State, Indian Tribe, irrigation district, water district, or other organization with water or power delivery authority; or
+>         - **(bb)** sponsored or funded by a State, department of a State, political subdivision of a State, or public agency organized pursuant to State law, including through—
+>           - **(AA)** direct sponsorship or funding; or
+>           - **(BB)** indirect sponsorship or funding, such as by paying for the water provided by the facility; and
+>       - **(II)** provides a Federal benefit in accordance with the reclamation laws.
+>     - **(ii)** *Rural desalination project* The term “rural desalination project” means an eligible desalination project that is designed to serve a community or group of communities, each of which has a population of not more than 40,000 inhabitants.
+>   - **(B)** *Cost-sharing requirement*
+>     - **(i)** *In general* Subject to the requirements of this subsection and notwithstanding section 7, the Federal share of an eligible desalination project carried out under this subsection shall be—
+>       - **(I)** not more than 25 percent of the total cost of the eligible desalination project; or
+>       - **(II)** in the case of a rural desalination project, the applicable percentage determined in accordance with clause (ii).
+>     - **(ii)** *Rural desalination projects*
+>       - **(I)** *Cost-sharing requirement for appraisal studies* In the case of a rural desalination project carried out under this subsection, the Federal share of the cost of appraisal studies for the rural desalination project shall be—
+>         - **(aa)** 100 percent of the total costs of the appraisal studies, up to $200,000; and
+>         - **(bb)** if the total costs of the appraisal studies are more than $200,000, 50 percent of any amounts over $200,000.
+>       - **(II)** *Cost-sharing requirement for feasibility studies* In the case of a rural desalination project carried out under this subsection, the Federal share of the cost of feasibility studies for the rural desalination project shall be not more than 50 percent.
+>       - **(III)** *Cost-sharing requirement for construction costs* In the case of a rural desalination project carried out under this subsection, the Federal share of the cost of construction of the rural desalination project shall not exceed the greater of —
+>         - **(aa)** 35 percent of the total cost of construction, up to a Federal cost of $20,000,000; or
+>         - **(bb)** 25 percent of the total cost of construction.
 >   - **(C)** *State role* Participation by the Secretary in an eligible desalination project under this paragraph shall not occur unless—
 >     - **(i)**
 >       - **(I)** the eligible desalination project is included in a State-approved plan; or
@@ -44,7 +56,7 @@ Section 4(a) of the Water Desalination Act of 1996 (42 U.S.C. 10301 note; Public
 >     - **(i)** may rely on reports prepared by the sponsor of the eligible desalination project, including feasibility or equivalent studies, environmental analyses, and other pertinent reports and analyses; but
 >     - **(ii)** shall retain responsibility for making the independent determinations described in subparagraph (C).
 >   - **(F)** *Funding*
->     - **(i)** *Authorization of appropriations* There is authorized to be appropriated to carry out this paragraph $260,000,000 for the period of fiscal years 2020 through 2024.
+>     - **(i)** *Authorization of appropriations* There is authorized to be appropriated to carry out this paragraph $260,000,000 for the period of fiscal years 2021 through 2025, of which not less than $15,000,000 shall be made available during that period for rural desalination projects.
 >     - **(ii)** *Congressional approval initially required*
 >       - **(I)** *In general* Each initial award under this paragraph for design and study or for construction of an eligible desalination project shall be approved by an Act of Congress.
 >       - **(II)** *Reclamation recommendations* The Commissioner of Reclamation shall submit recommendations regarding the initial award of preconstruction and construction funding for consideration under subclause (I) to—
@@ -53,6 +65,7 @@ Section 4(a) of the Water Desalination Act of 1996 (42 U.S.C. 10301 note; Public
 >         - **(cc)** the Committee on Appropriations of the House of Representatives; and
 >         - **(dd)** the Committee on Natural Resources of the House of Representatives.
 >     - **(iii)** *Subsequent funding awards* After approval by Congress of an initial award of preconstruction or construction funding for an eligible desalination project under clause (ii), the Commissioner of Reclamation may award additional preconstruction or construction funding, respectively, for the eligible desalination project without further congressional approval.
+>   - **(G)** *Total dollar cap* The Secretary shall not impose a total dollar cap on Federal contributions for individual desalination projects receiving funding under this paragraph.
 
 ## § 3. Prioritization for projects
 
