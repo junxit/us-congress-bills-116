@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4299
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Data Preservation Act of 2019”.
+This Act may be cited as the “Data Preservation Act of 2020”.
 
 ## § 2. Reauthorization of National Geological and Geophysical Data Preservation Program Act of 2005
 
