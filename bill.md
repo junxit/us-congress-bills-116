@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1162
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -24,7 +24,7 @@ This Act may be cited as the “Water Recycling Investment and Improvement Act�
   >   - **(E)** Projects that provide multiple benefits, including water supply reliability, eco-system benefits, groundwater management and enhancements, and water quality improvements.
 
 - **(b)** *Authorization of appropriations* Section 1602(g) of the Reclamation Wastewater and Groundwater Study and Facilities Act (title XVI of Public Law 102–575; 43 U.S.C. 390h et seq.) is amended—
-  - **(1)** by striking “$50,000,000” and inserting “$500,000,000”; and
+  - **(1)** by striking “$50,000,000” and inserting “$500,000,000 through fiscal year 2025”; and
   - **(2)** by striking “if enacted appropriations legislation designates funding to them by name,”.
 - **(c)** *Duration* Section 4013 of the WIIN Act (43 U.S.C. 390b(2)) is amended—
   - **(1)** in paragraph (1), by striking “and”;
@@ -32,4 +32,4 @@ This Act may be cited as the “Water Recycling Investment and Improvement Act�
   - **(3)** by adding at the end the following:
     > - **(3)** section 4009(c).
 
-- **(d)** *Limitation on funding* Section 1631(d) of the Reclamation Wastewater and Groundwater Study and Facilities Act (43 U.S.C. 390h–13(d)) is amended by striking “$20,000,000 (October 1996 prices)” and inserting “$30,00,000 (January 2019 prices)”.
+- **(d)** *Limitation on funding* Section 1631(d) of the Reclamation Wastewater and Groundwater Study and Facilities Act (43 U.S.C. 390h–13(d)) is amended by striking “$20,000,000 (October 1996 prices)” and inserting “$30,000,000 (January 2019 prices)”.

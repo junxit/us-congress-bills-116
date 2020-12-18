@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1162
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1162
@@ -16,7 +16,7 @@ Water Recycling Investment and Improvement Act
 
 - Rep. Napolitano, Grace F. [D-CA-32] (N000179)
 
-## Cosponsors (17)
+## Cosponsors (27)
 
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 - Rep. Roybal-Allard, Lucille [D-CA-40] (R000486)
@@ -35,6 +35,16 @@ Water Recycling Investment and Improvement Act
 - Rep. Eshoo, Anna G. [D-CA-18] (E000215)
 - Rep. Sánchez, Linda T. [D-CA-38] (S001156)
 - Rep. Sires, Albio [D-NJ-8] (S001165)
+- Rep. Haaland, Debra A. [D-NM-1] (H001080)
+- Rep. DeSaulnier, Mark [D-CA-11] (D000623)
+- Rep. Levin, Mike [D-CA-49] (L000593)
+- Rep. Malinowski, Tom [D-NJ-7] (M001203)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Wild, Susan [D-PA-7] (W000826)
+- Rep. Chu, Judy [D-CA-27] (C001080)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
+- Rep. Cárdenas, Tony [D-CA-29] (C001097)
 
 ## Committees (1)
 
@@ -45,3 +55,11 @@ Water Recycling Investment and Improvement Act
 - 2019-02-13 — Introduced in House
 - 2019-02-13 — Introduced in House
 - 2019-02-13 — Referred to the House Committee on Natural Resources.
+- 2019-03-04 — Referred to the Subcommittee on Water, Oceans, and Wildlife.
+- 2019-06-13 — Subcommittee Hearings Held.
+- 2020-03-11 — Committee Consideration and Mark-up Session Held.
+- 2020-03-11 — Ordered to be Reported (Amended) by the Yeas and Nays: 19 - 12.
+- 2020-03-11 — Subcommittee on Water, Oceans, and Wildlife Discharged.
+- 2020-12-18 — Placed on the Union Calendar, Calendar No. 551.
+- 2020-12-18 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-667.
+- 2020-12-18 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-667.
