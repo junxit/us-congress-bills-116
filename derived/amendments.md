@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4479
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `48 U.S.C. § 1806` | add-at-end | Section 6(d)(3) of the Joint Resolution entitled “A Joint Resolution to approve the Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, and for other purposes” (48 U.… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `48 U.S.C. § 1806` | add-at-end | Section 6(d)(3) of the Joint Resolution entitled “Joint Resolution to approve the Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, and for other purposes” (48 U.S.… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
