@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3250
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3250
@@ -87,3 +87,4 @@ Julius Rosenwald and the Rosenwald Schools Act of 2020
 - 2020-12-17 — Mr. Gallego moved to suspend the rules and pass the bill, as amended.
 - 2020-12-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 387 - 5 (Roll no. 245). (text: CR H7247)
 - 2020-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 387 - 5 (Roll no. 245).
+- 2020-12-18 — Received in the Senate, read twice.
