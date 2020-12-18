@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3794
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,11 +26,11 @@ to guess them.
 
 ### 42 U.S.C. § 15873
 
-> Section 234(a) of the Energy Policy Act of 2005 (42 U.S.C. 15873(a)) is amended by striking “in the first 5 fiscal years beginning after the date of the enactment of this Act” and inserting “through fiscal year 2022”.
+> Section 234(a) of the Energy Policy Act of 2005 (42 U.S.C. 15873(a)) is amended by striking “in the first 5 fiscal years beginning after the date of enactment of this Act” and inserting “through fiscal year 2022”.
 
 | | |
 |---|---|
-| Removed | `in the first 5 fiscal years beginning after the date of the enactment of this Act` |
+| Removed | `in the first 5 fiscal years beginning after the date of enactment of this Act` |
 | Inserted | `through fiscal year 2022` |
 
 ## Stated, not applied
