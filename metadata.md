@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 729
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 729
@@ -28,3 +28,7 @@ A resolution recognizing the 25th anniversary of the Dayton Peace Accords.
 
 - 2020-09-30 — Introduced in Senate
 - 2020-09-30 — Referred to the Committee on Foreign Relations.
+- 2020-12-18 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.(text: 09/30/2020 CR S5982-5983)
+- 2020-12-18 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (text: 09/30/2020 CR S5982-5983)
+- 2020-12-18 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S7829)
+- 2020-12-18 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S7829)
