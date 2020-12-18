@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4891
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-39 amendatory instructions. 11 executed, 28 stated and not applied.
+40 amendatory instructions. 12 executed, 28 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,23 +33,32 @@ to guess them.
 | Removed | `section` |
 | Inserted | `subtitle` |
 
-### 42 U.S.C. § 10362
-
-> in paragraph (10), by striking “450b” and inserting “5304”;
-
-| | |
-|---|---|
-| Removed | `450b` |
-| Inserted | `5304` |
-
 ### 42 U.S.C. § 10364
 
-> Section 9504(e) of the Omnibus Public Land Management Act of 2009 (42 U.S.C. 10364(e)) is amended by striking “$480,000,000” and inserting “$650,000,000, subject to the condition that $50,000,000 of that amount shall be used to carry out section 206 of the Energy and Water Development and Related Agencies Appropriations Act, 2015 (43 U.S.C. 620 note; Public Law 113–235)”.
+> Section 9504(e) of the Omnibus Public Land Management Act of 2009 (42 U.S.C. 10364(e)) is amended by striking “$530,000,000” and inserting “$700,000,000, subject to the condition that $50,000,000 of that amount shall be used to carry out section 206 of the Energy and Water Development and Related Agencies Appropriations Act, 2015 (43 U.S.C. 620 note; Public Law 113–235)”.
 
 | | |
 |---|---|
-| Removed | `$480,000,000` |
-| Inserted | `$650,000,000, subject to the condition that $50,000,000 of that amount shall be used to carry out section 206 of the Energy and Water Development and Related Agencies Appropriations Act, 2015 (43 U.S.C. 620 note; Public Law 113–235)` |
+| Removed | `$530,000,000` |
+| Inserted | `$700,000,000, subject to the condition that $50,000,000 of that amount shall be used to carry out section 206 of the Energy and Water Development and Related Agencies Appropriations Act, 2015 (43 U.S.C. 620 note; Public Law 113–235)` |
+
+### 43 U.S.C. § 2241
+
+> by striking “120,000,000” and inserting “180,000,000”; and
+
+| | |
+|---|---|
+| Removed | `120,000,000` |
+| Inserted | `180,000,000` |
+
+### 43 U.S.C. § 2211
+
+> by striking “2020” and inserting “2025, of which not more than $30,000,000 shall be made available during that period for the conduct of actions authorized under title I of the Reclamation States Emergency Drought Relief Act of 1991 (43 U.S.C. 2211 et seq.) to benefit imperiled fish and wildlife”.
+
+| | |
+|---|---|
+| Removed | `2020` |
+| Inserted | `2025, of which not more than $30,000,000 shall be made available during that period for the conduct of actions authorized under title I of the Reclamation States Emergency Drought Relief Act of 1991 (43 U.S.C. 2211 et seq.) to benefit imperiled fish and wildlife` |
 
 ### 43 U.S.C. § 2214
 
@@ -71,21 +80,21 @@ to guess them.
 
 ### 42 U.S.C. § 1962
 
-> Section 8(a) of the United States-Mexico Transboundary Aquifer Assessment Act (42 U.S.C. 1962 note; Public Law 109–448) is amended by striking “fiscal years 2007 through 2016” and inserting “fiscal years 2020 through 2029”.
+> Section 8(a) of the United States-Mexico Transboundary Aquifer Assessment Act (42 U.S.C. 1962 note; Public Law 109–448) is amended by striking “fiscal years 2007 through 2016” and inserting “fiscal years 2021 through 2029”.
 
 | | |
 |---|---|
 | Removed | `fiscal years 2007 through 2016` |
-| Inserted | `fiscal years 2020 through 2029` |
+| Inserted | `fiscal years 2021 through 2029` |
 
 ### 42 U.S.C. § 1962
 
-> Section 9 of the United States-Mexico Transboundary Aquifer Assessment Act (42 U.S.C. 1962 note; Public Law 109–448) is amended by striking “enactment of this Act” and inserting “enactment of the Western Water Security Act of 2019”.
+> Section 9 of the United States-Mexico Transboundary Aquifer Assessment Act (42 U.S.C. 1962 note; Public Law 109–448) is amended by striking “enactment of this Act” and inserting “enactment of the Western Water Security Act of 2020”.
 
 | | |
 |---|---|
 | Removed | `enactment of this Act` |
-| Inserted | `enactment of the Western Water Security Act of 2019` |
+| Inserted | `enactment of the Western Water Security Act of 2020` |
 
 ### 42 U.S.C. § 10364
 
@@ -140,10 +149,10 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 10364` | redesignate | by redesignating subparagraph (C) as subparagraph (D); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10364` | insert | by inserting after subparagraph (B) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10364` | strike | Section 4009(d) of Public Law 114–322 (42 U.S.C. 10364 note) is amended by striking “on the condition that of that amount, $50,000,000 of it is used to carry out section 206 of the Energy and Water Development and Related Agencies Approp… | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 10301` | replace | Section 4(a) of the Water Desalination Act of 1996 (42 U.S.C. 10301 note; Public Law 104–298) is amended by striking the second paragraph (1) (relating to projects) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 2214` | replace | Section 104 of the Reclamation States Emergency Drought Relief Act of 1991 (43 U.S.C. 2214) is amended by striking subsection (a) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | in subsection (c)(4), by striking “2 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources” and inserting “December 31, 202… | the bill names no machine-readable US Code section |
-| — | replace | in subsection (g)(2), by striking “2010 through 2019” and inserting “2019 through 2029”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “$6,000,000” and inserting “such sums as may be necessary”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “2010 through 2019” and inserting “2020 through 2029”. | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 10364` | insert | in the matter preceding subparagraph (A), by inserting “or carrying out any activity” after “any improvement”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 10364` | strike | by striking subparagraphs (A) through (E); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10364` | redesignate | by redesignating subparagraphs (F) through (H) as subparagraphs (B) through (D), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
