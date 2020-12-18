@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 107
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 107
