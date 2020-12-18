@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1922
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -25,5 +25,5 @@ This Act may be cited as the “Restoring Access to Medication Act of 2019”.
   > - **(f)** *Reimbursements for menstrual care products* For purposes of this section and section 105, expenses incurred for menstrual care products (as defined in section 223(d)(2)(D)) shall be treated as incurred for medical care.
 
 - **(d)** *Effective dates*
-  - **(1)** *Distributions from savings accounts* The amendment made by subsections (a) and (b) shall apply to amounts paid after December 31, 2019.
+  - **(1)** *Distributions from savings accounts* The amendments made by subsections (a) and (b) shall apply to amounts paid after December 31, 2019.
   - **(2)** *Reimbursements* The amendment made by subsection (c) shall apply to expenses incurred after December 31, 2019.
