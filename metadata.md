@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4891
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4891
@@ -36,3 +36,13 @@ Western Water Security Act of 2020
 - 2019-10-28 — Referred to the Committee on Natural Resources, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-10-28 — Referred to the Committee on Natural Resources, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-10-28 — Referred to the Subcommittee on Environment.
+- 2019-11-12 — Referred to the Subcommittee on Water, Oceans, and Wildlife.
+- 2020-01-28 — Subcommittee Hearings Held.
+- 2020-03-11 — Committee Consideration and Mark-up Session Held.
+- 2020-03-11 — Ordered to be Reported (Amended) by the Yeas and Nays: 14 - 11.
+- 2020-03-11 — Subcommittee on Water, Oceans, and Wildlife Discharged.
+- 2020-12-18 — Committee on Science, Space, and Technology discharged.
+- 2020-12-18 — Committee on Science, Space, and Technology discharged.
+- 2020-12-18 — Placed on the Union Calendar, Calendar No. 558.
+- 2020-12-18 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-674, Part I.
+- 2020-12-18 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-674, Part I.
