@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3250
 congress: 116
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3250
@@ -88,3 +88,12 @@ Julius Rosenwald and the Rosenwald Schools Act of 2020
 - 2020-12-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 387 - 5 (Roll no. 245). (text: CR H7247)
 - 2020-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 387 - 5 (Roll no. 245).
 - 2020-12-18 — Received in the Senate, read twice.
+- 2020-12-21 — Message on Senate action sent to the House.
+- 2020-12-21 — Passed Senate without amendment by Voice Vote. (consideration: CR S7902)
+- 2020-12-21 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2021-01-01 — Presented to President.
+- 2021-01-01 — Presented to President.
+- 2021-01-13 — Became Public Law No: 116-336.
+- 2021-01-13 — Became Public Law No: 116-336.
+- 2021-01-13 — Signed by President.
+- 2021-01-13 — Signed by President.
