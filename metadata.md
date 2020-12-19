@@ -1,7 +1,7 @@
 ---
 measure: S. 2204
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2204
@@ -32,3 +32,5 @@ DART Act of 2019
 - 2020-11-16 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-292.
 - 2020-11-16 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-292.
 - 2020-11-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 585.
+- 2020-12-19 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7852-7853; text: CR S7852-7853)
+- 2020-12-19 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
