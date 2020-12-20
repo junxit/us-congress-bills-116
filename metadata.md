@@ -1,7 +1,7 @@
 ---
 measure: S. 2716
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2716
@@ -33,3 +33,5 @@ A bill to amend the Grand Ronde Reservation Act, and for other purposes.
 - 2020-12-15 — Committee on Indian Affairs. Reported by Senator Hoeven with an amendment. With written report No. 116-324.
 - 2020-12-15 — Committee on Indian Affairs. Reported by Senator Hoeven with an amendment. With written report No. 116-324.
 - 2020-12-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 627.
+- 2020-12-20 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7866-7867; text: CR S7866-7867)
+- 2020-12-20 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S7866-7867; text: CR S7866-7867)

@@ -1,7 +1,7 @@
 ---
 measure: S. 2716
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 25 U.S.C. § 2703
+### 25 U.S.C. § 2701
 
 > in paragraph (1) by striking “lands within the State of Oregon” and inserting “the 84 acres known as the Thompson Strip”;
 
@@ -42,5 +42,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `25 U.S.C. § 2703` | redesignate | by redesignating paragraph (2) as paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 2703` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 2701` | redesignate | by redesignating paragraph (2) as paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 2701` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

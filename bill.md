@@ -16,8 +16,6 @@ Section 1(d) of Public Law 100–425 (commonly known as the “Grand Ronde Reser
 - **(1)** in paragraph (1) by striking “lands within the State of Oregon” and inserting “the 84 acres known as the Thompson Strip”;
 - **(2)** by redesignating paragraph (2) as paragraph (4); and
 - **(3)** by inserting after paragraph (1) the following:
-  > - **(2)** *Gaming prohibition* Any real property transferred to the Tribes as part of a land claim settlement approved by the United States shall not be eligible, or used, for any class II gaming or class III gaming (as those terms are defined in section 4 of the Indian Gaming Regulatory Act (25 U.S.C. 2703)).
-
   > - **(2)** *Gaming prohibition* Any real property obtained by the Tribes as part of a land claim settlement approved by the United States shall not be eligible, or used, for any class II gaming or class III gaming under the Indian Gaming Regulatory Act (25 U.S.C. 2701 et seq.) (as those terms are defined in section 4 of that Act (25 U.S.C. 2703)).
 
 ## § 2. Treaty rights of federally recognized Tribes
