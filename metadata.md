@@ -1,7 +1,7 @@
 ---
 measure: S. 3099
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3099
@@ -33,3 +33,5 @@ Southeast Alaska Regional Health Consortium Land Transfer Act of 2019
 - 2020-10-20 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-281.
 - 2020-10-20 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-281.
 - 2020-10-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 575.
+- 2020-12-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7867-7868; text: CR S7868)
+- 2020-12-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7867-7868; text: CR S7868)
