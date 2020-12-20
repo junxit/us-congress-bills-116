@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 110
 congress: 116
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 110
