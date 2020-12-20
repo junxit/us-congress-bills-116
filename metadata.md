@@ -1,7 +1,7 @@
 ---
 measure: S. 2346
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2346
@@ -35,3 +35,12 @@ Fishery Failures: Urgently Needed Disaster Declarations Act
 - 2020-11-16 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-293.
 - 2020-11-16 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-293.
 - 2020-11-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 586.
+- 2020-12-20 — Amendment SA 2723 agreed to in Senate by Unanimous Consent.
+- 2020-12-20 — Amendment SA 2723 proposed by Senator Blunt for Senator Wicker. (consideration: CR S7871; text: CR S7878-7880) In the nature of a substitute.
+- 2020-12-20 — Measure laid before Senate by unanimous consent. (consideration: CR S7868-7871; text: CR S7868-7871)
+- 2020-12-20 — Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: CR S7878-7880)
+- 2020-12-20 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(text of amendment in the nature of a substitute: CR S7878-7880)
+- 2020-12-20 — Senate amendment agreed to: Amendment SA 2723 agreed to in Senate by Unanimous Consent.
+- 2020-12-20 — Senate amendment proposed (on the floor): Amendment SA 2723 proposed by Senator Blunt for Senator Wicker.
+- 2020-12-20 — Senate amendment submitted
+- 2020-12-20 — The committee substitute withdrawn by Unanimous Consent.
