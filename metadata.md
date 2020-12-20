@@ -1,7 +1,7 @@
 ---
 measure: S. 3948
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3948
@@ -28,3 +28,5 @@ A bill to amend the Alyce Spotted Bear and Walter Soboleff Commission on Native 
 - 2020-09-24 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-271.
 - 2020-09-24 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-271.
 - 2020-09-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 558.
+- 2020-12-20 — Passed Senate without amendment by Voice Vote. (consideration: CR S7868; text: CR S7868)
+- 2020-12-20 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S7868; text: CR S7868)
