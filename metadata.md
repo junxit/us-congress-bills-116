@@ -1,7 +1,7 @@
 ---
 measure: S. 3100
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3100
@@ -33,3 +33,5 @@ Alaska Native Tribal Health Consortium Land Transfer Act of 2020
 - 2020-10-20 — Committee on Indian Affairs. Reported by Senator Hoeven with an amendment in the nature of a substitute. With written report No. 116-282.
 - 2020-10-20 — Committee on Indian Affairs. Reported by Senator Hoeven with an amendment in the nature of a substitute. With written report No. 116-282.
 - 2020-10-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 576.
+- 2020-12-20 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7867; text: CR S7867)
+- 2020-12-20 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S7867; text: CR S7867)
