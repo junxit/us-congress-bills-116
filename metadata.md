@@ -1,7 +1,7 @@
 ---
 measure: S. 4556
 congress: 116
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4556
@@ -29,3 +29,5 @@ A bill to authorize the Secretary of Health and Human Services, acting through t
 - 2020-12-09 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-306.
 - 2020-12-09 — Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-306.
 - 2020-12-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 606.
+- 2020-12-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7867; text: CR S7867)
+- 2020-12-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7867; text: CR S7867)
