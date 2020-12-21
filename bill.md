@@ -2,18 +2,18 @@
 legis-num: H. RES. 1271
 congress: 116th CONGRESS
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H. RES. 1271
 
 > Providing for consideration of the Senate amendment to the bill (H.R. 133) to promote economic partnership and cooperation between the United States and Mexico; providing for disposition of the Senate amendment to the bill (H.R. 1520) to amend the Public Health Service Act to provide for the publication of a list of licensed biological products, and for other purposes; and for other purposes.
 
-That upon adoption of this resolution it shall be in order to take from the Speaker's table the bill (H.R. 133) to promote economic partnership and cooperation between the United States and Mexico, with the Senate amendment thereto, and to consider in the House, without intervention of any point of order, a motion offered by the chair of the Committee on Appropriations or her designee that the House concur in the Senate amendment with an amendment consisting of the text of Rules Committee Print 116–68. The Senate amendment and the motion shall be considered as read. The motion shall be debatable for one hour equally divided and controlled by the chair and ranking minority member of the Committee on Appropriations. The previous question shall be considered as ordered on the motion to its adoption without intervening motion. The question of adoption of the motion shall be divided for a separate vote on the matter proposed to be inserted as divisions B, C, E, and F, and the Chair shall first put the question on such portion of the divided question. If either portion of the divided question fails of adoption, then the motion shall immediately be considered to have failed of adoption.
+That upon adoption of this resolution it shall be in order to take from the Speaker's table the bill (H.R. 133) to promote economic partnership and cooperation between the United States and Mexico, with the Senate amendment thereto, and to consider in the House, without intervention of any point of order, a motion offered by the chair of the Committee on Appropriations or her designee that the House concur in the Senate amendment with an amendment consisting of the text of Rules Committee Print 116-68. The Senate amendment and the motion shall be considered as read. The motion shall be debatable for one hour equally divided and controlled by the chair and ranking minority member of the Committee on Appropriations. The previous question shall be considered as ordered on the motion to its adoption without intervening motion. The question of adoption of the motion shall be divided for a separate vote on the matter proposed to be inserted as divisions B, C, E, and F, and the Chair shall first put the question on such portion of the divided question. If either portion of the divided question fails of adoption, then the motion shall immediately be considered to have failed of adoption.
 
 ## § 2.
 
-Upon adoption of this resolution, the House shall be considered to have taken from the Speaker's table the bill (H.R. 1520) to amend the Public Health Service Act to provide for the publication of a list of licensed biological products, and for other purposes, with the Senate amendment thereto, and to have concurred in the Senate amendment with an amendment consisting of the text of Rules Committee Print 116–69.
+Upon adoption of this resolution, the House shall be considered to have taken from the Speaker's table the bill (H.R. 1520) to amend the Public Health Service Act to provide for the publication of a list of licensed biological products, and for other purposes, with the Senate amendment thereto, and to have concurred in the Senate amendment with an amendment consisting of the text of Rules Committee Print 116-69.
 
 ## § 3.
 
