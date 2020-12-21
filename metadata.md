@@ -1,7 +1,7 @@
 ---
 measure: S. 371
 congress: 116
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 371
@@ -45,3 +45,14 @@ Building Up Independent Lives and Dreams Act
 - 2020-12-21 — Senate amendment agreed to: Amendment SA 2729 agreed to in Senate by Unanimous Consent.
 - 2020-12-21 — Senate amendment proposed (on the floor): Amendment SA 2729 proposed by Senator Cornyn for Senator Fischer.
 - 2020-12-21 — Senate amendment submitted
+- 2020-12-31 — Considered by unanimous consent. (consideration: CR H9172)
+- 2020-12-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-31 — Mrs. Dingell asked unanimous consent to take from the Speaker's table and consider.
+- 2020-12-31 — On passage Passed without objection. (text: CR H9172)
+- 2020-12-31 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9172)
+- 2021-01-01 — Presented to President.
+- 2021-01-01 — Presented to President.
+- 2021-01-13 — Became Public Law No: 116-342.
+- 2021-01-13 — Became Public Law No: 116-342.
+- 2021-01-13 — Signed by President.
+- 2021-01-13 — Signed by President.
