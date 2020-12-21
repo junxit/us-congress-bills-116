@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1520
 congress: 116
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
