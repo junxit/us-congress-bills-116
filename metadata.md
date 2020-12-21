@@ -1,7 +1,7 @@
 ---
 measure: H.R. 865
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 865
@@ -16,7 +16,7 @@ Rebuild America’s Schools Act of 2019
 
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 
-## Cosponsors (152)
+## Cosponsors (213)
 
 - Rep. Adams, Alma S. [D-NC-12] (A000370)
 - Rep. Aguilar, Pete [D-CA-31] (A000371)
@@ -170,6 +170,67 @@ Rebuild America’s Schools Act of 2019
 - Rep. Wilson, Frederica S. [D-FL-24] (W000808)
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
 - Rep. Stevens, Haley M. [D-MI-11] (S001215)
+- Rep. Allred, Colin Z. [D-TX-32] (A000376)
+- Rep. Veasey, Marc A. [D-TX-33] (V000131)
+- Rep. Bass, Karen [D-CA-37] (B001270)
+- Rep. Mucarsel-Powell, Debbie [D-FL-26] (M001207)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
+- Rep. Houlahan, Chrissy [D-PA-6] (H001085)
+- Rep. Frankel, Lois [D-FL-21] (F000462)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. Sires, Albio [D-NJ-8] (S001165)
+- Rep. Kim, Andy [D-NJ-3] (K000394)
+- Rep. Cox, TJ [D-CA-21] (C001124)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Levin, Mike [D-CA-49] (L000593)
+- Rep. Finkenauer, Abby [D-IA-1] (F000467)
+- Rep. Sherman, Brad [D-CA-30] (S000344)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Phillips, Dean [D-MN-3] (P000616)
+- Rep. Axne, Cynthia [D-IA-3] (A000378)
+- Rep. Kirkpatrick, Ann [D-AZ-2] (K000368)
+- Rep. Malinowski, Tom [D-NJ-7] (M001203)
+- Rep. Higgins, Brian [D-NY-26] (H001038)
+- Rep. Pappas, Chris [D-NH-1] (P000614)
+- Rep. Rouda, Harley [D-CA-48] (R000616)
+- Rep. Porter, Katie [D-CA-45] (P000618)
+- Rep. Brindisi, Anthony [D-NY-22] (B001308)
+- Rep. Delgado, Antonio [D-NY-19] (D000630)
+- Rep. Speier, Jackie [D-CA-14] (S001175)
+- Rep. Crow, Jason [D-CO-6] (C001121)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. DelBene, Suzan K. [D-WA-1] (D000617)
+- Rep. Crist, Charlie [D-FL-13] (C001111)
+- Rep. Slotkin, Elissa [D-MI-8] (S001208)
+- Rep. Neal, Richard E. [D-MA-1] (N000015)
+- Rep. Sherrill, Mikie [D-NJ-11] (S001207)
+- Rep. Lamb, Conor [D-PA-17] (L000588)
+- Rep. Luria, Elaine G. [D-VA-2] (L000591)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. Torres Small, Xochitl [D-NM-2] (T000484)
+- Rep. Wexton, Jennifer [D-VA-10] (W000825)
+- Rep. Casten, Sean [D-IL-6] (C001117)
+- Rep. Dean, Madeleine [D-PA-4] (D000631)
+- Rep. Doyle, Michael F. [D-PA-18] (D000482)
+- Rep. Cárdenas, Tony [D-CA-29] (C001097)
+- Rep. Lewis, John [D-GA-5] (L000287)
+- Rep. Foster, Bill [D-IL-11] (F000454)
+- Rep. Gabbard, Tulsi [D-HI-2] (G000571)
+- Rep. Correa, J. Luis [D-CA-46] (C001110)
+- Rep. Hastings, Alcee L. [D-FL-20] (H000324)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Thompson, Mike [D-CA-5] (T000460)
+- Rep. Kelly, Robin L. [D-IL-2] (K000385)
+- Rep. Garcia, Sylvia R. [D-TX-29] (G000587)
+- Rep. Ruiz, Raul [D-CA-36] (R000599)
+- Rep. Beyer, Donald S., Jr. [D-VA-8] (B001292)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
+- Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
+- Del. Plaskett, Stacey E. [D-VI-At Large] (P000610)
 
 ## Committees (2)
 
@@ -182,3 +243,10 @@ Rebuild America’s Schools Act of 2019
 - 2019-01-30 — Introduced in House
 - 2019-01-30 — Referred to the Committee on Education and Labor, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-01-30 — Referred to the Committee on Education and Labor, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-02-26 — Committee Consideration and Mark-up Session Held.
+- 2019-02-26 — Ordered to be Reported by the Yeas and Nays: 26 - 20.
+- 2020-12-21 — Committee on Ways and Means discharged.
+- 2020-12-21 — Committee on Ways and Means discharged.
+- 2020-12-21 — Placed on the Union Calendar, Calendar No. 567.
+- 2020-12-21 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 116-684, Part I.
+- 2020-12-21 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 116-684, Part I.
