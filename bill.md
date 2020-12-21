@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1108
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -18,7 +18,7 @@ This Act may be cited as the “Aviation Funding Stability Act of 2019”.
 - **(a)** *In general* If, with respect to the Federal Aviation Administration, an appropriation measure for a fiscal year is not enacted before the beginning of such fiscal year or a joint resolution making continuing appropriations is not in effect, amounts in the Airport and Airway Trust Fund not otherwise appropriated shall be available to the Administrator for continuing programs, projects, or activities (including the costs of direct loans and loan guarantees) that were conducted with amounts made available for the Federal Aviation Administration, including for the accounts “Federal Aviation Administration—Operations”, “Federal Aviation Administration—Facilities and Equipment”, “Federal Aviation Administration—Research, Engineering, and Development”, and “Federal Aviation Administration—Grants-in-Aid for Airports” in the preceding fiscal year—
   - **(1)** in the corresponding appropriation Act for such preceding fiscal year; or
   - **(2)** if the corresponding appropriation bill for such preceding fiscal year did not become law, then in a joint resolution making continuing appropriations for such preceding fiscal year.
-- **(b)** *Rate for operations* Appropriations and funds made available, and authority granted, for a program, project, or activity for any fiscal year pursuant to this section shall be at a rate for operations not greater than—
+- **(b)** *Rate for operations* Appropriations and funds made available, and authority granted, for a program, project, or activity for any fiscal year pursuant to this section shall be at a rate for operations not greater than —
   - **(1)** the rate for operations provided for in the regular appropriation Act providing for such program, project, or activity for the preceding fiscal year; or
   - **(2)** in the absence of such an Act, the rate for operations provided for such program, project, or activity pursuant to a joint resolution making continuing appropriations for such preceding fiscal year.
 - **(c)** *Availability* Appropriations and funds made available, and authority granted, for any fiscal year pursuant to this section for a program, project, or activity shall be available for the period beginning with the first day of a lapse in appropriations and ending with the date on which the applicable regular appropriation bill for such fiscal year becomes law (whether or not such law provides for such program, project, or activity) or a joint resolution making continuing appropriations becomes law, as the case may be.
@@ -29,3 +29,7 @@ This Act may be cited as the “Aviation Funding Stability Act of 2019”.
 - **(h)** *Termination* This section shall not apply to a program, project, or activity during any portion of a fiscal year if any other provision of law (other than an authorization of appropriations)—
   - **(1)** makes an appropriation, makes funds available, or grants authority for such program, project, or activity to continue for such period; or
   - **(2)** specifically provides that no appropriation shall be made, no funds shall be made available, or no authority shall be granted for such program, project, or activity to continue for such period.
+
+## § 3. Airport planning and development and noise compatibility planning and programs
+
+Each of paragraphs (3) through (6) of section 48103(a) of title 49, United States Code, is amended by striking “$3,350,000,000” and inserting “$4,000,000,000”.
