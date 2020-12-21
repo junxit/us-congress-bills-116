@@ -1,7 +1,7 @@
 ---
 measure: H.R. 133
 congress: 116
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 

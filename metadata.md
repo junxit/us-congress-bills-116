@@ -1,7 +1,7 @@
 ---
 measure: H.R. 133
 congress: 116
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 133
@@ -70,3 +70,10 @@ Consolidated Appropriations Act, 2021
 - 2020-12-21 — Resolving differences -- Senate actions: Senate agreed, having achieved 60 votes in the affirmative, to the House amendment to the Senate amendment to H.R. 133 by Yea-Nay Vote. 92 - 6. Record Vote Number: 289.
 - 2020-12-21 — Senate agreed, having achieved 60 votes in the affirmative, to the House amendment to the Senate amendment to H.R. 133 by Yea-Nay Vote. 92 - 6. Record Vote Number: 289. (consideration: CR S7922-7923, S7924-7928)
 - 2020-12-21 — Senate amendment submitted
+- 2020-12-22 — Message on Senate action sent to the House.
+- 2020-12-24 — Presented to President.
+- 2020-12-24 — Presented to President.
+- 2020-12-27 — Became Public Law No: 116-260.
+- 2020-12-27 — Became Public Law No: 116-260.
+- 2020-12-27 — Signed by President.
+- 2020-12-27 — Signed by President.
