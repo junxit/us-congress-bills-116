@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2245
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,23 +15,25 @@ This Act may be cited as the “Conserving Ecosystems by Ceasing the Importation
 
 ## § 2. Amendment to prohibited acts
 
-Section 9(a)(1) of the Endangered Species Act of 1973 (16 U.S.C. 1538(a)(1)) is amended by striking subparagraph (A) and inserting the following:
+Section 9(a) of the Endangered Species Act of 1973 (16 U.S.C. 1538(a)) is amended by adding at the end the following:
 
-> - **(A)** import into or export from the United States any species listed or proposed to be listed under section 4(c) as a threatened species or endangered species;
+> - **(3)** Except as provided in section 10 of this Act, it is unlawful for any person to import into or export from the United States any sport-hunted trophy of a species listed or proposed to be listed under section 4(c) as a threatened species or endangered species.
 
 ## § 3. Imports of sport-hunted trophies
 
 Section 10(a) of the Endangered Species Act of 1973 (16 U.S.C. 1539(a)) is amended by adding at the end the following:
 
-> - **(3)** Before issuing any permit under this Act authorizing import of any sport-hunted trophy of a threatened species or endangered species, the Secretary must make a finding after public notice and comment pursuant to section 553 of title 5, United States Code, of whether the country where the animal was killed adequately provides for the conservation and monitoring for that species, including—
+> - **(3)** Before issuing any permit under this Act authorizing import of any sport-hunted trophy of a species that is listed or proposed to be listed as an endangered or threatened species, the Secretary must make a finding after public notice and comment pursuant to section 553 of title 5, United States Code, of whether the country where the animal was killed adequately provides for the conservation and monitoring for that species, including that—
 >   - **(A)** a management plan for that species based on the best available science that—
->     - **(i)** addresses existing threats to the species; provides a significant conservation benefit to the species;
->     - **(ii)** formally coordinates with adjacent countries to protect transboundary populations; and
->     - **(iii)** ensures that any take is sustainable and does not contribute to the species’ decline in either the short-term or long-term according to current population estimates derived through the use of the best available science;
+>     - **(i)** addresses existing threats to the species;
+>     - **(ii)** provides a significant conservation benefit to the species;
+>     - **(iii)** formally coordinates with adjacent countries to protect transboundary populations; and
+>     - **(iv)** ensures that any take is sustainable and does not contribute to the species’ decline in either the short-term or long-term according to current population estimates derived through the use of the best available science;
 >   - **(B)** such management plan is being actively implemented;
->   - **(C)** the country where the animal was killed demonstrates transparency, accountability, and verifiability in governance to ensure that any benefits of trophy hunting, including revenue from such taking, materially, directly and substantially benefits the conservation of that species; and
->   - **(D)** hunting of the species in such country enhances the propagation or survival of the species.
-> - **(4)** Notwithstanding sections 9(b) and 9(c)(2), no permit may be issued by the Secretary for the import of a sport-hunted trophy of an elephant or lion taken in Tanzania, Zimbabwe, or Zambia.
+>   - **(C)** the country where the animal was killed demonstrates transparency, accountability, and verifiability in governance to ensure that any benefits of trophy hunting, including revenue from such taking, materially, directly and substantially benefits the conservation of that species;
+>   - **(D)** hunting of the species in such country enhances the propagation or survival of the species; and
+>   - **(E)** the local community in which the trophy hunting occurs directly and substantially benefits from the hunting of the species.
+> - **(4)** Notwithstanding subsections (b) and (c)(2) of section 9, no permit may be issued by the Secretary for the import of a sport-hunted trophy of an elephant or lion taken in Tanzania, Zimbabwe, or Zambia.
 
 ## § 4. Permit fees for sport-hunted trophy imports
 
@@ -41,7 +43,7 @@ Section 10(a)(2) of the Endangered Species Act of 1973 (16 U.S.C. 1539(a)(2)) is
 
 ## § 5. Transparency of sports-hunted trophy import permits
 
-Section 10(c) of the Endangered Species Act of 1973 (16 U.S.C. 1539(c)) is amended by striking “which is made under this section” and inserting in its place “under this Act for an endangered species or threatened species”.
+Section 10(c) of the Endangered Species Act of 1973 (16 U.S.C. 1539(c)) is amended by inserting “The Secretary shall publish notice in the Federal Register of each application for an exemption or permit which is made under this Act for a sport-hunted trophy of a species that is listed or proposed to be listed as an endangered species or threatened species.” after “section.”
 
 ## § 6. Termination of International Wildlife Conservation Council
 

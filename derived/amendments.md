@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2245
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `16 U.S.C. § 1538` | replace | Section 9(a)(1) of the Endangered Species Act of 1973 (16 U.S.C. 1538(a)(1)) is amended by striking subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1538` | add-at-end | Section 9(a) of the Endangered Species Act of 1973 (16 U.S.C. 1538(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1539` | add-at-end | Section 10(a) of the Endangered Species Act of 1973 (16 U.S.C. 1539(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1539` | redesignate | Section 10(a)(2) of the Endangered Species Act of 1973 (16 U.S.C. 1539(a)(2)) is amended by redesignating subparagraph (C) as subparagraph (D), and by inserting after subparagraph (B) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1539` | replace | Section 10(c) of the Endangered Species Act of 1973 (16 U.S.C. 1539(c)) is amended by striking “which is made under this section” and inserting in its place “under this Act for an endangered species or threatened species”. | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1539` | insert | Section 10(c) of the Endangered Species Act of 1973 (16 U.S.C. 1539(c)) is amended by inserting “The Secretary shall publish notice in the Federal Register of each application for an exemption or permit which is made under this Act for a… | the bill quotes the text inserted but describes where it goes |
