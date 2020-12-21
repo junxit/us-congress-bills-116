@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4545
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,9 +13,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Private Loan Disability Discharge Act of 2019”.
 
-## § 2. Protections for obligors and cosigners in cases of death or total and permanent disability
+## § 2. Protections for obligors and cosigners in case of death or total and permanent disability
 
-- **(a)** *In general* Section 140(g) of the Truth in Lending Act (15 U.S.C. 1650) is amended—
+- **(a)** *In general* Section 140(g) of the Truth in Lending Act (15 U.S.C. 1650(g)) is amended—
   - **(1)** in paragraph (2)—
     - **(A)** in the heading, by striking “in case of death of borrower”;
     - **(B)** in subparagraph (A), by inserting after “of the death”, the following: “or total and permanent disability”; and
