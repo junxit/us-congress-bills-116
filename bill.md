@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4782
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “National Commission on Online Platforms and Homeland Security Act”.
 
-## § 2. National Commission on Online Platforms and Homeland Security
+## § 2. National commission on online platforms and homeland security
 
 - **(a)** *Establishment of commission* There is established a National Commission on Online Platforms and Homeland Security (referred to in this section as the “Commission”).
 - **(b)** *Purposes* The Commission shall—
@@ -27,12 +27,12 @@ This Act may be cited as the “National Commission on Online Platforms and Home
     - **(A)** two members shall be appointed by the Committee on Homeland Security in the House of Representatives, with one member selected by the Chair and the other selected by the Ranking Member;
     - **(B)** two members shall be appointed by the Committee on Foreign Affairs in the House of Representatives, with one member selected by the Chair and the other selected by the Ranking Member;
     - **(C)** two members shall be appointed by the Committee on Energy and Commerce in the House of Representatives, with one member selected by the Chair and the other selected by the Ranking Member;
-    - **(D)** two members shall be appointed by the Committee on Homeland Security and Governmental Affairs in the Senate, with one member selected by the Chair and the other selected by the Ranking Member;
+    - **(D)** two members shall be appointed by the Committee on Homeland Security and Government Affairs in the Senate, with one member selected by the Chair and the other selected by the Ranking Member;
     - **(E)** two members shall be appointed by the Committee on Foreign Relations in the Senate, with one member selected by the Chair and the other selected by the Ranking Member; and
     - **(F)** two members shall be appointed by the Committee on Commerce, Science, and Transportation in the Senate, with one member selected by the Chair and the other selected by the Ranking Member.
   - **(2)** *Qualifications*
-    - **(A)** *Areas of expertise* Individuals appointed to the Commission shall be United States persons with experience in such professions as privacy, civil rights, civil liberties, computer science and engineering, digital media and communications, online platform management, cybersecurity, information operations, and national security. The appointment of members to the Commission shall, to the extent possible, be coordinated among nominations to ensure Commission membership represents a variety of expertise in such fields.
-    - **(B)** *Privacy, civil rights, and civil liberties* Not fewer than four individuals appointed to the Commission shall be experts in the fields of privacy, civil rights, or civil liberties.
+    - **(A)** *Areas of expertise* Individuals appointed to the Commission shall be United States persons with experience in such professions as privacy, civil rights, civil liberties, constitutional law, computer science and engineering, digital media and communications, online platform management, cybersecurity, information operations, and national security. The appointment of members to the Commission shall, to the extent possible, be coordinated among nominations to ensure Commission membership represents a variety of expertise in such fields.
+    - **(B)** *Privacy, civil rights, and civil liberties* Not fewer than four individuals appointed to the Commission shall be experts in the fields of privacy, civil rights, or civil liberties, and not fewer than one individual shall be an expert in constitutional law.
     - **(C)** *Non-government appointees* An individual appointed to the Commission may not be an officer or employee of the Federal Government.
     - **(D)** *Non-industry appointees* An individual appointed to the Commission may not be a current officer, employee, contractor, or active or significant shareholder of an entity that owns or operates an online platform.
   - **(3)** *Deadline for appointment* Members of the Commission shall be appointed not later than 30 days after the date of the enactment of this Act.
@@ -41,19 +41,19 @@ This Act may be cited as the “National Commission on Online Platforms and Home
 - **(f)** *Quorum; vacancies* After its initial meeting, the Commission shall meet upon the call of the Chair or a majority of its members. Nine members of the Commission shall constitute a quorum, and members shall have the option to vote by proxy. Any vacancy in the Commission shall not affect its powers, but shall be filled in the same manner in which the original appointment was made.
 - **(g)** *Study areas* The Commission shall, consistent with the purposes specified in subsection (b), analyze existing research that relates to the utilization of online platforms in furtherance of acts of targeted violence, including domestic terrorism and international terrorism, or covert foreign state influence campaigns, identify any areas with respect to which additional research is needed, and study the following:
   - **(1)** The extent to which owners or operators of online platforms have been able to respond effectively to attempts to use online platforms in furtherance of acts of targeted violence, including domestic terrorism and international terrorism, or covert foreign state influence campaigns, and what impact, if any, such responses have had on the privacy, civil rights, or civil liberties of users.
-  - **(2)** The ways, if any, that online platforms’ algorithms or other automated decision-making systems may impact privacy, civil rights, or civil liberties, as well as how such algorithms may affect activity on online platforms in furtherance of acts of targeted violence, including domestic terrorism and international terrorism, or covert foreign state influence campaigns.
+  - **(2)** The ways, if any, that online platforms’ algorithms or other automated decision-making systems may have affected activity on such platforms in furtherance of acts of targeted violence, including domestic terrorism and international terrorism, or covert foreign state influence campaigns.
   - **(3)** The extent to which owners or operators of online platforms have transparent, consistent, and equitable policies and procedures to enforce terms of services or codes of conduct, provide notice and an opportunity for redress, or otherwise address violations of platform rules, including a consideration of best practices for improving online platforms’ policies and procedures, including the recommendations contained in the Santa Clara Principles on Transparency and Accountability in Content Moderation, as published on February 2, 2018, or successor principles with respect to the extent and impact of content removals and user suspensions and removals, as well as principles related to the notice and appeals of such decisions.
   - **(4)** The extent to which owners or operators of online platforms consistently and effectively enforce the policies and procedures described in paragraph (3).
   - **(5)** The extent to which owners or operators of online platforms consider the potential use of online platforms in furtherance of targeted violence, including domestic terrorism and international terrorism, or covert foreign state influence campaigns, when evaluating whether to enter into partnerships, advertising agreements, or other business opportunities.
 - **(h)** *Powers of Commission*
   - **(1)** *Hearings and evidence* For the purpose of carrying out this section, the Commission may—
-    - **(A)** hold such hearings and sit and act at such times and places, take such testimony, receive such evidence, and administer such oaths; and
-    - **(B)** require, by subpoena authorized by the majority vote of the Commission, the attendance and testimony of such witnesses and the production of such books, records, correspondence, memoranda, papers, and documents, as the Commission may determine advisable.
+    - **(A)** hold such hearings and sit and act at such times and places, take such testimony, receive such evidence, and administer such oaths, and
+    - **(B)** require, by subpoena authorized by the majority vote of the Commission, the attendance and testimony of such witnesses and the production of such books, records, correspondence, memoranda, papers, and documents, but only to the extent necessary to achieve the purposes specified in subsection (b).
   - **(2)** *Limitations on subpoena authority* With respect to the subpoena authority granted in paragraph (1)(B), the Commission—
-    - **(A)** may only issue a subpoena to an owner or operator of an online platform;
+    - **(A)** may only issue a subpoena to an owner or operator of an online platform but only to the extent necessary to achieve the purposes specified in subsection (b);
     - **(B)** may not, under any circumstances, issue a subpoena for information related to an individual user or group of users;
     - **(C)** may not share, disclose, publish, or transmit in any way any information obtained through subpoena to a Federal department or agency, any agency of a State, local, Tribal, or territorial government, or any international body;
-    - **(D)** may not share, disclose, publish, or transmit in any way any information obtained through subpoena with any individual or organization outside the Commission unless three-fourths of Commission members approve such action and that and that any such sharing, disclosure, publishing, or transmission be reasonably necessary to further the Commission’s goals; and
+    - **(D)** may not share, disclose, publish, or transmit in any way any information obtained through subpoena with any individual or organization outside the Commission unless three-fourths of Commission members approve such action and that any such sharing, disclosure, publishing, or transmission be reasonably necessary for the report and to further the Commission’s goals; and
     - **(E)** shall comply with requirements for the issuance of a subpoena issued by a United States district court under the Federal Rules of Civil Procedure.
   - **(3)** *Public meetings and release of public versions of reports*
     - **(A)** *In general* The Commission shall—
@@ -63,7 +63,7 @@ This Act may be cited as the “National Commission on Online Platforms and Home
       - **(iv)** release a public version of the report required under subsection (k)(2).
     - **(B)** *Conduct* Any public hearing, meeting, or reporting of the Commission under this paragraph shall be conducted in a manner consistent with the protection of information provided to or developed for or by the Commission as required by any applicable statute, regulation, or Executive order.
   - **(4)** *Obligation to protect personal information* Whether or not the Commission receives personally identifiable information through the exercise of subpoena authority pursuant to paragraph (1)(B), neither the Commission nor any member of the Commission may publish, disclose, or release such information publicly or to a Federal department or agency, an agency of a State, local, Tribal, or territorial government, any international body, or any other individual or organization outside the Commission.
-  - **(5)** *Obligation to protect proprietary information* In the event that the Commission determines that information received from an owner or operator of an online platform includes confidential business information, a trade secret, or other proprietary information, the Commission shall ensure such information is not published, disclosed, or released to any individual or organization outside the Commission.
+  - **(5)** *Obligation to protect proprietary information* Whether or not the Commission receives proprietary information, confidential business information, or a trade secret through the exercise of subpoena authority pursuant to paragraph (1)(B), neither the Commission nor any member of the Commission may publish, disclose, or release such information publicly or to a Federal department or agency, an agency of a State, local, Tribal, or territorial government, any international body, or any individual or organization outside the Commission.
   - **(6)** *Coordination with and assistance to the Under Secretary for Science and Technology of the Department of Homeland Security* The Commission may, to the extent practicable—
     - **(A)** consult with the Under Secretary for Science and Technology of the Department of Homeland Security on the research conducted in accordance with section 3; and
     - **(B)** provide assistance in furtherance of such research, as appropriate.
@@ -88,7 +88,7 @@ This Act may be cited as the “National Commission on Online Platforms and Home
 - **(a)** *In general* The Under Secretary for Science and Technology of the Department of Homeland Security shall—
   - **(1)** analyze existing research regarding previous acts of targeted violence, including domestic terrorism or international terrorism;
   - **(2)** carry out research to better understand whether any connection exists between the use of online platforms, particularly platforms used for social media and social networking, and targeted violence, including domestic terrorism and international terrorism, that takes into consideration how the organization, structure, and presentation of information on an online platform contributes, or does not contribute, to acts of targeted violence, including domestic terrorism or international terrorism; and
-  - **(3)** develop voluntary approaches that could be adopted by owners and operators of online platforms to address research findings under paragraph (2), while preserving the individual privacy, civil rights, and civil liberties of users.
+  - **(3)** develop voluntary approaches that could be adopted by owners and operators of online platforms to address research findings under paragraph (2), while preserving the individual privacy, civil rights, and civil liberties of users and innovation on online platforms.
 - **(b)** *Partnership* In carrying out this section, the Under Secretary for Science and Technology of the Department of Homeland Security shall, to the extent practicable, coordinate with the National Commission on Online Platforms and Homeland Security under section 2, as well as academic institutions, non-profit organizations, the private sector, and Federal, State, local, and Tribal partners, as appropriate.
 - **(c)** *Report* Not later than one year after the date of the enactment of this section, the Under Secretary for Science and Technology of the Department of Homeland Security shall submit to Congress a report related to the research and development required under subsection (a).
 - **(d)** *Paperwork reduction act exemption* Subchapter I of chapter 35 of title 44, United States Code, shall not apply to this section.
@@ -97,16 +97,16 @@ This Act may be cited as the “National Commission on Online Platforms and Home
 
 In this Act:
 
-- **(1)** *Covert foreign state influence campaigns* The term “covert foreign state influence campaigns” means the coordinated and covert application of state diplomatic, informational, military, economic, business, corruption, educational, or other capability by foreign state actors to the United States to affect elections in the United States.
+- **(1)** *Covert foreign state influence campaigns* The term “covert foreign state influence campaigns” means the coordinated and covert application of state diplomatic, informational, military, economic, business, corruption, educational, or other capability that was carried out by a foreign state actor to the United States to affect elections in the United States.
 - **(2)** *Domestic terrorism* The term “domestic terrorism” has the meaning given such term in section 2331 of title 18, United States Code.
 - **(3)** *International terrorism* The term “international terrorism” has the meaning given such term in section 2331 of title 18, United States Code.
 - **(4)** *Online platform*
   - **(A)** *In general* The term “online platform” means internet-based information services consisting of the storage and processing of information by and at the request of a content provider and the dissemination of such content to third parties.
   - **(B)** *Exclusions* Such term does not include the following:
-    - **(i)** Platforms that offer journalistic or editorial content (not including editorial decisions by online platforms to rank and organize third party content).
-    - **(ii)** Applications and functionalities that enable private communications, such as email, direct messages, and encrypted communication services.
+    - **(i)** Platforms the primary purpose of which is to produce journalistic or editorial content (not including editorial decisions by online platforms to rank and organize third party content).
+    - **(ii)** Applications and functionalities that enable private communications, such as email, direct messages, and end-to-end encrypted communication services.
     - **(iii)** Online service providers at layers of the internet infrastructure other than the application layer, and cloud IT infrastructure service providers.
 - **(5)** *Personally identifiable information* The term “personally identifiable information” means any information about an individual elicited, collected, stored, or maintained by an agency or owner or operator of an online platform, including the following:
-  - **(A)** Any information that can be used to distinguish or trace the identity of an individual, such as a name, a social security number, a date and place of birth, a mother’s maiden name, or biometric records.
+  - **(A)** Any information that can be used to distinguish or trace the identity of an individual, such as a name, a social security number, a date and place of birth, a mother’s maiden name, phone number or biometric records.
   - **(B)** Any other information that is linked or linkable to an individual, such as medical, educational, financial, or employment information.
-- **(6)** *Targeted violence* The term “targeted violence” means any incident of violence in which an attacker selects a particular target prior to the incident of violence so as to suggest an intent to inflict mass injury or death and may be an act of domestic terrorism or international terrorism, or an attack that otherwise lacks a clearly discernible political or ideological motivation, such as the June 12, 2016, nightclub mass shooting in Orlando, Florida, the October 1, 2017, attack on concert-goers at a music festival in Las Vegas, Nevada, and the August 3, 2019, mass shooting at a store in El Paso, Texas.
+- **(6)** *Targeted violence* The term “targeted violence” means an incident of violence in which an attacker selected a particular target in order to inflict mass injury or death as part of an act of domestic terrorism or international terrorism or with no discernable political or ideological motivation beyond mass injury or death. Acts of targeted violence include the August 5, 2012, mass shooting at a Sikh temple in Oak Creek, Wisconsin, the June 12, 2016, nightclub mass shooting in Orlando, Florida, the October 1, 2017, attack on concert-goers at a music festival in Las Vegas, Nevada, the October 27, 2018, attack at a synagogue in Pittsburgh, Pennsylvania, and the August 3, 2019, mass shooting at a store in El Paso, Texas.

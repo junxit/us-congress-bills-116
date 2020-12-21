@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4782
 congress: 116
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4782
@@ -16,7 +16,7 @@ National Commission on Online Platforms and Homeland Security Act
 
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Cosponsors (9)
+## Cosponsors (18)
 
 - Rep. Rose, Max [D-NY-11] (R000613)
 - Rep. Barragan, Nanette Diaz [D-CA-44] (B001300)
@@ -27,6 +27,15 @@ National Commission on Online Platforms and Homeland Security Act
 - Rep. Langevin, James R. [D-RI-2] (L000559)
 - Rep. Correa, J. Luis [D-CA-46] (C001110)
 - Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Taylor, Van [R-TX-3] (T000479)
+- Rep. Torres Small, Xochitl [D-NM-2] (T000484)
+- Rep. Slotkin, Elissa [D-MI-8] (S001208)
+- Rep. Axne, Cynthia [D-IA-3] (A000378)
+- Rep. Gonzalez, Vicente [D-TX-15] (G000581)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Moulton, Seth [D-MA-6] (M001196)
+- Rep. Case, Ed [D-HI-1] (C001055)
 
 ## Committees (2)
 
@@ -39,3 +48,11 @@ National Commission on Online Platforms and Homeland Security Act
 - 2019-10-22 — Introduced in House
 - 2019-10-22 — Referred to the Committee on Homeland Security, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2019-10-22 — Referred to the Committee on Homeland Security, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2019-10-23 — Committee Consideration and Mark-up Session Held.
+- 2019-10-23 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2019-10-23 — Referred to the Subcommittee on Communications and Technology.
+- 2020-12-21 — Committee on Energy and Commerce discharged.
+- 2020-12-21 — Committee on Energy and Commerce discharged.
+- 2020-12-21 — Placed on the Union Calendar, Calendar No. 566.
+- 2020-12-21 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-683, Part I.
+- 2020-12-21 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-683, Part I.
