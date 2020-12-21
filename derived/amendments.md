@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1520
 congress: 116
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 262` | add-at-end | Section 351(k) of the Public Health Service Act (42 U.S.C. 262(k)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | That the Continuing Appropriations Act, 2021 (division A of Public Law 116–159) is further amended by striking the date specified in section 106(3) and inserting “December 28, 2020”. | the bill names no machine-readable US Code section |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1520
 congress: 116
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 1520
@@ -72,3 +72,11 @@ Further Extension of Continuing Appropriations Act, 2021
 - 2020-12-10 — Senate amendment agreed to: Amendment SA 2699 agreed to in Senate by Unanimous Consent.
 - 2020-12-10 — Senate amendment proposed (on the floor): Amendment SA 2699 proposed by Senator Cornyn for Senator Alexander.
 - 2020-12-10 — Senate amendment submitted
+- 2020-12-11 — Message on Senate action sent to the House.
+- 2020-12-21 — House agreed to the Senate amendment with an amendment pursuant to the provisions of H.Res. 1271. (consideration: CR H7300; text of amendment in the nature of a substitute: CR H7300)
+- 2020-12-21 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2020-12-21 — Message on Senate action sent to the House.
+- 2020-12-21 — Presented to President.
+- 2020-12-21 — Presented to President.
+- 2020-12-21 — Resolving differences -- Senate actions: Senate agreed to the House amendment to the Senate amendment to H.R. 1520 by Voice Vote.
+- 2020-12-21 — Senate agreed to the House amendment to the Senate amendment to H.R. 1520 by Voice Vote. (consideration: CR S7923)
