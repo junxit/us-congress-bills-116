@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1520
 congress: 116
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 1520
@@ -76,3 +76,7 @@ Further Extension of Continuing Appropriations Act, 2021
 - 2020-12-21 — Presented to President.
 - 2020-12-21 — Resolving differences -- Senate actions: Senate agreed to the House amendment to the Senate amendment to H.R. 1520 by Voice Vote.
 - 2020-12-21 — Senate agreed to the House amendment to the Senate amendment to H.R. 1520 by Voice Vote. (consideration: CR S7923)
+- 2020-12-22 — Became Public Law No: 116-246.
+- 2020-12-22 — Became Public Law No: 116-246.
+- 2020-12-22 — Signed by President.
+- 2020-12-22 — Signed by President.
