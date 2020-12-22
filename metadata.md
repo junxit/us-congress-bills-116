@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 682
 congress: 116
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 682
@@ -34,3 +34,7 @@ A resolution recognizing the devastating explosion that rocked the Port of Beiru
 
 - 2020-08-13 — Introduced in Senate
 - 2020-08-13 — Referred to the Committee on Foreign Relations.
+- 2020-12-22 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.
+- 2020-12-22 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.
+- 2020-12-22 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S7928)
+- 2020-12-22 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S7928)
