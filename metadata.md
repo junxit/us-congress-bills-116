@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3153
 congress: 116
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3153
@@ -69,3 +69,13 @@ Expanding Findings for Federal Opioid Research and Treatment Act
 - 2020-08-06 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-248.
 - 2020-08-06 — Committee on Commerce, Science, and Transportation. Reported by Senator Wicker with an amendment in the nature of a substitute. With written report No. 116-248.
 - 2020-08-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 510.
+- 2020-12-22 — Amendment SA 2732 agreed to in Senate by Unanimous Consent.
+- 2020-12-22 — Amendment SA 2732 proposed by Senator Boozman for Senator Wicker. (consideration: CR S7929; text: CR S7929) In the nature of a substitute.
+- 2020-12-22 — Measure laid before Senate by unanimous consent. (consideration: CR S7929; text: CR S7929)
+- 2020-12-22 — Message on Senate action sent to the House.
+- 2020-12-22 — Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: CR S7929)
+- 2020-12-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2020-12-22 — Senate amendment agreed to: Amendment SA 2732 agreed to in Senate by Unanimous Consent.
+- 2020-12-22 — Senate amendment proposed (on the floor): Amendment SA 2732 proposed by Senator Boozman for Senator Wicker.
+- 2020-12-22 — Senate amendment submitted
+- 2020-12-22 — The committee substitute withdrawn by Unanimous Consent.

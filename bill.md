@@ -2,12 +2,14 @@
 legis-num: H.R. 3153
 congress: 116th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 3153
 
-> To direct the Director of the National Science Foundation to support research on opioid addiction, and for other purposes.
+That the bill from the House of Representatives (H.R. 3153) entitled “An Act to direct the Director of the National Science Foundation to support research on opioid addiction, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title; findings
 
