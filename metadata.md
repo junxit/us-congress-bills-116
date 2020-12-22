@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3153
 congress: 116
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3153
@@ -79,3 +79,13 @@ Expanding Findings for Federal Opioid Research and Treatment Act
 - 2020-12-22 — Senate amendment proposed (on the floor): Amendment SA 2732 proposed by Senator Boozman for Senator Wicker.
 - 2020-12-22 — Senate amendment submitted
 - 2020-12-22 — The committee substitute withdrawn by Unanimous Consent.
+- 2020-12-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2020-12-31 — Mrs. Dingell asked unanimous consent to take the bill, H.R. 3153, from the Speaker's Table and agree to the Senate amendment. (consideration: CR H9170)
+- 2020-12-31 — On motion that the House agree to the Senate amendment Agreed to without objection. (text: CR H9170)
+- 2020-12-31 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text: CR H9170)
+- 2021-01-01 — Presented to President.
+- 2021-01-01 — Presented to President.
+- 2021-01-13 — Became Public Law No: 116-335.
+- 2021-01-13 — Became Public Law No: 116-335.
+- 2021-01-13 — Signed by President.
+- 2021-01-13 — Signed by President.
