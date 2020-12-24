@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2113
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -18,7 +18,7 @@ This Act may be cited as the “Prescription Drug Sunshine, Transparency, Accoun
 - **(a)** *In general* Title XI of the Social Security Act (42 U.S.C. 1301 et seq.) is amended by inserting after section 1128K the following new section:
   > ## § 1128L. Drug manufacturer price transparency
   >
-  > - **(a)** *In general* With respect to each year, beginning with 2021, the Secretary shall, at least once during such year, determine if there is a triggered SPIKE increase (in accordance with subsection (b)) with respect to an applicable drug (as defined in subsection (f)(1)). If the Secretary determines, with respect to a year, there is such an increase with respect to an applicable drug, the manufacturer of the applicable drug shall submit to the Secretary the justification described in subsection (c), subject to subsection (b)(4), for each such triggered SPIKE increase in accordance with the timing described in subsection (d).
+  > - **(a)** *In general* With respect to each year, beginning with 2021, the Secretary shall, at least once during such year, determine if there is a triggered SPIKE increase (in accordance with subsection (b)) with respect to an applicable drug (as defined in subsection (f)(1)). If the Secretary determines, with respect to a year, there is such an increase with respect to an applicable drug, the manufacturer of the applicable drug shall submit to the Secretary the justification described in subsection (c), subject to subsection (b)(4), for each such triggered SPIKE increase in accordance with the timing described in subsection (d)).
   > - **(b)** *Triggered SPIKE increase*
   >   - **(1)** *In general* A triggered SPIKE increase occurs, with respect an applicable drug and year (beginning with 2021 and referred to in this paragraph as the “applicable year”), in any of the following cases:
   >     - **(A)** If there is at least a 10 percent (or $10,000) cumulative increase with respect to the wholesale acquisition cost (or alternative cost measure specified by the Secretary under paragraph (3)) of such drug during a calendar-year period beginning and ending within the lookback period that is the 5-year period preceding such applicable year.
@@ -32,7 +32,7 @@ This Act may be cited as the “Prescription Drug Sunshine, Transparency, Accoun
   >   - **(5)** *Unit determination* For purposes of determining the wholesale acquisition cost in carrying out this section, the Secretary shall determine a unit (such as a unit size) to apply.
   >   - **(6)** *Public posting* Beginning with respect to 2021, the Secretary shall publicly post on the Internet website of the Department of Health and Human Services—
   >     - **(A)** alternative percentages, dollar amounts, and lookback periods that, if applied under paragraph (1), would be projected to increase the number of applicable drugs for which a triggered SPIKE increase would occur for such year; and
-  >     - **(B)** the number of applicable drugs for which a triggered SPIKE increase would occur for such year of such an alternative percentage, dollar amount, or period were applied for such year.
+  >     - **(B)** the number of applicable drugs for which a triggered SPIKE increase would occur for such year if such an alternative percentage, dollar amount, or period were applied for such year.
   > - **(c)** *Justification described*
   >   - **(1)** *In general* The justification described in this subsection, with respect to a triggered SPIKE increase described in subsection (b)(1) of an applicable drug of a manufacturer, is—
   >     - **(A)** all of the information described in paragraph (2);
@@ -82,7 +82,7 @@ This Act may be cited as the “Prescription Drug Sunshine, Transparency, Accoun
   - **(1)** *In general* Subpart A of part III of subchapter A of chapter 61 of the Internal Revenue Code of 1986 is amended by inserting after section 6039J the following new section:
     > ## § 6039K. Drug price SPIKE increase reporting
     >
-    > Each manufacturer (within the meaning of section 1128L of the Social Security Act) shall file a return (as such time and in such form and manner as the Secretary may provide) showing for each year with respect to which such section applies all information and supporting documentation and the certification included within a justification reported by the manufacturer under subsection (c)(1) of such section.
+    > Each manufacturer (within the meaning of section 1128L of the Social Security Act) shall file a return (at such time and in such form and manner as the Secretary may provide) showing for such year with respect to which such section applies all information and supporting documentation and the certification included within a justification reported by the manufacturer under subsection (c)(1) of such section.
 
   - **(2)** *Clerical amendment* The table of sections for subpart A of part III of subchapter A of chapter 61 of such Code is amended by inserting after the item relating to section 6039J the following new item:
 
@@ -107,7 +107,7 @@ This Act may be cited as the “Prescription Drug Sunshine, Transparency, Accoun
   - **(1)** *In general* Subpart A of part III of subchapter A of chapter 61 of the Internal Revenue Code of 1986, as amended by section 2, is further amended by inserting after section 6039K the following new section:
     > ## § 6039L. Product samples of applicable manufacturers
     >
-    > Each applicable manufacturer (within the meaning of section 1128G(a)(3) of the Social Security Act) shall file a return (as such time and in such form and manner as the Secretary may provide) showing for each year to which such section applies—
+    > Each applicable manufacturer (within the meaning of section 1128G(a)(3) of the Social Security Act) shall file a return (at such time and in such form and manner as the Secretary may provide) showing for such year to which such section applies—
     >
     > - **(1)** the amount described in section 1128G(a)(3)(A)(ii) of such Act with respect to such year, and
     > - **(2)** the portion of such amount for which a deduction was claimed under section 162.
@@ -131,7 +131,7 @@ Section 1150A of the Social Security Act (42 U.S.C. 1320b–23) is amended—
 - **(1)** in subsection (c), in the matter preceding paragraph (1), by inserting “(other than as permitted under subsection (e))” after “disclosed by the Secretary”; and
 - **(2)** by adding at the end the following new subsection:
   > - **(e)** *Public availability of certain information*
-  >   - **(1)** *In general* In order to allow the comparison of PBMs’ ability to negotiate rebates, discounts, and price concessions and the amount of such rebates, discounts, and price concessions that are passed through to plan sponsors, beginning January 1, 2020, the Secretary shall make available on the Internet website of the Department of Health and Human Services the information with respect to the second preceding calendar year provided to the Secretary on generic dispensing rates (as described in paragraph (1) of subsection (b)) and information provided to the Secretary under paragraphs (2) and (3) of such subsection that, as determined by the Secretary, is with respect to each PBM.
+  >   - **(1)** *In general* In order to allow the comparison of PBMs’ ability to negotiate rebates, discounts, and price concessions and the amount of such rebates, discounts, and price concessions that are passed through to plan sponsors, beginning January 1, 2020, the Secretary shall make available on the Internet website of the Department of Health and Human Services the information with respect to the second preceding calendar year provided to the Secretary on generic dispensing rates (as described in paragraph (1) of subsection (b) and information provided to the Secretary under paragraphs (2) and (3) of such subsection that, as determined by the Secretary, is with respect to each PBM.
   >   - **(2)** *Availability of data* In carrying out paragraph (1), the Secretary shall ensure the following:
   >     - **(A)** *Confidentiality* The information described in such paragraph is displayed in a manner that prevents the disclosure of information on rebates, discounts, and price concessions, with respect to an individual drug or an individual plan.
   >     - **(B)** *Class of drug* The information described in such paragraph is made available by class of drug, using an existing classification system, but only if the class contains such number of drugs, as specified by the Secretary, to ensure confidentiality of proprietary information or other information that is prevented to be disclosed under subparagraph (A).
@@ -152,7 +152,7 @@ Section 1150A of the Social Security Act (42 U.S.C. 1320b–23) is amended—
       >   - **(A)** *In general* In the case of a manufacturer of a drug or biological described in subparagraph (C), (E), or (G) of section 1842(o)(1) or in clause (ii) or (iii) of section 1881(b)(14)(B) that does not have a rebate agreement in effect under section 1927, for calendar quarters beginning on or after January 1, 2020, such manufacturer shall report to the Secretary the information described in subsection (b)(3)(A)(iii) of such section 1927 with respect to such drug or biological in a time and manner specified by the Secretary.
       >   - **(B)** *Audit* Information reported under subparagraph (A) is subject to audit by the Inspector General of the Department of Health and Human Services.
       >   - **(C)** *Verification* The Secretary may survey wholesalers and manufacturers that directly distribute drugs described in subparagraph (A), when necessary, to verify manufacturer prices and manufacturer’s average sales prices (including wholesale acquisition cost) if required to make payment reported under subparagraph (A). The Secretary may impose a civil monetary penalty in an amount not to exceed $100,000 on a wholesaler, manufacturer, or direct seller, if the wholesaler, manufacturer, or direct seller of such a drug refuses a request for information about charges or prices by the Secretary in connection with a survey under this subparagraph or knowingly provides false information. The provisions of section 1128A (other than subsections (a) (with respect to amounts of penalties or additional assessments) and (b)) shall apply to a civil money penalty under this subparagraph in the same manner as such provisions apply to a penalty or proceeding under section 1128A(a).
-      >   - **(D)** *Confidentiality* Not­with­stand­ing any other provision of law, information disclosed by manufacturers or wholesalers under this paragraph (other than the wholesale acquisition cost for purposes of carrying out this section) is confidential and shall not be disclosed by the Secretary in a form which discloses the identity of a specific manufacturer or wholesaler or prices charged for drugs by such manufacturer or wholesaler, except—
+      >   - **(D)** *Confidentiality* Notwithstanding any other provision of law, information disclosed by manufacturers or wholesalers under this paragraph (other than the wholesale acquisition cost for purposes of carrying out this section) is confidential and shall not be disclosed by the Secretary in a form which discloses the identity of a specific manufacturer or wholesaler or prices charged for drugs by such manufacturer or wholesaler, except—
       >     - **(i)** as the Secretary determines to be necessary to carry out this section (including the determination and implementation of the payment amount), or to carry out section 1847B;
       >     - **(ii)** to permit the Comptroller General to review the information provided; and
       >     - **(iii)** to permit the Director of the Congressional Budget Office to review the information provided.
