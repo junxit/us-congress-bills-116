@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5187
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Housing is Infrastructure Act of 2019”.
+This Act may be cited as the “Housing is Infrastructure Act of 2020”.
 
 ## § 2. Findings
 
@@ -19,7 +19,7 @@ The Congress finds the following:
 
 - **(1)** Affordable housing is a critical part of the national infrastructure of the United States but there is a severe shortage of affordable housing in the United States and the existing stock is badly in need of repair.
 - **(2)** According to a 2010 study sponsored by the Department of Housing and Urban Development, there was a $26 billion backlog of capital needs for public housing; that figure is likely higher today, with some groups estimating the backlog of capital needs for public housing to be as high as $70 billion.
-- **(3)** There are 14,000 units supported by Rural Rental Housing Loans under section 515 of the Housing Act of 1949 and Farm Labor Housing Loans under section 514 of the Housing Act of 1949 that have an estimated unmet reserve need of $5,600,000,000 according to the latest estimate from the Department of Agriculture.
+- **(3)** There are 14,000 units supported by Rural Rental Housing Loans under section 515 of the Housing Act of 1949 and Farm Labor Housing Loans under section 514 of the Housing Act of 1949. According to National Rural Housing Coalition, it would take an estimated $1 billion in the Multi-Family Housing Revitalization Demonstration Program (MPR) funding to fully address the capital backlog for rural housing properties.
 - **(4)** Federal investment in housing helps to create jobs and stimulate the economy.
 - **(5)** When the American Recovery and Reinvestment Act of 2009 (Public Law 111–5) was enacted, which included funding for public housing, researchers found that for each $1.00 in direct spending on public housing, there was an additional $2.12 of indirect and induced economic activity nationwide for a total economic impact of $3.12 for each $1.00 in direct spending on public housing.
 - **(6)** According to the National Association of Home Builders, building 100 affordable rental homes generates $11.7 million in local income, $2,200,000 in taxes and revenue for local governments, and 161 local jobs.
@@ -29,21 +29,20 @@ The Congress finds the following:
 
 - **(a)** *In general* There is authorized to be appropriated for the Capital Fund under section 9(d) of the United States Housing Act of 1937 (42 U.S.C. 1437g(d)) $70,000,000,000 and any amounts appropriated pursuant to this subsection shall remain available until the expiration of the 5-year period beginning upon the date of such appropriation.
 - **(b)** *Requirements* The Secretary of Housing and Urban Development (in this Act referred to as the “Secretary”) shall—
-  - **(1)** distribute not less than 35 percent and not more than 75 percent of any amounts appropriated pursuant to subsection (a) under the same formula used for amounts made available for the Capital Fund for fiscal year 2019, except that the Secretary may determine not to allocate funding to public housing agencies that are designated as troubled at the time of such determination or to public housing agencies that elect not to accept such funding, or both; and
+  - **(1)** distribute not less than 35 percent and not more than 75 percent of any amounts appropriated pursuant to subsection (a) under the same formula used for amounts made available for the Capital Fund for fiscal year 2020; and
   - **(2)** make available all remaining amounts by competition for priority investments, including investments that address lead hazards, other urgent health and safety concerns, and such other priorities as the Secretary may identify.
-- **(c)** *Timing* The Secretary of Housing and Urban Development shall obligate amounts—
+- **(c)** *Timing* The Secretary shall obligate amounts—
   - **(1)** made available under subsection (b)(1) within 30 days of enactment of the Act appropriating such funds; and
   - **(2)** made available under subsection (b)(2) within 12 months of enactment of the Act appropriating such funds.
 - **(d)** *Limitation* Amounts provided pursuant to this section may not be used for operating costs or rental assistance.
 - **(e)** *Use of funds* Not more than 0.5 percent of any amount appropriated pursuant to this section shall be used by the Secretary for costs associated with staff, training, technical assistance, technology, monitoring, travel, enforcement, research, and evaluation.
-- **(f)** *Monitoring* With respect to any public housing agency that is designated as troubled at the time that amounts appropriated pursuant to this section are obligated for such public housing agency, the Secretary shall provide additional monitoring and oversight of such public housing authorities to ensure that any amounts provided are used in accordance with this section and any applicable laws.
-- **(g)** *Supplement not supplant* The Secretary shall ensure that amounts provided pursuant to this section shall serve to supplement and not supplant other amounts generated by a recipient of such amounts or amounts provided by other Federal, State, or local sources.
-- **(h)** *Water and energy efficiency* In distributing any amounts pursuant to subsection (b), the Secretary shall give priority to public housing agencies located in States and localities that have a plan to increase water and energy efficiency when developing or rehabilitating public housing using any amounts distributed.
+- **(f)** *Supplement not supplant* The Secretary shall ensure that amounts provided pursuant to this section shall serve to supplement and not supplant other amounts generated by a recipient of such amounts or amounts provided by other Federal, State, or local sources.
+- **(g)** *Water and energy efficiency* In distributing any amounts pursuant to subsection (b), the Secretary shall give priority to public housing agencies located in States and localities that have a plan to increase water and energy efficiency when developing or rehabilitating public housing using any amounts distributed.
 
 ## § 4. Rural Multifamily Preservation and Revitalization Demonstration Program
 
 - **(a)** *In general* There is authorized to be appropriated for carrying out the Multifamily Preservation and Revitalization Demonstration program of the Rural Housing Service (as authorized under sections 514, 515, and 516 of the Housing Act of 1949 (42 U.S.C. 1484; 1485; 1486)) $1,000,000,000 and any amounts appropriated pursuant to this section shall remain available until expended.
-- **(b)** *Water and energy efficiency* Not less than 10 percent of all amounts made available pursuant to this section shall be used only for activities relating to water and energy efficiency and, at the Secretary’s discretion, other strategies to reduce emissions.
+- **(b)** *Water and energy efficiency* Not less than 10 percent of all amounts made available pursuant to this section shall be used only for activities relating to water and energy efficiency and, at the Secretary’s discretion, other strategies to enhance the environmental sustainability of housing production and design.
 
 ## § 5. Flood Mitigation Assistance Grant Program
 
@@ -54,27 +53,27 @@ The Congress finds the following:
 ## § 6. Housing Trust Fund
 
 - **(a)** *In general* There is authorized to be appropriated for the Housing Trust Fund under section 1338 of the Housing and Urban Development Act of 1992 (12 U.S.C. 4568) $5,000,000,000 and any amounts appropriated pursuant to this subsection shall remain available until expended. The Secretary shall ensure that priority for occupancy in dwelling units assisted with amounts made available pursuant to this section that become available for occupancy shall be given to persons and households who are homeless (as such term is defined in section 103 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11302)) or at risk of homelessness (as such term is defined in section 401 of such Act (42 U.S.C. 11360)).
-- **(b)** *Water and energy efficiency* Not less than 10 percent of all amounts made available pursuant to this section shall be used only for activities relating to water and energy efficiency and, at the Secretary’s discretion, other strategies to reduce emissions.
+- **(b)** *Water and energy efficiency* Not less than 10 percent of all amounts made available pursuant to this section shall be used only for activities relating to water and energy efficiency and, at the Secretary’s discretion, other strategies to enhance the environmental sustainability of housing production and design.
 
 ## § 7. Single-Family Housing Repair Loans and Grants
 
 - **(a)** *In general* There is authorized to be appropriated for carrying out single family housing repair loans and grants under section 504 of the Housing Act of 1949 (42 U.S.C. 1474) $100,000,000 and any amounts appropriated pursuant to this section shall remain available until expended.
-- **(b)** *Water and energy efficiency* Not less than 10 percent of all amounts made available pursuant to this section shall be used only for activities relating to water and energy efficiency and, at the Secretary’s discretion, other strategies to reduce emissions.
+- **(b)** *Water and energy efficiency* Not less than 10 percent of all amounts made available pursuant to this section shall be used only for activities relating to water and energy efficiency and, at the Secretary’s discretion, other strategies to enhance the environmental sustainability of housing production and design.
 
 ## § 8. Native American Housing Block Grant Program
 
 - **(a)** *In general* There is authorized to be appropriated for carrying out the Native American housing block grant program under title I of the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4111 et seq.) $1,000,000,000 and any amounts appropriated pursuant to this section shall remain available until expended.
-- **(b)** *Water and energy efficiency* Not less than 10 percent of all amounts made available pursuant to this section shall be used only for activities relating to water and energy efficiency and, at the Secretary’s discretion, other strategies to reduce emissions.
+- **(b)** *Water and energy efficiency* Not less than 10 percent of all amounts made available pursuant to this section shall be used only for activities relating to water and energy efficiency and, at the Secretary’s discretion, other strategies to enhance the environmental sustainability of housing production and design.
 
 ## § 9. HOME Investment Partnerships Program
 
 - **(a)** *In general* There is authorized to be appropriated for carrying out the HOME Investment Partnership Program under title II of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12721 et seq.) $5,000,000,000 and any amounts appropriated pursuant to this section shall remain available until expended.
-- **(b)** *Water and energy efficiency* Not less than 10 percent of all amounts made available pursuant to this section shall be used only for activities relating to water and energy efficiency and, at the Secretary’s discretion, other strategies to reduce emissions.
+- **(b)** *Water and energy efficiency* Not less than 10 percent of all amounts made available pursuant to this section shall be used only for activities relating to water and energy efficiency and, at the Secretary’s discretion, other strategies to enhance the environmental sustainability of housing production and design.
 
 ## § 10. Program for supportive housing for persons with disabilities
 
 - **(a)** *In general* There is authorized to be appropriated $2,500,000,000 for project rental assistance under the program for supportive housing for persons with disabilities under section 811(b)(3) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 8013(b)(3)) for State housing finance agencies and any amounts appropriated pursuant to this section shall remain available until expended.
-- **(b)** *Water and energy efficiency* Not less than 10 percent of all amounts made available pursuant to this section shall be used only for activities relating to water and energy efficiency and, at the Secretary’s discretion, other strategies to reduce emissions.
+- **(b)** *Water and energy efficiency* Not less than 10 percent of all amounts made available pursuant to this section shall be used only for activities relating to water and energy efficiency and, at the Secretary’s discretion, other strategies to enhance the environmental sustainability of housing production and design.
 
 ## § 11. Program for supportive housing for the elderly
 
@@ -84,12 +83,12 @@ The Congress finds the following:
   - **(3)** senior preservation rental assistance contracts, including renewals, as authorized by section 811(e) of the American Housing and Economic Opportunity Act of 2000 (12 U.S.C. 1701g note); and
   - **(4)** supportive services associated with housing assisted under paragraph (1), (2), or (3).
 - **(b)** *Availability of amounts* Any amounts appropriated pursuant to this section shall remain available until September 30, 2023.
-- **(c)** *Water and energy efficiency* Not less than 10 percent of all amounts made available pursuant to this section shall be used only for activities relating to water and energy efficiency and, at the Secretary’s discretion, other strategies to reduce emissions.
+- **(c)** *Water and energy efficiency* Not less than 10 percent of all amounts made available pursuant to this section shall be used only for activities relating to water and energy efficiency and, at the Secretary’s discretion, other strategies to enhance the environmental sustainability of housing production and design.
 
 ## § 12. Capital Magnet Fund
 
 - **(a)** There is authorized to be appropriated for the Capital Magnet Fund under section 1339 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4569) $2,500,000,000 and any amounts appropriated pursuant to this subsection shall remain available until expended.
-- **(b)** *Water and energy efficiency* Not less than 10 percent of all amounts made available pursuant to this subsection shall be used only for activities relating to water and energy efficiency and, at the Secretary’s discretion, other strategies to reduce emissions.
+- **(b)** *Water and energy efficiency* Not less than 10 percent of all amounts made available pursuant to this section shall be used only for activities relating to water and energy efficiency and, at the Secretary’s discretion, other strategies to enhance the environmental sustainability of housing production and design.
 
 ## § 13. Community development block grant funding for affordable housing and infrastructure
 
@@ -111,7 +110,7 @@ The Congress finds the following:
   - **(1)** demonstrates that the applicant is responsibly streamlining the process for development of qualified affordable housing;
   - **(2)** is eliminating or reducing impact fees for housing within boundaries of the State, unit of local government, or Indian tribe, as applicable, and other assessments by State or local governments upon the owners of new housing development projects that offset governmental capital expenditures for infrastructure required to serve or made necessary by the new housing developments, except for fees that are invested exclusively for housing; and
   - **(3)** provides assurances that the applicant will supplement assistance provided under this section with amounts from non-Federal sources for costs of the qualified affordable housing or infrastructure eligible under subsection (b) to be funded with assistance under this section, and the extent of such supplemental assistance to be provided.
-- **(e)** *Water and energy efficiency* Not less than 10 percent of all amounts made available for assistance pursuant to this section shall be used only for eligible activities relating to water and energy efficiency and, at the Secretary’s discretion, other strategies to reduce emissions.
+- **(e)** *Water and energy efficiency* Not less than 10 percent of all amounts made available for assistance pursuant to this section shall be used only for eligible activities relating to water and energy efficiency and, at the Secretary’s discretion, other strategies to enhance the environmental sustainability of housing production and design.
 - **(f)** *Qualified affordable housing* For purposes of this section, the term “qualified affordable housing” means a housing development that—
   - **(1)** is either—
     - **(A)** funded in any part by assistance provided by the Department of Housing and Urban Development or the Rural Housing Service of the Department of Agriculture; or
