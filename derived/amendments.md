@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3225
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-28 amendatory instructions. 5 executed, 23 stated and not applied.
+29 amendatory instructions. 6 executed, 23 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -53,12 +53,21 @@ to guess them.
 
 ### 30 U.S.C. § 226
 
-> Section 17(e) of the Mineral Leasing Act (30 U.S.C. 226(e)) is amended by striking “10 years:” and inserting “5 years.”
+> Section 17(e) of the Mineral Leasing Act (30 U.S.C. 226(e)) is amended by striking “10 years:” and inserting “5 years.”.
 
 | | |
 |---|---|
 | Removed | `10 years:` |
 | Inserted | `5 years.` |
+
+### 30 U.S.C. § 226
+
+> by striking “The Secretary” at the beginning and inserting “(1) In General.—The Secretary”; and
+
+| | |
+|---|---|
+| Removed | `The Secretary` |
+| Inserted | `(1) In General.—The Secretary` |
 
 ### 30 U.S.C. § 241
 
@@ -90,7 +99,7 @@ complete account of the bill's effect, which it is not.
 | `30 U.S.C. § 188` | strike | in paragraph (3) by striking “(A)” and by striking subparagraph (B); | the bill quotes the text struck but describes what replaces it |
 | `30 U.S.C. § 188` | strike | by striking section 31(f) (30 U.S.C. 188(f)); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 188` | redesignate | by striking paragraph (2) and redesignating paragraphs (3) and (4) as paragraphs (2) and (3), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 226` | add-at-end | Section 17(g) of the Mineral Leasing Act (30 U.S.C. 226(g)), as amended by section 8 of this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 226` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 226` | add-at-end | Section 17(b) of the Mineral Leasing Act (30 U.S.C. 226(b)), as amended by this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 226` | replace | Section 17(f) of the Mineral Leasing Act (30 U.S.C. 226(f)) is amended by striking “At least” and all that follows through “agencies.” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 15922` | amend | Section 363(b)(3)(C) of the Energy Policy Act of 2005 (42 U.S.C. 15922(b)(3)(C)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
