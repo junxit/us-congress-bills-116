@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5201
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,14 +11,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Telemental Health Expansion Act of 2019”.
+This Act may be cited as the “Telemental Health Expansion Act of 2020”.
 
-## § 2. Expanding the use of telehealth for mental health services
+## § 2. Expanding the use of telehealth for certain mental health services
 
-- **(a)** *In general* Section 1834(m) of the Social Security Act (42 U.S.C. 1395m(m)) is amended—
-  - **(1)** in paragraph (4)(C)(i), by striking “and (7)” and inserting “(7), and (8)”; and
-  - **(2)** by adding at the end the following:
-    > - **(8)** *Treatment of mental health services furnished through telehealth* The geographic requirements described in paragraph (4)(C)(i) (other than applicable State law requirements, including State licensure requirements) shall not apply with respect to telehealth services that are mental health services (as determined by the Secretary) furnished on or after January 1, 2021, to an eligible telehealth individual at an originating site described in paragraph (4)(C)(ii) (other than an originating site described in subclause (IX) of such paragraph).
-
-- **(b)** *Inclusion of the home as an originating site* Section 1834(m)(4)(C)(ii)(X) of such Act (42 U.S.C. 1395m(m)(4)(C)(ii)(X)) is amended by striking “paragraph (7)” and inserting “paragraphs (7) and (8)”.
-- **(c)** *Additional services* As part of the implementation of the amendments made by this section, the Secretary of Health and Human Services shall consider whether additional services should be added to the services specified in paragraph (4)(F)(i) of section 1834(m) of such Act (42 U.S.C. 1395m) for authorized payment under paragraph (1) of such section.
+- **(a)** *In general* Section 1834(m)(7) of the Social Security Act (42 U.S.C.1395m(m)(7)) is amended—
+  - **(1)** in the heading, by inserting “and certain mental health services” after “disorder services”; and
+  - **(2)** by inserting “or on or after the emergency period described in section 1135(g)(1)(B), to an eligible telehealth individual for purposes of diagnosis, evaluation, or treatment of a mental health disorder, as determined by the Secretary,” after “as determined by the Secretary, ”.
+- **(b)** *Implementation* Notwithstanding any other provision of law, the Secretary of Health and Human Services may implement the amendments made by this section by interim final rule, program instruction, or otherwise.
