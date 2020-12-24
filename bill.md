@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3439
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Protecting Access To Information for Effective and Necessary Treatment Act” or the “PATIENT Act”.
+This Act may be cited as the “Protecting Access To Information for Effective & Necessary Treatment and Services Act” or the “PATIENTS Act”.
 
 ## § 2. Extending appropriations and transfers to the Patient-Centered Outcomes Research Trust Fund; extension of certain health insurance fees
 
