@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3225
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Restoring Community Input and Public Protections in Oil and Gas Leasing Act of 2019”.
+This Act may be cited as the “Restoring Community Input and Public Protections in Oil and Gas Leasing Act of 2020”.
 
 ## § 2. Leasing process
 
@@ -33,7 +33,7 @@ This Act may be cited as the “Restoring Community Input and Public Protections
   > - **(B)** *National minimum acceptable bid*
   >   - **(i)** *In general* The national minimum acceptable bid shall be $5 per acre. All bids under this section for less than the national minimum acceptable bid shall be rejected.
   >   - **(ii)** *Raising the national minimum acceptable bid* The Secretary may establish a higher national minimum acceptable bid—
-  >     - **(I)** beginning at the end of the four year period that begins on the date of enactment of the Restoring Community Input and Public Protection in Oil and Gas Leasing Act of 2019, at least once every 4 years, to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics; and
+  >     - **(I)** beginning at the end of the four year period that begins on the date of enactment of the Restoring Community Input and Public Protection in Oil and Gas Leasing Act of 2020, at least once every 4 years, to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics; and
   >     - **(II)** at any time if the Secretary finds that such a higher amount is necessary to enhance financial returns to the United States or to promote more efficient management of oil and gas resources on Federal lands.
   >   - **(iii)** *Not a major Federal action* The proposal or issuance of any regulation to establish a higher national minimum acceptable bid under clause (ii) shall not be considered a major Federal action that is subject to the requirements of section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)).
 
@@ -59,10 +59,12 @@ This Act may be cited as the “Restoring Community Input and Public Protections
     - **(A)** in paragraph (1) by striking “as a competitive” and all that follows through the period and inserting “in the same manner as the original lease issued pursuant to section 17.”;
     - **(B)** by striking paragraph (2) and redesignating paragraphs (3) and (4) as paragraphs (2) and (3), respectively; and
     - **(C)** in paragraph (2), as redesignated, by striking “, applicable to leases issued under subsection 17(c) of this Act (30 U.S.C. 226(c)) except,” and inserting “, except”.
-- **(f)** *Lease term* Section 17(e) of the Mineral Leasing Act (30 U.S.C. 226(e)) is amended by striking “10 years:” and inserting “5 years.”
-- **(g)** *Other leasing requirements* Section 17(g) of the Mineral Leasing Act (30 U.S.C. 226(g)), as amended by section 8 of this Act, is further amended by adding at the end the following:
-  > - **(7)** *Limitation* The Secretary shall not issue a lease or approve the assignment of any lease to any person, or to any subsidiary or affiliate of such person or any other person controlled by or under common control with such person, unless such person has the demonstrated capability to explore and produce oil and gas under the lease.
-  > - **(8)** *Protection of leased lands for other uses* Each lease under this section shall include such terms as are necessary to preserve the United States flexibility to control or prohibit activities that pose serious and unacceptable impacts to the value of the leased lands for uses other than production of oil and gas.
+- **(f)** *Lease term* Section 17(e) of the Mineral Leasing Act (30 U.S.C. 226(e)) is amended by striking “10 years:” and inserting “5 years.”.
+- **(g)** *Other leasing requirements* Section 17(g) of the Mineral Leasing Act (30 U.S.C. 226(g)), as amended by section 8 of this Act, is further amended—
+  - **(1)** by striking “The Secretary” at the beginning and inserting “(1) In General.—The Secretary”; and
+  - **(2)** by adding at the end the following:
+    > - **(2)** *Limitation* The Secretary shall not issue a lease or approve the assignment of any lease to any person, or to any subsidiary or affiliate of such person or any other person controlled by or under common control with such person, unless such person has the demonstrated capability to explore and produce oil and gas under the lease.
+    > - **(3)** *Protection of leased lands for other uses* Each lease under this section shall include such terms as are necessary to preserve the United States flexibility to control or prohibit activities that pose serious and unacceptable impacts to the value of the leased lands for uses other than production of oil and gas.
 
 ## § 3. Transparency and landowner protections
 
@@ -148,7 +150,7 @@ Section 27(d)(1) of the Mineral Leasing Act (30 U.S.C. 184(d)(1)) is amended by 
 
 Section 17(g) of the Mineral Leasing Act (30 U.S.C. 226(g)), as amended by section 2(g) of this Act, is further amended by adding at the end the following:
 
-> - **(9)** *Multiple-use management* The Secretary, and for National Forest lands, the Secretary of Agriculture, shall manage lands that are subject to an oil and gas lease under this Act in accordance with the principles, policies, and requirements relating to multiple use under the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.), until the beginning of operations on such lease.
+> - **(4)** *Multiple-use management* The Secretary, and for National Forest lands, the Secretary of Agriculture, shall manage lands that are subject to an oil and gas lease under this Act in accordance with the principles, policies, and requirements relating to multiple use under the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.), until the beginning of operations on such lease.
 
 ## § 9. Oil shale
 
@@ -156,7 +158,7 @@ Section 21(a) of the Mineral Leasing Act (30 U.S.C. 241(a)) is amended—
 
 - **(1)** in paragraph (1), by striking “The Secretary of the Interior” and inserting “Subject to paragraph (6), the Secretary of the Interior”; and
 - **(2)** by adding at the end the following:
-  > - **(6)** Beginning on the date of enactment of the Restoring Community Input and Public Protections in Oil and Gas Leasing Act of 2019, The Secretary may not issue any lease for oil shale under this Act before the date the Secretary issues a finding that the technical and economic feasibility of development of and production from such deposit has been demonstrated under section 369 of the Energy Policy Act of 2005 (42 U.S.C. 15927).
+  > - **(6)** Beginning on the date of enactment of the Restoring Community Input and Public Protections in Oil and Gas Leasing Act of 2020, The Secretary may not issue any lease for oil shale under this Act before the date the Secretary issues a finding that the technical and economic feasibility of development of and production from such deposit has been demonstrated under section 369 of the Energy Policy Act of 2005 (42 U.S.C. 15927).
 
 ## § 10. Transparency in management of leases
 
