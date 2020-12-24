@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3417
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -164,7 +164,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1395b-3` | strike | in clause (viii), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1395b-3` | replace | in clause (ix), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395b-3` | insert | by inserting after clause (ix) the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395m` | insert | in paragraph (4)(F)(i), by inserting “services identified by CPT codes 90834 and 90837 (and as subsequently modified by the Secretary),” before “and any additional service”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395m` | insert | in paragraph (4)(F)(i), by inserting “services identified by CPT codes 90832, 90834, and 90837 (and as subsequently modified by the Secretary),” before “and any additional service”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395m` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-104` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-114` | redesignate | by redesignating subsection (e) as subsection (f); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
