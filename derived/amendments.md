@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3742
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-25 amendatory instructions. 12 executed, 13 stated and not applied.
+28 amendatory instructions. 12 executed, 16 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 16 U.S.C. § 669c
+### 15 U.S.C. § 1531
 
 > in subparagraph (A), by striking “to the District of Columbia and to the Commonwealth of Puerto Rico, each” and inserting “To the District of Columbia”;
 
@@ -33,34 +33,34 @@ to guess them.
 | Removed | `to the District of Columbia and to the Commonwealth of Puerto Rico, each` |
 | Inserted | `To the District of Columbia` |
 
-### 16 U.S.C. § 669c
+### 15 U.S.C. § 1531
 
-> in subparagraph (B), by striking “to Guam” and inserting “To Guam”; and
+> by striking “to Guam” and inserting “To Guam”; and
 
 | | |
 |---|---|
 | Removed | `to Guam` |
 | Inserted | `To Guam` |
 
-### 16 U.S.C. § 669c
+### 15 U.S.C. § 1531
 
-> in clause (i), by striking “one-third” and inserting “one-half”; and
+> by striking “not more than one-fourth of one percent” and inserting “not less than one-third of one percent”; and
 
 | | |
 |---|---|
-| Removed | `one-third` |
-| Inserted | `one-half` |
+| Removed | `not more than one-fourth of one percent` |
+| Inserted | `not less than one-third of one percent` |
 
-### 16 U.S.C. § 669c
+### 15 U.S.C. § 1531
 
-> in clause (ii), by striking “two-thirds” and inserting “one-half”; and
+> by striking “two-thirds” and inserting “one-quarter”; and
 
 | | |
 |---|---|
 | Removed | `two-thirds` |
-| Inserted | `one-half` |
+| Inserted | `one-quarter` |
 
-### 16 U.S.C. § 669c
+### 15 U.S.C. § 1531
 
 > in paragraph (3), by striking “3 percent” and inserting “1.85 percent”;
 
@@ -98,12 +98,12 @@ to guess them.
 
 ### 16 U.S.C. § 669c
 
-> in the heading, by striking “Account” and inserting “Subaccount”; and
+> in the heading, by striking “account” and inserting “subaccount”; and
 
 | | |
 |---|---|
-| Removed | `Account` |
-| Inserted | `Subaccount` |
+| Removed | `account` |
+| Inserted | `subaccount` |
 
 ### 16 U.S.C. § 669c
 
@@ -144,7 +144,10 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 669b` | redesignate | by redesignating paragraphs (2) and (3) as paragraphs (9) and (10); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 777` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 669c` | redesignate | by redesignating the second subsection (c), relating to the apportionment of the Wildlife Conservation and Restoration Account, and subsection (d) as subsections (d) and (e) respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 669c` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1531` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1531` | amend | by amending clause (i) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1531` | replace | by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 1531` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 669c` | redesignate | by amending subsection (e)(4)(B), as redesignated, to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 669c` | add-at-end | by adding at the end following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 669a` | strike | by striking paragraph (5); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
