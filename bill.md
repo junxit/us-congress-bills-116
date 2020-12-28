@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5191
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Runaway and Homeless Youth and Trafficking Prevention Act of 2019”.
+This Act may be cited as the “Runaway and Homeless Youth and Trafficking Prevention Act of 2020”.
 
 ## § 2. References
 
@@ -21,7 +21,7 @@ Except as otherwise specifically provided, whenever in this Act an amendment or 
 
 Section 302 (34 U.S.C. 11201) is amended—
 
-- **(1)** in paragraph (1), by striking “share of, serious health, behavioral, and emotional problems” and inserting “share of, trauma, serious health, behavioral, social, and emotional problems, and substance use disorder,”;
+- **(1)** in paragraph (1), by striking “share of, serious health, behavioral, and emotional problems” and inserting “share of, trauma, serious health, behavioral, social, and emotional problems, and substance use disorder”;
 - **(2)** in paragraph (2), by inserting “socially, age, gender, developmentally, culturally and” before “linguistically appropriate”;
 - **(3)** by redesignating paragraphs (3) through (6), as paragraphs (4) through (7), respectively;
 - **(4)** by inserting after paragraph (2) the following:
@@ -34,8 +34,8 @@ Section 302 (34 U.S.C. 11201) is amended—
   - **(A)** by inserting “a safe place to live, connection to caring adults, and” after “youth need”; and
   - **(B)** by striking “and” at the end;
 - **(9)** in paragraph (7), as redesignated by paragraph (3)—
-  - **(A)** by striking “between the Federal programs that serve runaway and homeless youth are” and inserting “at the Federal level”; and
-  - **(B)** by striking the period at the end and inserting “; and”; and
+  - **(A)** by striking “between the Federal programs that serve runaway and homeless youth are” and inserting “at the Federal level is”; and
+  - **(B)** by striking the period at the end and inserting a semicolon; and
 - **(10)** by adding at the end the following:
   > - **(8)** runaway and homeless youth are at a high risk of substance use disorder and becoming victims of sexual abuse, sexual exploitation, trafficking in persons, and sex trafficking;
   > - **(9)** research has shown that—
@@ -48,9 +48,8 @@ Section 302 (34 U.S.C. 11201) is amended—
 - **(a)** *Grants for centers and services* Section 311(a) (34 U.S.C. 11211(a)) is amended—
   - **(1)** in paragraph (1)—
     - **(A)** by striking “The Secretary” and inserting “Every 2 or 3 years, the Secretary”;
-    - **(B)** by striking “and operate” and inserting “, operate, and maintain”;
-    - **(C)** by striking “services” and all that follows through the period at the end and inserting “safe shelter and services, including trauma-informed services, for runaway and homeless youth and, if appropriate, services for the families of such youth, including (if appropriate) individuals identified by such youth as family.”; and
-    - **(D)** by inserting “Grants shall be awarded for a 5-year period.” after “by such youth as family.”; and
+    - **(B)** by striking “and operate” and inserting “, operate, and maintain”; and
+    - **(C)** by striking “services” and all that follows through the period at the end and inserting “safe shelter and services, including trauma-informed services, for runaway and homeless youth and, if appropriate, services for the families of such youth, including (if appropriate) individuals identified by such youth as family. Grants shall be awarded for a 5-year period.”; and
   - **(2)** in paragraph (2)—
     - **(A)** by striking subparagraph (A) and inserting the following:
       > - **(A)** shall be provided to runaway youth, street youth, homeless youth, and youth at risk of separation from his or her family or at risk of becoming homeless;
@@ -77,7 +76,7 @@ Section 302 (34 U.S.C. 11201) is amended—
 - **(b)** *Eligibility; plan requirements* Section 312 (34 U.S.C. 11212) is amended—
   - **(1)** in subsection (a), by inserting “, to youth who are at risk of separation from the family,” after “guardians”;
   - **(2)** in subsection (b)—
-    - **(A)** in paragraph (2), by striking “facility” and inserting “project”;
+    - **(A)** in paragraph (2), by striking “facility” the 1st place it appears and inserting “project”;
     - **(B)** in paragraph (2)(A)—
       - **(i)** by striking “facility” and inserting “project”; and
       - **(ii)** by striking “requires” and inserting “allows”;
@@ -129,7 +128,7 @@ Section 302 (34 U.S.C. 11201) is amended—
       - **(i)** in subparagraph (A), by striking “and” after the semicolon;
       - **(ii)** in subparagraph (B), by striking the period at the end and inserting “; and”; and
       - **(iii)** by adding at the end the following:
-        > - **(C)** youth are eligible for home-based services when determined by the applicant to be at risk of separation from the family; and
+        > - **(C)** youth are eligible for home-based services when determined by the applicant to be at risk of separation from the family.
 
   - **(4)** by adding at the end the following:
     > - **(f)** *Online resources for outreach* An applicant may develop a plan, consistent with local needs, for the use of online resources, if appropriate, in order to reach and engage youth.
@@ -206,7 +205,7 @@ Section 331 (34 U.S.C. 11231) is amended—
       - **(i)** by striking “sexual abuse and assault” and inserting “violence, trauma, sexual abuse, sexual exploitation”; and
       - **(ii)** by striking “and sex trafficking” and inserting “or sex trafficking”;
     - **(B)** in subparagraph (B)—
-      - **(i)** by striking “and assault” and inserting “sexual exploitation,”; and
+      - **(i)** by striking “assault” and inserting “ sexual exploitation”; and
       - **(ii)** by striking “and” after the semicolon;
     - **(C)** in subparagraph (C), by striking “who have been sexually victimized” and inserting “who are victims of sexual abuse or sexual exploitation”; and
     - **(D)** by adding at the end the following:
@@ -221,11 +220,11 @@ Section 331 (34 U.S.C. 11231) is amended—
     > - **(11)** examining the intersection between the runaway and homeless youth populations and trafficking in persons, including noting whether such youth who are victims of trafficking in persons or sex trafficking were previously involved in the child welfare or juvenile justice systems; and
     > - **(12)** the needs of runaway youth and homeless youth with disabilities, including projects that examine best practices for serving these youth.
 
-- **(d)** *Demonstration projects To provide services to youth in rural areas* Section 344(a)(2)(A) (34 U.S.C. 11244(a)(2)(A)) is amended by striking “$100,000” and inserting “$200,000”.
+- **(d)** *Demonstration projects to provide services to youth in rural areas* Section 344(a)(2)(A) (34 U.S.C. 11244(a)(2)(A)) is amended by striking “$100,000” and inserting “$200,000”.
 - **(e)** *Periodic estimate of incidence and prevalence of youth homelessness* Section 345 (34 U.S.C. 11245) is amended—
   - **(1)** in subsection (a)—
     - **(A)** in the matter preceding paragraph (1)—
-      - **(i)** by inserting “and the Runaway and Homeless Youth and Trafficking Prevention Act of 2019,” after “2008,”;
+      - **(i)** by striking “Reconnecting Homeless Youth Act of 2008” and inserting “Runaway and Homeless Youth and Trafficking Prevention Act of 2019”;
       - **(ii)** by striking “5” and inserting “3”; and
       - **(iii)** by inserting “of Health and Human Services, acting through the Associate Commissioner of the Family and Youth Services Bureau” after “Secretary”;
     - **(B)** in paragraph (1)—
@@ -275,9 +274,9 @@ Section 351 (34 U.S.C. 11261) is amended—
 
 - **(a)** *Lease of surplus Federal facilities for use runaway and homeless youth centers or as transitional living youth shelter projects* Section 381 (34 U.S.C. 11272) is amended—
   - **(1)** in the section heading—
-    - **(A)** by inserting “, Sites,” after “Centers”; and
+    - **(A)** by inserting “, sites,” after “centers”; and
     - **(B)** by striking “shelter facilities” and inserting “shelter projects”; and
-  - **(2)** in subsection (a), in the matter preceding paragraph (1), by striking “facilities” and inserting “projects”.
+  - **(2)** in subsection (a), in the matter preceding paragraph (1), by striking “youth shelter facilities” and inserting “youth shelter projects”.
 - **(b)** *Reports* Section 382(a) (34 U.S.C. 11273(a)) is amended—
   - **(1)** in the matter preceding paragraph (1)—
     - **(A)** by striking “2000” and inserting “2021”; and
@@ -299,8 +298,8 @@ Section 351 (34 U.S.C. 11261) is amended—
 - **(c)** *Federal share* Section 383(a) (34 U.S.C. 11274(a)) is amended by striking “facility's budget” and inserting “project's budget”.
 - **(d)** *Evaluation and information* Section 386(a) (34 U.S.C. 11277(a)) is amended in the matter preceding paragraph (1)—
   - **(1)** by striking “3” and inserting “5” each place the term appears; and
-  - **(2)** by inserting “, acting through the Associate Commissioner of the Family and Youth Services Bureau,” after “Secretary”.
-- **(e)** *Performance standards* Section 386A(a) (34 U.S.C. 11278(a)) is amended by inserting “and the date of enactment of the Runaway and Homeless Youth and Trafficking Prevention Act of 2019” after “2008”.
+  - **(2)** by inserting “, acting through the Associate Commissioner of the Family and Youth Services Bureau” after “Secretary”.
+- **(e)** *Performance standards* Section 386A(a) (34 U.S.C. 11278(a)) is amended by striking “Reconnecting Homeless Youth Act of 2008” and inserting “Runaway and Homeless Youth and Trafficking Prevention Act of 2019”.
 - **(f)** *Nondiscrimination* Part F is amended by inserting after section 386A (34 U.S.C. 11278) the following:
   > ## § 386B. Nondiscrimination
   >
@@ -326,7 +325,7 @@ Section 351 (34 U.S.C. 11261) is amended—
       > - **(IV)** physical and sexual assault; and
       > - **(V)** suicide.
 
-  - **(5)** in paragraph (7)(B) (as so redesignated), by striking “prostitution or drug abuse.” and inserting “trafficking in persons, sex trafficking, or substance use disorder”;
+  - **(5)** in paragraph (7)(B) (as so redesignated), by striking “prostitution, or drug abuse” and inserting “trafficking in persons, sex trafficking, or substance use disorder”;
   - **(6)** by inserting after paragraph (7) (as so redesignated), the following:
     > - **(8)** *Trafficking in persons* The term trafficking in persons has the meaning given the term severe forms of trafficking in persons in section 103 of the Trafficking Victims Protection Act of 2019 (22 U.S.C. 7102).
 
@@ -339,7 +338,7 @@ Section 351 (34 U.S.C. 11261) is amended—
       - **(ii)** by striking “or” at the end;
     - **(B)** in clause (iii), by striking the period and inserting “; or”; and
     - **(C)** by adding at the end the following:
-      > - **(iv)** who is involved in the child welfare or juvenile justice system, but is not living in housing or shelter funded by the Federal Government
+      > - **(iv)** who is involved in the child welfare or juvenile justice system, but is not living in housing or shelter funded by the Federal Government.
 
 - **(h)** *Authorization of appropriations* Section 388(a) (34 U.S.C. 11280(a)) is amended—
   - **(1)** in paragraph (1), by striking “$127,421,000 for each of fiscal years 2019 through 2020” and inserting “$225,000,000 for fiscal year 2021, and such sums as may be necessary for each of fiscal years 2022 through 2025”;
