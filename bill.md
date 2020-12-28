@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4301
 congress: 116th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -36,41 +36,66 @@ In this Act:
 ## § 3. Annual report on indicators of school crime and safety
 
 - **(a)** *In general* The Secretary of Education, in consultation with the Attorney General and the Secretary of Health and Human Services, shall publish not less frequently than on an annual basis a report on indicators of school crime and safety. Such report shall be produced by the National Center for Education Statistics of the Department of Education in consultation with the Bureau of Justice Statistics of the Department of Justice. Such report shall include, at a minimum, an updated version of the information provided in the National Center for Education Statistics report NCES 2019–047 issued in April 2019, and the data described in subsections (b) and (d).
-- **(b)** *Statistics on school shootings* In collecting data on school shootings to be compiled in the annual report described in subsection (a), the National Center on Education Statistics shall collect at a minimum the following data annually:
+- **(b)** *Statistics on school shootings* In collecting data on school shootings to be compiled in the annual report described in subsection (a), the National Center for Education Statistics shall collect at a minimum the following data annually:
   - **(1)** The number of school shootings that have taken place nationwide.
-  - **(2)** The number of mass shootings that have taken place nationwide.
-  - **(3)** The number of school shootings that were suicides.
-  - **(4)** The number of people killed in each school shooting.
-  - **(5)** The number of people injured in each school shooting.
+  - **(2)** Of the school shootings described in paragraph (1), the number that were mass shootings.
+  - **(3)** Of the school shootings described in paragraph (1), the number that were suicides.
+  - **(4)** The number of people killed in each school shooting, including—
+    - **(A)** the number of people whose cause of death was attributable to wound by firearm; and
+    - **(B)** the number of people having some other cause of death.
+  - **(5)** The number of people injured in each school shooting, including—
+    - **(A)** the number of people wounded by firearm; and
+    - **(B)** the number of people injured in some other manner.
   - **(6)** The time of the shooting and whether it occurred during school hours.
-  - **(7)** The age, gender, race, ethnicity, and nationality of each victim in each shooting.
-  - **(8)** The age, gender, race, ethnicity, nationality, and relationship to the school of each shooter.
-  - **(9)** The motivation of the shooter, including any real or perceived bias.
-  - **(10)** How the shooting was stopped, including—
+  - **(7)** The demographics of each school, including—
+    - **(A)** the locale code of the school, as determined by the Secretary of Education; and
+    - **(B)** student demographic data disaggregated by—
+      - **(i)** economically disadvantaged students as compared to students who are not economically disadvantaged;
+      - **(ii)** each major racial and ethnic group;
+      - **(iii)** children with disabilities as compared to children without disabilities; and
+      - **(iv)** English proficiency status.
+  - **(8)** The personal characteristics of each victim in the shooting, including, at a minimum, the victim’s—
+    - **(A)** age;
+    - **(B)** gender;
+    - **(C)** race;
+    - **(D)** ethnicity; and
+    - **(E)** nationality.
+  - **(9)** The personal characteristics of the shooter, including, at a minimum the shooter’s—
+    - **(A)** age;
+    - **(B)** gender;
+    - **(C)** race;
+    - **(D)** ethnicity;
+    - **(E)** nationality; and
+    - **(F)** relationship to the school.
+  - **(10)** The motivation of the shooter, including any real or perceived bias based on race, religion, ethnicity, nationality, or sex (including sexual orientation or gender identity).
+  - **(11)** How the shooting was stopped, including—
     - **(A)** whether the shooter was injured or killed, and if so, by whom; and
     - **(B)** if not, what was the other outcome of the incident (such as escape, arrest, or suicide).
-  - **(11)** The number and type of firearms and ammunition were used in each shooting, including—
+  - **(12)** The number and type of firearms and ammunition that were used in each shooting, including—
     - **(A)** the make and model of the firearm;
     - **(B)** the manufacturer of the firearm;
     - **(C)** the make and model of the ammunition;
     - **(D)** the manufacturer of the ammunition;
     - **(E)** whether a large capacity ammunition feeding device was present at the scene or used during the shooting; and
     - **(F)** the number of rounds of ammunition fired by the shooter over the course of the shooting.
-  - **(12)** Criminal records of the shooter that indicate a tendency toward violence.
   - **(13)** Where each of the firearms used in each shooting was obtained and how, including—
     - **(A)** whether the firearm was registered; and
     - **(B)** whether the firearm was purchased from a licensed gun dealer or an unlicensed sale.
   - **(14)** If the original purchaser was not the shooter, what was, if any, the original purchaser’s relationship to the shooter.
   - **(15)** If the original purchaser was not the shooter and the firearm was obtained from the shooter’s home, the gun storage practices being used in the home, and whether the gun owner was charged with failing to properly secure his or her firearm.
-  - **(16)** Whether the school had armed teachers, as that term is defined in section 8553 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7943), and if so, whether such armed teachers stopped the incident by shooting the shooter.
+  - **(16)** Whether the school had one or more teachers, as that term is defined in section 8553 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7943), who were armed, and if so, whether such armed teacher or teachers stopped the incident by shooting the shooter.
   - **(17)** How long did the shooting last (the approximate elapsed time between the first and last shots fired).
   - **(18)** What was the response time of law enforcement.
-- **(c)** *Historic statistics on school shootings* To the extent practicable, the Secretary of Education shall direct the National Center on Education Statistics to collect the data required in subsection (b) for shootings that occurred prior to the date of the enactment of this Act, and publish such data as a revision to any annual report on indicators of school crime and safety issued by the National Center on Education Statistics prior to the date of the enactment of this Act.
-- **(d)** *Safety and prevention* In collecting data on school shootings to be compiled in the annual report described in subsection (a), the National Center on Education Statistics shall collect, at a minimum, information on the existence or absence of the following safety and prevention measures at the time of the shooting at schools where a school shooting occurred in the previous year:
-  - **(1)** Structural physical security measures.
-  - **(2)** School structural features that are designed with best practices to avert and restrict violence while preserving open learning environments that positively influence student behavior.
+- **(c)** *Historic statistics on school shootings* The Secretary of Education shall direct the National Center for Education Statistics—
+  - **(1)** to collect, to the extent practicable, the data required in subsection (b) for shootings that occurred before the date of the enactment of this Act; and
+  - **(2)** to publish such data as revisions to the most applicable annual reports on indicators of school crime and safety issued by the National Center for Education Statistics before the date of the enactment of this Act.
+- **(d)** *Safety and prevention* In collecting data on school shootings to be compiled in the annual report described in subsection (a), the National Center for Education Statistics shall collect, at a minimum, information on the existence or absence of the following measures at the time of the shooting at schools where a school shooting occurred in the previous year:
+  - **(1)** Physical security measures, including—
+    - **(A)** building envelopes and interiors designed to protect occupants from human threats; and
+    - **(B)** other physical security measures designed to avert and restrict violence.
+  - **(2)** Other types of security measures, including measures designed to preserve open learning environments that positively influence student behavior.
   - **(3)** A communication plan with local law enforcement.
-  - **(4)** A response plan that includes coordination with local agencies (law enforcement, fire department, hospitals, etc.).
-  - **(5)** An active shooter response plan.
+  - **(4)** A response plan that includes coordination with local agencies (law enforcement, fire department, hospitals, etc).
+  - **(5)** An active shooter response plan (including the use of an alert system to notify students, faculty, and parents or guardians).
   - **(6)** Any other similar type of safety or prevention measure in place at the time of the school shooting.
-- **(e)** *Rule of construction* In collecting data on school shootings to be compiled in the annual report described in subsection (a), any data disaggregation required by subsection (b) shall not be required in the case where the number of students in a disaggregated subgroup is insufficient to yield statistically reliable data or the results would reveal personally identifiable information about an individual student.
+- **(e)** *Rule of construction* In collecting data on school shootings to be compiled in the annual report described in subsection (a), any data disaggregation required by subsection (b) shall not be required in the case where such disaggregation would reveal personally identifiable information about any individual.
