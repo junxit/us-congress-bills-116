@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4674
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-948 amendatory instructions. 258 executed, 690 stated and not applied.
+1,028 amendatory instructions. 274 executed, 754 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,33 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 20 U.S.C. § 1002
+
+> further amended by striking “subsection (a)(24)” and inserting “paragraph (3)”.
+
+| | |
+|---|---|
+| Removed | `subsection (a)(24)` |
+| Inserted | `paragraph (3)` |
+
+### 20 U.S.C. § 1002
+
+> further amended by striking “subsection (a)(24)” and inserting “paragraph (3)”.
+
+| | |
+|---|---|
+| Removed | `subsection (a)(24)` |
+| Inserted | `paragraph (3)` |
+
+### 20 U.S.C. § 1002
+
+> further amended by striking “subsection (a)(24)” and inserting “paragraph (3)”.
+
+| | |
+|---|---|
+| Removed | `subsection (a)(24)` |
+| Inserted | `paragraph (3)` |
 
 ### 20 U.S.C. § 1003
 
@@ -53,12 +80,12 @@ to guess them.
 
 ### 20 U.S.C. § 1011f
 
-> in paragraph (3), by striking “or property” and inserting “property, human resources, or payment of any staff;”; and
+> in paragraph (3), by striking “or property” and inserting “property, human resources, or payment of any staff”; and
 
 | | |
 |---|---|
 | Removed | `or property` |
-| Inserted | `property, human resources, or payment of any staff;` |
+| Inserted | `property, human resources, or payment of any staff` |
 
 ### 20 U.S.C. § 1011i
 
@@ -134,15 +161,6 @@ to guess them.
 
 ### 20 U.S.C. § 1015b
 
-> in subsection (a), by striking “identify ways to decrease” and inserting “identify and adopt innovative tools to decrease”;
-
-| | |
-|---|---|
-| Removed | `identify ways to decrease` |
-| Inserted | `identify and adopt innovative tools to decrease` |
-
-### 20 U.S.C. § 1015b
-
 > by striking “to accompany a” and inserting “to accompany or support a” in the matter preceding subparagraph (A); and
 
 | | |
@@ -161,11 +179,11 @@ to guess them.
 
 ### 20 U.S.C. § 1015b
 
-> in subsection (c)(1)(D)(i), by striking “paperback, and unbound” and inserting “paperback, digital, and unbound”; and
+> in subsection (c)(1)(D)(i), by striking “paperback and unbound” and inserting “paperback, digital, and unbound”; and
 
 | | |
 |---|---|
-| Removed | `paperback, and unbound` |
+| Removed | `paperback and unbound` |
 | Inserted | `paperback, digital, and unbound` |
 
 ### 20 U.S.C. § 1018
@@ -179,12 +197,12 @@ to guess them.
 
 ### 20 U.S.C. § 1018
 
-> in subsection (e)(2), by striking “organization and individual goals” and inserting “specific, measurable organization and individual goals and the metrics used to measure progress toward such goals. Performance agreements for senior management responsible for procurement shall include metrics that measure ability to oversee contractors.”;
+> in subsection (e)(2), by striking “measurable organization and individual goals” and inserting “specific, measurable organization and individual goals and the metrics used to measure progress toward such goals. Performance agreements for senior management responsible for procurement shall include metrics that measure ability to oversee contractors”;
 
 | | |
 |---|---|
-| Removed | `organization and individual goals` |
-| Inserted | `specific, measurable organization and individual goals and the metrics used to measure progress toward such goals. Performance agreements for senior management responsible for procurement shall include metrics that measure ability to oversee contractors.` |
+| Removed | `measurable organization and individual goals` |
+| Inserted | `specific, measurable organization and individual goals and the metrics used to measure progress toward such goals. Performance agreements for senior management responsible for procurement shall include metrics that measure ability to oversee contractors` |
 
 ### 20 U.S.C. § 1022
 
@@ -215,7 +233,7 @@ to guess them.
 
 ### 20 U.S.C. § 1022a
 
-> by striking “limited English proficient” both places it appears and inserting “English learners”;
+> by striking “limited English proficient” both places it appears and inserting “English learners”; and
 
 | | |
 |---|---|
@@ -224,7 +242,7 @@ to guess them.
 
 ### 20 U.S.C. § 1022a
 
-> by striking “scientifically valid” both places it appears and inserting “evidence-based”; and
+> by striking “scientifically valid” both places it appears and inserting “evidence-based”;
 
 | | |
 |---|---|
@@ -260,12 +278,21 @@ to guess them.
 
 ### 20 U.S.C. § 1022b
 
-> in subsection (a)(2), by striking “five-year period” and inserting “five-year period, except such partnership may receive an additional grant during such period if such grant is used to establish a teaching residency program, or a principal or other school leader residency program, if such residency program was not established with the prior grant”; and
+> in subsection (a)(2), by striking “five-year period.” and inserting “five-year period, except such partnership may receive an additional grant during such period if such grant is used to establish a teaching residency program, or a principal or other school leader residency program, if such residency program was not established with the prior grant.”; and
 
 | | |
 |---|---|
-| Removed | `five-year period` |
-| Inserted | `five-year period, except such partnership may receive an additional grant during such period if such grant is used to establish a teaching residency program, or a principal or other school leader residency program, if such residency program was not established with the prior grant` |
+| Removed | `five-year period.` |
+| Inserted | `five-year period, except such partnership may receive an additional grant during such period if such grant is used to establish a teaching residency program, or a principal or other school leader residency program, if such residency program was not established with the prior grant.` |
+
+### 20 U.S.C. § 1022b
+
+> by striking “teacher preparation program” and inserting “teacher education, school leader preparation, or educator development program”;
+
+| | |
+|---|---|
+| Removed | `teacher preparation program` |
+| Inserted | `teacher education, school leader preparation, or educator development program` |
 
 ### 20 U.S.C. § 1022e
 
@@ -314,6 +341,24 @@ to guess them.
 
 ### 20 U.S.C. § 1057
 
+> in paragraph (8), by striking “acquisition of equipment for use in strengthening funds management” and inserting “acquisition of technology, services, and equipment for use in strengthening funds and administrative management”;
+
+| | |
+|---|---|
+| Removed | `acquisition of equipment for use in strengthening funds management` |
+| Inserted | `acquisition of technology, services, and equipment for use in strengthening funds and administrative management` |
+
+### 20 U.S.C. § 1057
+
+> in paragraph (12), by striking “Creating” and all that follows through “technologies,” and inserting “Innovative learning models and creating or improving facilities for Internet or other innovative technologies,”;
+
+| | |
+|---|---|
+| Removed | `Creating” and all that follows through “technologies,` |
+| Inserted | `Innovative learning models and creating or improving facilities for Internet or other innovative technologies,` |
+
+### 20 U.S.C. § 1057
+
 > by striking “non-Federal sources” and inserting “non-Federal sources (which may include gifts to the endowment fund restricted for a specific purpose)”; and
 
 | | |
@@ -332,12 +377,12 @@ to guess them.
 
 ### 20 U.S.C. § 1059c
 
-> in subparagraph (D), by striking “Indians” and all that follows through “policy” and inserting “American Indians and Alaska Natives are underrepresented, instruction in Native American language, and instruction to support tribal governance, tribal public policy, and tribal history and sovereignty;” and
+> in subparagraph (D), by striking “Indians” and all that follows through “policy” and inserting “American Indians and Alaska Natives are underrepresented, instruction in Native American language, and instruction to support tribal governance, tribal public policy, and tribal history and sovereignty” and
 
 | | |
 |---|---|
 | Removed | `Indians” and all that follows through “policy` |
-| Inserted | `American Indians and Alaska Natives are underrepresented, instruction in Native American language, and instruction to support tribal governance, tribal public policy, and tribal history and sovereignty;` |
+| Inserted | `American Indians and Alaska Natives are underrepresented, instruction in Native American language, and instruction to support tribal governance, tribal public policy, and tribal history and sovereignty` |
 
 ### 20 U.S.C. § 1059c
 
@@ -467,12 +512,12 @@ to guess them.
 
 ### 20 U.S.C. § 1063b
 
-> Section 326(h) of the Higher Education Act of 1965 (20 U.S.C. 1063b(h)) is amended by striking “or 724” and inserting “724, 727, or 729.”.
+> Section 326(h) of the Higher Education Act of 1965 (20 U.S.C. 1063b(h)) is amended by striking “or 724” and inserting “724, 727, or 729”.
 
 | | |
 |---|---|
 | Removed | `or 724` |
-| Inserted | `724, 727, or 729.` |
+| Inserted | `724, 727, or 729` |
 
 ### 20 U.S.C. § 1066b
 
@@ -755,7 +800,7 @@ to guess them.
 
 ### 20 U.S.C. § 1070a-11
 
-> in clause (v), by striking “prior experience” and inserting “accountability for outcomes”;
+> in clause (v), by striking “prior experience” and inserting “accountability for outcomes”; and
 
 | | |
 |---|---|
@@ -764,12 +809,12 @@ to guess them.
 
 ### 20 U.S.C. § 1070a-11
 
-> by striking “Prior experience” and inserting “Accountability in outcomes” in the heading;
+> by striking “prior experience” and inserting “accountability in outcomes” in the heading;
 
 | | |
 |---|---|
-| Removed | `Prior experience` |
-| Inserted | `Accountability in outcomes` |
+| Removed | `prior experience` |
+| Inserted | `accountability in outcomes` |
 
 ### 20 U.S.C. § 1070a-11
 
@@ -1016,7 +1061,7 @@ to guess them.
 
 ### 42 U.S.C. § 11301
 
-> in paragraph (1), by striking “or former participants of a program under this chapter” and inserting “, former participants of a program under this chapter, or peers and near peers” after “adults”;
+> in paragraph (1), by striking “or former participants of a program under this chapter” and inserting “, former participants of a program under this chapter, or peers and near peers”;
 
 | | |
 |---|---|
@@ -1068,6 +1113,15 @@ to guess them.
 | Removed | `$400,000,000 for fiscal year 2009` |
 | Inserted | `$500,000,000 for fiscal year 2021` |
 
+### 20 U.S.C. § 1070b-2
+
+> by striking “agrees” and inserting “except as provided in paragraph (4), agrees”; and
+
+| | |
+|---|---|
+| Removed | `agrees` |
+| Inserted | `except as provided in paragraph (4), agrees` |
+
 ### 20 U.S.C. § 1070d-2
 
 > Section 418A(i) of the Higher Education Act of 1965 (20 U.S.C. 1070d–2(i)) is amended by striking “2009” and inserting “2021”.
@@ -1115,7 +1169,7 @@ to guess them.
 
 ### 20 U.S.C. § 1070e
 
-> in subparagraph (B), by striking “subsection (e)(2)” and inserting “subsection (e)(3)”;
+> in subparagraph (B), by striking “subsection (e)(2)” and inserting “subsection (e)(3)”; and
 
 | | |
 |---|---|
@@ -1124,7 +1178,7 @@ to guess them.
 
 ### 20 U.S.C. § 1070e
 
-> in subsection (h), as so redesignated, by striking “such sums as may be necessary for fiscal year 2009” and inserting “$200,000,000 for fiscal year 2021”.
+> in subsection (g), by striking “such sums as may be necessary for fiscal year 2009” and inserting “$200,000,000 for fiscal year 2021”.
 
 | | |
 |---|---|
@@ -1142,7 +1196,7 @@ to guess them.
 
 ### 20 U.S.C. § 1070g-1
 
-> in paragraph (1), by striking “undergraduate” and inserting “associate, undergraduate,”; and
+> in paragraph (1), by striking “undergraduate” each place it appears and inserting “associate, undergraduate,”; and
 
 | | |
 |---|---|
@@ -1367,6 +1421,15 @@ to guess them.
 
 ### 20 U.S.C. § 1087e
 
+> by striking “, foreign language faculty, and part-time faculty at community colleges), as determined by the Secretary.” and inserting “and foreign language faculty), as determined by the Secretary; or”;
+
+| | |
+|---|---|
+| Removed | `, foreign language faculty, and part-time faculty at community colleges), as determined by the Secretary.` |
+| Inserted | `and foreign language faculty), as determined by the Secretary; or` |
+
+### 20 U.S.C. § 1087e
+
 > in paragraph (10), as so redesignated, by striking “section 428J, 428K, 428L, or 460” and inserting “section 428K or 428L”.
 
 | | |
@@ -1457,7 +1520,7 @@ to guess them.
 
 ### 20 U.S.C. § 1087mm
 
-> by striking “academic year” each place it appears and inserting “award year”; and
+> by striking “academic year” each place it appears and inserting “award year”;
 
 | | |
 |---|---|
@@ -1466,12 +1529,21 @@ to guess them.
 
 ### 20 U.S.C. § 1087mm
 
-> by striking “academic years” and inserting “award years”.
+> by striking “academic years” and inserting “award years”;
 
 | | |
 |---|---|
 | Removed | `academic years` |
 | Inserted | `award years` |
+
+### 20 U.S.C. § 1087mm
+
+> in subparagraph (B), by striking “parent or guardian” and inserting “parent, guardian, or spouse”; and
+
+| | |
+|---|---|
+| Removed | `parent or guardian` |
+| Inserted | `parent, guardian, or spouse` |
 
 ### 20 U.S.C. § 1087oo
 
@@ -1619,7 +1691,7 @@ to guess them.
 
 ### 25 U.S.C. § 5304
 
-> by striking “determine” and all that follows through “which” and inserting “determine which”; and
+> by striking “determine” and all that follows through “which” and inserting “determine which”;
 
 | | |
 |---|---|
@@ -1637,7 +1709,7 @@ to guess them.
 
 ### 20 U.S.C. § 1001
 
-> in section 102(a)(2)(A)(i)(I), by striking “484(a)(5)” and inserting “484(a)(2)”;
+> in section 102(a)(2)(A)(i)(I)(aa), by striking “484(a)(5)” and inserting “484(a)(2)”;
 
 | | |
 |---|---|
@@ -1743,6 +1815,15 @@ to guess them.
 | Removed | `an investigation` |
 | Inserted | `a trauma-informed investigation` |
 
+### 20 U.S.C. § 1092b
+
+> in subparagraph (A), by striking “student and parent” and inserting “student, borrower, and parent”;
+
+| | |
+|---|---|
+| Removed | `student and parent` |
+| Inserted | `student, borrower, and parent` |
+
 ### 20 U.S.C. § 1094
 
 > Section 487(a)(10) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)(10)) is amended by striking “a drug abuse prevention program” and inserting “an alcohol and substance misuse prevention program in accordance with section 120”.
@@ -1772,12 +1853,57 @@ to guess them.
 
 ### 20 U.S.C. § 1094
 
-> in subparagraph (B)(i)(II), by striking “$25,000” and inserting “$60,000”; and
+> in subparagraph (B)(i), by striking “$25,000” and inserting “$60,000”; and
 
 | | |
 |---|---|
 | Removed | `$25,000` |
 | Inserted | `$60,000` |
+
+### 20 U.S.C. § 1094
+
+> in the subsection heading, by striking “title IV” and inserting “Federal education assistance funds”;
+
+| | |
+|---|---|
+| Removed | `title IV` |
+| Inserted | `Federal education assistance funds` |
+
+### 20 U.S.C. § 1094
+
+> in subparagraph (C), in the matter preceding clause (i), by striking “funds for a program under this title” and inserting “Federal education assistance funds”; and
+
+| | |
+|---|---|
+| Removed | `funds for a program under this title` |
+| Inserted | `Federal education assistance funds` |
+
+### 20 U.S.C. § 1094
+
+> in the paragraph heading, by striking “college navigator” and inserting “department of education”; and
+
+| | |
+|---|---|
+| Removed | `college navigator` |
+| Inserted | `department of education` |
+
+### 20 U.S.C. § 1094
+
+> in the matter preceding subparagraph (A), by striking “on the College Navigator” and inserting “on a Department of Education”; and
+
+| | |
+|---|---|
+| Removed | `on the College Navigator` |
+| Inserted | `on a Department of Education` |
+
+### 20 U.S.C. § 1094
+
+> in subparagraph (A), by striking “sources under this title” and inserting “Federal education assistance funds”.
+
+| | |
+|---|---|
+| Removed | `sources under this title` |
+| Inserted | `Federal education assistance funds` |
 
 ### 20 U.S.C. § 1096
 
@@ -1896,6 +2022,15 @@ to guess them.
 | Removed | `to prosper in an international` |
 | Inserted | `and other professional fields to prosper in a global` |
 
+### 20 U.S.C. § 1135e
+
+> Section 716 of the Higher Education Act of 1965 (20 U.S.C. 1135e) is amended by striking “2009” and inserting “2021”.
+
+| | |
+|---|---|
+| Removed | `2009` |
+| Inserted | `2021` |
+
 ### 20 U.S.C. § 1136a
 
 > in subsection (e), by striking “or 724” and inserting “or 724, or subpart 5 or 6 of this part”; and
@@ -1952,7 +2087,7 @@ to guess them.
 
 ### 20 U.S.C. § 1134
 
-> by striking “1 through 4” each place it appears and inserting “1 through 6”; and
+> by striking “1 through 4” each place it appears (including in the section heading) and inserting “1 through 6”; and
 
 | | |
 |---|---|
@@ -2060,7 +2195,7 @@ to guess them.
 
 ### 20 U.S.C. § 1161s
 
-> Section 872(e) (20 U.S.C. 1161s(e)) is amended by striking “2009” and inserting “2021”.
+> Section 872(e) of the Higher Education Act of 1965 (20 U.S.C. 1161s(e)) is amended by striking “2009” and inserting “2021”.
 
 | | |
 |---|---|
@@ -2103,9 +2238,18 @@ to guess them.
 | Removed | `2009` |
 | Inserted | `2021` |
 
+### 20 U.S.C. § 1161w
+
+> Section 892(g) of the Higher Education Act of 1965 (20 U.S.C. 1161w(g)) is amended by striking “2009” and inserting “2021”.
+
+| | |
+|---|---|
+| Removed | `2009` |
+| Inserted | `2021` |
+
 ### 20 U.S.C. § 1161aa
 
-> Section 897 (20 U.S.C. 1161aa) is amended by striking “$11,500,000 for fiscal year 2009 and for each of the five succeeding fiscal years” and inserting “$13,500,000 for fiscal year 2021 and each succeeding fiscal year”.
+> Section 897 of the Higher Education Act of 1965 (20 U.S.C. 1161aa) is amended by striking “$11,500,000 for fiscal year 2009 and for each of the five succeeding fiscal years” and inserting “$13,500,000 for fiscal year 2021 and each succeeding fiscal year”.
 
 | | |
 |---|---|
@@ -2204,7 +2348,7 @@ to guess them.
 
 ### 25 U.S.C. § 1801
 
-> By striking “students” and inserting “individuals 16 years of age or older”; and
+> by striking “students” and inserting “individuals 16 years of age or older”; and
 
 | | |
 |---|---|
@@ -2356,15 +2500,21 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `20 U.S.C. § 1002` | insert | Section 102(a)(4)(A) of Higher Education Act of 1965 (20 U.S.C. 1002(a)(4)(A)) is amended by inserting “or receivership” after “that files for bankruptcy”. | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1002` | strike | in subparagraph (D), by striking “and” after the semicolon; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1002` | replace | in subparagraph (E), by striking the period at the end and inserting “; and”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1002` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1002` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1003` | insert | in paragraph (13), by inserting “controlled,” before “owned”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 621` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1001` | add-at-end | Part A of title I of the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1011` | insert | Section 111(a) of the Higher Education Act of 1965 (20 U.S.C. 1011(a)) is amended by inserting “(including sexual orientation, gender identity, pregnancy, childbirth, a medical condition related to pregnancy or childbirth, or sex stereot… | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1011c` | strike | Section 114 of the Higher Education Act of 1965 (20 U.S.C. 1011c) is amended by striking subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1011f` | add-at-end | in paragraph (1), by adding at the end the following: “In this paragraph, the term aggregate dollar amount includes the fair market value of staff members, textbooks, and other in-kind gifts.”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1011f` | insert | in paragraph (2), by inserting “In this paragraph, the term aggregate dollar amount includes the fair market value of staff members, textbooks, and other in-kind gifts.” after “each foreign government.”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1011f` | add-at-end | in subsection (e), by adding at the end the following: “Not later than 30 days after receiving a disclosure report under this section, the Secretary shall make such report electronically available to the public for downloading on searcha… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1011f` | amend | by amending subsection (g) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1011f` | insert | in paragraph (5)(B), by inserting “institutes, instructional programs,” after “centers,”. | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1011f` | insert | in paragraph (5)(B), by inserting “institutes, instructional programs,” after “centers,”; and | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1011f` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1011i` | amend | by amending paragraph (1)(C) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1011i` | amend | by amending paragraph (1)(D) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300x-21` | strike | by striking “and” at the end of subparagraph (A); | the bill quotes the text struck but describes what replaces it |
@@ -2381,10 +2531,19 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1011` | add-at-end | Part B of title I of the Higher Education Act of 1965 (20 U.S.C. 1011 et seq.), as amended by this part, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1011` | add-at-end | Part B of title I of the Higher Education Act of 1965 (20 U.S.C. 1011 et seq.), as amended by this part, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1011m` | repeal | Section 119 of the Higher Education Opportunity Act (20 U.S.C. 1011m) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1011m` | strike | The table of sections in section 1(b) of the Higher Education Opportunity Act is amended by striking the item relating to section 119. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1011` | add-at-end | Part B of title I of the Higher Education Act of 1965 (20 U.S.C. 1011 et seq.), as amended by this part, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1015a` | redesignate | by redesignating paragraph (4) as paragraph (6); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1015a` | insert | in paragraph (2), by inserting before the period “, and, not later than 1 year after the date of enactment of the College Affordability Act, shall meet the requirements of paragraph (4)(C)”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1015a` | insert | in paragraph (3), by inserting after the first sentence the following: “Not later than 1 year after the date of enactment of the College Affordability Act, such calculator shall meet the requirements of paragraph (4).”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1015a` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1015a` | add-at-end | Section 132(h) of the Higher Education Act of 1965 (20 U.S.C. 1015a(h)), as amended by paragraph (1), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1015a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1015a` | redesignate | by redesignating subsection (l) as subsection (m); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 272` | insert | by inserting after subsection (k) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1015a` | add-at-end | Section 132 of the Higher Education Act of 1965 (20 U.S.C. 1015a), as amended by section 1022, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `9 U.S.C. § 1015a` | add-at-end | Section 132 of the Higher Education Act of 1965 (20 9 U.S.C. 1015a), as amended by sections 1022 and 1023, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1015b` | insert | in subsection (a), by inserting “, including through the adoption of innovative tools,” after “supplemental materials”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1015b` | insert | in paragraph (1), by inserting “accessing lower-cost digital course materials and digital textbooks,” after “programs for”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1015b` | insert | in paragraph (3), by inserting “, such as inclusive access programs, subscription models, or digital content distribution platforms” after “delivery programs”. | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1015c` | repeal | Sections 134 and 136 of the Higher Education Act of 1965 (20 U.S.C. 1015c) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2397,7 +2556,8 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1018` | insert | by inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1018` | redesignate | by redesignating clauses (ii) through (vi) as clauses (iii) through (vii); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1018` | insert | by inserting after clause (i) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1018` | redesignate | in clause (vii), as so redesignated, by inserting “, including oversight of institutions, contractors, and third party servicers that participate in such programs” after “title IV” ; | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1018` | redesignate | in clause (vii), as so redesignated, by inserting “, including oversight of institutions, contractors, and third party servicers that participate in such programs” after “title IV”; and | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1018` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1018` | redesignate | by redesignating paragraphs (3) through (6) as paragraphs (4) through (7), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1018` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5535` | amend | by amending subsection (c) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2405,10 +2565,10 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1018` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1018` | insert | by inserting “specific” before “measurable”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1018` | insert | by inserting “and metrics used to measure progress toward such goals” before the period; and | the bill quotes the text inserted but describes where it goes |
-| `20 U.S.C. § 1018` | insert | in subparagraph (B), by inserting “on the website of the Department” before the period; and | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1018` | insert | in subparagraph (B), by inserting “on the website of the Department” before the period; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1018` | redesignate | in paragraph (6), as so redesignated, by amending subparagraph (B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 11432` | amend | by amending subsection (f) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1018` | redesignate | by redesignating subsection (i) as subsection (k); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1018` | redesignate | by redesignating subsection (i) as subsection (j); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1018` | insert | by inserting after subsection (h) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1021` | amend | Section 200 of the Higher Education Act of 1965 (20 U.S.C. 1021) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1022` | replace | in paragraph (3), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
@@ -2421,14 +2581,18 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1022a` | redesignate | by redesignating subparagraphs (I), (J), and (K) as subparagraphs (J), (K), and (M), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1022a` | replace | by striking subparagraphs (F), (G), and (H) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1022a` | redesignate | in subparagraph (J) (as so redesignated), by inserting “as applicable” before “how the partnership”; | the bill quotes the text inserted but describes where it goes |
-| `20 U.S.C. § 1022a` | insert | by inserting “, principals or other school leaders” after “teachers”; and | the bill quotes the text inserted but describes where it goes |
-| `20 U.S.C. § 1022a` | strike | by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 1022a` | redesignate | in subparagraph (K) (as so redesignated), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1022a` | insert | by inserting after subparagraph (K) (as so resdesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1022a` | redesignate | in subparagraph (M) (as so redesignated), by inserting “, principals or other school leaders” after “teachers”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1022a` | insert | in subparagraph (A), by inserting “as applicable,” before “a demonstration”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1022a` | amend | by amending subsection (c) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1022a` | insert | in paragraph (5)(C), by inserting “paraprofessionals,” after “occupations,”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1022a` | amend | by amending subsection (e) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1022a` | replace | by striking subsection (f) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1022a` | strike | by striking subsection (f); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1022a` | redesignate | by redesignating subsections (g) through (k) as subsections (h) through (l), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 7801` | insert | by inserting after subsection (e) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1022b` | insert | by inserting “and demonstrated success in having a diverse set of candidates complete the program, and entering and remaining in the profession” after “such program”; and | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1022b` | replace | by striking “; and” at the end and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1022b` | redesignate | by redesignating subparagraph (B) as subparagraph (C); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1022b` | insert | by inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1022c` | amend | Section 204(a) of the Higher Education Act of 1965 (20 U.S.C. 1022c(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2444,6 +2608,9 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1022` | insert | Part A of title II of the Higher Education Act of 1965 (20 U.S.C. 1022 et seq.) is amended by inserting after section 208 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1022` | redesignate | by redesignating section 209 as section 210; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1031` | amend | Part B of title II of the Higher Education Act of 1965 (20 U.S.C. 1031 et seq.) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1057` | replace | by striking paragraph (6) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1057` | redesignate | by redesignating paragraph (13) as paragraph (17); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 2355` | insert | by inserting after paragraph (12) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1057` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1059c` | insert | by inserting after subparagraph (C) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1059c` | strike | by striking paragraph (1); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2451,7 +2618,7 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1059c` | redesignate | in paragraph (2), as so redesignated, by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1057` | insert | Part A of title III of the Higher Education Act of 1965 (20 U.S.C. 1057 et seq.) is further amended by inserting after section 316 (20 U.S.C. 1059c) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1059e` | insert | by inserting after subparagraph (C) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1059d` | amend | Section 317(d)(3)(A) of the Higher Education Act of 1965 (20 U.S.C. 1059d(d)(3)(A)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1057` | amend | Section 317(d)(3)(A) of the Higher Education Act of 1965 (20 U.S.C.1059d(d)(3)(A) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1059e` | replace | by striking “No Predominantly” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1059e` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1059g` | insert | Section 320(d)(3)(A) of the Higher Education Act of 1965 (20 U.S.C. 1059g(d)(3)(A)) is amended by inserting “part A of” after “or”. | the bill quotes the text inserted but describes where it goes |
@@ -2470,12 +2637,12 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1063b` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1066b` | insert | in paragraph (3), by inserting “(except that loans for the purpose of science, technology, engineering, or mathematics related academic facilities shall carry not more than a 1 percent rate of interest)” after “charge such interest on lo… | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1066b` | strike | in paragraph (12), by striking “, except as otherwise required by the Secretary”; and | the bill quotes the text struck but describes what replaces it |
-| `20 U.S.C. § 1066d` | insert | in paragraph (8), by inserting “and” at the end; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1066d` | replace | by striking paragraph (9) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1066d` | replace | by striking paragraph (10) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1066f` | amend | Paragraph (2) of Section 347(c) of the Higher Education Act of 1965 (20 U.S.C. 1066f(c)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1067q` | replace | in the first sentence, by striking “appropriated,” and all that follows through “2019” and inserting the following: “appropriated, $300,000,000 for fiscal year 2021 and each succeeding fiscal year”; and | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1067q` | strike | by striking the second sentence; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1067q` | strike | in clause (ii), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1067q` | redesignate | by redesignating clause (iii) as clause (iv); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1067q` | insert | by inserting after clause (ii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1067q` | redesignate | by redesignating subparagraph (D) as subparagraph (E) and— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2501,7 +2668,7 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1070a-11` | strike | by striking the last sentence; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1070a-11` | redesignate | by redesignating paragraphs (7) and (8) as paragraphs (8) and (9), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1070a-11` | insert | by inserting after paragraph (6) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1070a-11` | redesignate | by striking subparagraph (B) and redesignating subparagraph (C) as subparagraph (B); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1070a-11` | redesignate | by striking subparagraph (B) and redesignating subparagraph (C) as subparagraph (B); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1070a-11` | redesignate | in subparagraph (B), as so redesignated, by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1070a-11` | add-at-end | in subsection (d)(3), by adding at the end the following: “In addition, the Secretary shall host at least one virtual, interactive training to ensure that any interested applicants have access to technical assistance.”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1759a` | strike | by striking “or” at the end of subparagraph (C); | the bill quotes the text struck but describes what replaces it |
@@ -2605,7 +2772,7 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1070a-27` | strike | in paragraph (1), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1070a-27` | replace | in paragraph (2), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1070a-27` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1070a-27` | redesignate | by redesignating subsections (c) and (d) as subsections (e) and (f), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1070a-27` | redesignate | by redesignating subsections (c) and (d) as subsections (d) and (e), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1070a-27` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1070a-27` | insert | in the subsection heading, by inserting “and technical assistance” after “Federal evaluation”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1070a-27` | insert | by inserting “after consultation with the community of eligible entities receiving grants under this chapter and” after “Secretary shall,”; | the bill quotes the text inserted but describes where it goes |
@@ -2614,15 +2781,15 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1070a-27` | redesignate | before subparagraph (A) (as redesignated by clause (iii)), by inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1070b` | amend | by amending subsection (a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1070b` | replace | in subsection (b)(1), by striking “appropriated” and all that follows through the end and inserting | the bill quotes the text struck but describes what replaces it |
-| `20 U.S.C. § 1070b` | redesignate | by redesignating paragraph (2) as paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1070b` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1070b-2` | replace | by striking “agrees” inserting “except as provided in paragraph (4), agrees”; and | the bill quotes text on both sides, but not as a single substitution this could carry out |
+| `20 U.S.C. § 1070b` | redesignate | in subsection (b), by redesignating paragraph (2) as paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1070b` | insert | in subsection (b), by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1070b-2` | strike | by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1070b-2` | replace | in paragraph (3)(D), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1070b-2` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1070b-3` | amend | Section 413D of the Higher Education Act of 1965 (20 U.S.C. 1070b–3) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1070b` | add-at-end | Part A of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070b et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1070b` | insert | Part A of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070b et seq.) is amended by inserting after subpart 12, as added by section 4093, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1070e` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1070e` | amend | by amending paragraph (5) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 9858` | amend | by amending subsection (c) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1070e` | strike | in the matter preceding paragraph (1), by striking “to institutions of higher education that submit applications describing programs that”; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1070e` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2635,14 +2802,12 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1070e` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1070e` | redesignate | in paragraph (3), as so redesignated, by inserting “(other than the information provided under subparagraph (B)(v) of such paragraph)” after “paragraph (1)”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1070e` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1070e` | redesignate | by redesignating subsection (g) as subsection (h); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1070e` | insert | by inserting after subsection (f) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1070` | insert | Part A of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) is further amended by inserting after subpart 7 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1070g` | add-at-end | Section 420L of the Higher Education Act of 1965 (20 U.S.C. 1070g) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1070g-1` | replace | by striking “in the amount of” and all that follows through the period at the end and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1070g-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1070g-2` | strike | in paragraph (2)(B)(ii), by striking “, such as Teach for America,”; | the bill quotes the text struck but describes what replaces it |
-| `20 U.S.C. § 1070g-2` | insert | in subparagraph (B), by inserting before the semicolon at the end the following: “or in a high-need early childhood education program (as defined in section 200(15));”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1070g-2` | insert | in subparagraph (B), by inserting before the semicolon at the end the following: “or in a high-need early childhood education program (as defined in section 200(15))”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1070g-2` | strike | by striking “or” at the end of clause (vi); | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1070g-2` | redesignate | by redesignating clause (vii) as clause (viii); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1070g-2` | insert | by inserting after clause (vi), as so amended, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2662,7 +2827,7 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1070` | add-at-end | Part A of title IV (20 U.S.C. 1070 et seq.) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1070` | add-at-end | Part A of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1078` | add-at-end | in paragraph (9), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1078` | strike | in the subsection heading, by striking “Income-contingent and”; | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 1078` | strike | in the subsection heading, by striking “Income contingent and”; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1078` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1078` | strike | in the heading for paragraph (2), by striking “income contingent or”. | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1078` | insert | in clause (iii), by inserting before the semicolon the following: “, and with respect to a forbearance granted to a borrower on or after the date of enactment of the College Affordability Act on a loan made, insured or guaranteed under t… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2670,19 +2835,22 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1078` | insert | in subclause (IV), by inserting before the semicolon at the end the following: “except that this subclause shall not apply with respect to any period of forbearance beginning on or after the date of enactment of the College Affordability… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1078-2` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1078-3` | strike | by striking “or” at the end of item (bb); | the bill quotes the text struck but describes what replaces it |
-| `20 U.S.C. § 1078-3` | strike | by striking the period at the end of item (cc); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1078-3` | replace | by striking the period at the end of item (cc) and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1078-3` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1078-8` | insert | Section 428H(e)(2)(A)(ii)(III) of the Higher Education Act of 1965 (20 U.S.C. 1078–8(e)(2)(A)(ii)(III)) is amended by inserting before the semicolon the following: “, except that with respect to a deferment during any period described in… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1078-3` | insert | Section 428C(b)(4)(C)(ii)(III) of the Higher Education Act of 1965 (20 U.S.C. 1078–3(b)(4)(C)(ii)(III)) is amended by inserting before the semicolon the following: “, except that with respect to a period of deferment described in clause … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1078-8` | insert | Section 428H(e)(2)(A)(ii)(III) of the Higher Education Act of 1965 (20 U.S.C. 1078–8(e)(2)(A)(ii)(III)) is amended by inserting before the semicolon the following: “, except that with respect to a period of deferment described in clause … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1078-7` | add-at-end | in subsection (a) by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1078-7` | insert | in subsection (e), by inserting before the period the following: “, or beginning on the date on which the final adjusted cohort default rates are published by the Secretary for fiscal year 2018 under section 435(m), an adjusted cohort de… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1082` | add-at-end | Section 432(m)(1)(D) of the Higher Education Act of 1965 (20 U.S.C. 1082(m)(1)(D)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1082` | amend | Section 432(m)(1)(D) of the Higher Education Act of 1965 (20 U.S.C. 1082(m)(1)(D)) is further amended by adding after clause (iv) (as amended) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1082` | amend | Section 432(m)(1)(D) of the Higher Education Act of 1965 (20 U.S.C. 1082(m)(1)(D)) is further amended by adding after clause (iv) (as added) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1085` | add-at-end | in paragraph (7)(A), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1085` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1085` | add-at-end | in the paragraph heading, by adding at the end the following: “Before fiscal year 2018”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1085` | add-at-end | in the paragraph heading, by adding at the end the following: “before fiscal year 2018”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1085` | add-at-end | Section 435(m)(1) of the Higher Education Act of 1965 (20 U.S.C. 1085(m)(1)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1085` | add-at-end | Section 435(m) of the Higher Education Act of 1965 (20 U.S.C. 1085(m)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087` | add-at-end | Section 437(a) of the Higher Education Act of 1965 (20 U.S.C. 1087(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1087` | redesignate | by redesignating paragraphs (2) through (5) as paragraphs (3) through (6), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1087` | insert | by inserting after paragraph (1), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087` | replace | by striking “If a student” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1087` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087-51` | replace | in subsection (b), by striking “part, such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.” and inserting | the bill quotes the text struck but describes what replaces it |
@@ -2707,15 +2875,27 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1087-53` | strike | by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1087-53` | replace | in paragraph (5), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1087-53` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1087-53` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 2015` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087-55` | add-at-end | in subsection (a), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1087-56` | strike | by striking paragraphs (1) and (2); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1087-56` | strike | by striking paragraphs (1) and (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087-56` | insert | by inserting before paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087-56` | replace | in paragraph (6), by striking the period and inserting | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087-57` | amend | Section 447 of the Higher Education Act of 1965 (20 U.S.C. 1087–57) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1087-51` | add-at-end | Part C of title IV of the Higher Education Act (20 U.S.C. 1087–51 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1087-51` | add-at-end | Part C of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087–51 et seq.), as amended by section 4207, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1087-58` | insert | in subsection (a), by inserting “student” after “comprehensive”; | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1087-58` | insert | in subsection (b)(2)(D), by inserting “student” after “comprehensive”; | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1087-58` | replace | by striking “Each eligible institution” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 1087-58` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1087-58` | replace | by striking subparagraph (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1087-58` | insert | in subparagraph (C), by inserting “student” after “comprehensive”; and | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1087-58` | insert | in subparagraph (D), by inserting “student” after “comprehensive”; and | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1087-58` | redesignate | by redesignating subparagraphs (A) through (F) as subparagraphs (B) through (G), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1087-58` | redesignate | by inserting before subparagraph (B), as redesignated by clause (i), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1087-51` | add-at-end | Part C of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087–51 et seq.), as amended by this part, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1087-51` | add-at-end | Part C of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087–51 et seq.), as amended by this part, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087a` | insert | by inserting “; and (3) to make loans under section 460A and section 460B” after “section 459A”. | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1087e` | replace | in subparagraph (A), in the matter preceding clause (i), by striking “subparagraph (B)” and inserting “subparagraphs (B) and (C)”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1087e` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1087e` | insert | Section 455(b)(8)(B) of the Higher Education Act of 1965 (20 U.S.C. 1087e(b)(8)(B)) is amended by inserting “and Federal Direct Stafford Loans” after “Federal Direct Unsubsidized Stafford Loans”. | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1087e` | repeal | Subsection (c) of section 455 of the Higher Education Act of 1965 (20 U.S.C. 1087e(c)) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087e` | redesignate | by redesignating paragraphs (2) through (5) as paragraphs (3) through (6), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087e` | insert | by inserting after paragraph (1), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2725,7 +2905,9 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1087e` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087e` | insert | by inserting “, consistent with the procedures established under paragraph (9)(B)(iv)” before the period at the end; and | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 6012` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1087e` | amend | Subparagraph (B) of section 455(f)(1) of the Higher Education Act of 1965 (20 U.S.C. 1087e(f)(1)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1087e` | insert | in the subsection heading, by inserting at the end the following: “and forbearance”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1087e` | amend | by amending subparagraph (B) of paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1087e` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087e` | replace | by striking “A borrower” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `34 U.S.C. § 12291` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087e` | repeal | Subsection (q) of section 455 of the Higher Education Act of 1965 (20 U.S.C. 1087e) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2733,13 +2915,14 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1087e` | strike | in clause (iv), by striking “and”; and | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1087e` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087e` | add-at-end | in paragraph (2), by adding at the end the following: “In the case of a borrower who meets the requirements under paragraph (1) for such cancellation, such cancellation shall occur without further action by the borrower.”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1087e` | redesignate | by redesignating paragraphs (3) and (4) as paragraphs (9) and (10), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1087e` | redesignate | by redesignating paragraphs (3) and (4) as paragraphs (6) and (7), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087e` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087e` | insert | by inserting before the period at the end the following: “(including any Federal Direct Stafford Loan, Federal Direct PLUS Loan, Federal Direct Unsubsidized Stafford Loan, or Federal Direct Consolidation Loan refinanced under section 460… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087e` | replace | by striking “The term” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1087e` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087e` | strike | in clause (i), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
-| `20 U.S.C. § 1087e` | replace | in clause (ii), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1087e` | replace | by striking “teaching as” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 1087e` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087e` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087e` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087a` | insert | Part D of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq.) is amended by inserting after section 455 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2754,7 +2937,8 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1087cc` | insert | in paragraph (3)(A), by inserting “before July 1, 2021” after “students”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1087cc` | amend | by amending subsection (b) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087cc` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1087dd` | insert | in subsection (b)(1), by inserting “made before July 1, 2021,” after “A loan”; | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1087dd` | insert | in paragraph (1), by inserting “made before July 1, 2021,” after “A loan”; and | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1087dd` | insert | in paragraph (2), by inserting “(with respect to a loan made before July 1, 2021) or an allocation under section 462A (with respect to a loan made on or after July 1, 2021)” after “capital contribution under section 462”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1087dd` | insert | in paragraph (1), by inserting “made before July 1, 2021,” after “a loan”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1087dd` | insert | in subparagraph (A), by inserting “made before July 1, 2021,” after “any loan”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1087dd` | insert | in subparagraph (B), by inserting “made before July 1, 2021,” after “any loan”; | the bill quotes the text inserted but describes where it goes |
@@ -2763,6 +2947,7 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1087dd` | insert | in paragraph (6), by inserting “made before July 1, 2021,” after “of loans”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1087dd` | insert | in subsection (d), by inserting “made before July 1, 2021,” before “from the student loan fund”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1087dd` | insert | in subsection (e), by inserting “with respect to loans made before July 1, 2021, and” before “as documented in accordance with paragraph (2),”; | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1087dd` | insert | in subsection (f)(1), by inserting “before July 1, 2021” after “this part”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1087dd` | insert | in subsection (g)(1), by inserting “and before July 1, 2021,” after “January 1, 1986,”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1087dd` | insert | in paragraph (1)(A) by inserting “before July 1, 2021,” after “made under this part”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1087dd` | insert | in paragraph (2), by inserting “before July 1, 2021,” after “under this part”; and | the bill quotes the text inserted but describes where it goes |
@@ -2770,9 +2955,10 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1087ee` | insert | in subsection (a), by inserting “and before July 1, 2021,” after “June 30, 1972,”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1087ee` | amend | by amending subsection (b) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087ff` | amend | Section 466 of the Higher Education Act of 1965 (20 U.S.C. 1087ff) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1087mm` | insert | in subparagraph (C), by inserting “in the case of a student whose parent or guardian is described in clause (i) or (ii) of subparagraph (B),” before “who”. | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1087nn` | insert | Section 474(b) of the Higher Education Act of 1965 (20 U.S.C. 1087nn(b)) is amended in paragraph (4), by inserting before “the net” the following: “only in the case of a pathway three applicant,”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087oo` | insert | in subsection (a)(3), by inserting before “the student” the following: “only in the case of a pathway three applicant,”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1087oo` | insert | in subsection (b)(1)(B), by inserting before “the parents” the following: “only in the case of a pathway three applicant,”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1087oo` | insert | in subsection (b)(1)(B), by inserting before “the parents’” the following: “only in the case of a pathway three applicant,”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087oo` | amend | Section 475(g)(2)(D) of the Higher Education Act of 1965 (20 U.S.C. 1087oo(g)(2)(D)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087pp` | insert | Section 476(a)(1)(B) of the Higher Education Act of 1965 (20 U.S.C. 1087pp(a)(1)(B)) is amended by inserting before “the family’s contribution” the following: “only in the case of a pathway three applicant,”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087pp` | amend | by amending subsection (b)(1)(A)(iv) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2801,29 +2987,33 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1088` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 5304` | strike | by striking subparagraph (B); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 5304` | redesignate | by redesignating subparagraph (C) as subparagraph (B); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 5304` | strike | in subparagraph (A), by striking the end sentence; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 5304` | strike | in subparagraph (A), by striking the last sentence; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 5304` | redesignate | by striking subparagraph (B), and redesignating subparagraphs (C) through (H) as subparagraphs (B) through (G), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 5304` | replace | by striking “The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `25 U.S.C. § 5304` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 5304` | strike | in subparagraph (A), by striking clause (iv); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 5304` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 5304` | replace | by striking “; and” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
 | `25 U.S.C. § 5304` | strike | by striking clause (ii); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 5304` | redesignate | by striking subparagraphs (D) through (F), and redesignating subparagraph (G) as subparagraph (D); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 5304` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1090` | strike | in subsection (c), by striking the last sentence; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1090` | strike | in subparagraph (A), by striking “and EZ FAFSA”; and | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1090` | strike | in subparagraph (B), by striking “and EZ FAFSA”; | the bill quotes the text struck but describes what replaces it |
-| `20 U.S.C. § 1090` | strike | in paragraph (3) by striking “or, as appropriate, an EZ FAFSA”; and | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 1090` | strike | in paragraph (3) by striking “or, as appropriate, an EZ FAFSA,”; and | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1090` | strike | in paragraph (5)(D), by striking “or, as appropriate, an EZ FAFSA,”; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1090` | amend | by amending subsection (f) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1090` | repeal | by repealing subsection (g); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1090` | redesignate | by redesignating subsection (h) as subsection (g); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 11434a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1091` | amend | Section 484(a) of the Higher Education Act of 1965 (20 U.S.C. 1091(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1091` | redesignate | by redesignating subparagraph (B) as subparagraph (C); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1091` | insert | by inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1091` | repeal | by repealing subsection (n); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1091` | redesignate | by redesignating subsections (o) through (q) as subsections (n) through (p), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1091` | add-at-end | Section 484 of the Higher Education Act of 1965 (20 U.S.C. 1091), as amended by subsection (b), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1091` | redesignate | Section 484 of the Higher Education Act of 1965 (20 U.S.C. 1091), as amended by this section, is further amended by adding after subsection (p), as redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1091` | repeal | Subsection (r) of section 484 of the Higher Education Act of 1965 (20 U.S.C. 1091(r)) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1091a` | amend | Section 484A(a) of the Higher Education Act of 1965 (20 U.S.C. 1091a(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1091a` | replace | Section 484A(b)(1) of the Higher Education Act of 1965 (20 U.S.C. 1091a(b)(1)) is amended by striking “collection costs;” and inserting “collection costs that— | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1092` | strike | in subparagraph (U), by striking the “and” at the end; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1092` | replace | in subparagraph (V), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2011` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2837,7 +3027,7 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1092` | insert | by inserting “online or” before “in writing”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1092` | amend | by adding before the period at the end the following: “, except that in the case of an institution using the online counseling tool described in subsection (n)(1)(A), the Secretary shall attempt to provide such information to the student… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1092` | insert | in paragraph (2)(C), by inserting “, such as the online counseling tool described in subsection (n)(1)(A),” after “electronic means”. | the bill quotes the text inserted but describes where it goes |
-| `20 U.S.C. § 1092` | insert | in the matter preceding subparagraph (A), by inserting “(including on a prominent location on the institution’s website)” after “publish”; and | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1092` | insert | in the matter preceding subparagraph (A), by inserting “(including on a prominent location on the institution’s website)” after “publish”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1092` | strike | in clause (i), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1092` | strike | in clause (ii), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1092` | replace | in clause (iii), by striking the period at the end and inserting “;”; and | the bill quotes the text inserted but describes where it goes |
@@ -2850,9 +3040,9 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1092` | redesignate | by redesignating paragraphs (9) through (18) as paragraphs (10) through (19), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1092` | insert | by inserting after paragraph (8) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1092` | strike | by striking “in the same amount and”; and | the bill quotes the text struck but describes what replaces it |
-| `20 U.S.C. § 1092` | insert | by inserting before the period at the end the following: “, expect that such section shall be applied by substituting $100,000 for $25,000”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1092` | insert | by inserting before the period at the end the following: “, expect that such section shall be applied by substituting $100,000 for $60,000”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1092` | redesignate | in paragraph (17), as redesignated by subsection (b), by adding “sexual harassment,” after “sexual assault,”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1092` | redesignate | by redesignating paragraphs (19) and (20) as so redesignated as paragraphs (20) and (21), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1092` | redesignate | by redesignating paragraphs (18) and (19) as so redesignated as paragraphs (19) and (20), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1092` | insert | by inserting after paragraph (17) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1092` | insert | by inserting “on the website of the institution and in at least one other relevant publication (such as a course catalogue)” after “publicly disclose”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1092` | insert | by inserting “, easy to find,” after “readable”; and | the bill quotes the text inserted but describes where it goes |
@@ -2863,17 +3053,26 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1092` | amend | Section 485(l) of the Higher Education Act of 1965 (20 U.S.C. 1092(l)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1092` | add-at-end | Section 485 of the Higher Education Act of 1965 (20 U.S.C. 1092), as amended by this section, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1092` | add-at-end | Section 485 of the Higher Education Act of 1965 (20 U.S.C. 1092), as amended by this section, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1092` | add-at-end | Section 485 of the Higher Education Act of 1965 (20 U.S.C. 1092), as amended by this section, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1092` | add-at-end | Section 485 of the Higher Education Act of 1965 (20 18 U.S.C. 1092), as amended by this section, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1092b` | redesignate | by redesignating subsections (e) through (h) as subsections (f) through (i), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1092b` | strike | in paragraph (5)(C), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 1092b` | replace | in paragraph (6)(C), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1092b` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1092b` | insert | by inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1092b` | redesignate | by redesignating subparagraphs (C) and (D) as subparagraphs (D) and (E), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1092b` | insert | by inserting after subparagraph (B) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1092b` | redesignate | by striking subparagraph (E), as redesignated by subparagraph (B), and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1088` | insert | Part G of title IV of the Higher Education Act of 1965 (20 U.S.C. 1088 et seq.), as amended by the preceding sections, is further amended by inserting after section 485E (20 U.S.C. 1092f) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1088` | insert | Part G of title IV of the Higher Education Act of 1965 (20 U.S.C. 1088 et seq.), as amended by the preceding sections, is further amended by inserting after section 486A (20 U.S.C. 1093a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1088` | insert | Part G of title IV of the Higher Education Act of 1965 (20 U.S.C. 1088 et seq.), as amended by the preceding sections, is further amended by inserting after section 486B (as added by section 4613 of this Act) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1088` | insert | Part G of title IV of the Higher Education Act of 1965 (20 U.S.C. 1088 et seq.) is amended by inserting after section 486C (as added by section 4614 of this Act) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1088` | insert | Part G of title IV of the Higher Education Act of 1965 (20 U.S.C. 1088 et seq.), as amended by the preceding sections, is further amended by inserting after section 486B (as added by section 4614 of this Act) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1088` | insert | Part G of title IV of the Higher Education Act of 1965 (20 U.S.C. 1088 et seq.) is amended by inserting after section 486C (as added by section 4615 of this Act) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1094` | add-at-end | Section 487(a)(14) of the Higher Education Act of 1965 is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1094` | amend | Paragraph (17) of section 487(a) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1094` | replace | by striking “The institution will not” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1094` | insert | by inserting “housing facilities,” after “libraries,”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1094` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1094` | strike | Section 487(a)(23)(A) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)(23)(A)) is amended by striking “, if located in a state to which section (4)(b) of the National Voter Registration Act of 1993 (42 U.S.C. 1973gg–2(b)) does not … | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 1094` | strike | Section 487(a)(23)(A) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)(23)(A)) is amended by striking “, if located in a State to which section 4(b) of the National Voter Registration Act of 1993 (42 U.S.C. 1973gg–2(b)) does not ap… | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 1094` | repeal | Subsections (a)(24) and (d)(2) of section 487 the Higher Education Act of 1965 (20 U.S.C. 1094) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1094` | add-at-end | Section 487(a) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1094` | add-at-end | Section 487(a) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)), as amended by the preceding sections, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1094` | add-at-end | Section 487(a) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)), as amended by the preceding sections, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2881,10 +3080,16 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1094` | add-at-end | Section 487(a) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1094` | add-at-end | Section 487(a) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1094` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1094` | strike | in subclause (II), by striking “or”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1094` | amend | in subclause (III), by adding “or” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1094` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1094` | insert | in subparagraph (D)(ii), by inserting “(including any financing or credit instrument of which the institution was a holder or guarantor)” after “proprietary institution of higher education”; | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1094` | insert | in the matter preceding subparagraph (A), by inserting “and make publicly available” after “committees”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1094` | amend | Section 487(f)(2) of the Higher Education Act of 1965 (20 U.S.C. 1094(f)(2)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1094a` | amend | Section 487A of the Higher Education Act of 1965 (20 U.S.C. 1094a) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1096` | strike | in the second sentence, by striking “or under part E of this title”; and | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1096` | insert | by inserting “and” after “subpart 3 of part A,”; and | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1097` | add-at-end | Section 490 (20 U.S.C. 1097) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1098a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1098e` | strike | by striking “or” at the end of clause (iv); and | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1098e` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2894,7 +3099,7 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1098e` | replace | by striking “The Secretary shall establish” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1098e` | replace | by striking “The Secretary shall consider” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1098e` | replace | by striking “428C(b)(1)(E).” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `20 U.S.C. § 1098e` | add-at-end | Section 493C of the Higher Education Act of 1965 (20 U.S.C. 1098e) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1098e` | add-at-end | Section 493C of the Higher Education Act of 1965 (20 U.S.C. 1098e) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1088` | add-at-end | Part G of title IV of the Higher Education Act of 1965 (20 U.S.C. 1088 et seq.) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1088` | add-at-end | Part G of title IV of the Higher Education Act of 1965 (20 U.S.C. 1088 et seq.), as amended by this part, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1088` | add-at-end | Part G of title IV of the Higher Education Act of 1965 (20 U.S.C. 1088 et seq.), as amended by the preceding sections, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2905,14 +3110,14 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1099a` | strike | by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1099a` | replace | in paragraph (3), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1099a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1099b` | strike | in subparagraph (A), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
-| `20 U.S.C. § 1099b` | insert | in subparagraph (B)(ii), by inserting “and” after the semicolon; and | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1099b` | strike | in subparagraph (A), by striking “and” after the semicolon; and | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1099b` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1099b` | add-at-end | Section 496(a)(4) of the Higher Education Act of 1965 (20 U.S.C. 1099b(a)(4)) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1099b` | insert | in paragraph (3)(A), by inserting before the semicolon at the end the following: “, and any institution described in clauses (i) through (v) of subsection (b)(1)(B)”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1099b` | replace | in paragraph (5), by striking subparagraphs (A) through (J) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1099b` | redesignate | by redesignating paragraphs (6) through (8) as paragraphs (7) through (9), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1099b` | insert | by inserting after paragraph (5) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1099b` | redesignate | by amending paragraph (9), as so redesignated, to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1099b` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1099b` | replace | by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1099b` | insert | by inserting “and decline” after “the growth”; and | the bill quotes the text inserted but describes where it goes |
@@ -2923,7 +3128,7 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1099b` | replace | in paragraph (9), by striking the period at the end and inserting “; and”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1099b` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1099b` | add-at-end | in subsection (m), by adding at the end the following: “Nothing in this section shall prohibit the Secretary from implementing a process of recognition under this section which differs for the accrediting agencies or associations describ… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1099b` | insert | in the second sentence of the matter preceding subparagraph (A), by inserting before the period the following: “, which shall include information on at least one institution of higher education representing each of the sectors (including… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1099b` | insert | in the second sentence of the matter preceding subparagraph (A), by inserting before the period the following: “, which shall include information on at least one institution of higher education representing each of the sectors subject to… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1099b` | insert | in subparagraph (A), by inserting before the semicolon the following: “, and for purposes of facilitating such third-party information, the Secretary shall make publicly available the application of the accrediting agency or association … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1099b` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1099b` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2933,6 +3138,8 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1099c` | strike | in subparagraph (B), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1099c` | replace | in subparagraph (C), by striking the period at the end and inserting “; and” ; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1099c` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1099c` | redesignate | by redesignating subparagraphs (C) and (D) as subparagraphs (D) and (E), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1099c` | insert | by inserting after subparagraph (B) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1099c` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1099c` | strike | in subparagraph (E), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1099c` | replace | in subparagraph (F), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
@@ -2942,12 +3149,12 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1099c-1` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1099a` | add-at-end | Part H of title IV of the Higher Education Act of 1965 (20 U.S.C. 1099a et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1070` | add-at-end | Title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1070` | add-at-end | Part I of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.), as added by section 4801, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1070` | add-at-end | Part I of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.), as added by section 4801, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1070` | add-at-end | Part I of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.), as added by section 4801, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1070` | add-at-end | Subpart 4 of part I of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.), as added by section 4804, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1070` | add-at-end | Subpart 4 of part I of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.), as added by section 4804, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1070` | add-at-end | Subpart 4 of part I of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.), as added by section 4804, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1070` | add-at-end | Part J of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.), as added by section 4801, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1070` | add-at-end | Part J of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.), as added and amended by this part, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1070` | add-at-end | Part J of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.), as added and amended by this part, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1070` | add-at-end | Subpart 4 of part J of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.), as added and amended by this part, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1070` | add-at-end | Subpart 4 of part J of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.), as added and amended by this part, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1070` | add-at-end | Subpart 4 of part J of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.), as added and amended by this part, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1101b` | redesignate | by redesignating paragraph (16) as paragraph (17); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1101b` | insert | by inserting after paragraph (15) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1101b` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2990,17 +3197,18 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1140q` | amend | Section 777 of the Higher Education Act of 1965 (20 U.S.C. 1140q) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1140r` | repeal | Section 778 of the Higher Education Act of 1965 (20 U.S.C. 1140r) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1133` | add-at-end | Title VII of the Higher Education Act of 1965 (20 U.S.C. 1133 et seq.) is further amended by adding at the end the following new part: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1161b` | amend | Part B of title VIII of the Higher Education Act of 1965 (20 U.S.C. 1161b) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1161f` | amend | Subparagraph (C) of section 806(f)(1) (20 U.S.C. 1161f(f)(1)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1161g` | amend | Subsection (f) of section 807 (20 U.S.C. 1161g) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1161a` | repeal | Title VIII of the Higher Education Act of 1965 (20 U.S.C. 1161a et seq.) is amended by repealing the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1161b` | amend | is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1161f` | amend | Subparagraph (C) of section 806(f)(1) of the Higher Education Act of 1965 (20 U.S.C. 1161f(f)(1)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1161g` | amend | Subsection (f) of section 807 of the Higher Education Act of 1965 (20 U.S.C. 1161g) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 2201` | redesignate | by redesignating paragraphs (1), (2), (3), and (4), as paragraphs (2), (4), (5), and (6), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 2201` | redesignate | by inserting before paragraph (2), as redesignated by subparagraph (A), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 2201` | redesignate | by inserting after paragraph (2), as redesignated by subparagraph (A), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1161j` | insert | by inserting “create or” after “to enable the eligible partnership to”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1161j` | insert | by inserting “Native American” after “the development of”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1161j` | strike | by striking “, including existing programs for Alaska Native and Native Hawaiian students”; | the bill quotes the text struck but describes what replaces it |
-| `20 U.S.C. § 1161q` | amend | Subsection (g) of section 861 (20 U.S.C. 1161q) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1161a` | replace | Title VIII (20 U.S.C. 1161a et seq.) is amended by striking part T (20 U.S.C. 1161t) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1161q` | amend | Subsection (g) of section 861 of the Higher Education Act of 1965 (20 U.S.C. 1161q) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12101` | amend | is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1161u` | replace | by striking paragraph (1) and inserting: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1161u` | replace | by striking paragraph (3)(B) and inserting: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1161u` | insert | by inserting “in alignment with local community needs” after “following purposes”; | the bill quotes the text inserted but describes where it goes |
@@ -3008,10 +3216,10 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1161u` | insert | by inserting “resilience, green workforce,” after “transportation,”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1161u` | insert | in subparagraph (G), by inserting “economics, law, political science,” after “business,”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1161u` | insert | in subparagraph (C), by inserting “city and State governments,” after “business,”; | the bill quotes the text inserted but describes where it goes |
-| `20 U.S.C. § 1161v` | replace | Subsection (e) of section 891 (20 U.S.C. 1161v) is amended, in the matter preceding paragraph (1), by striking the first sentence and inserting the following: “There is authorized to be appropriated to carry out this section $75,000,000 … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1161v` | replace | Subsection (e) of section 891 of the Higher Education Act of 1965 (20 U.S.C. 1161v) is amended, in the matter preceding paragraph (1), by striking the first sentence and inserting the following: “There is authorized to be appropriated to… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1161aa-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1161a` | add-at-end | Title VIII (20 U.S.C. 1161a et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1161a` | repeal | Title VIII of the Higher Education Act of 1965 (20 U.S.C. 1161a et seq.), as amended by this title, is further amended by repealing the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1161a` | add-at-end | Title VIII (20 U.S.C. 1161a et seq.) of the Higher Education Act of 1965, as amended by the preceding provisions of this title, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1161a` | add-at-end | Title VIII (20 U.S.C. 1161a et seq.) of the Higher Education Act of 1965, as amended by the preceding provisions of this title, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 4304` | amend | Section 104(b)(5) of the Education of the Deaf Act of 1986 (20 U.S.C. 4304(b)(5)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 4357` | strike | in subsection (e), by striking “(and its non-Federal match)”; and | the bill quotes the text struck but describes what replaces it |
 | `25 U.S.C. § 1801` | amend | in paragraph (7), by adding “and” at the end; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -3030,7 +3238,7 @@ complete account of the bill's effect, which it is not.
 | `25 U.S.C. § 1852` | repeal | Section 403 of the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1852) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 1864` | repeal | Section 504 of the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1864) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 1804a` | amend | Section 104 of the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1804a) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 1807` | insert | in subsection (d), by inserting “higher education” after “national Indian” both places it appears. | the bill quotes the text inserted but describes where it goes |
+| `25 U.S.C. § 1807` | insert | in subsection (d), by inserting “higher education” after “national Indian”. | the bill quotes the text inserted but describes where it goes |
 | `25 U.S.C. § 1808` | replace | by striking subsection (a)(2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 1812` | amend | Section 112 of the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1812) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 1813` | redesignate | by redesignating subsections (d) through (f) as subsections (e) through (g), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
