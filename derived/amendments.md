@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5191
 congress: 116
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-136 amendatory instructions. 51 executed, 85 stated and not applied.
+135 amendatory instructions. 53 executed, 82 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,12 +26,12 @@ to guess them.
 
 ### 34 U.S.C. § 11201
 
-> in paragraph (1), by striking “share of, serious health, behavioral, and emotional problems” and inserting “share of, trauma, serious health, behavioral, social, and emotional problems, and substance use disorder,”;
+> in paragraph (1), by striking “share of, serious health, behavioral, and emotional problems” and inserting “share of, trauma, serious health, behavioral, social, and emotional problems, and substance use disorder”;
 
 | | |
 |---|---|
 | Removed | `share of, serious health, behavioral, and emotional problems` |
-| Inserted | `share of, trauma, serious health, behavioral, social, and emotional problems, and substance use disorder,` |
+| Inserted | `share of, trauma, serious health, behavioral, social, and emotional problems, and substance use disorder` |
 
 ### 34 U.S.C. § 11201
 
@@ -53,12 +53,12 @@ to guess them.
 
 ### 34 U.S.C. § 11201
 
-> by striking “between the Federal programs that serve runaway and homeless youth are” and inserting “at the Federal level”; and
+> by striking “between the Federal programs that serve runaway and homeless youth are” and inserting “at the Federal level is”; and
 
 | | |
 |---|---|
 | Removed | `between the Federal programs that serve runaway and homeless youth are` |
-| Inserted | `at the Federal level` |
+| Inserted | `at the Federal level is` |
 
 ### 34 U.S.C. § 11211
 
@@ -71,7 +71,7 @@ to guess them.
 
 ### 34 U.S.C. § 11211
 
-> by striking “and operate” and inserting “, operate, and maintain”;
+> by striking “and operate” and inserting “, operate, and maintain”; and
 
 | | |
 |---|---|
@@ -80,12 +80,12 @@ to guess them.
 
 ### 34 U.S.C. § 11211
 
-> by striking “services” and all that follows through the period at the end and inserting “safe shelter and services, including trauma-informed services, for runaway and homeless youth and, if appropriate, services for the families of such youth, including (if appropriate) individuals identified by such youth as family.”; and
+> by striking “services” and all that follows through the period at the end and inserting “safe shelter and services, including trauma-informed services, for runaway and homeless youth and, if appropriate, services for the families of such youth, including (if appropriate) individuals identified by such youth as family. Grants shall be awarded for a 5-year period.”; and
 
 | | |
 |---|---|
 | Removed | `services` |
-| Inserted | `safe shelter and services, including trauma-informed services, for runaway and homeless youth and, if appropriate, services for the families of such youth, including (if appropriate) individuals identified by such youth as family.` |
+| Inserted | `safe shelter and services, including trauma-informed services, for runaway and homeless youth and, if appropriate, services for the families of such youth, including (if appropriate) individuals identified by such youth as family. Grants shall be awarded for a 5-year period.` |
 
 ### 34 U.S.C. § 11211
 
@@ -107,7 +107,7 @@ to guess them.
 
 ### 20 U.S.C. § 1087vv
 
-> in paragraph (2), by striking “facility” and inserting “project”;
+> in paragraph (2), by striking “facility” the 1st place it appears and inserting “project”;
 
 | | |
 |---|---|
@@ -287,12 +287,12 @@ to guess them.
 
 ### 20 U.S.C. § 1087vv
 
-> by striking “and assault” and inserting “sexual exploitation,”; and
+> by striking “assault” and inserting “ sexual exploitation”; and
 
 | | |
 |---|---|
-| Removed | `and assault` |
-| Inserted | `sexual exploitation,` |
+| Removed | `assault` |
+| Inserted | `sexual exploitation` |
 
 ### 20 U.S.C. § 1087vv
 
@@ -311,6 +311,15 @@ to guess them.
 |---|---|
 | Removed | `$100,000` |
 | Inserted | `$200,000` |
+
+### 34 U.S.C. § 11245
+
+> by striking “Reconnecting Homeless Youth Act of 2008” and inserting “Runaway and Homeless Youth and Trafficking Prevention Act of 2019”;
+
+| | |
+|---|---|
+| Removed | `Reconnecting Homeless Youth Act of 2008` |
+| Inserted | `Runaway and Homeless Youth and Trafficking Prevention Act of 2019` |
 
 ### 34 U.S.C. § 11245
 
@@ -377,12 +386,12 @@ to guess them.
 
 ### 34 U.S.C. § 11272
 
-> in subsection (a), in the matter preceding paragraph (1), by striking “facilities” and inserting “projects”.
+> in subsection (a), in the matter preceding paragraph (1), by striking “youth shelter facilities” and inserting “youth shelter projects”.
 
 | | |
 |---|---|
-| Removed | `facilities` |
-| Inserted | `projects` |
+| Removed | `youth shelter facilities` |
+| Inserted | `youth shelter projects` |
 
 ### 34 U.S.C. § 11273
 
@@ -429,6 +438,15 @@ to guess them.
 | Removed | `3` |
 | Inserted | `5` |
 
+### 34 U.S.C. § 11278
+
+> Section 386A(a) (34 U.S.C. 11278(a)) is amended by striking “Reconnecting Homeless Youth Act of 2008” and inserting “Runaway and Homeless Youth and Trafficking Prevention Act of 2019”.
+
+| | |
+|---|---|
+| Removed | `Reconnecting Homeless Youth Act of 2008` |
+| Inserted | `Runaway and Homeless Youth and Trafficking Prevention Act of 2019` |
+
 ### 34 U.S.C. § 11279
 
 > in clause (i), by striking “21” and inserting “26”; and
@@ -449,11 +467,11 @@ to guess them.
 
 ### 34 U.S.C. § 11279
 
-> in paragraph (7)(B) (as so redesignated), by striking “prostitution or drug abuse.” and inserting “trafficking in persons, sex trafficking, or substance use disorder”;
+> in paragraph (7)(B) (as so redesignated), by striking “prostitution, or drug abuse” and inserting “trafficking in persons, sex trafficking, or substance use disorder”;
 
 | | |
 |---|---|
-| Removed | `prostitution or drug abuse.` |
+| Removed | `prostitution, or drug abuse` |
 | Inserted | `trafficking in persons, sex trafficking, or substance use disorder` |
 
 ### 34 U.S.C. § 11280
@@ -498,9 +516,8 @@ complete account of the bill's effect, which it is not.
 | `34 U.S.C. § 11201` | redesignate | in paragraph (4)(E), as redesignated by paragraph (3), by inserting “and peer” before “relationships”; | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 11201` | insert | by inserting “a safe place to live, connection to caring adults, and” after “youth need”; and | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 11201` | strike | by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `34 U.S.C. § 11201` | replace | by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `34 U.S.C. § 11201` | replace | by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 11201` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `34 U.S.C. § 11211` | insert | by inserting “Grants shall be awarded for a 5-year period.” after “by such youth as family.”; and | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 11211` | replace | by striking subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 11211` | replace | by striking clause (ii) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 11211` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -547,7 +564,6 @@ complete account of the bill's effect, which it is not.
 | `34 U.S.C. § 11243` | strike | in paragraph (9), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `34 U.S.C. § 11243` | replace | in paragraph (10), by striking the period and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 11243` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `34 U.S.C. § 11245` | insert | by inserting “and the Runaway and Homeless Youth and Trafficking Prevention Act of 2019,” after “2008,”; | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 11245` | insert | by inserting “of Health and Human Services, acting through the Associate Commissioner of the Family and Youth Services Bureau” after “Secretary”; | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 11245` | strike | by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `34 U.S.C. § 11245` | replace | in paragraph (2), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -559,12 +575,11 @@ complete account of the bill's effect, which it is not.
 | `34 U.S.C. § 11261` | insert | by inserting “public and” before “nonprofit”; and | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 11261` | amend | by amending subsection (b) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 11261` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `34 U.S.C. § 11272` | insert | by inserting “, Sites,” after “Centers”; and | the bill quotes the text inserted but describes where it goes |
+| `34 U.S.C. § 11272` | insert | by inserting “, sites,” after “centers”; and | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 11273` | redesignate | by redesignating subparagraphs (B) through (D) as subparagraphs (C) through (E), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 11273` | insert | by inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 11273` | replace | by striking subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `34 U.S.C. § 11277` | insert | by inserting “, acting through the Associate Commissioner of the Family and Youth Services Bureau,” after “Secretary”. | the bill quotes the text inserted but describes where it goes |
-| `34 U.S.C. § 11278` | insert | Section 386A(a) (34 U.S.C. 11278(a)) is amended by inserting “and the date of enactment of the Runaway and Homeless Youth and Trafficking Prevention Act of 2019” after “2008”. | the bill quotes the text inserted but describes where it goes |
+| `34 U.S.C. § 11277` | insert | by inserting “, acting through the Associate Commissioner of the Family and Youth Services Bureau” after “Secretary”. | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 11278` | insert | Part F is amended by inserting after section 386A (34 U.S.C. 11278) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 11279` | redesignate | by redesignating paragraphs (1) through (6), and paragraphs (7) and (8), as paragraphs (2) through (7), and paragraphs (9) and (10), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 11279` | insert | by inserting before paragraph (2), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
