@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9051
 congress: 116
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 9051
@@ -39,3 +39,5 @@ CASH Act of 2020
 - 2020-12-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 275 - 134 (Roll no. 252).
 - 2020-12-28 — Referred to the Committee on Ways and Means, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2020-12-28 — Referred to the Committee on Ways and Means, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2020-12-29 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2020-12-30 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 645.
