@@ -1,0 +1,17 @@
+---
+legis-num: H. RES. 1273
+congress: 116th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 1273
+
+> Nullifying the impeachment of Donald John Trump.
+
+## Preamble
+
+- Whereas the U.S. Constitution states that “The President, Vice President and all civil Officers of the United States, shall be removed from Office on Impeachment for, and conviction of, Treason, Bribery, or other high Crimes and Misdemeanors”; and
+- Whereas President Donald J. Trump committed no such impeachable offense and has been exonerated and acquitted after a baseless, unconstitutional sham impeachment: Now, therefore, be it
+
+That the impeachment of Donald John Trump, President of the United States, is nullified, as if such impeachment had not occurred, due to a lack of a constitutional basis for such impeachment, the House of Representatives having failed to substantiate its allegations of Treason, Bribery, or other high Crimes and Misdemeanors, which is required by the United States Constitution.
