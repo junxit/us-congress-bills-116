@@ -1,7 +1,7 @@
 ---
 measure: S. 5086
 congress: 116
-version: Considered and Passed Senate
+version: Engrossed in Senate
 ---
 
 # S. 5086
