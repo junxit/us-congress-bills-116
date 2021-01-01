@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 406
 congress: 116
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 406
@@ -16,11 +16,12 @@ A resolution recognizing that for 50 years, the Association of South East Asian 
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Sen. Risch, James E. [R-ID] (R000584)
 - Sen. Markey, Edward J. [D-MA] (M000133)
 - Sen. Gardner, Cory [R-CO] (G000562)
+- Sen. Merkley, Jeff [D-OR] (M001176)
 
 ## Committees (1)
 
@@ -34,3 +35,13 @@ A resolution recognizing that for 50 years, the Association of South East Asian 
 - 2020-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2020-06-03 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2020-06-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 466.
+- 2021-01-01 — Amendment SA 2735 agreed to in Senate by Unanimous Consent.
+- 2021-01-01 — Amendment SA 2735 proposed by Senator Boozman for Senator Menendez. (consideration: CR S8010-8011; text: CR S8010-8011) To make a technical correction to the preamble.
+- 2021-01-01 — Measure laid before Senate by unanimous consent. (consideration: CR S8009-8011)
+- 2021-01-01 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(text: CR S8009-8010)
+- 2021-01-01 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (text: CR S8009-8010)
+- 2021-01-01 — Senate amendment agreed to: Amendment SA 2735 agreed to in Senate by Unanimous Consent.
+- 2021-01-01 — Senate amendment proposed (on the floor): Amendment SA 2735 proposed by Senator Boozman for Senator Menendez.
+- 2021-01-01 — Senate amendment submitted
+- 2021-01-01 — The committee amendment to the preamble as amended agreed to by Unanimous Consent. (CR S8010)
+- 2021-01-01 — The committee substitute agreed to by Unanimous Consent.
